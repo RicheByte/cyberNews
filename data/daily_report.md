@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-17 20:19 UTC  
+> **Last Updated:** 2025-12-17 22:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**five cybersecurity predictions** • **mass creating fake** • **50 000 downloads** • **prolific cybercriminal group** • **windows operating systems** • **twitter whistleblower complaint** • **malicious cyber actors** • **life events neurodiversity** • **firefox addon logos** • **campaign dubbed ghostpairing** • **real life identity** • **got1000 series devices** • **ghostposter malware found** • **another botnet known** • **offer unlimited access** • **gain initial access** • **broader cybersecurity community** • **firefox web browser** • **unpaid toll fee** • **supposed wayward package**
+**access management iam** • **five cybersecurity predictions** • **mass creating fake** • **50 000 downloads** • **prolific cybercriminal group** • **windows operating systems** • **twitter whistleblower complaint** • **life events neurodiversity** • **enable cryptocurrency mining** • **got1000 series devices** • **offer unlimited access** • **gain initial access** • **another botnet known** • **broader cybersecurity community** • **malicious cyber actors** • **ghostposter malware found** • **unpaid toll fee** • **supposed wayward package** • **state owned oil** • **spring cyberattacks focused**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Amazon: Ongoing cryptomining campaign uses hacked AWS accounts](https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/)
 - [WhatsApp device linking abused in account hijacking attacks](https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/)
 - [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
 - [Sonicwall warns of new SMA1000 zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/)
@@ -34,7 +35,6 @@
 - [Your MFA Is Costing You Millions. It Doesn't Have To.](https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/)
 - [Microsoft asks admins to reach out for Windows IIS failures fix](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/)
 - [Cellik Android malware builds malicious versions from Google Play apps](https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/)
-- [GhostPoster attacks hide malicious JavaScript in Firefox addon logos](https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- ['Cellik' Android RAT Leverages Google Play Store](https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store)
 - [Attackers Use Stolen AWS Credentials in Cryptomining Campaign](https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining)
 - [Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation](https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation)
 - [Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps](https://www.darkreading.com/threat-intelligence/why-17-year-old-built-ai-expose-deepfake-maps)
@@ -56,7 +57,6 @@
 - [Venezuelan Oil Company Downplays Alleged US Cyberattack](https://www.darkreading.com/cyber-risk/venezuela-oil-company-downplays-alleged-us-cyberattack)
 - [Russia Hits Critical Orgs Via Misconfigured Edge Devices](https://www.darkreading.com/endpoint-security/russian-apt-attacking-critical-orgs-around-world)
 - [Browser Extension Harvests 8M Users' AI Chatbot Data](https://www.darkreading.com/endpoint-security/chrome-extension-harvests-ai-chatbot-data)
-- [Enterprises Gear Up Ahead of 2026's IT Transformation Shift](https://www.darkreading.com/cybersecurity-operations/enterprises-gear-up-for-2026-s-it-transformation)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Mitsubishi Electric GT Designer3](https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-04)
-- [CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-releases-seven-industrial-control-systems-advisories)
+- [CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-releases-seven-industrial-control-systems-advisories)
 - [Hitachi Energy AFS, AFR and AFF Series](https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-03)
 - [Johnson Controls PowerG, IQPanel and IQHub](https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-02)
 - [Güralp Systems Fortimus Series, Minimus Series, and Certimus Series](https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-01)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/12/cisa-adds-one-known-exploited-vulnerability-catalog)
 
 ---
 

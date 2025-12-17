@@ -1,69 +1,69 @@
 {
-  "last_updated": "2025-12-17 20:19",
+  "last_updated": "2025-12-17 22:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "access management iam",
     "five cybersecurity predictions",
     "mass creating fake",
     "50 000 downloads",
     "prolific cybercriminal group",
     "windows operating systems",
     "twitter whistleblower complaint",
-    "malicious cyber actors",
     "life events neurodiversity",
-    "firefox addon logos",
-    "campaign dubbed ghostpairing",
-    "real life identity",
+    "enable cryptocurrency mining",
     "got1000 series devices",
-    "ghostposter malware found",
-    "another botnet known",
     "offer unlimited access",
     "gain initial access",
+    "another botnet known",
     "broader cybersecurity community",
-    "firefox web browser",
+    "malicious cyber actors",
+    "ghostposter malware found",
     "unpaid toll fee",
-    "supposed wayward package"
+    "supposed wayward package",
+    "state owned oil",
+    "spring cyberattacks focused"
   ],
   "trending": [
     {
+      "keyword": "access management iam",
+      "mentions": 1
+    },
+    {
       "keyword": "five cybersecurity predictions",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "50 000 downloads",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 4
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "life events neurodiversity",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "firefox addon logos",
-      "mentions": 4
+      "keyword": "enable cryptocurrency mining",
+      "mentions": 1
     },
     {
-      "keyword": "campaign dubbed ghostpairing",
-      "mentions": 2
+      "keyword": "got1000 series devices",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/",
+      "summary": "Amazon's AWS GuardDuty security team is warning of an ongoing crypto-mining campaign that targets its Elastic Compute Cloud (EC2) and Elastic Container Service (ECS) using compromised credentials for Identity and Access Management (IAM). [...]",
+      "published": "Wed, 17 Dec 2025 16:48:33 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "WhatsApp device linking abused in account hijacking attacks",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/",
       "summary": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing. [...]",
@@ -232,17 +241,6 @@
       "published": "Tue, 16 Dec 2025 17:59:35 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/",
-      "summary": "A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than 50,000 downloads, to monitor browser activity and plant a backdoor. [...]",
-      "published": "Tue, 16 Dec 2025 17:17:46 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -326,6 +324,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Cellik' Android RAT Leverages Google Play Store",
+      "link": "https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store",
+      "summary": "The remote access Trojan lets an attacker remotely control a victim's phone and can generate malicious apps from inside the Play Store.",
+      "published": "Wed, 17 Dec 2025 21:38:50 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign",
       "link": "https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining",
       "summary": "Threat actors wielding stolen AWS Identity and Access Management (IAM) credentials leverage Amazon EC and EC2 infrastructure across multiple customer environments.",
@@ -386,15 +393,6 @@
       "link": "https://www.darkreading.com/endpoint-security/chrome-extension-harvests-ai-chatbot-data",
       "summary": "Urban VPN Proxy, which claims to protect users' privacy, collects data from conversations with ChatGPT, Claude, Gemini, Copilot, and other AI assistants.",
       "published": "Tue, 16 Dec 2025 16:14:01 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Enterprises Gear Up Ahead of 2026's IT Transformation Shift",
-      "link": "https://www.darkreading.com/cybersecurity-operations/enterprises-gear-up-for-2026-s-it-transformation",
-      "summary": "Experts predict big changes are coming for IT infrastructure in 2026 driven by AI adoption, hybrid cloud strategies, and evolving security demands.",
-      "published": "Tue, 16 Dec 2025 15:08:23 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -559,6 +557,36 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/17/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-20393 Cisco Multiple Products Improper Input Validation Vulnerability CVE-2025-40602 SonicWall SMA1000 Missing Authorization Vulnerability CVE-2025-59374 ASUS Live Update Embedded Malicious Code Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Bind",
+      "published": "Wed, 17 Dec 25 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "Patch/update",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-59718 Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the ",
+      "published": "Tue, 16 Dec 25 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Mitsubishi Electric GT Designer3",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-04",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker obtain plaintext credentials from the project file for GT Designer3, which could result in illegally operating GOT2000 and GOT1000 series devices. The following versions of Mitsubishi Electric GT Designer3 are affected: GT Designer3 Version1 (GOT2000) (CVE-2025-11009) GT Designer3 Version1 (GOT1000) (CVE-2025-11009) CVSS Vendor Equipment Vulnerabilities v3 5.1 Mitsubishi Electric Mitsubishi Electric GT Design",
@@ -573,9 +601,9 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Releases Seven Industrial Control Systems Advisories",
+      "title": "CISA Releases Six Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-releases-seven-industrial-control-systems-advisories",
-      "summary": "CISA released seven Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-350-01 Güralp Systems FMUS (Fortimus) Series and MIN (Minimus) Series ICSA-25-350-02 Johnson Controls PowerG, IQPanel and IQHub ICSA-25-350-03 Hitachi Energy AFS, AFR and AFF Series ICSA-25-350-04 Mitsubishi Electric GT Designer3 ICSA-25-140-04 Mitsubishi Electric Iconics Digital Solutions and Mitsubishi",
+      "summary": "CISA released six Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-350-01 Güralp Systems FMUS (Fortimus) Series and MIN (Minimus) Series ICSA-25-350-02 Johnson Controls PowerG, IQPanel and IQHub ICSA-25-350-03 Hitachi Energy AFS, AFR and AFF Series ICSA-25-350-04 Mitsubishi Electric GT Designer3 ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, ",
       "published": "Tue, 16 Dec 25 12:00:00 +0000",
       "value_score": 81,
       "value_signals": [
@@ -628,20 +656,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-59718 Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the ",
-      "published": "Tue, 16 Dec 25 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×5",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-14611 Gladinet CentreStack and Triofox Hard Coded Cryptographic Vulnerability CVE-2025-43529 Apple Multiple Products Use-After-Free WebKit Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Signif",
@@ -652,20 +666,6 @@
         "CVE mentioned ×2",
         "CISA/KEV ×5",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/12/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2018-4063 Sierra Wireless AirLink ALEOS Unrestricted Upload of File with Dangerous Type Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the",
-      "published": "Fri, 12 Dec 25 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×5",
         "Exploit wording"
       ]
     }

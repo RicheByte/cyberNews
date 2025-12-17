@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-17 18:53 UTC  
+> **Last Updated:** 2025-12-17 19:13 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**five cybersecurity predictions** • **mass creating fake** • **50 000 downloads** • **malicious cyber actors** • **user named csnemess** • **prolific cybercriminal group** • **windows operating systems** • **twitter whistleblower complaint** • **supposed wayward package** • **life events neurodiversity** • **firefox addon logos** • **real life identity** • **got1000 series devices** • **ghostposter malware found** • **news service popular** • **offer unlimited access** • **gain initial access** • **broader cybersecurity community** • **threat actor known** • **firefox web browser**
+**five cybersecurity predictions** • **mass creating fake** • **50 000 downloads** • **prolific cybercriminal group** • **windows operating systems** • **twitter whistleblower complaint** • **malicious cyber actors** • **life events neurodiversity** • **firefox addon logos** • **real life identity** • **got1000 series devices** • **ghostposter malware found** • **another botnet known** • **offer unlimited access** • **gain initial access** • **broader cybersecurity community** • **threat actor known** • **firefox web browser** • **unpaid toll fee** • **supposed wayward package**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
+- [Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks](https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html)
 - [APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign](https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html)
 - [New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails](https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html)
 - [Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time](https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html)
 - [China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware](https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html)
 - [GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads](https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html)
 - [Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign](https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html)
-- [Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data](https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html)
-- [Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure](https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html)
 
 ### BleepingComputer
 

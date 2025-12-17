@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-17 19:13 UTC |
+| 🕐 Last Updated | 2025-12-17 19:17 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 2 |
+| 📈 Total Updates | 3 |
 
 ## 🔥 Trending Topics
 
-`five cybersecurity predictions` • `mass creating fake` • `50 000 downloads` • `prolific cybercriminal group` • `windows operating systems` • `twitter whistleblower complaint` • `malicious cyber actors` • `life events neurodiversity` • `firefox addon logos` • `real life identity`
+`five cybersecurity predictions` • `mass creating fake` • `50 000 downloads` • `prolific cybercriminal group` • `windows operating systems` • `twitter whistleblower complaint` • `malicious cyber actors` • `life events neurodiversity` • `firefox addon logos` • `campaign dubbed ghostpairing`
 
 ## 📄 Reports
 

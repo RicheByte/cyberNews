@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17 19:13",
+  "last_updated": "2025-12-17 19:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,6 +12,7 @@
     "malicious cyber actors",
     "life events neurodiversity",
     "firefox addon logos",
+    "campaign dubbed ghostpairing",
     "real life identity",
     "got1000 series devices",
     "ghostposter malware found",
@@ -19,7 +20,6 @@
     "offer unlimited access",
     "gain initial access",
     "broader cybersecurity community",
-    "threat actor known",
     "firefox web browser",
     "unpaid toll fee",
     "supposed wayward package"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "five cybersecurity predictions",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "50 000 downloads",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "life events neurodiversity",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "firefox addon logos",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "real life identity",
-      "mentions": 2
+      "keyword": "campaign dubbed ghostpairing",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "WhatsApp device linking abused in account hijacking attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/",
+      "summary": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing. [...]",
+      "published": "Wed, 17 Dec 2025 14:14:30 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/",
       "summary": "​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances. [...]",
@@ -234,15 +243,6 @@
       "value_signals": [
         "Backdoor"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Amazon disrupts Russian GRU hackers attacking edge network devices",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/",
-      "summary": "The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who targeted customers' cloud infrastructure. [...]",
-      "published": "Tue, 16 Dec 2025 15:13:09 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

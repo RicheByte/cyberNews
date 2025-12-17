@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-17 19:13 UTC  
+> **Last Updated:** 2025-12-17 19:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**five cybersecurity predictions** • **mass creating fake** • **50 000 downloads** • **prolific cybercriminal group** • **windows operating systems** • **twitter whistleblower complaint** • **malicious cyber actors** • **life events neurodiversity** • **firefox addon logos** • **real life identity** • **got1000 series devices** • **ghostposter malware found** • **another botnet known** • **offer unlimited access** • **gain initial access** • **broader cybersecurity community** • **threat actor known** • **firefox web browser** • **unpaid toll fee** • **supposed wayward package**
+**five cybersecurity predictions** • **mass creating fake** • **50 000 downloads** • **prolific cybercriminal group** • **windows operating systems** • **twitter whistleblower complaint** • **malicious cyber actors** • **life events neurodiversity** • **firefox addon logos** • **campaign dubbed ghostpairing** • **real life identity** • **got1000 series devices** • **ghostposter malware found** • **another botnet known** • **offer unlimited access** • **gain initial access** • **broader cybersecurity community** • **firefox web browser** • **unpaid toll fee** • **supposed wayward package**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [WhatsApp device linking abused in account hijacking attacks](https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/)
 - [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
 - [Sonicwall warns of new SMA1000 zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/)
 - [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
@@ -34,7 +35,6 @@
 - [Microsoft asks admins to reach out for Windows IIS failures fix](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/)
 - [Cellik Android malware builds malicious versions from Google Play apps](https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/)
 - [GhostPoster attacks hide malicious JavaScript in Firefox addon logos](https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/)
-- [Amazon disrupts Russian GRU hackers attacking edge network devices](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/)
 
 ### Krebs on Security
 

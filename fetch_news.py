@@ -8,7 +8,7 @@ import json
 import os
 import re
 import html
-from datetime import datetime
+from datetime import datetime, timezone
 from rake_nltk import Rake
 from collections import Counter
 
@@ -65,6 +65,75 @@ def clean_html(text):
     return text.strip()[:500]
 
 
+VALUE_SIGNAL_RULES = [
+    (re.compile(r"\bCVE-\d{4}-\d{4,7}\b", re.IGNORECASE), 18, "CVE mentioned"),
+    (re.compile(r"\bzero[- ]?day\b|\b0day\b", re.IGNORECASE), 25, "Zero-day"),
+    (re.compile(r"\bactively exploited\b|\bin the wild\b", re.IGNORECASE), 25, "Active exploitation"),
+    (re.compile(r"\bransomware\b", re.IGNORECASE), 18, "Ransomware"),
+    (re.compile(r"\bremote code execution\b|\bRCE\b", re.IGNORECASE), 20, "RCE"),
+    (re.compile(r"\bprivilege escalation\b|\bpriv\s+esc\b", re.IGNORECASE), 12, "Privilege escalation"),
+    (re.compile(r"\bauth(?:entication)?\s+bypass\b", re.IGNORECASE), 15, "Auth bypass"),
+    (re.compile(r"\bproof\s+of\s+concept\b|\bPoC\b", re.IGNORECASE), 10, "PoC available"),
+    (re.compile(r"\bpatch\b|\bupdate\b|\bfix(?:ed)?\b", re.IGNORECASE), 8, "Patch/update"),
+    (re.compile(r"\bbreach\b|\bdata\s+leak\b|\bleak\b", re.IGNORECASE), 12, "Breach/leak"),
+    (re.compile(r"\bbackdoor\b", re.IGNORECASE), 12, "Backdoor"),
+    (re.compile(r"\bbotnet\b", re.IGNORECASE), 10, "Botnet"),
+    (re.compile(r"\bphishing\b", re.IGNORECASE), 8, "Phishing"),
+    (re.compile(r"\bCISA\b|\bKEV\b|Known\s+Exploited\s+Vulnerabilities", re.IGNORECASE), 20, "CISA/KEV"),
+    (re.compile(r"\bcritical\b|\bhigh\s+severity\b", re.IGNORECASE), 8, "High severity"),
+]
+
+
+SOURCE_VALUE_BONUS = {
+    "CISA Alerts": 25,
+}
+
+
+def score_article_value(source: str, title, summary):
+    """Heuristic 'predictive' value score (0-100) + short explanation signals.
+
+    This intentionally avoids external APIs so it works on GitHub Actions for free.
+    """
+    title = "" if title is None else str(title)
+    summary = "" if summary is None else str(summary)
+    text = f"{title} {summary}".strip()
+    score = 10
+    signals = []
+
+    score += SOURCE_VALUE_BONUS.get(source, 0)
+    if source in SOURCE_VALUE_BONUS:
+        signals.append(f"Source boost: {source}")
+
+    lowered = text.lower()
+
+    for pattern, weight, label in VALUE_SIGNAL_RULES:
+        matches = pattern.findall(text)
+        if not matches:
+            continue
+
+        # Cap per-signal contribution so repeated words don't dominate.
+        contribution = min(weight * len(matches), weight * 2)
+        score += contribution
+        if len(matches) == 1:
+            signals.append(label)
+        else:
+            signals.append(f"{label} ×{len(matches)}")
+
+    # Extra bump if multiple CVEs appear
+    cve_count = len(re.findall(r"\bCVE-\d{4}-\d{4,7}\b", text, flags=re.IGNORECASE))
+    if cve_count >= 2:
+        score += min(12, 4 * cve_count)
+        signals.append("Multiple CVEs")
+
+    # Slight bump for concrete exploit wording
+    if "exploit" in lowered or "exploitation" in lowered:
+        score += 6
+        signals.append("Exploit wording")
+
+    score = max(0, min(100, int(round(score))))
+    return score, signals
+
+
 def fetch_articles():
     """Fetch articles from all RSS feeds."""
     articles = []
@@ -77,19 +146,23 @@ def fetch_articles():
             count = 0
             
             for entry in feed.entries[:ARTICLES_PER_SOURCE]:
-                title = entry.get('title', 'No Title')
-                link = entry.get('link', '#')
-                summary = entry.get('summary', entry.get('description', ''))
-                published = entry.get('published', entry.get('updated', ''))
+                title = str(entry.get('title', 'No Title'))
+                link = str(entry.get('link', '#'))
+                summary = str(entry.get('summary', entry.get('description', '')))
+                published = str(entry.get('published', entry.get('updated', '')))
                 
                 clean_summary = clean_html(summary)
                 
+                value_score, value_signals = score_article_value(source_name, title, clean_summary)
+
                 articles.append({
                     'source': source_name,
                     'title': title,
                     'link': link,
                     'summary': clean_summary,
-                    'published': published
+                    'published': published,
+                    'value_score': value_score,
+                    'value_signals': value_signals[:6],
                 })
                 
                 all_text += f" {title} {clean_summary}"
@@ -229,15 +302,37 @@ def generate_html_dashboard(articles, keywords, trending, history, source_counts
             summary_preview = art['summary'][:150] + "..." if len(art['summary']) > 150 else art['summary']
             escaped_title = html.escape(art['title'])
             escaped_summary = html.escape(summary_preview)
+
+            value_score = int(art.get('value_score', 0) or 0)
+            value_class = "value-high" if value_score >= 75 else "value-med" if value_score >= 50 else "value-low"
             article_cards += f'''
             <div class="article-card" data-source="{source}">
-                <div class="article-source">{source}</div>
+                <div class="article-top">
+                    <div class="article-source">{source}</div>
+                    <div class="value-badge {value_class}">Value {value_score}</div>
+                </div>
                 <h3 class="article-title">
                     <a href="{art['link']}" target="_blank" rel="noopener">{escaped_title}</a>
                 </h3>
                 <p class="article-summary">{escaped_summary}</p>
                 <div class="article-meta">{art['published'][:25] if art['published'] else 'Recent'}</div>
             </div>'''
+
+    # High-value list (predictive engine output)
+    high_value_cards = ""
+    for art in sorted(articles, key=lambda a: int(a.get('value_score', 0) or 0), reverse=True)[:10]:
+        value_score = int(art.get('value_score', 0) or 0)
+        value_class = "value-high" if value_score >= 75 else "value-med" if value_score >= 50 else "value-low"
+        why = ", ".join(art.get('value_signals', [])[:3]) or "General relevance"
+        high_value_cards += f'''
+        <div class="alert-item">
+            <div class="alert-left">
+                <div class="alert-title"><a href="{art['link']}" target="_blank" rel="noopener">{html.escape(art['title'])}</a></div>
+                <div class="alert-meta">{html.escape(art['source'])} • {html.escape((art.get('published') or 'Recent')[:25])}</div>
+                <div class="alert-why">Why: {html.escape(why)}</div>
+            </div>
+            <div class="value-badge {value_class}">Value {value_score}</div>
+        </div>'''
     
     # Generate keyword tags
     keyword_tags = ""
@@ -588,6 +683,83 @@ def generate_html_dashboard(articles, keywords, trending, history, source_counts
             padding: 20px;
             transition: all 0.3s ease;
         }}
+
+        .article-top {{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            margin-bottom: 10px;
+        }}
+
+        .value-badge {{
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            padding: 4px 10px;
+            border-radius: 999px;
+            border: 1px solid var(--border);
+            white-space: nowrap;
+        }}
+
+        .value-badge.value-high {{
+            border-color: var(--accent);
+            color: var(--accent);
+            background: rgba(0, 255, 136, 0.08);
+        }}
+
+        .value-badge.value-med {{
+            border-color: var(--warning);
+            color: var(--warning);
+            background: rgba(255, 165, 2, 0.08);
+        }}
+
+        .value-badge.value-low {{
+            border-color: var(--border);
+            color: var(--text-secondary);
+            background: rgba(160, 160, 176, 0.06);
+        }}
+
+        .alerts-section {{
+            grid-column: span 12;
+        }}
+
+        .alerts-list {{
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }}
+
+        .alert-item {{
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 16px;
+            padding: 16px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+        }}
+
+        .alert-title a {{
+            color: var(--text-primary);
+            text-decoration: none;
+        }}
+
+        .alert-title a:hover {{
+            color: var(--accent);
+        }}
+
+        .alert-meta {{
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            margin-top: 4px;
+        }}
+
+        .alert-why {{
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            margin-top: 8px;
+        }}
         
         .article-card:hover {{
             border-color: var(--accent);
@@ -736,6 +908,15 @@ def generate_html_dashboard(articles, keywords, trending, history, source_counts
                 </div>
                 <div class="chart-container">
                     <canvas id="keywordChart"></canvas>
+                </div>
+            </div>
+
+            <div class="card alerts-section">
+                <div class="card-header">
+                    <div class="card-title"><span class="card-icon">🎯</span> High-Value Alerts (Predictive Engine)</div>
+                </div>
+                <div class="alerts-list">
+                    {high_value_cards}
                 </div>
             </div>
             
@@ -988,7 +1169,7 @@ def main():
     
     os.makedirs("data", exist_ok=True)
     
-    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M")
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
     
     # Load history
     history = load_keyword_history()

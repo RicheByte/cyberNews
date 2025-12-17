@@ -1,0 +1,38 @@
+name: Daily CyberSec News
+
+on:
+  schedule:
+    # Runs every 2 hours = 12 times per day
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser rake-nltk requests
+
+      - name: Run News Scraper
+        run: python fetch_news.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "CyberBot"
+          git config --global user.email "bot@github.com"
+          git add data/ index.html README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "📰 Update: $(date +'%Y-%m-%d %H:%M') UTC" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

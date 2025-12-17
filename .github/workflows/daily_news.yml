@@ -23,8 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser rake-nltk requests nltk
-          python -c "import nltk; nltk.download('stopwords'); nltk.download('punkt')"
+          pip install -r requirements.txt
 
       - name: Run News Scraper
         run: python fetch_news.py

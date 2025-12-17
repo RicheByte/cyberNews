@@ -1,0 +1,473 @@
+{
+  "last_updated": "2025-12-17 18:53",
+  "sources_count": 8,
+  "articles_count": 56,
+  "keywords": [
+    "five cybersecurity predictions",
+    "mass creating fake",
+    "50 000 downloads",
+    "malicious cyber actors",
+    "user named csnemess",
+    "prolific cybercriminal group",
+    "windows operating systems",
+    "twitter whistleblower complaint",
+    "supposed wayward package",
+    "life events neurodiversity",
+    "firefox addon logos",
+    "real life identity",
+    "got1000 series devices",
+    "ghostposter malware found",
+    "news service popular",
+    "offer unlimited access",
+    "gain initial access",
+    "broader cybersecurity community",
+    "threat actor known",
+    "firefox web browser"
+  ],
+  "trending": [
+    {
+      "keyword": "five cybersecurity predictions",
+      "mentions": 1
+    },
+    {
+      "keyword": "mass creating fake",
+      "mentions": 1
+    },
+    {
+      "keyword": "50 000 downloads",
+      "mentions": 1
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 1
+    },
+    {
+      "keyword": "user named csnemess",
+      "mentions": 1
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 1
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1
+    },
+    {
+      "keyword": "supposed wayward package",
+      "mentions": 1
+    },
+    {
+      "keyword": "life events neurodiversity",
+      "mentions": 1
+    }
+  ],
+  "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign",
+      "link": "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html",
+      "summary": "The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a \"sustained\" credential-harvesting campaign targeting users of UKR[.]net, a webmail and news service popular in Ukraine. The activity, observed by Recorded Future's Insikt Group between June 2024 and April 2025, builds upon prior findings from the cybersecurity company in May 2024 that",
+      "published": "Wed, 17 Dec 2025 21:00:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails",
+      "link": "https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html",
+      "summary": "The threat actor linked to Operation ForumTroll has been attributed to a fresh set of phishing attacks targeting individuals within Russia, according to Kaspersky. The Russian cybersecurity vendor said it detected the new activity in October 2025. The origins of the threat actor are presently unknown. \"While the spring cyberattacks focused on organizations, the fall campaign honed in on",
+      "published": "Wed, 17 Dec 2025 20:24:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
+      "link": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
+      "summary": "Modern security teams often feel like they’re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to understand which dangers matter right now for their business. Breaking out of reactive defense is no longer optional. It’s the difference between preventing incidents and cleaning up after them. Below is the path from reactive firefighting to a",
+      "published": "Wed, 17 Dec 2025 17:00:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware",
+      "link": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
+      "summary": "The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America. Check Point Research is tracking the cluster under the name Ink Dragon. It's also referenced by the broader cybersecurity community under the names CL-STA-0049, Earth Alux, and REF7707. The",
+      "published": "Wed, 17 Dec 2025 16:42:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
+      "link": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
+      "summary": "A new campaign named GhostPoster has leveraged logo files associated with 17 Mozilla Firefox browser add-ons to embed malicious JavaScript code designed to hijack affiliate links, inject tracking code, and commit click and ad fraud. The extensions have been collectively downloaded over 50,000 times, according to Koi Security, which discovered the campaign. The add-ons are no longer available.",
+      "published": "Wed, 17 Dec 2025 13:44:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
+      "link": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
+      "summary": "An ongoing campaign has been observed targeting Amazon Web Services (AWS) customers using compromised Identity and Access Management (IAM) credentials to enable cryptocurrency mining. The activity, first detected by Amazon's GuardDuty managed threat detection service and its automated security monitoring systems on November 2, 2025, employs never-before-seen persistence techniques to hamper",
+      "published": "Tue, 16 Dec 2025 22:05:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
+      "link": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
+      "summary": "Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its author to sneak in a cryptocurrency wallet stealer. The malicious package, named \"Tracer.Fody.NLog,\" remained on the repository for nearly six years. It was published by a user named \"csnemess\" on February 26, 2020. It masquerades as \"Tracer.Fody,\"",
+      "published": "Tue, 16 Dec 2025 21:09:00 +0530"
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
+      "link": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
+      "summary": "Amazon's threat intelligence team has disclosed details of a \"years-long\" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025. Targets of the campaign included energy sector organizations across Western nations, critical infrastructure providers in North America and Europe, and entities with cloud-hosted network infrastructure. The activity has",
+      "published": "Tue, 16 Dec 2025 17:57:00 +0530"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/",
+      "summary": "​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances. [...]",
+      "published": "Wed, 17 Dec 2025 13:45:36 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/",
+      "summary": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges. [...]",
+      "published": "Wed, 17 Dec 2025 12:44:18 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Critical React2Shell flaw exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/",
+      "summary": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later. [...]",
+      "published": "Wed, 17 Dec 2025 11:09:51 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Your MFA Is Costing You Millions. It Doesn't Have To.",
+      "link": "https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/",
+      "summary": "Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks. Token explains how wireless biometric, passwordless authentication eliminates credential-based attacks and delivers measurable financial returns by reducing login time across the enterprise. [...]",
+      "published": "Wed, 17 Dec 2025 09:00:00 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft asks admins to reach out for Windows IIS failures fix",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/",
+      "summary": "Microsoft has asked businesses to reach out for advice on how to temporarily mitigate a Message Queuing (MSMQ) issue causing enterprise apps and Internet Information Services (IIS) sites to fail. [...]",
+      "published": "Wed, 17 Dec 2025 07:30:32 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cellik Android malware builds malicious versions from Google Play apps",
+      "link": "https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/",
+      "summary": "A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include the option to embed it in any app available on the Google Play Store. [...]",
+      "published": "Tue, 16 Dec 2025 17:59:35 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/",
+      "summary": "A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than 50,000 downloads, to monitor browser activity and plant a backdoor. [...]",
+      "published": "Tue, 16 Dec 2025 17:17:46 -0500"
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Amazon disrupts Russian GRU hackers attacking edge network devices",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/",
+      "summary": "The Amazon Threat Intelligence team has disrupted active operations attributed to hackers working for the Russian foreign military intelligence agency, the GRU, who targeted customers' cloud infrastructure. [...]",
+      "published": "Tue, 16 Dec 2025 15:13:09 -0500"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
+      "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+      "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for \"Rey,\" the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.",
+      "published": "Wed, 26 Nov 2025 17:22:36 +0000"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account t",
+      "published": "Mon, 24 Nov 2025 18:44:52 +0000"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
+      "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will offici",
+      "published": "Thu, 20 Nov 2025 19:06:51 +0000"
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.",
+      "published": "Wed, 19 Nov 2025 14:07:03 +0000"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign",
+      "link": "https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining",
+      "summary": "Threat actors wielding stolen AWS Identity and Access Management (IAM) credentials leverage Amazon EC and EC2 infrastructure across multiple customer environments.",
+      "published": "Wed, 17 Dec 2025 16:33:22 GMT"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation",
+      "link": "https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation",
+      "summary": "Rapid digitization, uneven cybersecurity know-how, and growing cybercriminal syndicates in the region have challenged law enforcement and prosecutors.",
+      "published": "Wed, 17 Dec 2025 07:00:00 GMT"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps",
+      "link": "https://www.darkreading.com/threat-intelligence/why-17-year-old-built-ai-expose-deepfake-maps",
+      "summary": "A high-school student is tackling the overlooked risk of AI-generated satellite imagery that could mislead governments and emergency responders.",
+      "published": "Tue, 16 Dec 2025 22:53:00 GMT"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Why You Should Train Your SOC Like a Triathlete",
+      "link": "https://www.darkreading.com/cybersecurity-operations/why-you-should-train-your-soc-like-triathlete",
+      "summary": "The key elements in a security operations center's strategy map very closely to the swim/bike/run events in a triathlon. SOCs, like triathletes, perform well when their \"inputs\" are strong.",
+      "published": "Tue, 16 Dec 2025 22:20:33 GMT"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Venezuelan Oil Company Downplays Alleged US Cyberattack",
+      "link": "https://www.darkreading.com/cyber-risk/venezuela-oil-company-downplays-alleged-us-cyberattack",
+      "summary": "But media reports described the attack as causing major disruption to PDVSA, the state-owned oil and natural gas company.",
+      "published": "Tue, 16 Dec 2025 20:33:16 GMT"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Russia Hits Critical Orgs Via Misconfigured Edge Devices",
+      "link": "https://www.darkreading.com/endpoint-security/russian-apt-attacking-critical-orgs-around-world",
+      "summary": "Amazon detailed a long-running campaign by Russia against critical infrastructure organizations, particularly in the energy sector.",
+      "published": "Tue, 16 Dec 2025 20:03:15 GMT"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Browser Extension Harvests 8M Users' AI Chatbot Data",
+      "link": "https://www.darkreading.com/endpoint-security/chrome-extension-harvests-ai-chatbot-data",
+      "summary": "Urban VPN Proxy, which claims to protect users' privacy, collects data from conversations with ChatGPT, Claude, Gemini, Copilot, and other AI assistants.",
+      "published": "Tue, 16 Dec 2025 16:14:01 GMT"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Enterprises Gear Up Ahead of 2026's IT Transformation Shift",
+      "link": "https://www.darkreading.com/cybersecurity-operations/enterprises-gear-up-for-2026-s-it-transformation",
+      "summary": "Experts predict big changes are coming for IT infrastructure in 2026 driven by AI adoption, hybrid cloud strategies, and evolving security demands.",
+      "published": "Tue, 16 Dec 2025 15:08:23 GMT"
+    },
+    {
+      "source": "Security Week",
+      "title": "NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft",
+      "link": "https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/",
+      "summary": "The trucking industry group has released its 2026 Transportation Industry Cybersecurity Trends Report. The post NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft appeared first on SecurityWeek .",
+      "published": "Wed, 17 Dec 2025 13:39:51 +0000"
+    },
+    {
+      "source": "Security Week",
+      "title": "Hacker Conversations: Alex Hall, One-time Fraudster",
+      "link": "https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/",
+      "summary": "A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter. The post Hacker Conversations: Alex Hall, One-time Fraudster appeared first on SecurityWeek .",
+      "published": "Wed, 17 Dec 2025 13:00:00 +0000"
+    },
+    {
+      "source": "Security Week",
+      "title": "New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps",
+      "link": "https://www.securityweek.com/new-150-cellik-rat-grants-android-control-trojanizes-google-play-apps/",
+      "summary": "The malware provides full device control and real-time surveillance capabilities like those of advanced spyware. The post New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps appeared first on SecurityWeek .",
+      "published": "Wed, 17 Dec 2025 12:44:13 +0000"
+    },
+    {
+      "source": "Security Week",
+      "title": "Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking",
+      "link": "https://www.securityweek.com/five-cybersecurity-predictions-for-2026-identity-ai-and-the-collapse-of-perimeter-thinking/",
+      "summary": "The perimeter is gone. Credentials are no longer sufficient. And security can no longer rely on static controls in a dynamic threat environment. The post Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking appeared first on SecurityWeek .",
+      "published": "Wed, 17 Dec 2025 12:00:00 +0000"
+    },
+    {
+      "source": "Security Week",
+      "title": "Adaptive Security Raises $81 Million in Series B Funding",
+      "link": "https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/",
+      "summary": "Led by Bain Capital Ventures, the investment round brings the total raised by the company to $146.5 million. The post Adaptive Security Raises $81 Million in Series B Funding appeared first on SecurityWeek .",
+      "published": "Wed, 17 Dec 2025 11:18:29 +0000"
+    },
+    {
+      "source": "Security Week",
+      "title": "GhostPoster Firefox Extensions Hide Malware in Icons",
+      "link": "https://www.securityweek.com/ghostposter-firefox-extensions-hide-malware-in-icons/",
+      "summary": "The malware hijacks purchase commissions, tracks users, removes security headers, injects hidden iframes, and bypasses CAPTCHA. The post GhostPoster Firefox Extensions Hide Malware in Icons appeared first on SecurityWeek .",
+      "published": "Wed, 17 Dec 2025 10:40:19 +0000"
+    },
+    {
+      "source": "Security Week",
+      "title": "Auto Parts Giant LKQ Confirms Oracle EBS Breach",
+      "link": "https://www.securityweek.com/auto-parts-giant-lkq-confirms-oracle-ebs-breach/",
+      "summary": "LKQ said the personal information of thousands of individuals was compromised as a result of the hacker attack. The post Auto Parts Giant LKQ Confirms Oracle EBS Breach appeared first on SecurityWeek .",
+      "published": "Wed, 17 Dec 2025 09:11:03 +0000"
+    },
+    {
+      "source": "Security Week",
+      "title": "Dux Emerges From Stealth Mode With $9 Million in Funding",
+      "link": "https://www.securityweek.com/dux-emerges-from-stealth-mode-with-9-million-in-funding/",
+      "summary": "The startup takes an agentic approach to preventing vulnerability exploitation by uncovering exposure across assets. The post Dux Emerges From Stealth Mode With $9 Million in Funding appeared first on SecurityWeek .",
+      "published": "Wed, 17 Dec 2025 07:17:18 +0000"
+    },
+    {
+      "source": "Threatpost",
+      "title": "Student Loan Breach Exposes 2.5M Records",
+      "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
+      "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
+      "published": "Wed, 31 Aug 2022 12:57:48 +0000"
+    },
+    {
+      "source": "Threatpost",
+      "title": "Watering Hole Attacks Push ScanBox Keylogger",
+      "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
+      "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
+      "published": "Tue, 30 Aug 2022 16:00:43 +0000"
+    },
+    {
+      "source": "Threatpost",
+      "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
+      "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
+      "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
+      "published": "Mon, 29 Aug 2022 14:56:19 +0000"
+    },
+    {
+      "source": "Threatpost",
+      "title": "Ransomware Attacks are on the Rise",
+      "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
+      "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
+      "published": "Fri, 26 Aug 2022 16:44:27 +0000"
+    },
+    {
+      "source": "Threatpost",
+      "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
+      "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
+      "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
+      "published": "Thu, 25 Aug 2022 18:47:15 +0000"
+    },
+    {
+      "source": "Threatpost",
+      "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+      "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+      "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.",
+      "published": "Wed, 24 Aug 2022 14:17:04 +0000"
+    },
+    {
+      "source": "Threatpost",
+      "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
+      "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
+      "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
+      "published": "Tue, 23 Aug 2022 13:19:58 +0000"
+    },
+    {
+      "source": "Threatpost",
+      "title": "Fake Reservation Links Prey on Weary Travelers",
+      "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
+      "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
+      "published": "Mon, 22 Aug 2022 13:59:06 +0000"
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Mitsubishi Electric GT Designer3",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker obtain plaintext credentials from the project file for GT Designer3, which could result in illegally operating GOT2000 and GOT1000 series devices. The following versions of Mitsubishi Electric GT Designer3 are affected: GT Designer3 Version1 (GOT2000) (CVE-2025-11009) GT Designer3 Version1 (GOT1000) (CVE-2025-11009) CVSS Vendor Equipment Vulnerabilities v3 5.1 Mitsubishi Electric Mitsubishi Electric GT Design",
+      "published": "Tue, 16 Dec 25 12:00:00 +0000"
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Releases Seven Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-releases-seven-industrial-control-systems-advisories",
+      "summary": "CISA released seven Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-350-01 Güralp Systems FMUS (Fortimus) Series and MIN (Minimus) Series ICSA-25-350-02 Johnson Controls PowerG, IQPanel and IQHub ICSA-25-350-03 Hitachi Energy AFS, AFR and AFF Series ICSA-25-350-04 Mitsubishi Electric GT Designer3 ICSA-25-140-04 Mitsubishi Electric Iconics Digital Solutions and Mitsubishi",
+      "published": "Tue, 16 Dec 25 12:00:00 +0000"
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hitachi Energy AFS, AFR and AFF Series",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could compromise the integrity of the product data and disrupt its availability. The following versions of Hitachi Energy AFS, AFR and AFF Series are affected: AFS 660-B/C/S (CVE-2024-3596) AFS 665-B/S (CVE-2024-3596) AFS 670 v2.0 (CVE-2024-3596) AFS 650 (CVE-2024-3596) AFS 655 (CVE-2024-3596) AFS 670 (CVE-2024-3596) AFS 675 (CVE-2024-3596) AFS 677 (CVE-2024-3596) AFR 677 (CVE-2024-3596) AFF 660 (CVE-2024-3596) AFF 665 (CVE-2024-359",
+      "published": "Tue, 16 Dec 25 12:00:00 +0000"
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Johnson Controls PowerG, IQPanel and IQHub",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-02",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to read or write encrypted traffic or perform a replay attack. The following versions of Johnson Controls PowerG, IQPanel and IQHub are affected: PowerG (CVE-2025-61738, CVE-2025-61739, CVE-2025-26379, CVE-2025-61740) IQHub (CVE-2025-61738, CVE-2025-61739, CVE-2025-26379, CVE-2025-61740) IQPanel 2 (CVE-2025-61738, CVE-2025-61739, CVE-2025-26379, CVE-2025-61740) IQPanel 2+ (CVE-2025-61738, CVE-2025-61739, C",
+      "published": "Tue, 16 Dec 25 12:00:00 +0000"
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Güralp Systems Fortimus Series, Minimus Series, and Certimus Series",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition. The following versions of Güralp Systems Fortimus Series, Minimus Series, and Certimus Series are affected: Fortimus Series (CVE-2025-14466) Minimus Series (CVE-2025-14466) Certimus Series (CVE-2025-14466) CVSS Vendor Equipment Vulnerabilities v3 5.3 Güralp Systems Güralp Systems Fortimus Series, Minimus Series, and Certimus Series Allocation of Resources Without Limits",
+      "published": "Tue, 16 Dec 25 12:00:00 +0000"
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-59718 Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the ",
+      "published": "Tue, 16 Dec 25 12:00:00 +0000"
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-14611 Gladinet CentreStack and Triofox Hard Coded Cryptographic Vulnerability CVE-2025-43529 Apple Multiple Products Use-After-Free WebKit Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Signif",
+      "published": "Mon, 15 Dec 25 12:00:00 +0000"
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/12/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2018-4063 Sierra Wireless AirLink ALEOS Unrestricted Upload of File with Dangerous Type Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the",
+      "published": "Fri, 12 Dec 25 12:00:00 +0000"
+    }
+  ],
+  "sources": [
+    "The Hacker News",
+    "BleepingComputer",
+    "Krebs on Security",
+    "Dark Reading",
+    "Security Week",
+    "Naked Security",
+    "Threatpost",
+    "CISA Alerts"
+  ]
+}

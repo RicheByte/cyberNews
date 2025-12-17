@@ -31,6 +31,32 @@ TOP_KEYWORDS = 20         # Number of keywords to extract
 HISTORY_FILE = "data/keyword_history.json"
 
 
+# Minimal built-in English stopwords so RAKE doesn't require NLTK corpora downloads
+RAKE_STOPWORDS = {
+    "a", "about", "above", "after", "again", "against", "all", "am", "an", "and", "any", "are",
+    "as", "at", "be", "because", "been", "before", "being", "below", "between", "both", "but",
+    "by", "can", "did", "do", "does", "doing", "down", "during", "each", "few", "for", "from",
+    "further", "had", "has", "have", "having", "he", "her", "here", "hers", "herself", "him",
+    "himself", "his", "how", "i", "if", "in", "into", "is", "it", "its", "itself", "just",
+    "me", "more", "most", "my", "myself", "no", "nor", "not", "now", "of", "off", "on",
+    "once", "only", "or", "other", "our", "ours", "ourselves", "out", "over", "own", "same",
+    "she", "should", "so", "some", "such", "than", "that", "the", "their", "theirs",
+    "them", "themselves", "then", "there", "these", "they", "this", "those", "through",
+    "to", "too", "under", "until", "up", "very", "was", "we", "were", "what", "when",
+    "where", "which", "while", "who", "whom", "why", "with", "you", "your", "yours",
+    "yourself", "yourselves",
+}
+
+
+def simple_sentence_tokenizer(text: str):
+    # Avoid NLTK punkt dependency (good enough for headlines/summaries)
+    return [s.strip() for s in re.split(r"[.!?]+\s+", text) if s.strip()]
+
+
+def simple_word_tokenizer(sentence: str):
+    return re.findall(r"[A-Za-z0-9]+(?:'[A-Za-z]+)?", sentence)
+
+
 def clean_html(text):
     """Remove HTML tags and clean text."""
     text = re.sub(r'<[^>]+>', ' ', text)
@@ -82,9 +108,12 @@ def fetch_articles():
 def extract_keywords(text):
     """Extract keywords using RAKE algorithm."""
     r = Rake(
+        stopwords=RAKE_STOPWORDS,
         min_length=1,
         max_length=4,
-        include_repeated_phrases=False
+        include_repeated_phrases=False,
+        sentence_tokenizer=simple_sentence_tokenizer,
+        word_tokenizer=simple_word_tokenizer,
     )
     r.extract_keywords_from_text(text)
     

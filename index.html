@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🛡️ CyberNews Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0a0f;
+            --bg-secondary: #12121a;
+            --bg-card: #1a1a25;
+            --accent: #00ff88;
+            --accent-dim: #00cc6a;
+            --accent-glow: rgba(0, 255, 136, 0.3);
+            --text-primary: #ffffff;
+            --text-secondary: #a0a0b0;
+            --border: #2a2a3a;
+            --danger: #ff4757;
+            --warning: #ffa502;
+            --info: #3742fa;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        
+        .cyber-grid {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: 
+                linear-gradient(rgba(0, 255, 136, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0, 255, 136, 0.03) 1px, transparent 1px);
+            background-size: 50px 50px;
+            pointer-events: none;
+            z-index: 0;
+        }
+        
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 20px;
+            position: relative;
+            z-index: 1;
+        }
+        
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 30px;
+        }
+        
+        .logo {
+            font-size: 3rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--accent), #00ccff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-shadow: 0 0 40px var(--accent-glow);
+        }
+        
+        .tagline {
+            color: var(--text-secondary);
+            margin-top: 10px;
+            font-size: 1.1rem;
+        }
+        
+        .live-indicator {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: var(--bg-card);
+            padding: 8px 16px;
+            border-radius: 20px;
+            margin-top: 20px;
+            font-size: 0.9rem;
+            border: 1px solid var(--border);
+        }
+        
+        .live-dot {
+            width: 10px;
+            height: 10px;
+            background: var(--accent);
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; box-shadow: 0 0 10px var(--accent); }
+            50% { opacity: 0.5; box-shadow: 0 0 20px var(--accent); }
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .stat-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 24px;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+        
+        .stat-card:hover {
+            border-color: var(--accent);
+            box-shadow: 0 0 30px var(--accent-glow);
+            transform: translateY(-2px);
+        }
+        
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--accent);
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        .stat-label {
+            color: var(--text-secondary);
+            margin-top: 5px;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 24px;
+            overflow: hidden;
+        }
+        
+        .card-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .card-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .card-icon {
+            font-size: 1.3rem;
+        }
+        
+        .keywords-section {
+            grid-column: span 8;
+        }
+        
+        .timeline-section {
+            grid-column: span 4;
+        }
+        
+        .charts-row {
+            grid-column: span 12;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        
+        .chart-container {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 24px;
+            height: 350px;
+        }
+        
+        .keyword-cloud {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .keyword-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 8px 16px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            font-size: 0.85rem;
+            transition: all 0.2s ease;
+            cursor: default;
+        }
+        
+        .keyword-tag:hover {
+            border-color: var(--accent);
+            background: rgba(0, 255, 136, 0.1);
+        }
+        
+        .keyword-tag.large {
+            font-size: 1rem;
+            padding: 10px 20px;
+            background: linear-gradient(135deg, rgba(0, 255, 136, 0.2), rgba(0, 204, 255, 0.1));
+            border-color: var(--accent);
+        }
+        
+        .keyword-tag.medium {
+            font-size: 0.9rem;
+        }
+        
+        .new-badge {
+            background: var(--danger);
+            color: white;
+            font-size: 0.65rem;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-weight: 600;
+        }
+        
+        .timeline {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        
+        .timeline-item {
+            padding: 15px;
+            background: var(--bg-secondary);
+            border-radius: 8px;
+            border-left: 3px solid var(--accent);
+        }
+        
+        .timeline-time {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--accent);
+            margin-bottom: 5px;
+        }
+        
+        .timeline-content {
+            font-size: 0.9rem;
+        }
+        
+        .timeline-keywords {
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            margin-top: 5px;
+        }
+        
+        .filter-section {
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .filter-btn {
+            padding: 8px 16px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            color: var(--text-secondary);
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.2s ease;
+        }
+        
+        .filter-btn:hover, .filter-btn.active {
+            background: var(--accent);
+            color: var(--bg-primary);
+            border-color: var(--accent);
+        }
+        
+        .articles-section {
+            grid-column: span 12;
+        }
+        
+        .articles-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+            max-height: 800px;
+            overflow-y: auto;
+            padding: 5px;
+        }
+        
+        .article-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 20px;
+            transition: all 0.3s ease;
+        }
+        
+        .article-card:hover {
+            border-color: var(--accent);
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+        
+        .article-source {
+            font-size: 0.75rem;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        
+        .article-title {
+            font-size: 1rem;
+            margin-bottom: 10px;
+            line-height: 1.4;
+        }
+        
+        .article-title a {
+            color: var(--text-primary);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        
+        .article-title a:hover {
+            color: var(--accent);
+        }
+        
+        .article-summary {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-bottom: 10px;
+        }
+        
+        .article-meta {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            border-top: 1px solid var(--border);
+            margin-top: 40px;
+            color: var(--text-secondary);
+        }
+        
+        footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+        
+        @media (max-width: 1200px) {
+            .keywords-section, .timeline-section {
+                grid-column: span 12;
+            }
+            .charts-row {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .logo { font-size: 2rem; }
+            .stats-grid { grid-template-columns: repeat(2, 1fr); }
+            .articles-grid { grid-template-columns: 1fr; }
+        }
+        
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: var(--bg-secondary);
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: var(--border);
+            border-radius: 4px;
+        }
+        
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--accent-dim);
+        }
+    </style>
+</head>
+<body>
+    <div class="cyber-grid"></div>
+    
+    <div class="container">
+        <header>
+            <h1 class="logo">🛡️ CyberNews Intelligence</h1>
+            <p class="tagline">Real-time Cybersecurity News Aggregation & Trend Analysis</p>
+            <div class="live-indicator">
+                <span class="live-dot"></span>
+                <span>Last updated: 2025-12-17 18:53 UTC</span>
+            </div>
+        </header>
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value">56</div>
+                <div class="stat-label">Articles Analyzed</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">8</div>
+                <div class="stat-label">Active Sources</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">20</div>
+                <div class="stat-label">Keywords Extracted</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">1</div>
+                <div class="stat-label">Total Updates</div>
+            </div>
+        </div>
+        
+        <div class="dashboard-grid">
+            <div class="card keywords-section">
+                <div class="card-header">
+                    <div class="card-title"><span class="card-icon">🔥</span> Trending Keywords</div>
+                </div>
+                <div class="keyword-cloud">
+                    <span class="keyword-tag large">five cybersecurity predictions (1) </span><span class="keyword-tag large">mass creating fake (1) </span><span class="keyword-tag large">50 000 downloads (1) </span><span class="keyword-tag medium">malicious cyber actors (1) </span><span class="keyword-tag medium">user named csnemess (1) </span><span class="keyword-tag medium">prolific cybercriminal group (1) </span><span class="keyword-tag medium">windows operating systems (1) </span><span class="keyword-tag small">twitter whistleblower complaint (1) </span><span class="keyword-tag small">supposed wayward package (1) </span><span class="keyword-tag small">life events neurodiversity (1) </span>
+                </div>
+            </div>
+            
+            <div class="card timeline-section">
+                <div class="card-header">
+                    <div class="card-title"><span class="card-icon">📊</span> Recent Updates</div>
+                </div>
+                <div class="timeline">
+                    
+        <div class="timeline-item">
+            <div class="timeline-time">2025-12-17 18:53</div>
+            <div class="timeline-content">
+                <strong>56 articles</strong> analyzed
+                <div class="timeline-keywords">five cybersecurity predictions, mass creating fake, 50 000 downloads</div>
+            </div>
+        </div>
+                </div>
+            </div>
+            
+            <div class="charts-row">
+                <div class="chart-container">
+                    <canvas id="sourceChart"></canvas>
+                </div>
+                <div class="chart-container">
+                    <canvas id="keywordChart"></canvas>
+                </div>
+            </div>
+            
+            <div class="card articles-section">
+                <div class="card-header">
+                    <div class="card-title"><span class="card-icon">📰</span> Latest News</div>
+                </div>
+                <div class="filter-section">
+                    <button class="filter-btn active" data-filter="all">All Sources</button><button class="filter-btn" data-filter="The Hacker News">The Hacker News</button><button class="filter-btn" data-filter="BleepingComputer">BleepingComputer</button><button class="filter-btn" data-filter="Krebs on Security">Krebs on Security</button><button class="filter-btn" data-filter="Dark Reading">Dark Reading</button><button class="filter-btn" data-filter="Security Week">Security Week</button><button class="filter-btn" data-filter="Naked Security">Naked Security</button><button class="filter-btn" data-filter="Threatpost">Threatpost</button><button class="filter-btn" data-filter="CISA Alerts">CISA Alerts</button>
+                </div>
+                <div class="articles-grid">
+                    
+            <div class="article-card" data-source="The Hacker News">
+                <div class="article-source">The Hacker News</div>
+                <h3 class="article-title">
+                    <a href="https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html" target="_blank" rel="noopener">APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign</a>
+                </h3>
+                <p class="article-summary">The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a &quot;sustained&quot; credential-harvesting campaign...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 21:00:00</div>
+            </div>
+            <div class="article-card" data-source="The Hacker News">
+                <div class="article-source">The Hacker News</div>
+                <h3 class="article-title">
+                    <a href="https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html" target="_blank" rel="noopener">New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails</a>
+                </h3>
+                <p class="article-summary">The threat actor linked to Operation ForumTroll has been attributed to a fresh set of phishing attacks targeting individuals within Russia, according ...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 20:24:00</div>
+            </div>
+            <div class="article-card" data-source="The Hacker News">
+                <div class="article-source">The Hacker News</div>
+                <h3 class="article-title">
+                    <a href="https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html" target="_blank" rel="noopener">Fix SOC Blind Spots: See Threats to Your Industry &amp; Country in Real Time</a>
+                </h3>
+                <p class="article-summary">Modern security teams often feel like they’re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to u...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 17:00:00</div>
+            </div>
+            <div class="article-card" data-source="The Hacker News">
+                <div class="article-source">The Hacker News</div>
+                <h3 class="article-title">
+                    <a href="https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html" target="_blank" rel="noopener">China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware</a>
+                </h3>
+                <p class="article-summary">The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack enti...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 16:42:00</div>
+            </div>
+            <div class="article-card" data-source="The Hacker News">
+                <div class="article-source">The Hacker News</div>
+                <h3 class="article-title">
+                    <a href="https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html" target="_blank" rel="noopener">GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads</a>
+                </h3>
+                <p class="article-summary">A new campaign named GhostPoster has leveraged logo files associated with 17 Mozilla Firefox browser add-ons to embed malicious JavaScript code design...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 13:44:00</div>
+            </div>
+            <div class="article-card" data-source="BleepingComputer">
+                <div class="article-source">BleepingComputer</div>
+                <h3 class="article-title">
+                    <a href="https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/" target="_blank" rel="noopener">Cisco warns of unpatched AsyncOS zero-day exploited in attacks</a>
+                </h3>
+                <p class="article-summary">​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (S...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 13:45:36</div>
+            </div>
+            <div class="article-card" data-source="BleepingComputer">
+                <div class="article-source">BleepingComputer</div>
+                <h3 class="article-title">
+                    <a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/" target="_blank" rel="noopener">Sonicwall warns of new SMA1000 zero-day exploited in attacks</a>
+                </h3>
+                <p class="article-summary">SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day att...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 12:44:18</div>
+            </div>
+            <div class="article-card" data-source="BleepingComputer">
+                <div class="article-source">BleepingComputer</div>
+                <h3 class="article-title">
+                    <a href="https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/" target="_blank" rel="noopener">Critical React2Shell flaw exploited in ransomware attacks</a>
+                </h3>
+                <p class="article-summary">A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 11:09:51</div>
+            </div>
+            <div class="article-card" data-source="BleepingComputer">
+                <div class="article-source">BleepingComputer</div>
+                <h3 class="article-title">
+                    <a href="https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/" target="_blank" rel="noopener">Your MFA Is Costing You Millions. It Doesn&#x27;t Have To.</a>
+                </h3>
+                <p class="article-summary">Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks. Token ex...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 09:00:00</div>
+            </div>
+            <div class="article-card" data-source="BleepingComputer">
+                <div class="article-source">BleepingComputer</div>
+                <h3 class="article-title">
+                    <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/" target="_blank" rel="noopener">Microsoft asks admins to reach out for Windows IIS failures fix</a>
+                </h3>
+                <p class="article-summary">Microsoft has asked businesses to reach out for advice on how to temporarily mitigate a Message Queuing (MSMQ) issue causing enterprise apps and Inter...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 07:30:32</div>
+            </div>
+            <div class="article-card" data-source="Krebs on Security">
+                <div class="article-source">Krebs on Security</div>
+                <h3 class="article-title">
+                    <a href="https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/" target="_blank" rel="noopener">Most Parked Domains Now Serving Malicious Content</a>
+                </h3>
+                <p class="article-summary">Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the ...</p>
+                <div class="article-meta">Tue, 16 Dec 2025 14:14:48</div>
+            </div>
+            <div class="article-card" data-source="Krebs on Security">
+                <div class="article-source">Krebs on Security</div>
+                <h3 class="article-title">
+                    <a href="https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/" target="_blank" rel="noopener">Microsoft Patch Tuesday, December 2025 Edition</a>
+                </h3>
+                <p class="article-summary">Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...</p>
+                <div class="article-meta">Tue, 09 Dec 2025 23:18:29</div>
+            </div>
+            <div class="article-card" data-source="Krebs on Security">
+                <div class="article-source">Krebs on Security</div>
+                <h3 class="article-title">
+                    <a href="https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/" target="_blank" rel="noopener">Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill</a>
+                </h3>
+                <p class="article-summary">A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...</p>
+                <div class="article-meta">Sat, 06 Dec 2025 14:45:03</div>
+            </div>
+            <div class="article-card" data-source="Krebs on Security">
+                <div class="article-source">Krebs on Security</div>
+                <h3 class="article-title">
+                    <a href="https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/" target="_blank" rel="noopener">SMS Phishers Pivot to Points, Taxes, Fake Retailers</a>
+                </h3>
+                <p class="article-summary">China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...</p>
+                <div class="article-meta">Thu, 04 Dec 2025 23:02:34</div>
+            </div>
+            <div class="article-card" data-source="Krebs on Security">
+                <div class="article-source">Krebs on Security</div>
+                <h3 class="article-title">
+                    <a href="https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/" target="_blank" rel="noopener">Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’</a>
+                </h3>
+                <p class="article-summary">A prolific cybercriminal group that calls itself &quot;Scattered LAPSUS$ Hunters&quot; made headlines regularly this year by stealing data from and publicly mas...</p>
+                <div class="article-meta">Wed, 26 Nov 2025 17:22:36</div>
+            </div>
+            <div class="article-card" data-source="Dark Reading">
+                <div class="article-source">Dark Reading</div>
+                <h3 class="article-title">
+                    <a href="https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining" target="_blank" rel="noopener">Attackers Use Stolen AWS Credentials in Cryptomining Campaign</a>
+                </h3>
+                <p class="article-summary">Threat actors wielding stolen AWS Identity and Access Management (IAM) credentials leverage Amazon EC and EC2 infrastructure across multiple customer ...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 16:33:22</div>
+            </div>
+            <div class="article-card" data-source="Dark Reading">
+                <div class="article-source">Dark Reading</div>
+                <h3 class="article-title">
+                    <a href="https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation" target="_blank" rel="noopener">Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation</a>
+                </h3>
+                <p class="article-summary">Rapid digitization, uneven cybersecurity know-how, and growing cybercriminal syndicates in the region have challenged law enforcement and prosecutors.</p>
+                <div class="article-meta">Wed, 17 Dec 2025 07:00:00</div>
+            </div>
+            <div class="article-card" data-source="Dark Reading">
+                <div class="article-source">Dark Reading</div>
+                <h3 class="article-title">
+                    <a href="https://www.darkreading.com/threat-intelligence/why-17-year-old-built-ai-expose-deepfake-maps" target="_blank" rel="noopener">Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps</a>
+                </h3>
+                <p class="article-summary">A high-school student is tackling the overlooked risk of AI-generated satellite imagery that could mislead governments and emergency responders.</p>
+                <div class="article-meta">Tue, 16 Dec 2025 22:53:00</div>
+            </div>
+            <div class="article-card" data-source="Dark Reading">
+                <div class="article-source">Dark Reading</div>
+                <h3 class="article-title">
+                    <a href="https://www.darkreading.com/cybersecurity-operations/why-you-should-train-your-soc-like-triathlete" target="_blank" rel="noopener">Why You Should Train Your SOC Like a Triathlete</a>
+                </h3>
+                <p class="article-summary">The key elements in a security operations center&#x27;s strategy map very closely to the swim/bike/run events in a triathlon. SOCs, like triathletes, perfo...</p>
+                <div class="article-meta">Tue, 16 Dec 2025 22:20:33</div>
+            </div>
+            <div class="article-card" data-source="Dark Reading">
+                <div class="article-source">Dark Reading</div>
+                <h3 class="article-title">
+                    <a href="https://www.darkreading.com/cyber-risk/venezuela-oil-company-downplays-alleged-us-cyberattack" target="_blank" rel="noopener">Venezuelan Oil Company Downplays Alleged US Cyberattack</a>
+                </h3>
+                <p class="article-summary">But media reports described the attack as causing major disruption to PDVSA, the state-owned oil and natural gas company.</p>
+                <div class="article-meta">Tue, 16 Dec 2025 20:33:16</div>
+            </div>
+            <div class="article-card" data-source="Security Week">
+                <div class="article-source">Security Week</div>
+                <h3 class="article-title">
+                    <a href="https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/" target="_blank" rel="noopener">NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft</a>
+                </h3>
+                <p class="article-summary">The trucking industry group has released its 2026 Transportation Industry Cybersecurity Trends Report. The post NMFTA Warns of Surge and Sophisticatio...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 13:39:51</div>
+            </div>
+            <div class="article-card" data-source="Security Week">
+                <div class="article-source">Security Week</div>
+                <h3 class="article-title">
+                    <a href="https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/" target="_blank" rel="noopener">Hacker Conversations: Alex Hall, One-time Fraudster</a>
+                </h3>
+                <p class="article-summary">A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 13:00:00</div>
+            </div>
+            <div class="article-card" data-source="Security Week">
+                <div class="article-source">Security Week</div>
+                <h3 class="article-title">
+                    <a href="https://www.securityweek.com/new-150-cellik-rat-grants-android-control-trojanizes-google-play-apps/" target="_blank" rel="noopener">New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps</a>
+                </h3>
+                <p class="article-summary">The malware provides full device control and real-time surveillance capabilities like those of advanced spyware. The post New $150 Cellik RAT Grants A...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 12:44:13</div>
+            </div>
+            <div class="article-card" data-source="Security Week">
+                <div class="article-source">Security Week</div>
+                <h3 class="article-title">
+                    <a href="https://www.securityweek.com/five-cybersecurity-predictions-for-2026-identity-ai-and-the-collapse-of-perimeter-thinking/" target="_blank" rel="noopener">Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking</a>
+                </h3>
+                <p class="article-summary">The perimeter is gone. Credentials are no longer sufficient. And security can no longer rely on static controls in a dynamic threat environment. The p...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 12:00:00</div>
+            </div>
+            <div class="article-card" data-source="Security Week">
+                <div class="article-source">Security Week</div>
+                <h3 class="article-title">
+                    <a href="https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/" target="_blank" rel="noopener">Adaptive Security Raises $81 Million in Series B Funding</a>
+                </h3>
+                <p class="article-summary">Led by Bain Capital Ventures, the investment round brings the total raised by the company to $146.5 million. The post Adaptive Security Raises $81 Mil...</p>
+                <div class="article-meta">Wed, 17 Dec 2025 11:18:29</div>
+            </div>
+            <div class="article-card" data-source="Threatpost">
+                <div class="article-source">Threatpost</div>
+                <h3 class="article-title">
+                    <a href="https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/" target="_blank" rel="noopener">Student Loan Breach Exposes 2.5M Records</a>
+                </h3>
+                <p class="article-summary">2.5 million people were affected, in a breach that could spell more trouble down the line.</p>
+                <div class="article-meta">Wed, 31 Aug 2022 12:57:48</div>
+            </div>
+            <div class="article-card" data-source="Threatpost">
+                <div class="article-source">Threatpost</div>
+                <h3 class="article-title">
+                    <a href="https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/" target="_blank" rel="noopener">Watering Hole Attacks Push ScanBox Keylogger</a>
+                </h3>
+                <p class="article-summary">Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.</p>
+                <div class="article-meta">Tue, 30 Aug 2022 16:00:43</div>
+            </div>
+            <div class="article-card" data-source="Threatpost">
+                <div class="article-source">Threatpost</div>
+                <h3 class="article-title">
+                    <a href="https://threatpost.com/0ktapus-victimize-130-firms/180487/" target="_blank" rel="noopener">Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</a>
+                </h3>
+                <p class="article-summary">Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.</p>
+                <div class="article-meta">Mon, 29 Aug 2022 14:56:19</div>
+            </div>
+            <div class="article-card" data-source="Threatpost">
+                <div class="article-source">Threatpost</div>
+                <h3 class="article-title">
+                    <a href="https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/" target="_blank" rel="noopener">Ransomware Attacks are on the Rise</a>
+                </h3>
+                <p class="article-summary">Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.</p>
+                <div class="article-meta">Fri, 26 Aug 2022 16:44:27</div>
+            </div>
+            <div class="article-card" data-source="Threatpost">
+                <div class="article-source">Threatpost</div>
+                <h3 class="article-title">
+                    <a href="https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/" target="_blank" rel="noopener">Cybercriminals Are Selling Access to Chinese Surveillance Cameras</a>
+                </h3>
+                <p class="article-summary">Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.</p>
+                <div class="article-meta">Thu, 25 Aug 2022 18:47:15</div>
+            </div>
+            <div class="article-card" data-source="CISA Alerts">
+                <div class="article-source">CISA Alerts</div>
+                <h3 class="article-title">
+                    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-04" target="_blank" rel="noopener">Mitsubishi Electric GT Designer3</a>
+                </h3>
+                <p class="article-summary">View CSAF Summary Successful exploitation of this vulnerability could allow an attacker obtain plaintext credentials from the project file for GT Desi...</p>
+                <div class="article-meta">Tue, 16 Dec 25 12:00:00 +</div>
+            </div>
+            <div class="article-card" data-source="CISA Alerts">
+                <div class="article-source">CISA Alerts</div>
+                <h3 class="article-title">
+                    <a href="https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-releases-seven-industrial-control-systems-advisories" target="_blank" rel="noopener">CISA Releases Seven Industrial Control Systems Advisories</a>
+                </h3>
+                <p class="article-summary">CISA released seven Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabil...</p>
+                <div class="article-meta">Tue, 16 Dec 25 12:00:00 +</div>
+            </div>
+            <div class="article-card" data-source="CISA Alerts">
+                <div class="article-source">CISA Alerts</div>
+                <h3 class="article-title">
+                    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-03" target="_blank" rel="noopener">Hitachi Energy AFS, AFR and AFF Series</a>
+                </h3>
+                <p class="article-summary">View CSAF Summary Successful exploitation of this vulnerability could compromise the integrity of the product data and disrupt its availability. The f...</p>
+                <div class="article-meta">Tue, 16 Dec 25 12:00:00 +</div>
+            </div>
+            <div class="article-card" data-source="CISA Alerts">
+                <div class="article-source">CISA Alerts</div>
+                <h3 class="article-title">
+                    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-02" target="_blank" rel="noopener">Johnson Controls PowerG, IQPanel and IQHub</a>
+                </h3>
+                <p class="article-summary">View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to read or write encrypted traffic or perform a replay atta...</p>
+                <div class="article-meta">Tue, 16 Dec 25 12:00:00 +</div>
+            </div>
+            <div class="article-card" data-source="CISA Alerts">
+                <div class="article-source">CISA Alerts</div>
+                <h3 class="article-title">
+                    <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-01" target="_blank" rel="noopener">Güralp Systems Fortimus Series, Minimus Series, and Certimus Series</a>
+                </h3>
+                <p class="article-summary">View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition. The following versions...</p>
+                <div class="article-meta">Tue, 16 Dec 25 12:00:00 +</div>
+            </div>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            <p>🤖 Automatically updated every 2 hours via <a href="https://github.com/features/actions" target="_blank">GitHub Actions</a></p>
+            <p style="margin-top: 10px; font-size: 0.85rem;">
+                Data sources: The Hacker News, BleepingComputer, Krebs on Security, Dark Reading, Security Week, Naked Security, Threatpost, CISA
+            </p>
+        </footer>
+    </div>
+    
+    <script>
+        // Source Distribution Chart
+        const sourceCtx = document.getElementById('sourceChart').getContext('2d');
+        new Chart(sourceCtx, {
+            type: 'doughnut',
+            data: {
+                labels: ["The Hacker News", "BleepingComputer", "Krebs on Security", "Dark Reading", "Security Week", "Naked Security", "Threatpost", "CISA Alerts"],
+                datasets: [{
+                    data: [8, 8, 8, 8, 8, 0, 8, 8],
+                    backgroundColor: [
+                        '#00ff88', '#00ccff', '#ff6b6b', '#ffd93d', 
+                        '#6c5ce7', '#a29bfe', '#fd79a8', '#00b894'
+                    ],
+                    borderColor: '#1a1a25',
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'right',
+                        labels: {
+                            color: '#a0a0b0',
+                            padding: 15,
+                            font: { size: 11 }
+                        }
+                    },
+                    title: {
+                        display: true,
+                        text: 'Articles by Source',
+                        color: '#ffffff',
+                        font: { size: 14, weight: '600' }
+                    }
+                }
+            }
+        });
+        
+        // Keyword Frequency Chart
+        const keywordCtx = document.getElementById('keywordChart').getContext('2d');
+        new Chart(keywordCtx, {
+            type: 'bar',
+            data: {
+                labels: ["five cybersecurity p", "mass creating fake", "50 000 downloads", "malicious cyber acto", "user named csnemess", "prolific cybercrimin", "windows operating sy", "twitter whistleblowe", "supposed wayward pac", "life events neurodiv"],
+                datasets: [{
+                    label: 'Mentions',
+                    data: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+                    backgroundColor: 'rgba(0, 255, 136, 0.6)',
+                    borderColor: '#00ff88',
+                    borderWidth: 1,
+                    borderRadius: 4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                indexAxis: 'y',
+                plugins: {
+                    legend: { display: false },
+                    title: {
+                        display: true,
+                        text: 'Keyword Frequency (All Time)',
+                        color: '#ffffff',
+                        font: { size: 14, weight: '600' }
+                    }
+                },
+                scales: {
+                    x: {
+                        grid: { color: 'rgba(255,255,255,0.1)' },
+                        ticks: { color: '#a0a0b0' }
+                    },
+                    y: {
+                        grid: { display: false },
+                        ticks: { color: '#a0a0b0', font: { size: 10 } }
+                    }
+                }
+            }
+        });
+        
+        // Article filtering
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                
+                const filter = btn.dataset.filter;
+                document.querySelectorAll('.article-card').forEach(card => {
+                    if (filter === 'all' || card.dataset.source === filter) {
+                        card.style.display = 'block';
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

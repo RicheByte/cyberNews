@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-18 14:18 UTC  
+> **Last Updated:** 2025-12-18 16:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**113 000 impacted** • **international passenger ferry** • **mass creating fake** • **remote code execution** • **asus live update** • **access management iam** • **maximum severity vulnerability** • **twitter whistleblower complaint** • **remote work requires** • **prolific cybercriminal group** • **global cryptocurrency theft** • **web manager appliances** • **another botnet known** • **still alive spying** • **retailers like bestbuy** • **agent like features** • **windows operating systems** • **got1000 series devices** • **offer unlimited access** • **malicious cyber actors**
+**113 000 impacted** • **execute arbitrary code** • **international passenger ferry** • **mass creating fake** • **france arrests latvian** • **asus live update** • **maximum severity vulnerability** • **remote code execution** • **medium severity flaw** • **infrastructure management software** • **twitter whistleblower complaint** • **remote work requires** • **access management iam** • **still alive spying** • **retailers like bestbuy** • **agent like features** • **got1000 series devices** • **windows operating systems** • **critical fortinet flaws** • **three part series**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
 - [ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html)
 - [North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft](https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html)
 - [The Case for Dynamic AI-SaaS Security as Copilots Scale](https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html)
@@ -23,18 +24,17 @@
 - [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
 - [Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
 - [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
-- [Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks](https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html)
 
 ### BleepingComputer
 
+- [US seizes E-Note crypto exchange for laundering ransomware payments](https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/)
+- [NIS2 compliance: How to get passwords and MFA right](https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/)
 - [France arrests Latvian for installing malware on Italian ferry](https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/)
 - [HPE warns of maximum severity RCE flaw in OneView software](https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/)
 - [Microsoft: Recent Windows updates break RemoteApp connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/)
 - [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
 - [France arrests suspect tied to cyberattack on Interior Ministry](https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/)
 - [Amazon: Ongoing cryptomining campaign uses hacked AWS accounts](https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/)
-- [WhatsApp device linking abused in account hijacking attacks](https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/)
-- [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks](https://www.securityweek.com/uefi-vulnerability-in-major-motherboards-enables-early-boot-attacks/)
+- [HPE Patches Critical Flaw in IT Infrastructure Management Software](https://www.securityweek.com/hpe-patches-critical-flaw-in-it-infrastructure-management-software/)
 - [CISA Warns of Exploited Flaw in Asus Update Tool](https://www.securityweek.com/cisa-warns-of-exploited-flaw-in-asus-update-tool/)
 - [113,000 Impacted by Data Breach at Virginia Mental Health Authority](https://www.securityweek.com/113000-impacted-by-data-breach-at-virginia-mental-health-authority/)
 - [IoT Security Firm Exein Raises €100 Million](https://www.securityweek.com/iot-security-firm-exein-raises-e100-million/)
 - [France Probes ‘Foreign Interference’ After Remote Control Malware Found on Passenger Ferry](https://www.securityweek.com/france-probes-foreign-interference-after-remote-control-malware-found-on-passenger-ferry/)
 - [SonicWall Patches Exploited SMA 1000 Zero-Day](https://www.securityweek.com/sonicwall-patches-exploited-sma-1000-zero-day/)
 - [China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear](https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/)
-- [NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft](https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/)
-- [Hacker Conversations: Alex Hall, One-Time Fraudster](https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/)
 
 ### Threatpost
 

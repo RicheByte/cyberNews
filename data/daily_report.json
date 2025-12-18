@@ -1,72 +1,86 @@
 {
-  "last_updated": "2025-12-18 14:18",
+  "last_updated": "2025-12-18 16:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "113 000 impacted",
+    "execute arbitrary code",
     "international passenger ferry",
     "mass creating fake",
-    "remote code execution",
+    "france arrests latvian",
     "asus live update",
-    "access management iam",
     "maximum severity vulnerability",
+    "remote code execution",
+    "medium severity flaw",
+    "infrastructure management software",
     "twitter whistleblower complaint",
     "remote work requires",
-    "prolific cybercriminal group",
-    "global cryptocurrency theft",
-    "web manager appliances",
-    "another botnet known",
+    "access management iam",
     "still alive spying",
     "retailers like bestbuy",
     "agent like features",
-    "windows operating systems",
     "got1000 series devices",
-    "offer unlimited access",
-    "malicious cyber actors"
+    "windows operating systems",
+    "critical fortinet flaws",
+    "three part series"
   ],
   "trending": [
     {
       "keyword": "113 000 impacted",
-      "mentions": 2
-    },
-    {
-      "keyword": "international passenger ferry",
       "mentions": 3
     },
     {
-      "keyword": "mass creating fake",
-      "mentions": 13
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 3
-    },
-    {
-      "keyword": "asus live update",
+      "keyword": "execute arbitrary code",
       "mentions": 1
     },
     {
-      "keyword": "access management iam",
-      "mentions": 9
+      "keyword": "international passenger ferry",
+      "mentions": 4
+    },
+    {
+      "keyword": "mass creating fake",
+      "mentions": 14
+    },
+    {
+      "keyword": "france arrests latvian",
+      "mentions": 1
+    },
+    {
+      "keyword": "asus live update",
+      "mentions": 2
     },
     {
       "keyword": "maximum severity vulnerability",
+      "mentions": 3
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 4
+    },
+    {
+      "keyword": "medium severity flaw",
       "mentions": 2
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 13
-    },
-    {
-      "keyword": "remote work requires",
-      "mentions": 2
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 13
+      "keyword": "infrastructure management software",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
+      "summary": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution. The critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a",
+      "published": "Thu, 18 Dec 2025 20:09:00 +0530",
+      "value_score": 82,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
@@ -152,15 +166,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks",
-      "link": "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html",
-      "summary": "A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, and may be associated with another botnet known as AISURU, according to findings from QiAnXin XLab. \"Kimwolf is a botnet compiled using the NDK [Native Development Kit],\" the company said in a report",
-      "published": "Wed, 17 Dec 2025 23:39:00 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "US seizes E-Note crypto exchange for laundering ransomware payments",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/",
+      "summary": "Law enforcement has seized the servers and domains of the E-Note cryptocurrency exchange, allegedly used by cybercriminal groups to launder more than $70 million. [...]",
+      "published": "Thu, 18 Dec 2025 11:13:03 -0500",
+      "value_score": 28,
       "value_signals": [
-        "Botnet ×4"
+        "Ransomware"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "NIS2 compliance: How to get passwords and MFA right",
+      "link": "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/",
+      "summary": "NIS2 puts identity and access controls under the spotlight, with weak passwords and poor authentication now a compliance risk. Specops Software explains how to align password policies and MFA with NIS2 requirements. [...]",
+      "published": "Thu, 18 Dec 2025 10:01:11 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -221,28 +244,6 @@
       "published": "Wed, 17 Dec 2025 16:48:33 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WhatsApp device linking abused in account hijacking attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/",
-      "summary": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing. [...]",
-      "published": "Wed, 17 Dec 2025 14:14:30 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/",
-      "summary": "​Cisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances. [...]",
-      "published": "Wed, 17 Dec 2025 13:45:36 -0500",
-      "value_score": 91,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -404,6 +405,27 @@
     },
     {
       "source": "Security Week",
+      "title": "UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks",
+      "link": "https://www.securityweek.com/uefi-vulnerability-in-major-motherboards-enables-early-boot-attacks/",
+      "summary": "ASRock, Asus, Gigabyte, and MSI motherboards are vulnerable to early-boot DMA attacks. The post UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 18 Dec 2025 15:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "HPE Patches Critical Flaw in IT Infrastructure Management Software",
+      "link": "https://www.securityweek.com/hpe-patches-critical-flaw-in-it-infrastructure-management-software/",
+      "summary": "Tracked as CVE-2025-37164, the critical flaw could allow unauthenticated, remote attackers to execute arbitrary code. The post HPE Patches Critical Flaw in IT Infrastructure Management Software appeared first on SecurityWeek .",
+      "published": "Thu, 18 Dec 2025 15:07:19 +0000",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "CISA Warns of Exploited Flaw in Asus Update Tool",
       "link": "https://www.securityweek.com/cisa-warns-of-exploited-flaw-in-asus-update-tool/",
       "summary": "Tracked as CVE-2025-59374, the issue is a software backdoor implanted in Asus Live Update in a supply chain attack. The post CISA Warns of Exploited Flaw in Asus Update Tool appeared first on SecurityWeek .",
@@ -474,24 +496,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft",
-      "link": "https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/",
-      "summary": "The trucking industry group has released its 2026 Transportation Industry Cybersecurity Trends Report. The post NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft appeared first on SecurityWeek .",
-      "published": "Wed, 17 Dec 2025 13:39:51 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacker Conversations: Alex Hall, One-Time Fraudster",
-      "link": "https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/",
-      "summary": "A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter. The post Hacker Conversations: Alex Hall, One-Time Fraudster appeared first on SecurityWeek .",
-      "published": "Wed, 17 Dec 2025 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

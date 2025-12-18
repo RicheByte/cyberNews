@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-18 14:18 UTC |
+| 🕐 Last Updated | 2025-12-18 16:23 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 13 |
+| 📈 Total Updates | 14 |
 
 ## 🔥 Trending Topics
 
-`113 000 impacted` • `international passenger ferry` • `mass creating fake` • `remote code execution` • `asus live update` • `access management iam` • `maximum severity vulnerability` • `twitter whistleblower complaint` • `remote work requires` • `prolific cybercriminal group`
+`113 000 impacted` • `execute arbitrary code` • `international passenger ferry` • `mass creating fake` • `france arrests latvian` • `asus live update` • `maximum severity vulnerability` • `remote code execution` • `medium severity flaw` • `infrastructure management software`
 
 ## 📄 Reports
 

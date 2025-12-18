@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-18 08:23 UTC  
+> **Last Updated:** 2025-12-18 10:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **five cybersecurity predictions** • **critical fortinet flaws** • **prolific cybercriminal group** • **access management iam** • **twitter whistleblower complaint** • **life events neurodiversity** • **146 5 million** • **web manager appliances** • **got1000 series devices** • **another botnet known** • **offer unlimited access** • **malicious cyber actors** • **gain initial access** • **windows operating systems** • **unpaid toll fee** • **targeted france's ministry** • **supposed wayward package** • **state owned oil** • **spring cyberattacks focused**
+**mass creating fake** • **international passenger ferry** • **five cybersecurity predictions** • **windows operating systems** • **remote code execution** • **prolific cybercriminal group** • **access management iam** • **twitter whistleblower complaint** • **life events neurodiversity** • **critical fortinet flaws** • **146 5 million** • **web manager appliances** • **got1000 series devices** • **another botnet known** • **offer unlimited access** • **malicious cyber actors** • **gain initial access** • **attacker remotely control** • **unpaid toll fee** • **targeted france's ministry**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
 - [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
 - [Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
 - [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
@@ -23,10 +24,10 @@
 - [APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign](https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html)
 - [New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails](https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html)
 - [Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time](https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html)
-- [China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware](https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html)
 
 ### BleepingComputer
 
+- [Microsoft: Recent Windows updates break RemoteApp connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/)
 - [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
 - [France arrests suspect tied to cyberattack on Interior Ministry](https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/)
 - [Amazon: Ongoing cryptomining campaign uses hacked AWS accounts](https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/)
@@ -34,7 +35,6 @@
 - [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
 - [Sonicwall warns of new SMA1000 zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/)
 - [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
-- [Your MFA Is Costing You Millions. It Doesn't Have To.](https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [France Probes ‘Foreign Interference’ After Remote Control Malware Found on Passenger Ferry](https://www.securityweek.com/france-probes-foreign-interference-after-remote-control-malware-found-on-passenger-ferry/)
+- [SonicWall Patches Exploited SMA 1000 Zero-Day](https://www.securityweek.com/sonicwall-patches-exploited-sma-1000-zero-day/)
 - [China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear](https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/)
 - [NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft](https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/)
 - [Hacker Conversations: Alex Hall, One-Time Fraudster](https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/)
 - [New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps](https://www.securityweek.com/new-150-cellik-rat-grants-android-control-trojanizes-google-play-apps/)
 - [Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking](https://www.securityweek.com/five-cybersecurity-predictions-for-2026-identity-ai-and-the-collapse-of-perimeter-thinking/)
 - [Adaptive Security Raises $81 Million in Series B Funding](https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/)
-- [GhostPoster Firefox Extensions Hide Malware in Icons](https://www.securityweek.com/ghostposter-firefox-extensions-hide-malware-in-icons/)
-- [Auto Parts Giant LKQ Confirms Oracle EBS Breach](https://www.securityweek.com/auto-parts-giant-lkq-confirms-oracle-ebs-breach/)
 
 ### Threatpost
 

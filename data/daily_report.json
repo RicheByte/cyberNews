@@ -1,15 +1,18 @@
 {
-  "last_updated": "2025-12-18 08:23",
+  "last_updated": "2025-12-18 10:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mass creating fake",
+    "international passenger ferry",
     "five cybersecurity predictions",
-    "critical fortinet flaws",
+    "windows operating systems",
+    "remote code execution",
     "prolific cybercriminal group",
     "access management iam",
     "twitter whistleblower complaint",
     "life events neurodiversity",
+    "critical fortinet flaws",
     "146 5 million",
     "web manager appliances",
     "got1000 series devices",
@@ -17,56 +20,64 @@
     "offer unlimited access",
     "malicious cyber actors",
     "gain initial access",
-    "windows operating systems",
+    "attacker remotely control",
     "unpaid toll fee",
-    "targeted france's ministry",
-    "supposed wayward package",
-    "state owned oil",
-    "spring cyberattacks focused"
+    "targeted france's ministry"
   ],
   "trending": [
     {
       "keyword": "mass creating fake",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "international passenger ferry",
+      "mentions": 1
     },
     {
       "keyword": "five cybersecurity predictions",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "critical fortinet flaws",
-      "mentions": 5
+      "keyword": "windows operating systems",
+      "mentions": 11
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 1
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "access management iam",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "life events neurodiversity",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "146 5 million",
-      "mentions": 1
-    },
-    {
-      "keyword": "web manager appliances",
-      "mentions": 1
-    },
-    {
-      "keyword": "got1000 series devices",
-      "mentions": 10
+      "keyword": "critical fortinet flaws",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App",
+      "link": "https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html",
+      "summary": "The North Korean threat actor known as Kimsuky has been linked to a new campaign that distributes a new variant of Android malware called DocSwap via QR codes hosted on phishing sites mimicking Seoul-based logistics firm CJ Logistics (formerly CJ Korea Express). \"The threat actor leveraged QR codes and notification pop-ups to lure victims into installing and executing the malware on their mobile",
+      "published": "Thu, 18 Dec 2025 13:13:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation",
@@ -155,11 +166,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware",
-      "link": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
-      "summary": "The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America. Check Point Research is tracking the cluster under the name Ink Dragon. It's also referenced by the broader cybersecurity community under the names CL-STA-0049, Earth Alux, and REF7707. The",
-      "published": "Wed, 17 Dec 2025 16:42:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft: Recent Windows updates break RemoteApp connections",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/",
+      "summary": "Microsoft has confirmed that recent Windows updates trigger RemoteApp connection failures on Windows 11 24H2/25H2 and Windows Server 2025 devices in Azure Virtual Desktop environments. [...]",
+      "published": "Thu, 18 Dec 2025 05:04:25 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -241,17 +252,6 @@
         "Ransomware ×2",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Your MFA Is Costing You Millions. It Doesn't Have To.",
-      "link": "https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/",
-      "summary": "Passwords and app-based MFA add hidden costs through lost productivity, frequent resets, and risk of phishing and social engineering attacks. Token explains how wireless biometric, passwordless authentication eliminates credential-based attacks and delivers measurable financial returns by reducing login time across the enterprise. [...]",
-      "published": "Wed, 17 Dec 2025 09:00:00 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {
@@ -410,6 +410,29 @@
     },
     {
       "source": "Security Week",
+      "title": "France Probes ‘Foreign Interference’ After Remote Control Malware Found on Passenger Ferry",
+      "link": "https://www.securityweek.com/france-probes-foreign-interference-after-remote-control-malware-found-on-passenger-ferry/",
+      "summary": "France’s counterespionage agency is investigating a suspected cyberattack plot targeting an international passenger ferry The post France Probes ‘Foreign Interference’ After Remote Control Malware Found on Passenger Ferry appeared first on SecurityWeek .",
+      "published": "Thu, 18 Dec 2025 10:05:50 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "SonicWall Patches Exploited SMA 1000 Zero-Day",
+      "link": "https://www.securityweek.com/sonicwall-patches-exploited-sma-1000-zero-day/",
+      "summary": "The medium-severity flaw has been exploited in combination with a critical bug for remote code execution. The post SonicWall Patches Exploited SMA 1000 Zero-Day appeared first on SecurityWeek .",
+      "published": "Thu, 18 Dec 2025 09:10:03 +0000",
+      "value_score": 94,
+      "value_signals": [
+        "Zero-day ×2",
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear",
       "link": "https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/",
       "summary": "The critical zero-day is tracked as CVE-2025-20393 and it impacts Secure Email Gateway and Secure Email and Web Manager appliances. The post China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear appeared first on SecurityWeek .",
@@ -466,26 +489,6 @@
       "published": "Wed, 17 Dec 2025 11:18:29 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "GhostPoster Firefox Extensions Hide Malware in Icons",
-      "link": "https://www.securityweek.com/ghostposter-firefox-extensions-hide-malware-in-icons/",
-      "summary": "The malware hijacks purchase commissions, tracks users, removes security headers, injects hidden iframes, and bypasses CAPTCHA. The post GhostPoster Firefox Extensions Hide Malware in Icons appeared first on SecurityWeek .",
-      "published": "Wed, 17 Dec 2025 10:40:19 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Auto Parts Giant LKQ Confirms Oracle EBS Breach",
-      "link": "https://www.securityweek.com/auto-parts-giant-lkq-confirms-oracle-ebs-breach/",
-      "summary": "LKQ said the personal information of thousands of individuals was compromised as a result of the hacker attack. The post Auto Parts Giant LKQ Confirms Oracle EBS Breach appeared first on SecurityWeek .",
-      "published": "Wed, 17 Dec 2025 09:11:03 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

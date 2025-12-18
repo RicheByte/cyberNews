@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-18 16:23 UTC  
+> **Last Updated:** 2025-12-18 18:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**113 000 impacted** • **execute arbitrary code** • **international passenger ferry** • **mass creating fake** • **france arrests latvian** • **asus live update** • **maximum severity vulnerability** • **remote code execution** • **medium severity flaw** • **infrastructure management software** • **twitter whistleblower complaint** • **remote work requires** • **access management iam** • **still alive spying** • **retailers like bestbuy** • **agent like features** • **got1000 series devices** • **windows operating systems** • **critical fortinet flaws** • **three part series**
+**113 000 impacted** • **execute arbitrary code** • **international passenger ferry** • **mass creating fake** • **france arrests latvian** • **asus live update** • **medium severity flaw** • **infrastructure management software** • **maximum severity vulnerability** • **remote code execution** • **twitter whistleblower complaint** • **real life identity** • **cisco ssl vpn** • **block many types** • **still alive spying** • **retailers like bestbuy** • **agent like features** • **ignition gateway service** • **least september 2023** • **remote work requires**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware](https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html)
 - [HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
 - [ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html)
 - [North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft](https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html)
@@ -23,10 +24,10 @@
 - [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
 - [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
 - [Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
-- [SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html)
 
 ### BleepingComputer
 
+- [New password spraying attacks target Cisco, PAN VPN gateways](https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/)
 - [US seizes E-Note crypto exchange for laundering ransomware payments](https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/)
 - [NIS2 compliance: How to get passwords and MFA right](https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/)
 - [France arrests Latvian for installing malware on Italian ferry](https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/)
@@ -34,7 +35,6 @@
 - [Microsoft: Recent Windows updates break RemoteApp connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/)
 - [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
 - [France arrests suspect tied to cyberattack on Interior Ministry](https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/)
-- [Amazon: Ongoing cryptomining campaign uses hacked AWS accounts](https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/17/cisa-adds-three-known-exploited-vulnerabilities-catalog)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Mitsubishi Electric GT Designer3](https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-04)
-- [CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-releases-seven-industrial-control-systems-advisories)
-- [Hitachi Energy AFS, AFR and AFF Series](https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-03)
-- [Johnson Controls PowerG, IQPanel and IQHub](https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-02)
-- [Güralp Systems Fortimus Series, Minimus Series, and Certimus Series](https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-01)
-- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)
+- [Advantech WebAccess/SCADA](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-06)
+- [Inductive Automation Ignition](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-01)
+- [National Instruments LabView](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-03)
+- [Schneider Electric EcoStruxure Foxboro DCS Advisor](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-02)
+- [Siemens Interniche IP-Stack](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-05)
+- [Rockwell Automation Micro820, Micro850, Micro870](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-07)
+- [Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electrics Products](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-04)
+- [CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2025/12/18/cisa-releases-nine-industrial-control-systems-advisories)
 
 ---
 

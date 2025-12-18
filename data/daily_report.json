@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-18 16:23",
+  "last_updated": "2025-12-18 18:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,64 +9,73 @@
     "mass creating fake",
     "france arrests latvian",
     "asus live update",
-    "maximum severity vulnerability",
-    "remote code execution",
     "medium severity flaw",
     "infrastructure management software",
+    "maximum severity vulnerability",
+    "remote code execution",
     "twitter whistleblower complaint",
-    "remote work requires",
-    "access management iam",
+    "real life identity",
+    "cisco ssl vpn",
+    "block many types",
     "still alive spying",
     "retailers like bestbuy",
     "agent like features",
-    "got1000 series devices",
-    "windows operating systems",
-    "critical fortinet flaws",
-    "three part series"
+    "ignition gateway service",
+    "least september 2023",
+    "remote work requires"
   ],
   "trending": [
     {
       "keyword": "113 000 impacted",
-      "mentions": 3
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 1
-    },
-    {
-      "keyword": "international passenger ferry",
       "mentions": 4
     },
     {
+      "keyword": "execute arbitrary code",
+      "mentions": 2
+    },
+    {
+      "keyword": "international passenger ferry",
+      "mentions": 5
+    },
+    {
       "keyword": "mass creating fake",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "france arrests latvian",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "asus live update",
+      "mentions": 3
+    },
+    {
+      "keyword": "medium severity flaw",
+      "mentions": 3
+    },
+    {
+      "keyword": "infrastructure management software",
       "mentions": 2
     },
     {
       "keyword": "maximum severity vulnerability",
-      "mentions": 3
-    },
-    {
-      "keyword": "remote code execution",
       "mentions": 4
     },
     {
-      "keyword": "medium severity flaw",
-      "mentions": 2
-    },
-    {
-      "keyword": "infrastructure management software",
-      "mentions": 1
+      "keyword": "remote code execution",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware",
+      "link": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
+      "summary": "A previously undocumented China-aligned threat cluster dubbed LongNosedGoblin has been attributed to a series of cyber attacks targeting governmental entities in Southeast Asia and Japan. The end goal of these attacks is cyber espionage, Slovak cybersecurity company ESET said in a report published today. The threat activity cluster has been assessed to be active since at least September 2023. \"",
+      "published": "Thu, 18 Dec 2025 23:04:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
@@ -151,19 +160,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
-      "link": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
-      "summary": "SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild. The vulnerability, tracked as CVE-2025-40602 (CVSS score: 6.6), concerns a case of local privilege escalation that arises as a result of insufficient authorization in the appliance management console (AMC). It affects the following",
-      "published": "Wed, 17 Dec 2025 23:47:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×3",
-        "Privilege escalation",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "New password spraying attacks target Cisco, PAN VPN gateways",
+      "link": "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/",
+      "summary": "An automated campaign is targeting multiple VPN platforms, with credential-based attacks being observed on Palo Alto Networks GlobalProtect and Cisco SSL VPN. [...]",
+      "published": "Thu, 18 Dec 2025 12:27:25 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -233,15 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/",
       "summary": "French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month. [...]",
       "published": "Wed, 17 Dec 2025 17:20:02 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/",
-      "summary": "Amazon's AWS GuardDuty security team is warning of an ongoing crypto-mining campaign that targets its Elastic Compute Cloud (EC2) and Elastic Container Service (ECS) using compromised credentials for Identity and Access Management (IAM). [...]",
-      "published": "Wed, 17 Dec 2025 16:48:33 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -582,115 +576,108 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/17/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-20393 Cisco Multiple Products Improper Input Validation Vulnerability CVE-2025-40602 SonicWall SMA1000 Missing Authorization Vulnerability CVE-2025-59374 ASUS Live Update Embedded Malicious Code Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Bind",
-      "published": "Wed, 17 Dec 25 12:00:00 +0000",
-      "value_score": 100,
+      "title": "Advantech WebAccess/SCADA",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-06",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an authenticated attacker to read or modify a remote database. The following versions of Advantech WebAccess/SCADA are affected: WebAccess/SCADA (CVE-2025-14850, CVE-2025-14849, CVE-2025-14848, CVE-2025-46268, CVE-2025-67653) CVSS Vendor Equipment Vulnerabilities v3 8.8 Advantech Advantech WebAccess/SCADA Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'), Unrestricted Upload of File with D",
+      "published": "Thu, 18 Dec 25 12:00:00 +0000",
+      "value_score": 89,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "Patch/update",
-        "CISA/KEV ×5",
+        "CVE mentioned ×5",
         "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-59718 Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the ",
-      "published": "Tue, 16 Dec 25 12:00:00 +0000",
-      "value_score": 99,
+      "title": "Inductive Automation Ignition",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to be granted direct SYSTEM-level code execution on the host operating system running the Ignition Gateway service on Windows systems. The following versions of Inductive Automation Ignition are affected: Ignition (CVE-2025-13911) CVSS Vendor Equipment Vulnerabilities v3 6.4 Inductive Automation Inductive Automation Ignition Execution with Unnecessary Privileges Background Critical Infrastructure Sectors: Cri",
+      "published": "Thu, 18 Dec 25 12:00:00 +0000",
+      "value_score": 67,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
-        "CISA/KEV ×5",
+        "High severity",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Mitsubishi Electric GT Designer3",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker obtain plaintext credentials from the project file for GT Designer3, which could result in illegally operating GOT2000 and GOT1000 series devices. The following versions of Mitsubishi Electric GT Designer3 are affected: GT Designer3 Version1 (GOT2000) (CVE-2025-11009) GT Designer3 Version1 (GOT1000) (CVE-2025-11009) CVSS Vendor Equipment Vulnerabilities v3 5.1 Mitsubishi Electric Mitsubishi Electric GT Design",
-      "published": "Tue, 16 Dec 25 12:00:00 +0000",
-      "value_score": 85,
+      "title": "National Instruments LabView",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose information and execute arbitrary code. The following versions of National Instruments LabView are affected: LabVIEW (CVE-2025-64461, CVE-2025-64462, CVE-2025-64463, CVE-2025-64464, CVE-2025-64465, CVE-2025-64466, CVE-2025-64467, CVE-2025-64468, CVE-2025-64469) LabVIEW (CVE-2025-64461, CVE-2025-64462, CVE-2025-64463, CVE-2025-64464, CVE-2025-64465, CVE-2025-64466, CVE-2025-64467, CVE-2025-64468",
+      "published": "Thu, 18 Dec 25 12:00:00 +0000",
+      "value_score": 89,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
+        "CVE mentioned ×17",
         "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Releases Six Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-releases-seven-industrial-control-systems-advisories",
-      "summary": "CISA released six Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-350-01 Güralp Systems FMUS (Fortimus) Series and MIN (Minimus) Series ICSA-25-350-02 Johnson Controls PowerG, IQPanel and IQHub ICSA-25-350-03 Hitachi Energy AFS, AFR and AFF Series ICSA-25-350-04 Mitsubishi Electric GT Designer3 ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, ",
-      "published": "Tue, 16 Dec 25 12:00:00 +0000",
+      "title": "Schneider Electric EcoStruxure Foxboro DCS Advisor",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-02",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability disclosed by Microsoft in the Microsoft Windows Server Update Services (WSUS) used in the EcoStruxure™ Foxboro DCS Advisor services. The EcoStruxure™ Foxboro DCS Advisor, an optional component of the [EcoStruxure™ Foxboro DCS system](https://www.se.com/ww/en/work/products/industrial-automation-control/foxboro-dcs/), facilitates remote connectivity and diagnostics by continuously monitoring key performance indicators (KPI) on the I/",
+      "published": "Thu, 18 Dec 25 12:00:00 +0000",
+      "value_score": 43,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens Interniche IP-Stack",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-05",
+      "summary": "View CSAF Summary Multiple Industrial products are affected by a vulnerability in the Interniche IP-Stack. The affected products do not properly enforce TCP sequence number validation in specific scenarios but accept values within a broad range. This could allow an unauthenticated remote attacker e.g. to interfere with connection setup, potentially leading to a denial of service. The attack succeeds only if an attacker can inject IP packets with spoofed addresses at precisely timed moments, and ",
+      "published": "Thu, 18 Dec 25 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Rockwell Automation Micro820, Micro850, Micro870",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-07",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could result in a denial-of-service condition. The following versions of Rockwell Automation Micro820, Micro850, Micro870 are affected: Micro820 (CVE-2025-13823, CVE-2025-13824) CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation Rockwell Automation Micro820, Micro850, Micro870 Dependency on Vulnerable Third-Party Component, Release of Invalid Pointer or Reference Background Critical Infrastructure Sectors: Critical ",
+      "published": "Thu, 18 Dec 25 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electrics Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in denial-of-service (DoS), information tampering, and information disclosure. The following versions of Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electrics Products are affected: GENESIS64 (CVE-2025-11774) ICONICS Suite (CVE-2025-11774) MobileHMI (CVE-2025-11774) MC Works64 (CVE-2025-11774) CVSS Vendor Equipment Vulnerabilities v3 8.2 Mitsubishi Electric Iconics Digital Solutions, Mitsubishi Electric",
+      "published": "Thu, 18 Dec 25 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Releases Nine Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/18/cisa-releases-nine-industrial-control-systems-advisories",
+      "summary": "CISA released nine Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-352-01 Inductive Automation Ignition ICSA-25-352-02 Schneider Electric EcoStruxure Foxboro DCS Advisor ICSA-25-352-03 National Instruments LabView ICSA-25-352-04 Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electrics Products ICSA-25-352-05 Siemens Interniche IP-Stack ICSA-25-352-06 Advant",
+      "published": "Thu, 18 Dec 25 12:00:00 +0000",
       "value_score": 81,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Hitachi Energy AFS, AFR and AFF Series",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could compromise the integrity of the product data and disrupt its availability. The following versions of Hitachi Energy AFS, AFR and AFF Series are affected: AFS 660-B/C/S (CVE-2024-3596) AFS 665-B/S (CVE-2024-3596) AFS 670 v2.0 (CVE-2024-3596) AFS 650 (CVE-2024-3596) AFS 655 (CVE-2024-3596) AFS 670 (CVE-2024-3596) AFS 675 (CVE-2024-3596) AFS 677 (CVE-2024-3596) AFR 677 (CVE-2024-3596) AFF 660 (CVE-2024-3596) AFF 665 (CVE-2024-359",
-      "published": "Tue, 16 Dec 25 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×10",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Johnson Controls PowerG, IQPanel and IQHub",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-02",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to read or write encrypted traffic or perform a replay attack. The following versions of Johnson Controls PowerG, IQPanel and IQHub are affected: PowerG (CVE-2025-61738, CVE-2025-61739, CVE-2025-26379, CVE-2025-61740) IQHub (CVE-2025-61738, CVE-2025-61739, CVE-2025-26379, CVE-2025-61740) IQPanel 2 (CVE-2025-61738, CVE-2025-61739, CVE-2025-26379, CVE-2025-61740) IQPanel 2+ (CVE-2025-61738, CVE-2025-61739, C",
-      "published": "Tue, 16 Dec 25 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×14",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Güralp Systems Fortimus Series, Minimus Series, and Certimus Series",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-350-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition. The following versions of Güralp Systems Fortimus Series, Minimus Series, and Certimus Series are affected: Fortimus Series (CVE-2025-14466) Minimus Series (CVE-2025-14466) Certimus Series (CVE-2025-14466) CVSS Vendor Equipment Vulnerabilities v3 5.3 Güralp Systems Güralp Systems Fortimus Series, Minimus Series, and Certimus Series Allocation of Resources Without Limits",
-      "published": "Tue, 16 Dec 25 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-14611 Gladinet CentreStack and Triofox Hard Coded Cryptographic Vulnerability CVE-2025-43529 Apple Multiple Products Use-After-Free WebKit Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Signif",
-      "published": "Mon, 15 Dec 25 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     }

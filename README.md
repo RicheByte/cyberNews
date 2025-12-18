@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-18 06:25 UTC |
+| 🕐 Last Updated | 2025-12-18 08:23 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 9 |
+| 📈 Total Updates | 10 |
 
 ## 🔥 Trending Topics
 
-`mass creating fake` • `critical fortinet flaws` • `five cybersecurity predictions` • `prolific cybercriminal group` • `access management iam` • `twitter whistleblower complaint` • `life events neurodiversity` • `got1000 series devices` • `another botnet known` • `offer unlimited access`
+`mass creating fake` • `five cybersecurity predictions` • `critical fortinet flaws` • `prolific cybercriminal group` • `access management iam` • `twitter whistleblower complaint` • `life events neurodiversity` • `146 5 million` • `web manager appliances` • `got1000 series devices`
 
 ## 📄 Reports
 

@@ -1,15 +1,17 @@
 {
-  "last_updated": "2025-12-18 06:25",
+  "last_updated": "2025-12-18 08:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mass creating fake",
-    "critical fortinet flaws",
     "five cybersecurity predictions",
+    "critical fortinet flaws",
     "prolific cybercriminal group",
     "access management iam",
     "twitter whistleblower complaint",
     "life events neurodiversity",
+    "146 5 million",
+    "web manager appliances",
     "got1000 series devices",
     "another botnet known",
     "offer unlimited access",
@@ -20,50 +22,48 @@
     "targeted france's ministry",
     "supposed wayward package",
     "state owned oil",
-    "spring cyberattacks focused",
-    "scattered lapsus hunters",
-    "retailers like bestbuy"
+    "spring cyberattacks focused"
   ],
   "trending": [
     {
       "keyword": "mass creating fake",
-      "mentions": 9
-    },
-    {
-      "keyword": "critical fortinet flaws",
-      "mentions": 4
+      "mentions": 10
     },
     {
       "keyword": "five cybersecurity predictions",
-      "mentions": 9
+      "mentions": 10
     },
     {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 9
-    },
-    {
-      "keyword": "access management iam",
+      "keyword": "critical fortinet flaws",
       "mentions": 5
     },
     {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 10
+    },
+    {
+      "keyword": "access management iam",
+      "mentions": 6
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "life events neurodiversity",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "146 5 million",
+      "mentions": 1
+    },
+    {
+      "keyword": "web manager appliances",
+      "mentions": 1
     },
     {
       "keyword": "got1000 series devices",
-      "mentions": 9
-    },
-    {
-      "keyword": "another botnet known",
-      "mentions": 8
-    },
-    {
-      "keyword": "offer unlimited access",
-      "mentions": 9
+      "mentions": 10
     }
   ],
   "articles": [
@@ -410,6 +410,20 @@
     },
     {
       "source": "Security Week",
+      "title": "China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear",
+      "link": "https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/",
+      "summary": "The critical zero-day is tracked as CVE-2025-20393 and it impacts Secure Email Gateway and Secure Email and Web Manager appliances. The post China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear appeared first on SecurityWeek .",
+      "published": "Thu, 18 Dec 2025 07:12:31 +0000",
+      "value_score": 92,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×3",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft",
       "link": "https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/",
       "summary": "The trucking industry group has released its 2026 Transportation Industry Cybersecurity Trends Report. The post NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft appeared first on SecurityWeek .",
@@ -419,9 +433,9 @@
     },
     {
       "source": "Security Week",
-      "title": "Hacker Conversations: Alex Hall, One-time Fraudster",
+      "title": "Hacker Conversations: Alex Hall, One-Time Fraudster",
       "link": "https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/",
-      "summary": "A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter. The post Hacker Conversations: Alex Hall, One-time Fraudster appeared first on SecurityWeek .",
+      "summary": "A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter. The post Hacker Conversations: Alex Hall, One-Time Fraudster appeared first on SecurityWeek .",
       "published": "Wed, 17 Dec 2025 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
@@ -471,17 +485,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Dux Emerges From Stealth Mode With $9 Million in Funding",
-      "link": "https://www.securityweek.com/dux-emerges-from-stealth-mode-with-9-million-in-funding/",
-      "summary": "The startup takes an agentic approach to preventing vulnerability exploitation by uncovering exposure across assets. The post Dux Emerges From Stealth Mode With $9 Million in Funding appeared first on SecurityWeek .",
-      "published": "Wed, 17 Dec 2025 07:17:18 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

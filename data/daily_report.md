@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-18 06:25 UTC  
+> **Last Updated:** 2025-12-18 08:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **critical fortinet flaws** • **five cybersecurity predictions** • **prolific cybercriminal group** • **access management iam** • **twitter whistleblower complaint** • **life events neurodiversity** • **got1000 series devices** • **another botnet known** • **offer unlimited access** • **malicious cyber actors** • **gain initial access** • **windows operating systems** • **unpaid toll fee** • **targeted france's ministry** • **supposed wayward package** • **state owned oil** • **spring cyberattacks focused** • **scattered lapsus hunters** • **retailers like bestbuy**
+**mass creating fake** • **five cybersecurity predictions** • **critical fortinet flaws** • **prolific cybercriminal group** • **access management iam** • **twitter whistleblower complaint** • **life events neurodiversity** • **146 5 million** • **web manager appliances** • **got1000 series devices** • **another botnet known** • **offer unlimited access** • **malicious cyber actors** • **gain initial access** • **windows operating systems** • **unpaid toll fee** • **targeted france's ministry** • **supposed wayward package** • **state owned oil** • **spring cyberattacks focused**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear](https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/)
 - [NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft](https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/)
-- [Hacker Conversations: Alex Hall, One-time Fraudster](https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/)
+- [Hacker Conversations: Alex Hall, One-Time Fraudster](https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/)
 - [New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps](https://www.securityweek.com/new-150-cellik-rat-grants-android-control-trojanizes-google-play-apps/)
 - [Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking](https://www.securityweek.com/five-cybersecurity-predictions-for-2026-identity-ai-and-the-collapse-of-perimeter-thinking/)
 - [Adaptive Security Raises $81 Million in Series B Funding](https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/)
 - [GhostPoster Firefox Extensions Hide Malware in Icons](https://www.securityweek.com/ghostposter-firefox-extensions-hide-malware-in-icons/)
 - [Auto Parts Giant LKQ Confirms Oracle EBS Breach](https://www.securityweek.com/auto-parts-giant-lkq-confirms-oracle-ebs-breach/)
-- [Dux Emerges From Stealth Mode With $9 Million in Funding](https://www.securityweek.com/dux-emerges-from-stealth-mode-with-9-million-in-funding/)
 
 ### Threatpost
 

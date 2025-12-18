@@ -1,72 +1,100 @@
 {
-  "last_updated": "2025-12-18 04:30",
+  "last_updated": "2025-12-18 06:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "access management iam",
-    "five cybersecurity predictions",
-    "50 000 downloads",
     "mass creating fake",
     "critical fortinet flaws",
+    "five cybersecurity predictions",
     "prolific cybercriminal group",
-    "windows operating systems",
+    "access management iam",
     "twitter whistleblower complaint",
     "life events neurodiversity",
-    "enable cryptocurrency mining",
     "got1000 series devices",
-    "offer unlimited access",
-    "gain initial access",
     "another botnet known",
+    "offer unlimited access",
     "malicious cyber actors",
-    "cybersecurity claude leaves",
-    "broader cybersecurity community",
+    "gain initial access",
+    "windows operating systems",
     "unpaid toll fee",
     "targeted france's ministry",
-    "supposed wayward package"
+    "supposed wayward package",
+    "state owned oil",
+    "spring cyberattacks focused",
+    "scattered lapsus hunters",
+    "retailers like bestbuy"
   ],
   "trending": [
     {
-      "keyword": "access management iam",
+      "keyword": "mass creating fake",
+      "mentions": 9
+    },
+    {
+      "keyword": "critical fortinet flaws",
       "mentions": 4
     },
     {
       "keyword": "five cybersecurity predictions",
-      "mentions": 8
-    },
-    {
-      "keyword": "50 000 downloads",
-      "mentions": 8
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 8
-    },
-    {
-      "keyword": "critical fortinet flaws",
-      "mentions": 3
+      "mentions": 9
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 8
+      "keyword": "access management iam",
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "life events neurodiversity",
+      "mentions": 9
+    },
+    {
+      "keyword": "got1000 series devices",
+      "mentions": 9
+    },
+    {
+      "keyword": "another botnet known",
       "mentions": 8
     },
     {
-      "keyword": "enable cryptocurrency mining",
-      "mentions": 4
+      "keyword": "offer unlimited access",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation",
+      "link": "https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting ASUS Live Update to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2025-59374 (CVSS score: 9.3), has been described as an \"embedded malicious code vulnerability\" introduced by means of a supply chain compromise",
+      "published": "Thu, 18 Dec 2025 10:31:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update ×2",
+        "CISA/KEV ×4",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances",
+      "link": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
+      "summary": "Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure Email and Web Manager. The networking equipment major said it became aware of the intrusion campaign on December 10, 2025, and that it",
+      "published": "Thu, 18 Dec 2025 09:40:00 +0530",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
@@ -132,24 +160,6 @@
       "link": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
       "summary": "The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America. Check Point Research is tracking the cluster under the name Ink Dragon. It's also referenced by the broader cybersecurity community under the names CL-STA-0049, Earth Alux, and REF7707. The",
       "published": "Wed, 17 Dec 2025 16:42:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
-      "link": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
-      "summary": "A new campaign named GhostPoster has leveraged logo files associated with 17 Mozilla Firefox browser add-ons to embed malicious JavaScript code designed to hijack affiliate links, inject tracking code, and commit click and ad fraud. The extensions have been collectively downloaded over 50,000 times, according to Koi Security, which discovered the campaign. The add-ons are no longer available.",
-      "published": "Wed, 17 Dec 2025 13:44:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
-      "link": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
-      "summary": "An ongoing campaign has been observed targeting Amazon Web Services (AWS) customers using compromised Identity and Access Management (IAM) credentials to enable cryptocurrency mining. The activity, first detected by Amazon's GuardDuty managed threat detection service and its automated security monitoring systems on November 2, 2025, employs never-before-seen persistence techniques to hamper",
-      "published": "Tue, 16 Dec 2025 22:05:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

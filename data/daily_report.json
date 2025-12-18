@@ -1,13 +1,13 @@
 {
-  "last_updated": "2025-12-18 18:25",
+  "last_updated": "2025-12-18 20:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "113 000 impacted",
     "execute arbitrary code",
     "international passenger ferry",
-    "mass creating fake",
     "france arrests latvian",
+    "mass creating fake",
     "asus live update",
     "medium severity flaw",
     "infrastructure management software",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "113 000 impacted",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "international passenger ferry",
-      "mentions": 5
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 15
+      "mentions": 6
     },
     {
       "keyword": "france arrests latvian",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "mass creating fake",
+      "mentions": 16
     },
     {
       "keyword": "asus live update",
-      "mentions": 3
-    },
-    {
-      "keyword": "medium severity flaw",
-      "mentions": 3
-    },
-    {
-      "keyword": "infrastructure management software",
-      "mentions": 2
-    },
-    {
-      "keyword": "maximum severity vulnerability",
       "mentions": 4
     },
     {
-      "keyword": "remote code execution",
+      "keyword": "medium severity flaw",
+      "mentions": 4
+    },
+    {
+      "keyword": "infrastructure management software",
+      "mentions": 3
+    },
+    {
+      "keyword": "maximum severity vulnerability",
       "mentions": 5
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -368,6 +368,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Fake Proof' and AI Slop Hobble Defenders",
+      "link": "https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders",
+      "summary": "In the React2Shell saga, nonworking and trivial proof-of-concept exploits led to confusion and perhaps a false sense of security. Can the onslaught of PoCs be tamed?",
+      "published": "Wed, 17 Dec 2025 20:58:31 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "The Future of Quantum-Safe Networks Depends on Interoperable Standards",
       "link": "https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today",
       "summary": "As quantum computing advances, secure, interoperable standards will be critical to making quantum key distribution (QKD) practical, trusted, and future-proof.",
@@ -385,17 +396,6 @@
       "published": "Wed, 17 Dec 2025 16:33:22 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "&quot;Fake Proof&quot; and AI Slop Hobble Defenders",
-      "link": "https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders",
-      "summary": "In the React2Shell saga, non-working and trivial proof-of-concept exploits led to confusion and perhaps a false sense of security. Can the onslaught of PoCs be tamed?",
-      "published": "Wed, 17 Dec 2025 14:58:31 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

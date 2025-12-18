@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-18 18:25 UTC  
+> **Last Updated:** 2025-12-18 20:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**113 000 impacted** • **execute arbitrary code** • **international passenger ferry** • **mass creating fake** • **france arrests latvian** • **asus live update** • **medium severity flaw** • **infrastructure management software** • **maximum severity vulnerability** • **remote code execution** • **twitter whistleblower complaint** • **real life identity** • **cisco ssl vpn** • **block many types** • **still alive spying** • **retailers like bestbuy** • **agent like features** • **ignition gateway service** • **least september 2023** • **remote work requires**
+**113 000 impacted** • **execute arbitrary code** • **international passenger ferry** • **france arrests latvian** • **mass creating fake** • **asus live update** • **medium severity flaw** • **infrastructure management software** • **maximum severity vulnerability** • **remote code execution** • **twitter whistleblower complaint** • **real life identity** • **cisco ssl vpn** • **block many types** • **still alive spying** • **retailers like bestbuy** • **agent like features** • **ignition gateway service** • **least september 2023** • **remote work requires**
 
 ---
 
@@ -54,9 +54,9 @@
 - [In Cybersecurity, Claude Leaves Other LLMs in the Dust](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms)
 - ['Cellik' Android RAT Leverages Google Play Store](https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store)
 - [Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity](https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity)
+- ['Fake Proof' and AI Slop Hobble Defenders](https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders)
 - [The Future of Quantum-Safe Networks Depends on Interoperable Standards](https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today)
 - [Attackers Use Stolen AWS Credentials in Cryptomining Campaign](https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining)
-- [&quot;Fake Proof&quot; and AI Slop Hobble Defenders](https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders)
 
 ### Security Week
 

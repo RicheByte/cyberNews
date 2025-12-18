@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-18 20:16 UTC  
+> **Last Updated:** 2025-12-18 22:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**113 000 impacted** • **execute arbitrary code** • **international passenger ferry** • **france arrests latvian** • **mass creating fake** • **asus live update** • **medium severity flaw** • **infrastructure management software** • **maximum severity vulnerability** • **remote code execution** • **twitter whistleblower complaint** • **real life identity** • **cisco ssl vpn** • **block many types** • **still alive spying** • **retailers like bestbuy** • **agent like features** • **ignition gateway service** • **least september 2023** • **remote work requires**
+**113 000 impacted** • **execute arbitrary code** • **international passenger ferry** • **infrastructure management software** • **mass creating fake** • **asus live update** • **medium severity flaw** • **maximum severity vulnerability** • **remote code execution** • **twitter whistleblower complaint** • **real life identity** • **france arrests latvian** • **cisco ssl vpn** • **block many types** • **still alive spying** • **retailers like bestbuy** • **agent like features** • **ignition gateway service** • **least september 2023** • **remote work requires**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [University of Sydney suffers data breach exposing student and staff info](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/)
+- [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
 - [New password spraying attacks target Cisco, PAN VPN gateways](https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/)
 - [US seizes E-Note crypto exchange for laundering ransomware payments](https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/)
 - [NIS2 compliance: How to get passwords and MFA right](https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/)
 - [France arrests Latvian for installing malware on Italian ferry](https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/)
 - [HPE warns of maximum severity RCE flaw in OneView software](https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/)
 - [Microsoft: Recent Windows updates break RemoteApp connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/)
-- [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
-- [France arrests suspect tied to cyberattack on Interior Ministry](https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/)
 
 ### Krebs on Security
 

@@ -1,20 +1,20 @@
 {
-  "last_updated": "2025-12-18 20:16",
+  "last_updated": "2025-12-18 22:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "113 000 impacted",
     "execute arbitrary code",
     "international passenger ferry",
-    "france arrests latvian",
+    "infrastructure management software",
     "mass creating fake",
     "asus live update",
     "medium severity flaw",
-    "infrastructure management software",
     "maximum severity vulnerability",
     "remote code execution",
     "twitter whistleblower complaint",
     "real life identity",
+    "france arrests latvian",
     "cisco ssl vpn",
     "block many types",
     "still alive spying",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "113 000 impacted",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "international passenger ferry",
-      "mentions": 6
-    },
-    {
-      "keyword": "france arrests latvian",
-      "mentions": 3
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 16
-    },
-    {
-      "keyword": "asus live update",
-      "mentions": 4
-    },
-    {
-      "keyword": "medium severity flaw",
-      "mentions": 4
+      "mentions": 7
     },
     {
       "keyword": "infrastructure management software",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "maximum severity vulnerability",
+      "keyword": "mass creating fake",
+      "mentions": 17
+    },
+    {
+      "keyword": "asus live update",
       "mentions": 5
     },
     {
-      "keyword": "remote code execution",
+      "keyword": "medium severity flaw",
+      "mentions": 5
+    },
+    {
+      "keyword": "maximum severity vulnerability",
       "mentions": 6
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 7
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 17
     }
   ],
   "articles": [
@@ -161,6 +161,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "University of Sydney suffers data breach exposing student and staff info",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/",
+      "summary": "Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students. [...]",
+      "published": "Thu, 18 Dec 2025 15:22:58 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/",
+      "summary": "The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign. [...]",
+      "published": "Thu, 18 Dec 2025 15:16:55 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New password spraying attacks target Cisco, PAN VPN gateways",
       "link": "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/",
       "summary": "An automated campaign is targeting multiple VPN platforms, with credential-based attacks being observed on Palo Alto Networks GlobalProtect and Cisco SSL VPN. [...]",
@@ -214,28 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/",
       "summary": "Microsoft has confirmed that recent Windows updates trigger RemoteApp connection failures on Windows 11 24H2/25H2 and Windows Server 2025 devices in Azure Virtual Desktop environments. [...]",
       "published": "Thu, 18 Dec 2025 05:04:25 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days",
-      "link": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/",
-      "summary": "The Zeroday Cloud hacking competition in London has awarded researchers $320,000 for demonstrating critical remote code execution vulnerabilities in components used in cloud infrastructure. [...]",
-      "published": "Wed, 17 Dec 2025 18:09:36 -0500",
-      "value_score": 88,
-      "value_signals": [
-        "Zero-day ×2",
-        "RCE",
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "France arrests suspect tied to cyberattack on Interior Ministry",
-      "link": "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/",
-      "summary": "French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month. [...]",
-      "published": "Wed, 17 Dec 2025 17:20:02 -0500",
       "value_score": 10,
       "value_signals": []
     },

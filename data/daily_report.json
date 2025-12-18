@@ -1,72 +1,81 @@
 {
-  "last_updated": "2025-12-18 10:18",
+  "last_updated": "2025-12-18 12:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "113 000 impacted",
     "mass creating fake",
-    "international passenger ferry",
-    "five cybersecurity predictions",
-    "windows operating systems",
     "remote code execution",
-    "prolific cybercriminal group",
+    "international passenger ferry",
     "access management iam",
-    "twitter whistleblower complaint",
-    "life events neurodiversity",
-    "critical fortinet flaws",
-    "146 5 million",
-    "web manager appliances",
-    "got1000 series devices",
-    "another botnet known",
-    "offer unlimited access",
-    "malicious cyber actors",
-    "gain initial access",
+    "windows operating systems",
+    "prolific cybercriminal group",
     "attacker remotely control",
-    "unpaid toll fee",
-    "targeted france's ministry"
+    "maximum severity vulnerability",
+    "twitter whistleblower complaint",
+    "remote work requires",
+    "web manager appliances",
+    "another botnet known",
+    "retailers like bestbuy",
+    "medium severity flaw",
+    "agent like features",
+    "got1000 series devices",
+    "offer unlimited access",
+    "trucking industry group",
+    "malicious cyber actors"
   ],
   "trending": [
     {
-      "keyword": "mass creating fake",
-      "mentions": 11
-    },
-    {
-      "keyword": "international passenger ferry",
+      "keyword": "113 000 impacted",
       "mentions": 1
     },
     {
-      "keyword": "five cybersecurity predictions",
-      "mentions": 11
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 11
+      "keyword": "mass creating fake",
+      "mentions": 12
     },
     {
       "keyword": "remote code execution",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 11
+      "keyword": "international passenger ferry",
+      "mentions": 2
     },
     {
       "keyword": "access management iam",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 12
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 12
+    },
+    {
+      "keyword": "attacker remotely control",
+      "mentions": 2
+    },
+    {
+      "keyword": "maximum severity vulnerability",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 11
-    },
-    {
-      "keyword": "life events neurodiversity",
-      "mentions": 11
-    },
-    {
-      "keyword": "critical fortinet flaws",
-      "mentions": 6
+      "mentions": 12
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
+      "link": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
+      "summary": "Within the past year, artificial intelligence copilots and agents have quietly permeated the SaaS applications businesses use every day. Tools like Zoom, Slack, Microsoft 365, Salesforce, and ServiceNow now come with built-in AI assistants or agent-like features. Virtually every major SaaS vendor has rushed to embed AI into their offerings. The result is an explosion of AI capabilities across",
+      "published": "Thu, 18 Dec 2025 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App",
@@ -155,14 +164,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
-      "link": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
-      "summary": "Modern security teams often feel like they’re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to understand which dangers matter right now for their business. Breaking out of reactive defense is no longer optional. It’s the difference between preventing incidents and cleaning up after them. Below is the path from reactive firefighting to a",
-      "published": "Wed, 17 Dec 2025 17:00:00 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "HPE warns of maximum severity RCE flaw in OneView software",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/",
+      "summary": "Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely. [...]",
+      "published": "Thu, 18 Dec 2025 06:35:53 -0500",
+      "value_score": 30,
       "value_signals": [
-        "Patch/update"
+        "RCE"
       ]
     },
     {
@@ -237,20 +246,6 @@
       "value_signals": [
         "Zero-day ×2",
         "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical React2Shell flaw exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/",
-      "summary": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later. [...]",
-      "published": "Wed, 17 Dec 2025 11:09:51 -0500",
-      "value_score": 86,
-      "value_signals": [
-        "CVE mentioned",
-        "Ransomware ×2",
-        "High severity ×2",
         "Exploit wording"
       ]
     },
@@ -365,12 +360,41 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity",
+      "link": "https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity",
+      "summary": "The future of cybersecurity means defending everywhere. Securing IoT, cloud, and remote work requires a unified edge-to-cloud strategy. First in a three-part series.",
+      "published": "Wed, 17 Dec 2025 21:14:12 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Securing the Future: Building Quantum-Safe Networks Today",
+      "link": "https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today",
+      "summary": "As quantum computing advances, interoperable standards will be the key to making QKD practical, trusted, and future-proof.",
+      "published": "Wed, 17 Dec 2025 20:46:43 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign",
       "link": "https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining",
       "summary": "Threat actors wielding stolen AWS Identity and Access Management (IAM) credentials leverage Amazon EC and EC2 infrastructure across multiple customer environments.",
       "published": "Wed, 17 Dec 2025 16:33:22 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "&quot;Fake Proof&quot; and AI Slop Hobble Defenders",
+      "link": "https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders",
+      "summary": "In the React2Shell saga, non-working and trivial proof-of-concept exploits led to confusion and perhaps a false sense of security. Can the onslaught of PoCs be tamed?",
+      "published": "Wed, 17 Dec 2025 14:58:31 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -382,29 +406,23 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps",
-      "link": "https://www.darkreading.com/threat-intelligence/why-17-year-old-built-ai-expose-deepfake-maps",
-      "summary": "A high-school student is tackling the overlooked risk of AI-generated satellite imagery that could mislead governments and emergency responders.",
-      "published": "Tue, 16 Dec 2025 22:53:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "113,000 Impacted by Data Breach at Virginia Mental Health Authority",
+      "link": "https://www.securityweek.com/113000-impacted-by-data-breach-at-virginia-mental-health-authority/",
+      "summary": "Threat actors stole names, Social Security numbers, and financial and health information, and deployed ransomware on RBHA’s systems. The post 113,000 Impacted by Data Breach at Virginia Mental Health Authority appeared first on SecurityWeek .",
+      "published": "Thu, 18 Dec 2025 11:05:02 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "Ransomware",
+        "Breach/leak ×2"
+      ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Why You Should Train Your SOC Like a Triathlete",
-      "link": "https://www.darkreading.com/cybersecurity-operations/why-you-should-train-your-soc-like-triathlete",
-      "summary": "The key elements in a security operations center's strategy map very closely to the swim/bike/run events in a triathlon. SOCs, like triathletes, perform well when their \"inputs\" are strong.",
-      "published": "Tue, 16 Dec 2025 22:20:33 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Venezuelan Oil Company Downplays Alleged US Cyberattack",
-      "link": "https://www.darkreading.com/cyber-risk/venezuela-oil-company-downplays-alleged-us-cyberattack",
-      "summary": "But media reports described the attack as causing major disruption to PDVSA, the state-owned oil and natural gas company.",
-      "published": "Tue, 16 Dec 2025 20:33:16 GMT",
+      "source": "Security Week",
+      "title": "IoT Security Firm Exein Raises €100 Million",
+      "link": "https://www.securityweek.com/iot-security-firm-exein-raises-e100-million/",
+      "summary": "The Italian company has raised nearly $200 million in 2025 for its widely used embedded cybersecurity platform. The post IoT Security Firm Exein Raises €100 Million appeared first on SecurityWeek .",
+      "published": "Thu, 18 Dec 2025 10:34:51 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -469,24 +487,6 @@
       "link": "https://www.securityweek.com/new-150-cellik-rat-grants-android-control-trojanizes-google-play-apps/",
       "summary": "The malware provides full device control and real-time surveillance capabilities like those of advanced spyware. The post New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps appeared first on SecurityWeek .",
       "published": "Wed, 17 Dec 2025 12:44:13 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking",
-      "link": "https://www.securityweek.com/five-cybersecurity-predictions-for-2026-identity-ai-and-the-collapse-of-perimeter-thinking/",
-      "summary": "The perimeter is gone. Credentials are no longer sufficient. And security can no longer rely on static controls in a dynamic threat environment. The post Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking appeared first on SecurityWeek .",
-      "published": "Wed, 17 Dec 2025 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Adaptive Security Raises $81 Million in Series B Funding",
-      "link": "https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/",
-      "summary": "Led by Bain Capital Ventures, the investment round brings the total raised by the company to $146.5 million. The post Adaptive Security Raises $81 Million in Series B Funding appeared first on SecurityWeek .",
-      "published": "Wed, 17 Dec 2025 11:18:29 +0000",
       "value_score": 10,
       "value_signals": []
     },

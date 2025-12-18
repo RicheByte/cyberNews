@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-18 10:18 UTC |
+| 🕐 Last Updated | 2025-12-18 12:34 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 11 |
+| 📈 Total Updates | 12 |
 
 ## 🔥 Trending Topics
 
-`mass creating fake` • `international passenger ferry` • `five cybersecurity predictions` • `windows operating systems` • `remote code execution` • `prolific cybercriminal group` • `access management iam` • `twitter whistleblower complaint` • `life events neurodiversity` • `critical fortinet flaws`
+`113 000 impacted` • `mass creating fake` • `remote code execution` • `international passenger ferry` • `access management iam` • `windows operating systems` • `prolific cybercriminal group` • `attacker remotely control` • `maximum severity vulnerability` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

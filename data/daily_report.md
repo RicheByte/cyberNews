@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-18 10:18 UTC  
+> **Last Updated:** 2025-12-18 12:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **international passenger ferry** • **five cybersecurity predictions** • **windows operating systems** • **remote code execution** • **prolific cybercriminal group** • **access management iam** • **twitter whistleblower complaint** • **life events neurodiversity** • **critical fortinet flaws** • **146 5 million** • **web manager appliances** • **got1000 series devices** • **another botnet known** • **offer unlimited access** • **malicious cyber actors** • **gain initial access** • **attacker remotely control** • **unpaid toll fee** • **targeted france's ministry**
+**113 000 impacted** • **mass creating fake** • **remote code execution** • **international passenger ferry** • **access management iam** • **windows operating systems** • **prolific cybercriminal group** • **attacker remotely control** • **maximum severity vulnerability** • **twitter whistleblower complaint** • **remote work requires** • **web manager appliances** • **another botnet known** • **retailers like bestbuy** • **medium severity flaw** • **agent like features** • **got1000 series devices** • **offer unlimited access** • **trucking industry group** • **malicious cyber actors**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [The Case for Dynamic AI-SaaS Security as Copilots Scale](https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html)
 - [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
 - [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
 - [Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
@@ -23,10 +24,10 @@
 - [Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks](https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html)
 - [APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign](https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html)
 - [New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails](https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html)
-- [Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time](https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html)
 
 ### BleepingComputer
 
+- [HPE warns of maximum severity RCE flaw in OneView software](https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/)
 - [Microsoft: Recent Windows updates break RemoteApp connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/)
 - [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
 - [France arrests suspect tied to cyberattack on Interior Ministry](https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/)
@@ -34,7 +35,6 @@
 - [WhatsApp device linking abused in account hijacking attacks](https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/)
 - [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
 - [Sonicwall warns of new SMA1000 zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/)
-- [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
 
 ### Krebs on Security
 
@@ -52,22 +52,22 @@
 - [Critical Fortinet Flaws Under Active Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack)
 - [In Cybersecurity, Claude Leaves Other LLMs in the Dust](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms)
 - ['Cellik' Android RAT Leverages Google Play Store](https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store)
+- [Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity](https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity)
+- [Securing the Future: Building Quantum-Safe Networks Today](https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today)
 - [Attackers Use Stolen AWS Credentials in Cryptomining Campaign](https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining)
+- [&quot;Fake Proof&quot; and AI Slop Hobble Defenders](https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders)
 - [Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation](https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation)
-- [Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps](https://www.darkreading.com/threat-intelligence/why-17-year-old-built-ai-expose-deepfake-maps)
-- [Why You Should Train Your SOC Like a Triathlete](https://www.darkreading.com/cybersecurity-operations/why-you-should-train-your-soc-like-triathlete)
-- [Venezuelan Oil Company Downplays Alleged US Cyberattack](https://www.darkreading.com/cyber-risk/venezuela-oil-company-downplays-alleged-us-cyberattack)
 
 ### Security Week
 
+- [113,000 Impacted by Data Breach at Virginia Mental Health Authority](https://www.securityweek.com/113000-impacted-by-data-breach-at-virginia-mental-health-authority/)
+- [IoT Security Firm Exein Raises €100 Million](https://www.securityweek.com/iot-security-firm-exein-raises-e100-million/)
 - [France Probes ‘Foreign Interference’ After Remote Control Malware Found on Passenger Ferry](https://www.securityweek.com/france-probes-foreign-interference-after-remote-control-malware-found-on-passenger-ferry/)
 - [SonicWall Patches Exploited SMA 1000 Zero-Day](https://www.securityweek.com/sonicwall-patches-exploited-sma-1000-zero-day/)
 - [China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear](https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/)
 - [NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft](https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/)
 - [Hacker Conversations: Alex Hall, One-Time Fraudster](https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/)
 - [New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps](https://www.securityweek.com/new-150-cellik-rat-grants-android-control-trojanizes-google-play-apps/)
-- [Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking](https://www.securityweek.com/five-cybersecurity-predictions-for-2026-identity-ai-and-the-collapse-of-perimeter-thinking/)
-- [Adaptive Security Raises $81 Million in Series B Funding](https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/)
 
 ### Threatpost
 

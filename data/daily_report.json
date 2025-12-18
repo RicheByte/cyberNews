@@ -1,72 +1,93 @@
 {
-  "last_updated": "2025-12-18 12:34",
+  "last_updated": "2025-12-18 14:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "113 000 impacted",
+    "international passenger ferry",
     "mass creating fake",
     "remote code execution",
-    "international passenger ferry",
+    "asus live update",
     "access management iam",
-    "windows operating systems",
-    "prolific cybercriminal group",
-    "attacker remotely control",
     "maximum severity vulnerability",
     "twitter whistleblower complaint",
     "remote work requires",
+    "prolific cybercriminal group",
+    "global cryptocurrency theft",
     "web manager appliances",
     "another botnet known",
+    "still alive spying",
     "retailers like bestbuy",
-    "medium severity flaw",
     "agent like features",
+    "windows operating systems",
     "got1000 series devices",
     "offer unlimited access",
-    "trucking industry group",
     "malicious cyber actors"
   ],
   "trending": [
     {
       "keyword": "113 000 impacted",
-      "mentions": 1
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 12
-    },
-    {
-      "keyword": "remote code execution",
       "mentions": 2
     },
     {
       "keyword": "international passenger ferry",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "access management iam",
-      "mentions": 8
+      "keyword": "mass creating fake",
+      "mentions": 13
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 12
+      "keyword": "remote code execution",
+      "mentions": 3
     },
     {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 12
-    },
-    {
-      "keyword": "attacker remotely control",
-      "mentions": 2
-    },
-    {
-      "keyword": "maximum severity vulnerability",
+      "keyword": "asus live update",
       "mentions": 1
     },
     {
+      "keyword": "access management iam",
+      "mentions": 9
+    },
+    {
+      "keyword": "maximum severity vulnerability",
+      "mentions": 2
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "remote work requires",
+      "mentions": 2
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 13
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
+      "link": "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
+      "summary": "This week’s ThreatsDay Bulletin tracks how attackers keep reshaping old tools and finding new angles in familiar systems. Small changes in tactics are stacking up fast, and each one hints at where the next big breach could come from. From shifting infrastructures to clever social hooks, the week’s activity shows just how fluid the threat landscape has become. Here’s the full rundown of what",
+      "published": "Thu, 18 Dec 2025 18:40:00 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
+      "link": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
+      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (DPRK or North Korea) have been instrumental in driving a surge in global cryptocurrency theft in 2025, accounting for at least $2.02 billion out of more than $3.4 billion stolen from January through early December. The figure represents a 51% increase year-over-year and $681 million more than 2024, when the threat actors stole",
+      "published": "Thu, 18 Dec 2025 18:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
@@ -142,26 +163,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign",
-      "link": "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html",
-      "summary": "The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a \"sustained\" credential-harvesting campaign targeting users of UKR[.]net, a webmail and news service popular in Ukraine. The activity, observed by Recorded Future's Insikt Group between June 2024 and April 2025, builds upon prior findings from the cybersecurity company in May 2024 that",
-      "published": "Wed, 17 Dec 2025 21:00:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails",
-      "link": "https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html",
-      "summary": "The threat actor linked to Operation ForumTroll has been attributed to a fresh set of phishing attacks targeting individuals within Russia, according to Kaspersky. The Russian cybersecurity vendor said it detected the new activity in October 2025. The origins of the threat actor are presently unknown. \"While the spring cyberattacks focused on organizations, the fall campaign honed in on",
-      "published": "Wed, 17 Dec 2025 20:24:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "France arrests Latvian for installing malware on Italian ferry",
+      "link": "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/",
+      "summary": "French authorities arrested two crew members of an Italian passenger ferry suspected of infecting the ship with malware that could have enabled them to remotely control the vessel. [...]",
+      "published": "Thu, 18 Dec 2025 08:47:59 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -233,19 +241,6 @@
       "value_signals": [
         "Zero-day ×2",
         "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/",
-      "summary": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges. [...]",
-      "published": "Wed, 17 Dec 2025 12:44:18 -0500",
-      "value_score": 74,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update",
         "Exploit wording"
       ]
     },
@@ -331,9 +326,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Dormant Iran APT is Still Alive, Spying on Dissidents",
+      "link": "https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents",
+      "summary": "\"Prince of Persia\" has rewritten the rules of persistence with advanced operational security and cryptographic communication with its command-and-control server.",
+      "published": "Thu, 18 Dec 2025 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Critical Fortinet Flaws Under Active Attack",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack",
-      "summary": "Attackers targeted admin accounts, and once authenticated, exported device configurations including hashed credentials and other sensitive information.",
+      "summary": "Attackers are targeting admin accounts, and once authenticated, exporting device configurations including hashed credentials and other sensitive information.",
       "published": "Wed, 17 Dec 2025 22:44:38 GMT",
       "value_score": 18,
       "value_signals": [
@@ -362,19 +366,21 @@
       "source": "Dark Reading",
       "title": "Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity",
       "link": "https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity",
-      "summary": "The future of cybersecurity means defending everywhere. Securing IoT, cloud, and remote work requires a unified edge-to-cloud strategy. First in a three-part series.",
+      "summary": "The future of cybersecurity means defending everywhere. Securing IoT, cloud, and remote work requires a unified edge-to-cloud strategy. (First in a three-part series.)",
       "published": "Wed, 17 Dec 2025 21:14:12 GMT",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Dark Reading",
-      "title": "Securing the Future: Building Quantum-Safe Networks Today",
+      "title": "The Future of Quantum-Safe Networks Depends on Interoperable Standards",
       "link": "https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today",
-      "summary": "As quantum computing advances, interoperable standards will be the key to making QKD practical, trusted, and future-proof.",
+      "summary": "As quantum computing advances, secure, interoperable standards will be critical to making quantum key distribution (QKD) practical, trusted, and future-proof.",
       "published": "Wed, 17 Dec 2025 20:46:43 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -397,13 +403,19 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation",
-      "link": "https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation",
-      "summary": "Rapid digitization, uneven cybersecurity know-how, and growing cybercriminal syndicates in the region have challenged law enforcement and prosecutors.",
-      "published": "Wed, 17 Dec 2025 07:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "CISA Warns of Exploited Flaw in Asus Update Tool",
+      "link": "https://www.securityweek.com/cisa-warns-of-exploited-flaw-in-asus-update-tool/",
+      "summary": "Tracked as CVE-2025-59374, the issue is a software backdoor implanted in Asus Live Update in a supply chain attack. The post CISA Warns of Exploited Flaw in Asus Update Tool appeared first on SecurityWeek .",
+      "published": "Thu, 18 Dec 2025 13:27:51 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update ×3",
+        "Backdoor",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -478,15 +490,6 @@
       "link": "https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/",
       "summary": "A first-person journey from undetected fraud to defending trust—how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter. The post Hacker Conversations: Alex Hall, One-Time Fraudster appeared first on SecurityWeek .",
       "published": "Wed, 17 Dec 2025 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps",
-      "link": "https://www.securityweek.com/new-150-cellik-rat-grants-android-control-trojanizes-google-play-apps/",
-      "summary": "The malware provides full device control and real-time surveillance capabilities like those of advanced spyware. The post New $150 Cellik RAT Grants Android Control, Trojanizes Google Play Apps appeared first on SecurityWeek .",
-      "published": "Wed, 17 Dec 2025 12:44:13 +0000",
       "value_score": 10,
       "value_signals": []
     },

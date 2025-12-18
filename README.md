@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-17 22:15 UTC |
+| 🕐 Last Updated | 2025-12-18 01:13 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 5 |
+| 📈 Total Updates | 6 |
 
 ## 🔥 Trending Topics
 
-`access management iam` • `five cybersecurity predictions` • `mass creating fake` • `50 000 downloads` • `prolific cybercriminal group` • `windows operating systems` • `twitter whistleblower complaint` • `life events neurodiversity` • `enable cryptocurrency mining` • `got1000 series devices`
+`access management iam` • `five cybersecurity predictions` • `50 000 downloads` • `mass creating fake` • `critical fortinet flaws` • `prolific cybercriminal group` • `windows operating systems` • `twitter whistleblower complaint` • `life events neurodiversity` • `enable cryptocurrency mining`
 
 ## 📄 Reports
 

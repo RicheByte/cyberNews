@@ -1,12 +1,13 @@
 {
-  "last_updated": "2025-12-17 22:15",
+  "last_updated": "2025-12-18 01:13",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "access management iam",
     "five cybersecurity predictions",
-    "mass creating fake",
     "50 000 downloads",
+    "mass creating fake",
+    "critical fortinet flaws",
     "prolific cybercriminal group",
     "windows operating systems",
     "twitter whistleblower complaint",
@@ -16,54 +17,53 @@
     "offer unlimited access",
     "gain initial access",
     "another botnet known",
-    "broader cybersecurity community",
     "malicious cyber actors",
-    "ghostposter malware found",
+    "cybersecurity claude leaves",
+    "broader cybersecurity community",
     "unpaid toll fee",
-    "supposed wayward package",
-    "state owned oil",
-    "spring cyberattacks focused"
+    "targeted france's ministry",
+    "supposed wayward package"
   ],
   "trending": [
     {
       "keyword": "access management iam",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "five cybersecurity predictions",
-      "mentions": 5
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "50 000 downloads",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 5
+      "keyword": "mass creating fake",
+      "mentions": 6
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 5
-    },
-    {
-      "keyword": "life events neurodiversity",
-      "mentions": 5
-    },
-    {
-      "keyword": "enable cryptocurrency mining",
+      "keyword": "critical fortinet flaws",
       "mentions": 1
     },
     {
-      "keyword": "got1000 series devices",
-      "mentions": 5
+      "keyword": "prolific cybercriminal group",
+      "mentions": 6
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 6
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 6
+    },
+    {
+      "keyword": "life events neurodiversity",
+      "mentions": 6
+    },
+    {
+      "keyword": "enable cryptocurrency mining",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -155,6 +155,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days",
+      "link": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/",
+      "summary": "The Zeroday Cloud hacking competition in London has awarded researchers $320,000 for demonstrating critical remote code execution vulnerabilities in components used in cloud infrastructure. [...]",
+      "published": "Wed, 17 Dec 2025 18:09:36 -0500",
+      "value_score": 88,
+      "value_signals": [
+        "Zero-day ×2",
+        "RCE",
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "France arrests suspect tied to cyberattack on Interior Ministry",
+      "link": "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/",
+      "summary": "French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month. [...]",
+      "published": "Wed, 17 Dec 2025 17:20:02 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/",
       "summary": "Amazon's AWS GuardDuty security team is warning of an ongoing crypto-mining campaign that targets its Elastic Compute Cloud (EC2) and Elastic Container Service (ECS) using compromised credentials for Identity and Access Management (IAM). [...]",
@@ -221,26 +243,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft asks admins to reach out for Windows IIS failures fix",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/",
-      "summary": "Microsoft has asked businesses to reach out for advice on how to temporarily mitigate a Message Queuing (MSMQ) issue causing enterprise apps and Internet Information Services (IIS) sites to fail. [...]",
-      "published": "Wed, 17 Dec 2025 07:30:32 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cellik Android malware builds malicious versions from Google Play apps",
-      "link": "https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/",
-      "summary": "A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include the option to embed it in any app available on the Google Play Store. [...]",
-      "published": "Tue, 16 Dec 2025 17:59:35 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -324,6 +326,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Critical Fortinet Flaws Under Active Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack",
+      "summary": "Attackers targeted admin accounts, and once authenticated, exported device configurations including hashed credentials and other sensitive information.",
+      "published": "Wed, 17 Dec 2025 22:44:38 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "In Cybersecurity, Claude Leaves Other LLMs in the Dust",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms",
+      "summary": "Anthropic proves that LLMs can be fairly resistant to abuse. Most developers are either incapable of building safer tools, or unwilling to invest in doing so.",
+      "published": "Wed, 17 Dec 2025 22:01:58 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Cellik' Android RAT Leverages Google Play Store",
       "link": "https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store",
       "summary": "The remote access Trojan lets an attacker remotely control a victim's phone and can generate malicious apps from inside the Play Store.",
@@ -373,26 +395,6 @@
       "link": "https://www.darkreading.com/cyber-risk/venezuela-oil-company-downplays-alleged-us-cyberattack",
       "summary": "But media reports described the attack as causing major disruption to PDVSA, the state-owned oil and natural gas company.",
       "published": "Tue, 16 Dec 2025 20:33:16 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Russia Hits Critical Orgs Via Misconfigured Edge Devices",
-      "link": "https://www.darkreading.com/endpoint-security/russian-apt-attacking-critical-orgs-around-world",
-      "summary": "Amazon detailed a long-running campaign by Russia against critical infrastructure organizations, particularly in the energy sector.",
-      "published": "Tue, 16 Dec 2025 20:03:15 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Browser Extension Harvests 8M Users' AI Chatbot Data",
-      "link": "https://www.darkreading.com/endpoint-security/chrome-extension-harvests-ai-chatbot-data",
-      "summary": "Urban VPN Proxy, which claims to protect users' privacy, collects data from conversations with ChatGPT, Claude, Gemini, Copilot, and other AI assistants.",
-      "published": "Tue, 16 Dec 2025 16:14:01 GMT",
       "value_score": 10,
       "value_signals": []
     },

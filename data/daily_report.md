@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-17 22:15 UTC  
+> **Last Updated:** 2025-12-18 01:13 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**access management iam** • **five cybersecurity predictions** • **mass creating fake** • **50 000 downloads** • **prolific cybercriminal group** • **windows operating systems** • **twitter whistleblower complaint** • **life events neurodiversity** • **enable cryptocurrency mining** • **got1000 series devices** • **offer unlimited access** • **gain initial access** • **another botnet known** • **broader cybersecurity community** • **malicious cyber actors** • **ghostposter malware found** • **unpaid toll fee** • **supposed wayward package** • **state owned oil** • **spring cyberattacks focused**
+**access management iam** • **five cybersecurity predictions** • **50 000 downloads** • **mass creating fake** • **critical fortinet flaws** • **prolific cybercriminal group** • **windows operating systems** • **twitter whistleblower complaint** • **life events neurodiversity** • **enable cryptocurrency mining** • **got1000 series devices** • **offer unlimited access** • **gain initial access** • **another botnet known** • **malicious cyber actors** • **cybersecurity claude leaves** • **broader cybersecurity community** • **unpaid toll fee** • **targeted france's ministry** • **supposed wayward package**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Zeroday Cloud hacking event awards $320,0000 for 11 zero days](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/)
+- [France arrests suspect tied to cyberattack on Interior Ministry](https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/)
 - [Amazon: Ongoing cryptomining campaign uses hacked AWS accounts](https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/)
 - [WhatsApp device linking abused in account hijacking attacks](https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/)
 - [Cisco warns of unpatched AsyncOS zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/)
 - [Sonicwall warns of new SMA1000 zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/)
 - [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
 - [Your MFA Is Costing You Millions. It Doesn't Have To.](https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/)
-- [Microsoft asks admins to reach out for Windows IIS failures fix](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/)
-- [Cellik Android malware builds malicious versions from Google Play apps](https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Critical Fortinet Flaws Under Active Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack)
+- [In Cybersecurity, Claude Leaves Other LLMs in the Dust](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms)
 - ['Cellik' Android RAT Leverages Google Play Store](https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store)
 - [Attackers Use Stolen AWS Credentials in Cryptomining Campaign](https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining)
 - [Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation](https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation)
 - [Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps](https://www.darkreading.com/threat-intelligence/why-17-year-old-built-ai-expose-deepfake-maps)
 - [Why You Should Train Your SOC Like a Triathlete](https://www.darkreading.com/cybersecurity-operations/why-you-should-train-your-soc-like-triathlete)
 - [Venezuelan Oil Company Downplays Alleged US Cyberattack](https://www.darkreading.com/cyber-risk/venezuela-oil-company-downplays-alleged-us-cyberattack)
-- [Russia Hits Critical Orgs Via Misconfigured Edge Devices](https://www.darkreading.com/endpoint-security/russian-apt-attacking-critical-orgs-around-world)
-- [Browser Extension Harvests 8M Users' AI Chatbot Data](https://www.darkreading.com/endpoint-security/chrome-extension-harvests-ai-chatbot-data)
 
 ### Security Week
 

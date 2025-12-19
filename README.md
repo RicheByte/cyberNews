@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-19 10:18 UTC |
+| 🕐 Last Updated | 2025-12-19 12:33 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 23 |
+| 📈 Total Updates | 24 |
 
 ## 🔥 Trending Topics
 
-`113 000 impacted` • `international passenger ferry` • `asus live update` • `infrastructure management software` • `medium severity flaw` • `twitter whistleblower complaint` • `real life identity` • `hacker group earlier` • `france arrests latvian` • `cisco ssl vpn`
+`113 000 impacted` • `asus live update` • `infrastructure management software` • `twitter whistleblower complaint` • `real life identity` • `hacker group earlier` • `critical fortinet flaws` • `cisco ssl vpn` • `block many types` • `critical security flaw`
 
 ## 📄 Reports
 

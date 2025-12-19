@@ -13,7 +13,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -55,7 +55,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -83,7 +83,7 @@
       ]
     },
     "real life identity": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -110,10 +110,11 @@
       ]
     },
     "offer unlimited access": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2025-12-17",
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "gain initial access": {
@@ -150,10 +151,11 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-17",
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "campaign dubbed ghostpairing": {
@@ -191,7 +193,7 @@
       ]
     },
     "critical fortinet flaws": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -216,7 +218,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -255,7 +257,7 @@
       ]
     },
     "113 000 impacted": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -283,7 +285,7 @@
       ]
     },
     "agent like features": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -296,7 +298,7 @@
       ]
     },
     "asus live update": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -309,7 +311,7 @@
       ]
     },
     "still alive spying": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -330,7 +332,7 @@
       ]
     },
     "infrastructure management software": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -343,14 +345,14 @@
       ]
     },
     "cisco ssl vpn": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2025-12-18",
         "2025-12-19"
       ]
     },
     "block many types": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -364,7 +366,7 @@
       ]
     },
     "least september 2023": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -383,7 +385,7 @@
       ]
     },
     "advanced operational security": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-19"
       ]
@@ -407,7 +409,25 @@
       ]
     },
     "hacker group earlier": {
-      "count": 5,
+      "count": 6,
+      "dates": [
+        "2025-12-19"
+      ]
+    },
+    "critical security flaw": {
+      "count": 1,
+      "dates": [
+        "2025-12-19"
+      ]
+    },
+    "denmark's critical infrastructure": {
+      "count": 1,
+      "dates": [
+        "2025-12-19"
+      ]
+    },
+    "national security risk": {
+      "count": 1,
       "dates": [
         "2025-12-19"
       ]
@@ -665,6 +685,17 @@
         "asus live update",
         "infrastructure management software",
         "medium severity flaw"
+      ]
+    },
+    {
+      "timestamp": "2025-12-19 12:33",
+      "articles": 56,
+      "top_keywords": [
+        "113 000 impacted",
+        "asus live update",
+        "infrastructure management software",
+        "twitter whistleblower complaint",
+        "real life identity"
       ]
     }
   ]

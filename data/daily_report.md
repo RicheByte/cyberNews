@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-19 10:18 UTC  
+> **Last Updated:** 2025-12-19 12:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**113 000 impacted** • **international passenger ferry** • **asus live update** • **infrastructure management software** • **medium severity flaw** • **twitter whistleblower complaint** • **real life identity** • **hacker group earlier** • **france arrests latvian** • **cisco ssl vpn** • **block many types** • **still alive spying** • **retailers like bestbuy** • **critical fortinet flaws** • **agent like features** • **least september 2023** • **remote work requires** • **remote code execution** • **mass creating fake** • **advanced operational security**
+**113 000 impacted** • **asus live update** • **infrastructure management software** • **twitter whistleblower complaint** • **real life identity** • **hacker group earlier** • **critical fortinet flaws** • **cisco ssl vpn** • **block many types** • **critical security flaw** • **still alive spying** • **retailers like bestbuy** • **denmark's critical infrastructure** • **agent like features** • **offer unlimited access** • **least september 2023** • **mass creating fake** • **national security risk** • **advanced operational security** • **unpaid toll fee**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability](https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html)
+- [Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks](https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html)
 - [New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards](https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html)
 - [China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware](https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html)
 - [HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
 - [ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html)
 - [North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft](https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html)
 - [The Case for Dynamic AI-SaaS Security as Copilots Scale](https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html)
-- [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
-- [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
 
 ### BleepingComputer
 
+- [Denmark blames Russia for destructive cyberattack on water utility](https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/)
+- [New critical WatchGuard Firebox firewall flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/)
 - [FTC: Instacart to refund $60M over deceptive subscription tactics](https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/)
 - [Windows 10 OOB update released to fix Message Queuing (MSMQ) issues](https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/)
 - [University of Sydney suffers data breach exposing student and staff info](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/)
 - [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
 - [New password spraying attacks target Cisco, PAN VPN gateways](https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/)
 - [US seizes E-Note crypto exchange for laundering ransomware payments](https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/)
-- [NIS2 compliance: How to get passwords and MFA right](https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/)
-- [France arrests Latvian for installing malware on Italian ferry](https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [University of Sydney Data Breach Affects 27,000 Individuals](https://www.securityweek.com/university-of-sydney-data-breach-affects-27000-individuals/)
+- [‘Kimwolf’ Android Botnet Ensnares 1.8 Million Devices](https://www.securityweek.com/kimwolf-android-botnet-ensnares-1-8-million-devices/)
 - [North Korea’s Digital Surge: $2B Stolen in Crypto as Amazon Blocks 1,800 Fake IT Workers](https://www.securityweek.com/north-koreas-digital-surge-2b-stolen-in-crypto-as-amazon-blocks-1800-fake-it-workers/)
 - [UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks](https://www.securityweek.com/uefi-vulnerability-in-major-motherboards-enables-early-boot-attacks/)
 - [HPE Patches Critical Flaw in IT Infrastructure Management Software](https://www.securityweek.com/hpe-patches-critical-flaw-in-it-infrastructure-management-software/)
 - [CISA Warns of Exploited Flaw in Asus Update Tool](https://www.securityweek.com/cisa-warns-of-exploited-flaw-in-asus-update-tool/)
 - [113,000 Impacted by Data Breach at Virginia Mental Health Authority](https://www.securityweek.com/113000-impacted-by-data-breach-at-virginia-mental-health-authority/)
 - [IoT Security Firm Exein Raises €100 Million](https://www.securityweek.com/iot-security-firm-exein-raises-e100-million/)
-- [France Probes ‘Foreign Interference’ After Remote Control Malware Found on Passenger Ferry](https://www.securityweek.com/france-probes-foreign-interference-after-remote-control-malware-found-on-passenger-ferry/)
-- [SonicWall Patches Exploited SMA 1000 Zero-Day](https://www.securityweek.com/sonicwall-patches-exploited-sma-1000-zero-day/)
 
 ### Threatpost
 

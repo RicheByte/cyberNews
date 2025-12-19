@@ -13,10 +13,11 @@
       ]
     },
     "mass creating fake": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2025-12-17",
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "50 000 downloads": {
@@ -54,7 +55,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -82,10 +83,11 @@
       ]
     },
     "real life identity": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-17",
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "got1000 series devices": {
@@ -189,9 +191,10 @@
       ]
     },
     "critical fortinet flaws": {
-      "count": 7,
+      "count": 8,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "cybersecurity claude leaves": {
@@ -213,9 +216,10 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 7,
+      "count": 8,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "146 5 million": {
@@ -231,14 +235,14 @@
       ]
     },
     "international passenger ferry": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-18",
         "2025-12-19"
       ]
     },
     "remote code execution": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -251,14 +255,14 @@
       ]
     },
     "113 000 impacted": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-18",
         "2025-12-19"
       ]
     },
     "maximum severity vulnerability": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -272,16 +276,17 @@
       ]
     },
     "medium severity flaw": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-18",
         "2025-12-19"
       ]
     },
     "agent like features": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "trucking industry group": {
@@ -291,7 +296,7 @@
       ]
     },
     "asus live update": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -304,28 +309,28 @@
       ]
     },
     "still alive spying": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-18",
         "2025-12-19"
       ]
     },
     "execute arbitrary code": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2025-12-18",
         "2025-12-19"
       ]
     },
     "france arrests latvian": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2025-12-18",
         "2025-12-19"
       ]
     },
     "infrastructure management software": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2025-12-18",
         "2025-12-19"
@@ -338,22 +343,24 @@
       ]
     },
     "cisco ssl vpn": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-18",
         "2025-12-19"
       ]
     },
     "block many types": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "ignition gateway service": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "least september 2023": {
@@ -394,6 +401,12 @@
       ]
     },
     "software backdoor implanted": {
+      "count": 1,
+      "dates": [
+        "2025-12-19"
+      ]
+    },
+    "hacker group earlier": {
       "count": 1,
       "dates": [
         "2025-12-19"
@@ -597,6 +610,17 @@
         "international passenger ferry",
         "infrastructure management software",
         "asus live update"
+      ]
+    },
+    {
+      "timestamp": "2025-12-19 03:20",
+      "articles": 56,
+      "top_keywords": [
+        "113 000 impacted",
+        "execute arbitrary code",
+        "international passenger ferry",
+        "asus live update",
+        "infrastructure management software"
       ]
     }
   ]

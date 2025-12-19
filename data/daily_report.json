@@ -1,69 +1,69 @@
 {
-  "last_updated": "2025-12-19 01:16",
+  "last_updated": "2025-12-19 03:20",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
     "113 000 impacted",
     "execute arbitrary code",
     "international passenger ferry",
-    "infrastructure management software",
     "asus live update",
+    "infrastructure management software",
     "medium severity flaw",
+    "mass creating fake",
     "maximum severity vulnerability",
-    "targeting admin accounts",
     "remote code execution",
     "twitter whistleblower complaint",
-    "least september 2023",
+    "real life identity",
+    "hacker group earlier",
     "france arrests latvian",
     "cisco ssl vpn",
-    "cisco security gear",
-    "advanced operational security",
-    "remote work requires",
-    "threat activity cluster",
+    "block many types",
+    "critical fortinet flaws",
     "still alive spying",
-    "specops software explains",
-    "software backdoor implanted"
+    "retailers like bestbuy",
+    "agent like features",
+    "ignition gateway service"
   ],
   "trending": [
     {
       "keyword": "113 000 impacted",
-      "mentions": 7
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 5
-    },
-    {
-      "keyword": "international passenger ferry",
       "mentions": 8
     },
     {
-      "keyword": "infrastructure management software",
-      "mentions": 5
+      "keyword": "execute arbitrary code",
+      "mentions": 6
+    },
+    {
+      "keyword": "international passenger ferry",
+      "mentions": 9
     },
     {
       "keyword": "asus live update",
+      "mentions": 7
+    },
+    {
+      "keyword": "infrastructure management software",
       "mentions": 6
     },
     {
       "keyword": "medium severity flaw",
-      "mentions": 6
-    },
-    {
-      "keyword": "maximum severity vulnerability",
       "mentions": 7
     },
     {
-      "keyword": "targeting admin accounts",
-      "mentions": 1
+      "keyword": "mass creating fake",
+      "mentions": 18
     },
     {
-      "keyword": "remote code execution",
+      "keyword": "maximum severity vulnerability",
       "mentions": 8
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 9
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 18
+      "mentions": 19
     }
   ],
   "articles": [
@@ -240,6 +240,86 @@
       "value_signals": [
         "RCE"
       ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
+      "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+      "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for \"Rey,\" the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.",
+      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account t",
+      "published": "Mon, 24 Nov 2025 18:44:52 +0000",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
+      "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will offici",
+      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.",
+      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",

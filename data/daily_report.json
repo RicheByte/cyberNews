@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-19 18:23",
+  "last_updated": "2025-12-19 20:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,61 +12,72 @@
     "asus gigabyte msi",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
-    "advanced operational security",
-    "additional brickstorm samples",
-    "2 5 million",
     "prolific cybercriminal group",
     "hacker group earlier",
+    "additional brickstorm samples",
+    "2 5 million",
+    "advanced operational security",
     "real life identity",
+    "malicious cyber actors",
     "fake identities continue",
     "denmark's critical infrastructure",
     "threat activity cluster",
-    "least september 2023",
-    "unpaid toll fee"
+    "microsoft confirms teams"
   ],
   "trending": [
     {
       "keyword": "denmark blames russia",
-      "mentions": 2
-    },
-    {
-      "keyword": "stringent identity authentication",
-      "mentions": 2
-    },
-    {
-      "keyword": "open source millions",
       "mentions": 3
     },
     {
-      "keyword": "critical security flaw",
+      "keyword": "stringent identity authentication",
+      "mentions": 3
+    },
+    {
+      "keyword": "open source millions",
       "mentions": 4
     },
     {
+      "keyword": "critical security flaw",
+      "mentions": 5
+    },
+    {
       "keyword": "mass creating fake",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "critical fortinet flaws",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "asus gigabyte msi",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 15
+      "mentions": 16
     },
     {
-      "keyword": "advanced operational security",
-      "mentions": 5
+      "keyword": "prolific cybercriminal group",
+      "mentions": 16
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
+      "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
+      "summary": "A suspected Russia-aligned group has been attributed to a phishing campaign that employs device code authentication workflows to steal victims' Microsoft 365 credentials and conduct account takeover attacks. The activity, ongoing since September 2025, is being tracked by Proofpoint under the moniker UNK_AcademicFlare. The attacks involve using compromised email addresses belonging to government",
+      "published": "Fri, 19 Dec 2025 23:24:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
@@ -145,13 +156,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
-      "link": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
-      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (DPRK or North Korea) have been instrumental in driving a surge in global cryptocurrency theft in 2025, accounting for at least $2.02 billion out of more than $3.4 billion stolen from January through early December. The figure represents a 51% increase year-over-year and $681 million more than 2024, when the threat actors stole",
-      "published": "Thu, 18 Dec 2025 18:30:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft confirms Teams is down and messages are delayed",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/",
+      "summary": "Microsoft Teams is experiencing issues, with thousands reporting problems sending messages, including delays. [...]",
+      "published": "Fri, 19 Dec 2025 15:04:28 -0500",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/",
+      "summary": "The Nigerian police have arrested three individuals linked to targeted Microsoft 365 cyberattacks via Raccoon0365 phishing-as-a-service. [...]",
+      "published": "Fri, 19 Dec 2025 14:05:32 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -218,26 +240,6 @@
         "Patch/update",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FTC: Instacart to refund $60M over deceptive subscription tactics",
-      "link": "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/",
-      "summary": "Grocery delivery service Instacart will refund $60 million to settle FTC claims that it misled customers with false advertising and unlawfully enrolled them in paid subscriptions. [...]",
-      "published": "Fri, 19 Dec 2025 04:19:40 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/",
-      "summary": "This month's extended security update for Windows 11 broke Message Queuing (MSMQ), which is typically used by enterprises to manage background tasks. [...]",
-      "published": "Thu, 18 Dec 2025 20:15:19 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
       ]
     },
     {
@@ -399,6 +401,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Thailand Conference Launches International Initiative to Fight Online Scams",
+      "link": "https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/",
+      "summary": "Similar pledges to fight scam networks were made by members of the Association of Southeast Asian Nations in the months leading up to the Bangkok conference. The post Thailand Conference Launches International Initiative to Fight Online Scams appeared first on SecurityWeek .",
+      "published": "Fri, 19 Dec 2025 19:14:24 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee",
       "link": "https://www.securityweek.com/in-other-news-docker-ai-attack-google-sues-chinese-cybercriminals-coupang-hacked-by-employee/",
       "summary": "Other noteworthy stories that might have slipped under the radar: Trump could use private firms for cyber offensive, China threat to US power grid, RaccoonO365 suspect arrested in Nigeria. The post In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee appeared first on SecurityWeek .",
@@ -460,17 +471,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "University of Sydney Data Breach Affects 27,000 Individuals",
-      "link": "https://www.securityweek.com/university-of-sydney-data-breach-affects-27000-individuals/",
-      "summary": "Downloaded from a code library, the information pertains to current and former staff and affiliates, and to alumni and students. The post University of Sydney Data Breach Affects 27,000 Individuals appeared first on SecurityWeek .",
-      "published": "Fri, 19 Dec 2025 11:59:57 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -558,6 +558,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-14733 WatchGuard Firebox Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known",
+      "published": "Fri, 19 Dec 25 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA  and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-and-partners-release-update-malware-analysis-report-brickstorm-backdoor",
       "summary": "Today, the Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency, and Canadian Centre for Cyber Security released an update to the Malware Analysis Report BRICKSTORM Backdoor with indicators of compromise (IOCs) and detection signatures for additional BRICKSTORM samples. This update provides information on additional samples, including Rust-based samples. These samples demonstrate advanced persistence and defense evasion mechanisms, such as running as background servi",
@@ -614,6 +628,17 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Siemens Interniche IP-Stack",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-05",
+      "summary": "View CSAF Summary Multiple Industrial products are affected by a vulnerability in the Interniche IP-Stack. The affected products do not properly enforce TCP sequence number validation in specific scenarios but accept values within a broad range. This could allow an unauthenticated remote attacker e.g. to interfere with connection setup, potentially leading to a denial of service. The attack succeeds only if an attacker can inject IP packets with spoofed addresses at precisely timed moments, and ",
+      "published": "Thu, 18 Dec 25 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Schneider Electric EcoStruxure Foxboro DCS Advisor",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-02",
       "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability disclosed by Microsoft in the Microsoft Windows Server Update Services (WSUS) used in the EcoStruxure™ Foxboro DCS Advisor services. The EcoStruxure™ Foxboro DCS Advisor, an optional component of the [EcoStruxure™ Foxboro DCS system](https://www.se.com/ww/en/work/products/industrial-automation-control/foxboro-dcs/), facilitates remote connectivity and diagnostics by continuously monitoring key performance indicators (KPI) on the I/",
@@ -622,17 +647,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens Interniche IP-Stack",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-05",
-      "summary": "View CSAF Summary Multiple Industrial products are affected by a vulnerability in the Interniche IP-Stack. The affected products do not properly enforce TCP sequence number validation in specific scenarios but accept values within a broad range. This could allow an unauthenticated remote attacker e.g. to interfere with connection setup, potentially leading to a denial of service. The attack succeeds only if an attacker can inject IP packets with spoofed addresses at precisely timed moments, and ",
-      "published": "Thu, 18 Dec 25 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
       ]
     },
     {
@@ -646,20 +660,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned ×2",
         "High severity ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electrics Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in denial-of-service (DoS), information tampering, and information disclosure. The following versions of Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electrics Products are affected: GENESIS64 (CVE-2025-11774) ICONICS Suite (CVE-2025-11774) MobileHMI (CVE-2025-11774) MC Works64 (CVE-2025-11774) CVSS Vendor Equipment Vulnerabilities v3 8.2 Mitsubishi Electric Iconics Digital Solutions, Mitsubishi Electric",
-      "published": "Thu, 18 Dec 25 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
         "Multiple CVEs",
         "Exploit wording"
       ]

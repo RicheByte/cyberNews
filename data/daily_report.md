@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-19 20:18 UTC  
+> **Last Updated:** 2025-12-19 22:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**denmark blames russia** • **stringent identity authentication** • **open source millions** • **critical security flaw** • **mass creating fake** • **critical fortinet flaws** • **asus gigabyte msi** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **2 5 million** • **advanced operational security** • **real life identity** • **malicious cyber actors** • **fake identities continue** • **denmark's critical infrastructure** • **threat activity cluster** • **microsoft confirms teams**
+**denmark blames russia** • **stringent identity authentication** • **open source millions** • **critical security flaw** • **mass creating fake** • **critical fortinet flaws** • **asus gigabyte msi** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **2 5 million** • **advanced operational security** • **real life identity** • **malicious cyber actors** • **fake identities continue** • **denmark's critical infrastructure** • **threat activity cluster** • **separate threat campaigns**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Cisco VPNs, Email Services Hit in Separate Threat Campaigns](https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns)
 - [LongNosedGoblin Caught Snooping on Asian Governments](https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments)
 - [Identity Fraud Among Home Care Workers Puts Patients at Risk](https://www.darkreading.com/identity-access-management-security/identity-fraud-among-home-care-workers-puts-patients-at-risk)
 - [A Cybersecurity Playbook for AI Adoption](https://www.darkreading.com/cyber-risk/cybersecurity-playbook-ai-adoption)
@@ -56,7 +57,6 @@
 - [SonicWall Edge Access Devices Hit by Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks)
 - [Dormant Iran APT is Still Alive, Spying on Dissidents](https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents)
 - [Critical Fortinet Flaws Under Active Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack)
-- [In Cybersecurity, Claude Leaves Other LLMs in the Dust](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms)
 
 ### Security Week
 

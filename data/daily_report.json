@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-19 20:18",
+  "last_updated": "2025-12-19 22:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -22,48 +22,48 @@
     "fake identities continue",
     "denmark's critical infrastructure",
     "threat activity cluster",
-    "microsoft confirms teams"
+    "separate threat campaigns"
   ],
   "trending": [
     {
       "keyword": "denmark blames russia",
-      "mentions": 3
-    },
-    {
-      "keyword": "stringent identity authentication",
-      "mentions": 3
-    },
-    {
-      "keyword": "open source millions",
       "mentions": 4
     },
     {
-      "keyword": "critical security flaw",
+      "keyword": "stringent identity authentication",
+      "mentions": 4
+    },
+    {
+      "keyword": "open source millions",
       "mentions": 5
     },
     {
+      "keyword": "critical security flaw",
+      "mentions": 6
+    },
+    {
       "keyword": "mass creating fake",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "critical fortinet flaws",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "asus gigabyte msi",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 16
+      "mentions": 17
     }
   ],
   "articles": [
@@ -324,6 +324,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cisco VPNs, Email Services Hit in Separate Threat Campaigns",
+      "link": "https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns",
+      "summary": "The company suffered one sophisticated five-alarm campaign and one messy spray-and-pray attack, mere days apart.",
+      "published": "Fri, 19 Dec 2025 20:05:38 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "LongNosedGoblin Caught Snooping on Asian Governments",
       "link": "https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments",
       "summary": "New China-aligned APT group is deploying Group Policy to sniff through government networks across Southeast Asia and Japan.",
@@ -389,15 +398,6 @@
       "value_signals": [
         "High severity"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "In Cybersecurity, Claude Leaves Other LLMs in the Dust",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms",
-      "summary": "Anthropic proves that LLMs can be fairly resistant to abuse. Most developers are either incapable of building safer tools, or unwilling to invest in doing so.",
-      "published": "Wed, 17 Dec 2025 22:01:58 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

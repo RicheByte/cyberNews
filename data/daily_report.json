@@ -1,72 +1,81 @@
 {
-  "last_updated": "2025-12-19 08:23",
+  "last_updated": "2025-12-19 10:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "113 000 impacted",
-    "execute arbitrary code",
     "international passenger ferry",
     "asus live update",
     "infrastructure management software",
     "medium severity flaw",
-    "mass creating fake",
-    "maximum severity vulnerability",
-    "remote code execution",
     "twitter whistleblower complaint",
     "real life identity",
     "hacker group earlier",
     "france arrests latvian",
     "cisco ssl vpn",
     "block many types",
-    "critical fortinet flaws",
     "still alive spying",
     "retailers like bestbuy",
+    "critical fortinet flaws",
     "agent like features",
-    "ignition gateway service"
+    "least september 2023",
+    "remote work requires",
+    "remote code execution",
+    "mass creating fake",
+    "advanced operational security"
   ],
   "trending": [
     {
       "keyword": "113 000 impacted",
-      "mentions": 11
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 9
+      "mentions": 12
     },
     {
       "keyword": "international passenger ferry",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "asus live update",
-      "mentions": 10
-    },
-    {
-      "keyword": "infrastructure management software",
-      "mentions": 9
-    },
-    {
-      "keyword": "medium severity flaw",
-      "mentions": 10
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 21
-    },
-    {
-      "keyword": "maximum severity vulnerability",
       "mentions": 11
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 12
+      "keyword": "infrastructure management software",
+      "mentions": 10
+    },
+    {
+      "keyword": "medium severity flaw",
+      "mentions": 11
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 22
+      "mentions": 23
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 12
+    },
+    {
+      "keyword": "hacker group earlier",
+      "mentions": 5
+    },
+    {
+      "keyword": "france arrests latvian",
+      "mentions": 10
+    },
+    {
+      "keyword": "cisco ssl vpn",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
+      "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
+      "summary": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DMA) attacks across architectures that implement a Unified Extensible Firmware Interface (UEFI) and input–output memory management unit (IOMMU). UEFI and IOMMU are designed to enforce a security",
+      "published": "Fri, 19 Dec 2025 13:55:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware",
@@ -147,17 +156,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances",
-      "link": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
-      "summary": "Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure Email and Web Manager. The networking equipment major said it became aware of the intrusion campaign on December 10, 2025, and that it",
-      "published": "Thu, 18 Dec 2025 09:40:00 +0530",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "FTC: Instacart to refund $60M over deceptive subscription tactics",
+      "link": "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/",
+      "summary": "Grocery delivery service Instacart will refund $60 million to settle FTC claims that it misled customers with false advertising and unlawfully enrolled them in paid subscriptions. [...]",
+      "published": "Fri, 19 Dec 2025 04:19:40 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -229,17 +234,6 @@
       "published": "Thu, 18 Dec 2025 08:47:59 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "HPE warns of maximum severity RCE flaw in OneView software",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/",
-      "summary": "Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary code remotely. [...]",
-      "published": "Thu, 18 Dec 2025 06:35:53 -0500",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -404,6 +398,15 @@
     },
     {
       "source": "Security Week",
+      "title": "North Korea’s Digital Surge: $2B Stolen in Crypto as Amazon Blocks 1,800 Fake IT Workers",
+      "link": "https://www.securityweek.com/north-koreas-digital-surge-2b-stolen-in-crypto-as-amazon-blocks-1800-fake-it-workers/",
+      "summary": "Data from Chainalysis and Amazon offers a glimpse into North Korea’s cyber activities surrounding cryptocurrency theft and fake IT workers. The post North Korea’s Digital Surge: $2B Stolen in Crypto as Amazon Blocks 1,800 Fake IT Workers appeared first on SecurityWeek .",
+      "published": "Fri, 19 Dec 2025 10:01:36 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks",
       "link": "https://www.securityweek.com/uefi-vulnerability-in-major-motherboards-enables-early-boot-attacks/",
       "summary": "ASRock, Asus, Gigabyte, and MSI motherboards are vulnerable to early-boot DMA attacks. The post UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks appeared first on SecurityWeek .",
@@ -478,20 +481,6 @@
       "value_signals": [
         "Zero-day ×2",
         "RCE",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear",
-      "link": "https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/",
-      "summary": "The critical zero-day is tracked as CVE-2025-20393 and it impacts Secure Email Gateway and Secure Email and Web Manager appliances. The post China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear appeared first on SecurityWeek .",
-      "published": "Thu, 18 Dec 2025 07:12:31 +0000",
-      "value_score": 92,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×3",
         "High severity",
         "Exploit wording"
       ]

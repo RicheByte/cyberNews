@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-19 08:23 UTC  
+> **Last Updated:** 2025-12-19 10:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**113 000 impacted** • **execute arbitrary code** • **international passenger ferry** • **asus live update** • **infrastructure management software** • **medium severity flaw** • **mass creating fake** • **maximum severity vulnerability** • **remote code execution** • **twitter whistleblower complaint** • **real life identity** • **hacker group earlier** • **france arrests latvian** • **cisco ssl vpn** • **block many types** • **critical fortinet flaws** • **still alive spying** • **retailers like bestbuy** • **agent like features** • **ignition gateway service**
+**113 000 impacted** • **international passenger ferry** • **asus live update** • **infrastructure management software** • **medium severity flaw** • **twitter whistleblower complaint** • **real life identity** • **hacker group earlier** • **france arrests latvian** • **cisco ssl vpn** • **block many types** • **still alive spying** • **retailers like bestbuy** • **critical fortinet flaws** • **agent like features** • **least september 2023** • **remote work requires** • **remote code execution** • **mass creating fake** • **advanced operational security**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards](https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html)
 - [China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware](https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html)
 - [HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
 - [ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html)
@@ -23,10 +24,10 @@
 - [The Case for Dynamic AI-SaaS Security as Copilots Scale](https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html)
 - [Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html)
 - [CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html)
-- [Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html)
 
 ### BleepingComputer
 
+- [FTC: Instacart to refund $60M over deceptive subscription tactics](https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/)
 - [Windows 10 OOB update released to fix Message Queuing (MSMQ) issues](https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/)
 - [University of Sydney suffers data breach exposing student and staff info](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/)
 - [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
@@ -34,7 +35,6 @@
 - [US seizes E-Note crypto exchange for laundering ransomware payments](https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/)
 - [NIS2 compliance: How to get passwords and MFA right](https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/)
 - [France arrests Latvian for installing malware on Italian ferry](https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/)
-- [HPE warns of maximum severity RCE flaw in OneView software](https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [North Korea’s Digital Surge: $2B Stolen in Crypto as Amazon Blocks 1,800 Fake IT Workers](https://www.securityweek.com/north-koreas-digital-surge-2b-stolen-in-crypto-as-amazon-blocks-1800-fake-it-workers/)
 - [UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks](https://www.securityweek.com/uefi-vulnerability-in-major-motherboards-enables-early-boot-attacks/)
 - [HPE Patches Critical Flaw in IT Infrastructure Management Software](https://www.securityweek.com/hpe-patches-critical-flaw-in-it-infrastructure-management-software/)
 - [CISA Warns of Exploited Flaw in Asus Update Tool](https://www.securityweek.com/cisa-warns-of-exploited-flaw-in-asus-update-tool/)
@@ -67,7 +68,6 @@
 - [IoT Security Firm Exein Raises €100 Million](https://www.securityweek.com/iot-security-firm-exein-raises-e100-million/)
 - [France Probes ‘Foreign Interference’ After Remote Control Malware Found on Passenger Ferry](https://www.securityweek.com/france-probes-foreign-interference-after-remote-control-malware-found-on-passenger-ferry/)
 - [SonicWall Patches Exploited SMA 1000 Zero-Day](https://www.securityweek.com/sonicwall-patches-exploited-sma-1000-zero-day/)
-- [China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear](https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/)
 
 ### Threatpost
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-19 12:33 UTC  
+> **Last Updated:** 2025-12-19 14:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**113 000 impacted** • **asus live update** • **infrastructure management software** • **twitter whistleblower complaint** • **real life identity** • **hacker group earlier** • **critical fortinet flaws** • **cisco ssl vpn** • **block many types** • **critical security flaw** • **still alive spying** • **retailers like bestbuy** • **denmark's critical infrastructure** • **agent like features** • **offer unlimited access** • **least september 2023** • **mass creating fake** • **national security risk** • **advanced operational security** • **unpaid toll fee**
+**asus live update** • **open source millions** • **critical fortinet flaws** • **critical security flaw** • **denmark's critical infrastructure** • **infrastructure management software** • **twitter whistleblower complaint** • **real life identity** • **hacker group earlier** • **cisco ssl vpn** • **block many types** • **still alive spying** • **retailers like bestbuy** • **agent like features** • **offer unlimited access** • **least september 2023** • **prolific cybercriminal group** • **mass creating fake** • **single security guardian** • **proven security practices**
 
 ---
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [A Cybersecurity Playbook for AI Adoption](https://www.darkreading.com/cyber-risk/cybersecurity-playbook-ai-adoption)
+- [A Good Year for North Korean Cybercriminals](https://www.darkreading.com/cyberattacks-data-breaches/good-year-north-korean-cybercriminals)
 - [SonicWall Edge Access Devices Hit by Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks)
 - [Dormant Iran APT is Still Alive, Spying on Dissidents](https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents)
 - [Critical Fortinet Flaws Under Active Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack)
 - [In Cybersecurity, Claude Leaves Other LLMs in the Dust](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms)
 - ['Cellik' Android RAT Leverages Google Play Store](https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store)
 - [Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity](https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity)
-- ['Fake Proof' and AI Slop Hobble Defenders](https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders)
-- [The Future of Quantum-Safe Networks Depends on Interoperable Standards](https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today)
 
 ### Security Week
 
+- [Docker Makes 1,000 Hardened Images Free and Open Source](https://www.securityweek.com/docker-makes-1000-hardened-images-free-and-open-source/)
+- [US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator](https://www.securityweek.com/us-shuts-down-crypto-exchange-e-note-charges-russian-administrator/)
 - [University of Sydney Data Breach Affects 27,000 Individuals](https://www.securityweek.com/university-of-sydney-data-breach-affects-27000-individuals/)
 - [‘Kimwolf’ Android Botnet Ensnares 1.8 Million Devices](https://www.securityweek.com/kimwolf-android-botnet-ensnares-1-8-million-devices/)
 - [North Korea’s Digital Surge: $2B Stolen in Crypto as Amazon Blocks 1,800 Fake IT Workers](https://www.securityweek.com/north-koreas-digital-surge-2b-stolen-in-crypto-as-amazon-blocks-1800-fake-it-workers/)
 - [UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks](https://www.securityweek.com/uefi-vulnerability-in-major-motherboards-enables-early-boot-attacks/)
 - [HPE Patches Critical Flaw in IT Infrastructure Management Software](https://www.securityweek.com/hpe-patches-critical-flaw-in-it-infrastructure-management-software/)
 - [CISA Warns of Exploited Flaw in Asus Update Tool](https://www.securityweek.com/cisa-warns-of-exploited-flaw-in-asus-update-tool/)
-- [113,000 Impacted by Data Breach at Virginia Mental Health Authority](https://www.securityweek.com/113000-impacted-by-data-breach-at-virginia-mental-health-authority/)
-- [IoT Security Firm Exein Raises €100 Million](https://www.securityweek.com/iot-security-firm-exein-raises-e100-million/)
 
 ### Threatpost
 

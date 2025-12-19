@@ -1,69 +1,69 @@
 {
-  "last_updated": "2025-12-19 12:33",
+  "last_updated": "2025-12-19 14:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "113 000 impacted",
     "asus live update",
+    "open source millions",
+    "critical fortinet flaws",
+    "critical security flaw",
+    "denmark's critical infrastructure",
     "infrastructure management software",
     "twitter whistleblower complaint",
     "real life identity",
     "hacker group earlier",
-    "critical fortinet flaws",
     "cisco ssl vpn",
     "block many types",
-    "critical security flaw",
     "still alive spying",
     "retailers like bestbuy",
-    "denmark's critical infrastructure",
     "agent like features",
     "offer unlimited access",
     "least september 2023",
+    "prolific cybercriminal group",
     "mass creating fake",
-    "national security risk",
-    "advanced operational security",
-    "unpaid toll fee"
+    "single security guardian",
+    "proven security practices"
   ],
   "trending": [
     {
-      "keyword": "113 000 impacted",
-      "mentions": 13
-    },
-    {
       "keyword": "asus live update",
-      "mentions": 12
-    },
-    {
-      "keyword": "infrastructure management software",
-      "mentions": 11
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 24
-    },
-    {
-      "keyword": "real life identity",
       "mentions": 13
     },
     {
-      "keyword": "hacker group earlier",
-      "mentions": 6
+      "keyword": "open source millions",
+      "mentions": 1
     },
     {
       "keyword": "critical fortinet flaws",
-      "mentions": 13
-    },
-    {
-      "keyword": "cisco ssl vpn",
-      "mentions": 10
-    },
-    {
-      "keyword": "block many types",
-      "mentions": 9
+      "mentions": 14
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "denmark's critical infrastructure",
+      "mentions": 2
+    },
+    {
+      "keyword": "infrastructure management software",
+      "mentions": 12
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 25
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 14
+    },
+    {
+      "keyword": "hacker group earlier",
+      "mentions": 7
+    },
+    {
+      "keyword": "cisco ssl vpn",
+      "mentions": 11
     }
   ],
   "articles": [
@@ -323,6 +323,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "A Cybersecurity Playbook for AI Adoption",
+      "link": "https://www.darkreading.com/cyber-risk/cybersecurity-playbook-ai-adoption",
+      "summary": "AI adds real value to cybersecurity today, but it cannot yet serve as a single security guardian. Here's how organizations can safely combine AI-driven analysis with deterministic rules and proven security practices.",
+      "published": "Fri, 19 Dec 2025 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "A Good Year for North Korean Cybercriminals",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/good-year-north-korean-cybercriminals",
+      "summary": "North Korea shifted its strategy to patiently target \"bigger fish\" for larger payouts, using sophisticated methods to execute attacks at opportune times.",
+      "published": "Fri, 19 Dec 2025 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "SonicWall Edge Access Devices Hit by Zero-Day Attacks",
       "link": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks",
       "summary": "In the latest attacks against the vendor's SMA1000 devices, threat actors have chained a new zero-day flaw with a critical vulnerability disclosed earlier this year.",
@@ -381,25 +399,23 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'Fake Proof' and AI Slop Hobble Defenders",
-      "link": "https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders",
-      "summary": "In the React2Shell saga, nonworking and trivial proof-of-concept exploits led to confusion and perhaps a false sense of security. Can the onslaught of PoCs be tamed?",
-      "published": "Wed, 17 Dec 2025 20:58:31 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "Security Week",
+      "title": "Docker Makes 1,000 Hardened Images Free and Open Source",
+      "link": "https://www.securityweek.com/docker-makes-1000-hardened-images-free-and-open-source/",
+      "summary": "Millions of developers can now use the secure, production-ready images made by Docker. The post Docker Makes 1,000 Hardened Images Free and Open Source appeared first on SecurityWeek .",
+      "published": "Fri, 19 Dec 2025 13:33:57 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "The Future of Quantum-Safe Networks Depends on Interoperable Standards",
-      "link": "https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today",
-      "summary": "As quantum computing advances, secure, interoperable standards will be critical to making quantum key distribution (QKD) practical, trusted, and future-proof.",
-      "published": "Wed, 17 Dec 2025 20:46:43 GMT",
-      "value_score": 18,
+      "source": "Security Week",
+      "title": "US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator",
+      "link": "https://www.securityweek.com/us-shuts-down-crypto-exchange-e-note-charges-russian-administrator/",
+      "summary": "The exchange has been allegedly involved in laundering money for ransomware groups and other transnational cybercriminal organizations. The post US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator appeared first on SecurityWeek .",
+      "published": "Fri, 19 Dec 2025 13:03:39 +0000",
+      "value_score": 28,
       "value_signals": [
-        "High severity"
+        "Ransomware"
       ]
     },
     {
@@ -468,27 +484,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "113,000 Impacted by Data Breach at Virginia Mental Health Authority",
-      "link": "https://www.securityweek.com/113000-impacted-by-data-breach-at-virginia-mental-health-authority/",
-      "summary": "Threat actors stole names, Social Security numbers, and financial and health information, and deployed ransomware on RBHA’s systems. The post 113,000 Impacted by Data Breach at Virginia Mental Health Authority appeared first on SecurityWeek .",
-      "published": "Thu, 18 Dec 2025 11:05:02 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware",
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "IoT Security Firm Exein Raises €100 Million",
-      "link": "https://www.securityweek.com/iot-security-firm-exein-raises-e100-million/",
-      "summary": "The Italian company has raised nearly $200 million in 2025 for its widely used embedded cybersecurity platform. The post IoT Security Firm Exein Raises €100 Million appeared first on SecurityWeek .",
-      "published": "Thu, 18 Dec 2025 10:34:51 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

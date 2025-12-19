@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-19 12:33 UTC |
+| 🕐 Last Updated | 2025-12-19 14:16 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 24 |
+| 📈 Total Updates | 25 |
 
 ## 🔥 Trending Topics
 
-`113 000 impacted` • `asus live update` • `infrastructure management software` • `twitter whistleblower complaint` • `real life identity` • `hacker group earlier` • `critical fortinet flaws` • `cisco ssl vpn` • `block many types` • `critical security flaw`
+`asus live update` • `open source millions` • `critical fortinet flaws` • `critical security flaw` • `denmark's critical infrastructure` • `infrastructure management software` • `twitter whistleblower complaint` • `real life identity` • `hacker group earlier` • `cisco ssl vpn`
 
 ## 📄 Reports
 

@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-18 22:15 UTC  
+> **Last Updated:** 2025-12-19 01:16 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**113 000 impacted** • **execute arbitrary code** • **international passenger ferry** • **infrastructure management software** • **mass creating fake** • **asus live update** • **medium severity flaw** • **maximum severity vulnerability** • **remote code execution** • **twitter whistleblower complaint** • **real life identity** • **france arrests latvian** • **cisco ssl vpn** • **block many types** • **still alive spying** • **retailers like bestbuy** • **agent like features** • **ignition gateway service** • **least september 2023** • **remote work requires**
+**113 000 impacted** • **execute arbitrary code** • **international passenger ferry** • **infrastructure management software** • **asus live update** • **medium severity flaw** • **maximum severity vulnerability** • **targeting admin accounts** • **remote code execution** • **twitter whistleblower complaint** • **least september 2023** • **france arrests latvian** • **cisco ssl vpn** • **cisco security gear** • **advanced operational security** • **remote work requires** • **threat activity cluster** • **still alive spying** • **specops software explains** • **software backdoor implanted**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Windows 10 OOB update released to fix Message Queuing (MSMQ) issues](https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/)
 - [University of Sydney suffers data breach exposing student and staff info](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/)
 - [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
 - [New password spraying attacks target Cisco, PAN VPN gateways](https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/)
@@ -34,21 +35,10 @@
 - [NIS2 compliance: How to get passwords and MFA right](https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/)
 - [France arrests Latvian for installing malware on Italian ferry](https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/)
 - [HPE warns of maximum severity RCE flaw in OneView software](https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/)
-- [Microsoft: Recent Windows updates break RemoteApp connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/)
-
-### Krebs on Security
-
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
-- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
-- [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
-- [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
-- [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
-- [The Cloudflare Outage May Be a Security Roadmap](https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/)
 
 ### Dark Reading
 
+- [SonicWall Edge Access Devices Hit by Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks)
 - [Dormant Iran APT is Still Alive, Spying on Dissidents](https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents)
 - [Critical Fortinet Flaws Under Active Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack)
 - [In Cybersecurity, Claude Leaves Other LLMs in the Dust](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms)
@@ -56,7 +46,6 @@
 - [Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity](https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity)
 - ['Fake Proof' and AI Slop Hobble Defenders](https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders)
 - [The Future of Quantum-Safe Networks Depends on Interoperable Standards](https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today)
-- [Attackers Use Stolen AWS Credentials in Cryptomining Campaign](https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining)
 
 ### Security Week
 

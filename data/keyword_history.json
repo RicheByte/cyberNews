@@ -1,7 +1,8 @@
 {
   "dates": [
     "2025-12-17",
-    "2025-12-18"
+    "2025-12-18",
+    "2025-12-19"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -53,10 +54,11 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2025-12-17",
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "supposed wayward package": {
@@ -229,15 +231,17 @@
       ]
     },
     "international passenger ferry": {
-      "count": 7,
+      "count": 8,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "remote code execution": {
-      "count": 7,
+      "count": 8,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "attacker remotely control": {
@@ -247,27 +251,31 @@
       ]
     },
     "113 000 impacted": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "maximum severity vulnerability": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "remote work requires": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "medium severity flaw": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "agent like features": {
@@ -283,9 +291,10 @@
       ]
     },
     "asus live update": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "global cryptocurrency theft": {
@@ -295,27 +304,31 @@
       ]
     },
     "still alive spying": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "execute arbitrary code": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "france arrests latvian": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "infrastructure management software": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "three part series": {
@@ -325,9 +338,10 @@
       ]
     },
     "cisco ssl vpn": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
       ]
     },
     "block many types": {
@@ -343,9 +357,46 @@
       ]
     },
     "least september 2023": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-19"
+      ]
+    },
+    "targeting admin accounts": {
+      "count": 1,
+      "dates": [
+        "2025-12-19"
+      ]
+    },
+    "cisco security gear": {
+      "count": 1,
+      "dates": [
+        "2025-12-19"
+      ]
+    },
+    "advanced operational security": {
+      "count": 1,
+      "dates": [
+        "2025-12-19"
+      ]
+    },
+    "threat activity cluster": {
+      "count": 1,
+      "dates": [
+        "2025-12-19"
+      ]
+    },
+    "specops software explains": {
+      "count": 1,
+      "dates": [
+        "2025-12-19"
+      ]
+    },
+    "software backdoor implanted": {
+      "count": 1,
+      "dates": [
+        "2025-12-19"
       ]
     }
   },
@@ -535,6 +586,17 @@
         "international passenger ferry",
         "infrastructure management software",
         "mass creating fake"
+      ]
+    },
+    {
+      "timestamp": "2025-12-19 01:16",
+      "articles": 48,
+      "top_keywords": [
+        "113 000 impacted",
+        "execute arbitrary code",
+        "international passenger ferry",
+        "infrastructure management software",
+        "asus live update"
       ]
     }
   ]

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2025-12-19 14:16",
+  "last_updated": "2025-12-19 16:20",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
-    "asus live update",
+    "denmark blames russia",
     "open source millions",
-    "critical fortinet flaws",
     "critical security flaw",
-    "denmark's critical infrastructure",
-    "infrastructure management software",
+    "threat activity cluster",
+    "stringent identity authentication",
+    "asus gigabyte msi",
     "twitter whistleblower complaint",
-    "real life identity",
-    "hacker group earlier",
-    "cisco ssl vpn",
-    "block many types",
-    "still alive spying",
-    "retailers like bestbuy",
-    "agent like features",
-    "offer unlimited access",
     "least september 2023",
-    "prolific cybercriminal group",
-    "mass creating fake",
-    "single security guardian",
-    "proven security practices"
+    "fake identities continue",
+    "deploy espionage malware",
+    "additional brickstorm samples",
+    "advanced operational security",
+    "denmark's critical infrastructure",
+    "critical fortinet flaws",
+    "targeting admin accounts",
+    "still alive spying",
+    "stealthy loader known",
+    "precisely timed moments",
+    "national instruments labview",
+    "manage background tasks"
   ],
   "trending": [
     {
-      "keyword": "asus live update",
-      "mentions": 13
-    },
-    {
-      "keyword": "open source millions",
+      "keyword": "denmark blames russia",
       "mentions": 1
     },
     {
-      "keyword": "critical fortinet flaws",
-      "mentions": 14
+      "keyword": "open source millions",
+      "mentions": 2
     },
     {
       "keyword": "critical security flaw",
+      "mentions": 3
+    },
+    {
+      "keyword": "threat activity cluster",
       "mentions": 2
     },
     {
-      "keyword": "denmark's critical infrastructure",
-      "mentions": 2
+      "keyword": "stringent identity authentication",
+      "mentions": 1
     },
     {
-      "keyword": "infrastructure management software",
-      "mentions": 12
+      "keyword": "asus gigabyte msi",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 25
+      "mentions": 26
     },
     {
-      "keyword": "real life identity",
-      "mentions": 14
+      "keyword": "least september 2023",
+      "mentions": 8
     },
     {
-      "keyword": "hacker group earlier",
-      "mentions": 7
+      "keyword": "fake identities continue",
+      "mentions": 1
     },
     {
-      "keyword": "cisco ssl vpn",
-      "mentions": 11
+      "keyword": "deploy espionage malware",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
+      "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a new version of a modular and stealthy loader known as CountLoader. The campaign \"uses CountLoader as the initial tool in a multistage attack for access, evasion, and delivery of additional malware families,\" Cyderes Howler Cell Threat Intelligence",
+      "published": "Fri, 19 Dec 2025 21:04:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
@@ -145,11 +154,32 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
-      "link": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
-      "summary": "Within the past year, artificial intelligence copilots and agents have quietly permeated the SaaS applications businesses use every day. Tools like Zoom, Slack, Microsoft 365, Salesforce, and ServiceNow now come with built-in AI assistants or agent-like features. Virtually every major SaaS vendor has rushed to embed AI into their offerings. The result is an explosion of AI capabilities across",
-      "published": "Thu, 18 Dec 2025 17:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock",
+      "link": "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/",
+      "summary": "The UEFI firmware implementation in some motherboards from ASUS, Gigabyte, MSI, and ASRock is vulnerable to direct memory access (DMA) attacks that can bypass early-boot memory protections. [...]",
+      "published": "Fri, 19 Dec 2025 10:54:48 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/",
+      "summary": "Internet security watchdog Shadowserver has found over 25,000 Fortinet devices exposed online with FortiCloud SSO enabled, amid ongoing attacks targeting a critical authentication bypass vulnerability. [...]",
+      "published": "Fri, 19 Dec 2025 10:00:45 -0500",
+      "value_score": 33,
+      "value_signals": [
+        "Auth bypass",
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/",
+      "summary": "Criminal IP (criminalip.io), the AI-powered threat intelligence and attack surface monitoring platform developed by AI SPERA, is now officially integrated into Palo Alto Networks' Cortex XSOAR. [...]",
+      "published": "Fri, 19 Dec 2025 09:30:00 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -211,113 +241,11 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/",
-      "summary": "The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign. [...]",
-      "published": "Thu, 18 Dec 2025 15:16:55 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New password spraying attacks target Cisco, PAN VPN gateways",
-      "link": "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/",
-      "summary": "An automated campaign is targeting multiple VPN platforms, with credential-based attacks being observed on Palo Alto Networks GlobalProtect and Cisco SSL VPN. [...]",
-      "published": "Thu, 18 Dec 2025 12:27:25 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US seizes E-Note crypto exchange for laundering ransomware payments",
-      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/",
-      "summary": "Law enforcement has seized the servers and domains of the E-Note cryptocurrency exchange, allegedly used by cybercriminal groups to launder more than $70 million. [...]",
-      "published": "Thu, 18 Dec 2025 11:13:03 -0500",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
-      "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
-      "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for \"Rey,\" the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.",
-      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
-      "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-      "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account t",
-      "published": "Mon, 24 Nov 2025 18:44:52 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-      "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-      "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will offici",
-      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "The Cloudflare Outage May Be a Security Roadmap",
-      "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-      "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.",
-      "published": "Wed, 19 Nov 2025 14:07:03 +0000",
+      "source": "Dark Reading",
+      "title": "Identity Fraud Among Home Care Workers Puts Patients at Risk",
+      "link": "https://www.darkreading.com/identity-access-management-security/identity-fraud-among-home-care-workers-puts-patients-at-risk",
+      "summary": "Reports of patients being cared for by unqualified home-care aides with fake identities continue to emerge, highlighting a need for more stringent identity authentication.",
+      "published": "Fri, 19 Dec 2025 15:04:50 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -390,11 +318,47 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity",
-      "link": "https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity",
-      "summary": "The future of cybersecurity means defending everywhere. Securing IoT, cloud, and remote work requires a unified edge-to-cloud strategy. (First in a three-part series.)",
-      "published": "Wed, 17 Dec 2025 21:14:12 GMT",
+      "source": "Security Week",
+      "title": "In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee",
+      "link": "https://www.securityweek.com/in-other-news-docker-ai-attack-google-sues-chinese-cybercriminals-coupang-hacked-by-employee/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Trump could use private firms for cyber offensive, China threat to US power grid, RaccoonO365 suspect arrested in Nigeria. The post In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee appeared first on SecurityWeek .",
+      "published": "Fri, 19 Dec 2025 16:04:05 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Palo Alto Networks, Google Cloud Strike Multibillion-Dollar AI and Cloud Security Deal",
+      "link": "https://www.securityweek.com/palo-alto-networks-google-cloud-strike-multibillion-dollar-ai-and-cloud-security-deal/",
+      "summary": "The agreement strengthens technical and commercial ties as Palo Alto migrates workloads and adopts Google’s Vertex AI and Gemini models. The post Palo Alto Networks, Google Cloud Strike Multibillion-Dollar AI and Cloud Security Deal appeared first on SecurityWeek .",
+      "published": "Fri, 19 Dec 2025 15:51:05 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "AI Security Firm Ciphero Emerges From Stealth With $2.5 Million in Funding",
+      "link": "https://www.securityweek.com/ai-security-firm-ciphero-emerges-from-stealth-with-2-5-million-in-funding/",
+      "summary": "The startup’s solution captures, verifies, and governs all AI interactions within an enterprise’s environment. The post AI Security Firm Ciphero Emerges From Stealth With $2.5 Million in Funding appeared first on SecurityWeek .",
+      "published": "Fri, 19 Dec 2025 15:33:41 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Denmark Blames Russia for Cyberattacks Ahead of Elections and on Water Utility",
+      "link": "https://www.securityweek.com/denmark-blames-russia-for-cyberattacks-ahead-of-elections-and-on-water-utility/",
+      "summary": "Danish intelligence service said the attacks were part of Russia’s “hybrid war” against the West and an attempt to create instability. The post Denmark Blames Russia for Cyberattacks Ahead of Elections and on Water Utility appeared first on SecurityWeek .",
+      "published": "Fri, 19 Dec 2025 14:53:35 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Chinese APT ‘LongNosedGoblin’ Targeting Asian Governments",
+      "link": "https://www.securityweek.com/chinese-apt-longnosedgoblin-targeting-asian-governments/",
+      "summary": "The hacking group has been using Group Policy to deploy cyberespionage tools on governmental networks. The post Chinese APT ‘LongNosedGoblin’ Targeting Asian Governments appeared first on SecurityWeek .",
+      "published": "Fri, 19 Dec 2025 14:35:59 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -427,62 +391,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "‘Kimwolf’ Android Botnet Ensnares 1.8 Million Devices",
-      "link": "https://www.securityweek.com/kimwolf-android-botnet-ensnares-1-8-million-devices/",
-      "summary": "Linked to the Aisuru IoT botnet, Kimwolf was seen launching over 1.7 billion DDoS attack commands and increasing its C&C domain’s popularity. The post ‘Kimwolf’ Android Botnet Ensnares 1.8 Million Devices appeared first on SecurityWeek .",
-      "published": "Fri, 19 Dec 2025 11:48:49 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "North Korea’s Digital Surge: $2B Stolen in Crypto as Amazon Blocks 1,800 Fake IT Workers",
-      "link": "https://www.securityweek.com/north-koreas-digital-surge-2b-stolen-in-crypto-as-amazon-blocks-1800-fake-it-workers/",
-      "summary": "Data from Chainalysis and Amazon offers a glimpse into North Korea’s cyber activities surrounding cryptocurrency theft and fake IT workers. The post North Korea’s Digital Surge: $2B Stolen in Crypto as Amazon Blocks 1,800 Fake IT Workers appeared first on SecurityWeek .",
-      "published": "Fri, 19 Dec 2025 10:01:36 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks",
-      "link": "https://www.securityweek.com/uefi-vulnerability-in-major-motherboards-enables-early-boot-attacks/",
-      "summary": "ASRock, Asus, Gigabyte, and MSI motherboards are vulnerable to early-boot DMA attacks. The post UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 18 Dec 2025 15:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "HPE Patches Critical Flaw in IT Infrastructure Management Software",
-      "link": "https://www.securityweek.com/hpe-patches-critical-flaw-in-it-infrastructure-management-software/",
-      "summary": "Tracked as CVE-2025-37164, the critical flaw could allow unauthenticated, remote attackers to execute arbitrary code. The post HPE Patches Critical Flaw in IT Infrastructure Management Software appeared first on SecurityWeek .",
-      "published": "Thu, 18 Dec 2025 15:07:19 +0000",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Warns of Exploited Flaw in Asus Update Tool",
-      "link": "https://www.securityweek.com/cisa-warns-of-exploited-flaw-in-asus-update-tool/",
-      "summary": "Tracked as CVE-2025-59374, the issue is a software backdoor implanted in Asus Live Update in a supply chain attack. The post CISA Warns of Exploited Flaw in Asus Update Tool appeared first on SecurityWeek .",
-      "published": "Thu, 18 Dec 2025 13:27:51 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Patch/update ×3",
-        "Backdoor",
-        "CISA/KEV ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -567,6 +475,20 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA  and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-and-partners-release-update-malware-analysis-report-brickstorm-backdoor",
+      "summary": "Today, the Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency, and Canadian Centre for Cyber Security released an update to the Malware Analysis Report BRICKSTORM Backdoor with indicators of compromise (IOCs) and detection signatures for additional BRICKSTORM samples. This update provides information on additional samples, including Rust-based samples. These samples demonstrate advanced persistence and defense evasion mechanisms, such as running as background servi",
+      "published": "Fri, 19 Dec 25 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update ×3",
+        "Backdoor ×2",
+        "CISA/KEV ×2"
+      ]
     },
     {
       "source": "CISA Alerts",
@@ -659,19 +581,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned ×4",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Releases Nine Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/18/cisa-releases-nine-industrial-control-systems-advisories",
-      "summary": "CISA released nine Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-352-01 Inductive Automation Ignition ICSA-25-352-02 Schneider Electric EcoStruxure Foxboro DCS Advisor ICSA-25-352-03 National Instruments LabView ICSA-25-352-04 Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electrics Products ICSA-25-352-05 Siemens Interniche IP-Stack ICSA-25-352-06 Advant",
-      "published": "Thu, 18 Dec 25 12:00:00 +0000",
-      "value_score": 81,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CISA/KEV ×2",
         "Exploit wording"
       ]
     }

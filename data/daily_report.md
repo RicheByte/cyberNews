@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-19 14:16 UTC  
+> **Last Updated:** 2025-12-19 16:20 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**asus live update** • **open source millions** • **critical fortinet flaws** • **critical security flaw** • **denmark's critical infrastructure** • **infrastructure management software** • **twitter whistleblower complaint** • **real life identity** • **hacker group earlier** • **cisco ssl vpn** • **block many types** • **still alive spying** • **retailers like bestbuy** • **agent like features** • **offer unlimited access** • **least september 2023** • **prolific cybercriminal group** • **mass creating fake** • **single security guardian** • **proven security practices**
+**denmark blames russia** • **open source millions** • **critical security flaw** • **threat activity cluster** • **stringent identity authentication** • **asus gigabyte msi** • **twitter whistleblower complaint** • **least september 2023** • **fake identities continue** • **deploy espionage malware** • **additional brickstorm samples** • **advanced operational security** • **denmark's critical infrastructure** • **critical fortinet flaws** • **targeting admin accounts** • **still alive spying** • **stealthy loader known** • **precisely timed moments** • **national instruments labview** • **manage background tasks**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware](https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html)
 - [WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability](https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html)
 - [Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks](https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html)
 - [New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards](https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html)
@@ -23,32 +24,21 @@
 - [HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
 - [ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html)
 - [North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft](https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html)
-- [The Case for Dynamic AI-SaaS Security as Copilots Scale](https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html)
 
 ### BleepingComputer
 
+- [New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock](https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/)
+- [Over 25,000 FortiCloud SSO devices exposed to remote attacks](https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/)
+- [Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response](https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/)
 - [Denmark blames Russia for destructive cyberattack on water utility](https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/)
 - [New critical WatchGuard Firebox firewall flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/)
 - [FTC: Instacart to refund $60M over deceptive subscription tactics](https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/)
 - [Windows 10 OOB update released to fix Message Queuing (MSMQ) issues](https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/)
 - [University of Sydney suffers data breach exposing student and staff info](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/)
-- [Clop ransomware targets Gladinet CentreStack in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/)
-- [New password spraying attacks target Cisco, PAN VPN gateways](https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/)
-- [US seizes E-Note crypto exchange for laundering ransomware payments](https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/)
-
-### Krebs on Security
-
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
-- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
-- [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
-- [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
-- [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
-- [The Cloudflare Outage May Be a Security Roadmap](https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/)
 
 ### Dark Reading
 
+- [Identity Fraud Among Home Care Workers Puts Patients at Risk](https://www.darkreading.com/identity-access-management-security/identity-fraud-among-home-care-workers-puts-patients-at-risk)
 - [A Cybersecurity Playbook for AI Adoption](https://www.darkreading.com/cyber-risk/cybersecurity-playbook-ai-adoption)
 - [A Good Year for North Korean Cybercriminals](https://www.darkreading.com/cyberattacks-data-breaches/good-year-north-korean-cybercriminals)
 - [SonicWall Edge Access Devices Hit by Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks)
@@ -56,18 +46,17 @@
 - [Critical Fortinet Flaws Under Active Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack)
 - [In Cybersecurity, Claude Leaves Other LLMs in the Dust](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms)
 - ['Cellik' Android RAT Leverages Google Play Store](https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store)
-- [Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity](https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity)
 
 ### Security Week
 
+- [In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee](https://www.securityweek.com/in-other-news-docker-ai-attack-google-sues-chinese-cybercriminals-coupang-hacked-by-employee/)
+- [Palo Alto Networks, Google Cloud Strike Multibillion-Dollar AI and Cloud Security Deal](https://www.securityweek.com/palo-alto-networks-google-cloud-strike-multibillion-dollar-ai-and-cloud-security-deal/)
+- [AI Security Firm Ciphero Emerges From Stealth With $2.5 Million in Funding](https://www.securityweek.com/ai-security-firm-ciphero-emerges-from-stealth-with-2-5-million-in-funding/)
+- [Denmark Blames Russia for Cyberattacks Ahead of Elections and on Water Utility](https://www.securityweek.com/denmark-blames-russia-for-cyberattacks-ahead-of-elections-and-on-water-utility/)
+- [Chinese APT ‘LongNosedGoblin’ Targeting Asian Governments](https://www.securityweek.com/chinese-apt-longnosedgoblin-targeting-asian-governments/)
 - [Docker Makes 1,000 Hardened Images Free and Open Source](https://www.securityweek.com/docker-makes-1000-hardened-images-free-and-open-source/)
 - [US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator](https://www.securityweek.com/us-shuts-down-crypto-exchange-e-note-charges-russian-administrator/)
 - [University of Sydney Data Breach Affects 27,000 Individuals](https://www.securityweek.com/university-of-sydney-data-breach-affects-27000-individuals/)
-- [‘Kimwolf’ Android Botnet Ensnares 1.8 Million Devices](https://www.securityweek.com/kimwolf-android-botnet-ensnares-1-8-million-devices/)
-- [North Korea’s Digital Surge: $2B Stolen in Crypto as Amazon Blocks 1,800 Fake IT Workers](https://www.securityweek.com/north-koreas-digital-surge-2b-stolen-in-crypto-as-amazon-blocks-1800-fake-it-workers/)
-- [UEFI Vulnerability in Major Motherboards Enables Early-Boot Attacks](https://www.securityweek.com/uefi-vulnerability-in-major-motherboards-enables-early-boot-attacks/)
-- [HPE Patches Critical Flaw in IT Infrastructure Management Software](https://www.securityweek.com/hpe-patches-critical-flaw-in-it-infrastructure-management-software/)
-- [CISA Warns of Exploited Flaw in Asus Update Tool](https://www.securityweek.com/cisa-warns-of-exploited-flaw-in-asus-update-tool/)
 
 ### Threatpost
 
@@ -82,6 +71,7 @@
 
 ### CISA Alerts
 
+- [CISA  and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor](https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-and-partners-release-update-malware-analysis-report-brickstorm-backdoor)
 - [Advantech WebAccess/SCADA](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-06)
 - [Inductive Automation Ignition](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-01)
 - [National Instruments LabView](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-03)
@@ -89,7 +79,6 @@
 - [Siemens Interniche IP-Stack](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-05)
 - [Rockwell Automation Micro820, Micro850, Micro870](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-07)
 - [Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electrics Products](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-04)
-- [CISA Releases Nine Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2025/12/18/cisa-releases-nine-industrial-control-systems-advisories)
 
 ---
 

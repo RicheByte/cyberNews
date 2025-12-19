@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-19 14:16 UTC |
-| 📰 Articles Analyzed | 56 |
+| 🕐 Last Updated | 2025-12-19 16:20 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 25 |
+| 📈 Total Updates | 26 |
 
 ## 🔥 Trending Topics
 
-`asus live update` • `open source millions` • `critical fortinet flaws` • `critical security flaw` • `denmark's critical infrastructure` • `infrastructure management software` • `twitter whistleblower complaint` • `real life identity` • `hacker group earlier` • `cisco ssl vpn`
+`denmark blames russia` • `open source millions` • `critical security flaw` • `threat activity cluster` • `stringent identity authentication` • `asus gigabyte msi` • `twitter whistleblower complaint` • `least september 2023` • `fake identities continue` • `deploy espionage malware`
 
 ## 📄 Reports
 

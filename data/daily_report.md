@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-19 16:20 UTC  
+> **Last Updated:** 2025-12-19 18:23 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**denmark blames russia** • **open source millions** • **critical security flaw** • **threat activity cluster** • **stringent identity authentication** • **asus gigabyte msi** • **twitter whistleblower complaint** • **least september 2023** • **fake identities continue** • **deploy espionage malware** • **additional brickstorm samples** • **advanced operational security** • **denmark's critical infrastructure** • **critical fortinet flaws** • **targeting admin accounts** • **still alive spying** • **stealthy loader known** • **precisely timed moments** • **national instruments labview** • **manage background tasks**
+**denmark blames russia** • **stringent identity authentication** • **open source millions** • **critical security flaw** • **mass creating fake** • **critical fortinet flaws** • **asus gigabyte msi** • **twitter whistleblower complaint** • **retailers like bestbuy** • **advanced operational security** • **additional brickstorm samples** • **2 5 million** • **prolific cybercriminal group** • **hacker group earlier** • **real life identity** • **fake identities continue** • **denmark's critical infrastructure** • **threat activity cluster** • **least september 2023** • **unpaid toll fee**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/)
 - [New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock](https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/)
 - [Over 25,000 FortiCloud SSO devices exposed to remote attacks](https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/)
 - [Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response](https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/)
@@ -34,10 +35,21 @@
 - [New critical WatchGuard Firebox firewall flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/)
 - [FTC: Instacart to refund $60M over deceptive subscription tactics](https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/)
 - [Windows 10 OOB update released to fix Message Queuing (MSMQ) issues](https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/)
-- [University of Sydney suffers data breach exposing student and staff info](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/)
+
+### Krebs on Security
+
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
+- [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+- [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+- [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
 
 ### Dark Reading
 
+- [LongNosedGoblin Caught Snooping on Asian Governments](https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments)
 - [Identity Fraud Among Home Care Workers Puts Patients at Risk](https://www.darkreading.com/identity-access-management-security/identity-fraud-among-home-care-workers-puts-patients-at-risk)
 - [A Cybersecurity Playbook for AI Adoption](https://www.darkreading.com/cyber-risk/cybersecurity-playbook-ai-adoption)
 - [A Good Year for North Korean Cybercriminals](https://www.darkreading.com/cyberattacks-data-breaches/good-year-north-korean-cybercriminals)
@@ -45,7 +57,6 @@
 - [Dormant Iran APT is Still Alive, Spying on Dissidents](https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents)
 - [Critical Fortinet Flaws Under Active Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack)
 - [In Cybersecurity, Claude Leaves Other LLMs in the Dust](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms)
-- ['Cellik' Android RAT Leverages Google Play Store](https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store)
 
 ### Security Week
 

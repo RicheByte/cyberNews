@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-19 22:16 UTC  
+> **Last Updated:** 2025-12-20 01:12 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -51,7 +51,7 @@
 
 - [Cisco VPNs, Email Services Hit in Separate Threat Campaigns](https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns)
 - [LongNosedGoblin Caught Snooping on Asian Governments](https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments)
-- [Identity Fraud Among Home Care Workers Puts Patients at Risk](https://www.darkreading.com/identity-access-management-security/identity-fraud-among-home-care-workers-puts-patients-at-risk)
+- [Identity Fraud Among Home-Care Workers Puts Patients at Risk](https://www.darkreading.com/identity-access-management-security/identity-fraud-among-home-care-workers-puts-patients-at-risk)
 - [A Cybersecurity Playbook for AI Adoption](https://www.darkreading.com/cyber-risk/cybersecurity-playbook-ai-adoption)
 - [A Good Year for North Korean Cybercriminals](https://www.darkreading.com/cyberattacks-data-breaches/good-year-north-korean-cybercriminals)
 - [SonicWall Edge Access Devices Hit by Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks)

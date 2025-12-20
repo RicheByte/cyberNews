@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-20 20:16 UTC  
+> **Last Updated:** 2025-12-20 22:14 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**denmark blames russia** • **stringent identity authentication** • **open source millions** • **critical security flaw** • **mass creating fake** • **critical fortinet flaws** • **asus gigabyte msi** • **twitter whistleblower complaint** • **separate threat campaigns** • **retailers like bestbuy** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **2 5 million** • **advanced operational security** • **real life identity** • **malicious cyber actors** • **fake identities continue** • **denmark's critical infrastructure** • **microsoft confirms teams**
+**denmark blames russia** • **open source millions** • **mass creating fake** • **asus gigabyte msi** • **critical security flaw** • **twitter whistleblower complaint** • **retailers like bestbuy** • **real life identity** • **prolific cybercriminal group** • **additional brickstorm samples** • **2 5 million** • **malicious cyber actors** • **denmark's critical infrastructure** • **moscow's hybrid attacks** • **threat activity cluster** • **microsoft confirms teams** • **delayed microsoft teams** • **unpaid toll fee** • **supposed wayward package** • **stealthy loader known**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [RansomHouse upgrades encryption with multi-layered data processing](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/)
 - [Microsoft confirms Teams is down and messages are delayed](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/)
 - [Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform](https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/)
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/)
@@ -34,7 +35,6 @@
 - [Over 25,000 FortiCloud SSO devices exposed to remote attacks](https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/)
 - [Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response](https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/)
 - [Denmark blames Russia for destructive cyberattack on water utility](https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/)
-- [New critical WatchGuard Firebox firewall flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/)
 
 ### Krebs on Security
 
@@ -46,17 +46,6 @@
 - [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 - [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 - [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
-
-### Dark Reading
-
-- [Cisco VPNs, Email Services Hit in Separate Threat Campaigns](https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns)
-- [LongNosedGoblin Caught Snooping on Asian Governments](https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments)
-- [Identity Fraud Among Home-Care Workers Puts Patients at Risk](https://www.darkreading.com/identity-access-management-security/identity-fraud-among-home-care-workers-puts-patients-at-risk)
-- [A Cybersecurity Playbook for AI Adoption](https://www.darkreading.com/cyber-risk/cybersecurity-playbook-ai-adoption)
-- [A Good Year for North Korean Cybercriminals](https://www.darkreading.com/cyberattacks-data-breaches/good-year-north-korean-cybercriminals)
-- [SonicWall Edge Access Devices Hit by Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks)
-- [Dormant Iran APT is Still Alive, Spying on Dissidents](https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents)
-- [Critical Fortinet Flaws Under Active Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack)
 
 ### Security Week
 

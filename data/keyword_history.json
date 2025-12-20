@@ -14,7 +14,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -30,7 +30,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -45,7 +45,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -61,7 +61,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -70,10 +70,11 @@
       ]
     },
     "supposed wayward package": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-17",
-        "2025-12-18"
+        "2025-12-18",
+        "2025-12-20"
       ]
     },
     "life events neurodiversity": {
@@ -90,7 +91,7 @@
       ]
     },
     "real life identity": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -159,11 +160,12 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-17",
         "2025-12-18",
-        "2025-12-19"
+        "2025-12-19",
+        "2025-12-20"
       ]
     },
     "campaign dubbed ghostpairing": {
@@ -227,7 +229,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -402,7 +404,7 @@
       ]
     },
     "threat activity cluster": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2025-12-19",
         "2025-12-20"
@@ -428,14 +430,14 @@
       ]
     },
     "critical security flaw": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2025-12-19",
         "2025-12-20"
       ]
     },
     "denmark's critical infrastructure": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2025-12-19",
         "2025-12-20"
@@ -448,7 +450,7 @@
       ]
     },
     "open source millions": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-19",
         "2025-12-20"
@@ -467,7 +469,7 @@
       ]
     },
     "denmark blames russia": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-19",
         "2025-12-20"
@@ -481,7 +483,7 @@
       ]
     },
     "asus gigabyte msi": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-19",
         "2025-12-20"
@@ -501,16 +503,17 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-19",
         "2025-12-20"
       ]
     },
     "stealthy loader known": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2025-12-19"
+        "2025-12-19",
+        "2025-12-20"
       ]
     },
     "precisely timed moments": {
@@ -532,14 +535,14 @@
       ]
     },
     "2 5 million": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-19",
         "2025-12-20"
       ]
     },
     "microsoft confirms teams": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-19",
         "2025-12-20"
@@ -549,6 +552,18 @@
       "count": 12,
       "dates": [
         "2025-12-19",
+        "2025-12-20"
+      ]
+    },
+    "moscow's hybrid attacks": {
+      "count": 1,
+      "dates": [
+        "2025-12-20"
+      ]
+    },
+    "delayed microsoft teams": {
+      "count": 1,
+      "dates": [
         "2025-12-20"
       ]
     }
@@ -992,6 +1007,17 @@
         "open source millions",
         "critical security flaw",
         "mass creating fake"
+      ]
+    },
+    {
+      "timestamp": "2025-12-20 22:14",
+      "articles": 48,
+      "top_keywords": [
+        "denmark blames russia",
+        "open source millions",
+        "mass creating fake",
+        "asus gigabyte msi",
+        "critical security flaw"
       ]
     }
   ]

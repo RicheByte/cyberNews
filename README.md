@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-20 14:14 UTC |
+| 🕐 Last Updated | 2025-12-20 16:18 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 37 |
+| 📈 Total Updates | 38 |
 
 ## 🔥 Trending Topics
 
-`denmark blames russia` • `stringent identity authentication` • `open source millions` • `critical security flaw` • `mass creating fake` • `critical fortinet flaws` • `asus gigabyte msi` • `twitter whistleblower complaint` • `retailers like bestbuy` • `prolific cybercriminal group`
+`denmark blames russia` • `stringent identity authentication` • `open source millions` • `critical security flaw` • `mass creating fake` • `critical fortinet flaws` • `asus gigabyte msi` • `twitter whistleblower complaint` • `separate threat campaigns` • `retailers like bestbuy`
 
 ## 📄 Reports
 

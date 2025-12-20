@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-20 14:14 UTC  
+> **Last Updated:** 2025-12-20 16:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**denmark blames russia** • **stringent identity authentication** • **open source millions** • **critical security flaw** • **mass creating fake** • **critical fortinet flaws** • **asus gigabyte msi** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **2 5 million** • **advanced operational security** • **real life identity** • **malicious cyber actors** • **fake identities continue** • **denmark's critical infrastructure** • **threat activity cluster** • **separate threat campaigns**
+**denmark blames russia** • **stringent identity authentication** • **open source millions** • **critical security flaw** • **mass creating fake** • **critical fortinet flaws** • **asus gigabyte msi** • **twitter whistleblower complaint** • **separate threat campaigns** • **retailers like bestbuy** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **2 5 million** • **advanced operational security** • **real life identity** • **malicious cyber actors** • **fake identities continue** • **denmark's critical infrastructure** • **microsoft confirms teams**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html)
 - [Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers](https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html)
 - [Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware](https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html)
 - [WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability](https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html)
@@ -23,7 +24,6 @@
 - [New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards](https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html)
 - [China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware](https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html)
 - [HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
-- [ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html)
 
 ### BleepingComputer
 

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2025-12-21 04:33",
+  "last_updated": "2025-12-21 06:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "denmark blames russia",
     "stringent identity authentication",
     "open source millions",
-    "critical security flaw",
-    "mass creating fake",
     "critical fortinet flaws",
+    "mass creating fake",
     "asus gigabyte msi",
+    "critical security flaw",
     "twitter whistleblower complaint",
+    "silence threat hunters",
     "separate threat campaigns",
     "retailers like bestbuy",
     "prolific cybercriminal group",
     "hacker group earlier",
     "additional brickstorm samples",
     "2 5 million",
-    "advanced operational security",
+    "denmark's critical infrastructure",
     "real life identity",
     "malicious cyber actors",
     "fake identities continue",
-    "denmark's critical infrastructure",
-    "microsoft confirms teams"
+    "threat activity cluster"
   ],
   "trending": [
     {
       "keyword": "denmark blames russia",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "stringent identity authentication",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "open source millions",
+      "mentions": 21
+    },
+    {
+      "keyword": "critical fortinet flaws",
+      "mentions": 33
+    },
+    {
+      "keyword": "mass creating fake",
+      "mentions": 43
+    },
+    {
+      "keyword": "asus gigabyte msi",
       "mentions": 20
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 21
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 42
-    },
-    {
-      "keyword": "critical fortinet flaws",
-      "mentions": 32
-    },
-    {
-      "keyword": "asus gigabyte msi",
-      "mentions": 19
+      "mentions": 22
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 44
+      "mentions": 45
+    },
+    {
+      "keyword": "silence threat hunters",
+      "mentions": 1
     },
     {
       "keyword": "separate threat campaigns",
-      "mentions": 15
-    },
-    {
-      "keyword": "retailers like bestbuy",
-      "mentions": 32
+      "mentions": 16
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
+      "link": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
+      "summary": "Threat hunters have discerned new activity associated with an Iranian threat actor known as Infy (aka Prince of Persia), nearly five years after the hacking group was observed targeting victims in Sweden, the Netherlands, and Turkey. \"The scale of Prince of Persia's activity is more significant than we originally anticipated,\" Tomer Bar, vice president of security research at SafeBreach, said",
+      "published": "Sun, 21 Dec 2025 09:52:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
@@ -137,20 +146,6 @@
       "published": "Thu, 18 Dec 2025 23:04:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
-      "summary": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution. The critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a",
-      "published": "Thu, 18 Dec 2025 20:09:00 +0530",
-      "value_score": 82,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

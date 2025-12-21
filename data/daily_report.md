@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-21 04:33 UTC  
+> **Last Updated:** 2025-12-21 06:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**denmark blames russia** • **stringent identity authentication** • **open source millions** • **critical security flaw** • **mass creating fake** • **critical fortinet flaws** • **asus gigabyte msi** • **twitter whistleblower complaint** • **separate threat campaigns** • **retailers like bestbuy** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **2 5 million** • **advanced operational security** • **real life identity** • **malicious cyber actors** • **fake identities continue** • **denmark's critical infrastructure** • **microsoft confirms teams**
+**denmark blames russia** • **stringent identity authentication** • **open source millions** • **critical fortinet flaws** • **mass creating fake** • **asus gigabyte msi** • **critical security flaw** • **twitter whistleblower complaint** • **silence threat hunters** • **separate threat campaigns** • **retailers like bestbuy** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **2 5 million** • **denmark's critical infrastructure** • **real life identity** • **malicious cyber actors** • **fake identities continue** • **threat activity cluster**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html)
 - [U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html)
 - [Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers](https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html)
 - [Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware](https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html)
@@ -23,7 +24,6 @@
 - [Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks](https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html)
 - [New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards](https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html)
 - [China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware](https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html)
-- [HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html)
 
 ### BleepingComputer
 

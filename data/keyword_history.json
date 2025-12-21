@@ -15,7 +15,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -32,7 +32,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -48,7 +48,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -65,7 +65,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -96,7 +96,7 @@
       ]
     },
     "real life identity": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -209,7 +209,7 @@
       ]
     },
     "critical fortinet flaws": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -236,7 +236,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -413,7 +413,7 @@
       ]
     },
     "threat activity cluster": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -433,7 +433,7 @@
       ]
     },
     "hacker group earlier": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -441,7 +441,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -449,7 +449,7 @@
       ]
     },
     "denmark's critical infrastructure": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -463,7 +463,7 @@
       ]
     },
     "open source millions": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -483,7 +483,7 @@
       ]
     },
     "denmark blames russia": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -491,14 +491,6 @@
       ]
     },
     "stringent identity authentication": {
-      "count": 20,
-      "dates": [
-        "2025-12-19",
-        "2025-12-20",
-        "2025-12-21"
-      ]
-    },
-    "asus gigabyte msi": {
       "count": 21,
       "dates": [
         "2025-12-19",
@@ -506,8 +498,16 @@
         "2025-12-21"
       ]
     },
+    "asus gigabyte msi": {
+      "count": 22,
+      "dates": [
+        "2025-12-19",
+        "2025-12-20",
+        "2025-12-21"
+      ]
+    },
     "fake identities continue": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -521,7 +521,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -554,7 +554,7 @@
       ]
     },
     "2 5 million": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -570,7 +570,7 @@
       ]
     },
     "separate threat campaigns": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -590,7 +590,7 @@
       ]
     },
     "silence threat hunters": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-21"
       ]
@@ -1094,6 +1094,17 @@
     },
     {
       "timestamp": "2025-12-21 08:20",
+      "articles": 56,
+      "top_keywords": [
+        "denmark blames russia",
+        "stringent identity authentication",
+        "open source millions",
+        "critical fortinet flaws",
+        "mass creating fake"
+      ]
+    },
+    {
+      "timestamp": "2025-12-21 10:15",
       "articles": 56,
       "top_keywords": [
         "denmark blames russia",

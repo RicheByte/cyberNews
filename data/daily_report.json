@@ -1,15 +1,15 @@
 {
-  "last_updated": "2025-12-22 06:28",
+  "last_updated": "2025-12-22 08:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "denmark blames russia",
     "stringent identity authentication",
-    "open source millions",
     "critical fortinet flaws",
+    "2 5 million",
+    "critical security flaw",
     "mass creating fake",
     "asus gigabyte msi",
-    "critical security flaw",
     "twitter whistleblower complaint",
     "silence threat hunters",
     "separate threat campaigns",
@@ -17,56 +17,65 @@
     "prolific cybercriminal group",
     "hacker group earlier",
     "additional brickstorm samples",
-    "2 5 million",
-    "denmark's critical infrastructure",
+    "advanced operational security",
     "real life identity",
+    "observed targeting victims",
     "malicious cyber actors",
     "fake identities continue",
-    "threat activity cluster"
+    "stealthy loader known"
   ],
   "trending": [
     {
       "keyword": "denmark blames russia",
-      "mentions": 32
-    },
-    {
-      "keyword": "stringent identity authentication",
-      "mentions": 31
-    },
-    {
-      "keyword": "open source millions",
       "mentions": 33
     },
     {
+      "keyword": "stringent identity authentication",
+      "mentions": 32
+    },
+    {
       "keyword": "critical fortinet flaws",
-      "mentions": 45
+      "mentions": 46
     },
     {
-      "keyword": "mass creating fake",
-      "mentions": 55
-    },
-    {
-      "keyword": "asus gigabyte msi",
+      "keyword": "2 5 million",
       "mentions": 32
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 34
+      "mentions": 35
+    },
+    {
+      "keyword": "mass creating fake",
+      "mentions": 56
+    },
+    {
+      "keyword": "asus gigabyte msi",
+      "mentions": 33
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 57
+      "mentions": 58
     },
     {
       "keyword": "silence threat hunters",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "separate threat campaigns",
-      "mentions": 28
+      "mentions": 29
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
+      "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
+      "summary": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan. \"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy",
+      "published": "Mon, 22 Dec 2025 11:41:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
@@ -139,11 +148,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware",
-      "link": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
-      "summary": "A previously undocumented China-aligned threat cluster dubbed LongNosedGoblin has been attributed to a series of cyber attacks targeting governmental entities in Southeast Asia and Japan. The end goal of these attacks is cyber espionage, Slovak cybersecurity company ESET said in a report published today. The threat activity cluster has been assessed to be active since at least September 2023. \"",
-      "published": "Thu, 18 Dec 2025 23:04:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Docker Hardened Images now open source and available for free",
+      "link": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
+      "summary": "More than a 1,000 Docker Hardened Images (DHI) are now freely available and open source for software builders, under the Apache 2.0 license. [...]",
+      "published": "Sun, 21 Dec 2025 10:12:14 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -218,17 +227,6 @@
       "published": "Fri, 19 Dec 2025 09:30:00 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Denmark blames Russia for destructive cyberattack on water utility",
-      "link": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
-      "summary": "Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations. [...]",
-      "published": "Fri, 19 Dec 2025 07:28:48 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Krebs on Security",

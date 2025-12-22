@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-22 06:28 UTC |
+| 🕐 Last Updated | 2025-12-22 08:24 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 57 |
+| 📈 Total Updates | 58 |
 
 ## 🔥 Trending Topics
 
-`denmark blames russia` • `stringent identity authentication` • `open source millions` • `critical fortinet flaws` • `mass creating fake` • `asus gigabyte msi` • `critical security flaw` • `twitter whistleblower complaint` • `silence threat hunters` • `separate threat campaigns`
+`denmark blames russia` • `stringent identity authentication` • `critical fortinet flaws` • `2 5 million` • `critical security flaw` • `mass creating fake` • `asus gigabyte msi` • `twitter whistleblower complaint` • `silence threat hunters` • `separate threat campaigns`
 
 ## 📄 Reports
 

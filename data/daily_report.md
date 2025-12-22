@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-22 10:18 UTC  
+> **Last Updated:** 2025-12-22 12:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**denmark blames russia** • **uk government acknowledges** • **2 5 million** • **critical fortinet flaws** • **stringent identity authentication** • **mass creating fake** • **critical security flaw** • **asus gigabyte msi** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **nefilim ransomware gang** • **hacker group earlier** • **additional brickstorm samples** • **silence threat hunters** • **separate threat campaigns** • **real life identity** • **observed targeting victims** • **national instruments labview** • **fake identities continue**
+**uk government acknowledges** • **2 5 million** • **critical fortinet flaws** • **critical security flaw** • **stringent identity authentication** • **mass creating fake** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **nefilim ransomware gang** • **cause big damage** • **additional brickstorm samples** • **silence threat hunters** • **separate threat campaigns** • **observed targeting victims** • **national instruments labview** • **fake identities continue** • **advanced operational security** • **stealthy loader known** • **malicious cyber actors**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More](https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html)
+- [How to Browse the Web More Sustainably With a Green Browser](https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html)
 - [Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale](https://thehackernews.com/2025/12/android-malware-operations-merge.html)
 - [Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html)
 - [U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html)
 - [Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers](https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html)
 - [Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware](https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html)
 - [WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability](https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html)
-- [Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks](https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html)
-- [New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards](https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html)
 
 ### BleepingComputer
 
+- [Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374](https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/)
 - [Ukrainian hacker admits affiliate role in Nefilim ransomware gang](https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/)
 - [Critical RCE flaw impacts over 115,000 WatchGuard firewalls](https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/)
 - [Docker Hardened Images now open source and available for free](https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/)
@@ -34,7 +35,6 @@
 - [Microsoft confirms Teams is down and messages are delayed](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/)
 - [Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform](https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/)
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/)
-- [New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock](https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Gambit Cyber Raises $3.4 Million in Seed Funding](https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/)
+- [Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US](https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/)
 - [WatchGuard Patches Firebox Zero-Day Exploited in the Wild](https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/)
 - [UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports](https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/)
 - [Thailand Conference Launches International Initiative to Fight Online Scams](https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/)
 - [In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee](https://www.securityweek.com/in-other-news-docker-ai-attack-google-sues-chinese-cybercriminals-coupang-hacked-by-employee/)
 - [Palo Alto Networks, Google Cloud Strike Multibillion-Dollar AI and Cloud Security Deal](https://www.securityweek.com/palo-alto-networks-google-cloud-strike-multibillion-dollar-ai-and-cloud-security-deal/)
 - [AI Security Firm Ciphero Emerges From Stealth With $2.5 Million in Funding](https://www.securityweek.com/ai-security-firm-ciphero-emerges-from-stealth-with-2-5-million-in-funding/)
-- [Denmark Blames Russia for Cyberattacks Ahead of Elections and on Water Utility](https://www.securityweek.com/denmark-blames-russia-for-cyberattacks-ahead-of-elections-and-on-water-utility/)
-- [Chinese APT ‘LongNosedGoblin’ Targeting Asian Governments](https://www.securityweek.com/chinese-apt-longnosedgoblin-targeting-asian-governments/)
 
 ### Threatpost
 

@@ -1,72 +1,92 @@
 {
-  "last_updated": "2025-12-22 10:18",
+  "last_updated": "2025-12-22 12:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "denmark blames russia",
     "uk government acknowledges",
     "2 5 million",
     "critical fortinet flaws",
+    "critical security flaw",
     "stringent identity authentication",
     "mass creating fake",
-    "critical security flaw",
-    "asus gigabyte msi",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
     "prolific cybercriminal group",
     "nefilim ransomware gang",
-    "hacker group earlier",
+    "cause big damage",
     "additional brickstorm samples",
     "silence threat hunters",
     "separate threat campaigns",
-    "real life identity",
     "observed targeting victims",
     "national instruments labview",
-    "fake identities continue"
+    "fake identities continue",
+    "advanced operational security",
+    "stealthy loader known",
+    "malicious cyber actors"
   ],
   "trending": [
     {
-      "keyword": "denmark blames russia",
-      "mentions": 34
-    },
-    {
       "keyword": "uk government acknowledges",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "2 5 million",
-      "mentions": 33
-    },
-    {
-      "keyword": "critical fortinet flaws",
-      "mentions": 47
-    },
-    {
-      "keyword": "stringent identity authentication",
-      "mentions": 33
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 57
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 36
-    },
-    {
-      "keyword": "asus gigabyte msi",
       "mentions": 34
     },
     {
+      "keyword": "critical fortinet flaws",
+      "mentions": 48
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 37
+    },
+    {
+      "keyword": "stringent identity authentication",
+      "mentions": 34
+    },
+    {
+      "keyword": "mass creating fake",
+      "mentions": 58
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 59
+      "mentions": 60
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 47
+      "mentions": 48
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 48
+    },
+    {
+      "keyword": "nefilim ransomware gang",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
+      "link": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
+      "summary": "Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They’re going after the everyday tools we trust most — firewalls, browser add-ons, and even smart TVs — turning small cracks into serious breaches. The real danger now isn’t just one major attack, but hundreds of quiet ones using the software and devices already inside our networks. Each trusted system can",
+      "published": "Mon, 22 Dec 2025 17:30:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How to Browse the Web More Sustainably With a Green Browser",
+      "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
+      "summary": "As the internet becomes an essential part of daily life, its environmental footprint continues to grow. Data centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption and digital waste. While individual users may not see this impact directly, the collective effect of everyday browsing is significant. Choosing a browser designed with",
+      "published": "Mon, 22 Dec 2025 17:25:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
@@ -128,24 +148,19 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
-      "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
-      "summary": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the main developer behind the RaccoonO365 phishing-as-a-service (PhaaS) scheme. The Nigeria Police Force National Cybercrime Centre (NPF–NCCC) said investigations conducted in collaboration with",
-      "published": "Fri, 19 Dec 2025 15:56:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
+      "link": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
+      "summary": "An ASUS Live Update vulnerability tracked as CVE-2025-59374 has been making the rounds in infosec feeds, with some headlines implying recent or ongoing exploitation. A closer look, however, shows the CVE documents a historic supply-chain attack in an End-of-Life (EoL) software product, not a new attack. [...]",
+      "published": "Mon, 22 Dec 2025 06:09:17 -0500",
+      "value_score": 96,
       "value_signals": [
-        "Phishing ×3"
+        "CVE mentioned ×2",
+        "Patch/update ×2",
+        "CISA/KEV",
+        "Multiple CVEs",
+        "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
-      "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
-      "summary": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DMA) attacks across architectures that implement a Unified Extensible Firmware Interface (UEFI) and input–output memory management unit (IOMMU). UEFI and IOMMU are designed to enforce a security",
-      "published": "Fri, 19 Dec 2025 13:55:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -222,15 +237,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock",
-      "link": "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/",
-      "summary": "The UEFI firmware implementation in some motherboards from ASUS, Gigabyte, MSI, and ASRock is vulnerable to direct memory access (DMA) attacks that can bypass early-boot memory protections. [...]",
-      "published": "Fri, 19 Dec 2025 10:54:48 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -391,6 +397,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Gambit Cyber Raises $3.4 Million in Seed Funding",
+      "link": "https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/",
+      "summary": "The cybersecurity startup will use the funds to accelerate platform improvements, global expansion, and partnerships. The post Gambit Cyber Raises $3.4 Million in Seed Funding appeared first on SecurityWeek .",
+      "published": "Mon, 22 Dec 2025 12:15:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US",
+      "link": "https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/",
+      "summary": "Artem Stryzhak pleaded guilty to conspiracy to commit computer fraud after he was extradited earlier this year. The post Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US appeared first on SecurityWeek .",
+      "published": "Mon, 22 Dec 2025 10:56:32 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "WatchGuard Patches Firebox Zero-Day Exploited in the Wild",
       "link": "https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/",
       "summary": "The critical-severity bug in the Fireware OS’s iked process leads to unauthenticated remote code execution. The post WatchGuard Patches Firebox Zero-Day Exploited in the Wild appeared first on SecurityWeek .",
@@ -446,24 +472,6 @@
       "link": "https://www.securityweek.com/ai-security-firm-ciphero-emerges-from-stealth-with-2-5-million-in-funding/",
       "summary": "The startup’s solution captures, verifies, and governs all AI interactions within an enterprise’s environment. The post AI Security Firm Ciphero Emerges From Stealth With $2.5 Million in Funding appeared first on SecurityWeek .",
       "published": "Fri, 19 Dec 2025 15:33:41 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Denmark Blames Russia for Cyberattacks Ahead of Elections and on Water Utility",
-      "link": "https://www.securityweek.com/denmark-blames-russia-for-cyberattacks-ahead-of-elections-and-on-water-utility/",
-      "summary": "Danish intelligence service said the attacks were part of Russia’s “hybrid war” against the West and an attempt to create instability. The post Denmark Blames Russia for Cyberattacks Ahead of Elections and on Water Utility appeared first on SecurityWeek .",
-      "published": "Fri, 19 Dec 2025 14:53:35 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chinese APT ‘LongNosedGoblin’ Targeting Asian Governments",
-      "link": "https://www.securityweek.com/chinese-apt-longnosedgoblin-targeting-asian-governments/",
-      "summary": "The hacking group has been using Group Policy to deploy cyberespionage tools on governmental networks. The post Chinese APT ‘LongNosedGoblin’ Targeting Asian Governments appeared first on SecurityWeek .",
-      "published": "Fri, 19 Dec 2025 14:35:59 +0000",
       "value_score": 10,
       "value_signals": []
     },

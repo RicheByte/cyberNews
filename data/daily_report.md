@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-22 14:17 UTC  
+> **Last Updated:** 2025-12-22 16:20 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**uk government acknowledges** • **targeting admin accounts** • **longer requires users** • **critical security flaw** • **twitter whistleblower complaint** • **stringent identity authentication** • **nefilim ransomware gang** • **headlines implying recent** • **fake identities continue** • **devices already inside** • **cause big damage** • **additional brickstorm samples** • **silence threat hunters** • **separate threat campaigns** • **critical fortinet flaws** • **observed targeting victims** • **national instruments labview** • **stealthy loader known** • **malicious cyber actors** • **advanced operational security**
+**uk government acknowledges** • **critical security flaw** • **critical fortinet flaws** • **mass creating fake** • **stealthy loader known** • **nearly five months** • **devices already inside** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **nefilim ransomware gang** • **longer requires users** • **headlines implying recent** • **additional brickstorm samples** • **advanced operational security** • **stringent identity authentication** • **observed targeting victims** • **fake identities continue** • **silence threat hunters** • **separate threat campaigns**
 
 ---
 
@@ -27,14 +27,25 @@
 
 ### BleepingComputer
 
+- [Malicious npm package steals WhatsApp accounts and messages](https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/)
+- [Romanian water authority hit by ransomware attack over weekend](https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/)
+- [University of Phoenix data breach impacts nearly 3.5 million individuals](https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/)
+- [Coupang breach affecting 33.7 million users raises data protection questions](https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/)
 - [Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374](https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/)
 - [Ukrainian hacker admits affiliate role in Nefilim ransomware gang](https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/)
 - [Critical RCE flaw impacts over 115,000 WatchGuard firewalls](https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/)
 - [Docker Hardened Images now open source and available for free](https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/)
-- [RansomHouse upgrades encryption with multi-layered data processing](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/)
-- [Microsoft confirms Teams is down and messages are delayed](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/)
-- [Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform](https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/)
-- [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/)
+
+### Krebs on Security
+
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
+- [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+- [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+- [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
 
 ### Dark Reading
 
@@ -49,14 +60,14 @@
 
 ### Security Week
 
-- [54 Charged in US Over ATM Attacks Involving ‘Ploutus’ Malware](https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/)
+- [Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator](https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/)
+- [ATM Hackers Using ‘Ploutus’ Malware Charged in US](https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/)
 - [MacSync macOS Malware Distributed via Signed Swift Application](https://www.securityweek.com/macsync-macos-malware-distributed-via-signed-swift-application/)
 - [Gambit Cyber Raises $3.4 Million in Seed Funding](https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/)
 - [Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US](https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/)
 - [WatchGuard Patches Firebox Zero-Day Exploited in the Wild](https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/)
 - [UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports](https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/)
 - [Thailand Conference Launches International Initiative to Fight Online Scams](https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/)
-- [In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee](https://www.securityweek.com/in-other-news-docker-ai-attack-google-sues-chinese-cybercriminals-coupang-hacked-by-employee/)
 
 ### Threatpost
 
@@ -71,14 +82,14 @@
 
 ### CISA Alerts
 
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [NIST and CISA Release Draft Interagency Report on Protecting Tokens and Assertions from Tampering Theft and Misuse for Public Comment](https://www.cisa.gov/news-events/alerts/2025/12/22/nist-and-cisa-release-draft-interagency-report-protecting-tokens-and-assertions-tampering-theft-and)
 - [CISA  and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor](https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-and-partners-release-update-malware-analysis-report-brickstorm-backdoor)
-- [Advantech WebAccess/SCADA](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-06)
-- [Inductive Automation Ignition](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-01)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [National Instruments LabView](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-03)
-- [Siemens Interniche IP-Stack](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-05)
-- [Schneider Electric EcoStruxure Foxboro DCS Advisor](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-02)
+- [Advantech WebAccess/SCADA](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-06)
 - [Rockwell Automation Micro820, Micro850, Micro870](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-07)
+- [Axis Communications Camera Station Pro, Camera Station, and Device Manager](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-08)
+- [Inductive Automation Ignition](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-01)
 
 ---
 

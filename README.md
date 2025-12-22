@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-22 14:17 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2025-12-22 16:20 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 61 |
+| 📈 Total Updates | 62 |
 
 ## 🔥 Trending Topics
 
-`uk government acknowledges` • `targeting admin accounts` • `longer requires users` • `critical security flaw` • `twitter whistleblower complaint` • `stringent identity authentication` • `nefilim ransomware gang` • `headlines implying recent` • `fake identities continue` • `devices already inside`
+`uk government acknowledges` • `critical security flaw` • `critical fortinet flaws` • `mass creating fake` • `stealthy loader known` • `nearly five months` • `devices already inside` • `twitter whistleblower complaint` • `retailers like bestbuy` • `prolific cybercriminal group`
 
 ## 📄 Reports
 

@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-22 12:34 UTC  
+> **Last Updated:** 2025-12-22 14:17 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**uk government acknowledges** • **2 5 million** • **critical fortinet flaws** • **critical security flaw** • **stringent identity authentication** • **mass creating fake** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **nefilim ransomware gang** • **cause big damage** • **additional brickstorm samples** • **silence threat hunters** • **separate threat campaigns** • **observed targeting victims** • **national instruments labview** • **fake identities continue** • **advanced operational security** • **stealthy loader known** • **malicious cyber actors**
+**uk government acknowledges** • **targeting admin accounts** • **longer requires users** • **critical security flaw** • **twitter whistleblower complaint** • **stringent identity authentication** • **nefilim ransomware gang** • **headlines implying recent** • **fake identities continue** • **devices already inside** • **cause big damage** • **additional brickstorm samples** • **silence threat hunters** • **separate threat campaigns** • **critical fortinet flaws** • **observed targeting victims** • **national instruments labview** • **stealthy loader known** • **malicious cyber actors** • **advanced operational security**
 
 ---
 
@@ -36,17 +36,6 @@
 - [Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform](https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/)
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/)
 
-### Krebs on Security
-
-- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
-- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
-- [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
-- [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
-- [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
-
 ### Dark Reading
 
 - [Cisco VPNs, Email Services Hit in Separate Threat Campaigns](https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns)
@@ -60,14 +49,14 @@
 
 ### Security Week
 
+- [54 Charged in US Over ATM Attacks Involving ‘Ploutus’ Malware](https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/)
+- [MacSync macOS Malware Distributed via Signed Swift Application](https://www.securityweek.com/macsync-macos-malware-distributed-via-signed-swift-application/)
 - [Gambit Cyber Raises $3.4 Million in Seed Funding](https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/)
 - [Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US](https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/)
 - [WatchGuard Patches Firebox Zero-Day Exploited in the Wild](https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/)
 - [UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports](https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/)
 - [Thailand Conference Launches International Initiative to Fight Online Scams](https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/)
 - [In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee](https://www.securityweek.com/in-other-news-docker-ai-attack-google-sues-chinese-cybercriminals-coupang-hacked-by-employee/)
-- [Palo Alto Networks, Google Cloud Strike Multibillion-Dollar AI and Cloud Security Deal](https://www.securityweek.com/palo-alto-networks-google-cloud-strike-multibillion-dollar-ai-and-cloud-security-deal/)
-- [AI Security Firm Ciphero Emerges From Stealth With $2.5 Million in Funding](https://www.securityweek.com/ai-security-firm-ciphero-emerges-from-stealth-with-2-5-million-in-funding/)
 
 ### Threatpost
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-22 16:20 UTC |
+| 🕐 Last Updated | 2025-12-22 18:24 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 62 |
+| 📈 Total Updates | 63 |
 
 ## 🔥 Trending Topics
 
-`uk government acknowledges` • `critical security flaw` • `critical fortinet flaws` • `mass creating fake` • `stealthy loader known` • `nearly five months` • `devices already inside` • `twitter whistleblower complaint` • `retailers like bestbuy` • `prolific cybercriminal group`
+`uk government acknowledges` • `mass creating fake` • `stealthy loader known` • `nearly five months` • `devices already inside` • `twitter whistleblower complaint` • `retailers like bestbuy` • `prolific cybercriminal group` • `observed targeting victims` • `nefilim ransomware gang`
 
 ## 📄 Reports
 

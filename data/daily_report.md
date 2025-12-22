@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-22 16:20 UTC  
+> **Last Updated:** 2025-12-22 18:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**uk government acknowledges** • **critical security flaw** • **critical fortinet flaws** • **mass creating fake** • **stealthy loader known** • **nearly five months** • **devices already inside** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **nefilim ransomware gang** • **longer requires users** • **headlines implying recent** • **additional brickstorm samples** • **advanced operational security** • **stringent identity authentication** • **observed targeting victims** • **fake identities continue** • **silence threat hunters** • **separate threat campaigns**
+**uk government acknowledges** • **mass creating fake** • **stealthy loader known** • **nearly five months** • **devices already inside** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **observed targeting victims** • **nefilim ransomware gang** • **longer requires users** • **headlines implying recent** • **fake identities continue** • **additional brickstorm samples** • **victim's whatsapp account** • **advanced operational security** • **stringent identity authentication** • **sms phishers pivot** • **silence threat hunters** • **separate threat campaigns**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens](https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html)
 - [⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More](https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html)
 - [How to Browse the Web More Sustainably With a Green Browser](https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html)
 - [Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale](https://thehackernews.com/2025/12/android-malware-operations-merge.html)
@@ -23,7 +24,6 @@
 - [U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html)
 - [Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers](https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html)
 - [Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware](https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html)
-- [WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability](https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Uzbek Users Under Attack by Android SMS Stealers](https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers)
 - [Cisco VPNs, Email Services Hit in Separate Threat Campaigns](https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns)
 - [LongNosedGoblin Caught Snooping on Asian Governments](https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments)
 - [Identity Fraud Among Home-Care Workers Puts Patients at Risk](https://www.darkreading.com/identity-access-management-security/identity-fraud-among-home-care-workers-puts-patients-at-risk)
@@ -56,7 +57,6 @@
 - [A Good Year for North Korean Cybercriminals](https://www.darkreading.com/cyberattacks-data-breaches/good-year-north-korean-cybercriminals)
 - [SonicWall Edge Access Devices Hit by Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks)
 - [Dormant Iran APT is Still Alive, Spying on Dissidents](https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents)
-- [Critical Fortinet Flaws Under Active Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack)
 
 ### Security Week
 

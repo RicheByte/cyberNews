@@ -1,11 +1,9 @@
 {
-  "last_updated": "2025-12-22 16:20",
+  "last_updated": "2025-12-22 18:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "uk government acknowledges",
-    "critical security flaw",
-    "critical fortinet flaws",
     "mass creating fake",
     "stealthy loader known",
     "nearly five months",
@@ -13,60 +11,71 @@
     "twitter whistleblower complaint",
     "retailers like bestbuy",
     "prolific cybercriminal group",
+    "observed targeting victims",
     "nefilim ransomware gang",
     "longer requires users",
     "headlines implying recent",
+    "fake identities continue",
     "additional brickstorm samples",
+    "victim's whatsapp account",
     "advanced operational security",
     "stringent identity authentication",
-    "observed targeting victims",
-    "fake identities continue",
+    "sms phishers pivot",
     "silence threat hunters",
     "separate threat campaigns"
   ],
   "trending": [
     {
       "keyword": "uk government acknowledges",
-      "mentions": 4
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 39
-    },
-    {
-      "keyword": "critical fortinet flaws",
-      "mentions": 50
+      "mentions": 5
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 59
+      "mentions": 60
     },
     {
       "keyword": "stealthy loader known",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "nearly five months",
-      "mentions": 1
-    },
-    {
-      "keyword": "devices already inside",
       "mentions": 2
     },
     {
+      "keyword": "devices already inside",
+      "mentions": 3
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 62
+      "mentions": 63
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 49
+      "mentions": 50
+    },
+    {
+      "keyword": "observed targeting victims",
+      "mentions": 6
+    },
+    {
+      "keyword": "nefilim ransomware gang",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
+      "link": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker's device to a victim's WhatsApp account. The package, named \"lotusbail,\" has been downloaded over 56,000 times since it was first uploaded to the registry by a user named \"",
+      "published": "Mon, 22 Dec 2025 21:58:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
@@ -133,19 +142,6 @@
       "published": "Fri, 19 Dec 2025 21:04:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
-      "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
-      "summary": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks. Tracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability has been described as a case of out-of-bounds write affecting the iked process that could allow a remote unauthenticated attacker to execute arbitrary code. \"This vulnerability affects both the",
-      "published": "Fri, 19 Dec 2025 16:53:00 +0530",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -321,6 +317,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Uzbek Users Under Attack by Android SMS Stealers",
+      "link": "https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers",
+      "summary": "Telegram users in Uzbekistan are being targeted with Android SMS stealer malware, and what's worse, the attackers are improving their methods.",
+      "published": "Mon, 22 Dec 2025 17:07:10 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cisco VPNs, Email Services Hit in Separate Threat Campaigns",
       "link": "https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns",
       "summary": "The company suffered one sophisticated five-alarm campaign and one messy spray-and-pray attack, mere days apart.",
@@ -384,17 +389,6 @@
       "published": "Thu, 18 Dec 2025 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Critical Fortinet Flaws Under Active Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack",
-      "summary": "Attackers are targeting admin accounts, and once authenticated, exporting device configurations including hashed credentials and other sensitive information.",
-      "published": "Wed, 17 Dec 2025 22:44:38 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",
@@ -563,7 +557,7 @@
       "source": "CISA Alerts",
       "title": "NIST and CISA Release Draft Interagency Report on Protecting Tokens and Assertions from Tampering Theft and Misuse for Public Comment",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/22/nist-and-cisa-release-draft-interagency-report-protecting-tokens-and-assertions-tampering-theft-and",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) and National Institute of Standards and Technology (NIST) have released an initial draft of Interagency Report (IR) 8597 Protecting Tokens and Assertions from Forgery, Theft, and Misuse for public comment from December TBD, 2025–January 30, 2026. This report is in response to Sustaining Select Efforts to Strengthen the Nation’s Cybersecurity and Amending Executive Order 13694 and Executive Order 14144 , providing implementation guidance",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) and National Institute of Standards and Technology (NIST) have released an initial draft of Interagency Report (IR) 8597 Protecting Tokens and Assertions from Forgery, Theft, and Misuse for public comment through January 30, 2026. This report is in response to Sustaining Select Efforts to Strengthen the Nation’s Cybersecurity and Amending Executive Order 13694 and Executive Order 14144 , providing implementation guidance to help federal",
       "published": "Mon, 22 Dec 25 12:00:00 +0000",
       "value_score": 75,
       "value_signals": [

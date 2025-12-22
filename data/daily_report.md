@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-22 20:18 UTC  
+> **Last Updated:** 2025-12-22 22:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**uk government acknowledges** • **mass creating fake** • **stealthy loader known** • **nearly five months** • **devices already inside** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **observed targeting victims** • **longer requires users** • **headlines implying recent** • **fake identities continue** • **additional brickstorm samples** • **victim's whatsapp account** • **advanced operational security** • **nefilim ransomware gang** • **stringent identity authentication** • **sms phishers pivot** • **silence threat hunters** • **separate threat campaigns**
+**uk government acknowledges** • **mass creating fake** • **stealthy loader known** • **nearly five months** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **observed targeting victims** • **fake identities continue** • **devices already inside** • **additional brickstorm samples** • **victim's whatsapp account** • **watchguard firebox devices** • **stringent identity authentication** • **sms phishers pivot** • **longer requires users** • **silence threat hunters** • **separate threat campaigns** • **windows operating systems** • **unpaid toll fee**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Nissan says thousands of customers exposed in Red Hat breach](https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/)
+- [New MacSync malware dropper evades macOS Gatekeeper checks](https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/)
 - [Interpol-led action decrypts 6 ransomware strains, arrests hundreds](https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/)
 - [Malicious npm package steals WhatsApp accounts and messages](https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/)
 - [Romanian water authority hit by ransomware attack over weekend](https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/)
 - [University of Phoenix data breach impacts nearly 3.5 million individuals](https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/)
 - [Coupang breach affecting 33.7 million users raises data protection questions](https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/)
 - [CISA flags ASUS Live Update CVE, but the attack is years old](https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/)
-- [Ukrainian hacker admits affiliate role in Nefilim ransomware gang](https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/)
-- [Critical RCE flaw impacts over 115,000 WatchGuard firewalls](https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices](https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox)
 - [Uzbek Users Under Attack by Android SMS Stealers](https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers)
 - [Cisco VPNs, Email Services Hit in Separate Threat Campaigns](https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns)
 - [LongNosedGoblin Caught Snooping on Asian Governments](https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments)
@@ -56,7 +57,6 @@
 - [A Cybersecurity Playbook for AI Adoption](https://www.darkreading.com/cyber-risk/cybersecurity-playbook-ai-adoption)
 - [A Good Year for North Korean Cybercriminals](https://www.darkreading.com/cyberattacks-data-breaches/good-year-north-korean-cybercriminals)
 - [SonicWall Edge Access Devices Hit by Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks)
-- [Dormant Iran APT is Still Alive, Spying on Dissidents](https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents)
 
 ### Security Week
 

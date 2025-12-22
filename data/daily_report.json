@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-22 20:18",
+  "last_updated": "2025-12-22 22:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "mass creating fake",
     "stealthy loader known",
     "nearly five months",
-    "devices already inside",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
     "prolific cybercriminal group",
     "observed targeting victims",
-    "longer requires users",
-    "headlines implying recent",
     "fake identities continue",
+    "devices already inside",
     "additional brickstorm samples",
     "victim's whatsapp account",
-    "advanced operational security",
-    "nefilim ransomware gang",
+    "watchguard firebox devices",
     "stringent identity authentication",
     "sms phishers pivot",
+    "longer requires users",
     "silence threat hunters",
-    "separate threat campaigns"
+    "separate threat campaigns",
+    "windows operating systems",
+    "unpaid toll fee"
   ],
   "trending": [
     {
       "keyword": "uk government acknowledges",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 61
+      "mentions": 62
     },
     {
       "keyword": "stealthy loader known",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "nearly five months",
-      "mentions": 3
-    },
-    {
-      "keyword": "devices already inside",
       "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "observed targeting victims",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "longer requires users",
-      "mentions": 4
+      "keyword": "fake identities continue",
+      "mentions": 39
+    },
+    {
+      "keyword": "devices already inside",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -145,6 +145,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Nissan says thousands of customers exposed in Red Hat breach",
+      "link": "https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/",
+      "summary": "Nissan Motor Co. Ltd. (Nissan) has confirmed that information of thousands of its customers has been compromised after the data breach at Red Hat in September. [...]",
+      "published": "Mon, 22 Dec 2025 16:32:11 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New MacSync malware dropper evades macOS Gatekeeper checks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/",
+      "summary": "The latest variant of the MacSync information stealer targeting macOS systems is delivered through a digitally signed, notarized Swift application. [...]",
+      "published": "Mon, 22 Dec 2025 15:43:38 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
       "link": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
       "summary": "An Interpol-coordinated initiative called Operation Sentinel led to the arrest of 574 individuals and the recovery of $3 million linked to business email compromise, extortion, and ransomware incidents. [...]",
@@ -208,31 +228,6 @@
         "CVE mentioned",
         "Patch/update ×2",
         "CISA/KEV",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ukrainian hacker admits affiliate role in Nefilim ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/",
-      "summary": "A Ukrainian national pleaded guilty on Friday to conducting Nefilim ransomware attacks that targeted high-revenue businesses across the United States and other countries. [...]",
-      "published": "Mon, 22 Dec 2025 04:46:45 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls",
-      "link": "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/",
-      "summary": "Over 115,000 WatchGuard Firebox devices exposed online remain unpatched against a critical remote code execution (RCE) vulnerability actively exploited in attacks. [...]",
-      "published": "Mon, 22 Dec 2025 04:00:55 -0500",
-      "value_score": 97,
-      "value_signals": [
-        "Active exploitation",
-        "RCE ×3",
-        "High severity ×2",
         "Exploit wording"
       ]
     },
@@ -318,6 +313,19 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox",
+      "summary": "With attacks on the critical firewall vulnerability, WatchGuard joins a list of edge device vendors that have been targeted in recent weeks.",
+      "published": "Mon, 22 Dec 2025 20:29:34 GMT",
+      "value_score": 49,
+      "value_signals": [
+        "Zero-day",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Uzbek Users Under Attack by Android SMS Stealers",
       "link": "https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers",
       "summary": "Telegram users in Uzbekistan are being targeted with Android SMS stealer malware, and what's worse, the attackers are improving their methods.",
@@ -381,15 +389,6 @@
         "Zero-day ×2",
         "High severity"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Dormant Iran APT is Still Alive, Spying on Dissidents",
-      "link": "https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents",
-      "summary": "\"Prince of Persia\" has rewritten the rules of persistence with advanced operational security and cryptographic communication with its command-and-control server.",
-      "published": "Thu, 18 Dec 2025 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

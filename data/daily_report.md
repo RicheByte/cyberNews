@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-22 18:24 UTC  
+> **Last Updated:** 2025-12-22 20:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**uk government acknowledges** • **mass creating fake** • **stealthy loader known** • **nearly five months** • **devices already inside** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **observed targeting victims** • **nefilim ransomware gang** • **longer requires users** • **headlines implying recent** • **fake identities continue** • **additional brickstorm samples** • **victim's whatsapp account** • **advanced operational security** • **stringent identity authentication** • **sms phishers pivot** • **silence threat hunters** • **separate threat campaigns**
+**uk government acknowledges** • **mass creating fake** • **stealthy loader known** • **nearly five months** • **devices already inside** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **observed targeting victims** • **longer requires users** • **headlines implying recent** • **fake identities continue** • **additional brickstorm samples** • **victim's whatsapp account** • **advanced operational security** • **nefilim ransomware gang** • **stringent identity authentication** • **sms phishers pivot** • **silence threat hunters** • **separate threat campaigns**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Interpol-led action decrypts 6 ransomware strains, arrests hundreds](https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/)
 - [Malicious npm package steals WhatsApp accounts and messages](https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/)
 - [Romanian water authority hit by ransomware attack over weekend](https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/)
 - [University of Phoenix data breach impacts nearly 3.5 million individuals](https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/)
 - [Coupang breach affecting 33.7 million users raises data protection questions](https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/)
-- [Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374](https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/)
+- [CISA flags ASUS Live Update CVE, but the attack is years old](https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/)
 - [Ukrainian hacker admits affiliate role in Nefilim ransomware gang](https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/)
 - [Critical RCE flaw impacts over 115,000 WatchGuard firewalls](https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/)
-- [Docker Hardened Images now open source and available for free](https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/)
 
 ### Krebs on Security
 
@@ -83,13 +83,13 @@
 ### CISA Alerts
 
 - [NIST and CISA Release Draft Interagency Report on Protecting Tokens and Assertions from Tampering Theft and Misuse for Public Comment](https://www.cisa.gov/news-events/alerts/2025/12/22/nist-and-cisa-release-draft-interagency-report-protecting-tokens-and-assertions-tampering-theft-and)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/22/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA  and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor](https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-and-partners-release-update-malware-analysis-report-brickstorm-backdoor)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [National Instruments LabView](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-03)
-- [Advantech WebAccess/SCADA](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-06)
-- [Rockwell Automation Micro820, Micro850, Micro870](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-07)
 - [Axis Communications Camera Station Pro, Camera Station, and Device Manager](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-08)
-- [Inductive Automation Ignition](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-01)
+- [Advantech WebAccess/SCADA](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-06)
+- [National Instruments LabView](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-03)
+- [Rockwell Automation Micro820, Micro850, Micro870](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-07)
 
 ---
 

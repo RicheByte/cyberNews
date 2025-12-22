@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-22 18:24",
+  "last_updated": "2025-12-22 20:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,13 +12,13 @@
     "retailers like bestbuy",
     "prolific cybercriminal group",
     "observed targeting victims",
-    "nefilim ransomware gang",
     "longer requires users",
     "headlines implying recent",
     "fake identities continue",
     "additional brickstorm samples",
     "victim's whatsapp account",
     "advanced operational security",
+    "nefilim ransomware gang",
     "stringent identity authentication",
     "sms phishers pivot",
     "silence threat hunters",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "uk government acknowledges",
-      "mentions": 5
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 60
-    },
-    {
-      "keyword": "stealthy loader known",
-      "mentions": 7
-    },
-    {
-      "keyword": "nearly five months",
-      "mentions": 2
-    },
-    {
-      "keyword": "devices already inside",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 63
-    },
-    {
-      "keyword": "retailers like bestbuy",
-      "mentions": 50
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 50
-    },
-    {
-      "keyword": "observed targeting victims",
       "mentions": 6
     },
     {
-      "keyword": "nefilim ransomware gang",
-      "mentions": 5
+      "keyword": "mass creating fake",
+      "mentions": 61
+    },
+    {
+      "keyword": "stealthy loader known",
+      "mentions": 8
+    },
+    {
+      "keyword": "nearly five months",
+      "mentions": 3
+    },
+    {
+      "keyword": "devices already inside",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 64
+    },
+    {
+      "keyword": "retailers like bestbuy",
+      "mentions": 51
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 51
+    },
+    {
+      "keyword": "observed targeting victims",
+      "mentions": 7
+    },
+    {
+      "keyword": "longer requires users",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -145,6 +145,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
+      "link": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
+      "summary": "An Interpol-coordinated initiative called Operation Sentinel led to the arrest of 574 individuals and the recovery of $3 million linked to business email compromise, extortion, and ransomware incidents. [...]",
+      "published": "Mon, 22 Dec 2025 13:38:08 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Malicious npm package steals WhatsApp accounts and messages",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/",
       "summary": "A malicious package in the Node Package Manager (NPM) registry poses as a legitimate WhatsApp Web API library to steal WhatsApp messages, collect contacts, and gain access to the account. [...]",
@@ -188,16 +199,15 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
-      "link": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
+      "title": "CISA flags ASUS Live Update CVE, but the attack is years old",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/",
       "summary": "An ASUS Live Update vulnerability tracked as CVE-2025-59374 has been making the rounds in infosec feeds, with some headlines implying recent or ongoing exploitation. A closer look, however, shows the CVE documents a historic supply-chain attack in an End-of-Life (EoL) software product, not a new attack. [...]",
       "published": "Mon, 22 Dec 2025 06:09:17 -0500",
-      "value_score": 96,
+      "value_score": 70,
       "value_signals": [
-        "CVE mentioned ×2",
+        "CVE mentioned",
         "Patch/update ×2",
         "CISA/KEV",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     },
@@ -225,15 +235,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Docker Hardened Images now open source and available for free",
-      "link": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
-      "summary": "More than a 1,000 Docker Hardened Images (DHI) are now freely available and open source for software builders, under the Apache 2.0 license. [...]",
-      "published": "Sun, 21 Dec 2025 10:12:14 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -567,6 +568,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/22/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-52163 Digiever DS-2105 Pro Missing Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of k",
+      "published": "Mon, 22 Dec 25 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA  and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-and-partners-release-update-malware-analysis-report-brickstorm-backdoor",
       "summary": "Today, the Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency, and Canadian Centre for Cyber Security released an update to the Malware Analysis Report BRICKSTORM Backdoor with indicators of compromise (IOCs) and detection signatures for additional BRICKSTORM samples. This update provides information on additional samples, including Rust-based samples. These samples demonstrate advanced persistence and defense evasion mechanisms, such as running as background servi",
@@ -595,14 +610,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "National Instruments LabView",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose information and execute arbitrary code. The following versions of National Instruments LabView are affected: LabVIEW (CVE-2025-64461, CVE-2025-64462, CVE-2025-64463, CVE-2025-64464, CVE-2025-64465, CVE-2025-64466, CVE-2025-64467, CVE-2025-64468, CVE-2025-64469) LabVIEW (CVE-2025-64461, CVE-2025-64462, CVE-2025-64463, CVE-2025-64464, CVE-2025-64465, CVE-2025-64466, CVE-2025-64467, CVE-2025-64468",
+      "title": "Axis Communications Camera Station Pro, Camera Station, and Device Manager",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-08",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could result in an attacker executing arbitrary code, executing a man-in-middle style attack, or bypass authentication. The following versions of Axis Communications Camera Station Pro, Camera Station, and Device Manager are affected: AXIS Camera Station Pro (CVE-2025-30023, CVE-2025-30025, CVE-2025-30026) AXIS Camera Station (CVE-2025-30023, CVE-2025-30025, CVE-2025-30026) AXIS Device Manager (CVE-2025-30023, CVE-2025-30024, CVE",
       "published": "Thu, 18 Dec 25 12:00:00 +0000",
       "value_score": 89,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×17",
+        "CVE mentioned ×8",
         "Multiple CVEs",
         "Exploit wording"
       ]
@@ -623,6 +638,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "National Instruments LabView",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose information and execute arbitrary code. The following versions of National Instruments LabView are affected: LabVIEW (CVE-2025-64461, CVE-2025-64462, CVE-2025-64463, CVE-2025-64464, CVE-2025-64465, CVE-2025-64466, CVE-2025-64467, CVE-2025-64468, CVE-2025-64469) LabVIEW (CVE-2025-64461, CVE-2025-64462, CVE-2025-64463, CVE-2025-64464, CVE-2025-64465, CVE-2025-64466, CVE-2025-64467, CVE-2025-64468",
+      "published": "Thu, 18 Dec 25 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×17",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Rockwell Automation Micro820, Micro850, Micro870",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-07",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could result in a denial-of-service condition. The following versions of Rockwell Automation Micro820, Micro850, Micro870 are affected: Micro820 (CVE-2025-13823, CVE-2025-13824) CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation Rockwell Automation Micro820, Micro850, Micro870 Dependency on Vulnerable Third-Party Component, Release of Invalid Pointer or Reference Background Critical Infrastructure Sectors: Critical ",
@@ -633,34 +662,6 @@
         "CVE mentioned ×2",
         "High severity ×2",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Axis Communications Camera Station Pro, Camera Station, and Device Manager",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-08",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could result in an attacker executing arbitrary code, executing a man-in-middle style attack, or bypass authentication. The following versions of Axis Communications Camera Station Pro, Camera Station, and Device Manager are affected: AXIS Camera Station Pro (CVE-2025-30023, CVE-2025-30025, CVE-2025-30026) AXIS Camera Station (CVE-2025-30023, CVE-2025-30025, CVE-2025-30026) AXIS Device Manager (CVE-2025-30023, CVE-2025-30024, CVE",
-      "published": "Thu, 18 Dec 25 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×8",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Inductive Automation Ignition",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to be granted direct SYSTEM-level code execution on the host operating system running the Ignition Gateway service on Windows systems. The following versions of Inductive Automation Ignition are affected: Ignition (CVE-2025-13911) CVSS Vendor Equipment Vulnerabilities v3 6.4 Inductive Automation Inductive Automation Ignition Execution with Unnecessary Privileges Background Critical Infrastructure Sectors: Cri",
-      "published": "Thu, 18 Dec 25 12:00:00 +0000",
-      "value_score": 67,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity",
         "Exploit wording"
       ]
     }

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-22 18:24 UTC |
+| 🕐 Last Updated | 2025-12-22 20:18 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 63 |
+| 📈 Total Updates | 64 |
 
 ## 🔥 Trending Topics
 
-`uk government acknowledges` • `mass creating fake` • `stealthy loader known` • `nearly five months` • `devices already inside` • `twitter whistleblower complaint` • `retailers like bestbuy` • `prolific cybercriminal group` • `observed targeting victims` • `nefilim ransomware gang`
+`uk government acknowledges` • `mass creating fake` • `stealthy loader known` • `nearly five months` • `devices already inside` • `twitter whistleblower complaint` • `retailers like bestbuy` • `prolific cybercriminal group` • `observed targeting victims` • `longer requires users`
 
 ## 📄 Reports
 

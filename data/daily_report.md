@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-22 08:24 UTC  
+> **Last Updated:** 2025-12-22 10:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**denmark blames russia** • **stringent identity authentication** • **critical fortinet flaws** • **2 5 million** • **critical security flaw** • **mass creating fake** • **asus gigabyte msi** • **twitter whistleblower complaint** • **silence threat hunters** • **separate threat campaigns** • **retailers like bestbuy** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **advanced operational security** • **real life identity** • **observed targeting victims** • **malicious cyber actors** • **fake identities continue** • **stealthy loader known**
+**denmark blames russia** • **uk government acknowledges** • **2 5 million** • **critical fortinet flaws** • **stringent identity authentication** • **mass creating fake** • **critical security flaw** • **asus gigabyte msi** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **nefilim ransomware gang** • **hacker group earlier** • **additional brickstorm samples** • **silence threat hunters** • **separate threat campaigns** • **real life identity** • **observed targeting victims** • **national instruments labview** • **fake identities continue**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Ukrainian hacker admits affiliate role in Nefilim ransomware gang](https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/)
+- [Critical RCE flaw impacts over 115,000 WatchGuard firewalls](https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/)
 - [Docker Hardened Images now open source and available for free](https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/)
 - [RansomHouse upgrades encryption with multi-layered data processing](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/)
 - [Microsoft confirms Teams is down and messages are delayed](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/)
 - [Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform](https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/)
 - [Microsoft 365 accounts targeted in wave of OAuth phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/)
 - [New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock](https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/)
-- [Over 25,000 FortiCloud SSO devices exposed to remote attacks](https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/)
-- [Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response](https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [WatchGuard Patches Firebox Zero-Day Exploited in the Wild](https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/)
+- [UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports](https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/)
 - [Thailand Conference Launches International Initiative to Fight Online Scams](https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/)
 - [In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee](https://www.securityweek.com/in-other-news-docker-ai-attack-google-sues-chinese-cybercriminals-coupang-hacked-by-employee/)
 - [Palo Alto Networks, Google Cloud Strike Multibillion-Dollar AI and Cloud Security Deal](https://www.securityweek.com/palo-alto-networks-google-cloud-strike-multibillion-dollar-ai-and-cloud-security-deal/)
 - [AI Security Firm Ciphero Emerges From Stealth With $2.5 Million in Funding](https://www.securityweek.com/ai-security-firm-ciphero-emerges-from-stealth-with-2-5-million-in-funding/)
 - [Denmark Blames Russia for Cyberattacks Ahead of Elections and on Water Utility](https://www.securityweek.com/denmark-blames-russia-for-cyberattacks-ahead-of-elections-and-on-water-utility/)
 - [Chinese APT ‘LongNosedGoblin’ Targeting Asian Governments](https://www.securityweek.com/chinese-apt-longnosedgoblin-targeting-asian-governments/)
-- [Docker Makes 1,000 Hardened Images Free and Open Source](https://www.securityweek.com/docker-makes-1000-hardened-images-free-and-open-source/)
-- [US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator](https://www.securityweek.com/us-shuts-down-crypto-exchange-e-note-charges-russian-administrator/)
 
 ### Threatpost
 

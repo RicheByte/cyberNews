@@ -1,69 +1,69 @@
 {
-  "last_updated": "2025-12-22 08:24",
+  "last_updated": "2025-12-22 10:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "denmark blames russia",
-    "stringent identity authentication",
-    "critical fortinet flaws",
+    "uk government acknowledges",
     "2 5 million",
-    "critical security flaw",
+    "critical fortinet flaws",
+    "stringent identity authentication",
     "mass creating fake",
+    "critical security flaw",
     "asus gigabyte msi",
     "twitter whistleblower complaint",
-    "silence threat hunters",
-    "separate threat campaigns",
     "retailers like bestbuy",
     "prolific cybercriminal group",
+    "nefilim ransomware gang",
     "hacker group earlier",
     "additional brickstorm samples",
-    "advanced operational security",
+    "silence threat hunters",
+    "separate threat campaigns",
     "real life identity",
     "observed targeting victims",
-    "malicious cyber actors",
-    "fake identities continue",
-    "stealthy loader known"
+    "national instruments labview",
+    "fake identities continue"
   ],
   "trending": [
     {
       "keyword": "denmark blames russia",
-      "mentions": 33
+      "mentions": 34
     },
     {
-      "keyword": "stringent identity authentication",
-      "mentions": 32
-    },
-    {
-      "keyword": "critical fortinet flaws",
-      "mentions": 46
+      "keyword": "uk government acknowledges",
+      "mentions": 1
     },
     {
       "keyword": "2 5 million",
-      "mentions": 32
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 35
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 56
-    },
-    {
-      "keyword": "asus gigabyte msi",
       "mentions": 33
     },
     {
+      "keyword": "critical fortinet flaws",
+      "mentions": 47
+    },
+    {
+      "keyword": "stringent identity authentication",
+      "mentions": 33
+    },
+    {
+      "keyword": "mass creating fake",
+      "mentions": 57
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 36
+    },
+    {
+      "keyword": "asus gigabyte msi",
+      "mentions": 34
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 58
+      "mentions": 59
     },
     {
-      "keyword": "silence threat hunters",
-      "mentions": 14
-    },
-    {
-      "keyword": "separate threat campaigns",
-      "mentions": 29
+      "keyword": "retailers like bestbuy",
+      "mentions": 47
     }
   ],
   "articles": [
@@ -149,6 +149,31 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Ukrainian hacker admits affiliate role in Nefilim ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/",
+      "summary": "A Ukrainian national pleaded guilty on Friday to conducting Nefilim ransomware attacks that targeted high-revenue businesses across the United States and other countries. [...]",
+      "published": "Mon, 22 Dec 2025 04:46:45 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls",
+      "link": "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/",
+      "summary": "Over 115,000 WatchGuard Firebox devices exposed online remain unpatched against a critical remote code execution (RCE) vulnerability actively exploited in attacks. [...]",
+      "published": "Mon, 22 Dec 2025 04:00:55 -0500",
+      "value_score": 97,
+      "value_signals": [
+        "Active exploitation",
+        "RCE ×3",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Docker Hardened Images now open source and available for free",
       "link": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
       "summary": "More than a 1,000 Docker Hardened Images (DHI) are now freely available and open source for software builders, under the Apache 2.0 license. [...]",
@@ -204,27 +229,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/",
       "summary": "The UEFI firmware implementation in some motherboards from ASUS, Gigabyte, MSI, and ASRock is vulnerable to direct memory access (DMA) attacks that can bypass early-boot memory protections. [...]",
       "published": "Fri, 19 Dec 2025 10:54:48 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/",
-      "summary": "Internet security watchdog Shadowserver has found over 25,000 Fortinet devices exposed online with FortiCloud SSO enabled, amid ongoing attacks targeting a critical authentication bypass vulnerability. [...]",
-      "published": "Fri, 19 Dec 2025 10:00:45 -0500",
-      "value_score": 33,
-      "value_signals": [
-        "Auth bypass",
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/",
-      "summary": "Criminal IP (criminalip.io), the AI-powered threat intelligence and attack surface monitoring platform developed by AI SPERA, is now officially integrated into Palo Alto Networks' Cortex XSOAR. [...]",
-      "published": "Fri, 19 Dec 2025 09:30:00 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -387,6 +391,30 @@
     },
     {
       "source": "Security Week",
+      "title": "WatchGuard Patches Firebox Zero-Day Exploited in the Wild",
+      "link": "https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/",
+      "summary": "The critical-severity bug in the Fireware OS’s iked process leads to unauthenticated remote code execution. The post WatchGuard Patches Firebox Zero-Day Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Mon, 22 Dec 2025 09:44:19 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Zero-day ×2",
+        "Active exploitation ×2",
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports",
+      "link": "https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/",
+      "summary": "The British government is investigating a “cyber incident” following news reports that hackers linked to China have gained access to thousands of confidential documents. The post UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports appeared first on SecurityWeek .",
+      "published": "Mon, 22 Dec 2025 09:01:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Thailand Conference Launches International Initiative to Fight Online Scams",
       "link": "https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/",
       "summary": "Similar pledges to fight scam networks were made by members of the Association of Southeast Asian Nations in the months leading up to the Bangkok conference. The post Thailand Conference Launches International Initiative to Fight Online Scams appeared first on SecurityWeek .",
@@ -438,26 +466,6 @@
       "published": "Fri, 19 Dec 2025 14:35:59 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Docker Makes 1,000 Hardened Images Free and Open Source",
-      "link": "https://www.securityweek.com/docker-makes-1000-hardened-images-free-and-open-source/",
-      "summary": "Millions of developers can now use the secure, production-ready images made by Docker. The post Docker Makes 1,000 Hardened Images Free and Open Source appeared first on SecurityWeek .",
-      "published": "Fri, 19 Dec 2025 13:33:57 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator",
-      "link": "https://www.securityweek.com/us-shuts-down-crypto-exchange-e-note-charges-russian-administrator/",
-      "summary": "The exchange has been allegedly involved in laundering money for ransomware groups and other transnational cybercriminal organizations. The post US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator appeared first on SecurityWeek .",
-      "published": "Fri, 19 Dec 2025 13:03:39 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Threatpost",

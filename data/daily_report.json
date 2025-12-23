@@ -1,69 +1,69 @@
 {
-  "last_updated": "2025-12-23 18:24",
+  "last_updated": "2025-12-23 20:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "victim's whatsapp account",
-    "critical components made",
     "browser add ons",
     "stringent identity authentication",
     "mass creating fake",
+    "critical components made",
     "nissan confirms impact",
-    "hacker group earlier",
     "video surveillance equipment",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
     "prolific cybercriminal group",
     "platform emphasizes practicality",
     "inductive automation ignition",
-    "exploits surrounding ics",
+    "hacker group earlier",
     "cause big damage",
     "additional brickstorm samples",
-    "critical security vulnerability",
     "watchguard firebox devices",
     "sms phishers pivot",
-    "fake identities continue"
+    "fake identities continue",
+    "devices already inside",
+    "53 000 individuals"
   ],
   "trending": [
     {
       "keyword": "victim's whatsapp account",
-      "mentions": 13
-    },
-    {
-      "keyword": "critical components made",
-      "mentions": 6
+      "mentions": 14
     },
     {
       "keyword": "browser add ons",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "stringent identity authentication",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 72
+      "mentions": 73
+    },
+    {
+      "keyword": "critical components made",
+      "mentions": 7
     },
     {
       "keyword": "nissan confirms impact",
-      "mentions": 4
-    },
-    {
-      "keyword": "hacker group earlier",
-      "mentions": 44
+      "mentions": 5
     },
     {
       "keyword": "video surveillance equipment",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 75
+      "mentions": 76
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 62
+      "mentions": 63
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 63
     }
   ],
   "articles": [
@@ -151,6 +151,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "WebRAT malware spread via fake vulnerability exploits on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/",
+      "summary": "The WebRAT malware is now being distributed through GitHub repositories that claim to host proof-of-concept exploits for recently disclosed vulnerabilities. [...]",
+      "published": "Tue, 23 Dec 2025 14:31:53 -0500",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Malicious extensions in Chrome Web store steal user credentials",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/",
       "summary": "Two Chrome extensions in the Web Store named 'Phantom Shuttle' are posing as plugins for a proxy service to hijack user traffic and steal sensitive data. [...]",
@@ -215,17 +226,6 @@
       "published": "Mon, 22 Dec 2025 15:43:38 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
-      "link": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
-      "summary": "An Interpol-coordinated initiative called Operation Sentinel led to the arrest of 574 individuals and the recovery of $3 million linked to business email compromise, extortion, and ransomware incidents. [...]",
-      "published": "Mon, 22 Dec 2025 13:38:08 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -309,6 +309,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers",
+      "link": "https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers",
+      "summary": "The tech giant has been beset by a deluge of state-sponsored North Korean operatives, showcasing the sheer scale of the IT worker scam problem.",
+      "published": "Tue, 23 Dec 2025 17:42:50 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Sprawling 'Operation Sentinel' Neutralizes African Cybercrime Syndicates",
+      "link": "https://www.darkreading.com/threat-intelligence/operation-sentinel-african-cybercrime-syndicates",
+      "summary": "Interpol said law enforcement across 19 countries made 574 arrests and recovered $3 million, against a backdrop of spiraling cybercrime in the region, including business email compromise, digital extortion, and ransomware schemes.",
+      "published": "Tue, 23 Dec 2025 17:16:35 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices",
       "link": "https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox",
       "summary": "With attacks on the critical firewall vulnerability, WatchGuard joins a list of edge device vendors whose products have been targeted in recent weeks.",
@@ -364,27 +384,6 @@
       "published": "Fri, 19 Dec 2025 14:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "A Good Year for North Korean Cybercriminals",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/good-year-north-korean-cybercriminals",
-      "summary": "North Korea shifted its strategy to patiently target \"bigger fish\" for larger payouts, using sophisticated methods to execute attacks at opportune times.",
-      "published": "Fri, 19 Dec 2025 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "SonicWall Edge Access Devices Hit by Zero-Day Attacks",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks",
-      "summary": "In the latest attacks against the vendor's SMA1000 devices, threat actors have chained a new zero-day flaw with a critical vulnerability disclosed earlier this year.",
-      "published": "Thu, 18 Dec 2025 22:25:46 GMT",
-      "value_score": 68,
-      "value_signals": [
-        "Zero-day ×2",
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",

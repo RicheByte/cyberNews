@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-23 06:26 UTC  
+> **Last Updated:** 2025-12-23 08:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nearly five months** • **uk government acknowledges** • **mass creating fake** • **stealthy loader known** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **observed targeting victims** • **fake identities continue** • **devices already inside** • **additional brickstorm samples** • **victim's whatsapp account** • **watchguard firebox devices** • **stringent identity authentication** • **sms phishers pivot** • **longer requires users** • **silence threat hunters** • **separate threat campaigns** • **windows operating systems** • **unpaid toll fee**
+**nearly five months** • **critical components made** • **mass creating fake** • **video surveillance equipment** • **twitter whistleblower complaint** • **retailers like bestbuy** • **devices already inside** • **cve 2025 59374** • **additional brickstorm samples** • **prolific cybercriminal group** • **watchguard firebox devices** • **stringent identity authentication** • **sms phishers pivot** • **fake identities continue** • **longer requires users** • **silence threat hunters** • **separate threat campaigns** • **victim's whatsapp account** • **3 million linked** • **critical security vulnerability**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances](https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html)
+- [FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks](https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html)
 - [Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens](https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html)
 - [⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More](https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html)
 - [How to Browse the Web More Sustainably With a Green Browser](https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html)
 - [Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale](https://thehackernews.com/2025/12/android-malware-operations-merge.html)
 - [Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html)
 - [U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html)
-- [Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers](https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html)
-- [Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware](https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [3.5 Million Affected by University of Phoenix Data Breach](https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/)
 - [Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush](https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/)
 - [Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator](https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/)
 - [ATM Hackers Using ‘Ploutus’ Malware Charged in US](https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/)
@@ -67,7 +68,6 @@
 - [Gambit Cyber Raises $3.4 Million in Seed Funding](https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/)
 - [Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US](https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/)
 - [WatchGuard Patches Firebox Zero-Day Exploited in the Wild](https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/)
-- [UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports](https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/)
 
 ### Threatpost
 

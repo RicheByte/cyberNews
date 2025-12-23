@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-23 06:26 UTC |
+| 🕐 Last Updated | 2025-12-23 08:23 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 69 |
+| 📈 Total Updates | 70 |
 
 ## 🔥 Trending Topics
 
-`nearly five months` • `uk government acknowledges` • `mass creating fake` • `stealthy loader known` • `twitter whistleblower complaint` • `retailers like bestbuy` • `prolific cybercriminal group` • `observed targeting victims` • `fake identities continue` • `devices already inside`
+`nearly five months` • `critical components made` • `mass creating fake` • `video surveillance equipment` • `twitter whistleblower complaint` • `retailers like bestbuy` • `devices already inside` • `cve 2025 59374` • `additional brickstorm samples` • `prolific cybercriminal group`
 
 ## 📄 Reports
 

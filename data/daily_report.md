@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-23 16:21 UTC  
+> **Last Updated:** 2025-12-23 18:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**victim's whatsapp account** • **critical components made** • **browser add ons** • **mass creating fake** • **nissan confirms impact** • **hacker group earlier** • **video surveillance equipment** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **platform emphasizes practicality** • **cause big damage** • **additional brickstorm samples** • **watchguard firebox devices** • **stringent identity authentication** • **sms phishers pivot** • **fake identities continue** • **devices already inside** • **critical security vulnerability** • **unpaid toll fee**
+**victim's whatsapp account** • **critical components made** • **browser add ons** • **stringent identity authentication** • **mass creating fake** • **nissan confirms impact** • **hacker group earlier** • **video surveillance equipment** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **platform emphasizes practicality** • **inductive automation ignition** • **exploits surrounding ics** • **cause big damage** • **additional brickstorm samples** • **critical security vulnerability** • **watchguard firebox devices** • **sms phishers pivot** • **fake identities continue**
 
 ---
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2025/12/23/cisa-releases-one-industrial-control-systems-advisory)
 - [NIST and CISA Release Draft Interagency Report on Protecting Tokens and Assertions from Tampering Theft and Misuse for Public Comment](https://www.cisa.gov/news-events/alerts/2025/12/22/nist-and-cisa-release-draft-interagency-report-protecting-tokens-and-assertions-tampering-theft-and)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/22/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA  and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor](https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-and-partners-release-update-malware-analysis-report-brickstorm-backdoor)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Axis Communications Camera Station Pro, Camera Station, and Device Manager](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-08)
-- [Advantech WebAccess/SCADA](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-06)
-- [National Instruments LabView](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-03)
-- [Rockwell Automation Micro820, Micro850, Micro870](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-07)
+- [Siemens Interniche IP-Stack](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-05)
+- [Schneider Electric EcoStruxure Foxboro DCS Advisor](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-02)
+- [Inductive Automation Ignition](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-01)
 
 ---
 

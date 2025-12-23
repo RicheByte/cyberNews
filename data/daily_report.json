@@ -1,11 +1,12 @@
 {
-  "last_updated": "2025-12-23 16:21",
+  "last_updated": "2025-12-23 18:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "victim's whatsapp account",
     "critical components made",
     "browser add ons",
+    "stringent identity authentication",
     "mass creating fake",
     "nissan confirms impact",
     "hacker group earlier",
@@ -14,56 +15,55 @@
     "retailers like bestbuy",
     "prolific cybercriminal group",
     "platform emphasizes practicality",
+    "inductive automation ignition",
+    "exploits surrounding ics",
     "cause big damage",
     "additional brickstorm samples",
-    "watchguard firebox devices",
-    "stringent identity authentication",
-    "sms phishers pivot",
-    "fake identities continue",
-    "devices already inside",
     "critical security vulnerability",
-    "unpaid toll fee"
+    "watchguard firebox devices",
+    "sms phishers pivot",
+    "fake identities continue"
   ],
   "trending": [
     {
       "keyword": "victim's whatsapp account",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "critical components made",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "browser add ons",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "stringent identity authentication",
+      "mentions": 49
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "nissan confirms impact",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "video surveillance equipment",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 74
+      "mentions": 75
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 61
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 61
+      "mentions": 62
     }
   ],
   "articles": [
@@ -554,6 +554,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Releases One Industrial Control Systems Advisory",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/23/cisa-releases-one-industrial-control-systems-advisory",
+      "summary": "CISA released one Industrial Control Systems (ICS) Advisory. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-177-01 Mitsubishi Electric Air Conditioning Systems (Update B) CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations.",
+      "published": "Tue, 23 Dec 25 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update",
+        "CISA/KEV ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "NIST and CISA Release Draft Interagency Report on Protecting Tokens and Assertions from Tampering Theft and Misuse for Public Comment",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/22/nist-and-cisa-release-draft-interagency-report-protecting-tokens-and-assertions-tampering-theft-and",
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) and National Institute of Standards and Technology (NIST) have released an initial draft of Interagency Report (IR) 8597 Protecting Tokens and Assertions from Forgery, Theft, and Misuse for public comment through January 30, 2026. This report is in response to Sustaining Select Efforts to Strengthen the Nation’s Cybersecurity and Amending Executive Order 13694 and Executive Order 14144 , providing implementation guidance to help federal",
@@ -608,58 +622,38 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Axis Communications Camera Station Pro, Camera Station, and Device Manager",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-08",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could result in an attacker executing arbitrary code, executing a man-in-middle style attack, or bypass authentication. The following versions of Axis Communications Camera Station Pro, Camera Station, and Device Manager are affected: AXIS Camera Station Pro (CVE-2025-30023, CVE-2025-30025, CVE-2025-30026) AXIS Camera Station (CVE-2025-30023, CVE-2025-30025, CVE-2025-30026) AXIS Device Manager (CVE-2025-30023, CVE-2025-30024, CVE",
+      "title": "Siemens Interniche IP-Stack",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-05",
+      "summary": "View CSAF Summary Multiple Industrial products are affected by a vulnerability in the Interniche IP-Stack. The affected products do not properly enforce TCP sequence number validation in specific scenarios but accept values within a broad range. This could allow an unauthenticated remote attacker e.g. to interfere with connection setup, potentially leading to a denial of service. The attack succeeds only if an attacker can inject IP packets with spoofed addresses at precisely timed moments, and ",
       "published": "Thu, 18 Dec 25 12:00:00 +0000",
-      "value_score": 89,
+      "value_score": 35,
       "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×8",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Source boost: CISA Alerts"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Advantech WebAccess/SCADA",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-06",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an authenticated attacker to read or modify a remote database. The following versions of Advantech WebAccess/SCADA are affected: WebAccess/SCADA (CVE-2025-14850, CVE-2025-14849, CVE-2025-14848, CVE-2025-46268, CVE-2025-67653) CVSS Vendor Equipment Vulnerabilities v3 8.8 Advantech Advantech WebAccess/SCADA Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'), Unrestricted Upload of File with D",
+      "title": "Schneider Electric EcoStruxure Foxboro DCS Advisor",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-02",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability disclosed by Microsoft in the Microsoft Windows Server Update Services (WSUS) used in the EcoStruxure™ Foxboro DCS Advisor services. The EcoStruxure™ Foxboro DCS Advisor, an optional component of the [EcoStruxure™ Foxboro DCS system](https://www.se.com/ww/en/work/products/industrial-automation-control/foxboro-dcs/), facilitates remote connectivity and diagnostics by continuously monitoring key performance indicators (KPI) on the I/",
       "published": "Thu, 18 Dec 25 12:00:00 +0000",
-      "value_score": 89,
+      "value_score": 43,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×5",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Patch/update"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "National Instruments LabView",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose information and execute arbitrary code. The following versions of National Instruments LabView are affected: LabVIEW (CVE-2025-64461, CVE-2025-64462, CVE-2025-64463, CVE-2025-64464, CVE-2025-64465, CVE-2025-64466, CVE-2025-64467, CVE-2025-64468, CVE-2025-64469) LabVIEW (CVE-2025-64461, CVE-2025-64462, CVE-2025-64463, CVE-2025-64464, CVE-2025-64465, CVE-2025-64466, CVE-2025-64467, CVE-2025-64468",
+      "title": "Inductive Automation Ignition",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to be granted direct SYSTEM-level code execution on the host operating system running the Ignition Gateway service on Windows systems. The following versions of Inductive Automation Ignition are affected: Ignition (CVE-2025-13911) CVSS Vendor Equipment Vulnerabilities v3 6.4 Inductive Automation Inductive Automation Ignition Execution with Unnecessary Privileges Background Critical Infrastructure Sectors: Cri",
       "published": "Thu, 18 Dec 25 12:00:00 +0000",
-      "value_score": 89,
+      "value_score": 67,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×17",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Rockwell Automation Micro820, Micro850, Micro870",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-07",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could result in a denial-of-service condition. The following versions of Rockwell Automation Micro820, Micro850, Micro870 are affected: Micro820 (CVE-2025-13823, CVE-2025-13824) CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation Rockwell Automation Micro820, Micro850, Micro870 Dependency on Vulnerable Third-Party Component, Release of Invalid Pointer or Reference Background Critical Infrastructure Sectors: Critical ",
-      "published": "Thu, 18 Dec 25 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "High severity ×2",
-        "Multiple CVEs",
+        "CVE mentioned",
+        "High severity",
         "Exploit wording"
       ]
     }

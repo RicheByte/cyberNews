@@ -1,13 +1,13 @@
 {
-  "last_updated": "2025-12-23 12:34",
+  "last_updated": "2025-12-23 14:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "victim's whatsapp account",
     "critical components made",
     "mass creating fake",
     "devices already inside",
     "video surveillance equipment",
-    "victim's whatsapp account",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
     "prolific cybercriminal group",
@@ -26,44 +26,44 @@
   ],
   "trending": [
     {
+      "keyword": "victim's whatsapp account",
+      "mentions": 11
+    },
+    {
       "keyword": "critical components made",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 69
+      "mentions": 70
     },
     {
       "keyword": "devices already inside",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "video surveillance equipment",
-      "mentions": 3
-    },
-    {
-      "keyword": "victim's whatsapp account",
-      "mentions": 10
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 59
+      "mentions": 60
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 59
+      "mentions": 60
     },
     {
       "keyword": "platform emphasizes practicality",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 41
+      "mentions": 42
     }
   ],
   "articles": [
@@ -151,6 +151,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Malicious extensions in Chrome Web store steal user credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/",
+      "summary": "Two Chrome extensions in the Web Store named 'Phantom Shuttle' are posing as plugins for a proxy service to hijack user traffic and steal sensitive data. [...]",
+      "published": "Tue, 23 Dec 2025 08:31:55 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft Teams strengthens messaging security by default in January",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/",
+      "summary": "Microsoft Teams will automatically enable messaging safety features by default in January to strengthen defenses against content tagged as malicious. [...]",
+      "published": "Tue, 23 Dec 2025 08:23:58 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Cyberattack knocks offline France's postal, banking services",
       "link": "https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/",
       "summary": "The French national postal service's online services were knocked offline by \"a major network incident\" on Monday, disrupting digital banking and other services for millions. [...]",
@@ -204,26 +222,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
       "summary": "An Interpol-coordinated initiative called Operation Sentinel led to the arrest of 574 individuals and the recovery of $3 million linked to business email compromise, extortion, and ransomware incidents. [...]",
       "published": "Mon, 22 Dec 2025 13:38:08 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Malicious npm package steals WhatsApp accounts and messages",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/",
-      "summary": "A malicious package in the Node Package Manager (NPM) registry poses as a legitimate WhatsApp Web API library to steal WhatsApp messages, collect contacts, and gain access to the account. [...]",
-      "published": "Mon, 22 Dec 2025 11:08:46 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Romanian water authority hit by ransomware attack over weekend",
-      "link": "https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/",
-      "summary": "Romanian Waters (Administrația Națională Apele Române), the country's water management authority, was hit by a ransomware attack over the weekend. [...]",
-      "published": "Mon, 22 Dec 2025 10:25:50 -0500",
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
@@ -313,7 +311,7 @@
       "source": "Dark Reading",
       "title": "Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices",
       "link": "https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox",
-      "summary": "With attacks on the critical firewall vulnerability, WatchGuard joins a list of edge device vendors that have been targeted in recent weeks.",
+      "summary": "With attacks on the critical firewall vulnerability, WatchGuard joins a list of edge device vendors whose products have been targeted in recent weeks.",
       "published": "Mon, 22 Dec 2025 20:29:34 GMT",
       "value_score": 49,
       "value_signals": [
@@ -324,9 +322,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Uzbek Users Under Attack by Android SMS Stealers",
+      "title": "Uzbek Users Under Attack by Android SMS-Stealers",
       "link": "https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers",
-      "summary": "Telegram users in Uzbekistan are being targeted with Android SMS stealer malware, and what's worse, the attackers are improving their methods.",
+      "summary": "Telegram users in Uzbekistan are being targeted with Android SMS-stealer malware, and what's worse, the attackers are improving their methods.",
       "published": "Mon, 22 Dec 2025 17:07:10 GMT",
       "value_score": 10,
       "value_signals": []

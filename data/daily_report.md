@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-23 12:34 UTC  
+> **Last Updated:** 2025-12-23 14:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical components made** • **mass creating fake** • **devices already inside** • **video surveillance equipment** • **victim's whatsapp account** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **platform emphasizes practicality** • **hacker group earlier** • **cause big damage** • **additional brickstorm samples** • **watchguard firebox devices** • **stringent identity authentication** • **sms phishers pivot** • **fake identities continue** • **critical security vulnerability** • **nissan confirms impact** • **unpaid toll fee** • **sustaining select efforts**
+**victim's whatsapp account** • **critical components made** • **mass creating fake** • **devices already inside** • **video surveillance equipment** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **platform emphasizes practicality** • **hacker group earlier** • **cause big damage** • **additional brickstorm samples** • **watchguard firebox devices** • **stringent identity authentication** • **sms phishers pivot** • **fake identities continue** • **critical security vulnerability** • **nissan confirms impact** • **unpaid toll fee** • **sustaining select efforts**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Malicious extensions in Chrome Web store steal user credentials](https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/)
+- [Microsoft Teams strengthens messaging security by default in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/)
 - [Cyberattack knocks offline France's postal, banking services](https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/)
 - [Italy fines Apple $116 million over App Store privacy policy issues](https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/)
 - [Baker University says 2024 data breach impacts 53,000 people](https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/)
 - [Nissan says thousands of customers exposed in Red Hat breach](https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/)
 - [New MacSync malware dropper evades macOS Gatekeeper checks](https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/)
 - [Interpol-led action decrypts 6 ransomware strains, arrests hundreds](https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/)
-- [Malicious npm package steals WhatsApp accounts and messages](https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/)
-- [Romanian water authority hit by ransomware attack over weekend](https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/)
 
 ### Krebs on Security
 
@@ -50,7 +50,7 @@
 ### Dark Reading
 
 - [Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices](https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox)
-- [Uzbek Users Under Attack by Android SMS Stealers](https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers)
+- [Uzbek Users Under Attack by Android SMS-Stealers](https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers)
 - [Cisco VPNs, Email Services Hit in Separate Threat Campaigns](https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns)
 - [LongNosedGoblin Caught Snooping on Asian Governments](https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments)
 - [Identity Fraud Among Home-Care Workers Puts Patients at Risk](https://www.darkreading.com/identity-access-management-security/identity-fraud-among-home-care-workers-puts-patients-at-risk)

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-23 10:18 UTC  
+> **Last Updated:** 2025-12-23 12:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nearly five months** • **critical components made** • **mass creating fake** • **video surveillance equipment** • **victim's whatsapp account** • **twitter whistleblower complaint** • **retailers like bestbuy** • **devices already inside** • **additional brickstorm samples** • **prolific cybercriminal group** • **hacker group earlier** • **watchguard firebox devices** • **stringent identity authentication** • **sms phishers pivot** • **fake identities continue** • **silence threat hunters** • **separate threat campaigns** • **critical security vulnerability** • **3 million linked** • **unpaid toll fee**
+**critical components made** • **mass creating fake** • **devices already inside** • **video surveillance equipment** • **victim's whatsapp account** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **platform emphasizes practicality** • **hacker group earlier** • **cause big damage** • **additional brickstorm samples** • **watchguard firebox devices** • **stringent identity authentication** • **sms phishers pivot** • **fake identities continue** • **critical security vulnerability** • **nissan confirms impact** • **unpaid toll fee** • **sustaining select efforts**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty](https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html)
+- [Passwd: A walkthrough of the Google Workspace Password Manager](https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html)
 - [U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme](https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html)
 - [Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances](https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html)
 - [FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks](https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html)
 - [Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens](https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html)
 - [⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More](https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html)
 - [How to Browse the Web More Sustainably With a Green Browser](https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html)
-- [Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale](https://thehackernews.com/2025/12/android-malware-operations-merge.html)
-- [Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html)
 
 ### BleepingComputer
 
+- [Cyberattack knocks offline France's postal, banking services](https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/)
+- [Italy fines Apple $116 million over App Store privacy policy issues](https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/)
 - [Baker University says 2024 data breach impacts 53,000 people](https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/)
 - [Nissan says thousands of customers exposed in Red Hat breach](https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/)
 - [New MacSync malware dropper evades macOS Gatekeeper checks](https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/)
 - [Interpol-led action decrypts 6 ransomware strains, arrests hundreds](https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/)
 - [Malicious npm package steals WhatsApp accounts and messages](https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/)
 - [Romanian water authority hit by ransomware attack over weekend](https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/)
-- [University of Phoenix data breach impacts nearly 3.5 million individuals](https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/)
-- [Coupang breach affecting 33.7 million users raises data protection questions](https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Nissan Confirms Impact From Red Hat Data Breach](https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/)
+- [Feds Seize Password Database Used in Massive Bank Account Takeover Scheme](https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/)
+- [NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data](https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/)
 - [Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal](https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/)
 - [574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings](https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/)
 - [3.5 Million Affected by University of Phoenix Data Breach](https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/)
 - [Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush](https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/)
 - [Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator](https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/)
-- [ATM Hackers Using ‘Ploutus’ Malware Charged in US](https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/)
-- [MacSync macOS Malware Distributed via Signed Swift Application](https://www.securityweek.com/macsync-macos-malware-distributed-via-signed-swift-application/)
-- [Gambit Cyber Raises $3.4 Million in Seed Funding](https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/)
 
 ### Threatpost
 

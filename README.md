@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-23 10:18 UTC |
+| 🕐 Last Updated | 2025-12-23 12:34 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 71 |
+| 📈 Total Updates | 72 |
 
 ## 🔥 Trending Topics
 
-`nearly five months` • `critical components made` • `mass creating fake` • `video surveillance equipment` • `victim's whatsapp account` • `twitter whistleblower complaint` • `retailers like bestbuy` • `devices already inside` • `additional brickstorm samples` • `prolific cybercriminal group`
+`critical components made` • `mass creating fake` • `devices already inside` • `video surveillance equipment` • `victim's whatsapp account` • `twitter whistleblower complaint` • `retailers like bestbuy` • `prolific cybercriminal group` • `platform emphasizes practicality` • `hacker group earlier`
 
 ## 📄 Reports
 

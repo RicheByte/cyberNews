@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-23 04:34 UTC  
+> **Last Updated:** 2025-12-23 06:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**uk government acknowledges** • **mass creating fake** • **stealthy loader known** • **nearly five months** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **observed targeting victims** • **fake identities continue** • **devices already inside** • **additional brickstorm samples** • **victim's whatsapp account** • **watchguard firebox devices** • **stringent identity authentication** • **sms phishers pivot** • **longer requires users** • **silence threat hunters** • **separate threat campaigns** • **windows operating systems** • **unpaid toll fee**
+**nearly five months** • **uk government acknowledges** • **mass creating fake** • **stealthy loader known** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **observed targeting victims** • **fake identities continue** • **devices already inside** • **additional brickstorm samples** • **victim's whatsapp account** • **watchguard firebox devices** • **stringent identity authentication** • **sms phishers pivot** • **longer requires users** • **silence threat hunters** • **separate threat campaigns** • **windows operating systems** • **unpaid toll fee**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush](https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/)
 - [Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator](https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/)
 - [ATM Hackers Using ‘Ploutus’ Malware Charged in US](https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/)
 - [MacSync macOS Malware Distributed via Signed Swift Application](https://www.securityweek.com/macsync-macos-malware-distributed-via-signed-swift-application/)
@@ -67,7 +68,6 @@
 - [Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US](https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/)
 - [WatchGuard Patches Firebox Zero-Day Exploited in the Wild](https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/)
 - [UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports](https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/)
-- [Thailand Conference Launches International Initiative to Fight Online Scams](https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/)
 
 ### Threatpost
 

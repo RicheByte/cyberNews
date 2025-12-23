@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-12-23 04:34",
+  "last_updated": "2025-12-23 06:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "nearly five months",
     "uk government acknowledges",
     "mass creating fake",
     "stealthy loader known",
-    "nearly five months",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
     "prolific cybercriminal group",
@@ -26,44 +26,44 @@
   ],
   "trending": [
     {
-      "keyword": "uk government acknowledges",
-      "mentions": 10
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 65
-    },
-    {
-      "keyword": "stealthy loader known",
-      "mentions": 12
-    },
-    {
       "keyword": "nearly five months",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 68
-    },
-    {
-      "keyword": "retailers like bestbuy",
-      "mentions": 55
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 55
-    },
-    {
-      "keyword": "observed targeting victims",
+      "keyword": "uk government acknowledges",
       "mentions": 11
     },
     {
+      "keyword": "mass creating fake",
+      "mentions": 66
+    },
+    {
+      "keyword": "stealthy loader known",
+      "mentions": 13
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 69
+    },
+    {
+      "keyword": "retailers like bestbuy",
+      "mentions": 56
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 56
+    },
+    {
+      "keyword": "observed targeting victims",
+      "mentions": 12
+    },
+    {
       "keyword": "fake identities continue",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "devices already inside",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
@@ -392,6 +392,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush",
+      "link": "https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/",
+      "summary": "A cyberattack knocked France’s national postal service offline, blocking and delaying package deliveries and online payments. The post Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush appeared first on SecurityWeek .",
+      "published": "Tue, 23 Dec 2025 05:48:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator",
       "link": "https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/",
       "summary": "Shannon Miller shares her approach to creating domestic safety and a call to the cyber community to help reduce harm. The post Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator appeared first on SecurityWeek .",
@@ -458,15 +467,6 @@
       "link": "https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/",
       "summary": "The British government is investigating a “cyber incident” following news reports that hackers linked to China have gained access to thousands of confidential documents. The post UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports appeared first on SecurityWeek .",
       "published": "Mon, 22 Dec 2025 09:01:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Thailand Conference Launches International Initiative to Fight Online Scams",
-      "link": "https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/",
-      "summary": "Similar pledges to fight scam networks were made by members of the Association of Southeast Asian Nations in the months leading up to the Bangkok conference. The post Thailand Conference Launches International Initiative to Fight Online Scams appeared first on SecurityWeek .",
-      "published": "Fri, 19 Dec 2025 19:14:24 +0000",
       "value_score": 10,
       "value_signals": []
     },

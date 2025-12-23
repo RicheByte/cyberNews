@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-23 14:16 UTC  
+> **Last Updated:** 2025-12-23 16:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**victim's whatsapp account** • **critical components made** • **mass creating fake** • **devices already inside** • **video surveillance equipment** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **platform emphasizes practicality** • **hacker group earlier** • **cause big damage** • **additional brickstorm samples** • **watchguard firebox devices** • **stringent identity authentication** • **sms phishers pivot** • **fake identities continue** • **critical security vulnerability** • **nissan confirms impact** • **unpaid toll fee** • **sustaining select efforts**
+**victim's whatsapp account** • **critical components made** • **browser add ons** • **mass creating fake** • **nissan confirms impact** • **hacker group earlier** • **video surveillance equipment** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **platform emphasizes practicality** • **cause big damage** • **additional brickstorm samples** • **watchguard firebox devices** • **stringent identity authentication** • **sms phishers pivot** • **fake identities continue** • **devices already inside** • **critical security vulnerability** • **unpaid toll fee**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites](https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html)
 - [INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty](https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html)
 - [Passwd: A walkthrough of the Google Workspace Password Manager](https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html)
 - [U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme](https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html)
@@ -23,7 +24,6 @@
 - [FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks](https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html)
 - [Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens](https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html)
 - [⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More](https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html)
-- [How to Browse the Web More Sustainably With a Green Browser](https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [ServiceNow to Acquire Armis for $7.75 Billion in Cash](https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/)
 - [Nissan Confirms Impact From Red Hat Data Breach](https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/)
 - [Feds Seize Password Database Used in Massive Bank Account Takeover Scheme](https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/)
 - [NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data](https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/)
@@ -67,7 +68,6 @@
 - [574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings](https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/)
 - [3.5 Million Affected by University of Phoenix Data Breach](https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/)
 - [Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush](https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/)
-- [Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator](https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/)
 
 ### Threatpost
 

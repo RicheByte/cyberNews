@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-23 14:16 UTC |
+| 🕐 Last Updated | 2025-12-23 16:21 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 73 |
+| 📈 Total Updates | 74 |
 
 ## 🔥 Trending Topics
 
-`victim's whatsapp account` • `critical components made` • `mass creating fake` • `devices already inside` • `video surveillance equipment` • `twitter whistleblower complaint` • `retailers like bestbuy` • `prolific cybercriminal group` • `platform emphasizes practicality` • `hacker group earlier`
+`victim's whatsapp account` • `critical components made` • `browser add ons` • `mass creating fake` • `nissan confirms impact` • `hacker group earlier` • `video surveillance equipment` • `twitter whistleblower complaint` • `retailers like bestbuy` • `prolific cybercriminal group`
 
 ## 📄 Reports
 

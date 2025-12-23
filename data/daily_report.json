@@ -1,72 +1,81 @@
 {
-  "last_updated": "2025-12-23 14:16",
+  "last_updated": "2025-12-23 16:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "victim's whatsapp account",
     "critical components made",
+    "browser add ons",
     "mass creating fake",
-    "devices already inside",
+    "nissan confirms impact",
+    "hacker group earlier",
     "video surveillance equipment",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
     "prolific cybercriminal group",
     "platform emphasizes practicality",
-    "hacker group earlier",
     "cause big damage",
     "additional brickstorm samples",
     "watchguard firebox devices",
     "stringent identity authentication",
     "sms phishers pivot",
     "fake identities continue",
+    "devices already inside",
     "critical security vulnerability",
-    "nissan confirms impact",
-    "unpaid toll fee",
-    "sustaining select efforts"
+    "unpaid toll fee"
   ],
   "trending": [
     {
       "keyword": "victim's whatsapp account",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "critical components made",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "browser add ons",
+      "mentions": 1
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 70
+      "mentions": 71
     },
     {
-      "keyword": "devices already inside",
-      "mentions": 13
-    },
-    {
-      "keyword": "video surveillance equipment",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 73
-    },
-    {
-      "keyword": "retailers like bestbuy",
-      "mentions": 60
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 60
-    },
-    {
-      "keyword": "platform emphasizes practicality",
-      "mentions": 2
+      "keyword": "nissan confirms impact",
+      "mentions": 3
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 42
+      "mentions": 43
+    },
+    {
+      "keyword": "video surveillance equipment",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 74
+    },
+    {
+      "keyword": "retailers like bestbuy",
+      "mentions": 61
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 61
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
+      "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
+      "summary": "Cybersecurity researchers have discovered two malicious Google Chrome extensions with the same name and published by the same developer that come with capabilities to intercept traffic and capture user credentials. The extensions are advertised as a \"multi-location network speed test plug-in\" for developers and foreign trade personnel. Both the browser add-ons are available for download as of",
+      "published": "Tue, 23 Dec 2025 20:12:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
@@ -139,15 +148,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "How to Browse the Web More Sustainably With a Green Browser",
-      "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
-      "summary": "As the internet becomes an essential part of daily life, its environmental footprint continues to grow. Data centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption and digital waste. While individual users may not see this impact directly, the collective effect of everyday browsing is significant. Choosing a browser designed with",
-      "published": "Mon, 22 Dec 2025 17:25:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -388,6 +388,15 @@
     },
     {
       "source": "Security Week",
+      "title": "ServiceNow to Acquire Armis for $7.75 Billion in Cash",
+      "link": "https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/",
+      "summary": "Rumors of a possible buyout surfaced earlier this month, with the official announcement coming just weeks after Armis announced raising $435 million. The post ServiceNow to Acquire Armis for $7.75 Billion in Cash appeared first on SecurityWeek .",
+      "published": "Tue, 23 Dec 2025 14:28:42 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Nissan Confirms Impact From Red Hat Data Breach",
       "link": "https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/",
       "summary": "The personal information of 21,000 customers was stolen after hackers compromised Red Hat’s GitLab instances. The post Nissan Confirms Impact From Red Hat Data Breach appeared first on SecurityWeek .",
@@ -457,15 +466,6 @@
       "link": "https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/",
       "summary": "A cyberattack knocked France’s national postal service offline, blocking and delaying package deliveries and online payments. The post Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush appeared first on SecurityWeek .",
       "published": "Tue, 23 Dec 2025 05:48:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator",
-      "link": "https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/",
-      "summary": "Shannon Miller shares her approach to creating domestic safety and a call to the cyber community to help reduce harm. The post Rising Tides: When Cybersecurity Becomes Personal – Inside the Work of an OSINT Investigator appeared first on SecurityWeek .",
-      "published": "Mon, 22 Dec 2025 15:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

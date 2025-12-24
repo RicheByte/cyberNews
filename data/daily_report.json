@@ -1,9 +1,8 @@
 {
-  "last_updated": "2025-12-24 08:23",
+  "last_updated": "2025-12-24 10:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "victim's whatsapp account",
     "mass creating fake",
     "dominant market position",
     "critical components made",
@@ -17,56 +16,66 @@
     "platform emphasizes practicality",
     "inductive automation ignition",
     "hacker group earlier",
+    "exchange commission sec",
     "additional brickstorm samples",
     "sms phishers pivot",
-    "53 000 individuals",
-    "recovered 3 million",
     "recently disclosed vulnerabilities",
-    "critical security vulnerability"
+    "critical security vulnerability",
+    "worker scam problem",
+    "unpaid toll fee"
   ],
   "trending": [
     {
-      "keyword": "victim's whatsapp account",
-      "mentions": 20
-    },
-    {
       "keyword": "mass creating fake",
-      "mentions": 79
+      "mentions": 80
     },
     {
       "keyword": "dominant market position",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "critical components made",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "nissan confirms impact",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "video surveillance equipment",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 82
+      "mentions": 83
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 69
+      "mentions": 70
     },
     {
       "keyword": "real life identity",
-      "mentions": 48
+      "mentions": 49
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 70
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips",
+      "link": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html",
+      "summary": "The U.S. Securities and Exchange Commission (SEC) has filed charges against multiple companies for their alleged involvement in an elaborate cryptocurrency scam that swindled more than $14 million from retail investors. The complaint charged crypto asset trading platforms Morocoin Tech Corp., Berge Blockchain Technology Co., Ltd., and Cirkor Inc., as well as investment clubs AI Wealth Inc., Lane",
+      "published": "Wed, 24 Dec 2025 14:49:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition",
@@ -137,15 +146,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
-      "link": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker's device to a victim's WhatsApp account. The package, named \"lotusbail,\" has been downloaded over 56,000 times since it was first uploaded to the registry by a user named \"",
-      "published": "Mon, 22 Dec 2025 21:58:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

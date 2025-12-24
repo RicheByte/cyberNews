@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-24 08:23 UTC |
+| 🕐 Last Updated | 2025-12-24 10:17 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 82 |
+| 📈 Total Updates | 83 |
 
 ## 🔥 Trending Topics
 
-`victim's whatsapp account` • `mass creating fake` • `dominant market position` • `critical components made` • `nissan confirms impact` • `watchguard firebox devices` • `video surveillance equipment` • `twitter whistleblower complaint` • `retailers like bestbuy` • `real life identity`
+`mass creating fake` • `dominant market position` • `critical components made` • `nissan confirms impact` • `watchguard firebox devices` • `video surveillance equipment` • `twitter whistleblower complaint` • `retailers like bestbuy` • `real life identity` • `prolific cybercriminal group`
 
 ## 📄 Reports
 

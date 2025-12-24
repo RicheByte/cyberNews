@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-23 22:15 UTC  
+> **Last Updated:** 2025-12-24 01:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -50,7 +50,7 @@
 ### Dark Reading
 
 - [Industry Continues to Push Back on HIPAA Security Rule Overhaul](https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul)
-- [ServiceNow Buys Armis for $7.75B, Gets 'AI Control Tower'](https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower)
+- [ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'](https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower)
 - [Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers](https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers)
 - [Sprawling 'Operation Sentinel' Neutralizes African Cybercrime Syndicates](https://www.darkreading.com/threat-intelligence/operation-sentinel-african-cybercrime-syndicates)
 - [Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices](https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox)

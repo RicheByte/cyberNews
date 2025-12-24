@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-24 12:34 UTC  
+> **Last Updated:** 2025-12-24 14:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **dominant market position** • **nissan confirms impact** • **watchguard firebox devices** • **twitter whistleblower complaint** • **retailers like bestbuy** • **real life identity** • **prolific cybercriminal group** • **platform emphasizes practicality** • **inductive automation ignition** • **hacker group earlier** • **additional brickstorm samples** • **sms phishers pivot** • **recently disclosed vulnerabilities** • **worker scam problem** • **unpaid toll fee** • **sustaining select efforts** • **supposed wayward package** • **separate threat campaigns** • **senegal ghana benin**
+**mass creating fake** • **dominant market position** • **nissan confirms impact** • **watchguard firebox devices** • **twitter whistleblower complaint** • **retailers like bestbuy** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **sms phishers pivot** • **recently disclosed vulnerabilities** • **criminal scheme designed** • **worker scam problem** • **unpaid toll fee** • **sustaining select efforts** • **supposed wayward package** • **senegal ghana benin** • **seamless workspace integration** • **scattered lapsus hunters**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media](https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html)
 - [Attacks are Evolving: 3 Ways to Protect Your Business in 2026](https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html)
 - [SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips](https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html)
 - [Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition](https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html)
@@ -23,7 +24,6 @@
 - [INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty](https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html)
 - [Passwd: A walkthrough of the Google Workspace Password Manager](https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html)
 - [U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme](https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html)
-- [Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances](https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html)
 
 ### BleepingComputer
 

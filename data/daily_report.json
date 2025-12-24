@@ -1,14 +1,12 @@
 {
-  "last_updated": "2025-12-24 10:17",
+  "last_updated": "2025-12-24 12:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mass creating fake",
     "dominant market position",
-    "critical components made",
     "nissan confirms impact",
     "watchguard firebox devices",
-    "video surveillance equipment",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
     "real life identity",
@@ -16,57 +14,68 @@
     "platform emphasizes practicality",
     "inductive automation ignition",
     "hacker group earlier",
-    "exchange commission sec",
     "additional brickstorm samples",
     "sms phishers pivot",
     "recently disclosed vulnerabilities",
-    "critical security vulnerability",
     "worker scam problem",
-    "unpaid toll fee"
+    "unpaid toll fee",
+    "sustaining select efforts",
+    "supposed wayward package",
+    "separate threat campaigns",
+    "senegal ghana benin"
   ],
   "trending": [
     {
       "keyword": "mass creating fake",
-      "mentions": 80
+      "mentions": 81
     },
     {
       "keyword": "dominant market position",
-      "mentions": 2
-    },
-    {
-      "keyword": "critical components made",
-      "mentions": 14
+      "mentions": 3
     },
     {
       "keyword": "nissan confirms impact",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 19
-    },
-    {
-      "keyword": "video surveillance equipment",
-      "mentions": 14
+      "mentions": 20
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 70
+      "mentions": 71
     },
     {
       "keyword": "real life identity",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 70
+      "mentions": 71
+    },
+    {
+      "keyword": "platform emphasizes practicality",
+      "mentions": 13
+    },
+    {
+      "keyword": "inductive automation ignition",
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attacks are Evolving: 3 Ways to Protect Your Business in 2026",
+      "link": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html",
+      "summary": "Every year, cybercriminals find new ways to steal money and data from businesses. Breaching a business network, extracting sensitive data, and selling it on the dark web has become a reliable payday. But in 2025, the data breaches that affected small and medium-sized businesses (SMBs) challenged our perceived wisdom about exactly which types of businesses cybercriminals are targeting.",
+      "published": "Wed, 24 Dec 2025 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips",
@@ -134,17 +143,6 @@
         "CVE mentioned",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks",
-      "link": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html",
-      "summary": "The U.S. Federal Communications Commission (FCC) on Monday announced a ban on all drones and critical components made in a foreign country, citing national security concerns. To that end, the agency has added to its Covered List Uncrewed aircraft systems (UAS) and UAS critical components produced in a foreign country, and all communications and video surveillance equipment and services pursuant",
-      "published": "Tue, 23 Dec 2025 12:28:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
       ]
     },
     {

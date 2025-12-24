@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-24 14:15 UTC  
+> **Last Updated:** 2025-12-24 16:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **dominant market position** • **nissan confirms impact** • **watchguard firebox devices** • **twitter whistleblower complaint** • **retailers like bestbuy** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **sms phishers pivot** • **recently disclosed vulnerabilities** • **criminal scheme designed** • **worker scam problem** • **unpaid toll fee** • **sustaining select efforts** • **supposed wayward package** • **senegal ghana benin** • **seamless workspace integration** • **scattered lapsus hunters**
+**nissan confirms impact** • **mass creating fake** • **dominant market position** • **recently disclosed vulnerabilities** • **watchguard firebox devices** • **twitter whistleblower complaint** • **retailers like bestbuy** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **compromised bank accounts** • **additional brickstorm samples** • **sms phishers pivot** • **criminal scheme designed** • **account takeover attacks** • **worker scam problem** • **unpaid toll fee** • **sustaining select efforts** • **supposed wayward package** • **senegal ghana benin**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [MongoDB warns admins to patch severe RCE flaw immediately](https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/)
+- [FBI seizes domain storing bank credentials stolen from U.S. victims](https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/)
+- [Microsoft rolls out hardware-accelerated BitLocker in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/)
 - [WebRAT malware spread via fake vulnerability exploits on GitHub](https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/)
 - [Malicious extensions in Chrome Web store steal user credentials](https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/)
 - [Microsoft Teams strengthens messaging security by default in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/)
 - [Cyberattack knocks offline France's postal, banking services](https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/)
 - [Italy fines Apple $116 million over App Store privacy policy issues](https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/)
-- [Baker University says 2024 data breach impacts 53,000 people](https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/)
-- [Nissan says thousands of customers exposed in Red Hat breach](https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/)
-- [New MacSync malware dropper evades macOS Gatekeeper checks](https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Pro-Russian Hackers Claim Cyberattack on French Postal Service](https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/)
 - [ServiceNow to Acquire Armis for $7.75 Billion in Cash](https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/)
 - [Nissan Confirms Impact From Red Hat Data Breach](https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/)
 - [Feds Seize Password Database Used in Massive Bank Account Takeover Scheme](https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/)
@@ -67,7 +68,6 @@
 - [Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal](https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/)
 - [574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings](https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/)
 - [3.5 Million Affected by University of Phoenix Data Breach](https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/)
-- [Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush](https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/)
 
 ### Threatpost
 

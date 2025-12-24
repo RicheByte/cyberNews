@@ -1,69 +1,69 @@
 {
-  "last_updated": "2025-12-24 14:15",
+  "last_updated": "2025-12-24 16:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "nissan confirms impact",
     "mass creating fake",
     "dominant market position",
-    "nissan confirms impact",
+    "recently disclosed vulnerabilities",
     "watchguard firebox devices",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
     "real life identity",
     "prolific cybercriminal group",
     "hacker group earlier",
+    "compromised bank accounts",
     "additional brickstorm samples",
     "sms phishers pivot",
-    "recently disclosed vulnerabilities",
     "criminal scheme designed",
+    "account takeover attacks",
     "worker scam problem",
     "unpaid toll fee",
     "sustaining select efforts",
     "supposed wayward package",
-    "senegal ghana benin",
-    "seamless workspace integration",
-    "scattered lapsus hunters"
+    "senegal ghana benin"
   ],
   "trending": [
     {
+      "keyword": "nissan confirms impact",
+      "mentions": 15
+    },
+    {
       "keyword": "mass creating fake",
-      "mentions": 82
+      "mentions": 83
     },
     {
       "keyword": "dominant market position",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "nissan confirms impact",
-      "mentions": 14
+      "keyword": "recently disclosed vulnerabilities",
+      "mentions": 10
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 85
+      "mentions": 86
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "real life identity",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 54
-    },
-    {
-      "keyword": "additional brickstorm samples",
-      "mentions": 60
+      "mentions": 55
     }
   ],
   "articles": [
@@ -143,6 +143,37 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "MongoDB warns admins to patch severe RCE flaw immediately",
+      "link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
+      "summary": "MongoDB has warned IT admins to immediately patch a high-severity vulnerability that can be exploited in remote code execution (RCE) attacks targeting vulnerable servers. [...]",
+      "published": "Wed, 24 Dec 2025 09:18:36 -0500",
+      "value_score": 72,
+      "value_signals": [
+        "RCE ×3",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FBI seizes domain storing bank credentials stolen from U.S. victims",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/",
+      "summary": "The U.S. government has seized the 'web3adspanels.org' domain and the associated database used by cybercriminals to host bank login credentials stolen in account takeover attacks. [...]",
+      "published": "Wed, 24 Dec 2025 08:17:32 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft rolls out hardware-accelerated BitLocker in Windows 11",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/",
+      "summary": "Microsoft is rolling out hardware-accelerated BitLocker in Windows 11 to address growing performance and security concerns by leveraging the capabilities of system-on-a-chip and CPU. [...]",
+      "published": "Tue, 23 Dec 2025 15:03:34 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "WebRAT malware spread via fake vulnerability exploits on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/",
       "summary": "The WebRAT malware is now being distributed through GitHub repositories that claim to host proof-of-concept exploits for recently disclosed vulnerabilities. [...]",
@@ -185,37 +216,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/",
       "summary": "Italy's competition authority (AGCM) has fined Apple €98.6 million ($116 million) for using the App Tracking Transparency (ATT) privacy framework to abuse its dominant market position in mobile app advertising. [...]",
       "published": "Tue, 23 Dec 2025 06:06:22 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Baker University says 2024 data breach impacts 53,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/",
-      "summary": "Baker University has disclosed a data breach after attackers gained access to its network one year ago and stole the personal, health, and financial information of over 53,000 individuals. [...]",
-      "published": "Tue, 23 Dec 2025 04:50:08 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Nissan says thousands of customers exposed in Red Hat breach",
-      "link": "https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/",
-      "summary": "Nissan Motor Co. Ltd. (Nissan) has confirmed that information of thousands of its customers has been compromised after the data breach at Red Hat in September. [...]",
-      "published": "Mon, 22 Dec 2025 16:32:11 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New MacSync malware dropper evades macOS Gatekeeper checks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/",
-      "summary": "The latest variant of the MacSync information stealer targeting macOS systems is delivered through a digitally signed, notarized Swift application. [...]",
-      "published": "Mon, 22 Dec 2025 15:43:38 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -379,6 +379,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Pro-Russian Hackers Claim Cyberattack on French Postal Service",
+      "link": "https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/",
+      "summary": "Central computer systems at French national postal service La Poste were knocked offline Monday in DDoS attack. The post Pro-Russian Hackers Claim Cyberattack on French Postal Service appeared first on SecurityWeek .",
+      "published": "Wed, 24 Dec 2025 14:35:05 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "ServiceNow to Acquire Armis for $7.75 Billion in Cash",
       "link": "https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/",
       "summary": "Rumors of a possible buyout surfaced earlier this month, with the official announcement coming just weeks after Armis announced raising $435 million. The post ServiceNow to Acquire Armis for $7.75 Billion in Cash appeared first on SecurityWeek .",
@@ -450,15 +459,6 @@
         "Ransomware",
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush",
-      "link": "https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/",
-      "summary": "A cyberattack knocked France’s national postal service offline, blocking and delaying package deliveries and online payments. The post Cyberattack Disrupts France’s Postal Service and Banking During Christmas Rush appeared first on SecurityWeek .",
-      "published": "Tue, 23 Dec 2025 05:48:22 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

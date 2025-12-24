@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-24 06:27 UTC  
+> **Last Updated:** 2025-12-24 08:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**victim's whatsapp account** • **mass creating fake** • **browser add ons** • **critical components made** • **nissan confirms impact** • **video surveillance equipment** • **twitter whistleblower complaint** • **retailers like bestbuy** • **prolific cybercriminal group** • **platform emphasizes practicality** • **inductive automation ignition** • **hacker group earlier** • **cause big damage** • **additional brickstorm samples** • **watchguard firebox devices** • **sms phishers pivot** • **devices already inside** • **53 000 individuals** • **recovered 3 million** • **recently disclosed vulnerabilities**
+**victim's whatsapp account** • **mass creating fake** • **dominant market position** • **critical components made** • **nissan confirms impact** • **watchguard firebox devices** • **video surveillance equipment** • **twitter whistleblower complaint** • **retailers like bestbuy** • **real life identity** • **prolific cybercriminal group** • **platform emphasizes practicality** • **inductive automation ignition** • **hacker group earlier** • **additional brickstorm samples** • **sms phishers pivot** • **53 000 individuals** • **recovered 3 million** • **recently disclosed vulnerabilities** • **critical security vulnerability**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition](https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html)
 - [Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites](https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html)
 - [INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty](https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html)
 - [Passwd: A walkthrough of the Google Workspace Password Manager](https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html)
@@ -23,7 +24,6 @@
 - [Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances](https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html)
 - [FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks](https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html)
 - [Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens](https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html)
-- [⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More](https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html)
 
 ### BleepingComputer
 

@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-25 04:34 UTC  
+> **Last Updated:** 2025-12-25 06:26 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **twitter whistleblower complaint** • **spread powershell malware** • **additional brickstorm samples** • **recently disclosed vulnerabilities** • **worker scam problem** • **web3adspanels org domain** • **watchguard firebox devices** • **typosquatted domain impersonating** • **sustaining select efforts** • **senegal ghana benin** • **sending messages calls** • **seamless workspace integration** • **proactively manage ai** • **precisely timed moments** • **platform emphasizes practicality** • **official announcement coming** • **messaging app installer** • **malicious cyber actors** • **longnosedgoblin caught snooping**
+**nissan confirms impact** • **mass creating fake** • **recently disclosed vulnerabilities** • **watchguard firebox devices** • **twitter whistleblower complaint** • **retailers like bestbuy** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **sms phishers pivot** • **worker scam problem** • **unpaid toll fee** • **sustaining select efforts** • **supposed wayward package** • **spread powershell malware** • **senegal ghana benin** • **seamless workspace integration** • **scattered lapsus hunters** • **restrict free speech**
 
 ---
 
@@ -35,6 +35,17 @@
 - [Microsoft rolls out hardware-accelerated BitLocker in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/)
 - [WebRAT malware spread via fake vulnerability exploits on GitHub](https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/)
 - [Malicious extensions in Chrome Web store steal user credentials](https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/)
+
+### Krebs on Security
+
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
+- [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
+- [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
+- [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
 
 ### Dark Reading
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-25 04:34 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2025-12-25 06:26 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 92 |
+| 📈 Total Updates | 93 |
 
 ## 🔥 Trending Topics
 
-`nissan confirms impact` • `twitter whistleblower complaint` • `spread powershell malware` • `additional brickstorm samples` • `recently disclosed vulnerabilities` • `worker scam problem` • `web3adspanels org domain` • `watchguard firebox devices` • `typosquatted domain impersonating` • `sustaining select efforts`
+`nissan confirms impact` • `mass creating fake` • `recently disclosed vulnerabilities` • `watchguard firebox devices` • `twitter whistleblower complaint` • `retailers like bestbuy` • `real life identity` • `prolific cybercriminal group` • `hacker group earlier` • `additional brickstorm samples`
 
 ## 📄 Reports
 

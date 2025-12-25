@@ -1,11 +1,12 @@
 {
-  "last_updated": "2025-12-25 08:22",
+  "last_updated": "2025-12-25 10:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "nissan confirms impact",
     "mass creating fake",
     "recently disclosed vulnerabilities",
+    "recovered 3 million",
     "watchguard firebox devices",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
@@ -14,59 +15,86 @@
     "hacker group earlier",
     "additional brickstorm samples",
     "sms phishers pivot",
+    "evolving 3 ways",
     "worker scam problem",
     "unpaid toll fee",
     "sustaining select efforts",
     "supposed wayward package",
     "spread powershell malware",
     "senegal ghana benin",
-    "seamless workspace integration",
-    "scattered lapsus hunters",
-    "restrict free speech"
+    "scattered lapsus hunters"
   ],
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 90
+      "mentions": 91
     },
     {
       "keyword": "recently disclosed vulnerabilities",
-      "mentions": 18
+      "mentions": 19
+    },
+    {
+      "keyword": "recovered 3 million",
+      "mentions": 7
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 94
+      "mentions": 95
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 80
+      "mentions": 81
     },
     {
       "keyword": "real life identity",
-      "mentions": 59
+      "mentions": 60
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 80
+      "mentions": 81
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 62
-    },
-    {
-      "keyword": "additional brickstorm samples",
-      "mentions": 69
+      "mentions": 63
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
+      "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
+      "summary": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations. The vulnerability in question is CVE-2020-12812 (CVSS score: 5.2), an improper authentication vulnerability in SSL VPN in FortiOS that could allow a user to log in successfully without being prompted for the second factor of authentication if the",
+      "published": "Thu, 25 Dec 2025 13:52:00 +0530",
+      "value_score": 59,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
+      "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2023-52163 (CVSS score: 8.8), relates to a case of command injection that allows post-authentication remote code",
+      "published": "Thu, 25 Dec 2025 13:37:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "RCE",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
@@ -118,26 +146,6 @@
       "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
       "summary": "Cybersecurity researchers have discovered two malicious Google Chrome extensions with the same name and published by the same developer that come with capabilities to intercept traffic and capture user credentials. The extensions are advertised as a \"multi-location network speed test plug-in\" for developers and foreign trade personnel. Both the browser add-ons are available for download as of",
       "published": "Tue, 23 Dec 2025 20:12:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
-      "link": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
-      "summary": "A law enforcement operation coordinated by INTERPOL has led to the recovery of $3 million and the arrest of 574 suspects by authorities from 19 countries, amidst a continued crackdown on cybercrime networks in Africa. The coordinated effort, named Operation Sentinel, took place between October 27 and November 27, 2025, and mainly focused on business email compromise (BEC), digital extortion, and",
-      "published": "Tue, 23 Dec 2025 17:05:00 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
-      "link": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html",
-      "summary": "Passwd is designed specifically for organizations operating within Google Workspace. Rather than competing as a general consumer password manager, its purpose is narrow, and business-focused: secure credential storage, controlled sharing, and seamless Workspace integration. The platform emphasizes practicality over feature overload, aiming to provide a reliable system for teams that already rely",
-      "published": "Tue, 23 Dec 2025 17:00:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

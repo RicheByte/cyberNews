@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-25 08:22 UTC  
+> **Last Updated:** 2025-12-25 10:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **mass creating fake** • **recently disclosed vulnerabilities** • **watchguard firebox devices** • **twitter whistleblower complaint** • **retailers like bestbuy** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **sms phishers pivot** • **worker scam problem** • **unpaid toll fee** • **sustaining select efforts** • **supposed wayward package** • **spread powershell malware** • **senegal ghana benin** • **seamless workspace integration** • **scattered lapsus hunters** • **restrict free speech**
+**nissan confirms impact** • **mass creating fake** • **recently disclosed vulnerabilities** • **recovered 3 million** • **watchguard firebox devices** • **twitter whistleblower complaint** • **retailers like bestbuy** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **sms phishers pivot** • **evolving 3 ways** • **worker scam problem** • **unpaid toll fee** • **sustaining select efforts** • **supposed wayward package** • **spread powershell malware** • **senegal ghana benin** • **scattered lapsus hunters**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability](https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html)
+- [CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html)
 - [New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper](https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html)
 - [Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media](https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html)
 - [Attacks are Evolving: 3 Ways to Protect Your Business in 2026](https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html)
 - [SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips](https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html)
 - [Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition](https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html)
 - [Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites](https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html)
-- [INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty](https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html)
-- [Passwd: A walkthrough of the Google Workspace Password Manager](https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html)
 
 ### BleepingComputer
 

@@ -1,11 +1,10 @@
 {
-  "last_updated": "2025-12-25 12:32",
+  "last_updated": "2025-12-25 14:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "nissan confirms impact",
     "mass creating fake",
-    "recently disclosed vulnerabilities",
     "recovered 3 million",
     "watchguard firebox devices",
     "twitter whistleblower complaint",
@@ -17,6 +16,7 @@
     "sms phishers pivot",
     "evolving 3 ways",
     "worker scam problem",
+    "weak master passwords",
     "unpaid toll fee",
     "sustaining select efforts",
     "supposed wayward package",
@@ -27,46 +27,57 @@
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 92
-    },
-    {
-      "keyword": "recently disclosed vulnerabilities",
-      "mentions": 20
+      "mentions": 93
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 96
+      "mentions": 97
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 82
+      "mentions": 83
     },
     {
       "keyword": "real life identity",
-      "mentions": 61
+      "mentions": 62
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 82
+      "mentions": 83
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 64
+      "mentions": 65
+    },
+    {
+      "keyword": "additional brickstorm samples",
+      "mentions": 72
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
+      "link": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html",
+      "summary": "The encrypted vault backups stolen from the 2022 LastPass data breach have enabled bad actors to take advantage of weak master passwords to crack them open and drain cryptocurrency assets as recently as late 2025, according to new findings from TRM Labs. The blockchain intelligence firm said evidence points to the involvement of Russian cybercriminal actors in the activity, with one of the",
+      "published": "Thu, 25 Dec 2025 18:16:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
@@ -137,15 +148,6 @@
       "link": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html",
       "summary": "Apple has been fined €98.6 million ($116 million) by Italy's antitrust authority after finding that the company's App Tracking Transparency (ATT) privacy framework restricted App Store competition. The Italian Competition Authority (Autorità Garante della Concorrenza e del Mercato, or AGCM) said the company's \"absolute dominant position\" in app distribution allowed it to \"unilaterally impose\"",
       "published": "Wed, 24 Dec 2025 11:45:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
-      "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
-      "summary": "Cybersecurity researchers have discovered two malicious Google Chrome extensions with the same name and published by the same developer that come with capabilities to intercept traffic and capture user credentials. The extensions are advertised as a \"multi-location network speed test plug-in\" for developers and foreign trade personnel. Both the browser add-ons are available for download as of",
-      "published": "Tue, 23 Dec 2025 20:12:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

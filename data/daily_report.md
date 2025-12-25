@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-24 22:16 UTC  
+> **Last Updated:** 2025-12-25 01:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **mass creating fake** • **dominant market position** • **recently disclosed vulnerabilities** • **watchguard firebox devices** • **twitter whistleblower complaint** • **retailers like bestbuy** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **sms phishers pivot** • **worker scam problem** • **unpaid toll fee** • **sustaining select efforts** • **supposed wayward package** • **senegal ghana benin** • **seamless workspace integration** • **scattered lapsus hunters** • **restrict free speech**
+**nissan confirms impact** • **mass creating fake** • **recently disclosed vulnerabilities** • **watchguard firebox devices** • **twitter whistleblower complaint** • **retailers like bestbuy** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **sms phishers pivot** • **worker scam problem** • **unpaid toll fee** • **sustaining select efforts** • **supposed wayward package** • **spread powershell malware** • **senegal ghana benin** • **seamless workspace integration** • **scattered lapsus hunters** • **restrict free speech**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [OpenAI is reportedly testing Claude-like Skills for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/)
+- [Fake MAS Windows activation domain used to spread PowerShell malware](https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/)
+- [Microsoft Teams to let admins block external users via Defender portal](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/)
 - [MongoDB warns admins to patch severe RCE flaw immediately](https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/)
 - [FBI seizes domain storing bank credentials stolen from U.S. victims](https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/)
 - [Microsoft rolls out hardware-accelerated BitLocker in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/)
 - [WebRAT malware spread via fake vulnerability exploits on GitHub](https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/)
 - [Malicious extensions in Chrome Web store steal user credentials](https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/)
-- [Microsoft Teams strengthens messaging security by default in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/)
-- [Cyberattack knocks offline France's postal, banking services](https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/)
-- [Italy fines Apple $116 million over App Store privacy policy issues](https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/)
 
 ### Krebs on Security
 

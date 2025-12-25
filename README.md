@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-24 22:16 UTC |
+| 🕐 Last Updated | 2025-12-25 01:16 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
-| 📈 Total Updates | 89 |
+| 📈 Total Updates | 90 |
 
 ## 🔥 Trending Topics
 
-`nissan confirms impact` • `mass creating fake` • `dominant market position` • `recently disclosed vulnerabilities` • `watchguard firebox devices` • `twitter whistleblower complaint` • `retailers like bestbuy` • `real life identity` • `prolific cybercriminal group` • `hacker group earlier`
+`nissan confirms impact` • `mass creating fake` • `recently disclosed vulnerabilities` • `watchguard firebox devices` • `twitter whistleblower complaint` • `retailers like bestbuy` • `real life identity` • `prolific cybercriminal group` • `hacker group earlier` • `additional brickstorm samples`
 
 ## 📄 Reports
 

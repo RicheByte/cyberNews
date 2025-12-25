@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-25 10:18",
+  "last_updated": "2025-12-25 12:32",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 91
+      "mentions": 92
     },
     {
       "keyword": "recently disclosed vulnerabilities",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 95
+      "mentions": 96
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 81
+      "mentions": 82
     },
     {
       "keyword": "real life identity",
-      "mentions": 60
+      "mentions": 61
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 81
+      "mentions": 82
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 63
+      "mentions": 64
     }
   ],
   "articles": [
@@ -180,7 +180,7 @@
       "source": "BleepingComputer",
       "title": "MongoDB warns admins to patch severe RCE flaw immediately",
       "link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
-      "summary": "MongoDB has warned IT admins to immediately patch a high-severity vulnerability that can be exploited in remote code execution (RCE) attacks targeting vulnerable servers. [...]",
+      "summary": "MongoDB has warned IT admins to immediately patch a high-severity vulnerability that may be exploited in remote code execution (RCE) attacks targeting vulnerable servers. [...]",
       "published": "Wed, 24 Dec 2025 09:18:36 -0500",
       "value_score": 72,
       "value_signals": [

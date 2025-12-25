@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-25 14:15",
+  "last_updated": "2025-12-25 16:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,12 +8,13 @@
     "recovered 3 million",
     "watchguard firebox devices",
     "twitter whistleblower complaint",
-    "retailers like bestbuy",
     "real life identity",
     "prolific cybercriminal group",
     "hacker group earlier",
     "additional brickstorm samples",
     "sms phishers pivot",
+    "malicious intent begins",
+    "malicious cyber actors",
     "evolving 3 ways",
     "worker scam problem",
     "weak master passwords",
@@ -21,52 +22,62 @@
     "sustaining select efforts",
     "supposed wayward package",
     "spread powershell malware",
-    "senegal ghana benin",
-    "scattered lapsus hunters"
+    "senegal ghana benin"
   ],
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 93
+      "mentions": 94
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 97
-    },
-    {
-      "keyword": "retailers like bestbuy",
-      "mentions": 83
+      "mentions": 98
     },
     {
       "keyword": "real life identity",
-      "mentions": 62
+      "mentions": 63
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 65
+      "mentions": 66
     },
     {
       "keyword": "additional brickstorm samples",
-      "mentions": 72
+      "mentions": 73
+    },
+    {
+      "keyword": "sms phishers pivot",
+      "mentions": 35
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories",
+      "link": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
+      "summary": "It’s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in — they’re blending in, hijacking everyday tools, trusted apps, and even AI assistants. What used to feel like clear-cut “hacker stories” now looks more like a mirror of the systems we all use. This week’s findings show a pattern: precision, patience, and persuasion. The",
+      "published": "Thu, 25 Dec 2025 19:31:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
@@ -143,11 +154,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition",
-      "link": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html",
-      "summary": "Apple has been fined €98.6 million ($116 million) by Italy's antitrust authority after finding that the company's App Tracking Transparency (ATT) privacy framework restricted App Store competition. The Italian Competition Authority (Autorità Garante della Concorrenza e del Mercato, or AGCM) said the company's \"absolute dominant position\" in app distribution allowed it to \"unilaterally impose\"",
-      "published": "Wed, 24 Dec 2025 11:45:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Google will finally allow you to change your @gmail.com address",
+      "link": "https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/",
+      "summary": "Google will finally allow you to change your @gmail address or create a new alias, according to a new support document. [...]",
+      "published": "Thu, 25 Dec 2025 09:30:58 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -219,15 +230,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Malicious extensions in Chrome Web store steal user credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/",
-      "summary": "Two Chrome extensions in the Web Store named 'Phantom Shuttle' are posing as plugins for a proxy service to hijack user traffic and steal sensitive data. [...]",
-      "published": "Tue, 23 Dec 2025 08:31:55 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

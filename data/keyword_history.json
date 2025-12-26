@@ -20,7 +20,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -42,7 +42,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -61,7 +61,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -85,7 +85,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -123,7 +123,7 @@
       ]
     },
     "real life identity": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -197,7 +197,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -479,7 +479,7 @@
       ]
     },
     "hacker group earlier": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -581,7 +581,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -735,7 +735,7 @@
       ]
     },
     "sms phishers pivot": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2025-12-22",
         "2025-12-23",
@@ -745,7 +745,7 @@
       ]
     },
     "watchguard firebox devices": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2025-12-22",
         "2025-12-23",
@@ -796,7 +796,7 @@
       ]
     },
     "nissan confirms impact": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -827,7 +827,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-23",
         "2025-12-26"
@@ -841,7 +841,7 @@
       ]
     },
     "recovered 3 million": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -870,7 +870,7 @@
       ]
     },
     "worker scam problem": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-24",
         "2025-12-25",
@@ -917,7 +917,7 @@
       ]
     },
     "spread powershell malware": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-25",
         "2025-12-26"
@@ -966,51 +966,40 @@
       ]
     },
     "evolving 3 ways": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-25",
         "2025-12-26"
       ]
     },
     "weak master passwords": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-25",
         "2025-12-26"
       ]
     },
     "malicious intent begins": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-25",
         "2025-12-26"
       ]
     },
     "s finally done": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2025-12-26"
       ]
     },
     "tweak gpt's layout": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2025-12-26"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-17 22:15",
-      "articles": 56,
-      "top_keywords": [
-        "access management iam",
-        "five cybersecurity predictions",
-        "mass creating fake",
-        "50 000 downloads",
-        "prolific cybercriminal group"
-      ]
-    },
     {
       "timestamp": "2025-12-18 01:13",
       "articles": 56,
@@ -2091,6 +2080,17 @@
     },
     {
       "timestamp": "2025-12-26 04:31",
+      "articles": 56,
+      "top_keywords": [
+        "nissan confirms impact",
+        "mass creating fake",
+        "recovered 3 million",
+        "watchguard firebox devices",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2025-12-26 06:26",
       "articles": 56,
       "top_keywords": [
         "nissan confirms impact",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-26 08:22",
+  "last_updated": "2025-12-26 10:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,60 +13,72 @@
     "prolific cybercriminal group",
     "hacker group earlier",
     "exploits surrounding ics",
+    "compromised bank accounts",
     "additional brickstorm samples",
     "sms phishers pivot",
     "malicious intent begins",
     "malicious cyber actors",
     "evolving 3 ways",
-    "spread powershell malware",
-    "worker scam problem",
-    "weak master passwords",
-    "unpaid toll fee",
-    "tweak gpt's layout"
+    "update provides information",
+    "cyber security released",
+    "critical security flaw",
+    "spread powershell malware"
   ],
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 35
+      "mentions": 36
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 102
+      "mentions": 103
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 106
+      "mentions": 107
     },
     {
       "keyword": "s finally done",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "real life identity",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 92
+      "mentions": 93
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 74
+      "mentions": 75
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
+      "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
+      "summary": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt injection. LangChain Core (i.e., langchain-core) is a core Python package that's part of the LangChain ecosystem, providing the core interfaces and model-agnostic abstractions for building",
+      "published": "Fri, 26 Dec 2025 14:57:00 +0530",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories",
@@ -145,13 +157,16 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips",
-      "link": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html",
-      "summary": "The U.S. Securities and Exchange Commission (SEC) has filed charges against multiple companies for their alleged involvement in an elaborate cryptocurrency scam that swindled more than $14 million from retail investors. The complaint charged crypto asset trading platforms Morocoin Tech Corp., Berge Blockchain Technology Co., Ltd., and Cirkor Inc., as well as investment clubs AI Wealth Inc., Lane",
-      "published": "Wed, 24 Dec 2025 14:49:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Trust Wallet Chrome extension hack tied to millions in losses",
+      "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-chrome-extension-hack-tied-to-millions-in-losses/",
+      "summary": "Several users of the Trust Wallet Chrome extension report having their cryptocurrency wallets drained after installing a compromised extension update released on December 24, prompting an urgent response from the company and warnings to affected users. Simultaneously, BleepingComputer observed a phishing domain launched by hackers. [...]",
+      "published": "Fri, 26 Dec 2025 04:47:08 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "Phishing"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -217,15 +232,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/",
       "summary": "The U.S. government has seized the 'web3adspanels.org' domain and the associated database used by cybercriminals to host bank login credentials stolen in account takeover attacks. [...]",
       "published": "Wed, 24 Dec 2025 08:17:32 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft rolls out hardware-accelerated BitLocker in Windows 11",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/",
-      "summary": "Microsoft is rolling out hardware-accelerated BitLocker in Windows 11 to address growing performance and security concerns by leveraging the capabilities of system-on-a-chip and CPU. [...]",
-      "published": "Tue, 23 Dec 2025 15:03:34 -0500",
       "value_score": 10,
       "value_signals": []
     },

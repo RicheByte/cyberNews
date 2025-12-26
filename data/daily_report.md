@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-25 22:15 UTC  
+> **Last Updated:** 2025-12-26 01:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **mass creating fake** • **recovered 3 million** • **watchguard firebox devices** • **twitter whistleblower complaint** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **additional brickstorm samples** • **sms phishers pivot** • **malicious intent begins** • **malicious cyber actors** • **evolving 3 ways** • **worker scam problem** • **weak master passwords** • **unpaid toll fee** • **sustaining select efforts** • **supposed wayward package** • **spread powershell malware** • **senegal ghana benin**
+**nissan confirms impact** • **mass creating fake** • **recovered 3 million** • **watchguard firebox devices** • **twitter whistleblower complaint** • **s finally done** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **exploits surrounding ics** • **additional brickstorm samples** • **sms phishers pivot** • **malicious intent begins** • **malicious cyber actors** • **evolving 3 ways** • **spread powershell malware** • **worker scam problem** • **weak master passwords** • **unpaid toll fee** • **tweak gpt's layout**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [ChatGPT’s new formatting blocks make its UI look more like a task tool](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/)
 - [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/)
 - [OpenAI is reportedly testing Claude-like Skills for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/)
 - [Fake MAS Windows activation domain used to spread PowerShell malware](https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/)
@@ -34,7 +35,6 @@
 - [MongoDB warns admins to patch severe RCE flaw immediately](https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/)
 - [FBI seizes domain storing bank credentials stolen from U.S. victims](https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/)
 - [Microsoft rolls out hardware-accelerated BitLocker in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/)
-- [WebRAT malware spread via fake vulnerability exploits on GitHub](https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/)
 
 ### Krebs on Security
 

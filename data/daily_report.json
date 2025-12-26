@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-26 12:32",
+  "last_updated": "2025-12-26 14:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -21,49 +21,49 @@
     "evolving 3 ways",
     "update provides information",
     "spread powershell malware",
-    "cyber security released",
-    "critical security flaw"
+    "worker scam problem",
+    "weak master passwords"
   ],
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 104
+      "mentions": 105
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 108
+      "mentions": 109
     },
     {
       "keyword": "s finally done",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "real life identity",
-      "mentions": 73
+      "mentions": 74
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 94
+      "mentions": 95
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 76
+      "mentions": 77
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
@@ -317,6 +317,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026",
+      "link": "https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026",
+      "summary": "Developers are leaning more heavily on AI for code generation, but in 2026, the development pipeline and security need to be prioritized.",
+      "published": "Fri, 26 Dec 2025 13:04:07 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Dark Reading Opens The State of Application Security Survey",
       "link": "https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey",
       "summary": "Take part in the new survey from Dark Reading and help uncover trends, challenges, and solutions shaping the future of application security.",
@@ -381,15 +390,6 @@
       "link": "https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers",
       "summary": "Telegram users in Uzbekistan are being targeted with Android SMS-stealer malware, and what's worse, the attackers are improving their methods.",
       "published": "Mon, 22 Dec 2025 17:07:10 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cisco VPNs, Email Services Hit in Separate Threat Campaigns",
-      "link": "https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns",
-      "summary": "The company suffered one sophisticated five-alarm campaign and one messy spray-and-pray attack, mere days apart.",
-      "published": "Fri, 19 Dec 2025 20:05:38 GMT",
       "value_score": 10,
       "value_signals": []
     },

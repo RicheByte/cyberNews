@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-26 10:17 UTC  
+> **Last Updated:** 2025-12-26 12:32 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **mass creating fake** • **recovered 3 million** • **watchguard firebox devices** • **twitter whistleblower complaint** • **s finally done** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **exploits surrounding ics** • **compromised bank accounts** • **additional brickstorm samples** • **sms phishers pivot** • **malicious intent begins** • **malicious cyber actors** • **evolving 3 ways** • **update provides information** • **cyber security released** • **critical security flaw** • **spread powershell malware**
+**nissan confirms impact** • **mass creating fake** • **recovered 3 million** • **watchguard firebox devices** • **twitter whistleblower complaint** • **s finally done** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **exploits surrounding ics** • **compromised bank accounts** • **additional brickstorm samples** • **sms phishers pivot** • **malicious intent begins** • **malicious cyber actors** • **evolving 3 ways** • **update provides information** • **spread powershell malware** • **cyber security released** • **critical security flaw**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Dark Reading Opens The State of Application Security Survey](https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey)
 - [Industry Continues to Push Back on HIPAA Security Rule Overhaul](https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul)
 - [ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'](https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower)
 - [Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers](https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers)
@@ -56,7 +57,6 @@
 - [Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices](https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox)
 - [Uzbek Users Under Attack by Android SMS-Stealers](https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers)
 - [Cisco VPNs, Email Services Hit in Separate Threat Campaigns](https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns)
-- [LongNosedGoblin Caught Snooping on Asian Governments](https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments)
 
 ### Security Week
 

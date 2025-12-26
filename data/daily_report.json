@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-26 20:16",
+  "last_updated": "2025-12-26 22:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 108
+      "mentions": 109
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 112
+      "mentions": 113
     },
     {
       "keyword": "t rkiye china",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "s finally done",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "real life identity",
-      "mentions": 77
+      "mentions": 78
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 98
+      "mentions": 99
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 80
+      "mentions": 81
     }
   ],
   "articles": [
@@ -163,6 +163,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Fake GrubHub emails promise tenfold return on sent cryptocurrency",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/",
+      "summary": "Grubhub users received fraudulent messages, apparently from a company email address, promising a tenfold bitcoin payout in return for a transfer to a specified wallet. [...]",
+      "published": "Fri, 26 Dec 2025 15:22:28 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Trust Wallet confirms extension hack led to $7 million crypto theft",
       "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/",
       "summary": "Several users of the Trust Wallet Chrome extension report having their cryptocurrency wallets drained after installing a compromised extension update released on December 24, prompting an urgent response from the company and warnings to affected users. Simultaneously, BleepingComputer observed a phishing domain launched by hackers. [...]",
@@ -229,15 +238,6 @@
         "Patch/update ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI seizes domain storing bank credentials stolen from U.S. victims",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/",
-      "summary": "The U.S. government has seized the 'web3adspanels.org' domain and the associated database used by cybercriminals to host bank login credentials stolen in account takeover attacks. [...]",
-      "published": "Wed, 24 Dec 2025 08:17:32 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

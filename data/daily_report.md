@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-26 14:16 UTC  
+> **Last Updated:** 2025-12-26 16:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **mass creating fake** • **recovered 3 million** • **watchguard firebox devices** • **twitter whistleblower complaint** • **s finally done** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **exploits surrounding ics** • **compromised bank accounts** • **additional brickstorm samples** • **sms phishers pivot** • **malicious intent begins** • **malicious cyber actors** • **evolving 3 ways** • **update provides information** • **spread powershell malware** • **worker scam problem** • **weak master passwords**
+**nissan confirms impact** • **recovered 3 million** • **mass creating fake** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **s finally done** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **exploits surrounding ics** • **compromised bank accounts** • **approximately 7 million** • **additional brickstorm samples** • **malicious intent begins** • **malicious cyber actors** • **update provides information** • **worker scam problem** • **webster bank shares** • **weak master passwords**
 
 ---
 
@@ -16,24 +16,24 @@
 
 ### The Hacker News
 
+- [Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html)
+- [China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware](https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html)
 - [Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html)
 - [ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html)
 - [LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds](https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html)
 - [Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability](https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html)
 - [CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html)
 - [New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper](https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html)
-- [Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media](https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html)
-- [Attacks are Evolving: 3 Ways to Protect Your Business in 2026](https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html)
 
 ### BleepingComputer
 
-- [Trust Wallet Chrome extension hack tied to millions in losses](https://www.bleepingcomputer.com/news/security/trust-wallet-chrome-extension-hack-tied-to-millions-in-losses/)
+- [Trust Wallet confirms extension hack led to $7 million crypto theft](https://www.bleepingcomputer.com/news/security/trust-wallet-chrome-extension-hack-tied-to-millions-in-losses/)
 - [ChatGPT’s new formatting blocks make its UI look more like a task tool](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/)
 - [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/)
 - [OpenAI is reportedly testing Claude-like Skills for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/)
 - [Fake MAS Windows activation domain used to spread PowerShell malware](https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/)
 - [Microsoft Teams to let admins block external users via Defender portal](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/)
-- [MongoDB warns admins to patch severe RCE flaw immediately](https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/)
+- [MongoDB warns admins to patch severe vulnerability immediately](https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/)
 - [FBI seizes domain storing bank credentials stolen from U.S. victims](https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/)
 
 ### Krebs on Security
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Mentorship and Diversity: Shaping the Next Generation of Cyber Experts](https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts)
 - [As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026](https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026)
 - [Dark Reading Opens The State of Application Security Survey](https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey)
 - [Industry Continues to Push Back on HIPAA Security Rule Overhaul](https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul)
@@ -56,7 +57,6 @@
 - [Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers](https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers)
 - [Sprawling 'Operation Sentinel' Neutralizes African Cybercrime Syndicates](https://www.darkreading.com/threat-intelligence/operation-sentinel-african-cybercrime-syndicates)
 - [Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices](https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox)
-- [Uzbek Users Under Attack by Android SMS-Stealers](https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers)
 
 ### Security Week
 

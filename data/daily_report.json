@@ -1,72 +1,95 @@
 {
-  "last_updated": "2025-12-26 14:16",
+  "last_updated": "2025-12-26 16:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "nissan confirms impact",
-    "mass creating fake",
     "recovered 3 million",
+    "mass creating fake",
     "watchguard firebox devices",
     "twitter whistleblower complaint",
+    "t rkiye china",
     "s finally done",
     "real life identity",
     "prolific cybercriminal group",
     "hacker group earlier",
     "exploits surrounding ics",
     "compromised bank accounts",
+    "approximately 7 million",
     "additional brickstorm samples",
-    "sms phishers pivot",
     "malicious intent begins",
     "malicious cyber actors",
-    "evolving 3 ways",
     "update provides information",
-    "spread powershell malware",
     "worker scam problem",
+    "webster bank shares",
     "weak master passwords"
   ],
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 38
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 105
+      "mentions": 39
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 21
+      "mentions": 22
+    },
+    {
+      "keyword": "mass creating fake",
+      "mentions": 106
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 45
+      "mentions": 46
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 109
+      "mentions": 110
+    },
+    {
+      "keyword": "t rkiye china",
+      "mentions": 1
     },
     {
       "keyword": "s finally done",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "real life identity",
-      "mentions": 74
+      "mentions": 75
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 95
+      "mentions": 96
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 77
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 9
+      "mentions": 78
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
+      "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
+      "summary": "Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million. The issue, the multi‑chain, non‑custodial cryptocurrency wallet service said, impacts version 2.68. The extension has about one million users, according to the Chrome Web Store listing. Users are advised to",
+      "published": "Fri, 26 Dec 2025 21:01:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Patch/update",
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
+      "link": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
+      "summary": "A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its signature MgBot backdoor in attacks targeting victims in Türkiye, China, and India. The activity, Kaspersky said, was observed between November 2022 and November 2024. It has been linked to a",
+      "published": "Fri, 26 Dec 2025 20:14:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
@@ -139,26 +162,8 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media",
-      "link": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
-      "summary": "The fraudulent investment scheme known as Nomani has witnessed an increase by 62%, according to data from ESET, as campaigns distributing the threat have also expanded beyond Facebook to include other social media platforms, such as YouTube. The Slovak cybersecurity company said it blocked over 64,000 unique URLs associated with the threat this year. A majority of the detections originated from",
-      "published": "Wed, 24 Dec 2025 18:38:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attacks are Evolving: 3 Ways to Protect Your Business in 2026",
-      "link": "https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html",
-      "summary": "Every year, cybercriminals find new ways to steal money and data from businesses. Breaching a business network, extracting sensitive data, and selling it on the dark web has become a reliable payday. But in 2025, the data breaches that affected small and medium-sized businesses (SMBs) challenged our perceived wisdom about exactly which types of businesses cybercriminals are targeting.",
-      "published": "Wed, 24 Dec 2025 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
       "source": "BleepingComputer",
-      "title": "Trust Wallet Chrome extension hack tied to millions in losses",
+      "title": "Trust Wallet confirms extension hack led to $7 million crypto theft",
       "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-chrome-extension-hack-tied-to-millions-in-losses/",
       "summary": "Several users of the Trust Wallet Chrome extension report having their cryptocurrency wallets drained after installing a compromised extension update released on December 24, prompting an urgent response from the company and warnings to affected users. Simultaneously, BleepingComputer observed a phishing domain launched by hackers. [...]",
       "published": "Fri, 26 Dec 2025 04:47:08 -0500",
@@ -215,13 +220,12 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "MongoDB warns admins to patch severe RCE flaw immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
-      "summary": "MongoDB has warned IT admins to immediately patch a high-severity vulnerability that may be exploited in remote code execution (RCE) attacks targeting vulnerable servers. [...]",
+      "title": "MongoDB warns admins to patch severe vulnerability immediately",
+      "link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/",
+      "summary": "MongoDB has warned IT admins to immediately patch a high-severity memory-read vulnerability that may be exploited by unauthenticated attackers remotely. [...]",
       "published": "Wed, 24 Dec 2025 09:18:36 -0500",
-      "value_score": 72,
+      "value_score": 32,
       "value_signals": [
-        "RCE ×3",
         "Patch/update ×2",
         "Exploit wording"
       ]
@@ -317,6 +321,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Mentorship and Diversity: Shaping the Next Generation of Cyber Experts",
+      "link": "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts",
+      "summary": "Patricia Voight, CISO at Webster Bank, shares her expertise on advancing cybersecurity careers, combating financial crimes, and championing diversity in a rapidly changing industry.",
+      "published": "Fri, 26 Dec 2025 15:15:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026",
       "link": "https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026",
       "summary": "Developers are leaning more heavily on AI for code generation, but in 2026, the development pipeline and security need to be prioritized.",
@@ -383,15 +396,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Uzbek Users Under Attack by Android SMS-Stealers",
-      "link": "https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers",
-      "summary": "Telegram users in Uzbekistan are being targeted with Android SMS-stealer malware, and what's worse, the attackers are improving their methods.",
-      "published": "Mon, 22 Dec 2025 17:07:10 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

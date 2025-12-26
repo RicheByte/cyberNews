@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-26 14:16 UTC |
+| 🕐 Last Updated | 2025-12-26 16:19 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`nissan confirms impact` • `mass creating fake` • `recovered 3 million` • `watchguard firebox devices` • `twitter whistleblower complaint` • `s finally done` • `real life identity` • `prolific cybercriminal group` • `hacker group earlier` • `exploits surrounding ics`
+`nissan confirms impact` • `recovered 3 million` • `mass creating fake` • `watchguard firebox devices` • `twitter whistleblower complaint` • `t rkiye china` • `s finally done` • `real life identity` • `prolific cybercriminal group` • `hacker group earlier`
 
 ## 📄 Reports
 

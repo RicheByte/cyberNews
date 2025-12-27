@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-27 08:20",
+  "last_updated": "2025-12-27 10:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 114
+      "mentions": 115
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 54
+      "mentions": 55
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 118
+      "mentions": 119
     },
     {
       "keyword": "t rkiye china",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "s finally done",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "real life identity",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 104
+      "mentions": 105
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 86
+      "mentions": 87
     }
   ],
   "articles": [
@@ -165,7 +165,16 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Fake GrubHub emails promise tenfold return on sent cryptocurrency",
+      "title": "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/",
+      "summary": "OpenAI is reportedly mulling a new form of ads on ChatGPT called \"sponsored content,\" which could influence your buying decisions. [...]",
+      "published": "Sat, 27 Dec 2025 04:46:54 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Fake Grubhub emails promise tenfold return on sent cryptocurrency",
       "link": "https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/",
       "summary": "Grubhub users received fraudulent messages, apparently from a company email address, promising a tenfold bitcoin payout in return for a transfer to a specified wallet. [...]",
       "published": "Fri, 26 Dec 2025 15:22:28 -0500",
@@ -228,18 +237,6 @@
       "published": "Wed, 24 Dec 2025 11:22:44 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "MongoDB warns admins to patch severe vulnerability immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/",
-      "summary": "MongoDB has warned IT admins to immediately patch a high-severity memory-read vulnerability that may be exploited by unauthenticated attackers remotely. [...]",
-      "published": "Wed, 24 Dec 2025 09:18:36 -0500",
-      "value_score": 32,
-      "value_signals": [
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

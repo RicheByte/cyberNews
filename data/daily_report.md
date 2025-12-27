@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-27 06:24 UTC  
+> **Last Updated:** 2025-12-27 08:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **recovered 3 million** • **mass creating fake** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **s finally done** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **exploits surrounding ics** • **compromised bank accounts** • **approximately 7 million** • **additional brickstorm samples** • **malicious intent begins** • **malicious cyber actors** • **update provides information** • **worker scam problem** • **webster bank shares** • **weak master passwords**
+**nissan confirms impact** • **recovered 3 million** • **mass creating fake** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **s finally done** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **exploits surrounding ics** • **critical security flaw** • **compromised bank accounts** • **approximately 7 million** • **additional brickstorm samples** • **malicious intent begins** • **malicious cyber actors** • **update provides information** • **worker scam problem** • **webster bank shares**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html)
 - [Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html)
 - [China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware](https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html)
 - [Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html)
@@ -23,7 +24,6 @@
 - [LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds](https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html)
 - [Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability](https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html)
 - [CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html)
-- [New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper](https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html)
 
 ### BleepingComputer
 

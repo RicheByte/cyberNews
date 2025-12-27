@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-27 06:24",
+  "last_updated": "2025-12-27 08:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -14,6 +14,7 @@
     "prolific cybercriminal group",
     "hacker group earlier",
     "exploits surrounding ics",
+    "critical security flaw",
     "compromised bank accounts",
     "approximately 7 million",
     "additional brickstorm samples",
@@ -21,52 +22,62 @@
     "malicious cyber actors",
     "update provides information",
     "worker scam problem",
-    "webster bank shares",
-    "weak master passwords"
+    "webster bank shares"
   ],
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 113
+      "mentions": 114
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 117
+      "mentions": 118
     },
     {
       "keyword": "t rkiye china",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "s finally done",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "real life identity",
-      "mentions": 82
+      "mentions": 83
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 103
+      "mentions": 104
     },
     {
       "keyword": "hacker group earlier",
-      "mentions": 85
+      "mentions": 86
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
+      "link": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html",
+      "summary": "A high-severity security flaw has been disclosed in MongoDB that could allow unauthenticated users to read uninitialized heap memory. The vulnerability, tracked as CVE-2025-14847 (CVSS score: 8.7), has been described as a case of improper handling of length parameter inconsistency, which arises when a program fails to appropriately tackle scenarios where a length field is inconsistent with the",
+      "published": "Sat, 27 Dec 2025 13:22:00 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "CVE mentioned"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
@@ -151,15 +162,6 @@
         "CISA/KEV ×4",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
-      "link": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
-      "summary": "Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that's delivered by means of a digitally signed, notarized Swift application masquerading as a messaging app installer to bypass Apple's Gatekeeper checks. \"Unlike earlier MacSync Stealer variants that primarily rely on drag-to-terminal or ClickFix-style techniques, this sample adopts a more",
-      "published": "Wed, 24 Dec 2025 21:53:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

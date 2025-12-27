@@ -21,7 +21,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -44,7 +44,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -64,7 +64,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 102,
+      "count": 103,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -89,7 +89,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -128,7 +128,7 @@
       ]
     },
     "real life identity": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -485,7 +485,7 @@
       ]
     },
     "hacker group earlier": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -589,7 +589,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -754,7 +754,7 @@
       ]
     },
     "watchguard firebox devices": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2025-12-22",
         "2025-12-23",
@@ -806,7 +806,7 @@
       ]
     },
     "nissan confirms impact": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -838,7 +838,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -853,7 +853,7 @@
       ]
     },
     "recovered 3 million": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -883,7 +883,7 @@
       ]
     },
     "worker scam problem": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2025-12-24",
         "2025-12-25",
@@ -912,7 +912,7 @@
       ]
     },
     "compromised bank accounts": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-24",
         "2025-12-26",
@@ -989,14 +989,6 @@
       ]
     },
     "weak master passwords": {
-      "count": 18,
-      "dates": [
-        "2025-12-25",
-        "2025-12-26",
-        "2025-12-27"
-      ]
-    },
-    "malicious intent begins": {
       "count": 19,
       "dates": [
         "2025-12-25",
@@ -1004,8 +996,16 @@
         "2025-12-27"
       ]
     },
+    "malicious intent begins": {
+      "count": 20,
+      "dates": [
+        "2025-12-25",
+        "2025-12-26",
+        "2025-12-27"
+      ]
+    },
     "s finally done": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-26",
         "2025-12-27"
@@ -1018,7 +1018,7 @@
       ]
     },
     "update provides information": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-26",
         "2025-12-27"
@@ -1031,21 +1031,21 @@
       ]
     },
     "t rkiye china": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-26",
         "2025-12-27"
       ]
     },
     "approximately 7 million": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-26",
         "2025-12-27"
       ]
     },
     "webster bank shares": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-26",
         "2025-12-27"
@@ -1053,17 +1053,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-18 22:15",
-      "articles": 56,
-      "top_keywords": [
-        "113 000 impacted",
-        "execute arbitrary code",
-        "international passenger ferry",
-        "infrastructure management software",
-        "mass creating fake"
-      ]
-    },
     {
       "timestamp": "2025-12-19 01:16",
       "articles": 48,
@@ -2144,6 +2133,17 @@
     },
     {
       "timestamp": "2025-12-27 04:29",
+      "articles": 56,
+      "top_keywords": [
+        "nissan confirms impact",
+        "recovered 3 million",
+        "mass creating fake",
+        "watchguard firebox devices",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2025-12-27 06:24",
       "articles": 56,
       "top_keywords": [
         "nissan confirms impact",

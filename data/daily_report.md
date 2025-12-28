@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-28 04:40 UTC  
+> **Last Updated:** 2025-12-28 06:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **recovered 3 million** • **mass creating fake** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **s finally done** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **exploits surrounding ics** • **critical security flaw** • **compromised bank accounts** • **approximately 7 million** • **additional brickstorm samples** • **malicious intent begins** • **malicious cyber actors** • **update provides information** • **worker scam problem** • **webster bank shares**
+**nissan confirms impact** • **recovered 3 million** • **mass creating fake** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **s finally done** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **exploits surrounding ics** • **approximately 7 million** • **additional brickstorm samples** • **critical security flaw** • **malicious intent begins** • **malicious cyber actors** • **update provides information** • **worker scam problem** • **webster bank shares** • **weak master passwords**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Massive Rainbow Six Siege breach gives players billions of credits](https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/)
 - [OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/)
 - [Fake Grubhub emails promise tenfold return on sent cryptocurrency](https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/)
 - [Trust Wallet confirms extension hack led to $7 million crypto theft](https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/)
@@ -34,7 +35,6 @@
 - [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/)
 - [OpenAI is reportedly testing Claude-like Skills for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/)
 - [Fake MAS Windows activation domain used to spread PowerShell malware](https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/)
-- [Microsoft Teams to let admins block external users via Defender portal](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/)
 
 ### Krebs on Security
 

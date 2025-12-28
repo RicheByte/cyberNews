@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-28 20:17",
+  "last_updated": "2025-12-28 22:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 65
+      "mentions": 66
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 132
+      "mentions": 133
     },
     {
       "keyword": "leak wired database",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "additional brickstorm samples",
-      "mentions": 111
+      "mentions": 112
     },
     {
       "keyword": "approximately 7 million",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 136
+      "mentions": 137
     },
     {
       "keyword": "t rkiye china",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "s finally done",
-      "mentions": 35
+      "mentions": 36
     }
   ],
   "articles": [
@@ -165,6 +165,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
+      "link": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
+      "summary": "A severe vulnerability affecting multiple MongoDB versions, dubbed MongoBleed (CVE-2025-14847), is being actively exploited in the wild, with over 80,000 potentially vulnerable servers exposed on the public web. [...]",
+      "published": "Sun, 28 Dec 2025 15:38:15 -0500",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hacker claims to leak WIRED database with 2.3 million records",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/",
       "summary": "A hacker claims to have breached Condé Nast and leaked an alleged WIRED database containing more than 2.3 million subscriber records, while also warning that they plan to release up to 40 million additional records for other Condé Nast properties. [...]",
@@ -230,15 +243,6 @@
       "link": "https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/",
       "summary": "Google will finally allow you to change your @gmail address or create a new alias, according to a new support document. [...]",
       "published": "Thu, 25 Dec 2025 09:30:58 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI is reportedly testing Claude-like Skills for ChatGPT",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/",
-      "summary": "OpenAI is testing a new ChatGPT feature called \"Skills,\" which will be similar to Claude's feature, also called Skills. [...]",
-      "published": "Wed, 24 Dec 2025 17:31:28 -0500",
       "value_score": 10,
       "value_signals": []
     },

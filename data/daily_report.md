@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-28 16:19 UTC  
+> **Last Updated:** 2025-12-28 18:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **recovered 3 million** • **mass creating fake** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **s finally done** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **exploits surrounding ics** • **approximately 7 million** • **additional brickstorm samples** • **critical security flaw** • **malicious intent begins** • **malicious cyber actors** • **update provides information** • **worker scam problem** • **webster bank shares** • **weak master passwords**
+**nissan confirms impact** • **recovered 3 million** • **mass creating fake** • **leak wired database** • **additional brickstorm samples** • **approximately 7 million** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **s finally done** • **real life identity** • **prolific cybercriminal group** • **exploits surrounding ics** • **critical security flaw** • **update provides information** • **worker scam problem** • **webster bank shares** • **weak master passwords** • **unpaid toll fee** • **unban players manipulate**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hacker claims to leak WIRED database with 2.3 million records](https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/)
 - [Massive Rainbow Six Siege breach gives players billions of credits](https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/)
 - [OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/)
 - [Fake Grubhub emails promise tenfold return on sent cryptocurrency](https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/)
@@ -34,7 +35,6 @@
 - [ChatGPT’s new formatting blocks make its UI look more like a task tool](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/)
 - [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/)
 - [OpenAI is reportedly testing Claude-like Skills for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/)
-- [Fake MAS Windows activation domain used to spread PowerShell malware](https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/)
 
 ### Krebs on Security
 

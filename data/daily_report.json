@@ -1,69 +1,69 @@
 {
-  "last_updated": "2025-12-28 16:19",
+  "last_updated": "2025-12-28 18:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "nissan confirms impact",
     "recovered 3 million",
     "mass creating fake",
+    "leak wired database",
+    "additional brickstorm samples",
+    "approximately 7 million",
     "watchguard firebox devices",
     "twitter whistleblower complaint",
     "t rkiye china",
     "s finally done",
     "real life identity",
     "prolific cybercriminal group",
-    "hacker group earlier",
     "exploits surrounding ics",
-    "approximately 7 million",
-    "additional brickstorm samples",
     "critical security flaw",
-    "malicious intent begins",
-    "malicious cyber actors",
     "update provides information",
     "worker scam problem",
     "webster bank shares",
-    "weak master passwords"
+    "weak master passwords",
+    "unpaid toll fee",
+    "unban players manipulate"
   ],
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 63
+      "mentions": 64
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 130
+      "mentions": 131
+    },
+    {
+      "keyword": "leak wired database",
+      "mentions": 1
+    },
+    {
+      "keyword": "additional brickstorm samples",
+      "mentions": 110
+    },
+    {
+      "keyword": "approximately 7 million",
+      "mentions": 26
     },
     {
       "keyword": "watchguard firebox devices",
-      "mentions": 70
+      "mentions": 71
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 134
+      "mentions": 135
     },
     {
       "keyword": "t rkiye china",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "s finally done",
-      "mentions": 33
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 99
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 120
-    },
-    {
-      "keyword": "hacker group earlier",
-      "mentions": 102
+      "mentions": 34
     }
   ],
   "articles": [
@@ -165,6 +165,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hacker claims to leak WIRED database with 2.3 million records",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/",
+      "summary": "A hacker claims to have breached Condé Nast and leaked an alleged WIRED database containing more than 2.3 million subscriber records, while also warning that they plan to release up to 40 million additional records for other Condé Nast properties. [...]",
+      "published": "Sun, 28 Dec 2025 12:57:34 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Massive Rainbow Six Siege breach gives players billions of credits",
       "link": "https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/",
       "summary": "Ubisoft's Rainbow Six Siege (R6) suffered a breach that allowed hackers to abuse internal systems to ban and unban players, manipulate in-game moderation feeds, and grant massive amounts of in-game currency and cosmetic items to accounts worldwide. [...]",
@@ -228,15 +239,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/",
       "summary": "OpenAI is testing a new ChatGPT feature called \"Skills,\" which will be similar to Claude's feature, also called Skills. [...]",
       "published": "Wed, 24 Dec 2025 17:31:28 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake MAS Windows activation domain used to spread PowerShell malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/",
-      "summary": "A typosquatted domain impersonating the Microsoft Activation Scripts (MAS) tool was used to distribute malicious PowerShell scripts that infect Windows systems with the 'Cosmali Loader'. [...]",
-      "published": "Wed, 24 Dec 2025 12:44:46 -0500",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-29 06:28 UTC  
+> **Last Updated:** 2025-12-29 08:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **recovered 3 million** • **mass creating fake** • **leak wired database** • **additional brickstorm samples** • **approximately 7 million** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **s finally done** • **real life identity** • **prolific cybercriminal group** • **exploits surrounding ics** • **critical security flaw** • **update provides information** • **worker scam problem** • **webster bank shares** • **weak master passwords** • **unpaid toll fee** • **unban players manipulate**
+**nissan confirms impact** • **leak wired database** • **recovered 3 million** • **mass creating fake** • **additional brickstorm samples** • **hijacked system resources** • **s finally done** • **approximately 7 million** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **real life identity** • **prolific cybercriminal group** • **exploits surrounding ics** • **critical security flaw** • **malicious intent begins** • **malicious cyber actors** • **update provides information** • **compromised bank accounts** • **s getting harder**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide](https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html)
+- [Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors](https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html)
 - [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html)
 - [Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html)
 - [China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware](https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html)
 - [Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html)
 - [ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html)
 - [LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds](https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html)
-- [Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability](https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html)
-- [CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html)
 
 ### BleepingComputer
 

@@ -1,72 +1,96 @@
 {
-  "last_updated": "2025-12-29 06:28",
+  "last_updated": "2025-12-29 08:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "nissan confirms impact",
+    "leak wired database",
     "recovered 3 million",
     "mass creating fake",
-    "leak wired database",
     "additional brickstorm samples",
+    "hijacked system resources",
+    "s finally done",
     "approximately 7 million",
     "watchguard firebox devices",
     "twitter whistleblower complaint",
     "t rkiye china",
-    "s finally done",
     "real life identity",
     "prolific cybercriminal group",
     "exploits surrounding ics",
     "critical security flaw",
+    "malicious intent begins",
+    "malicious cyber actors",
     "update provides information",
-    "worker scam problem",
-    "webster bank shares",
-    "weak master passwords",
-    "unpaid toll fee",
-    "unban players manipulate"
+    "compromised bank accounts",
+    "s getting harder"
   ],
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 70
-    },
-    {
-      "keyword": "recovered 3 million",
-      "mentions": 53
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 137
+      "mentions": 71
     },
     {
       "keyword": "leak wired database",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "recovered 3 million",
+      "mentions": 54
+    },
+    {
+      "keyword": "mass creating fake",
+      "mentions": 138
     },
     {
       "keyword": "additional brickstorm samples",
-      "mentions": 116
+      "mentions": 117
     },
     {
-      "keyword": "approximately 7 million",
-      "mentions": 32
-    },
-    {
-      "keyword": "watchguard firebox devices",
-      "mentions": 77
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 141
-    },
-    {
-      "keyword": "t rkiye china",
-      "mentions": 32
+      "keyword": "hijacked system resources",
+      "mentions": 1
     },
     {
       "keyword": "s finally done",
-      "mentions": 40
+      "mentions": 41
+    },
+    {
+      "keyword": "approximately 7 million",
+      "mentions": 33
+    },
+    {
+      "keyword": "watchguard firebox devices",
+      "mentions": 78
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 142
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
+      "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
+      "summary": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world. The vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed. \"A flaw",
+      "published": "Mon, 29 Dec 2025 13:19:00 +0530",
+      "value_score": 97,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "Breach/leak",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
+      "link": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
+      "summary": "In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory. The result: 23.77 million secrets were leaked through AI",
+      "published": "Mon, 29 Dec 2025 12:04:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
@@ -133,34 +157,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
-      "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
-      "summary": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations. The vulnerability in question is CVE-2020-12812 (CVSS score: 5.2), an improper authentication vulnerability in SSL VPN in FortiOS that could allow a user to log in successfully without being prompted for the second factor of authentication if the",
-      "published": "Thu, 25 Dec 2025 13:52:00 +0530",
-      "value_score": 59,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
-      "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2023-52163 (CVSS score: 8.8), relates to a case of command injection that allows post-authentication remote code",
-      "published": "Thu, 25 Dec 2025 13:37:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "RCE",
-        "CISA/KEV ×4",
-        "Exploit wording"
       ]
     },
     {

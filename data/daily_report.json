@@ -1,16 +1,16 @@
 {
-  "last_updated": "2025-12-29 16:20",
+  "last_updated": "2025-12-29 18:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "approximately 7 million",
     "mass creating fake",
     "leak sensitive information",
     "infostealer malware delivered",
     "retailers like bestbuy",
     "hijacked system resources",
-    "hacker claims theft",
-    "approximately 7 million",
     "22 million affected",
+    "hacker claims theft",
     "twitter whistleblower complaint",
     "t rkiye china",
     "sprawling phishing campaign",
@@ -26,44 +26,44 @@
   ],
   "trending": [
     {
+      "keyword": "approximately 7 million",
+      "mentions": 38
+    },
+    {
       "keyword": "mass creating fake",
-      "mentions": 142
+      "mentions": 143
     },
     {
       "keyword": "leak sensitive information",
-      "mentions": 4
-    },
-    {
-      "keyword": "infostealer malware delivered",
-      "mentions": 3
-    },
-    {
-      "keyword": "retailers like bestbuy",
-      "mentions": 84
-    },
-    {
-      "keyword": "hijacked system resources",
       "mentions": 5
     },
     {
-      "keyword": "hacker claims theft",
-      "mentions": 1
+      "keyword": "infostealer malware delivered",
+      "mentions": 4
     },
     {
-      "keyword": "approximately 7 million",
-      "mentions": 37
+      "keyword": "retailers like bestbuy",
+      "mentions": 85
+    },
+    {
+      "keyword": "hijacked system resources",
+      "mentions": 6
     },
     {
       "keyword": "22 million affected",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "hacker claims theft",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 146
+      "mentions": 147
     },
     {
       "keyword": "t rkiye china",
-      "mentions": 37
+      "mentions": 38
     }
   ],
   "articles": [
@@ -160,6 +160,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack",
+      "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/",
+      "summary": "Trust Wallet says attackers who compromised its browser extension right before Christmas have drained approximately $7 million from nearly 3,000 cryptocurrency wallet addresses. [...]",
+      "published": "Mon, 29 Dec 2025 11:43:02 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "The Real-World Attacks Behind OWASP Agentic AI Top 10",
       "link": "https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/",
       "summary": "OWASP's new Agentic AI Top 10 highlights real-world attacks already targeting autonomous AI systems, from goal hijacking to malicious MCP servers. Koi Security breaks down real-world incidents behind multiple categories, including two cases cited by OWASP, showing how agent tools and runtime behavior are being abused. [...]",
@@ -227,19 +236,6 @@
       "value_score": 24,
       "value_signals": [
         "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
-      "link": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
-      "summary": "A severe vulnerability affecting multiple MongoDB versions, dubbed MongoBleed (CVE-2025-14847), is being actively exploited in the wild, with over 80,000 potentially vulnerable servers exposed on the public web. [...]",
-      "published": "Sun, 28 Dec 2025 15:38:15 -0500",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
         "Exploit wording"
       ]
     },

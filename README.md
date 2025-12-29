@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-29 16:20 UTC |
+| 🕐 Last Updated | 2025-12-29 18:24 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mass creating fake` • `leak sensitive information` • `infostealer malware delivered` • `retailers like bestbuy` • `hijacked system resources` • `hacker claims theft` • `approximately 7 million` • `22 million affected` • `twitter whistleblower complaint` • `t rkiye china`
+`approximately 7 million` • `mass creating fake` • `leak sensitive information` • `infostealer malware delivered` • `retailers like bestbuy` • `hijacked system resources` • `22 million affected` • `hacker claims theft` • `twitter whistleblower complaint` • `t rkiye china`
 
 ## 📄 Reports
 

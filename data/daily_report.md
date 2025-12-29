@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-29 16:20 UTC  
+> **Last Updated:** 2025-12-29 18:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **leak sensitive information** • **infostealer malware delivered** • **retailers like bestbuy** • **hijacked system resources** • **hacker claims theft** • **approximately 7 million** • **22 million affected** • **twitter whistleblower complaint** • **t rkiye china** • **sprawling phishing campaign** • **real life identity** • **prolific cybercriminal group** • **primarily targeted sales** • **old flaws resurfaced** • **gpt 5 2** • **exploits surrounding ics** • **additional brickstorm samples** • **critical security flaw** • **wired data leak**
+**approximately 7 million** • **mass creating fake** • **leak sensitive information** • **infostealer malware delivered** • **retailers like bestbuy** • **hijacked system resources** • **22 million affected** • **hacker claims theft** • **twitter whistleblower complaint** • **t rkiye china** • **sprawling phishing campaign** • **real life identity** • **prolific cybercriminal group** • **primarily targeted sales** • **old flaws resurfaced** • **gpt 5 2** • **exploits surrounding ics** • **additional brickstorm samples** • **critical security flaw** • **wired data leak**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack](https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/)
 - [The Real-World Attacks Behind OWASP Agentic AI Top 10](https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/)
 - [ChatGPT finally rolls out Thinking time toggle on mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/)
 - [Romanian energy provider hit by Gentlemen ransomware attack](https://www.bleepingcomputer.com/news/security/romanian-energy-provider-hit-by-gentlemen-ransomware-attack/)
@@ -34,7 +35,6 @@
 - [Korean Air data breach exposes data of thousands of employees](https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/)
 - [Microsoft Copilot is rolling out GPT 5.2 as "Smart Plus" mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/)
 - [Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/)
-- [Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed](https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/)
 
 ### Krebs on Security
 

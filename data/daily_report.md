@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-29 08:25 UTC  
+> **Last Updated:** 2025-12-29 10:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **leak wired database** • **recovered 3 million** • **mass creating fake** • **additional brickstorm samples** • **hijacked system resources** • **s finally done** • **approximately 7 million** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **real life identity** • **prolific cybercriminal group** • **exploits surrounding ics** • **critical security flaw** • **malicious intent begins** • **malicious cyber actors** • **update provides information** • **compromised bank accounts** • **s getting harder**
+**nissan confirms impact** • **leak wired database** • **recovered 3 million** • **mass creating fake** • **additional brickstorm samples** • **hijacked system resources** • **s finally done** • **wired data leak** • **leak sensitive information** • **approximately 7 million** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **exploits surrounding ics** • **critical security flaw** • **malicious intent begins** • **malicious cyber actors**
 
 ---
 
@@ -17,13 +17,13 @@
 ### The Hacker News
 
 - [MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide](https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html)
+- [27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials](https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html)
 - [Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors](https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html)
 - [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html)
 - [Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html)
 - [China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware](https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html)
 - [Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html)
 - [ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html)
-- [LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds](https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Fresh MongoDB Vulnerability Exploited in Attacks](https://www.securityweek.com/fresh-mongodb-vulnerability-exploited-in-attacks/)
+- [Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak](https://www.securityweek.com/hacker-claims-theft-of-40-million-conde-nast-records-after-wired-data-leak/)
 - [Pro-Russian Hackers Claim Cyberattack on French Postal Service](https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/)
 - [ServiceNow to Acquire Armis for $7.75 Billion in Cash](https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/)
 - [Nissan Confirms Impact From Red Hat Data Breach](https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/)
 - [Feds Seize Password Database Used in Massive Bank Account Takeover Scheme](https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/)
 - [NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data](https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/)
 - [Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal](https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/)
-- [574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings](https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/)
-- [3.5 Million Affected by University of Phoenix Data Breach](https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/)
 
 ### Threatpost
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-29 08:25",
+  "last_updated": "2025-12-29 10:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,60 +10,60 @@
     "additional brickstorm samples",
     "hijacked system resources",
     "s finally done",
+    "wired data leak",
+    "leak sensitive information",
     "approximately 7 million",
     "watchguard firebox devices",
     "twitter whistleblower complaint",
     "t rkiye china",
     "real life identity",
     "prolific cybercriminal group",
+    "hacker group earlier",
     "exploits surrounding ics",
     "critical security flaw",
     "malicious intent begins",
-    "malicious cyber actors",
-    "update provides information",
-    "compromised bank accounts",
-    "s getting harder"
+    "malicious cyber actors"
   ],
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "leak wired database",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 54
+      "mentions": 55
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 138
+      "mentions": 139
     },
     {
       "keyword": "additional brickstorm samples",
-      "mentions": 117
+      "mentions": 118
     },
     {
       "keyword": "hijacked system resources",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "s finally done",
-      "mentions": 41
+      "mentions": 42
+    },
+    {
+      "keyword": "wired data leak",
+      "mentions": 1
+    },
+    {
+      "keyword": "leak sensitive information",
+      "mentions": 1
     },
     {
       "keyword": "approximately 7 million",
-      "mentions": 33
-    },
-    {
-      "keyword": "watchguard firebox devices",
-      "mentions": 78
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 142
+      "mentions": 34
     }
   ],
   "articles": [
@@ -72,7 +72,7 @@
       "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
       "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
       "summary": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world. The vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed. \"A flaw",
-      "published": "Mon, 29 Dec 2025 13:19:00 +0530",
+      "published": "Mon, 29 Dec 2025 15:16:00 +0530",
       "value_score": 97,
       "value_signals": [
         "CVE mentioned ×2",
@@ -80,6 +80,18 @@
         "Breach/leak",
         "Multiple CVEs",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials",
+      "link": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
+      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"sustained and targeted\" spear-phishing campaign that has published over two dozen packages to the npm registry to facilitate credential theft. The activity, which involved uploading 27 npm packages from six different npm aliases, has primarily targeted sales and commercial personnel at critical",
+      "published": "Mon, 29 Dec 2025 15:14:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Phishing ×2",
+        "High severity"
       ]
     },
     {
@@ -146,17 +158,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
-      "link": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html",
-      "summary": "The encrypted vault backups stolen from the 2022 LastPass data breach have enabled bad actors to take advantage of weak master passwords to crack them open and drain cryptocurrency assets as recently as late 2025, according to new findings from TRM Labs. The blockchain intelligence firm said evidence points to the involvement of Russian cybercriminal actors in the activity, with one of the",
-      "published": "Thu, 25 Dec 2025 18:16:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -402,6 +403,29 @@
     },
     {
       "source": "Security Week",
+      "title": "Fresh MongoDB Vulnerability Exploited in Attacks",
+      "link": "https://www.securityweek.com/fresh-mongodb-vulnerability-exploited-in-attacks/",
+      "summary": "Dubbed MongoBleed, the high-severity flaw allows unauthenticated, remote attackers to leak sensitive information from MongoDB servers. The post Fresh MongoDB Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
+      "published": "Mon, 29 Dec 2025 09:54:15 +0000",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak",
+      "link": "https://www.securityweek.com/hacker-claims-theft-of-40-million-conde-nast-records-after-wired-data-leak/",
+      "summary": "A hacker named Lovely made public 2.3 million records representing Wired subscriber information. The post Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak appeared first on SecurityWeek .",
+      "published": "Mon, 29 Dec 2025 09:30:11 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Pro-Russian Hackers Claim Cyberattack on French Postal Service",
       "link": "https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/",
       "summary": "Central computer systems at French national postal service La Poste were knocked offline Monday in DDoS attack. The post Pro-Russian Hackers Claim Cyberattack on French Postal Service appeared first on SecurityWeek .",
@@ -459,29 +483,6 @@
       "published": "Tue, 23 Dec 2025 10:11:25 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings",
-      "link": "https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/",
-      "summary": "Authorities in Senegal, Ghana, Benin, and Cameroon dismantled BEC, ransomware, and other cyber-fraud networks. The post 574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings appeared first on SecurityWeek .",
-      "published": "Tue, 23 Dec 2025 09:31:17 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "3.5 Million Affected by University of Phoenix Data Breach",
-      "link": "https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/",
-      "summary": "The University of Phoenix is one of the many victims of the recent Oracle EBS hacking campaign attributed to the Cl0p ransomware group. The post 3.5 Million Affected by University of Phoenix Data Breach appeared first on SecurityWeek .",
-      "published": "Tue, 23 Dec 2025 07:24:43 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware",
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

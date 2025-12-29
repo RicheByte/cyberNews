@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-29 08:25 UTC |
+| 🕐 Last Updated | 2025-12-29 10:19 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`nissan confirms impact` • `leak wired database` • `recovered 3 million` • `mass creating fake` • `additional brickstorm samples` • `hijacked system resources` • `s finally done` • `approximately 7 million` • `watchguard firebox devices` • `twitter whistleblower complaint`
+`nissan confirms impact` • `leak wired database` • `recovered 3 million` • `mass creating fake` • `additional brickstorm samples` • `hijacked system resources` • `s finally done` • `wired data leak` • `leak sensitive information` • `approximately 7 million`
 
 ## 📄 Reports
 

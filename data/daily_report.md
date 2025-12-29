@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-29 18:24 UTC  
+> **Last Updated:** 2025-12-29 20:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**approximately 7 million** • **mass creating fake** • **leak sensitive information** • **infostealer malware delivered** • **retailers like bestbuy** • **hijacked system resources** • **22 million affected** • **hacker claims theft** • **twitter whistleblower complaint** • **t rkiye china** • **sprawling phishing campaign** • **real life identity** • **prolific cybercriminal group** • **primarily targeted sales** • **old flaws resurfaced** • **gpt 5 2** • **exploits surrounding ics** • **additional brickstorm samples** • **critical security flaw** • **wired data leak**
+**approximately 7 million** • **mass creating fake** • **infostealer malware delivered** • **gpt 5 2** • **leak sensitive information** • **22 million affected** • **retailers like bestbuy** • **hijacked system resources** • **hacker claims theft** • **twitter whistleblower complaint** • **t rkiye china** • **real life identity** • **prolific cybercriminal group** • **primarily targeted sales** • **old flaws resurfaced** • **exploits surrounding ics** • **additional brickstorm samples** • **critical security flaw** • **wired data leak** • **sprawling phishing campaign**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hacker arrested for KMSAuto malware campaign with 2.8 million downloads](https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/)
 - [Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack](https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/)
 - [The Real-World Attacks Behind OWASP Agentic AI Top 10](https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/)
 - [ChatGPT finally rolls out Thinking time toggle on mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/)
@@ -34,7 +35,6 @@
 - [Former Coinbase support agent arrested for helping hackers](https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/)
 - [Korean Air data breach exposes data of thousands of employees](https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/)
 - [Microsoft Copilot is rolling out GPT 5.2 as "Smart Plus" mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/)
-- [Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/)
 
 ### Krebs on Security
 

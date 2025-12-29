@@ -1,69 +1,69 @@
 {
-  "last_updated": "2025-12-29 18:24",
+  "last_updated": "2025-12-29 20:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "approximately 7 million",
     "mass creating fake",
-    "leak sensitive information",
     "infostealer malware delivered",
+    "gpt 5 2",
+    "leak sensitive information",
+    "22 million affected",
     "retailers like bestbuy",
     "hijacked system resources",
-    "22 million affected",
     "hacker claims theft",
     "twitter whistleblower complaint",
     "t rkiye china",
-    "sprawling phishing campaign",
     "real life identity",
     "prolific cybercriminal group",
     "primarily targeted sales",
     "old flaws resurfaced",
-    "gpt 5 2",
     "exploits surrounding ics",
     "additional brickstorm samples",
     "critical security flaw",
-    "wired data leak"
+    "wired data leak",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "approximately 7 million",
-      "mentions": 38
+      "mentions": 39
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 143
-    },
-    {
-      "keyword": "leak sensitive information",
-      "mentions": 5
+      "mentions": 144
     },
     {
       "keyword": "infostealer malware delivered",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "retailers like bestbuy",
-      "mentions": 85
+      "keyword": "gpt 5 2",
+      "mentions": 5
     },
     {
-      "keyword": "hijacked system resources",
+      "keyword": "leak sensitive information",
       "mentions": 6
     },
     {
       "keyword": "22 million affected",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "retailers like bestbuy",
+      "mentions": 86
+    },
+    {
+      "keyword": "hijacked system resources",
+      "mentions": 7
     },
     {
       "keyword": "hacker claims theft",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 147
-    },
-    {
-      "keyword": "t rkiye china",
-      "mentions": 38
+      "mentions": 148
     }
   ],
   "articles": [
@@ -160,6 +160,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hacker arrested for KMSAuto malware campaign with 2.8 million downloads",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/",
+      "summary": "A Lithuanian national has been arrested for his alleged involvement in infecting 2.8 million systems with clipboard-stealing malware disguised as the KMSAuto tool for illegally activating Windows and Office software. [...]",
+      "published": "Mon, 29 Dec 2025 14:25:29 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack",
       "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/",
       "summary": "Trust Wallet says attackers who compromised its browser extension right before Christmas have drained approximately $7 million from nearly 3,000 cryptocurrency wallet addresses. [...]",
@@ -226,18 +235,6 @@
       "published": "Mon, 29 Dec 2025 07:23:35 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/",
-      "summary": "Fortinet has warned customers that threat actors are still actively exploiting a critical FortiOS vulnerability that allows them to bypass two-factor authentication (2FA) when targeting vulnerable FortiGate firewalls. [...]",
-      "published": "Mon, 29 Dec 2025 06:16:03 -0500",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

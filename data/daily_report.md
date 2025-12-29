@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-29 20:19 UTC  
+> **Last Updated:** 2025-12-29 22:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**approximately 7 million** • **mass creating fake** • **infostealer malware delivered** • **gpt 5 2** • **leak sensitive information** • **22 million affected** • **retailers like bestbuy** • **hijacked system resources** • **hacker claims theft** • **twitter whistleblower complaint** • **t rkiye china** • **real life identity** • **prolific cybercriminal group** • **primarily targeted sales** • **old flaws resurfaced** • **exploits surrounding ics** • **additional brickstorm samples** • **critical security flaw** • **wired data leak** • **sprawling phishing campaign**
+**approximately 7 million** • **mass creating fake** • **length parameter inconsistency** • **infostealer malware delivered** • **gpt 5 2** • **leak sensitive information** • **22 million affected** • **retailers like bestbuy** • **hacker claims theft** • **twitter whistleblower complaint** • **prolific cybercriminal group** • **primarily targeted sales** • **old flaws resurfaced** • **mongodb server memory** • **latest version following** • **hijacked system resources** • **exploits surrounding ics** • **cve 2020 12812** • **additional brickstorm samples** • **critical security flaw**
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 - [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
@@ -45,7 +46,6 @@
 - [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
 - [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 - [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
-- [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
 
 ### Dark Reading
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/29/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2025/12/23/cisa-releases-one-industrial-control-systems-advisory)
 - [NIST and CISA Release Draft Interagency Report on Protecting Tokens and Assertions from Tampering Theft and Misuse for Public Comment](https://www.cisa.gov/news-events/alerts/2025/12/22/nist-and-cisa-release-draft-interagency-report-protecting-tokens-and-assertions-tampering-theft-and)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/22/cisa-adds-one-known-exploited-vulnerability-catalog)
@@ -89,7 +90,6 @@
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Siemens Interniche IP-Stack](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-05)
 - [Schneider Electric EcoStruxure Foxboro DCS Advisor](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-02)
-- [Inductive Automation Ignition](https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-01)
 
 ---
 

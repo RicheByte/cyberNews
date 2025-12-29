@@ -23,7 +23,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -70,7 +70,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -97,7 +97,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -295,7 +295,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -516,7 +516,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -609,7 +609,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -864,7 +864,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1083,7 +1083,7 @@
       ]
     },
     "approximately 7 million": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2025-12-26",
         "2025-12-27",
@@ -1115,7 +1115,7 @@
       ]
     },
     "hijacked system resources": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-29"
       ]
@@ -1133,25 +1133,25 @@
       ]
     },
     "leak sensitive information": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-29"
       ]
     },
     "gpt 5 2": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2025-12-29"
       ]
     },
     "infostealer malware delivered": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2025-12-29"
       ]
     },
     "22 million affected": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2025-12-29"
       ]
@@ -1169,36 +1169,49 @@
       ]
     },
     "primarily targeted sales": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-29"
       ]
     },
     "hacker claims theft": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2025-12-29"
       ]
     },
     "old flaws resurfaced": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2025-12-29"
+      ]
+    },
+    "length parameter inconsistency": {
+      "count": 1,
+      "dates": [
+        "2025-12-29"
+      ]
+    },
+    "mongodb server memory": {
+      "count": 1,
+      "dates": [
+        "2025-12-29"
+      ]
+    },
+    "latest version following": {
+      "count": 1,
+      "dates": [
+        "2025-12-29"
+      ]
+    },
+    "cve 2020 12812": {
+      "count": 1,
       "dates": [
         "2025-12-29"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-21 14:14",
-      "articles": 56,
-      "top_keywords": [
-        "denmark blames russia",
-        "stringent identity authentication",
-        "open source millions",
-        "critical fortinet flaws",
-        "mass creating fake"
-      ]
-    },
     {
       "timestamp": "2025-12-21 16:18",
       "articles": 56,
@@ -2286,6 +2299,17 @@
         "infostealer malware delivered",
         "gpt 5 2",
         "leak sensitive information"
+      ]
+    },
+    {
+      "timestamp": "2025-12-29 22:15",
+      "articles": 56,
+      "top_keywords": [
+        "approximately 7 million",
+        "mass creating fake",
+        "length parameter inconsistency",
+        "infostealer malware delivered",
+        "gpt 5 2"
       ]
     }
   ]

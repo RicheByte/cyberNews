@@ -1,69 +1,69 @@
 {
-  "last_updated": "2025-12-29 20:19",
+  "last_updated": "2025-12-29 22:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "approximately 7 million",
     "mass creating fake",
+    "length parameter inconsistency",
     "infostealer malware delivered",
     "gpt 5 2",
     "leak sensitive information",
     "22 million affected",
     "retailers like bestbuy",
-    "hijacked system resources",
     "hacker claims theft",
     "twitter whistleblower complaint",
-    "t rkiye china",
-    "real life identity",
     "prolific cybercriminal group",
     "primarily targeted sales",
     "old flaws resurfaced",
+    "mongodb server memory",
+    "latest version following",
+    "hijacked system resources",
     "exploits surrounding ics",
+    "cve 2020 12812",
     "additional brickstorm samples",
-    "critical security flaw",
-    "wired data leak",
-    "sprawling phishing campaign"
+    "critical security flaw"
   ],
   "trending": [
     {
       "keyword": "approximately 7 million",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 144
+      "mentions": 145
+    },
+    {
+      "keyword": "length parameter inconsistency",
+      "mentions": 1
     },
     {
       "keyword": "infostealer malware delivered",
-      "mentions": 5
-    },
-    {
-      "keyword": "gpt 5 2",
-      "mentions": 5
-    },
-    {
-      "keyword": "leak sensitive information",
       "mentions": 6
     },
     {
-      "keyword": "22 million affected",
-      "mentions": 5
+      "keyword": "gpt 5 2",
+      "mentions": 6
     },
     {
-      "keyword": "retailers like bestbuy",
-      "mentions": 86
-    },
-    {
-      "keyword": "hijacked system resources",
+      "keyword": "leak sensitive information",
       "mentions": 7
     },
     {
+      "keyword": "22 million affected",
+      "mentions": 6
+    },
+    {
+      "keyword": "retailers like bestbuy",
+      "mentions": 87
+    },
+    {
       "keyword": "hacker claims theft",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 148
+      "mentions": 149
     }
   ],
   "articles": [
@@ -238,6 +238,15 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
       "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
       "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
@@ -306,15 +315,6 @@
       "value_signals": [
         "Botnet"
       ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-      "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-      "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will offici",
-      "published": "Thu, 20 Nov 2025 19:06:51 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -559,6 +559,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-14847 MongoDB and MongoDB Server Improper Handling of Length Parameter Inconsistency Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established t",
+      "published": "Mon, 29 Dec 25 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Releases One Industrial Control Systems Advisory",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/23/cisa-releases-one-industrial-control-systems-advisory",
       "summary": "CISA released one Industrial Control Systems (ICS) Advisory. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-177-01 Mitsubishi Electric Air Conditioning Systems (Update B) CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations.",
@@ -646,20 +660,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Inductive Automation Ignition",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-352-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to be granted direct SYSTEM-level code execution on the host operating system running the Ignition Gateway service on Windows systems. The following versions of Inductive Automation Ignition are affected: Ignition (CVE-2025-13911) CVSS Vendor Equipment Vulnerabilities v3 6.4 Inductive Automation Inductive Automation Ignition Execution with Unnecessary Privileges Background Critical Infrastructure Sectors: Cri",
-      "published": "Thu, 18 Dec 25 12:00:00 +0000",
-      "value_score": 67,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity",
-        "Exploit wording"
       ]
     }
   ],

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-29 14:17 UTC |
+| 🕐 Last Updated | 2025-12-29 16:20 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`gpt 5 2` • `recovered 3 million` • `mass creating fake` • `additional brickstorm samples` • `leak sensitive information` • `infostealer malware delivered` • `hijacked system resources` • `approximately 7 million` • `22 million affected` • `wired data leak`
+`mass creating fake` • `leak sensitive information` • `infostealer malware delivered` • `retailers like bestbuy` • `hijacked system resources` • `hacker claims theft` • `approximately 7 million` • `22 million affected` • `twitter whistleblower complaint` • `t rkiye china`
 
 ## 📄 Reports
 

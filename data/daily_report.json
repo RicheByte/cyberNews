@@ -1,72 +1,81 @@
 {
-  "last_updated": "2025-12-29 14:17",
+  "last_updated": "2025-12-29 16:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "gpt 5 2",
-    "recovered 3 million",
     "mass creating fake",
-    "additional brickstorm samples",
     "leak sensitive information",
     "infostealer malware delivered",
+    "retailers like bestbuy",
     "hijacked system resources",
+    "hacker claims theft",
     "approximately 7 million",
     "22 million affected",
-    "wired data leak",
-    "leak wired database",
     "twitter whistleblower complaint",
     "t rkiye china",
     "sprawling phishing campaign",
     "real life identity",
     "prolific cybercriminal group",
     "primarily targeted sales",
-    "official announcement coming",
-    "model agnostic abstractions",
-    "exploits surrounding ics"
+    "old flaws resurfaced",
+    "gpt 5 2",
+    "exploits surrounding ics",
+    "additional brickstorm samples",
+    "critical security flaw",
+    "wired data leak"
   ],
   "trending": [
     {
-      "keyword": "gpt 5 2",
-      "mentions": 2
-    },
-    {
-      "keyword": "recovered 3 million",
-      "mentions": 57
-    },
-    {
       "keyword": "mass creating fake",
-      "mentions": 141
-    },
-    {
-      "keyword": "additional brickstorm samples",
-      "mentions": 120
+      "mentions": 142
     },
     {
       "keyword": "leak sensitive information",
-      "mentions": 3
-    },
-    {
-      "keyword": "infostealer malware delivered",
-      "mentions": 2
-    },
-    {
-      "keyword": "hijacked system resources",
       "mentions": 4
     },
     {
+      "keyword": "infostealer malware delivered",
+      "mentions": 3
+    },
+    {
+      "keyword": "retailers like bestbuy",
+      "mentions": 84
+    },
+    {
+      "keyword": "hijacked system resources",
+      "mentions": 5
+    },
+    {
+      "keyword": "hacker claims theft",
+      "mentions": 1
+    },
+    {
       "keyword": "approximately 7 million",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "22 million affected",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "wired data leak",
-      "mentions": 3
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 146
+    },
+    {
+      "keyword": "t rkiye china",
+      "mentions": 37
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
+      "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
+      "summary": "Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately. A common theme ran through it all in 2025. Attackers moved faster than fixes. Access meant for work, updates, or support kept getting abused. And damage did not",
+      "published": "Mon, 29 Dec 2025 19:08:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
@@ -150,14 +159,34 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories",
-      "link": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
-      "summary": "It’s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in — they’re blending in, hijacking everyday tools, trusted apps, and even AI assistants. What used to feel like clear-cut “hacker stories” now looks more like a mirror of the systems we all use. This week’s findings show a pattern: precision, patience, and persuasion. The",
-      "published": "Thu, 25 Dec 2025 19:31:00 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "The Real-World Attacks Behind OWASP Agentic AI Top 10",
+      "link": "https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/",
+      "summary": "OWASP's new Agentic AI Top 10 highlights real-world attacks already targeting autonomous AI systems, from goal hijacking to malicious MCP servers. Koi Security breaks down real-world incidents behind multiple categories, including two cases cited by OWASP, showing how agent tools and runtime behavior are being abused. [...]",
+      "published": "Mon, 29 Dec 2025 10:00:10 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ChatGPT finally rolls out Thinking time toggle on mobile",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/",
+      "summary": "OpenAI is rolling out an update to ChatGPT on mobile that finally allows you to select the Thinking time toggle, also called \"juice\" of the model. [...]",
+      "published": "Mon, 29 Dec 2025 10:00:00 -0500",
+      "value_score": 18,
       "value_signals": [
-        "Exploit wording"
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Romanian energy provider hit by Gentlemen ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/romanian-energy-provider-hit-by-gentlemen-ransomware-attack/",
+      "summary": "A ransomware attack hit Oltenia Energy Complex (Complexul Energetic Oltenia), Romania's largest coal-based energy producer, on the second day of Christmas, taking down its IT infrastructure. [...]",
+      "published": "Mon, 29 Dec 2025 09:26:00 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
       ]
     },
     {
@@ -213,37 +242,6 @@
         "Active exploitation ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hacker claims to leak WIRED database with 2.3 million records",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/",
-      "summary": "A hacker claims to have breached Condé Nast and leaked an alleged WIRED database containing more than 2.3 million subscriber records, while also warning that they plan to release up to 40 million additional records for other Condé Nast properties. [...]",
-      "published": "Sun, 28 Dec 2025 12:57:34 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Massive Rainbow Six Siege breach gives players billions of credits",
-      "link": "https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/",
-      "summary": "Ubisoft's Rainbow Six Siege (R6) suffered a breach that allowed hackers to abuse internal systems to ban and unban players, manipulate in-game moderation feeds, and grant massive amounts of in-game currency and cosmetic items to accounts worldwide. [...]",
-      "published": "Sun, 28 Dec 2025 00:44:21 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/",
-      "summary": "OpenAI is reportedly mulling a new form of ads on ChatGPT called \"sponsored content,\" which could influence your buying decisions. [...]",
-      "published": "Sat, 27 Dec 2025 04:46:54 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -327,6 +325,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "SBOMs in 2026: Some Love, Some Hate, Much Ambivalence",
+      "link": "https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence",
+      "summary": "With a new year upon us, software and cybersecurity experts disagree on the utility of software bill of materials — in theory, SBOMs are great, but in practice, they're a mess.",
+      "published": "Mon, 29 Dec 2025 14:51:59 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "5 Threats That Defined Security in 2025",
       "link": "https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025",
       "summary": "2025 included a number of monumental threats, from the global attacks of Salt Typhoon to dangerous vulnerabilities like React2Shell.",
@@ -389,14 +396,14 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Sprawling 'Operation Sentinel' Neutralizes African Cybercrime Syndicates",
-      "link": "https://www.darkreading.com/threat-intelligence/operation-sentinel-african-cybercrime-syndicates",
-      "summary": "Interpol said law enforcement across 19 countries made 574 arrests and recovered $3 million, against a backdrop of spiraling cybercrime in the region, including business email compromise, digital extortion, and ransomware schemes.",
-      "published": "Tue, 23 Dec 2025 17:16:35 GMT",
-      "value_score": 28,
+      "source": "Security Week",
+      "title": "Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000",
+      "link": "https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/",
+      "summary": "It took Sax well over a year to complete its investigation after detecting hackers on its network. The post Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000 appeared first on SecurityWeek .",
+      "published": "Mon, 29 Dec 2025 15:40:36 +0000",
+      "value_score": 34,
       "value_signals": [
-        "Ransomware"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -471,15 +478,6 @@
       "link": "https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/",
       "summary": "Central computer systems at French national postal service La Poste were knocked offline Monday in DDoS attack. The post Pro-Russian Hackers Claim Cyberattack on French Postal Service appeared first on SecurityWeek .",
       "published": "Wed, 24 Dec 2025 14:35:05 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "ServiceNow to Acquire Armis for $7.75 Billion in Cash",
-      "link": "https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/",
-      "summary": "Rumors of a possible buyout surfaced earlier this month, with the official announcement coming just weeks after Armis announced raising $435 million. The post ServiceNow to Acquire Armis for $7.75 Billion in Cash appeared first on SecurityWeek .",
-      "published": "Tue, 23 Dec 2025 14:28:42 +0000",
       "value_score": 10,
       "value_signals": []
     },

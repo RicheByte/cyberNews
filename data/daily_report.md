@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-29 14:17 UTC  
+> **Last Updated:** 2025-12-29 16:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**gpt 5 2** • **recovered 3 million** • **mass creating fake** • **additional brickstorm samples** • **leak sensitive information** • **infostealer malware delivered** • **hijacked system resources** • **approximately 7 million** • **22 million affected** • **wired data leak** • **leak wired database** • **twitter whistleblower complaint** • **t rkiye china** • **sprawling phishing campaign** • **real life identity** • **prolific cybercriminal group** • **primarily targeted sales** • **official announcement coming** • **model agnostic abstractions** • **exploits surrounding ics**
+**mass creating fake** • **leak sensitive information** • **infostealer malware delivered** • **retailers like bestbuy** • **hijacked system resources** • **hacker claims theft** • **approximately 7 million** • **22 million affected** • **twitter whistleblower complaint** • **t rkiye china** • **sprawling phishing campaign** • **real life identity** • **prolific cybercriminal group** • **primarily targeted sales** • **old flaws resurfaced** • **gpt 5 2** • **exploits surrounding ics** • **additional brickstorm samples** • **critical security flaw** • **wired data leak**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More](https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html)
 - [MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide](https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html)
 - [27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials](https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html)
 - [Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors](https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html)
@@ -23,18 +24,17 @@
 - [Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html)
 - [China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware](https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html)
 - [Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html)
-- [ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html)
 
 ### BleepingComputer
 
+- [The Real-World Attacks Behind OWASP Agentic AI Top 10](https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/)
+- [ChatGPT finally rolls out Thinking time toggle on mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/)
+- [Romanian energy provider hit by Gentlemen ransomware attack](https://www.bleepingcomputer.com/news/security/romanian-energy-provider-hit-by-gentlemen-ransomware-attack/)
 - [Former Coinbase support agent arrested for helping hackers](https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/)
 - [Korean Air data breach exposes data of thousands of employees](https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/)
 - [Microsoft Copilot is rolling out GPT 5.2 as "Smart Plus" mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/)
 - [Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/)
 - [Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed](https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/)
-- [Hacker claims to leak WIRED database with 2.3 million records](https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/)
-- [Massive Rainbow Six Siege breach gives players billions of credits](https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/)
-- [OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [SBOMs in 2026: Some Love, Some Hate, Much Ambivalence](https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence)
 - [5 Threats That Defined Security in 2025](https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025)
 - [Mentorship and Diversity: Shaping the Next Generation of Cyber Experts](https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts)
 - [As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026](https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026)
@@ -56,10 +57,10 @@
 - [Industry Continues to Push Back on HIPAA Security Rule Overhaul](https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul)
 - [ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'](https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower)
 - [Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers](https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers)
-- [Sprawling 'Operation Sentinel' Neutralizes African Cybercrime Syndicates](https://www.darkreading.com/threat-intelligence/operation-sentinel-african-cybercrime-syndicates)
 
 ### Security Week
 
+- [Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000](https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/)
 - [Fortinet Warns of New Attacks Exploiting Old Vulnerability](https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/)
 - [Coupang to Issue $1.17 Billion in Vouchers Over Data Breach](https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/)
 - [22 Million Affected by Aflac Data Breach](https://www.securityweek.com/22-million-affected-by-aflac-data-breach/)
@@ -67,7 +68,6 @@
 - [Fresh MongoDB Vulnerability Exploited in Attacks](https://www.securityweek.com/fresh-mongodb-vulnerability-exploited-in-attacks/)
 - [Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak](https://www.securityweek.com/hacker-claims-theft-of-40-million-conde-nast-records-after-wired-data-leak/)
 - [Pro-Russian Hackers Claim Cyberattack on French Postal Service](https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/)
-- [ServiceNow to Acquire Armis for $7.75 Billion in Cash](https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/)
 
 ### Threatpost
 

@@ -23,7 +23,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 141,
+      "count": 142,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -70,7 +70,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -97,7 +97,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -138,7 +138,7 @@
       ]
     },
     "real life identity": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -295,7 +295,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -304,7 +304,8 @@
         "2025-12-22",
         "2025-12-23",
         "2025-12-24",
-        "2025-12-25"
+        "2025-12-25",
+        "2025-12-29"
       ]
     },
     "146 5 million": {
@@ -515,7 +516,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -608,7 +609,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -863,7 +864,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1073,7 +1074,7 @@
       ]
     },
     "t rkiye china": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2025-12-26",
         "2025-12-27",
@@ -1082,7 +1083,7 @@
       ]
     },
     "approximately 7 million": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2025-12-26",
         "2025-12-27",
@@ -1114,7 +1115,7 @@
       ]
     },
     "hijacked system resources": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-29"
       ]
@@ -1126,37 +1127,37 @@
       ]
     },
     "wired data leak": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2025-12-29"
       ]
     },
     "leak sensitive information": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2025-12-29"
       ]
     },
     "gpt 5 2": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-29"
       ]
     },
     "infostealer malware delivered": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-29"
       ]
     },
     "22 million affected": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-29"
       ]
     },
     "sprawling phishing campaign": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-29"
       ]
@@ -1168,6 +1169,18 @@
       ]
     },
     "primarily targeted sales": {
+      "count": 2,
+      "dates": [
+        "2025-12-29"
+      ]
+    },
+    "hacker claims theft": {
+      "count": 1,
+      "dates": [
+        "2025-12-29"
+      ]
+    },
+    "old flaws resurfaced": {
       "count": 1,
       "dates": [
         "2025-12-29"
@@ -1175,17 +1188,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-21 08:20",
-      "articles": 56,
-      "top_keywords": [
-        "denmark blames russia",
-        "stringent identity authentication",
-        "open source millions",
-        "critical fortinet flaws",
-        "mass creating fake"
-      ]
-    },
     {
       "timestamp": "2025-12-21 10:15",
       "articles": 56,
@@ -2273,6 +2275,17 @@
         "mass creating fake",
         "additional brickstorm samples",
         "leak sensitive information"
+      ]
+    },
+    {
+      "timestamp": "2025-12-29 16:20",
+      "articles": 56,
+      "top_keywords": [
+        "mass creating fake",
+        "leak sensitive information",
+        "infostealer malware delivered",
+        "retailers like bestbuy",
+        "hijacked system resources"
       ]
     }
   ]

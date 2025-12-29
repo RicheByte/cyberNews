@@ -1,69 +1,69 @@
 {
-  "last_updated": "2025-12-29 12:35",
+  "last_updated": "2025-12-29 14:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "nissan confirms impact",
     "gpt 5 2",
     "recovered 3 million",
-    "leak wired database",
     "mass creating fake",
     "additional brickstorm samples",
+    "leak sensitive information",
     "infostealer malware delivered",
     "hijacked system resources",
     "approximately 7 million",
-    "wired data leak",
-    "leak sensitive information",
     "22 million affected",
-    "watchguard firebox devices",
+    "wired data leak",
+    "leak wired database",
     "twitter whistleblower complaint",
     "t rkiye china",
     "sprawling phishing campaign",
     "real life identity",
     "prolific cybercriminal group",
+    "primarily targeted sales",
     "official announcement coming",
-    "model agnostic abstractions"
+    "model agnostic abstractions",
+    "exploits surrounding ics"
   ],
   "trending": [
     {
-      "keyword": "nissan confirms impact",
-      "mentions": 73
-    },
-    {
       "keyword": "gpt 5 2",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 56
-    },
-    {
-      "keyword": "leak wired database",
-      "mentions": 10
+      "mentions": 57
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 140
+      "mentions": 141
     },
     {
       "keyword": "additional brickstorm samples",
-      "mentions": 119
+      "mentions": 120
     },
     {
-      "keyword": "infostealer malware delivered",
-      "mentions": 1
-    },
-    {
-      "keyword": "hijacked system resources",
+      "keyword": "leak sensitive information",
       "mentions": 3
     },
     {
+      "keyword": "infostealer malware delivered",
+      "mentions": 2
+    },
+    {
+      "keyword": "hijacked system resources",
+      "mentions": 4
+    },
+    {
       "keyword": "approximately 7 million",
-      "mentions": 35
+      "mentions": 36
+    },
+    {
+      "keyword": "22 million affected",
+      "mentions": 2
     },
     {
       "keyword": "wired data leak",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -162,6 +162,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Former Coinbase support agent arrested for helping hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/",
+      "summary": "A former Coinbase customer service agent was arrested in India for helping hackers earlier this year steal sensitive customer information from a company database. [...]",
+      "published": "Mon, 29 Dec 2025 09:16:47 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Korean Air data breach exposes data of thousands of employees",
+      "link": "https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/",
+      "summary": "Korean Air experienced a data breach affecting thousands of employees after Korean Air Catering & Duty-Free (KC&D), its in-flight catering supplier and former subsidiary, was recently hacked. [...]",
+      "published": "Mon, 29 Dec 2025 08:08:45 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft Copilot is rolling out GPT 5.2 as \"Smart Plus\" mode",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/",
       "summary": "Microsoft is rolling out GPT 5.2 to Copilot on the web, Windows, and mobile as a free upgrade, and it'll coexist with the GPT 5.1 model. [...]",
@@ -224,27 +244,6 @@
       "published": "Sat, 27 Dec 2025 04:46:54 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake Grubhub emails promise tenfold return on sent cryptocurrency",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/",
-      "summary": "Grubhub users received fraudulent messages, apparently from a company email address, promising a tenfold bitcoin payout in return for a transfer to a specified wallet. [...]",
-      "published": "Fri, 26 Dec 2025 15:22:28 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trust Wallet confirms extension hack led to $7 million crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/",
-      "summary": "Several users of the Trust Wallet Chrome extension report having their cryptocurrency wallets drained after installing a compromised extension update released on December 24, prompting an urgent response from the company and warnings to affected users. Simultaneously, BleepingComputer observed a phishing domain launched by hackers. [...]",
-      "published": "Fri, 26 Dec 2025 04:47:08 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update",
-        "Phishing"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -328,6 +327,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "5 Threats That Defined Security in 2025",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025",
+      "summary": "2025 included a number of monumental threats, from the global attacks of Salt Typhoon to dangerous vulnerabilities like React2Shell.",
+      "published": "Mon, 29 Dec 2025 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Mentorship and Diversity: Shaping the Next Generation of Cyber Experts",
       "link": "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts",
       "summary": "Patricia Voight, CISO at Webster Bank, shares her expertise on advancing cybersecurity careers, combating financial crimes, and championing diversity in a rapidly changing industry.",
@@ -392,15 +400,14 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox",
-      "summary": "With attacks on the critical firewall vulnerability, WatchGuard joins a list of edge device vendors whose products have been targeted in recent weeks.",
-      "published": "Mon, 22 Dec 2025 20:29:34 GMT",
-      "value_score": 49,
+      "source": "Security Week",
+      "title": "Fortinet Warns of New Attacks Exploiting Old Vulnerability",
+      "link": "https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/",
+      "summary": "Tracked as CVE-2020-12812, the exploited FortiOS flaw allows threat actors to bypass two-factor authentication. The post Fortinet Warns of New Attacks Exploiting Old Vulnerability appeared first on SecurityWeek .",
+      "published": "Mon, 29 Dec 2025 12:52:49 +0000",
+      "value_score": 34,
       "value_signals": [
-        "Zero-day",
-        "High severity",
+        "CVE mentioned",
         "Exploit wording"
       ]
     },
@@ -475,17 +482,6 @@
       "published": "Tue, 23 Dec 2025 14:28:42 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Nissan Confirms Impact From Red Hat Data Breach",
-      "link": "https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/",
-      "summary": "The personal information of 21,000 customers was stolen after hackers compromised Red Hat’s GitLab instances. The post Nissan Confirms Impact From Red Hat Data Breach appeared first on SecurityWeek .",
-      "published": "Tue, 23 Dec 2025 12:26:28 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

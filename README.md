@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-29 12:35 UTC |
+| 🕐 Last Updated | 2025-12-29 14:17 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`nissan confirms impact` • `gpt 5 2` • `recovered 3 million` • `leak wired database` • `mass creating fake` • `additional brickstorm samples` • `infostealer malware delivered` • `hijacked system resources` • `approximately 7 million` • `wired data leak`
+`gpt 5 2` • `recovered 3 million` • `mass creating fake` • `additional brickstorm samples` • `leak sensitive information` • `infostealer malware delivered` • `hijacked system resources` • `approximately 7 million` • `22 million affected` • `wired data leak`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-29 12:35 UTC  
+> **Last Updated:** 2025-12-29 14:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **gpt 5 2** • **recovered 3 million** • **leak wired database** • **mass creating fake** • **additional brickstorm samples** • **infostealer malware delivered** • **hijacked system resources** • **approximately 7 million** • **wired data leak** • **leak sensitive information** • **22 million affected** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **sprawling phishing campaign** • **real life identity** • **prolific cybercriminal group** • **official announcement coming** • **model agnostic abstractions**
+**gpt 5 2** • **recovered 3 million** • **mass creating fake** • **additional brickstorm samples** • **leak sensitive information** • **infostealer malware delivered** • **hijacked system resources** • **approximately 7 million** • **22 million affected** • **wired data leak** • **leak wired database** • **twitter whistleblower complaint** • **t rkiye china** • **sprawling phishing campaign** • **real life identity** • **prolific cybercriminal group** • **primarily targeted sales** • **official announcement coming** • **model agnostic abstractions** • **exploits surrounding ics**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Former Coinbase support agent arrested for helping hackers](https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/)
+- [Korean Air data breach exposes data of thousands of employees](https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/)
 - [Microsoft Copilot is rolling out GPT 5.2 as "Smart Plus" mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/)
 - [Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/)
 - [Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed](https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/)
 - [Hacker claims to leak WIRED database with 2.3 million records](https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/)
 - [Massive Rainbow Six Siege breach gives players billions of credits](https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/)
 - [OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/)
-- [Fake Grubhub emails promise tenfold return on sent cryptocurrency](https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/)
-- [Trust Wallet confirms extension hack led to $7 million crypto theft](https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [5 Threats That Defined Security in 2025](https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025)
 - [Mentorship and Diversity: Shaping the Next Generation of Cyber Experts](https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts)
 - [As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026](https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026)
 - [Dark Reading Opens The State of Application Security Survey](https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey)
@@ -56,10 +57,10 @@
 - [ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'](https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower)
 - [Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers](https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers)
 - [Sprawling 'Operation Sentinel' Neutralizes African Cybercrime Syndicates](https://www.darkreading.com/threat-intelligence/operation-sentinel-african-cybercrime-syndicates)
-- [Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices](https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox)
 
 ### Security Week
 
+- [Fortinet Warns of New Attacks Exploiting Old Vulnerability](https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/)
 - [Coupang to Issue $1.17 Billion in Vouchers Over Data Breach](https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/)
 - [22 Million Affected by Aflac Data Breach](https://www.securityweek.com/22-million-affected-by-aflac-data-breach/)
 - [Infostealer Malware Delivered in EmEditor Supply Chain Attack](https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/)
@@ -67,7 +68,6 @@
 - [Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak](https://www.securityweek.com/hacker-claims-theft-of-40-million-conde-nast-records-after-wired-data-leak/)
 - [Pro-Russian Hackers Claim Cyberattack on French Postal Service](https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/)
 - [ServiceNow to Acquire Armis for $7.75 Billion in Cash](https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/)
-- [Nissan Confirms Impact From Red Hat Data Breach](https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/)
 
 ### Threatpost
 

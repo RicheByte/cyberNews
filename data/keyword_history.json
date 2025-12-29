@@ -23,7 +23,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -70,7 +70,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -97,7 +97,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -138,7 +138,7 @@
       ]
     },
     "real life identity": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -608,7 +608,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -863,7 +863,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -880,7 +880,7 @@
       ]
     },
     "recovered 3 million": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -997,7 +997,7 @@
       ]
     },
     "official announcement coming": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-25",
         "2025-12-29"
@@ -1073,7 +1073,7 @@
       ]
     },
     "t rkiye china": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2025-12-26",
         "2025-12-27",
@@ -1082,7 +1082,7 @@
       ]
     },
     "approximately 7 million": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2025-12-26",
         "2025-12-27",
@@ -1100,7 +1100,7 @@
       ]
     },
     "leak wired database": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-28",
         "2025-12-29"
@@ -1114,7 +1114,7 @@
       ]
     },
     "hijacked system resources": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2025-12-29"
       ]
@@ -1126,42 +1126,48 @@
       ]
     },
     "wired data leak": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-29"
       ]
     },
     "leak sensitive information": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-29"
       ]
     },
     "gpt 5 2": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2025-12-29"
       ]
     },
     "infostealer malware delivered": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2025-12-29"
       ]
     },
     "22 million affected": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2025-12-29"
       ]
     },
     "sprawling phishing campaign": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2025-12-29"
       ]
     },
     "model agnostic abstractions": {
+      "count": 2,
+      "dates": [
+        "2025-12-29"
+      ]
+    },
+    "primarily targeted sales": {
       "count": 1,
       "dates": [
         "2025-12-29"
@@ -1169,17 +1175,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-21 06:23",
-      "articles": 56,
-      "top_keywords": [
-        "denmark blames russia",
-        "stringent identity authentication",
-        "open source millions",
-        "critical fortinet flaws",
-        "mass creating fake"
-      ]
-    },
     {
       "timestamp": "2025-12-21 08:20",
       "articles": 56,
@@ -2267,6 +2262,17 @@
         "recovered 3 million",
         "leak wired database",
         "mass creating fake"
+      ]
+    },
+    {
+      "timestamp": "2025-12-29 14:17",
+      "articles": 56,
+      "top_keywords": [
+        "gpt 5 2",
+        "recovered 3 million",
+        "mass creating fake",
+        "additional brickstorm samples",
+        "leak sensitive information"
       ]
     }
   ]

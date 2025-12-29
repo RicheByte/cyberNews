@@ -1,69 +1,69 @@
 {
-  "last_updated": "2025-12-29 10:19",
+  "last_updated": "2025-12-29 12:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "nissan confirms impact",
-    "leak wired database",
+    "gpt 5 2",
     "recovered 3 million",
+    "leak wired database",
     "mass creating fake",
     "additional brickstorm samples",
+    "infostealer malware delivered",
     "hijacked system resources",
-    "s finally done",
+    "approximately 7 million",
     "wired data leak",
     "leak sensitive information",
-    "approximately 7 million",
+    "22 million affected",
     "watchguard firebox devices",
     "twitter whistleblower complaint",
     "t rkiye china",
+    "sprawling phishing campaign",
     "real life identity",
     "prolific cybercriminal group",
-    "hacker group earlier",
-    "exploits surrounding ics",
-    "critical security flaw",
-    "malicious intent begins",
-    "malicious cyber actors"
+    "official announcement coming",
+    "model agnostic abstractions"
   ],
   "trending": [
     {
       "keyword": "nissan confirms impact",
-      "mentions": 72
+      "mentions": 73
     },
     {
-      "keyword": "leak wired database",
-      "mentions": 9
+      "keyword": "gpt 5 2",
+      "mentions": 1
     },
     {
       "keyword": "recovered 3 million",
-      "mentions": 55
+      "mentions": 56
+    },
+    {
+      "keyword": "leak wired database",
+      "mentions": 10
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 139
+      "mentions": 140
     },
     {
       "keyword": "additional brickstorm samples",
-      "mentions": 118
+      "mentions": 119
+    },
+    {
+      "keyword": "infostealer malware delivered",
+      "mentions": 1
     },
     {
       "keyword": "hijacked system resources",
-      "mentions": 2
-    },
-    {
-      "keyword": "s finally done",
-      "mentions": 42
-    },
-    {
-      "keyword": "wired data leak",
-      "mentions": 1
-    },
-    {
-      "keyword": "leak sensitive information",
-      "mentions": 1
+      "mentions": 3
     },
     {
       "keyword": "approximately 7 million",
-      "mentions": 34
+      "mentions": 35
+    },
+    {
+      "keyword": "wired data leak",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -162,6 +162,27 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft Copilot is rolling out GPT 5.2 as \"Smart Plus\" mode",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/",
+      "summary": "Microsoft is rolling out GPT 5.2 to Copilot on the web, Windows, and mobile as a free upgrade, and it'll coexist with the GPT 5.1 model. [...]",
+      "published": "Mon, 29 Dec 2025 07:23:35 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/",
+      "summary": "Fortinet has warned customers that threat actors are still actively exploiting a critical FortiOS vulnerability that allows them to bypass two-factor authentication (2FA) when targeting vulnerable FortiGate firewalls. [...]",
+      "published": "Mon, 29 Dec 2025 06:16:03 -0500",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
       "link": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
       "summary": "A severe vulnerability affecting multiple MongoDB versions, dubbed MongoBleed (CVE-2025-14847), is being actively exploited in the wild, with over 80,000 potentially vulnerable servers exposed on the public web. [...]",
@@ -224,24 +245,6 @@
         "Patch/update",
         "Phishing"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ChatGPT’s new formatting blocks make its UI look more like a task tool",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/",
-      "summary": "OpenAI has quietly rolled out 'formatting blocks,' which tweak GPT's layout to match the UI of the task it is supposed to execute. [...]",
-      "published": "Thu, 25 Dec 2025 17:39:19 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google will finally allow you to change your @gmail.com address",
-      "link": "https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/",
-      "summary": "Google will finally allow you to change your @gmail address or create a new alias, according to a new support document. [...]",
-      "published": "Thu, 25 Dec 2025 09:30:58 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -403,6 +406,37 @@
     },
     {
       "source": "Security Week",
+      "title": "Coupang to Issue $1.17 Billion in Vouchers Over Data Breach",
+      "link": "https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/",
+      "summary": "The ecommerce giant will provide purchase vouchers to the 33.7 million individuals impacted by the incident. The post Coupang to Issue $1.17 Billion in Vouchers Over Data Breach appeared first on SecurityWeek .",
+      "published": "Mon, 29 Dec 2025 12:13:11 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "22 Million Affected by Aflac Data Breach",
+      "link": "https://www.securityweek.com/22-million-affected-by-aflac-data-breach/",
+      "summary": "Hackers stole names, addresses, Social Security numbers, ID numbers, and medical and health insurance information from Aflac’s systems. The post 22 Million Affected by Aflac Data Breach appeared first on SecurityWeek .",
+      "published": "Mon, 29 Dec 2025 11:57:08 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Infostealer Malware Delivered in EmEditor Supply Chain Attack",
+      "link": "https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/",
+      "summary": "The ‘download’ button on the official EmEditor website served a malicious installer. The post Infostealer Malware Delivered in EmEditor Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Mon, 29 Dec 2025 11:21:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Fresh MongoDB Vulnerability Exploited in Attacks",
       "link": "https://www.securityweek.com/fresh-mongodb-vulnerability-exploited-in-attacks/",
       "summary": "Dubbed MongoBleed, the high-severity flaw allows unauthenticated, remote attackers to leak sensitive information from MongoDB servers. The post Fresh MongoDB Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
@@ -452,37 +486,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Feds Seize Password Database Used in Massive Bank Account Takeover Scheme",
-      "link": "https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/",
-      "summary": "The cybercriminals attempted to steal $28 million from compromised bank accounts through phishing. The post Feds Seize Password Database Used in Massive Bank Account Takeover Scheme appeared first on SecurityWeek .",
-      "published": "Tue, 23 Dec 2025 12:15:29 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data",
-      "link": "https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/",
-      "summary": "The package provides legitimate functionality to evade detection, while stealing users’ data and deploying a backdoor. The post NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data appeared first on SecurityWeek .",
-      "published": "Tue, 23 Dec 2025 10:52:05 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal",
-      "link": "https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/",
-      "summary": "Italy’s antitrust authority fined Apple $116 million after determining that operating one of its privacy features restricted App Store competition. The post Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal appeared first on SecurityWeek .",
-      "published": "Tue, 23 Dec 2025 10:11:25 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -23,7 +23,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -70,7 +70,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -97,7 +97,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -138,7 +138,7 @@
       ]
     },
     "real life identity": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -608,7 +608,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -775,7 +775,7 @@
       ]
     },
     "watchguard firebox devices": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2025-12-22",
         "2025-12-23",
@@ -829,7 +829,7 @@
       ]
     },
     "nissan confirms impact": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -880,7 +880,7 @@
       ]
     },
     "recovered 3 million": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -997,9 +997,10 @@
       ]
     },
     "official announcement coming": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2025-12-25"
+        "2025-12-25",
+        "2025-12-29"
       ]
     },
     "messaging app installer": {
@@ -1072,7 +1073,7 @@
       ]
     },
     "t rkiye china": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2025-12-26",
         "2025-12-27",
@@ -1081,7 +1082,7 @@
       ]
     },
     "approximately 7 million": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2025-12-26",
         "2025-12-27",
@@ -1099,7 +1100,7 @@
       ]
     },
     "leak wired database": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2025-12-28",
         "2025-12-29"
@@ -1113,7 +1114,7 @@
       ]
     },
     "hijacked system resources": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-29"
       ]
@@ -1125,12 +1126,42 @@
       ]
     },
     "wired data leak": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2025-12-29"
       ]
     },
     "leak sensitive information": {
+      "count": 2,
+      "dates": [
+        "2025-12-29"
+      ]
+    },
+    "gpt 5 2": {
+      "count": 1,
+      "dates": [
+        "2025-12-29"
+      ]
+    },
+    "infostealer malware delivered": {
+      "count": 1,
+      "dates": [
+        "2025-12-29"
+      ]
+    },
+    "22 million affected": {
+      "count": 1,
+      "dates": [
+        "2025-12-29"
+      ]
+    },
+    "sprawling phishing campaign": {
+      "count": 1,
+      "dates": [
+        "2025-12-29"
+      ]
+    },
+    "model agnostic abstractions": {
       "count": 1,
       "dates": [
         "2025-12-29"
@@ -1138,17 +1169,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-21 04:33",
-      "articles": 56,
-      "top_keywords": [
-        "denmark blames russia",
-        "stringent identity authentication",
-        "open source millions",
-        "critical security flaw",
-        "mass creating fake"
-      ]
-    },
     {
       "timestamp": "2025-12-21 06:23",
       "articles": 56,
@@ -2236,6 +2256,17 @@
         "recovered 3 million",
         "mass creating fake",
         "additional brickstorm samples"
+      ]
+    },
+    {
+      "timestamp": "2025-12-29 12:35",
+      "articles": 56,
+      "top_keywords": [
+        "nissan confirms impact",
+        "gpt 5 2",
+        "recovered 3 million",
+        "leak wired database",
+        "mass creating fake"
       ]
     }
   ]

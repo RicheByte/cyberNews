@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-29 10:19 UTC  
+> **Last Updated:** 2025-12-29 12:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nissan confirms impact** • **leak wired database** • **recovered 3 million** • **mass creating fake** • **additional brickstorm samples** • **hijacked system resources** • **s finally done** • **wired data leak** • **leak sensitive information** • **approximately 7 million** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **real life identity** • **prolific cybercriminal group** • **hacker group earlier** • **exploits surrounding ics** • **critical security flaw** • **malicious intent begins** • **malicious cyber actors**
+**nissan confirms impact** • **gpt 5 2** • **recovered 3 million** • **leak wired database** • **mass creating fake** • **additional brickstorm samples** • **infostealer malware delivered** • **hijacked system resources** • **approximately 7 million** • **wired data leak** • **leak sensitive information** • **22 million affected** • **watchguard firebox devices** • **twitter whistleblower complaint** • **t rkiye china** • **sprawling phishing campaign** • **real life identity** • **prolific cybercriminal group** • **official announcement coming** • **model agnostic abstractions**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Microsoft Copilot is rolling out GPT 5.2 as "Smart Plus" mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/)
+- [Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/)
 - [Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed](https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/)
 - [Hacker claims to leak WIRED database with 2.3 million records](https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/)
 - [Massive Rainbow Six Siege breach gives players billions of credits](https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/)
 - [OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/)
 - [Fake Grubhub emails promise tenfold return on sent cryptocurrency](https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/)
 - [Trust Wallet confirms extension hack led to $7 million crypto theft](https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/)
-- [ChatGPT’s new formatting blocks make its UI look more like a task tool](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/)
-- [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Coupang to Issue $1.17 Billion in Vouchers Over Data Breach](https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/)
+- [22 Million Affected by Aflac Data Breach](https://www.securityweek.com/22-million-affected-by-aflac-data-breach/)
+- [Infostealer Malware Delivered in EmEditor Supply Chain Attack](https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/)
 - [Fresh MongoDB Vulnerability Exploited in Attacks](https://www.securityweek.com/fresh-mongodb-vulnerability-exploited-in-attacks/)
 - [Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak](https://www.securityweek.com/hacker-claims-theft-of-40-million-conde-nast-records-after-wired-data-leak/)
 - [Pro-Russian Hackers Claim Cyberattack on French Postal Service](https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/)
 - [ServiceNow to Acquire Armis for $7.75 Billion in Cash](https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/)
 - [Nissan Confirms Impact From Red Hat Data Breach](https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/)
-- [Feds Seize Password Database Used in Massive Bank Account Takeover Scheme](https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/)
-- [NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data](https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/)
-- [Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal](https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/)
 
 ### Threatpost
 

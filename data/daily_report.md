@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-30 20:18 UTC  
+> **Last Updated:** 2025-12-30 22:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **22 million affected** • **cyber security agency** • **newly discovered campaign** • **prolific cybercriminal group** • **cve 2020 12812** • **chinese cyberespionage campaigns** • **twitter whistleblower complaint** • **retailers like bestbuy** • **primarily targeted sales** • **old flaws resurfaced** • **hijacked system resources** • **exploits surrounding ics** • **additional brickstorm samples** • **cyber attack detected** • **nation s ability** • **infostealer malware delivered** • **malicious cyber actors** • **cyber insurers recommend** • **total disclosed value**
+**22 million affected** • **mass creating fake** • **cyber security agency** • **newly discovered campaign** • **prolific cybercriminal group** • **cve 2020 12812** • **chinese cyberespionage campaigns** • **twitter whistleblower complaint** • **retailers like bestbuy** • **primarily targeted sales** • **old flaws resurfaced** • **hijacked system resources** • **exploits surrounding ics** • **additional brickstorm samples** • **cyber attack detected** • **nation s ability** • **generating fake glitches** • **infostealer malware delivered** • **malicious cyber actors** • **cyber insurers recommend**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/)
 - [European Space Agency confirms breach of "external servers"](https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/)
 - [Zoom Stealer browser extensions harvest corporate meeting intelligence](https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/)
 - [US cybersecurity experts plead guilty to BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/)
@@ -34,7 +35,6 @@
 - [Chinese state hackers use rootkit to hide ToneShell malware activity](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/)
 - [Coupang to split $1.17 billion among 33.7 million data breach victims](https://www.bleepingcomputer.com/news/security/coupang-to-split-117-billion-among-337-million-data-breach-victims/)
 - [Hacker arrested for KMSAuto malware campaign with 2.8 million downloads](https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/)
-- [Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack](https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/)
 
 ### Krebs on Security
 

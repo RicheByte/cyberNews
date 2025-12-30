@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-12-30 20:18",
+  "last_updated": "2025-12-30 22:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "mass creating fake",
     "22 million affected",
+    "mass creating fake",
     "cyber security agency",
     "newly discovered campaign",
     "prolific cybercriminal group",
@@ -19,51 +19,51 @@
     "additional brickstorm samples",
     "cyber attack detected",
     "nation s ability",
+    "generating fake glitches",
     "infostealer malware delivered",
     "malicious cyber actors",
-    "cyber insurers recommend",
-    "total disclosed value"
+    "cyber insurers recommend"
   ],
   "trending": [
     {
-      "keyword": "mass creating fake",
-      "mentions": 156
+      "keyword": "22 million affected",
+      "mentions": 18
     },
     {
-      "keyword": "22 million affected",
-      "mentions": 17
+      "keyword": "mass creating fake",
+      "mentions": 157
     },
     {
       "keyword": "cyber security agency",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "newly discovered campaign",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 146
+      "mentions": 147
     },
     {
       "keyword": "cve 2020 12812",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "chinese cyberespionage campaigns",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 160
+      "mentions": 161
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 98
+      "mentions": 99
     },
     {
       "keyword": "primarily targeted sales",
-      "mentions": 16
+      "mentions": 17
     }
   ],
   "articles": [
@@ -159,6 +159,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New ErrTraffic service enables ClickFix attacks via fake browser glitches",
+      "link": "https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/",
+      "summary": "A new cybercrime tool called ErrTraffic allows threat actors to automate ClickFix attacks by generating 'fake glitches' on compromised websites to lure users into downloading payloads or following malicious instructions [...]",
+      "published": "Tue, 30 Dec 2025 16:08:28 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "European Space Agency confirms breach of \"external servers\"",
       "link": "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/",
       "summary": "The European Space Agency (ESA) confirmed that attackers recently breached servers outside its corporate network, which contained what it described as \"unclassified\" information on collaborative engineering activities. [...]",
@@ -230,15 +239,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/",
       "summary": "A Lithuanian national has been arrested for his alleged involvement in infecting 2.8 million systems with clipboard-stealing malware disguised as the KMSAuto tool for illegally activating Windows and Office software. [...]",
       "published": "Mon, 29 Dec 2025 14:25:29 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack",
-      "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/",
-      "summary": "Trust Wallet says attackers who compromised its browser extension right before Christmas have drained approximately $7 million from nearly 3,000 cryptocurrency wallet addresses. [...]",
-      "published": "Mon, 29 Dec 2025 11:43:02 -0500",
       "value_score": 10,
       "value_signals": []
     },

@@ -24,7 +24,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -50,7 +50,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -73,7 +73,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 141,
+      "count": 142,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -101,7 +101,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -201,9 +201,10 @@
       ]
     },
     "threat actor known": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2025-12-17"
+        "2025-12-17",
+        "2025-12-30"
       ]
     },
     "firefox web browser": {
@@ -300,7 +301,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -616,7 +617,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -872,7 +873,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1125,7 +1126,7 @@
       ]
     },
     "hijacked system resources": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1157,14 +1158,14 @@
       ]
     },
     "infostealer malware delivered": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "22 million affected": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1184,7 +1185,7 @@
       ]
     },
     "primarily targeted sales": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1197,21 +1198,21 @@
       ]
     },
     "old flaws resurfaced": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "length parameter inconsistency": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "mongodb server memory": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1225,7 +1226,7 @@
       ]
     },
     "cve 2020 12812": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1238,24 +1239,31 @@
       ]
     },
     "chinese cyberespionage campaigns": {
-      "count": 6,
+      "count": 7,
+      "dates": [
+        "2025-12-30"
+      ]
+    },
+    "health insurance information": {
+      "count": 1,
+      "dates": [
+        "2025-12-30"
+      ]
+    },
+    "cyber attack detected": {
+      "count": 1,
+      "dates": [
+        "2025-12-30"
+      ]
+    },
+    "load toneshell backdoor": {
+      "count": 1,
       "dates": [
         "2025-12-30"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-22 04:36",
-      "articles": 56,
-      "top_keywords": [
-        "denmark blames russia",
-        "stringent identity authentication",
-        "open source millions",
-        "critical fortinet flaws",
-        "mass creating fake"
-      ]
-    },
     {
       "timestamp": "2025-12-22 06:28",
       "articles": 56,
@@ -2343,6 +2351,17 @@
         "chinese cyberespionage campaigns",
         "mass creating fake",
         "length parameter inconsistency"
+      ]
+    },
+    {
+      "timestamp": "2025-12-30 12:34",
+      "articles": 56,
+      "top_keywords": [
+        "mass creating fake",
+        "length parameter inconsistency",
+        "22 million affected",
+        "prolific cybercriminal group",
+        "threat actor known"
       ]
     }
   ]

@@ -1,72 +1,92 @@
 {
-  "last_updated": "2025-12-30 10:18",
+  "last_updated": "2025-12-30 12:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "approximately 7 million",
-    "leak sensitive information",
-    "chinese cyberespionage campaigns",
     "mass creating fake",
     "length parameter inconsistency",
     "22 million affected",
     "prolific cybercriminal group",
+    "threat actor known",
     "retailers like bestbuy",
+    "chinese cyberespionage campaigns",
     "twitter whistleblower complaint",
     "primarily targeted sales",
     "old flaws resurfaced",
     "mongodb server memory",
-    "latest version following",
     "hijacked system resources",
     "exploits surrounding ics",
     "cve 2020 12812",
     "additional brickstorm samples",
-    "sprawling phishing campaign",
+    "health insurance information",
     "infostealer malware delivered",
-    "malicious cyber actors"
+    "malicious cyber actors",
+    "cyber attack detected",
+    "load toneshell backdoor"
   ],
   "trending": [
     {
-      "keyword": "approximately 7 million",
-      "mentions": 46
-    },
-    {
-      "keyword": "leak sensitive information",
-      "mentions": 13
-    },
-    {
-      "keyword": "chinese cyberespionage campaigns",
-      "mentions": 6
-    },
-    {
       "keyword": "mass creating fake",
-      "mentions": 151
+      "mentions": 152
     },
     {
       "keyword": "length parameter inconsistency",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "22 million affected",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 141
+      "mentions": 142
+    },
+    {
+      "keyword": "threat actor known",
+      "mentions": 3
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 93
+      "mentions": 94
+    },
+    {
+      "keyword": "chinese cyberespionage campaigns",
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 155
+      "mentions": 156
     },
     {
       "keyword": "primarily targeted sales",
+      "mentions": 12
+    },
+    {
+      "keyword": "old flaws resurfaced",
       "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
+      "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
+      "summary": "The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0). \"This sophisticated attack leverages a complex kill chain involving DLL hijacking and the modular Valley RAT to ensure persistence,\" CloudSEK researchers Prajwal Awasthi and Koushik Pal said in an",
+      "published": "Tue, 30 Dec 2025 16:16:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How to Integrate AI into Modern SOC Workflows",
+      "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
+      "summary": "Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimentation into consistent operational value. This is because SOCs are adopting AI without an intentional approach to operational integration. Some teams treat it as a shortcut for broken processes. Others attempt to apply machine learning to problems",
+      "published": "Tue, 30 Dec 2025 15:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
@@ -132,29 +152,6 @@
       "value_score": 28,
       "value_signals": [
         "CVE mentioned"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
-      "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
-      "summary": "Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million. The issue, the multi‑chain, non‑custodial cryptocurrency wallet service said, impacts version 2.68. The extension has about one million users, according to the Chrome Web Store listing. Users are advised to",
-      "published": "Fri, 26 Dec 2025 21:01:00 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Patch/update",
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
-      "link": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
-      "summary": "A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its signature MgBot backdoor in attacks targeting victims in Türkiye, China, and India. The activity, Kaspersky said, was observed between November 2022 and November 2024. It has been linked to a",
-      "published": "Fri, 26 Dec 2025 20:14:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
       ]
     },
     {
@@ -391,6 +388,15 @@
     },
     {
       "source": "Security Week",
+      "title": "8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025",
+      "link": "https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/",
+      "summary": "The total disclosed value for all the cybersecurity M&A deals announced in 2025 exceeded $84 billion. The post 8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025 appeared first on SecurityWeek .",
+      "published": "Tue, 30 Dec 2025 12:29:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit",
       "link": "https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/",
       "summary": "The threat actor uses a signed driver file containing two user-mode shellcodes to execute its ToneShell backdoor. The post Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit appeared first on SecurityWeek .",
@@ -464,18 +470,6 @@
       "published": "Mon, 29 Dec 2025 11:21:22 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Fresh MongoDB Vulnerability Exploited in Attacks",
-      "link": "https://www.securityweek.com/fresh-mongodb-vulnerability-exploited-in-attacks/",
-      "summary": "Dubbed MongoBleed, the high-severity flaw allows unauthenticated, remote attackers to leak sensitive information from MongoDB servers. The post Fresh MongoDB Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
-      "published": "Mon, 29 Dec 2025 09:54:15 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

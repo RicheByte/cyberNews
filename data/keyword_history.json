@@ -24,7 +24,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -72,7 +72,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -100,7 +100,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 152,
+      "count": 153,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -299,7 +299,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -521,7 +521,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -615,7 +615,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -871,7 +871,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1091,7 +1091,7 @@
       ]
     },
     "approximately 7 million": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2025-12-26",
         "2025-12-27",
@@ -1124,7 +1124,7 @@
       ]
     },
     "hijacked system resources": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1143,7 +1143,7 @@
       ]
     },
     "leak sensitive information": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1162,14 +1162,14 @@
       ]
     },
     "22 million affected": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "sprawling phishing campaign": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1182,7 +1182,7 @@
       ]
     },
     "primarily targeted sales": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1195,65 +1195,54 @@
       ]
     },
     "old flaws resurfaced": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "length parameter inconsistency": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "mongodb server memory": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "latest version following": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "cve 2020 12812": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "signature mgbot backdoor": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2025-12-30"
       ]
     },
     "chinese cyberespionage campaigns": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2025-12-30"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-21 22:15",
-      "articles": 56,
-      "top_keywords": [
-        "denmark blames russia",
-        "stringent identity authentication",
-        "open source millions",
-        "critical fortinet flaws",
-        "mass creating fake"
-      ]
-    },
     {
       "timestamp": "2025-12-22 01:19",
       "articles": 56,
@@ -2334,6 +2323,17 @@
     },
     {
       "timestamp": "2025-12-30 04:35",
+      "articles": 56,
+      "top_keywords": [
+        "approximately 7 million",
+        "mass creating fake",
+        "length parameter inconsistency",
+        "leak sensitive information",
+        "22 million affected"
+      ]
+    },
+    {
+      "timestamp": "2025-12-30 06:26",
       "articles": 56,
       "top_keywords": [
         "approximately 7 million",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-30 08:23 UTC |
+| 🕐 Last Updated | 2025-12-30 10:18 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`approximately 7 million` • `mass creating fake` • `length parameter inconsistency` • `leak sensitive information` • `22 million affected` • `retailers like bestbuy` • `twitter whistleblower complaint` • `signature mgbot backdoor` • `prolific cybercriminal group` • `primarily targeted sales`
+`approximately 7 million` • `leak sensitive information` • `chinese cyberespionage campaigns` • `mass creating fake` • `length parameter inconsistency` • `22 million affected` • `prolific cybercriminal group` • `retailers like bestbuy` • `twitter whistleblower complaint` • `primarily targeted sales`
 
 ## 📄 Reports
 

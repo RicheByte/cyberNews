@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-12-30 08:23",
+  "last_updated": "2025-12-30 10:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "approximately 7 million",
+    "leak sensitive information",
+    "chinese cyberespionage campaigns",
     "mass creating fake",
     "length parameter inconsistency",
-    "leak sensitive information",
     "22 million affected",
+    "prolific cybercriminal group",
     "retailers like bestbuy",
     "twitter whistleblower complaint",
-    "signature mgbot backdoor",
-    "prolific cybercriminal group",
     "primarily targeted sales",
     "old flaws resurfaced",
     "mongodb server memory",
@@ -19,54 +19,65 @@
     "hijacked system resources",
     "exploits surrounding ics",
     "cve 2020 12812",
-    "chinese cyberespionage campaigns",
     "additional brickstorm samples",
-    "critical security flaw",
-    "sprawling phishing campaign"
+    "sprawling phishing campaign",
+    "infostealer malware delivered",
+    "malicious cyber actors"
   ],
   "trending": [
     {
       "keyword": "approximately 7 million",
-      "mentions": 45
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 150
-    },
-    {
-      "keyword": "length parameter inconsistency",
-      "mentions": 6
+      "mentions": 46
     },
     {
       "keyword": "leak sensitive information",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "chinese cyberespionage campaigns",
+      "mentions": 6
+    },
+    {
+      "keyword": "mass creating fake",
+      "mentions": 151
+    },
+    {
+      "keyword": "length parameter inconsistency",
+      "mentions": 7
     },
     {
       "keyword": "22 million affected",
-      "mentions": 11
-    },
-    {
-      "keyword": "retailers like bestbuy",
-      "mentions": 92
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 154
-    },
-    {
-      "keyword": "signature mgbot backdoor",
-      "mentions": 5
+      "mentions": 12
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 140
+      "mentions": 141
+    },
+    {
+      "keyword": "retailers like bestbuy",
+      "mentions": 93
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 155
     },
     {
       "keyword": "primarily targeted sales",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
+      "link": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
+      "summary": "The Chinese hacking group known as Mustang Panda has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia. The findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group targeting",
+      "published": "Tue, 30 Dec 2025 14:05:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
@@ -144,18 +155,6 @@
       "value_score": 22,
       "value_signals": [
         "Backdoor"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
-      "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
-      "summary": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt injection. LangChain Core (i.e., langchain-core) is a core Python package that's part of the LangChain ecosystem, providing the core interfaces and model-agnostic abstractions for building",
-      "published": "Fri, 26 Dec 2025 14:57:00 +0530",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -392,6 +391,28 @@
     },
     {
       "source": "Security Week",
+      "title": "Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit",
+      "link": "https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/",
+      "summary": "The threat actor uses a signed driver file containing two user-mode shellcodes to execute its ToneShell backdoor. The post Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit appeared first on SecurityWeek .",
+      "published": "Tue, 30 Dec 2025 10:08:45 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Korean Air Data Compromised in Oracle EBS Hack",
+      "link": "https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/",
+      "summary": "Roughly 30,000 Korean Air employees had their data stolen by hackers in a breach at former subsidiary KC&D. The post Korean Air Data Compromised in Oracle EBS Hack appeared first on SecurityWeek .",
+      "published": "Tue, 30 Dec 2025 08:50:15 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000",
       "link": "https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/",
       "summary": "It took Sax well over a year to complete its investigation after detecting hackers on its network. The post Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000 appeared first on SecurityWeek .",
@@ -455,26 +476,6 @@
         "Breach/leak",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak",
-      "link": "https://www.securityweek.com/hacker-claims-theft-of-40-million-conde-nast-records-after-wired-data-leak/",
-      "summary": "A hacker named Lovely made public 2.3 million records representing Wired subscriber information. The post Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak appeared first on SecurityWeek .",
-      "published": "Mon, 29 Dec 2025 09:30:11 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Pro-Russian Hackers Claim Cyberattack on French Postal Service",
-      "link": "https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/",
-      "summary": "Central computer systems at French national postal service La Poste were knocked offline Monday in DDoS attack. The post Pro-Russian Hackers Claim Cyberattack on French Postal Service appeared first on SecurityWeek .",
-      "published": "Wed, 24 Dec 2025 14:35:05 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

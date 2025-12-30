@@ -24,7 +24,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -50,7 +50,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -62,7 +62,8 @@
         "2025-12-26",
         "2025-12-27",
         "2025-12-28",
-        "2025-12-29"
+        "2025-12-29",
+        "2025-12-30"
       ]
     },
     "user named csnemess": {
@@ -72,7 +73,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -100,7 +101,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 154,
+      "count": 155,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -299,7 +300,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -615,7 +616,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -871,7 +872,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1091,7 +1092,7 @@
       ]
     },
     "approximately 7 million": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2025-12-26",
         "2025-12-27",
@@ -1124,7 +1125,7 @@
       ]
     },
     "hijacked system resources": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1143,7 +1144,7 @@
       ]
     },
     "leak sensitive information": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1156,20 +1157,21 @@
       ]
     },
     "infostealer malware delivered": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2025-12-29"
+        "2025-12-29",
+        "2025-12-30"
       ]
     },
     "22 million affected": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "sprawling phishing campaign": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1182,7 +1184,7 @@
       ]
     },
     "primarily targeted sales": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1195,35 +1197,35 @@
       ]
     },
     "old flaws resurfaced": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "length parameter inconsistency": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "mongodb server memory": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "latest version following": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "cve 2020 12812": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1236,24 +1238,13 @@
       ]
     },
     "chinese cyberespionage campaigns": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2025-12-30"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-22 03:28",
-      "articles": 56,
-      "top_keywords": [
-        "denmark blames russia",
-        "stringent identity authentication",
-        "open source millions",
-        "critical fortinet flaws",
-        "mass creating fake"
-      ]
-    },
     {
       "timestamp": "2025-12-22 04:36",
       "articles": 56,
@@ -2341,6 +2332,17 @@
         "length parameter inconsistency",
         "leak sensitive information",
         "22 million affected"
+      ]
+    },
+    {
+      "timestamp": "2025-12-30 10:18",
+      "articles": 56,
+      "top_keywords": [
+        "approximately 7 million",
+        "leak sensitive information",
+        "chinese cyberespionage campaigns",
+        "mass creating fake",
+        "length parameter inconsistency"
       ]
     }
   ]

@@ -24,7 +24,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -50,7 +50,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -73,7 +73,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -101,7 +101,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -301,7 +301,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -617,7 +617,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -873,7 +873,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1126,7 +1126,7 @@
       ]
     },
     "hijacked system resources": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1158,14 +1158,14 @@
       ]
     },
     "infostealer malware delivered": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "22 million affected": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1185,7 +1185,7 @@
       ]
     },
     "primarily targeted sales": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1198,7 +1198,7 @@
       ]
     },
     "old flaws resurfaced": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1226,7 +1226,7 @@
       ]
     },
     "cve 2020 12812": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1239,7 +1239,7 @@
       ]
     },
     "chinese cyberespionage campaigns": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-30"
       ]
@@ -1251,7 +1251,7 @@
       ]
     },
     "cyber attack detected": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-30"
       ]
@@ -1263,48 +1263,37 @@
       ]
     },
     "nation s ability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2025-12-30"
       ]
     },
     "cyber insurers recommend": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-30"
       ]
     },
     "cyber security agency": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2025-12-30"
       ]
     },
     "newly discovered campaign": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2025-12-30"
       ]
     },
     "total disclosed value": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2025-12-30"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-22 12:34",
-      "articles": 56,
-      "top_keywords": [
-        "uk government acknowledges",
-        "2 5 million",
-        "critical fortinet flaws",
-        "critical security flaw",
-        "stringent identity authentication"
-      ]
-    },
     {
       "timestamp": "2025-12-22 14:17",
       "articles": 48,
@@ -2385,6 +2374,17 @@
     },
     {
       "timestamp": "2025-12-30 18:25",
+      "articles": 56,
+      "top_keywords": [
+        "mass creating fake",
+        "22 million affected",
+        "cyber security agency",
+        "newly discovered campaign",
+        "prolific cybercriminal group"
+      ]
+    },
+    {
+      "timestamp": "2025-12-30 20:18",
       "articles": 56,
       "top_keywords": [
         "mass creating fake",

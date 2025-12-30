@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-29 22:15 UTC  
+> **Last Updated:** 2025-12-30 01:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**approximately 7 million** • **mass creating fake** • **length parameter inconsistency** • **infostealer malware delivered** • **gpt 5 2** • **leak sensitive information** • **22 million affected** • **retailers like bestbuy** • **hacker claims theft** • **twitter whistleblower complaint** • **prolific cybercriminal group** • **primarily targeted sales** • **old flaws resurfaced** • **mongodb server memory** • **latest version following** • **hijacked system resources** • **exploits surrounding ics** • **cve 2020 12812** • **additional brickstorm samples** • **critical security flaw**
+**approximately 7 million** • **mass creating fake** • **length parameter inconsistency** • **leak sensitive information** • **22 million affected** • **retailers like bestbuy** • **twitter whistleblower complaint** • **signature mgbot backdoor** • **prolific cybercriminal group** • **primarily targeted sales** • **old flaws resurfaced** • **mongodb server memory** • **latest version following** • **hijacked system resources** • **exploits surrounding ics** • **cve 2020 12812** • **chinese cyberespionage campaigns** • **additional brickstorm samples** • **critical security flaw** • **sprawling phishing campaign**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Chinese state hackers use rootkit to hide ToneShell malware activity](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/)
+- [Coupang to split $1.17 billion among 33.7 million data breach victims](https://www.bleepingcomputer.com/news/security/coupang-to-split-117-billion-among-337-million-data-breach-victims/)
 - [Hacker arrested for KMSAuto malware campaign with 2.8 million downloads](https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/)
 - [Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack](https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/)
 - [The Real-World Attacks Behind OWASP Agentic AI Top 10](https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/)
 - [ChatGPT finally rolls out Thinking time toggle on mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/)
 - [Romanian energy provider hit by Gentlemen ransomware attack](https://www.bleepingcomputer.com/news/security/romanian-energy-provider-hit-by-gentlemen-ransomware-attack/)
 - [Former Coinbase support agent arrested for helping hackers](https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/)
-- [Korean Air data breach exposes data of thousands of employees](https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/)
-- [Microsoft Copilot is rolling out GPT 5.2 as "Smart Plus" mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/)
 
 ### Krebs on Security
 

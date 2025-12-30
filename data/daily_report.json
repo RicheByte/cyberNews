@@ -1,18 +1,16 @@
 {
-  "last_updated": "2025-12-29 22:15",
+  "last_updated": "2025-12-30 01:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "approximately 7 million",
     "mass creating fake",
     "length parameter inconsistency",
-    "infostealer malware delivered",
-    "gpt 5 2",
     "leak sensitive information",
     "22 million affected",
     "retailers like bestbuy",
-    "hacker claims theft",
     "twitter whistleblower complaint",
+    "signature mgbot backdoor",
     "prolific cybercriminal group",
     "primarily targeted sales",
     "old flaws resurfaced",
@@ -21,49 +19,51 @@
     "hijacked system resources",
     "exploits surrounding ics",
     "cve 2020 12812",
+    "chinese cyberespionage campaigns",
     "additional brickstorm samples",
-    "critical security flaw"
+    "critical security flaw",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "approximately 7 million",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 145
+      "mentions": 146
     },
     {
       "keyword": "length parameter inconsistency",
-      "mentions": 1
-    },
-    {
-      "keyword": "infostealer malware delivered",
-      "mentions": 6
-    },
-    {
-      "keyword": "gpt 5 2",
-      "mentions": 6
+      "mentions": 2
     },
     {
       "keyword": "leak sensitive information",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "22 million affected",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 87
-    },
-    {
-      "keyword": "hacker claims theft",
-      "mentions": 4
+      "mentions": 88
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 149
+      "mentions": 150
+    },
+    {
+      "keyword": "signature mgbot backdoor",
+      "mentions": 1
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 136
+    },
+    {
+      "keyword": "primarily targeted sales",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -160,6 +160,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Chinese state hackers use rootkit to hide ToneShell malware activity",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/",
+      "summary": "A new sample of the ToneShell backdoor, typically seen in Chinese cyberespionage campaigns, has been delivered through a kernel-mode loader in attacks against government organizations. [...]",
+      "published": "Mon, 29 Dec 2025 19:08:42 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Coupang to split $1.17 billion among 33.7 million data breach victims",
+      "link": "https://www.bleepingcomputer.com/news/security/coupang-to-split-117-billion-among-337-million-data-breach-victims/",
+      "summary": "Coupang, the largest retailer in South Korea, announced $1.17 billion (1.685 trillion Won) total compensation for the 33.7 million customers whose information was exposed in the data breach discovered last month. [...]",
+      "published": "Mon, 29 Dec 2025 17:27:01 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hacker arrested for KMSAuto malware campaign with 2.8 million downloads",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/",
       "summary": "A Lithuanian national has been arrested for his alleged involvement in infecting 2.8 million systems with clipboard-stealing malware disguised as the KMSAuto tool for illegally activating Windows and Office software. [...]",
@@ -213,26 +235,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/",
       "summary": "A former Coinbase customer service agent was arrested in India for helping hackers earlier this year steal sensitive customer information from a company database. [...]",
       "published": "Mon, 29 Dec 2025 09:16:47 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Korean Air data breach exposes data of thousands of employees",
-      "link": "https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/",
-      "summary": "Korean Air experienced a data breach affecting thousands of employees after Korean Air Catering & Duty-Free (KC&D), its in-flight catering supplier and former subsidiary, was recently hacked. [...]",
-      "published": "Mon, 29 Dec 2025 08:08:45 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Copilot is rolling out GPT 5.2 as \"Smart Plus\" mode",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/",
-      "summary": "Microsoft is rolling out GPT 5.2 to Copilot on the web, Windows, and mobile as a free upgrade, and it'll coexist with the GPT 5.1 model. [...]",
-      "published": "Mon, 29 Dec 2025 07:23:35 -0500",
       "value_score": 10,
       "value_signals": []
     },

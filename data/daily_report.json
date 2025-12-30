@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-30 12:34",
+  "last_updated": "2025-12-30 14:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,9 +8,9 @@
     "22 million affected",
     "prolific cybercriminal group",
     "threat actor known",
-    "retailers like bestbuy",
     "chinese cyberespionage campaigns",
     "twitter whistleblower complaint",
+    "retailers like bestbuy",
     "primarily targeted sales",
     "old flaws resurfaced",
     "mongodb server memory",
@@ -18,52 +18,52 @@
     "exploits surrounding ics",
     "cve 2020 12812",
     "additional brickstorm samples",
-    "health insurance information",
-    "infostealer malware delivered",
     "malicious cyber actors",
     "cyber attack detected",
-    "load toneshell backdoor"
+    "nation s ability",
+    "health insurance information",
+    "infostealer malware delivered"
   ],
   "trending": [
     {
       "keyword": "mass creating fake",
-      "mentions": 152
+      "mentions": 153
     },
     {
       "keyword": "length parameter inconsistency",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "22 million affected",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 142
+      "mentions": 143
     },
     {
       "keyword": "threat actor known",
-      "mentions": 3
-    },
-    {
-      "keyword": "retailers like bestbuy",
-      "mentions": 94
+      "mentions": 4
     },
     {
       "keyword": "chinese cyberespionage campaigns",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 156
+      "mentions": 157
+    },
+    {
+      "keyword": "retailers like bestbuy",
+      "mentions": 95
     },
     {
       "keyword": "primarily targeted sales",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "old flaws resurfaced",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
@@ -316,6 +316,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "New Tech Deployments Cyber Insurers Recommend for 2026",
+      "link": "https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data",
+      "summary": "An analysis of cyber-insurance claims data shows which cyber defenses actually work for policyholders. Here are six technologies that will pay off for companies in 2026.",
+      "published": "Tue, 30 Dec 2025 13:56:23 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "SBOMs in 2026: Some Love, Some Hate, Much Ambivalence",
       "link": "https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence",
       "summary": "With a new year upon us, software and cybersecurity experts disagree on the utility of software bill of materials — in theory, SBOMs are great, but in practice, they're a mess.",
@@ -327,10 +336,13 @@
       "source": "Dark Reading",
       "title": "5 Threats That Defined Security in 2025",
       "link": "https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025",
-      "summary": "2025 included a number of monumental threats, from the global attacks of Salt Typhoon to dangerous vulnerabilities like React2Shell.",
+      "summary": "2025 included a number of monumental threats, from global nation-state attacks to a critical vulnerability under widespread exploitation.",
       "published": "Mon, 29 Dec 2025 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -374,15 +386,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower",
       "summary": "Its latest cybersecurity acquisition will help further ServiceNow's plans for autonomous cybersecurity, and building a security stack to proactively manage AI.",
       "published": "Tue, 23 Dec 2025 20:03:15 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers",
-      "link": "https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers",
-      "summary": "The tech giant has been beset by a deluge of state-sponsored North Korean operatives, showcasing the sheer scale of the IT worker scam problem.",
-      "published": "Tue, 23 Dec 2025 17:42:50 GMT",
       "value_score": 10,
       "value_signals": []
     },

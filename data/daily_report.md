@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-30 12:34 UTC  
+> **Last Updated:** 2025-12-30 14:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **length parameter inconsistency** • **22 million affected** • **prolific cybercriminal group** • **threat actor known** • **retailers like bestbuy** • **chinese cyberespionage campaigns** • **twitter whistleblower complaint** • **primarily targeted sales** • **old flaws resurfaced** • **mongodb server memory** • **hijacked system resources** • **exploits surrounding ics** • **cve 2020 12812** • **additional brickstorm samples** • **health insurance information** • **infostealer malware delivered** • **malicious cyber actors** • **cyber attack detected** • **load toneshell backdoor**
+**mass creating fake** • **length parameter inconsistency** • **22 million affected** • **prolific cybercriminal group** • **threat actor known** • **chinese cyberespionage campaigns** • **twitter whistleblower complaint** • **retailers like bestbuy** • **primarily targeted sales** • **old flaws resurfaced** • **mongodb server memory** • **hijacked system resources** • **exploits surrounding ics** • **cve 2020 12812** • **additional brickstorm samples** • **malicious cyber actors** • **cyber attack detected** • **nation s ability** • **health insurance information** • **infostealer malware delivered**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [New Tech Deployments Cyber Insurers Recommend for 2026](https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data)
 - [SBOMs in 2026: Some Love, Some Hate, Much Ambivalence](https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence)
 - [5 Threats That Defined Security in 2025](https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025)
 - [Mentorship and Diversity: Shaping the Next Generation of Cyber Experts](https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts)
@@ -56,7 +57,6 @@
 - [Dark Reading Opens The State of Application Security Survey](https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey)
 - [Industry Continues to Push Back on HIPAA Security Rule Overhaul](https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul)
 - [ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'](https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower)
-- [Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers](https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers)
 
 ### Security Week
 

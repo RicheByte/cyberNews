@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-30 14:16",
+  "last_updated": "2025-12-30 16:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -18,52 +18,52 @@
     "exploits surrounding ics",
     "cve 2020 12812",
     "additional brickstorm samples",
-    "malicious cyber actors",
-    "cyber attack detected",
     "nation s ability",
+    "malicious cyber actors",
     "health insurance information",
-    "infostealer malware delivered"
+    "cyber insurers recommend",
+    "cyber attack detected"
   ],
   "trending": [
     {
       "keyword": "mass creating fake",
-      "mentions": 153
+      "mentions": 154
     },
     {
       "keyword": "length parameter inconsistency",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "22 million affected",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 143
+      "mentions": 144
     },
     {
       "keyword": "threat actor known",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "chinese cyberespionage campaigns",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 157
+      "mentions": 158
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 95
+      "mentions": 96
     },
     {
       "keyword": "primarily targeted sales",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "old flaws resurfaced",
-      "mentions": 12
+      "mentions": 13
     }
   ],
   "articles": [
@@ -156,6 +156,31 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "US cybersecurity experts plead guilty to BlackCat ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/",
+      "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint have pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
+      "published": "Tue, 30 Dec 2025 10:25:17 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch MongoBleed flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/",
+      "summary": "CISA ordered U.S. federal agencies to patch an actively exploited MongoDB vulnerability (MongoBleed) that can be exploited to steal credentials, API keys, and other sensitive data. [...]",
+      "published": "Tue, 30 Dec 2025 09:40:13 -0500",
+      "value_score": 97,
+      "value_signals": [
+        "Active exploitation",
+        "Patch/update ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Chinese state hackers use rootkit to hide ToneShell malware activity",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/",
       "summary": "A new sample of the ToneShell backdoor, typically seen in Chinese cyberespionage campaigns, has been delivered through a kernel-mode loader in attacks against government organizations. [...]",
@@ -213,26 +238,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Romanian energy provider hit by Gentlemen ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/romanian-energy-provider-hit-by-gentlemen-ransomware-attack/",
-      "summary": "A ransomware attack hit Oltenia Energy Complex (Complexul Energetic Oltenia), Romania's largest coal-based energy producer, on the second day of Christmas, taking down its IT infrastructure. [...]",
-      "published": "Mon, 29 Dec 2025 09:26:00 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Former Coinbase support agent arrested for helping hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/",
-      "summary": "A former Coinbase customer service agent was arrested in India for helping hackers earlier this year steal sensitive customer information from a company database. [...]",
-      "published": "Mon, 29 Dec 2025 09:16:47 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -316,7 +321,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "New Tech Deployments Cyber Insurers Recommend for 2026",
+      "title": "New Tech Deployments That Cyber Insurers Recommend for 2026",
       "link": "https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data",
       "summary": "An analysis of cyber-insurance claims data shows which cyber defenses actually work for policyholders. Here are six technologies that will pay off for companies in 2026.",
       "published": "Tue, 30 Dec 2025 13:56:23 GMT",
@@ -357,7 +362,7 @@
       "source": "Dark Reading",
       "title": "As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026",
       "link": "https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026",
-      "summary": "Developers are leaning more heavily on AI for code generation, but in 2026, the development pipeline and security need to be prioritized.",
+      "summary": "Developers are leaning more heavily on AI for code generation, but in 2026 the development pipeline and security need to be prioritized.",
       "published": "Fri, 26 Dec 2025 13:04:07 GMT",
       "value_score": 10,
       "value_signals": []
@@ -384,7 +389,7 @@
       "source": "Dark Reading",
       "title": "ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'",
       "link": "https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower",
-      "summary": "Its latest cybersecurity acquisition will help further ServiceNow's plans for autonomous cybersecurity, and building a security stack to proactively manage AI.",
+      "summary": "Its latest cybersecurity acquisition will help further ServiceNow's plans for autonomous cybersecurity and building a security stack to proactively manage AI.",
       "published": "Tue, 23 Dec 2025 20:03:15 GMT",
       "value_score": 10,
       "value_signals": []

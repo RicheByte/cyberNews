@@ -24,7 +24,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -50,7 +50,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -73,7 +73,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -101,7 +101,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -201,7 +201,7 @@
       ]
     },
     "threat actor known": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-17",
         "2025-12-30"
@@ -301,7 +301,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -617,7 +617,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -873,7 +873,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1126,7 +1126,7 @@
       ]
     },
     "hijacked system resources": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1165,7 +1165,7 @@
       ]
     },
     "22 million affected": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1185,7 +1185,7 @@
       ]
     },
     "primarily targeted sales": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1198,21 +1198,21 @@
       ]
     },
     "old flaws resurfaced": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "length parameter inconsistency": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2025-12-29",
         "2025-12-30"
       ]
     },
     "mongodb server memory": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1226,7 +1226,7 @@
       ]
     },
     "cve 2020 12812": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2025-12-29",
         "2025-12-30"
@@ -1239,19 +1239,19 @@
       ]
     },
     "chinese cyberespionage campaigns": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-30"
       ]
     },
     "health insurance information": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-30"
       ]
     },
     "cyber attack detected": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-30"
       ]
@@ -1263,6 +1263,12 @@
       ]
     },
     "nation s ability": {
+      "count": 2,
+      "dates": [
+        "2025-12-30"
+      ]
+    },
+    "cyber insurers recommend": {
       "count": 1,
       "dates": [
         "2025-12-30"
@@ -1270,17 +1276,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-22 08:24",
-      "articles": 56,
-      "top_keywords": [
-        "denmark blames russia",
-        "stringent identity authentication",
-        "critical fortinet flaws",
-        "2 5 million",
-        "critical security flaw"
-      ]
-    },
     {
       "timestamp": "2025-12-22 10:18",
       "articles": 56,
@@ -2361,6 +2356,17 @@
     },
     {
       "timestamp": "2025-12-30 14:16",
+      "articles": 56,
+      "top_keywords": [
+        "mass creating fake",
+        "length parameter inconsistency",
+        "22 million affected",
+        "prolific cybercriminal group",
+        "threat actor known"
+      ]
+    },
+    {
+      "timestamp": "2025-12-30 16:21",
       "articles": 56,
       "top_keywords": [
         "mass creating fake",

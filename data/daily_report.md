@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-31 06:27 UTC  
+> **Last Updated:** 2025-12-31 08:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**22 million affected** • **mass creating fake** • **cyber security agency** • **newly discovered campaign** • **prolific cybercriminal group** • **cve 2020 12812** • **chinese cyberespionage campaigns** • **twitter whistleblower complaint** • **retailers like bestbuy** • **primarily targeted sales** • **old flaws resurfaced** • **hijacked system resources** • **exploits surrounding ics** • **additional brickstorm samples** • **cyber attack detected** • **nation s ability** • **generating fake glitches** • **infostealer malware delivered** • **malicious cyber actors** • **cyber insurers recommend**
+**22 million affected** • **mass creating fake** • **cyber security agency** • **newly discovered campaign** • **prolific cybercriminal group** • **cve 2020 12812** • **chinese cyberespionage campaigns** • **twitter whistleblower complaint** • **retailers like bestbuy** • **primarily targeted sales** • **old flaws resurfaced** • **mongodb server memory** • **holding company behind** • **exploits surrounding ics** • **additional brickstorm samples** • **generating fake glitches** • **infostealer malware delivered** • **cyber insurers recommend** • **cyber attack detected** • **total disclosed value**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html)
 - [CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html)
 - [Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware](https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html)
 - [How to Integrate AI into Modern SOC Workflows](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html)
@@ -23,7 +24,6 @@
 - [⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More](https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html)
 - [MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide](https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html)
 - [27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials](https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html)
-- [Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors](https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html)
 
 ### BleepingComputer
 

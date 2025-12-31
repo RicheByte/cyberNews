@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-31 06:27",
+  "last_updated": "2025-12-31 08:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -14,59 +14,68 @@
     "retailers like bestbuy",
     "primarily targeted sales",
     "old flaws resurfaced",
-    "hijacked system resources",
+    "mongodb server memory",
+    "holding company behind",
     "exploits surrounding ics",
     "additional brickstorm samples",
-    "cyber attack detected",
-    "nation s ability",
     "generating fake glitches",
     "infostealer malware delivered",
-    "malicious cyber actors",
-    "cyber insurers recommend"
+    "cyber insurers recommend",
+    "cyber attack detected",
+    "total disclosed value"
   ],
   "trending": [
     {
       "keyword": "22 million affected",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 161
+      "mentions": 162
     },
     {
       "keyword": "cyber security agency",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "newly discovered campaign",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 151
+      "mentions": 152
     },
     {
       "keyword": "cve 2020 12812",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "chinese cyberespionage campaigns",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 165
+      "mentions": 166
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 103
+      "mentions": 104
     },
     {
       "keyword": "primarily targeted sales",
-      "mentions": 21
+      "mentions": 22
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
+      "link": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
+      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday removed three individuals linked to the Intellexa Consortium, the holding company behind a commercial spyware known as Predator, from the specially designated nationals list. The names of the individuals are as follows - Merom Harpaz Andrea Nicola Constantino Hermes Gambazzi Sara Aleksandra Fayssal Hamou",
+      "published": "Wed, 31 Dec 2025 10:47:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
@@ -147,15 +156,6 @@
         "Phishing ×2",
         "High severity"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
-      "link": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
-      "summary": "In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory. The result: 23.77 million secrets were leaked through AI",
-      "published": "Mon, 29 Dec 2025 12:04:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

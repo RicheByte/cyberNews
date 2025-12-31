@@ -25,7 +25,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -76,7 +76,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -105,7 +105,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -306,7 +306,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -623,7 +623,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -880,7 +880,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1167,7 +1167,7 @@
       ]
     },
     "infostealer malware delivered": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1175,7 +1175,7 @@
       ]
     },
     "22 million affected": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1196,7 +1196,7 @@
       ]
     },
     "primarily targeted sales": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1210,7 +1210,7 @@
       ]
     },
     "old flaws resurfaced": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1225,10 +1225,11 @@
       ]
     },
     "mongodb server memory": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-29",
-        "2025-12-30"
+        "2025-12-30",
+        "2025-12-31"
       ]
     },
     "latest version following": {
@@ -1239,7 +1240,7 @@
       ]
     },
     "cve 2020 12812": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1253,7 +1254,7 @@
       ]
     },
     "chinese cyberespionage campaigns": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-30",
         "2025-12-31"
@@ -1266,7 +1267,7 @@
       ]
     },
     "cyber attack detected": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-30",
         "2025-12-31"
@@ -1286,52 +1287,48 @@
       ]
     },
     "cyber insurers recommend": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-30",
         "2025-12-31"
       ]
     },
     "cyber security agency": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-30",
         "2025-12-31"
       ]
     },
     "newly discovered campaign": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-30",
         "2025-12-31"
       ]
     },
     "total disclosed value": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2025-12-30"
+        "2025-12-30",
+        "2025-12-31"
       ]
     },
     "generating fake glitches": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2025-12-30",
+        "2025-12-31"
+      ]
+    },
+    "holding company behind": {
+      "count": 1,
+      "dates": [
         "2025-12-31"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-23 01:16",
-      "articles": 56,
-      "top_keywords": [
-        "uk government acknowledges",
-        "mass creating fake",
-        "stealthy loader known",
-        "nearly five months",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2025-12-23 03:23",
       "articles": 56,
@@ -2412,6 +2409,17 @@
     },
     {
       "timestamp": "2025-12-31 06:27",
+      "articles": 56,
+      "top_keywords": [
+        "22 million affected",
+        "mass creating fake",
+        "cyber security agency",
+        "newly discovered campaign",
+        "prolific cybercriminal group"
+      ]
+    },
+    {
+      "timestamp": "2025-12-31 08:23",
       "articles": 56,
       "top_keywords": [
         "22 million affected",

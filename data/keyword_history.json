@@ -25,7 +25,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -52,7 +52,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -76,7 +76,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 152,
+      "count": 153,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -105,7 +105,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 166,
+      "count": 167,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -306,7 +306,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -623,7 +623,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 141,
+      "count": 142,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -880,7 +880,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1175,7 +1175,7 @@
       ]
     },
     "22 million affected": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1210,7 +1210,7 @@
       ]
     },
     "old flaws resurfaced": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1225,7 +1225,7 @@
       ]
     },
     "mongodb server memory": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1240,7 +1240,7 @@
       ]
     },
     "cve 2020 12812": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1254,7 +1254,7 @@
       ]
     },
     "chinese cyberespionage campaigns": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2025-12-30",
         "2025-12-31"
@@ -1287,41 +1287,53 @@
       ]
     },
     "cyber insurers recommend": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2025-12-30",
         "2025-12-31"
       ]
     },
     "cyber security agency": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-30",
         "2025-12-31"
       ]
     },
     "newly discovered campaign": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-30",
         "2025-12-31"
       ]
     },
     "total disclosed value": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2025-12-30",
         "2025-12-31"
       ]
     },
     "generating fake glitches": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-30",
         "2025-12-31"
       ]
     },
     "holding company behind": {
+      "count": 2,
+      "dates": [
+        "2025-12-31"
+      ]
+    },
+    "european space agency": {
+      "count": 1,
+      "dates": [
+        "2025-12-31"
+      ]
+    },
+    "2025 2025 included": {
       "count": 1,
       "dates": [
         "2025-12-31"
@@ -1329,17 +1341,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-23 03:23",
-      "articles": 56,
-      "top_keywords": [
-        "uk government acknowledges",
-        "mass creating fake",
-        "stealthy loader known",
-        "nearly five months",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2025-12-23 04:34",
       "articles": 56,
@@ -2427,6 +2428,17 @@
         "cyber security agency",
         "newly discovered campaign",
         "prolific cybercriminal group"
+      ]
+    },
+    {
+      "timestamp": "2025-12-31 10:17",
+      "articles": 56,
+      "top_keywords": [
+        "22 million affected",
+        "newly discovered campaign",
+        "mass creating fake",
+        "prolific cybercriminal group",
+        "cve 2020 12812"
       ]
     }
   ]

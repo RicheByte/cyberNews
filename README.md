@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-31 08:23 UTC |
+| 🕐 Last Updated | 2025-12-31 10:17 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`22 million affected` • `mass creating fake` • `cyber security agency` • `newly discovered campaign` • `prolific cybercriminal group` • `cve 2020 12812` • `chinese cyberespionage campaigns` • `twitter whistleblower complaint` • `retailers like bestbuy` • `primarily targeted sales`
+`22 million affected` • `newly discovered campaign` • `mass creating fake` • `prolific cybercriminal group` • `cve 2020 12812` • `chinese cyberespionage campaigns` • `cyber security agency` • `twitter whistleblower complaint` • `retailers like bestbuy` • `old flaws resurfaced`
 
 ## 📄 Reports
 

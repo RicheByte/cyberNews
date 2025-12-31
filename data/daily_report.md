@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-31 08:23 UTC  
+> **Last Updated:** 2025-12-31 10:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**22 million affected** • **mass creating fake** • **cyber security agency** • **newly discovered campaign** • **prolific cybercriminal group** • **cve 2020 12812** • **chinese cyberespionage campaigns** • **twitter whistleblower complaint** • **retailers like bestbuy** • **primarily targeted sales** • **old flaws resurfaced** • **mongodb server memory** • **holding company behind** • **exploits surrounding ics** • **additional brickstorm samples** • **generating fake glitches** • **infostealer malware delivered** • **cyber insurers recommend** • **cyber attack detected** • **total disclosed value**
+**22 million affected** • **newly discovered campaign** • **mass creating fake** • **prolific cybercriminal group** • **cve 2020 12812** • **chinese cyberespionage campaigns** • **cyber security agency** • **twitter whistleblower complaint** • **retailers like bestbuy** • **old flaws resurfaced** • **mongodb server memory** • **holding company behind** • **exploits surrounding ics** • **additional brickstorm samples** • **generating fake glitches** • **european space agency** • **malicious cyber actors** • **cyber insurers recommend** • **total disclosed value** • **2025 2025 included**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Disney will pay $10 million to settle children's data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/)
 - [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/)
 - [European Space Agency confirms breach of "external servers"](https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/)
 - [Zoom Stealer browser extensions harvest corporate meeting intelligence](https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/)
@@ -34,7 +35,6 @@
 - [CISA orders feds to patch MongoBleed flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/)
 - [Chinese state hackers use rootkit to hide ToneShell malware activity](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/)
 - [Coupang to split $1.17 billion among 33.7 million data breach victims](https://www.bleepingcomputer.com/news/security/coupang-to-split-117-billion-among-337-million-data-breach-victims/)
-- [Hacker arrested for KMSAuto malware campaign with 2.8 million downloads](https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [European Space Agency Confirms Breach After Hacker Offers to Sell Data](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/)
 - [8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025](https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/)
 - [Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit](https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/)
 - [Korean Air Data Compromised in Oracle EBS Hack](https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/)
@@ -67,7 +68,6 @@
 - [Fortinet Warns of New Attacks Exploiting Old Vulnerability](https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/)
 - [Coupang to Issue $1.17 Billion in Vouchers Over Data Breach](https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/)
 - [22 Million Affected by Aflac Data Breach](https://www.securityweek.com/22-million-affected-by-aflac-data-breach/)
-- [Infostealer Malware Delivered in EmEditor Supply Chain Attack](https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/)
 
 ### Threatpost
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-31 10:17 UTC  
+> **Last Updated:** 2025-12-31 12:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**22 million affected** • **newly discovered campaign** • **mass creating fake** • **prolific cybercriminal group** • **cve 2020 12812** • **chinese cyberespionage campaigns** • **cyber security agency** • **twitter whistleblower complaint** • **retailers like bestbuy** • **old flaws resurfaced** • **mongodb server memory** • **holding company behind** • **exploits surrounding ics** • **additional brickstorm samples** • **generating fake glitches** • **european space agency** • **malicious cyber actors** • **cyber insurers recommend** • **total disclosed value** • **2025 2025 included**
+**newly discovered campaign** • **mass creating fake** • **prolific cybercriminal group** • **cyber security agency** • **cve 2020 12812** • **chinese cyberespionage campaigns** • **twitter whistleblower complaint** • **retailers like bestbuy** • **old flaws resurfaced** • **mongodb server memory** • **holding company behind** • **exploits surrounding ics** • **additional brickstorm samples** • **generating fake glitches** • **european space agency** • **attackers moved faster** • **malicious cyber actors** • **cyber insurers recommend** • **total disclosed value** • **2025 2025 included**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
 - [Disney will pay $10 million to settle children's data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/)
 - [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/)
 - [European Space Agency confirms breach of "external servers"](https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/)
@@ -34,7 +35,6 @@
 - [US cybersecurity experts plead guilty to BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/)
 - [CISA orders feds to patch MongoBleed flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/)
 - [Chinese state hackers use rootkit to hide ToneShell malware activity](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/)
-- [Coupang to split $1.17 billion among 33.7 million data breach victims](https://www.bleepingcomputer.com/news/security/coupang-to-split-117-billion-among-337-million-data-breach-victims/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy](https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy)
 - [New Tech Deployments That Cyber Insurers Recommend for 2026](https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data)
 - [SBOMs in 2026: Some Love, Some Hate, Much Ambivalence](https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence)
 - [5 Threats That Defined Security in 2025](https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025)
@@ -56,10 +57,10 @@
 - [As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026](https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026)
 - [Dark Reading Opens The State of Application Security Survey](https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey)
 - [Industry Continues to Push Back on HIPAA Security Rule Overhaul](https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul)
-- [ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'](https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower)
 
 ### Security Week
 
+- [Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist](https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/)
 - [European Space Agency Confirms Breach After Hacker Offers to Sell Data](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/)
 - [8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025](https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/)
 - [Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit](https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/)
@@ -67,7 +68,6 @@
 - [Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000](https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/)
 - [Fortinet Warns of New Attacks Exploiting Old Vulnerability](https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/)
 - [Coupang to Issue $1.17 Billion in Vouchers Over Data Breach](https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/)
-- [22 Million Affected by Aflac Data Breach](https://www.securityweek.com/22-million-affected-by-aflac-data-breach/)
 
 ### Threatpost
 

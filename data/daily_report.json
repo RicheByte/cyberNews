@@ -1,15 +1,14 @@
 {
-  "last_updated": "2025-12-31 10:17",
+  "last_updated": "2025-12-31 12:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "22 million affected",
     "newly discovered campaign",
     "mass creating fake",
     "prolific cybercriminal group",
+    "cyber security agency",
     "cve 2020 12812",
     "chinese cyberespionage campaigns",
-    "cyber security agency",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
     "old flaws resurfaced",
@@ -19,6 +18,7 @@
     "additional brickstorm samples",
     "generating fake glitches",
     "european space agency",
+    "attackers moved faster",
     "malicious cyber actors",
     "cyber insurers recommend",
     "total disclosed value",
@@ -26,44 +26,44 @@
   ],
   "trending": [
     {
-      "keyword": "22 million affected",
-      "mentions": 24
-    },
-    {
       "keyword": "newly discovered campaign",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 163
+      "mentions": 164
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 153
-    },
-    {
-      "keyword": "cve 2020 12812",
-      "mentions": 19
-    },
-    {
-      "keyword": "chinese cyberespionage campaigns",
-      "mentions": 18
+      "mentions": 154
     },
     {
       "keyword": "cyber security agency",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "cve 2020 12812",
+      "mentions": 20
+    },
+    {
+      "keyword": "chinese cyberespionage campaigns",
+      "mentions": 19
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 167
+      "mentions": 168
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 105
+      "mentions": 106
     },
     {
       "keyword": "old flaws resurfaced",
-      "mentions": 22
+      "mentions": 23
+    },
+    {
+      "keyword": "mongodb server memory",
+      "mentions": 13
     }
   ],
   "articles": [
@@ -159,6 +159,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "IBM warns of critical API Connect auth bypass vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/",
+      "summary": "IBM urged customers to patch a critical authentication bypass vulnerability in its API Connect enterprise platform that could allow attackers to access apps remotely. [...]",
+      "published": "Wed, 31 Dec 2025 05:34:38 -0500",
+      "value_score": 64,
+      "value_signals": [
+        "Auth bypass ×2",
+        "Patch/update",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Disney will pay $10 million to settle children's data privacy lawsuit",
       "link": "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/",
       "summary": "Disney has agreed to pay a $10 million civil penalty to settle claims that it violated the Children's Online Privacy Protection Act by mislabeling videos and allowing data collection for targeted advertising. [...]",
@@ -229,17 +242,6 @@
       "value_score": 22,
       "value_signals": [
         "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Coupang to split $1.17 billion among 33.7 million data breach victims",
-      "link": "https://www.bleepingcomputer.com/news/security/coupang-to-split-117-billion-among-337-million-data-breach-victims/",
-      "summary": "Coupang, the largest retailer in South Korea, announced $1.17 billion (1.685 trillion Won) total compensation for the 33.7 million customers whose information was exposed in the data breach discovered last month. [...]",
-      "published": "Mon, 29 Dec 2025 17:27:01 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -324,6 +326,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy",
+      "link": "https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy",
+      "summary": "The year ahead will see an intensified AI-driven cybersecurity arms race, with attackers leveraging autonomous malware and advanced AI technologies to outpace defenders, while security teams adopt increasingly sophisticated AI tools to combat evolving threats amidst growing vendor consolidation and platformization in the industry.",
+      "published": "Tue, 30 Dec 2025 14:00:25 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "New Tech Deployments That Cyber Insurers Recommend for 2026",
       "link": "https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data",
       "summary": "An analysis of cyber-insurance claims data shows which cyber defenses actually work for policyholders. Here are six technologies that will pay off for companies in 2026.",
@@ -389,13 +400,15 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'",
-      "link": "https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower",
-      "summary": "Its latest cybersecurity acquisition will help further ServiceNow's plans for autonomous cybersecurity and building a security stack to proactively manage AI.",
-      "published": "Tue, 23 Dec 2025 20:03:15 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist",
+      "link": "https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/",
+      "summary": "The worm exposed Trust Wallet’s Developer GitHub secrets, allowing attackers to publish a backdoor extension and steal funds from 2,520 wallets. The post Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist appeared first on SecurityWeek .",
+      "published": "Wed, 31 Dec 2025 11:58:51 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
     },
     {
       "source": "Security Week",
@@ -468,17 +481,6 @@
       "link": "https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/",
       "summary": "The ecommerce giant will provide purchase vouchers to the 33.7 million individuals impacted by the incident. The post Coupang to Issue $1.17 Billion in Vouchers Over Data Breach appeared first on SecurityWeek .",
       "published": "Mon, 29 Dec 2025 12:13:11 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "22 Million Affected by Aflac Data Breach",
-      "link": "https://www.securityweek.com/22-million-affected-by-aflac-data-breach/",
-      "summary": "Hackers stole names, addresses, Social Security numbers, ID numbers, and medical and health insurance information from Aflac’s systems. The post 22 Million Affected by Aflac Data Breach appeared first on SecurityWeek .",
-      "published": "Mon, 29 Dec 2025 11:57:08 +0000",
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"

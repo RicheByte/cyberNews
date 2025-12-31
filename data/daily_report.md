@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-31 16:20 UTC  
+> **Last Updated:** 2025-12-31 18:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**authentication bypass flaw** • **bypass authentication mechanisms** • **mass creating fake** • **cyber security agency** • **prolific cybercriminal group** • **cve 2025 13915** • **twitter whistleblower complaint** • **retailers like bestbuy** • **old flaws resurfaced** • **newly discovered campaign** • **identity platform consolidation** • **holding company behind** • **exploits surrounding ics** • **cve 2020 12812** • **always connected devices** • **additional brickstorm samples** • **critical security flaw** • **generating fake glitches** • **european space agency** • **attackers moved faster**
+**authentication bypass flaw** • **bypass authentication mechanisms** • **critical security flaw** • **mass creating fake** • **microsoft edge users** • **cyber security agency** • **twitter whistleblower complaint** • **retailers like bestbuy** • **rated 9 8** • **prolific cybercriminal group** • **newly discovered campaign** • **identity platform consolidation** • **holding company behind** • **exploits surrounding ics** • **cve 2025 13915** • **cve 2020 12812** • **always connected devices** • **additional brickstorm samples** • **generating fake glitches** • **european space agency**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
+- [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
 - [IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
 - [Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry](https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html)
 - [U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html)
 - [CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html)
 - [Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware](https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html)
 - [How to Integrate AI into Modern SOC Workflows](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html)
-- [Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor](https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html)
-- [⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More](https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html)
 
 ### BleepingComputer
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?](https://www.darkreading.com/cyber-risk/sunken-ships-ivanti-epmm-attacks)
 - [When the Cloud Rains on Everyone's IoT Parade](https://www.darkreading.com/iot/when-cloud-rains-on-everyone-iot-parade)
-- [Identity Security 2026: Four Predictions and Recommendations](https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations)
+- [Identity Security 2026: Four Predictions &amp; Recommendations](https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations)
 - [Contrarians No More: AI Skepticism Is on the Rise](https://www.darkreading.com/cybersecurity-operations/contrarians-no-more-ai-skepticism)
 - [Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy](https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy)
 - [New Tech Deployments That Cyber Insurers Recommend for 2026](https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data)
 - [Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms](https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms)
 - [SBOMs in 2026: Some Love, Some Hate, Much Ambivalence](https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence)
-- [5 Threats That Defined Security in 2025](https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025)
 
 ### Security Week
 

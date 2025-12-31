@@ -1,72 +1,90 @@
 {
-  "last_updated": "2025-12-31 16:20",
+  "last_updated": "2025-12-31 18:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "authentication bypass flaw",
     "bypass authentication mechanisms",
+    "critical security flaw",
     "mass creating fake",
+    "microsoft edge users",
     "cyber security agency",
-    "prolific cybercriminal group",
-    "cve 2025 13915",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
-    "old flaws resurfaced",
+    "rated 9 8",
+    "prolific cybercriminal group",
     "newly discovered campaign",
     "identity platform consolidation",
     "holding company behind",
     "exploits surrounding ics",
+    "cve 2025 13915",
     "cve 2020 12812",
     "always connected devices",
     "additional brickstorm samples",
-    "critical security flaw",
     "generating fake glitches",
-    "european space agency",
-    "attackers moved faster"
+    "european space agency"
   ],
   "trending": [
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "bypass authentication mechanisms",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 79
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 166
+      "mentions": 167
+    },
+    {
+      "keyword": "microsoft edge users",
+      "mentions": 1
     },
     {
       "keyword": "cyber security agency",
-      "mentions": 12
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 156
-    },
-    {
-      "keyword": "cve 2025 13915",
-      "mentions": 2
+      "mentions": 13
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 170
+      "mentions": 171
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 108
+      "mentions": 109
     },
     {
-      "keyword": "old flaws resurfaced",
-      "mentions": 25
+      "keyword": "rated 9 8",
+      "mentions": 1
     },
     {
-      "keyword": "newly discovered campaign",
-      "mentions": 12
+      "keyword": "prolific cybercriminal group",
+      "mentions": 157
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
+      "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
+      "summary": "Trust Wallet on Tuesday revealed that the second iteration of the Shai-Hulud (aka Sha1-Hulud) supply chain outbreak in November 2025 was likely responsible for the hack of its Google Chrome extension, ultimately resulting in the theft of approximately $8.5 million in assets. \"Our Developer GitHub secrets were exposed in the attack, which gave the attacker access to our browser extension source",
+      "published": "Wed, 31 Dec 2025 21:59:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
+      "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
+      "summary": "The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 million users of Google Chrome, Microsoft Edge, and Mozilla Firefox. The activity is assessed to be the work of a Chinese threat actor that Koi Security is tracking under the moniker DarkSpectre. In all, the",
+      "published": "Wed, 31 Dec 2025 21:44:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
@@ -129,26 +147,6 @@
       "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
       "summary": "Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimentation into consistent operational value. This is because SOCs are adopting AI without an intentional approach to operational integration. Some teams treat it as a shortcut for broken processes. Others attempt to apply machine learning to problems",
       "published": "Tue, 30 Dec 2025 15:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
-      "link": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
-      "summary": "The Chinese hacking group known as Mustang Panda has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia. The findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group targeting",
-      "published": "Tue, 30 Dec 2025 14:05:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
-      "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
-      "summary": "Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately. A common theme ran through it all in 2025. Attackers moved faster than fixes. Access meant for work, updates, or support kept getting abused. And damage did not",
-      "published": "Mon, 29 Dec 2025 19:08:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -320,6 +318,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?",
+      "link": "https://www.darkreading.com/cyber-risk/sunken-ships-ivanti-epmm-attacks",
+      "summary": "The April/May zero-day exploitations of Ivanti's mobile device management platform meant unprecedented pwning of thousands of orgs by a Chinese APT — and history will probably repeat itself.",
+      "published": "Wed, 31 Dec 2025 17:35:27 GMT",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "When the Cloud Rains on Everyone's IoT Parade",
       "link": "https://www.darkreading.com/iot/when-cloud-rains-on-everyone-iot-parade",
       "summary": "What happens to all of those always-connected devices and Internet of Things when the cloud goes down? Disruptions to sleep, school, and smart homes, just to name a few issues.",
@@ -329,7 +339,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Identity Security 2026: Four Predictions and Recommendations",
+      "title": "Identity Security 2026: Four Predictions &amp; Recommendations",
       "link": "https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations",
       "summary": "Agentic AI adoption and identity security risks, IGA expands in mid-market, SOC-identity team collaboration, and identity platform consolidation—this 2026 predictions post previews identity trends.",
       "published": "Wed, 31 Dec 2025 14:00:58 GMT",
@@ -380,18 +390,6 @@
       "published": "Mon, 29 Dec 2025 14:51:59 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "5 Threats That Defined Security in 2025",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025",
-      "summary": "2025 included a number of monumental threats, from global nation-state attacks to a critical vulnerability under widespread exploitation.",
-      "published": "Mon, 29 Dec 2025 14:00:00 GMT",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

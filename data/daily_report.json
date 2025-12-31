@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-31 18:23",
+  "last_updated": "2025-12-31 20:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "bypass authentication mechanisms",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 79
+      "mentions": 80
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 167
+      "mentions": 168
     },
     {
       "keyword": "microsoft edge users",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cyber security agency",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 171
+      "mentions": 172
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 109
+      "mentions": 110
     },
     {
       "keyword": "rated 9 8",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 157
+      "mentions": 158
     }
   ],
   "articles": [
@@ -332,7 +332,7 @@
       "source": "Dark Reading",
       "title": "When the Cloud Rains on Everyone's IoT Parade",
       "link": "https://www.darkreading.com/iot/when-cloud-rains-on-everyone-iot-parade",
-      "summary": "What happens to all of those always-connected devices and Internet of Things when the cloud goes down? Disruptions to sleep, school, and smart homes, just to name a few issues.",
+      "summary": "What happens to all of those always-connected devices when the cloud goes down? Disruptions to sleep, school, and smart homes, just to name a few issues.",
       "published": "Wed, 31 Dec 2025 14:31:37 GMT",
       "value_score": 10,
       "value_signals": []

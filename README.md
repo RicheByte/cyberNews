@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-31 12:33 UTC |
+| 🕐 Last Updated | 2025-12-31 14:16 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`newly discovered campaign` • `mass creating fake` • `prolific cybercriminal group` • `cyber security agency` • `cve 2020 12812` • `chinese cyberespionage campaigns` • `twitter whistleblower complaint` • `retailers like bestbuy` • `old flaws resurfaced` • `mongodb server memory`
+`authentication bypass flaw` • `bypass authentication mechanisms` • `mass creating fake` • `cyber security agency` • `prolific cybercriminal group` • `chinese cyberespionage campaigns` • `cve 2025 13915` • `critical security flaw` • `twitter whistleblower complaint` • `retailers like bestbuy`
 
 ## 📄 Reports
 

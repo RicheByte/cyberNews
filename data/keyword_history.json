@@ -25,7 +25,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -76,7 +76,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -105,7 +105,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 172,
+      "count": 173,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -306,7 +306,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -529,7 +529,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -624,7 +624,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -881,7 +881,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1241,7 +1241,7 @@
       ]
     },
     "cve 2020 12812": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1295,14 +1295,14 @@
       ]
     },
     "cyber security agency": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-30",
         "2025-12-31"
       ]
     },
     "newly discovered campaign": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-30",
         "2025-12-31"
@@ -1316,20 +1316,20 @@
       ]
     },
     "generating fake glitches": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-30",
         "2025-12-31"
       ]
     },
     "holding company behind": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-31"
       ]
     },
     "european space agency": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-31"
       ]
@@ -1347,60 +1347,49 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-31"
       ]
     },
     "bypass authentication mechanisms": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-31"
       ]
     },
     "cve 2025 13915": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-31"
       ]
     },
     "identity platform consolidation": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-31"
       ]
     },
     "always connected devices": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2025-12-31"
       ]
     },
     "microsoft edge users": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-31"
       ]
     },
     "rated 9 8": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-31"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-23 14:16",
-      "articles": 56,
-      "top_keywords": [
-        "victim's whatsapp account",
-        "critical components made",
-        "mass creating fake",
-        "devices already inside",
-        "video surveillance equipment"
-      ]
-    },
     {
       "timestamp": "2025-12-23 16:21",
       "articles": 56,
@@ -2481,6 +2470,17 @@
     },
     {
       "timestamp": "2025-12-31 20:17",
+      "articles": 56,
+      "top_keywords": [
+        "authentication bypass flaw",
+        "bypass authentication mechanisms",
+        "critical security flaw",
+        "mass creating fake",
+        "microsoft edge users"
+      ]
+    },
+    {
+      "timestamp": "2025-12-31 22:16",
       "articles": 56,
       "top_keywords": [
         "authentication bypass flaw",

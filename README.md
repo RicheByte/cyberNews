@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2025-12-31 14:16 UTC |
+| 🕐 Last Updated | 2025-12-31 16:20 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`authentication bypass flaw` • `bypass authentication mechanisms` • `mass creating fake` • `cyber security agency` • `prolific cybercriminal group` • `chinese cyberespionage campaigns` • `cve 2025 13915` • `critical security flaw` • `twitter whistleblower complaint` • `retailers like bestbuy`
+`authentication bypass flaw` • `bypass authentication mechanisms` • `mass creating fake` • `cyber security agency` • `prolific cybercriminal group` • `cve 2025 13915` • `twitter whistleblower complaint` • `retailers like bestbuy` • `old flaws resurfaced` • `newly discovered campaign`
 
 ## 📄 Reports
 

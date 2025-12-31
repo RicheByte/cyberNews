@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-31 14:16 UTC  
+> **Last Updated:** 2025-12-31 16:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**authentication bypass flaw** • **bypass authentication mechanisms** • **mass creating fake** • **cyber security agency** • **prolific cybercriminal group** • **chinese cyberespionage campaigns** • **cve 2025 13915** • **critical security flaw** • **twitter whistleblower complaint** • **retailers like bestbuy** • **old flaws resurfaced** • **newly discovered campaign** • **identity platform consolidation** • **holding company behind** • **exploits surrounding ics** • **cve 2020 12812** • **additional brickstorm samples** • **generating fake glitches** • **european space agency** • **attackers moved faster**
+**authentication bypass flaw** • **bypass authentication mechanisms** • **mass creating fake** • **cyber security agency** • **prolific cybercriminal group** • **cve 2025 13915** • **twitter whistleblower complaint** • **retailers like bestbuy** • **old flaws resurfaced** • **newly discovered campaign** • **identity platform consolidation** • **holding company behind** • **exploits surrounding ics** • **cve 2020 12812** • **always connected devices** • **additional brickstorm samples** • **critical security flaw** • **generating fake glitches** • **european space agency** • **attackers moved faster**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Hackers drain $3.9M from Unleash Protocol after multisig hijack](https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/)
+- [RondoDox botnet exploits React2Shell flaw to breach Next.js servers](https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/)
 - [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
 - [Disney will pay $10 million to settle children's data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/)
 - [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/)
 - [European Space Agency confirms breach of "external servers"](https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/)
 - [Zoom Stealer browser extensions harvest corporate meeting intelligence](https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/)
 - [US cybersecurity experts plead guilty to BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/)
-- [CISA orders feds to patch MongoBleed flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/)
-- [Chinese state hackers use rootkit to hide ToneShell malware activity](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [When the Cloud Rains on Everyone's IoT Parade](https://www.darkreading.com/iot/when-cloud-rains-on-everyone-iot-parade)
 - [Identity Security 2026: Four Predictions and Recommendations](https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations)
 - [Contrarians No More: AI Skepticism Is on the Rise](https://www.darkreading.com/cybersecurity-operations/contrarians-no-more-ai-skepticism)
 - [Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy](https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy)
@@ -56,7 +57,6 @@
 - [Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms](https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms)
 - [SBOMs in 2026: Some Love, Some Hate, Much Ambivalence](https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence)
 - [5 Threats That Defined Security in 2025](https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025)
-- [Mentorship and Diversity: Shaping the Next Generation of Cyber Experts](https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts)
 
 ### Security Week
 

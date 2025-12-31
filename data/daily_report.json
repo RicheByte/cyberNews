@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-31 14:16",
+  "last_updated": "2025-12-31 16:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,9 +8,7 @@
     "mass creating fake",
     "cyber security agency",
     "prolific cybercriminal group",
-    "chinese cyberespionage campaigns",
     "cve 2025 13915",
-    "critical security flaw",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
     "old flaws resurfaced",
@@ -19,7 +17,9 @@
     "holding company behind",
     "exploits surrounding ics",
     "cve 2020 12812",
+    "always connected devices",
     "additional brickstorm samples",
+    "critical security flaw",
     "generating fake glitches",
     "european space agency",
     "attackers moved faster"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "bypass authentication mechanisms",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 165
+      "mentions": 166
     },
     {
       "keyword": "cyber security agency",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 155
-    },
-    {
-      "keyword": "chinese cyberespionage campaigns",
-      "mentions": 20
+      "mentions": 156
     },
     {
       "keyword": "cve 2025 13915",
-      "mentions": 1
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 77
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 169
+      "mentions": 170
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 107
+      "mentions": 108
+    },
+    {
+      "keyword": "old flaws resurfaced",
+      "mentions": 25
+    },
+    {
+      "keyword": "newly discovered campaign",
+      "mentions": 12
     }
   ],
   "articles": [
@@ -154,6 +154,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
+      "summary": "The decentralized intellectual property platform Unleash Protocol has lost around $3.9 million worth of cryptocurrency after someone executed an unauthorized contract upgrade that allowed asset withdrawals. [...]",
+      "published": "Wed, 31 Dec 2025 10:54:17 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
+      "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
+      "summary": "The RondoDox botnet has been observed exploiting the critical React2Shell flaw (CVE-2025-55182) to infect vulnerable Next.js servers with malware and cryptominers. [...]",
+      "published": "Wed, 31 Dec 2025 09:58:51 -0500",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "Breach/leak",
+        "Botnet ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "IBM warns of critical API Connect auth bypass vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/",
       "summary": "IBM urged customers to patch a critical authentication bypass vulnerability in its API Connect enterprise platform that could allow attackers to access apps remotely. [...]",
@@ -212,31 +236,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch MongoBleed flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/",
-      "summary": "CISA ordered U.S. federal agencies to patch an actively exploited MongoDB vulnerability (MongoBleed) that can be exploited to steal credentials, API keys, and other sensitive data. [...]",
-      "published": "Tue, 30 Dec 2025 09:40:13 -0500",
-      "value_score": 97,
-      "value_signals": [
-        "Active exploitation",
-        "Patch/update ×2",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese state hackers use rootkit to hide ToneShell malware activity",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/",
-      "summary": "A new sample of the ToneShell backdoor, typically seen in Chinese cyberespionage campaigns, has been delivered through a kernel-mode loader in attacks against government organizations. [...]",
-      "published": "Mon, 29 Dec 2025 19:08:42 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
       ]
     },
     {
@@ -321,6 +320,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "When the Cloud Rains on Everyone's IoT Parade",
+      "link": "https://www.darkreading.com/iot/when-cloud-rains-on-everyone-iot-parade",
+      "summary": "What happens to all of those always-connected devices and Internet of Things when the cloud goes down? Disruptions to sleep, school, and smart homes, just to name a few issues.",
+      "published": "Wed, 31 Dec 2025 14:31:37 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Identity Security 2026: Four Predictions and Recommendations",
       "link": "https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations",
       "summary": "Agentic AI adoption and identity security risks, IGA expands in mid-market, SOC-identity team collaboration, and identity platform consolidation—this 2026 predictions post previews identity trends.",
@@ -384,15 +392,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Mentorship and Diversity: Shaping the Next Generation of Cyber Experts",
-      "link": "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts",
-      "summary": "Patricia Voight, CISO at Webster Bank, shares her expertise on advancing cybersecurity careers, combating financial crimes, and championing diversity in a rapidly changing industry.",
-      "published": "Fri, 26 Dec 2025 15:15:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2025-12-31 22:16 UTC  
+> **Last Updated:** 2026-01-01 01:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**authentication bypass flaw** • **bypass authentication mechanisms** • **critical security flaw** • **mass creating fake** • **microsoft edge users** • **cyber security agency** • **twitter whistleblower complaint** • **retailers like bestbuy** • **rated 9 8** • **prolific cybercriminal group** • **newly discovered campaign** • **identity platform consolidation** • **holding company behind** • **exploits surrounding ics** • **cve 2025 13915** • **cve 2020 12812** • **always connected devices** • **additional brickstorm samples** • **generating fake glitches** • **european space agency**
+**authentication bypass flaw** • **bypass authentication mechanisms** • **critical security flaw** • **mass creating fake** • **microsoft edge users** • **cyber security agency** • **twitter whistleblower complaint** • **retailers like bestbuy** • **rated 9 8** • **prolific cybercriminal group** • **newly discovered campaign** • **identity platform consolidation** • **holding company behind** • **exploits surrounding ics** • **cve 2025 13915** • **cve 2020 12812** • **additional brickstorm samples** • **raspberry pi devices** • **generating fake glitches** • **european space agency**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
 - [Hackers drain $3.9M from Unleash Protocol after multisig hijack](https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/)
 - [RondoDox botnet exploits React2Shell flaw to breach Next.js servers](https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/)
 - [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
@@ -34,7 +35,6 @@
 - [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/)
 - [European Space Agency confirms breach of "external servers"](https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/)
 - [Zoom Stealer browser extensions harvest corporate meeting intelligence](https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/)
-- [US cybersecurity experts plead guilty to BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/)
 
 ### Krebs on Security
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-31 22:16",
+  "last_updated": "2026-01-01 01:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -19,51 +19,51 @@
     "exploits surrounding ics",
     "cve 2025 13915",
     "cve 2020 12812",
-    "always connected devices",
     "additional brickstorm samples",
+    "raspberry pi devices",
     "generating fake glitches",
     "european space agency"
   ],
   "trending": [
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "bypass authentication mechanisms",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 81
+      "mentions": 82
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 169
+      "mentions": 170
     },
     {
       "keyword": "microsoft edge users",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "cyber security agency",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 173
+      "mentions": 174
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 111
+      "mentions": 112
     },
     {
       "keyword": "rated 9 8",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 159
+      "mentions": 160
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
+      "link": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
+      "summary": "New York City's 2026 mayoral inauguration of Zohran Mamdani has published a list of banned items for the event, specifically prohibiting the Flipper Zero and Raspberry Pi devices. [...]",
+      "published": "Wed, 31 Dec 2025 17:52:44 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
       "summary": "The decentralized intellectual property platform Unleash Protocol has lost around $3.9 million worth of cryptocurrency after someone executed an unauthorized contract upgrade that allowed asset withdrawals. [...]",
@@ -224,17 +233,6 @@
       "published": "Tue, 30 Dec 2025 10:41:53 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US cybersecurity experts plead guilty to BlackCat ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/",
-      "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint have pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
-      "published": "Tue, 30 Dec 2025 10:25:17 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-01 14:15",
+  "last_updated": "2026-01-01 16:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,7 +7,6 @@
     "bypass authentication mechanisms",
     "critical security flaw",
     "mass creating fake",
-    "microsoft edge users",
     "cyber security agency",
     "twitter whistleblower complaint",
     "retailers like bestbuy",
@@ -22,48 +21,49 @@
     "cve 2025 13915",
     "generating fake glitches",
     "european space agency",
+    "microsoft edge users",
     "things iot devices"
   ],
   "trending": [
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "bypass authentication mechanisms",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 89
+      "mentions": 90
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 177
-    },
-    {
-      "keyword": "microsoft edge users",
-      "mentions": 11
+      "mentions": 178
     },
     {
       "keyword": "cyber security agency",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 181
+      "mentions": 182
     },
     {
       "keyword": "retailers like bestbuy",
-      "mentions": 119
+      "mentions": 120
     },
     {
       "keyword": "rated 9 8",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 167
+      "mentions": 168
+    },
+    {
+      "keyword": "newly discovered campaign",
+      "mentions": 24
     }
   ],
   "articles": [
@@ -80,6 +80,15 @@
         "High severity",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How To Browse Faster and Get More Done Using Adapt Browser",
+      "link": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
+      "summary": "As web browsers evolve into all-purpose platforms, performance and productivity often suffer. Feature overload, excessive background processes, and fragmented workflows can slow down browsing sessions and introduce unnecessary friction, especially for users who rely on the browser as a primary work environment. This article explores how adopting a lightweight, task-focused browser, like",
+      "published": "Thu, 01 Jan 2026 11:17:00 +0530",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "The Hacker News",
@@ -142,17 +151,6 @@
         "RCE ×2",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
-      "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
-      "summary": "The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0). \"This sophisticated attack leverages a complex kill chain involving DLL hijacking and the modular Valley RAT to ensure persistence,\" CloudSEK researchers Prajwal Awasthi and Koushik Pal said in an",
-      "published": "Tue, 30 Dec 2025 16:16:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

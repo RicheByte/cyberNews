@@ -26,7 +26,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -78,7 +78,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 160,
+      "count": 161,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -108,7 +108,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 174,
+      "count": 175,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -310,7 +310,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -534,7 +534,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -630,7 +630,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -888,7 +888,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1249,7 +1249,7 @@
       ]
     },
     "cve 2020 12812": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1304,7 +1304,7 @@
       ]
     },
     "cyber security agency": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1312,7 +1312,7 @@
       ]
     },
     "newly discovered campaign": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1327,7 +1327,7 @@
       ]
     },
     "generating fake glitches": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1335,14 +1335,14 @@
       ]
     },
     "holding company behind": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2025-12-31",
         "2026-01-01"
       ]
     },
     "european space agency": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-31",
         "2026-01-01"
@@ -1361,28 +1361,28 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-31",
         "2026-01-01"
       ]
     },
     "bypass authentication mechanisms": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-31",
         "2026-01-01"
       ]
     },
     "cve 2025 13915": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-31",
         "2026-01-01"
       ]
     },
     "identity platform consolidation": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-31",
         "2026-01-01"
@@ -1395,38 +1395,27 @@
       ]
     },
     "microsoft edge users": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-31",
         "2026-01-01"
       ]
     },
     "rated 9 8": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-31",
         "2026-01-01"
       ]
     },
     "raspberry pi devices": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-23 18:24",
-      "articles": 56,
-      "top_keywords": [
-        "victim's whatsapp account",
-        "critical components made",
-        "browser add ons",
-        "stringent identity authentication",
-        "mass creating fake"
-      ]
-    },
     {
       "timestamp": "2025-12-23 20:17",
       "articles": 56,
@@ -2507,6 +2496,17 @@
     },
     {
       "timestamp": "2026-01-01 01:25",
+      "articles": 56,
+      "top_keywords": [
+        "authentication bypass flaw",
+        "bypass authentication mechanisms",
+        "critical security flaw",
+        "mass creating fake",
+        "microsoft edge users"
+      ]
+    },
+    {
+      "timestamp": "2026-01-01 03:46",
       "articles": 56,
       "top_keywords": [
         "authentication bypass flaw",

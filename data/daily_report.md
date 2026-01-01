@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-01 16:21 UTC  
+> **Last Updated:** 2026-01-01 18:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**authentication bypass flaw** • **bypass authentication mechanisms** • **critical security flaw** • **mass creating fake** • **cyber security agency** • **twitter whistleblower complaint** • **retailers like bestbuy** • **rated 9 8** • **prolific cybercriminal group** • **newly discovered campaign** • **identity platform consolidation** • **holding company behind** • **exploits surrounding ics** • **cve 2020 12812** • **additional brickstorm samples** • **cve 2025 13915** • **generating fake glitches** • **european space agency** • **microsoft edge users** • **things iot devices**
+**bypass authentication mechanisms** • **authentication bypass flaw** • **mass creating fake** • **twitter whistleblower complaint** • **rated 9 8** • **prolific cybercriminal group** • **newly discovered campaign** • **identity platform consolidation** • **holding company behind** • **exploits surrounding ics** • **european space agency** • **cvss scoring system** • **critical security flaw** • **additional brickstorm samples** • **retailers like bestbuy** • **generating fake glitches** • **cybercrime looks like** • **cve 2020 12812** • **microsoft edge users** • **malicious cyber actors**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
 - [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
 - [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
 - [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
@@ -23,7 +24,6 @@
 - [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
 - [Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry](https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html)
 - [U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html)
-- [CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html)
 
 ### BleepingComputer
 

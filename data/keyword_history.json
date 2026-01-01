@@ -26,7 +26,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 178,
+      "count": 179,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -54,7 +54,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -68,7 +68,8 @@
         "2025-12-28",
         "2025-12-29",
         "2025-12-30",
-        "2025-12-31"
+        "2025-12-31",
+        "2026-01-01"
       ]
     },
     "user named csnemess": {
@@ -78,7 +79,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -108,7 +109,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -310,7 +311,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -534,7 +535,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -630,7 +631,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -888,7 +889,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1249,7 +1250,7 @@
       ]
     },
     "cve 2020 12812": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1312,7 +1313,7 @@
       ]
     },
     "newly discovered campaign": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1327,7 +1328,7 @@
       ]
     },
     "generating fake glitches": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1335,14 +1336,14 @@
       ]
     },
     "holding company behind": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2025-12-31",
         "2026-01-01"
       ]
     },
     "european space agency": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-31",
         "2026-01-01"
@@ -1361,14 +1362,14 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-31",
         "2026-01-01"
       ]
     },
     "bypass authentication mechanisms": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-31",
         "2026-01-01"
@@ -1382,7 +1383,7 @@
       ]
     },
     "identity platform consolidation": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-31",
         "2026-01-01"
@@ -1395,14 +1396,14 @@
       ]
     },
     "microsoft edge users": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-31",
         "2026-01-01"
       ]
     },
     "rated 9 8": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-31",
         "2026-01-01"
@@ -1419,20 +1420,21 @@
       "dates": [
         "2026-01-01"
       ]
+    },
+    "cvss scoring system": {
+      "count": 1,
+      "dates": [
+        "2026-01-01"
+      ]
+    },
+    "cybercrime looks like": {
+      "count": 1,
+      "dates": [
+        "2026-01-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-24 10:17",
-      "articles": 56,
-      "top_keywords": [
-        "mass creating fake",
-        "dominant market position",
-        "critical components made",
-        "nissan confirms impact",
-        "watchguard firebox devices"
-      ]
-    },
     {
       "timestamp": "2025-12-24 12:34",
       "articles": 56,
@@ -2520,6 +2522,17 @@
         "critical security flaw",
         "mass creating fake",
         "cyber security agency"
+      ]
+    },
+    {
+      "timestamp": "2026-01-01 18:23",
+      "articles": 56,
+      "top_keywords": [
+        "bypass authentication mechanisms",
+        "authentication bypass flaw",
+        "mass creating fake",
+        "twitter whistleblower complaint",
+        "rated 9 8"
       ]
     }
   ]

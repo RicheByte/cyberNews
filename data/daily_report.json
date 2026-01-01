@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-01-01 16:21",
+  "last_updated": "2026-01-01 18:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "authentication bypass flaw",
     "bypass authentication mechanisms",
-    "critical security flaw",
+    "authentication bypass flaw",
     "mass creating fake",
-    "cyber security agency",
     "twitter whistleblower complaint",
-    "retailers like bestbuy",
     "rated 9 8",
     "prolific cybercriminal group",
     "newly discovered campaign",
     "identity platform consolidation",
     "holding company behind",
     "exploits surrounding ics",
-    "cve 2020 12812",
-    "additional brickstorm samples",
-    "cve 2025 13915",
-    "generating fake glitches",
     "european space agency",
+    "cvss scoring system",
+    "critical security flaw",
+    "additional brickstorm samples",
+    "retailers like bestbuy",
+    "generating fake glitches",
+    "cybercrime looks like",
+    "cve 2020 12812",
     "microsoft edge users",
-    "things iot devices"
+    "malicious cyber actors"
   ],
   "trending": [
     {
-      "keyword": "authentication bypass flaw",
-      "mentions": 14
-    },
-    {
       "keyword": "bypass authentication mechanisms",
-      "mentions": 14
+      "mentions": 15
     },
     {
-      "keyword": "critical security flaw",
-      "mentions": 90
+      "keyword": "authentication bypass flaw",
+      "mentions": 15
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 178
-    },
-    {
-      "keyword": "cyber security agency",
-      "mentions": 24
+      "mentions": 179
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 182
-    },
-    {
-      "keyword": "retailers like bestbuy",
-      "mentions": 120
+      "mentions": 183
     },
     {
       "keyword": "rated 9 8",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 168
+      "mentions": 169
     },
     {
       "keyword": "newly discovered campaign",
-      "mentions": 24
+      "mentions": 25
+    },
+    {
+      "keyword": "identity platform consolidation",
+      "mentions": 15
+    },
+    {
+      "keyword": "holding company behind",
+      "mentions": 18
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 82
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
+      "summary": "The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic — new year, new breaches, new tricks. If the past twelve months taught defenders anything, it’s that threat actors don’t pause for holidays or resolutions. They just evolve faster. This week’s round-up shows how subtle shifts in behavior, from code tweaks to job scams, are rewriting what “cybercrime” looks like in",
+      "published": "Thu, 01 Jan 2026 21:22:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
@@ -138,20 +149,6 @@
       "published": "Wed, 31 Dec 2025 10:47:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
-      "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
-      "summary": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution. The vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any",
-      "published": "Tue, 30 Dec 2025 21:58:00 +0530",
-      "value_score": 82,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

@@ -26,7 +26,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -54,7 +54,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -79,7 +79,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 169,
+      "count": 170,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -109,7 +109,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 183,
+      "count": 184,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -311,7 +311,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -535,7 +535,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -631,7 +631,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -889,7 +889,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1250,7 +1250,7 @@
       ]
     },
     "cve 2020 12812": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1298,10 +1298,11 @@
       ]
     },
     "cyber insurers recommend": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-30",
-        "2025-12-31"
+        "2025-12-31",
+        "2026-01-01"
       ]
     },
     "cyber security agency": {
@@ -1336,14 +1337,14 @@
       ]
     },
     "holding company behind": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2025-12-31",
         "2026-01-01"
       ]
     },
     "european space agency": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2025-12-31",
         "2026-01-01"
@@ -1362,14 +1363,14 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-31",
         "2026-01-01"
       ]
     },
     "bypass authentication mechanisms": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-31",
         "2026-01-01"
@@ -1383,7 +1384,7 @@
       ]
     },
     "identity platform consolidation": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-31",
         "2026-01-01"
@@ -1403,49 +1404,38 @@
       ]
     },
     "rated 9 8": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2025-12-31",
         "2026-01-01"
       ]
     },
     "raspberry pi devices": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-01"
       ]
     },
     "things iot devices": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-01"
       ]
     },
     "cvss scoring system": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-01"
       ]
     },
     "cybercrime looks like": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-24 12:34",
-      "articles": 56,
-      "top_keywords": [
-        "mass creating fake",
-        "dominant market position",
-        "nissan confirms impact",
-        "watchguard firebox devices",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2025-12-24 14:15",
       "articles": 56,
@@ -2533,6 +2523,17 @@
         "mass creating fake",
         "twitter whistleblower complaint",
         "rated 9 8"
+      ]
+    },
+    {
+      "timestamp": "2026-01-01 20:19",
+      "articles": 56,
+      "top_keywords": [
+        "bypass authentication mechanisms",
+        "authentication bypass flaw",
+        "mass creating fake",
+        "malicious cyber actors",
+        "twitter whistleblower complaint"
       ]
     }
   ]

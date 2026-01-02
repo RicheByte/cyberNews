@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-02 12:32 UTC  
+> **Last Updated:** 2026-01-02 14:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **prolific cybercriminal group** • **bypass authentication mechanisms** • **malicious cyber actors** • **twitter whistleblower complaint** • **rated 9 8** • **order requiring disney** • **identity platform consolidation** • **exploits surrounding ics** • **european space agency** • **cvss scoring system** • **additional brickstorm samples** • **retailers like bestbuy** • **cybercrime looks like** • **coordinated campaign greynoise** • **ivanti epmm attacks** • **cyber insurers recommend** • **things iot devices** • **raspberry pi devices** • **always connected devices**
+**mass creating fake** • **prolific cybercriminal group** • **twitter whistleblower complaint** • **supply chain defenses** • **order requiring disney** • **malicious cyber actors** • **identity platform consolidation** • **exploits surrounding ics** • **european space agency** • **additional brickstorm samples** • **retailers like bestbuy** • **cybercrime looks like** • **advanced security measures** • **offer unlimited access** • **coordinated campaign greynoise** • **ivanti epmm attacks** • **things iot devices** • **raspberry pi devices** • **always connected devices** • **bounds write vulnerability**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
 - [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
 - [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
 - [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
@@ -23,7 +24,6 @@
 - [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
 - [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
 - [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
-- [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
 
 ### BleepingComputer
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Cybersecurity Predictions for 2026: Navigating the Future of Digital Threats](https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats)
+- [CTO New Year Resolutions for a More Secure 2026](https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026)
 - [Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?](https://www.darkreading.com/cyber-risk/sunken-ships-ivanti-epmm-attacks)
 - [When the Cloud Rains on Everyone's IoT Parade](https://www.darkreading.com/iot/when-cloud-rains-on-everyone-iot-parade)
 - [Identity Security 2026: Four Predictions &amp; Recommendations](https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations)
 - [Contrarians No More: AI Skepticism Is on the Rise](https://www.darkreading.com/cybersecurity-operations/contrarians-no-more-ai-skepticism)
 - [Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy](https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy)
 - [New Tech Deployments That Cyber Insurers Recommend for 2026](https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data)
-- [Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms](https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms)
-- [SBOMs in 2026: Some Love, Some Hate, Much Ambivalence](https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence)
 
 ### Security Week
 

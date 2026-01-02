@@ -27,7 +27,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 187,
+      "count": 188,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -56,7 +56,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -82,7 +82,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 177,
+      "count": 178,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -113,7 +113,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -194,11 +194,12 @@
       ]
     },
     "offer unlimited access": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-17",
         "2025-12-18",
-        "2025-12-19"
+        "2025-12-19",
+        "2026-01-02"
       ]
     },
     "gain initial access": {
@@ -316,7 +317,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -638,7 +639,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -897,7 +898,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1356,7 +1357,7 @@
       ]
     },
     "european space agency": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1399,7 +1400,7 @@
       ]
     },
     "identity platform consolidation": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1407,7 +1408,7 @@
       ]
     },
     "always connected devices": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2025-12-31",
         "2026-01-02"
@@ -1429,14 +1430,14 @@
       ]
     },
     "raspberry pi devices": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-01",
         "2026-01-02"
       ]
     },
     "things iot devices": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-01",
         "2026-01-02"
@@ -1450,7 +1451,7 @@
       ]
     },
     "cybercrime looks like": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-01",
         "2026-01-02"
@@ -1493,18 +1494,36 @@
       ]
     },
     "coordinated campaign greynoise": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-02"
       ]
     },
     "order requiring disney": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-02"
       ]
     },
     "ivanti epmm attacks": {
+      "count": 2,
+      "dates": [
+        "2026-01-02"
+      ]
+    },
+    "supply chain defenses": {
+      "count": 1,
+      "dates": [
+        "2026-01-02"
+      ]
+    },
+    "advanced security measures": {
+      "count": 1,
+      "dates": [
+        "2026-01-02"
+      ]
+    },
+    "bounds write vulnerability": {
       "count": 1,
       "dates": [
         "2026-01-02"
@@ -1512,17 +1531,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-25 06:26",
-      "articles": 56,
-      "top_keywords": [
-        "nissan confirms impact",
-        "mass creating fake",
-        "recently disclosed vulnerabilities",
-        "watchguard firebox devices",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2025-12-25 08:22",
       "articles": 56,
@@ -2610,6 +2618,17 @@
         "bypass authentication mechanisms",
         "malicious cyber actors",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-02 14:16",
+      "articles": 56,
+      "top_keywords": [
+        "mass creating fake",
+        "prolific cybercriminal group",
+        "twitter whistleblower complaint",
+        "supply chain defenses",
+        "order requiring disney"
       ]
     }
   ]

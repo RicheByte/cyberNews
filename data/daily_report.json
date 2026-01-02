@@ -1,8 +1,9 @@
 {
-  "last_updated": "2026-01-02 18:24",
+  "last_updated": "2026-01-02 20:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "nearly 500 000",
     "mass creating fake",
     "prolific cybercriminal group",
     "2 520 wallets",
@@ -21,49 +22,48 @@
     "total disclosed value",
     "things iot devices",
     "sustaining select efforts",
-    "supposed wayward package",
-    "sms phishers pivot"
+    "supposed wayward package"
   ],
   "trending": [
     {
+      "keyword": "nearly 500 000",
+      "mentions": 1
+    },
+    {
       "keyword": "mass creating fake",
-      "mentions": 190
+      "mentions": 191
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 180
+      "mentions": 181
     },
     {
       "keyword": "2 520 wallets",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 195
-    },
-    {
-      "keyword": "supply chain defenses",
       "mentions": 3
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 196
+    },
+    {
+      "keyword": "supply chain defenses",
+      "mentions": 4
+    },
+    {
       "keyword": "malicious cyber actors",
-      "mentions": 112
+      "mentions": 113
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 94
+      "mentions": 95
     },
     {
       "keyword": "european space agency",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "cybercrime looks like",
-      "mentions": 12
-    },
-    {
-      "keyword": "additional brickstorm samples",
-      "mentions": 170
+      "mentions": 13
     }
   ],
   "articles": [
@@ -150,6 +150,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Covenant Health says May data breach impacted nearly 478,000 patients",
+      "link": "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/",
+      "summary": "The Covenant Health organization has revised to nearly 500,000 the number of individuals affected by a data breach discovered last May. [...]",
+      "published": "Fri, 02 Jan 2026 14:00:42 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Cryptocurrency theft attacks traced to 2022 LastPass breach",
       "link": "https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/",
       "summary": "Blockchain investigation firm TRM Labs says ongoing cryptocurrency thefts have been traced to the 2022 LastPass breach, with attackers draining wallets years after encrypted vaults were stolen and laundering the crypto through Russian exchanges. [...]",
@@ -216,15 +227,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/",
       "summary": "A fourth wave of the \"GlassWorm\" campaign is targeting macOS developers with malicious VSCode/OpenVSX extensions that deliver trojanized versions of crypto wallet applications. [...]",
       "published": "Thu, 01 Jan 2026 10:18:23 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
-      "link": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
-      "summary": "New York City's 2026 mayoral inauguration of Zohran Mamdani has published a list of banned items for the event, specifically prohibiting the Flipper Zero and Raspberry Pi devices. [...]",
-      "published": "Wed, 31 Dec 2025 17:52:44 -0500",
       "value_score": 10,
       "value_signals": []
     },

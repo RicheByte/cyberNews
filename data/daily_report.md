@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-02 18:24 UTC  
+> **Last Updated:** 2026-01-02 20:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **twitter whistleblower complaint** • **supply chain defenses** • **malicious cyber actors** • **exploits surrounding ics** • **european space agency** • **cybercrime looks like** • **additional brickstorm samples** • **advanced security measures** • **coordinated campaign greynoise** • **ivanti epmm attacks** • **fastest model google** • **unpaid toll fee** • **total disclosed value** • **things iot devices** • **sustaining select efforts** • **supposed wayward package** • **sms phishers pivot**
+**nearly 500 000** • **mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **twitter whistleblower complaint** • **supply chain defenses** • **malicious cyber actors** • **exploits surrounding ics** • **european space agency** • **cybercrime looks like** • **additional brickstorm samples** • **advanced security measures** • **coordinated campaign greynoise** • **ivanti epmm attacks** • **fastest model google** • **unpaid toll fee** • **total disclosed value** • **things iot devices** • **sustaining select efforts** • **supposed wayward package**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
 - [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
 - [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
 - [Google is testing a new image AI and it's going to be its fastest model](https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/)
@@ -34,7 +35,6 @@
 - [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
 - [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
 - [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
-- [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
 
 ### Krebs on Security
 

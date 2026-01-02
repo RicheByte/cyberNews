@@ -27,7 +27,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -56,7 +56,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -82,7 +82,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 178,
+      "count": 179,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -113,7 +113,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 193,
+      "count": 194,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -135,13 +135,14 @@
       ]
     },
     "supposed wayward package": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2025-12-17",
         "2025-12-18",
         "2025-12-20",
         "2025-12-24",
-        "2025-12-25"
+        "2025-12-25",
+        "2026-01-02"
       ]
     },
     "life events neurodiversity": {
@@ -237,7 +238,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -249,7 +250,8 @@
         "2025-12-25",
         "2025-12-26",
         "2025-12-28",
-        "2025-12-29"
+        "2025-12-29",
+        "2026-01-02"
       ]
     },
     "campaign dubbed ghostpairing": {
@@ -639,7 +641,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -876,11 +878,12 @@
       ]
     },
     "sustaining select efforts": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-23",
         "2025-12-24",
-        "2025-12-25"
+        "2025-12-25",
+        "2026-01-02"
       ]
     },
     "browser add ons": {
@@ -898,7 +901,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1334,10 +1337,11 @@
       ]
     },
     "total disclosed value": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2025-12-30",
-        "2025-12-31"
+        "2025-12-31",
+        "2026-01-02"
       ]
     },
     "generating fake glitches": {
@@ -1357,7 +1361,7 @@
       ]
     },
     "european space agency": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1437,7 +1441,7 @@
       ]
     },
     "things iot devices": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-01",
         "2026-01-02"
@@ -1451,7 +1455,7 @@
       ]
     },
     "cybercrime looks like": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-01",
         "2026-01-02"
@@ -1470,13 +1474,13 @@
       ]
     },
     "unauthorized contract upgrade": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-02"
       ]
     },
     "trojanized crypto wallets": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-02"
       ]
@@ -1494,7 +1498,7 @@
       ]
     },
     "coordinated campaign greynoise": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-02"
       ]
@@ -1512,13 +1516,13 @@
       ]
     },
     "supply chain defenses": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-02"
       ]
     },
     "advanced security measures": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-02"
       ]
@@ -1528,20 +1532,21 @@
       "dates": [
         "2026-01-02"
       ]
+    },
+    "2 520 wallets": {
+      "count": 1,
+      "dates": [
+        "2026-01-02"
+      ]
+    },
+    "fastest model google": {
+      "count": 1,
+      "dates": [
+        "2026-01-02"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-25 08:22",
-      "articles": 56,
-      "top_keywords": [
-        "nissan confirms impact",
-        "mass creating fake",
-        "recently disclosed vulnerabilities",
-        "watchguard firebox devices",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2025-12-25 10:18",
       "articles": 56,
@@ -2629,6 +2634,17 @@
         "twitter whistleblower complaint",
         "supply chain defenses",
         "order requiring disney"
+      ]
+    },
+    {
+      "timestamp": "2026-01-02 16:19",
+      "articles": 56,
+      "top_keywords": [
+        "mass creating fake",
+        "prolific cybercriminal group",
+        "twitter whistleblower complaint",
+        "supply chain defenses",
+        "malicious cyber actors"
       ]
     }
   ]

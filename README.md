@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-02 14:16 UTC |
+| 🕐 Last Updated | 2026-01-02 16:19 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mass creating fake` • `prolific cybercriminal group` • `twitter whistleblower complaint` • `supply chain defenses` • `order requiring disney` • `malicious cyber actors` • `identity platform consolidation` • `exploits surrounding ics` • `european space agency` • `additional brickstorm samples`
+`mass creating fake` • `prolific cybercriminal group` • `twitter whistleblower complaint` • `supply chain defenses` • `malicious cyber actors` • `exploits surrounding ics` • `european space agency` • `cybercrime looks like` • `additional brickstorm samples` • `2 520 wallets`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-02 14:16 UTC  
+> **Last Updated:** 2026-01-02 16:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **prolific cybercriminal group** • **twitter whistleblower complaint** • **supply chain defenses** • **order requiring disney** • **malicious cyber actors** • **identity platform consolidation** • **exploits surrounding ics** • **european space agency** • **additional brickstorm samples** • **retailers like bestbuy** • **cybercrime looks like** • **advanced security measures** • **offer unlimited access** • **coordinated campaign greynoise** • **ivanti epmm attacks** • **things iot devices** • **raspberry pi devices** • **always connected devices** • **bounds write vulnerability**
+**mass creating fake** • **prolific cybercriminal group** • **twitter whistleblower complaint** • **supply chain defenses** • **malicious cyber actors** • **exploits surrounding ics** • **european space agency** • **cybercrime looks like** • **additional brickstorm samples** • **2 520 wallets** • **trojanized crypto wallets** • **advanced security measures** • **coordinated campaign greynoise** • **fastest model google** • **unpaid toll fee** • **unauthorized contract upgrade** • **total disclosed value** • **things iot devices** • **sustaining select efforts** • **supposed wayward package**
 
 ---
 
@@ -27,17 +27,18 @@
 
 ### BleepingComputer
 
+- [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
+- [Google is testing a new image AI and it's going to be its fastest model](https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/)
+- [Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack](https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/)
 - [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
 - [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
 - [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
 - [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/)
 - [Hackers drain $3.9M from Unleash Protocol after multisig hijack](https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/)
-- [RondoDox botnet exploits React2Shell flaw to breach Next.js servers](https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/)
-- [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
-- [Disney will pay $10 million to settle children's data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/)
 
 ### Krebs on Security
 
+- [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
@@ -45,7 +46,6 @@
 - [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
 - [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
 - [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
-- [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
 ### Dark Reading
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-02 10:16 UTC |
+| 🕐 Last Updated | 2026-01-02 12:32 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`bypass authentication mechanisms` • `authentication bypass flaw` • `mass creating fake` • `malicious cyber actors` • `twitter whistleblower complaint` • `rated 9 8` • `prolific cybercriminal group` • `identity platform consolidation` • `exploits surrounding ics` • `european space agency`
+`mass creating fake` • `prolific cybercriminal group` • `bypass authentication mechanisms` • `malicious cyber actors` • `twitter whistleblower complaint` • `rated 9 8` • `order requiring disney` • `identity platform consolidation` • `exploits surrounding ics` • `european space agency`
 
 ## 📄 Reports
 

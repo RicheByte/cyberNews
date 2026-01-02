@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-02 10:16",
+  "last_updated": "2026-01-02 12:32",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "bypass authentication mechanisms",
-    "authentication bypass flaw",
     "mass creating fake",
+    "prolific cybercriminal group",
+    "bypass authentication mechanisms",
     "malicious cyber actors",
     "twitter whistleblower complaint",
     "rated 9 8",
-    "prolific cybercriminal group",
+    "order requiring disney",
     "identity platform consolidation",
     "exploits surrounding ics",
     "european space agency",
     "cvss scoring system",
-    "critical security flaw",
     "additional brickstorm samples",
     "retailers like bestbuy",
     "cybercrime looks like",
-    "cve 2020 12812",
     "coordinated campaign greynoise",
+    "ivanti epmm attacks",
     "cyber insurers recommend",
     "things iot devices",
-    "raspberry pi devices"
+    "raspberry pi devices",
+    "always connected devices"
   ],
   "trending": [
     {
-      "keyword": "bypass authentication mechanisms",
-      "mentions": 23
-    },
-    {
-      "keyword": "authentication bypass flaw",
-      "mentions": 23
-    },
-    {
       "keyword": "mass creating fake",
-      "mentions": 186
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 108
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 191
-    },
-    {
-      "keyword": "rated 9 8",
-      "mentions": 21
+      "mentions": 187
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 176
+      "mentions": 177
+    },
+    {
+      "keyword": "bypass authentication mechanisms",
+      "mentions": 24
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 109
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 192
+    },
+    {
+      "keyword": "rated 9 8",
+      "mentions": 22
+    },
+    {
+      "keyword": "order requiring disney",
+      "mentions": 1
     },
     {
       "keyword": "identity platform consolidation",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 90
+      "mentions": 91
     },
     {
       "keyword": "european space agency",
-      "mentions": 25
+      "mentions": 26
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "The ROI Problem in Attack Surface Management",
+      "link": "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html",
+      "summary": "Attack Surface Management (ASM) tools promise reduced risk. What they usually deliver is more information. Security teams deploy ASM, asset inventories grow, alerts start flowing, and dashboards fill up. There is visible activity and measurable output. But when leadership asks a simple question, “Is this reducing incidents?” the answer is often unclear. This gap between effort and",
+      "published": "Fri, 02 Jan 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
@@ -142,15 +151,6 @@
         "Auth bypass",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
-      "link": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
-      "summary": "Cybersecurity researchers have disclosed details of what appears to be a new strain of Shai Hulud on the npm registry with slight modifications from the previous wave observed last month. The npm package that embeds the novel Shai Hulud strain is \"@vietmoney/react-big-calendar,\" which was uploaded to npm back in March 2021 by a user named \"hoquocdat.\" It was updated for the first time on",
-      "published": "Wed, 31 Dec 2025 18:59:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -232,7 +232,7 @@
       "source": "BleepingComputer",
       "title": "Disney will pay $10 million to settle children's data privacy lawsuit",
       "link": "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/",
-      "summary": "Disney has agreed to pay a $10 million civil penalty to settle claims that it violated the Children's Online Privacy Protection Act by mislabeling videos and allowing data collection for targeted advertising. [...]",
+      "summary": "A federal judge has approved an order requiring Disney to pay a $10 million civil penalty to settle claims that it violated the Children's Online Privacy Protection Act by mislabeling videos and allowing data collection for targeted advertising. [...]",
       "published": "Wed, 31 Dec 2025 04:43:26 -0500",
       "value_score": 10,
       "value_signals": []
@@ -394,6 +394,41 @@
     },
     {
       "source": "Security Week",
+      "title": "Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks",
+      "link": "https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/",
+      "summary": "Ryan Goldberg and Kevin Martin have admitted being affiliates of the BlackCat/Alphv ransomware group. The post Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks appeared first on SecurityWeek .",
+      "published": "Fri, 02 Jan 2026 12:08:33 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "RondoDox Botnet Exploiting React2Shell Vulnerability",
+      "link": "https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/",
+      "summary": "In December, the botnet’s operators focused on weaponizing the flaw to compromise vulnerable Next.js servers. The post RondoDox Botnet Exploiting React2Shell Vulnerability appeared first on SecurityWeek .",
+      "published": "Fri, 02 Jan 2026 11:12:02 +0000",
+      "value_score": 36,
+      "value_signals": [
+        "Botnet ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Covenant Health Data Breach Impacts 478,000 Individuals",
+      "link": "https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/",
+      "summary": "The Qilin ransomware group hacked the healthcare organization and stole data from its systems in May 2025. The post Covenant Health Data Breach Impacts 478,000 Individuals appeared first on SecurityWeek .",
+      "published": "Fri, 02 Jan 2026 10:20:06 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "Ransomware",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Adobe ColdFusion Servers Targeted in Coordinated Campaign",
       "link": "https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/",
       "summary": "GreyNoise has observed thousands of requests targeting a dozen vulnerabilities in Adobe ColdFusion during the Christmas 2025 holiday. The post Adobe ColdFusion Servers Targeted in Coordinated Campaign appeared first on SecurityWeek .",
@@ -441,40 +476,6 @@
       "value_score": 22,
       "value_signals": [
         "Backdoor"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Korean Air Data Compromised in Oracle EBS Hack",
-      "link": "https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/",
-      "summary": "Roughly 30,000 Korean Air employees had their data stolen by hackers in a breach at former subsidiary KC&D. The post Korean Air Data Compromised in Oracle EBS Hack appeared first on SecurityWeek .",
-      "published": "Tue, 30 Dec 2025 08:50:15 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000",
-      "link": "https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/",
-      "summary": "It took Sax well over a year to complete its investigation after detecting hackers on its network. The post Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000 appeared first on SecurityWeek .",
-      "published": "Mon, 29 Dec 2025 15:40:36 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Fortinet Warns of New Attacks Exploiting Old Vulnerability",
-      "link": "https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/",
-      "summary": "Tracked as CVE-2020-12812, the exploited FortiOS flaw allows threat actors to bypass two-factor authentication. The post Fortinet Warns of New Attacks Exploiting Old Vulnerability appeared first on SecurityWeek .",
-      "published": "Mon, 29 Dec 2025 12:52:49 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
       ]
     },
     {

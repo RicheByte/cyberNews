@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-02 08:23 UTC  
+> **Last Updated:** 2026-01-02 10:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**bypass authentication mechanisms** • **authentication bypass flaw** • **mass creating fake** • **malicious cyber actors** • **twitter whistleblower complaint** • **rated 9 8** • **prolific cybercriminal group** • **identity platform consolidation** • **holding company behind** • **exploits surrounding ics** • **european space agency** • **cvss scoring system** • **critical security flaw** • **additional brickstorm samples** • **retailers like bestbuy** • **cybercrime looks like** • **cve 2020 12812** • **cyber insurers recommend** • **things iot devices** • **raspberry pi devices**
+**bypass authentication mechanisms** • **authentication bypass flaw** • **mass creating fake** • **malicious cyber actors** • **twitter whistleblower complaint** • **rated 9 8** • **prolific cybercriminal group** • **identity platform consolidation** • **exploits surrounding ics** • **european space agency** • **cvss scoring system** • **critical security flaw** • **additional brickstorm samples** • **retailers like bestbuy** • **cybercrime looks like** • **cve 2020 12812** • **coordinated campaign greynoise** • **cyber insurers recommend** • **things iot devices** • **raspberry pi devices**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
 - [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
 - [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
 - [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
@@ -23,7 +24,6 @@
 - [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
 - [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html)
 - [Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry](https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html)
-- [U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Adobe ColdFusion Servers Targeted in Coordinated Campaign](https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/)
 - [Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist](https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/)
 - [European Space Agency Confirms Breach After Hacker Offers to Sell Data](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/)
 - [8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025](https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/)
@@ -67,7 +68,6 @@
 - [Korean Air Data Compromised in Oracle EBS Hack](https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/)
 - [Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000](https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/)
 - [Fortinet Warns of New Attacks Exploiting Old Vulnerability](https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/)
-- [Coupang to Issue $1.17 Billion in Vouchers Over Data Breach](https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/)
 
 ### Threatpost
 

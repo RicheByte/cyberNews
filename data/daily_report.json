@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-02 08:23",
+  "last_updated": "2026-01-02 10:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,7 +11,6 @@
     "rated 9 8",
     "prolific cybercriminal group",
     "identity platform consolidation",
-    "holding company behind",
     "exploits surrounding ics",
     "european space agency",
     "cvss scoring system",
@@ -20,6 +19,7 @@
     "retailers like bestbuy",
     "cybercrime looks like",
     "cve 2020 12812",
+    "coordinated campaign greynoise",
     "cyber insurers recommend",
     "things iot devices",
     "raspberry pi devices"
@@ -27,46 +27,57 @@
   "trending": [
     {
       "keyword": "bypass authentication mechanisms",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 185
+      "mentions": 186
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 107
+      "mentions": 108
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 190
+      "mentions": 191
     },
     {
       "keyword": "rated 9 8",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 175
+      "mentions": 176
     },
     {
       "keyword": "identity platform consolidation",
-      "mentions": 22
-    },
-    {
-      "keyword": "holding company behind",
-      "mentions": 25
+      "mentions": 23
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 89
+      "mentions": 90
+    },
+    {
+      "keyword": "european space agency",
+      "mentions": 25
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
+      "link": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
+      "summary": "Cybersecurity researchers have disclosed details of a phishing campaign that involves the attackers impersonating legitimate Google-generated messages by abusing Google Cloud's Application Integration service to distribute emails. The activity, Check Point said, takes advantage of the trust associated with Google Cloud infrastructure to send the messages from a legitimate email address (\"",
+      "published": "Fri, 02 Jan 2026 14:44:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
@@ -138,15 +149,6 @@
       "link": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
       "summary": "Cybersecurity researchers have disclosed details of what appears to be a new strain of Shai Hulud on the npm registry with slight modifications from the previous wave observed last month. The npm package that embeds the novel Shai Hulud strain is \"@vietmoney/react-big-calendar,\" which was uploaded to npm back in March 2021 by a user named \"hoquocdat.\" It was updated for the first time on",
       "published": "Wed, 31 Dec 2025 18:59:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
-      "link": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
-      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday removed three individuals linked to the Intellexa Consortium, the holding company behind a commercial spyware known as Predator, from the specially designated nationals list. The names of the individuals are as follows - Merom Harpaz Andrea Nicola Constantino Hermes Gambazzi Sara Aleksandra Fayssal Hamou",
-      "published": "Wed, 31 Dec 2025 10:47:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -392,6 +394,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Adobe ColdFusion Servers Targeted in Coordinated Campaign",
+      "link": "https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/",
+      "summary": "GreyNoise has observed thousands of requests targeting a dozen vulnerabilities in Adobe ColdFusion during the Christmas 2025 holiday. The post Adobe ColdFusion Servers Targeted in Coordinated Campaign appeared first on SecurityWeek .",
+      "published": "Fri, 02 Jan 2026 10:11:04 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist",
       "link": "https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/",
       "summary": "The worm exposed Trust Wallet’s Developer GitHub secrets, allowing attackers to publish a backdoor extension and steal funds from 2,520 wallets. The post Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist appeared first on SecurityWeek .",
@@ -464,17 +475,6 @@
       "value_signals": [
         "CVE mentioned",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Coupang to Issue $1.17 Billion in Vouchers Over Data Breach",
-      "link": "https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/",
-      "summary": "The ecommerce giant will provide purchase vouchers to the 33.7 million individuals impacted by the incident. The post Coupang to Issue $1.17 Billion in Vouchers Over Data Breach appeared first on SecurityWeek .",
-      "published": "Mon, 29 Dec 2025 12:13:11 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

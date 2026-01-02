@@ -27,7 +27,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 185,
+      "count": 186,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -56,7 +56,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -82,7 +82,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -113,7 +113,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 190,
+      "count": 191,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -316,7 +316,7 @@
       ]
     },
     "retailers like bestbuy": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -541,7 +541,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 98,
+      "count": 99,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -638,7 +638,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -897,7 +897,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1259,7 +1259,7 @@
       ]
     },
     "cve 2020 12812": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1308,7 +1308,7 @@
       ]
     },
     "cyber insurers recommend": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1356,7 +1356,7 @@
       ]
     },
     "european space agency": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1376,7 +1376,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1384,7 +1384,7 @@
       ]
     },
     "bypass authentication mechanisms": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1399,7 +1399,7 @@
       ]
     },
     "identity platform consolidation": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1420,7 +1420,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1428,28 +1428,28 @@
       ]
     },
     "raspberry pi devices": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-01",
         "2026-01-02"
       ]
     },
     "things iot devices": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-01",
         "2026-01-02"
       ]
     },
     "cvss scoring system": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-01",
         "2026-01-02"
       ]
     },
     "cybercrime looks like": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-01",
         "2026-01-02"
@@ -1490,20 +1490,15 @@
       "dates": [
         "2026-01-02"
       ]
+    },
+    "coordinated campaign greynoise": {
+      "count": 1,
+      "dates": [
+        "2026-01-02"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-25 03:23",
-      "articles": 56,
-      "top_keywords": [
-        "nissan confirms impact",
-        "mass creating fake",
-        "recently disclosed vulnerabilities",
-        "watchguard firebox devices",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2025-12-25 04:34",
       "articles": 48,
@@ -2584,6 +2579,17 @@
     },
     {
       "timestamp": "2026-01-02 08:23",
+      "articles": 56,
+      "top_keywords": [
+        "bypass authentication mechanisms",
+        "authentication bypass flaw",
+        "mass creating fake",
+        "malicious cyber actors",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-02 10:16",
       "articles": 56,
       "top_keywords": [
         "bypass authentication mechanisms",

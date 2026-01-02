@@ -56,7 +56,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -113,7 +113,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -541,7 +541,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -638,7 +638,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 163,
+      "count": 164,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -897,7 +897,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1259,7 +1259,7 @@
       ]
     },
     "cve 2020 12812": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1308,7 +1308,7 @@
       ]
     },
     "cyber insurers recommend": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1348,7 +1348,7 @@
       ]
     },
     "holding company behind": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1356,7 +1356,7 @@
       ]
     },
     "european space agency": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1376,7 +1376,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1384,7 +1384,7 @@
       ]
     },
     "bypass authentication mechanisms": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1399,7 +1399,7 @@
       ]
     },
     "identity platform consolidation": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1420,7 +1420,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -1442,7 +1442,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-01",
         "2026-01-02"
@@ -1454,20 +1454,45 @@
         "2026-01-01",
         "2026-01-02"
       ]
+    },
+    "you're already subscribed": {
+      "count": 1,
+      "dates": [
+        "2026-01-02"
+      ]
+    },
+    "user named hoquocdat": {
+      "count": 1,
+      "dates": [
+        "2026-01-02"
+      ]
+    },
+    "unauthorized contract upgrade": {
+      "count": 1,
+      "dates": [
+        "2026-01-02"
+      ]
+    },
+    "trojanized crypto wallets": {
+      "count": 1,
+      "dates": [
+        "2026-01-02"
+      ]
+    },
+    "treasury lifts sanctions": {
+      "count": 1,
+      "dates": [
+        "2026-01-02"
+      ]
+    },
+    "took sax well": {
+      "count": 1,
+      "dates": [
+        "2026-01-02"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-24 22:16",
-      "articles": 56,
-      "top_keywords": [
-        "nissan confirms impact",
-        "mass creating fake",
-        "dominant market position",
-        "recently disclosed vulnerabilities",
-        "watchguard firebox devices"
-      ]
-    },
     {
       "timestamp": "2025-12-25 01:16",
       "articles": 56,
@@ -2554,6 +2579,17 @@
         "authentication bypass flaw",
         "mass creating fake",
         "malicious cyber actors",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-02 06:27",
+      "articles": 48,
+      "top_keywords": [
+        "bypass authentication mechanisms",
+        "authentication bypass flaw",
+        "malicious cyber actors",
+        "you're already subscribed",
         "twitter whistleblower complaint"
       ]
     }

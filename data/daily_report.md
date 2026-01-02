@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-02 04:36 UTC  
+> **Last Updated:** 2026-01-02 06:27 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**bypass authentication mechanisms** • **authentication bypass flaw** • **mass creating fake** • **malicious cyber actors** • **twitter whistleblower complaint** • **rated 9 8** • **prolific cybercriminal group** • **identity platform consolidation** • **holding company behind** • **exploits surrounding ics** • **european space agency** • **cvss scoring system** • **critical security flaw** • **additional brickstorm samples** • **retailers like bestbuy** • **cybercrime looks like** • **cve 2020 12812** • **cyber insurers recommend** • **things iot devices** • **raspberry pi devices**
+**bypass authentication mechanisms** • **authentication bypass flaw** • **malicious cyber actors** • **you're already subscribed** • **twitter whistleblower complaint** • **rated 9 8** • **identity platform consolidation** • **holding company behind** • **exploits surrounding ics** • **european space agency** • **cvss scoring system** • **additional brickstorm samples** • **critical security flaw** • **cve 2020 12812** • **cyber insurers recommend** • **user named hoquocdat** • **unauthorized contract upgrade** • **trojanized crypto wallets** • **treasury lifts sanctions** • **took sax well**
 
 ---
 
@@ -35,17 +35,6 @@
 - [RondoDox botnet exploits React2Shell flaw to breach Next.js servers](https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/)
 - [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/)
 - [Disney will pay $10 million to settle children's data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/)
-
-### Krebs on Security
-
-- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
-- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
-- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
-- [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
-- [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/)
 
 ### Dark Reading
 

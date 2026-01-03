@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-03 20:17 UTC  
+> **Last Updated:** 2026-01-03 22:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nearly 500 000** • **mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **twitter whistleblower complaint** • **supply chain defenses** • **malicious cyber actors** • **exploits surrounding ics** • **european space agency** • **defense evasion mechanisms** • **cybercrime looks like** • **additional brickstorm samples** • **advanced security measures** • **president s efforts** • **coordinated campaign greynoise** • **ivanti epmm attacks** • **fastest model google** • **wafer fabrication operation** • **unpaid toll fee** • **total disclosed value**
+**nearly 500 000** • **mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **twitter whistleblower complaint** • **supply chain defenses** • **exploits surrounding ics** • **european space agency** • **defense evasion mechanisms** • **cybercrime looks like** • **coordinated campaign greynoise** • **additional brickstorm samples** • **advanced security measures** • **president s efforts** • **ivanti epmm attacks** • **fastest model google** • **wafer fabrication operation** • **unpaid toll fee** • **total disclosed value** • **things iot devices**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [ShinyHunters claims Resecurity hack, firm says it’s a honeypot](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/)
 - [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
 - [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
 - [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
@@ -34,7 +35,6 @@
 - [Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack](https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/)
 - [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
 - [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
-- [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/)
 
 ### Krebs on Security
 

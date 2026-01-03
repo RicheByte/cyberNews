@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03 20:17",
+  "last_updated": "2026-01-03 22:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,61 +9,61 @@
     "2 520 wallets",
     "twitter whistleblower complaint",
     "supply chain defenses",
-    "malicious cyber actors",
     "exploits surrounding ics",
     "european space agency",
     "defense evasion mechanisms",
     "cybercrime looks like",
+    "coordinated campaign greynoise",
     "additional brickstorm samples",
     "advanced security measures",
     "president s efforts",
-    "coordinated campaign greynoise",
     "ivanti epmm attacks",
     "fastest model google",
     "wafer fabrication operation",
     "unpaid toll fee",
-    "total disclosed value"
+    "total disclosed value",
+    "things iot devices"
   ],
   "trending": [
     {
       "keyword": "nearly 500 000",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 203
+      "mentions": 204
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 193
+      "mentions": 194
     },
     {
       "keyword": "2 520 wallets",
-      "mentions": 15
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 208
-    },
-    {
-      "keyword": "supply chain defenses",
       "mentions": 16
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 125
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 209
+    },
+    {
+      "keyword": "supply chain defenses",
+      "mentions": 17
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 107
+      "mentions": 108
     },
     {
       "keyword": "european space agency",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "defense evasion mechanisms",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "cybercrime looks like",
+      "mentions": 26
     }
   ],
   "articles": [
@@ -150,6 +150,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ShinyHunters claims Resecurity hack, firm says it’s a honeypot",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/",
+      "summary": "The ShinyHunters hacking group claims it breached the systems of cybersecurity firm Resecurity and stole internal data, while Resecurity says the attackers only accessed a deliberately deployed honeypot containing fake information used to monitor their activity. [...]",
+      "published": "Sat, 03 Jan 2026 15:34:22 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Covenant Health says May data breach impacted nearly 478,000 patients",
       "link": "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/",
       "summary": "The Covenant Health organization has revised to nearly 500,000 the number of individuals affected by a data breach discovered last May. [...]",
@@ -220,15 +229,6 @@
         "Zero-day",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New GlassWorm malware wave targets Macs with trojanized crypto wallets",
-      "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/",
-      "summary": "A fourth wave of the \"GlassWorm\" campaign is targeting macOS developers with malicious VSCode/OpenVSX extensions that deliver trojanized versions of crypto wallet applications. [...]",
-      "published": "Thu, 01 Jan 2026 10:18:23 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

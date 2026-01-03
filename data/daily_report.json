@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03 10:16",
+  "last_updated": "2026-01-03 12:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,58 +12,58 @@
     "malicious cyber actors",
     "exploits surrounding ics",
     "european space agency",
+    "defense evasion mechanisms",
     "cybercrime looks like",
     "additional brickstorm samples",
     "advanced security measures",
+    "president s efforts",
     "coordinated campaign greynoise",
     "ivanti epmm attacks",
     "fastest model google",
+    "wafer fabrication operation",
     "unpaid toll fee",
-    "total disclosed value",
-    "things iot devices",
-    "sustaining select efforts",
-    "supposed wayward package"
+    "total disclosed value"
   ],
   "trending": [
     {
       "keyword": "nearly 500 000",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 198
+      "mentions": 199
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 188
+      "mentions": 189
     },
     {
       "keyword": "2 520 wallets",
-      "mentions": 10
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 203
-    },
-    {
-      "keyword": "supply chain defenses",
       "mentions": 11
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 204
+    },
+    {
+      "keyword": "supply chain defenses",
+      "mentions": 12
+    },
+    {
       "keyword": "malicious cyber actors",
-      "mentions": 120
+      "mentions": 121
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 102
+      "mentions": 103
     },
     {
       "keyword": "european space agency",
-      "mentions": 37
+      "mentions": 38
     },
     {
-      "keyword": "cybercrime looks like",
-      "mentions": 20
+      "keyword": "defense evasion mechanisms",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -388,6 +388,15 @@
     },
     {
       "source": "Security Week",
+      "title": "President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests",
+      "link": "https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/",
+      "summary": "The deal involved aerospace and defense specialist Emcore Corp. selling its computer chips and wafer fabrication operation. The post President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests appeared first on SecurityWeek .",
+      "published": "Sat, 03 Jan 2026 10:46:09 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks",
       "link": "https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/",
       "summary": "Ryan Goldberg and Kevin Martin have admitted being affiliates of the BlackCat/Alphv ransomware group. The post Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks appeared first on SecurityWeek .",
@@ -460,17 +469,6 @@
       "published": "Tue, 30 Dec 2025 12:29:26 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit",
-      "link": "https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/",
-      "summary": "The threat actor uses a signed driver file containing two user-mode shellcodes to execute its ToneShell backdoor. The post Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit appeared first on SecurityWeek .",
-      "published": "Tue, 30 Dec 2025 10:08:45 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "Threatpost",

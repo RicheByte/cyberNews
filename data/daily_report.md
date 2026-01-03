@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-03 10:16 UTC  
+> **Last Updated:** 2026-01-03 12:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nearly 500 000** • **mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **twitter whistleblower complaint** • **supply chain defenses** • **malicious cyber actors** • **exploits surrounding ics** • **european space agency** • **cybercrime looks like** • **additional brickstorm samples** • **advanced security measures** • **coordinated campaign greynoise** • **ivanti epmm attacks** • **fastest model google** • **unpaid toll fee** • **total disclosed value** • **things iot devices** • **sustaining select efforts** • **supposed wayward package**
+**nearly 500 000** • **mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **twitter whistleblower complaint** • **supply chain defenses** • **malicious cyber actors** • **exploits surrounding ics** • **european space agency** • **defense evasion mechanisms** • **cybercrime looks like** • **additional brickstorm samples** • **advanced security measures** • **president s efforts** • **coordinated campaign greynoise** • **ivanti epmm attacks** • **fastest model google** • **wafer fabrication operation** • **unpaid toll fee** • **total disclosed value**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/)
 - [Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks](https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/)
 - [RondoDox Botnet Exploiting React2Shell Vulnerability](https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/)
 - [Covenant Health Data Breach Impacts 478,000 Individuals](https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/)
@@ -67,7 +68,6 @@
 - [Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist](https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/)
 - [European Space Agency Confirms Breach After Hacker Offers to Sell Data](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/)
 - [8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025](https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/)
-- [Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit](https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/)
 
 ### Threatpost
 

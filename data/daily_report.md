@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-03 22:15 UTC  
+> **Last Updated:** 2026-01-04 01:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nearly 500 000** • **mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **twitter whistleblower complaint** • **supply chain defenses** • **exploits surrounding ics** • **european space agency** • **defense evasion mechanisms** • **cybercrime looks like** • **coordinated campaign greynoise** • **additional brickstorm samples** • **advanced security measures** • **president s efforts** • **ivanti epmm attacks** • **fastest model google** • **wafer fabrication operation** • **unpaid toll fee** • **total disclosed value** • **things iot devices**
+**nearly 500 000** • **mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **twitter whistleblower complaint** • **supply chain defenses** • **exploits surrounding ics** • **european space agency** • **defense evasion mechanisms** • **cybercrime looks like** • **coordinated campaign greynoise** • **additional brickstorm samples** • **advanced security measures** • **president s efforts** • **ivanti epmm attacks** • **fastest model google** • **cybersecurity firm resecurity** • **wafer fabrication operation** • **unpaid toll fee** • **total disclosed value**
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### BleepingComputer
 
-- [ShinyHunters claims Resecurity hack, firm says it’s a honeypot](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/)
+- [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
 - [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
 - [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
 - [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)

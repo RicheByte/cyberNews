@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03 22:15",
+  "last_updated": "2026-01-04 01:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -19,51 +19,51 @@
     "president s efforts",
     "ivanti epmm attacks",
     "fastest model google",
+    "cybersecurity firm resecurity",
     "wafer fabrication operation",
     "unpaid toll fee",
-    "total disclosed value",
-    "things iot devices"
+    "total disclosed value"
   ],
   "trending": [
     {
       "keyword": "nearly 500 000",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 204
+      "mentions": 205
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 194
+      "mentions": 195
     },
     {
       "keyword": "2 520 wallets",
-      "mentions": 16
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 209
-    },
-    {
-      "keyword": "supply chain defenses",
       "mentions": 17
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 210
+    },
+    {
+      "keyword": "supply chain defenses",
+      "mentions": 18
+    },
+    {
       "keyword": "exploits surrounding ics",
-      "mentions": 108
+      "mentions": 109
     },
     {
       "keyword": "european space agency",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "defense evasion mechanisms",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "cybercrime looks like",
-      "mentions": 26
+      "mentions": 27
     }
   ],
   "articles": [
@@ -150,8 +150,8 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "ShinyHunters claims Resecurity hack, firm says it’s a honeypot",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/",
+      "title": "Hackers claim to hack Resecurity, firm says it was a honeypot",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/",
       "summary": "The ShinyHunters hacking group claims it breached the systems of cybersecurity firm Resecurity and stole internal data, while Resecurity says the attackers only accessed a deliberately deployed honeypot containing fake information used to monitor their activity. [...]",
       "published": "Sat, 03 Jan 2026 15:34:22 -0500",
       "value_score": 10,

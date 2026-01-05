@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-05 08:26 UTC  
+> **Last Updated:** 2026-01-05 10:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nearly 500 000** • **mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **twitter whistleblower complaint** • **supply chain defenses** • **exploits surrounding ics** • **european space agency** • **defense evasion mechanisms** • **cybercrime looks like** • **coordinated campaign greynoise** • **additional brickstorm samples** • **advanced security measures** • **president s efforts** • **ivanti epmm attacks** • **fastest model google** • **cybersecurity firm resecurity** • **wafer fabrication operation** • **unpaid toll fee** • **total disclosed value**
+**nearly 500 000** • **mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **advanced security measures** • **twitter whistleblower complaint** • **supply chain defenses** • **exploits surrounding ics** • **european space agency** • **defense evasion mechanisms** • **cybercrime looks like** • **cryptocurrency exchange bitfinex** • **coordinated campaign greynoise** • **additional brickstorm samples** • **president s efforts** • **ivanti epmm attacks** • **cybersecurity firm resecurity** • **wafer fabrication operation** • **vvs stealer's code** • **unpaid toll fee**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
+- [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html)
 - [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
 - [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
 - [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
 - [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
 - [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
 - [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html)
-- [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html)
-- [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html)
 
 ### BleepingComputer
 

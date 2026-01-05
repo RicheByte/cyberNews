@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05 08:26",
+  "last_updated": "2026-01-05 10:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,66 +7,84 @@
     "mass creating fake",
     "prolific cybercriminal group",
     "2 520 wallets",
+    "advanced security measures",
     "twitter whistleblower complaint",
     "supply chain defenses",
     "exploits surrounding ics",
     "european space agency",
     "defense evasion mechanisms",
     "cybercrime looks like",
+    "cryptocurrency exchange bitfinex",
     "coordinated campaign greynoise",
     "additional brickstorm samples",
-    "advanced security measures",
     "president s efforts",
     "ivanti epmm attacks",
-    "fastest model google",
     "cybersecurity firm resecurity",
     "wafer fabrication operation",
-    "unpaid toll fee",
-    "total disclosed value"
+    "vvs stealer's code",
+    "unpaid toll fee"
   ],
   "trending": [
     {
       "keyword": "nearly 500 000",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 221
+      "mentions": 222
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 211
+      "mentions": 212
     },
     {
       "keyword": "2 520 wallets",
-      "mentions": 33
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 226
-    },
-    {
-      "keyword": "supply chain defenses",
       "mentions": 34
     },
     {
+      "keyword": "advanced security measures",
+      "mentions": 35
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 227
+    },
+    {
+      "keyword": "supply chain defenses",
+      "mentions": 35
+    },
+    {
       "keyword": "exploits surrounding ics",
-      "mentions": 125
+      "mentions": 126
     },
     {
       "keyword": "european space agency",
-      "mentions": 60
+      "mentions": 61
     },
     {
       "keyword": "defense evasion mechanisms",
-      "mentions": 23
-    },
-    {
-      "keyword": "cybercrime looks like",
-      "mentions": 43
+      "mentions": 24
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
+      "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
+      "summary": "Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrency exchange Bitfinex in 2016, said he has been released early. In a post shared on X last week, the 38-year-old announced his release, crediting U.S. President Donald Trump's First Step Act. According to the Federal Bureau of Prisons' inmate locator",
+      "published": "Mon, 05 Jan 2026 15:12:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
+      "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Python-based information stealer called VVS Stealer (also styled as VVS $tealer) that's capable of harvesting Discord credentials and tokens. The stealer is said to have been on sale on Telegram as far back as April 2025, according to a report from Palo Alto Networks Unit 42. \"VVS stealer's code is obfuscated by Pyarmor,\" researchers",
+      "published": "Mon, 05 Jan 2026 13:18:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
@@ -127,24 +145,6 @@
       "link": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
       "summary": "As web browsers evolve into all-purpose platforms, performance and productivity often suffer. Feature overload, excessive background processes, and fragmented workflows can slow down browsing sessions and introduce unnecessary friction, especially for users who rely on the browser as a primary work environment. This article explores how adopting a lightweight, task-focused browser, like",
       "published": "Thu, 01 Jan 2026 11:17:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
-      "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
-      "summary": "Trust Wallet on Tuesday revealed that the second iteration of the Shai-Hulud (aka Sha1-Hulud) supply chain outbreak in November 2025 was likely responsible for the hack of its Google Chrome extension, ultimately resulting in the theft of approximately $8.5 million in assets. \"Our Developer GitHub secrets were exposed in the attack, which gave the attacker access to our browser extension source",
-      "published": "Wed, 31 Dec 2025 21:59:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
-      "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
-      "summary": "The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 million users of Google Chrome, Microsoft Edge, and Mozilla Firefox. The activity is assessed to be the work of a Chinese threat actor that Koi Security is tracking under the moniker DarkSpectre. In all, the",
-      "published": "Wed, 31 Dec 2025 21:44:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

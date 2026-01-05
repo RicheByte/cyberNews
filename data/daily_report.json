@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-05 14:20",
+  "last_updated": "2026-01-05 16:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "supply chain defenses",
-    "nearly 500 000",
     "mass creating fake",
+    "cybercrime looks like",
     "prolific cybercriminal group",
-    "2 520 wallets",
     "advanced security measures",
     "twitter whistleblower complaint",
+    "nearly 500 000",
     "internet router probably",
     "exploits surrounding ics",
     "defense evasion mechanisms",
-    "cybercrime looks like",
     "cryptocurrency exchange bitfinex",
     "coordinated campaign greynoise",
     "additional brickstorm samples",
     "hacker group earlier",
     "president s efforts",
-    "ivanti epmm attacks",
+    "cryptomining botnet payloads",
     "ai driven threats",
-    "wafer fabrication operation",
-    "vvs stealer's code"
+    "ivanti epmm attacks",
+    "token security explains",
+    "advanced ai technologies",
+    "wafer fabrication operation"
   ],
   "trending": [
     {
-      "keyword": "supply chain defenses",
-      "mentions": 37
-    },
-    {
-      "keyword": "nearly 500 000",
-      "mentions": 34
-    },
-    {
       "keyword": "mass creating fake",
-      "mentions": 224
+      "mentions": 225
+    },
+    {
+      "keyword": "cybercrime looks like",
+      "mentions": 47
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 214
-    },
-    {
-      "keyword": "2 520 wallets",
-      "mentions": 36
+      "mentions": 215
     },
     {
       "keyword": "advanced security measures",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 229
+      "mentions": 230
+    },
+    {
+      "keyword": "nearly 500 000",
+      "mentions": 35
     },
     {
       "keyword": "internet router probably",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 128
+      "mentions": 129
     },
     {
       "keyword": "defense evasion mechanisms",
-      "mentions": 26
+      "mentions": 27
+    },
+    {
+      "keyword": "cryptocurrency exchange bitfinex",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -147,6 +147,37 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Ledger customers impacted by third-party Global-e data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
+      "summary": "Ledger is informing some customers that their personal data has been exposed after hackers breached the systems of third-party payment processor Global-e. [...]",
+      "published": "Mon, 05 Jan 2026 10:14:04 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome",
+      "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/",
+      "summary": "As agentic AI adoption accelerates, identity is emerging as the primary security challenge. Token Security explains why AI agents behave like a new class of identity and why CISOs must manage their access, lifecycle, and risk. [...]",
+      "published": "Mon, 05 Jan 2026 10:05:15 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "NordVPN denies breach claims, says attackers have \"dummy data\"",
+      "link": "https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/",
+      "summary": "NordVPN denied allegations that its internal Salesforce development servers were breached, saying that cybercriminals obtained \"dummy data\" from a trial account on a third-party automated testing platform. [...]",
+      "published": "Mon, 05 Jan 2026 09:48:46 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers claim to hack Resecurity, firm says it was a honeypot",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/",
       "summary": "The ShinyHunters hacking group claims it breached the systems of cybersecurity firm Resecurity and stole internal data, while Resecurity says the attackers only accessed a deliberately deployed honeypot containing fake information used to monitor their activity. [...]",
@@ -196,36 +227,6 @@
       "published": "Fri, 02 Jan 2026 10:19:17 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack",
-      "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/",
-      "summary": "Trust Wallet believes the compromise of its web browser to steal roughly $8.5 million from over 2,500 crypto wallets is likely related to an \"industry-wide\" Sha1-Hulud attack in November. [...]",
-      "published": "Fri, 02 Jan 2026 09:19:40 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI is offering $20 ChatGPT Plus for free to some users",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/",
-      "summary": "If you're already subscribed to ChatGPT Plus, which costs $20, you can request OpenAI to cancel your subscription, and it may offer one month of free usage. [...]",
-      "published": "Thu, 01 Jan 2026 14:18:54 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The biggest cybersecurity and cyberattack stories of 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/",
-      "summary": "2025 was a big year for cybersecurity, with cyberattacks, data breaches, threat groups reaching new notoriety levels, and, of course, zero-day flaws exploited in breaches. Some stories, though, were more impactful or popular with our readers than others. This article explores 15 of the biggest cybersecurity stories of 2025. [...]",
-      "published": "Thu, 01 Jan 2026 11:15:26 -0500",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -310,6 +311,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "RondoDox Botnet Expands Scope With React2Shell Exploitation",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation",
+      "summary": "Recent attacks are targeting Next.js servers and pose a significant threat of cryptomining, botnet payloads, and other malicious activity to IoT networks and enterprises.",
+      "published": "Mon, 05 Jan 2026 15:11:55 GMT",
+      "value_score": 36,
+      "value_signals": [
+        "Botnet ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cybersecurity Predictions for 2026: Navigating the Future of Digital Threats",
       "link": "https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats",
       "summary": "Cybersecurity experts discuss 2026 predictions, highlighting the rise of AI-driven threats, the shift to resilience over prevention, and the urgent need for advanced security measures to combat evolving risks",
@@ -319,9 +332,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "CTO New Year Resolutions for a More Secure 2026",
+      "title": "CTO New Year's Resolutions for a More Secure 2026",
       "link": "https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026",
-      "summary": "From securing MCPs and supply chain defenses to formal AI and quantum governance, experts share their wish lists for cyber safety in 2026.",
+      "summary": "From securing supply chain defenses and MCPs across AI workflows to formal AI and quantum governance, experts share their wish lists for cyber safety in 2026.",
       "published": "Fri, 02 Jan 2026 13:55:02 GMT",
       "value_score": 10,
       "value_signals": []
@@ -375,13 +388,17 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "New Tech Deployments That Cyber Insurers Recommend for 2026",
-      "link": "https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data",
-      "summary": "An analysis of cyber-insurance claims data shows which cyber defenses actually work for policyholders. Here are six technologies that will pay off for companies in 2026.",
-      "published": "Tue, 30 Dec 2025 13:56:23 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "CISA KEV Catalog Expanded 20% in 2025, Topping 1,480 Entries",
+      "link": "https://www.securityweek.com/cisa-kev-catalog-expanded-20-in-2025-topping-1480-entries/",
+      "summary": "With 24 new vulnerabilities known to be exploited by ransomware groups, the list now includes 1,484 software and hardware flaws. The post CISA KEV Catalog Expanded 20% in 2025, Topping 1,480 Entries appeared first on SecurityWeek .",
+      "published": "Mon, 05 Jan 2026 15:13:38 +0000",
+      "value_score": 74,
+      "value_signals": [
+        "Ransomware",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -458,17 +475,6 @@
       "published": "Fri, 02 Jan 2026 10:11:04 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist",
-      "link": "https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/",
-      "summary": "The worm exposed Trust Wallet’s Developer GitHub secrets, allowing attackers to publish a backdoor extension and steal funds from 2,520 wallets. The post Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist appeared first on SecurityWeek .",
-      "published": "Wed, 31 Dec 2025 11:58:51 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "Threatpost",

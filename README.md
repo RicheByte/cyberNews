@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-05 14:20 UTC |
+| 🕐 Last Updated | 2026-01-05 16:22 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`supply chain defenses` • `nearly 500 000` • `mass creating fake` • `prolific cybercriminal group` • `2 520 wallets` • `advanced security measures` • `twitter whistleblower complaint` • `internet router probably` • `exploits surrounding ics` • `defense evasion mechanisms`
+`mass creating fake` • `cybercrime looks like` • `prolific cybercriminal group` • `advanced security measures` • `twitter whistleblower complaint` • `nearly 500 000` • `internet router probably` • `exploits surrounding ics` • `defense evasion mechanisms` • `cryptocurrency exchange bitfinex`
 
 ## 📄 Reports
 

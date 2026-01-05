@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-05 14:20 UTC  
+> **Last Updated:** 2026-01-05 16:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**supply chain defenses** • **nearly 500 000** • **mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **advanced security measures** • **twitter whistleblower complaint** • **internet router probably** • **exploits surrounding ics** • **defense evasion mechanisms** • **cybercrime looks like** • **cryptocurrency exchange bitfinex** • **coordinated campaign greynoise** • **additional brickstorm samples** • **hacker group earlier** • **president s efforts** • **ivanti epmm attacks** • **ai driven threats** • **wafer fabrication operation** • **vvs stealer's code**
+**mass creating fake** • **cybercrime looks like** • **prolific cybercriminal group** • **advanced security measures** • **twitter whistleblower complaint** • **nearly 500 000** • **internet router probably** • **exploits surrounding ics** • **defense evasion mechanisms** • **cryptocurrency exchange bitfinex** • **coordinated campaign greynoise** • **additional brickstorm samples** • **hacker group earlier** • **president s efforts** • **cryptomining botnet payloads** • **ai driven threats** • **ivanti epmm attacks** • **token security explains** • **advanced ai technologies** • **wafer fabrication operation**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
+- [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
+- [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
 - [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
 - [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
 - [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
 - [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
 - [Google is testing a new image AI and it's going to be its fastest model](https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/)
-- [Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack](https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/)
-- [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/)
-- [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [RondoDox Botnet Expands Scope With React2Shell Exploitation](https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation)
 - [Cybersecurity Predictions for 2026: Navigating the Future of Digital Threats](https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats)
-- [CTO New Year Resolutions for a More Secure 2026](https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026)
+- [CTO New Year's Resolutions for a More Secure 2026](https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026)
 - [Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?](https://www.darkreading.com/cyber-risk/sunken-ships-ivanti-epmm-attacks)
 - [When the Cloud Rains on Everyone's IoT Parade](https://www.darkreading.com/iot/when-cloud-rains-on-everyone-iot-parade)
 - [Identity Security 2026: Four Predictions &amp; Recommendations](https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations)
 - [Contrarians No More: AI Skepticism Is on the Rise](https://www.darkreading.com/cybersecurity-operations/contrarians-no-more-ai-skepticism)
 - [Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy](https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy)
-- [New Tech Deployments That Cyber Insurers Recommend for 2026](https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data)
 
 ### Security Week
 
+- [CISA KEV Catalog Expanded 20% in 2025, Topping 1,480 Entries](https://www.securityweek.com/cisa-kev-catalog-expanded-20-in-2025-topping-1480-entries/)
 - [Kimwolf Android Botnet Grows Through Residential Proxy Networks](https://www.securityweek.com/kimwolf-android-botnet-grows-through-residential-proxy-networks/)
 - [Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes](https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/)
 - [President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/)
@@ -67,7 +68,6 @@
 - [RondoDox Botnet Exploiting React2Shell Vulnerability](https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/)
 - [Covenant Health Data Breach Impacts 478,000 Individuals](https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/)
 - [Adobe ColdFusion Servers Targeted in Coordinated Campaign](https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/)
-- [Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist](https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/)
 
 ### Threatpost
 

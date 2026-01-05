@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05 20:20",
+  "last_updated": "2026-01-05 22:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,62 +8,62 @@
     "sedgwick confirms cyberattack",
     "advanced security measures",
     "sedgwick s subsidiary",
-    "ivanti epmm attacks",
     "vvs stealer's code",
     "twitter whistleblower complaint",
     "president s efforts",
     "nearly 500 000",
     "key actors involved",
+    "ivanti epmm attacks",
     "internet router probably",
     "file transfer system",
     "exploits surrounding ics",
     "defense evasion mechanisms",
-    "cryptocurrency exchange bitfinex",
     "brightspeed investigating cyberattack",
     "always connected devices",
+    "ai driven threats",
     "additional brickstorm samples",
     "130 companies tangled"
   ],
   "trending": [
     {
       "keyword": "mass creating fake",
-      "mentions": 227
+      "mentions": 228
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 217
+      "mentions": 218
     },
     {
       "keyword": "sedgwick confirms cyberattack",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "advanced security measures",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "sedgwick s subsidiary",
-      "mentions": 2
-    },
-    {
-      "keyword": "ivanti epmm attacks",
-      "mentions": 40
+      "mentions": 3
     },
     {
       "keyword": "vvs stealer's code",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 232
+      "mentions": 233
     },
     {
       "keyword": "president s efforts",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "nearly 500 000",
-      "mentions": 37
+      "mentions": 38
+    },
+    {
+      "keyword": "key actors involved",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -145,6 +145,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ClickFix attack uses fake Windows BSOD screens to push malware",
+      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/",
+      "summary": "A new ClickFix social engineering campaign is targeting the hospitality sector in Europe, using fake Windows Blue Screen of Death (BSOD) screens to trick users into manually compiling and executing malware on their systems. [...]",
+      "published": "Mon, 05 Jan 2026 16:16:35 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "US broadband provider Brightspeed investigates breach claims",
       "link": "https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/",
       "summary": "Brightspeed, one of the largest fiber broadband companies in the United States, is investigating security breach and data theft claims made by the Crimson Collective extortion gang. [...]",
@@ -209,17 +218,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/",
       "summary": "The Covenant Health organization has revised to nearly 500,000 the number of individuals affected by a data breach discovered last May. [...]",
       "published": "Fri, 02 Jan 2026 14:00:42 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cryptocurrency theft attacks traced to 2022 LastPass breach",
-      "link": "https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/",
-      "summary": "Blockchain investigation firm TRM Labs says ongoing cryptocurrency thefts have been traced to the 2022 LastPass breach, with attackers draining wallets years after encrypted vaults were stolen and laundering the crypto through Russian exchanges. [...]",
-      "published": "Fri, 02 Jan 2026 12:28:01 -0500",
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
@@ -308,6 +306,19 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Critical 'MongoBleed' Bug Under Active Attack, Patch Now",
+      "link": "https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch",
+      "summary": "A memory leak security vulnerability allows unauthenticated attackers to extract passwords and tokens from MongoDB servers.",
+      "published": "Mon, 05 Jan 2026 20:52:04 GMT",
+      "value_score": 38,
+      "value_signals": [
+        "Patch/update",
+        "Breach/leak",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity",
       "link": "https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity",
       "summary": "Two US citizens pleaded guilty to working as ALPHV/BlackCat ransomware affiliates in 2023, and both were previously employed by prominent security firms.",
@@ -374,15 +385,6 @@
       "link": "https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations",
       "summary": "Agentic AI adoption and identity security risks, IGA expands in mid-market, SOC-identity team collaboration, and identity platform consolidation — this 2026 predictions post previews identity trends.",
       "published": "Wed, 31 Dec 2025 14:00:58 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Contrarians No More: AI Skepticism Is on the Rise",
-      "link": "https://www.darkreading.com/cybersecurity-operations/contrarians-no-more-ai-skepticism",
-      "summary": "Concerns about an economic bubble bursting, along with doubts regarding return on investment, suggest the tide may be turning for the artificial intelligence industry.",
-      "published": "Wed, 31 Dec 2025 14:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

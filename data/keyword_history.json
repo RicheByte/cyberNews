@@ -30,7 +30,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 225,
+      "count": 226,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -89,7 +89,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 215,
+      "count": 216,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -123,7 +123,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 230,
+      "count": 231,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -545,7 +545,7 @@
       ]
     },
     "hacker group earlier": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -659,7 +659,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 205,
+      "count": 206,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -924,7 +924,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1444,10 +1444,11 @@
       ]
     },
     "always connected devices": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2025-12-31",
-        "2026-01-02"
+        "2026-01-02",
+        "2026-01-05"
       ]
     },
     "microsoft edge users": {
@@ -1549,7 +1550,7 @@
       ]
     },
     "ivanti epmm attacks": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1567,7 +1568,7 @@
       ]
     },
     "advanced security measures": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1600,7 +1601,7 @@
       ]
     },
     "nearly 500 000": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1609,7 +1610,7 @@
       ]
     },
     "defense evasion mechanisms": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1617,7 +1618,7 @@
       ]
     },
     "president s efforts": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1640,13 +1641,13 @@
       ]
     },
     "cryptocurrency exchange bitfinex": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-05"
       ]
     },
     "vvs stealer's code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-05"
       ]
@@ -1658,7 +1659,7 @@
       ]
     },
     "internet router probably": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-05"
       ]
@@ -1680,20 +1681,39 @@
       "dates": [
         "2026-01-05"
       ]
+    },
+    "sedgwick confirms cyberattack": {
+      "count": 1,
+      "dates": [
+        "2026-01-05"
+      ]
+    },
+    "sedgwick s subsidiary": {
+      "count": 1,
+      "dates": [
+        "2026-01-05"
+      ]
+    },
+    "key actors involved": {
+      "count": 1,
+      "dates": [
+        "2026-01-05"
+      ]
+    },
+    "file transfer system": {
+      "count": 1,
+      "dates": [
+        "2026-01-05"
+      ]
+    },
+    "brightspeed investigating cyberattack": {
+      "count": 1,
+      "dates": [
+        "2026-01-05"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-28 10:16",
-      "articles": 56,
-      "top_keywords": [
-        "nissan confirms impact",
-        "recovered 3 million",
-        "mass creating fake",
-        "watchguard firebox devices",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2025-12-28 12:31",
       "articles": 56,
@@ -2781,6 +2801,17 @@
         "prolific cybercriminal group",
         "advanced security measures",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-05 18:26",
+      "articles": 56,
+      "top_keywords": [
+        "mass creating fake",
+        "prolific cybercriminal group",
+        "sedgwick confirms cyberattack",
+        "sedgwick s subsidiary",
+        "advanced security measures"
       ]
     }
   ]

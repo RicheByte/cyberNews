@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-05 16:22 UTC |
+| 🕐 Last Updated | 2026-01-05 18:26 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mass creating fake` • `cybercrime looks like` • `prolific cybercriminal group` • `advanced security measures` • `twitter whistleblower complaint` • `nearly 500 000` • `internet router probably` • `exploits surrounding ics` • `defense evasion mechanisms` • `cryptocurrency exchange bitfinex`
+`mass creating fake` • `prolific cybercriminal group` • `sedgwick confirms cyberattack` • `sedgwick s subsidiary` • `advanced security measures` • `vvs stealer's code` • `twitter whistleblower complaint` • `president s efforts` • `nearly 500 000` • `key actors involved`
 
 ## 📄 Reports
 

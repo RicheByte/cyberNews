@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-01-05 16:22",
+  "last_updated": "2026-01-05 18:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mass creating fake",
-    "cybercrime looks like",
     "prolific cybercriminal group",
+    "sedgwick confirms cyberattack",
+    "sedgwick s subsidiary",
     "advanced security measures",
+    "vvs stealer's code",
     "twitter whistleblower complaint",
+    "president s efforts",
     "nearly 500 000",
+    "key actors involved",
     "internet router probably",
+    "file transfer system",
     "exploits surrounding ics",
     "defense evasion mechanisms",
     "cryptocurrency exchange bitfinex",
-    "coordinated campaign greynoise",
+    "brightspeed investigating cyberattack",
+    "always connected devices",
     "additional brickstorm samples",
     "hacker group earlier",
-    "president s efforts",
-    "cryptomining botnet payloads",
-    "ai driven threats",
-    "ivanti epmm attacks",
-    "token security explains",
-    "advanced ai technologies",
-    "wafer fabrication operation"
+    "ivanti epmm attacks"
   ],
   "trending": [
     {
       "keyword": "mass creating fake",
-      "mentions": 225
-    },
-    {
-      "keyword": "cybercrime looks like",
-      "mentions": 47
+      "mentions": 226
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 215
+      "mentions": 216
+    },
+    {
+      "keyword": "sedgwick confirms cyberattack",
+      "mentions": 1
+    },
+    {
+      "keyword": "sedgwick s subsidiary",
+      "mentions": 1
     },
     {
       "keyword": "advanced security measures",
-      "mentions": 38
+      "mentions": 39
+    },
+    {
+      "keyword": "vvs stealer's code",
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 230
+      "mentions": 231
+    },
+    {
+      "keyword": "president s efforts",
+      "mentions": 28
     },
     {
       "keyword": "nearly 500 000",
-      "mentions": 35
+      "mentions": 36
     },
     {
-      "keyword": "internet router probably",
-      "mentions": 2
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 129
-    },
-    {
-      "keyword": "defense evasion mechanisms",
-      "mentions": 27
-    },
-    {
-      "keyword": "cryptocurrency exchange bitfinex",
-      "mentions": 4
+      "keyword": "key actors involved",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
+      "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
+      "summary": "The Russia-aligned threat actor known as UAC-0184 has been observed targeting Ukrainian military and government entities by leveraging the Viber messaging platform to deliver malicious ZIP archives. \"This organization has continued to conduct high-intensity intelligence gathering activities against Ukrainian military and government departments in 2025,\" the 360 Threat Intelligence Center said in",
+      "published": "Mon, 05 Jan 2026 23:26:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
+      "link": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
+      "summary": "The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings from Synthient. \"Key actors involved in the Kimwolf botnet are observed monetizing the botnet through app installs, selling residential proxy bandwidth, and selling its DDoS functionality,\" the company said in an analysis published last week. Kimwolf",
+      "published": "Mon, 05 Jan 2026 22:11:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×4"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
@@ -124,26 +144,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
-      "link": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
-      "summary": "Cybersecurity researchers have disclosed details of a phishing campaign that involves the attackers impersonating legitimate Google-generated messages by abusing Google Cloud's Application Integration service to distribute emails. The activity, Check Point said, takes advantage of the trust associated with Google Cloud infrastructure to send the messages from a legitimate email address (\"",
-      "published": "Fri, 02 Jan 2026 14:44:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
-      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
-      "summary": "The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic — new year, new breaches, new tricks. If the past twelve months taught defenders anything, it’s that threat actors don’t pause for holidays or resolutions. They just evolve faster. This week’s round-up shows how subtle shifts in behavior, from code tweaks to job scams, are rewriting what “cybercrime” looks like in",
-      "published": "Thu, 01 Jan 2026 21:22:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "VSCode IDE forks expose users to \"recommended extension\" attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/",
+      "summary": "Popular AI-powered integrated development environment solutions, such as Cursor, Windsurf, Google Antigravity, and Trae, recommend extensions that are non-existent in the OpenVSX registry, allowing threat actors to claim the namespace and upload malicious extensions. [...]",
+      "published": "Mon, 05 Jan 2026 11:41:38 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -218,15 +225,6 @@
         "Active exploitation",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google is testing a new image AI and it's going to be its fastest model",
-      "link": "https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/",
-      "summary": "Google is testing a new image AI model called \"Nano Banana 2 Flash,\" and it's going to be as good as the Gemini 3 Pro Nano Banana, but it'll be cheaper. [...]",
-      "published": "Fri, 02 Jan 2026 10:19:17 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -354,7 +352,7 @@
     {
       "source": "Dark Reading",
       "title": "When the Cloud Rains on Everyone's IoT Parade",
-      "link": "https://www.darkreading.com/iot/when-cloud-rains-on-everyone-iot-parade",
+      "link": "https://www.darkreading.com/cloud-security/when-cloud-rains-on-everyone-iot-parade",
       "summary": "What happens to all of those always-connected devices when the cloud goes down? Disruptions to sleep, school, and smart homes, just to name a few issues.",
       "published": "Wed, 31 Dec 2025 14:31:37 GMT",
       "value_score": 10,
@@ -384,6 +382,33 @@
       "link": "https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy",
       "summary": "The year ahead will see an intensified AI-driven cybersecurity arms race, with attackers leveraging autonomous malware and advanced AI technologies to outpace defenders, while security teams adopt increasingly sophisticated AI tools to combat evolving threats amidst growing vendor consolidation and platformization in the industry.",
       "published": "Tue, 30 Dec 2025 14:00:25 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece",
+      "link": "https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/",
+      "summary": "Flights across Greece were impacted for several hours after noise was reported on multiple air traffic communication channels. The post Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece appeared first on SecurityWeek .",
+      "published": "Mon, 05 Jan 2026 17:49:18 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Brightspeed Investigating Cyberattack",
+      "link": "https://www.securityweek.com/brightspeed-investigating-cyberattack/",
+      "summary": "The hacking group Crimson Collective has claimed the theft of personal information pertaining to over 1 million Brightspeed customers. The post Brightspeed Investigating Cyberattack appeared first on SecurityWeek .",
+      "published": "Mon, 05 Jan 2026 17:43:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Sedgwick Confirms Cyberattack on Government Subsidiary",
+      "link": "https://www.securityweek.com/sedgwick-confirms-cyberattack-on-government-subsidiary/",
+      "summary": "Hackers have compromised a file transfer system at Sedgwick’s subsidiary that serves government agencies. The post Sedgwick Confirms Cyberattack on Government Subsidiary appeared first on SecurityWeek .",
+      "published": "Mon, 05 Jan 2026 17:25:51 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -442,39 +467,6 @@
       "value_signals": [
         "Ransomware ×3"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "RondoDox Botnet Exploiting React2Shell Vulnerability",
-      "link": "https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/",
-      "summary": "In December, the botnet’s operators focused on weaponizing the flaw to compromise vulnerable Next.js servers. The post RondoDox Botnet Exploiting React2Shell Vulnerability appeared first on SecurityWeek .",
-      "published": "Fri, 02 Jan 2026 11:12:02 +0000",
-      "value_score": 36,
-      "value_signals": [
-        "Botnet ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Covenant Health Data Breach Impacts 478,000 Individuals",
-      "link": "https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/",
-      "summary": "The Qilin ransomware group hacked the healthcare organization and stole data from its systems in May 2025. The post Covenant Health Data Breach Impacts 478,000 Individuals appeared first on SecurityWeek .",
-      "published": "Fri, 02 Jan 2026 10:20:06 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware",
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Adobe ColdFusion Servers Targeted in Coordinated Campaign",
-      "link": "https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/",
-      "summary": "GreyNoise has observed thousands of requests targeting a dozen vulnerabilities in Adobe ColdFusion during the Christmas 2025 holiday. The post Adobe ColdFusion Servers Targeted in Coordinated Campaign appeared first on SecurityWeek .",
-      "published": "Fri, 02 Jan 2026 10:11:04 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

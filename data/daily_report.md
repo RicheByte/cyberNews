@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-05 18:26 UTC  
+> **Last Updated:** 2026-01-05 20:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **prolific cybercriminal group** • **sedgwick confirms cyberattack** • **sedgwick s subsidiary** • **advanced security measures** • **vvs stealer's code** • **twitter whistleblower complaint** • **president s efforts** • **nearly 500 000** • **key actors involved** • **internet router probably** • **file transfer system** • **exploits surrounding ics** • **defense evasion mechanisms** • **cryptocurrency exchange bitfinex** • **brightspeed investigating cyberattack** • **always connected devices** • **additional brickstorm samples** • **hacker group earlier** • **ivanti epmm attacks**
+**mass creating fake** • **prolific cybercriminal group** • **sedgwick confirms cyberattack** • **advanced security measures** • **sedgwick s subsidiary** • **ivanti epmm attacks** • **vvs stealer's code** • **twitter whistleblower complaint** • **president s efforts** • **nearly 500 000** • **key actors involved** • **internet router probably** • **file transfer system** • **exploits surrounding ics** • **defense evasion mechanisms** • **cryptocurrency exchange bitfinex** • **brightspeed investigating cyberattack** • **always connected devices** • **additional brickstorm samples** • **130 companies tangled**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
 - [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
 - [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
 - [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
@@ -34,7 +35,6 @@
 - [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
 - [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
 - [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/)
-- [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity](https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity)
 - [RondoDox Botnet Expands Scope With React2Shell Exploitation](https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation)
 - [Cybersecurity Predictions for 2026: Navigating the Future of Digital Threats](https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats)
 - [CTO New Year's Resolutions for a More Secure 2026](https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026)
@@ -56,7 +57,6 @@
 - [When the Cloud Rains on Everyone's IoT Parade](https://www.darkreading.com/cloud-security/when-cloud-rains-on-everyone-iot-parade)
 - [Identity Security 2026: Four Predictions &amp; Recommendations](https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations)
 - [Contrarians No More: AI Skepticism Is on the Rise](https://www.darkreading.com/cybersecurity-operations/contrarians-no-more-ai-skepticism)
-- [Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy](https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy)
 
 ### Security Week
 

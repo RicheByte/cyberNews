@@ -30,7 +30,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 226,
+      "count": 227,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -89,7 +89,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 216,
+      "count": 217,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -123,7 +123,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 231,
+      "count": 232,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -659,7 +659,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 206,
+      "count": 207,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -924,7 +924,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1444,7 +1444,7 @@
       ]
     },
     "always connected devices": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-31",
         "2026-01-02",
@@ -1550,7 +1550,7 @@
       ]
     },
     "ivanti epmm attacks": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1568,7 +1568,7 @@
       ]
     },
     "advanced security measures": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1601,7 +1601,7 @@
       ]
     },
     "nearly 500 000": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1610,7 +1610,7 @@
       ]
     },
     "defense evasion mechanisms": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1618,7 +1618,7 @@
       ]
     },
     "president s efforts": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1641,13 +1641,13 @@
       ]
     },
     "cryptocurrency exchange bitfinex": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-05"
       ]
     },
     "vvs stealer's code": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-05"
       ]
@@ -1659,7 +1659,7 @@
       ]
     },
     "internet router probably": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-05"
       ]
@@ -1683,30 +1683,36 @@
       ]
     },
     "sedgwick confirms cyberattack": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-05"
       ]
     },
     "sedgwick s subsidiary": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-05"
       ]
     },
     "key actors involved": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-05"
       ]
     },
     "file transfer system": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-05"
       ]
     },
     "brightspeed investigating cyberattack": {
+      "count": 2,
+      "dates": [
+        "2026-01-05"
+      ]
+    },
+    "130 companies tangled": {
       "count": 1,
       "dates": [
         "2026-01-05"
@@ -1714,17 +1720,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-28 12:31",
-      "articles": 56,
-      "top_keywords": [
-        "nissan confirms impact",
-        "recovered 3 million",
-        "mass creating fake",
-        "watchguard firebox devices",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2025-12-28 14:15",
       "articles": 56,
@@ -2812,6 +2807,17 @@
         "sedgwick confirms cyberattack",
         "sedgwick s subsidiary",
         "advanced security measures"
+      ]
+    },
+    {
+      "timestamp": "2026-01-05 20:20",
+      "articles": 56,
+      "top_keywords": [
+        "mass creating fake",
+        "prolific cybercriminal group",
+        "sedgwick confirms cyberattack",
+        "advanced security measures",
+        "sedgwick s subsidiary"
       ]
     }
   ]

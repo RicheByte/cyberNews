@@ -30,7 +30,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 223,
+      "count": 224,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -89,7 +89,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 213,
+      "count": 214,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -123,7 +123,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 228,
+      "count": 229,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -545,7 +545,7 @@
       ]
     },
     "hacker group earlier": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -557,7 +557,8 @@
         "2025-12-26",
         "2025-12-27",
         "2025-12-28",
-        "2025-12-29"
+        "2025-12-29",
+        "2026-01-05"
       ]
     },
     "critical security flaw": {
@@ -658,7 +659,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 203,
+      "count": 204,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -923,7 +924,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1487,7 +1488,7 @@
       ]
     },
     "cybercrime looks like": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -1533,7 +1534,7 @@
       ]
     },
     "coordinated campaign greynoise": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1548,7 +1549,7 @@
       ]
     },
     "ivanti epmm attacks": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1557,7 +1558,7 @@
       ]
     },
     "supply chain defenses": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1566,7 +1567,7 @@
       ]
     },
     "advanced security measures": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1581,7 +1582,7 @@
       ]
     },
     "2 520 wallets": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1599,7 +1600,7 @@
       ]
     },
     "nearly 500 000": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1608,7 +1609,7 @@
       ]
     },
     "defense evasion mechanisms": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1616,7 +1617,7 @@
       ]
     },
     "president s efforts": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1624,7 +1625,7 @@
       ]
     },
     "wafer fabrication operation": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1639,18 +1640,24 @@
       ]
     },
     "cryptocurrency exchange bitfinex": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-05"
       ]
     },
     "vvs stealer's code": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-05"
       ]
     },
     "ai driven threats": {
+      "count": 2,
+      "dates": [
+        "2026-01-05"
+      ]
+    },
+    "internet router probably": {
       "count": 1,
       "dates": [
         "2026-01-05"
@@ -1658,17 +1665,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-28 06:24",
-      "articles": 56,
-      "top_keywords": [
-        "nissan confirms impact",
-        "recovered 3 million",
-        "mass creating fake",
-        "watchguard firebox devices",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2025-12-28 08:20",
       "articles": 56,
@@ -2749,6 +2745,17 @@
     },
     {
       "timestamp": "2026-01-05 12:37",
+      "articles": 56,
+      "top_keywords": [
+        "supply chain defenses",
+        "nearly 500 000",
+        "mass creating fake",
+        "prolific cybercriminal group",
+        "2 520 wallets"
+      ]
+    },
+    {
+      "timestamp": "2026-01-05 14:20",
       "articles": 56,
       "top_keywords": [
         "supply chain defenses",

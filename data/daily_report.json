@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05 12:37",
+  "last_updated": "2026-01-05 14:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,16 +10,16 @@
     "2 520 wallets",
     "advanced security measures",
     "twitter whistleblower complaint",
+    "internet router probably",
     "exploits surrounding ics",
-    "european space agency",
     "defense evasion mechanisms",
     "cybercrime looks like",
     "cryptocurrency exchange bitfinex",
     "coordinated campaign greynoise",
     "additional brickstorm samples",
+    "hacker group earlier",
     "president s efforts",
     "ivanti epmm attacks",
-    "cybersecurity firm resecurity",
     "ai driven threats",
     "wafer fabrication operation",
     "vvs stealer's code"
@@ -27,46 +27,57 @@
   "trending": [
     {
       "keyword": "supply chain defenses",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "nearly 500 000",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 223
+      "mentions": 224
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 213
+      "mentions": 214
     },
     {
       "keyword": "2 520 wallets",
-      "mentions": 35
-    },
-    {
-      "keyword": "advanced security measures",
       "mentions": 36
     },
     {
+      "keyword": "advanced security measures",
+      "mentions": 37
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 228
+      "mentions": 229
+    },
+    {
+      "keyword": "internet router probably",
+      "mentions": 1
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 127
-    },
-    {
-      "keyword": "european space agency",
-      "mentions": 62
+      "mentions": 128
     },
     {
       "keyword": "defense evasion mechanisms",
-      "mentions": 25
+      "mentions": 26
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
+      "link": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
+      "summary": "The year opened without a reset. The same pressure carried over, and in some places it tightened. Systems people assume are boring or stable are showing up in the wrong places. Attacks moved quietly, reused familiar paths, and kept working longer than anyone wants to admit. This week’s stories share one pattern. Nothing flashy. No single moment. Just steady abuse of trust — updates, extensions,",
+      "published": "Mon, 05 Jan 2026 18:23:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations",
@@ -131,20 +142,6 @@
       "published": "Thu, 01 Jan 2026 21:22:00 +0530",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
-      "link": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
-      "summary": "Cybersecurity researchers have disclosed details of a persistent nine-month-long campaign that has targeted Internet of Things (IoT) devices and web applications to enroll them into a botnet known as RondoDox. As of December 2025, the activity has been observed leveraging the recently disclosed React2Shell (CVE-2025-55182, CVSS score: 10.0) flaw as an initial access vector, CloudSEK said in an",
-      "published": "Thu, 01 Jan 2026 14:49:00 +0530",
-      "value_score": 62,
-      "value_signals": [
-        "CVE mentioned",
-        "Botnet ×2",
-        "High severity",
         "Exploit wording"
       ]
     },
@@ -388,6 +385,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Kimwolf Android Botnet Grows Through Residential Proxy Networks",
+      "link": "https://www.securityweek.com/kimwolf-android-botnet-grows-through-residential-proxy-networks/",
+      "summary": "The 2-million-device-strong botnet allows monetization through DDoS attacks, app installs, and the selling of proxy bandwidth. The post Kimwolf Android Botnet Grows Through Residential Proxy Networks appeared first on SecurityWeek .",
+      "published": "Mon, 05 Jan 2026 12:48:08 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes",
       "link": "https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/",
       "summary": "WhatsApp device fingerprinting can be useful in the delivery of sophisticated spyware, but impact is very limited without a zero-day. The post Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes appeared first on SecurityWeek .",
@@ -460,17 +468,6 @@
       "value_score": 22,
       "value_signals": [
         "Backdoor"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "European Space Agency Confirms Breach After Hacker Offers to Sell Data",
-      "link": "https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/",
-      "summary": "The European Space Agency is conducting an investigation and says external science servers have been compromised. The post European Space Agency Confirms Breach After Hacker Offers to Sell Data appeared first on SecurityWeek .",
-      "published": "Wed, 31 Dec 2025 09:35:22 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

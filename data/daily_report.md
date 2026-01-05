@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-05 12:37 UTC  
+> **Last Updated:** 2026-01-05 14:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**supply chain defenses** • **nearly 500 000** • **mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **advanced security measures** • **twitter whistleblower complaint** • **exploits surrounding ics** • **european space agency** • **defense evasion mechanisms** • **cybercrime looks like** • **cryptocurrency exchange bitfinex** • **coordinated campaign greynoise** • **additional brickstorm samples** • **president s efforts** • **ivanti epmm attacks** • **cybersecurity firm resecurity** • **ai driven threats** • **wafer fabrication operation** • **vvs stealer's code**
+**supply chain defenses** • **nearly 500 000** • **mass creating fake** • **prolific cybercriminal group** • **2 520 wallets** • **advanced security measures** • **twitter whistleblower complaint** • **internet router probably** • **exploits surrounding ics** • **defense evasion mechanisms** • **cybercrime looks like** • **cryptocurrency exchange bitfinex** • **coordinated campaign greynoise** • **additional brickstorm samples** • **hacker group earlier** • **president s efforts** • **ivanti epmm attacks** • **ai driven threats** • **wafer fabrication operation** • **vvs stealer's code**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html)
 - [The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html)
 - [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
 - [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html)
@@ -23,7 +24,6 @@
 - [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
 - [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html)
 - [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html)
-- [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Kimwolf Android Botnet Grows Through Residential Proxy Networks](https://www.securityweek.com/kimwolf-android-botnet-grows-through-residential-proxy-networks/)
 - [Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes](https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/)
 - [President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/)
 - [Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks](https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/)
@@ -67,7 +68,6 @@
 - [Covenant Health Data Breach Impacts 478,000 Individuals](https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/)
 - [Adobe ColdFusion Servers Targeted in Coordinated Campaign](https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/)
 - [Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist](https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/)
-- [European Space Agency Confirms Breach After Hacker Offers to Sell Data](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/)
 
 ### Threatpost
 

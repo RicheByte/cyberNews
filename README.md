@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-05 12:37 UTC |
+| 🕐 Last Updated | 2026-01-05 14:20 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`supply chain defenses` • `nearly 500 000` • `mass creating fake` • `prolific cybercriminal group` • `2 520 wallets` • `advanced security measures` • `twitter whistleblower complaint` • `exploits surrounding ics` • `european space agency` • `defense evasion mechanisms`
+`supply chain defenses` • `nearly 500 000` • `mass creating fake` • `prolific cybercriminal group` • `2 520 wallets` • `advanced security measures` • `twitter whistleblower complaint` • `internet router probably` • `exploits surrounding ics` • `defense evasion mechanisms`
 
 ## 📄 Reports
 

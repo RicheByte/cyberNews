@@ -1,77 +1,104 @@
 {
-  "last_updated": "2026-01-06 10:18",
+  "last_updated": "2026-01-06 12:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "mass creating fake",
+    "supply chain risks",
     "sedgwick confirms cyberattack",
-    "prolific cybercriminal group",
-    "advanced security measures",
-    "sedgwick s subsidiary",
-    "cve 2025 68668",
+    "mass creating fake",
+    "nordvpn denies breach",
     "corporate data stolen",
-    "critical security vulnerability",
+    "prolific cybercriminal group",
+    "sedgwick s subsidiary",
+    "fragmented across saas",
+    "advanced security measures",
     "write arbitrary files",
-    "vvs stealer's code",
     "twitter whistleblower complaint",
     "supposed wayward package",
-    "president s efforts",
-    "key actors involved",
+    "multi stage campaign",
     "internet router probably",
-    "file transfer system",
     "exploits surrounding ics",
-    "defense evasion mechanisms",
-    "cvss scoring system",
-    "brightspeed investigating cyberattack"
+    "cve 2025 68668",
+    "brightspeed investigating cyberattack",
+    "always connected devices",
+    "additional brickstorm samples",
+    "critical security vulnerability"
   ],
   "trending": [
     {
-      "keyword": "mass creating fake",
-      "mentions": 234
+      "keyword": "supply chain risks",
+      "mentions": 1
     },
     {
       "keyword": "sedgwick confirms cyberattack",
-      "mentions": 9
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 224
-    },
-    {
-      "keyword": "advanced security measures",
-      "mentions": 46
-    },
-    {
-      "keyword": "sedgwick s subsidiary",
-      "mentions": 9
-    },
-    {
-      "keyword": "cve 2025 68668",
-      "mentions": 3
-    },
-    {
-      "keyword": "corporate data stolen",
-      "mentions": 6
-    },
-    {
-      "keyword": "critical security vulnerability",
       "mentions": 10
     },
     {
-      "keyword": "write arbitrary files",
-      "mentions": 2
+      "keyword": "mass creating fake",
+      "mentions": 235
     },
     {
-      "keyword": "vvs stealer's code",
-      "mentions": 12
+      "keyword": "nordvpn denies breach",
+      "mentions": 1
+    },
+    {
+      "keyword": "corporate data stolen",
+      "mentions": 7
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 225
+    },
+    {
+      "keyword": "sedgwick s subsidiary",
+      "mentions": 10
+    },
+    {
+      "keyword": "fragmented across saas",
+      "mentions": 1
+    },
+    {
+      "keyword": "advanced security measures",
+      "mentions": 47
+    },
+    {
+      "keyword": "write arbitrary files",
+      "mentions": 3
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
+      "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
+      "summary": "Source: Securonix Cybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors in attacks targeting the European hospitality sector. The end goal of the multi-stage campaign is to deliver a remote access trojan known as DCRat, according to cybersecurity company Securonix.",
+      "published": "Tue, 06 Jan 2026 17:43:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "What is Identity Dark Matter?",
+      "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
+      "summary": "The Invisible Half of the Identity Universe Identity used to live in one place - an LDAP directory, an HR system, a single IAM portal. Not anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. Each of these environments carries its own accounts, permissions, and authentication flows. Traditional IAM and IGA tools govern only the nearly",
+      "published": "Tue, 06 Jan 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
+      "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
+      "summary": "Popular artificial intelligence (AI)-powered Microsoft Visual Studio Code (VS Code) forks such as Cursor, Windsurf, Google Antigravity, and Trae have been found to recommend extensions that are non-existent in the Open VSX registry, potentially opening the door to supply chain risks when bad actors publish malicious packages under those names. The problem, according to Koi, is that these",
+      "published": "Tue, 06 Jan 2026 16:55:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
       "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
       "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
-      "summary": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host. The vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. It affects n8n versions from",
+      "summary": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host. The vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. Cyera Research Labs' Vladimir",
       "published": "Tue, 06 Jan 2026 10:38:00 +0530",
       "value_score": 36,
       "value_signals": [
@@ -125,29 +152,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations",
-      "link": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
-      "summary": "Featuring: Cybersecurity is being reshaped by forces that extend beyond individual threats or tools. As organizations operate across cloud infrastructure, distributed endpoints, and complex supply chains, security has shifted from a collection of point solutions to a question of architecture, trust, and execution speed. This report examines how core areas of cybersecurity are evolving in",
-      "published": "Mon, 05 Jan 2026 17:25:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
-      "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
-      "summary": "Ilya Lichtenstein, who was sentenced to prison last year for money laundering charges in connection with his role in the massive hack of cryptocurrency exchange Bitfinex in 2016, said he has been released early. In a post shared on X last week, the 38-year-old announced his release, crediting U.S. President Donald Trump's First Step Act. According to the Federal Bureau of Prisons' inmate locator",
-      "published": "Mon, 05 Jan 2026 15:12:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
-      "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Python-based information stealer called VVS Stealer (also styled as VVS $tealer) that's capable of harvesting Discord credentials and tokens. The stealer is said to have been on sale on Telegram as far back as April 2025, according to a report from Palo Alto Networks Unit 42. \"VVS stealer's code is obfuscated by Pyarmor,\" researchers",
-      "published": "Mon, 05 Jan 2026 13:18:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Are Copilot prompt injection flaws vulnerabilities or AI limits?",
+      "link": "https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/",
+      "summary": "Microsoft has pushed back against claims that multiple prompt injection and sandbox-related issues raised by a security engineer in its Copilot AI assistant constitute security vulnerabilities. The development highlights a growing divide between how vendors and researchers define risk in generative AI systems. [...]",
+      "published": "Tue, 06 Jan 2026 06:16:54 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -219,15 +228,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers claim to hack Resecurity, firm says it was a honeypot",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/",
-      "summary": "The ShinyHunters hacking group claims it breached the systems of cybersecurity firm Resecurity and stole internal data, while Resecurity says the attackers only accessed a deliberately deployed honeypot containing fake information used to monitor their activity. [...]",
-      "published": "Sat, 03 Jan 2026 15:34:22 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -396,6 +396,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Dozens of Major Data Breaches Linked to Single Threat Actor",
+      "link": "https://www.securityweek.com/dozens-of-major-data-breaches-linked-to-single-threat-actor/",
+      "summary": "The initial access broker (IAB) relies on credentials exfiltrated using information stealers to hack organizations. The post Dozens of Major Data Breaches Linked to Single Threat Actor appeared first on SecurityWeek .",
+      "published": "Tue, 06 Jan 2026 12:29:24 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "NordVPN Denies Breach After Hacker Leaks Data",
+      "link": "https://www.securityweek.com/nordvpn-denies-breach-after-hacker-leaks-data/",
+      "summary": "The VPN company has conducted an investigation after a threat actor claimed to have hacked its systems. The post NordVPN Denies Breach After Hacker Leaks Data appeared first on SecurityWeek .",
+      "published": "Tue, 06 Jan 2026 11:24:11 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Cybersecurity M&A Roundup: 30 Deals Announced in December 2025",
       "link": "https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-december-2025/",
       "summary": "Significant cybersecurity M&A deals announced by Akamai, Red Hat, Checkmarx, Silent Push, and ServiceNow. The post Cybersecurity M&A Roundup: 30 Deals Announced in December 2025 appeared first on SecurityWeek .",
@@ -453,27 +473,6 @@
       "value_signals": [
         "Botnet ×3"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes",
-      "link": "https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/",
-      "summary": "WhatsApp device fingerprinting can be useful in the delivery of sophisticated spyware, but impact is very limited without a zero-day. The post Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes appeared first on SecurityWeek .",
-      "published": "Mon, 05 Jan 2026 12:01:59 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "Zero-day",
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests",
-      "link": "https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/",
-      "summary": "The deal involved aerospace and defense specialist Emcore Corp. selling its computer chips and wafer fabrication operation. The post President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests appeared first on SecurityWeek .",
-      "published": "Sat, 03 Jan 2026 10:46:09 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

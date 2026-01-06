@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-06 10:18 UTC  
+> **Last Updated:** 2026-01-06 12:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **sedgwick confirms cyberattack** • **prolific cybercriminal group** • **advanced security measures** • **sedgwick s subsidiary** • **cve 2025 68668** • **corporate data stolen** • **critical security vulnerability** • **write arbitrary files** • **vvs stealer's code** • **twitter whistleblower complaint** • **supposed wayward package** • **president s efforts** • **key actors involved** • **internet router probably** • **file transfer system** • **exploits surrounding ics** • **defense evasion mechanisms** • **cvss scoring system** • **brightspeed investigating cyberattack**
+**supply chain risks** • **sedgwick confirms cyberattack** • **mass creating fake** • **nordvpn denies breach** • **corporate data stolen** • **prolific cybercriminal group** • **sedgwick s subsidiary** • **fragmented across saas** • **advanced security measures** • **write arbitrary files** • **twitter whistleblower complaint** • **supposed wayward package** • **multi stage campaign** • **internet router probably** • **exploits surrounding ics** • **cve 2025 68668** • **brightspeed investigating cyberattack** • **always connected devices** • **additional brickstorm samples** • **critical security vulnerability**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat](https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html)
+- [What is Identity Dark Matter?](https://thehackernews.com/2026/01/what-is-identity-dark-matter.html)
+- [VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX](https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html)
 - [New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands](https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html)
 - [Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers](https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html)
 - [Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
 - [Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html)
 - [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html)
-- [The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html)
-- [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
-- [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html)
 
 ### BleepingComputer
 
+- [Are Copilot prompt injection flaws vulnerabilities or AI limits?](https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/)
 - [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
 - [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/)
 - [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
@@ -34,7 +35,6 @@
 - [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
 - [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
 - [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
-- [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Dozens of Major Data Breaches Linked to Single Threat Actor](https://www.securityweek.com/dozens-of-major-data-breaches-linked-to-single-threat-actor/)
+- [NordVPN Denies Breach After Hacker Leaks Data](https://www.securityweek.com/nordvpn-denies-breach-after-hacker-leaks-data/)
 - [Cybersecurity M&A Roundup: 30 Deals Announced in December 2025](https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-december-2025/)
 - [Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece](https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/)
 - [Brightspeed Investigating Cyberattack](https://www.securityweek.com/brightspeed-investigating-cyberattack/)
 - [Sedgwick Confirms Cyberattack on Government Subsidiary](https://www.securityweek.com/sedgwick-confirms-cyberattack-on-government-subsidiary/)
 - [CISA KEV Catalog Expanded 20% in 2025, Topping 1,480 Entries](https://www.securityweek.com/cisa-kev-catalog-expanded-20-in-2025-topping-1480-entries/)
 - [Kimwolf Android Botnet Grows Through Residential Proxy Networks](https://www.securityweek.com/kimwolf-android-botnet-grows-through-residential-proxy-networks/)
-- [Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes](https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/)
-- [President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/)
 
 ### Threatpost
 

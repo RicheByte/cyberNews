@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-06 04:36 UTC  
+> **Last Updated:** 2026-01-06 06:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **prolific cybercriminal group** • **sedgwick confirms cyberattack** • **advanced security measures** • **sedgwick s subsidiary** • **corporate data stolen** • **ivanti epmm attacks** • **vvs stealer's code** • **twitter whistleblower complaint** • **president s efforts** • **key actors involved** • **internet router probably** • **file transfer system** • **exploits surrounding ics** • **defense evasion mechanisms** • **brightspeed investigating cyberattack** • **always connected devices** • **ai driven threats** • **additional brickstorm samples** • **stole internal data**
+**mass creating fake** • **prolific cybercriminal group** • **sedgwick confirms cyberattack** • **advanced security measures** • **sedgwick s subsidiary** • **corporate data stolen** • **ivanti epmm attacks** • **vvs stealer's code** • **twitter whistleblower complaint** • **president s efforts** • **key actors involved** • **internet router probably** • **file transfer system** • **exploits surrounding ics** • **defense evasion mechanisms** • **cvss scoring system** • **cve 2025 68668** • **brightspeed investigating cyberattack** • **always connected devices** • **ai driven threats**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands](https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html)
 - [Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
 - [Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html)
 - [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html)
@@ -23,7 +24,6 @@
 - [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html)
 - [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html)
 - [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html)
-- [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html)
 
 ### BleepingComputer
 

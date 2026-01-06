@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06 04:36",
+  "last_updated": "2026-01-06 06:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -18,55 +18,67 @@
     "file transfer system",
     "exploits surrounding ics",
     "defense evasion mechanisms",
+    "cvss scoring system",
+    "cve 2025 68668",
     "brightspeed investigating cyberattack",
     "always connected devices",
-    "ai driven threats",
-    "additional brickstorm samples",
-    "stole internal data"
+    "ai driven threats"
   ],
   "trending": [
     {
       "keyword": "mass creating fake",
-      "mentions": 231
+      "mentions": 232
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 221
+      "mentions": 222
     },
     {
       "keyword": "sedgwick confirms cyberattack",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "advanced security measures",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "sedgwick s subsidiary",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "corporate data stolen",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "ivanti epmm attacks",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "vvs stealer's code",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 236
+      "mentions": 237
     },
     {
       "keyword": "president s efforts",
-      "mentions": 33
+      "mentions": 34
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
+      "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
+      "summary": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host. The vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. It affects n8n versions from",
+      "published": "Tue, 06 Jan 2026 10:38:00 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
@@ -131,15 +143,6 @@
       "link": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
       "summary": "The threat actor known as Transparent Tribe has been attributed to a fresh set of attacks targeting Indian governmental, academic, and strategic entities with a remote access trojan (RAT) that grants them persistent control over compromised hosts. \"The campaign employs deceptive delivery techniques, including a weaponized Windows shortcut (LNK) file masquerading as a legitimate PDF document",
       "published": "Fri, 02 Jan 2026 19:22:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The ROI Problem in Attack Surface Management",
-      "link": "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html",
-      "summary": "Attack Surface Management (ASM) tools promise reduced risk. What they usually deliver is more information. Security teams deploy ASM, asset inventories grow, alerts start flowing, and dashboards fill up. There is visible activity and measurable output. But when leadership asks a simple question, “Is this reducing incidents?” the answer is often unclear. This gap between effort and",
-      "published": "Fri, 02 Jan 2026 17:00:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-01-06 16:22",
+  "last_updated": "2026-01-06 18:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ai generated code",
     "mass creating fake",
-    "supply chain risks",
     "cyber risk trends",
-    "critical security vulnerability",
     "nordvpn denies breach",
+    "critical security vulnerability",
     "fake blue screen",
     "write arbitrary files",
     "twitter whistleblower complaint",
     "supposed wayward package",
     "prolific cybercriminal group",
     "multi stage campaign",
-    "fragmented across saas",
     "exploits surrounding ics",
     "corporate data stolen",
+    "clickfix campaign serves",
     "advanced security measures",
     "additional brickstorm samples",
+    "malicious cyber actors",
     "startup trends shaking",
-    "cvss scoring system",
-    "real life identity"
+    "january 30 2026",
+    "cvss scoring system"
   ],
   "trending": [
     {
       "keyword": "ai generated code",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 237
-    },
-    {
-      "keyword": "supply chain risks",
-      "mentions": 3
+      "mentions": 238
     },
     {
       "keyword": "cyber risk trends",
-      "mentions": 1
-    },
-    {
-      "keyword": "critical security vulnerability",
-      "mentions": 13
-    },
-    {
-      "keyword": "nordvpn denies breach",
-      "mentions": 3
-    },
-    {
-      "keyword": "fake blue screen",
       "mentions": 2
     },
     {
+      "keyword": "nordvpn denies breach",
+      "mentions": 4
+    },
+    {
+      "keyword": "critical security vulnerability",
+      "mentions": 14
+    },
+    {
+      "keyword": "fake blue screen",
+      "mentions": 3
+    },
+    {
       "keyword": "write arbitrary files",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 242
+      "mentions": 243
     },
     {
       "keyword": "supposed wayward package",
-      "mentions": 43
+      "mentions": 44
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 228
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
+      "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
+      "summary": "Cybersecurity researchers have discovered two new malicious extensions on the Chrome Web Store that are designed to exfiltrate OpenAI ChatGPT and DeepSeek conversations alongside browsing data to servers under the attackers' control. The names of the extensions, which collectively have over 900,000 users, are below - Chat GPT for Chrome with GPT-5, Claude Sonnet & DeepSeek AI (ID:",
+      "published": "Tue, 06 Jan 2026 22:51:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
+      "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
+      "summary": "The CERT Coordination Center (CERT/CC) has disclosed details of an unpatched security flaw impacting TOTOLINK EX200 wireless range extender that could allow a remote authenticated attacker to gain full control of the device. The flaw, CVE-2025-65606 (CVSS score: N/A), has been characterized as a flaw in the firmware-upload error-handling logic, which could cause the device to inadvertently start",
+      "published": "Tue, 06 Jan 2026 21:17:00 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "CVE mentioned"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
@@ -128,28 +148,6 @@
       "published": "Mon, 05 Jan 2026 23:26:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
-      "link": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
-      "summary": "The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings from Synthient. \"Key actors involved in the Kimwolf botnet are observed monetizing the botnet through app installs, selling residential proxy bandwidth, and selling its DDoS functionality,\" the company said in an analysis published last week. Kimwolf",
-      "published": "Mon, 05 Jan 2026 22:11:00 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×4"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
-      "link": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
-      "summary": "The year opened without a reset. The same pressure carried over, and in some places it tightened. Systems people assume are boring or stable are showing up in the wrong places. Attacks moved quietly, reused familiar paths, and kept working longer than anyone wants to admit. This week’s stories share one pattern. Nothing flashy. No single moment. Just steady abuse of trust — updates, extensions,",
-      "published": "Mon, 05 Jan 2026 18:23:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -314,6 +312,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "ClickFix Campaign Serves Up Fake Blue Screen of Death",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death",
+      "summary": "Threat actors are using the social engineering technique and a legitimate Microsoft tool to deploy the DCRat remote access Trojan against targets in the hospitality sector.",
+      "published": "Tue, 06 Jan 2026 16:28:30 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Startup Trends Shaking Up Browsers, SOC Automation, AppSec",
       "link": "https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec",
       "summary": "These startups reimagined browser security, pioneered application security for AI-generated code, and are building consensus on agentic vs. human costs.",
@@ -381,15 +388,6 @@
       "link": "https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats",
       "summary": "Cybersecurity experts discuss 2026 predictions, highlighting the rise of AI-driven threats, the shift to resilience over prevention, and the urgent need for advanced security measures to combat evolving risks.",
       "published": "Fri, 02 Jan 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CTO New Year's Resolutions for a More Secure 2026",
-      "link": "https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026",
-      "summary": "From securing supply chain defenses and MCPs across AI workflows to formal AI and quantum governance, experts share their wish lists for cyber safety in 2026.",
-      "published": "Fri, 02 Jan 2026 13:55:02 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-06 16:22 UTC  
+> **Last Updated:** 2026-01-06 18:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai generated code** • **mass creating fake** • **supply chain risks** • **cyber risk trends** • **critical security vulnerability** • **nordvpn denies breach** • **fake blue screen** • **write arbitrary files** • **twitter whistleblower complaint** • **supposed wayward package** • **prolific cybercriminal group** • **multi stage campaign** • **fragmented across saas** • **exploits surrounding ics** • **corporate data stolen** • **advanced security measures** • **additional brickstorm samples** • **startup trends shaking** • **cvss scoring system** • **real life identity**
+**ai generated code** • **mass creating fake** • **cyber risk trends** • **nordvpn denies breach** • **critical security vulnerability** • **fake blue screen** • **write arbitrary files** • **twitter whistleblower complaint** • **supposed wayward package** • **prolific cybercriminal group** • **multi stage campaign** • **exploits surrounding ics** • **corporate data stolen** • **clickfix campaign serves** • **advanced security measures** • **additional brickstorm samples** • **malicious cyber actors** • **startup trends shaking** • **january 30 2026** • **cvss scoring system**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html)
+- [Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover](https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html)
 - [Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat](https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html)
 - [What is Identity Dark Matter?](https://thehackernews.com/2026/01/what-is-identity-dark-matter.html)
 - [VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX](https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html)
 - [New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands](https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html)
 - [Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers](https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html)
 - [Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
-- [Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html)
-- [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [ClickFix Campaign Serves Up Fake Blue Screen of Death](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death)
 - [Startup Trends Shaking Up Browsers, SOC Automation, AppSec](https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec)
 - [Advisor360 Gets a Handle on Shadow AI via Automation](https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation)
 - [CISOs Face a Tighter Insurance Market in 2026](https://www.darkreading.com/endpoint-security/cisos-face-tighter-insurance-market)
@@ -56,7 +57,6 @@
 - [US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity](https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity)
 - [RondoDox Botnet Expands Scope With React2Shell Exploitation](https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation)
 - [Cybersecurity Predictions for 2026: Navigating the Future of Digital Threats](https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats)
-- [CTO New Year's Resolutions for a More Secure 2026](https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026)
 
 ### Security Week
 

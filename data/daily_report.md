@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-06 18:25 UTC  
+> **Last Updated:** 2026-01-06 20:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai generated code** • **mass creating fake** • **cyber risk trends** • **nordvpn denies breach** • **critical security vulnerability** • **fake blue screen** • **write arbitrary files** • **twitter whistleblower complaint** • **supposed wayward package** • **prolific cybercriminal group** • **multi stage campaign** • **exploits surrounding ics** • **corporate data stolen** • **clickfix campaign serves** • **advanced security measures** • **additional brickstorm samples** • **malicious cyber actors** • **startup trends shaking** • **january 30 2026** • **cvss scoring system**
+**ai generated code** • **mass creating fake** • **cyber risk trends** • **critical security vulnerability** • **nordvpn denies breach** • **fake blue screen** • **write arbitrary files** • **twitter whistleblower complaint** • **supposed wayward package** • **prolific cybercriminal group** • **multi stage campaign** • **exploits surrounding ics** • **corporate data stolen** • **clickfix campaign serves** • **advanced security measures** • **additional brickstorm samples** • **malicious cyber actors** • **startup trends shaking** • **gain full control** • **cve 2025 68668**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [New D-Link flaw in legacy DSL routers actively exploited in attacks](https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/)
+- [Kimwolf Android botnet abuses residential proxies to infect internal devices](https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/)
+- [Jaguar Land Rover wholesale volumes down 43% after cyberattack](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/)
 - [Sedgwick confirms breach at government contractor subsidiary](https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/)
 - [How generative AI accelerates identity attacks against Active Directory](https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/)
 - [Are Copilot prompt injection flaws vulnerabilities or AI limits?](https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/)
 - [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
 - [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/)
-- [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
-- [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
-- [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
 
 ### Krebs on Security
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [Columbia Weather Systems MicroServer](https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01)
 - [CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2025/12/30/cisa-releases-two-industrial-control-systems-advisories)
 - [WHILL Model C2 Electric Wheelchairs and Model F Power Chairs](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-364-01)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/29/cisa-adds-one-known-exploited-vulnerability-catalog)
@@ -89,7 +90,6 @@
 - [NIST and CISA Release Draft Interagency Report on Protecting Tokens and Assertions from Tampering Theft and Misuse for Public Comment](https://www.cisa.gov/news-events/alerts/2025/12/22/nist-and-cisa-release-draft-interagency-report-protecting-tokens-and-assertions-tampering-theft-and)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/22/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA  and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor](https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-and-partners-release-update-malware-analysis-report-brickstorm-backdoor)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-adds-one-known-exploited-vulnerability-catalog)
 
 ---
 

@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-01-06 18:25",
+  "last_updated": "2026-01-06 20:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ai generated code",
     "mass creating fake",
     "cyber risk trends",
-    "nordvpn denies breach",
     "critical security vulnerability",
+    "nordvpn denies breach",
     "fake blue screen",
     "write arbitrary files",
     "twitter whistleblower complaint",
@@ -21,49 +21,49 @@
     "additional brickstorm samples",
     "malicious cyber actors",
     "startup trends shaking",
-    "january 30 2026",
-    "cvss scoring system"
+    "gain full control",
+    "cve 2025 68668"
   ],
   "trending": [
     {
       "keyword": "ai generated code",
-      "mentions": 3
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 238
-    },
-    {
-      "keyword": "cyber risk trends",
-      "mentions": 2
-    },
-    {
-      "keyword": "nordvpn denies breach",
       "mentions": 4
     },
     {
-      "keyword": "critical security vulnerability",
-      "mentions": 14
+      "keyword": "mass creating fake",
+      "mentions": 239
     },
     {
-      "keyword": "fake blue screen",
+      "keyword": "cyber risk trends",
       "mentions": 3
     },
     {
+      "keyword": "critical security vulnerability",
+      "mentions": 15
+    },
+    {
+      "keyword": "nordvpn denies breach",
+      "mentions": 5
+    },
+    {
+      "keyword": "fake blue screen",
+      "mentions": 4
+    },
+    {
       "keyword": "write arbitrary files",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 243
+      "mentions": 244
     },
     {
       "keyword": "supposed wayward package",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 228
+      "mentions": 229
     }
   ],
   "articles": [
@@ -151,6 +151,39 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New D-Link flaw in legacy DSL routers actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/",
+      "summary": "Threat actors are exploiting a recently discovered command injection vulnerability that affects multiple D-Link DSL gateway routers that went out of support years ago. [...]",
+      "published": "Tue, 06 Jan 2026 14:52:52 -0500",
+      "value_score": 41,
+      "value_signals": [
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Kimwolf Android botnet abuses residential proxies to infect internal devices",
+      "link": "https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/",
+      "summary": "The Kimwolf botnet, an Android variant of the Aisuru malware, has grown to more than two million hosts, most of them infected by exploiting vulnerabilities in residential proxy networks to target devices on internal networks. [...]",
+      "published": "Tue, 06 Jan 2026 14:15:11 -0500",
+      "value_score": 36,
+      "value_signals": [
+        "Botnet ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Jaguar Land Rover wholesale volumes down 43% after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/",
+      "summary": "Jaguar Land Rover (JLR) revealed this week that a September 2025 cyberattack led to a 43% decline in third-quarter wholesale volumes. [...]",
+      "published": "Tue, 06 Jan 2026 13:27:08 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Sedgwick confirms breach at government contractor subsidiary",
       "link": "https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/",
       "summary": "Claims administration and risk management company Sedgwick has confirmed that its federal contractor subsidiary, Sedgwick Government Solutions, was the victim of a security breach. [...]",
@@ -197,37 +230,6 @@
       "published": "Mon, 05 Jan 2026 16:16:35 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US broadband provider Brightspeed investigates breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/",
-      "summary": "Brightspeed, one of the largest fiber broadband companies in the United States, is investigating security breach and data theft claims made by the Crimson Collective extortion gang. [...]",
-      "published": "Mon, 05 Jan 2026 15:01:17 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "VSCode IDE forks expose users to \"recommended extension\" attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/",
-      "summary": "Popular AI-powered integrated development environment solutions, such as Cursor, Windsurf, Google Antigravity, and Trae, recommend extensions that are non-existent in the OpenVSX registry, allowing threat actors to claim the namespace and upload malicious extensions. [...]",
-      "published": "Mon, 05 Jan 2026 11:41:38 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ledger customers impacted by third-party Global-e data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
-      "summary": "Ledger is informing some customers that their personal data has been exposed after hackers breached the systems of third-party payment processor Global-e. [...]",
-      "published": "Mon, 05 Jan 2026 10:14:04 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -553,6 +555,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Columbia Weather Systems MicroServer",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to redirect the SSH connection to an attacker controlled device, gain admin access to the web portal, and gain limited shell access. The following versions of Columbia Weather Systems MicroServer are affected: MicroServer firmware (CVE-2025-61939, CVE-2025-64305, CVE-2025-66620) CVSS Vendor Equipment Vulnerabilities v3 8.8 Columbia Weather Systems Columbia Weather Systems MicroServer Improper Restriction o",
+      "published": "Tue, 06 Jan 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Releases Two Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/30/cisa-releases-two-industrial-control-systems-advisories",
       "summary": "CISA released two Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-364-01: WHILL C2 Wheelchairs ICSA-25-345-03: AzeoTech DAQFactory (Update A) CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
@@ -646,20 +662,6 @@
         "Patch/update ×3",
         "Backdoor ×2",
         "CISA/KEV ×2"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-14733 WatchGuard Firebox Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known",
-      "published": "Fri, 19 Dec 25 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
       ]
     }
   ],

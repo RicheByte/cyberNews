@@ -31,7 +31,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 238,
+      "count": 239,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -64,7 +64,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -92,7 +92,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 228,
+      "count": 229,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -127,7 +127,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 243,
+      "count": 244,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -153,7 +153,7 @@
       ]
     },
     "supposed wayward package": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -667,7 +667,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 215,
+      "count": 216,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -882,7 +882,7 @@
       ]
     },
     "critical security vulnerability": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -934,7 +934,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1582,7 +1582,7 @@
       ]
     },
     "advanced security measures": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1745,7 +1745,7 @@
       ]
     },
     "corporate data stolen": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-06"
       ]
@@ -1769,13 +1769,13 @@
       ]
     },
     "cve 2025 68668": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-06"
       ]
     },
     "write arbitrary files": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-06"
       ]
@@ -1787,7 +1787,7 @@
       ]
     },
     "nordvpn denies breach": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-06"
       ]
@@ -1799,19 +1799,19 @@
       ]
     },
     "multi stage campaign": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-06"
       ]
     },
     "ai generated code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-06"
       ]
     },
     "fake blue screen": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-06"
       ]
@@ -1823,19 +1823,19 @@
       ]
     },
     "cyber risk trends": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-06"
       ]
     },
     "startup trends shaking": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-06"
       ]
     },
     "clickfix campaign serves": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-06"
       ]
@@ -1845,20 +1845,15 @@
       "dates": [
         "2026-01-06"
       ]
+    },
+    "gain full control": {
+      "count": 1,
+      "dates": [
+        "2026-01-06"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-29 12:35",
-      "articles": 56,
-      "top_keywords": [
-        "nissan confirms impact",
-        "gpt 5 2",
-        "recovered 3 million",
-        "leak wired database",
-        "mass creating fake"
-      ]
-    },
     {
       "timestamp": "2025-12-29 14:17",
       "articles": 56,
@@ -2946,6 +2941,17 @@
         "cyber risk trends",
         "nordvpn denies breach",
         "critical security vulnerability"
+      ]
+    },
+    {
+      "timestamp": "2026-01-06 20:19",
+      "articles": 56,
+      "top_keywords": [
+        "ai generated code",
+        "mass creating fake",
+        "cyber risk trends",
+        "critical security vulnerability",
+        "nordvpn denies breach"
       ]
     }
   ]

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-06 03:25",
+  "last_updated": "2026-01-06 04:36",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
     "mass creating fake",
     "prolific cybercriminal group",
     "sedgwick confirms cyberattack",
+    "advanced security measures",
     "sedgwick s subsidiary",
     "corporate data stolen",
+    "ivanti epmm attacks",
     "vvs stealer's code",
     "twitter whistleblower complaint",
     "president s efforts",
     "key actors involved",
+    "internet router probably",
     "file transfer system",
     "exploits surrounding ics",
     "defense evasion mechanisms",
     "brightspeed investigating cyberattack",
+    "always connected devices",
+    "ai driven threats",
     "additional brickstorm samples",
-    "stole internal data",
-    "hacker group earlier",
-    "upload malicious extensions",
-    "malicious cyber actors",
-    "token security explains",
-    "residential proxy networks"
+    "stole internal data"
   ],
   "trending": [
     {
       "keyword": "mass creating fake",
-      "mentions": 230
+      "mentions": 231
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 220
+      "mentions": 221
     },
     {
       "keyword": "sedgwick confirms cyberattack",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "advanced security measures",
+      "mentions": 43
     },
     {
       "keyword": "sedgwick s subsidiary",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "corporate data stolen",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "ivanti epmm attacks",
+      "mentions": 43
     },
     {
       "keyword": "vvs stealer's code",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 235
+      "mentions": 236
     },
     {
       "keyword": "president s efforts",
-      "mentions": 32
-    },
-    {
-      "keyword": "key actors involved",
-      "mentions": 5
-    },
-    {
-      "keyword": "file transfer system",
-      "mentions": 5
+      "mentions": 33
     }
   ],
   "articles": [
@@ -299,6 +299,90 @@
       "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
       "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for \"Rey,\" the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.",
       "published": "Wed, 26 Nov 2025 17:22:36 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Critical 'MongoBleed' Bug Under Active Attack, Patch Now",
+      "link": "https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch",
+      "summary": "A memory leak security vulnerability allows unauthenticated attackers to extract passwords and tokens from MongoDB servers.",
+      "published": "Mon, 05 Jan 2026 20:52:04 GMT",
+      "value_score": 38,
+      "value_signals": [
+        "Patch/update",
+        "Breach/leak",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity",
+      "link": "https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity",
+      "summary": "Two US citizens pleaded guilty to working as ALPHV/BlackCat ransomware affiliates in 2023, and both were previously employed by prominent security firms.",
+      "published": "Mon, 05 Jan 2026 18:52:21 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "RondoDox Botnet Expands Scope With React2Shell Exploitation",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation",
+      "summary": "Recent attacks are targeting Next.js servers and pose a significant threat of cryptomining, botnet payloads, and other malicious activity to IoT networks and enterprises.",
+      "published": "Mon, 05 Jan 2026 15:11:55 GMT",
+      "value_score": 36,
+      "value_signals": [
+        "Botnet ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cybersecurity Predictions for 2026: Navigating the Future of Digital Threats",
+      "link": "https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats",
+      "summary": "Cybersecurity experts discuss 2026 predictions, highlighting the rise of AI-driven threats, the shift to resilience over prevention, and the urgent need for advanced security measures to combat evolving risks",
+      "published": "Fri, 02 Jan 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "CTO New Year's Resolutions for a More Secure 2026",
+      "link": "https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026",
+      "summary": "From securing supply chain defenses and MCPs across AI workflows to formal AI and quantum governance, experts share their wish lists for cyber safety in 2026.",
+      "published": "Fri, 02 Jan 2026 13:55:02 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?",
+      "link": "https://www.darkreading.com/cyber-risk/sunken-ships-ivanti-epmm-attacks",
+      "summary": "The April/May zero-day exploitations of Ivanti's mobile device management platform meant unprecedented pwning of thousands of orgs by a Chinese APT — and history will probably repeat itself.",
+      "published": "Wed, 31 Dec 2025 17:35:27 GMT",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "When the Cloud Rains on Everyone's IoT Parade",
+      "link": "https://www.darkreading.com/cloud-security/when-cloud-rains-on-everyone-iot-parade",
+      "summary": "What happens to all of those always-connected devices when the cloud goes down? Disruptions to sleep, school, and smart homes, just to name a few issues.",
+      "published": "Wed, 31 Dec 2025 14:31:37 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Identity Security 2026: Four Predictions &amp; Recommendations",
+      "link": "https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations",
+      "summary": "Agentic AI adoption and identity security risks, IGA expands in mid-market, SOC-identity team collaboration, and identity platform consolidation — this 2026 predictions post previews identity trends.",
+      "published": "Wed, 31 Dec 2025 14:00:58 GMT",
       "value_score": 10,
       "value_signals": []
     },

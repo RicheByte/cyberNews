@@ -31,7 +31,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 233,
+      "count": 234,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -92,7 +92,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 223,
+      "count": 224,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -127,7 +127,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 238,
+      "count": 239,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -153,7 +153,7 @@
       ]
     },
     "supposed wayward package": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -881,7 +881,7 @@
       ]
     },
     "critical security vulnerability": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -933,7 +933,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1493,7 +1493,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -1581,7 +1581,7 @@
       ]
     },
     "advanced security measures": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1624,7 +1624,7 @@
       ]
     },
     "defense evasion mechanisms": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1633,7 +1633,7 @@
       ]
     },
     "president s efforts": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1663,7 +1663,7 @@
       ]
     },
     "vvs stealer's code": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-05",
         "2026-01-06"
@@ -1677,7 +1677,7 @@
       ]
     },
     "internet router probably": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-05",
         "2026-01-06"
@@ -1703,35 +1703,35 @@
       ]
     },
     "sedgwick confirms cyberattack": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-05",
         "2026-01-06"
       ]
     },
     "sedgwick s subsidiary": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-05",
         "2026-01-06"
       ]
     },
     "key actors involved": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-05",
         "2026-01-06"
       ]
     },
     "file transfer system": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-05",
         "2026-01-06"
       ]
     },
     "brightspeed investigating cyberattack": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-05",
         "2026-01-06"
@@ -1744,7 +1744,7 @@
       ]
     },
     "corporate data stolen": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-06"
       ]
@@ -1768,30 +1768,19 @@
       ]
     },
     "cve 2025 68668": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-06"
       ]
     },
     "write arbitrary files": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-06"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-29 03:45",
-      "articles": 56,
-      "top_keywords": [
-        "nissan confirms impact",
-        "recovered 3 million",
-        "mass creating fake",
-        "leak wired database",
-        "additional brickstorm samples"
-      ]
-    },
     {
       "timestamp": "2025-12-29 04:44",
       "articles": 56,
@@ -2877,6 +2866,17 @@
         "mass creating fake",
         "prolific cybercriminal group",
         "sedgwick confirms cyberattack",
+        "advanced security measures",
+        "sedgwick s subsidiary"
+      ]
+    },
+    {
+      "timestamp": "2026-01-06 10:18",
+      "articles": 56,
+      "top_keywords": [
+        "mass creating fake",
+        "sedgwick confirms cyberattack",
+        "prolific cybercriminal group",
         "advanced security measures",
         "sedgwick s subsidiary"
       ]

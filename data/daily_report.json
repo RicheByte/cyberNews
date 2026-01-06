@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-01-06 08:24",
+  "last_updated": "2026-01-06 10:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mass creating fake",
-    "prolific cybercriminal group",
     "sedgwick confirms cyberattack",
+    "prolific cybercriminal group",
     "advanced security measures",
     "sedgwick s subsidiary",
+    "cve 2025 68668",
     "corporate data stolen",
     "critical security vulnerability",
-    "ivanti epmm attacks",
     "write arbitrary files",
     "vvs stealer's code",
     "twitter whistleblower complaint",
@@ -22,48 +22,48 @@
     "exploits surrounding ics",
     "defense evasion mechanisms",
     "cvss scoring system",
-    "cve 2025 68668"
+    "brightspeed investigating cyberattack"
   ],
   "trending": [
     {
       "keyword": "mass creating fake",
-      "mentions": 233
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 223
+      "mentions": 234
     },
     {
       "keyword": "sedgwick confirms cyberattack",
-      "mentions": 8
-    },
-    {
-      "keyword": "advanced security measures",
-      "mentions": 45
-    },
-    {
-      "keyword": "sedgwick s subsidiary",
-      "mentions": 8
-    },
-    {
-      "keyword": "corporate data stolen",
-      "mentions": 5
-    },
-    {
-      "keyword": "critical security vulnerability",
       "mentions": 9
     },
     {
-      "keyword": "ivanti epmm attacks",
-      "mentions": 45
+      "keyword": "prolific cybercriminal group",
+      "mentions": 224
+    },
+    {
+      "keyword": "advanced security measures",
+      "mentions": 46
+    },
+    {
+      "keyword": "sedgwick s subsidiary",
+      "mentions": 9
+    },
+    {
+      "keyword": "cve 2025 68668",
+      "mentions": 3
+    },
+    {
+      "keyword": "corporate data stolen",
+      "mentions": 6
+    },
+    {
+      "keyword": "critical security vulnerability",
+      "mentions": 10
     },
     {
       "keyword": "write arbitrary files",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "vvs stealer's code",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
@@ -396,6 +396,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Cybersecurity M&A Roundup: 30 Deals Announced in December 2025",
+      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-december-2025/",
+      "summary": "Significant cybersecurity M&A deals announced by Akamai, Red Hat, Checkmarx, Silent Push, and ServiceNow. The post Cybersecurity M&A Roundup: 30 Deals Announced in December 2025 appeared first on SecurityWeek .",
+      "published": "Tue, 06 Jan 2026 09:02:06 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece",
       "link": "https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/",
       "summary": "Flights across Greece were impacted for several hours after noise was reported on multiple air traffic communication channels. The post Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece appeared first on SecurityWeek .",
@@ -465,17 +474,6 @@
       "published": "Sat, 03 Jan 2026 10:46:09 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks",
-      "link": "https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/",
-      "summary": "Ryan Goldberg and Kevin Martin have admitted being affiliates of the BlackCat/Alphv ransomware group. The post Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks appeared first on SecurityWeek .",
-      "published": "Fri, 02 Jan 2026 12:08:33 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
     },
     {
       "source": "Threatpost",

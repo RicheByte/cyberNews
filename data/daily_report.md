@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-06 08:24 UTC  
+> **Last Updated:** 2026-01-06 10:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **prolific cybercriminal group** • **sedgwick confirms cyberattack** • **advanced security measures** • **sedgwick s subsidiary** • **corporate data stolen** • **critical security vulnerability** • **ivanti epmm attacks** • **write arbitrary files** • **vvs stealer's code** • **twitter whistleblower complaint** • **supposed wayward package** • **president s efforts** • **key actors involved** • **internet router probably** • **file transfer system** • **exploits surrounding ics** • **defense evasion mechanisms** • **cvss scoring system** • **cve 2025 68668**
+**mass creating fake** • **sedgwick confirms cyberattack** • **prolific cybercriminal group** • **advanced security measures** • **sedgwick s subsidiary** • **cve 2025 68668** • **corporate data stolen** • **critical security vulnerability** • **write arbitrary files** • **vvs stealer's code** • **twitter whistleblower complaint** • **supposed wayward package** • **president s efforts** • **key actors involved** • **internet router probably** • **file transfer system** • **exploits surrounding ics** • **defense evasion mechanisms** • **cvss scoring system** • **brightspeed investigating cyberattack**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Cybersecurity M&A Roundup: 30 Deals Announced in December 2025](https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-december-2025/)
 - [Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece](https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/)
 - [Brightspeed Investigating Cyberattack](https://www.securityweek.com/brightspeed-investigating-cyberattack/)
 - [Sedgwick Confirms Cyberattack on Government Subsidiary](https://www.securityweek.com/sedgwick-confirms-cyberattack-on-government-subsidiary/)
@@ -67,7 +68,6 @@
 - [Kimwolf Android Botnet Grows Through Residential Proxy Networks](https://www.securityweek.com/kimwolf-android-botnet-grows-through-residential-proxy-networks/)
 - [Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes](https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/)
 - [President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/)
-- [Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks](https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/)
 
 ### Threatpost
 

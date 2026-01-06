@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-06 12:35 UTC |
+| 🕐 Last Updated | 2026-01-06 14:18 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`supply chain risks` • `sedgwick confirms cyberattack` • `mass creating fake` • `nordvpn denies breach` • `corporate data stolen` • `prolific cybercriminal group` • `sedgwick s subsidiary` • `fragmented across saas` • `advanced security measures` • `write arbitrary files`
+`mass creating fake` • `supply chain risks` • `ai generated code` • `critical security vulnerability` • `nordvpn denies breach` • `prolific cybercriminal group` • `fragmented across saas` • `corporate data stolen` • `fake blue screen` • `advanced security measures`
 
 ## 📄 Reports
 

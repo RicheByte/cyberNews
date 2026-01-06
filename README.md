@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-06 14:18 UTC |
+| 🕐 Last Updated | 2026-01-06 16:22 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mass creating fake` • `supply chain risks` • `ai generated code` • `critical security vulnerability` • `nordvpn denies breach` • `prolific cybercriminal group` • `fragmented across saas` • `corporate data stolen` • `fake blue screen` • `advanced security measures`
+`ai generated code` • `mass creating fake` • `supply chain risks` • `cyber risk trends` • `critical security vulnerability` • `nordvpn denies breach` • `fake blue screen` • `write arbitrary files` • `twitter whistleblower complaint` • `supposed wayward package`
 
 ## 📄 Reports
 

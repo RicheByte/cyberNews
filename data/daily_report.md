@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-06 14:18 UTC  
+> **Last Updated:** 2026-01-06 16:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **supply chain risks** • **ai generated code** • **critical security vulnerability** • **nordvpn denies breach** • **prolific cybercriminal group** • **fragmented across saas** • **corporate data stolen** • **fake blue screen** • **advanced security measures** • **write arbitrary files** • **twitter whistleblower complaint** • **supposed wayward package** • **multi stage campaign** • **exploits surrounding ics** • **additional brickstorm samples** • **cvss scoring system** • **hacker group earlier** • **cve 2025 68668** • **cve 2025 54957**
+**ai generated code** • **mass creating fake** • **supply chain risks** • **cyber risk trends** • **critical security vulnerability** • **nordvpn denies breach** • **fake blue screen** • **write arbitrary files** • **twitter whistleblower complaint** • **supposed wayward package** • **prolific cybercriminal group** • **multi stage campaign** • **fragmented across saas** • **exploits surrounding ics** • **corporate data stolen** • **advanced security measures** • **additional brickstorm samples** • **startup trends shaking** • **cvss scoring system** • **real life identity**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Sedgwick confirms breach at government contractor subsidiary](https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/)
+- [How generative AI accelerates identity attacks against Active Directory](https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/)
 - [Are Copilot prompt injection flaws vulnerabilities or AI limits?](https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/)
 - [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
 - [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/)
 - [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
 - [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
 - [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
-- [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/)
-- [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/)
 
 ### Krebs on Security
 
@@ -51,7 +51,7 @@
 
 - [Startup Trends Shaking Up Browsers, SOC Automation, AppSec](https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec)
 - [Advisor360 Gets a Handle on Shadow AI via Automation](https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation)
-- [CISOs Face A Tighter Insurance Market in 2026](https://www.darkreading.com/endpoint-security/cisos-face-tighter-insurance-market)
+- [CISOs Face a Tighter Insurance Market in 2026](https://www.darkreading.com/endpoint-security/cisos-face-tighter-insurance-market)
 - [Critical 'MongoBleed' Bug Under Attack, Patch Now](https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch)
 - [US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity](https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity)
 - [RondoDox Botnet Expands Scope With React2Shell Exploitation](https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation)
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking](https://www.securityweek.com/hacker-conversations-katie-paxton-fear-talks-autism-morality-and-hacking/)
+- [Cyber Risk Trends for 2026: Building Resilience, Not Just Defenses](https://www.securityweek.com/cyber-risk-trends-for-2026-building-resilience-not-just-defenses/)
 - [Researchers Trap Scattered Lapsus$ Hunters in Honeypot](https://www.securityweek.com/researchers-trap-scattered-lapsus-hunters-in-honeypot/)
 - [Critical Dolby Vulnerability Patched in Android](https://www.securityweek.com/critical-dolby-vulnerability-patched-in-android/)
 - [Sophisticated ClickFix Campaign Targeting Hospitality Sector](https://www.securityweek.com/sophisticated-clickfix-campaign-targeting-hospitality-sector/)
 - [Dozens of Major Data Breaches Linked to Single Threat Actor](https://www.securityweek.com/dozens-of-major-data-breaches-linked-to-single-threat-actor/)
 - [NordVPN Denies Breach After Hacker Leaks Data](https://www.securityweek.com/nordvpn-denies-breach-after-hacker-leaks-data/)
 - [Cybersecurity M&A Roundup: 30 Deals Announced in December 2025](https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-december-2025/)
-- [Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece](https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/)
-- [Brightspeed Investigating Cyberattack](https://www.securityweek.com/brightspeed-investigating-cyberattack/)
 
 ### Threatpost
 

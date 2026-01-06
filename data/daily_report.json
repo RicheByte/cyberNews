@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-06 14:18",
+  "last_updated": "2026-01-06 16:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "ai generated code",
     "mass creating fake",
     "supply chain risks",
-    "ai generated code",
+    "cyber risk trends",
     "critical security vulnerability",
     "nordvpn denies breach",
-    "prolific cybercriminal group",
-    "fragmented across saas",
-    "corporate data stolen",
     "fake blue screen",
-    "advanced security measures",
     "write arbitrary files",
     "twitter whistleblower complaint",
     "supposed wayward package",
+    "prolific cybercriminal group",
     "multi stage campaign",
+    "fragmented across saas",
     "exploits surrounding ics",
+    "corporate data stolen",
+    "advanced security measures",
     "additional brickstorm samples",
+    "startup trends shaking",
     "cvss scoring system",
-    "hacker group earlier",
-    "cve 2025 68668",
-    "cve 2025 54957"
+    "real life identity"
   ],
   "trending": [
     {
-      "keyword": "mass creating fake",
-      "mentions": 236
-    },
-    {
-      "keyword": "supply chain risks",
+      "keyword": "ai generated code",
       "mentions": 2
     },
     {
-      "keyword": "ai generated code",
+      "keyword": "mass creating fake",
+      "mentions": 237
+    },
+    {
+      "keyword": "supply chain risks",
+      "mentions": 3
+    },
+    {
+      "keyword": "cyber risk trends",
       "mentions": 1
     },
     {
       "keyword": "critical security vulnerability",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "nordvpn denies breach",
-      "mentions": 2
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 226
-    },
-    {
-      "keyword": "fragmented across saas",
-      "mentions": 2
-    },
-    {
-      "keyword": "corporate data stolen",
-      "mentions": 8
+      "mentions": 3
     },
     {
       "keyword": "fake blue screen",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "advanced security measures",
-      "mentions": 48
+      "keyword": "write arbitrary files",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 242
+    },
+    {
+      "keyword": "supposed wayward package",
+      "mentions": 43
     }
   ],
   "articles": [
@@ -153,6 +153,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Sedgwick confirms breach at government contractor subsidiary",
+      "link": "https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/",
+      "summary": "Claims administration and risk management company Sedgwick has confirmed that its federal contractor subsidiary, Sedgwick Government Solutions, was the victim of a security breach. [...]",
+      "published": "Tue, 06 Jan 2026 10:27:22 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "How generative AI accelerates identity attacks against Active Directory",
+      "link": "https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/",
+      "summary": "Generative AI is accelerating password attacks against Active Directory, making credential abuse faster and more effective. Specops Software explains how AI-driven cracking techniques exploit weak and predictable AD passwords. [...]",
+      "published": "Tue, 06 Jan 2026 09:46:15 -0500",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Are Copilot prompt injection flaws vulnerabilities or AI limits?",
       "link": "https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/",
       "summary": "Microsoft has pushed back against claims that multiple prompt injection and sandbox-related issues raised by a security engineer in its Copilot AI assistant constitute security vulnerabilities. The development highlights a growing divide between how vendors and researchers define risk in generative AI systems. [...]",
@@ -204,26 +226,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
       "summary": "Ledger is informing some customers that their personal data has been exposed after hackers breached the systems of third-party payment processor Global-e. [...]",
       "published": "Mon, 05 Jan 2026 10:14:04 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome",
-      "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/",
-      "summary": "As agentic AI adoption accelerates, identity is emerging as the primary security challenge. Token Security explains why AI agents behave like a new class of identity and why CISOs must manage their access, lifecycle, and risk. [...]",
-      "published": "Mon, 05 Jan 2026 10:05:15 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NordVPN denies breach claims, says attackers have \"dummy data\"",
-      "link": "https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/",
-      "summary": "NordVPN denied allegations that its internal Salesforce development servers were breached, saying that cybercriminals obtained \"dummy data\" from a trial account on a third-party automated testing platform. [...]",
-      "published": "Mon, 05 Jan 2026 09:48:46 -0500",
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
@@ -314,7 +316,7 @@
       "source": "Dark Reading",
       "title": "Startup Trends Shaking Up Browsers, SOC Automation, AppSec",
       "link": "https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec",
-      "summary": "In 2025, these startups have reimagined browser security, pioneered application security for AI-generated code, and are building consensus on agentic vs. human costs.",
+      "summary": "These startups reimagined browser security, pioneered application security for AI-generated code, and are building consensus on agentic vs. human costs.",
       "published": "Mon, 05 Jan 2026 23:32:21 GMT",
       "value_score": 10,
       "value_signals": []
@@ -323,16 +325,16 @@
       "source": "Dark Reading",
       "title": "Advisor360 Gets a Handle on Shadow AI via Automation",
       "link": "https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation",
-      "summary": "With employees looking for the benefits of artificial intelligence, a FinTech company stepped up controls with automation.",
+      "summary": "With employees looking for the benefits of artificial intelligence, a fintech company stepped up controls with automation.",
       "published": "Mon, 05 Jan 2026 23:04:24 GMT",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Dark Reading",
-      "title": "CISOs Face A Tighter Insurance Market in 2026",
+      "title": "CISOs Face a Tighter Insurance Market in 2026",
       "link": "https://www.darkreading.com/endpoint-security/cisos-face-tighter-insurance-market",
-      "summary": "",
+      "summary": "Insured entities are becoming more sophisticated in their views on how cyber policies fit into their broader risk management plans.",
       "published": "Mon, 05 Jan 2026 22:51:09 GMT",
       "value_score": 10,
       "value_signals": []
@@ -393,6 +395,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking",
+      "link": "https://www.securityweek.com/hacker-conversations-katie-paxton-fear-talks-autism-morality-and-hacking/",
+      "summary": "From dismantling online games as a child to uncovering real-world vulnerabilities, Katie Paxton-Fear explains how autism, curiosity, and a rejection of ambiguity shaped her path into ethical hacking. The post Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking appeared first on SecurityWeek .",
+      "published": "Tue, 06 Jan 2026 15:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cyber Risk Trends for 2026: Building Resilience, Not Just Defenses",
+      "link": "https://www.securityweek.com/cyber-risk-trends-for-2026-building-resilience-not-just-defenses/",
+      "summary": "We can’t outpace the adversary by trying to stop every attack, but we can outlast them by engineering systems and culture to take a punch and try to quickly rebound. The post Cyber Risk Trends for 2026: Building Resilience, Not Just Defenses appeared first on SecurityWeek .",
+      "published": "Tue, 06 Jan 2026 14:45:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Researchers Trap Scattered Lapsus$ Hunters in Honeypot",
       "link": "https://www.securityweek.com/researchers-trap-scattered-lapsus-hunters-in-honeypot/",
       "summary": "Using fake accounts and synthetic data to lure the hackers, the researchers gathered information on their servers. The post Researchers Trap Scattered Lapsus$ Hunters in Honeypot appeared first on SecurityWeek .",
@@ -447,24 +467,6 @@
       "link": "https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-december-2025/",
       "summary": "Significant cybersecurity M&A deals announced by Akamai, Red Hat, Checkmarx, Silent Push, and ServiceNow. The post Cybersecurity M&A Roundup: 30 Deals Announced in December 2025 appeared first on SecurityWeek .",
       "published": "Tue, 06 Jan 2026 09:02:06 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece",
-      "link": "https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/",
-      "summary": "Flights across Greece were impacted for several hours after noise was reported on multiple air traffic communication channels. The post Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece appeared first on SecurityWeek .",
-      "published": "Mon, 05 Jan 2026 17:49:18 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Brightspeed Investigating Cyberattack",
-      "link": "https://www.securityweek.com/brightspeed-investigating-cyberattack/",
-      "summary": "The hacking group Crimson Collective has claimed the theft of personal information pertaining to over 1 million Brightspeed customers. The post Brightspeed Investigating Cyberattack appeared first on SecurityWeek .",
-      "published": "Mon, 05 Jan 2026 17:43:13 +0000",
       "value_score": 10,
       "value_signals": []
     },

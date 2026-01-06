@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-06 01:18 UTC  
+> **Last Updated:** 2026-01-06 03:25 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**mass creating fake** • **prolific cybercriminal group** • **sedgwick confirms cyberattack** • **advanced security measures** • **sedgwick s subsidiary** • **corporate data stolen** • **ivanti epmm attacks** • **vvs stealer's code** • **twitter whistleblower complaint** • **president s efforts** • **key actors involved** • **internet router probably** • **file transfer system** • **exploits surrounding ics** • **defense evasion mechanisms** • **brightspeed investigating cyberattack** • **always connected devices** • **ai driven threats** • **additional brickstorm samples** • **stole internal data**
+**mass creating fake** • **prolific cybercriminal group** • **sedgwick confirms cyberattack** • **sedgwick s subsidiary** • **corporate data stolen** • **vvs stealer's code** • **twitter whistleblower complaint** • **president s efforts** • **key actors involved** • **file transfer system** • **exploits surrounding ics** • **defense evasion mechanisms** • **brightspeed investigating cyberattack** • **additional brickstorm samples** • **stole internal data** • **hacker group earlier** • **upload malicious extensions** • **malicious cyber actors** • **token security explains** • **residential proxy networks**
 
 ---
 
@@ -46,17 +46,6 @@
 - [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
 - [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
 - [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
-
-### Dark Reading
-
-- [Critical 'MongoBleed' Bug Under Active Attack, Patch Now](https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch)
-- [US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity](https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity)
-- [RondoDox Botnet Expands Scope With React2Shell Exploitation](https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation)
-- [Cybersecurity Predictions for 2026: Navigating the Future of Digital Threats](https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats)
-- [CTO New Year's Resolutions for a More Secure 2026](https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026)
-- [Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?](https://www.darkreading.com/cyber-risk/sunken-ships-ivanti-epmm-attacks)
-- [When the Cloud Rains on Everyone's IoT Parade](https://www.darkreading.com/cloud-security/when-cloud-rains-on-everyone-iot-parade)
-- [Identity Security 2026: Four Predictions &amp; Recommendations](https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations)
 
 ### Security Week
 

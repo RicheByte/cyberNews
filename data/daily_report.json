@@ -1,8 +1,9 @@
 {
-  "last_updated": "2026-01-06 20:19",
+  "last_updated": "2026-01-06 22:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "scattered lapsus hunters",
     "ai generated code",
     "mass creating fake",
     "cyber risk trends",
@@ -14,56 +15,55 @@
     "supposed wayward package",
     "prolific cybercriminal group",
     "multi stage campaign",
+    "january 30 2026",
     "exploits surrounding ics",
     "corporate data stolen",
     "clickfix campaign serves",
-    "advanced security measures",
     "additional brickstorm samples",
     "malicious cyber actors",
     "startup trends shaking",
-    "gain full control",
-    "cve 2025 68668"
+    "gain full control"
   ],
   "trending": [
     {
+      "keyword": "scattered lapsus hunters",
+      "mentions": 13
+    },
+    {
       "keyword": "ai generated code",
-      "mentions": 4
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 239
-    },
-    {
-      "keyword": "cyber risk trends",
-      "mentions": 3
-    },
-    {
-      "keyword": "critical security vulnerability",
-      "mentions": 15
-    },
-    {
-      "keyword": "nordvpn denies breach",
       "mentions": 5
     },
     {
-      "keyword": "fake blue screen",
+      "keyword": "mass creating fake",
+      "mentions": 240
+    },
+    {
+      "keyword": "cyber risk trends",
       "mentions": 4
     },
     {
+      "keyword": "critical security vulnerability",
+      "mentions": 16
+    },
+    {
+      "keyword": "nordvpn denies breach",
+      "mentions": 6
+    },
+    {
+      "keyword": "fake blue screen",
+      "mentions": 5
+    },
+    {
       "keyword": "write arbitrary files",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 244
+      "mentions": 245
     },
     {
       "keyword": "supposed wayward package",
-      "mentions": 45
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 229
+      "mentions": 46
     }
   ],
   "articles": [
@@ -151,6 +151,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft cancels plans to rate limit Exchange Online bulk emails",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/",
+      "summary": "Microsoft announced today that it has canceled plans to impose a daily limit of 2,000 external recipients on Exchange Online bulk email senders. [...]",
+      "published": "Tue, 06 Jan 2026 15:49:30 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New D-Link flaw in legacy DSL routers actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/",
       "summary": "Threat actors are exploiting a recently discovered command injection vulnerability that affects multiple D-Link DSL gateway routers that went out of support years ago. [...]",
@@ -219,15 +228,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/",
       "summary": "A threat actor known as Zestix has been offering to corporate data stolen from dozens of companies likely after breaching their ShareFile, Nextcloud, and OwnCloud instances. [...]",
       "published": "Mon, 05 Jan 2026 17:52:16 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ClickFix attack uses fake Windows BSOD screens to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/",
-      "summary": "A new ClickFix social engineering campaign is targeting the hospitality sector in Europe, using fake Windows Blue Screen of Death (BSOD) screens to trick users into manually compiling and executing malware on their systems. [...]",
-      "published": "Mon, 05 Jan 2026 16:16:35 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -314,6 +314,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Scattered Lapsus$ Hunters Snared in Cyber Researcher Honeypot",
+      "link": "https://www.darkreading.com/endpoint-security/scattered-lapsus-hunters-researcher-honeypot",
+      "summary": "Scattered Lapsus$ Hunters, also known as ShinyHunters, were drawn in using a realistic, yet mostly fake, dataset.",
+      "published": "Tue, 06 Jan 2026 20:23:34 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "ClickFix Campaign Serves Up Fake Blue Screen of Death",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death",
       "summary": "Threat actors are using the social engineering technique and a legitimate Microsoft tool to deploy the DCRat remote access Trojan against targets in the hospitality sector.",
@@ -383,15 +392,6 @@
         "Botnet ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cybersecurity Predictions for 2026: Navigating the Future of Digital Threats",
-      "link": "https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats",
-      "summary": "Cybersecurity experts discuss 2026 predictions, highlighting the rise of AI-driven threats, the shift to resilience over prevention, and the urgent need for advanced security measures to combat evolving risks.",
-      "published": "Fri, 02 Jan 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

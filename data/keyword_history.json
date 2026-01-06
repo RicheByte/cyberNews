@@ -31,7 +31,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 232,
+      "count": 233,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -92,7 +92,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 222,
+      "count": 223,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -127,7 +127,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 237,
+      "count": 238,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -153,7 +153,7 @@
       ]
     },
     "supposed wayward package": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -161,7 +161,8 @@
         "2025-12-24",
         "2025-12-25",
         "2026-01-02",
-        "2026-01-03"
+        "2026-01-03",
+        "2026-01-06"
       ]
     },
     "life events neurodiversity": {
@@ -880,10 +881,11 @@
       ]
     },
     "critical security vulnerability": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-23",
-        "2025-12-24"
+        "2025-12-24",
+        "2026-01-06"
       ]
     },
     "platform emphasizes practicality": {
@@ -931,7 +933,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1491,7 +1493,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -1560,7 +1562,7 @@
       ]
     },
     "ivanti epmm attacks": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1579,7 +1581,7 @@
       ]
     },
     "advanced security measures": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-01-02",
         "2026-01-03",
@@ -1622,7 +1624,7 @@
       ]
     },
     "defense evasion mechanisms": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1631,7 +1633,7 @@
       ]
     },
     "president s efforts": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1661,7 +1663,7 @@
       ]
     },
     "vvs stealer's code": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-05",
         "2026-01-06"
@@ -1675,7 +1677,7 @@
       ]
     },
     "internet router probably": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-05",
         "2026-01-06"
@@ -1701,28 +1703,28 @@
       ]
     },
     "sedgwick confirms cyberattack": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-05",
         "2026-01-06"
       ]
     },
     "sedgwick s subsidiary": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-05",
         "2026-01-06"
       ]
     },
     "key actors involved": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-05",
         "2026-01-06"
       ]
     },
     "file transfer system": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-05",
         "2026-01-06"
@@ -1742,7 +1744,7 @@
       ]
     },
     "corporate data stolen": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-06"
       ]
@@ -1766,6 +1768,12 @@
       ]
     },
     "cve 2025 68668": {
+      "count": 2,
+      "dates": [
+        "2026-01-06"
+      ]
+    },
+    "write arbitrary files": {
       "count": 1,
       "dates": [
         "2026-01-06"
@@ -1773,17 +1781,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-29 01:22",
-      "articles": 56,
-      "top_keywords": [
-        "nissan confirms impact",
-        "recovered 3 million",
-        "mass creating fake",
-        "leak wired database",
-        "additional brickstorm samples"
-      ]
-    },
     {
       "timestamp": "2025-12-29 03:45",
       "articles": 56,
@@ -2864,6 +2861,17 @@
     },
     {
       "timestamp": "2026-01-06 06:27",
+      "articles": 56,
+      "top_keywords": [
+        "mass creating fake",
+        "prolific cybercriminal group",
+        "sedgwick confirms cyberattack",
+        "advanced security measures",
+        "sedgwick s subsidiary"
+      ]
+    },
+    {
+      "timestamp": "2026-01-06 08:24",
       "articles": 56,
       "top_keywords": [
         "mass creating fake",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-06 06:27 UTC |
+| 🕐 Last Updated | 2026-01-06 08:24 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mass creating fake` • `prolific cybercriminal group` • `sedgwick confirms cyberattack` • `advanced security measures` • `sedgwick s subsidiary` • `corporate data stolen` • `ivanti epmm attacks` • `vvs stealer's code` • `twitter whistleblower complaint` • `president s efforts`
+`mass creating fake` • `prolific cybercriminal group` • `sedgwick confirms cyberattack` • `advanced security measures` • `sedgwick s subsidiary` • `corporate data stolen` • `critical security vulnerability` • `ivanti epmm attacks` • `write arbitrary files` • `vvs stealer's code`
 
 ## 📄 Reports
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06 06:27",
+  "last_updated": "2026-01-06 08:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,9 +9,12 @@
     "advanced security measures",
     "sedgwick s subsidiary",
     "corporate data stolen",
+    "critical security vulnerability",
     "ivanti epmm attacks",
+    "write arbitrary files",
     "vvs stealer's code",
     "twitter whistleblower complaint",
+    "supposed wayward package",
     "president s efforts",
     "key actors involved",
     "internet router probably",
@@ -19,51 +22,48 @@
     "exploits surrounding ics",
     "defense evasion mechanisms",
     "cvss scoring system",
-    "cve 2025 68668",
-    "brightspeed investigating cyberattack",
-    "always connected devices",
-    "ai driven threats"
+    "cve 2025 68668"
   ],
   "trending": [
     {
       "keyword": "mass creating fake",
-      "mentions": 232
+      "mentions": 233
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 222
+      "mentions": 223
     },
     {
       "keyword": "sedgwick confirms cyberattack",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "advanced security measures",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "sedgwick s subsidiary",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "corporate data stolen",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "critical security vulnerability",
+      "mentions": 9
     },
     {
       "keyword": "ivanti epmm attacks",
-      "mentions": 44
+      "mentions": 45
+    },
+    {
+      "keyword": "write arbitrary files",
+      "mentions": 1
     },
     {
       "keyword": "vvs stealer's code",
-      "mentions": 10
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 237
-    },
-    {
-      "keyword": "president s efforts",
-      "mentions": 34
+      "mentions": 11
     }
   ],
   "articles": [
@@ -77,6 +77,20 @@
       "value_signals": [
         "CVE mentioned",
         "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
+      "link": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
+      "summary": "Users of the \"@adonisjs/bodyparser\" npm package are being advised to update to the latest version following the disclosure of a critical security vulnerability that, if successfully exploited, could allow a remote attacker to write arbitrary files on the server. Tracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a path traversal issue affecting the AdonisJS multipart",
+      "published": "Tue, 06 Jan 2026 09:00:00 +0530",
+      "value_score": 58,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update",
+        "High severity ×2",
+        "Exploit wording"
       ]
     },
     {
@@ -134,15 +148,6 @@
       "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
       "summary": "Cybersecurity researchers have disclosed details of a new Python-based information stealer called VVS Stealer (also styled as VVS $tealer) that's capable of harvesting Discord credentials and tokens. The stealer is said to have been on sale on Telegram as far back as April 2025, according to a report from Palo Alto Networks Unit 42. \"VVS stealer's code is obfuscated by Pyarmor,\" researchers",
       "published": "Mon, 05 Jan 2026 13:18:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
-      "link": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
-      "summary": "The threat actor known as Transparent Tribe has been attributed to a fresh set of attacks targeting Indian governmental, academic, and strategic entities with a remote access trojan (RAT) that grants them persistent control over compromised hosts. \"The campaign employs deceptive delivery techniques, including a weaponized Windows shortcut (LNK) file masquerading as a legitimate PDF document",
-      "published": "Fri, 02 Jan 2026 19:22:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

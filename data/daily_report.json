@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05 22:16",
+  "last_updated": "2026-01-06 01:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,12 +8,12 @@
     "sedgwick confirms cyberattack",
     "advanced security measures",
     "sedgwick s subsidiary",
+    "corporate data stolen",
+    "ivanti epmm attacks",
     "vvs stealer's code",
     "twitter whistleblower complaint",
     "president s efforts",
-    "nearly 500 000",
     "key actors involved",
-    "ivanti epmm attacks",
     "internet router probably",
     "file transfer system",
     "exploits surrounding ics",
@@ -22,48 +22,48 @@
     "always connected devices",
     "ai driven threats",
     "additional brickstorm samples",
-    "130 companies tangled"
+    "stole internal data"
   ],
   "trending": [
     {
       "keyword": "mass creating fake",
-      "mentions": 228
+      "mentions": 229
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 218
+      "mentions": 219
     },
     {
       "keyword": "sedgwick confirms cyberattack",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "advanced security measures",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "sedgwick s subsidiary",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "corporate data stolen",
+      "mentions": 1
+    },
+    {
+      "keyword": "ivanti epmm attacks",
+      "mentions": 42
     },
     {
       "keyword": "vvs stealer's code",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 233
+      "mentions": 234
     },
     {
       "keyword": "president s efforts",
-      "mentions": 30
-    },
-    {
-      "keyword": "nearly 500 000",
-      "mentions": 38
-    },
-    {
-      "keyword": "key actors involved",
-      "mentions": 3
+      "mentions": 31
     }
   ],
   "articles": [
@@ -145,6 +145,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cloud file-sharing sites targeted for corporate data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/",
+      "summary": "A threat actor known as Zestix has been offering to corporate data stolen from dozens of companies likely after breaching their ShareFile, Nextcloud, and OwnCloud instances. [...]",
+      "published": "Mon, 05 Jan 2026 17:52:16 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ClickFix attack uses fake Windows BSOD screens to push malware",
       "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/",
       "summary": "A new ClickFix social engineering campaign is targeting the hospitality sector in Europe, using fake Windows Blue Screen of Death (BSOD) screens to trick users into manually compiling and executing malware on their systems. [...]",
@@ -211,17 +220,6 @@
       "published": "Sat, 03 Jan 2026 15:34:22 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Covenant Health says May data breach impacted nearly 478,000 patients",
-      "link": "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/",
-      "summary": "The Covenant Health organization has revised to nearly 500,000 the number of individuals affected by a data breach discovered last May. [...]",
-      "published": "Fri, 02 Jan 2026 14:00:42 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

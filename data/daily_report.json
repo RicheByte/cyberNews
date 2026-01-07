@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-01-07 18:26",
+  "last_updated": "2026-01-07 20:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus hunters",
     "ai generated code",
     "2025 analysis 2025",
+    "cybercrime gang known",
     "don't drop binaries",
     "twitter whistleblower complaint",
     "promise ease rather",
@@ -13,60 +14,79 @@
     "fintech company stepped",
     "exploits surrounding ics",
     "exploiting routing scenarios",
-    "additional brickstorm samples",
     "16th anniversary today",
+    "indicators security teams",
     "fake blue screen",
     "cause untrusted code",
     "unauthenticated remote attacker",
     "president s efforts",
     "nation s ability",
     "cvss scoring system",
-    "address multiple flaws",
-    "veeam backup replication"
+    "address multiple flaws"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "ai generated code",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "2025 analysis 2025",
-      "mentions": 3
-    },
-    {
-      "keyword": "don't drop binaries",
       "mentions": 4
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 255
-    },
-    {
-      "keyword": "promise ease rather",
+      "keyword": "cybercrime gang known",
       "mentions": 1
     },
     {
+      "keyword": "don't drop binaries",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 256
+    },
+    {
+      "keyword": "promise ease rather",
+      "mentions": 2
+    },
+    {
       "keyword": "prolific cybercriminal group",
-      "mentions": 240
+      "mentions": 241
     },
     {
       "keyword": "fintech company stepped",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 154
-    },
-    {
-      "keyword": "exploiting routing scenarios",
-      "mentions": 2
+      "mentions": 155
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
+      "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
+      "summary": "Security teams are still catching malware. The problem is what they're not catching. More attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment — scripts, remote access, browsers, and developer workflows. That shift is creating a blind spot. Join us for a deep-dive",
+      "published": "Wed, 07 Jan 2026 22:49:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches",
+      "link": "https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html",
+      "summary": "A cybercrime gang known as Black Cat has been attributed to a search engine optimization (SEO) poisoning campaign that employs fraudulent sites advertising popular software to trick users into downloading a backdoor capable of stealing sensitive data. According to a report published by the National Computer Network Emergency Response Technical Team/Coordination Center of China (CNCERT/CC) and",
+      "published": "Wed, 07 Jan 2026 22:39:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
@@ -78,15 +98,6 @@
         "CVE mentioned",
         "High severity"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
-      "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
-      "summary": "Security teams are still catching malware. The problem is what they're not catching. More attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment — scripts, remote access, browsers, and developer workflows. That shift is creating a blind spot. Join us for a deep-dive",
-      "published": "Wed, 07 Jan 2026 17:25:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "The Hacker News",
@@ -149,15 +160,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
-      "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
-      "summary": "Cybersecurity researchers have discovered two new malicious extensions on the Chrome Web Store that are designed to exfiltrate OpenAI ChatGPT and DeepSeek conversations alongside browsing data to servers under the attackers' control. The names of the extensions, which collectively have over 900,000 users, are below - Chat GPT for Chrome with GPT-5, Claude Sonnet & DeepSeek AI (ID:",
-      "published": "Tue, 06 Jan 2026 22:51:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -556,6 +558,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/01/07/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2009-0556 Microsoft Office PowerPoint Code Injection Vulnerability CVE-2025-37164 HPE OneView Code Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulne",
+      "published": "Wed, 07 Jan 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Columbia Weather Systems MicroServer",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to redirect connections to an attacker controlled device, gain admin access to the web portal, or gain limited shell access. The following versions of Columbia Weather Systems MicroServer are affected: MicroServer firmware (CVE-2025-61939, CVE-2025-64305, CVE-2025-66620) CVSS Vendor Equipment Vulnerabilities v3 8.8 Columbia Weather Systems Columbia Weather Systems MicroServer Improper Restriction of Commun",
@@ -649,20 +666,6 @@
         "CVE mentioned",
         "CISA/KEV ×6",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA  and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-and-partners-release-update-malware-analysis-report-brickstorm-backdoor",
-      "summary": "Today, the Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency, and Canadian Centre for Cyber Security released an update to the Malware Analysis Report BRICKSTORM Backdoor with indicators of compromise (IOCs) and detection signatures for additional BRICKSTORM samples. This update provides information on additional samples, including Rust-based samples. These samples demonstrate advanced persistence and defense evasion mechanisms, such as running as background servi",
-      "published": "Fri, 19 Dec 25 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update ×3",
-        "Backdoor ×2",
-        "CISA/KEV ×2"
       ]
     }
   ],

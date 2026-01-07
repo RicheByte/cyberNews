@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-07 18:26 UTC  
+> **Last Updated:** 2026-01-07 20:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus hunters** • **ai generated code** • **2025 analysis 2025** • **don't drop binaries** • **twitter whistleblower complaint** • **promise ease rather** • **prolific cybercriminal group** • **fintech company stepped** • **exploits surrounding ics** • **exploiting routing scenarios** • **additional brickstorm samples** • **16th anniversary today** • **fake blue screen** • **cause untrusted code** • **unauthenticated remote attacker** • **president s efforts** • **nation s ability** • **cvss scoring system** • **address multiple flaws** • **veeam backup replication**
+**scattered lapsus hunters** • **ai generated code** • **2025 analysis 2025** • **cybercrime gang known** • **don't drop binaries** • **twitter whistleblower complaint** • **promise ease rather** • **prolific cybercriminal group** • **fintech company stepped** • **exploits surrounding ics** • **exploiting routing scenarios** • **16th anniversary today** • **indicators security teams** • **fake blue screen** • **cause untrusted code** • **unauthenticated remote attacker** • **president s efforts** • **nation s ability** • **cvss scoring system** • **address multiple flaws**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
-- [Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control](https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html)
 - [Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
+- [Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches](https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html)
+- [Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control](https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html)
 - [n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions](https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html)
 - [The Future of Cybersecurity Includes Non-Human Employees](https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html)
 - [Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication](https://thehackernews.com/2026/01/veeam-patches-critical-rce.html)
 - [Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing](https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html)
 - [Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers](https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html)
-- [Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html)
 
 ### BleepingComputer
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Columbia Weather Systems MicroServer](https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01)
 - [CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2025/12/30/cisa-releases-two-industrial-control-systems-advisories)
 - [WHILL Model C2 Electric Wheelchairs and Model F Power Chairs](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-364-01)
@@ -89,7 +90,6 @@
 - [CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2025/12/23/cisa-releases-one-industrial-control-systems-advisory)
 - [NIST and CISA Release Draft Interagency Report on Protecting Tokens and Assertions from Tampering Theft and Misuse for Public Comment](https://www.cisa.gov/news-events/alerts/2025/12/22/nist-and-cisa-release-draft-interagency-report-protecting-tokens-and-assertions-tampering-theft-and)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/22/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [CISA  and Partners Release Update to Malware Analysis Report BRICKSTORM Backdoor](https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-and-partners-release-update-malware-analysis-report-brickstorm-backdoor)
 
 ---
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-07 18:26 UTC |
+| 🕐 Last Updated | 2026-01-07 20:19 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus hunters` • `ai generated code` • `2025 analysis 2025` • `don't drop binaries` • `twitter whistleblower complaint` • `promise ease rather` • `prolific cybercriminal group` • `fintech company stepped` • `exploits surrounding ics` • `exploiting routing scenarios`
+`scattered lapsus hunters` • `ai generated code` • `2025 analysis 2025` • `cybercrime gang known` • `don't drop binaries` • `twitter whistleblower complaint` • `promise ease rather` • `prolific cybercriminal group` • `fintech company stepped` • `exploits surrounding ics`
 
 ## 📄 Reports
 

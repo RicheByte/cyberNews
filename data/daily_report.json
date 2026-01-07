@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07 04:36",
+  "last_updated": "2026-01-07 06:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -19,54 +19,69 @@
     "exploits surrounding ics",
     "clickfix campaign serves",
     "additional brickstorm samples",
-    "malicious cyber actors",
     "startup trends shaking",
     "gain full control",
-    "cvss scoring system"
+    "cvss scoring system",
+    "cve 2025 68668"
   ],
   "trending": [
     {
       "keyword": "ai generated code",
-      "mentions": 8
-    },
-    {
-      "keyword": "scattered lapsus hunters",
-      "mentions": 16
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 243
-    },
-    {
-      "keyword": "cyber risk trends",
-      "mentions": 7
-    },
-    {
-      "keyword": "critical security vulnerability",
-      "mentions": 19
-    },
-    {
-      "keyword": "nordvpn denies breach",
       "mentions": 9
     },
     {
-      "keyword": "fake blue screen",
+      "keyword": "scattered lapsus hunters",
+      "mentions": 17
+    },
+    {
+      "keyword": "mass creating fake",
+      "mentions": 244
+    },
+    {
+      "keyword": "cyber risk trends",
       "mentions": 8
     },
     {
+      "keyword": "critical security vulnerability",
+      "mentions": 20
+    },
+    {
+      "keyword": "nordvpn denies breach",
+      "mentions": 10
+    },
+    {
+      "keyword": "fake blue screen",
+      "mentions": 9
+    },
+    {
       "keyword": "write arbitrary files",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 248
+      "mentions": 249
     },
     {
       "keyword": "supposed wayward package",
-      "mentions": 49
+      "mentions": 50
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
+      "link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
+      "summary": "A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0625 (CVSS score: 9.3), concerns a case of command injection in the \"dnscfg.cgi\" endpoint that arises as a result of improper sanitization of user-supplied DNS configuration parameters. \"An unauthenticated remote attacker can inject",
+      "published": "Wed, 07 Jan 2026 10:01:00 +0530",
+      "value_score": 95,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
@@ -139,15 +154,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
-      "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
-      "summary": "The Russia-aligned threat actor known as UAC-0184 has been observed targeting Ukrainian military and government entities by leveraging the Viber messaging platform to deliver malicious ZIP archives. \"This organization has continued to conduct high-intensity intelligence gathering activities against Ukrainian military and government departments in 2025,\" the 360 Threat Intelligence Center said in",
-      "published": "Mon, 05 Jan 2026 23:26:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

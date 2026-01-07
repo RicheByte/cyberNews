@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-07 04:36 UTC  
+> **Last Updated:** 2026-01-07 06:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai generated code** • **scattered lapsus hunters** • **mass creating fake** • **cyber risk trends** • **critical security vulnerability** • **nordvpn denies breach** • **fake blue screen** • **write arbitrary files** • **twitter whistleblower complaint** • **supposed wayward package** • **prolific cybercriminal group** • **multi stage campaign** • **january 30 2026** • **exploits surrounding ics** • **clickfix campaign serves** • **additional brickstorm samples** • **malicious cyber actors** • **startup trends shaking** • **gain full control** • **cvss scoring system**
+**ai generated code** • **scattered lapsus hunters** • **mass creating fake** • **cyber risk trends** • **critical security vulnerability** • **nordvpn denies breach** • **fake blue screen** • **write arbitrary files** • **twitter whistleblower complaint** • **supposed wayward package** • **prolific cybercriminal group** • **multi stage campaign** • **january 30 2026** • **exploits surrounding ics** • **clickfix campaign serves** • **additional brickstorm samples** • **startup trends shaking** • **gain full control** • **cvss scoring system** • **cve 2025 68668**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers](https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html)
 - [Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html)
 - [Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover](https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html)
 - [Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat](https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html)
@@ -23,7 +24,6 @@
 - [VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX](https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html)
 - [New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands](https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html)
 - [Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers](https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html)
-- [Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html)
 
 ### BleepingComputer
 

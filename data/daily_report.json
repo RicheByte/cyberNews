@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-07 20:19",
+  "last_updated": "2026-01-07 22:16",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
-    "scattered lapsus hunters",
-    "ai generated code",
     "2025 analysis 2025",
-    "cybercrime gang known",
-    "don't drop binaries",
+    "address multiple flaws",
     "twitter whistleblower complaint",
-    "promise ease rather",
-    "prolific cybercriminal group",
     "fintech company stepped",
+    "fake blue screen",
     "exploits surrounding ics",
     "exploiting routing scenarios",
-    "16th anniversary today",
-    "indicators security teams",
-    "fake blue screen",
+    "already exist inside",
     "cause untrusted code",
+    "ai generated code",
     "unauthenticated remote attacker",
-    "president s efforts",
-    "nation s ability",
+    "indicators security teams",
+    "cybercrime gang known",
     "cvss scoring system",
-    "address multiple flaws"
+    "veeam backup replication",
+    "backup replication veeam",
+    "sustaining select efforts",
+    "startup trends shaking",
+    "social engineering technique",
+    "promise ease rather"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus hunters",
-      "mentions": 24
-    },
-    {
-      "keyword": "ai generated code",
-      "mentions": 16
-    },
-    {
       "keyword": "2025 analysis 2025",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "cybercrime gang known",
-      "mentions": 1
-    },
-    {
-      "keyword": "don't drop binaries",
+      "keyword": "address multiple flaws",
       "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 256
-    },
-    {
-      "keyword": "promise ease rather",
-      "mentions": 2
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 241
+      "mentions": 257
     },
     {
       "keyword": "fintech company stepped",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "fake blue screen",
+      "mentions": 17
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 155
+      "mentions": 156
+    },
+    {
+      "keyword": "exploiting routing scenarios",
+      "mentions": 4
+    },
+    {
+      "keyword": "already exist inside",
+      "mentions": 1
+    },
+    {
+      "keyword": "cause untrusted code",
+      "mentions": 4
+    },
+    {
+      "keyword": "ai generated code",
+      "mentions": 17
     }
   ],
   "articles": [
@@ -163,6 +163,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critical jsPDF flaw lets hackers steal secrets via generated PDFs",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/",
+      "summary": "The jsPDF library for generating PDF documents in JavaScript applications is vulnerable to a critical vulnerability that allows an attacker to steal sensitive data from the local filesystem by including it in generated files. [...]",
+      "published": "Wed, 07 Jan 2026 16:46:29 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ChatGPT is losing market share as Google Gemini gains ground",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/",
+      "summary": "New data suggests that ChatGPT is losing its market share to Gemini on the web. It's unclear if Gemini is also gaining ground in the mobile space. [...]",
+      "published": "Wed, 07 Jan 2026 15:58:02 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Logitech Options+, G HUB macOS apps break after certificate expires",
       "link": "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/",
       "summary": "Logitech's Options+ and G Hub apps on macOS stopped working after their code-signing certificate expired, leaving users unable to launch them on Apple systems. [...]",
@@ -220,101 +240,22 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Google Search AI hallucinations push Google to hire \"AI Answers Quality\" engineers",
-      "link": "https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/",
-      "summary": "AI, including AI Overviews on Google Search, can hallucinate and often make up stuff or offer contradicting answers when asked in two different ways. [...]",
-      "published": "Wed, 07 Jan 2026 07:50:38 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK announces plan to strengthen public sector cyber defenses",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/",
-      "summary": "The United Kingdom has announced a new cybersecurity strategy, backed by more than £210 million ($283 million), to boost cyber defenses across government departments and the wider public sector. [...]",
-      "published": "Wed, 07 Jan 2026 07:15:01 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-      "value_score": 26,
+      "source": "Dark Reading",
+      "title": "Phishers Exploit Office 365 Users Who Let Their Guard Down",
+      "link": "https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down",
+      "summary": "Microsoft said that Office 365 tenants with weak configurations and who don't have strict anti-spoofing protection enabled are especially vulnerable.",
+      "published": "Wed, 07 Jan 2026 21:42:21 GMT",
+      "value_score": 16,
       "value_signals": [
-        "Botnet",
         "Exploit wording"
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
-      "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
-      "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for \"Rey,\" the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.",
-      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
+      "source": "Dark Reading",
+      "title": "Cyberattacks Likely Part of Military Operation in Venezuela",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela",
+      "summary": "Cyber's role in the US raid on Venezuela remains a question, though President Trump alluded to \"certain expertise\" in shutting down the power grid in Caracas.",
+      "published": "Wed, 07 Jan 2026 14:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -323,15 +264,6 @@
       "title": "DDoSia Powers Affiliate-Driven Hacktivist Attacks",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks",
       "summary": "Pro-Russian group NoName057(16) uses a custom denial-of-service tool to mobilize volunteers and disrupt government, media, and institutional sites tied to Ukraine and the West.",
-      "published": "Wed, 07 Jan 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cyberattacks Likely Part of Military Operation in Venezuela",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela",
-      "summary": "Cyber's role in the US raid on Venezuela remains a question, though President Trump alluded to \"certain expertise\" in shutting down the power grid in Caracas.",
       "published": "Wed, 07 Jan 2026 14:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -380,15 +312,6 @@
       "link": "https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation",
       "summary": "With employees looking for the benefits of artificial intelligence, a fintech company stepped up controls with automation.",
       "published": "Mon, 05 Jan 2026 23:04:24 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CISOs Face a Tighter Insurance Market in 2026",
-      "link": "https://www.darkreading.com/endpoint-security/cisos-face-tighter-insurance-market",
-      "summary": "Insured entities are becoming more sophisticated in their views on how cyber policies fit into their broader risk management plans.",
-      "published": "Mon, 05 Jan 2026 22:51:09 GMT",
       "value_score": 10,
       "value_signals": []
     },

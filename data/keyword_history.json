@@ -132,7 +132,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 256,
+      "count": 257,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -921,13 +921,14 @@
       ]
     },
     "sustaining select efforts": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2025-12-23",
         "2025-12-24",
         "2025-12-25",
         "2026-01-02",
-        "2026-01-03"
+        "2026-01-03",
+        "2026-01-07"
       ]
     },
     "browser add ons": {
@@ -945,7 +946,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1508,7 +1509,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -1825,14 +1826,14 @@
       ]
     },
     "ai generated code": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-06",
         "2026-01-07"
       ]
     },
     "fake blue screen": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-06",
         "2026-01-07"
@@ -1853,7 +1854,7 @@
       ]
     },
     "startup trends shaking": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-06",
         "2026-01-07"
@@ -1887,7 +1888,7 @@
       ]
     },
     "fintech company stepped": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-07"
       ]
@@ -1899,7 +1900,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-07"
       ]
@@ -1923,7 +1924,7 @@
       ]
     },
     "2025 analysis 2025": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-07"
       ]
@@ -1935,42 +1936,60 @@
       ]
     },
     "address multiple flaws": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-07"
       ]
     },
     "exploiting routing scenarios": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-07"
       ]
     },
     "cause untrusted code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-07"
       ]
     },
     "veeam backup replication": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-07"
       ]
     },
     "promise ease rather": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-07"
       ]
     },
     "cybercrime gang known": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-07"
       ]
     },
     "indicators security teams": {
+      "count": 2,
+      "dates": [
+        "2026-01-07"
+      ]
+    },
+    "already exist inside": {
+      "count": 1,
+      "dates": [
+        "2026-01-07"
+      ]
+    },
+    "backup replication veeam": {
+      "count": 1,
+      "dates": [
+        "2026-01-07"
+      ]
+    },
+    "social engineering technique": {
       "count": 1,
       "dates": [
         "2026-01-07"
@@ -1978,17 +1997,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-30 14:16",
-      "articles": 56,
-      "top_keywords": [
-        "mass creating fake",
-        "length parameter inconsistency",
-        "22 million affected",
-        "prolific cybercriminal group",
-        "threat actor known"
-      ]
-    },
     {
       "timestamp": "2025-12-30 16:21",
       "articles": 56,
@@ -3076,6 +3084,17 @@
         "2025 analysis 2025",
         "cybercrime gang known",
         "don't drop binaries"
+      ]
+    },
+    {
+      "timestamp": "2026-01-07 22:16",
+      "articles": 48,
+      "top_keywords": [
+        "2025 analysis 2025",
+        "address multiple flaws",
+        "twitter whistleblower complaint",
+        "fintech company stepped",
+        "fake blue screen"
       ]
     }
   ]

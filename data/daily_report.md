@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-07 20:19 UTC  
+> **Last Updated:** 2026-01-07 22:16 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus hunters** • **ai generated code** • **2025 analysis 2025** • **cybercrime gang known** • **don't drop binaries** • **twitter whistleblower complaint** • **promise ease rather** • **prolific cybercriminal group** • **fintech company stepped** • **exploits surrounding ics** • **exploiting routing scenarios** • **16th anniversary today** • **indicators security teams** • **fake blue screen** • **cause untrusted code** • **unauthenticated remote attacker** • **president s efforts** • **nation s ability** • **cvss scoring system** • **address multiple flaws**
+**2025 analysis 2025** • **address multiple flaws** • **twitter whistleblower complaint** • **fintech company stepped** • **fake blue screen** • **exploits surrounding ics** • **exploiting routing scenarios** • **already exist inside** • **cause untrusted code** • **ai generated code** • **unauthenticated remote attacker** • **indicators security teams** • **cybercrime gang known** • **cvss scoring system** • **veeam backup replication** • **backup replication veeam** • **sustaining select efforts** • **startup trends shaking** • **social engineering technique** • **promise ease rather**
 
 ---
 
@@ -27,36 +27,25 @@
 
 ### BleepingComputer
 
+- [Critical jsPDF flaw lets hackers steal secrets via generated PDFs](https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/)
+- [ChatGPT is losing market share as Google Gemini gains ground](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/)
 - [Logitech Options+, G HUB macOS apps break after certificate expires](https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/)
 - [Max severity Ni8mare flaw lets hackers hijack n8n servers](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/)
 - [Microsoft: Classic Outlook bug prevents opening encrypted emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/)
 - [In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT](https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/)
 - [ownCloud urges users to enable MFA after credential theft reports](https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/)
 - [New Veeam vulnerabilities expose backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/)
-- [Google Search AI hallucinations push Google to hire "AI Answers Quality" engineers](https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/)
-- [UK announces plan to strengthen public sector cyber defenses](https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/)
-
-### Krebs on Security
-
-- [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
-- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
-- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
-- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
-- [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
 ### Dark Reading
 
-- [DDoSia Powers Affiliate-Driven Hacktivist Attacks](https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks)
+- [Phishers Exploit Office 365 Users Who Let Their Guard Down](https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down)
 - [Cyberattacks Likely Part of Military Operation in Venezuela](https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela)
+- [DDoSia Powers Affiliate-Driven Hacktivist Attacks](https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks)
 - [Lack of MFA Is Common Thread in Vast Cloud Credential Heist](https://www.darkreading.com/cloud-security/lack-mfa-common-thread-vast-cloud-credential-heist)
 - [Scattered Lapsus$ Hunters Snared in Cyber Researcher Honeypot](https://www.darkreading.com/endpoint-security/scattered-lapsus-hunters-researcher-honeypot)
 - [ClickFix Campaign Serves Up Fake Blue Screen of Death](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death)
 - [Startup Trends Shaking Up Browsers, SOC Automation, AppSec](https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec)
 - [Advisor360 Gets a Handle on Shadow AI via Automation](https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation)
-- [CISOs Face a Tighter Insurance Market in 2026](https://www.darkreading.com/endpoint-security/cisos-face-tighter-insurance-market)
 
 ### Security Week
 

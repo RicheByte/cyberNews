@@ -95,7 +95,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 237,
+      "count": 238,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -131,7 +131,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 252,
+      "count": 253,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -341,7 +341,7 @@
       ]
     },
     "scattered lapsus hunters": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-18",
         "2025-12-24",
@@ -675,7 +675,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 224,
+      "count": 225,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -944,7 +944,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1157,9 +1157,10 @@
       ]
     },
     "cyber security released": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2025-12-26"
+        "2025-12-26",
+        "2026-01-07"
       ]
     },
     "t rkiye china": {
@@ -1823,14 +1824,14 @@
       ]
     },
     "ai generated code": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-06",
         "2026-01-07"
       ]
     },
     "fake blue screen": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-06",
         "2026-01-07"
@@ -1844,14 +1845,14 @@
       ]
     },
     "cyber risk trends": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-06",
         "2026-01-07"
       ]
     },
     "startup trends shaking": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-06",
         "2026-01-07"
@@ -1872,44 +1873,44 @@
       ]
     },
     "gain full control": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-06",
         "2026-01-07"
       ]
     },
     "don't drop binaries": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-07"
       ]
     },
     "fintech company stepped": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-07"
       ]
     },
     "16th anniversary today": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-07"
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-07"
       ]
     },
     "remote authenticated attacker": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-07"
       ]
     },
     "cyber policies fit": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-07"
       ]
@@ -1919,20 +1920,27 @@
       "dates": [
         "2026-01-07"
       ]
+    },
+    "2025 analysis 2025": {
+      "count": 1,
+      "dates": [
+        "2026-01-07"
+      ]
+    },
+    "researchers gathered information": {
+      "count": 1,
+      "dates": [
+        "2026-01-07"
+      ]
+    },
+    "address multiple flaws": {
+      "count": 1,
+      "dates": [
+        "2026-01-07"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-30 06:26",
-      "articles": 56,
-      "top_keywords": [
-        "approximately 7 million",
-        "mass creating fake",
-        "length parameter inconsistency",
-        "leak sensitive information",
-        "22 million affected"
-      ]
-    },
     {
       "timestamp": "2025-12-30 08:23",
       "articles": 56,
@@ -3020,6 +3028,17 @@
         "cyber risk trends",
         "don't drop binaries",
         "cve 2025 54957"
+      ]
+    },
+    {
+      "timestamp": "2026-01-07 14:20",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus hunters",
+        "ai generated code",
+        "2025 analysis 2025",
+        "cyber risk trends",
+        "don't drop binaries"
       ]
     }
   ]

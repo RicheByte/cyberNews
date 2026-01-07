@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-07 12:36 UTC  
+> **Last Updated:** 2026-01-07 14:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus hunters** • **ai generated code** • **cyber risk trends** • **don't drop binaries** • **cve 2025 54957** • **fake blue screen** • **twitter whistleblower complaint** • **prolific cybercriminal group** • **fintech company stepped** • **exploits surrounding ics** • **additional brickstorm samples** • **16th anniversary today** • **unauthenticated remote attacker** • **remote authenticated attacker** • **startup trends shaking** • **gain full control** • **cyber policies fit** • **prominent security firms** • **president s efforts** • **nation s ability**
+**scattered lapsus hunters** • **ai generated code** • **2025 analysis 2025** • **cyber risk trends** • **don't drop binaries** • **twitter whistleblower complaint** • **prolific cybercriminal group** • **fintech company stepped** • **fake blue screen** • **exploits surrounding ics** • **additional brickstorm samples** • **16th anniversary today** • **unauthenticated remote attacker** • **remote authenticated attacker** • **startup trends shaking** • **researchers gathered information** • **gain full control** • **address multiple flaws** • **cyber security released** • **cyber policies fit**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [New Veeam vulnerabilities expose backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/)
+- [Google Search AI hallucinations push Google to hire "AI Answers Quality" engineers](https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/)
 - [UK announces plan to strengthen public sector cyber defenses](https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/)
 - [OpenAI is reportedly getting ready to test ads in ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/)
 - [OpenAI is rolling out GPT-5.2 “Codex-Max” for some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/)
 - [Taiwan says China's attacks on its energy sector increased tenfold](https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/)
 - [Microsoft cancels plans to rate limit Exchange Online bulk emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/)
 - [New D-Link flaw in legacy DSL routers actively exploited in attacks](https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/)
-- [Kimwolf Android botnet abuses residential proxies to infect internal devices](https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/)
-- [Jaguar Land Rover wholesale volumes down 43% after cyberattack](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [DDoSia Powers Affiliate-Driven Hacktivist Attacks](https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks)
+- [Cyberattacks Likely Part of Military Operation in Venezuela](https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela)
 - [Scattered Lapsus$ Hunters Snared in Cyber Researcher Honeypot](https://www.darkreading.com/endpoint-security/scattered-lapsus-hunters-researcher-honeypot)
 - [ClickFix Campaign Serves Up Fake Blue Screen of Death](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death)
 - [Startup Trends Shaking Up Browsers, SOC Automation, AppSec](https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec)
 - [Advisor360 Gets a Handle on Shadow AI via Automation](https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation)
 - [CISOs Face a Tighter Insurance Market in 2026](https://www.darkreading.com/endpoint-security/cisos-face-tighter-insurance-market)
 - [Critical 'MongoBleed' Bug Under Attack, Patch Now](https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch)
-- [US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity](https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity)
-- [RondoDox Botnet Expands Scope With React2Shell Exploitation](https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation)
 
 ### Security Week
 
+- [Vulnerability in Totolink Range Extender Allows Device Takeover](https://www.securityweek.com/vulnerability-in-totolink-range-extender-allows-device-takeover/)
+- [Several Code Execution Flaws Patched in Veeam Backup & Replication](https://www.securityweek.com/several-code-execution-flaws-patched-in-veeam-backup-replication/)
+- [Cybersecurity Firms Secured $14 Billion in Funding in 2025: Analysis](https://www.securityweek.com/cybersecurity-firms-secured-14-billion-in-funding-in-2025/)
 - [Hackers Exploit Zero-Day in Discontinued D-Link Devices](https://www.securityweek.com/hackers-exploit-zero-day-in-discontinued-d-link-devices/)
 - [Complex Routing, Misconfigurations Exploited for Domain Spoofing in Phishing Attacks](https://www.securityweek.com/complex-routing-misconfigurations-exploited-for-domain-spoofing-in-phishing-attacks/)
 - [Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking](https://www.securityweek.com/hacker-conversations-katie-paxton-fear-talks-autism-morality-and-hacking/)
 - [Cyber Risk Trends for 2026: Building Resilience, Not Just Defenses](https://www.securityweek.com/cyber-risk-trends-for-2026-building-resilience-not-just-defenses/)
 - [Researchers Trap Scattered Lapsus$ Hunters in Honeypot](https://www.securityweek.com/researchers-trap-scattered-lapsus-hunters-in-honeypot/)
-- [Critical Dolby Vulnerability Patched in Android](https://www.securityweek.com/critical-dolby-vulnerability-patched-in-android/)
-- [Sophisticated ClickFix Campaign Targeting Hospitality Sector](https://www.securityweek.com/sophisticated-clickfix-campaign-targeting-hospitality-sector/)
-- [Dozens of Major Data Breaches Linked to Single Threat Actor](https://www.securityweek.com/dozens-of-major-data-breaches-linked-to-single-threat-actor/)
 
 ### Threatpost
 

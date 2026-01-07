@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-07 12:36",
+  "last_updated": "2026-01-07 14:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus hunters",
     "ai generated code",
+    "2025 analysis 2025",
     "cyber risk trends",
     "don't drop binaries",
-    "cve 2025 54957",
-    "fake blue screen",
     "twitter whistleblower complaint",
     "prolific cybercriminal group",
     "fintech company stepped",
+    "fake blue screen",
     "exploits surrounding ics",
     "additional brickstorm samples",
     "16th anniversary today",
     "unauthenticated remote attacker",
     "remote authenticated attacker",
     "startup trends shaking",
+    "researchers gathered information",
     "gain full control",
-    "cyber policies fit",
-    "prominent security firms",
-    "president s efforts",
-    "nation s ability"
+    "address multiple flaws",
+    "cyber security released",
+    "cyber policies fit"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "ai generated code",
-      "mentions": 12
+      "mentions": 13
     },
     {
-      "keyword": "cyber risk trends",
-      "mentions": 11
-    },
-    {
-      "keyword": "don't drop binaries",
+      "keyword": "2025 analysis 2025",
       "mentions": 1
     },
     {
-      "keyword": "cve 2025 54957",
+      "keyword": "cyber risk trends",
+      "mentions": 12
+    },
+    {
+      "keyword": "don't drop binaries",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 253
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 238
+    },
+    {
+      "keyword": "fintech company stepped",
       "mentions": 2
     },
     {
       "keyword": "fake blue screen",
-      "mentions": 12
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 252
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 237
-    },
-    {
-      "keyword": "fintech company stepped",
-      "mentions": 1
+      "mentions": 13
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 151
+      "mentions": 152
     }
   ],
   "articles": [
@@ -160,6 +160,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New Veeam vulnerabilities expose backup servers to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/",
+      "summary": "Veeam released security updates to patch multiple security flaws in its Backup & Replication software, including a critical remote code execution (RCE) vulnerability. [...]",
+      "published": "Wed, 07 Jan 2026 08:06:11 -0500",
+      "value_score": 66,
+      "value_signals": [
+        "RCE ×3",
+        "Patch/update",
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Google Search AI hallucinations push Google to hire \"AI Answers Quality\" engineers",
+      "link": "https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/",
+      "summary": "AI, including AI Overviews on Google Search, can hallucinate and often make up stuff or offer contradicting answers when asked in two different ways. [...]",
+      "published": "Wed, 07 Jan 2026 07:50:38 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "UK announces plan to strengthen public sector cyber defenses",
       "link": "https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/",
       "summary": "The United Kingdom has announced a new cybersecurity strategy, backed by more than £210 million ($283 million), to boost cyber defenses across government departments and the wider public sector. [...]",
@@ -214,27 +236,6 @@
         "Active exploitation",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Kimwolf Android botnet abuses residential proxies to infect internal devices",
-      "link": "https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/",
-      "summary": "The Kimwolf botnet, an Android variant of the Aisuru malware, has grown to more than two million hosts, most of them infected by exploiting vulnerabilities in residential proxy networks to target devices on internal networks. [...]",
-      "published": "Tue, 06 Jan 2026 14:15:11 -0500",
-      "value_score": 36,
-      "value_signals": [
-        "Botnet ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Jaguar Land Rover wholesale volumes down 43% after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/",
-      "summary": "Jaguar Land Rover (JLR) revealed this week that a September 2025 cyberattack led to a 43% decline in third-quarter wholesale volumes. [...]",
-      "published": "Tue, 06 Jan 2026 13:27:08 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -319,6 +320,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "DDoSia Powers Affiliate-Driven Hacktivist Attacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks",
+      "summary": "Pro-Russian group NoName057(16) uses a custom denial-of-service tool to mobilize volunteers and disrupt government, media, and institutional sites tied to Ukraine and the West.",
+      "published": "Wed, 07 Jan 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cyberattacks Likely Part of Military Operation in Venezuela",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela",
+      "summary": "Cyber's role in the US raid on Venezuela remains a question, though President Trump alluded to \"certain expertise\" in shutting down the power grid in Caracas.",
+      "published": "Wed, 07 Jan 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Scattered Lapsus$ Hunters Snared in Cyber Researcher Honeypot",
       "link": "https://www.darkreading.com/endpoint-security/scattered-lapsus-hunters-researcher-honeypot",
       "summary": "Scattered Lapsus$ Hunters, also known as ShinyHunters, were drawn in using a realistic, yet mostly fake, dataset.",
@@ -376,27 +395,33 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity",
-      "link": "https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity",
-      "summary": "Two US citizens pleaded guilty to working as ALPHV/BlackCat ransomware affiliates in 2023, and both were previously employed by prominent security firms.",
-      "published": "Mon, 05 Jan 2026 18:52:21 GMT",
-      "value_score": 46,
+      "source": "Security Week",
+      "title": "Vulnerability in Totolink Range Extender Allows Device Takeover",
+      "link": "https://www.securityweek.com/vulnerability-in-totolink-range-extender-allows-device-takeover/",
+      "summary": "An error in the firmware-upload handler leads to devices starting an unauthenticated root-level Telnet service. The post Vulnerability in Totolink Range Extender Allows Device Takeover appeared first on SecurityWeek .",
+      "published": "Wed, 07 Jan 2026 13:50:36 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Several Code Execution Flaws Patched in Veeam Backup & Replication",
+      "link": "https://www.securityweek.com/several-code-execution-flaws-patched-in-veeam-backup-replication/",
+      "summary": "Four vulnerabilities have been fixed in the latest release of Veeam Backup & Replication. The post Several Code Execution Flaws Patched in Veeam Backup & Replication appeared first on SecurityWeek .",
+      "published": "Wed, 07 Jan 2026 13:27:11 +0000",
+      "value_score": 18,
       "value_signals": [
-        "Ransomware ×2"
+        "Patch/update"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "RondoDox Botnet Expands Scope With React2Shell Exploitation",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation",
-      "summary": "Recent attacks are targeting Next.js servers and pose a significant threat of cryptomining, botnet payloads, and other malicious activity to IoT networks and enterprises.",
-      "published": "Mon, 05 Jan 2026 15:11:55 GMT",
-      "value_score": 36,
-      "value_signals": [
-        "Botnet ×2",
-        "Exploit wording"
-      ]
+      "source": "Security Week",
+      "title": "Cybersecurity Firms Secured $14 Billion in Funding in 2025: Analysis",
+      "link": "https://www.securityweek.com/cybersecurity-firms-secured-14-billion-in-funding-in-2025/",
+      "summary": "2025 was the strongest year for cybersecurity funding since the 2021 peak, according to Pinpoint Search Group. The post Cybersecurity Firms Secured $14 Billion in Funding in 2025: Analysis appeared first on SecurityWeek .",
+      "published": "Wed, 07 Jan 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -447,36 +472,6 @@
       "link": "https://www.securityweek.com/researchers-trap-scattered-lapsus-hunters-in-honeypot/",
       "summary": "Using fake accounts and synthetic data to lure the hackers, the researchers gathered information on their servers. The post Researchers Trap Scattered Lapsus$ Hunters in Honeypot appeared first on SecurityWeek .",
       "published": "Tue, 06 Jan 2026 14:03:12 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Dolby Vulnerability Patched in Android",
-      "link": "https://www.securityweek.com/critical-dolby-vulnerability-patched-in-android/",
-      "summary": "The flaw is tracked as CVE-2025-54957 and its existence came to light in October 2025 after it was discovered by Google researchers. The post Critical Dolby Vulnerability Patched in Android appeared first on SecurityWeek .",
-      "published": "Tue, 06 Jan 2026 13:50:36 +0000",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Sophisticated ClickFix Campaign Targeting Hospitality Sector",
-      "link": "https://www.securityweek.com/sophisticated-clickfix-campaign-targeting-hospitality-sector/",
-      "summary": "Fake Booking reservation cancellations and fake BSODs trick victims into executing malicious code leading to RAT infections. The post Sophisticated ClickFix Campaign Targeting Hospitality Sector appeared first on SecurityWeek .",
-      "published": "Tue, 06 Jan 2026 13:24:20 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Dozens of Major Data Breaches Linked to Single Threat Actor",
-      "link": "https://www.securityweek.com/dozens-of-major-data-breaches-linked-to-single-threat-actor/",
-      "summary": "The initial access broker (IAB) relies on credentials exfiltrated using information stealers to hack organizations. The post Dozens of Major Data Breaches Linked to Single Threat Actor appeared first on SecurityWeek .",
-      "published": "Tue, 06 Jan 2026 12:29:24 +0000",
       "value_score": 10,
       "value_signals": []
     },

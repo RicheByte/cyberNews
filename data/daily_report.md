@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-07 10:19 UTC  
+> **Last Updated:** 2026-01-07 12:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai generated code** • **scattered lapsus hunters** • **mass creating fake** • **cyber risk trends** • **critical security vulnerability** • **nordvpn denies breach** • **fake blue screen** • **write arbitrary files** • **twitter whistleblower complaint** • **supposed wayward package** • **prolific cybercriminal group** • **multi stage campaign** • **january 30 2026** • **exploits surrounding ics** • **clickfix campaign serves** • **additional brickstorm samples** • **startup trends shaking** • **gain full control** • **cvss scoring system** • **cve 2025 68668**
+**scattered lapsus hunters** • **ai generated code** • **cyber risk trends** • **don't drop binaries** • **cve 2025 54957** • **fake blue screen** • **twitter whistleblower complaint** • **prolific cybercriminal group** • **fintech company stepped** • **exploits surrounding ics** • **additional brickstorm samples** • **16th anniversary today** • **unauthenticated remote attacker** • **remote authenticated attacker** • **startup trends shaking** • **gain full control** • **cyber policies fit** • **prominent security firms** • **president s efforts** • **nation s ability**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
+- [n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions](https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html)
+- [The Future of Cybersecurity Includes Non-Human Employees](https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html)
+- [Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication](https://thehackernews.com/2026/01/veeam-patches-critical-rce.html)
+- [Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing](https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html)
 - [Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers](https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html)
 - [Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html)
 - [Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover](https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html)
-- [Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat](https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html)
-- [What is Identity Dark Matter?](https://thehackernews.com/2026/01/what-is-identity-dark-matter.html)
-- [VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX](https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html)
-- [New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands](https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html)
-- [Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers](https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html)
 
 ### BleepingComputer
 
+- [UK announces plan to strengthen public sector cyber defenses](https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/)
+- [OpenAI is reportedly getting ready to test ads in ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/)
 - [OpenAI is rolling out GPT-5.2 “Codex-Max” for some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/)
 - [Taiwan says China's attacks on its energy sector increased tenfold](https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/)
 - [Microsoft cancels plans to rate limit Exchange Online bulk emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/)
 - [New D-Link flaw in legacy DSL routers actively exploited in attacks](https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/)
 - [Kimwolf Android botnet abuses residential proxies to infect internal devices](https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/)
 - [Jaguar Land Rover wholesale volumes down 43% after cyberattack](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/)
-- [Sedgwick confirms breach at government contractor subsidiary](https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/)
-- [How generative AI accelerates identity attacks against Active Directory](https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Hackers Exploit Zero-Day in Discontinued D-Link Devices](https://www.securityweek.com/hackers-exploit-zero-day-in-discontinued-d-link-devices/)
+- [Complex Routing, Misconfigurations Exploited for Domain Spoofing in Phishing Attacks](https://www.securityweek.com/complex-routing-misconfigurations-exploited-for-domain-spoofing-in-phishing-attacks/)
 - [Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking](https://www.securityweek.com/hacker-conversations-katie-paxton-fear-talks-autism-morality-and-hacking/)
 - [Cyber Risk Trends for 2026: Building Resilience, Not Just Defenses](https://www.securityweek.com/cyber-risk-trends-for-2026-building-resilience-not-just-defenses/)
 - [Researchers Trap Scattered Lapsus$ Hunters in Honeypot](https://www.securityweek.com/researchers-trap-scattered-lapsus-hunters-in-honeypot/)
 - [Critical Dolby Vulnerability Patched in Android](https://www.securityweek.com/critical-dolby-vulnerability-patched-in-android/)
 - [Sophisticated ClickFix Campaign Targeting Hospitality Sector](https://www.securityweek.com/sophisticated-clickfix-campaign-targeting-hospitality-sector/)
 - [Dozens of Major Data Breaches Linked to Single Threat Actor](https://www.securityweek.com/dozens-of-major-data-breaches-linked-to-single-threat-actor/)
-- [NordVPN Denies Breach After Hacker Leaks Data](https://www.securityweek.com/nordvpn-denies-breach-after-hacker-leaks-data/)
-- [Cybersecurity M&A Roundup: 30 Deals Announced in December 2025](https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-december-2025/)
 
 ### Threatpost
 

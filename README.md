@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-07 10:19 UTC |
+| 🕐 Last Updated | 2026-01-07 12:36 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai generated code` • `scattered lapsus hunters` • `mass creating fake` • `cyber risk trends` • `critical security vulnerability` • `nordvpn denies breach` • `fake blue screen` • `write arbitrary files` • `twitter whistleblower complaint` • `supposed wayward package`
+`scattered lapsus hunters` • `ai generated code` • `cyber risk trends` • `don't drop binaries` • `cve 2025 54957` • `fake blue screen` • `twitter whistleblower complaint` • `prolific cybercriminal group` • `fintech company stepped` • `exploits surrounding ics`
 
 ## 📄 Reports
 

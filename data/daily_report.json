@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-01-07 14:20",
+  "last_updated": "2026-01-07 16:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus hunters",
     "ai generated code",
     "2025 analysis 2025",
-    "cyber risk trends",
     "don't drop binaries",
+    "windows operating systems",
     "twitter whistleblower complaint",
     "prolific cybercriminal group",
     "fintech company stepped",
-    "fake blue screen",
     "exploits surrounding ics",
+    "exploiting routing scenarios",
     "additional brickstorm samples",
     "16th anniversary today",
+    "fake blue screen",
+    "cause untrusted code",
     "unauthenticated remote attacker",
-    "remote authenticated attacker",
-    "startup trends shaking",
-    "researchers gathered information",
-    "gain full control",
     "address multiple flaws",
-    "cyber security released",
-    "cyber policies fit"
+    "president s efforts",
+    "nation s ability",
+    "cvss scoring system",
+    "veeam backup replication"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "ai generated code",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "2025 analysis 2025",
-      "mentions": 1
-    },
-    {
-      "keyword": "cyber risk trends",
-      "mentions": 12
+      "mentions": 2
     },
     {
       "keyword": "don't drop binaries",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 20
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 253
+      "mentions": 254
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 238
+      "mentions": 239
     },
     {
       "keyword": "fintech company stepped",
-      "mentions": 2
-    },
-    {
-      "keyword": "fake blue screen",
-      "mentions": 13
+      "mentions": 3
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 152
+      "mentions": 153
+    },
+    {
+      "keyword": "exploiting routing scenarios",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
+      "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html",
+      "summary": "Cybersecurity researchers have disclosed details of yet another maximum-severity security flaw in n8n, a popular workflow automation platform, that allows an unauthenticated remote attacker to gain complete control over susceptible instances. The vulnerability, tracked as CVE-2026-21858 (CVSS score: 10.0), has been codenamed Ni8mare by Cyera Research Labs. Security researcher Dor Attias has been",
+      "published": "Wed, 07 Jan 2026 19:18:00 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
@@ -148,15 +160,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
-      "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
-      "summary": "The CERT Coordination Center (CERT/CC) has disclosed details of an unpatched security flaw impacting TOTOLINK EX200 wireless range extender that could allow a remote authenticated attacker to gain full control of the device. The flaw, CVE-2025-65606 (CVSS score: N/A), has been characterized as a flaw in the firmware-upload error-handling logic, which could cause the device to inadvertently start",
-      "published": "Tue, 06 Jan 2026 21:17:00 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
-      ]
+      "source": "BleepingComputer",
+      "title": "ownCloud urges users to enable MFA after credential theft reports",
+      "link": "https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/",
+      "summary": "File-sharing platform ownCloud warned users today to enable multi-factor authentication (MFA) to block attackers using compromised credentials from stealing their data. [...]",
+      "published": "Wed, 07 Jan 2026 09:34:39 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -224,18 +234,6 @@
       "published": "Tue, 06 Jan 2026 15:49:30 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New D-Link flaw in legacy DSL routers actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/",
-      "summary": "Threat actors are exploiting a recently discovered command injection vulnerability that affects multiple D-Link DSL gateway routers that went out of support years ago. [...]",
-      "published": "Tue, 06 Jan 2026 14:52:52 -0500",
-      "value_score": 41,
-      "value_signals": [
-        "Active exploitation",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -338,6 +336,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Lack of MFA Is Common Thread in Vast Cloud Credential Heist",
+      "link": "https://www.darkreading.com/cloud-security/lack-mfa-common-thread-vast-cloud-credential-heist",
+      "summary": "An emerging threat actor that goes by \"Zestix\" used an assortment of infostealers to obtain credentials and breach file-sharing instances of approximately 50 enterprises.",
+      "published": "Wed, 07 Jan 2026 12:35:46 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Scattered Lapsus$ Hunters Snared in Cyber Researcher Honeypot",
       "link": "https://www.darkreading.com/endpoint-security/scattered-lapsus-hunters-researcher-honeypot",
       "summary": "Scattered Lapsus$ Hunters, also known as ShinyHunters, were drawn in using a realistic, yet mostly fake, dataset.",
@@ -382,17 +391,22 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Critical 'MongoBleed' Bug Under Attack, Patch Now",
-      "link": "https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch",
-      "summary": "A memory leak security vulnerability allows unauthenticated attackers to extract passwords and tokens from MongoDB servers.",
-      "published": "Mon, 05 Jan 2026 20:52:04 GMT",
-      "value_score": 38,
-      "value_signals": [
-        "Patch/update",
-        "Breach/leak",
-        "High severity"
-      ]
+      "source": "Security Week",
+      "title": "The Loudest Voices in Security Often Have the Least to Lose",
+      "link": "https://www.securityweek.com/the-loudest-voices-in-security-often-have-the-least-to-lose/",
+      "summary": "Security advice fails when it comes from those who don’t bear the consequences and won’t be responsible for making it work. The post The Loudest Voices in Security Often Have the Least to Lose appeared first on SecurityWeek .",
+      "published": "Wed, 07 Jan 2026 15:45:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome Extensions With 900,000 Downloads Caught Stealing AI Chats",
+      "link": "https://www.securityweek.com/chrome-extensions-with-900000-downloads-caught-stealing-ai-chats/",
+      "summary": "Impersonating a legitimate extension from AITOPIA, the two malicious extensions were also exfiltrating users’ browser activity. The post Chrome Extensions With 900,000 Downloads Caught Stealing AI Chats appeared first on SecurityWeek .",
+      "published": "Wed, 07 Jan 2026 15:03:24 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -454,24 +468,6 @@
       "link": "https://www.securityweek.com/hacker-conversations-katie-paxton-fear-talks-autism-morality-and-hacking/",
       "summary": "From dismantling online games as a child to uncovering real-world vulnerabilities, Katie Paxton-Fear explains how autism, curiosity, and a rejection of ambiguity shaped her path into ethical hacking. The post Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking appeared first on SecurityWeek .",
       "published": "Tue, 06 Jan 2026 15:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyber Risk Trends for 2026: Building Resilience, Not Just Defenses",
-      "link": "https://www.securityweek.com/cyber-risk-trends-for-2026-building-resilience-not-just-defenses/",
-      "summary": "We can’t outpace the adversary by trying to stop every attack, but we can outlast them by engineering systems and culture to take a punch and try to quickly rebound. The post Cyber Risk Trends for 2026: Building Resilience, Not Just Defenses appeared first on SecurityWeek .",
-      "published": "Tue, 06 Jan 2026 14:45:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Researchers Trap Scattered Lapsus$ Hunters in Honeypot",
-      "link": "https://www.securityweek.com/researchers-trap-scattered-lapsus-hunters-in-honeypot/",
-      "summary": "Using fake accounts and synthetic data to lure the hackers, the researchers gathered information on their servers. The post Researchers Trap Scattered Lapsus$ Hunters in Honeypot appeared first on SecurityWeek .",
-      "published": "Tue, 06 Jan 2026 14:03:12 +0000",
       "value_score": 10,
       "value_signals": []
     },

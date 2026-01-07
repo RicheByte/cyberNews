@@ -95,7 +95,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 239,
+      "count": 240,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -132,7 +132,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 254,
+      "count": 255,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -342,7 +342,7 @@
       ]
     },
     "scattered lapsus hunters": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-18",
         "2025-12-24",
@@ -676,7 +676,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 226,
+      "count": 227,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -945,7 +945,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1355,7 +1355,7 @@
       ]
     },
     "nation s ability": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1508,7 +1508,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -1649,7 +1649,7 @@
       ]
     },
     "president s efforts": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1825,14 +1825,14 @@
       ]
     },
     "ai generated code": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-06",
         "2026-01-07"
       ]
     },
     "fake blue screen": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-06",
         "2026-01-07"
@@ -1881,25 +1881,25 @@
       ]
     },
     "don't drop binaries": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-07"
       ]
     },
     "fintech company stepped": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-07"
       ]
     },
     "16th anniversary today": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-07"
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-07"
       ]
@@ -1923,7 +1923,7 @@
       ]
     },
     "2025 analysis 2025": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-07"
       ]
@@ -1935,24 +1935,30 @@
       ]
     },
     "address multiple flaws": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-07"
       ]
     },
     "exploiting routing scenarios": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-07"
       ]
     },
     "cause untrusted code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-07"
       ]
     },
     "veeam backup replication": {
+      "count": 2,
+      "dates": [
+        "2026-01-07"
+      ]
+    },
+    "promise ease rather": {
       "count": 1,
       "dates": [
         "2026-01-07"
@@ -1960,17 +1966,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-30 10:18",
-      "articles": 56,
-      "top_keywords": [
-        "approximately 7 million",
-        "leak sensitive information",
-        "chinese cyberespionage campaigns",
-        "mass creating fake",
-        "length parameter inconsistency"
-      ]
-    },
     {
       "timestamp": "2025-12-30 12:34",
       "articles": 56,
@@ -3058,6 +3053,17 @@
         "2025 analysis 2025",
         "don't drop binaries",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-01-07 18:26",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus hunters",
+        "ai generated code",
+        "2025 analysis 2025",
+        "don't drop binaries",
+        "twitter whistleblower complaint"
       ]
     }
   ]

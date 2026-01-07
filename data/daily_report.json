@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07 16:24",
+  "last_updated": "2026-01-07 18:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,8 +7,8 @@
     "ai generated code",
     "2025 analysis 2025",
     "don't drop binaries",
-    "windows operating systems",
     "twitter whistleblower complaint",
+    "promise ease rather",
     "prolific cybercriminal group",
     "fintech company stepped",
     "exploits surrounding ics",
@@ -18,52 +18,52 @@
     "fake blue screen",
     "cause untrusted code",
     "unauthenticated remote attacker",
-    "address multiple flaws",
     "president s efforts",
     "nation s ability",
     "cvss scoring system",
+    "address multiple flaws",
     "veeam backup replication"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "ai generated code",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "2025 analysis 2025",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "don't drop binaries",
-      "mentions": 3
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 20
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 254
+      "mentions": 255
+    },
+    {
+      "keyword": "promise ease rather",
+      "mentions": 1
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 239
+      "mentions": 240
     },
     {
       "keyword": "fintech company stepped",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 153
+      "mentions": 154
     },
     {
       "keyword": "exploiting routing scenarios",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -161,6 +161,42 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Logitech Options+, G HUB macOS apps break after certificate expires",
+      "link": "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/",
+      "summary": "Logitech's Options+ and G Hub apps on macOS stopped working after their code-signing certificate expired, leaving users unable to launch them on Apple systems. [...]",
+      "published": "Wed, 07 Jan 2026 13:05:42 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Max severity Ni8mare flaw lets hackers hijack n8n servers",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/",
+      "summary": "A maximum severity vulnerability dubbed \"Ni8mare\" allows remote, unauthenticated attackers to take control over locally deployed instances of the N8N workflow automation platform. [...]",
+      "published": "Wed, 07 Jan 2026 12:41:10 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft: Classic Outlook bug prevents opening encrypted emails",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/",
+      "summary": "Microsoft has confirmed a known issue that prevents recipients from opening encrypted emails in classic Outlook. [...]",
+      "published": "Wed, 07 Jan 2026 11:30:24 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT",
+      "link": "https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/",
+      "summary": "Cybercriminals are increasingly using AI to lower the barrier to entry for fraud and hacking, shifting from skill-based to AI-assisted attacks known as \"vibe hacking.\" Flare examines how underground forums promote AI tools, jailbreak techniques, and so-called \"Hacking-GPT\" services that promise ease rather than technical mastery. [...]",
+      "published": "Wed, 07 Jan 2026 10:00:10 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ownCloud urges users to enable MFA after credential theft reports",
       "link": "https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/",
       "summary": "File-sharing platform ownCloud warned users today to enable multi-factor authentication (MFA) to block attackers using compromised credentials from stealing their data. [...]",
@@ -196,42 +232,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/",
       "summary": "The United Kingdom has announced a new cybersecurity strategy, backed by more than £210 million ($283 million), to boost cyber defenses across government departments and the wider public sector. [...]",
       "published": "Wed, 07 Jan 2026 07:15:01 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI is reportedly getting ready to test ads in ChatGPT",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/",
-      "summary": "Multiple reports suggest that OpenAI is going ahead with its plans to add ads to ChatGPT, but the experiment will be initially limited to its employees. [...]",
-      "published": "Tue, 06 Jan 2026 20:30:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI is rolling out GPT-5.2 “Codex-Max” for some users",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/",
-      "summary": "OpenAI is testing a new model for Codex called \"GPT-5.2-Codex-Max,\" and it's already rolling out to users with a subscription. [...]",
-      "published": "Tue, 06 Jan 2026 19:30:39 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Taiwan says China's attacks on its energy sector increased tenfold",
-      "link": "https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/",
-      "summary": "The National Security Bureau in Taiwan says that China's attacks on the country's energy sector increased tenfold in 2025 compared to the previous year. [...]",
-      "published": "Tue, 06 Jan 2026 17:27:15 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft cancels plans to rate limit Exchange Online bulk emails",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/",
-      "summary": "Microsoft announced today that it has canceled plans to impose a daily limit of 2,000 external recipients on Exchange Online bulk email senders. [...]",
-      "published": "Tue, 06 Jan 2026 15:49:30 -0500",
       "value_score": 10,
       "value_signals": []
     },

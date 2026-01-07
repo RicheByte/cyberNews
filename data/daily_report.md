@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-07 16:24 UTC  
+> **Last Updated:** 2026-01-07 18:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus hunters** • **ai generated code** • **2025 analysis 2025** • **don't drop binaries** • **windows operating systems** • **twitter whistleblower complaint** • **prolific cybercriminal group** • **fintech company stepped** • **exploits surrounding ics** • **exploiting routing scenarios** • **additional brickstorm samples** • **16th anniversary today** • **fake blue screen** • **cause untrusted code** • **unauthenticated remote attacker** • **address multiple flaws** • **president s efforts** • **nation s ability** • **cvss scoring system** • **veeam backup replication**
+**scattered lapsus hunters** • **ai generated code** • **2025 analysis 2025** • **don't drop binaries** • **twitter whistleblower complaint** • **promise ease rather** • **prolific cybercriminal group** • **fintech company stepped** • **exploits surrounding ics** • **exploiting routing scenarios** • **additional brickstorm samples** • **16th anniversary today** • **fake blue screen** • **cause untrusted code** • **unauthenticated remote attacker** • **president s efforts** • **nation s ability** • **cvss scoring system** • **address multiple flaws** • **veeam backup replication**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Logitech Options+, G HUB macOS apps break after certificate expires](https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/)
+- [Max severity Ni8mare flaw lets hackers hijack n8n servers](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/)
+- [Microsoft: Classic Outlook bug prevents opening encrypted emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/)
+- [In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT](https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/)
 - [ownCloud urges users to enable MFA after credential theft reports](https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/)
 - [New Veeam vulnerabilities expose backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/)
 - [Google Search AI hallucinations push Google to hire "AI Answers Quality" engineers](https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/)
 - [UK announces plan to strengthen public sector cyber defenses](https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/)
-- [OpenAI is reportedly getting ready to test ads in ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/)
-- [OpenAI is rolling out GPT-5.2 “Codex-Max” for some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/)
-- [Taiwan says China's attacks on its energy sector increased tenfold](https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/)
-- [Microsoft cancels plans to rate limit Exchange Online bulk emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/)
 
 ### Krebs on Security
 

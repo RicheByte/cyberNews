@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-01-06 22:17",
+  "last_updated": "2026-01-07 01:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "scattered lapsus hunters",
     "ai generated code",
+    "scattered lapsus hunters",
     "mass creating fake",
     "cyber risk trends",
     "critical security vulnerability",
@@ -17,53 +17,53 @@
     "multi stage campaign",
     "january 30 2026",
     "exploits surrounding ics",
-    "corporate data stolen",
     "clickfix campaign serves",
     "additional brickstorm samples",
     "malicious cyber actors",
     "startup trends shaking",
-    "gain full control"
+    "gain full control",
+    "cvss scoring system"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus hunters",
-      "mentions": 13
-    },
-    {
       "keyword": "ai generated code",
-      "mentions": 5
-    },
-    {
-      "keyword": "mass creating fake",
-      "mentions": 240
-    },
-    {
-      "keyword": "cyber risk trends",
-      "mentions": 4
-    },
-    {
-      "keyword": "critical security vulnerability",
-      "mentions": 16
-    },
-    {
-      "keyword": "nordvpn denies breach",
       "mentions": 6
     },
     {
-      "keyword": "fake blue screen",
+      "keyword": "scattered lapsus hunters",
+      "mentions": 14
+    },
+    {
+      "keyword": "mass creating fake",
+      "mentions": 241
+    },
+    {
+      "keyword": "cyber risk trends",
       "mentions": 5
     },
     {
+      "keyword": "critical security vulnerability",
+      "mentions": 17
+    },
+    {
+      "keyword": "nordvpn denies breach",
+      "mentions": 7
+    },
+    {
+      "keyword": "fake blue screen",
+      "mentions": 6
+    },
+    {
       "keyword": "write arbitrary files",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 245
+      "mentions": 246
     },
     {
       "keyword": "supposed wayward package",
-      "mentions": 46
+      "mentions": 47
     }
   ],
   "articles": [
@@ -151,6 +151,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI is rolling out GPT-5.2 “Codex-Max” for some users",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/",
+      "summary": "OpenAI is testing a new model for Codex called \"GPT-5.2-Codex-Max,\" and it's already rolling out to users with a subscription. [...]",
+      "published": "Tue, 06 Jan 2026 19:30:39 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Taiwan says China's attacks on its energy sector increased tenfold",
+      "link": "https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/",
+      "summary": "The National Security Bureau in Taiwan says that China's attacks on the country's energy sector increased tenfold in 2025 compared to the previous year. [...]",
+      "published": "Tue, 06 Jan 2026 17:27:15 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft cancels plans to rate limit Exchange Online bulk emails",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/",
       "summary": "Microsoft announced today that it has canceled plans to impose a daily limit of 2,000 external recipients on Exchange Online bulk email senders. [...]",
@@ -212,24 +230,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Are Copilot prompt injection flaws vulnerabilities or AI limits?",
-      "link": "https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/",
-      "summary": "Microsoft has pushed back against claims that multiple prompt injection and sandbox-related issues raised by a security engineer in its Copilot AI assistant constitute security vulnerabilities. The development highlights a growing divide between how vendors and researchers define risk in generative AI systems. [...]",
-      "published": "Tue, 06 Jan 2026 06:16:54 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cloud file-sharing sites targeted for corporate data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/",
-      "summary": "A threat actor known as Zestix has been offering to corporate data stolen from dozens of companies likely after breaching their ShareFile, Nextcloud, and OwnCloud instances. [...]",
-      "published": "Mon, 05 Jan 2026 17:52:16 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -557,7 +557,7 @@
       "source": "CISA Alerts",
       "title": "Columbia Weather Systems MicroServer",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to redirect the SSH connection to an attacker controlled device, gain admin access to the web portal, and gain limited shell access. The following versions of Columbia Weather Systems MicroServer are affected: MicroServer firmware (CVE-2025-61939, CVE-2025-64305, CVE-2025-66620) CVSS Vendor Equipment Vulnerabilities v3 8.8 Columbia Weather Systems Columbia Weather Systems MicroServer Improper Restriction o",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to redirect connections to an attacker controlled device, gain admin access to the web portal, or gain limited shell access. The following versions of Columbia Weather Systems MicroServer are affected: MicroServer firmware (CVE-2025-61939, CVE-2025-64305, CVE-2025-66620) CVSS Vendor Equipment Vulnerabilities v3 8.8 Columbia Weather Systems Columbia Weather Systems MicroServer Improper Restriction of Commun",
       "published": "Tue, 06 Jan 26 12:00:00 +0000",
       "value_score": 89,
       "value_signals": [

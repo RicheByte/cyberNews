@@ -32,7 +32,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 244,
+      "count": 245,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -95,7 +95,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 234,
+      "count": 235,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -131,7 +131,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 249,
+      "count": 250,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -158,7 +158,7 @@
       ]
     },
     "supposed wayward package": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -341,7 +341,7 @@
       ]
     },
     "scattered lapsus hunters": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2025-12-18",
         "2025-12-24",
@@ -675,7 +675,7 @@
       ]
     },
     "additional brickstorm samples": {
-      "count": 221,
+      "count": 222,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -891,7 +891,7 @@
       ]
     },
     "critical security vulnerability": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -944,7 +944,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1505,7 +1505,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -1781,14 +1781,14 @@
       ]
     },
     "cve 2025 68668": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-06",
         "2026-01-07"
       ]
     },
     "write arbitrary files": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-06",
         "2026-01-07"
@@ -1801,7 +1801,7 @@
       ]
     },
     "nordvpn denies breach": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-06",
         "2026-01-07"
@@ -1814,21 +1814,21 @@
       ]
     },
     "multi stage campaign": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-06",
         "2026-01-07"
       ]
     },
     "ai generated code": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-06",
         "2026-01-07"
       ]
     },
     "fake blue screen": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-06",
         "2026-01-07"
@@ -1841,35 +1841,35 @@
       ]
     },
     "cyber risk trends": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-06",
         "2026-01-07"
       ]
     },
     "startup trends shaking": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-06",
         "2026-01-07"
       ]
     },
     "clickfix campaign serves": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-06",
         "2026-01-07"
       ]
     },
     "january 30 2026": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-06",
         "2026-01-07"
       ]
     },
     "gain full control": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-06",
         "2026-01-07"
@@ -1877,17 +1877,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-30 01:17",
-      "articles": 56,
-      "top_keywords": [
-        "approximately 7 million",
-        "mass creating fake",
-        "length parameter inconsistency",
-        "leak sensitive information",
-        "22 million affected"
-      ]
-    },
     {
       "timestamp": "2025-12-30 03:24",
       "articles": 56,
@@ -2968,6 +2957,17 @@
     },
     {
       "timestamp": "2026-01-07 06:27",
+      "articles": 56,
+      "top_keywords": [
+        "ai generated code",
+        "scattered lapsus hunters",
+        "mass creating fake",
+        "cyber risk trends",
+        "critical security vulnerability"
+      ]
+    },
+    {
+      "timestamp": "2026-01-07 08:24",
       "articles": 56,
       "top_keywords": [
         "ai generated code",

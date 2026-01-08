@@ -96,7 +96,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 242,
+      "count": 243,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -134,7 +134,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 259,
+      "count": 260,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -345,7 +345,7 @@
       ]
     },
     "scattered lapsus hunters": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2025-12-18",
         "2025-12-24",
@@ -951,7 +951,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1362,7 +1362,7 @@
       ]
     },
     "nation s ability": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1516,7 +1516,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -1658,7 +1658,7 @@
       ]
     },
     "president s efforts": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1835,7 +1835,7 @@
       ]
     },
     "ai generated code": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -1843,7 +1843,7 @@
       ]
     },
     "fake blue screen": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -1906,14 +1906,14 @@
       ]
     },
     "16th anniversary today": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -1938,7 +1938,7 @@
       ]
     },
     "2025 analysis 2025": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -1957,42 +1957,42 @@
       ]
     },
     "exploiting routing scenarios": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "cause untrusted code": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "veeam backup replication": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "promise ease rather": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "cybercrime gang known": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "indicators security teams": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -2006,7 +2006,7 @@
       ]
     },
     "backup replication veeam": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -2020,7 +2020,7 @@
       ]
     },
     "run arbitrary commands": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-08"
       ]
@@ -2033,17 +2033,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-30 20:18",
-      "articles": 56,
-      "top_keywords": [
-        "mass creating fake",
-        "22 million affected",
-        "cyber security agency",
-        "newly discovered campaign",
-        "prolific cybercriminal group"
-      ]
-    },
     {
       "timestamp": "2025-12-30 22:16",
       "articles": 56,
@@ -3131,6 +3120,17 @@
         "run arbitrary commands",
         "fake blue screen",
         "exploits surrounding ics"
+      ]
+    },
+    {
+      "timestamp": "2026-01-08 04:35",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus hunters",
+        "2025 analysis 2025",
+        "cybercrime gang known",
+        "ai generated code",
+        "twitter whistleblower complaint"
       ]
     }
   ]

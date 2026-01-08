@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08 18:21",
+  "last_updated": "2026-01-08 20:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -17,53 +17,53 @@
     "continuous identity protection",
     "remote code execution",
     "fake blue screen",
-    "ai generated code",
     "concept poc exploit",
     "concept exploit code",
     "critical vulnerability patched",
     "whill devices allows",
-    "unpaid toll fee"
+    "unpaid toll fee",
+    "supposed wayward package"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 248
+      "mentions": 249
     },
     {
       "keyword": "security problems show",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "unauthenticated bluetooth access",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 267
+      "mentions": 268
     },
     {
       "keyword": "real life identity",
-      "mentions": 119
+      "mentions": 120
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 250
+      "mentions": 251
     },
     {
       "keyword": "narrative intelligence platform",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "internet router probably",
-      "mentions": 14
+      "mentions": 15
     }
   ],
   "articles": [
@@ -315,6 +315,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Here's What Cloud Security's Future Holds for the Year Ahead",
+      "link": "https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead",
+      "summary": "Here are the top cloud security trends I'm seeing in my crystal ball for the New Year — particularly arming us for AI adoption.",
+      "published": "Thu, 08 Jan 2026 15:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attackers Exploit Zero-Day in End-of-Life D-Link Routers",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers",
       "summary": "Hackers are attacking a critical zero-day flaw in unsupported D-Link DSL routers to run arbitrary commands.",
@@ -381,15 +390,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death",
       "summary": "Threat actors are using the social engineering technique and a legitimate Microsoft tool to deploy the DCRat remote access Trojan against targets in the hospitality sector.",
       "published": "Tue, 06 Jan 2026 16:28:30 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Startup Trends Shaking Up Browsers, SOC Automation, AppSec",
-      "link": "https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec",
-      "summary": "These startups reimagined browser security, pioneered application security for AI-generated code, and are building consensus on agentic vs. human costs.",
-      "published": "Mon, 05 Jan 2026 23:32:21 GMT",
       "value_score": 10,
       "value_signals": []
     },

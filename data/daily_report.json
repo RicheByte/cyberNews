@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08 16:23",
+  "last_updated": "2026-01-08 18:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -17,56 +17,65 @@
     "continuous identity protection",
     "remote code execution",
     "fake blue screen",
+    "ai generated code",
     "concept poc exploit",
     "concept exploit code",
-    "unpaid toll fee",
-    "supposed wayward package",
-    "strong theme running",
-    "startup trends shaking"
+    "critical vulnerability patched",
+    "whill devices allows",
+    "unpaid toll fee"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "mass creating fake",
-      "mentions": 247
+      "mentions": 248
     },
     {
       "keyword": "security problems show",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "unauthenticated bluetooth access",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 266
+      "mentions": 267
     },
     {
       "keyword": "real life identity",
-      "mentions": 118
+      "mentions": 119
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 249
+      "mentions": 250
     },
     {
       "keyword": "narrative intelligence platform",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "internet router probably",
-      "mentions": 13
+      "mentions": 14
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
+      "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil. The campaign has been codenamed Boto Cor-de-Rosa by Acronis Threat Research Unit. \"The malware retrieves the victim's WhatsApp contact list and automatically sends malicious messages to each contact to further",
+      "published": "Thu, 08 Jan 2026 22:40:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
@@ -142,18 +151,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
-      "link": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting Microsoft Office and Hewlett Packard Enterprise (HPE) OneView to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2009-0556 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office",
-      "published": "Thu, 08 Jan 2026 10:22:00 +0530",
-      "value_score": 99,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "CISA/KEV ×4",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Texas court blocks Samsung from collecting smart TV viewing data",
+      "link": "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-collecting-smart-tv-viewing-data/",
+      "summary": "The State of Texas has obtained a temporary restraining order (TRO) against Samsung that prohibits the South Korean company from collecting audio and visual data about what Texas consumers are watching on their TVs. [...]",
+      "published": "Thu, 08 Jan 2026 11:47:24 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -226,17 +230,6 @@
       "value_score": 20,
       "value_signals": [
         "Botnet"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical jsPDF flaw lets hackers steal secrets via generated PDFs",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/",
-      "summary": "The jsPDF library for generating PDF documents in JavaScript applications is vulnerable to a critical vulnerability that allows an attacker to steal sensitive data from the local filesystem by including it in generated files. [...]",
-      "published": "Wed, 07 Jan 2026 16:46:29 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
       ]
     },
     {
@@ -402,6 +395,15 @@
     },
     {
       "source": "Security Week",
+      "title": "UK Government Unveils New Cyber Action Plan",
+      "link": "https://www.securityweek.com/uk-government-unveils-new-cyber-action-plan/",
+      "summary": "The UK government’s cyber action plan is by the government for the government, and has no advice for the private sector nor CNI. The post UK Government Unveils New Cyber Action Plan appeared first on SecurityWeek .",
+      "published": "Thu, 08 Jan 2026 16:33:23 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash",
       "link": "https://www.securityweek.com/crowdstrike-to-buy-identity-security-firm-sgnl-for-740-million-in-cash/",
       "summary": "The deal aims to bolster CrowdStrike's Falcon platform with \"continuous identity\" protection to secure human and AI-driven access in real-time. The post CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash appeared first on SecurityWeek .",
@@ -469,19 +471,6 @@
       "value_score": 30,
       "value_signals": [
         "CISA/KEV"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical HPE OneView Vulnerability Exploited in Attacks",
-      "link": "https://www.securityweek.com/critical-hpe-oneview-vulnerability-exploited-in-attacks/",
-      "summary": "The maximum-severity code injection flaw can be exploited without authentication for remote code execution. The post Critical HPE OneView Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 08 Jan 2026 11:09:03 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -566,6 +555,20 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hitachi Energy Asset Suite",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-008-01",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a Jasper Report vulnerability that affects the Asset Suite product versions mentioned in this document below. This vulnerability can be exploited to carry out remote code execution (RCE) attack on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Asset Suite are affected: Asset Suite (CVE-2025-10492) CVSS Vendor Equipment Vulnerabilities v3 9.8 Hita",
+      "published": "Thu, 08 Jan 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "RCE ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "CISA Alerts",
@@ -663,20 +666,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "CISA/KEV ×2"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/22/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-52163 Digiever DS-2105 Pro Missing Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of k",
-      "published": "Mon, 22 Dec 25 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
       ]
     }
   ],

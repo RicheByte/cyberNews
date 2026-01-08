@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-08 16:23 UTC  
+> **Last Updated:** 2026-01-08 18:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus hunters** • **mass creating fake** • **security problems show** • **windows operating systems** • **unauthenticated bluetooth access** • **twitter whistleblower complaint** • **real life identity** • **prolific cybercriminal group** • **narrative intelligence platform** • **internet router probably** • **exploits surrounding ics** • **continuous identity protection** • **remote code execution** • **fake blue screen** • **concept poc exploit** • **concept exploit code** • **unpaid toll fee** • **supposed wayward package** • **strong theme running** • **startup trends shaking**
+**scattered lapsus hunters** • **mass creating fake** • **security problems show** • **windows operating systems** • **unauthenticated bluetooth access** • **twitter whistleblower complaint** • **real life identity** • **prolific cybercriminal group** • **narrative intelligence platform** • **internet router probably** • **exploits surrounding ics** • **continuous identity protection** • **remote code execution** • **fake blue screen** • **ai generated code** • **concept poc exploit** • **concept exploit code** • **critical vulnerability patched** • **whill devices allows** • **unpaid toll fee**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging](https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html)
 - [China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes](https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html)
 - [ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html)
 - [The State of Trusted Open Source](https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html)
@@ -23,10 +24,10 @@
 - [Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages](https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html)
 - [Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances](https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html)
 - [OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls](https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html)
-- [CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited](https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html)
 
 ### BleepingComputer
 
+- [Texas court blocks Samsung from collecting smart TV viewing data](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-collecting-smart-tv-viewing-data/)
 - [Six for 2026: The cyber threats you can’t ignore](https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/)
 - [Microsoft Exchange Online outage blocks access to mailboxes via IMAP4](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/)
 - [Microsoft to enforce MFA for Microsoft 365 admin center sign-ins](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/)
@@ -34,7 +35,6 @@
 - [CISA tags max severity HPE OneView flaw as actively exploited](https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/)
 - [OpenAI says ChatGPT won't use your health information to train its models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/)
 - [New GoBruteforcer attack wave targets crypto, blockchain projects](https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/)
-- [Critical jsPDF flaw lets hackers steal secrets via generated PDFs](https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [UK Government Unveils New Cyber Action Plan](https://www.securityweek.com/uk-government-unveils-new-cyber-action-plan/)
 - [CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash](https://www.securityweek.com/crowdstrike-to-buy-identity-security-firm-sgnl-for-740-million-in-cash/)
 - [Blackbird.AI Raises $28 Million for Narrative Intelligence Platform](https://www.securityweek.com/blackbird-ai-raises-28-million-for-narrative-intelligence-platform/)
 - [Cyera Raises $400 Million at $9 Billion Valuation](https://www.securityweek.com/cyera-raises-400-million-at-9-billion-valuation/)
@@ -67,7 +68,6 @@
 - [Critical Vulnerability Patched in jsPDF](https://www.securityweek.com/critical-vulnerability-patched-in-jspdf/)
 - [Critical Vulnerability Exposes n8n Instances to Takeover Attacks](https://www.securityweek.com/critical-vulnerability-exposes-n8n-instances-to-takeover-attacks/)
 - [Researchers Expose WHILL Wheelchair Safety Risks via Remote Hacking](https://www.securityweek.com/researchers-expose-whill-wheelchair-safety-risks-via-remote-hacking/)
-- [Critical HPE OneView Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-hpe-oneview-vulnerability-exploited-in-attacks/)
 
 ### Threatpost
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [Hitachi Energy Asset Suite](https://www.cisa.gov/news-events/ics-advisories/icsa-26-008-01)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Columbia Weather Systems MicroServer](https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01)
 - [CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2025/12/30/cisa-releases-two-industrial-control-systems-advisories)
@@ -89,7 +90,6 @@
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/29/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2025/12/23/cisa-releases-one-industrial-control-systems-advisory)
 - [NIST and CISA Release Draft Interagency Report on Protecting Tokens and Assertions from Tampering Theft and Misuse for Public Comment](https://www.cisa.gov/news-events/alerts/2025/12/22/nist-and-cisa-release-draft-interagency-report-protecting-tokens-and-assertions-tampering-theft-and)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/22/cisa-adds-one-known-exploited-vulnerability-catalog)
 
 ---
 

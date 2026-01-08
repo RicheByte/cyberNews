@@ -33,7 +33,7 @@
       ]
     },
     "mass creating fake": {
-      "count": 247,
+      "count": 248,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -97,7 +97,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 249,
+      "count": 250,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -125,7 +125,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -136,7 +136,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 266,
+      "count": 267,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -192,7 +192,7 @@
       ]
     },
     "real life identity": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -273,7 +273,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -350,7 +350,7 @@
       ]
     },
     "scattered lapsus hunters": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2025-12-18",
         "2025-12-24",
@@ -398,7 +398,7 @@
       ]
     },
     "remote code execution": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -957,7 +957,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1711,7 +1711,7 @@
       ]
     },
     "internet router probably": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -1843,7 +1843,7 @@
       ]
     },
     "ai generated code": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -1851,7 +1851,7 @@
       ]
     },
     "fake blue screen": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -2058,25 +2058,25 @@
       ]
     },
     "concept exploit code": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-08"
       ]
     },
     "concept poc exploit": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-08"
       ]
     },
     "security problems show": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-08"
       ]
     },
     "unauthenticated bluetooth access": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-08"
       ]
@@ -2088,12 +2088,24 @@
       ]
     },
     "narrative intelligence platform": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-08"
       ]
     },
     "continuous identity protection": {
+      "count": 2,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "critical vulnerability patched": {
+      "count": 1,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "whill devices allows": {
       "count": 1,
       "dates": [
         "2026-01-08"
@@ -2101,17 +2113,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-31 10:17",
-      "articles": 56,
-      "top_keywords": [
-        "22 million affected",
-        "newly discovered campaign",
-        "mass creating fake",
-        "prolific cybercriminal group",
-        "cve 2020 12812"
-      ]
-    },
     {
       "timestamp": "2025-12-31 12:33",
       "articles": 56,
@@ -3192,6 +3193,17 @@
     },
     {
       "timestamp": "2026-01-08 16:23",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus hunters",
+        "mass creating fake",
+        "security problems show",
+        "windows operating systems",
+        "unauthenticated bluetooth access"
+      ]
+    },
+    {
+      "timestamp": "2026-01-08 18:21",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus hunters",

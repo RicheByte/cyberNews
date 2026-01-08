@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-08 20:19 UTC  
+> **Last Updated:** 2026-01-08 22:16 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus hunters** • **mass creating fake** • **security problems show** • **windows operating systems** • **unauthenticated bluetooth access** • **twitter whistleblower complaint** • **real life identity** • **prolific cybercriminal group** • **narrative intelligence platform** • **internet router probably** • **exploits surrounding ics** • **continuous identity protection** • **remote code execution** • **fake blue screen** • **concept poc exploit** • **concept exploit code** • **critical vulnerability patched** • **whill devices allows** • **unpaid toll fee** • **supposed wayward package**
+**reboot loops due** • **continuous identity protection** • **security problems show** • **twitter whistleblower complaint** • **narrative intelligence platform** • **exploits surrounding ics** • **emerging threat actor** • **concept poc exploit** • **concept exploit code** • **unauthenticated bluetooth access** • **exploit code cisco** • **critical vulnerability patched** • **whill devices allows** • **tracking tv viewing** • **static policy enforcement** • **small mistakes turn** • **remote code execution** • **recommended immediate actions** • **office 365 tenants** • **next wave hits**
 
 ---
 
@@ -27,36 +27,25 @@
 
 ### BleepingComputer
 
-- [Texas court blocks Samsung from collecting smart TV viewing data](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-collecting-smart-tv-viewing-data/)
+- [VMware ESXi zero-days likely exploited a year before disclosure](https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/)
+- [Cisco switches hit by reboot loops due to DNS client bug](https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/)
+- [Texas court blocks Samsung from tracking TV viewing, then vacates order](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/)
 - [Six for 2026: The cyber threats you can’t ignore](https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/)
 - [Microsoft Exchange Online outage blocks access to mailboxes via IMAP4](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/)
 - [Microsoft to enforce MFA for Microsoft 365 admin center sign-ins](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/)
 - [Cisco warns of Identity Service Engine flaw with exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/)
 - [CISA tags max severity HPE OneView flaw as actively exploited](https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/)
-- [OpenAI says ChatGPT won't use your health information to train its models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/)
-- [New GoBruteforcer attack wave targets crypto, blockchain projects](https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/)
-
-### Krebs on Security
-
-- [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
-- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
-- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
-- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
-- [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
 ### Dark Reading
 
+- [Fake AI Chrome Extensions Steal 900K Users' Data](https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data)
+- [ChatGPT's Memory Feature Supercharges Prompt Injection](https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection)
 - [Here's What Cloud Security's Future Holds for the Year Ahead](https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead)
 - [Attackers Exploit Zero-Day in End-of-Life D-Link Routers](https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers)
 - [Phishers Exploit Office 365 Users Who Let Their Guard Down](https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down)
 - [Cyberattacks Likely Part of Military Operation in Venezuela](https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela)
 - [DDoSia Powers Affiliate-Driven Hacktivist Attacks](https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks)
 - [Lack of MFA Is Common Thread in Vast Cloud Credential Heist](https://www.darkreading.com/cloud-security/lack-mfa-common-thread-vast-cloud-credential-heist)
-- [Scattered Lapsus$ Hunters Snared in Cyber Researcher Honeypot](https://www.darkreading.com/endpoint-security/scattered-lapsus-hunters-researcher-honeypot)
-- [ClickFix Campaign Serves Up Fake Blue Screen of Death](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death)
 
 ### Security Week
 

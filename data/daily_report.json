@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-08 20:19",
+  "last_updated": "2026-01-08 22:16",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
-    "scattered lapsus hunters",
-    "mass creating fake",
-    "security problems show",
-    "windows operating systems",
-    "unauthenticated bluetooth access",
-    "twitter whistleblower complaint",
-    "real life identity",
-    "prolific cybercriminal group",
-    "narrative intelligence platform",
-    "internet router probably",
-    "exploits surrounding ics",
+    "reboot loops due",
     "continuous identity protection",
-    "remote code execution",
-    "fake blue screen",
+    "security problems show",
+    "twitter whistleblower complaint",
+    "narrative intelligence platform",
+    "exploits surrounding ics",
+    "emerging threat actor",
     "concept poc exploit",
     "concept exploit code",
+    "unauthenticated bluetooth access",
+    "exploit code cisco",
     "critical vulnerability patched",
     "whill devices allows",
-    "unpaid toll fee",
-    "supposed wayward package"
+    "tracking tv viewing",
+    "static policy enforcement",
+    "small mistakes turn",
+    "remote code execution",
+    "recommended immediate actions",
+    "office 365 tenants",
+    "next wave hits"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus hunters",
-      "mentions": 34
+      "keyword": "reboot loops due",
+      "mentions": 1
     },
     {
-      "keyword": "mass creating fake",
-      "mentions": 249
+      "keyword": "continuous identity protection",
+      "mentions": 4
     },
     {
       "keyword": "security problems show",
-      "mentions": 4
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 27
-    },
-    {
-      "keyword": "unauthenticated bluetooth access",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 268
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 120
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 251
+      "mentions": 269
     },
     {
       "keyword": "narrative intelligence platform",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "internet router probably",
-      "mentions": 15
+      "keyword": "exploits surrounding ics",
+      "mentions": 168
+    },
+    {
+      "keyword": "emerging threat actor",
+      "mentions": 1
+    },
+    {
+      "keyword": "concept poc exploit",
+      "mentions": 6
+    },
+    {
+      "keyword": "concept exploit code",
+      "mentions": 7
+    },
+    {
+      "keyword": "unauthenticated bluetooth access",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -152,9 +152,29 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Texas court blocks Samsung from collecting smart TV viewing data",
-      "link": "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-collecting-smart-tv-viewing-data/",
-      "summary": "The State of Texas has obtained a temporary restraining order (TRO) against Samsung that prohibits the South Korean company from collecting audio and visual data about what Texas consumers are watching on their TVs. [...]",
+      "title": "VMware ESXi zero-days likely exploited a year before disclosure",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/",
+      "summary": "Chinese-speaking threat actors used a compromised SonicWall VPN appliance to deliver a VMware ESXi exploit toolkit that seems to have been developed more than a year before the targeted vulnerabilities became publicly known. [...]",
+      "published": "Thu, 08 Jan 2026 16:27:19 -0500",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cisco switches hit by reboot loops due to DNS client bug",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/",
+      "summary": "Multiple Cisco switch models are suddenly experiencing reboot loops after logging fatal DNS client errors, according to reports seen by BleepingComputer. [...]",
+      "published": "Thu, 08 Jan 2026 15:40:26 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Texas court blocks Samsung from tracking TV viewing, then vacates order",
+      "link": "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/",
+      "summary": "The State of Texas obtained a short-lived, temporary restraining order (TRO) against Samsung that prohibited the South Korean company from collecting audio and visual data about what Texas consumers are watching on their TVs. [...]",
       "published": "Thu, 08 Jan 2026 11:47:24 -0500",
       "value_score": 10,
       "value_signals": []
@@ -213,105 +233,24 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "OpenAI says ChatGPT won't use your health information to train its models",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/",
-      "summary": "OpenAI is rolling out ChatGPT Health, which is a dedicated space for health conversations. Amidst privacy concerns, OpenAI said it won't use your health data. [...]",
-      "published": "Wed, 07 Jan 2026 18:28:45 -0500",
+      "source": "Dark Reading",
+      "title": "Fake AI Chrome Extensions Steal 900K Users' Data",
+      "link": "https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data",
+      "summary": "Threat actors ripped off a legitimate AI-powered Chrome extension in order to harvest ChatGPT and DeepSeek data before sending it to a C2 server.",
+      "published": "Thu, 08 Jan 2026 21:34:40 GMT",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "New GoBruteforcer attack wave targets crypto, blockchain projects",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/",
-      "summary": "A new wave of GoBruteforcer botnet malware attacks is targeting databases of cryptocurrency and blockchain projects on exposed servers believed to be configured using AI-generated examples. [...]",
-      "published": "Wed, 07 Jan 2026 18:18:14 -0500",
-      "value_score": 20,
+      "source": "Dark Reading",
+      "title": "ChatGPT's Memory Feature Supercharges Prompt Injection",
+      "link": "https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection",
+      "summary": "The \"ZombieAgent\" exploit makes use of ChatGPT's long-term memory and advanced capabilities.",
+      "published": "Thu, 08 Jan 2026 20:23:34 GMT",
+      "value_score": 16,
       "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Botnet",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
-      "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
-      "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for \"Rey,\" the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.",
-      "published": "Wed, 26 Nov 2025 17:22:36 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -374,24 +313,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Scattered Lapsus$ Hunters Snared in Cyber Researcher Honeypot",
-      "link": "https://www.darkreading.com/endpoint-security/scattered-lapsus-hunters-researcher-honeypot",
-      "summary": "Scattered Lapsus$ Hunters, also known as ShinyHunters, were drawn in using a realistic, yet mostly fake, dataset.",
-      "published": "Tue, 06 Jan 2026 20:23:34 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "ClickFix Campaign Serves Up Fake Blue Screen of Death",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death",
-      "summary": "Threat actors are using the social engineering technique and a legitimate Microsoft tool to deploy the DCRat remote access Trojan against targets in the hospitality sector.",
-      "published": "Tue, 06 Jan 2026 16:28:30 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

@@ -136,7 +136,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 268,
+      "count": 269,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -398,7 +398,7 @@
       ]
     },
     "remote code execution": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -957,7 +957,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -2040,7 +2040,7 @@
       ]
     },
     "office 365 tenants": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-08"
       ]
@@ -2052,31 +2052,31 @@
       ]
     },
     "exploit code cisco": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-08"
       ]
     },
     "concept exploit code": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-08"
       ]
     },
     "concept poc exploit": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-08"
       ]
     },
     "security problems show": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-08"
       ]
     },
     "unauthenticated bluetooth access": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-08"
       ]
@@ -2088,42 +2088,73 @@
       ]
     },
     "narrative intelligence platform": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-08"
       ]
     },
     "continuous identity protection": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-08"
       ]
     },
     "critical vulnerability patched": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-08"
       ]
     },
     "whill devices allows": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "reboot loops due": {
+      "count": 1,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "emerging threat actor": {
+      "count": 1,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "tracking tv viewing": {
+      "count": 1,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "static policy enforcement": {
+      "count": 1,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "small mistakes turn": {
+      "count": 1,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "recommended immediate actions": {
+      "count": 1,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "next wave hits": {
+      "count": 1,
       "dates": [
         "2026-01-08"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-31 14:16",
-      "articles": 56,
-      "top_keywords": [
-        "authentication bypass flaw",
-        "bypass authentication mechanisms",
-        "mass creating fake",
-        "cyber security agency",
-        "prolific cybercriminal group"
-      ]
-    },
     {
       "timestamp": "2025-12-31 16:20",
       "articles": 56,
@@ -3211,6 +3242,17 @@
         "security problems show",
         "windows operating systems",
         "unauthenticated bluetooth access"
+      ]
+    },
+    {
+      "timestamp": "2026-01-08 22:16",
+      "articles": 48,
+      "top_keywords": [
+        "reboot loops due",
+        "continuous identity protection",
+        "security problems show",
+        "twitter whistleblower complaint",
+        "narrative intelligence platform"
       ]
     }
   ]

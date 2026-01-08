@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-01-08 04:35",
+  "last_updated": "2026-01-08 06:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus hunters",
     "2025 analysis 2025",
     "cybercrime gang known",
+    "office 365 tenants",
     "ai generated code",
     "twitter whistleblower complaint",
     "run arbitrary commands",
@@ -15,58 +16,71 @@
     "exploiting routing scenarios",
     "16th anniversary today",
     "fake blue screen",
-    "cause untrusted code",
     "unauthenticated remote attacker",
     "indicators security teams",
-    "president s efforts",
-    "nation s ability",
+    "cause untrusted code",
     "cvss scoring system",
     "veeam backup replication",
-    "backup replication veeam"
+    "backup replication veeam",
+    "windows operating systems"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "2025 analysis 2025",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "cybercrime gang known",
-      "mentions": 5
-    },
-    {
-      "keyword": "ai generated code",
-      "mentions": 20
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 260
-    },
-    {
-      "keyword": "run arbitrary commands",
-      "mentions": 3
-    },
-    {
-      "keyword": "promise ease rather",
       "mentions": 6
     },
     {
+      "keyword": "office 365 tenants",
+      "mentions": 1
+    },
+    {
+      "keyword": "ai generated code",
+      "mentions": 21
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 261
+    },
+    {
+      "keyword": "run arbitrary commands",
+      "mentions": 4
+    },
+    {
+      "keyword": "promise ease rather",
+      "mentions": 7
+    },
+    {
       "keyword": "prolific cybercriminal group",
-      "mentions": 243
+      "mentions": 244
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 159
-    },
-    {
-      "keyword": "exploiting routing scenarios",
-      "mentions": 7
+      "mentions": 160
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
+      "link": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting Microsoft Office and Hewlett Packard Enterprise (HPE) OneView to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2009-0556 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office",
+      "published": "Thu, 08 Jan 2026 10:22:00 +0530",
+      "value_score": 99,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
@@ -143,21 +157,6 @@
       "value_score": 32,
       "value_signals": [
         "Phishing ×4",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
-      "link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
-      "summary": "A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0625 (CVSS score: 9.3), concerns a case of command injection in the \"dnscfg.cgi\" endpoint that arises as a result of improper sanitization of user-supplied DNS configuration parameters. \"An unauthenticated remote attacker can inject",
-      "published": "Wed, 07 Jan 2026 10:01:00 +0530",
-      "value_score": 95,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "RCE",
-        "High severity ×2",
         "Exploit wording"
       ]
     },

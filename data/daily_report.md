@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-08 04:35 UTC  
+> **Last Updated:** 2026-01-08 06:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus hunters** • **2025 analysis 2025** • **cybercrime gang known** • **ai generated code** • **twitter whistleblower complaint** • **run arbitrary commands** • **promise ease rather** • **prolific cybercriminal group** • **exploits surrounding ics** • **exploiting routing scenarios** • **16th anniversary today** • **fake blue screen** • **cause untrusted code** • **unauthenticated remote attacker** • **indicators security teams** • **president s efforts** • **nation s ability** • **cvss scoring system** • **veeam backup replication** • **backup replication veeam**
+**scattered lapsus hunters** • **2025 analysis 2025** • **cybercrime gang known** • **office 365 tenants** • **ai generated code** • **twitter whistleblower complaint** • **run arbitrary commands** • **promise ease rather** • **prolific cybercriminal group** • **exploits surrounding ics** • **exploiting routing scenarios** • **16th anniversary today** • **fake blue screen** • **unauthenticated remote attacker** • **indicators security teams** • **cause untrusted code** • **cvss scoring system** • **veeam backup replication** • **backup replication veeam** • **windows operating systems**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited](https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html)
 - [Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
 - [Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches](https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html)
 - [Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control](https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html)
@@ -23,7 +24,6 @@
 - [The Future of Cybersecurity Includes Non-Human Employees](https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html)
 - [Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication](https://thehackernews.com/2026/01/veeam-patches-critical-rce.html)
 - [Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing](https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html)
-- [Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers](https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html)
 
 ### BleepingComputer
 

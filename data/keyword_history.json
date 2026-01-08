@@ -96,7 +96,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 243,
+      "count": 244,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -124,17 +124,18 @@
       ]
     },
     "windows operating systems": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-17",
         "2025-12-18",
         "2025-12-22",
         "2025-12-23",
-        "2026-01-07"
+        "2026-01-07",
+        "2026-01-08"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 260,
+      "count": 261,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -345,7 +346,7 @@
       ]
     },
     "scattered lapsus hunters": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2025-12-18",
         "2025-12-24",
@@ -951,7 +952,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1516,7 +1517,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -1835,7 +1836,7 @@
       ]
     },
     "ai generated code": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -1843,7 +1844,7 @@
       ]
     },
     "fake blue screen": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -1906,14 +1907,14 @@
       ]
     },
     "16th anniversary today": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -1938,7 +1939,7 @@
       ]
     },
     "2025 analysis 2025": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -1957,42 +1958,42 @@
       ]
     },
     "exploiting routing scenarios": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "cause untrusted code": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "veeam backup replication": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "promise ease rather": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "cybercrime gang known": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "indicators security teams": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -2006,7 +2007,7 @@
       ]
     },
     "backup replication veeam": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -2020,7 +2021,7 @@
       ]
     },
     "run arbitrary commands": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-08"
       ]
@@ -2030,20 +2031,15 @@
       "dates": [
         "2026-01-08"
       ]
+    },
+    "office 365 tenants": {
+      "count": 1,
+      "dates": [
+        "2026-01-08"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-30 22:16",
-      "articles": 56,
-      "top_keywords": [
-        "22 million affected",
-        "mass creating fake",
-        "cyber security agency",
-        "newly discovered campaign",
-        "prolific cybercriminal group"
-      ]
-    },
     {
       "timestamp": "2025-12-31 01:18",
       "articles": 56,
@@ -3131,6 +3127,17 @@
         "cybercrime gang known",
         "ai generated code",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-08 06:27",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus hunters",
+        "2025 analysis 2025",
+        "cybercrime gang known",
+        "office 365 tenants",
+        "ai generated code"
       ]
     }
   ]

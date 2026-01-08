@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-08 08:24 UTC  
+> **Last Updated:** 2026-01-08 10:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus hunters** • **2025 analysis 2025** • **twitter whistleblower complaint** • **run arbitrary commands** • **prolific cybercriminal group** • **office 365 tenants** • **exploits surrounding ics** • **cybercrime gang known** • **16th anniversary today** • **fake blue screen** • **unauthenticated remote attacker** • **indicators security teams** • **sprawling phishing campaign** • **phishing emails appear** • **cause untrusted code** • **ai generated code** • **cvss scoring system** • **veeam backup replication** • **backup replication veeam** • **windows operating systems**
+**scattered lapsus hunters** • **2025 analysis 2025** • **cybercrime gang known** • **exploit code cisco** • **concept exploit code** • **twitter whistleblower complaint** • **run arbitrary commands** • **real life identity** • **prolific cybercriminal group** • **office 365 tenants** • **exploits surrounding ics** • **16th anniversary today** • **fake blue screen** • **unauthenticated remote attacker** • **indicators security teams** • **sprawling phishing campaign** • **phishing emails appear** • **cvss scoring system** • **cause untrusted code** • **ai generated code**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Cisco warns of Identity Service Engine flaw with exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/)
 - [CISA tags max severity HPE OneView flaw as actively exploited](https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/)
 - [OpenAI says ChatGPT won't use your health information to train its models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/)
 - [New GoBruteforcer attack wave targets crypto, blockchain projects](https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/)
@@ -34,7 +35,6 @@
 - [ChatGPT is losing market share as Google Gemini gains ground](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/)
 - [Logitech Options+, G HUB macOS apps break after certificate expires](https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/)
 - [Max severity Ni8mare flaw lets hackers hijack n8n servers](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/)
-- [Microsoft: Classic Outlook bug prevents opening encrypted emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/)
 
 ### Krebs on Security
 

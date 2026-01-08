@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-08 08:24",
+  "last_updated": "2026-01-08 10:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus hunters",
     "2025 analysis 2025",
+    "cybercrime gang known",
+    "exploit code cisco",
+    "concept exploit code",
     "twitter whistleblower complaint",
     "run arbitrary commands",
+    "real life identity",
     "prolific cybercriminal group",
     "office 365 tenants",
     "exploits surrounding ics",
-    "cybercrime gang known",
     "16th anniversary today",
     "fake blue screen",
     "unauthenticated remote attacker",
     "indicators security teams",
     "sprawling phishing campaign",
     "phishing emails appear",
-    "cause untrusted code",
-    "ai generated code",
     "cvss scoring system",
-    "veeam backup replication",
-    "backup replication veeam",
-    "windows operating systems"
+    "cause untrusted code",
+    "ai generated code"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "2025 analysis 2025",
-      "mentions": 10
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 262
-    },
-    {
-      "keyword": "run arbitrary commands",
-      "mentions": 5
-    },
-    {
-      "keyword": "prolific cybercriminal group",
-      "mentions": 245
-    },
-    {
-      "keyword": "office 365 tenants",
-      "mentions": 2
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 161
+      "mentions": 11
     },
     {
       "keyword": "cybercrime gang known",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "16th anniversary today",
-      "mentions": 9
+      "keyword": "exploit code cisco",
+      "mentions": 1
     },
     {
-      "keyword": "fake blue screen",
-      "mentions": 22
+      "keyword": "concept exploit code",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 263
+    },
+    {
+      "keyword": "run arbitrary commands",
+      "mentions": 6
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 115
+    },
+    {
+      "keyword": "prolific cybercriminal group",
+      "mentions": 246
+    },
+    {
+      "keyword": "office 365 tenants",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -159,6 +159,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cisco warns of Identity Service Engine flaw with exploit code",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/",
+      "summary": "Cisco has patched an ISE vulnerability with public proof-of-concept exploit code that can be abused by attackers with admin privileges. [...]",
+      "published": "Thu, 08 Jan 2026 04:13:17 -0500",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA tags max severity HPE OneView flaw as actively exploited",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has flagged a maximum-severity HPE OneView vulnerability as actively exploited in attacks. [...]",
@@ -225,15 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/",
       "summary": "A maximum severity vulnerability dubbed \"Ni8mare\" allows remote, unauthenticated attackers to take control over locally deployed instances of the N8N workflow automation platform. [...]",
       "published": "Wed, 07 Jan 2026 12:41:10 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Classic Outlook bug prevents opening encrypted emails",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/",
-      "summary": "Microsoft has confirmed a known issue that prevents recipients from opening encrypted emails in classic Outlook. [...]",
-      "published": "Wed, 07 Jan 2026 11:30:24 -0500",
       "value_score": 10,
       "value_signals": []
     },

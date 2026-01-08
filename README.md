@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-08 08:24 UTC |
+| 🕐 Last Updated | 2026-01-08 10:19 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus hunters` • `2025 analysis 2025` • `twitter whistleblower complaint` • `run arbitrary commands` • `prolific cybercriminal group` • `office 365 tenants` • `exploits surrounding ics` • `cybercrime gang known` • `16th anniversary today` • `fake blue screen`
+`scattered lapsus hunters` • `2025 analysis 2025` • `cybercrime gang known` • `exploit code cisco` • `concept exploit code` • `twitter whistleblower complaint` • `run arbitrary commands` • `real life identity` • `prolific cybercriminal group` • `office 365 tenants`
 
 ## 📄 Reports
 

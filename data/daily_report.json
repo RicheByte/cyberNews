@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-08 14:21",
+  "last_updated": "2026-01-08 16:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus hunters",
-    "real life identity",
+    "mass creating fake",
     "security problems show",
     "windows operating systems",
     "unauthenticated bluetooth access",
     "twitter whistleblower complaint",
+    "real life identity",
     "prolific cybercriminal group",
-    "office 365 tenants",
+    "narrative intelligence platform",
     "internet router probably",
     "exploits surrounding ics",
-    "16th anniversary today",
+    "continuous identity protection",
     "remote code execution",
     "fake blue screen",
     "concept poc exploit",
     "concept exploit code",
-    "indicators security teams",
     "unpaid toll fee",
-    "sustaining select efforts",
     "supposed wayward package",
-    "strong theme running"
+    "strong theme running",
+    "startup trends shaking"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 31
+      "mentions": 32
     },
     {
-      "keyword": "real life identity",
-      "mentions": 117
+      "keyword": "mass creating fake",
+      "mentions": 247
     },
     {
       "keyword": "security problems show",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "unauthenticated bluetooth access",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 265
+      "mentions": 266
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 118
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 248
+      "mentions": 249
     },
     {
-      "keyword": "office 365 tenants",
-      "mentions": 5
+      "keyword": "narrative intelligence platform",
+      "mentions": 1
     },
     {
       "keyword": "internet router probably",
-      "mentions": 12
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 164
+      "mentions": 13
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
+      "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
+      "summary": "A China-nexus threat actor known as UAT-7290 has been attributed to espionage-focused intrusions against entities in South Asia and Southeastern Europe. The activity cluster, which has been active since at least 2022, primarily focuses on extensive technical reconnaissance of target organizations before initiating attacks, ultimately leading to the deployment of malware families such as RushDrop",
+      "published": "Thu, 08 Jan 2026 20:24:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
@@ -147,11 +156,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
-      "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
-      "summary": "Security teams are still catching malware. The problem is what they're not catching. More attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment — scripts, remote access, browsers, and developer workflows. That shift is creating a blind spot. Join us for a deep-dive",
-      "published": "Wed, 07 Jan 2026 22:49:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Six for 2026: The cyber threats you can’t ignore",
+      "link": "https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/",
+      "summary": "Cybersecurity threats in 2026 are accelerating, driven by AI, automation, and more effective social engineering. Corelight outlines six emerging attack trends and explains how network visibility can help defenders respond faster. [...]",
+      "published": "Thu, 08 Jan 2026 10:02:12 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -229,15 +238,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ChatGPT is losing market share as Google Gemini gains ground",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/",
-      "summary": "New data suggests that ChatGPT is losing its market share to Gemini on the web. It's unclear if Gemini is also gaining ground in the mobile space. [...]",
-      "published": "Wed, 07 Jan 2026 15:58:02 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -402,6 +402,33 @@
     },
     {
       "source": "Security Week",
+      "title": "CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash",
+      "link": "https://www.securityweek.com/crowdstrike-to-buy-identity-security-firm-sgnl-for-740-million-in-cash/",
+      "summary": "The deal aims to bolster CrowdStrike's Falcon platform with \"continuous identity\" protection to secure human and AI-driven access in real-time. The post CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash appeared first on SecurityWeek .",
+      "published": "Thu, 08 Jan 2026 15:32:44 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Blackbird.AI Raises $28 Million for Narrative Intelligence Platform",
+      "link": "https://www.securityweek.com/blackbird-ai-raises-28-million-for-narrative-intelligence-platform/",
+      "summary": "The company will use the funds to enhance its AI-based narrative intelligence technology platform and accelerate go-to-market efforts. The post Blackbird.AI Raises $28 Million for Narrative Intelligence Platform appeared first on SecurityWeek .",
+      "published": "Thu, 08 Jan 2026 15:16:35 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cyera Raises $400 Million at $9 Billion Valuation",
+      "link": "https://www.securityweek.com/cyera-raises-400-million-at-9-billion-valuation/",
+      "summary": "The New York-based data security company has tripled its valuation in just one year. The post Cyera Raises $400 Million at $9 Billion Valuation appeared first on SecurityWeek .",
+      "published": "Thu, 08 Jan 2026 15:01:33 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Rethinking Security for Agentic AI",
       "link": "https://www.securityweek.com/rethinking-security-for-agentic-ai/",
       "summary": "When software can think and act on its own, security strategies must shift from static policy enforcement to real-time behavioral governance. The post Rethinking Security for Agentic AI appeared first on SecurityWeek .",
@@ -456,33 +483,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "The Loudest Voices in Security Often Have the Least to Lose",
-      "link": "https://www.securityweek.com/the-loudest-voices-in-security-often-have-the-least-to-lose/",
-      "summary": "Security advice fails when it comes from those who don’t bear the consequences and won’t be responsible for making it work. The post The Loudest Voices in Security Often Have the Least to Lose appeared first on SecurityWeek .",
-      "published": "Wed, 07 Jan 2026 15:45:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome Extensions With 900,000 Downloads Caught Stealing AI Chats",
-      "link": "https://www.securityweek.com/chrome-extensions-with-900000-downloads-caught-stealing-ai-chats/",
-      "summary": "Impersonating a legitimate extension from AITOPIA, the two malicious extensions were also exfiltrating users’ browser activity. The post Chrome Extensions With 900,000 Downloads Caught Stealing AI Chats appeared first on SecurityWeek .",
-      "published": "Wed, 07 Jan 2026 15:03:24 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Vulnerability in Totolink Range Extender Allows Device Takeover",
-      "link": "https://www.securityweek.com/vulnerability-in-totolink-range-extender-allows-device-takeover/",
-      "summary": "An error in the firmware-upload handler leads to devices starting an unauthenticated root-level Telnet service. The post Vulnerability in Totolink Range Extender Allows Device Takeover appeared first on SecurityWeek .",
-      "published": "Wed, 07 Jan 2026 13:50:36 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-08 14:21 UTC  
+> **Last Updated:** 2026-01-08 16:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus hunters** • **real life identity** • **security problems show** • **windows operating systems** • **unauthenticated bluetooth access** • **twitter whistleblower complaint** • **prolific cybercriminal group** • **office 365 tenants** • **internet router probably** • **exploits surrounding ics** • **16th anniversary today** • **remote code execution** • **fake blue screen** • **concept poc exploit** • **concept exploit code** • **indicators security teams** • **unpaid toll fee** • **sustaining select efforts** • **supposed wayward package** • **strong theme running**
+**scattered lapsus hunters** • **mass creating fake** • **security problems show** • **windows operating systems** • **unauthenticated bluetooth access** • **twitter whistleblower complaint** • **real life identity** • **prolific cybercriminal group** • **narrative intelligence platform** • **internet router probably** • **exploits surrounding ics** • **continuous identity protection** • **remote code execution** • **fake blue screen** • **concept poc exploit** • **concept exploit code** • **unpaid toll fee** • **supposed wayward package** • **strong theme running** • **startup trends shaking**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes](https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html)
 - [ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html)
 - [The State of Trusted Open Source](https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html)
 - [Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release](https://thehackernews.com/2026/01/cisco-patches-ise-security.html)
@@ -23,10 +24,10 @@
 - [Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances](https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html)
 - [OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls](https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html)
 - [CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited](https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html)
-- [Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
 
 ### BleepingComputer
 
+- [Six for 2026: The cyber threats you can’t ignore](https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/)
 - [Microsoft Exchange Online outage blocks access to mailboxes via IMAP4](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/)
 - [Microsoft to enforce MFA for Microsoft 365 admin center sign-ins](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/)
 - [Cisco warns of Identity Service Engine flaw with exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/)
@@ -34,7 +35,6 @@
 - [OpenAI says ChatGPT won't use your health information to train its models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/)
 - [New GoBruteforcer attack wave targets crypto, blockchain projects](https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/)
 - [Critical jsPDF flaw lets hackers steal secrets via generated PDFs](https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/)
-- [ChatGPT is losing market share as Google Gemini gains ground](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash](https://www.securityweek.com/crowdstrike-to-buy-identity-security-firm-sgnl-for-740-million-in-cash/)
+- [Blackbird.AI Raises $28 Million for Narrative Intelligence Platform](https://www.securityweek.com/blackbird-ai-raises-28-million-for-narrative-intelligence-platform/)
+- [Cyera Raises $400 Million at $9 Billion Valuation](https://www.securityweek.com/cyera-raises-400-million-at-9-billion-valuation/)
 - [Rethinking Security for Agentic AI](https://www.securityweek.com/rethinking-security-for-agentic-ai/)
 - [Critical Vulnerability Patched in jsPDF](https://www.securityweek.com/critical-vulnerability-patched-in-jspdf/)
 - [Critical Vulnerability Exposes n8n Instances to Takeover Attacks](https://www.securityweek.com/critical-vulnerability-exposes-n8n-instances-to-takeover-attacks/)
 - [Researchers Expose WHILL Wheelchair Safety Risks via Remote Hacking](https://www.securityweek.com/researchers-expose-whill-wheelchair-safety-risks-via-remote-hacking/)
 - [Critical HPE OneView Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-hpe-oneview-vulnerability-exploited-in-attacks/)
-- [The Loudest Voices in Security Often Have the Least to Lose](https://www.securityweek.com/the-loudest-voices-in-security-often-have-the-least-to-lose/)
-- [Chrome Extensions With 900,000 Downloads Caught Stealing AI Chats](https://www.securityweek.com/chrome-extensions-with-900000-downloads-caught-stealing-ai-chats/)
-- [Vulnerability in Totolink Range Extender Allows Device Takeover](https://www.securityweek.com/vulnerability-in-totolink-range-extender-allows-device-takeover/)
 
 ### Threatpost
 

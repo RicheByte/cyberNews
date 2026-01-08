@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-08 14:21 UTC |
+| 🕐 Last Updated | 2026-01-08 16:23 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus hunters` • `real life identity` • `security problems show` • `windows operating systems` • `unauthenticated bluetooth access` • `twitter whistleblower complaint` • `prolific cybercriminal group` • `office 365 tenants` • `internet router probably` • `exploits surrounding ics`
+`scattered lapsus hunters` • `mass creating fake` • `security problems show` • `windows operating systems` • `unauthenticated bluetooth access` • `twitter whistleblower complaint` • `real life identity` • `prolific cybercriminal group` • `narrative intelligence platform` • `internet router probably`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-08 06:27 UTC  
+> **Last Updated:** 2026-01-08 08:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus hunters** • **2025 analysis 2025** • **cybercrime gang known** • **office 365 tenants** • **ai generated code** • **twitter whistleblower complaint** • **run arbitrary commands** • **promise ease rather** • **prolific cybercriminal group** • **exploits surrounding ics** • **exploiting routing scenarios** • **16th anniversary today** • **fake blue screen** • **unauthenticated remote attacker** • **indicators security teams** • **cause untrusted code** • **cvss scoring system** • **veeam backup replication** • **backup replication veeam** • **windows operating systems**
+**scattered lapsus hunters** • **2025 analysis 2025** • **twitter whistleblower complaint** • **run arbitrary commands** • **prolific cybercriminal group** • **office 365 tenants** • **exploits surrounding ics** • **cybercrime gang known** • **16th anniversary today** • **fake blue screen** • **unauthenticated remote attacker** • **indicators security teams** • **sprawling phishing campaign** • **phishing emails appear** • **cause untrusted code** • **ai generated code** • **cvss scoring system** • **veeam backup replication** • **backup replication veeam** • **windows operating systems**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls](https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html)
 - [CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited](https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html)
 - [Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
 - [Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches](https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html)
@@ -23,10 +24,10 @@
 - [n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions](https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html)
 - [The Future of Cybersecurity Includes Non-Human Employees](https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html)
 - [Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication](https://thehackernews.com/2026/01/veeam-patches-critical-rce.html)
-- [Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing](https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html)
 
 ### BleepingComputer
 
+- [CISA tags max severity HPE OneView flaw as actively exploited](https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/)
 - [OpenAI says ChatGPT won't use your health information to train its models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/)
 - [New GoBruteforcer attack wave targets crypto, blockchain projects](https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/)
 - [Critical jsPDF flaw lets hackers steal secrets via generated PDFs](https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/)
@@ -34,7 +35,6 @@
 - [Logitech Options+, G HUB macOS apps break after certificate expires](https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/)
 - [Max severity Ni8mare flaw lets hackers hijack n8n servers](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/)
 - [Microsoft: Classic Outlook bug prevents opening encrypted emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/)
-- [In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT](https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/)
 
 ### Krebs on Security
 

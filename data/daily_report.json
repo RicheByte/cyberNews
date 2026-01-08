@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-01-08 06:27",
+  "last_updated": "2026-01-08 08:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus hunters",
     "2025 analysis 2025",
-    "cybercrime gang known",
-    "office 365 tenants",
-    "ai generated code",
     "twitter whistleblower complaint",
     "run arbitrary commands",
-    "promise ease rather",
     "prolific cybercriminal group",
+    "office 365 tenants",
     "exploits surrounding ics",
-    "exploiting routing scenarios",
+    "cybercrime gang known",
     "16th anniversary today",
     "fake blue screen",
     "unauthenticated remote attacker",
     "indicators security teams",
+    "sprawling phishing campaign",
+    "phishing emails appear",
     "cause untrusted code",
+    "ai generated code",
     "cvss scoring system",
     "veeam backup replication",
     "backup replication veeam",
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "2025 analysis 2025",
-      "mentions": 9
-    },
-    {
-      "keyword": "cybercrime gang known",
-      "mentions": 6
-    },
-    {
-      "keyword": "office 365 tenants",
-      "mentions": 1
-    },
-    {
-      "keyword": "ai generated code",
-      "mentions": 21
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 261
+      "mentions": 262
     },
     {
       "keyword": "run arbitrary commands",
-      "mentions": 4
-    },
-    {
-      "keyword": "promise ease rather",
-      "mentions": 7
+      "mentions": 5
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 244
+      "mentions": 245
+    },
+    {
+      "keyword": "office 365 tenants",
+      "mentions": 2
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 160
+      "mentions": 161
+    },
+    {
+      "keyword": "cybercrime gang known",
+      "mentions": 7
+    },
+    {
+      "keyword": "16th anniversary today",
+      "mentions": 9
+    },
+    {
+      "keyword": "fake blue screen",
+      "mentions": 22
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
+      "link": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
+      "summary": "Artificial intelligence (AI) company OpenAI on Wednesday announced the launch of ChatGPT Health, a dedicated space that allows users to have conversations with the chatbot about their health. To that end, the sandboxed experience offers users the optional ability to securely connect medical records and wellness apps, including Apple Health, Function, MyFitnessPal, Weight Watchers, AllTrails,",
+      "published": "Thu, 08 Jan 2026 12:27:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
@@ -149,14 +158,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing",
-      "link": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
-      "summary": "Threat actors engaging in phishing attacks are exploiting routing scenarios and misconfigured spoof protections to impersonate organizations' domains and distribute emails that appear as if they have been sent internally. \"Threat actors have leveraged this vector to deliver a wide variety of phishing messages related to various phishing-as-a-service (PhaaS) platforms such as Tycoon 2FA,\" the",
-      "published": "Wed, 07 Jan 2026 15:12:00 +0530",
-      "value_score": 32,
+      "source": "BleepingComputer",
+      "title": "CISA tags max severity HPE OneView flaw as actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has flagged a maximum-severity HPE OneView vulnerability as actively exploited in attacks. [...]",
+      "published": "Thu, 08 Jan 2026 02:45:25 -0500",
+      "value_score": 100,
       "value_signals": [
-        "Phishing ×4",
+        "Active exploitation ×2",
+        "CISA/KEV ×2",
         "Exploit wording"
       ]
     },
@@ -224,15 +234,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/",
       "summary": "Microsoft has confirmed a known issue that prevents recipients from opening encrypted emails in classic Outlook. [...]",
       "published": "Wed, 07 Jan 2026 11:30:24 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT",
-      "link": "https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/",
-      "summary": "Cybercriminals are increasingly using AI to lower the barrier to entry for fraud and hacking, shifting from skill-based to AI-assisted attacks known as \"vibe hacking.\" Flare examines how underground forums promote AI tools, jailbreak techniques, and so-called \"Hacking-GPT\" services that promise ease rather than technical mastery. [...]",
-      "published": "Wed, 07 Jan 2026 10:00:10 -0500",
       "value_score": 10,
       "value_signals": []
     },

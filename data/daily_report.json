@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-01-08 12:36",
+  "last_updated": "2026-01-08 14:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus hunters",
-    "cybercrime gang known",
     "real life identity",
-    "veeam backup replication",
+    "security problems show",
+    "windows operating systems",
+    "unauthenticated bluetooth access",
     "twitter whistleblower complaint",
     "prolific cybercriminal group",
     "office 365 tenants",
+    "internet router probably",
     "exploits surrounding ics",
     "16th anniversary today",
-    "concept poc exploit",
-    "concept exploit code",
     "remote code execution",
     "fake blue screen",
-    "sprawling phishing campaign",
-    "phishing emails appear",
+    "concept poc exploit",
+    "concept exploit code",
     "indicators security teams",
-    "2025 analysis 2025",
-    "windows operating systems",
     "unpaid toll fee",
-    "sustaining select efforts"
+    "sustaining select efforts",
+    "supposed wayward package",
+    "strong theme running"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 30
-    },
-    {
-      "keyword": "cybercrime gang known",
-      "mentions": 9
+      "mentions": 31
     },
     {
       "keyword": "real life identity",
-      "mentions": 116
+      "mentions": 117
     },
     {
-      "keyword": "veeam backup replication",
-      "mentions": 9
+      "keyword": "security problems show",
+      "mentions": 1
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 24
+    },
+    {
+      "keyword": "unauthenticated bluetooth access",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 264
+      "mentions": 265
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 247
+      "mentions": 248
     },
     {
       "keyword": "office 365 tenants",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "internet router probably",
+      "mentions": 12
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 163
-    },
-    {
-      "keyword": "16th anniversary today",
-      "mentions": 11
-    },
-    {
-      "keyword": "concept poc exploit",
-      "mentions": 1
+      "mentions": 164
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
+      "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere. This week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in. Read on to catch up before the next wave hits. Honeypot Traps Hackers Hackers Fall for",
+      "published": "Thu, 08 Jan 2026 18:19:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "The State of Trusted Open Source",
@@ -145,14 +156,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches",
-      "link": "https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html",
-      "summary": "A cybercrime gang known as Black Cat has been attributed to a search engine optimization (SEO) poisoning campaign that employs fraudulent sites advertising popular software to trick users into downloading a backdoor capable of stealing sensitive data. According to a report published by the National Computer Network Emergency Response Technical Team/Coordination Center of China (CNCERT/CC) and",
-      "published": "Wed, 07 Jan 2026 22:39:00 +0530",
-      "value_score": 22,
+      "source": "BleepingComputer",
+      "title": "Microsoft Exchange Online outage blocks access to mailboxes via IMAP4",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/",
+      "summary": "Microsoft is working to fix an Exchange Online service outage that intermittently prevents users from accessing their mailboxes via the Internet Mailbox Access Protocol 4 (IMAP4). [...]",
+      "published": "Thu, 08 Jan 2026 07:45:35 -0500",
+      "value_score": 18,
       "value_signals": [
-        "Backdoor"
+        "Patch/update"
       ]
     },
     {
@@ -225,15 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/",
       "summary": "New data suggests that ChatGPT is losing its market share to Gemini on the web. It's unclear if Gemini is also gaining ground in the mobile space. [...]",
       "published": "Wed, 07 Jan 2026 15:58:02 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Logitech Options+, G HUB macOS apps break after certificate expires",
-      "link": "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/",
-      "summary": "Logitech's Options+ and G Hub apps on macOS stopped working after their code-signing certificate expired, leaving users unable to launch them on Apple systems. [...]",
-      "published": "Wed, 07 Jan 2026 13:05:42 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -400,6 +402,50 @@
     },
     {
       "source": "Security Week",
+      "title": "Rethinking Security for Agentic AI",
+      "link": "https://www.securityweek.com/rethinking-security-for-agentic-ai/",
+      "summary": "When software can think and act on its own, security strategies must shift from static policy enforcement to real-time behavioral governance. The post Rethinking Security for Agentic AI appeared first on SecurityWeek .",
+      "published": "Thu, 08 Jan 2026 14:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Vulnerability Patched in jsPDF",
+      "link": "https://www.securityweek.com/critical-vulnerability-patched-in-jspdf/",
+      "summary": "The bug can allow attackers to read arbitrary files from the system, potentially exposing configurations and credentials. The post Critical Vulnerability Patched in jsPDF appeared first on SecurityWeek .",
+      "published": "Thu, 08 Jan 2026 13:17:35 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Vulnerability Exposes n8n Instances to Takeover Attacks",
+      "link": "https://www.securityweek.com/critical-vulnerability-exposes-n8n-instances-to-takeover-attacks/",
+      "summary": "Tracked as CVE-2026-21858 (CVSS score 10), the bug enables remote code execution without authentication. The post Critical Vulnerability Exposes n8n Instances to Takeover Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 08 Jan 2026 13:11:37 +0000",
+      "value_score": 64,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Researchers Expose WHILL Wheelchair Safety Risks via Remote Hacking",
+      "link": "https://www.securityweek.com/researchers-expose-whill-wheelchair-safety-risks-via-remote-hacking/",
+      "summary": "CISA advisory warns that unauthenticated Bluetooth access in WHILL devices allows for unauthorized movement. The post Researchers Expose WHILL Wheelchair Safety Risks via Remote Hacking appeared first on SecurityWeek .",
+      "published": "Thu, 08 Jan 2026 12:41:07 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "CISA/KEV"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Critical HPE OneView Vulnerability Exploited in Attacks",
       "link": "https://www.securityweek.com/critical-hpe-oneview-vulnerability-exploited-in-attacks/",
       "summary": "The maximum-severity code injection flaw can be exploited without authentication for remote code execution. The post Critical HPE OneView Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
@@ -437,51 +483,6 @@
       "published": "Wed, 07 Jan 2026 13:50:36 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Several Code Execution Flaws Patched in Veeam Backup & Replication",
-      "link": "https://www.securityweek.com/several-code-execution-flaws-patched-in-veeam-backup-replication/",
-      "summary": "Four vulnerabilities have been fixed in the latest release of Veeam Backup & Replication. The post Several Code Execution Flaws Patched in Veeam Backup & Replication appeared first on SecurityWeek .",
-      "published": "Wed, 07 Jan 2026 13:27:11 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cybersecurity Firms Secured $14 Billion in Funding in 2025: Analysis",
-      "link": "https://www.securityweek.com/cybersecurity-firms-secured-14-billion-in-funding-in-2025/",
-      "summary": "2025 was the strongest year for cybersecurity funding since the 2021 peak, according to Pinpoint Search Group. The post Cybersecurity Firms Secured $14 Billion in Funding in 2025: Analysis appeared first on SecurityWeek .",
-      "published": "Wed, 07 Jan 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Exploit Zero-Day in Discontinued D-Link Devices",
-      "link": "https://www.securityweek.com/hackers-exploit-zero-day-in-discontinued-d-link-devices/",
-      "summary": "The critical-severity vulnerability allows unauthenticated, remote attackers to execute arbitrary shell commands. The post Hackers Exploit Zero-Day in Discontinued D-Link Devices appeared first on SecurityWeek .",
-      "published": "Wed, 07 Jan 2026 12:33:11 +0000",
-      "value_score": 74,
-      "value_signals": [
-        "Zero-day ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Complex Routing, Misconfigurations Exploited for Domain Spoofing in Phishing Attacks",
-      "link": "https://www.securityweek.com/complex-routing-misconfigurations-exploited-for-domain-spoofing-in-phishing-attacks/",
-      "summary": "Threat actors spoof legitimate domains to make their phishing emails appear to have been sent internally. The post Complex Routing, Misconfigurations Exploited for Domain Spoofing in Phishing Attacks appeared first on SecurityWeek .",
-      "published": "Wed, 07 Jan 2026 11:29:23 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "Phishing ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

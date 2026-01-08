@@ -96,7 +96,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 247,
+      "count": 248,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -124,7 +124,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -135,7 +135,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 264,
+      "count": 265,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -163,7 +163,7 @@
       ]
     },
     "supposed wayward package": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -173,7 +173,8 @@
         "2026-01-02",
         "2026-01-03",
         "2026-01-06",
-        "2026-01-07"
+        "2026-01-07",
+        "2026-01-08"
       ]
     },
     "life events neurodiversity": {
@@ -190,7 +191,7 @@
       ]
     },
     "real life identity": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -271,7 +272,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -348,7 +349,7 @@
       ]
     },
     "scattered lapsus hunters": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2025-12-18",
         "2025-12-24",
@@ -396,7 +397,7 @@
       ]
     },
     "remote code execution": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -929,7 +930,7 @@
       ]
     },
     "sustaining select efforts": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -955,7 +956,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 163,
+      "count": 164,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1709,10 +1710,11 @@
       ]
     },
     "internet router probably": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-05",
-        "2026-01-06"
+        "2026-01-06",
+        "2026-01-08"
       ]
     },
     "cryptomining botnet payloads": {
@@ -1848,7 +1850,7 @@
       ]
     },
     "fake blue screen": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -1911,7 +1913,7 @@
       ]
     },
     "16th anniversary today": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -1997,7 +1999,7 @@
       ]
     },
     "indicators security teams": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -2037,7 +2039,7 @@
       ]
     },
     "office 365 tenants": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-08"
       ]
@@ -2055,12 +2057,30 @@
       ]
     },
     "concept exploit code": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-08"
       ]
     },
     "concept poc exploit": {
+      "count": 2,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "security problems show": {
+      "count": 1,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "unauthenticated bluetooth access": {
+      "count": 1,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "strong theme running": {
       "count": 1,
       "dates": [
         "2026-01-08"
@@ -2068,17 +2088,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-31 06:27",
-      "articles": 56,
-      "top_keywords": [
-        "22 million affected",
-        "mass creating fake",
-        "cyber security agency",
-        "newly discovered campaign",
-        "prolific cybercriminal group"
-      ]
-    },
     {
       "timestamp": "2025-12-31 08:23",
       "articles": 56,
@@ -3166,6 +3175,17 @@
         "real life identity",
         "veeam backup replication",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-08 14:21",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus hunters",
+        "real life identity",
+        "security problems show",
+        "windows operating systems",
+        "unauthenticated bluetooth access"
       ]
     }
   ]

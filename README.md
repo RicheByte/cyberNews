@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-08 12:36 UTC |
+| 🕐 Last Updated | 2026-01-08 14:21 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus hunters` • `cybercrime gang known` • `real life identity` • `veeam backup replication` • `twitter whistleblower complaint` • `prolific cybercriminal group` • `office 365 tenants` • `exploits surrounding ics` • `16th anniversary today` • `concept poc exploit`
+`scattered lapsus hunters` • `real life identity` • `security problems show` • `windows operating systems` • `unauthenticated bluetooth access` • `twitter whistleblower complaint` • `prolific cybercriminal group` • `office 365 tenants` • `internet router probably` • `exploits surrounding ics`
 
 ## 📄 Reports
 

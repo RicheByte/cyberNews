@@ -134,7 +134,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 258,
+      "count": 259,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -925,14 +925,15 @@
       ]
     },
     "sustaining select efforts": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2025-12-23",
         "2025-12-24",
         "2025-12-25",
         "2026-01-02",
         "2026-01-03",
-        "2026-01-07"
+        "2026-01-07",
+        "2026-01-08"
       ]
     },
     "browser add ons": {
@@ -950,7 +951,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1515,7 +1516,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -1834,7 +1835,7 @@
       ]
     },
     "ai generated code": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -1842,7 +1843,7 @@
       ]
     },
     "fake blue screen": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -1864,10 +1865,11 @@
       ]
     },
     "startup trends shaking": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-06",
-        "2026-01-07"
+        "2026-01-07",
+        "2026-01-08"
       ]
     },
     "clickfix campaign serves": {
@@ -1911,7 +1913,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -1936,7 +1938,7 @@
       ]
     },
     "2025 analysis 2025": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -1955,67 +1957,75 @@
       ]
     },
     "exploiting routing scenarios": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "cause untrusted code": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "veeam backup replication": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "promise ease rather": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "cybercrime gang known": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "indicators security teams": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "already exist inside": {
-      "count": 1,
-      "dates": [
-        "2026-01-07"
-      ]
-    },
-    "backup replication veeam": {
       "count": 2,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
-    "social engineering technique": {
-      "count": 1,
+    "backup replication veeam": {
+      "count": 3,
       "dates": [
-        "2026-01-07"
+        "2026-01-07",
+        "2026-01-08"
+      ]
+    },
+    "social engineering technique": {
+      "count": 2,
+      "dates": [
+        "2026-01-07",
+        "2026-01-08"
       ]
     },
     "run arbitrary commands": {
+      "count": 2,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "pinpoint search group": {
       "count": 1,
       "dates": [
         "2026-01-08"
@@ -2023,17 +2033,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-30 18:25",
-      "articles": 56,
-      "top_keywords": [
-        "mass creating fake",
-        "22 million affected",
-        "cyber security agency",
-        "newly discovered campaign",
-        "prolific cybercriminal group"
-      ]
-    },
     {
       "timestamp": "2025-12-30 20:18",
       "articles": 56,
@@ -3121,6 +3120,17 @@
         "cybercrime gang known",
         "ai generated code",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-08 03:25",
+      "articles": 48,
+      "top_keywords": [
+        "2025 analysis 2025",
+        "twitter whistleblower complaint",
+        "run arbitrary commands",
+        "fake blue screen",
+        "exploits surrounding ics"
       ]
     }
   ]

@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-08 01:19 UTC  
+> **Last Updated:** 2026-01-08 03:25 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus hunters** • **2025 analysis 2025** • **cybercrime gang known** • **ai generated code** • **twitter whistleblower complaint** • **run arbitrary commands** • **promise ease rather** • **prolific cybercriminal group** • **exploits surrounding ics** • **exploiting routing scenarios** • **16th anniversary today** • **fake blue screen** • **cause untrusted code** • **unauthenticated remote attacker** • **indicators security teams** • **president s efforts** • **nation s ability** • **cvss scoring system** • **veeam backup replication** • **backup replication veeam**
+**2025 analysis 2025** • **twitter whistleblower complaint** • **run arbitrary commands** • **fake blue screen** • **exploits surrounding ics** • **exploiting routing scenarios** • **already exist inside** • **cause untrusted code** • **unauthenticated remote attacker** • **cybercrime gang known** • **indicators security teams** • **ai generated code** • **cvss scoring system** • **veeam backup replication** • **backup replication veeam** • **sustaining select efforts** • **startup trends shaking** • **social engineering technique** • **promise ease rather** • **pinpoint search group**
 
 ---
 
@@ -35,17 +35,6 @@
 - [Max severity Ni8mare flaw lets hackers hijack n8n servers](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/)
 - [Microsoft: Classic Outlook bug prevents opening encrypted emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/)
 - [In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT](https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/)
-
-### Krebs on Security
-
-- [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
-- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
-- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
-- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
-- [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/)
 
 ### Dark Reading
 

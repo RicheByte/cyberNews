@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-07 22:16 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-01-08 01:19 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`2025 analysis 2025` • `address multiple flaws` • `twitter whistleblower complaint` • `fintech company stepped` • `fake blue screen` • `exploits surrounding ics` • `exploiting routing scenarios` • `already exist inside` • `cause untrusted code` • `ai generated code`
+`scattered lapsus hunters` • `2025 analysis 2025` • `cybercrime gang known` • `ai generated code` • `twitter whistleblower complaint` • `run arbitrary commands` • `promise ease rather` • `prolific cybercriminal group` • `exploits surrounding ics` • `exploiting routing scenarios`
 
 ## 📄 Reports
 

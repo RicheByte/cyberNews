@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-08 10:19 UTC  
+> **Last Updated:** 2026-01-08 12:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus hunters** • **2025 analysis 2025** • **cybercrime gang known** • **exploit code cisco** • **concept exploit code** • **twitter whistleblower complaint** • **run arbitrary commands** • **real life identity** • **prolific cybercriminal group** • **office 365 tenants** • **exploits surrounding ics** • **16th anniversary today** • **fake blue screen** • **unauthenticated remote attacker** • **indicators security teams** • **sprawling phishing campaign** • **phishing emails appear** • **cvss scoring system** • **cause untrusted code** • **ai generated code**
+**scattered lapsus hunters** • **cybercrime gang known** • **real life identity** • **veeam backup replication** • **twitter whistleblower complaint** • **prolific cybercriminal group** • **office 365 tenants** • **exploits surrounding ics** • **16th anniversary today** • **concept poc exploit** • **concept exploit code** • **remote code execution** • **fake blue screen** • **sprawling phishing campaign** • **phishing emails appear** • **indicators security teams** • **2025 analysis 2025** • **windows operating systems** • **unpaid toll fee** • **sustaining select efforts**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [The State of Trusted Open Source](https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html)
+- [Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release](https://thehackernews.com/2026/01/cisco-patches-ise-security.html)
+- [Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages](https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html)
+- [Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances](https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html)
 - [OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls](https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html)
 - [CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited](https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html)
 - [Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)
 - [Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches](https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html)
-- [Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control](https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html)
-- [n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions](https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html)
-- [The Future of Cybersecurity Includes Non-Human Employees](https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html)
-- [Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication](https://thehackernews.com/2026/01/veeam-patches-critical-rce.html)
 
 ### BleepingComputer
 
+- [Microsoft to enforce MFA for Microsoft 365 admin center sign-ins](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/)
 - [Cisco warns of Identity Service Engine flaw with exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/)
 - [CISA tags max severity HPE OneView flaw as actively exploited](https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/)
 - [OpenAI says ChatGPT won't use your health information to train its models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/)
@@ -34,7 +35,6 @@
 - [Critical jsPDF flaw lets hackers steal secrets via generated PDFs](https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/)
 - [ChatGPT is losing market share as Google Gemini gains ground](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/)
 - [Logitech Options+, G HUB macOS apps break after certificate expires](https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/)
-- [Max severity Ni8mare flaw lets hackers hijack n8n servers](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Critical HPE OneView Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-hpe-oneview-vulnerability-exploited-in-attacks/)
 - [The Loudest Voices in Security Often Have the Least to Lose](https://www.securityweek.com/the-loudest-voices-in-security-often-have-the-least-to-lose/)
 - [Chrome Extensions With 900,000 Downloads Caught Stealing AI Chats](https://www.securityweek.com/chrome-extensions-with-900000-downloads-caught-stealing-ai-chats/)
 - [Vulnerability in Totolink Range Extender Allows Device Takeover](https://www.securityweek.com/vulnerability-in-totolink-range-extender-allows-device-takeover/)
@@ -67,7 +68,6 @@
 - [Cybersecurity Firms Secured $14 Billion in Funding in 2025: Analysis](https://www.securityweek.com/cybersecurity-firms-secured-14-billion-in-funding-in-2025/)
 - [Hackers Exploit Zero-Day in Discontinued D-Link Devices](https://www.securityweek.com/hackers-exploit-zero-day-in-discontinued-d-link-devices/)
 - [Complex Routing, Misconfigurations Exploited for Domain Spoofing in Phishing Attacks](https://www.securityweek.com/complex-routing-misconfigurations-exploited-for-domain-spoofing-in-phishing-attacks/)
-- [Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking](https://www.securityweek.com/hacker-conversations-katie-paxton-fear-talks-autism-morality-and-hacking/)
 
 ### Threatpost
 

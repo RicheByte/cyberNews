@@ -96,7 +96,7 @@
       ]
     },
     "prolific cybercriminal group": {
-      "count": 246,
+      "count": 247,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -124,7 +124,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -135,7 +135,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 263,
+      "count": 264,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -190,7 +190,7 @@
       ]
     },
     "real life identity": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -271,7 +271,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -287,7 +287,8 @@
         "2026-01-02",
         "2026-01-03",
         "2026-01-04",
-        "2026-01-05"
+        "2026-01-05",
+        "2026-01-08"
       ]
     },
     "campaign dubbed ghostpairing": {
@@ -347,7 +348,7 @@
       ]
     },
     "scattered lapsus hunters": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2025-12-18",
         "2025-12-24",
@@ -395,10 +396,11 @@
       ]
     },
     "remote code execution": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2025-12-18",
-        "2025-12-19"
+        "2025-12-19",
+        "2026-01-08"
       ]
     },
     "attacker remotely control": {
@@ -927,7 +929,7 @@
       ]
     },
     "sustaining select efforts": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -953,7 +955,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1265,7 +1267,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1846,7 +1848,7 @@
       ]
     },
     "fake blue screen": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -1909,7 +1911,7 @@
       ]
     },
     "16th anniversary today": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -1941,7 +1943,7 @@
       ]
     },
     "2025 analysis 2025": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -1974,7 +1976,7 @@
       ]
     },
     "veeam backup replication": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -1988,14 +1990,14 @@
       ]
     },
     "cybercrime gang known": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-07",
         "2026-01-08"
       ]
     },
     "indicators security teams": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-07",
         "2026-01-08"
@@ -2035,13 +2037,13 @@
       ]
     },
     "office 365 tenants": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-08"
       ]
     },
     "phishing emails appear": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-08"
       ]
@@ -2053,6 +2055,12 @@
       ]
     },
     "concept exploit code": {
+      "count": 2,
+      "dates": [
+        "2026-01-08"
+      ]
+    },
+    "concept poc exploit": {
       "count": 1,
       "dates": [
         "2026-01-08"
@@ -2060,17 +2068,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-31 04:35",
-      "articles": 56,
-      "top_keywords": [
-        "22 million affected",
-        "mass creating fake",
-        "cyber security agency",
-        "newly discovered campaign",
-        "prolific cybercriminal group"
-      ]
-    },
     {
       "timestamp": "2025-12-31 06:27",
       "articles": 56,
@@ -3158,6 +3155,17 @@
         "cybercrime gang known",
         "exploit code cisco",
         "concept exploit code"
+      ]
+    },
+    {
+      "timestamp": "2026-01-08 12:36",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus hunters",
+        "cybercrime gang known",
+        "real life identity",
+        "veeam backup replication",
+        "twitter whistleblower complaint"
       ]
     }
   ]

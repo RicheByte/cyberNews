@@ -1,72 +1,117 @@
 {
-  "last_updated": "2026-01-08 10:19",
+  "last_updated": "2026-01-08 12:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus hunters",
-    "2025 analysis 2025",
     "cybercrime gang known",
-    "exploit code cisco",
-    "concept exploit code",
-    "twitter whistleblower complaint",
-    "run arbitrary commands",
     "real life identity",
+    "veeam backup replication",
+    "twitter whistleblower complaint",
     "prolific cybercriminal group",
     "office 365 tenants",
     "exploits surrounding ics",
     "16th anniversary today",
+    "concept poc exploit",
+    "concept exploit code",
+    "remote code execution",
     "fake blue screen",
-    "unauthenticated remote attacker",
-    "indicators security teams",
     "sprawling phishing campaign",
     "phishing emails appear",
-    "cvss scoring system",
-    "cause untrusted code",
-    "ai generated code"
+    "indicators security teams",
+    "2025 analysis 2025",
+    "windows operating systems",
+    "unpaid toll fee",
+    "sustaining select efforts"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 29
-    },
-    {
-      "keyword": "2025 analysis 2025",
-      "mentions": 11
+      "mentions": 30
     },
     {
       "keyword": "cybercrime gang known",
-      "mentions": 8
-    },
-    {
-      "keyword": "exploit code cisco",
-      "mentions": 1
-    },
-    {
-      "keyword": "concept exploit code",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 263
-    },
-    {
-      "keyword": "run arbitrary commands",
-      "mentions": 6
+      "mentions": 9
     },
     {
       "keyword": "real life identity",
-      "mentions": 115
+      "mentions": 116
+    },
+    {
+      "keyword": "veeam backup replication",
+      "mentions": 9
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 264
     },
     {
       "keyword": "prolific cybercriminal group",
-      "mentions": 246
+      "mentions": 247
     },
     {
       "keyword": "office 365 tenants",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 163
+    },
+    {
+      "keyword": "16th anniversary today",
+      "mentions": 11
+    },
+    {
+      "keyword": "concept poc exploit",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "The State of Trusted Open Source",
+      "link": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
+      "summary": "Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they run into risk and operational burdens. Across a growing customer base and an extensive catalog of over 1800 container image projects, 148,000 versions, 290,000 images, and 100,000 language libraries, and almost half a billion builds, they can see",
+      "published": "Thu, 08 Jan 2026 17:20:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
+      "link": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
+      "summary": "Cisco has released updates to address a medium-severity security flaw in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) with a public proof-of-concept (PoC) exploit. The vulnerability, tracked as CVE-2026-20029 (CVSS score: 4.9), resides in the licensing feature and could allow an authenticated, remote attacker with administrative privileges to gain access to",
+      "published": "Thu, 08 Jan 2026 16:14:00 +0530",
+      "value_score": 54,
+      "value_signals": [
+        "CVE mentioned",
+        "PoC available ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages",
+      "link": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
+      "summary": "Cybersecurity researchers have discovered three malicious npm packages that are designed to deliver a previously undocumented malware called NodeCordRAT. The names of the packages, all of which were taken down as of November 2025, are listed below. They were uploaded by a user named \"wenmoonx.\" bitcoin-main-lib (2,300 Downloads) bitcoin-lib-js (193 Downloads) bip40 (970 Downloads) \"The",
+      "published": "Thu, 08 Jan 2026 16:01:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances",
+      "link": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
+      "summary": "Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication bypass and remote code execution. The list of vulnerabilities is as follows - CVE-2025-66209 (CVSS score: 10.0) - A command injection vulnerability in the database backup functionality allows any authenticated",
+      "published": "Thu, 08 Jan 2026 15:23:00 +0530",
+      "value_score": 79,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Auth bypass",
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
@@ -111,51 +156,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
-      "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html",
-      "summary": "Cybersecurity researchers have disclosed details of yet another maximum-severity security flaw in n8n, a popular workflow automation platform, that allows an unauthenticated remote attacker to gain complete control over susceptible instances. The vulnerability, tracked as CVE-2026-21858 (CVSS score: 10.0), has been codenamed Ni8mare by Cyera Research Labs. Security researcher Dor Attias has been",
-      "published": "Wed, 07 Jan 2026 19:18:00 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
-      "link": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
-      "summary": "Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authenticated remote code execution (RCE). The vulnerability, which has been assigned the CVE identifier CVE-2026-21877, is rated 10.0 on the CVSS scoring system. \"Under certain conditions, an authenticated user may be able to cause untrusted code to be",
-      "published": "Wed, 07 Jan 2026 16:56:00 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Future of Cybersecurity Includes Non-Human Employees",
-      "link": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
-      "summary": "Non-human employees are becoming the future of cybersecurity, and enterprises need to prepare accordingly. As organizations scale Artificial Intelligence (AI) and cloud automation, there is exponential growth in Non-Human Identities (NHIs), including bots, AI agents, service accounts and automation scripts. In fact, 51% of respondents in ConductorOne’s 2025 Future of Identity Security Report",
-      "published": "Wed, 07 Jan 2026 16:30:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft to enforce MFA for Microsoft 365 admin center sign-ins",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/",
+      "summary": "Microsoft will start enforcing multi-factor authentication (MFA) for all users accessing the Microsoft 365 admin center starting next month. [...]",
+      "published": "Thu, 08 Jan 2026 07:10:34 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication",
-      "link": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html",
-      "summary": "Veeam has released security updates to address multiple flaws in its Backup & Replication software, including a \"critical\" issue that could result in remote code execution (RCE). The vulnerability, tracked as CVE-2025-59470, carries a CVSS score of 9.0. \"This vulnerability allows a Backup or Tape Operator to perform remote code execution (RCE) as the postgres user by sending a malicious",
-      "published": "Wed, 07 Jan 2026 16:11:00 +0530",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×5",
-        "High severity ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -227,15 +234,6 @@
       "link": "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/",
       "summary": "Logitech's Options+ and G Hub apps on macOS stopped working after their code-signing certificate expired, leaving users unable to launch them on Apple systems. [...]",
       "published": "Wed, 07 Jan 2026 13:05:42 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Max severity Ni8mare flaw lets hackers hijack n8n servers",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/",
-      "summary": "A maximum severity vulnerability dubbed \"Ni8mare\" allows remote, unauthenticated attackers to take control over locally deployed instances of the N8N workflow automation platform. [...]",
-      "published": "Wed, 07 Jan 2026 12:41:10 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -402,6 +400,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical HPE OneView Vulnerability Exploited in Attacks",
+      "link": "https://www.securityweek.com/critical-hpe-oneview-vulnerability-exploited-in-attacks/",
+      "summary": "The maximum-severity code injection flaw can be exploited without authentication for remote code execution. The post Critical HPE OneView Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 08 Jan 2026 11:09:03 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "The Loudest Voices in Security Often Have the Least to Lose",
       "link": "https://www.securityweek.com/the-loudest-voices-in-security-often-have-the-least-to-lose/",
       "summary": "Security advice fails when it comes from those who don’t bear the consequences and won’t be responsible for making it work. The post The Loudest Voices in Security Often Have the Least to Lose appeared first on SecurityWeek .",
@@ -471,15 +482,6 @@
         "Phishing ×3",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking",
-      "link": "https://www.securityweek.com/hacker-conversations-katie-paxton-fear-talks-autism-morality-and-hacking/",
-      "summary": "From dismantling online games as a child to uncovering real-world vulnerabilities, Katie Paxton-Fear explains how autism, curiosity, and a rejection of ambiguity shaped her path into ethical hacking. The post Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking appeared first on SecurityWeek .",
-      "published": "Tue, 06 Jan 2026 15:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

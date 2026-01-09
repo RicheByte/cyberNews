@@ -1,12 +1,10 @@
 {
-  "last_updated": "2026-01-09 14:19",
+  "last_updated": "2026-01-09 16:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "377 000 impacted",
     "arbitrary code execution",
-    "ai driven access",
-    "narrative intelligence platform",
     "malicious cyber actors",
     "security problems show",
     "twitter whistleblower complaint",
@@ -16,9 +14,11 @@
     "cve 2025 37164",
     "130 companies tangled",
     "critical security flaw",
-    "fast attackers change",
     "execute arbitrary code",
+    "nuclear research agency",
     "internal network behind",
+    "material security explains",
+    "2026 cybersecurity predictions",
     "yet many strategies",
     "windows operating systems",
     "upcoming webinar hosted",
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "377 000 impacted",
-      "mentions": 2
-    },
-    {
-      "keyword": "arbitrary code execution",
       "mentions": 3
     },
     {
-      "keyword": "ai driven access",
-      "mentions": 2
-    },
-    {
-      "keyword": "narrative intelligence platform",
-      "mentions": 12
+      "keyword": "arbitrary code execution",
+      "mentions": 4
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 140
+      "mentions": 141
     },
     {
       "keyword": "security problems show",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 277
+      "mentions": 278
     },
     {
       "keyword": "nearly 600 women",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "internet router probably",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 176
+      "mentions": 177
+    },
+    {
+      "keyword": "cve 2025 37164",
+      "mentions": 5
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
+      "link": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
+      "summary": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan. The activity has been attributed to APT28 (aka BlueDelta), which was attributed to a \"sustained\"",
+      "published": "Fri, 09 Jan 2026 20:58:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
@@ -142,13 +151,26 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The State of Trusted Open Source",
-      "link": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
-      "summary": "Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they run into risk and operational burdens. Across a growing customer base and an extensive catalog of over 1800 container image projects, 148,000 versions, 290,000 images, and 100,000 language libraries, and almost half a billion builds, they can see",
-      "published": "Thu, 08 Jan 2026 17:20:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Illinois Department of Human Services data breach affects 700K people",
+      "link": "https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/",
+      "summary": "The Illinois Department of Human Services (IDHS), one of Illinois' largest state agencies, accidentally exposed the personal and health data of nearly 700,000 residents due to incorrect privacy settings. [...]",
+      "published": "Fri, 09 Jan 2026 10:37:41 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Email security needs more seatbelts: Why click rate is the wrong metric",
+      "link": "https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/",
+      "summary": "Click rate misses the real email security risk: what attackers can do after they access a mailbox. Material Security explains why containment and post-compromise impact matter more than phishing metrics. [...]",
+      "published": "Fri, 09 Jan 2026 10:01:11 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -213,26 +235,6 @@
       "published": "Thu, 08 Jan 2026 17:57:05 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "xAI teases major Grok upgrade, hints at Grok Code CLI",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/",
-      "summary": "Elon Musk-backed xAI has been missing in action for a while now, but today, Musk teased a major upgrade for Grok alongside new products. [...]",
-      "published": "Thu, 08 Jan 2026 17:43:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "VMware ESXi zero-days likely exploited a year before disclosure",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/",
-      "summary": "Chinese-speaking threat actors used a compromised SonicWall VPN appliance to deliver a VMware ESXi exploit toolkit that seems to have been developed more than a year before the targeted vulnerabilities became publicly known. [...]",
-      "published": "Thu, 08 Jan 2026 16:27:19 -0500",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -319,9 +321,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Notorious Russian APT Nabs Credentials From Global Targets",
+      "title": "Russia’s Fancy Bear APT Doubles Down on Global Secrets Theft",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets",
-      "summary": "\"Fancy Bear\" relies on basic techniques that are highly effective, often delivering greater ROI than more complex malware-heavy operations.",
+      "summary": "The notorious Russian state-sponsored group relies on basic techniques that are highly effective, often delivering greater ROI than more complex malware-heavy operations.",
       "published": "Fri, 09 Jan 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -406,6 +408,38 @@
     },
     {
       "source": "Security Week",
+      "title": "In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k",
+      "link": "https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Jaguar Land Rover sales crash, hundreds of gen-AI data policy violations, and Chinese cyberattacks against Taiwan intensified. The post In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k appeared first on SecurityWeek .",
+      "published": "Fri, 09 Jan 2026 15:58:37 +0000",
+      "value_score": 70,
+      "value_signals": [
+        "Ransomware ×2",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Tim Kosiba Named NSA Deputy Director",
+      "link": "https://www.securityweek.com/tim-kosiba-named-nsa-deputy-director/",
+      "summary": "Kosiba, a veteran of the Intelligence Community with over 30 years of federal service, returns to the agency as its most senior civilian leader. The post Tim Kosiba Named NSA Deputy Director appeared first on SecurityWeek .",
+      "published": "Fri, 09 Jan 2026 15:18:50 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "FBI: North Korean Spear-Phishing Attacks Use Malicious QR Codes",
+      "link": "https://www.securityweek.com/fbi-north-korean-spear-phishing-attacks-use-malicious-qr-codes/",
+      "summary": "The North Korean state-sponsored espionage group Kimsuky has targeted government organizations, think tanks, and academic institutions. The post FBI: North Korean Spear-Phishing Attacks Use Malicious QR Codes appeared first on SecurityWeek .",
+      "published": "Fri, 09 Jan 2026 14:56:09 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Trend Micro Patches Critical Code Execution Flaw in Apex Central",
       "link": "https://www.securityweek.com/trend-micro-patches-critical-code-execution-flaw-in-apex-central/",
       "summary": "Tenable has released PoC code and technical details after the vendor announced the availability of patches for three vulnerabilities. The post Trend Micro Patches Critical Code Execution Flaw in Apex Central appeared first on SecurityWeek .",
@@ -459,33 +493,6 @@
         "Zero-day ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "UK Government Unveils New Cyber Action Plan",
-      "link": "https://www.securityweek.com/uk-government-unveils-new-cyber-action-plan/",
-      "summary": "The UK government’s cyber action plan is by the government for the government, and has no advice for the private sector nor CNI. The post UK Government Unveils New Cyber Action Plan appeared first on SecurityWeek .",
-      "published": "Thu, 08 Jan 2026 16:33:23 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash",
-      "link": "https://www.securityweek.com/crowdstrike-to-buy-identity-security-firm-sgnl-for-740-million-in-cash/",
-      "summary": "The deal aims to bolster CrowdStrike's Falcon platform with \"continuous identity\" protection to secure human and AI-driven access in real-time. The post CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash appeared first on SecurityWeek .",
-      "published": "Thu, 08 Jan 2026 15:32:44 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Blackbird.AI Raises $28 Million for Narrative Intelligence Platform",
-      "link": "https://www.securityweek.com/blackbird-ai-raises-28-million-for-narrative-intelligence-platform/",
-      "summary": "The company will use the funds to enhance its AI-based narrative intelligence technology platform and accelerate go-to-market efforts. The post Blackbird.AI Raises $28 Million for Narrative Intelligence Platform appeared first on SecurityWeek .",
-      "published": "Thu, 08 Jan 2026 15:16:35 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

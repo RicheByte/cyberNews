@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-09 14:19 UTC |
+| 🕐 Last Updated | 2026-01-09 16:21 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`377 000 impacted` • `arbitrary code execution` • `ai driven access` • `narrative intelligence platform` • `malicious cyber actors` • `security problems show` • `twitter whistleblower complaint` • `nearly 600 women` • `internet router probably` • `exploits surrounding ics`
+`377 000 impacted` • `arbitrary code execution` • `malicious cyber actors` • `security problems show` • `twitter whistleblower complaint` • `nearly 600 women` • `internet router probably` • `exploits surrounding ics` • `cve 2025 37164` • `130 companies tangled`
 
 ## 📄 Reports
 

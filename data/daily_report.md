@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-09 14:19 UTC  
+> **Last Updated:** 2026-01-09 16:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**377 000 impacted** • **arbitrary code execution** • **ai driven access** • **narrative intelligence platform** • **malicious cyber actors** • **security problems show** • **twitter whistleblower complaint** • **nearly 600 women** • **internet router probably** • **exploits surrounding ics** • **cve 2025 37164** • **130 companies tangled** • **critical security flaw** • **fast attackers change** • **execute arbitrary code** • **internal network behind** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee**
+**377 000 impacted** • **arbitrary code execution** • **malicious cyber actors** • **security problems show** • **twitter whistleblower complaint** • **nearly 600 women** • **internet router probably** • **exploits surrounding ics** • **cve 2025 37164** • **130 companies tangled** • **critical security flaw** • **execute arbitrary code** • **nuclear research agency** • **internal network behind** • **material security explains** • **2026 cybersecurity predictions** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations](https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html)
 - [Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)](https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html)
 - [Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions](https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html)
 - [CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024](https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html)
@@ -23,18 +24,17 @@
 - [WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging](https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html)
 - [China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes](https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html)
 - [ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html)
-- [The State of Trusted Open Source](https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html)
 
 ### BleepingComputer
 
+- [Illinois Department of Human Services data breach affects 700K people](https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/)
+- [Email security needs more seatbelts: Why click rate is the wrong metric](https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/)
 - [Illinois man charged with hacking Snapchat accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/illinois-man-charged-with-hacking-snapchat-accounts-to-steal-nude-photos/)
 - [Trend Micro warns of critical Apex Central RCE vulnerability](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/)
 - [CISA retires 10 emergency cyber orders in rare bulk closure](https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/)
 - [Gmail's new AI Inbox uses Gemini, but Google says it won’t train AI on user emails](https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/)
 - [New China-linked hackers breach telcos using edge device exploits](https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/)
 - [FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs](https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/)
-- [xAI teases major Grok upgrade, hints at Grok Code CLI](https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/)
-- [VMware ESXi zero-days likely exploited a year before disclosure](https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/)
 
 ### Krebs on Security
 
@@ -49,7 +49,7 @@
 
 ### Dark Reading
 
-- [Notorious Russian APT Nabs Credentials From Global Targets](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets)
+- [Russia’s Fancy Bear APT Doubles Down on Global Secrets Theft](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets)
 - [CrowdStrike to Buy SGNL to Expand Identity Security Capabilities](https://www.darkreading.com/endpoint-security/crowdsrike-buy-sgnl-expand-identity-security-capabilities)
 - [Maximum Severity HPE OneView Flaw Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited)
 - [Fake AI Chrome Extensions Steal 900K Users' Data](https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data)
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k](https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/)
+- [Tim Kosiba Named NSA Deputy Director](https://www.securityweek.com/tim-kosiba-named-nsa-deputy-director/)
+- [FBI: North Korean Spear-Phishing Attacks Use Malicious QR Codes](https://www.securityweek.com/fbi-north-korean-spear-phishing-attacks-use-malicious-qr-codes/)
 - [Trend Micro Patches Critical Code Execution Flaw in Apex Central](https://www.securityweek.com/trend-micro-patches-critical-code-execution-flaw-in-apex-central/)
 - [CISA Closes 10 Emergency Directives as Vulnerability Catalog Takes Over](https://www.securityweek.com/cisa-closes-10-emergency-directives-as-vulnerability-catalog-takes-over/)
 - [‘ZombieAgent’ Attack Let Researchers Take Over ChatGPT](https://www.securityweek.com/zombieagent-attack-let-researchers-take-over-chatgpt/)
 - [377,000 Impacted by Data Breach at Texas Gas Station Firm](https://www.securityweek.com/377000-impacted-by-data-breach-at-texas-gas-station-firm/)
 - [Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure](https://www.securityweek.com/exploit-for-vmware-zero-day-flaws-likely-built-a-year-before-public-disclosure/)
-- [UK Government Unveils New Cyber Action Plan](https://www.securityweek.com/uk-government-unveils-new-cyber-action-plan/)
-- [CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash](https://www.securityweek.com/crowdstrike-to-buy-identity-security-firm-sgnl-for-740-million-in-cash/)
-- [Blackbird.AI Raises $28 Million for Narrative Intelligence Platform](https://www.securityweek.com/blackbird-ai-raises-28-million-for-narrative-intelligence-platform/)
 
 ### Threatpost
 

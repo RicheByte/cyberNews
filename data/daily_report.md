@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-09 08:24 UTC  
+> **Last Updated:** 2026-01-09 10:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **reboot loops due** • **concept poc exploit** • **security problems show** • **narrative intelligence platform** • **malicious cyber actors** • **critical vulnerability patched** • **windows operating systems** • **whill devices allows** • **twitter whistleblower complaint** • **internet router probably** • **exploits surrounding ics** • **continuous identity protection** • **unauthenticated bluetooth access** • **takeover attacks tracked** • **attacks targeting brazil** • **internal network behind** • **cve 2025 37164** • **unpaid toll fee** • **tracking tv viewing**
+**reboot loops due** • **arbitrary code execution** • **concept poc exploit** • **security problems show** • **narrative intelligence platform** • **malicious cyber actors** • **cve 2025 37164** • **twitter whistleblower complaint** • **internet router probably** • **exploits surrounding ics** • **continuous identity protection** • **unauthenticated bluetooth access** • **critical vulnerability patched** • **takeover attacks tracked** • **attacks targeting brazil** • **internal network behind** • **authenticated remote attacker** • **windows operating systems** • **whill devices allows** • **unpaid toll fee**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions](https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html)
+- [CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024](https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html)
 - [FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing](https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html)
 - [WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging](https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html)
 - [China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes](https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html)
 - [ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html)
 - [The State of Trusted Open Source](https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html)
 - [Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release](https://thehackernews.com/2026/01/cisco-patches-ise-security.html)
-- [Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages](https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html)
-- [Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances](https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html)
 
 ### BleepingComputer
 

@@ -69,7 +69,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -127,7 +127,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -139,7 +139,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 274,
+      "count": 275,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -277,7 +277,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -963,7 +963,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1718,7 +1718,7 @@
       ]
     },
     "internet router probably": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -2072,21 +2072,21 @@
       ]
     },
     "concept poc exploit": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-08",
         "2026-01-09"
       ]
     },
     "security problems show": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-08",
         "2026-01-09"
       ]
     },
     "unauthenticated bluetooth access": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-08",
         "2026-01-09"
@@ -2099,35 +2099,35 @@
       ]
     },
     "narrative intelligence platform": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-08",
         "2026-01-09"
       ]
     },
     "continuous identity protection": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-08",
         "2026-01-09"
       ]
     },
     "critical vulnerability patched": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-08",
         "2026-01-09"
       ]
     },
     "whill devices allows": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-08",
         "2026-01-09"
       ]
     },
     "reboot loops due": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-08",
         "2026-01-09"
@@ -2171,13 +2171,13 @@
       ]
     },
     "takeover attacks tracked": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-09"
       ]
     },
     "attacks targeting brazil": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-09"
       ]
@@ -2195,7 +2195,7 @@
       ]
     },
     "internal network behind": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-09"
       ]
@@ -2207,6 +2207,18 @@
       ]
     },
     "cve 2025 37164": {
+      "count": 2,
+      "dates": [
+        "2026-01-09"
+      ]
+    },
+    "arbitrary code execution": {
+      "count": 1,
+      "dates": [
+        "2026-01-09"
+      ]
+    },
+    "authenticated remote attacker": {
       "count": 1,
       "dates": [
         "2026-01-09"
@@ -2214,17 +2226,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-01 03:46",
-      "articles": 56,
-      "top_keywords": [
-        "authentication bypass flaw",
-        "bypass authentication mechanisms",
-        "critical security flaw",
-        "mass creating fake",
-        "microsoft edge users"
-      ]
-    },
     {
       "timestamp": "2026-01-01 04:43",
       "articles": 56,
@@ -3309,6 +3310,17 @@
       "top_keywords": [
         "remote code execution",
         "reboot loops due",
+        "concept poc exploit",
+        "security problems show",
+        "narrative intelligence platform"
+      ]
+    },
+    {
+      "timestamp": "2026-01-09 10:18",
+      "articles": 56,
+      "top_keywords": [
+        "reboot loops due",
+        "arbitrary code execution",
         "concept poc exploit",
         "security problems show",
         "narrative intelligence platform"

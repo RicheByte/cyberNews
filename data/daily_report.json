@@ -1,72 +1,97 @@
 {
-  "last_updated": "2026-01-09 08:24",
+  "last_updated": "2026-01-09 10:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "remote code execution",
     "reboot loops due",
+    "arbitrary code execution",
     "concept poc exploit",
     "security problems show",
     "narrative intelligence platform",
     "malicious cyber actors",
-    "critical vulnerability patched",
-    "windows operating systems",
-    "whill devices allows",
+    "cve 2025 37164",
     "twitter whistleblower complaint",
     "internet router probably",
     "exploits surrounding ics",
     "continuous identity protection",
     "unauthenticated bluetooth access",
+    "critical vulnerability patched",
     "takeover attacks tracked",
     "attacks targeting brazil",
     "internal network behind",
-    "cve 2025 37164",
-    "unpaid toll fee",
-    "tracking tv viewing"
+    "authenticated remote attacker",
+    "windows operating systems",
+    "whill devices allows",
+    "unpaid toll fee"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 23
+      "keyword": "reboot loops due",
+      "mentions": 7
     },
     {
-      "keyword": "reboot loops due",
-      "mentions": 6
+      "keyword": "arbitrary code execution",
+      "mentions": 1
     },
     {
       "keyword": "concept poc exploit",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "security problems show",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "narrative intelligence platform",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 137
+      "mentions": 138
     },
     {
-      "keyword": "critical vulnerability patched",
-      "mentions": 8
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 32
-    },
-    {
-      "keyword": "whill devices allows",
-      "mentions": 8
+      "keyword": "cve 2025 37164",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 274
+      "mentions": 275
+    },
+    {
+      "keyword": "internet router probably",
+      "mentions": 21
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 174
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
+      "link": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
+      "summary": "Trend Micro has released security updates to address multiple security vulnerabilities impacting on-premise versions of Apex Central for Windows, including a critical bug that could result in arbitrary code execution. The vulnerability, tracked as CVE-2025-69258, carries a CVSS score of 9.8 out of a maximum of 10.0. The vulnerability has been described as a case of remote code execution",
+      "published": "Fri, 09 Jan 2026 15:31:00 +0530",
+      "value_score": 76,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024",
+      "link": "https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday said it's retiring 10 emergency directives (Eds) that were issued between 2019 and 2024. The list of the directives now considered closed is as follows - ED 19-01: Mitigate DNS Infrastructure Tampering ED 20-02: Mitigate Windows Vulnerabilities from January 2020 Patch Tuesday ED 20-03: Mitigate Windows DNS Server",
+      "published": "Fri, 09 Jan 2026 14:41:00 +0530",
+      "value_score": 58,
+      "value_signals": [
+        "Patch/update",
+        "CISA/KEV ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
@@ -127,29 +152,6 @@
         "CVE mentioned",
         "PoC available ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages",
-      "link": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
-      "summary": "Cybersecurity researchers have discovered three malicious npm packages that are designed to deliver a previously undocumented malware called NodeCordRAT. The names of the packages, all of which were taken down as of November 2025, are listed below. They were uploaded by a user named \"wenmoonx.\" bitcoin-main-lib (2,300 Downloads) bitcoin-lib-js (193 Downloads) bip40 (970 Downloads) \"The",
-      "published": "Thu, 08 Jan 2026 16:01:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances",
-      "link": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
-      "summary": "Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication bypass and remote code execution. The list of vulnerabilities is as follows - CVE-2025-66209 (CVSS score: 10.0) - A command injection vulnerability in the database backup functionality allows any authenticated",
-      "published": "Thu, 08 Jan 2026 15:23:00 +0530",
-      "value_score": 79,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Auth bypass",
-        "High severity ×2"
       ]
     },
     {

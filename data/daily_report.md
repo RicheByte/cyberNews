@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-09 20:19 UTC  
+> **Last Updated:** 2026-01-09 22:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**377 000 impacted** • **arbitrary code execution** • **twitter whistleblower complaint** • **nearly 600 women** • **malicious cyber actors** • **exploits surrounding ics** • **130 companies tangled** • **critical security flaw** • **cve 2025 37164** • **execute arbitrary code** • **nuclear research agency** • **material security explains** • **internal network behind** • **2026 cybersecurity predictions** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee** • **trend micro warns** • **today we'll dig**
+**377 000 impacted** • **arbitrary code execution** • **twitter whistleblower complaint** • **nearly 600 women** • **misconfigured proxy servers** • **malicious cyber actors** • **exploits surrounding ics** • **130 companies tangled** • **critical security flaw** • **cve 2025 37164** • **execute arbitrary code** • **nuclear research agency** • **material security explains** • **internal network behind** • **hackers network operators** • **2026 cybersecurity predictions** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft may soon allow IT admins to uninstall Copilot](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/)
 - [Hackers target misconfigured proxies to access paid LLM services](https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/)
 - [Illinois Department of Human Services data breach affects 700K people](https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/)
 - [Email security needs more seatbelts: Why click rate is the wrong metric](https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/)
@@ -34,7 +35,6 @@
 - [Trend Micro warns of critical Apex Central RCE vulnerability](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/)
 - [CISA retires 10 emergency cyber orders in rare bulk closure](https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/)
 - [Gmail's new AI Inbox uses Gemini, but Google says it won’t train AI on user emails](https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/)
-- [New China-linked hackers breach telcos using edge device exploits](https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/)
 
 ### Krebs on Security
 

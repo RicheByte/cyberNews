@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09 20:19",
+  "last_updated": "2026-01-09 22:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,6 +7,7 @@
     "arbitrary code execution",
     "twitter whistleblower complaint",
     "nearly 600 women",
+    "misconfigured proxy servers",
     "malicious cyber actors",
     "exploits surrounding ics",
     "130 companies tangled",
@@ -16,54 +17,53 @@
     "nuclear research agency",
     "material security explains",
     "internal network behind",
+    "hackers network operators",
     "2026 cybersecurity predictions",
     "yet many strategies",
     "windows operating systems",
     "upcoming webinar hosted",
-    "unpaid toll fee",
-    "trend micro warns",
-    "today we'll dig"
+    "unpaid toll fee"
   ],
   "trending": [
     {
       "keyword": "377 000 impacted",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 6
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 280
-    },
-    {
-      "keyword": "nearly 600 women",
-      "mentions": 4
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 143
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 179
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 6
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 104
-    },
-    {
-      "keyword": "cve 2025 37164",
       "mentions": 7
     },
     {
-      "keyword": "execute arbitrary code",
-      "mentions": 14
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 281
+    },
+    {
+      "keyword": "nearly 600 women",
+      "mentions": 5
+    },
+    {
+      "keyword": "misconfigured proxy servers",
+      "mentions": 1
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 144
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 180
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 7
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 105
+    },
+    {
+      "keyword": "cve 2025 37164",
+      "mentions": 8
     }
   ],
   "articles": [
@@ -153,6 +153,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft may soon allow IT admins to uninstall Copilot",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/",
+      "summary": "Microsoft is testing a new policy that allows IT administrators to uninstall the AI-powered Copilot digital assistant on managed devices. [...]",
+      "published": "Fri, 09 Jan 2026 15:34:22 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers target misconfigured proxies to access paid LLM services",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/",
       "summary": "Threat actors are systematically hunting for misconfigured proxy servers that could provide access to commercial large language model (LLM) services. [...]",
@@ -224,18 +233,6 @@
       "published": "Thu, 08 Jan 2026 18:46:30 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New China-linked hackers breach telcos using edge device exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/",
-      "summary": "A sophisticated threat actor that uses Linux-based malware to target telecommunications providers has recently broadened its operations to include organizations in Southeastern Europe. [...]",
-      "published": "Thu, 08 Jan 2026 18:39:12 -0500",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

@@ -69,7 +69,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -127,7 +127,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -139,7 +139,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 280,
+      "count": 281,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -277,7 +277,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 101,
+      "count": 102,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -479,7 +479,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -596,7 +596,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -965,7 +965,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1783,7 +1783,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-05",
         "2026-01-09"
@@ -2201,7 +2201,7 @@
       ]
     },
     "internal network behind": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-09"
       ]
@@ -2213,13 +2213,13 @@
       ]
     },
     "cve 2025 37164": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-09"
       ]
     },
     "arbitrary code execution": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-09"
       ]
@@ -2231,13 +2231,13 @@
       ]
     },
     "377 000 impacted": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-09"
       ]
     },
     "yet many strategies": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-09"
       ]
@@ -2255,7 +2255,7 @@
       ]
     },
     "upcoming webinar hosted": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-09"
       ]
@@ -2273,7 +2273,7 @@
       ]
     },
     "nearly 600 women": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-09"
       ]
@@ -2285,19 +2285,19 @@
       ]
     },
     "nuclear research agency": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-09"
       ]
     },
     "material security explains": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-09"
       ]
     },
     "2026 cybersecurity predictions": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-09"
       ]
@@ -2307,20 +2307,21 @@
       "dates": [
         "2026-01-09"
       ]
+    },
+    "misconfigured proxy servers": {
+      "count": 1,
+      "dates": [
+        "2026-01-09"
+      ]
+    },
+    "hackers network operators": {
+      "count": 1,
+      "dates": [
+        "2026-01-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-01 14:15",
-      "articles": 56,
-      "top_keywords": [
-        "authentication bypass flaw",
-        "bypass authentication mechanisms",
-        "critical security flaw",
-        "mass creating fake",
-        "microsoft edge users"
-      ]
-    },
     {
       "timestamp": "2026-01-01 16:21",
       "articles": 56,
@@ -3408,6 +3409,17 @@
         "twitter whistleblower complaint",
         "nearly 600 women",
         "malicious cyber actors"
+      ]
+    },
+    {
+      "timestamp": "2026-01-09 22:16",
+      "articles": 56,
+      "top_keywords": [
+        "377 000 impacted",
+        "arbitrary code execution",
+        "twitter whistleblower complaint",
+        "nearly 600 women",
+        "misconfigured proxy servers"
       ]
     }
   ]

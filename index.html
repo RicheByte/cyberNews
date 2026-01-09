@@ -500,7 +500,7 @@
             <p class="tagline">Real-time Cybersecurity News Aggregation & Trend Analysis</p>
             <div class="live-indicator">
                 <span class="live-dot"></span>
-                <span>Last updated: 2026-01-09 20:19 UTC</span>
+                <span>Last updated: 2026-01-09 22:16 UTC</span>
             </div>
         </header>
         
@@ -529,7 +529,7 @@
                     <div class="card-title"><span class="card-icon">🔥</span> Trending Keywords</div>
                 </div>
                 <div class="keyword-cloud">
-                    <span class="keyword-tag large">377 000 impacted (5) </span><span class="keyword-tag large">arbitrary code execution (6) </span><span class="keyword-tag large">twitter whistleblower complaint (280) </span><span class="keyword-tag medium">nearly 600 women (4) </span><span class="keyword-tag medium">malicious cyber actors (143) </span><span class="keyword-tag medium">exploits surrounding ics (179) </span><span class="keyword-tag medium">130 companies tangled (6) </span><span class="keyword-tag small">critical security flaw (104) </span><span class="keyword-tag small">cve 2025 37164 (7) </span><span class="keyword-tag small">execute arbitrary code (14) </span>
+                    <span class="keyword-tag large">377 000 impacted (6) </span><span class="keyword-tag large">arbitrary code execution (7) </span><span class="keyword-tag large">twitter whistleblower complaint (281) </span><span class="keyword-tag medium">nearly 600 women (5) </span><span class="keyword-tag medium">misconfigured proxy servers (1) </span><span class="keyword-tag medium">malicious cyber actors (144) </span><span class="keyword-tag medium">exploits surrounding ics (180) </span><span class="keyword-tag small">130 companies tangled (7) </span><span class="keyword-tag small">critical security flaw (105) </span><span class="keyword-tag small">cve 2025 37164 (8) </span>
                 </div>
             </div>
             
@@ -539,6 +539,13 @@
                 </div>
                 <div class="timeline">
                     
+        <div class="timeline-item">
+            <div class="timeline-time">2026-01-09 22:16</div>
+            <div class="timeline-content">
+                <strong>56 articles</strong> analyzed
+                <div class="timeline-keywords">377 000 impacted, arbitrary code execution, twitter whistleblower complaint</div>
+            </div>
+        </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-01-09 20:19</div>
             <div class="timeline-content">
@@ -586,13 +593,6 @@
             <div class="timeline-content">
                 <strong>56 articles</strong> analyzed
                 <div class="timeline-keywords">remote code execution, reboot loops due, concept poc exploit</div>
-            </div>
-        </div>
-        <div class="timeline-item">
-            <div class="timeline-time">2026-01-09 06:27</div>
-            <div class="timeline-content">
-                <strong>48 articles</strong> analyzed
-                <div class="timeline-keywords">reboot loops due, security problems show, malicious cyber actors</div>
             </div>
         </div>
                 </div>
@@ -766,6 +766,17 @@
                     <div class="value-badge value-low">Value 10</div>
                 </div>
                 <h3 class="article-title">
+                    <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/" target="_blank" rel="noopener">Microsoft may soon allow IT admins to uninstall Copilot</a>
+                </h3>
+                <p class="article-summary">Microsoft is testing a new policy that allows IT administrators to uninstall the AI-powered Copilot digital assistant on managed devices. [...]</p>
+                <div class="article-meta">Fri, 09 Jan 2026 15:34:22</div>
+            </div>
+            <div class="article-card" data-source="BleepingComputer">
+                <div class="article-top">
+                    <div class="article-source">BleepingComputer</div>
+                    <div class="value-badge value-low">Value 10</div>
+                </div>
+                <h3 class="article-title">
                     <a href="https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/" target="_blank" rel="noopener">Hackers target misconfigured proxies to access paid LLM services</a>
                 </h3>
                 <p class="article-summary">Threat actors are systematically hunting for misconfigured proxy servers that could provide access to commercial large language model (LLM) services. ...</p>
@@ -803,17 +814,6 @@
                 </h3>
                 <p class="article-summary">U.S. prosecutors have charged an Illinois man with orchestrating a phishing operation that allowed him to hack the Snapchat accounts of nearly 600 wom...</p>
                 <div class="article-meta">Fri, 09 Jan 2026 08:46:29</div>
-            </div>
-            <div class="article-card" data-source="BleepingComputer">
-                <div class="article-top">
-                    <div class="article-source">BleepingComputer</div>
-                    <div class="value-badge value-low">Value 46</div>
-                </div>
-                <h3 class="article-title">
-                    <a href="https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/" target="_blank" rel="noopener">Trend Micro warns of critical Apex Central RCE vulnerability</a>
-                </h3>
-                <p class="article-summary">Japanese cybersecurity software firm Trend Micro has patched a critical security flaw in Apex Central (on-premise) that could allow attackers to execu...</p>
-                <div class="article-meta">Fri, 09 Jan 2026 05:40:26</div>
             </div>
             <div class="article-card" data-source="Krebs on Security">
                 <div class="article-top">
@@ -1146,10 +1146,10 @@
         new Chart(keywordCtx, {
             type: 'bar',
             data: {
-                labels: ["377 000 impacted", "arbitrary code execu", "twitter whistleblowe", "nearly 600 women", "malicious cyber acto", "exploits surrounding", "130 companies tangle", "critical security fl", "cve 2025 37164", "execute arbitrary co"],
+                labels: ["377 000 impacted", "arbitrary code execu", "twitter whistleblowe", "nearly 600 women", "misconfigured proxy ", "malicious cyber acto", "exploits surrounding", "130 companies tangle", "critical security fl", "cve 2025 37164"],
                 datasets: [{
                     label: 'Mentions',
-                    data: [5, 6, 280, 4, 143, 179, 6, 104, 7, 14],
+                    data: [6, 7, 281, 5, 1, 144, 180, 7, 105, 8],
                     backgroundColor: 'rgba(0, 255, 136, 0.6)',
                     borderColor: '#00ff88',
                     borderWidth: 1,

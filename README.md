@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-09 04:36 UTC |
-| 📰 Articles Analyzed | 56 |
+| 🕐 Last Updated | 2026-01-09 06:27 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `reboot loops due` • `concept poc exploit` • `security problems show` • `narrative intelligence platform` • `malicious cyber actors` • `critical vulnerability patched` • `windows operating systems` • `twitter whistleblower complaint` • `internet router probably`
+`reboot loops due` • `security problems show` • `malicious cyber actors` • `windows operating systems` • `twitter whistleblower complaint` • `narrative intelligence platform` • `internet router probably` • `exploits surrounding ics` • `critical vulnerability patched` • `continuous identity protection`
 
 ## 📄 Reports
 

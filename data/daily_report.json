@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-01-09 04:36",
+  "last_updated": "2026-01-09 06:27",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
-    "remote code execution",
     "reboot loops due",
-    "concept poc exploit",
     "security problems show",
-    "narrative intelligence platform",
     "malicious cyber actors",
-    "critical vulnerability patched",
     "windows operating systems",
     "twitter whistleblower complaint",
+    "narrative intelligence platform",
     "internet router probably",
     "exploits surrounding ics",
+    "critical vulnerability patched",
     "continuous identity protection",
+    "concept poc exploit",
     "unauthenticated bluetooth access",
     "takeover attacks tracked",
     "attacks targeting brazil",
     "internal network behind",
+    "ai driven access",
     "whill devices allows",
     "unpaid toll fee",
     "tracking tv viewing",
@@ -26,44 +26,44 @@
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 22
-    },
-    {
       "keyword": "reboot loops due",
-      "mentions": 4
-    },
-    {
-      "keyword": "concept poc exploit",
-      "mentions": 9
+      "mentions": 5
     },
     {
       "keyword": "security problems show",
-      "mentions": 8
-    },
-    {
-      "keyword": "narrative intelligence platform",
-      "mentions": 7
+      "mentions": 9
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 135
-    },
-    {
-      "keyword": "critical vulnerability patched",
-      "mentions": 6
+      "mentions": 136
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 272
+      "mentions": 273
+    },
+    {
+      "keyword": "narrative intelligence platform",
+      "mentions": 8
     },
     {
       "keyword": "internet router probably",
-      "mentions": 18
+      "mentions": 19
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 172
+    },
+    {
+      "keyword": "critical vulnerability patched",
+      "mentions": 7
+    },
+    {
+      "keyword": "continuous identity protection",
+      "mentions": 8
     }
   ],
   "articles": [
@@ -311,91 +311,6 @@
       "value_signals": [
         "Phishing ×3"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Maximum Severity HPE OneView Flaw Exploited in the Wild",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited",
-      "summary": "Exploitation of CVE-2025-37164 can enable remote code execution on HPE's IT infrastructure management platform, leading to devastating consequences.",
-      "published": "Thu, 08 Jan 2026 22:21:29 GMT",
-      "value_score": 79,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fake AI Chrome Extensions Steal 900K Users' Data",
-      "link": "https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data",
-      "summary": "Threat actors ripped off a legitimate AI-powered Chrome extension in order to harvest ChatGPT and DeepSeek data before sending it to a C2 server.",
-      "published": "Thu, 08 Jan 2026 21:34:40 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "ChatGPT's Memory Feature Supercharges Prompt Injection",
-      "link": "https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection",
-      "summary": "The \"ZombieAgent\" exploit makes use of ChatGPT's long-term memory and advanced capabilities.",
-      "published": "Thu, 08 Jan 2026 20:23:34 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Here's What Cloud Security's Future Holds for the Year Ahead",
-      "link": "https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead",
-      "summary": "Here are the top cloud security trends I'm seeing in my crystal ball for the New Year — particularly arming us for AI adoption.",
-      "published": "Thu, 08 Jan 2026 15:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Attackers Exploit Zero-Day in End-of-Life D-Link Routers",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers",
-      "summary": "Hackers are attacking a critical zero-day flaw in unsupported D-Link DSL routers to run arbitrary commands.",
-      "published": "Wed, 07 Jan 2026 22:19:57 GMT",
-      "value_score": 74,
-      "value_signals": [
-        "Zero-day ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Phishers Exploit Office 365 Users Who Let Their Guard Down",
-      "link": "https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down",
-      "summary": "Microsoft said that Office 365 tenants with weak configurations and who don't have strict anti-spoofing protection enabled are especially vulnerable.",
-      "published": "Wed, 07 Jan 2026 21:42:21 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cyberattacks Likely Part of Military Operation in Venezuela",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela",
-      "summary": "Cyber's role in the US raid on Venezuela remains a question, though President Trump alluded to \"certain expertise\" in shutting down the power grid in Caracas.",
-      "published": "Wed, 07 Jan 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "DDoSia Powers Affiliate-Driven Hacktivist Attacks",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks",
-      "summary": "Pro-Russian group NoName057(16) uses a custom denial-of-service tool to mobilize volunteers and disrupt government, media, and institutional sites tied to Ukraine and the West.",
-      "published": "Wed, 07 Jan 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

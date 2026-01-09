@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-09 03:26 UTC  
+> **Last Updated:** 2026-01-09 04:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **reboot loops due** • **concept poc exploit** • **security problems show** • **narrative intelligence platform** • **critical vulnerability patched** • **windows operating systems** • **twitter whistleblower complaint** • **internet router probably** • **exploits surrounding ics** • **continuous identity protection** • **unauthenticated bluetooth access** • **takeover attacks tracked** • **attacks targeting brazil** • **malicious cyber actors** • **phish u s** • **whill devices allows** • **unpaid toll fee** • **tracking tv viewing** • **today we'll dig**
+**remote code execution** • **reboot loops due** • **concept poc exploit** • **security problems show** • **narrative intelligence platform** • **malicious cyber actors** • **critical vulnerability patched** • **windows operating systems** • **twitter whistleblower complaint** • **internet router probably** • **exploits surrounding ics** • **continuous identity protection** • **unauthenticated bluetooth access** • **takeover attacks tracked** • **attacks targeting brazil** • **internal network behind** • **whill devices allows** • **unpaid toll fee** • **tracking tv viewing** • **today we'll dig**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [CISA retires 10 emergency cyber orders in rare bulk closure](https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/)
 - [Gmail's new AI Inbox uses Gemini, but Google says it won’t train AI on user emails](https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/)
 - [New China-linked hackers breach telcos using edge device exploits](https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/)
 - [FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs](https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/)
@@ -34,7 +35,6 @@
 - [VMware ESXi zero-days likely exploited a year before disclosure](https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/)
 - [Cisco switches hit by reboot loops due to DNS client bug](https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/)
 - [Texas court blocks Samsung from tracking TV viewing, then vacates order](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/)
-- [Six for 2026: The cyber threats you can’t ignore](https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/)
 
 ### Krebs on Security
 

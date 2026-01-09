@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09 03:26",
+  "last_updated": "2026-01-09 04:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,6 +8,7 @@
     "concept poc exploit",
     "security problems show",
     "narrative intelligence platform",
+    "malicious cyber actors",
     "critical vulnerability patched",
     "windows operating systems",
     "twitter whistleblower complaint",
@@ -17,8 +18,7 @@
     "unauthenticated bluetooth access",
     "takeover attacks tracked",
     "attacks targeting brazil",
-    "malicious cyber actors",
-    "phish u s",
+    "internal network behind",
     "whill devices allows",
     "unpaid toll fee",
     "tracking tv viewing",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "reboot loops due",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "concept poc exploit",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "security problems show",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "narrative intelligence platform",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 135
     },
     {
       "keyword": "critical vulnerability patched",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 271
+      "mentions": 272
     },
     {
       "keyword": "internet router probably",
-      "mentions": 17
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 170
+      "mentions": 18
     }
   ],
   "articles": [
@@ -152,6 +152,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "CISA retires 10 emergency cyber orders in rare bulk closure",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has retired 10 Emergency Directives issued between 2019 and 2024, saying that the required actions have been completed or are now covered by Binding Operational Directive 22-01. [...]",
+      "published": "Thu, 08 Jan 2026 22:46:07 -0500",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Gmail's new AI Inbox uses Gemini, but Google says it won’t train AI on user emails",
       "link": "https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/",
       "summary": "Google says it's rolling out a new feature called 'AI Inbox,' which summarizes all your emails, but the company promises it won't train its models on your emails. [...]",
@@ -215,15 +226,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/",
       "summary": "The State of Texas obtained a short-lived, temporary restraining order (TRO) against Samsung that prohibited the South Korean company from collecting audio and visual data about what Texas consumers are watching on their TVs. [...]",
       "published": "Thu, 08 Jan 2026 11:47:24 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Six for 2026: The cyber threats you can’t ignore",
-      "link": "https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/",
-      "summary": "Cybersecurity threats in 2026 are accelerating, driven by AI, automation, and more effective social engineering. Corelight outlines six emerging attack trends and explains how network visibility can help defenders respond faster. [...]",
-      "published": "Thu, 08 Jan 2026 10:02:12 -0500",
       "value_score": 10,
       "value_signals": []
     },

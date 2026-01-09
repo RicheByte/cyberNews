@@ -69,7 +69,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -127,7 +127,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -139,7 +139,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 273,
+      "count": 274,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -277,7 +277,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -403,7 +403,7 @@
       ]
     },
     "remote code execution": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -963,7 +963,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 172,
+      "count": 173,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1718,7 +1718,7 @@
       ]
     },
     "internet router probably": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -2072,21 +2072,21 @@
       ]
     },
     "concept poc exploit": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-08",
         "2026-01-09"
       ]
     },
     "security problems show": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-08",
         "2026-01-09"
       ]
     },
     "unauthenticated bluetooth access": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-08",
         "2026-01-09"
@@ -2099,35 +2099,35 @@
       ]
     },
     "narrative intelligence platform": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-08",
         "2026-01-09"
       ]
     },
     "continuous identity protection": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-08",
         "2026-01-09"
       ]
     },
     "critical vulnerability patched": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-08",
         "2026-01-09"
       ]
     },
     "whill devices allows": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-08",
         "2026-01-09"
       ]
     },
     "reboot loops due": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-08",
         "2026-01-09"
@@ -2140,7 +2140,7 @@
       ]
     },
     "tracking tv viewing": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-08",
         "2026-01-09"
@@ -2171,13 +2171,13 @@
       ]
     },
     "takeover attacks tracked": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-09"
       ]
     },
     "attacks targeting brazil": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-09"
       ]
@@ -2195,7 +2195,7 @@
       ]
     },
     "internal network behind": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-09"
       ]
@@ -2205,20 +2205,15 @@
       "dates": [
         "2026-01-09"
       ]
+    },
+    "cve 2025 37164": {
+      "count": 1,
+      "dates": [
+        "2026-01-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-01 01:25",
-      "articles": 56,
-      "top_keywords": [
-        "authentication bypass flaw",
-        "bypass authentication mechanisms",
-        "critical security flaw",
-        "mass creating fake",
-        "microsoft edge users"
-      ]
-    },
     {
       "timestamp": "2026-01-01 03:46",
       "articles": 56,
@@ -3306,6 +3301,17 @@
         "malicious cyber actors",
         "windows operating systems",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-09 08:24",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "reboot loops due",
+        "concept poc exploit",
+        "security problems show",
+        "narrative intelligence platform"
       ]
     }
   ]

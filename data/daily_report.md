@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-09 06:27 UTC  
+> **Last Updated:** 2026-01-09 08:24 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**reboot loops due** • **security problems show** • **malicious cyber actors** • **windows operating systems** • **twitter whistleblower complaint** • **narrative intelligence platform** • **internet router probably** • **exploits surrounding ics** • **critical vulnerability patched** • **continuous identity protection** • **concept poc exploit** • **unauthenticated bluetooth access** • **takeover attacks tracked** • **attacks targeting brazil** • **internal network behind** • **ai driven access** • **whill devices allows** • **unpaid toll fee** • **tracking tv viewing** • **today we'll dig**
+**remote code execution** • **reboot loops due** • **concept poc exploit** • **security problems show** • **narrative intelligence platform** • **malicious cyber actors** • **critical vulnerability patched** • **windows operating systems** • **whill devices allows** • **twitter whistleblower complaint** • **internet router probably** • **exploits surrounding ics** • **continuous identity protection** • **unauthenticated bluetooth access** • **takeover attacks tracked** • **attacks targeting brazil** • **internal network behind** • **cve 2025 37164** • **unpaid toll fee** • **tracking tv viewing**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing](https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html)
 - [WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging](https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html)
 - [China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes](https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html)
 - [ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html)
@@ -23,7 +24,6 @@
 - [Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release](https://thehackernews.com/2026/01/cisco-patches-ise-security.html)
 - [Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages](https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html)
 - [Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances](https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html)
-- [OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls](https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html)
 
 ### BleepingComputer
 
@@ -46,6 +46,17 @@
 - [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 - [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
 - [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
+
+### Dark Reading
+
+- [Maximum Severity HPE OneView Flaw Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited)
+- [Fake AI Chrome Extensions Steal 900K Users' Data](https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data)
+- [ChatGPT's Memory Feature Supercharges Prompt Injection](https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection)
+- [Here's What Cloud Security's Future Holds for the Year Ahead](https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead)
+- [Attackers Exploit Zero-Day in End-of-Life D-Link Routers](https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers)
+- [Phishers Exploit Office 365 Users Who Let Their Guard Down](https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down)
+- [Cyberattacks Likely Part of Military Operation in Venezuela](https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela)
+- [DDoSia Powers Affiliate-Driven Hacktivist Attacks](https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks)
 
 ### Security Week
 

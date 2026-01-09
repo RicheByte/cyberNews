@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-09 12:35 UTC  
+> **Last Updated:** 2026-01-09 14:19 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**377 000 impacted** • **reboot loops due** • **cve 2025 37164** • **arbitrary code execution** • **critical security flaw** • **narrative intelligence platform** • **malicious cyber actors** • **yet many strategies** • **twitter whistleblower complaint** • **sophisticated threat actor** • **security problems show** • **exploits surrounding ics** • **execute arbitrary code** • **2025 kimsuky actors** • **upcoming webinar hosted** • **today musk teased** • **static policy enforcement** • **small mistakes turn** • **rare bulk closure** • **office 365 tenants**
+**377 000 impacted** • **arbitrary code execution** • **ai driven access** • **narrative intelligence platform** • **malicious cyber actors** • **security problems show** • **twitter whistleblower complaint** • **nearly 600 women** • **internet router probably** • **exploits surrounding ics** • **cve 2025 37164** • **130 companies tangled** • **critical security flaw** • **fast attackers change** • **execute arbitrary code** • **internal network behind** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Illinois man charged with hacking Snapchat accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/illinois-man-charged-with-hacking-snapchat-accounts-to-steal-nude-photos/)
 - [Trend Micro warns of critical Apex Central RCE vulnerability](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/)
 - [CISA retires 10 emergency cyber orders in rare bulk closure](https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/)
 - [Gmail's new AI Inbox uses Gemini, but Google says it won’t train AI on user emails](https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/)
@@ -34,29 +35,39 @@
 - [FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs](https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/)
 - [xAI teases major Grok upgrade, hints at Grok Code CLI](https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/)
 - [VMware ESXi zero-days likely exploited a year before disclosure](https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/)
-- [Cisco switches hit by reboot loops due to DNS client bug](https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/)
+
+### Krebs on Security
+
+- [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+- [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
 
 ### Dark Reading
 
+- [Notorious Russian APT Nabs Credentials From Global Targets](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets)
+- [CrowdStrike to Buy SGNL to Expand Identity Security Capabilities](https://www.darkreading.com/endpoint-security/crowdsrike-buy-sgnl-expand-identity-security-capabilities)
 - [Maximum Severity HPE OneView Flaw Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited)
 - [Fake AI Chrome Extensions Steal 900K Users' Data](https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data)
 - [ChatGPT's Memory Feature Supercharges Prompt Injection](https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection)
 - [Here's What Cloud Security's Future Holds for the Year Ahead](https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead)
 - [Attackers Exploit Zero-Day in End-of-Life D-Link Routers](https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers)
 - [Phishers Exploit Office 365 Users Who Let Their Guard Down](https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down)
-- [Cyberattacks Likely Part of Military Operation in Venezuela](https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela)
-- [DDoSia Powers Affiliate-Driven Hacktivist Attacks](https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks)
 
 ### Security Week
 
+- [Trend Micro Patches Critical Code Execution Flaw in Apex Central](https://www.securityweek.com/trend-micro-patches-critical-code-execution-flaw-in-apex-central/)
+- [CISA Closes 10 Emergency Directives as Vulnerability Catalog Takes Over](https://www.securityweek.com/cisa-closes-10-emergency-directives-as-vulnerability-catalog-takes-over/)
+- [‘ZombieAgent’ Attack Let Researchers Take Over ChatGPT](https://www.securityweek.com/zombieagent-attack-let-researchers-take-over-chatgpt/)
 - [377,000 Impacted by Data Breach at Texas Gas Station Firm](https://www.securityweek.com/377000-impacted-by-data-breach-at-texas-gas-station-firm/)
 - [Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure](https://www.securityweek.com/exploit-for-vmware-zero-day-flaws-likely-built-a-year-before-public-disclosure/)
 - [UK Government Unveils New Cyber Action Plan](https://www.securityweek.com/uk-government-unveils-new-cyber-action-plan/)
 - [CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash](https://www.securityweek.com/crowdstrike-to-buy-identity-security-firm-sgnl-for-740-million-in-cash/)
 - [Blackbird.AI Raises $28 Million for Narrative Intelligence Platform](https://www.securityweek.com/blackbird-ai-raises-28-million-for-narrative-intelligence-platform/)
-- [Cyera Raises $400 Million at $9 Billion Valuation](https://www.securityweek.com/cyera-raises-400-million-at-9-billion-valuation/)
-- [Rethinking Security for Agentic AI](https://www.securityweek.com/rethinking-security-for-agentic-ai/)
-- [Critical Vulnerability Patched in jsPDF](https://www.securityweek.com/critical-vulnerability-patched-in-jspdf/)
 
 ### Threatpost
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-09 12:35 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-01-09 14:19 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`377 000 impacted` • `reboot loops due` • `cve 2025 37164` • `arbitrary code execution` • `critical security flaw` • `narrative intelligence platform` • `malicious cyber actors` • `yet many strategies` • `twitter whistleblower complaint` • `sophisticated threat actor`
+`377 000 impacted` • `arbitrary code execution` • `ai driven access` • `narrative intelligence platform` • `malicious cyber actors` • `security problems show` • `twitter whistleblower complaint` • `nearly 600 women` • `internet router probably` • `exploits surrounding ics`
 
 ## 📄 Reports
 

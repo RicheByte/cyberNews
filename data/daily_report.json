@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-08 22:16",
+  "last_updated": "2026-01-09 01:19",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
-    "reboot loops due",
-    "continuous identity protection",
-    "security problems show",
-    "twitter whistleblower complaint",
-    "narrative intelligence platform",
-    "exploits surrounding ics",
-    "emerging threat actor",
-    "concept poc exploit",
-    "concept exploit code",
-    "unauthenticated bluetooth access",
-    "exploit code cisco",
-    "critical vulnerability patched",
-    "whill devices allows",
-    "tracking tv viewing",
-    "static policy enforcement",
-    "small mistakes turn",
     "remote code execution",
-    "recommended immediate actions",
-    "office 365 tenants",
-    "next wave hits"
+    "reboot loops due",
+    "concept poc exploit",
+    "security problems show",
+    "narrative intelligence platform",
+    "critical vulnerability patched",
+    "windows operating systems",
+    "twitter whistleblower complaint",
+    "internet router probably",
+    "exploits surrounding ics",
+    "continuous identity protection",
+    "unauthenticated bluetooth access",
+    "takeover attacks tracked",
+    "attacks targeting brazil",
+    "malicious cyber actors",
+    "phish u s",
+    "whill devices allows",
+    "unpaid toll fee",
+    "tracking tv viewing",
+    "today we'll dig"
   ],
   "trending": [
     {
+      "keyword": "remote code execution",
+      "mentions": 20
+    },
+    {
       "keyword": "reboot loops due",
-      "mentions": 1
-    },
-    {
-      "keyword": "continuous identity protection",
-      "mentions": 4
-    },
-    {
-      "keyword": "security problems show",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 269
-    },
-    {
-      "keyword": "narrative intelligence platform",
-      "mentions": 4
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 168
-    },
-    {
-      "keyword": "emerging threat actor",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "concept poc exploit",
-      "mentions": 6
-    },
-    {
-      "keyword": "concept exploit code",
       "mentions": 7
     },
     {
-      "keyword": "unauthenticated bluetooth access",
+      "keyword": "security problems show",
+      "mentions": 6
+    },
+    {
+      "keyword": "narrative intelligence platform",
       "mentions": 5
+    },
+    {
+      "keyword": "critical vulnerability patched",
+      "mentions": 4
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 28
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 270
+    },
+    {
+      "keyword": "internet router probably",
+      "mentions": 16
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 169
     }
   ],
   "articles": [
@@ -152,6 +152,45 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Gmail's new AI Inbox uses Gemini, but Google says it won’t train AI on user emails",
+      "link": "https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/",
+      "summary": "Google says it's rolling out a new feature called 'AI Inbox,' which summarizes all your emails, but the company promises it won't train its models on your emails. [...]",
+      "published": "Thu, 08 Jan 2026 18:46:30 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New China-linked hackers breach telcos using edge device exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/",
+      "summary": "A sophisticated threat actor that uses Linux-based malware to target telecommunications providers has recently broadened its operations to include organizations in Southeastern Europe. [...]",
+      "published": "Thu, 08 Jan 2026 18:39:12 -0500",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/",
+      "summary": "The North Korean state-sponsored hacker group Kimsuki is using malicious QR codes in spearphishing campaigns that target U.S. organizations, the Federal Bureau of Investigation warns in a flash alert. [...]",
+      "published": "Thu, 08 Jan 2026 17:57:05 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "xAI teases major Grok upgrade, hints at Grok Code CLI",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/",
+      "summary": "Elon Musk-backed xAI has been missing in action for a while now, but today, Musk teased a major upgrade for Grok alongside new products. [...]",
+      "published": "Thu, 08 Jan 2026 17:43:00 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "VMware ESXi zero-days likely exploited a year before disclosure",
       "link": "https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/",
       "summary": "Chinese-speaking threat actors used a compromised SonicWall VPN appliance to deliver a VMware ESXi exploit toolkit that seems to have been developed more than a year before the targeted vulnerabilities became publicly known. [...]",
@@ -189,46 +228,99 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Microsoft Exchange Online outage blocks access to mailboxes via IMAP4",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/",
-      "summary": "Microsoft is working to fix an Exchange Online service outage that intermittently prevents users from accessing their mailboxes via the Internet Mailbox Access Protocol 4 (IMAP4). [...]",
-      "published": "Thu, 08 Jan 2026 07:45:35 -0500",
-      "value_score": 18,
+      "source": "Krebs on Security",
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
+      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
+      "value_score": 20,
       "value_signals": [
-        "Patch/update"
+        "Botnet"
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Microsoft to enforce MFA for Microsoft 365 admin center sign-ins",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/",
-      "summary": "Microsoft will start enforcing multi-factor authentication (MFA) for all users accessing the Microsoft 365 admin center starting next month. [...]",
-      "published": "Thu, 08 Jan 2026 07:10:34 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of Identity Service Engine flaw with exploit code",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/",
-      "summary": "Cisco has patched an ISE vulnerability with public proof-of-concept exploit code that can be abused by attackers with admin privileges. [...]",
-      "published": "Thu, 08 Jan 2026 04:13:17 -0500",
-      "value_score": 16,
+      "source": "Krebs on Security",
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
+      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
+      "value_score": 26,
       "value_signals": [
+        "Botnet",
         "Exploit wording"
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "CISA tags max severity HPE OneView flaw as actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has flagged a maximum-severity HPE OneView vulnerability as actively exploited in attacks. [...]",
-      "published": "Thu, 08 Jan 2026 02:45:25 -0500",
-      "value_score": 100,
+      "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
       "value_signals": [
-        "Active exploitation ×2",
-        "CISA/KEV ×2",
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Maximum Severity HPE OneView Flaw Exploited in the Wild",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited",
+      "summary": "Exploitation of CVE-2025-37164 can enable remote code execution on HPE's IT infrastructure management platform, leading to devastating consequences.",
+      "published": "Thu, 08 Jan 2026 22:21:29 GMT",
+      "value_score": 79,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "RCE",
         "Exploit wording"
       ]
     },
@@ -302,17 +394,6 @@
       "published": "Wed, 07 Jan 2026 14:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Lack of MFA Is Common Thread in Vast Cloud Credential Heist",
-      "link": "https://www.darkreading.com/cloud-security/lack-mfa-common-thread-vast-cloud-credential-heist",
-      "summary": "An emerging threat actor that goes by \"Zestix\" used an assortment of infostealers to obtain credentials and breach file-sharing instances of approximately 50 enterprises.",
-      "published": "Wed, 07 Jan 2026 12:35:46 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Security Week",

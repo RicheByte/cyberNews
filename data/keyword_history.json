@@ -22,7 +22,8 @@
     "2026-01-05",
     "2026-01-06",
     "2026-01-07",
-    "2026-01-08"
+    "2026-01-08",
+    "2026-01-09"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -68,7 +69,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -87,7 +88,8 @@
         "2026-01-02",
         "2026-01-03",
         "2026-01-06",
-        "2026-01-07"
+        "2026-01-07",
+        "2026-01-09"
       ]
     },
     "user named csnemess": {
@@ -125,18 +127,19 @@
       ]
     },
     "windows operating systems": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2025-12-17",
         "2025-12-18",
         "2025-12-22",
         "2025-12-23",
         "2026-01-07",
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 269,
+      "count": 270,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -160,7 +163,8 @@
         "2026-01-05",
         "2026-01-06",
         "2026-01-07",
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "supposed wayward package": {
@@ -273,7 +277,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -290,7 +294,8 @@
         "2026-01-03",
         "2026-01-04",
         "2026-01-05",
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "campaign dubbed ghostpairing": {
@@ -398,11 +403,12 @@
       ]
     },
     "remote code execution": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2025-12-18",
         "2025-12-19",
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "attacker remotely control": {
@@ -957,7 +963,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -973,7 +979,8 @@
         "2026-01-05",
         "2026-01-06",
         "2026-01-07",
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "53 000 individuals": {
@@ -1711,11 +1718,12 @@
       ]
     },
     "internet router probably": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-05",
         "2026-01-06",
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "cryptomining botnet payloads": {
@@ -2064,21 +2072,24 @@
       ]
     },
     "concept poc exploit": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "security problems show": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "unauthenticated bluetooth access": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "strong theme running": {
@@ -2088,33 +2099,38 @@
       ]
     },
     "narrative intelligence platform": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "continuous identity protection": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "critical vulnerability patched": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "whill devices allows": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "reboot loops due": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "emerging threat actor": {
@@ -2124,9 +2140,10 @@
       ]
     },
     "tracking tv viewing": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-09"
       ]
     },
     "static policy enforcement": {
@@ -2152,20 +2169,33 @@
       "dates": [
         "2026-01-08"
       ]
+    },
+    "takeover attacks tracked": {
+      "count": 1,
+      "dates": [
+        "2026-01-09"
+      ]
+    },
+    "attacks targeting brazil": {
+      "count": 1,
+      "dates": [
+        "2026-01-09"
+      ]
+    },
+    "phish u s": {
+      "count": 1,
+      "dates": [
+        "2026-01-09"
+      ]
+    },
+    "today we'll dig": {
+      "count": 1,
+      "dates": [
+        "2026-01-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2025-12-31 16:20",
-      "articles": 56,
-      "top_keywords": [
-        "authentication bypass flaw",
-        "bypass authentication mechanisms",
-        "mass creating fake",
-        "cyber security agency",
-        "prolific cybercriminal group"
-      ]
-    },
     {
       "timestamp": "2025-12-31 18:23",
       "articles": 56,
@@ -3252,6 +3282,17 @@
         "continuous identity protection",
         "security problems show",
         "twitter whistleblower complaint",
+        "narrative intelligence platform"
+      ]
+    },
+    {
+      "timestamp": "2026-01-09 01:19",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "reboot loops due",
+        "concept poc exploit",
+        "security problems show",
         "narrative intelligence platform"
       ]
     }

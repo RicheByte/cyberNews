@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-01-09 18:26",
+  "last_updated": "2026-01-09 20:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "377 000 impacted",
     "arbitrary code execution",
-    "malicious cyber actors",
-    "security problems show",
     "twitter whistleblower complaint",
     "nearly 600 women",
-    "internet router probably",
+    "malicious cyber actors",
     "exploits surrounding ics",
-    "cve 2025 37164",
     "130 companies tangled",
     "critical security flaw",
+    "cve 2025 37164",
     "execute arbitrary code",
     "nuclear research agency",
-    "internal network behind",
     "material security explains",
+    "internal network behind",
     "2026 cybersecurity predictions",
     "yet many strategies",
     "windows operating systems",
     "upcoming webinar hosted",
-    "unpaid toll fee"
+    "unpaid toll fee",
+    "trend micro warns",
+    "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "377 000 impacted",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 5
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 142
-    },
-    {
-      "keyword": "security problems show",
-      "mentions": 15
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 279
-    },
-    {
-      "keyword": "nearly 600 women",
-      "mentions": 3
-    },
-    {
-      "keyword": "internet router probably",
-      "mentions": 24
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 178
-    },
-    {
-      "keyword": "cve 2025 37164",
       "mentions": 6
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 280
+    },
+    {
+      "keyword": "nearly 600 women",
+      "mentions": 4
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 143
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 179
+    },
+    {
       "keyword": "130 companies tangled",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 104
+    },
+    {
+      "keyword": "cve 2025 37164",
+      "mentions": 7
+    },
+    {
+      "keyword": "execute arbitrary code",
+      "mentions": 14
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
+      "link": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
+      "summary": "Chinese-speaking threat actors are suspected to have leveraged a compromised SonicWall VPN appliance as an initial access vector to deploy a VMware ESXi exploit that may have been developed as far back as February 2024. Cybersecurity firm Huntress, which observed the activity in December 2025 and stopped it before it could progress to the final stage, said it may have resulted in a ransomware",
+      "published": "Fri, 09 Jan 2026 23:13:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Ransomware",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
@@ -140,15 +152,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
-      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
-      "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere. This week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in. Read on to catch up before the next wave hits. Honeypot Traps Hackers Hackers Fall for",
-      "published": "Thu, 08 Jan 2026 18:19:00 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
-      ]
+      "source": "BleepingComputer",
+      "title": "Hackers target misconfigured proxies to access paid LLM services",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/",
+      "summary": "Threat actors are systematically hunting for misconfigured proxy servers that could provide access to commercial large language model (LLM) services. [...]",
+      "published": "Fri, 09 Jan 2026 14:56:49 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -226,15 +236,6 @@
         "Breach/leak",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/",
-      "summary": "The North Korean state-sponsored hacker group Kimsuki is using malicious QR codes in spearphishing campaigns that target U.S. organizations, the Federal Bureau of Investigation warns in a flash alert. [...]",
-      "published": "Thu, 08 Jan 2026 17:57:05 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

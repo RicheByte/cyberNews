@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-09 10:18 UTC  
+> **Last Updated:** 2026-01-09 12:35 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**reboot loops due** • **arbitrary code execution** • **concept poc exploit** • **security problems show** • **narrative intelligence platform** • **malicious cyber actors** • **cve 2025 37164** • **twitter whistleblower complaint** • **internet router probably** • **exploits surrounding ics** • **continuous identity protection** • **unauthenticated bluetooth access** • **critical vulnerability patched** • **takeover attacks tracked** • **attacks targeting brazil** • **internal network behind** • **authenticated remote attacker** • **windows operating systems** • **whill devices allows** • **unpaid toll fee**
+**377 000 impacted** • **reboot loops due** • **cve 2025 37164** • **arbitrary code execution** • **critical security flaw** • **narrative intelligence platform** • **malicious cyber actors** • **yet many strategies** • **twitter whistleblower complaint** • **sophisticated threat actor** • **security problems show** • **exploits surrounding ics** • **execute arbitrary code** • **2025 kimsuky actors** • **upcoming webinar hosted** • **today musk teased** • **static policy enforcement** • **small mistakes turn** • **rare bulk closure** • **office 365 tenants**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)](https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html)
 - [Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions](https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html)
 - [CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024](https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html)
 - [FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing](https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html)
@@ -23,10 +24,10 @@
 - [China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes](https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html)
 - [ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html)
 - [The State of Trusted Open Source](https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html)
-- [Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release](https://thehackernews.com/2026/01/cisco-patches-ise-security.html)
 
 ### BleepingComputer
 
+- [Trend Micro warns of critical Apex Central RCE vulnerability](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/)
 - [CISA retires 10 emergency cyber orders in rare bulk closure](https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/)
 - [Gmail's new AI Inbox uses Gemini, but Google says it won’t train AI on user emails](https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/)
 - [New China-linked hackers breach telcos using edge device exploits](https://www.bleepingcomputer.com/news/security/new-china-linked-hackers-breach-telcos-using-edge-device-exploits/)
@@ -34,18 +35,6 @@
 - [xAI teases major Grok upgrade, hints at Grok Code CLI](https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/)
 - [VMware ESXi zero-days likely exploited a year before disclosure](https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/)
 - [Cisco switches hit by reboot loops due to DNS client bug](https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/)
-- [Texas court blocks Samsung from tracking TV viewing, then vacates order](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/)
-
-### Krebs on Security
-
-- [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
-- [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
-- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
-- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
-- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
 
 ### Dark Reading
 
@@ -60,14 +49,14 @@
 
 ### Security Week
 
+- [377,000 Impacted by Data Breach at Texas Gas Station Firm](https://www.securityweek.com/377000-impacted-by-data-breach-at-texas-gas-station-firm/)
+- [Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure](https://www.securityweek.com/exploit-for-vmware-zero-day-flaws-likely-built-a-year-before-public-disclosure/)
 - [UK Government Unveils New Cyber Action Plan](https://www.securityweek.com/uk-government-unveils-new-cyber-action-plan/)
 - [CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash](https://www.securityweek.com/crowdstrike-to-buy-identity-security-firm-sgnl-for-740-million-in-cash/)
 - [Blackbird.AI Raises $28 Million for Narrative Intelligence Platform](https://www.securityweek.com/blackbird-ai-raises-28-million-for-narrative-intelligence-platform/)
 - [Cyera Raises $400 Million at $9 Billion Valuation](https://www.securityweek.com/cyera-raises-400-million-at-9-billion-valuation/)
 - [Rethinking Security for Agentic AI](https://www.securityweek.com/rethinking-security-for-agentic-ai/)
 - [Critical Vulnerability Patched in jsPDF](https://www.securityweek.com/critical-vulnerability-patched-in-jspdf/)
-- [Critical Vulnerability Exposes n8n Instances to Takeover Attacks](https://www.securityweek.com/critical-vulnerability-exposes-n8n-instances-to-takeover-attacks/)
-- [Researchers Expose WHILL Wheelchair Safety Risks via Remote Hacking](https://www.securityweek.com/researchers-expose-whill-wheelchair-safety-risks-via-remote-hacking/)
 
 ### Threatpost
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-09 10:18 UTC |
-| 📰 Articles Analyzed | 56 |
+| 🕐 Last Updated | 2026-01-09 12:35 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`reboot loops due` • `arbitrary code execution` • `concept poc exploit` • `security problems show` • `narrative intelligence platform` • `malicious cyber actors` • `cve 2025 37164` • `twitter whistleblower complaint` • `internet router probably` • `exploits surrounding ics`
+`377 000 impacted` • `reboot loops due` • `cve 2025 37164` • `arbitrary code execution` • `critical security flaw` • `narrative intelligence platform` • `malicious cyber actors` • `yet many strategies` • `twitter whistleblower complaint` • `sophisticated threat actor`
 
 ## 📄 Reports
 

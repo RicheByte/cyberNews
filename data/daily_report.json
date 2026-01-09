@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-09 10:18",
+  "last_updated": "2026-01-09 12:35",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
+    "377 000 impacted",
     "reboot loops due",
+    "cve 2025 37164",
     "arbitrary code execution",
-    "concept poc exploit",
-    "security problems show",
+    "critical security flaw",
     "narrative intelligence platform",
     "malicious cyber actors",
-    "cve 2025 37164",
+    "yet many strategies",
     "twitter whistleblower complaint",
-    "internet router probably",
+    "sophisticated threat actor",
+    "security problems show",
     "exploits surrounding ics",
-    "continuous identity protection",
-    "unauthenticated bluetooth access",
-    "critical vulnerability patched",
-    "takeover attacks tracked",
-    "attacks targeting brazil",
-    "internal network behind",
-    "authenticated remote attacker",
-    "windows operating systems",
-    "whill devices allows",
-    "unpaid toll fee"
+    "execute arbitrary code",
+    "2025 kimsuky actors",
+    "upcoming webinar hosted",
+    "today musk teased",
+    "static policy enforcement",
+    "small mistakes turn",
+    "rare bulk closure",
+    "office 365 tenants"
   ],
   "trending": [
     {
-      "keyword": "reboot loops due",
-      "mentions": 7
-    },
-    {
-      "keyword": "arbitrary code execution",
+      "keyword": "377 000 impacted",
       "mentions": 1
     },
     {
-      "keyword": "concept poc exploit",
-      "mentions": 12
-    },
-    {
-      "keyword": "security problems show",
-      "mentions": 11
-    },
-    {
-      "keyword": "narrative intelligence platform",
-      "mentions": 10
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 138
+      "keyword": "reboot loops due",
+      "mentions": 8
     },
     {
       "keyword": "cve 2025 37164",
+      "mentions": 3
+    },
+    {
+      "keyword": "arbitrary code execution",
       "mentions": 2
     },
     {
+      "keyword": "critical security flaw",
+      "mentions": 100
+    },
+    {
+      "keyword": "narrative intelligence platform",
+      "mentions": 11
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 139
+    },
+    {
+      "keyword": "yet many strategies",
+      "mentions": 1
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 275
+      "mentions": 276
     },
     {
-      "keyword": "internet router probably",
-      "mentions": 21
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 174
+      "keyword": "sophisticated threat actor",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
+      "link": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
+      "summary": "As organizations plan for 2026, cybersecurity predictions are everywhere. Yet many strategies are still shaped by headlines and speculation rather than evidence. The real challenge isn’t a lack of forecasts—it’s identifying which predictions reflect real, emerging risks and which can safely be ignored. An upcoming webinar hosted by Bitdefender aims to cut through the noise with a data-driven",
+      "published": "Fri, 09 Jan 2026 16:39:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
@@ -142,16 +151,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
-      "link": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
-      "summary": "Cisco has released updates to address a medium-severity security flaw in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) with a public proof-of-concept (PoC) exploit. The vulnerability, tracked as CVE-2026-20029 (CVSS score: 4.9), resides in the licensing feature and could allow an authenticated, remote attacker with administrative privileges to gain access to",
-      "published": "Thu, 08 Jan 2026 16:14:00 +0530",
-      "value_score": 54,
+      "source": "BleepingComputer",
+      "title": "Trend Micro warns of critical Apex Central RCE vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/",
+      "summary": "Japanese cybersecurity software firm Trend Micro has patched a critical security flaw in Apex Central (on-premise) that could allow attackers to execute arbitrary code with SYSTEM privileges. [...]",
+      "published": "Fri, 09 Jan 2026 05:40:26 -0500",
+      "value_score": 46,
       "value_signals": [
-        "CVE mentioned",
-        "PoC available ×2",
-        "Exploit wording"
+        "RCE",
+        "High severity ×2"
       ]
     },
     {
@@ -223,98 +231,6 @@
       "published": "Thu, 08 Jan 2026 15:40:26 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Texas court blocks Samsung from tracking TV viewing, then vacates order",
-      "link": "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/",
-      "summary": "The State of Texas obtained a short-lived, temporary restraining order (TRO) against Samsung that prohibited the South Korean company from collecting audio and visual data about what Texas consumers are watching on their TVs. [...]",
-      "published": "Thu, 08 Jan 2026 11:47:24 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Botnet",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
     },
     {
       "source": "Dark Reading",
@@ -403,6 +319,30 @@
     },
     {
       "source": "Security Week",
+      "title": "377,000 Impacted by Data Breach at Texas Gas Station Firm",
+      "link": "https://www.securityweek.com/377000-impacted-by-data-breach-at-texas-gas-station-firm/",
+      "summary": "Gulshan Management Services has informed authorities about a recent data breach resulting from a ransomware attack. The post 377,000 Impacted by Data Breach at Texas Gas Station Firm appeared first on SecurityWeek .",
+      "published": "Fri, 09 Jan 2026 12:06:25 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "Ransomware",
+        "Breach/leak ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure",
+      "link": "https://www.securityweek.com/exploit-for-vmware-zero-day-flaws-likely-built-a-year-before-public-disclosure/",
+      "summary": "Fresh attacks targeted three VMware ESXi vulnerabilities that were disclosed in March 2025 as zero-days. The post Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure appeared first on SecurityWeek .",
+      "published": "Fri, 09 Jan 2026 11:34:47 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "UK Government Unveils New Cyber Action Plan",
       "link": "https://www.securityweek.com/uk-government-unveils-new-cyber-action-plan/",
       "summary": "The UK government’s cyber action plan is by the government for the government, and has no advice for the private sector nor CNI. The post UK Government Unveils New Cyber Action Plan appeared first on SecurityWeek .",
@@ -455,30 +395,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Vulnerability Exposes n8n Instances to Takeover Attacks",
-      "link": "https://www.securityweek.com/critical-vulnerability-exposes-n8n-instances-to-takeover-attacks/",
-      "summary": "Tracked as CVE-2026-21858 (CVSS score 10), the bug enables remote code execution without authentication. The post Critical Vulnerability Exposes n8n Instances to Takeover Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 08 Jan 2026 13:11:37 +0000",
-      "value_score": 64,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Researchers Expose WHILL Wheelchair Safety Risks via Remote Hacking",
-      "link": "https://www.securityweek.com/researchers-expose-whill-wheelchair-safety-risks-via-remote-hacking/",
-      "summary": "CISA advisory warns that unauthenticated Bluetooth access in WHILL devices allows for unauthorized movement. The post Researchers Expose WHILL Wheelchair Safety Risks via Remote Hacking appeared first on SecurityWeek .",
-      "published": "Thu, 08 Jan 2026 12:41:07 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "CISA/KEV"
       ]
     },
     {

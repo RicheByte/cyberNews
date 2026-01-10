@@ -500,7 +500,7 @@
             <p class="tagline">Real-time Cybersecurity News Aggregation & Trend Analysis</p>
             <div class="live-indicator">
                 <span class="live-dot"></span>
-                <span>Last updated: 2026-01-10 14:15 UTC</span>
+                <span>Last updated: 2026-01-10 16:18 UTC</span>
             </div>
         </header>
         
@@ -529,7 +529,7 @@
                     <div class="card-title"><span class="card-icon">🔥</span> Trending Keywords</div>
                 </div>
                 <div class="keyword-cloud">
-                    <span class="keyword-tag large">377 000 impacted (14) </span><span class="keyword-tag large">arbitrary code execution (15) </span><span class="keyword-tag large">twitter whistleblower complaint (289) </span><span class="keyword-tag medium">nearly 600 women (13) </span><span class="keyword-tag medium">misconfigured proxy servers (9) </span><span class="keyword-tag medium">exploits surrounding ics (188) </span><span class="keyword-tag medium">deepfake fraud tools (8) </span><span class="keyword-tag small">130 companies tangled (15) </span><span class="keyword-tag small">cve 2025 37164 (16) </span><span class="keyword-tag small">internal network behind (17) </span>
+                    <span class="keyword-tag large">377 000 impacted (15) </span><span class="keyword-tag large">arbitrary code execution (16) </span><span class="keyword-tag large">twitter whistleblower complaint (290) </span><span class="keyword-tag medium">misconfigured proxy servers (10) </span><span class="keyword-tag medium">exploits surrounding ics (189) </span><span class="keyword-tag medium">130 companies tangled (16) </span><span class="keyword-tag medium">internal network behind (18) </span><span class="keyword-tag small">cve 2025 37164 (17) </span><span class="keyword-tag small">hackers network operators (10) </span><span class="keyword-tag small">deepfake fraud tools (9) </span>
                 </div>
             </div>
             
@@ -539,6 +539,13 @@
                 </div>
                 <div class="timeline">
                     
+        <div class="timeline-item">
+            <div class="timeline-time">2026-01-10 16:18</div>
+            <div class="timeline-content">
+                <strong>56 articles</strong> analyzed
+                <div class="timeline-keywords">377 000 impacted, arbitrary code execution, twitter whistleblower complaint</div>
+            </div>
+        </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-01-10 14:15</div>
             <div class="timeline-content">
@@ -583,13 +590,6 @@
         </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-01-10 03:20</div>
-            <div class="timeline-content">
-                <strong>56 articles</strong> analyzed
-                <div class="timeline-keywords">377 000 impacted, arbitrary code execution, twitter whistleblower complaint</div>
-            </div>
-        </div>
-        <div class="timeline-item">
-            <div class="timeline-time">2026-01-10 01:16</div>
             <div class="timeline-content">
                 <strong>56 articles</strong> analyzed
                 <div class="timeline-keywords">377 000 impacted, arbitrary code execution, twitter whistleblower complaint</div>
@@ -763,6 +763,17 @@
             <div class="article-card" data-source="BleepingComputer">
                 <div class="article-top">
                     <div class="article-source">BleepingComputer</div>
+                    <div class="value-badge value-low">Value 10</div>
+                </div>
+                <h3 class="article-title">
+                    <a href="https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/" target="_blank" rel="noopener">Spain arrests 34 suspects linked to Black Axe cyber crime</a>
+                </h3>
+                <p class="article-summary">Authorities in Spain have arrested 34 individuals allegedly part of a criminal network involved in cyber fraud and believed to be connected to the Bla...</p>
+                <div class="article-meta">Sat, 10 Jan 2026 10:17:46</div>
+            </div>
+            <div class="article-card" data-source="BleepingComputer">
+                <div class="article-top">
+                    <div class="article-source">BleepingComputer</div>
                     <div class="value-badge value-low">Value 18</div>
                 </div>
                 <h3 class="article-title">
@@ -803,17 +814,6 @@
                 </h3>
                 <p class="article-summary">Microsoft is testing a new policy that allows IT administrators to uninstall the AI-powered Copilot digital assistant on managed devices. [...]</p>
                 <div class="article-meta">Fri, 09 Jan 2026 15:34:22</div>
-            </div>
-            <div class="article-card" data-source="BleepingComputer">
-                <div class="article-top">
-                    <div class="article-source">BleepingComputer</div>
-                    <div class="value-badge value-low">Value 10</div>
-                </div>
-                <h3 class="article-title">
-                    <a href="https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/" target="_blank" rel="noopener">Hackers target misconfigured proxies to access paid LLM services</a>
-                </h3>
-                <p class="article-summary">Threat actors are systematically hunting for misconfigured proxy servers that could provide access to commercial large language model (LLM) services. ...</p>
-                <div class="article-meta">Fri, 09 Jan 2026 14:56:49</div>
             </div>
             <div class="article-card" data-source="Krebs on Security">
                 <div class="article-top">
@@ -1146,10 +1146,10 @@
         new Chart(keywordCtx, {
             type: 'bar',
             data: {
-                labels: ["377 000 impacted", "arbitrary code execu", "twitter whistleblowe", "nearly 600 women", "misconfigured proxy ", "exploits surrounding", "deepfake fraud tools", "130 companies tangle", "cve 2025 37164", "internal network beh"],
+                labels: ["377 000 impacted", "arbitrary code execu", "twitter whistleblowe", "misconfigured proxy ", "exploits surrounding", "130 companies tangle", "internal network beh", "cve 2025 37164", "hackers network oper", "deepfake fraud tools"],
                 datasets: [{
                     label: 'Mentions',
-                    data: [14, 15, 289, 13, 9, 188, 8, 15, 16, 17],
+                    data: [15, 16, 290, 10, 189, 16, 18, 17, 10, 9],
                     backgroundColor: 'rgba(0, 255, 136, 0.6)',
                     borderColor: '#00ff88',
                     borderWidth: 1,

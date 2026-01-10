@@ -129,7 +129,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -142,7 +142,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 289,
+      "count": 290,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -172,7 +172,7 @@
       ]
     },
     "supposed wayward package": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -183,7 +183,8 @@
         "2026-01-03",
         "2026-01-06",
         "2026-01-07",
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-10"
       ]
     },
     "life events neurodiversity": {
@@ -281,7 +282,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -945,7 +946,7 @@
       ]
     },
     "sustaining select efforts": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -972,7 +973,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1791,7 +1792,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2204,14 +2205,14 @@
       ]
     },
     "today we'll dig": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-09",
         "2026-01-10"
       ]
     },
     "internal network behind": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-09",
         "2026-01-10"
@@ -2224,14 +2225,14 @@
       ]
     },
     "cve 2025 37164": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-09",
         "2026-01-10"
       ]
     },
     "arbitrary code execution": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-09",
         "2026-01-10"
@@ -2244,14 +2245,14 @@
       ]
     },
     "377 000 impacted": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-09",
         "2026-01-10"
       ]
     },
     "yet many strategies": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-09",
         "2026-01-10"
@@ -2270,7 +2271,7 @@
       ]
     },
     "upcoming webinar hosted": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-09",
         "2026-01-10"
@@ -2309,14 +2310,14 @@
       ]
     },
     "material security explains": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-09",
         "2026-01-10"
       ]
     },
     "2026 cybersecurity predictions": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-09",
         "2026-01-10"
@@ -2329,44 +2330,33 @@
       ]
     },
     "misconfigured proxy servers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-09",
         "2026-01-10"
       ]
     },
     "hackers network operators": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-09",
         "2026-01-10"
       ]
     },
     "deepfake fraud tools": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-10"
       ]
     },
     "targeted vulnerabilities included": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-10"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-02 08:23",
-      "articles": 56,
-      "top_keywords": [
-        "bypass authentication mechanisms",
-        "authentication bypass flaw",
-        "mass creating fake",
-        "malicious cyber actors",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-02 10:16",
       "articles": 56,
@@ -3454,6 +3444,17 @@
         "twitter whistleblower complaint",
         "nearly 600 women",
         "misconfigured proxy servers"
+      ]
+    },
+    {
+      "timestamp": "2026-01-10 16:18",
+      "articles": 56,
+      "top_keywords": [
+        "377 000 impacted",
+        "arbitrary code execution",
+        "twitter whistleblower complaint",
+        "misconfigured proxy servers",
+        "exploits surrounding ics"
       ]
     }
   ]

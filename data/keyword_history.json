@@ -70,7 +70,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -129,7 +129,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -142,7 +142,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 286,
+      "count": 287,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -281,7 +281,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -484,7 +484,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -971,7 +971,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 185,
+      "count": 186,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1790,7 +1790,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2209,7 +2209,7 @@
       ]
     },
     "internal network behind": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-09",
         "2026-01-10"
@@ -2222,14 +2222,14 @@
       ]
     },
     "cve 2025 37164": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-09",
         "2026-01-10"
       ]
     },
     "arbitrary code execution": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-09",
         "2026-01-10"
@@ -2242,14 +2242,14 @@
       ]
     },
     "377 000 impacted": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-09",
         "2026-01-10"
       ]
     },
     "yet many strategies": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-09",
         "2026-01-10"
@@ -2268,7 +2268,7 @@
       ]
     },
     "upcoming webinar hosted": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-09",
         "2026-01-10"
@@ -2287,7 +2287,7 @@
       ]
     },
     "nearly 600 women": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-09",
         "2026-01-10"
@@ -2300,21 +2300,21 @@
       ]
     },
     "nuclear research agency": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-09",
         "2026-01-10"
       ]
     },
     "material security explains": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-09",
         "2026-01-10"
       ]
     },
     "2026 cybersecurity predictions": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-09",
         "2026-01-10"
@@ -2327,38 +2327,27 @@
       ]
     },
     "misconfigured proxy servers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-09",
         "2026-01-10"
       ]
     },
     "hackers network operators": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-09",
         "2026-01-10"
       ]
     },
     "deepfake fraud tools": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-10"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-02 03:26",
-      "articles": 56,
-      "top_keywords": [
-        "bypass authentication mechanisms",
-        "authentication bypass flaw",
-        "mass creating fake",
-        "malicious cyber actors",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-02 04:36",
       "articles": 56,
@@ -3439,6 +3428,17 @@
     },
     {
       "timestamp": "2026-01-10 08:20",
+      "articles": 56,
+      "top_keywords": [
+        "377 000 impacted",
+        "arbitrary code execution",
+        "twitter whistleblower complaint",
+        "nearly 600 women",
+        "misconfigured proxy servers"
+      ]
+    },
+    {
+      "timestamp": "2026-01-10 10:16",
       "articles": 56,
       "top_keywords": [
         "377 000 impacted",

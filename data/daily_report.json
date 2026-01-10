@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 08:20",
+  "last_updated": "2026-01-10 10:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "377 000 impacted",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 286
+      "mentions": 287
     },
     {
       "keyword": "nearly 600 women",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "misconfigured proxy servers",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 149
+      "mentions": 150
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 185
+      "mentions": 186
     },
     {
       "keyword": "deepfake fraud tools",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "cve 2025 37164",
-      "mentions": 13
+      "mentions": 14
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime",
+      "link": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
+      "summary": "Europol on Friday announced the arrest of 34 individuals in Spain who are alleged to be part of an international criminal organization called Black Axe. As part of an operation conducted by the Spanish National Police, in coordination with the Bavarian State Criminal Police Office and Europol, 28 arrests were made in Seville, along with three others in Madrid, two in Málaga, and one in Barcelona",
+      "published": "Sat, 10 Jan 2026 14:29:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
@@ -139,15 +148,6 @@
       "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
       "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil. The campaign has been codenamed Boto Cor-de-Rosa by Acronis Threat Research Unit. \"The malware retrieves the victim's WhatsApp contact list and automatically sends malicious messages to each contact to further",
       "published": "Thu, 08 Jan 2026 22:40:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
-      "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
-      "summary": "A China-nexus threat actor known as UAT-7290 has been attributed to espionage-focused intrusions against entities in South Asia and Southeastern Europe. The activity cluster, which has been active since at least 2022, primarily focuses on extensive technical reconnaissance of target organizations before initiating attacks, ultimately leading to the deployment of malware families such as RushDrop",
-      "published": "Thu, 08 Jan 2026 20:24:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

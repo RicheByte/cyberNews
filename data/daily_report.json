@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 16:18",
+  "last_updated": "2026-01-10 18:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,7 +13,7 @@
     "cve 2025 37164",
     "hackers network operators",
     "deepfake fraud tools",
-    "material security explains",
+    "sprawling phishing campaign",
     "2026 cybersecurity predictions",
     "yet many strategies",
     "windows operating systems",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "377 000 impacted",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 16
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 290
-    },
-    {
-      "keyword": "misconfigured proxy servers",
-      "mentions": 10
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 189
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 16
-    },
-    {
-      "keyword": "internal network behind",
-      "mentions": 18
-    },
-    {
-      "keyword": "cve 2025 37164",
       "mentions": 17
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 291
+    },
+    {
+      "keyword": "misconfigured proxy servers",
+      "mentions": 11
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 190
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 17
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 19
+    },
+    {
+      "keyword": "cve 2025 37164",
+      "mentions": 18
+    },
+    {
       "keyword": "hackers network operators",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "deepfake fraud tools",
-      "mentions": 9
+      "mentions": 10
     }
   ],
   "articles": [
@@ -155,6 +155,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "BreachForums hacking forum database leaked, exposing 324,000 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/",
+      "summary": "The latest incarnation of the notorious BreachForums hacking forum has suffered a data breach, with its user database table leaked online. [...]",
+      "published": "Sat, 10 Jan 2026 13:17:31 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Spain arrests 34 suspects linked to Black Axe cyber crime",
       "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/",
       "summary": "Authorities in Spain have arrested 34 individuals allegedly part of a criminal network involved in cyber fraud and believed to be connected to the Black Axe group responsible for illicit activities across Europe. [...]",
@@ -218,17 +229,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Email security needs more seatbelts: Why click rate is the wrong metric",
-      "link": "https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/",
-      "summary": "Click rate misses the real email security risk: what attackers can do after they access a mailbox. Material Security explains why containment and post-compromise impact matter more than phishing metrics. [...]",
-      "published": "Fri, 09 Jan 2026 10:01:11 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

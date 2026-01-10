@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09 22:16",
+  "last_updated": "2026-01-10 01:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,13 +10,13 @@
     "misconfigured proxy servers",
     "malicious cyber actors",
     "exploits surrounding ics",
+    "deepfake fraud tools",
     "130 companies tangled",
-    "critical security flaw",
     "cve 2025 37164",
+    "internal network behind",
     "execute arbitrary code",
     "nuclear research agency",
     "material security explains",
-    "internal network behind",
     "hackers network operators",
     "2026 cybersecurity predictions",
     "yet many strategies",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "377 000 impacted",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 281
+      "mentions": 282
     },
     {
       "keyword": "nearly 600 women",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "misconfigured proxy servers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 144
+      "mentions": 145
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 180
+      "mentions": 181
+    },
+    {
+      "keyword": "deepfake fraud tools",
+      "mentions": 1
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 7
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 105
+      "mentions": 8
     },
     {
       "keyword": "cve 2025 37164",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
@@ -153,6 +153,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Anthropic: Viral Claude “Banned and reported to authorities” message isn’t real",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/",
+      "summary": "Anthropic has denied reports of banning legitimate accounts, after a viral post on X claimed the creator of Claude had banned a user. [...]",
+      "published": "Fri, 09 Jan 2026 19:06:26 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ChatGPT tests a new feature to find jobs, improve your resume, and more",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/",
+      "summary": "OpenAI is testing \"Jobs,\" a new feature that could help you explore roles, improve your resume, and plan your career. This feature is being tested after ChatGPT gained support for the Health dashboard. [...]",
+      "published": "Fri, 09 Jan 2026 18:23:08 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft may soon allow IT admins to uninstall Copilot",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/",
       "summary": "Microsoft is testing a new policy that allows IT administrators to uninstall the AI-powered Copilot digital assistant on managed devices. [...]",
@@ -213,26 +231,6 @@
         "RCE",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA retires 10 emergency cyber orders in rare bulk closure",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has retired 10 Emergency Directives issued between 2019 and 2024, saying that the required actions have been completed or are now covered by Binding Operational Directive 22-01. [...]",
-      "published": "Thu, 08 Jan 2026 22:46:07 -0500",
-      "value_score": 50,
-      "value_signals": [
-        "CISA/KEV ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Gmail's new AI Inbox uses Gemini, but Google says it won’t train AI on user emails",
-      "link": "https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/",
-      "summary": "Google says it's rolling out a new feature called 'AI Inbox,' which summarizes all your emails, but the company promises it won't train its models on your emails. [...]",
-      "published": "Thu, 08 Jan 2026 18:46:30 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -319,6 +317,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Deepfake Fraud Tools Are Lagging Behind Expectations",
+      "link": "https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations",
+      "summary": "Deepfakes are becoming more realistic and more popular. Luckily, defenders are still ahead in the arms race.",
+      "published": "Fri, 09 Jan 2026 22:08:25 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Illicit Crypto Economy Surges as Nation-States Join in the Fray",
       "link": "https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states",
       "summary": "Cybercriminal cryptocurrency transactions totaled billions in 2025, with activity from sanctioned countries like Russia and Iran causing the largest jump.",
@@ -388,19 +395,6 @@
       "published": "Thu, 08 Jan 2026 15:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Attackers Exploit Zero-Day in End-of-Life D-Link Routers",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers",
-      "summary": "Hackers are attacking a critical zero-day flaw in unsupported D-Link DSL routers to run arbitrary commands.",
-      "published": "Wed, 07 Jan 2026 22:19:57 GMT",
-      "value_score": 74,
-      "value_signals": [
-        "Zero-day ×2",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

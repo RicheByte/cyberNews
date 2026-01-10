@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-09 22:16 UTC  
+> **Last Updated:** 2026-01-10 01:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**377 000 impacted** • **arbitrary code execution** • **twitter whistleblower complaint** • **nearly 600 women** • **misconfigured proxy servers** • **malicious cyber actors** • **exploits surrounding ics** • **130 companies tangled** • **critical security flaw** • **cve 2025 37164** • **execute arbitrary code** • **nuclear research agency** • **material security explains** • **internal network behind** • **hackers network operators** • **2026 cybersecurity predictions** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee**
+**377 000 impacted** • **arbitrary code execution** • **twitter whistleblower complaint** • **nearly 600 women** • **misconfigured proxy servers** • **malicious cyber actors** • **exploits surrounding ics** • **deepfake fraud tools** • **130 companies tangled** • **cve 2025 37164** • **internal network behind** • **execute arbitrary code** • **nuclear research agency** • **material security explains** • **hackers network operators** • **2026 cybersecurity predictions** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Anthropic: Viral Claude “Banned and reported to authorities” message isn’t real](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/)
+- [ChatGPT tests a new feature to find jobs, improve your resume, and more](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/)
 - [Microsoft may soon allow IT admins to uninstall Copilot](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/)
 - [Hackers target misconfigured proxies to access paid LLM services](https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/)
 - [Illinois Department of Human Services data breach affects 700K people](https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/)
 - [Email security needs more seatbelts: Why click rate is the wrong metric](https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/)
 - [Illinois man charged with hacking Snapchat accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/illinois-man-charged-with-hacking-snapchat-accounts-to-steal-nude-photos/)
 - [Trend Micro warns of critical Apex Central RCE vulnerability](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/)
-- [CISA retires 10 emergency cyber orders in rare bulk closure](https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/)
-- [Gmail's new AI Inbox uses Gemini, but Google says it won’t train AI on user emails](https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Deepfake Fraud Tools Are Lagging Behind Expectations](https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations)
 - [Illicit Crypto Economy Surges as Nation-States Join in the Fray](https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states)
 - [Russia’s Fancy Bear APT Doubles Down on Global Secrets Theft](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets)
 - [CrowdStrike to Buy SGNL to Expand Identity Security Capabilities](https://www.darkreading.com/endpoint-security/crowdsrike-buy-sgnl-expand-identity-security-capabilities)
@@ -56,7 +57,6 @@
 - [Fake AI Chrome Extensions Steal 900K Users' Data](https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data)
 - [ChatGPT's Memory Feature Supercharges Prompt Injection](https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection)
 - [Here's What Cloud Security's Future Holds for the Year Ahead](https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead)
-- [Attackers Exploit Zero-Day in End-of-Life D-Link Routers](https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers)
 
 ### Security Week
 

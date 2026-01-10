@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-10 10:16 UTC |
+| 🕐 Last Updated | 2026-01-10 12:31 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`377 000 impacted` • `arbitrary code execution` • `twitter whistleblower complaint` • `nearly 600 women` • `misconfigured proxy servers` • `malicious cyber actors` • `exploits surrounding ics` • `deepfake fraud tools` • `130 companies tangled` • `cve 2025 37164`
+`377 000 impacted` • `arbitrary code execution` • `twitter whistleblower complaint` • `nearly 600 women` • `misconfigured proxy servers` • `exploits surrounding ics` • `deepfake fraud tools` • `130 companies tangled` • `cve 2025 37164` • `internal network behind`
 
 ## 📄 Reports
 

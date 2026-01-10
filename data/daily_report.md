@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-10 10:16 UTC  
+> **Last Updated:** 2026-01-10 12:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**377 000 impacted** • **arbitrary code execution** • **twitter whistleblower complaint** • **nearly 600 women** • **misconfigured proxy servers** • **malicious cyber actors** • **exploits surrounding ics** • **deepfake fraud tools** • **130 companies tangled** • **cve 2025 37164** • **internal network behind** • **execute arbitrary code** • **nuclear research agency** • **material security explains** • **hackers network operators** • **2026 cybersecurity predictions** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee**
+**377 000 impacted** • **arbitrary code execution** • **twitter whistleblower complaint** • **nearly 600 women** • **misconfigured proxy servers** • **exploits surrounding ics** • **deepfake fraud tools** • **130 companies tangled** • **cve 2025 37164** • **internal network behind** • **material security explains** • **hackers network operators** • **2026 cybersecurity predictions** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee** • **today we'll dig** • **targeted vulnerabilities included** • **sustaining select efforts**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors](https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html)
 - [Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime](https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html)
 - [China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines](https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html)
 - [Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations](https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html)
@@ -23,10 +24,10 @@
 - [Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions](https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html)
 - [CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024](https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html)
 - [FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing](https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html)
-- [WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging](https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html)
 
 ### BleepingComputer
 
+- [Ireland recalls almost 13,000 passports over missing 'IRL' code](https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/)
 - [Anthropic: Viral Claude “Banned and reported to authorities” message isn’t real](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/)
 - [ChatGPT tests a new feature to find jobs, improve your resume, and more](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/)
 - [Microsoft may soon allow IT admins to uninstall Copilot](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/)
@@ -34,7 +35,6 @@
 - [Illinois Department of Human Services data breach affects 700K people](https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/)
 - [Email security needs more seatbelts: Why click rate is the wrong metric](https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/)
 - [Illinois man charged with hacking Snapchat accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/illinois-man-charged-with-hacking-snapchat-accounts-to-steal-nude-photos/)
-- [Trend Micro warns of critical Apex Central RCE vulnerability](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/)
 
 ### Krebs on Security
 

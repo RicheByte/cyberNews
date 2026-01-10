@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 10:16",
+  "last_updated": "2026-01-10 12:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,65 +8,76 @@
     "twitter whistleblower complaint",
     "nearly 600 women",
     "misconfigured proxy servers",
-    "malicious cyber actors",
     "exploits surrounding ics",
     "deepfake fraud tools",
     "130 companies tangled",
     "cve 2025 37164",
     "internal network behind",
-    "execute arbitrary code",
-    "nuclear research agency",
     "material security explains",
     "hackers network operators",
     "2026 cybersecurity predictions",
     "yet many strategies",
     "windows operating systems",
     "upcoming webinar hosted",
-    "unpaid toll fee"
+    "unpaid toll fee",
+    "today we'll dig",
+    "targeted vulnerabilities included",
+    "sustaining select efforts"
   ],
   "trending": [
     {
       "keyword": "377 000 impacted",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 287
+      "mentions": 288
     },
     {
       "keyword": "nearly 600 women",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "misconfigured proxy servers",
-      "mentions": 7
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 150
+      "mentions": 8
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 186
+      "mentions": 187
     },
     {
       "keyword": "deepfake fraud tools",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "cve 2025 37164",
-      "mentions": 14
+      "mentions": 15
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 16
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
+      "link": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
+      "summary": "The Iranian threat actor known as MuddyWater has been attributed to a spear-phishing campaign targeting diplomatic, maritime, financial, and telecom entities in the Middle East with a Rust-based implant codenamed RustyWater. \"The campaign uses icon spoofing and malicious Word documents to deliver Rust based implants capable of asynchronous C2, anti-analysis, registry persistence, and modular",
+      "published": "Sat, 10 Jan 2026 16:05:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime",
@@ -143,13 +154,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
-      "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil. The campaign has been codenamed Boto Cor-de-Rosa by Acronis Threat Research Unit. \"The malware retrieves the victim's WhatsApp contact list and automatically sends malicious messages to each contact to further",
-      "published": "Thu, 08 Jan 2026 22:40:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Ireland recalls almost 13,000 passports over missing 'IRL' code",
+      "link": "https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/",
+      "summary": "Ireland's Department of Foreign Affairs has recalled nearly 13,000 passports after a software update caused a printing defect. The printing error makes the documents non-compliant with international travel standards and potentially unreadable at automated border gates. [...]",
+      "published": "Sat, 10 Jan 2026 05:27:38 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -218,18 +231,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trend Micro warns of critical Apex Central RCE vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/",
-      "summary": "Japanese cybersecurity software firm Trend Micro has patched a critical security flaw in Apex Central (on-premise) that could allow attackers to execute arbitrary code with SYSTEM privileges. [...]",
-      "published": "Fri, 09 Jan 2026 05:40:26 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "RCE",
-        "High severity ×2"
       ]
     },
     {

@@ -1,17 +1,16 @@
 {
-  "last_updated": "2026-01-11 18:22",
+  "last_updated": "2026-01-11 20:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "377 000 impacted",
     "arbitrary code execution",
     "twitter whistleblower complaint",
-    "misconfigured proxy servers",
     "exploits surrounding ics",
+    "banning legitimate accounts",
     "130 companies tangled",
     "internal network behind",
     "cve 2025 37164",
-    "hackers network operators",
     "deepfake fraud tools",
     "sprawling phishing campaign",
     "2026 cybersecurity predictions",
@@ -22,48 +21,49 @@
     "today we'll dig",
     "targeted vulnerabilities included",
     "sustaining select efforts",
-    "supposed wayward package"
+    "supposed wayward package",
+    "strong theme running"
   ],
   "trending": [
     {
       "keyword": "377 000 impacted",
-      "mentions": 28
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 28
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 303
-    },
-    {
-      "keyword": "misconfigured proxy servers",
-      "mentions": 23
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 202
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 28
-    },
-    {
-      "keyword": "internal network behind",
-      "mentions": 30
-    },
-    {
-      "keyword": "cve 2025 37164",
       "mentions": 29
     },
     {
-      "keyword": "hackers network operators",
-      "mentions": 22
+      "keyword": "arbitrary code execution",
+      "mentions": 29
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 304
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 203
+    },
+    {
+      "keyword": "banning legitimate accounts",
+      "mentions": 1
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 29
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 31
+    },
+    {
+      "keyword": "cve 2025 37164",
+      "mentions": 30
     },
     {
       "keyword": "deepfake fraud tools",
-      "mentions": 21
+      "mentions": 22
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 28
     }
   ],
   "articles": [
@@ -155,6 +155,27 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Instagram denies breach amid claims of 17 million account data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/",
+      "summary": "Instagram says it fixed a bug that allowed threat actors to mass-request password reset emails, amid claims that data from more than 17 million Instagram accounts was scraped and leaked online. [...]",
+      "published": "Sun, 11 Jan 2026 14:13:01 -0500",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "California bans data broker reselling health data of millions",
+      "link": "https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/",
+      "summary": "The California Privacy Protection Agency (CalPrivacy) has taken action against the Datamasters marketing firm that sold the health and personal data of millions of users without being registered as a data broker. [...]",
+      "published": "Sun, 11 Jan 2026 10:23:34 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft is retiring 'Send to Kindle' in Word",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/",
       "summary": "Microsoft is retiring a feature that allowed you to send your documents to Kindle straight from Microsoft Word. [...]",
@@ -208,24 +229,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/",
       "summary": "OpenAI is testing \"Jobs,\" a new feature that could help you explore roles, improve your resume, and plan your career. This feature is being tested after ChatGPT gained support for the Health dashboard. [...]",
       "published": "Fri, 09 Jan 2026 18:23:08 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft may soon allow IT admins to uninstall Copilot",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/",
-      "summary": "Microsoft is testing a new policy that allows IT administrators to uninstall the AI-powered Copilot digital assistant on managed devices. [...]",
-      "published": "Fri, 09 Jan 2026 15:34:22 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers target misconfigured proxies to access paid LLM services",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/",
-      "summary": "Threat actors are systematically hunting for misconfigured proxy servers that could provide access to commercial large language model (LLM) services. [...]",
-      "published": "Fri, 09 Jan 2026 14:56:49 -0500",
       "value_score": 10,
       "value_signals": []
     },

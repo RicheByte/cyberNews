@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-11 18:22 UTC  
+> **Last Updated:** 2026-01-11 20:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**377 000 impacted** • **arbitrary code execution** • **twitter whistleblower complaint** • **misconfigured proxy servers** • **exploits surrounding ics** • **130 companies tangled** • **internal network behind** • **cve 2025 37164** • **hackers network operators** • **deepfake fraud tools** • **sprawling phishing campaign** • **2026 cybersecurity predictions** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee** • **today we'll dig** • **targeted vulnerabilities included** • **sustaining select efforts** • **supposed wayward package**
+**377 000 impacted** • **arbitrary code execution** • **twitter whistleblower complaint** • **exploits surrounding ics** • **banning legitimate accounts** • **130 companies tangled** • **internal network behind** • **cve 2025 37164** • **deepfake fraud tools** • **sprawling phishing campaign** • **2026 cybersecurity predictions** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee** • **today we'll dig** • **targeted vulnerabilities included** • **sustaining select efforts** • **supposed wayward package** • **strong theme running**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Instagram denies breach amid claims of 17 million account data leak](https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/)
+- [California bans data broker reselling health data of millions](https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/)
 - [Microsoft is retiring 'Send to Kindle' in Word](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/)
 - [BreachForums hacking forum database leaked, exposing 324,000 accounts](https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/)
 - [Spain arrests 34 suspects linked to Black Axe cyber crime](https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/)
 - [Ireland recalls almost 13,000 passports over missing 'IRL' code](https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/)
 - [Anthropic: Viral Claude “Banned and reported to authorities” message isn’t real](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/)
 - [ChatGPT tests a new feature to find jobs, improve your resume, and more](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/)
-- [Microsoft may soon allow IT admins to uninstall Copilot](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/)
-- [Hackers target misconfigured proxies to access paid LLM services](https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/)
 
 ### Krebs on Security
 

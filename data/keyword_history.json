@@ -130,7 +130,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -144,7 +144,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 303,
+      "count": 304,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -175,7 +175,7 @@
       ]
     },
     "supposed wayward package": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -286,7 +286,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -952,7 +952,7 @@
       ]
     },
     "sustaining select efforts": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -980,7 +980,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 202,
+      "count": 203,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1295,7 +1295,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1802,7 +1802,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2118,7 +2118,7 @@
       ]
     },
     "strong theme running": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-08",
         "2026-01-11"
@@ -2218,7 +2218,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2226,7 +2226,7 @@
       ]
     },
     "internal network behind": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2240,7 +2240,7 @@
       ]
     },
     "cve 2025 37164": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2248,7 +2248,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2262,7 +2262,7 @@
       ]
     },
     "377 000 impacted": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2270,7 +2270,7 @@
       ]
     },
     "yet many strategies": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2290,7 +2290,7 @@
       ]
     },
     "upcoming webinar hosted": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2337,7 +2337,7 @@
       ]
     },
     "2026 cybersecurity predictions": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2367,14 +2367,14 @@
       ]
     },
     "deepfake fraud tools": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-10",
         "2026-01-11"
       ]
     },
     "targeted vulnerabilities included": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-10",
         "2026-01-11"
@@ -2421,20 +2421,15 @@
       "dates": [
         "2026-01-11"
       ]
+    },
+    "banning legitimate accounts": {
+      "count": 1,
+      "dates": [
+        "2026-01-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-03 12:30",
-      "articles": 56,
-      "top_keywords": [
-        "nearly 500 000",
-        "mass creating fake",
-        "prolific cybercriminal group",
-        "2 520 wallets",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-03 14:15",
       "articles": 56,
@@ -3522,6 +3517,17 @@
         "twitter whistleblower complaint",
         "misconfigured proxy servers",
         "exploits surrounding ics"
+      ]
+    },
+    {
+      "timestamp": "2026-01-11 20:18",
+      "articles": 56,
+      "top_keywords": [
+        "377 000 impacted",
+        "arbitrary code execution",
+        "twitter whistleblower complaint",
+        "exploits surrounding ics",
+        "banning legitimate accounts"
       ]
     }
   ]

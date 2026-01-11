@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 22:15",
+  "last_updated": "2026-01-11 01:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "377 000 impacted",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 19
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 293
-    },
-    {
-      "keyword": "misconfigured proxy servers",
-      "mentions": 13
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 192
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 19
-    },
-    {
-      "keyword": "internal network behind",
-      "mentions": 21
-    },
-    {
-      "keyword": "cve 2025 37164",
       "mentions": 20
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 294
+    },
+    {
+      "keyword": "misconfigured proxy servers",
+      "mentions": 14
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 193
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 20
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 22
+    },
+    {
+      "keyword": "cve 2025 37164",
+      "mentions": 21
+    },
+    {
       "keyword": "hackers network operators",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "deepfake fraud tools",
-      "mentions": 12
+      "mentions": 13
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft is retiring 'Send to Kindle' in Word",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/",
+      "summary": "Microsoft is retiring a feature that allowed you to send your documents to Kindle straight from Microsoft Word. [...]",
+      "published": "Sat, 10 Jan 2026 19:29:10 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "BreachForums hacking forum database leaked, exposing 324,000 accounts",
       "link": "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/",
       "summary": "The latest incarnation of the notorious BreachForums hacking forum has suffered a data breach, with its user database table leaked online. [...]",
@@ -219,17 +228,6 @@
       "published": "Fri, 09 Jan 2026 14:56:49 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Illinois Department of Human Services data breach affects 700K people",
-      "link": "https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/",
-      "summary": "The Illinois Department of Human Services (IDHS), one of Illinois' largest state agencies, accidentally exposed the personal and health data of nearly 700,000 residents due to incorrect privacy settings. [...]",
-      "published": "Fri, 09 Jan 2026 10:37:41 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",

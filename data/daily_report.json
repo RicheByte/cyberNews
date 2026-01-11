@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-11 03:45",
+  "last_updated": "2026-01-11 04:43",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
     "377 000 impacted",
     "arbitrary code execution",
     "twitter whistleblower complaint",
     "misconfigured proxy servers",
     "exploits surrounding ics",
-    "130 companies tangled",
-    "internal network behind",
-    "cve 2025 37164",
-    "hackers network operators",
-    "deepfake fraud tools",
-    "sprawling phishing campaign",
     "2026 cybersecurity predictions",
+    "130 companies tangled",
+    "cve 2025 37164",
+    "deepfake fraud tools",
     "yet many strategies",
-    "windows operating systems",
     "upcoming webinar hosted",
-    "unpaid toll fee",
-    "today we'll dig",
-    "targeted vulnerabilities included",
     "sustaining select efforts",
-    "supposed wayward package"
+    "sprawling phishing campaign",
+    "software update caused",
+    "senior civilian leader",
+    "recommended immediate actions",
+    "printing error makes",
+    "organized crime europol",
+    "nation states join",
+    "explore roles improve"
   ],
   "trending": [
     {
       "keyword": "377 000 impacted",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 21
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 295
-    },
-    {
-      "keyword": "misconfigured proxy servers",
-      "mentions": 15
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 194
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 21
-    },
-    {
-      "keyword": "internal network behind",
-      "mentions": 23
-    },
-    {
-      "keyword": "cve 2025 37164",
       "mentions": 22
     },
     {
-      "keyword": "hackers network operators",
-      "mentions": 15
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 296
+    },
+    {
+      "keyword": "misconfigured proxy servers",
+      "mentions": 16
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 195
+    },
+    {
+      "keyword": "2026 cybersecurity predictions",
+      "mentions": 19
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 22
+    },
+    {
+      "keyword": "cve 2025 37164",
+      "mentions": 23
     },
     {
       "keyword": "deepfake fraud tools",
-      "mentions": 14
+      "mentions": 15
+    },
+    {
+      "keyword": "yet many strategies",
+      "mentions": 21
     }
   ],
   "articles": [
@@ -228,89 +228,6 @@
       "published": "Fri, 09 Jan 2026 14:56:49 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Botnet",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
     },
     {
       "source": "Dark Reading",

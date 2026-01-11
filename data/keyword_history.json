@@ -144,7 +144,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 295,
+      "count": 296,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -951,7 +951,7 @@
       ]
     },
     "sustaining select efforts": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -979,7 +979,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 194,
+      "count": 195,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1294,7 +1294,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1801,7 +1801,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2185,9 +2185,10 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-11"
       ]
     },
     "next wave hits": {
@@ -2237,7 +2238,7 @@
       ]
     },
     "cve 2025 37164": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2245,7 +2246,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2259,7 +2260,7 @@
       ]
     },
     "377 000 impacted": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2267,7 +2268,7 @@
       ]
     },
     "yet many strategies": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2287,7 +2288,7 @@
       ]
     },
     "upcoming webinar hosted": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2334,7 +2335,7 @@
       ]
     },
     "2026 cybersecurity predictions": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2348,7 +2349,7 @@
       ]
     },
     "misconfigured proxy servers": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2364,7 +2365,7 @@
       ]
     },
     "deepfake fraud tools": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-10",
         "2026-01-11"
@@ -2376,20 +2377,45 @@
         "2026-01-10",
         "2026-01-11"
       ]
+    },
+    "software update caused": {
+      "count": 1,
+      "dates": [
+        "2026-01-11"
+      ]
+    },
+    "senior civilian leader": {
+      "count": 1,
+      "dates": [
+        "2026-01-11"
+      ]
+    },
+    "printing error makes": {
+      "count": 1,
+      "dates": [
+        "2026-01-11"
+      ]
+    },
+    "organized crime europol": {
+      "count": 1,
+      "dates": [
+        "2026-01-11"
+      ]
+    },
+    "nation states join": {
+      "count": 1,
+      "dates": [
+        "2026-01-11"
+      ]
+    },
+    "explore roles improve": {
+      "count": 1,
+      "dates": [
+        "2026-01-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-02 20:18",
-      "articles": 56,
-      "top_keywords": [
-        "nearly 500 000",
-        "mass creating fake",
-        "prolific cybercriminal group",
-        "2 520 wallets",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-02 22:16",
       "articles": 56,
@@ -3471,6 +3497,17 @@
     {
       "timestamp": "2026-01-11 03:45",
       "articles": 56,
+      "top_keywords": [
+        "377 000 impacted",
+        "arbitrary code execution",
+        "twitter whistleblower complaint",
+        "misconfigured proxy servers",
+        "exploits surrounding ics"
+      ]
+    },
+    {
+      "timestamp": "2026-01-11 04:43",
+      "articles": 48,
       "top_keywords": [
         "377 000 impacted",
         "arbitrary code execution",

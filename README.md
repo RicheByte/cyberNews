@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-11 12:32 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-01-11 14:15 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`377 000 impacted` • `twitter whistleblower complaint` • `misconfigured proxy servers` • `exploits surrounding ics` • `2026 cybersecurity predictions` • `internal network behind` • `hackers network operators` • `sprawling phishing campaign` • `yet many strategies` • `windows operating systems`
+`377 000 impacted` • `arbitrary code execution` • `twitter whistleblower complaint` • `misconfigured proxy servers` • `exploits surrounding ics` • `130 companies tangled` • `internal network behind` • `cve 2025 37164` • `hackers network operators` • `deepfake fraud tools`
 
 ## 📄 Reports
 

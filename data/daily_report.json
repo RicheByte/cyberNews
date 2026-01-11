@@ -1,16 +1,20 @@
 {
-  "last_updated": "2026-01-11 12:32",
+  "last_updated": "2026-01-11 14:15",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
     "377 000 impacted",
+    "arbitrary code execution",
     "twitter whistleblower complaint",
     "misconfigured proxy servers",
     "exploits surrounding ics",
-    "2026 cybersecurity predictions",
+    "130 companies tangled",
     "internal network behind",
+    "cve 2025 37164",
     "hackers network operators",
+    "deepfake fraud tools",
     "sprawling phishing campaign",
+    "2026 cybersecurity predictions",
     "yet many strategies",
     "windows operating systems",
     "upcoming webinar hosted",
@@ -18,52 +22,48 @@
     "today we'll dig",
     "targeted vulnerabilities included",
     "sustaining select efforts",
-    "supposed wayward package",
-    "strong theme running",
-    "sms phishers pivot",
-    "senior civilian leader",
-    "scoops nestled inside"
+    "supposed wayward package"
   ],
   "trending": [
     {
       "keyword": "377 000 impacted",
-      "mentions": 25
+      "mentions": 26
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 26
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 300
+      "mentions": 301
     },
     {
       "keyword": "misconfigured proxy servers",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 199
+      "mentions": 200
     },
     {
-      "keyword": "2026 cybersecurity predictions",
-      "mentions": 23
+      "keyword": "130 companies tangled",
+      "mentions": 26
     },
     {
       "keyword": "internal network behind",
+      "mentions": 28
+    },
+    {
+      "keyword": "cve 2025 37164",
       "mentions": 27
     },
     {
       "keyword": "hackers network operators",
+      "mentions": 20
+    },
+    {
+      "keyword": "deepfake fraud tools",
       "mentions": 19
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 24
-    },
-    {
-      "keyword": "yet many strategies",
-      "mentions": 25
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 56
     }
   ],
   "articles": [
@@ -311,6 +311,87 @@
       "value_signals": [
         "Phishing ×3"
       ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Deepfake Fraud Tools Are Lagging Behind Expectations",
+      "link": "https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations",
+      "summary": "Deepfakes are becoming more realistic and more popular. Luckily, defenders are still ahead in the arms race.",
+      "published": "Fri, 09 Jan 2026 22:08:25 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Illicit Crypto Economy Surges as Nation-States Join in the Fray",
+      "link": "https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states",
+      "summary": "Cybercriminal cryptocurrency transactions totaled billions in 2025, with activity from sanctioned countries like Russia and Iran causing the largest jump.",
+      "published": "Fri, 09 Jan 2026 16:56:15 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Russia’s Fancy Bear APT Doubles Down on Global Secrets Theft",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets",
+      "summary": "The notorious Russian state-sponsored group relies on basic techniques that are highly effective, often delivering greater ROI than more complex malware-heavy operations.",
+      "published": "Fri, 09 Jan 2026 07:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "CrowdStrike to Buy SGNL to Expand Identity Security Capabilities",
+      "link": "https://www.darkreading.com/endpoint-security/crowdsrike-buy-sgnl-expand-identity-security-capabilities",
+      "summary": "The CrowdStrike-SGNL deal underscores how identity security has become a critical component of enterprise cybersecurity as companies add cloud services and deploy AI-driven tools.",
+      "published": "Thu, 08 Jan 2026 23:37:23 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Maximum Severity HPE OneView Flaw Exploited in the Wild",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited",
+      "summary": "Exploitation of CVE-2025-37164 can enable remote code execution on HPE's IT infrastructure management platform, leading to devastating consequences.",
+      "published": "Thu, 08 Jan 2026 22:21:29 GMT",
+      "value_score": 79,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Fake AI Chrome Extensions Steal 900K Users' Data",
+      "link": "https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data",
+      "summary": "Threat actors ripped off a legitimate AI-powered Chrome extension in order to harvest ChatGPT and DeepSeek data before sending it to a C2 server.",
+      "published": "Thu, 08 Jan 2026 21:34:40 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "ChatGPT's Memory Feature Supercharges Prompt Injection",
+      "link": "https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection",
+      "summary": "The \"ZombieAgent\" exploit makes use of ChatGPT's long-term memory and advanced capabilities.",
+      "published": "Thu, 08 Jan 2026 20:23:34 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Here's What Cloud Security's Future Holds for the Year Ahead",
+      "link": "https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead",
+      "summary": "Here are the top cloud security trends I'm seeing in my crystal ball for the New Year — particularly arming us for AI adoption.",
+      "published": "Thu, 08 Jan 2026 15:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",

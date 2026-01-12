@@ -72,7 +72,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -147,7 +147,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 316,
+      "count": 317,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -291,7 +291,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -988,7 +988,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 215,
+      "count": 216,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1304,7 +1304,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1407,7 +1407,7 @@
       ]
     },
     "nation s ability": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1704,7 +1704,7 @@
       ]
     },
     "president s efforts": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -2242,7 +2242,7 @@
       ]
     },
     "internal network behind": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2466,7 +2466,7 @@
       ]
     },
     "vmware esxi exploit": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-12"
       ]
@@ -2490,7 +2490,7 @@
       ]
     },
     "sophos vpn portals": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-12"
       ]
@@ -2502,7 +2502,7 @@
       ]
     },
     "exploiting weak credentials": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-12"
       ]
@@ -2514,7 +2514,7 @@
       ]
     },
     "will add warnings": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-12"
       ]
@@ -2526,13 +2526,13 @@
       ]
     },
     "cyber insights 2026": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-12"
       ]
     },
     "accelerate platform adoption": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-12"
       ]
@@ -2544,7 +2544,7 @@
       ]
     },
     "stolen code repositories": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-12"
       ]
@@ -2556,18 +2556,30 @@
       ]
     },
     "malicious word documents": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-12"
       ]
     },
     "ransomware gang breached": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-12"
       ]
     },
     "jasper report vulnerability": {
+      "count": 2,
+      "dates": [
+        "2026-01-12"
+      ]
+    },
+    "ordered government agencies": {
+      "count": 1,
+      "dates": [
+        "2026-01-12"
+      ]
+    },
+    "weekend experienced disruptions": {
       "count": 1,
       "dates": [
         "2026-01-12"
@@ -2575,17 +2587,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-04 14:14",
-      "articles": 56,
-      "top_keywords": [
-        "nearly 500 000",
-        "mass creating fake",
-        "prolific cybercriminal group",
-        "2 520 wallets",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-04 16:18",
       "articles": 56,
@@ -3672,6 +3673,17 @@
         "will add warnings",
         "stolen code repositories",
         "twitter whistleblower complaint",
+        "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-01-12 22:15",
+      "articles": 56,
+      "top_keywords": [
+        "cyber insights 2026",
+        "will add warnings",
+        "twitter whistleblower complaint",
+        "stolen code repositories",
         "sprawling phishing campaign"
       ]
     }

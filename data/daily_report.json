@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-12 20:19",
+  "last_updated": "2026-01-12 22:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "exploiting weak credentials",
+    "cyber insights 2026",
     "will add warnings",
-    "stolen code repositories",
     "twitter whistleblower complaint",
+    "stolen code repositories",
     "sprawling phishing campaign",
     "sophos vpn portals",
-    "record breaking deal",
+    "ordered government agencies",
     "malicious word documents",
-    "lens scanner app",
     "exploits surrounding ics",
     "accelerate platform adoption",
-    "130 companies tangled",
     "malicious cyber actors",
-    "cyber insights 2026",
     "internal network behind",
-    "cve 2025 37164",
+    "exploiting weak credentials",
     "ransomware gang breached",
     "president s efforts",
     "nation s ability",
-    "jasper report vulnerability"
+    "jasper report vulnerability",
+    "weekend experienced disruptions",
+    "vmware esxi exploit",
+    "unpaid toll fee"
   ],
   "trending": [
     {
-      "keyword": "exploiting weak credentials",
+      "keyword": "cyber insights 2026",
       "mentions": 4
     },
     {
       "keyword": "will add warnings",
-      "mentions": 3
-    },
-    {
-      "keyword": "stolen code repositories",
-      "mentions": 2
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 316
+      "mentions": 317
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 40
-    },
-    {
-      "keyword": "sophos vpn portals",
-      "mentions": 5
-    },
-    {
-      "keyword": "record breaking deal",
-      "mentions": 5
-    },
-    {
-      "keyword": "malicious word documents",
-      "mentions": 1
-    },
-    {
-      "keyword": "lens scanner app",
+      "keyword": "stolen code repositories",
       "mentions": 3
     },
     {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 41
+    },
+    {
+      "keyword": "sophos vpn portals",
+      "mentions": 6
+    },
+    {
+      "keyword": "ordered government agencies",
+      "mentions": 1
+    },
+    {
+      "keyword": "malicious word documents",
+      "mentions": 2
+    },
+    {
       "keyword": "exploits surrounding ics",
-      "mentions": 215
+      "mentions": 216
+    },
+    {
+      "keyword": "accelerate platform adoption",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -151,6 +151,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Facebook login thieves now using browser-in-browser trick",
+      "link": "https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/",
+      "summary": "Hackers over the past six months have relied increasingly more on the browser-in-the-browser (BitB) method to trick users into providing Facebook account credentials. [...]",
+      "published": "Mon, 12 Jan 2026 16:05:43 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/",
       "summary": "CISA has ordered government agencies to secure their systems against a high-severity Gogs vulnerability that was exploited in zero-day attacks. [...]",
@@ -221,15 +230,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft is retiring the Lens scanner app for iOS, Android",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/",
-      "summary": "Microsoft has started retiring the Microsoft Lens PDF scanner app for Android and iOS devices on Friday, January 9th, with plans to remove it from app stores next month. [...]",
-      "published": "Mon, 12 Jan 2026 10:48:37 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -316,6 +316,37 @@
     },
     {
       "source": "Dark Reading",
+      "title": "GoBruteforcer Botnet Targets 50K-plus Linux Servers",
+      "link": "https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers",
+      "summary": "Researchers detailed a souped-up version of the GoBruteforcer botnet that preys on servers with weak credentials and AI-generated configurations.",
+      "published": "Mon, 12 Jan 2026 21:19:49 GMT",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Navigating Privacy and Cybersecurity Laws in 2026 Will Prove Difficult",
+      "link": "https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult",
+      "summary": "No matter what new laws or regulations make the cut for 2026, it's clear that compliance challenges will persist and federal legislation will be limited.",
+      "published": "Mon, 12 Jan 2026 20:14:57 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "FBI Flags Quishing Attacks From North Korean APT",
+      "link": "https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt",
+      "summary": "A state-sponsored threat group tracked as \"Kimsuky\" sent QR-code-filled phishing emails to US and foreign government agencies, NGOs, and academic institutions.",
+      "published": "Mon, 12 Jan 2026 19:26:02 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Hexnode Moves into Endpoint Security With Hexnode XDR",
       "link": "https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr",
       "summary": "",
@@ -356,40 +387,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets",
       "summary": "The notorious state-sponsored group relies on basic techniques that are highly effective, often delivering greater ROI than more complex malware-heavy operations.",
       "published": "Fri, 09 Jan 2026 07:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CrowdStrike to Buy SGNL to Expand Identity Security Capabilities",
-      "link": "https://www.darkreading.com/endpoint-security/crowdsrike-buy-sgnl-expand-identity-security-capabilities",
-      "summary": "The CrowdStrike-SGNL deal underscores how identity security has become a critical component of enterprise cybersecurity as companies add cloud services and deploy AI-driven tools.",
-      "published": "Thu, 08 Jan 2026 23:37:23 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Maximum Severity HPE OneView Flaw Exploited in the Wild",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited",
-      "summary": "Exploitation of CVE-2025-37164 can enable remote code execution on HPE's IT infrastructure management platform, leading to devastating consequences.",
-      "published": "Thu, 08 Jan 2026 22:21:29 GMT",
-      "value_score": 79,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fake AI Chrome Extensions Steal 900K Users' Data",
-      "link": "https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data",
-      "summary": "Threat actors ripped off a legitimate AI-powered Chrome extension in order to harvest ChatGPT and DeepSeek data before sending it to a C2 server.",
-      "published": "Thu, 08 Jan 2026 21:34:40 GMT",
       "value_score": 10,
       "value_signals": []
     },

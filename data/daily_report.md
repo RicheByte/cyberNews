@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-12 20:19 UTC  
+> **Last Updated:** 2026-01-12 22:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**exploiting weak credentials** • **will add warnings** • **stolen code repositories** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **sophos vpn portals** • **record breaking deal** • **malicious word documents** • **lens scanner app** • **exploits surrounding ics** • **accelerate platform adoption** • **130 companies tangled** • **malicious cyber actors** • **cyber insights 2026** • **internal network behind** • **cve 2025 37164** • **ransomware gang breached** • **president s efforts** • **nation s ability** • **jasper report vulnerability**
+**cyber insights 2026** • **will add warnings** • **twitter whistleblower complaint** • **stolen code repositories** • **sprawling phishing campaign** • **sophos vpn portals** • **ordered government agencies** • **malicious word documents** • **exploits surrounding ics** • **accelerate platform adoption** • **malicious cyber actors** • **internal network behind** • **exploiting weak credentials** • **ransomware gang breached** • **president s efforts** • **nation s ability** • **jasper report vulnerability** • **weekend experienced disruptions** • **vmware esxi exploit** • **unpaid toll fee**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Facebook login thieves now using browser-in-browser trick](https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/)
 - [CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/)
 - ['Bad actor' hijacks Apex Legends characters in live matches](https://www.bleepingcomputer.com/news/security/bad-actor-hijacks-apex-legends-characters-in-live-matches/)
 - [University of Hawaii Cancer Center hit by ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-hit-by-ransomware-attack/)
@@ -34,7 +35,6 @@
 - [Apple confirms Google Gemini will power Siri, says privacy remains a priority](https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/)
 - [Hidden Telegram proxy links can reveal your IP address in one click](https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/)
 - [Spanish energy giant Endesa discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/)
-- [Microsoft is retiring the Lens scanner app for iOS, Android](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [GoBruteforcer Botnet Targets 50K-plus Linux Servers](https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers)
+- [Navigating Privacy and Cybersecurity Laws in 2026 Will Prove Difficult](https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult)
+- [FBI Flags Quishing Attacks From North Korean APT](https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt)
 - [Hexnode Moves into Endpoint Security With Hexnode XDR](https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr)
 - [Two Separate Campaigns Target Exposed LLM Services](https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services)
 - [Deepfake Fraud Tools Are Lagging Behind Expectations](https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations)
 - [Illicit Crypto Economy Surges Amid Increased Nation-State Activity](https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states)
 - [Russia’s Fancy Bear APT Doubles Down on Global Secrets Theft](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets)
-- [CrowdStrike to Buy SGNL to Expand Identity Security Capabilities](https://www.darkreading.com/endpoint-security/crowdsrike-buy-sgnl-expand-identity-security-capabilities)
-- [Maximum Severity HPE OneView Flaw Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited)
-- [Fake AI Chrome Extensions Steal 900K Users' Data](https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data)
 
 ### Security Week
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-12 12:37 UTC |
+| 🕐 Last Updated | 2026-01-12 14:21 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`hackers accessed university` • `windows operating systems` • `vmware esxi exploit` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `sophos vpn portals` • `service pbaas economy` • `record breaking deal` • `exploits surrounding ics` • `banning legitimate accounts`
+`hackers accessed university` • `windows operating systems` • `vmware esxi exploit` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `sophos vpn portals` • `record breaking deal` • `exploits surrounding ics` • `exploiting weak credentials` • `130 companies tangled`
 
 ## 📄 Reports
 

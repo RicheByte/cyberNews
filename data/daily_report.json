@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12 12:37",
+  "last_updated": "2026-01-12 14:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,64 +9,75 @@
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "sophos vpn portals",
-    "service pbaas economy",
     "record breaking deal",
     "exploits surrounding ics",
-    "banning legitimate accounts",
+    "exploiting weak credentials",
     "130 companies tangled",
     "internal network behind",
     "criminal network involved",
-    "2026 cybersecurity predictions",
-    "yet many strategies",
-    "upcoming webinar hosted",
+    "president s efforts",
+    "nation s ability",
     "unpaid toll fee",
     "today we'll dig",
     "sustaining select efforts",
-    "supposed wayward package"
+    "supposed wayward package",
+    "strong theme running",
+    "sms phishers pivot"
   ],
   "trending": [
     {
       "keyword": "hackers accessed university",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 66
+      "mentions": 67
     },
     {
       "keyword": "vmware esxi exploit",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 312
+      "mentions": 313
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "sophos vpn portals",
-      "mentions": 1
-    },
-    {
-      "keyword": "service pbaas economy",
       "mentions": 2
     },
     {
       "keyword": "record breaking deal",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 211
+      "mentions": 212
     },
     {
-      "keyword": "banning legitimate accounts",
-      "mentions": 9
+      "keyword": "exploiting weak credentials",
+      "mentions": 1
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 38
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
+      "link": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
+      "summary": "This week made one thing clear: small oversights can spiral fast. Tools meant to save time and reduce friction turned into easy entry points once basic safeguards were ignored. Attackers didn’t need novel tricks. They used what was already exposed and moved in without resistance. Scale amplified the damage. A single weak configuration rippled out to millions. A repeatable flaw worked again and",
+      "published": "Mon, 12 Jan 2026 19:11:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
@@ -139,11 +150,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
-      "link": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
-      "summary": "As organizations plan for 2026, cybersecurity predictions are everywhere. Yet many strategies are still shaped by headlines and speculation rather than evidence. The real challenge isn’t a lack of forecasts—it’s identifying which predictions reflect real, emerging risks and which can safely be ignored. An upcoming webinar hosted by Bitdefender aims to cut through the noise with a data-driven",
-      "published": "Fri, 09 Jan 2026 16:39:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Max severity Ni8mare flaw impacts nearly 60,000 n8n instances",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/",
+      "summary": "Nearly 60,000 n8n instances exposed online remain unpatched against a maximum-severity vulnerability dubbed \"Ni8mare.\" [...]",
+      "published": "Mon, 12 Jan 2026 09:05:54 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -216,15 +227,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic: Viral Claude “Banned and reported to authorities” message isn’t real",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/",
-      "summary": "Anthropic has denied reports of banning legitimate accounts, after a viral post on X claimed the creator of Claude had banned a user. [...]",
-      "published": "Fri, 09 Jan 2026 19:06:26 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -320,7 +322,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Illicit Crypto Economy Surges as Nation-States Join in the Fray",
+      "title": "Illicit Crypto Economy Surges Amid Increased Nation-State Activity",
       "link": "https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states",
       "summary": "Cybercriminal cryptocurrency transactions totaled billions in 2025, with activity from sanctioned countries like Russia and Iran causing the largest jump.",
       "published": "Fri, 09 Jan 2026 16:56:15 GMT",
@@ -331,7 +333,7 @@
       "source": "Dark Reading",
       "title": "Russia’s Fancy Bear APT Doubles Down on Global Secrets Theft",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets",
-      "summary": "The notorious Russian state-sponsored group relies on basic techniques that are highly effective, often delivering greater ROI than more complex malware-heavy operations.",
+      "summary": "The notorious state-sponsored group relies on basic techniques that are highly effective, often delivering greater ROI than more complex malware-heavy operations.",
       "published": "Fri, 09 Jan 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -389,6 +391,17 @@
       "published": "Thu, 08 Jan 2026 15:00:00 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Instagram Fixes Password Reset Vulnerability Amid User Data Leak",
+      "link": "https://www.securityweek.com/instagram-fixes-password-reset-vulnerability-amid-user-data-leak/",
+      "summary": "The social media platform confirmed that the issue allowed third parties to send password reset emails to Instagram users. The post Instagram Fixes Password Reset Vulnerability Amid User Data Leak appeared first on SecurityWeek .",
+      "published": "Mon, 12 Jan 2026 14:13:24 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -455,17 +468,6 @@
       "published": "Fri, 09 Jan 2026 15:18:50 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "FBI: North Korean Spear-Phishing Attacks Use Malicious QR Codes",
-      "link": "https://www.securityweek.com/fbi-north-korean-spear-phishing-attacks-use-malicious-qr-codes/",
-      "summary": "The North Korean state-sponsored espionage group Kimsuky has targeted government organizations, think tanks, and academic institutions. The post FBI: North Korean Spear-Phishing Attacks Use Malicious QR Codes appeared first on SecurityWeek .",
-      "published": "Fri, 09 Jan 2026 14:56:09 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
     },
     {
       "source": "Threatpost",

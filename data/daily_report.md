@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-12 12:37 UTC  
+> **Last Updated:** 2026-01-12 14:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hackers accessed university** • **windows operating systems** • **vmware esxi exploit** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **sophos vpn portals** • **service pbaas economy** • **record breaking deal** • **exploits surrounding ics** • **banning legitimate accounts** • **130 companies tangled** • **internal network behind** • **criminal network involved** • **2026 cybersecurity predictions** • **yet many strategies** • **upcoming webinar hosted** • **unpaid toll fee** • **today we'll dig** • **sustaining select efforts** • **supposed wayward package**
+**hackers accessed university** • **windows operating systems** • **vmware esxi exploit** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **sophos vpn portals** • **record breaking deal** • **exploits surrounding ics** • **exploiting weak credentials** • **130 companies tangled** • **internal network behind** • **criminal network involved** • **president s efforts** • **nation s ability** • **unpaid toll fee** • **today we'll dig** • **sustaining select efforts** • **supposed wayward package** • **strong theme running** • **sms phishers pivot**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More](https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html)
 - [GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials](https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html)
 - [Anthropic Launches Claude AI for Healthcare with Secure Health Record Access](https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html)
 - [Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud](https://thehackernews.com/2026/01/researchers-uncover-service-providers.html)
@@ -23,10 +24,10 @@
 - [Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime](https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html)
 - [China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines](https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html)
 - [Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations](https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html)
-- [Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)](https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html)
 
 ### BleepingComputer
 
+- [Max severity Ni8mare flaw impacts nearly 60,000 n8n instances](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/)
 - [Anthropic brings Claude to healthcare with HIPAA-ready Enterprise tools](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/)
 - [Instagram denies breach amid claims of 17 million account data leak](https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/)
 - [California bans data broker reselling health data of millions](https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/)
@@ -34,7 +35,6 @@
 - [BreachForums hacking forum database leaked, exposing 324,000 accounts](https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/)
 - [Spain arrests 34 suspects linked to Black Axe cyber crime](https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/)
 - [Ireland recalls almost 13,000 passports over missing 'IRL' code](https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/)
-- [Anthropic: Viral Claude “Banned and reported to authorities” message isn’t real](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/)
 
 ### Krebs on Security
 
@@ -50,7 +50,7 @@
 ### Dark Reading
 
 - [Deepfake Fraud Tools Are Lagging Behind Expectations](https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations)
-- [Illicit Crypto Economy Surges as Nation-States Join in the Fray](https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states)
+- [Illicit Crypto Economy Surges Amid Increased Nation-State Activity](https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states)
 - [Russia’s Fancy Bear APT Doubles Down on Global Secrets Theft](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets)
 - [CrowdStrike to Buy SGNL to Expand Identity Security Capabilities](https://www.darkreading.com/endpoint-security/crowdsrike-buy-sgnl-expand-identity-security-capabilities)
 - [Maximum Severity HPE OneView Flaw Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited)
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Instagram Fixes Password Reset Vulnerability Amid User Data Leak](https://www.securityweek.com/instagram-fixes-password-reset-vulnerability-amid-user-data-leak/)
 - [Russia’s APT28 Targeting Energy Research, Defense Collaboration Entities](https://www.securityweek.com/russias-apt28-targeting-energy-research-defense-collaboration-entities/)
 - [LLMs in Attacker Crosshairs, Warns Threat Intel Firm](https://www.securityweek.com/llms-in-attacker-crosshairs-warns-threat-intel-firm/)
 - [EU Sets February Deadline for Verdict on Google’s $32B Wiz Acquisition](https://www.securityweek.com/eu-sets-february-deadline-for-verdict-on-googles-32b-wiz-acquisition/)
@@ -67,7 +68,6 @@
 - [Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified](https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/)
 - [In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k](https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/)
 - [Tim Kosiba Named NSA Deputy Director](https://www.securityweek.com/tim-kosiba-named-nsa-deputy-director/)
-- [FBI: North Korean Spear-Phishing Attacks Use Malicious QR Codes](https://www.securityweek.com/fbi-north-korean-spear-phishing-attacks-use-malicious-qr-codes/)
 
 ### Threatpost
 

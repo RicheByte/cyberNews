@@ -131,7 +131,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -146,7 +146,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 309,
+      "count": 310,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -178,7 +178,7 @@
       ]
     },
     "supposed wayward package": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -290,7 +290,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 128,
+      "count": 129,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -957,7 +957,7 @@
       ]
     },
     "sustaining select efforts": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -986,7 +986,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 208,
+      "count": 209,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1302,7 +1302,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1810,7 +1810,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2229,7 +2229,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2238,7 +2238,7 @@
       ]
     },
     "internal network behind": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2253,7 +2253,7 @@
       ]
     },
     "cve 2025 37164": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2262,7 +2262,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2286,7 +2286,7 @@
       ]
     },
     "yet many strategies": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2307,7 +2307,7 @@
       ]
     },
     "upcoming webinar hosted": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2355,7 +2355,7 @@
       ]
     },
     "2026 cybersecurity predictions": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2386,7 +2386,7 @@
       ]
     },
     "deepfake fraud tools": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-10",
         "2026-01-11",
@@ -2394,7 +2394,7 @@
       ]
     },
     "targeted vulnerabilities included": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-10",
         "2026-01-11",
@@ -2448,37 +2448,26 @@
       ]
     },
     "banning legitimate accounts": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-11",
         "2026-01-12"
       ]
     },
     "hackers accessed university": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-12"
       ]
     },
     "vmware esxi exploit": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-12"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-04 01:25",
-      "articles": 56,
-      "top_keywords": [
-        "nearly 500 000",
-        "mass creating fake",
-        "prolific cybercriminal group",
-        "2 520 wallets",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-04 03:46",
       "articles": 56,
@@ -3566,6 +3555,17 @@
         "hackers accessed university",
         "vmware esxi exploit",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-12 08:26",
+      "articles": 56,
+      "top_keywords": [
+        "arbitrary code execution",
+        "hackers accessed university",
+        "vmware esxi exploit",
+        "twitter whistleblower complaint",
+        "exploits surrounding ics"
       ]
     }
   ]

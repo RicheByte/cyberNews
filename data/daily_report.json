@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-01-12 08:26",
+  "last_updated": "2026-01-12 10:21",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
     "arbitrary code execution",
     "hackers accessed university",
     "vmware esxi exploit",
     "twitter whistleblower complaint",
-    "exploits surrounding ics",
-    "cve 2025 37164",
-    "banning legitimate accounts",
-    "130 companies tangled",
-    "internal network behind",
-    "deepfake fraud tools",
     "sprawling phishing campaign",
+    "service pbaas economy",
+    "exploits surrounding ics",
+    "criminal network involved",
+    "banning legitimate accounts",
     "2026 cybersecurity predictions",
+    "130 companies tangled",
+    "cve 2025 37164",
+    "released poc code",
     "yet many strategies",
-    "windows operating systems",
     "upcoming webinar hosted",
-    "unpaid toll fee",
-    "today we'll dig",
-    "targeted vulnerabilities included",
     "sustaining select efforts",
-    "supposed wayward package"
+    "software update caused",
+    "senior civilian leader",
+    "recommended immediate actions",
+    "printing error makes"
   ],
   "trending": [
     {
       "keyword": "arbitrary code execution",
-      "mentions": 35
+      "mentions": 36
     },
     {
       "keyword": "hackers accessed university",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "vmware esxi exploit",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 310
+      "mentions": 311
     },
     {
-      "keyword": "exploits surrounding ics",
-      "mentions": 209
-    },
-    {
-      "keyword": "cve 2025 37164",
-      "mentions": 36
-    },
-    {
-      "keyword": "banning legitimate accounts",
-      "mentions": 7
-    },
-    {
-      "keyword": "130 companies tangled",
+      "keyword": "sprawling phishing campaign",
       "mentions": 35
     },
     {
-      "keyword": "internal network behind",
-      "mentions": 36
+      "keyword": "service pbaas economy",
+      "mentions": 1
     },
     {
-      "keyword": "deepfake fraud tools",
-      "mentions": 28
+      "keyword": "exploits surrounding ics",
+      "mentions": 210
+    },
+    {
+      "keyword": "criminal network involved",
+      "mentions": 1
+    },
+    {
+      "keyword": "banning legitimate accounts",
+      "mentions": 8
+    },
+    {
+      "keyword": "2026 cybersecurity predictions",
+      "mentions": 34
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
+      "link": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
+      "summary": "Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to better understand their health information. Under an initiative called Claude for Healthcare, the company said U.S. subscribers of Claude Pro and Max plans can opt to give Claude secure access to their lab results and health records by connecting to",
+      "published": "Mon, 12 Jan 2026 14:07:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud",
+      "link": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html",
+      "summary": "Cybersecurity researchers have shed light on two service providers that supply online criminal networks with the necessary tools and infrastructure to fuel the pig butchering-as-a-service (PBaaS) economy. At least since 2016, Chinese-speaking criminal groups have erected industrial-scale scam centers across Southeast Asia, creating special economic zones that are devoted to fraudulent investment",
+      "published": "Mon, 12 Jan 2026 13:04:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
@@ -103,7 +121,7 @@
       "source": "The Hacker News",
       "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
       "link": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
-      "summary": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan. The activity has been attributed to APT28 (aka BlueDelta), which was attributed to a \"sustained\"",
+      "summary": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan. The activity has been attributed to APT28 (aka BlueDelta), which was tied to a \"sustained\"",
       "published": "Fri, 09 Jan 2026 20:58:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -131,27 +149,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024",
-      "link": "https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday said it's retiring 10 emergency directives (Eds) that were issued between 2019 and 2024. The list of the directives now considered closed is as follows - ED 19-01: Mitigate DNS Infrastructure Tampering ED 20-02: Mitigate Windows Vulnerabilities from January 2020 Patch Tuesday ED 20-03: Mitigate Windows DNS Server",
-      "published": "Fri, 09 Jan 2026 14:41:00 +0530",
-      "value_score": 58,
-      "value_signals": [
-        "Patch/update",
-        "CISA/KEV ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
-      "link": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) on Thursday released an advisory warning of North Korean state-sponsored threat actors leveraging malicious QR codes in spear-phishing campaigns targeting entities in the country. \"As of 2025, Kimsuky actors have targeted think tanks, academic institutions, and both U.S. and foreign government entities with embedded malicious Quick Response (QR)",
-      "published": "Fri, 09 Jan 2026 11:16:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Anthropic brings Claude to healthcare with HIPAA-ready Enterprise tools",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/",
+      "summary": "Anthropic is bringing Claude for healthcare, following a similar move by OpenAI for ChatGPT. [...]",
+      "published": "Mon, 12 Jan 2026 04:01:16 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -222,98 +226,6 @@
       "published": "Fri, 09 Jan 2026 19:06:26 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ChatGPT tests a new feature to find jobs, improve your resume, and more",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/",
-      "summary": "OpenAI is testing \"Jobs,\" a new feature that could help you explore roles, improve your resume, and plan your career. This feature is being tested after ChatGPT gained support for the Health dashboard. [...]",
-      "published": "Fri, 09 Jan 2026 18:23:08 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Botnet",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
     },
     {
       "source": "Dark Reading",

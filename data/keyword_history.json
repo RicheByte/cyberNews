@@ -146,7 +146,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 308,
+      "count": 309,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -957,7 +957,7 @@
       ]
     },
     "sustaining select efforts": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -986,7 +986,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 207,
+      "count": 208,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -1302,7 +1302,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1810,7 +1810,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2197,10 +2197,11 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-08",
-        "2026-01-11"
+        "2026-01-11",
+        "2026-01-12"
       ]
     },
     "next wave hits": {
@@ -2252,7 +2253,7 @@
       ]
     },
     "cve 2025 37164": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2261,7 +2262,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2276,7 +2277,7 @@
       ]
     },
     "377 000 impacted": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2285,7 +2286,7 @@
       ]
     },
     "yet many strategies": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2306,7 +2307,7 @@
       ]
     },
     "upcoming webinar hosted": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2354,7 +2355,7 @@
       ]
     },
     "2026 cybersecurity predictions": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2385,7 +2386,7 @@
       ]
     },
     "deepfake fraud tools": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-10",
         "2026-01-11",
@@ -2401,27 +2402,31 @@
       ]
     },
     "software update caused": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-11"
+        "2026-01-11",
+        "2026-01-12"
       ]
     },
     "senior civilian leader": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-11"
+        "2026-01-11",
+        "2026-01-12"
       ]
     },
     "printing error makes": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-11"
+        "2026-01-11",
+        "2026-01-12"
       ]
     },
     "organized crime europol": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-11"
+        "2026-01-11",
+        "2026-01-12"
       ]
     },
     "nation states join": {
@@ -2443,37 +2448,26 @@
       ]
     },
     "banning legitimate accounts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-11",
         "2026-01-12"
       ]
     },
     "hackers accessed university": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-12"
       ]
     },
     "vmware esxi exploit": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-12"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-03 22:15",
-      "articles": 56,
-      "top_keywords": [
-        "nearly 500 000",
-        "mass creating fake",
-        "prolific cybercriminal group",
-        "2 520 wallets",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-04 01:25",
       "articles": 56,
@@ -3555,6 +3549,17 @@
     {
       "timestamp": "2026-01-12 04:45",
       "articles": 56,
+      "top_keywords": [
+        "377 000 impacted",
+        "arbitrary code execution",
+        "hackers accessed university",
+        "vmware esxi exploit",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-12 06:29",
+      "articles": 48,
       "top_keywords": [
         "377 000 impacted",
         "arbitrary code execution",

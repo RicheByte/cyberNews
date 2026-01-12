@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-12 14:21",
+  "last_updated": "2026-01-12 16:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "hackers accessed university",
-    "windows operating systems",
+    "shared cloud content",
+    "will add warnings",
     "vmware esxi exploit",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "sophos vpn portals",
     "record breaking deal",
+    "nuclear research agency",
+    "lens scanner app",
     "exploits surrounding ics",
     "exploiting weak credentials",
     "130 companies tangled",
+    "cyber insights 2026",
+    "hackers accessed university",
+    "malicious cyber actors",
     "internal network behind",
-    "criminal network involved",
+    "accelerate platform adoption",
     "president s efforts",
     "nation s ability",
-    "unpaid toll fee",
-    "today we'll dig",
-    "sustaining select efforts",
-    "supposed wayward package",
-    "strong theme running",
-    "sms phishers pivot"
+    "allowed threat actors"
   ],
   "trending": [
     {
-      "keyword": "hackers accessed university",
-      "mentions": 7
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 67
-    },
-    {
-      "keyword": "vmware esxi exploit",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 313
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 37
-    },
-    {
-      "keyword": "sophos vpn portals",
-      "mentions": 2
-    },
-    {
-      "keyword": "record breaking deal",
-      "mentions": 2
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 212
-    },
-    {
-      "keyword": "exploiting weak credentials",
+      "keyword": "shared cloud content",
       "mentions": 1
     },
     {
-      "keyword": "130 companies tangled",
+      "keyword": "will add warnings",
+      "mentions": 1
+    },
+    {
+      "keyword": "vmware esxi exploit",
+      "mentions": 8
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 314
+    },
+    {
+      "keyword": "sprawling phishing campaign",
       "mentions": 38
+    },
+    {
+      "keyword": "sophos vpn portals",
+      "mentions": 3
+    },
+    {
+      "keyword": "record breaking deal",
+      "mentions": 3
+    },
+    {
+      "keyword": "nuclear research agency",
+      "mentions": 11
+    },
+    {
+      "keyword": "lens scanner app",
+      "mentions": 1
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 213
     }
   ],
   "articles": [
@@ -151,6 +151,44 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hidden Telegram proxy links can reveal your IP address in one click",
+      "link": "https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/",
+      "summary": "A single click on what may appear to be a Telegram username or harmless link is all it takes to expose your real IP address to attackers due to how proxy links are handled. Telegram says it will add warnings to proxy links after researchers demonstrated that such one-click interactions could reveal a Telegram user's real IP address. [...]",
+      "published": "Mon, 12 Jan 2026 11:20:47 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Spanish energy giant Endesa discloses data breach affecting customers",
+      "link": "https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/",
+      "summary": "Spanish energy provider Endesa and its Energía XXI operator are notifying customers that hackers accessed the company's systems and accessed contract-related information, which includes personal details. [...]",
+      "published": "Mon, 12 Jan 2026 10:57:50 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft is retiring the Lens scanner app for iOS, Android",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/",
+      "summary": "Microsoft has started retiring the Microsoft Lens PDF scanner app for Android and iOS devices on Friday, January 9th, with plans to remove it from app stores next month. [...]",
+      "published": "Mon, 12 Jan 2026 10:48:37 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Prevent cloud data leaks with Microsoft 365 access reviews",
+      "link": "https://www.bleepingcomputer.com/news/security/prevent-cloud-data-leaks-with-microsoft-365-access-reviews/",
+      "summary": "Microsoft 365 has made file sharing effortless, but that convenience often leaves organizations with little visibility into who can access sensitive data. Tenfold explains how access reviews for shared cloud content can help organizations regain visibility, reduce unnecessary permissions, and prevent data leaks in Microsoft 365. [...]",
+      "published": "Mon, 12 Jan 2026 09:45:00 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Max severity Ni8mare flaw impacts nearly 60,000 n8n instances",
       "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/",
       "summary": "Nearly 60,000 n8n instances exposed online remain unpatched against a maximum-severity vulnerability dubbed \"Ni8mare.\" [...]",
@@ -187,46 +225,6 @@
       "published": "Sun, 11 Jan 2026 10:23:34 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft is retiring 'Send to Kindle' in Word",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/",
-      "summary": "Microsoft is retiring a feature that allowed you to send your documents to Kindle straight from Microsoft Word. [...]",
-      "published": "Sat, 10 Jan 2026 19:29:10 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "BreachForums hacking forum database leaked, exposing 324,000 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/",
-      "summary": "The latest incarnation of the notorious BreachForums hacking forum has suffered a data breach, with its user database table leaked online. [...]",
-      "published": "Sat, 10 Jan 2026 13:17:31 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Spain arrests 34 suspects linked to Black Axe cyber crime",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/",
-      "summary": "Authorities in Spain have arrested 34 individuals allegedly part of a criminal network involved in cyber fraud and believed to be connected to the Black Axe group responsible for illicit activities across Europe. [...]",
-      "published": "Sat, 10 Jan 2026 10:17:46 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ireland recalls almost 13,000 passports over missing 'IRL' code",
-      "link": "https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/",
-      "summary": "Ireland's Department of Foreign Affairs has recalled nearly 13,000 passports after a software update caused a printing defect. The printing error makes the documents non-compliant with international travel standards and potentially unreadable at automated border gates. [...]",
-      "published": "Sat, 10 Jan 2026 05:27:38 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -313,6 +311,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Two Separate Campaigns Target Exposed LLM Services",
+      "link": "https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services",
+      "summary": "A total of 91,403 sessions targeted public LLM endpoints to find leaks in organizations' use of AI and map an expanding attack surface.",
+      "published": "Mon, 12 Jan 2026 15:37:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Deepfake Fraud Tools Are Lagging Behind Expectations",
       "link": "https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations",
       "summary": "Deepfakes are becoming more realistic and more popular. Luckily, defenders are still ahead in the arms race.",
@@ -384,11 +391,11 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Here's What Cloud Security's Future Holds for the Year Ahead",
-      "link": "https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead",
-      "summary": "Here are the top cloud security trends I'm seeing in my crystal ball for the New Year — particularly arming us for AI adoption.",
-      "published": "Thu, 08 Jan 2026 15:00:00 GMT",
+      "source": "Security Week",
+      "title": "Cyber Insights 2026: What CISOs Can Expect in 2026 and Beyond",
+      "link": "https://www.securityweek.com/cyber-insights-2026-what-cisos-can-expect-in-2026-and-beyond/",
+      "summary": "Here we examine the CISO Outlook for 2026, with the purpose of evaluating what is happening now and preparing leaders for what lies ahead in 2026 and beyond. The post Cyber Insights 2026: What CISOs Can Expect in 2026 and Beyond appeared first on SecurityWeek .",
+      "published": "Mon, 12 Jan 2026 15:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -459,15 +466,6 @@
         "Ransomware ×2",
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Tim Kosiba Named NSA Deputy Director",
-      "link": "https://www.securityweek.com/tim-kosiba-named-nsa-deputy-director/",
-      "summary": "Kosiba, a veteran of the Intelligence Community with over 30 years of federal service, returns to the agency as its most senior civilian leader. The post Tim Kosiba Named NSA Deputy Director appeared first on SecurityWeek .",
-      "published": "Fri, 09 Jan 2026 15:18:50 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

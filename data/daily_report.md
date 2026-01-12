@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-12 14:21 UTC  
+> **Last Updated:** 2026-01-12 16:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hackers accessed university** • **windows operating systems** • **vmware esxi exploit** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **sophos vpn portals** • **record breaking deal** • **exploits surrounding ics** • **exploiting weak credentials** • **130 companies tangled** • **internal network behind** • **criminal network involved** • **president s efforts** • **nation s ability** • **unpaid toll fee** • **today we'll dig** • **sustaining select efforts** • **supposed wayward package** • **strong theme running** • **sms phishers pivot**
+**shared cloud content** • **will add warnings** • **vmware esxi exploit** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **sophos vpn portals** • **record breaking deal** • **nuclear research agency** • **lens scanner app** • **exploits surrounding ics** • **exploiting weak credentials** • **130 companies tangled** • **cyber insights 2026** • **hackers accessed university** • **malicious cyber actors** • **internal network behind** • **accelerate platform adoption** • **president s efforts** • **nation s ability** • **allowed threat actors**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Hidden Telegram proxy links can reveal your IP address in one click](https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/)
+- [Spanish energy giant Endesa discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/)
+- [Microsoft is retiring the Lens scanner app for iOS, Android](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/)
+- [Prevent cloud data leaks with Microsoft 365 access reviews](https://www.bleepingcomputer.com/news/security/prevent-cloud-data-leaks-with-microsoft-365-access-reviews/)
 - [Max severity Ni8mare flaw impacts nearly 60,000 n8n instances](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/)
 - [Anthropic brings Claude to healthcare with HIPAA-ready Enterprise tools](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/)
 - [Instagram denies breach amid claims of 17 million account data leak](https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/)
 - [California bans data broker reselling health data of millions](https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/)
-- [Microsoft is retiring 'Send to Kindle' in Word](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/)
-- [BreachForums hacking forum database leaked, exposing 324,000 accounts](https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/)
-- [Spain arrests 34 suspects linked to Black Axe cyber crime](https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/)
-- [Ireland recalls almost 13,000 passports over missing 'IRL' code](https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Two Separate Campaigns Target Exposed LLM Services](https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services)
 - [Deepfake Fraud Tools Are Lagging Behind Expectations](https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations)
 - [Illicit Crypto Economy Surges Amid Increased Nation-State Activity](https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states)
 - [Russia’s Fancy Bear APT Doubles Down on Global Secrets Theft](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets)
@@ -56,10 +57,10 @@
 - [Maximum Severity HPE OneView Flaw Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited)
 - [Fake AI Chrome Extensions Steal 900K Users' Data](https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data)
 - [ChatGPT's Memory Feature Supercharges Prompt Injection](https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection)
-- [Here's What Cloud Security's Future Holds for the Year Ahead](https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead)
 
 ### Security Week
 
+- [Cyber Insights 2026: What CISOs Can Expect in 2026 and Beyond](https://www.securityweek.com/cyber-insights-2026-what-cisos-can-expect-in-2026-and-beyond/)
 - [Instagram Fixes Password Reset Vulnerability Amid User Data Leak](https://www.securityweek.com/instagram-fixes-password-reset-vulnerability-amid-user-data-leak/)
 - [Russia’s APT28 Targeting Energy Research, Defense Collaboration Entities](https://www.securityweek.com/russias-apt28-targeting-energy-research-defense-collaboration-entities/)
 - [LLMs in Attacker Crosshairs, Warns Threat Intel Firm](https://www.securityweek.com/llms-in-attacker-crosshairs-warns-threat-intel-firm/)
@@ -67,7 +68,6 @@
 - [Torq Raises $140 Million at $1.2 Billion Valuation](https://www.securityweek.com/torq-raises-140-million-at-1-2-billion-valuation/)
 - [Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified](https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/)
 - [In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k](https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/)
-- [Tim Kosiba Named NSA Deputy Director](https://www.securityweek.com/tim-kosiba-named-nsa-deputy-director/)
 
 ### Threatpost
 

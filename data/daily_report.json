@@ -1,16 +1,18 @@
 {
-  "last_updated": "2026-01-12 01:22",
+  "last_updated": "2026-01-12 03:45",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "377 000 impacted",
     "arbitrary code execution",
+    "hackers accessed university",
+    "vmware esxi exploit",
     "twitter whistleblower complaint",
     "exploits surrounding ics",
+    "cve 2025 37164",
     "banning legitimate accounts",
     "130 companies tangled",
     "internal network behind",
-    "cve 2025 37164",
     "deepfake fraud tools",
     "sprawling phishing campaign",
     "2026 cybersecurity predictions",
@@ -20,50 +22,48 @@
     "unpaid toll fee",
     "today we'll dig",
     "targeted vulnerabilities included",
-    "sustaining select efforts",
-    "supposed wayward package",
-    "strong theme running"
+    "sustaining select efforts"
   ],
   "trending": [
     {
       "keyword": "377 000 impacted",
-      "mentions": 31
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 31
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 306
-    },
-    {
-      "keyword": "exploits surrounding ics",
-      "mentions": 205
-    },
-    {
-      "keyword": "banning legitimate accounts",
-      "mentions": 3
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 31
-    },
-    {
-      "keyword": "internal network behind",
-      "mentions": 33
-    },
-    {
-      "keyword": "cve 2025 37164",
       "mentions": 32
     },
     {
-      "keyword": "deepfake fraud tools",
-      "mentions": 24
+      "keyword": "arbitrary code execution",
+      "mentions": 32
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 30
+      "keyword": "hackers accessed university",
+      "mentions": 1
+    },
+    {
+      "keyword": "vmware esxi exploit",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 307
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 206
+    },
+    {
+      "keyword": "cve 2025 37164",
+      "mentions": 33
+    },
+    {
+      "keyword": "banning legitimate accounts",
+      "mentions": 4
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 32
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 34
     }
   ],
   "articles": [
@@ -398,6 +398,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified",
+      "link": "https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/",
+      "summary": "UH officials declined an interview request and have refused to provide key information, including which cancer research project had been affected or how much UH paid the hackers to regain access to files. The post Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified appeared first on SecurityWeek .",
+      "published": "Mon, 12 Jan 2026 02:09:09 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k",
       "link": "https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/",
       "summary": "Other noteworthy stories that might have slipped under the radar: Jaguar Land Rover sales crash, hundreds of gen-AI data policy violations, and Chinese cyberattacks against Taiwan intensified. The post In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k appeared first on SecurityWeek .",
@@ -470,18 +479,6 @@
       "value_signals": [
         "Ransomware",
         "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure",
-      "link": "https://www.securityweek.com/exploit-for-vmware-zero-day-flaws-likely-built-a-year-before-public-disclosure/",
-      "summary": "Fresh attacks targeted three VMware ESXi vulnerabilities that were disclosed in March 2025 as zero-days. The post Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure appeared first on SecurityWeek .",
-      "published": "Fri, 09 Jan 2026 11:34:47 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
       ]
     },
     {

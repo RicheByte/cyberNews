@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-12 01:22 UTC |
+| 🕐 Last Updated | 2026-01-12 03:45 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`377 000 impacted` • `arbitrary code execution` • `twitter whistleblower complaint` • `exploits surrounding ics` • `banning legitimate accounts` • `130 companies tangled` • `internal network behind` • `cve 2025 37164` • `deepfake fraud tools` • `sprawling phishing campaign`
+`377 000 impacted` • `arbitrary code execution` • `hackers accessed university` • `vmware esxi exploit` • `twitter whistleblower complaint` • `exploits surrounding ics` • `cve 2025 37164` • `banning legitimate accounts` • `130 companies tangled` • `internal network behind`
 
 ## 📄 Reports
 

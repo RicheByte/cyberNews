@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-12 01:22 UTC  
+> **Last Updated:** 2026-01-12 03:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**377 000 impacted** • **arbitrary code execution** • **twitter whistleblower complaint** • **exploits surrounding ics** • **banning legitimate accounts** • **130 companies tangled** • **internal network behind** • **cve 2025 37164** • **deepfake fraud tools** • **sprawling phishing campaign** • **2026 cybersecurity predictions** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee** • **today we'll dig** • **targeted vulnerabilities included** • **sustaining select efforts** • **supposed wayward package** • **strong theme running**
+**377 000 impacted** • **arbitrary code execution** • **hackers accessed university** • **vmware esxi exploit** • **twitter whistleblower complaint** • **exploits surrounding ics** • **cve 2025 37164** • **banning legitimate accounts** • **130 companies tangled** • **internal network behind** • **deepfake fraud tools** • **sprawling phishing campaign** • **2026 cybersecurity predictions** • **yet many strategies** • **windows operating systems** • **upcoming webinar hosted** • **unpaid toll fee** • **today we'll dig** • **targeted vulnerabilities included** • **sustaining select efforts**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified](https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/)
 - [In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k](https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/)
 - [Tim Kosiba Named NSA Deputy Director](https://www.securityweek.com/tim-kosiba-named-nsa-deputy-director/)
 - [FBI: North Korean Spear-Phishing Attacks Use Malicious QR Codes](https://www.securityweek.com/fbi-north-korean-spear-phishing-attacks-use-malicious-qr-codes/)
@@ -67,7 +68,6 @@
 - [CISA Closes 10 Emergency Directives as Vulnerability Catalog Takes Over](https://www.securityweek.com/cisa-closes-10-emergency-directives-as-vulnerability-catalog-takes-over/)
 - [‘ZombieAgent’ Attack Let Researchers Take Over ChatGPT](https://www.securityweek.com/zombieagent-attack-let-researchers-take-over-chatgpt/)
 - [377,000 Impacted by Data Breach at Texas Gas Station Firm](https://www.securityweek.com/377000-impacted-by-data-breach-at-texas-gas-station-firm/)
-- [Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure](https://www.securityweek.com/exploit-for-vmware-zero-day-flaws-likely-built-a-year-before-public-disclosure/)
 
 ### Threatpost
 

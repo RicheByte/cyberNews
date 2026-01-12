@@ -500,7 +500,7 @@
             <p class="tagline">Real-time Cybersecurity News Aggregation & Trend Analysis</p>
             <div class="live-indicator">
                 <span class="live-dot"></span>
-                <span>Last updated: 2026-01-12 01:22 UTC</span>
+                <span>Last updated: 2026-01-12 03:45 UTC</span>
             </div>
         </header>
         
@@ -529,7 +529,7 @@
                     <div class="card-title"><span class="card-icon">🔥</span> Trending Keywords</div>
                 </div>
                 <div class="keyword-cloud">
-                    <span class="keyword-tag large">377 000 impacted (31) </span><span class="keyword-tag large">arbitrary code execution (31) </span><span class="keyword-tag large">twitter whistleblower complaint (306) </span><span class="keyword-tag medium">exploits surrounding ics (205) </span><span class="keyword-tag medium">banning legitimate accounts (3) </span><span class="keyword-tag medium">130 companies tangled (31) </span><span class="keyword-tag medium">internal network behind (33) </span><span class="keyword-tag small">cve 2025 37164 (32) </span><span class="keyword-tag small">deepfake fraud tools (24) </span><span class="keyword-tag small">sprawling phishing campaign (30) </span>
+                    <span class="keyword-tag large">377 000 impacted (32) </span><span class="keyword-tag large">arbitrary code execution (32) </span><span class="keyword-tag large">hackers accessed university (1) </span><span class="keyword-tag medium">vmware esxi exploit (1) </span><span class="keyword-tag medium">twitter whistleblower complaint (307) </span><span class="keyword-tag medium">exploits surrounding ics (206) </span><span class="keyword-tag medium">cve 2025 37164 (33) </span><span class="keyword-tag small">banning legitimate accounts (4) </span><span class="keyword-tag small">130 companies tangled (32) </span><span class="keyword-tag small">internal network behind (34) </span>
                 </div>
             </div>
             
@@ -539,6 +539,13 @@
                 </div>
                 <div class="timeline">
                     
+        <div class="timeline-item">
+            <div class="timeline-time">2026-01-12 03:45</div>
+            <div class="timeline-content">
+                <strong>56 articles</strong> analyzed
+                <div class="timeline-keywords">377 000 impacted, arbitrary code execution, hackers accessed university</div>
+            </div>
+        </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-01-12 01:22</div>
             <div class="timeline-content">
@@ -586,13 +593,6 @@
             <div class="timeline-content">
                 <strong>48 articles</strong> analyzed
                 <div class="timeline-keywords">377 000 impacted, twitter whistleblower complaint, misconfigured proxy servers</div>
-            </div>
-        </div>
-        <div class="timeline-item">
-            <div class="timeline-time">2026-01-11 10:16</div>
-            <div class="timeline-content">
-                <strong>56 articles</strong> analyzed
-                <div class="timeline-keywords">377 000 impacted, arbitrary code execution, twitter whistleblower complaint</div>
             </div>
         </div>
                 </div>
@@ -928,6 +928,17 @@
             <div class="article-card" data-source="Security Week">
                 <div class="article-top">
                     <div class="article-source">Security Week</div>
+                    <div class="value-badge value-low">Value 10</div>
+                </div>
+                <h3 class="article-title">
+                    <a href="https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/" target="_blank" rel="noopener">Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified</a>
+                </h3>
+                <p class="article-summary">UH officials declined an interview request and have refused to provide key information, including which cancer research project had been affected or h...</p>
+                <div class="article-meta">Mon, 12 Jan 2026 02:09:09</div>
+            </div>
+            <div class="article-card" data-source="Security Week">
+                <div class="article-top">
+                    <div class="article-source">Security Week</div>
                     <div class="value-badge value-med">Value 70</div>
                 </div>
                 <h3 class="article-title">
@@ -968,17 +979,6 @@
                 </h3>
                 <p class="article-summary">Tenable has released PoC code and technical details after the vendor announced the availability of patches for three vulnerabilities. The post Trend M...</p>
                 <div class="article-meta">Fri, 09 Jan 2026 14:01:19</div>
-            </div>
-            <div class="article-card" data-source="Security Week">
-                <div class="article-top">
-                    <div class="article-source">Security Week</div>
-                    <div class="value-badge value-med">Value 50</div>
-                </div>
-                <h3 class="article-title">
-                    <a href="https://www.securityweek.com/cisa-closes-10-emergency-directives-as-vulnerability-catalog-takes-over/" target="_blank" rel="noopener">CISA Closes 10 Emergency Directives as Vulnerability Catalog Takes Over</a>
-                </h3>
-                <p class="article-summary">The Emergency Directives were retired because they achieved objectives or targeted vulnerabilities included in the KEV catalog. The post CISA Closes 1...</p>
-                <div class="article-meta">Fri, 09 Jan 2026 13:41:50</div>
             </div>
             <div class="article-card" data-source="Threatpost">
                 <div class="article-top">
@@ -1146,10 +1146,10 @@
         new Chart(keywordCtx, {
             type: 'bar',
             data: {
-                labels: ["377 000 impacted", "arbitrary code execu", "twitter whistleblowe", "exploits surrounding", "banning legitimate a", "130 companies tangle", "internal network beh", "cve 2025 37164", "deepfake fraud tools", "sprawling phishing c"],
+                labels: ["377 000 impacted", "arbitrary code execu", "hackers accessed uni", "vmware esxi exploit", "twitter whistleblowe", "exploits surrounding", "cve 2025 37164", "banning legitimate a", "130 companies tangle", "internal network beh"],
                 datasets: [{
                     label: 'Mentions',
-                    data: [31, 31, 306, 205, 3, 31, 33, 32, 24, 30],
+                    data: [32, 32, 1, 1, 307, 206, 33, 4, 32, 34],
                     backgroundColor: 'rgba(0, 255, 136, 0.6)',
                     borderColor: '#00ff88',
                     borderWidth: 1,

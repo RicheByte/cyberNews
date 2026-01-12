@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-12 16:22 UTC  
+> **Last Updated:** 2026-01-12 18:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**shared cloud content** • **will add warnings** • **vmware esxi exploit** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **sophos vpn portals** • **record breaking deal** • **nuclear research agency** • **lens scanner app** • **exploits surrounding ics** • **exploiting weak credentials** • **130 companies tangled** • **cyber insights 2026** • **hackers accessed university** • **malicious cyber actors** • **internal network behind** • **accelerate platform adoption** • **president s efforts** • **nation s ability** • **allowed threat actors**
+**exploiting weak credentials** • **will add warnings** • **stolen code repositories** • **vmware esxi exploit** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **sophos vpn portals** • **record breaking deal** • **prevent data leaks** • **lens scanner app** • **exploits surrounding ics** • **accelerate platform adoption** • **130 companies tangled** • **hackers accessed university** • **cyber insights 2026** • **malicious cyber actors** • **internal network behind** • **shared cloud content** • **president s efforts** • **nation s ability**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens](https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html)
 - [⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More](https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html)
 - [GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials](https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html)
 - [Anthropic Launches Claude AI for Healthcare with Secure Health Record Access](https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html)
@@ -23,18 +24,17 @@
 - [MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors](https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html)
 - [Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime](https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html)
 - [China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines](https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html)
-- [Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations](https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html)
 
 ### BleepingComputer
 
+- [Target's dev server offline after hackers claim to steal source code](https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/)
+- [Apple confirms Google Gemini will power Siri, says privacy remains a priority](https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/)
 - [Hidden Telegram proxy links can reveal your IP address in one click](https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/)
 - [Spanish energy giant Endesa discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/)
 - [Microsoft is retiring the Lens scanner app for iOS, Android](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/)
 - [Prevent cloud data leaks with Microsoft 365 access reviews](https://www.bleepingcomputer.com/news/security/prevent-cloud-data-leaks-with-microsoft-365-access-reviews/)
 - [Max severity Ni8mare flaw impacts nearly 60,000 n8n instances](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/)
 - [Anthropic brings Claude to healthcare with HIPAA-ready Enterprise tools](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/)
-- [Instagram denies breach amid claims of 17 million account data leak](https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/)
-- [California bans data broker reselling health data of millions](https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/)
 
 ### Krebs on Security
 

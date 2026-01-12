@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-12 16:22",
+  "last_updated": "2026-01-12 18:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "shared cloud content",
+    "exploiting weak credentials",
     "will add warnings",
+    "stolen code repositories",
     "vmware esxi exploit",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "sophos vpn portals",
     "record breaking deal",
-    "nuclear research agency",
+    "prevent data leaks",
     "lens scanner app",
     "exploits surrounding ics",
-    "exploiting weak credentials",
+    "accelerate platform adoption",
     "130 companies tangled",
-    "cyber insights 2026",
     "hackers accessed university",
+    "cyber insights 2026",
     "malicious cyber actors",
     "internal network behind",
-    "accelerate platform adoption",
+    "shared cloud content",
     "president s efforts",
-    "nation s ability",
-    "allowed threat actors"
+    "nation s ability"
   ],
   "trending": [
     {
-      "keyword": "shared cloud content",
-      "mentions": 1
+      "keyword": "exploiting weak credentials",
+      "mentions": 3
     },
     {
       "keyword": "will add warnings",
+      "mentions": 2
+    },
+    {
+      "keyword": "stolen code repositories",
       "mentions": 1
     },
     {
       "keyword": "vmware esxi exploit",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 314
+      "mentions": 315
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 38
+      "mentions": 39
     },
     {
       "keyword": "sophos vpn portals",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "record breaking deal",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "nuclear research agency",
-      "mentions": 11
-    },
-    {
-      "keyword": "lens scanner app",
+      "keyword": "prevent data leaks",
       "mentions": 1
     },
     {
-      "keyword": "exploits surrounding ics",
-      "mentions": 213
+      "keyword": "lens scanner app",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
+      "link": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
+      "summary": "Threat actors have been observed uploading a set of eight packages on the npm registry that masqueraded as integrations targeting the n8n workflow automation platform to steal developers' OAuth credentials. One such package, named \"n8n-nodes-hfgjf-irtuinvcm-lasdqewriit,\" mimics a Google Ads integration, and prompts users to link their advertising account in a seemingly legitimate form and then",
+      "published": "Mon, 12 Jan 2026 22:09:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
@@ -141,11 +150,20 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
-      "link": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
-      "summary": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan. The activity has been attributed to APT28 (aka BlueDelta), which was tied to a \"sustained\"",
-      "published": "Fri, 09 Jan 2026 20:58:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Target's dev server offline after hackers claim to steal source code",
+      "link": "https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/",
+      "summary": "Hackers are claiming to be selling internal source code belonging to Target Corporation, after publishing what appears to be a sample of stolen code repositories on a public software development platform. After BleepingComputer notified Target, the files were taken offline and the retailer's developer Git server was inaccessible. [...]",
+      "published": "Mon, 12 Jan 2026 12:52:10 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Apple confirms Google Gemini will power Siri, says privacy remains a priority",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/",
+      "summary": "Apple and Google have confirmed that the next version of Siri will use Gemini and Google Cloud in a multi-year collaboration between the two tech giants. [...]",
+      "published": "Mon, 12 Jan 2026 11:43:47 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -202,27 +220,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/",
       "summary": "Anthropic is bringing Claude for healthcare, following a similar move by OpenAI for ChatGPT. [...]",
       "published": "Mon, 12 Jan 2026 04:01:16 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Instagram denies breach amid claims of 17 million account data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/",
-      "summary": "Instagram says it fixed a bug that allowed threat actors to mass-request password reset emails, amid claims that data from more than 17 million Instagram accounts was scraped and leaked online. [...]",
-      "published": "Sun, 11 Jan 2026 14:13:01 -0500",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update",
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "California bans data broker reselling health data of millions",
-      "link": "https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/",
-      "summary": "The California Privacy Protection Agency (CalPrivacy) has taken action against the Datamasters marketing firm that sold the health and personal data of millions of users without being registered as a data broker. [...]",
-      "published": "Sun, 11 Jan 2026 10:23:34 -0500",
       "value_score": 10,
       "value_signals": []
     },

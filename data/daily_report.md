@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-12 10:21 UTC  
+> **Last Updated:** 2026-01-12 12:37 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**arbitrary code execution** • **hackers accessed university** • **vmware esxi exploit** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **service pbaas economy** • **exploits surrounding ics** • **criminal network involved** • **banning legitimate accounts** • **2026 cybersecurity predictions** • **130 companies tangled** • **cve 2025 37164** • **released poc code** • **yet many strategies** • **upcoming webinar hosted** • **sustaining select efforts** • **software update caused** • **senior civilian leader** • **recommended immediate actions** • **printing error makes**
+**hackers accessed university** • **windows operating systems** • **vmware esxi exploit** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **sophos vpn portals** • **service pbaas economy** • **record breaking deal** • **exploits surrounding ics** • **banning legitimate accounts** • **130 companies tangled** • **internal network behind** • **criminal network involved** • **2026 cybersecurity predictions** • **yet many strategies** • **upcoming webinar hosted** • **unpaid toll fee** • **today we'll dig** • **sustaining select efforts** • **supposed wayward package**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials](https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html)
 - [Anthropic Launches Claude AI for Healthcare with Secure Health Record Access](https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html)
 - [Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud](https://thehackernews.com/2026/01/researchers-uncover-service-providers.html)
 - [MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors](https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html)
@@ -23,7 +24,6 @@
 - [China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines](https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html)
 - [Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations](https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html)
 - [Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)](https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html)
-- [Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions](https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html)
 
 ### BleepingComputer
 
@@ -35,6 +35,17 @@
 - [Spain arrests 34 suspects linked to Black Axe cyber crime](https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/)
 - [Ireland recalls almost 13,000 passports over missing 'IRL' code](https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/)
 - [Anthropic: Viral Claude “Banned and reported to authorities” message isn’t real](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/)
+
+### Krebs on Security
+
+- [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+- [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+- [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
 
 ### Dark Reading
 
@@ -49,14 +60,14 @@
 
 ### Security Week
 
+- [Russia’s APT28 Targeting Energy Research, Defense Collaboration Entities](https://www.securityweek.com/russias-apt28-targeting-energy-research-defense-collaboration-entities/)
+- [LLMs in Attacker Crosshairs, Warns Threat Intel Firm](https://www.securityweek.com/llms-in-attacker-crosshairs-warns-threat-intel-firm/)
+- [EU Sets February Deadline for Verdict on Google’s $32B Wiz Acquisition](https://www.securityweek.com/eu-sets-february-deadline-for-verdict-on-googles-32b-wiz-acquisition/)
 - [Torq Raises $140 Million at $1.2 Billion Valuation](https://www.securityweek.com/torq-raises-140-million-at-1-2-billion-valuation/)
 - [Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified](https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/)
 - [In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k](https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/)
 - [Tim Kosiba Named NSA Deputy Director](https://www.securityweek.com/tim-kosiba-named-nsa-deputy-director/)
 - [FBI: North Korean Spear-Phishing Attacks Use Malicious QR Codes](https://www.securityweek.com/fbi-north-korean-spear-phishing-attacks-use-malicious-qr-codes/)
-- [Trend Micro Patches Critical Code Execution Flaw in Apex Central](https://www.securityweek.com/trend-micro-patches-critical-code-execution-flaw-in-apex-central/)
-- [CISA Closes 10 Emergency Directives as Vulnerability Catalog Takes Over](https://www.securityweek.com/cisa-closes-10-emergency-directives-as-vulnerability-catalog-takes-over/)
-- [‘ZombieAgent’ Attack Let Researchers Take Over ChatGPT](https://www.securityweek.com/zombieagent-attack-let-researchers-take-over-chatgpt/)
 
 ### Threatpost
 

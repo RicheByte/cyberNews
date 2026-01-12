@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-01-12 10:21",
+  "last_updated": "2026-01-12 12:37",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
-    "arbitrary code execution",
     "hackers accessed university",
+    "windows operating systems",
     "vmware esxi exploit",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
+    "sophos vpn portals",
     "service pbaas economy",
+    "record breaking deal",
     "exploits surrounding ics",
-    "criminal network involved",
     "banning legitimate accounts",
-    "2026 cybersecurity predictions",
     "130 companies tangled",
-    "cve 2025 37164",
-    "released poc code",
+    "internal network behind",
+    "criminal network involved",
+    "2026 cybersecurity predictions",
     "yet many strategies",
     "upcoming webinar hosted",
+    "unpaid toll fee",
+    "today we'll dig",
     "sustaining select efforts",
-    "software update caused",
-    "senior civilian leader",
-    "recommended immediate actions",
-    "printing error makes"
+    "supposed wayward package"
   ],
   "trending": [
     {
-      "keyword": "arbitrary code execution",
-      "mentions": 36
+      "keyword": "hackers accessed university",
+      "mentions": 6
     },
     {
-      "keyword": "hackers accessed university",
-      "mentions": 5
+      "keyword": "windows operating systems",
+      "mentions": 66
     },
     {
       "keyword": "vmware esxi exploit",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 311
+      "mentions": 312
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 35
+      "mentions": 36
+    },
+    {
+      "keyword": "sophos vpn portals",
+      "mentions": 1
     },
     {
       "keyword": "service pbaas economy",
+      "mentions": 2
+    },
+    {
+      "keyword": "record breaking deal",
       "mentions": 1
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 210
-    },
-    {
-      "keyword": "criminal network involved",
-      "mentions": 1
+      "mentions": 211
     },
     {
       "keyword": "banning legitimate accounts",
-      "mentions": 8
-    },
-    {
-      "keyword": "2026 cybersecurity predictions",
-      "mentions": 34
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
+      "link": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
+      "summary": "A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as FTP, MySQL, PostgreSQL, and phpMyAdmin on Linux servers. \"The current wave of campaigns is driven by two factors: the mass reuse of AI-generated server deployment examples that propagate common",
+      "published": "Mon, 12 Jan 2026 16:18:00 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "Botnet ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
@@ -134,19 +146,6 @@
       "published": "Fri, 09 Jan 2026 16:39:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
-      "link": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
-      "summary": "Trend Micro has released security updates to address multiple security vulnerabilities impacting on-premise versions of Apex Central for Windows, including a critical bug that could result in arbitrary code execution. The vulnerability, tracked as CVE-2025-69258, carries a CVSS score of 9.8 out of a maximum of 10.0. The vulnerability has been described as a case of remote code execution",
-      "published": "Fri, 09 Jan 2026 15:31:00 +0530",
-      "value_score": 76,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "High severity"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -226,6 +225,89 @@
       "published": "Fri, 09 Jan 2026 19:06:26 -0500",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
+      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
+      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Botnet",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -310,6 +392,33 @@
     },
     {
       "source": "Security Week",
+      "title": "Russia’s APT28 Targeting Energy Research, Defense Collaboration Entities",
+      "link": "https://www.securityweek.com/russias-apt28-targeting-energy-research-defense-collaboration-entities/",
+      "summary": "APT28 was seen impersonating popular webmail and VPN services, including Microsoft OWA, Google, and Sophos VPN portals. The post Russia’s APT28 Targeting Energy Research, Defense Collaboration Entities appeared first on SecurityWeek .",
+      "published": "Mon, 12 Jan 2026 12:23:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "LLMs in Attacker Crosshairs, Warns Threat Intel Firm",
+      "link": "https://www.securityweek.com/llms-in-attacker-crosshairs-warns-threat-intel-firm/",
+      "summary": "Threat actors are hunting for misconfigured proxy servers to gain access to APIs for various LLMs. The post LLMs in Attacker Crosshairs, Warns Threat Intel Firm appeared first on SecurityWeek .",
+      "published": "Mon, 12 Jan 2026 11:53:02 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "EU Sets February Deadline for Verdict on Google’s $32B Wiz Acquisition",
+      "link": "https://www.securityweek.com/eu-sets-february-deadline-for-verdict-on-googles-32b-wiz-acquisition/",
+      "summary": "The record-breaking deal has already received a green light from the US government. The post EU Sets February Deadline for Verdict on Google’s $32B Wiz Acquisition appeared first on SecurityWeek .",
+      "published": "Mon, 12 Jan 2026 10:37:12 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Torq Raises $140 Million at $1.2 Billion Valuation",
       "link": "https://www.securityweek.com/torq-raises-140-million-at-1-2-billion-valuation/",
       "summary": "The company will use the investment to accelerate platform adoption and expansion into the federal market. The post Torq Raises $140 Million at $1.2 Billion Valuation appeared first on SecurityWeek .",
@@ -321,7 +430,7 @@
       "source": "Security Week",
       "title": "Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified",
       "link": "https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/",
-      "summary": "UH officials declined an interview request and have refused to provide key information, including which cancer research project had been affected or how much UH paid the hackers to regain access to files. The post Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified appeared first on SecurityWeek .",
+      "summary": "UH officials refused to provide key information, including which cancer research project had been affected or how much UH paid the hackers to regain access to files. The post Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified appeared first on SecurityWeek .",
       "published": "Mon, 12 Jan 2026 02:09:09 +0000",
       "value_score": 10,
       "value_signals": []
@@ -357,38 +466,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Trend Micro Patches Critical Code Execution Flaw in Apex Central",
-      "link": "https://www.securityweek.com/trend-micro-patches-critical-code-execution-flaw-in-apex-central/",
-      "summary": "Tenable has released PoC code and technical details after the vendor announced the availability of patches for three vulnerabilities. The post Trend Micro Patches Critical Code Execution Flaw in Apex Central appeared first on SecurityWeek .",
-      "published": "Fri, 09 Jan 2026 14:01:19 +0000",
-      "value_score": 36,
-      "value_signals": [
-        "PoC available",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Closes 10 Emergency Directives as Vulnerability Catalog Takes Over",
-      "link": "https://www.securityweek.com/cisa-closes-10-emergency-directives-as-vulnerability-catalog-takes-over/",
-      "summary": "The Emergency Directives were retired because they achieved objectives or targeted vulnerabilities included in the KEV catalog. The post CISA Closes 10 Emergency Directives as Vulnerability Catalog Takes Over appeared first on SecurityWeek .",
-      "published": "Fri, 09 Jan 2026 13:41:50 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CISA/KEV ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "‘ZombieAgent’ Attack Let Researchers Take Over ChatGPT",
-      "link": "https://www.securityweek.com/zombieagent-attack-let-researchers-take-over-chatgpt/",
-      "summary": "Radware bypassed ChatGPT’s protections to exfiltrate user data and implant a persistent logic into the agent’s long-term memory. The post ‘ZombieAgent’ Attack Let Researchers Take Over ChatGPT appeared first on SecurityWeek .",
-      "published": "Fri, 09 Jan 2026 12:41:40 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

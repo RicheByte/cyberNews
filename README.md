@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-12 18:26 UTC |
+| 🕐 Last Updated | 2026-01-12 20:19 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`exploiting weak credentials` • `will add warnings` • `stolen code repositories` • `vmware esxi exploit` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `sophos vpn portals` • `record breaking deal` • `prevent data leaks` • `lens scanner app`
+`exploiting weak credentials` • `will add warnings` • `stolen code repositories` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `sophos vpn portals` • `record breaking deal` • `malicious word documents` • `lens scanner app` • `exploits surrounding ics`
 
 ## 📄 Reports
 

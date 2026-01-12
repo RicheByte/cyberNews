@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-12 18:26 UTC  
+> **Last Updated:** 2026-01-12 20:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**exploiting weak credentials** • **will add warnings** • **stolen code repositories** • **vmware esxi exploit** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **sophos vpn portals** • **record breaking deal** • **prevent data leaks** • **lens scanner app** • **exploits surrounding ics** • **accelerate platform adoption** • **130 companies tangled** • **hackers accessed university** • **cyber insights 2026** • **malicious cyber actors** • **internal network behind** • **shared cloud content** • **president s efforts** • **nation s ability**
+**exploiting weak credentials** • **will add warnings** • **stolen code repositories** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **sophos vpn portals** • **record breaking deal** • **malicious word documents** • **lens scanner app** • **exploits surrounding ics** • **accelerate platform adoption** • **130 companies tangled** • **malicious cyber actors** • **cyber insights 2026** • **internal network behind** • **cve 2025 37164** • **ransomware gang breached** • **president s efforts** • **nation s ability** • **jasper report vulnerability**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/)
+- ['Bad actor' hijacks Apex Legends characters in live matches](https://www.bleepingcomputer.com/news/security/bad-actor-hijacks-apex-legends-characters-in-live-matches/)
+- [University of Hawaii Cancer Center hit by ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-hit-by-ransomware-attack/)
 - [Target's dev server offline after hackers claim to steal source code](https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/)
 - [Apple confirms Google Gemini will power Siri, says privacy remains a priority](https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/)
 - [Hidden Telegram proxy links can reveal your IP address in one click](https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/)
 - [Spanish energy giant Endesa discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/)
 - [Microsoft is retiring the Lens scanner app for iOS, Android](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/)
-- [Prevent cloud data leaks with Microsoft 365 access reviews](https://www.bleepingcomputer.com/news/security/prevent-cloud-data-leaks-with-microsoft-365-access-reviews/)
-- [Max severity Ni8mare flaw impacts nearly 60,000 n8n instances](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/)
-- [Anthropic brings Claude to healthcare with HIPAA-ready Enterprise tools](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Hexnode Moves into Endpoint Security With Hexnode XDR](https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr)
 - [Two Separate Campaigns Target Exposed LLM Services](https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services)
 - [Deepfake Fraud Tools Are Lagging Behind Expectations](https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations)
 - [Illicit Crypto Economy Surges Amid Increased Nation-State Activity](https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states)
@@ -56,7 +57,6 @@
 - [CrowdStrike to Buy SGNL to Expand Identity Security Capabilities](https://www.darkreading.com/endpoint-security/crowdsrike-buy-sgnl-expand-identity-security-capabilities)
 - [Maximum Severity HPE OneView Flaw Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited)
 - [Fake AI Chrome Extensions Steal 900K Users' Data](https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data)
-- [ChatGPT's Memory Feature Supercharges Prompt Injection](https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection)
 
 ### Security Week
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/12/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Hitachi Energy Asset Suite](https://www.cisa.gov/news-events/ics-advisories/icsa-26-008-01)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Columbia Weather Systems MicroServer](https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01)
@@ -89,7 +90,6 @@
 - [WHILL Model C2 Electric Wheelchairs and Model F Power Chairs](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-364-01)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/29/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2025/12/23/cisa-releases-one-industrial-control-systems-advisory)
-- [NIST and CISA Release Draft Interagency Report on Protecting Tokens and Assertions from Tampering Theft and Misuse for Public Comment](https://www.cisa.gov/news-events/alerts/2025/12/22/nist-and-cisa-release-draft-interagency-report-protecting-tokens-and-assertions-tampering-theft-and)
 
 ---
 

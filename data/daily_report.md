@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-13 20:19 UTC  
+> **Last Updated:** 2026-01-13 22:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**25 vulnerabilities across** • **will automatically install** • **twitter whistleblower complaint** • **notorious hacker forum** • **critical function backgroun** • **click external links** • **ai generated configurations** • **windows operating systems** • **sprawling phishing campaign** • **phishing campaign shows** • **fake reply comments** • **internal network behind** • **unpaid toll fee** • **today we'll dig** • **supposed wayward package** • **strong theme running** • **sms phishers pivot** • **scoops nestled inside** • **restrict free speech** • **resources without limits**
+**ai generated configurations** • **25 vulnerabilities across** • **420 million news** • **will automatically install** • **twitter whistleblower complaint** • **windows operating systems** • **sprawling phishing campaign** • **phishing campaign shows** • **internal network behind** • **attackers leveraged ai** • **unpaid toll fee** • **today we'll dig** • **supposed wayward package** • **strong theme running** • **sophisticated delivery mechanism** • **sms phishers pivot** • **scoops nestled inside** • **restrict free speech** • **resources without limits** • **repository file editor**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [New VoidLink malware framework targets Linux cloud servers](https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/)
+- [Central Maine Healthcare breach exposed data of over 145,000 people](https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/)
+- [Belgian hospital AZ Monica shuts down servers after cyberattack](https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/)
 - [New Windows updates replace expiring Secure Boot certificates](https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/)
 - [Microsoft releases Windows 10 KB5073724 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/)
 - [Windows 11 KB5074109 & KB5073455 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/)
 - [Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/)
 - [Google confirms Android bug causing volume key issues](https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/)
-- [Betterment confirms data breach after wave of crypto scam emails](https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/)
-- [Convincing LinkedIn comment-reply tactic used in new phishing](https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/)
-- [Target employees confirm leaked source code is authentic](https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- ['Most Severe AI Vulnerability to Date' Hits ServiceNow](https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow)
+- [Shadow#Reactor Uses Text Files to Deliver Remcos RAT](https://www.darkreading.com/endpoint-security/shadow-reactor-uses-text-files-to-deliver-remcos-rat)
 - [Attackers Abuse Python, Cloudflare to Deliver AsyncRAT](https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat)
 - [BreachForums Breached, Exposing 324K Cybercriminals](https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals)
 - [Multipurpose GoBruteforcer Botnet Targets 50K+ Linux Servers](https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers)
 - [Navigating Privacy and Cybersecurity Laws in 2026 Will Prove Difficult](https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult)
 - [FBI Flags Quishing Attacks From North Korean APT](https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt)
 - [Hexnode Moves into Endpoint Security With Hexnode XDR](https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr)
-- [2 Separate Campaigns Probe Corporate LLMs for Secrets](https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services)
-- [Deepfake Fraud Tools Are Lagging Behind Expectations](https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations)
 
 ### Security Week
 
+- [CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million](https://www.securityweek.com/crowdstrike-to-acquire-browser-security-firm-seraphic-for-420-million/)
 - [Adobe Patches Critical Apache Tika Bug in ColdFusion](https://www.securityweek.com/adobe-patches-critical-apache-tika-bug-in-coldfusion/)
 - [Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/)
 - [GoBruteforcer Botnet Targeting Crypto, Blockchain Projects](https://www.securityweek.com/gobruteforcer-botnet-targeting-crypto-blockchain-projects/)
@@ -67,7 +68,6 @@
 - [Cyber Insights 2026: External Attack Surface Management](https://www.securityweek.com/cyber-insights-2026-external-attack-surface-management/)
 - [Broadcom Wi-Fi Chipset Flaw Allows Hackers to Disrupt Networks](https://www.securityweek.com/broadcom-wi-fi-chipset-flaw-allows-hackers-to-disrupt-networks/)
 - [SAP’s January 2026 Security Updates Patch Critical Vulnerabilities](https://www.securityweek.com/saps-january-2026-security-updates-patch-critical-vulnerabilities/)
-- [Dutch Port Hacker Sentenced to Prison](https://www.securityweek.com/dutch-port-hacker-sentenced-to-prison/)
 
 ### Threatpost
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/13/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [YoSmart YoLink Smart Hub](https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-03)
 - [Rockwell Automation FactoryTalk DataMosaix Private Cloud](https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-02)
 - [Rockwell Automation 432ES-IG3 Series A](https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-01)
@@ -89,7 +90,6 @@
 - [Hitachi Energy Asset Suite](https://www.cisa.gov/news-events/ics-advisories/icsa-26-008-01)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Columbia Weather Systems MicroServer](https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01)
-- [WHILL Model C2 Electric Wheelchairs and Model F Power Chairs](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-364-01)
 
 ---
 

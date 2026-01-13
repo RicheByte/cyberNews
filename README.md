@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-13 20:19 UTC |
+| 🕐 Last Updated | 2026-01-13 22:17 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`25 vulnerabilities across` • `will automatically install` • `twitter whistleblower complaint` • `notorious hacker forum` • `critical function backgroun` • `click external links` • `ai generated configurations` • `windows operating systems` • `sprawling phishing campaign` • `phishing campaign shows`
+`ai generated configurations` • `25 vulnerabilities across` • `420 million news` • `will automatically install` • `twitter whistleblower complaint` • `windows operating systems` • `sprawling phishing campaign` • `phishing campaign shows` • `internal network behind` • `attackers leveraged ai`
 
 ## 📄 Reports
 

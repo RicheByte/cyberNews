@@ -1,68 +1,68 @@
 {
-  "last_updated": "2026-01-13 20:19",
+  "last_updated": "2026-01-13 22:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "ai generated configurations",
     "25 vulnerabilities across",
+    "420 million news",
     "will automatically install",
     "twitter whistleblower complaint",
-    "notorious hacker forum",
-    "critical function backgroun",
-    "click external links",
-    "ai generated configurations",
     "windows operating systems",
     "sprawling phishing campaign",
     "phishing campaign shows",
-    "fake reply comments",
     "internal network behind",
+    "attackers leveraged ai",
     "unpaid toll fee",
     "today we'll dig",
     "supposed wayward package",
     "strong theme running",
+    "sophisticated delivery mechanism",
     "sms phishers pivot",
     "scoops nestled inside",
     "restrict free speech",
-    "resources without limits"
+    "resources without limits",
+    "repository file editor"
   ],
   "trending": [
     {
+      "keyword": "ai generated configurations",
+      "mentions": 6
+    },
+    {
       "keyword": "25 vulnerabilities across",
+      "mentions": 2
+    },
+    {
+      "keyword": "420 million news",
       "mentions": 1
     },
     {
       "keyword": "will automatically install",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 328
-    },
-    {
-      "keyword": "notorious hacker forum",
-      "mentions": 5
-    },
-    {
-      "keyword": "critical function backgroun",
-      "mentions": 1
-    },
-    {
-      "keyword": "click external links",
-      "mentions": 3
-    },
-    {
-      "keyword": "ai generated configurations",
-      "mentions": 5
+      "mentions": 329
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "phishing campaign shows",
+      "mentions": 2
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 54
+    },
+    {
+      "keyword": "attackers leveraged ai",
       "mentions": 1
     }
   ],
@@ -150,6 +150,37 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New VoidLink malware framework targets Linux cloud servers",
+      "link": "https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/",
+      "summary": "A newly discovered advanced cloud-native Linux malware framework named VoidLink focuses on cloud environments, providing attackers with custom loaders, implants, rootkits, and plugins designed for modern infrastructures. [...]",
+      "published": "Tue, 13 Jan 2026 17:12:20 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Central Maine Healthcare breach exposed data of over 145,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/",
+      "summary": "A data breach last year at Central Maine Healthcare (CMH) exposed sensitive information of more than 145,000 individuals. [...]",
+      "published": "Tue, 13 Jan 2026 15:32:29 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Belgian hospital AZ Monica shuts down servers after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/",
+      "summary": "Belgian hospital AZ Monica was forced to shut down all servers, cancel scheduled procedures, and transfer critical patients earlier today due to a cyberattack. [...]",
+      "published": "Tue, 13 Jan 2026 15:27:22 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Windows updates replace expiring Secure Boot certificates",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/",
       "summary": "Microsoft has started rolling out new Secure Boot certificates that will automatically install on eligible Windows 11 24H2 and 25H2 systems. [...]",
@@ -199,37 +230,6 @@
       "link": "https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/",
       "summary": "Google has confirmed a software bug that is preventing volume buttons from working correctly on Android devices with accessibility features enabled. [...]",
       "published": "Tue, 13 Jan 2026 13:25:04 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Betterment confirms data breach after wave of crypto scam emails",
-      "link": "https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/",
-      "summary": "U.S. digital investment advisor Betterment confirmed that hackers breached its systems and sent fake crypto-related messages to some customers. [...]",
-      "published": "Tue, 13 Jan 2026 11:46:02 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Convincing LinkedIn comment-reply tactic used in new phishing",
-      "link": "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/",
-      "summary": "Scammers are flooding LinkedIn posts with fake \"reply\" comments that appear to come from the platform, warning of bogus policy violations and urging users to click external links. Some even abuse LinkedIn's official lnkd.in shortener, making the phishing attempts harder to spot. [...]",
-      "published": "Tue, 13 Jan 2026 10:45:00 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Target employees confirm leaked source code is authentic",
-      "link": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/",
-      "summary": "Multiple current and former Target employees confirmed that leaked source code samples posted by a threat actor match real internal systems. The company also rolled out an \"accelerated\" lockdown of its Git server, requiring VPN access, a day after being contacted by BleepingComputer. [...]",
-      "published": "Tue, 13 Jan 2026 08:08:25 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -318,6 +318,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Most Severe AI Vulnerability to Date' Hits ServiceNow",
+      "link": "https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow",
+      "summary": "ServiceNow tacked agentic AI onto a largely unguarded legacy chatbot, exposing customers' data and connected systems.",
+      "published": "Tue, 13 Jan 2026 21:44:48 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Shadow#Reactor Uses Text Files to Deliver Remcos RAT",
+      "link": "https://www.darkreading.com/endpoint-security/shadow-reactor-uses-text-files-to-deliver-remcos-rat",
+      "summary": "Attackers use a sophisticated delivery mechanism of text-only files for RAT deployment, showcasing a clever way to bypass defensive tools and rely on the target's own utilities.",
+      "published": "Tue, 13 Jan 2026 17:46:57 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attackers Abuse Python, Cloudflare to Deliver AsyncRAT",
       "link": "https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat",
       "summary": "The phishing campaign shows how attackers continue to weaponize legitimate cloud services and open source tools to evade detection and gain trust.",
@@ -377,20 +395,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "2 Separate Campaigns Probe Corporate LLMs for Secrets",
-      "link": "https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services",
-      "summary": "A total of 91,403 sessions targeted public LLM endpoints to find leaks in organizations' use of AI and map an expanding attack surface.",
-      "published": "Mon, 12 Jan 2026 15:37:14 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Deepfake Fraud Tools Are Lagging Behind Expectations",
-      "link": "https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations",
-      "summary": "Deepfakes are becoming more realistic and more popular. Luckily, defenders are still ahead in the arms race.",
-      "published": "Fri, 09 Jan 2026 22:08:25 GMT",
+      "source": "Security Week",
+      "title": "CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million",
+      "link": "https://www.securityweek.com/crowdstrike-to-acquire-browser-security-firm-seraphic-for-420-million/",
+      "summary": "News of the move to acquire Seraphic comes less than a week after CrowdStrike announced an agreement to acquire identity security startup SGNL for $740 million. The post CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million appeared first on SecurityWeek .",
+      "published": "Tue, 13 Jan 2026 20:42:29 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -469,15 +478,6 @@
         "Patch/update ×2",
         "High severity ×3"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Dutch Port Hacker Sentenced to Prison",
-      "link": "https://www.securityweek.com/dutch-port-hacker-sentenced-to-prison/",
-      "summary": "The 44-year-old individual planted remote access malware on a logistics firm’s systems, with help from employees. The post Dutch Port Hacker Sentenced to Prison appeared first on SecurityWeek .",
-      "published": "Tue, 13 Jan 2026 11:50:23 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",
@@ -561,6 +561,20 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/01/13/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20805 Microsoft Windows Information Disclosure Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of kno",
+      "published": "Tue, 13 Jan 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
     },
     {
       "source": "CISA Alerts",
@@ -657,21 +671,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned ×3",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "WHILL Model C2 Electric Wheelchairs and Model F Power Chairs",
-      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-364-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker within Bluetooth range to take control over the product. The following versions of WHILL Model C2 Electric Wheelchairs and Model F Power Chairs are affected: Model C2 Electric WheelChair (CVE-2025-14346) Model F Power Chair (CVE-2025-14346) CVSS Vendor Equipment Vulnerabilities v3 9.8 WHILL Inc. WHILL Model C2 Electric Wheelchairs and Model F Power Chairs Missing Authentication for Critical Function Backgroun",
-      "published": "Tue, 30 Dec 25 12:00:00 +0000",
-      "value_score": 93,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "High severity",
         "Multiple CVEs",
         "Exploit wording"
       ]

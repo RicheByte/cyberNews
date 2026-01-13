@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12 22:15",
+  "last_updated": "2026-01-13 01:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,59 +11,59 @@
     "sophos vpn portals",
     "ordered government agencies",
     "malicious word documents",
+    "facebook login thieves",
     "exploits surrounding ics",
     "accelerate platform adoption",
     "malicious cyber actors",
     "internal network behind",
     "exploiting weak credentials",
-    "ransomware gang breached",
     "president s efforts",
     "nation s ability",
     "jasper report vulnerability",
+    "hackers accessed university",
     "weekend experienced disruptions",
-    "vmware esxi exploit",
-    "unpaid toll fee"
+    "vmware esxi exploit"
   ],
   "trending": [
     {
       "keyword": "cyber insights 2026",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "will add warnings",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 317
+      "mentions": 318
     },
     {
       "keyword": "stolen code repositories",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "sophos vpn portals",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "ordered government agencies",
-      "mentions": 1
-    },
-    {
-      "keyword": "malicious word documents",
       "mentions": 2
     },
     {
-      "keyword": "exploits surrounding ics",
-      "mentions": 216
+      "keyword": "malicious word documents",
+      "mentions": 3
     },
     {
-      "keyword": "accelerate platform adoption",
-      "mentions": 4
+      "keyword": "facebook login thieves",
+      "mentions": 1
+    },
+    {
+      "keyword": "exploits surrounding ics",
+      "mentions": 217
     }
   ],
   "articles": [
@@ -151,6 +151,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hacker gets seven years for breaching Rotterdam and Antwerp ports",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/",
+      "summary": "The Amsterdam Court of Appeal sentenced a 44-year-old Dutch national to seven years in prison for multiple crimes, including computer hacking and attempted extortion. [...]",
+      "published": "Mon, 12 Jan 2026 18:06:47 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Facebook login thieves now using browser-in-browser trick",
       "link": "https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/",
       "summary": "Hackers over the past six months have relied increasingly more on the browser-in-the-browser (BitB) method to trick users into providing Facebook account credentials. [...]",
@@ -219,17 +228,6 @@
       "published": "Mon, 12 Jan 2026 11:20:47 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Spanish energy giant Endesa discloses data breach affecting customers",
-      "link": "https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/",
-      "summary": "Spanish energy provider Endesa and its Energía XXI operator are notifying customers that hackers accessed the company's systems and accessed contract-related information, which includes personal details. [...]",
-      "published": "Mon, 12 Jan 2026 10:57:50 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -316,6 +314,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "BreachForums Breached, Exposing 324K Cybercriminals",
+      "link": "https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals",
+      "summary": "Massive data dump reveals real identities and details of administrators and members of the notorious hacker forum.",
+      "published": "Mon, 12 Jan 2026 22:01:37 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "GoBruteforcer Botnet Targets 50K-plus Linux Servers",
       "link": "https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers",
       "summary": "Researchers detailed a souped-up version of the GoBruteforcer botnet that preys on servers with weak credentials and AI-generated configurations.",
@@ -378,15 +385,6 @@
       "link": "https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states",
       "summary": "Cybercriminal cryptocurrency transactions totaled billions in 2025, with activity from sanctioned countries like Russia and Iran causing the largest jump.",
       "published": "Fri, 09 Jan 2026 16:56:15 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Russia’s Fancy Bear APT Doubles Down on Global Secrets Theft",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets",
-      "summary": "The notorious state-sponsored group relies on basic techniques that are highly effective, often delivering greater ROI than more complex malware-heavy operations.",
-      "published": "Fri, 09 Jan 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

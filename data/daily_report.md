@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-12 22:15 UTC  
+> **Last Updated:** 2026-01-13 01:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cyber insights 2026** • **will add warnings** • **twitter whistleblower complaint** • **stolen code repositories** • **sprawling phishing campaign** • **sophos vpn portals** • **ordered government agencies** • **malicious word documents** • **exploits surrounding ics** • **accelerate platform adoption** • **malicious cyber actors** • **internal network behind** • **exploiting weak credentials** • **ransomware gang breached** • **president s efforts** • **nation s ability** • **jasper report vulnerability** • **weekend experienced disruptions** • **vmware esxi exploit** • **unpaid toll fee**
+**cyber insights 2026** • **will add warnings** • **twitter whistleblower complaint** • **stolen code repositories** • **sprawling phishing campaign** • **sophos vpn portals** • **ordered government agencies** • **malicious word documents** • **facebook login thieves** • **exploits surrounding ics** • **accelerate platform adoption** • **malicious cyber actors** • **internal network behind** • **exploiting weak credentials** • **president s efforts** • **nation s ability** • **jasper report vulnerability** • **hackers accessed university** • **weekend experienced disruptions** • **vmware esxi exploit**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hacker gets seven years for breaching Rotterdam and Antwerp ports](https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/)
 - [Facebook login thieves now using browser-in-browser trick](https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/)
 - [CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/)
 - ['Bad actor' hijacks Apex Legends characters in live matches](https://www.bleepingcomputer.com/news/security/bad-actor-hijacks-apex-legends-characters-in-live-matches/)
@@ -34,7 +35,6 @@
 - [Target's dev server offline after hackers claim to steal source code](https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/)
 - [Apple confirms Google Gemini will power Siri, says privacy remains a priority](https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/)
 - [Hidden Telegram proxy links can reveal your IP address in one click](https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/)
-- [Spanish energy giant Endesa discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [BreachForums Breached, Exposing 324K Cybercriminals](https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals)
 - [GoBruteforcer Botnet Targets 50K-plus Linux Servers](https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers)
 - [Navigating Privacy and Cybersecurity Laws in 2026 Will Prove Difficult](https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult)
 - [FBI Flags Quishing Attacks From North Korean APT](https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt)
@@ -56,7 +57,6 @@
 - [Two Separate Campaigns Target Exposed LLM Services](https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services)
 - [Deepfake Fraud Tools Are Lagging Behind Expectations](https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations)
 - [Illicit Crypto Economy Surges Amid Increased Nation-State Activity](https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states)
-- [Russia’s Fancy Bear APT Doubles Down on Global Secrets Theft](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-credentials-global-targets)
 
 ### Security Week
 

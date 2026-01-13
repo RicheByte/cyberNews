@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-13 14:21 UTC  
+> **Last Updated:** 2026-01-13 16:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ordered government agencies** • **cyber insights 2026** • **notorious hacker forum** • **servicenow ai platform** • **twitter whistleblower complaint** • **malicious cyber actors** • **facebook login thieves** • **exploits surrounding ics** • **zero trust architectures** • **countering disinformation fraud** • **ai generated configurations** • **internal network behind** • **federal legislation will** • **ransomware gang breached** • **code injection vulnerabilities** • **windows operating systems** • **weekend experienced disruptions** • **unpaid toll fee** • **today we'll dig** • **supposed wayward package**
+**ordered government agencies** • **cyber insights 2026** • **notorious hacker forum** • **twitter whistleblower complaint** • **seemingly legitimate form** • **malicious cyber actors** • **facebook login thieves** • **exploits surrounding ics** • **click external links** • **fake reply comments** • **countering disinformation fraud** • **ai generated configurations** • **internal network behind** • **servicenow ai platform** • **ransomware gang breached** • **open source tools** • **federal legislation will** • **code injection vulnerabilities** • **windows operating systems** • **weekend experienced disruptions**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
-- [Target employees confirm leaked code after ‘accelerated’ Git lockdown](https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/)
+- [Convincing LinkedIn comment-reply tactic used in new phishing](https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/)
+- [Target employees confirm leaked code after 'accelerated' Git lockdown](https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/)
 - [Hacker gets seven years for breaching Rotterdam and Antwerp ports](https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/)
 - [Facebook login thieves now using browser-in-browser trick](https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/)
 - [CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/)
 - ['Bad actor' hijacks Apex Legends characters in live matches](https://www.bleepingcomputer.com/news/security/bad-actor-hijacks-apex-legends-characters-in-live-matches/)
 - [University of Hawaii Cancer Center hit by ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-hit-by-ransomware-attack/)
 - [Target's dev server offline after hackers claim to steal source code](https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/)
-- [Apple confirms Google Gemini will power Siri, says privacy remains a priority](https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Attackers Abuse Python, Cloudflare to Deliver AsyncRAT](https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat)
 - [BreachForums Breached, Exposing 324K Cybercriminals](https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals)
-- [GoBruteforcer Botnet Targets 50K-plus Linux Servers](https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers)
+- [Multipurpose GoBruteforcer Botnet Targets 50K+ Linux Servers](https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers)
 - [Navigating Privacy and Cybersecurity Laws in 2026 Will Prove Difficult](https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult)
 - [FBI Flags Quishing Attacks From North Korean APT](https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt)
 - [Hexnode Moves into Endpoint Security With Hexnode XDR](https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr)
-- [Two Separate Campaigns Target Exposed LLM Services](https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services)
+- [2 Separate Campaigns Probe Corporate LLMs for Secrets](https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services)
 - [Deepfake Fraud Tools Are Lagging Behind Expectations](https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations)
-- [Illicit Crypto Economy Surges Amid Increased Nation-State Activity](https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states)
 
 ### Security Week
 

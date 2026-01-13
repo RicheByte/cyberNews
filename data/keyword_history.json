@@ -73,7 +73,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -134,7 +134,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -150,7 +150,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 325,
+      "count": 326,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -994,7 +994,7 @@
       ]
     },
     "exploits surrounding ics": {
-      "count": 224,
+      "count": 225,
       "dates": [
         "2025-12-23",
         "2025-12-26",
@@ -2253,7 +2253,7 @@
       ]
     },
     "internal network behind": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2543,7 +2543,7 @@
       ]
     },
     "cyber insights 2026": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-12",
         "2026-01-13"
@@ -2583,7 +2583,7 @@
       ]
     },
     "ransomware gang breached": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-12",
         "2026-01-13"
@@ -2597,27 +2597,27 @@
       ]
     },
     "ordered government agencies": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-12",
         "2026-01-13"
       ]
     },
     "weekend experienced disruptions": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-12",
         "2026-01-13"
       ]
     },
     "facebook login thieves": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-13"
       ]
     },
     "countering disinformation fraud": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-13"
       ]
@@ -2629,7 +2629,7 @@
       ]
     },
     "notorious hacker forum": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-13"
       ]
@@ -2641,24 +2641,48 @@
       ]
     },
     "code injection vulnerabilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-13"
       ]
     },
     "federal legislation will": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-13"
       ]
     },
     "ai generated configurations": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-13"
       ]
     },
     "servicenow ai platform": {
+      "count": 2,
+      "dates": [
+        "2026-01-13"
+      ]
+    },
+    "seemingly legitimate form": {
+      "count": 1,
+      "dates": [
+        "2026-01-13"
+      ]
+    },
+    "click external links": {
+      "count": 1,
+      "dates": [
+        "2026-01-13"
+      ]
+    },
+    "fake reply comments": {
+      "count": 1,
+      "dates": [
+        "2026-01-13"
+      ]
+    },
+    "open source tools": {
       "count": 1,
       "dates": [
         "2026-01-13"
@@ -2666,17 +2690,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-05 08:26",
-      "articles": 56,
-      "top_keywords": [
-        "nearly 500 000",
-        "mass creating fake",
-        "prolific cybercriminal group",
-        "2 520 wallets",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-05 10:20",
       "articles": 56,
@@ -3764,6 +3777,17 @@
         "notorious hacker forum",
         "servicenow ai platform",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-13 16:26",
+      "articles": 56,
+      "top_keywords": [
+        "ordered government agencies",
+        "cyber insights 2026",
+        "notorious hacker forum",
+        "twitter whistleblower complaint",
+        "seemingly legitimate form"
       ]
     }
   ]

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-13 14:21",
+  "last_updated": "2026-01-13 16:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ordered government agencies",
     "cyber insights 2026",
     "notorious hacker forum",
-    "servicenow ai platform",
     "twitter whistleblower complaint",
+    "seemingly legitimate form",
     "malicious cyber actors",
     "facebook login thieves",
     "exploits surrounding ics",
-    "zero trust architectures",
+    "click external links",
+    "fake reply comments",
     "countering disinformation fraud",
     "ai generated configurations",
     "internal network behind",
-    "federal legislation will",
+    "servicenow ai platform",
     "ransomware gang breached",
+    "open source tools",
+    "federal legislation will",
     "code injection vulnerabilities",
     "windows operating systems",
-    "weekend experienced disruptions",
-    "unpaid toll fee",
-    "today we'll dig",
-    "supposed wayward package"
+    "weekend experienced disruptions"
   ],
   "trending": [
     {
       "keyword": "ordered government agencies",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "cyber insights 2026",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "notorious hacker forum",
-      "mentions": 2
-    },
-    {
-      "keyword": "servicenow ai platform",
-      "mentions": 1
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 325
+      "mentions": 326
+    },
+    {
+      "keyword": "seemingly legitimate form",
+      "mentions": 1
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 162
+      "mentions": 163
     },
     {
       "keyword": "facebook login thieves",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 224
+      "mentions": 225
     },
     {
-      "keyword": "zero trust architectures",
-      "mentions": 2
+      "keyword": "click external links",
+      "mentions": 1
     },
     {
-      "keyword": "countering disinformation fraud",
-      "mentions": 4
+      "keyword": "fake reply comments",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -152,7 +152,18 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Target employees confirm leaked code after ‘accelerated’ Git lockdown",
+      "title": "Convincing LinkedIn comment-reply tactic used in new phishing",
+      "link": "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/",
+      "summary": "Scammers are flooding LinkedIn posts with fake \"reply\" comments that appear to come from the platform, warning of bogus policy violations and urging users to click external links. Some even abuse LinkedIn's official lnkd.in shortener, making the phishing attempts harder to spot. [...]",
+      "published": "Tue, 13 Jan 2026 10:45:00 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Target employees confirm leaked code after 'accelerated' Git lockdown",
       "link": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/",
       "summary": "Multiple current and former Target employees confirmed that leaked source code samples posted by a threat actor match real internal systems. The company also rolled out an \"accelerated\" lockdown of its Git server, requiring VPN access, a day after being contacted by BleepingComputer. [...]",
       "published": "Tue, 13 Jan 2026 08:08:25 -0500",
@@ -218,15 +229,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/",
       "summary": "Hackers are claiming to be selling internal source code belonging to Target Corporation, after publishing what appears to be a sample of stolen code repositories on a public software development platform. After BleepingComputer notified Target, the files were taken offline and the retailer's developer Git server was inaccessible. [...]",
       "published": "Mon, 12 Jan 2026 12:52:10 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Apple confirms Google Gemini will power Siri, says privacy remains a priority",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/",
-      "summary": "Apple and Google have confirmed that the next version of Siri will use Gemini and Google Cloud in a multi-year collaboration between the two tech giants. [...]",
-      "published": "Mon, 12 Jan 2026 11:43:47 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -315,6 +317,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Attackers Abuse Python, Cloudflare to Deliver AsyncRAT",
+      "link": "https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat",
+      "summary": "The phishing campaign shows how attackers continue to weaponize legitimate cloud services and open source tools to evade detection and gain trust.",
+      "published": "Tue, 13 Jan 2026 14:58:48 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "BreachForums Breached, Exposing 324K Cybercriminals",
       "link": "https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals",
       "summary": "A massive data dump reveals real identities and details of administrators and members of the notorious hacker forum.",
@@ -324,7 +337,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "GoBruteforcer Botnet Targets 50K-plus Linux Servers",
+      "title": "Multipurpose GoBruteforcer Botnet Targets 50K+ Linux Servers",
       "link": "https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers",
       "summary": "Researchers detailed a souped-up version of the GoBruteforcer botnet that preys on servers with weak credentials and AI-generated configurations.",
       "published": "Mon, 12 Jan 2026 21:19:49 GMT",
@@ -364,7 +377,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Two Separate Campaigns Target Exposed LLM Services",
+      "title": "2 Separate Campaigns Probe Corporate LLMs for Secrets",
       "link": "https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services",
       "summary": "A total of 91,403 sessions targeted public LLM endpoints to find leaks in organizations' use of AI and map an expanding attack surface.",
       "published": "Mon, 12 Jan 2026 15:37:14 GMT",
@@ -377,15 +390,6 @@
       "link": "https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations",
       "summary": "Deepfakes are becoming more realistic and more popular. Luckily, defenders are still ahead in the arms race.",
       "published": "Fri, 09 Jan 2026 22:08:25 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Illicit Crypto Economy Surges Amid Increased Nation-State Activity",
-      "link": "https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states",
-      "summary": "Cybercriminal cryptocurrency transactions totaled billions in 2025, with activity from sanctioned countries like Russia and Iran causing the largest jump.",
-      "published": "Fri, 09 Jan 2026 16:56:15 GMT",
       "value_score": 10,
       "value_signals": []
     },

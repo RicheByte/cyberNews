@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-13 16:26 UTC |
+| 🕐 Last Updated | 2026-01-13 18:26 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ordered government agencies` • `cyber insights 2026` • `notorious hacker forum` • `twitter whistleblower complaint` • `seemingly legitimate form` • `malicious cyber actors` • `facebook login thieves` • `exploits surrounding ics` • `click external links` • `fake reply comments`
+`ordered government agencies` • `notorious hacker forum` • `twitter whistleblower complaint` • `seemingly legitimate form` • `malicious cyber actors` • `facebook login thieves` • `click external links` • `ai generated configurations` • `fake reply comments` • `deepfake fraud tools`
 
 ## 📄 Reports
 

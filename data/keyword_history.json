@@ -73,7 +73,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 163,
+      "count": 164,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -134,7 +134,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -150,7 +150,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 326,
+      "count": 327,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -183,7 +183,7 @@
       ]
     },
     "supposed wayward package": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -296,7 +296,7 @@
       ]
     },
     "unpaid toll fee": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1311,7 +1311,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2141,11 +2141,12 @@
       ]
     },
     "strong theme running": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-08",
         "2026-01-11",
-        "2026-01-12"
+        "2026-01-12",
+        "2026-01-13"
       ]
     },
     "narrative intelligence platform": {
@@ -2243,7 +2244,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2253,7 +2254,7 @@
       ]
     },
     "internal network behind": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2403,11 +2404,12 @@
       ]
     },
     "deepfake fraud tools": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-10",
         "2026-01-11",
-        "2026-01-12"
+        "2026-01-12",
+        "2026-01-13"
       ]
     },
     "targeted vulnerabilities included": {
@@ -2597,27 +2599,27 @@
       ]
     },
     "ordered government agencies": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-12",
         "2026-01-13"
       ]
     },
     "weekend experienced disruptions": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-12",
         "2026-01-13"
       ]
     },
     "facebook login thieves": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-13"
       ]
     },
     "countering disinformation fraud": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-13"
       ]
@@ -2629,7 +2631,7 @@
       ]
     },
     "notorious hacker forum": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-13"
       ]
@@ -2647,13 +2649,13 @@
       ]
     },
     "federal legislation will": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-13"
       ]
     },
     "ai generated configurations": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-13"
       ]
@@ -2665,19 +2667,19 @@
       ]
     },
     "seemingly legitimate form": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-13"
       ]
     },
     "click external links": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-13"
       ]
     },
     "fake reply comments": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-13"
       ]
@@ -2690,17 +2692,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-05 10:20",
-      "articles": 56,
-      "top_keywords": [
-        "nearly 500 000",
-        "mass creating fake",
-        "prolific cybercriminal group",
-        "2 520 wallets",
-        "advanced security measures"
-      ]
-    },
     {
       "timestamp": "2026-01-05 12:37",
       "articles": 56,
@@ -3788,6 +3779,17 @@
         "notorious hacker forum",
         "twitter whistleblower complaint",
         "seemingly legitimate form"
+      ]
+    },
+    {
+      "timestamp": "2026-01-13 18:26",
+      "articles": 56,
+      "top_keywords": [
+        "ordered government agencies",
+        "notorious hacker forum",
+        "twitter whistleblower complaint",
+        "seemingly legitimate form",
+        "malicious cyber actors"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-13 18:26 UTC  
+> **Last Updated:** 2026-01-13 20:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ordered government agencies** • **notorious hacker forum** • **twitter whistleblower complaint** • **seemingly legitimate form** • **malicious cyber actors** • **facebook login thieves** • **click external links** • **ai generated configurations** • **fake reply comments** • **deepfake fraud tools** • **countering disinformation fraud** • **internal network behind** • **federal legislation will** • **windows operating systems** • **weekend experienced disruptions** • **unpaid toll fee** • **today we'll dig** • **supposed wayward package** • **strong theme running** • **sprawling phishing campaign**
+**25 vulnerabilities across** • **will automatically install** • **twitter whistleblower complaint** • **notorious hacker forum** • **critical function backgroun** • **click external links** • **ai generated configurations** • **windows operating systems** • **sprawling phishing campaign** • **phishing campaign shows** • **fake reply comments** • **internal network behind** • **unpaid toll fee** • **today we'll dig** • **supposed wayward package** • **strong theme running** • **sms phishers pivot** • **scoops nestled inside** • **restrict free speech** • **resources without limits**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages](https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html)
 - [Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool](https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html)
 - [[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl](https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html)
 - [New Advanced Linux VoidLink Malware Targets Cloud and container Environments](https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html)
@@ -23,18 +24,17 @@
 - [ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation](https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html)
 - [New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack](https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html)
 - [CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution](https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html)
-- [n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens](https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html)
 
 ### BleepingComputer
 
+- [New Windows updates replace expiring Secure Boot certificates](https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/)
+- [Microsoft releases Windows 10 KB5073724 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/)
+- [Windows 11 KB5074109 & KB5073455 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/)
+- [Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/)
 - [Google confirms Android bug causing volume key issues](https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/)
 - [Betterment confirms data breach after wave of crypto scam emails](https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/)
 - [Convincing LinkedIn comment-reply tactic used in new phishing](https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/)
-- [Target employees confirm leaked code after 'accelerated' Git lockdown](https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/)
-- [Hacker gets seven years for breaching Rotterdam and Antwerp ports](https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/)
-- [Facebook login thieves now using browser-in-browser trick](https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/)
-- [CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/)
-- ['Bad actor' hijacks Apex Legends characters in live matches](https://www.bleepingcomputer.com/news/security/bad-actor-hijacks-apex-legends-characters-in-live-matches/)
+- [Target employees confirm leaked source code is authentic](https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Adobe Patches Critical Apache Tika Bug in ColdFusion](https://www.securityweek.com/adobe-patches-critical-apache-tika-bug-in-coldfusion/)
+- [Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/)
 - [GoBruteforcer Botnet Targeting Crypto, Blockchain Projects](https://www.securityweek.com/gobruteforcer-botnet-targeting-crypto-blockchain-projects/)
 - [After Goldman, JPMorgan Discloses Law Firm Data Breach](https://www.securityweek.com/after-goldman-jpmorgan-discloses-law-firm-data-breach/)
 - [Cyber Insights 2026: External Attack Surface Management](https://www.securityweek.com/cyber-insights-2026-external-attack-surface-management/)
 - [Broadcom Wi-Fi Chipset Flaw Allows Hackers to Disrupt Networks](https://www.securityweek.com/broadcom-wi-fi-chipset-flaw-allows-hackers-to-disrupt-networks/)
 - [SAP’s January 2026 Security Updates Patch Critical Vulnerabilities](https://www.securityweek.com/saps-january-2026-security-updates-patch-critical-vulnerabilities/)
 - [Dutch Port Hacker Sentenced to Prison](https://www.securityweek.com/dutch-port-hacker-sentenced-to-prison/)
-- [Spanish Energy Company Endesa Hacked](https://www.securityweek.com/spanish-energy-company-endesa-hacked/)
-- [Cyber Fraud Overtakes Ransomware as Top CEO Concern: WEF](https://www.securityweek.com/cyber-fraud-overtakes-ransomware-as-top-ceo-concern-wef/)
 
 ### Threatpost
 

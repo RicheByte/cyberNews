@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-13 18:26 UTC |
+| 🕐 Last Updated | 2026-01-13 20:19 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ordered government agencies` • `notorious hacker forum` • `twitter whistleblower complaint` • `seemingly legitimate form` • `malicious cyber actors` • `facebook login thieves` • `click external links` • `ai generated configurations` • `fake reply comments` • `deepfake fraud tools`
+`25 vulnerabilities across` • `will automatically install` • `twitter whistleblower complaint` • `notorious hacker forum` • `critical function backgroun` • `click external links` • `ai generated configurations` • `windows operating systems` • `sprawling phishing campaign` • `phishing campaign shows`
 
 ## 📄 Reports
 

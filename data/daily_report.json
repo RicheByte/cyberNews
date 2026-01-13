@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-01-13 06:27",
+  "last_updated": "2026-01-13 08:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "cyber insights 2026",
     "will add warnings",
     "twitter whistleblower complaint",
-    "stolen code repositories",
     "sprawling phishing campaign",
-    "sophos vpn portals",
     "ordered government agencies",
     "malicious word documents",
+    "malicious cyber actors",
     "facebook login thieves",
     "exploits surrounding ics",
     "accelerate platform adoption",
-    "malicious cyber actors",
     "internal network behind",
     "exploiting weak credentials",
-    "president s efforts",
-    "nation s ability",
-    "jasper report vulnerability",
+    "countering disinformation fraud",
+    "5 9m fraud",
+    "ransomware gang breached",
     "hackers accessed university",
     "weekend experienced disruptions",
-    "vmware esxi exploit"
+    "unpaid toll fee",
+    "today we'll dig",
+    "supposed wayward package"
   ],
   "trending": [
     {
       "keyword": "cyber insights 2026",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "will add warnings",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 321
-    },
-    {
-      "keyword": "stolen code repositories",
-      "mentions": 7
+      "mentions": 322
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 45
-    },
-    {
-      "keyword": "sophos vpn portals",
-      "mentions": 10
+      "mentions": 46
     },
     {
       "keyword": "ordered government agencies",
-      "mentions": 5
-    },
-    {
-      "keyword": "malicious word documents",
       "mentions": 6
     },
     {
+      "keyword": "malicious word documents",
+      "mentions": 7
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 159
+    },
+    {
       "keyword": "facebook login thieves",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 220
+      "mentions": 221
+    },
+    {
+      "keyword": "accelerate platform adoption",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
+      "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (KEV) catalog. The vulnerability, tracked as CVE-2025-8110 (CVSS score: 8.7), relates to a case of path traversal in the repository file editor that could result in code execution. \"Gogs Path",
+      "published": "Tue, 13 Jan 2026 12:45:00 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
@@ -136,18 +149,6 @@
       "published": "Sat, 10 Jan 2026 14:29:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
-      "link": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
-      "summary": "Chinese-speaking threat actors are suspected to have leveraged a compromised SonicWall VPN appliance as an initial access vector to deploy a VMware ESXi exploit that may have been developed as far back as February 2024. Cybersecurity firm Huntress, which observed the activity in December 2025 and stopped it before it could progress to the final stage, said it may have resulted in a ransomware",
-      "published": "Fri, 09 Jan 2026 23:13:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Ransomware",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -390,6 +391,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Cyber Fraud Overtakes Ransomware as Top CEO Concern: WEF",
+      "link": "https://www.securityweek.com/cyber-fraud-overtakes-ransomware-as-top-ceo-concern-wef/",
+      "summary": "Ransomware remains the biggest concern for CISOs in 2026, according to WEF’s Global Cybersecurity Outlook 2026 report. The post Cyber Fraud Overtakes Ransomware as Top CEO Concern: WEF appeared first on SecurityWeek .",
+      "published": "Tue, 13 Jan 2026 08:16:57 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Cyber Insights 2026: What CISOs Can Expect in 2026 and Beyond",
       "link": "https://www.securityweek.com/cyber-insights-2026-what-cisos-can-expect-in-2026-and-beyond/",
       "summary": "Here we examine the CISO Outlook for 2026, with the purpose of evaluating what is happening now and preparing leaders for what lies ahead in 2026 and beyond. The post Cyber Insights 2026: What CISOs Can Expect in 2026 and Beyond appeared first on SecurityWeek .",
@@ -452,18 +464,6 @@
       "published": "Mon, 12 Jan 2026 02:09:09 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k",
-      "link": "https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Jaguar Land Rover sales crash, hundreds of gen-AI data policy violations, and Chinese cyberattacks against Taiwan intensified. The post In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k appeared first on SecurityWeek .",
-      "published": "Fri, 09 Jan 2026 15:58:37 +0000",
-      "value_score": 70,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

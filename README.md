@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-13 06:27 UTC |
+| 🕐 Last Updated | 2026-01-13 08:24 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cyber insights 2026` • `will add warnings` • `twitter whistleblower complaint` • `stolen code repositories` • `sprawling phishing campaign` • `sophos vpn portals` • `ordered government agencies` • `malicious word documents` • `facebook login thieves` • `exploits surrounding ics`
+`cyber insights 2026` • `will add warnings` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `ordered government agencies` • `malicious word documents` • `malicious cyber actors` • `facebook login thieves` • `exploits surrounding ics` • `accelerate platform adoption`
 
 ## 📄 Reports
 

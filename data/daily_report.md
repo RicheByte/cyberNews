@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-13 06:27 UTC  
+> **Last Updated:** 2026-01-13 08:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cyber insights 2026** • **will add warnings** • **twitter whistleblower complaint** • **stolen code repositories** • **sprawling phishing campaign** • **sophos vpn portals** • **ordered government agencies** • **malicious word documents** • **facebook login thieves** • **exploits surrounding ics** • **accelerate platform adoption** • **malicious cyber actors** • **internal network behind** • **exploiting weak credentials** • **president s efforts** • **nation s ability** • **jasper report vulnerability** • **hackers accessed university** • **weekend experienced disruptions** • **vmware esxi exploit**
+**cyber insights 2026** • **will add warnings** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **ordered government agencies** • **malicious word documents** • **malicious cyber actors** • **facebook login thieves** • **exploits surrounding ics** • **accelerate platform adoption** • **internal network behind** • **exploiting weak credentials** • **countering disinformation fraud** • **5 9m fraud** • **ransomware gang breached** • **hackers accessed university** • **weekend experienced disruptions** • **unpaid toll fee** • **today we'll dig** • **supposed wayward package**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution](https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html)
 - [n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens](https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html)
 - [⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More](https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html)
 - [GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials](https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html)
@@ -23,7 +24,6 @@
 - [Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud](https://thehackernews.com/2026/01/researchers-uncover-service-providers.html)
 - [MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors](https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html)
 - [Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime](https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html)
-- [China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines](https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Cyber Fraud Overtakes Ransomware as Top CEO Concern: WEF](https://www.securityweek.com/cyber-fraud-overtakes-ransomware-as-top-ceo-concern-wef/)
 - [Cyber Insights 2026: What CISOs Can Expect in 2026 and Beyond](https://www.securityweek.com/cyber-insights-2026-what-cisos-can-expect-in-2026-and-beyond/)
 - [Instagram Fixes Password Reset Vulnerability Amid User Data Leak](https://www.securityweek.com/instagram-fixes-password-reset-vulnerability-amid-user-data-leak/)
 - [Russia’s APT28 Targeting Energy Research, Defense Collaboration Entities](https://www.securityweek.com/russias-apt28-targeting-energy-research-defense-collaboration-entities/)
@@ -67,7 +68,6 @@
 - [EU Sets February Deadline for Verdict on Google’s $32B Wiz Acquisition](https://www.securityweek.com/eu-sets-february-deadline-for-verdict-on-googles-32b-wiz-acquisition/)
 - [Torq Raises $140 Million at $1.2 Billion Valuation](https://www.securityweek.com/torq-raises-140-million-at-1-2-billion-valuation/)
 - [Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified](https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/)
-- [In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k](https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/)
 
 ### Threatpost
 

@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-01-13 12:37",
+  "last_updated": "2026-01-13 14:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ordered government agencies",
     "cyber insights 2026",
     "notorious hacker forum",
-    "will add warnings",
+    "servicenow ai platform",
     "twitter whistleblower complaint",
     "malicious cyber actors",
     "facebook login thieves",
     "exploits surrounding ics",
     "zero trust architectures",
     "countering disinformation fraud",
-    "internal network behind",
-    "code injection vulnerabilities",
-    "ransomware gang breached",
-    "president s efforts",
-    "nation s ability",
-    "federal legislation will",
     "ai generated configurations",
+    "internal network behind",
+    "federal legislation will",
+    "ransomware gang breached",
+    "code injection vulnerabilities",
     "windows operating systems",
     "weekend experienced disruptions",
-    "unpaid toll fee"
+    "unpaid toll fee",
+    "today we'll dig",
+    "supposed wayward package"
   ],
   "trending": [
     {
       "keyword": "ordered government agencies",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "cyber insights 2026",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "notorious hacker forum",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "will add warnings",
-      "mentions": 11
+      "keyword": "servicenow ai platform",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 324
+      "mentions": 325
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 161
+      "mentions": 162
     },
     {
       "keyword": "facebook login thieves",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 223
+      "mentions": 224
     },
     {
       "keyword": "zero trust architectures",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "countering disinformation fraud",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
+      "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+      "summary": "AI agents are no longer just writing code. They are executing it. Tools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping engineering—but it’s also creating a security gap most teams don’t see until something breaks. Behind every agentic workflow sits a layer few organizations are actively securing: Machine Control",
+      "published": "Tue, 13 Jan 2026 19:14:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
+      "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux-based cloud environments According to a new report from Check Point Research, the cloud-native Linux malware framework comprises an array of custom loaders, implants, rootkits, and modular",
+      "published": "Tue, 13 Jan 2026 17:27:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
@@ -133,23 +151,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
-      "link": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
-      "summary": "A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as FTP, MySQL, PostgreSQL, and phpMyAdmin on Linux servers. \"The current wave of campaigns is driven by two factors: the mass reuse of AI-generated server deployment examples that propagate common",
-      "published": "Mon, 12 Jan 2026 16:18:00 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "Botnet ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
-      "link": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
-      "summary": "Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to better understand their health information. Under an initiative called Claude for Healthcare, the company said U.S. subscribers of Claude Pro and Max plans can opt to give Claude secure access to their lab results and health records by connecting to",
-      "published": "Mon, 12 Jan 2026 14:07:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Target employees confirm leaked code after ‘accelerated’ Git lockdown",
+      "link": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/",
+      "summary": "Multiple current and former Target employees confirmed that leaked source code samples posted by a threat actor match real internal systems. The company also rolled out an \"accelerated\" lockdown of its Git server, requiring VPN access, a day after being contacted by BleepingComputer. [...]",
+      "published": "Tue, 13 Jan 2026 08:08:25 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -221,15 +227,6 @@
       "link": "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/",
       "summary": "Apple and Google have confirmed that the next version of Siri will use Gemini and Google Cloud in a multi-year collaboration between the two tech giants. [...]",
       "published": "Mon, 12 Jan 2026 11:43:47 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hidden Telegram proxy links can reveal your IP address in one click",
-      "link": "https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/",
-      "summary": "A single click on what may appear to be a Telegram username or harmless link is all it takes to expose your real IP address to attackers due to how proxy links are handled. Telegram says it will add warnings to proxy links after researchers demonstrated that such one-click interactions could reveal a Telegram user's real IP address. [...]",
-      "published": "Mon, 12 Jan 2026 11:20:47 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -320,7 +317,7 @@
       "source": "Dark Reading",
       "title": "BreachForums Breached, Exposing 324K Cybercriminals",
       "link": "https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals",
-      "summary": "Massive data dump reveals real identities and details of administrators and members of the notorious hacker forum.",
+      "summary": "A massive data dump reveals real identities and details of administrators and members of the notorious hacker forum.",
       "published": "Mon, 12 Jan 2026 22:01:37 GMT",
       "value_score": 10,
       "value_signals": []
@@ -394,6 +391,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Broadcom Wi-Fi Chipset Flaw Allows Hackers to Disrupt Networks",
+      "link": "https://www.securityweek.com/broadcom-wi-fi-chipset-flaw-allows-hackers-to-disrupt-networks/",
+      "summary": "The vulnerability was discovered in Asus routers, but all devices using the affected chipset are susceptible to attacks. The post Broadcom Wi-Fi Chipset Flaw Allows Hackers to Disrupt Networks appeared first on SecurityWeek .",
+      "published": "Tue, 13 Jan 2026 14:10:46 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "SAP’s January 2026 Security Updates Patch Critical Vulnerabilities",
       "link": "https://www.securityweek.com/saps-january-2026-security-updates-patch-critical-vulnerabilities/",
       "summary": "SAP has released 17 security notes, including four that address critical SQL injection, RCE, and code injection vulnerabilities. The post SAP’s January 2026 Security Updates Patch Critical Vulnerabilities appeared first on SecurityWeek .",
@@ -460,15 +466,6 @@
       "link": "https://www.securityweek.com/russias-apt28-targeting-energy-research-defense-collaboration-entities/",
       "summary": "APT28 was seen impersonating popular webmail and VPN services, including Microsoft OWA, Google, and Sophos VPN portals. The post Russia’s APT28 Targeting Energy Research, Defense Collaboration Entities appeared first on SecurityWeek .",
       "published": "Mon, 12 Jan 2026 12:23:13 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "LLMs in Attacker Crosshairs, Warns Threat Intel Firm",
-      "link": "https://www.securityweek.com/llms-in-attacker-crosshairs-warns-threat-intel-firm/",
-      "summary": "Threat actors are hunting for misconfigured proxy servers to gain access to APIs for various LLMs. The post LLMs in Attacker Crosshairs, Warns Threat Intel Firm appeared first on SecurityWeek .",
-      "published": "Mon, 12 Jan 2026 11:53:02 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-13 12:37 UTC  
+> **Last Updated:** 2026-01-13 14:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ordered government agencies** • **cyber insights 2026** • **notorious hacker forum** • **will add warnings** • **twitter whistleblower complaint** • **malicious cyber actors** • **facebook login thieves** • **exploits surrounding ics** • **zero trust architectures** • **countering disinformation fraud** • **internal network behind** • **code injection vulnerabilities** • **ransomware gang breached** • **president s efforts** • **nation s ability** • **federal legislation will** • **ai generated configurations** • **windows operating systems** • **weekend experienced disruptions** • **unpaid toll fee**
+**ordered government agencies** • **cyber insights 2026** • **notorious hacker forum** • **servicenow ai platform** • **twitter whistleblower complaint** • **malicious cyber actors** • **facebook login thieves** • **exploits surrounding ics** • **zero trust architectures** • **countering disinformation fraud** • **ai generated configurations** • **internal network behind** • **federal legislation will** • **ransomware gang breached** • **code injection vulnerabilities** • **windows operating systems** • **weekend experienced disruptions** • **unpaid toll fee** • **today we'll dig** • **supposed wayward package**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl](https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html)
+- [New Advanced Linux VoidLink Malware Targets Cloud and container Environments](https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html)
 - [What Should We Learn From How Attackers Leveraged AI in 2025?](https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html)
 - [ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation](https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html)
 - [New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack](https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html)
 - [CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution](https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html)
 - [n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens](https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html)
 - [⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More](https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html)
-- [GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials](https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html)
-- [Anthropic Launches Claude AI for Healthcare with Secure Health Record Access](https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html)
 
 ### BleepingComputer
 
+- [Target employees confirm leaked code after ‘accelerated’ Git lockdown](https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/)
 - [Hacker gets seven years for breaching Rotterdam and Antwerp ports](https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/)
 - [Facebook login thieves now using browser-in-browser trick](https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/)
 - [CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/)
@@ -34,7 +35,6 @@
 - [University of Hawaii Cancer Center hit by ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-hit-by-ransomware-attack/)
 - [Target's dev server offline after hackers claim to steal source code](https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/)
 - [Apple confirms Google Gemini will power Siri, says privacy remains a priority](https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/)
-- [Hidden Telegram proxy links can reveal your IP address in one click](https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Broadcom Wi-Fi Chipset Flaw Allows Hackers to Disrupt Networks](https://www.securityweek.com/broadcom-wi-fi-chipset-flaw-allows-hackers-to-disrupt-networks/)
 - [SAP’s January 2026 Security Updates Patch Critical Vulnerabilities](https://www.securityweek.com/saps-january-2026-security-updates-patch-critical-vulnerabilities/)
 - [Dutch Port Hacker Sentenced to Prison](https://www.securityweek.com/dutch-port-hacker-sentenced-to-prison/)
 - [Spanish Energy Company Endesa Hacked](https://www.securityweek.com/spanish-energy-company-endesa-hacked/)
@@ -67,7 +68,6 @@
 - [Cyber Insights 2026: What CISOs Can Expect in 2026 and Beyond](https://www.securityweek.com/cyber-insights-2026-what-cisos-can-expect-in-2026-and-beyond/)
 - [Instagram Fixes Password Reset Vulnerability Amid User Data Leak](https://www.securityweek.com/instagram-fixes-password-reset-vulnerability-amid-user-data-leak/)
 - [Russia’s APT28 Targeting Energy Research, Defense Collaboration Entities](https://www.securityweek.com/russias-apt28-targeting-energy-research-defense-collaboration-entities/)
-- [LLMs in Attacker Crosshairs, Warns Threat Intel Firm](https://www.securityweek.com/llms-in-attacker-crosshairs-warns-threat-intel-firm/)
 
 ### Threatpost
 

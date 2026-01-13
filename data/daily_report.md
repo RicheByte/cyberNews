@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-13 10:19 UTC  
+> **Last Updated:** 2026-01-13 12:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cyber insights 2026** • **will add warnings** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **ordered government agencies** • **malicious word documents** • **malicious cyber actors** • **facebook login thieves** • **exploits surrounding ics** • **accelerate platform adoption** • **internal network behind** • **exploiting weak credentials** • **countering disinformation fraud** • **5 9m fraud** • **ransomware gang breached** • **hackers accessed university** • **weekend experienced disruptions** • **unpaid toll fee** • **today we'll dig** • **supposed wayward package**
+**ordered government agencies** • **cyber insights 2026** • **notorious hacker forum** • **will add warnings** • **twitter whistleblower complaint** • **malicious cyber actors** • **facebook login thieves** • **exploits surrounding ics** • **zero trust architectures** • **countering disinformation fraud** • **internal network behind** • **code injection vulnerabilities** • **ransomware gang breached** • **president s efforts** • **nation s ability** • **federal legislation will** • **ai generated configurations** • **windows operating systems** • **weekend experienced disruptions** • **unpaid toll fee**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [What Should We Learn From How Attackers Leveraged AI in 2025?](https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html)
+- [ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation](https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html)
+- [New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack](https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html)
 - [CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution](https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html)
 - [n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens](https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html)
 - [⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More](https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html)
 - [GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials](https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html)
 - [Anthropic Launches Claude AI for Healthcare with Secure Health Record Access](https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html)
-- [Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud](https://thehackernews.com/2026/01/researchers-uncover-service-providers.html)
-- [MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors](https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html)
-- [Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime](https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [SAP’s January 2026 Security Updates Patch Critical Vulnerabilities](https://www.securityweek.com/saps-january-2026-security-updates-patch-critical-vulnerabilities/)
+- [Dutch Port Hacker Sentenced to Prison](https://www.securityweek.com/dutch-port-hacker-sentenced-to-prison/)
+- [Spanish Energy Company Endesa Hacked](https://www.securityweek.com/spanish-energy-company-endesa-hacked/)
 - [Cyber Fraud Overtakes Ransomware as Top CEO Concern: WEF](https://www.securityweek.com/cyber-fraud-overtakes-ransomware-as-top-ceo-concern-wef/)
 - [Cyber Insights 2026: What CISOs Can Expect in 2026 and Beyond](https://www.securityweek.com/cyber-insights-2026-what-cisos-can-expect-in-2026-and-beyond/)
 - [Instagram Fixes Password Reset Vulnerability Amid User Data Leak](https://www.securityweek.com/instagram-fixes-password-reset-vulnerability-amid-user-data-leak/)
 - [Russia’s APT28 Targeting Energy Research, Defense Collaboration Entities](https://www.securityweek.com/russias-apt28-targeting-energy-research-defense-collaboration-entities/)
 - [LLMs in Attacker Crosshairs, Warns Threat Intel Firm](https://www.securityweek.com/llms-in-attacker-crosshairs-warns-threat-intel-firm/)
-- [EU Sets February Deadline for Verdict on Google’s $32B Wiz Acquisition](https://www.securityweek.com/eu-sets-february-deadline-for-verdict-on-googles-32b-wiz-acquisition/)
-- [Torq Raises $140 Million at $1.2 Billion Valuation](https://www.securityweek.com/torq-raises-140-million-at-1-2-billion-valuation/)
-- [Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified](https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/)
 
 ### Threatpost
 

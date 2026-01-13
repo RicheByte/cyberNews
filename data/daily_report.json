@@ -1,72 +1,104 @@
 {
-  "last_updated": "2026-01-13 10:19",
+  "last_updated": "2026-01-13 12:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "ordered government agencies",
     "cyber insights 2026",
+    "notorious hacker forum",
     "will add warnings",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
-    "ordered government agencies",
-    "malicious word documents",
     "malicious cyber actors",
     "facebook login thieves",
     "exploits surrounding ics",
-    "accelerate platform adoption",
-    "internal network behind",
-    "exploiting weak credentials",
+    "zero trust architectures",
     "countering disinformation fraud",
-    "5 9m fraud",
+    "internal network behind",
+    "code injection vulnerabilities",
     "ransomware gang breached",
-    "hackers accessed university",
+    "president s efforts",
+    "nation s ability",
+    "federal legislation will",
+    "ai generated configurations",
+    "windows operating systems",
     "weekend experienced disruptions",
-    "unpaid toll fee",
-    "today we'll dig",
-    "supposed wayward package"
+    "unpaid toll fee"
   ],
   "trending": [
     {
-      "keyword": "cyber insights 2026",
-      "mentions": 10
-    },
-    {
-      "keyword": "will add warnings",
-      "mentions": 10
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 323
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 47
-    },
-    {
       "keyword": "ordered government agencies",
-      "mentions": 7
-    },
-    {
-      "keyword": "malicious word documents",
       "mentions": 8
     },
     {
+      "keyword": "cyber insights 2026",
+      "mentions": 11
+    },
+    {
+      "keyword": "notorious hacker forum",
+      "mentions": 1
+    },
+    {
+      "keyword": "will add warnings",
+      "mentions": 11
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 324
+    },
+    {
       "keyword": "malicious cyber actors",
-      "mentions": 160
+      "mentions": 161
     },
     {
       "keyword": "facebook login thieves",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "exploits surrounding ics",
-      "mentions": 222
+      "mentions": 223
     },
     {
-      "keyword": "accelerate platform adoption",
-      "mentions": 10
+      "keyword": "zero trust architectures",
+      "mentions": 1
+    },
+    {
+      "keyword": "countering disinformation fraud",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
+      "link": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
+      "summary": "Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics The security industry loves talking about \"new\" threats. AI-powered attacks. Quantum-resistant encryption. Zero-trust architectures. But looking around, it seems like the most effective attacks in 2025 are pretty much the same as they were in 2015. Attackers are exploiting the same entry points that",
+      "published": "Tue, 13 Jan 2026 17:25:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
+      "link": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
+      "summary": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow AI Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user. The vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0 \"This issue [...] could enable an unauthenticated user to impersonate another user and",
+      "published": "Tue, 13 Jan 2026 17:17:00 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
+      "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access. \"The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a",
+      "published": "Tue, 13 Jan 2026 14:38:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
@@ -118,35 +150,6 @@
       "link": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
       "summary": "Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to better understand their health information. Under an initiative called Claude for Healthcare, the company said U.S. subscribers of Claude Pro and Max plans can opt to give Claude secure access to their lab results and health records by connecting to",
       "published": "Mon, 12 Jan 2026 14:07:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud",
-      "link": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html",
-      "summary": "Cybersecurity researchers have shed light on two service providers that supply online criminal networks with the necessary tools and infrastructure to fuel the pig butchering-as-a-service (PBaaS) economy. At least since 2016, Chinese-speaking criminal groups have erected industrial-scale scam centers across Southeast Asia, creating special economic zones that are devoted to fraudulent investment",
-      "published": "Mon, 12 Jan 2026 13:04:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
-      "link": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
-      "summary": "The Iranian threat actor known as MuddyWater has been attributed to a spear-phishing campaign targeting diplomatic, maritime, financial, and telecom entities in the Middle East with a Rust-based implant codenamed RustyWater. \"The campaign uses icon spoofing and malicious Word documents to deliver Rust based implants capable of asynchronous C2, anti-analysis, registry persistence, and modular",
-      "published": "Sat, 10 Jan 2026 16:05:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime",
-      "link": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
-      "summary": "Europol on Friday announced the arrest of 34 individuals in Spain who are alleged to be part of an international criminal organization called Black Axe. As part of an operation conducted by the Spanish National Police, in coordination with the Bavarian State Criminal Police Office and Europol, 28 arrests were made in Seville, along with three others in Madrid, two in Málaga, and one in Barcelona",
-      "published": "Sat, 10 Jan 2026 14:29:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -391,6 +394,37 @@
     },
     {
       "source": "Security Week",
+      "title": "SAP’s January 2026 Security Updates Patch Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/saps-january-2026-security-updates-patch-critical-vulnerabilities/",
+      "summary": "SAP has released 17 security notes, including four that address critical SQL injection, RCE, and code injection vulnerabilities. The post SAP’s January 2026 Security Updates Patch Critical Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 13 Jan 2026 12:20:35 +0000",
+      "value_score": 62,
+      "value_signals": [
+        "RCE",
+        "Patch/update ×2",
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Dutch Port Hacker Sentenced to Prison",
+      "link": "https://www.securityweek.com/dutch-port-hacker-sentenced-to-prison/",
+      "summary": "The 44-year-old individual planted remote access malware on a logistics firm’s systems, with help from employees. The post Dutch Port Hacker Sentenced to Prison appeared first on SecurityWeek .",
+      "published": "Tue, 13 Jan 2026 11:50:23 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Spanish Energy Company Endesa Hacked",
+      "link": "https://www.securityweek.com/spanish-energy-company-endesa-hacked/",
+      "summary": "Hackers stole complete customer information, including contact details, national identity numbers, and payment details. The post Spanish Energy Company Endesa Hacked appeared first on SecurityWeek .",
+      "published": "Tue, 13 Jan 2026 10:40:57 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cyber Fraud Overtakes Ransomware as Top CEO Concern: WEF",
       "link": "https://www.securityweek.com/cyber-fraud-overtakes-ransomware-as-top-ceo-concern-wef/",
       "summary": "Ransomware remains the biggest concern for CISOs in 2026, according to WEF’s Global Cybersecurity Outlook 2026 report. The post Cyber Fraud Overtakes Ransomware as Top CEO Concern: WEF appeared first on SecurityWeek .",
@@ -435,33 +469,6 @@
       "link": "https://www.securityweek.com/llms-in-attacker-crosshairs-warns-threat-intel-firm/",
       "summary": "Threat actors are hunting for misconfigured proxy servers to gain access to APIs for various LLMs. The post LLMs in Attacker Crosshairs, Warns Threat Intel Firm appeared first on SecurityWeek .",
       "published": "Mon, 12 Jan 2026 11:53:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "EU Sets February Deadline for Verdict on Google’s $32B Wiz Acquisition",
-      "link": "https://www.securityweek.com/eu-sets-february-deadline-for-verdict-on-googles-32b-wiz-acquisition/",
-      "summary": "The record-breaking deal has already received a green light from the US government. The post EU Sets February Deadline for Verdict on Google’s $32B Wiz Acquisition appeared first on SecurityWeek .",
-      "published": "Mon, 12 Jan 2026 10:37:12 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Torq Raises $140 Million at $1.2 Billion Valuation",
-      "link": "https://www.securityweek.com/torq-raises-140-million-at-1-2-billion-valuation/",
-      "summary": "The company will use the investment to accelerate platform adoption and expansion into the federal market. The post Torq Raises $140 Million at $1.2 Billion Valuation appeared first on SecurityWeek .",
-      "published": "Mon, 12 Jan 2026 08:26:15 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified",
-      "link": "https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/",
-      "summary": "UH officials refused to provide key information, including which cancer research project had been affected or how much UH paid the hackers to regain access to files. The post Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified appeared first on SecurityWeek .",
-      "published": "Mon, 12 Jan 2026 02:09:09 +0000",
       "value_score": 10,
       "value_signals": []
     },

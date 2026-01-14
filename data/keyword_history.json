@@ -74,7 +74,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -136,7 +136,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -153,7 +153,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 336,
+      "count": 337,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1317,7 +1317,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1578,7 +1578,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2149,7 +2149,7 @@
       ]
     },
     "strong theme running": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2254,7 +2254,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2265,7 +2265,7 @@
       ]
     },
     "internal network behind": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2727,7 +2727,7 @@
       ]
     },
     "phishing campaign shows": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-13",
         "2026-01-14"
@@ -2741,7 +2741,7 @@
       ]
     },
     "420 million news": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-13",
         "2026-01-14"
@@ -2775,13 +2775,13 @@
       ]
     },
     "charity themed campaign": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-14"
       ]
     },
     "ukraine's defense forces": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-14"
       ]
@@ -2805,7 +2805,7 @@
       ]
     },
     "china chinese cyberattacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-14"
       ]
@@ -2835,7 +2835,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-14"
       ]
@@ -2847,7 +2847,7 @@
       ]
     },
     "severe ai vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-14"
       ]
@@ -2859,6 +2859,30 @@
       ]
     },
     "stack space exhaustion": {
+      "count": 2,
+      "dates": [
+        "2026-01-14"
+      ]
+    },
+    "legitimate binary associated": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
+    },
+    "buy seraphic security": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
+    },
+    "exfiltrate sensitive data": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
+    },
+    "microsoft licensing data": {
       "count": 1,
       "dates": [
         "2026-01-14"
@@ -2866,17 +2890,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-06 06:27",
-      "articles": 56,
-      "top_keywords": [
-        "mass creating fake",
-        "prolific cybercriminal group",
-        "sedgwick confirms cyberattack",
-        "advanced security measures",
-        "sedgwick s subsidiary"
-      ]
-    },
     {
       "timestamp": "2026-01-06 08:24",
       "articles": 56,
@@ -3964,6 +3977,17 @@
         "420 million news",
         "25 vulnerabilities across",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-14 14:21",
+      "articles": 56,
+      "top_keywords": [
+        "malicious cyber actors",
+        "legitimate binary associated",
+        "windows operating systems",
+        "420 million news",
+        "buy seraphic security"
       ]
     }
   ]

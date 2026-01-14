@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-01-14 12:36",
+  "last_updated": "2026-01-14 14:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "windows operating systems",
-    "ai generated configurations",
-    "420 million news",
-    "25 vulnerabilities across",
-    "twitter whistleblower complaint",
     "malicious cyber actors",
+    "legitimate binary associated",
+    "windows operating systems",
+    "420 million news",
+    "buy seraphic security",
+    "twitter whistleblower complaint",
     "cvss scoring system",
     "china chinese cyberattacks",
+    "exfiltrate sensitive data",
     "vulnerabilities earned microsoft's",
     "sprawling phishing campaign",
     "phishing campaign shows",
-    "dire critical rating",
     "charity themed campaign",
     "internal network behind",
-    "severe ai vulnerability",
+    "microsoft licensing data",
     "ukraine's defense forces",
     "today we'll dig",
-    "third party applications",
     "strong theme running",
-    "stack space exhaustion"
+    "stack space exhaustion",
+    "severe ai vulnerability"
   ],
   "trending": [
     {
-      "keyword": "windows operating systems",
-      "mentions": 76
+      "keyword": "malicious cyber actors",
+      "mentions": 168
     },
     {
-      "keyword": "ai generated configurations",
-      "mentions": 13
+      "keyword": "legitimate binary associated",
+      "mentions": 1
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 77
     },
     {
       "keyword": "420 million news",
-      "mentions": 8
-    },
-    {
-      "keyword": "25 vulnerabilities across",
       "mentions": 9
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 336
+      "keyword": "buy seraphic security",
+      "mentions": 1
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 167
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 337
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "china chinese cyberattacks",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "exfiltrate sensitive data",
+      "mentions": 1
     },
     {
       "keyword": "vulnerabilities earned microsoft's",
-      "mentions": 3
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 57
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
+      "link": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
+      "summary": "Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass security controls and deliver a wide range of commodity trojans and stealers. \"Attackers achieve evasion by pairing a malicious libcares-2.dll with any signed version of the legitimate ahost.exe (",
+      "published": "Wed, 14 Jan 2026 19:48:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
@@ -146,11 +157,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
-      "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
-      "summary": "AI agents are no longer just writing code. They are executing it. Tools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping engineering—but it’s also creating a security gap most teams don’t see until something breaks. Behind every agentic workflow sits a layer few organizations are actively securing: Machine Control",
-      "published": "Tue, 13 Jan 2026 19:14:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
+      "summary": "Researchers identified an attack method dubbed \"Reprompt\" that could allow attackers to infiltrate a user's Microsoft Copilot session and issue commands to exfiltrate sensitive data. [...]",
+      "published": "Wed, 14 Jan 2026 09:00:00 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -223,17 +234,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Belgian hospital AZ Monica shuts down servers after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/",
-      "summary": "Belgian hospital AZ Monica was forced to shut down all servers, cancel scheduled procedures, and transfer critical patients earlier today due to a cyberattack. [...]",
-      "published": "Tue, 13 Jan 2026 15:27:22 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
       ]
     },
     {
@@ -334,6 +334,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "CrowdStrike to Buy Seraphic Security In Bid to Boost Browser Security",
+      "link": "https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security",
+      "summary": "The browser protection and detection technology will be integrated into Falcon platform to protect endpoints, browser sessions, and cloud applications.",
+      "published": "Tue, 13 Jan 2026 23:59:37 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "CISO Succession Crisis Highlights How Turnover Amplifies Security Risks",
       "link": "https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks",
       "summary": "When cybersecurity leadership turns over too fast, risk does not reset. It compounds.",
@@ -393,15 +402,24 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Multipurpose GoBruteforcer Botnet Targets 50K+ Linux Servers",
-      "link": "https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers",
-      "summary": "Researchers detailed a souped-up version of the GoBruteforcer botnet that preys on servers with weak credentials and AI-generated configurations.",
-      "published": "Mon, 12 Jan 2026 21:19:49 GMT",
-      "value_score": 30,
+      "source": "Security Week",
+      "title": "Predator Spyware Turns Failed Attacks Into Intelligence for Future Exploits",
+      "link": "https://www.securityweek.com/predator-spywares-granular-anti-analysis-features-exposed/",
+      "summary": "The Predator spyware is more sophisticated and dangerous than previously realized. The post Predator Spyware Turns Failed Attacks Into Intelligence for Future Exploits appeared first on SecurityWeek .",
+      "published": "Wed, 14 Jan 2026 14:00:00 +0000",
+      "value_score": 16,
       "value_signals": [
-        "Botnet ×2"
+        "Exploit wording"
       ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Novee Emerges From Stealth With $51.5 Million in Funding",
+      "link": "https://www.securityweek.com/novee-emerges-from-stealth-with-51-5-million-in-funding/",
+      "summary": "Novee provides continuous AI-driven penetration testing to uncover and address novel vulnerabilities. The post Novee Emerges From Stealth With $51.5 Million in Funding appeared first on SecurityWeek .",
+      "published": "Wed, 14 Jan 2026 13:15:35 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -468,28 +486,6 @@
       "published": "Tue, 13 Jan 2026 20:42:29 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Adobe Patches Critical Apache Tika Bug in ColdFusion",
-      "link": "https://www.securityweek.com/adobe-patches-critical-apache-tika-bug-in-coldfusion/",
-      "summary": "Adobe has released patches for 25 vulnerabilities across its products, including a critical Apache Tika flaw in ColdFusion. The post Adobe Patches Critical Apache Tika Bug in ColdFusion appeared first on SecurityWeek .",
-      "published": "Tue, 13 Jan 2026 19:54:09 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "GoBruteforcer Botnet Targeting Crypto, Blockchain Projects",
-      "link": "https://www.securityweek.com/gobruteforcer-botnet-targeting-crypto-blockchain-projects/",
-      "summary": "The botnet’s propagation is fueled by the AI-generated server deployments that use weak credentials, and legacy web stacks. The post GoBruteforcer Botnet Targeting Crypto, Blockchain Projects appeared first on SecurityWeek .",
-      "published": "Tue, 13 Jan 2026 17:21:53 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
     },
     {
       "source": "Threatpost",

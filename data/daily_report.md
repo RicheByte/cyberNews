@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-14 12:36 UTC  
+> **Last Updated:** 2026-01-14 14:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **ai generated configurations** • **420 million news** • **25 vulnerabilities across** • **twitter whistleblower complaint** • **malicious cyber actors** • **cvss scoring system** • **china chinese cyberattacks** • **vulnerabilities earned microsoft's** • **sprawling phishing campaign** • **phishing campaign shows** • **dire critical rating** • **charity themed campaign** • **internal network behind** • **severe ai vulnerability** • **ukraine's defense forces** • **today we'll dig** • **third party applications** • **strong theme running** • **stack space exhaustion**
+**malicious cyber actors** • **legitimate binary associated** • **windows operating systems** • **420 million news** • **buy seraphic security** • **twitter whistleblower complaint** • **cvss scoring system** • **china chinese cyberattacks** • **exfiltrate sensitive data** • **vulnerabilities earned microsoft's** • **sprawling phishing campaign** • **phishing campaign shows** • **charity themed campaign** • **internal network behind** • **microsoft licensing data** • **ukraine's defense forces** • **today we'll dig** • **strong theme running** • **stack space exhaustion** • **severe ai vulnerability**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware](https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html)
 - [Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution](https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html)
 - [New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification](https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html)
 - [Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited](https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html)
@@ -23,10 +24,10 @@
 - [PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces](https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html)
 - [Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages](https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html)
 - [Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool](https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html)
-- [[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl](https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html)
 
 ### BleepingComputer
 
+- [Reprompt attack let hackers hijack Microsoft Copilot sessions](https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/)
 - [Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners](https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/)
 - [Victorian Department of Education says hackers stole students’ data](https://www.bleepingcomputer.com/news/security/victorian-department-of-education-notifies-parents-of-data-breach/)
 - [Microsoft: Windows 365 update blocks access to Cloud PC sessions](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/)
@@ -34,7 +35,6 @@
 - [Ukraine's army targeted in new charity-themed malware campaign](https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/)
 - [New VoidLink malware framework targets Linux cloud servers](https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/)
 - [Central Maine Healthcare breach exposed data of over 145,000 people](https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/)
-- [Belgian hospital AZ Monica shuts down servers after cyberattack](https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/)
 
 ### Krebs on Security
 
@@ -50,24 +50,24 @@
 ### Dark Reading
 
 - [Taiwan Endures Greater Cyber Pressure From China](https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china)
+- [CrowdStrike to Buy Seraphic Security In Bid to Boost Browser Security](https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security)
 - [CISO Succession Crisis Highlights How Turnover Amplifies Security Risks](https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks)
 - ['Most Severe AI Vulnerability to Date' Hits ServiceNow](https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow)
 - [Microsoft Starts 2026 With a Bang: A Freshly Exploited Zero-Day](https://www.darkreading.com/application-security/microsofts-starts-2026-bang-zero-day)
 - [Shadow#Reactor Uses Text Files to Deliver Remcos RAT](https://www.darkreading.com/endpoint-security/shadow-reactor-uses-text-files-to-deliver-remcos-rat)
 - [Attackers Abuse Python, Cloudflare to Deliver AsyncRAT](https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat)
 - [BreachForums Breached, Exposing 324K Cybercriminals](https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals)
-- [Multipurpose GoBruteforcer Botnet Targets 50K+ Linux Servers](https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers)
 
 ### Security Week
 
+- [Predator Spyware Turns Failed Attacks Into Intelligence for Future Exploits](https://www.securityweek.com/predator-spywares-granular-anti-analysis-features-exposed/)
+- [Novee Emerges From Stealth With $51.5 Million in Funding](https://www.securityweek.com/novee-emerges-from-stealth-with-51-5-million-in-funding/)
 - [WitnessAI Raises $58 Million for AI Security Platform](https://www.securityweek.com/witnessai-raises-58-million-for-ai-security-platform/)
 - [Robo-Advisor Betterment Discloses Data Breach](https://www.securityweek.com/robo-advisor-betterment-discloses-data-breach/)
 - [Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM](https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/)
 - [Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities](https://www.securityweek.com/chrome-144-firefox-147-patch-high-severity-vulnerabilities/)
 - [Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/)
 - [CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million](https://www.securityweek.com/crowdstrike-to-acquire-browser-security-firm-seraphic-for-420-million/)
-- [Adobe Patches Critical Apache Tika Bug in ColdFusion](https://www.securityweek.com/adobe-patches-critical-apache-tika-bug-in-coldfusion/)
-- [GoBruteforcer Botnet Targeting Crypto, Blockchain Projects](https://www.securityweek.com/gobruteforcer-botnet-targeting-crypto-blockchain-projects/)
 
 ### Threatpost
 

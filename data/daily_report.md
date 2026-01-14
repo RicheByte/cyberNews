@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-14 10:20 UTC  
+> **Last Updated:** 2026-01-14 12:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **ai generated configurations** • **25 vulnerabilities across** • **dire critical rating** • **420 million news** • **twitter whistleblower complaint** • **malicious cyber actors** • **china chinese cyberattacks** • **vulnerabilities earned microsoft's** • **sprawling phishing campaign** • **phishing campaign shows** • **charity themed campaign** • **internal network behind** • **final patch tuesday** • **severe ai vulnerability** • **attackers leveraged ai** • **zero trust architectures** • **will automatically install** • **ukraine's defense forces** • **today we'll dig**
+**windows operating systems** • **ai generated configurations** • **420 million news** • **25 vulnerabilities across** • **twitter whistleblower complaint** • **malicious cyber actors** • **cvss scoring system** • **china chinese cyberattacks** • **vulnerabilities earned microsoft's** • **sprawling phishing campaign** • **phishing campaign shows** • **dire critical rating** • **charity themed campaign** • **internal network behind** • **severe ai vulnerability** • **ukraine's defense forces** • **today we'll dig** • **third party applications** • **strong theme running** • **stack space exhaustion**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution](https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html)
+- [New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification](https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html)
+- [Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited](https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html)
 - [Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow](https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html)
 - [PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces](https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html)
 - [Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages](https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html)
 - [Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool](https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html)
 - [[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl](https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html)
-- [New Advanced Linux VoidLink Malware Targets Cloud and container Environments](https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html)
-- [What Should We Learn From How Attackers Leveraged AI in 2025?](https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html)
-- [ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation](https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html)
 
 ### BleepingComputer
 
+- [Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners](https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/)
+- [Victorian Department of Education says hackers stole students’ data](https://www.bleepingcomputer.com/news/security/victorian-department-of-education-notifies-parents-of-data-breach/)
 - [Microsoft: Windows 365 update blocks access to Cloud PC sessions](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/)
 - [Monroe University says 2024 data breach affects 320,000 people](https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/)
 - [Ukraine's army targeted in new charity-themed malware campaign](https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/)
 - [New VoidLink malware framework targets Linux cloud servers](https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/)
 - [Central Maine Healthcare breach exposed data of over 145,000 people](https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/)
 - [Belgian hospital AZ Monica shuts down servers after cyberattack](https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/)
-- [New Windows updates replace expiring Secure Boot certificates](https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/)
-- [Microsoft releases Windows 10 KB5073724 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [WitnessAI Raises $58 Million for AI Security Platform](https://www.securityweek.com/witnessai-raises-58-million-for-ai-security-platform/)
+- [Robo-Advisor Betterment Discloses Data Breach](https://www.securityweek.com/robo-advisor-betterment-discloses-data-breach/)
 - [Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM](https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/)
 - [Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities](https://www.securityweek.com/chrome-144-firefox-147-patch-high-severity-vulnerabilities/)
+- [Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/)
 - [CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million](https://www.securityweek.com/crowdstrike-to-acquire-browser-security-firm-seraphic-for-420-million/)
 - [Adobe Patches Critical Apache Tika Bug in ColdFusion](https://www.securityweek.com/adobe-patches-critical-apache-tika-bug-in-coldfusion/)
-- [Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/)
 - [GoBruteforcer Botnet Targeting Crypto, Blockchain Projects](https://www.securityweek.com/gobruteforcer-botnet-targeting-crypto-blockchain-projects/)
-- [After Goldman, JPMorgan Discloses Law Firm Data Breach](https://www.securityweek.com/after-goldman-jpmorgan-discloses-law-firm-data-breach/)
-- [Cyber Insights 2026: External Attack Surface Management](https://www.securityweek.com/cyber-insights-2026-external-attack-surface-management/)
 
 ### Threatpost
 

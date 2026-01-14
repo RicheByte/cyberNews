@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-13 22:17",
+  "last_updated": "2026-01-14 01:21",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
     "ai generated configurations",
-    "25 vulnerabilities across",
-    "420 million news",
     "will automatically install",
     "twitter whistleblower complaint",
-    "windows operating systems",
+    "420 million news",
+    "2026 it's clear",
+    "25 vulnerabilities across",
     "sprawling phishing campaign",
     "phishing campaign shows",
-    "internal network behind",
+    "charity themed campaign",
     "attackers leveraged ai",
-    "unpaid toll fee",
-    "today we'll dig",
-    "supposed wayward package",
-    "strong theme running",
+    "zero trust architectures",
+    "ukraine's defense forces",
     "sophisticated delivery mechanism",
-    "sms phishers pivot",
-    "scoops nestled inside",
-    "restrict free speech",
     "resources without limits",
-    "repository file editor"
+    "repository file editor",
+    "recommended immediate actions",
+    "rat deployment showcasing",
+    "quantum resistant encryption",
+    "perform arbitrary actions",
+    "open source tools"
   ],
   "trending": [
     {
       "keyword": "ai generated configurations",
-      "mentions": 6
-    },
-    {
-      "keyword": "25 vulnerabilities across",
-      "mentions": 2
-    },
-    {
-      "keyword": "420 million news",
-      "mentions": 1
+      "mentions": 7
     },
     {
       "keyword": "will automatically install",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 329
+      "mentions": 330
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 73
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 50
-    },
-    {
-      "keyword": "phishing campaign shows",
+      "keyword": "420 million news",
       "mentions": 2
     },
     {
-      "keyword": "internal network behind",
-      "mentions": 54
+      "keyword": "2026 it's clear",
+      "mentions": 1
+    },
+    {
+      "keyword": "25 vulnerabilities across",
+      "mentions": 3
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 51
+    },
+    {
+      "keyword": "phishing campaign shows",
+      "mentions": 3
+    },
+    {
+      "keyword": "charity themed campaign",
+      "mentions": 1
     },
     {
       "keyword": "attackers leveraged ai",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -150,6 +150,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Ukraine's army targeted in new charity-themed malware campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/",
+      "summary": "Officials of Ukraine's Defense Forces were targeted in a charity-themed campaign between October and December 2025 that delivered backdoor malware called PluggyApe. [...]",
+      "published": "Tue, 13 Jan 2026 18:03:55 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New VoidLink malware framework targets Linux cloud servers",
       "link": "https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/",
       "summary": "A newly discovered advanced cloud-native Linux malware framework named VoidLink focuses on cloud environments, providing attackers with custom loaders, implants, rootkits, and plugins designed for modern infrastructures. [...]",
@@ -225,98 +236,6 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Google confirms Android bug causing volume key issues",
-      "link": "https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/",
-      "summary": "Google has confirmed a software bug that is preventing volume buttons from working correctly on Android devices with accessibility features enabled. [...]",
-      "published": "Tue, 13 Jan 2026 13:25:04 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Botnet",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-      "published": "Thu, 04 Dec 2025 23:02:34 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
       "source": "Dark Reading",
       "title": "'Most Severe AI Vulnerability to Date' Hits ServiceNow",
       "link": "https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow",
@@ -324,6 +243,19 @@
       "published": "Tue, 13 Jan 2026 21:44:48 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Microsoft Starts 2026 With a Bang: A Freshly Exploited Zero-Day",
+      "link": "https://www.darkreading.com/application-security/microsofts-starts-2026-bang-zero-day",
+      "summary": "The vendor's first Patch Tuesday of the year also contains fixes for 112 CVEs, nearly double the amount from last month.",
+      "published": "Tue, 13 Jan 2026 21:11:37 GMT",
+      "value_score": 49,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -384,15 +316,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Hexnode Moves into Endpoint Security With Hexnode XDR",
-      "link": "https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr",
-      "summary": "",
-      "published": "Mon, 12 Jan 2026 19:20:16 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

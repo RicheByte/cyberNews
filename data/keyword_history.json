@@ -27,7 +27,8 @@
     "2026-01-10",
     "2026-01-11",
     "2026-01-12",
-    "2026-01-13"
+    "2026-01-13",
+    "2026-01-14"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -150,7 +151,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 329,
+      "count": 330,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -179,7 +180,8 @@
         "2026-01-10",
         "2026-01-11",
         "2026-01-12",
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "supposed wayward package": {
@@ -1313,7 +1315,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1321,7 +1323,8 @@
         "2026-01-10",
         "2026-01-11",
         "2026-01-12",
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "model agnostic abstractions": {
@@ -2214,11 +2217,12 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-08",
         "2026-01-11",
-        "2026-01-12"
+        "2026-01-12",
+        "2026-01-14"
       ]
     },
     "next wave hits": {
@@ -2640,9 +2644,10 @@
       ]
     },
     "zero trust architectures": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "code injection vulnerabilities": {
@@ -2658,9 +2663,10 @@
       ]
     },
     "ai generated configurations": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "servicenow ai platform": {
@@ -2688,21 +2694,24 @@
       ]
     },
     "open source tools": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "25 vulnerabilities across": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "will automatically install": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "critical function backgroun": {
@@ -2712,54 +2721,85 @@
       ]
     },
     "phishing campaign shows": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "resources without limits": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "420 million news": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "attackers leveraged ai": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "sophisticated delivery mechanism": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "repository file editor": {
+      "count": 2,
+      "dates": [
+        "2026-01-13",
+        "2026-01-14"
+      ]
+    },
+    "2026 it's clear": {
       "count": 1,
       "dates": [
-        "2026-01-13"
+        "2026-01-14"
+      ]
+    },
+    "charity themed campaign": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
+    },
+    "ukraine's defense forces": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
+    },
+    "rat deployment showcasing": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
+    },
+    "quantum resistant encryption": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
+    },
+    "perform arbitrary actions": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-05 16:22",
-      "articles": 56,
-      "top_keywords": [
-        "mass creating fake",
-        "cybercrime looks like",
-        "prolific cybercriminal group",
-        "advanced security measures",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-05 18:26",
       "articles": 56,
@@ -3847,6 +3887,17 @@
         "420 million news",
         "will automatically install",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-14 01:21",
+      "articles": 48,
+      "top_keywords": [
+        "ai generated configurations",
+        "will automatically install",
+        "twitter whistleblower complaint",
+        "420 million news",
+        "2026 it's clear"
       ]
     }
   ]

@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-01-14 14:21",
+  "last_updated": "2026-01-14 16:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "malicious cyber actors",
-    "legitimate binary associated",
     "windows operating systems",
-    "420 million news",
-    "buy seraphic security",
     "twitter whistleblower complaint",
+    "legitimate binary associated",
     "cvss scoring system",
     "china chinese cyberattacks",
-    "exfiltrate sensitive data",
     "vulnerabilities earned microsoft's",
     "sprawling phishing campaign",
     "phishing campaign shows",
     "charity themed campaign",
     "internal network behind",
-    "microsoft licensing data",
+    "114 flaws eight",
+    "buy seraphic security",
     "ukraine's defense forces",
     "today we'll dig",
     "strong theme running",
     "stack space exhaustion",
-    "severe ai vulnerability"
+    "scoops nestled inside",
+    "restrict free speech",
+    "resources without limits"
   ],
   "trending": [
     {
       "keyword": "malicious cyber actors",
-      "mentions": 168
-    },
-    {
-      "keyword": "legitimate binary associated",
-      "mentions": 1
+      "mentions": 169
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 77
-    },
-    {
-      "keyword": "420 million news",
-      "mentions": 9
-    },
-    {
-      "keyword": "buy seraphic security",
-      "mentions": 1
+      "mentions": 78
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 337
+      "mentions": 338
+    },
+    {
+      "keyword": "legitimate binary associated",
+      "mentions": 2
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "china chinese cyberattacks",
-      "mentions": 7
-    },
-    {
-      "keyword": "exfiltrate sensitive data",
-      "mentions": 1
+      "mentions": 8
     },
     {
       "keyword": "vulnerabilities earned microsoft's",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 59
+    },
+    {
+      "keyword": "phishing campaign shows",
+      "mentions": 11
+    },
+    {
+      "keyword": "charity themed campaign",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "AI Agents Are Becoming Privilege Escalation Paths",
+      "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
+      "summary": "AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What began as individual productivity aids, like personal code assistants, chatbots, and copilots, has evolved into shared, organization-wide agents embedded in critical processes. These agents can orchestrate workflows across multiple systems, for example:",
+      "published": "Wed, 14 Jan 2026 20:37:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Privilege escalation",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
@@ -148,13 +160,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
-      "link": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
-      "summary": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to automate trading on the platform. The extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), has 29 downloads and is still",
-      "published": "Tue, 13 Jan 2026 22:52:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "ConsentFix debrief: Insights from the new OAuth phishing attack",
+      "link": "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/",
+      "summary": "ConsentFix is an OAuth phishing technique abusing browser-based authorization flows to hijack Microsoft accounts. Push Security shares new insights from continued tracking, community research, and evolving attacker techniques. [...]",
+      "published": "Wed, 14 Jan 2026 10:01:11 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -224,17 +238,6 @@
       "published": "Tue, 13 Jan 2026 17:12:20 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Central Maine Healthcare breach exposed data of over 145,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/",
-      "summary": "A data breach last year at Central Maine Healthcare (CMH) exposed sensitive information of more than 145,000 individuals. [...]",
-      "published": "Tue, 13 Jan 2026 15:32:29 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -334,9 +337,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "CrowdStrike to Buy Seraphic Security In Bid to Boost Browser Security",
+      "title": "CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security",
       "link": "https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security",
-      "summary": "The browser protection and detection technology will be integrated into Falcon platform to protect endpoints, browser sessions, and cloud applications.",
+      "summary": "The browser protection and detection technology will be integrated into CrowdStrike's Falcon platform to protect endpoints, browser sessions, and cloud applications.",
       "published": "Tue, 13 Jan 2026 23:59:37 GMT",
       "value_score": 10,
       "value_signals": []
@@ -400,6 +403,17 @@
       "published": "Mon, 12 Jan 2026 22:01:37 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "RedVDS Cybercrime Service Disrupted by Microsoft and Law Enforcement",
+      "link": "https://www.securityweek.com/redvds-cybercrime-service-disrupted-by-microsoft-and-law-enforcement/",
+      "summary": "RedVDS enables threat actors to set up servers that can be used for phishing, BEC attacks, account takeover, and fraud. The post RedVDS Cybercrime Service Disrupted by Microsoft and Law Enforcement appeared first on SecurityWeek .",
+      "published": "Wed, 14 Jan 2026 15:00:00 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
     },
     {
       "source": "Security Week",
@@ -477,15 +491,6 @@
         "Zero-day ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million",
-      "link": "https://www.securityweek.com/crowdstrike-to-acquire-browser-security-firm-seraphic-for-420-million/",
-      "summary": "News of the move to acquire Seraphic comes less than a week after CrowdStrike announced an agreement to acquire identity security startup SGNL for $740 million. The post CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million appeared first on SecurityWeek .",
-      "published": "Tue, 13 Jan 2026 20:42:29 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",
@@ -572,6 +577,46 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Secure Connectivity Principles for Operational Technology (OT)",
+      "link": "https://www.cisa.gov/resources-tools/resources/secure-connectivity-principles-operational-technology-ot",
+      "summary": "CISA and the UK National Cyber Security Centre (NCSC-UK), in collaboration with federal and international partners, have released Secure Connectivity Principles for Operational Technology (OT) guidance to help asset owners address increasing business and regulatory pressures for connectivity into operational technology (OT) networks. This guidance outlines eight principles to use as a framework to design, secure, and manage connectivity into OT environments. These principles are particularly cri",
+      "published": "Wed, 14 Jan 26 12:00:00 +0000",
+      "value_score": 55,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CISA/KEV"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Rockwell Automation 432ES-IG3 Series A",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in a denial-of-service condition. The following versions of Rockwell Automation 432ES-IG3 Series A are affected: 432ES-IG3 Series A (CVE-2025-9368) CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation Rockwell Automation 432ES-IG3 Series A Allocation of Resources Without Limits or Throttling Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headqua",
+      "published": "Tue, 13 Jan 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Rockwell Automation FactoryTalk DataMosaix Private Cloud",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to perform unauthorized sensitive database operations. The following versions of Rockwell Automation FactoryTalk DataMosaix Private Cloud are affected: FactoryTalk DataMosaix Private Cloud (CVE-2025-12807) FactoryTalk DataMosaix Private Cloud (CVE-2025-12807) FactoryTalk DataMosaix Private Cloud (CVE-2025-12807) CVSS Vendor Equipment Vulnerabilities v3 8.8 Rockwell Automation Rockwell Automation FactoryTalk D",
+      "published": "Tue, 13 Jan 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/01/13/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20805 Microsoft Windows Information Disclosure Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of kno",
@@ -595,34 +640,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned ×4",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Rockwell Automation FactoryTalk DataMosaix Private Cloud",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to perform unauthorized sensitive database operations. The following versions of Rockwell Automation FactoryTalk DataMosaix Private Cloud are affected: FactoryTalk DataMosaix Private Cloud (CVE-2025-12807) FactoryTalk DataMosaix Private Cloud (CVE-2025-12807) FactoryTalk DataMosaix Private Cloud (CVE-2025-12807) CVSS Vendor Equipment Vulnerabilities v3 8.8 Rockwell Automation Rockwell Automation FactoryTalk D",
-      "published": "Tue, 13 Jan 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Rockwell Automation 432ES-IG3 Series A",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in a denial-of-service condition. The following versions of Rockwell Automation 432ES-IG3 Series A are affected: 432ES-IG3 Series A (CVE-2025-9368) CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation Rockwell Automation 432ES-IG3 Series A Allocation of Resources Without Limits or Throttling Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headqua",
-      "published": "Tue, 13 Jan 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×2",
         "Exploit wording"
       ]
     },
@@ -665,20 +682,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned ×2",
         "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Columbia Weather Systems MicroServer",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to redirect connections to an attacker controlled device, gain admin access to the web portal, or gain limited shell access. The following versions of Columbia Weather Systems MicroServer are affected: MicroServer firmware (CVE-2025-61939, CVE-2025-64305, CVE-2025-66620) CVSS Vendor Equipment Vulnerabilities v3 8.8 Columbia Weather Systems Columbia Weather Systems MicroServer Improper Restriction of Commun",
-      "published": "Tue, 06 Jan 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
         "Multiple CVEs",
         "Exploit wording"
       ]

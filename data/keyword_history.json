@@ -74,7 +74,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -136,7 +136,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -153,7 +153,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 337,
+      "count": 338,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1110,11 +1110,12 @@
       ]
     },
     "restrict free speech": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2025-12-24",
         "2025-12-25",
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "spread powershell malware": {
@@ -1317,7 +1318,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1578,7 +1579,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2149,7 +2150,7 @@
       ]
     },
     "strong theme running": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2254,7 +2255,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2265,7 +2266,7 @@
       ]
     },
     "internal network behind": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2473,10 +2474,11 @@
       ]
     },
     "scoops nestled inside": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-11",
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "banning legitimate accounts": {
@@ -2727,14 +2729,14 @@
       ]
     },
     "phishing campaign shows": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-13",
         "2026-01-14"
       ]
     },
     "resources without limits": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-13",
         "2026-01-14"
@@ -2775,13 +2777,13 @@
       ]
     },
     "charity themed campaign": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-14"
       ]
     },
     "ukraine's defense forces": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-14"
       ]
@@ -2805,7 +2807,7 @@
       ]
     },
     "china chinese cyberattacks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-14"
       ]
@@ -2835,7 +2837,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-14"
       ]
@@ -2859,19 +2861,19 @@
       ]
     },
     "stack space exhaustion": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-14"
       ]
     },
     "legitimate binary associated": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-14"
       ]
     },
     "buy seraphic security": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-14"
       ]
@@ -2887,20 +2889,15 @@
       "dates": [
         "2026-01-14"
       ]
+    },
+    "114 flaws eight": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-06 08:24",
-      "articles": 56,
-      "top_keywords": [
-        "mass creating fake",
-        "prolific cybercriminal group",
-        "sedgwick confirms cyberattack",
-        "advanced security measures",
-        "sedgwick s subsidiary"
-      ]
-    },
     {
       "timestamp": "2026-01-06 10:18",
       "articles": 56,
@@ -3988,6 +3985,17 @@
         "windows operating systems",
         "420 million news",
         "buy seraphic security"
+      ]
+    },
+    {
+      "timestamp": "2026-01-14 16:24",
+      "articles": 56,
+      "top_keywords": [
+        "malicious cyber actors",
+        "windows operating systems",
+        "twitter whistleblower complaint",
+        "legitimate binary associated",
+        "cvss scoring system"
       ]
     }
   ]

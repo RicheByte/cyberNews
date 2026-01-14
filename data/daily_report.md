@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-14 14:21 UTC  
+> **Last Updated:** 2026-01-14 16:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**malicious cyber actors** • **legitimate binary associated** • **windows operating systems** • **420 million news** • **buy seraphic security** • **twitter whistleblower complaint** • **cvss scoring system** • **china chinese cyberattacks** • **exfiltrate sensitive data** • **vulnerabilities earned microsoft's** • **sprawling phishing campaign** • **phishing campaign shows** • **charity themed campaign** • **internal network behind** • **microsoft licensing data** • **ukraine's defense forces** • **today we'll dig** • **strong theme running** • **stack space exhaustion** • **severe ai vulnerability**
+**malicious cyber actors** • **windows operating systems** • **twitter whistleblower complaint** • **legitimate binary associated** • **cvss scoring system** • **china chinese cyberattacks** • **vulnerabilities earned microsoft's** • **sprawling phishing campaign** • **phishing campaign shows** • **charity themed campaign** • **internal network behind** • **114 flaws eight** • **buy seraphic security** • **ukraine's defense forces** • **today we'll dig** • **strong theme running** • **stack space exhaustion** • **scoops nestled inside** • **restrict free speech** • **resources without limits**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [AI Agents Are Becoming Privilege Escalation Paths](https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html)
 - [Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware](https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html)
 - [Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution](https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html)
 - [New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification](https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html)
@@ -23,10 +24,10 @@
 - [Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow](https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html)
 - [PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces](https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html)
 - [Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages](https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html)
-- [Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool](https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html)
 
 ### BleepingComputer
 
+- [ConsentFix debrief: Insights from the new OAuth phishing attack](https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/)
 - [Reprompt attack let hackers hijack Microsoft Copilot sessions](https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/)
 - [Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners](https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/)
 - [Victorian Department of Education says hackers stole students’ data](https://www.bleepingcomputer.com/news/security/victorian-department-of-education-notifies-parents-of-data-breach/)
@@ -34,7 +35,6 @@
 - [Monroe University says 2024 data breach affects 320,000 people](https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/)
 - [Ukraine's army targeted in new charity-themed malware campaign](https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/)
 - [New VoidLink malware framework targets Linux cloud servers](https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/)
-- [Central Maine Healthcare breach exposed data of over 145,000 people](https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/)
 
 ### Krebs on Security
 
@@ -50,7 +50,7 @@
 ### Dark Reading
 
 - [Taiwan Endures Greater Cyber Pressure From China](https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china)
-- [CrowdStrike to Buy Seraphic Security In Bid to Boost Browser Security](https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security)
+- [CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security](https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security)
 - [CISO Succession Crisis Highlights How Turnover Amplifies Security Risks](https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks)
 - ['Most Severe AI Vulnerability to Date' Hits ServiceNow](https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow)
 - [Microsoft Starts 2026 With a Bang: A Freshly Exploited Zero-Day](https://www.darkreading.com/application-security/microsofts-starts-2026-bang-zero-day)
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [RedVDS Cybercrime Service Disrupted by Microsoft and Law Enforcement](https://www.securityweek.com/redvds-cybercrime-service-disrupted-by-microsoft-and-law-enforcement/)
 - [Predator Spyware Turns Failed Attacks Into Intelligence for Future Exploits](https://www.securityweek.com/predator-spywares-granular-anti-analysis-features-exposed/)
 - [Novee Emerges From Stealth With $51.5 Million in Funding](https://www.securityweek.com/novee-emerges-from-stealth-with-51-5-million-in-funding/)
 - [WitnessAI Raises $58 Million for AI Security Platform](https://www.securityweek.com/witnessai-raises-58-million-for-ai-security-platform/)
@@ -67,7 +68,6 @@
 - [Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM](https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/)
 - [Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities](https://www.securityweek.com/chrome-144-firefox-147-patch-high-severity-vulnerabilities/)
 - [Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/)
-- [CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million](https://www.securityweek.com/crowdstrike-to-acquire-browser-security-firm-seraphic-for-420-million/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Secure Connectivity Principles for Operational Technology (OT)](https://www.cisa.gov/resources-tools/resources/secure-connectivity-principles-operational-technology-ot)
+- [Rockwell Automation 432ES-IG3 Series A](https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-01)
+- [Rockwell Automation FactoryTalk DataMosaix Private Cloud](https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/13/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [YoSmart YoLink Smart Hub](https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-03)
-- [Rockwell Automation FactoryTalk DataMosaix Private Cloud](https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-02)
-- [Rockwell Automation 432ES-IG3 Series A](https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-01)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/12/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Hitachi Energy Asset Suite](https://www.cisa.gov/news-events/ics-advisories/icsa-26-008-01)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [Columbia Weather Systems MicroServer](https://www.cisa.gov/news-events/ics-advisories/icsa-26-006-01)
 
 ---
 

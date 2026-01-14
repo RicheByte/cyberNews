@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-14 01:21 UTC  
+> **Last Updated:** 2026-01-14 03:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai generated configurations** • **will automatically install** • **twitter whistleblower complaint** • **420 million news** • **2026 it's clear** • **25 vulnerabilities across** • **sprawling phishing campaign** • **phishing campaign shows** • **charity themed campaign** • **attackers leveraged ai** • **zero trust architectures** • **ukraine's defense forces** • **sophisticated delivery mechanism** • **resources without limits** • **repository file editor** • **recommended immediate actions** • **rat deployment showcasing** • **quantum resistant encryption** • **perform arbitrary actions** • **open source tools**
+**ai generated configurations** • **twitter whistleblower complaint** • **china chinese cyberattacks** • **420 million news** • **25 vulnerabilities across** • **sprawling phishing campaign** • **phishing campaign shows** • **charity themed campaign** • **attackers leveraged ai** • **zero trust architectures** • **will automatically install** • **ukraine's defense forces** • **sophisticated delivery mechanism** • **resources without limits** • **repository file editor** • **recommended immediate actions** • **rat deployment showcasing** • **quantum resistant encryption** • **poses significant risks** • **pose significant risks**
 
 ---
 
@@ -38,14 +38,14 @@
 
 ### Dark Reading
 
+- [Taiwan Endures Greater Cyber Pressure From China](https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china)
+- [CISO Succession Crisis Highlights How Turnover Amplifies Security Risks](https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks)
 - ['Most Severe AI Vulnerability to Date' Hits ServiceNow](https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow)
 - [Microsoft Starts 2026 With a Bang: A Freshly Exploited Zero-Day](https://www.darkreading.com/application-security/microsofts-starts-2026-bang-zero-day)
 - [Shadow#Reactor Uses Text Files to Deliver Remcos RAT](https://www.darkreading.com/endpoint-security/shadow-reactor-uses-text-files-to-deliver-remcos-rat)
 - [Attackers Abuse Python, Cloudflare to Deliver AsyncRAT](https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat)
 - [BreachForums Breached, Exposing 324K Cybercriminals](https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals)
 - [Multipurpose GoBruteforcer Botnet Targets 50K+ Linux Servers](https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers)
-- [Navigating Privacy and Cybersecurity Laws in 2026 Will Prove Difficult](https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult)
-- [FBI Flags Quishing Attacks From North Korean APT](https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt)
 
 ### Security Week
 

@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-01-14 01:21",
+  "last_updated": "2026-01-14 03:43",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "ai generated configurations",
-    "will automatically install",
     "twitter whistleblower complaint",
+    "china chinese cyberattacks",
     "420 million news",
-    "2026 it's clear",
     "25 vulnerabilities across",
     "sprawling phishing campaign",
     "phishing campaign shows",
     "charity themed campaign",
     "attackers leveraged ai",
     "zero trust architectures",
+    "will automatically install",
     "ukraine's defense forces",
     "sophisticated delivery mechanism",
     "resources without limits",
@@ -21,49 +21,49 @@
     "recommended immediate actions",
     "rat deployment showcasing",
     "quantum resistant encryption",
-    "perform arbitrary actions",
-    "open source tools"
+    "poses significant risks",
+    "pose significant risks"
   ],
   "trending": [
     {
       "keyword": "ai generated configurations",
-      "mentions": 7
-    },
-    {
-      "keyword": "will automatically install",
-      "mentions": 3
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 330
+      "mentions": 331
+    },
+    {
+      "keyword": "china chinese cyberattacks",
+      "mentions": 1
     },
     {
       "keyword": "420 million news",
-      "mentions": 2
-    },
-    {
-      "keyword": "2026 it's clear",
-      "mentions": 1
+      "mentions": 3
     },
     {
       "keyword": "25 vulnerabilities across",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "phishing campaign shows",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "charity themed campaign",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "attackers leveraged ai",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "zero trust architectures",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -237,6 +237,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Taiwan Endures Greater Cyber Pressure From China",
+      "link": "https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china",
+      "summary": "Chinese cyberattacks on Taiwan's critical infrastructure — including energy utilities and hospitals — rose 6% in 2025, averaging 2.63 million attacks a day.",
+      "published": "Wed, 14 Jan 2026 02:00:00 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "CISO Succession Crisis Highlights How Turnover Amplifies Security Risks",
+      "link": "https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks",
+      "summary": "When cybersecurity leadership turns over too fast, risk does not reset. It compounds.",
+      "published": "Tue, 13 Jan 2026 23:45:27 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Most Severe AI Vulnerability to Date' Hits ServiceNow",
       "link": "https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow",
       "summary": "ServiceNow tacked agentic AI onto a largely unguarded legacy chatbot, exposing customers' data and connected systems.",
@@ -295,26 +315,6 @@
       "value_score": 30,
       "value_signals": [
         "Botnet ×2"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Navigating Privacy and Cybersecurity Laws in 2026 Will Prove Difficult",
-      "link": "https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult",
-      "summary": "No matter what new laws or regulations make the cut for 2026, it's clear that compliance challenges will persist and federal legislation will be limited.",
-      "published": "Mon, 12 Jan 2026 20:14:57 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "FBI Flags Quishing Attacks From North Korean APT",
-      "link": "https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt",
-      "summary": "A state-sponsored threat group tracked as \"Kimsuky\" sent QR-code-filled phishing emails to US and foreign government agencies, NGOs, and academic institutions.",
-      "published": "Mon, 12 Jan 2026 19:26:02 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-14 16:24 UTC |
+| 🕐 Last Updated | 2026-01-14 18:27 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`malicious cyber actors` • `windows operating systems` • `twitter whistleblower complaint` • `legitimate binary associated` • `cvss scoring system` • `china chinese cyberattacks` • `vulnerabilities earned microsoft's` • `sprawling phishing campaign` • `phishing campaign shows` • `charity themed campaign`
+`malicious cyber actors` • `windows operating systems` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `cvss scoring system` • `china chinese cyberattacks` • `microsoft licensing data` • `detection technology will` • `exfiltrate sensitive data` • `internal network behind`
 
 ## 📄 Reports
 

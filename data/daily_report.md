@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-14 16:24 UTC  
+> **Last Updated:** 2026-01-14 18:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**malicious cyber actors** • **windows operating systems** • **twitter whistleblower complaint** • **legitimate binary associated** • **cvss scoring system** • **china chinese cyberattacks** • **vulnerabilities earned microsoft's** • **sprawling phishing campaign** • **phishing campaign shows** • **charity themed campaign** • **internal network behind** • **114 flaws eight** • **buy seraphic security** • **ukraine's defense forces** • **today we'll dig** • **strong theme running** • **stack space exhaustion** • **scoops nestled inside** • **restrict free speech** • **resources without limits**
+**malicious cyber actors** • **windows operating systems** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **cvss scoring system** • **china chinese cyberattacks** • **microsoft licensing data** • **detection technology will** • **exfiltrate sensitive data** • **internal network behind** • **114 flaws eight** • **buy seraphic security** • **vulnerabilities earned microsoft's** • **core windows component** • **today we'll dig** • **strong theme running** • **stack space exhaustion** • **scoops nestled inside** • **restrict free speech** • **resources without limits**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Verizon Wireless outage puts phones in SOS mode without cell service](https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/)
+- [Microsoft updates Windows DLL that triggered security alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/)
 - [ConsentFix debrief: Insights from the new OAuth phishing attack](https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/)
-- [Reprompt attack let hackers hijack Microsoft Copilot sessions](https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/)
+- [Reprompt attack hijacked Microsoft Copilot sessions for data theft](https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/)
 - [Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners](https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/)
 - [Victorian Department of Education says hackers stole students’ data](https://www.bleepingcomputer.com/news/security/victorian-department-of-education-notifies-parents-of-data-breach/)
 - [Microsoft: Windows 365 update blocks access to Cloud PC sessions](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/)
 - [Monroe University says 2024 data breach affects 320,000 people](https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/)
-- [Ukraine's army targeted in new charity-themed malware campaign](https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/)
-- [New VoidLink malware framework targets Linux cloud servers](https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Secure Your Spot at RSAC 2026 Conference](https://www.darkreading.com/events/rsac-2026-conference)
+- ['VoidLink' Malware Poses Advanced Threat to Linux Systems](https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems)
 - [Taiwan Endures Greater Cyber Pressure From China](https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china)
 - [CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security](https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security)
 - [CISO Succession Crisis Highlights How Turnover Amplifies Security Risks](https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks)
 - ['Most Severe AI Vulnerability to Date' Hits ServiceNow](https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow)
 - [Microsoft Starts 2026 With a Bang: A Freshly Exploited Zero-Day](https://www.darkreading.com/application-security/microsofts-starts-2026-bang-zero-day)
 - [Shadow#Reactor Uses Text Files to Deliver Remcos RAT](https://www.darkreading.com/endpoint-security/shadow-reactor-uses-text-files-to-deliver-remcos-rat)
-- [Attackers Abuse Python, Cloudflare to Deliver AsyncRAT](https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat)
-- [BreachForums Breached, Exposing 324K Cybercriminals](https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals)
 
 ### Security Week
 
+- [Aikido Security Raises $60 Million at $1 Billion Valuation](https://www.securityweek.com/aikido-security-raises-60-million-at-1-billion-valuation/)
+- [Investor Lawsuit Over CrowdStrike Outage Dismissed](https://www.securityweek.com/investor-lawsuit-over-crowdstrike-outage-dismissed/)
 - [RedVDS Cybercrime Service Disrupted by Microsoft and Law Enforcement](https://www.securityweek.com/redvds-cybercrime-service-disrupted-by-microsoft-and-law-enforcement/)
 - [Predator Spyware Turns Failed Attacks Into Intelligence for Future Exploits](https://www.securityweek.com/predator-spywares-granular-anti-analysis-features-exposed/)
 - [Novee Emerges From Stealth With $51.5 Million in Funding](https://www.securityweek.com/novee-emerges-from-stealth-with-51-5-million-in-funding/)
 - [WitnessAI Raises $58 Million for AI Security Platform](https://www.securityweek.com/witnessai-raises-58-million-for-ai-security-platform/)
 - [Robo-Advisor Betterment Discloses Data Breach](https://www.securityweek.com/robo-advisor-betterment-discloses-data-breach/)
 - [Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM](https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/)
-- [Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities](https://www.securityweek.com/chrome-144-firefox-147-patch-high-severity-vulnerabilities/)
-- [Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/)
 
 ### Threatpost
 

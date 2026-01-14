@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-01-14 16:24",
+  "last_updated": "2026-01-14 18:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "malicious cyber actors",
     "windows operating systems",
     "twitter whistleblower complaint",
-    "legitimate binary associated",
+    "sprawling phishing campaign",
     "cvss scoring system",
     "china chinese cyberattacks",
-    "vulnerabilities earned microsoft's",
-    "sprawling phishing campaign",
-    "phishing campaign shows",
-    "charity themed campaign",
+    "microsoft licensing data",
+    "detection technology will",
+    "exfiltrate sensitive data",
     "internal network behind",
     "114 flaws eight",
     "buy seraphic security",
-    "ukraine's defense forces",
+    "vulnerabilities earned microsoft's",
+    "core windows component",
     "today we'll dig",
     "strong theme running",
     "stack space exhaustion",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "malicious cyber actors",
-      "mentions": 169
+      "mentions": 170
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 78
+      "mentions": 79
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 338
-    },
-    {
-      "keyword": "legitimate binary associated",
-      "mentions": 2
-    },
-    {
-      "keyword": "cvss scoring system",
-      "mentions": 35
-    },
-    {
-      "keyword": "china chinese cyberattacks",
-      "mentions": 8
-    },
-    {
-      "keyword": "vulnerabilities earned microsoft's",
-      "mentions": 5
+      "mentions": 339
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 59
+      "mentions": 60
     },
     {
-      "keyword": "phishing campaign shows",
-      "mentions": 11
+      "keyword": "cvss scoring system",
+      "mentions": 36
     },
     {
-      "keyword": "charity themed campaign",
+      "keyword": "china chinese cyberattacks",
       "mentions": 9
+    },
+    {
+      "keyword": "microsoft licensing data",
+      "mentions": 2
+    },
+    {
+      "keyword": "detection technology will",
+      "mentions": 1
+    },
+    {
+      "keyword": "exfiltrate sensitive data",
+      "mentions": 2
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 60
     }
   ],
   "articles": [
@@ -161,6 +161,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Verizon Wireless outage puts phones in SOS mode without cell service",
+      "link": "https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/",
+      "summary": "Verizon Wireless is suffering a massive outage in the US, with customers reporting their phones stuck in SOS mode with no cellular service. [...]",
+      "published": "Wed, 14 Jan 2026 13:27:25 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft updates Windows DLL that triggered security alerts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/",
+      "summary": "Microsoft has resolved a known issue that was causing security applications to incorrectly flag a core Windows component, the company said in a service alert posted this week. [...]",
+      "published": "Wed, 14 Jan 2026 11:44:09 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ConsentFix debrief: Insights from the new OAuth phishing attack",
       "link": "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/",
       "summary": "ConsentFix is an OAuth phishing technique abusing browser-based authorization flows to hijack Microsoft accounts. Push Security shares new insights from continued tracking, community research, and evolving attacker techniques. [...]",
@@ -172,7 +190,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions",
+      "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft",
       "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
       "summary": "Researchers identified an attack method dubbed \"Reprompt\" that could allow attackers to infiltrate a user's Microsoft Copilot session and issue commands to exfiltrate sensitive data. [...]",
       "published": "Wed, 14 Jan 2026 09:00:00 -0500",
@@ -218,26 +236,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ukraine's army targeted in new charity-themed malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/",
-      "summary": "Officials of Ukraine's Defense Forces were targeted in a charity-themed campaign between October and December 2025 that delivered backdoor malware called PluggyApe. [...]",
-      "published": "Tue, 13 Jan 2026 18:03:55 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New VoidLink malware framework targets Linux cloud servers",
-      "link": "https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/",
-      "summary": "A newly discovered advanced cloud-native Linux malware framework named VoidLink focuses on cloud environments, providing attackers with custom loaders, implants, rootkits, and plugins designed for modern infrastructures. [...]",
-      "published": "Tue, 13 Jan 2026 17:12:20 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -326,6 +324,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Secure Your Spot at RSAC 2026 Conference",
+      "link": "https://www.darkreading.com/events/rsac-2026-conference",
+      "summary": "",
+      "published": "2026-03-23T11:00:00.000Z",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'VoidLink' Malware Poses Advanced Threat to Linux Systems",
+      "link": "https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems",
+      "summary": "Researchers discovered a modular, \"cloud-first\" framework that is feature-rich and designed to maintain stealthy, long-term access to Linux environments.",
+      "published": "Wed, 14 Jan 2026 15:59:49 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Taiwan Endures Greater Cyber Pressure From China",
       "link": "https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china",
       "summary": "Chinese cyberattacks on Taiwan's critical infrastructure — including energy utilities and hospitals — rose 6% in 2025, averaging 2.63 million attacks a day.",
@@ -385,22 +401,20 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Attackers Abuse Python, Cloudflare to Deliver AsyncRAT",
-      "link": "https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat",
-      "summary": "The phishing campaign shows how attackers continue to weaponize legitimate cloud services and open source tools to evade detection and gain trust.",
-      "published": "Tue, 13 Jan 2026 14:58:48 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
+      "source": "Security Week",
+      "title": "Aikido Security Raises $60 Million at $1 Billion Valuation",
+      "link": "https://www.securityweek.com/aikido-security-raises-60-million-at-1-billion-valuation/",
+      "summary": "The developer security company has raised a total of more than $84 million in funding. The post Aikido Security Raises $60 Million at $1 Billion Valuation appeared first on SecurityWeek .",
+      "published": "Wed, 14 Jan 2026 18:01:10 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "BreachForums Breached, Exposing 324K Cybercriminals",
-      "link": "https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals",
-      "summary": "A massive data dump reveals real identities and details of administrators and members of the notorious hacker forum.",
-      "published": "Mon, 12 Jan 2026 22:01:37 GMT",
+      "source": "Security Week",
+      "title": "Investor Lawsuit Over CrowdStrike Outage Dismissed",
+      "link": "https://www.securityweek.com/investor-lawsuit-over-crowdstrike-outage-dismissed/",
+      "summary": "A judge has ruled that the plaintiffs failed to demonstrate intent to defraud investors. The post Investor Lawsuit Over CrowdStrike Outage Dismissed appeared first on SecurityWeek .",
+      "published": "Wed, 14 Jan 2026 17:13:03 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -465,30 +479,6 @@
       "value_signals": [
         "Breach/leak",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-144-firefox-147-patch-high-severity-vulnerabilities/",
-      "summary": "The two browser updates resolve 26 security defects, including bugs that could be exploited for code execution. The post Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 14 Jan 2026 09:50:09 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities",
-      "link": "https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/",
-      "summary": "Two vulnerabilities patched this month by Microsoft were disclosed publicly before fixes were released. The post Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 13 Jan 2026 21:00:00 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
         "Exploit wording"
       ]
     },

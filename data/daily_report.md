@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-14 18:27 UTC  
+> **Last Updated:** 2026-01-14 20:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**malicious cyber actors** • **windows operating systems** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **cvss scoring system** • **china chinese cyberattacks** • **microsoft licensing data** • **detection technology will** • **exfiltrate sensitive data** • **internal network behind** • **114 flaws eight** • **buy seraphic security** • **vulnerabilities earned microsoft's** • **core windows component** • **today we'll dig** • **strong theme running** • **stack space exhaustion** • **scoops nestled inside** • **restrict free speech** • **resources without limits**
+**windows operating systems** • **researchers null route** • **twitter whistleblower complaint** • **malicious cyber actors** • **legitimate binary associated** • **cvss scoring system** • **china chinese cyberattacks** • **ai security platform** • **detection technology will** • **microsoft licensing data** • **severe ai vulnerability** • **exfiltrate sensitive data** • **internal network behind** • **114 flaws eight** • **buy seraphic security** • **vulnerabilities earned microsoft's** • **today we'll dig** • **strong theme running** • **stack space exhaustion** • **sprawling phishing campaign**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers](https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html)
 - [AI Agents Are Becoming Privilege Escalation Paths](https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html)
 - [Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware](https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html)
 - [Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution](https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html)
@@ -23,18 +24,17 @@
 - [Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited](https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html)
 - [Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow](https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html)
 - [PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces](https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html)
-- [Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages](https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html)
 
 ### BleepingComputer
 
+- [France fines Free Mobile €42 million over 2024 data breach incident](https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/)
+- [Exploit code public for critical FortiSIEM command injection flaw](https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/)
 - [Verizon Wireless outage puts phones in SOS mode without cell service](https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/)
 - [Microsoft updates Windows DLL that triggered security alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/)
 - [ConsentFix debrief: Insights from the new OAuth phishing attack](https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/)
 - [Reprompt attack hijacked Microsoft Copilot sessions for data theft](https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/)
 - [Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners](https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/)
 - [Victorian Department of Education says hackers stole students’ data](https://www.bleepingcomputer.com/news/security/victorian-department-of-education-notifies-parents-of-data-breach/)
-- [Microsoft: Windows 365 update blocks access to Cloud PC sessions](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/)
-- [Monroe University says 2024 data breach affects 320,000 people](https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/)
 
 ### Krebs on Security
 

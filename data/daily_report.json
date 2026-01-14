@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-01-14 18:27",
+  "last_updated": "2026-01-14 20:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "malicious cyber actors",
     "windows operating systems",
+    "researchers null route",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
+    "malicious cyber actors",
+    "legitimate binary associated",
     "cvss scoring system",
     "china chinese cyberattacks",
-    "microsoft licensing data",
+    "ai security platform",
     "detection technology will",
+    "microsoft licensing data",
+    "severe ai vulnerability",
     "exfiltrate sensitive data",
     "internal network behind",
     "114 flaws eight",
     "buy seraphic security",
     "vulnerabilities earned microsoft's",
-    "core windows component",
     "today we'll dig",
     "strong theme running",
     "stack space exhaustion",
-    "scoops nestled inside",
-    "restrict free speech",
-    "resources without limits"
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 170
-    },
-    {
       "keyword": "windows operating systems",
-      "mentions": 79
+      "mentions": 80
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 339
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 60
-    },
-    {
-      "keyword": "cvss scoring system",
-      "mentions": 36
-    },
-    {
-      "keyword": "china chinese cyberattacks",
-      "mentions": 9
-    },
-    {
-      "keyword": "microsoft licensing data",
-      "mentions": 2
-    },
-    {
-      "keyword": "detection technology will",
+      "keyword": "researchers null route",
       "mentions": 1
     },
     {
-      "keyword": "exfiltrate sensitive data",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 340
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 171
+    },
+    {
+      "keyword": "legitimate binary associated",
+      "mentions": 3
+    },
+    {
+      "keyword": "cvss scoring system",
+      "mentions": 37
+    },
+    {
+      "keyword": "china chinese cyberattacks",
+      "mentions": 10
+    },
+    {
+      "keyword": "ai security platform",
+      "mentions": 1
+    },
+    {
+      "keyword": "detection technology will",
       "mentions": 2
     },
     {
-      "keyword": "internal network behind",
-      "mentions": 60
+      "keyword": "microsoft licensing data",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
+      "link": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
+      "summary": "The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025. AISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)",
+      "published": "Thu, 15 Jan 2026 00:33:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "AI Agents Are Becoming Privilege Escalation Paths",
@@ -151,13 +162,27 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
-      "link": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
-      "summary": "Cybersecurity researchers have discovered a major web skimming campaign that has been active since January 2022, targeting several major payment networks like American Express, Diners Club, Discover, JCB Co., Ltd., Mastercard, and UnionPay. \"Enterprise organizations that are clients of these payment providers are the most likely to be impacted,\" Silent Push said in a report published today.",
-      "published": "Tue, 13 Jan 2026 23:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "France fines Free Mobile €42 million over 2024 data breach incident",
+      "link": "https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/",
+      "summary": "The French data protection authority (CNIL) has imposed cumulative fines of €42 million on Free Mobile and its parent company, Free, for inadequate protection of customer data against cyber threats. [...]",
+      "published": "Wed, 14 Jan 2026 14:50:49 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Exploit code public for critical FortiSIEM command injection flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/",
+      "summary": "Technical details and a public exploit have been published for a critical vulnerability affecting Fortinet's Security Information and Event Management (SIEM) solution that could be leveraged by a remote, unauthenticated attacker to execute commands or code. [...]",
+      "published": "Wed, 14 Jan 2026 13:51:54 -0500",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -214,28 +239,6 @@
       "published": "Wed, 14 Jan 2026 06:44:56 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Windows 365 update blocks access to Cloud PC sessions",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/",
-      "summary": "Microsoft confirmed that a recent Windows 365 update is blocking customers from accessing their Microsoft 365 Cloud PC sessions. [...]",
-      "published": "Wed, 14 Jan 2026 04:55:06 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Monroe University says 2024 data breach affects 320,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/",
-      "summary": "Monroe University revealed that threat actors stole the personal, financial, and health information of over 320,000 people after breaching its systems in a December 2024 cyberattack. [...]",
-      "published": "Wed, 14 Jan 2026 03:57:00 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",

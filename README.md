@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-14 18:27 UTC |
+| 🕐 Last Updated | 2026-01-14 20:17 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`malicious cyber actors` • `windows operating systems` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `cvss scoring system` • `china chinese cyberattacks` • `microsoft licensing data` • `detection technology will` • `exfiltrate sensitive data` • `internal network behind`
+`windows operating systems` • `researchers null route` • `twitter whistleblower complaint` • `malicious cyber actors` • `legitimate binary associated` • `cvss scoring system` • `china chinese cyberattacks` • `ai security platform` • `detection technology will` • `microsoft licensing data`
 
 ## 📄 Reports
 

@@ -74,7 +74,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 164,
+      "count": 165,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -97,7 +97,8 @@
         "2026-01-09",
         "2026-01-10",
         "2026-01-12",
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "user named csnemess": {
@@ -135,7 +136,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -147,11 +148,12 @@
         "2026-01-10",
         "2026-01-11",
         "2026-01-12",
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 333,
+      "count": 334,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1315,7 +1317,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2260,13 +2262,14 @@
       ]
     },
     "internal network behind": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
         "2026-01-12",
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-14"
       ]
     },
     "ai driven access": {
@@ -2644,7 +2647,7 @@
       ]
     },
     "zero trust architectures": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-13",
         "2026-01-14"
@@ -2663,7 +2666,7 @@
       ]
     },
     "ai generated configurations": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-13",
         "2026-01-14"
@@ -2701,14 +2704,14 @@
       ]
     },
     "25 vulnerabilities across": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-13",
         "2026-01-14"
       ]
     },
     "will automatically install": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-13",
         "2026-01-14"
@@ -2721,7 +2724,7 @@
       ]
     },
     "phishing campaign shows": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-13",
         "2026-01-14"
@@ -2735,14 +2738,14 @@
       ]
     },
     "420 million news": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-13",
         "2026-01-14"
       ]
     },
     "attackers leveraged ai": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-13",
         "2026-01-14"
@@ -2769,13 +2772,13 @@
       ]
     },
     "charity themed campaign": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-14"
       ]
     },
     "ukraine's defense forces": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-14"
       ]
@@ -2799,7 +2802,7 @@
       ]
     },
     "china chinese cyberattacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-14"
       ]
@@ -2815,20 +2818,39 @@
       "dates": [
         "2026-01-14"
       ]
+    },
+    "dire critical rating": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
+    },
+    "bugs fixed today": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
+    },
+    "vulnerabilities earned microsoft's": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
+    },
+    "final patch tuesday": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
+    },
+    "severe ai vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-01-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-06 01:18",
-      "articles": 56,
-      "top_keywords": [
-        "mass creating fake",
-        "prolific cybercriminal group",
-        "sedgwick confirms cyberattack",
-        "advanced security measures",
-        "sedgwick s subsidiary"
-      ]
-    },
     {
       "timestamp": "2026-01-06 03:25",
       "articles": 48,
@@ -3916,6 +3938,17 @@
         "china chinese cyberattacks",
         "420 million news",
         "25 vulnerabilities across"
+      ]
+    },
+    {
+      "timestamp": "2026-01-14 08:24",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "ai generated configurations",
+        "25 vulnerabilities across",
+        "420 million news",
+        "dire critical rating"
       ]
     }
   ]

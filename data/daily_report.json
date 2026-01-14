@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-01-14 06:27",
+  "last_updated": "2026-01-14 08:24",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
+    "windows operating systems",
     "ai generated configurations",
-    "twitter whistleblower complaint",
-    "china chinese cyberattacks",
-    "420 million news",
     "25 vulnerabilities across",
+    "420 million news",
+    "dire critical rating",
+    "twitter whistleblower complaint",
+    "malicious cyber actors",
+    "china chinese cyberattacks",
+    "bugs fixed today",
+    "vulnerabilities earned microsoft's",
     "sprawling phishing campaign",
     "phishing campaign shows",
     "charity themed campaign",
+    "internal network behind",
+    "final patch tuesday",
+    "severe ai vulnerability",
     "attackers leveraged ai",
     "zero trust architectures",
     "will automatically install",
-    "ukraine's defense forces",
-    "sophisticated delivery mechanism",
-    "resources without limits",
-    "repository file editor",
-    "recommended immediate actions",
-    "rat deployment showcasing",
-    "quantum resistant encryption",
-    "poses significant risks",
-    "pose significant risks"
+    "ukraine's defense forces"
   ],
   "trending": [
     {
+      "keyword": "windows operating systems",
+      "mentions": 74
+    },
+    {
       "keyword": "ai generated configurations",
-      "mentions": 10
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 333
-    },
-    {
-      "keyword": "china chinese cyberattacks",
-      "mentions": 3
-    },
-    {
-      "keyword": "420 million news",
-      "mentions": 5
+      "mentions": 11
     },
     {
       "keyword": "25 vulnerabilities across",
+      "mentions": 7
+    },
+    {
+      "keyword": "420 million news",
       "mentions": 6
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 54
+      "keyword": "dire critical rating",
+      "mentions": 1
     },
     {
-      "keyword": "phishing campaign shows",
-      "mentions": 6
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 334
     },
     {
-      "keyword": "charity themed campaign",
+      "keyword": "malicious cyber actors",
+      "mentions": 165
+    },
+    {
+      "keyword": "china chinese cyberattacks",
       "mentions": 4
     },
     {
-      "keyword": "attackers leveraged ai",
-      "mentions": 5
+      "keyword": "bugs fixed today",
+      "mentions": 1
     },
     {
-      "keyword": "zero trust architectures",
-      "mentions": 6
+      "keyword": "vulnerabilities earned microsoft's",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
+      "link": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
+      "summary": "Node.js has released updates to fix what it described as a critical security issue impacting \"virtually every production Node.js app\" that, if successfully exploited, could trigger a denial-of-service (DoS) condition. \"Node.js/V8 makes a best-effort attempt to recover from stack space exhaustion with a catchable error, which frameworks have come to rely on for service availability,\" Node.js's",
+      "published": "Wed, 14 Jan 2026 12:35:00 +0530",
+      "value_score": 40,
+      "value_signals": [
+        "Patch/update",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
+      "link": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025. The activity has been attributed with medium confidence to a Russian hacking group tracked as Void Blizzard (aka Laundry Bear or UAC-0190). The threat actor is believed to be active since at least",
+      "published": "Wed, 14 Jan 2026 11:18:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
@@ -124,28 +146,6 @@
       "value_signals": [
         "CVE mentioned",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
-      "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access. \"The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a",
-      "published": "Tue, 13 Jan 2026 14:38:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
-      "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (KEV) catalog. The vulnerability, tracked as CVE-2025-8110 (CVSS score: 8.7), relates to a case of path traversal in the repository file editor that could result in code execution. \"Gogs Path",
-      "published": "Tue, 13 Jan 2026 12:45:00 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×4",
-        "Exploit wording"
       ]
     },
     {
@@ -234,6 +234,91 @@
         "Patch/update ×2",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Patch Tuesday, January 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+      "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
+      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
+      "value_score": 40,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
+      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
+      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Botnet",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",

@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-14 06:27 UTC  
+> **Last Updated:** 2026-01-14 08:24 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**ai generated configurations** • **twitter whistleblower complaint** • **china chinese cyberattacks** • **420 million news** • **25 vulnerabilities across** • **sprawling phishing campaign** • **phishing campaign shows** • **charity themed campaign** • **attackers leveraged ai** • **zero trust architectures** • **will automatically install** • **ukraine's defense forces** • **sophisticated delivery mechanism** • **resources without limits** • **repository file editor** • **recommended immediate actions** • **rat deployment showcasing** • **quantum resistant encryption** • **poses significant risks** • **pose significant risks**
+**windows operating systems** • **ai generated configurations** • **25 vulnerabilities across** • **420 million news** • **dire critical rating** • **twitter whistleblower complaint** • **malicious cyber actors** • **china chinese cyberattacks** • **bugs fixed today** • **vulnerabilities earned microsoft's** • **sprawling phishing campaign** • **phishing campaign shows** • **charity themed campaign** • **internal network behind** • **final patch tuesday** • **severe ai vulnerability** • **attackers leveraged ai** • **zero trust architectures** • **will automatically install** • **ukraine's defense forces**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow](https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html)
+- [PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces](https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html)
 - [Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages](https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html)
 - [Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool](https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html)
 - [[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl](https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html)
 - [New Advanced Linux VoidLink Malware Targets Cloud and container Environments](https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html)
 - [What Should We Learn From How Attackers Leveraged AI in 2025?](https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html)
 - [ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation](https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html)
-- [New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack](https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html)
-- [CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution](https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html)
 
 ### BleepingComputer
 
@@ -35,6 +35,17 @@
 - [Microsoft releases Windows 10 KB5073724 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/)
 - [Windows 11 KB5074109 & KB5073455 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/)
 - [Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/)
+
+### Krebs on Security
+
+- [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+- [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+- [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
+- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
 
 ### Dark Reading
 

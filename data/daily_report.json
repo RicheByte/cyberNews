@@ -1,17 +1,16 @@
 {
-  "last_updated": "2026-01-14 08:24",
+  "last_updated": "2026-01-14 10:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "windows operating systems",
     "ai generated configurations",
     "25 vulnerabilities across",
-    "420 million news",
     "dire critical rating",
+    "420 million news",
     "twitter whistleblower complaint",
     "malicious cyber actors",
     "china chinese cyberattacks",
-    "bugs fixed today",
     "vulnerabilities earned microsoft's",
     "sprawling phishing campaign",
     "phishing campaign shows",
@@ -22,48 +21,49 @@
     "attackers leveraged ai",
     "zero trust architectures",
     "will automatically install",
-    "ukraine's defense forces"
+    "ukraine's defense forces",
+    "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "windows operating systems",
-      "mentions": 74
+      "mentions": 75
     },
     {
       "keyword": "ai generated configurations",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "25 vulnerabilities across",
-      "mentions": 7
-    },
-    {
-      "keyword": "420 million news",
-      "mentions": 6
+      "mentions": 8
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "420 million news",
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 334
+      "mentions": 335
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 165
+      "mentions": 166
     },
     {
       "keyword": "china chinese cyberattacks",
-      "mentions": 4
-    },
-    {
-      "keyword": "bugs fixed today",
-      "mentions": 1
+      "mentions": 5
     },
     {
       "keyword": "vulnerabilities earned microsoft's",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 56
     }
   ],
   "articles": [
@@ -150,6 +150,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft: Windows 365 update blocks access to Cloud PC sessions",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/",
+      "summary": "Microsoft confirmed that a recent Windows 365 update is blocking customers from accessing their Microsoft 365 Cloud PC sessions. [...]",
+      "published": "Wed, 14 Jan 2026 04:55:06 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Monroe University says 2024 data breach affects 320,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/",
+      "summary": "Monroe University revealed that threat actors stole the personal, financial, and health information of over 320,000 people after breaching its systems in a December 2024 cyberattack. [...]",
+      "published": "Wed, 14 Jan 2026 03:57:00 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Ukraine's army targeted in new charity-themed malware campaign",
       "link": "https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/",
       "summary": "Officials of Ukraine's Defense Forces were targeted in a charity-themed campaign between October and December 2025 that delivered backdoor malware called PluggyApe. [...]",
@@ -208,31 +230,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×5"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5074109 & KB5073455 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11 KB5074109 and KB5073455 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "published": "Tue, 13 Jan 2026 13:53:24 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/",
-      "summary": "Today is Microsoft's January 2026 Patch Tuesday with security updates for 114 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-      "published": "Tue, 13 Jan 2026 13:34:08 -0500",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -404,6 +401,31 @@
     },
     {
       "source": "Security Week",
+      "title": "Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM",
+      "link": "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/",
+      "summary": "Exploitable without authentication, the two security defects could lead to configuration leak and code execution. The post Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM appeared first on SecurityWeek .",
+      "published": "Wed, 14 Jan 2026 09:56:38 +0000",
+      "value_score": 44,
+      "value_signals": [
+        "Breach/leak",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-144-firefox-147-patch-high-severity-vulnerabilities/",
+      "summary": "The two browser updates resolve 26 security defects, including bugs that could be exploited for code execution. The post Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 14 Jan 2026 09:50:09 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million",
       "link": "https://www.securityweek.com/crowdstrike-to-acquire-browser-security-firm-seraphic-for-420-million/",
       "summary": "News of the move to acquire Seraphic comes less than a week after CrowdStrike announced an agreement to acquire identity security startup SGNL for $740 million. The post CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million appeared first on SecurityWeek .",
@@ -464,28 +486,6 @@
       "published": "Tue, 13 Jan 2026 17:00:29 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Broadcom Wi-Fi Chipset Flaw Allows Hackers to Disrupt Networks",
-      "link": "https://www.securityweek.com/broadcom-wi-fi-chipset-flaw-allows-hackers-to-disrupt-networks/",
-      "summary": "The vulnerability was discovered in Asus routers, but all devices using the affected chipset are susceptible to attacks. The post Broadcom Wi-Fi Chipset Flaw Allows Hackers to Disrupt Networks appeared first on SecurityWeek .",
-      "published": "Tue, 13 Jan 2026 14:10:46 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "SAP’s January 2026 Security Updates Patch Critical Vulnerabilities",
-      "link": "https://www.securityweek.com/saps-january-2026-security-updates-patch-critical-vulnerabilities/",
-      "summary": "SAP has released 17 security notes, including four that address critical SQL injection, RCE, and code injection vulnerabilities. The post SAP’s January 2026 Security Updates Patch Critical Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 13 Jan 2026 12:20:35 +0000",
-      "value_score": 62,
-      "value_signals": [
-        "RCE",
-        "Patch/update ×2",
-        "High severity ×3"
-      ]
     },
     {
       "source": "Threatpost",

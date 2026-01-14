@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-14 08:24 UTC |
+| 🕐 Last Updated | 2026-01-14 10:20 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows operating systems` • `ai generated configurations` • `25 vulnerabilities across` • `420 million news` • `dire critical rating` • `twitter whistleblower complaint` • `malicious cyber actors` • `china chinese cyberattacks` • `bugs fixed today` • `vulnerabilities earned microsoft's`
+`windows operating systems` • `ai generated configurations` • `25 vulnerabilities across` • `dire critical rating` • `420 million news` • `twitter whistleblower complaint` • `malicious cyber actors` • `china chinese cyberattacks` • `vulnerabilities earned microsoft's` • `sprawling phishing campaign`
 
 ## 📄 Reports
 

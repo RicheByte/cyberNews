@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-14 08:24 UTC  
+> **Last Updated:** 2026-01-14 10:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **ai generated configurations** • **25 vulnerabilities across** • **420 million news** • **dire critical rating** • **twitter whistleblower complaint** • **malicious cyber actors** • **china chinese cyberattacks** • **bugs fixed today** • **vulnerabilities earned microsoft's** • **sprawling phishing campaign** • **phishing campaign shows** • **charity themed campaign** • **internal network behind** • **final patch tuesday** • **severe ai vulnerability** • **attackers leveraged ai** • **zero trust architectures** • **will automatically install** • **ukraine's defense forces**
+**windows operating systems** • **ai generated configurations** • **25 vulnerabilities across** • **dire critical rating** • **420 million news** • **twitter whistleblower complaint** • **malicious cyber actors** • **china chinese cyberattacks** • **vulnerabilities earned microsoft's** • **sprawling phishing campaign** • **phishing campaign shows** • **charity themed campaign** • **internal network behind** • **final patch tuesday** • **severe ai vulnerability** • **attackers leveraged ai** • **zero trust architectures** • **will automatically install** • **ukraine's defense forces** • **today we'll dig**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Microsoft: Windows 365 update blocks access to Cloud PC sessions](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/)
+- [Monroe University says 2024 data breach affects 320,000 people](https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/)
 - [Ukraine's army targeted in new charity-themed malware campaign](https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/)
 - [New VoidLink malware framework targets Linux cloud servers](https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/)
 - [Central Maine Healthcare breach exposed data of over 145,000 people](https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/)
 - [Belgian hospital AZ Monica shuts down servers after cyberattack](https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/)
 - [New Windows updates replace expiring Secure Boot certificates](https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/)
 - [Microsoft releases Windows 10 KB5073724 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/)
-- [Windows 11 KB5074109 & KB5073455 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/)
-- [Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM](https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/)
+- [Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities](https://www.securityweek.com/chrome-144-firefox-147-patch-high-severity-vulnerabilities/)
 - [CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million](https://www.securityweek.com/crowdstrike-to-acquire-browser-security-firm-seraphic-for-420-million/)
 - [Adobe Patches Critical Apache Tika Bug in ColdFusion](https://www.securityweek.com/adobe-patches-critical-apache-tika-bug-in-coldfusion/)
 - [Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/)
 - [GoBruteforcer Botnet Targeting Crypto, Blockchain Projects](https://www.securityweek.com/gobruteforcer-botnet-targeting-crypto-blockchain-projects/)
 - [After Goldman, JPMorgan Discloses Law Firm Data Breach](https://www.securityweek.com/after-goldman-jpmorgan-discloses-law-firm-data-breach/)
 - [Cyber Insights 2026: External Attack Surface Management](https://www.securityweek.com/cyber-insights-2026-external-attack-surface-management/)
-- [Broadcom Wi-Fi Chipset Flaw Allows Hackers to Disrupt Networks](https://www.securityweek.com/broadcom-wi-fi-chipset-flaw-allows-hackers-to-disrupt-networks/)
-- [SAP’s January 2026 Security Updates Patch Critical Vulnerabilities](https://www.securityweek.com/saps-january-2026-security-updates-patch-critical-vulnerabilities/)
 
 ### Threatpost
 

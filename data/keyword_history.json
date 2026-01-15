@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -156,7 +156,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 344,
+      "count": 345,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1322,7 +1322,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1584,7 +1584,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2156,7 +2156,7 @@
       ]
     },
     "strong theme running": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2263,7 +2263,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2275,7 +2275,7 @@
       ]
     },
     "internal network behind": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2849,7 +2849,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2862,7 +2862,7 @@
       ]
     },
     "severe ai vulnerability": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2876,21 +2876,21 @@
       ]
     },
     "stack space exhaustion": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "legitimate binary associated": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "buy seraphic security": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2910,14 +2910,14 @@
       ]
     },
     "114 flaws eight": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "detection technology will": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2930,27 +2930,33 @@
       ]
     },
     "researchers null route": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "ai security platform": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "kyowon group kyowon": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "codenamed agora openai": {
+      "count": 2,
+      "dates": [
+        "2026-01-15"
+      ]
+    },
+    "developer security company": {
       "count": 1,
       "dates": [
         "2026-01-15"
@@ -2958,17 +2964,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-06 22:17",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus hunters",
-        "ai generated code",
-        "mass creating fake",
-        "cyber risk trends",
-        "critical security vulnerability"
-      ]
-    },
     {
       "timestamp": "2026-01-07 01:18",
       "articles": 56,
@@ -4056,6 +4051,17 @@
         "malicious cyber actors",
         "legitimate binary associated",
         "cvss scoring system"
+      ]
+    },
+    {
+      "timestamp": "2026-01-15 06:27",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "twitter whistleblower complaint",
+        "researchers null route",
+        "malicious cyber actors",
+        "legitimate binary associated"
       ]
     }
   ]

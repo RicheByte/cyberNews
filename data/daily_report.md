@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-15 04:36 UTC  
+> **Last Updated:** 2026-01-15 06:27 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **twitter whistleblower complaint** • **malicious cyber actors** • **legitimate binary associated** • **cvss scoring system** • **codenamed agora openai** • **ai security platform** • **kyowon group kyowon** • **internal network behind** • **114 flaws eight** • **vulnerabilities earned microsoft's** • **today we'll dig** • **third party applications** • **strong theme running** • **stack space exhaustion** • **sprawling phishing campaign** • **scoops nestled inside** • **resources without limits** • **researchers null route** • **recommended immediate actions**
+**windows operating systems** • **twitter whistleblower complaint** • **researchers null route** • **malicious cyber actors** • **legitimate binary associated** • **cvss scoring system** • **codenamed agora openai** • **ai security platform** • **detection technology will** • **severe ai vulnerability** • **kyowon group kyowon** • **internal network behind** • **114 flaws eight** • **vulnerabilities earned microsoft's** • **developer security company** • **buy seraphic security** • **today we'll dig** • **strong theme running** • **stack space exhaustion** • **sprawling phishing campaign**
 
 ---
 
@@ -46,6 +46,17 @@
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 - [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 - [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+
+### Dark Reading
+
+- [Retail, Services Industries Under Fire in Oceania](https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania)
+- [Microsoft Disrupts Cybercrime Service RedVDS](https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds)
+- [Secure Your Spot at RSAC 2026 Conference](https://www.darkreading.com/events/rsac-2026-conference)
+- ['VoidLink' Malware Poses Advanced Threat to Linux Systems](https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems)
+- [Taiwan Endures Greater Cyber Pressure From China](https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china)
+- [CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security](https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security)
+- [CISO Succession Crisis Highlights How Turnover Amplifies Security Risks](https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks)
+- ['Most Severe AI Vulnerability to Date' Hits ServiceNow](https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow)
 
 ### Security Week
 

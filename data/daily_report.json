@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-15 10:19",
+  "last_updated": "2026-01-15 12:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "law enforcement authorities",
-    "windows operating systems",
+    "malicious cyber actors",
     "least 40 million",
-    "severe ai vulnerability",
+    "windows operating systems",
     "twitter whistleblower complaint",
     "researchers null route",
-    "malicious cyber actors",
     "legitimate binary associated",
+    "four limiting habits",
     "drivers without consent",
     "cvss scoring system",
     "codenamed agora openai",
     "detection technology will",
     "crowdstrike's falcon platform",
-    "long term access",
-    "internal network behind",
-    "114 flaws eight",
-    "cross platform feature",
+    "vulnerabilities earned microsoft's",
     "traveler information stolen",
-    "bypass security controls",
-    "buy seraphic security"
+    "long term access",
+    "known exploited vulne",
+    "internal network behind",
+    "cross platform feature",
+    "bypass security controls"
   ],
   "trending": [
     {
       "keyword": "law enforcement authorities",
-      "mentions": 1
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 87
-    },
-    {
-      "keyword": "least 40 million",
       "mentions": 2
     },
     {
-      "keyword": "severe ai vulnerability",
-      "mentions": 11
+      "keyword": "malicious cyber actors",
+      "mentions": 179
+    },
+    {
+      "keyword": "least 40 million",
+      "mentions": 3
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 88
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 347
+      "mentions": 348
     },
     {
       "keyword": "researchers null route",
-      "mentions": 8
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 178
+      "mentions": 9
     },
     {
       "keyword": "legitimate binary associated",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "drivers without consent",
+      "keyword": "four limiting habits",
       "mentions": 1
     },
     {
+      "keyword": "drivers without consent",
+      "mentions": 2
+    },
+    {
       "keyword": "cvss scoring system",
-      "mentions": 44
+      "mentions": 45
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
+      "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
+      "summary": "It’s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts’ needs, staggering investigations and incident response. Below are four limiting habits that may be preventing your SOC from evolving at",
+      "published": "Thu, 15 Jan 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
@@ -142,21 +151,6 @@
       "published": "Wed, 14 Jan 2026 16:30:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited",
-      "link": "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html",
-      "summary": "Microsoft on Tuesday rolled out its first security update for 2026, addressing 114 security flaws, including one vulnerability that it said has been actively exploited in the wild. Of the 114 flaws, eight are rated Critical, and 106 are rated Important in severity. As many as 58 vulnerabilities have been classified as privilege escalation, followed by 22 information disclosure, 21 remote code",
-      "published": "Wed, 14 Jan 2026 15:08:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×3",
-        "Privilege escalation",
-        "Patch/update ×2",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -319,6 +313,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Trio of Critical Bugs Spotted in Delta Industrial PLCs",
+      "link": "https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs",
+      "summary": "Experts disagree on whether the vulnerabilities in a programmable logic controller from Delta are a five-alarm fire or not much to worry over.",
+      "published": "Thu, 15 Jan 2026 11:00:00 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Retail, Services Industries Under Fire in Oceania",
       "link": "https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania",
       "summary": "Last year in Australia, New Zealand, and the South Pacific, Main Street businesses like retail and construction suffered more cyberattacks than their critical sector counterparts.",
@@ -385,13 +390,26 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'Most Severe AI Vulnerability to Date' Hits ServiceNow",
-      "link": "https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow",
-      "summary": "ServiceNow tacked agentic AI onto a largely unguarded legacy chatbot, exposing customers' data and connected systems.",
-      "published": "Tue, 13 Jan 2026 21:44:48 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "New ‘Reprompt’ Attack Silently Siphons Microsoft Copilot Data",
+      "link": "https://www.securityweek.com/new-reprompt-attack-silently-siphons-microsoft-copilot-data/",
+      "summary": "The attack bypassed Copilot’s data leak protections and allowed for session exfiltration even after the Copilot chat was closed. The post New ‘Reprompt’ Attack Silently Siphons Microsoft Copilot Data appeared first on SecurityWeek .",
+      "published": "Thu, 15 Jan 2026 12:09:29 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Central Maine Healthcare Data Breach Impacts 145,000 Individuals",
+      "link": "https://www.securityweek.com/central-maine-healthcare-data-breach-impacts-145000-individuals/",
+      "summary": "Hackers stole patients’ personal, treatment, and health insurance information from the hospital’s IT systems. The post Central Maine Healthcare Data Breach Impacts 145,000 Individuals appeared first on SecurityWeek .",
+      "published": "Thu, 15 Jan 2026 10:36:46 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -452,26 +470,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Predator Spyware Turns Failed Attacks Into Intelligence for Future Exploits",
-      "link": "https://www.securityweek.com/predator-spywares-granular-anti-analysis-features-exposed/",
-      "summary": "The Predator spyware is more sophisticated and dangerous than previously realized. The post Predator Spyware Turns Failed Attacks Into Intelligence for Future Exploits appeared first on SecurityWeek .",
-      "published": "Wed, 14 Jan 2026 14:00:00 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Novee Emerges From Stealth With $51.5 Million in Funding",
-      "link": "https://www.securityweek.com/novee-emerges-from-stealth-with-51-5-million-in-funding/",
-      "summary": "Novee provides continuous AI-driven penetration testing to uncover and address novel vulnerabilities. The post Novee Emerges From Stealth With $51.5 Million in Funding appeared first on SecurityWeek .",
-      "published": "Wed, 14 Jan 2026 13:15:35 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

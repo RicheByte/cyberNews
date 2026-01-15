@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-14 22:17 UTC  
+> **Last Updated:** 2026-01-15 01:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **researchers null route** • **twitter whistleblower complaint** • **malicious cyber actors** • **legitimate binary associated** • **cvss scoring system** • **ai security platform** • **detection technology will** • **microsoft licensing data** • **severe ai vulnerability** • **kyowon group kyowon** • **exfiltrate sensitive data** • **internal network behind** • **114 flaws eight** • **buy seraphic security** • **vulnerabilities earned microsoft's** • **today we'll dig** • **strong theme running** • **stack space exhaustion** • **sprawling phishing campaign**
+**windows operating systems** • **researchers null route** • **twitter whistleblower complaint** • **malicious cyber actors** • **legitimate binary associated** • **cvss scoring system** • **ai security platform** • **detection technology will** • **severe ai vulnerability** • **kyowon group kyowon** • **exfiltrate sensitive data** • **internal network behind** • **114 flaws eight** • **buy seraphic security** • **vulnerabilities earned microsoft's** • **today we'll dig** • **strong theme running** • **stack space exhaustion** • **sprawling phishing campaign** • **scoops nestled inside**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [OpenAI's hidden ChatGPT Translate tool takes on Google Translate](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/)
 - [South Korean giant Kyowon confirms data theft in ransomware attack](https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/)
 - [France fines Free Mobile €42 million over 2024 data breach incident](https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/)
 - [Exploit code public for critical FortiSIEM command injection flaw](https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/)
@@ -34,7 +35,6 @@
 - [Microsoft updates Windows DLL that triggered security alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/)
 - [ConsentFix debrief: Insights from the new OAuth phishing attack](https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/)
 - [Reprompt attack hijacked Microsoft Copilot sessions for data theft](https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/)
-- [Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners](https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/)
 
 ### Krebs on Security
 

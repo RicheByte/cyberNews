@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14 22:17",
+  "last_updated": "2026-01-15 01:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,7 +11,6 @@
     "cvss scoring system",
     "ai security platform",
     "detection technology will",
-    "microsoft licensing data",
     "severe ai vulnerability",
     "kyowon group kyowon",
     "exfiltrate sensitive data",
@@ -22,48 +21,49 @@
     "today we'll dig",
     "strong theme running",
     "stack space exhaustion",
-    "sprawling phishing campaign"
+    "sprawling phishing campaign",
+    "scoops nestled inside"
   ],
   "trending": [
     {
       "keyword": "windows operating systems",
-      "mentions": 81
+      "mentions": 82
     },
     {
       "keyword": "researchers null route",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 341
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 172
-    },
-    {
-      "keyword": "legitimate binary associated",
-      "mentions": 4
-    },
-    {
-      "keyword": "cvss scoring system",
-      "mentions": 38
-    },
-    {
-      "keyword": "ai security platform",
-      "mentions": 2
-    },
-    {
-      "keyword": "detection technology will",
       "mentions": 3
     },
     {
-      "keyword": "microsoft licensing data",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 342
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 173
+    },
+    {
+      "keyword": "legitimate binary associated",
+      "mentions": 5
+    },
+    {
+      "keyword": "cvss scoring system",
+      "mentions": 39
+    },
+    {
+      "keyword": "ai security platform",
+      "mentions": 3
+    },
+    {
+      "keyword": "detection technology will",
       "mentions": 4
     },
     {
       "keyword": "severe ai vulnerability",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "kyowon group kyowon",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -163,6 +163,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI's hidden ChatGPT Translate tool takes on Google Translate",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/",
+      "summary": "OpenAI has quietly rolled out a new ChatGPT feature called ChatGPT Translate, and it looks very similar to Google Translate on the web. [...]",
+      "published": "Wed, 14 Jan 2026 17:52:16 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "South Korean giant Kyowon confirms data theft in ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/",
       "summary": "The Kyowon Group (Kyowon), a South Korean conglomerate, disclosed that a cyberattack has disrupted its operations and customer information may have been exposed in the incident. [...]",
@@ -230,15 +239,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
       "summary": "Researchers identified an attack method dubbed \"Reprompt\" that could allow attackers to infiltrate a user's Microsoft Copilot session and issue commands to exfiltrate sensitive data. [...]",
       "published": "Wed, 14 Jan 2026 09:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/",
-      "summary": "Cloud marketplace and distributor Pax8 has confirmed that it mistakenly sent an email to fewer than 40 UK-based partners containing a spreadsheet with internal business information, including MSP customer and Microsoft licensing data. [...]",
-      "published": "Wed, 14 Jan 2026 07:01:07 -0500",
       "value_score": 10,
       "value_signals": []
     },

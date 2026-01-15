@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-15 20:20 UTC |
+| 🕐 Last Updated | 2026-01-15 22:17 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`least 40 million` • `amd processors researchers` • `telecontrol server basic` • `copilot studio extension` • `sinec security monitor` • `siemens ruggedcom ros` • `security problems show` • `law enforcement authorities` • `windows operating systems` • `twitter whistleblower complaint`
+`amd processors researchers` • `telecontrol server basic` • `maximum severity flaw` • `sinec security monitor` • `copilot studio extension` • `supply chain governance` • `security problems show` • `siemens ruggedcom ros` • `law enforcement authorities` • `windows operating systems`
 
 ## 📄 Reports
 

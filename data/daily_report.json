@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-01-15 20:20",
+  "last_updated": "2026-01-15 22:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "least 40 million",
     "amd processors researchers",
     "telecontrol server basic",
-    "copilot studio extension",
+    "maximum severity flaw",
     "sinec security monitor",
-    "siemens ruggedcom ros",
+    "copilot studio extension",
+    "supply chain governance",
     "security problems show",
+    "siemens ruggedcom ros",
     "law enforcement authorities",
     "windows operating systems",
     "twitter whistleblower complaint",
-    "researchers null route",
-    "protect enterprise communications",
     "internet router probably",
+    "github repositories including",
     "drivers without consent",
-    "codenamed agora openai",
     "auditability collide daily",
-    "detection technology will",
-    "crowdstrike's falcon platform",
-    "cross platform feature",
-    "online fraud microsoft"
+    "respective security advisories",
+    "redis model security",
+    "online fraud microsoft",
+    "law enforcement operation",
+    "internal network behind"
   ],
   "trending": [
     {
-      "keyword": "least 40 million",
-      "mentions": 7
-    },
-    {
       "keyword": "amd processors researchers",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "copilot studio extension",
+      "keyword": "maximum severity flaw",
       "mentions": 1
     },
     {
       "keyword": "sinec security monitor",
+      "mentions": 3
+    },
+    {
+      "keyword": "copilot studio extension",
       "mentions": 2
     },
     {
-      "keyword": "siemens ruggedcom ros",
-      "mentions": 2
+      "keyword": "supply chain governance",
+      "mentions": 1
     },
     {
       "keyword": "security problems show",
-      "mentions": 18
+      "mentions": 19
+    },
+    {
+      "keyword": "siemens ruggedcom ros",
+      "mentions": 3
     },
     {
       "keyword": "law enforcement authorities",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 92
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 352
+      "mentions": 93
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
+      "summary": "A critical misconfiguration in Amazon Web Services (AWS) CodeBuild could have allowed complete takeover of the cloud service provider's own GitHub repositories, including its AWS JavaScript SDK, putting every AWS environment at risk. The vulnerability has been codenamed CodeBreach by cloud security company Wiz. The issue was fixed by AWS in September 2025 following responsible disclosure on",
+      "published": "Fri, 16 Jan 2026 01:01:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
@@ -144,14 +156,25 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
-      "link": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
-      "summary": "The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025. AISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)",
-      "published": "Thu, 15 Jan 2026 00:33:00 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "Grubhub confirms hackers stole data in recent security breach",
+      "link": "https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/",
+      "summary": "Food delivery platform Grubhub has confirmed a recent data breach after hackers accessed its systems, with sources telling BleepingComputer the company is now facing extortion demands. [...]",
+      "published": "Thu, 15 Jan 2026 16:38:51 -0500",
+      "value_score": 34,
       "value_signals": [
-        "Botnet ×2"
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers exploit Modular DS WordPress plugin flaw for admin access",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/",
+      "summary": "Hackers are actively exploiting a maximum severity flaw in the Modular DS WordPress plugin that allows them to bypass authentication remotely and access the vulnerable sites with admin-level privileges. [...]",
+      "published": "Thu, 15 Jan 2026 15:49:50 -0500",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
       ]
     },
     {
@@ -207,24 +230,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/",
       "summary": "Palo Alto Networks patched a high-severity vulnerability that could allow unauthenticated attackers to disable firewall protections in denial-of-service (DoS) attacks. [...]",
       "published": "Thu, 15 Jan 2026 04:02:42 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft disrupts massive RedVDS cybercrime virtual desktop service",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/",
-      "summary": "Microsoft announced on Wednesday that it disrupted RedVDS, a massive cybercrime platform linked to at least $40 million in reported losses in the United States alone since March 2025. [...]",
-      "published": "Thu, 15 Jan 2026 02:11:45 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ChatGPT's upcoming cross-platform feature is codenamed \"Agora\"",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/",
-      "summary": "OpenAI is internally testing a new feature called \"Agora,\" and it could be related to some sort of cross-platform feature that works in real time or some other new product. [...]",
-      "published": "Wed, 14 Jan 2026 22:00:00 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -315,6 +320,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Predator Spyware Sample Indicates 'Vendor-Controlled' C2",
+      "link": "https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2",
+      "summary": "Researchers detailed how Intellexa, Predator's owner, uses failed deployments and thwarted infections to strengthen its commercial spyware and generate more effective attacks.",
+      "published": "Thu, 15 Jan 2026 21:26:18 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Winter Olympics Could Share Podium With Cyberattackers",
+      "link": "https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers",
+      "summary": "The upcoming Winter Games in the Italian Alps are attracting both hacktivists looking to reach billions of people and state-sponsored cyber-spies targeting the attending glitterati.",
+      "published": "Thu, 15 Jan 2026 19:10:05 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Vulnerabilities Surge, But Messy Reporting Blurs Picture",
       "link": "https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture",
       "summary": "MITRE loses its lead as the top reporter of vulnerabilities, while new organizations pump out CVEs and reported bugs in WordPress plug-ins surge.",
@@ -372,26 +395,6 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Taiwan Endures Greater Cyber Pressure From China",
-      "link": "https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china",
-      "summary": "Chinese cyberattacks on Taiwan's critical infrastructure — including energy utilities and hospitals — rose 6% in 2025, averaging 2.63 million attacks a day.",
-      "published": "Wed, 14 Jan 2026 02:00:00 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security",
-      "link": "https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security",
-      "summary": "The browser protection and detection technology will be integrated into CrowdStrike's Falcon platform to protect endpoints, browser sessions, and cloud applications.",
-      "published": "Tue, 13 Jan 2026 23:59:37 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
       "source": "Security Week",
       "title": "Forget Predictions: True 2026 Cybersecurity Priorities From Leaders",
       "link": "https://www.securityweek.com/forget-predictions-true-2026-cybersecurity-priorities-from-leaders/",
@@ -402,9 +405,9 @@
     },
     {
       "source": "Security Week",
-      "title": "New StackWarp Attack Threatens Confidential VMs on AMD Processors",
+      "title": "New ‘StackWarp’ Attack Threatens Confidential VMs on AMD Processors",
       "link": "https://www.securityweek.com/new-stackwarp-attack-threatens-confidential-vms-on-amd-processors/",
-      "summary": "Researchers have disclosed technical details on a new AMD processor attack that allows remote code execution inside confidential VMs. The post New StackWarp Attack Threatens Confidential VMs on AMD Processors appeared first on SecurityWeek .",
+      "summary": "Researchers have disclosed technical details on a new AMD processor attack that allows remote code execution inside confidential VMs. The post New ‘StackWarp’ Attack Threatens Confidential VMs on AMD Processors appeared first on SecurityWeek .",
       "published": "Thu, 15 Jan 2026 18:00:00 +0000",
       "value_score": 30,
       "value_signals": [

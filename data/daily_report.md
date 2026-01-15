@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-15 20:20 UTC  
+> **Last Updated:** 2026-01-15 22:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**least 40 million** • **amd processors researchers** • **telecontrol server basic** • **copilot studio extension** • **sinec security monitor** • **siemens ruggedcom ros** • **security problems show** • **law enforcement authorities** • **windows operating systems** • **twitter whistleblower complaint** • **researchers null route** • **protect enterprise communications** • **internet router probably** • **drivers without consent** • **codenamed agora openai** • **auditability collide daily** • **detection technology will** • **crowdstrike's falcon platform** • **cross platform feature** • **online fraud microsoft**
+**amd processors researchers** • **telecontrol server basic** • **maximum severity flaw** • **sinec security monitor** • **copilot studio extension** • **supply chain governance** • **security problems show** • **siemens ruggedcom ros** • **law enforcement authorities** • **windows operating systems** • **twitter whistleblower complaint** • **internet router probably** • **github repositories including** • **drivers without consent** • **auditability collide daily** • **respective security advisories** • **redis model security** • **online fraud microsoft** • **law enforcement operation** • **internal network behind**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks](https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html)
 - [Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html)
 - [Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot](https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html)
 - [ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html)
@@ -23,18 +24,17 @@
 - [4 Outdated Habits Destroying Your SOC's MTTR in 2026](https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html)
 - [Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud](https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html)
 - [Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login](https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html)
-- [Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers](https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html)
 
 ### BleepingComputer
 
+- [Grubhub confirms hackers stole data in recent security breach](https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/)
+- [Hackers exploit Modular DS WordPress plugin flaw for admin access](https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/)
 - [Verizon blames nationwide outage on a "software issue"](https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/)
 - [Microsoft Copilot Studio extension for VS Code now publicly available](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/)
 - [Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices](https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/)
 - [How to automate just-in-time access to applications with Tines](https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/)
 - [FTC bans GM from selling drivers' location data for five years](https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/)
 - [Palo Alto Networks warns of DoS bug letting hackers disable firewalls](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/)
-- [Microsoft disrupts massive RedVDS cybercrime virtual desktop service](https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/)
-- [ChatGPT's upcoming cross-platform feature is codenamed "Agora"](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/)
 
 ### Krebs on Security
 
@@ -49,19 +49,19 @@
 
 ### Dark Reading
 
+- [Predator Spyware Sample Indicates 'Vendor-Controlled' C2](https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2)
+- [Winter Olympics Could Share Podium With Cyberattackers](https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers)
 - [Vulnerabilities Surge, But Messy Reporting Blurs Picture](https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture)
 - [Trio of Critical Bugs Spotted in Delta Industrial PLCs](https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs)
 - [Retail, Services Industries Under Fire in Oceania](https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania)
 - [Microsoft Disrupts Cybercrime Service RedVDS](https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds)
 - [Secure Your Spot at RSAC 2026 Conference](https://www.darkreading.com/events/rsac-2026-conference)
 - ['VoidLink' Malware Poses Advanced Threat to Linux Systems](https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems)
-- [Taiwan Endures Greater Cyber Pressure From China](https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china)
-- [CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security](https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security)
 
 ### Security Week
 
 - [Forget Predictions: True 2026 Cybersecurity Priorities From Leaders](https://www.securityweek.com/forget-predictions-true-2026-cybersecurity-priorities-from-leaders/)
-- [New StackWarp Attack Threatens Confidential VMs on AMD Processors](https://www.securityweek.com/new-stackwarp-attack-threatens-confidential-vms-on-amd-processors/)
+- [New ‘StackWarp’ Attack Threatens Confidential VMs on AMD Processors](https://www.securityweek.com/new-stackwarp-attack-threatens-confidential-vms-on-amd-processors/)
 - [Vibe Coding Tested: AI Agents Nail SQLi but Fail Miserably on Security Controls](https://www.securityweek.com/vibe-coding-tested-ai-agents-nail-sqli-but-fail-miserably-on-security-controls/)
 - [Depthfirst Raises $40 Million for Vulnerability Management](https://www.securityweek.com/depthfirst-raises-40-million-for-vulnerability-management/)
 - [isVerified Emerges From Stealth With Voice Deepfake Detection Apps](https://www.securityweek.com/isverified-emerges-from-stealth-with-voice-deepfake-detection-apps/)

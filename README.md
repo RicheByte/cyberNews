@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-15 16:29 UTC |
+| 🕐 Last Updated | 2026-01-15 18:30 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`least 40 million` • `malicious cyber actors` • `law enforcement authorities` • `researchers null route` • `security problems show` • `released security updates` • `windows operating systems` • `twitter whistleblower complaint` • `internet router probably` • `drivers without consent`
+`least 40 million` • `amd processors researchers` • `telecontrol server basic` • `sinec security monitor` • `siemens ruggedcom ros` • `security problems show` • `law enforcement authorities` • `windows operating systems` • `twitter whistleblower complaint` • `researchers null route`
 
 ## 📄 Reports
 

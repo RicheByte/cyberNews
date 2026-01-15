@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-15 16:29 UTC  
+> **Last Updated:** 2026-01-15 18:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**least 40 million** • **malicious cyber actors** • **law enforcement authorities** • **researchers null route** • **security problems show** • **released security updates** • **windows operating systems** • **twitter whistleblower complaint** • **internet router probably** • **drivers without consent** • **codenamed agora openai** • **auditability collide daily** • **1 billion valuation** • **detection technology will** • **legitimate microsoft link** • **crowdstrike's falcon platform** • **high severity vulnerability** • **law enforcement operation** • **known exploited vulne** • **internal network behind**
+**least 40 million** • **amd processors researchers** • **telecontrol server basic** • **sinec security monitor** • **siemens ruggedcom ros** • **security problems show** • **law enforcement authorities** • **windows operating systems** • **twitter whistleblower complaint** • **researchers null route** • **protect enterprise communications** • **internet router probably** • **drivers without consent** • **codenamed agora openai** • **auditability collide daily** • **detection technology will** • **crowdstrike's falcon platform** • **respective security advisories** • **redis model security** • **national security risk**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Forget Predictions: True 2026 Cybersecurity Priorities From Leaders](https://www.securityweek.com/forget-predictions-true-2026-cybersecurity-priorities-from-leaders/)
+- [New StackWarp Attack Threatens Confidential VMs on AMD Processors](https://www.securityweek.com/new-stackwarp-attack-threatens-confidential-vms-on-amd-processors/)
+- [Vibe Coding Tested: AI Agents Nail SQLi but Fail Miserably on Security Controls](https://www.securityweek.com/vibe-coding-tested-ai-agents-nail-sqli-but-fail-miserably-on-security-controls/)
 - [Depthfirst Raises $40 Million for Vulnerability Management](https://www.securityweek.com/depthfirst-raises-40-million-for-vulnerability-management/)
 - [isVerified Emerges From Stealth With Voice Deepfake Detection Apps](https://www.securityweek.com/isverified-emerges-from-stealth-with-voice-deepfake-detection-apps/)
 - [New ‘Reprompt’ Attack Silently Siphons Microsoft Copilot Data](https://www.securityweek.com/new-reprompt-attack-silently-siphons-microsoft-copilot-data/)
 - [Central Maine Healthcare Data Breach Impacts 145,000 Individuals](https://www.securityweek.com/central-maine-healthcare-data-breach-impacts-145000-individuals/)
 - [VoidLink Linux Malware Framework Targets Cloud Environments](https://www.securityweek.com/voidlink-linux-malware-framework-targets-cloud-environments/)
-- [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Aveva, Phoenix Contact](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-aveva-phoenix-contact/)
-- [Traveler Information Stolen in Eurail Data Breach](https://www.securityweek.com/traveler-information-stolen-in-eurail-data-breach/)
-- [Aikido Security Raises $60 Million at $1 Billion Valuation](https://www.securityweek.com/aikido-security-raises-60-million-at-1-billion-valuation/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [AVEVA Process Optimization](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-01)
 - [Secure Connectivity Principles for Operational Technology (OT)](https://www.cisa.gov/resources-tools/resources/secure-connectivity-principles-operational-technology-ot)
-- [Rockwell Automation 432ES-IG3 Series A](https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-01)
-- [Rockwell Automation FactoryTalk DataMosaix Private Cloud](https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-02)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/13/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [YoSmart YoLink Smart Hub](https://www.cisa.gov/news-events/ics-advisories/icsa-26-013-03)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/12/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Hitachi Energy Asset Suite](https://www.cisa.gov/news-events/ics-advisories/icsa-26-008-01)
-- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/07/cisa-adds-two-known-exploited-vulnerabilities-catalog)
+- [Siemens RUGGEDCOM ROS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-05)
+- [Siemens TeleControl Server Basic](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-03)
+- [Siemens SIMATIC and SIPLUS products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-04)
+- [Siemens Industrial Edge Device Kit](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-09)
+- [Siemens RUGGEDCOM APE1808 Devices](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-07)
+- [Siemens SINEC Security Monitor](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-06)
 
 ---
 

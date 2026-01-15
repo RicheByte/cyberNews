@@ -1,72 +1,108 @@
 {
-  "last_updated": "2026-01-15 14:20",
+  "last_updated": "2026-01-15 16:29",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "least 40 million",
     "malicious cyber actors",
     "law enforcement authorities",
+    "researchers null route",
+    "security problems show",
+    "released security updates",
     "windows operating systems",
     "twitter whistleblower complaint",
-    "researchers null route",
-    "legitimate binary associated",
+    "internet router probably",
     "drivers without consent",
-    "cvss scoring system",
     "codenamed agora openai",
+    "auditability collide daily",
+    "1 billion valuation",
     "detection technology will",
+    "legitimate microsoft link",
     "crowdstrike's falcon platform",
+    "high severity vulnerability",
     "law enforcement operation",
-    "vulnerabilities earned microsoft's",
-    "traveler information stolen",
-    "long term access",
     "known exploited vulne",
-    "internal network behind",
-    "cross platform feature",
-    "today we'll dig"
+    "internal network behind"
   ],
   "trending": [
     {
       "keyword": "least 40 million",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 180
+      "mentions": 181
     },
     {
       "keyword": "law enforcement authorities",
-      "mentions": 3
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 89
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 349
+      "mentions": 4
     },
     {
       "keyword": "researchers null route",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "legitimate binary associated",
-      "mentions": 12
+      "keyword": "security problems show",
+      "mentions": 16
+    },
+    {
+      "keyword": "released security updates",
+      "mentions": 1
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 90
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 350
+    },
+    {
+      "keyword": "internet router probably",
+      "mentions": 25
     },
     {
       "keyword": "drivers without consent",
-      "mentions": 3
-    },
-    {
-      "keyword": "cvss scoring system",
-      "mentions": 46
-    },
-    {
-      "keyword": "codenamed agora openai",
-      "mentions": 6
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+      "summary": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack. The vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin",
+      "published": "Thu, 15 Jan 2026 21:01:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "Privilege escalation",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
+      "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely. \"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security",
+      "published": "Thu, 15 Jan 2026 20:39:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
+      "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere. This week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in. Read on to catch up before the next wave hits. Unauthenticated RCE risk Security Flaw in Redis",
+      "published": "Thu, 15 Jan 2026 19:26:00 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "RCE",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Model Security Is the Wrong Frame – The Real Risk Is Workflow Security",
@@ -119,38 +155,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "AI Agents Are Becoming Authorization Bypass Paths",
-      "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
-      "summary": "Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster. Then organizations got ambitious. Instead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don’t just suggest, but act. Agents",
-      "published": "Wed, 14 Jan 2026 20:37:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
-      "link": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
-      "summary": "Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass security controls and deliver a wide range of commodity trojans and stealers. \"Attackers achieve evasion by pairing a malicious libcares-2.dll with any signed version of the legitimate ahost.exe (",
-      "published": "Wed, 14 Jan 2026 19:48:00 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
+      "summary": "A critical vulnerability in Google's Fast Pair protocol can allow attackers to hijack Bluetooth audio accessories like wireless headphones and earbuds, track users, and eavesdrop on their conversations. [...]",
+      "published": "Thu, 15 Jan 2026 11:13:54 -0500",
+      "value_score": 26,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
-      "summary": "Fortinet has released updates to fix a critical security flaw impacting FortiSIEM that could allow an unauthenticated attacker to achieve code execution on susceptible instances. The operating system (OS) injection vulnerability, tracked as CVE-2025-64155, is rated 9.4 out of 10.0 on the CVSS scoring system. \"An improper neutralization of special elements used in an OS command ('OS command",
-      "published": "Wed, 14 Jan 2026 17:23:00 +0530",
-      "value_score": 72,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Patch/update",
         "High severity ×2"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "How to automate just-in-time access to applications with Tines",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
+      "summary": "Managing just-in-time access at scale is a growing IAM challenge as speed and auditability collide daily. Tines shows how automated workflows can grant, track, and revoke temporary app access without manual effort. [...]",
+      "published": "Thu, 15 Jan 2026 10:01:10 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -205,26 +227,6 @@
       "published": "Wed, 14 Jan 2026 19:00:00 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI's hidden ChatGPT Translate tool takes on Google Translate",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/",
-      "summary": "OpenAI has quietly rolled out a new ChatGPT feature called ChatGPT Translate, and it looks very similar to Google Translate on the web. [...]",
-      "published": "Wed, 14 Jan 2026 17:52:16 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "South Korean giant Kyowon confirms data theft in ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/",
-      "summary": "The Kyowon Group (Kyowon), a South Korean conglomerate, disclosed that a cyberattack has disrupted its operations and customer information may have been exposed in the incident. [...]",
-      "published": "Wed, 14 Jan 2026 16:49:50 -0500",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -313,6 +315,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Vulnerabilities Surge, But Messy Reporting Blurs Picture",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture",
+      "summary": "MITRE loses its lead as the top reporter of vulnerabilities, while new organizations pump out CVEs and reported bugs in WordPress plug-ins surge.",
+      "published": "Thu, 15 Jan 2026 15:19:31 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Trio of Critical Bugs Spotted in Delta Industrial PLCs",
       "link": "https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs",
       "summary": "Experts disagree on whether the vulnerabilities in a programmable logic controller from Delta are a five-alarm fire or not much to worry over.",
@@ -377,15 +388,6 @@
       "link": "https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security",
       "summary": "The browser protection and detection technology will be integrated into CrowdStrike's Falcon platform to protect endpoints, browser sessions, and cloud applications.",
       "published": "Tue, 13 Jan 2026 23:59:37 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CISO Succession Crisis Highlights How Turnover Amplifies Security Risks",
-      "link": "https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks",
-      "summary": "When cybersecurity leadership turns over too fast, risk does not reset. It compounds.",
-      "published": "Tue, 13 Jan 2026 23:45:27 GMT",
       "value_score": 10,
       "value_signals": []
     },

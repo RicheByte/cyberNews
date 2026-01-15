@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 180,
+      "count": 181,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -156,7 +156,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 349,
+      "count": 350,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1776,12 +1776,13 @@
       ]
     },
     "internet router probably": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-05",
         "2026-01-06",
         "2026-01-08",
-        "2026-01-09"
+        "2026-01-09",
+        "2026-01-15"
       ]
     },
     "cryptomining botnet payloads": {
@@ -2142,10 +2143,11 @@
       ]
     },
     "security problems show": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-08",
-        "2026-01-09"
+        "2026-01-09",
+        "2026-01-15"
       ]
     },
     "unauthenticated bluetooth access": {
@@ -2275,7 +2277,7 @@
       ]
     },
     "internal network behind": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2917,7 +2919,7 @@
       ]
     },
     "detection technology will": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2930,7 +2932,7 @@
       ]
     },
     "researchers null route": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2951,7 +2953,7 @@
       ]
     },
     "codenamed agora openai": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-15"
       ]
@@ -2963,13 +2965,13 @@
       ]
     },
     "least 40 million": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-15"
       ]
     },
     "crowdstrike's falcon platform": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-15"
       ]
@@ -2981,13 +2983,13 @@
       ]
     },
     "law enforcement authorities": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-15"
       ]
     },
     "drivers without consent": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-15"
       ]
@@ -3017,12 +3019,42 @@
       ]
     },
     "known exploited vulne": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-15"
       ]
     },
     "law enforcement operation": {
+      "count": 2,
+      "dates": [
+        "2026-01-15"
+      ]
+    },
+    "released security updates": {
+      "count": 1,
+      "dates": [
+        "2026-01-15"
+      ]
+    },
+    "auditability collide daily": {
+      "count": 1,
+      "dates": [
+        "2026-01-15"
+      ]
+    },
+    "1 billion valuation": {
+      "count": 1,
+      "dates": [
+        "2026-01-15"
+      ]
+    },
+    "legitimate microsoft link": {
+      "count": 1,
+      "dates": [
+        "2026-01-15"
+      ]
+    },
+    "high severity vulnerability": {
       "count": 1,
       "dates": [
         "2026-01-15"
@@ -3030,17 +3062,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-07 08:24",
-      "articles": 56,
-      "top_keywords": [
-        "ai generated code",
-        "scattered lapsus hunters",
-        "mass creating fake",
-        "cyber risk trends",
-        "critical security vulnerability"
-      ]
-    },
     {
       "timestamp": "2026-01-07 10:19",
       "articles": 56,
@@ -4128,6 +4149,17 @@
         "law enforcement authorities",
         "windows operating systems",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-15 16:29",
+      "articles": 56,
+      "top_keywords": [
+        "least 40 million",
+        "malicious cyber actors",
+        "law enforcement authorities",
+        "researchers null route",
+        "security problems show"
       ]
     }
   ]

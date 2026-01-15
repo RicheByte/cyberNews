@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-15 14:20 UTC  
+> **Last Updated:** 2026-01-15 16:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**least 40 million** • **malicious cyber actors** • **law enforcement authorities** • **windows operating systems** • **twitter whistleblower complaint** • **researchers null route** • **legitimate binary associated** • **drivers without consent** • **cvss scoring system** • **codenamed agora openai** • **detection technology will** • **crowdstrike's falcon platform** • **law enforcement operation** • **vulnerabilities earned microsoft's** • **traveler information stolen** • **long term access** • **known exploited vulne** • **internal network behind** • **cross platform feature** • **today we'll dig**
+**least 40 million** • **malicious cyber actors** • **law enforcement authorities** • **researchers null route** • **security problems show** • **released security updates** • **windows operating systems** • **twitter whistleblower complaint** • **internet router probably** • **drivers without consent** • **codenamed agora openai** • **auditability collide daily** • **1 billion valuation** • **detection technology will** • **legitimate microsoft link** • **crowdstrike's falcon platform** • **high severity vulnerability** • **law enforcement operation** • **known exploited vulne** • **internal network behind**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html)
+- [Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot](https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html)
+- [ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html)
 - [Model Security Is the Wrong Frame – The Real Risk Is Workflow Security](https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html)
 - [4 Outdated Habits Destroying Your SOC's MTTR in 2026](https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html)
 - [Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud](https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html)
 - [Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login](https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html)
 - [Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers](https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html)
-- [AI Agents Are Becoming Authorization Bypass Paths](https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html)
-- [Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware](https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html)
-- [Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution](https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html)
 
 ### BleepingComputer
 
+- [Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices](https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/)
+- [How to automate just-in-time access to applications with Tines](https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/)
 - [FTC bans GM from selling drivers' location data for five years](https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/)
 - [Palo Alto Networks warns of DoS bug letting hackers disable firewalls](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/)
 - [Microsoft disrupts massive RedVDS cybercrime virtual desktop service](https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/)
 - [ChatGPT's upcoming cross-platform feature is codenamed "Agora"](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/)
 - [Google plans to make Chrome for Android an agentic browser with Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/)
 - [Google's Personal Intelligence links Gmail, Photos and Search to Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/)
-- [OpenAI's hidden ChatGPT Translate tool takes on Google Translate](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/)
-- [South Korean giant Kyowon confirms data theft in ransomware attack](https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Vulnerabilities Surge, But Messy Reporting Blurs Picture](https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture)
 - [Trio of Critical Bugs Spotted in Delta Industrial PLCs](https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs)
 - [Retail, Services Industries Under Fire in Oceania](https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania)
 - [Microsoft Disrupts Cybercrime Service RedVDS](https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds)
@@ -56,7 +57,6 @@
 - ['VoidLink' Malware Poses Advanced Threat to Linux Systems](https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems)
 - [Taiwan Endures Greater Cyber Pressure From China](https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china)
 - [CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security](https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security)
-- [CISO Succession Crisis Highlights How Turnover Amplifies Security Risks](https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks)
 
 ### Security Week
 

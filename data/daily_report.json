@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-01-15 08:25",
+  "last_updated": "2026-01-15 10:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "law enforcement authorities",
     "windows operating systems",
     "least 40 million",
-    "ai security platform",
+    "severe ai vulnerability",
     "twitter whistleblower complaint",
     "researchers null route",
     "malicious cyber actors",
     "legitimate binary associated",
+    "drivers without consent",
     "cvss scoring system",
     "codenamed agora openai",
     "detection technology will",
-    "severe ai vulnerability",
-    "kyowon group kyowon",
     "crowdstrike's falcon platform",
+    "long term access",
     "internal network behind",
     "114 flaws eight",
-    "vulnerabilities earned microsoft's",
-    "developer security company",
-    "buy seraphic security",
     "cross platform feature",
-    "today we'll dig"
+    "traveler information stolen",
+    "bypass security controls",
+    "buy seraphic security"
   ],
   "trending": [
     {
-      "keyword": "windows operating systems",
-      "mentions": 86
-    },
-    {
-      "keyword": "least 40 million",
+      "keyword": "law enforcement authorities",
       "mentions": 1
     },
     {
-      "keyword": "ai security platform",
-      "mentions": 7
+      "keyword": "windows operating systems",
+      "mentions": 87
+    },
+    {
+      "keyword": "least 40 million",
+      "mentions": 2
+    },
+    {
+      "keyword": "severe ai vulnerability",
+      "mentions": 11
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 346
+      "mentions": 347
     },
     {
       "keyword": "researchers null route",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 177
+      "mentions": 178
     },
     {
       "keyword": "legitimate binary associated",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "drivers without consent",
+      "mentions": 1
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 43
-    },
-    {
-      "keyword": "codenamed agora openai",
-      "mentions": 3
-    },
-    {
-      "keyword": "detection technology will",
-      "mentions": 7
+      "mentions": 44
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
+      "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
+      "summary": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses. The effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious",
+      "published": "Thu, 15 Jan 2026 15:07:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
+      "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
+      "summary": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit. The vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for",
+      "published": "Thu, 15 Jan 2026 13:48:00 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
@@ -80,15 +102,12 @@
     },
     {
       "source": "The Hacker News",
-      "title": "AI Agents Are Becoming Privilege Escalation Paths",
+      "title": "AI Agents Are Becoming Authorization Bypass Paths",
       "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
-      "summary": "AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What began as individual productivity aids, like personal code assistants, chatbots, and copilots, has evolved into shared, organization-wide agents embedded in critical processes. These agents can orchestrate workflows across multiple systems, for example:",
+      "summary": "Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster. Then organizations got ambitious. Instead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don’t just suggest, but act. Agents",
       "published": "Wed, 14 Jan 2026 20:37:00 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Privilege escalation",
-        "High severity"
-      ]
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "The Hacker News",
@@ -140,24 +159,20 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
-      "link": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
-      "summary": "Node.js has released updates to fix what it described as a critical security issue impacting \"virtually every production Node.js app\" that, if successfully exploited, could trigger a denial-of-service (DoS) condition. \"Node.js/V8 makes a best-effort attempt to recover from stack space exhaustion with a catchable error, which frameworks have come to rely on for service availability,\" Node.js's",
-      "published": "Wed, 14 Jan 2026 12:35:00 +0530",
-      "value_score": 40,
-      "value_signals": [
-        "Patch/update",
-        "High severity ×2",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "FTC bans GM from selling drivers' location data for five years",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/",
+      "summary": "The FTC has finalized an order with General Motors, settling charges that it collected and sold the location and driving data of millions of drivers without consent. [...]",
+      "published": "Thu, 15 Jan 2026 04:59:30 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
-      "link": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025. The activity has been attributed with medium confidence to a Russian hacking group tracked as Void Blizzard (aka Laundry Bear or UAC-0190). The threat actor is believed to be active since at least",
-      "published": "Wed, 14 Jan 2026 11:18:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/",
+      "summary": "Palo Alto Networks patched a high-severity vulnerability that could allow unauthenticated attackers to disable firewall protections in denial-of-service (DoS) attacks. [...]",
+      "published": "Thu, 15 Jan 2026 04:02:42 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -215,29 +230,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "France fines Free Mobile €42 million over 2024 data breach incident",
-      "link": "https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/",
-      "summary": "The French data protection authority (CNIL) has imposed cumulative fines of €42 million on Free Mobile and its parent company, Free, for inadequate protection of customer data against cyber threats. [...]",
-      "published": "Wed, 14 Jan 2026 14:50:49 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Exploit code public for critical FortiSIEM command injection flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/",
-      "summary": "Technical details and a public exploit have been published for a critical vulnerability affecting Fortinet's Security Information and Event Management (SIEM) solution that could be leveraged by a remote, unauthenticated attacker to execute commands or code. [...]",
-      "published": "Wed, 14 Jan 2026 13:51:54 -0500",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -403,6 +395,37 @@
     },
     {
       "source": "Security Week",
+      "title": "VoidLink Linux Malware Framework Targets Cloud Environments",
+      "link": "https://www.securityweek.com/voidlink-linux-malware-framework-targets-cloud-environments/",
+      "summary": "Designed for long-term access, the framework targets cloud and container environments with loaders, implants, and rootkits. The post VoidLink Linux Malware Framework Targets Cloud Environments appeared first on SecurityWeek .",
+      "published": "Thu, 15 Jan 2026 09:35:19 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Aveva, Phoenix Contact",
+      "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-aveva-phoenix-contact/",
+      "summary": "Only a dozen new advisories have been published this Patch Tuesday by industrial giants. The post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Aveva, Phoenix Contact appeared first on SecurityWeek .",
+      "published": "Thu, 15 Jan 2026 09:05:02 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×5"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Traveler Information Stolen in Eurail Data Breach",
+      "link": "https://www.securityweek.com/traveler-information-stolen-in-eurail-data-breach/",
+      "summary": "Hackers stole the personal and reservation information of people with a Eurail pass and those who made a seat reservation with the company. The post Traveler Information Stolen in Eurail Data Breach appeared first on SecurityWeek .",
+      "published": "Thu, 15 Jan 2026 08:30:49 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Aikido Security Raises $60 Million at $1 Billion Valuation",
       "link": "https://www.securityweek.com/aikido-security-raises-60-million-at-1-billion-valuation/",
       "summary": "The developer security company has raised a total of more than $84 million in funding. The post Aikido Security Raises $60 Million at $1 Billion Valuation appeared first on SecurityWeek .",
@@ -449,39 +472,6 @@
       "published": "Wed, 14 Jan 2026 13:15:35 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "WitnessAI Raises $58 Million for AI Security Platform",
-      "link": "https://www.securityweek.com/witnessai-raises-58-million-for-ai-security-platform/",
-      "summary": "The company will use the fresh investment to accelerate its global go-to-market and product expansion. The post WitnessAI Raises $58 Million for AI Security Platform appeared first on SecurityWeek .",
-      "published": "Wed, 14 Jan 2026 11:49:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Robo-Advisor Betterment Discloses Data Breach",
-      "link": "https://www.securityweek.com/robo-advisor-betterment-discloses-data-breach/",
-      "summary": "A threat actor breached Betterment’s systems, accessed customer information, and sent scam crypto-related messages. The post Robo-Advisor Betterment Discloses Data Breach appeared first on SecurityWeek .",
-      "published": "Wed, 14 Jan 2026 10:50:45 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM",
-      "link": "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/",
-      "summary": "Exploitable without authentication, the two security defects could lead to configuration leak and code execution. The post Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM appeared first on SecurityWeek .",
-      "published": "Wed, 14 Jan 2026 09:56:38 +0000",
-      "value_score": 44,
-      "value_signals": [
-        "Breach/leak",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

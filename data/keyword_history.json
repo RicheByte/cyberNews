@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 176,
+      "count": 177,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -156,7 +156,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 345,
+      "count": 346,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1584,7 +1584,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2263,7 +2263,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2275,7 +2275,7 @@
       ]
     },
     "internal network behind": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2849,7 +2849,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2862,7 +2862,7 @@
       ]
     },
     "severe ai vulnerability": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2883,14 +2883,14 @@
       ]
     },
     "legitimate binary associated": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "buy seraphic security": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2910,14 +2910,14 @@
       ]
     },
     "114 flaws eight": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "detection technology will": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2930,33 +2930,51 @@
       ]
     },
     "researchers null route": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "ai security platform": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "kyowon group kyowon": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "codenamed agora openai": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-15"
       ]
     },
     "developer security company": {
+      "count": 2,
+      "dates": [
+        "2026-01-15"
+      ]
+    },
+    "least 40 million": {
+      "count": 1,
+      "dates": [
+        "2026-01-15"
+      ]
+    },
+    "crowdstrike's falcon platform": {
+      "count": 1,
+      "dates": [
+        "2026-01-15"
+      ]
+    },
+    "cross platform feature": {
       "count": 1,
       "dates": [
         "2026-01-15"
@@ -2964,17 +2982,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-07 01:18",
-      "articles": 56,
-      "top_keywords": [
-        "ai generated code",
-        "scattered lapsus hunters",
-        "mass creating fake",
-        "cyber risk trends",
-        "critical security vulnerability"
-      ]
-    },
     {
       "timestamp": "2026-01-07 03:25",
       "articles": 56,
@@ -4062,6 +4069,17 @@
         "researchers null route",
         "malicious cyber actors",
         "legitimate binary associated"
+      ]
+    },
+    {
+      "timestamp": "2026-01-15 08:25",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "least 40 million",
+        "ai security platform",
+        "twitter whistleblower complaint",
+        "researchers null route"
       ]
     }
   ]

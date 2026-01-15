@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-15 06:27 UTC  
+> **Last Updated:** 2026-01-15 08:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **twitter whistleblower complaint** • **researchers null route** • **malicious cyber actors** • **legitimate binary associated** • **cvss scoring system** • **codenamed agora openai** • **ai security platform** • **detection technology will** • **severe ai vulnerability** • **kyowon group kyowon** • **internal network behind** • **114 flaws eight** • **vulnerabilities earned microsoft's** • **developer security company** • **buy seraphic security** • **today we'll dig** • **strong theme running** • **stack space exhaustion** • **sprawling phishing campaign**
+**windows operating systems** • **least 40 million** • **ai security platform** • **twitter whistleblower complaint** • **researchers null route** • **malicious cyber actors** • **legitimate binary associated** • **cvss scoring system** • **codenamed agora openai** • **detection technology will** • **severe ai vulnerability** • **kyowon group kyowon** • **crowdstrike's falcon platform** • **internal network behind** • **114 flaws eight** • **vulnerabilities earned microsoft's** • **developer security company** • **buy seraphic security** • **cross platform feature** • **today we'll dig**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft disrupts massive RedVDS cybercrime virtual desktop service](https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/)
 - [ChatGPT's upcoming cross-platform feature is codenamed "Agora"](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/)
 - [Google plans to make Chrome for Android an agentic browser with Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/)
 - [Google's Personal Intelligence links Gmail, Photos and Search to Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/)
@@ -34,7 +35,6 @@
 - [South Korean giant Kyowon confirms data theft in ransomware attack](https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/)
 - [France fines Free Mobile €42 million over 2024 data breach incident](https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/)
 - [Exploit code public for critical FortiSIEM command injection flaw](https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/)
-- [Verizon Wireless outage puts phones in SOS mode without cell service](https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/)
 
 ### Krebs on Security
 

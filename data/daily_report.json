@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-15 06:27",
+  "last_updated": "2026-01-15 08:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "windows operating systems",
+    "least 40 million",
+    "ai security platform",
     "twitter whistleblower complaint",
     "researchers null route",
     "malicious cyber actors",
     "legitimate binary associated",
     "cvss scoring system",
     "codenamed agora openai",
-    "ai security platform",
     "detection technology will",
     "severe ai vulnerability",
     "kyowon group kyowon",
+    "crowdstrike's falcon platform",
     "internal network behind",
     "114 flaws eight",
     "vulnerabilities earned microsoft's",
     "developer security company",
     "buy seraphic security",
-    "today we'll dig",
-    "strong theme running",
-    "stack space exhaustion",
-    "sprawling phishing campaign"
+    "cross platform feature",
+    "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "windows operating systems",
-      "mentions": 85
+      "mentions": 86
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 345
-    },
-    {
-      "keyword": "researchers null route",
-      "mentions": 6
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 176
-    },
-    {
-      "keyword": "legitimate binary associated",
-      "mentions": 8
-    },
-    {
-      "keyword": "cvss scoring system",
-      "mentions": 42
-    },
-    {
-      "keyword": "codenamed agora openai",
-      "mentions": 2
+      "keyword": "least 40 million",
+      "mentions": 1
     },
     {
       "keyword": "ai security platform",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 346
+    },
+    {
+      "keyword": "researchers null route",
+      "mentions": 7
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 177
+    },
+    {
+      "keyword": "legitimate binary associated",
+      "mentions": 9
+    },
+    {
+      "keyword": "cvss scoring system",
+      "mentions": 43
+    },
+    {
+      "keyword": "codenamed agora openai",
+      "mentions": 3
     },
     {
       "keyword": "detection technology will",
-      "mentions": 6
-    },
-    {
-      "keyword": "severe ai vulnerability",
-      "mentions": 9
+      "mentions": 7
     }
   ],
   "articles": [
@@ -163,6 +163,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft disrupts massive RedVDS cybercrime virtual desktop service",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/",
+      "summary": "Microsoft announced on Wednesday that it disrupted RedVDS, a massive cybercrime platform linked to at least $40 million in reported losses in the United States alone since March 2025. [...]",
+      "published": "Thu, 15 Jan 2026 02:11:45 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ChatGPT's upcoming cross-platform feature is codenamed \"Agora\"",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/",
       "summary": "OpenAI is internally testing a new feature called \"Agora,\" and it could be related to some sort of cross-platform feature that works in real time or some other new product. [...]",
@@ -230,15 +239,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Verizon Wireless outage puts phones in SOS mode without cell service",
-      "link": "https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/",
-      "summary": "Verizon Wireless is suffering a massive outage in the US, with customers reporting their phones stuck in SOS mode with no cellular service. [...]",
-      "published": "Wed, 14 Jan 2026 13:27:25 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

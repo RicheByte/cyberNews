@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-15 03:27 UTC  
+> **Last Updated:** 2026-01-15 04:36 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **researchers null route** • **twitter whistleblower complaint** • **malicious cyber actors** • **legitimate binary associated** • **cvss scoring system** • **ai security platform** • **detection technology will** • **severe ai vulnerability** • **kyowon group kyowon** • **exfiltrate sensitive data** • **internal network behind** • **114 flaws eight** • **buy seraphic security** • **vulnerabilities earned microsoft's** • **today we'll dig** • **strong theme running** • **stack space exhaustion** • **sprawling phishing campaign** • **scoops nestled inside**
+**windows operating systems** • **twitter whistleblower complaint** • **malicious cyber actors** • **legitimate binary associated** • **cvss scoring system** • **codenamed agora openai** • **ai security platform** • **kyowon group kyowon** • **internal network behind** • **114 flaws eight** • **vulnerabilities earned microsoft's** • **today we'll dig** • **third party applications** • **strong theme running** • **stack space exhaustion** • **sprawling phishing campaign** • **scoops nestled inside** • **resources without limits** • **researchers null route** • **recommended immediate actions**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [ChatGPT's upcoming cross-platform feature is codenamed "Agora"](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/)
+- [Google plans to make Chrome for Android an agentic browser with Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/)
+- [Google's Personal Intelligence links Gmail, Photos and Search to Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/)
 - [OpenAI's hidden ChatGPT Translate tool takes on Google Translate](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/)
 - [South Korean giant Kyowon confirms data theft in ransomware attack](https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/)
 - [France fines Free Mobile €42 million over 2024 data breach incident](https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/)
 - [Exploit code public for critical FortiSIEM command injection flaw](https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/)
 - [Verizon Wireless outage puts phones in SOS mode without cell service](https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/)
-- [Microsoft updates Windows DLL that triggered security alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/)
-- [ConsentFix debrief: Insights from the new OAuth phishing attack](https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/)
-- [Reprompt attack hijacked Microsoft Copilot sessions for data theft](https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/)
 
 ### Krebs on Security
 
@@ -46,17 +46,6 @@
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 - [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 - [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
-
-### Dark Reading
-
-- [Retail, Services Industries Under Fire in Oceania](https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania)
-- [Microsoft Disrupts Cybercrime Service RedVDS](https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds)
-- [Secure Your Spot at RSAC 2026 Conference](https://www.darkreading.com/events/rsac-2026-conference)
-- ['VoidLink' Malware Poses Advanced Threat to Linux Systems](https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems)
-- [Taiwan Endures Greater Cyber Pressure From China](https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china)
-- [CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security](https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security)
-- [CISO Succession Crisis Highlights How Turnover Amplifies Security Risks](https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks)
-- ['Most Severe AI Vulnerability to Date' Hits ServiceNow](https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow)
 
 ### Security Week
 

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 174,
+      "count": 175,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -156,7 +156,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 343,
+      "count": 344,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1322,7 +1322,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1584,7 +1584,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2156,7 +2156,7 @@
       ]
     },
     "strong theme running": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2229,12 +2229,13 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-08",
         "2026-01-11",
         "2026-01-12",
-        "2026-01-14"
+        "2026-01-14",
+        "2026-01-15"
       ]
     },
     "next wave hits": {
@@ -2262,7 +2263,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2274,7 +2275,7 @@
       ]
     },
     "internal network behind": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2483,7 +2484,7 @@
       ]
     },
     "scoops nestled inside": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-11",
         "2026-01-13",
@@ -2746,10 +2747,11 @@
       ]
     },
     "resources without limits": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-13",
-        "2026-01-14"
+        "2026-01-14",
+        "2026-01-15"
       ]
     },
     "420 million news": {
@@ -2847,7 +2849,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2867,20 +2869,21 @@
       ]
     },
     "third party applications": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-14"
+        "2026-01-14",
+        "2026-01-15"
       ]
     },
     "stack space exhaustion": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "legitimate binary associated": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2907,7 +2910,7 @@
       ]
     },
     "114 flaws eight": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2927,39 +2930,34 @@
       ]
     },
     "researchers null route": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "ai security platform": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-14",
         "2026-01-15"
       ]
     },
     "kyowon group kyowon": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-14",
+        "2026-01-15"
+      ]
+    },
+    "codenamed agora openai": {
+      "count": 1,
+      "dates": [
         "2026-01-15"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-06 20:19",
-      "articles": 56,
-      "top_keywords": [
-        "ai generated code",
-        "mass creating fake",
-        "cyber risk trends",
-        "critical security vulnerability",
-        "nordvpn denies breach"
-      ]
-    },
     {
       "timestamp": "2026-01-06 22:17",
       "articles": 56,
@@ -4047,6 +4045,17 @@
         "twitter whistleblower complaint",
         "malicious cyber actors",
         "legitimate binary associated"
+      ]
+    },
+    {
+      "timestamp": "2026-01-15 04:36",
+      "articles": 48,
+      "top_keywords": [
+        "windows operating systems",
+        "twitter whistleblower complaint",
+        "malicious cyber actors",
+        "legitimate binary associated",
+        "cvss scoring system"
       ]
     }
   ]

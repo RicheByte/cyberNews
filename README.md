@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-15 03:27 UTC |
-| 📰 Articles Analyzed | 56 |
+| 🕐 Last Updated | 2026-01-15 04:36 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows operating systems` • `researchers null route` • `twitter whistleblower complaint` • `malicious cyber actors` • `legitimate binary associated` • `cvss scoring system` • `ai security platform` • `detection technology will` • `severe ai vulnerability` • `kyowon group kyowon`
+`windows operating systems` • `twitter whistleblower complaint` • `malicious cyber actors` • `legitimate binary associated` • `cvss scoring system` • `codenamed agora openai` • `ai security platform` • `kyowon group kyowon` • `internal network behind` • `114 flaws eight`
 
 ## 📄 Reports
 

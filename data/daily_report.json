@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-15 12:36",
+  "last_updated": "2026-01-15 14:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "law enforcement authorities",
-    "malicious cyber actors",
     "least 40 million",
+    "malicious cyber actors",
+    "law enforcement authorities",
     "windows operating systems",
     "twitter whistleblower complaint",
     "researchers null route",
     "legitimate binary associated",
-    "four limiting habits",
     "drivers without consent",
     "cvss scoring system",
     "codenamed agora openai",
     "detection technology will",
     "crowdstrike's falcon platform",
+    "law enforcement operation",
     "vulnerabilities earned microsoft's",
     "traveler information stolen",
     "long term access",
     "known exploited vulne",
     "internal network behind",
     "cross platform feature",
-    "bypass security controls"
+    "today we'll dig"
   ],
   "trending": [
     {
-      "keyword": "law enforcement authorities",
-      "mentions": 2
+      "keyword": "least 40 million",
+      "mentions": 4
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 179
+      "mentions": 180
     },
     {
-      "keyword": "least 40 million",
+      "keyword": "law enforcement authorities",
       "mentions": 3
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 88
+      "mentions": 89
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 348
+      "mentions": 349
     },
     {
       "keyword": "researchers null route",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "legitimate binary associated",
-      "mentions": 11
-    },
-    {
-      "keyword": "four limiting habits",
-      "mentions": 1
+      "mentions": 12
     },
     {
       "keyword": "drivers without consent",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 45
+      "mentions": 46
+    },
+    {
+      "keyword": "codenamed agora openai",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Model Security Is the Wrong Frame – The Real Risk Is Workflow Security",
+      "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+      "summary": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models. Two Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers",
+      "published": "Thu, 15 Jan 2026 17:25:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
@@ -142,15 +151,6 @@
         "Patch/update",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification",
-      "link": "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html",
-      "summary": "Research analyzing 4,700 leading websites reveals that 64% of third-party applications now access sensitive data without business justification, up from 51% in 2024. Government sector malicious activity spiked from 2% to 12.9%, while 1 in 7 Education sites show active compromise. Specific offenders: Google Tag Manager (8% of violations), Shopify (5%), Facebook Pixel (4%). Download the",
-      "published": "Wed, 14 Jan 2026 16:30:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -337,7 +337,7 @@
       "source": "Dark Reading",
       "title": "Microsoft Disrupts Cybercrime Service RedVDS",
       "link": "https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds",
-      "summary": "RedVDS, a cybercrime-as-a-service operation that has stolen millions from victims, lost two domains to a law enforcement operation supported by Microsoft.",
+      "summary": "RedVDS, a cybercrime-as-a-service operation that has stolen millions from victims, lost two domains to a law enforcement operation.",
       "published": "Wed, 14 Jan 2026 19:07:30 GMT",
       "value_score": 10,
       "value_signals": []
@@ -391,6 +391,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Depthfirst Raises $40 Million for Vulnerability Management",
+      "link": "https://www.securityweek.com/depthfirst-raises-40-million-for-vulnerability-management/",
+      "summary": "The startup will use the investment to accelerate R&D, expand go-to-market efforts, and hire new talent. The post Depthfirst Raises $40 Million for Vulnerability Management appeared first on SecurityWeek .",
+      "published": "Thu, 15 Jan 2026 13:42:51 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "isVerified Emerges From Stealth With Voice Deepfake Detection Apps",
+      "link": "https://www.securityweek.com/isverified-emerges-from-stealth-with-voice-deepfake-detection-apps/",
+      "summary": "isVerified provides Android and iOS mobile applications designed to protect enterprise communications. The post isVerified Emerges From Stealth With Voice Deepfake Detection Apps appeared first on SecurityWeek .",
+      "published": "Thu, 15 Jan 2026 13:05:24 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "New ‘Reprompt’ Attack Silently Siphons Microsoft Copilot Data",
       "link": "https://www.securityweek.com/new-reprompt-attack-silently-siphons-microsoft-copilot-data/",
       "summary": "The attack bypassed Copilot’s data leak protections and allowed for session exfiltration even after the Copilot chat was closed. The post New ‘Reprompt’ Attack Silently Siphons Microsoft Copilot Data appeared first on SecurityWeek .",
@@ -404,7 +422,7 @@
       "source": "Security Week",
       "title": "Central Maine Healthcare Data Breach Impacts 145,000 Individuals",
       "link": "https://www.securityweek.com/central-maine-healthcare-data-breach-impacts-145000-individuals/",
-      "summary": "Hackers stole patients’ personal, treatment, and health insurance information from the hospital’s IT systems. The post Central Maine Healthcare Data Breach Impacts 145,000 Individuals appeared first on SecurityWeek .",
+      "summary": "Hackers stole patients’ personal, treatment, and health insurance information from the organization’s IT systems. The post Central Maine Healthcare Data Breach Impacts 145,000 Individuals appeared first on SecurityWeek .",
       "published": "Thu, 15 Jan 2026 10:36:46 +0000",
       "value_score": 34,
       "value_signals": [
@@ -450,26 +468,6 @@
       "published": "Wed, 14 Jan 2026 18:01:10 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Investor Lawsuit Over CrowdStrike Outage Dismissed",
-      "link": "https://www.securityweek.com/investor-lawsuit-over-crowdstrike-outage-dismissed/",
-      "summary": "A judge has ruled that the plaintiffs failed to demonstrate intent to defraud investors. The post Investor Lawsuit Over CrowdStrike Outage Dismissed appeared first on SecurityWeek .",
-      "published": "Wed, 14 Jan 2026 17:13:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "RedVDS Cybercrime Service Disrupted by Microsoft and Law Enforcement",
-      "link": "https://www.securityweek.com/redvds-cybercrime-service-disrupted-by-microsoft-and-law-enforcement/",
-      "summary": "RedVDS enables threat actors to set up servers that can be used for phishing, BEC attacks, account takeover, and fraud. The post RedVDS Cybercrime Service Disrupted by Microsoft and Law Enforcement appeared first on SecurityWeek .",
-      "published": "Wed, 14 Jan 2026 15:00:00 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "Threatpost",

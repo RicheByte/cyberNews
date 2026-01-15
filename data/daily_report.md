@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-15 12:36 UTC  
+> **Last Updated:** 2026-01-15 14:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**law enforcement authorities** • **malicious cyber actors** • **least 40 million** • **windows operating systems** • **twitter whistleblower complaint** • **researchers null route** • **legitimate binary associated** • **four limiting habits** • **drivers without consent** • **cvss scoring system** • **codenamed agora openai** • **detection technology will** • **crowdstrike's falcon platform** • **vulnerabilities earned microsoft's** • **traveler information stolen** • **long term access** • **known exploited vulne** • **internal network behind** • **cross platform feature** • **bypass security controls**
+**least 40 million** • **malicious cyber actors** • **law enforcement authorities** • **windows operating systems** • **twitter whistleblower complaint** • **researchers null route** • **legitimate binary associated** • **drivers without consent** • **cvss scoring system** • **codenamed agora openai** • **detection technology will** • **crowdstrike's falcon platform** • **law enforcement operation** • **vulnerabilities earned microsoft's** • **traveler information stolen** • **long term access** • **known exploited vulne** • **internal network behind** • **cross platform feature** • **today we'll dig**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Model Security Is the Wrong Frame – The Real Risk Is Workflow Security](https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html)
 - [4 Outdated Habits Destroying Your SOC's MTTR in 2026](https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html)
 - [Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud](https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html)
 - [Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login](https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html)
@@ -23,7 +24,6 @@
 - [AI Agents Are Becoming Authorization Bypass Paths](https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html)
 - [Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware](https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html)
 - [Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution](https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html)
-- [New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification](https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Depthfirst Raises $40 Million for Vulnerability Management](https://www.securityweek.com/depthfirst-raises-40-million-for-vulnerability-management/)
+- [isVerified Emerges From Stealth With Voice Deepfake Detection Apps](https://www.securityweek.com/isverified-emerges-from-stealth-with-voice-deepfake-detection-apps/)
 - [New ‘Reprompt’ Attack Silently Siphons Microsoft Copilot Data](https://www.securityweek.com/new-reprompt-attack-silently-siphons-microsoft-copilot-data/)
 - [Central Maine Healthcare Data Breach Impacts 145,000 Individuals](https://www.securityweek.com/central-maine-healthcare-data-breach-impacts-145000-individuals/)
 - [VoidLink Linux Malware Framework Targets Cloud Environments](https://www.securityweek.com/voidlink-linux-malware-framework-targets-cloud-environments/)
 - [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Aveva, Phoenix Contact](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-aveva-phoenix-contact/)
 - [Traveler Information Stolen in Eurail Data Breach](https://www.securityweek.com/traveler-information-stolen-in-eurail-data-breach/)
 - [Aikido Security Raises $60 Million at $1 Billion Valuation](https://www.securityweek.com/aikido-security-raises-60-million-at-1-billion-valuation/)
-- [Investor Lawsuit Over CrowdStrike Outage Dismissed](https://www.securityweek.com/investor-lawsuit-over-crowdstrike-outage-dismissed/)
-- [RedVDS Cybercrime Service Disrupted by Microsoft and Law Enforcement](https://www.securityweek.com/redvds-cybercrime-service-disrupted-by-microsoft-and-law-enforcement/)
 
 ### Threatpost
 

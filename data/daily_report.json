@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-01-15 18:30",
+  "last_updated": "2026-01-15 20:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "least 40 million",
     "amd processors researchers",
     "telecontrol server basic",
+    "copilot studio extension",
     "sinec security monitor",
     "siemens ruggedcom ros",
     "security problems show",
@@ -20,50 +21,49 @@
     "auditability collide daily",
     "detection technology will",
     "crowdstrike's falcon platform",
-    "respective security advisories",
-    "redis model security",
-    "national security risk"
+    "cross platform feature",
+    "online fraud microsoft"
   ],
   "trending": [
     {
       "keyword": "least 40 million",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "amd processors researchers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "telecontrol server basic",
+      "mentions": 2
+    },
+    {
+      "keyword": "copilot studio extension",
       "mentions": 1
     },
     {
       "keyword": "sinec security monitor",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "security problems show",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "law enforcement authorities",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 91
+      "mentions": 92
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 351
-    },
-    {
-      "keyword": "researchers null route",
-      "mentions": 12
+      "mentions": 352
     }
   ],
   "articles": [
@@ -156,6 +156,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Verizon blames nationwide outage on a \"software issue\"",
+      "link": "https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/",
+      "summary": "Verizon has confirmed that yesterday's nationwide wireless outage was caused by a software issue, though the company has not shared additional details about what went wrong. [...]",
+      "published": "Thu, 15 Jan 2026 15:13:54 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft Copilot Studio extension for VS Code now publicly available",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/",
+      "summary": "Microsoft announced that the Copilot Studio extension for the Visual Studio Code (VS Code) integrated development environment is now available to all users. [...]",
+      "published": "Thu, 15 Jan 2026 14:08:13 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices",
       "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
       "summary": "A critical vulnerability in Google's Fast Pair protocol can allow attackers to hijack Bluetooth audio accessories like wireless headphones and earbuds, track users, and eavesdrop on their conversations. [...]",
@@ -207,24 +225,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/",
       "summary": "OpenAI is internally testing a new feature called \"Agora,\" and it could be related to some sort of cross-platform feature that works in real time or some other new product. [...]",
       "published": "Wed, 14 Jan 2026 22:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google plans to make Chrome for Android an agentic browser with Gemini",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/",
-      "summary": "Google appears to be testing a new feature that integrates Gemini into Chrome for Android, allowing you to use agentic browser capabilities on your mobile device. [...]",
-      "published": "Wed, 14 Jan 2026 20:30:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google's Personal Intelligence links Gmail, Photos and Search to Gemini",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/",
-      "summary": "Google is rolling out 'Personal Intelligence,' a new Gemini feature that pulls your data from Gmail, Photos, Google Search, and other products. [...]",
-      "published": "Wed, 14 Jan 2026 19:00:00 -0500",
       "value_score": 10,
       "value_signals": []
     },

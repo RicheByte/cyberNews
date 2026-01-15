@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -156,7 +156,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 351,
+      "count": 352,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1777,7 +1777,7 @@
       ]
     },
     "internet router probably": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -2144,7 +2144,7 @@
       ]
     },
     "security problems show": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-08",
         "2026-01-09",
@@ -2920,7 +2920,7 @@
       ]
     },
     "detection technology will": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2933,7 +2933,7 @@
       ]
     },
     "researchers null route": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-14",
         "2026-01-15"
@@ -2954,7 +2954,7 @@
       ]
     },
     "codenamed agora openai": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-15"
       ]
@@ -2966,31 +2966,31 @@
       ]
     },
     "least 40 million": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-15"
       ]
     },
     "crowdstrike's falcon platform": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-15"
       ]
     },
     "cross platform feature": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-15"
       ]
     },
     "law enforcement authorities": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-15"
       ]
     },
     "drivers without consent": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-15"
       ]
@@ -3038,7 +3038,7 @@
       ]
     },
     "auditability collide daily": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-15"
       ]
@@ -3062,31 +3062,31 @@
       ]
     },
     "amd processors researchers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-15"
       ]
     },
     "telecontrol server basic": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-15"
       ]
     },
     "sinec security monitor": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-15"
       ]
     },
     "siemens ruggedcom ros": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-15"
       ]
     },
     "protect enterprise communications": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-15"
       ]
@@ -3102,20 +3102,21 @@
       "dates": [
         "2026-01-15"
       ]
+    },
+    "copilot studio extension": {
+      "count": 1,
+      "dates": [
+        "2026-01-15"
+      ]
+    },
+    "online fraud microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-01-15"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-07 12:36",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus hunters",
-        "ai generated code",
-        "cyber risk trends",
-        "don't drop binaries",
-        "cve 2025 54957"
-      ]
-    },
     {
       "timestamp": "2026-01-07 14:20",
       "articles": 56,
@@ -4203,6 +4204,17 @@
         "telecontrol server basic",
         "sinec security monitor",
         "siemens ruggedcom ros"
+      ]
+    },
+    {
+      "timestamp": "2026-01-15 20:20",
+      "articles": 56,
+      "top_keywords": [
+        "least 40 million",
+        "amd processors researchers",
+        "telecontrol server basic",
+        "copilot studio extension",
+        "sinec security monitor"
       ]
     }
   ]

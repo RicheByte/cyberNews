@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-15 18:30 UTC  
+> **Last Updated:** 2026-01-15 20:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**least 40 million** • **amd processors researchers** • **telecontrol server basic** • **sinec security monitor** • **siemens ruggedcom ros** • **security problems show** • **law enforcement authorities** • **windows operating systems** • **twitter whistleblower complaint** • **researchers null route** • **protect enterprise communications** • **internet router probably** • **drivers without consent** • **codenamed agora openai** • **auditability collide daily** • **detection technology will** • **crowdstrike's falcon platform** • **respective security advisories** • **redis model security** • **national security risk**
+**least 40 million** • **amd processors researchers** • **telecontrol server basic** • **copilot studio extension** • **sinec security monitor** • **siemens ruggedcom ros** • **security problems show** • **law enforcement authorities** • **windows operating systems** • **twitter whistleblower complaint** • **researchers null route** • **protect enterprise communications** • **internet router probably** • **drivers without consent** • **codenamed agora openai** • **auditability collide daily** • **detection technology will** • **crowdstrike's falcon platform** • **cross platform feature** • **online fraud microsoft**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Verizon blames nationwide outage on a "software issue"](https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/)
+- [Microsoft Copilot Studio extension for VS Code now publicly available](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/)
 - [Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices](https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/)
 - [How to automate just-in-time access to applications with Tines](https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/)
 - [FTC bans GM from selling drivers' location data for five years](https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/)
 - [Palo Alto Networks warns of DoS bug letting hackers disable firewalls](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/)
 - [Microsoft disrupts massive RedVDS cybercrime virtual desktop service](https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/)
 - [ChatGPT's upcoming cross-platform feature is codenamed "Agora"](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/)
-- [Google plans to make Chrome for Android an agentic browser with Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/)
-- [Google's Personal Intelligence links Gmail, Photos and Search to Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/)
 
 ### Krebs on Security
 

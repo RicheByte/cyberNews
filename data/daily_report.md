@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-16 10:18 UTC  
+> **Last Updated:** 2026-01-16 12:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**amd processors researchers** • **telecontrol server basic** • **maximum severity flaw** • **sinec security monitor** • **supply chain governance** • **security problems show** • **siemens ruggedcom ros** • **cisco secure email** • **twitter whistleblower complaint** • **github repositories including** • **1 000 archives** • **xyz gmail com** • **abc gmail com** • **windows operating systems** • **respective security advisories** • **redis model security** • **nation s ability** • **krebsonsecurity com celebrates** • **internal network behind** • **gmail com address**
+**amd processors researchers** • **telecontrol server basic** • **sinec security monitor** • **cybersecurity firms react** • **zip archive us** • **supply chain governance** • **750 000 impacted** • **1 000 archives** • **security problems show** • **windows operating systems** • **siemens ruggedcom ros** • **pop email accounts** • **cisco secure email** • **twitter whistleblower complaint** • **github repositories including** • **130 companies tangled** • **xyz gmail com** • **abc gmail com** • **respective security advisories** • **windows pcs fail**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Your Digital Footprint Can Lead Right to Your Front Door](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html)
+- [LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing](https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html)
 - [China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure](https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html)
 - [Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways](https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html)
 - [AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks](https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html)
 - [Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html)
 - [Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot](https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html)
 - [ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html)
-- [Model Security Is the Wrong Frame – The Real Risk Is Workflow Security](https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html)
-- [4 Outdated Habits Destroying Your SOC's MTTR in 2026](https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html)
 
 ### BleepingComputer
 
+- [Microsoft: Windows 11 update causes Outlook freezes for POP users](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/)
+- [Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/)
 - [Cisco finally fixes AsyncOS zero-day exploited since November](https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/)
 - [Microsoft: Some Windows PCs fail to shut down after January update](https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/)
 - [Google now lets you change your @gmail.com address, rolling out](https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/)
 - [ChatGPT is now more reliable at finding and remembering your past chat](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/)
 - [Gootloader now uses 1,000-part ZIP archives for stealthy delivery](https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/)
 - [Grubhub confirms hackers stole data in recent security breach](https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/)
-- [Hackers exploit Modular DS WordPress plugin flaw for admin access](https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/)
-- [Verizon blames nationwide outage on a "software issue"](https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [750,000 Impacted by Data Breach at Canadian Investment Watchdog](https://www.securityweek.com/750000-impacted-by-data-breach-at-canadian-investment-watchdog/)
+- [Cyber Insights 2026: Social Engineering](https://www.securityweek.com/cyber-insights-2026-social-engineering/)
+- [WhisperPair Attack Leaves Millions of Audio Accessories Open to Hijacking](https://www.securityweek.com/whisperpair-attack-leaves-millions-of-bluetooth-accessories-open-to-hijacking/)
+- [Cybersecurity Firms React to China’s Reported Software Ban](https://www.securityweek.com/cybersecurity-firms-react-to-chinas-reported-software-ban/)
 - [Cisco Patches Vulnerability Exploited by Chinese Hackers](https://www.securityweek.com/cisco-patches-vulnerability-exploited-by-chinese-hackers/)
 - [Former CISA Director Jen Easterly Appointed CEO of RSAC](https://www.securityweek.com/former-cisa-director-jen-easterly-appointed-ceo-of-rsac/)
 - [Forget Predictions: True 2026 Cybersecurity Priorities From Leaders](https://www.securityweek.com/forget-predictions-true-2026-cybersecurity-priorities-from-leaders/)
 - [New ‘StackWarp’ Attack Threatens Confidential VMs on AMD Processors](https://www.securityweek.com/new-stackwarp-attack-threatens-confidential-vms-on-amd-processors/)
-- [Vibe Coding Tested: AI Agents Nail SQLi but Fail Miserably on Security Controls](https://www.securityweek.com/vibe-coding-tested-ai-agents-nail-sqli-but-fail-miserably-on-security-controls/)
-- [Depthfirst Raises $40 Million for Vulnerability Management](https://www.securityweek.com/depthfirst-raises-40-million-for-vulnerability-management/)
-- [isVerified Emerges From Stealth With Voice Deepfake Detection Apps](https://www.securityweek.com/isverified-emerges-from-stealth-with-voice-deepfake-detection-apps/)
-- [New ‘Reprompt’ Attack Silently Siphons Microsoft Copilot Data](https://www.securityweek.com/new-reprompt-attack-silently-siphons-microsoft-copilot-data/)
 
 ### Threatpost
 

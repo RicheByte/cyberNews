@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -157,7 +157,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 359,
+      "count": 360,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1845,13 +1845,14 @@
       ]
     },
     "130 companies tangled": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-05",
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
-        "2026-01-12"
+        "2026-01-12",
+        "2026-01-16"
       ]
     },
     "corporate data stolen": {
@@ -2148,7 +2149,7 @@
       ]
     },
     "security problems show": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-08",
         "2026-01-09",
@@ -3069,28 +3070,28 @@
       ]
     },
     "amd processors researchers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "telecontrol server basic": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "sinec security monitor": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "siemens ruggedcom ros": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-15",
         "2026-01-16"
@@ -3103,7 +3104,7 @@
       ]
     },
     "respective security advisories": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-15",
         "2026-01-16"
@@ -3138,33 +3139,33 @@
       ]
     },
     "supply chain governance": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "github repositories including": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "1 000 archives": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-16"
       ]
     },
     "xyz gmail com": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-16"
       ]
     },
     "abc gmail com": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-16"
       ]
@@ -3176,7 +3177,7 @@
       ]
     },
     "cisco secure email": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-16"
       ]
@@ -3186,20 +3187,39 @@
       "dates": [
         "2026-01-16"
       ]
+    },
+    "cybersecurity firms react": {
+      "count": 1,
+      "dates": [
+        "2026-01-16"
+      ]
+    },
+    "zip archive us": {
+      "count": 1,
+      "dates": [
+        "2026-01-16"
+      ]
+    },
+    "750 000 impacted": {
+      "count": 1,
+      "dates": [
+        "2026-01-16"
+      ]
+    },
+    "pop email accounts": {
+      "count": 1,
+      "dates": [
+        "2026-01-16"
+      ]
+    },
+    "windows pcs fail": {
+      "count": 1,
+      "dates": [
+        "2026-01-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-08 04:35",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus hunters",
-        "2025 analysis 2025",
-        "cybercrime gang known",
-        "ai generated code",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-08 06:27",
       "articles": 56,
@@ -4287,6 +4307,17 @@
         "maximum severity flaw",
         "sinec security monitor",
         "supply chain governance"
+      ]
+    },
+    {
+      "timestamp": "2026-01-16 12:35",
+      "articles": 56,
+      "top_keywords": [
+        "amd processors researchers",
+        "telecontrol server basic",
+        "sinec security monitor",
+        "cybersecurity firms react",
+        "zip archive us"
       ]
     }
   ]

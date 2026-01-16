@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16 04:35",
+  "last_updated": "2026-01-16 06:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,6 +8,7 @@
     "maximum severity flaw",
     "sinec security monitor",
     "copilot studio extension",
+    "cisco secure email",
     "supply chain governance",
     "security problems show",
     "siemens ruggedcom ros",
@@ -21,52 +22,65 @@
     "abc gmail com",
     "respective security advisories",
     "redis model security",
-    "online fraud microsoft",
-    "krebsonsecurity com celebrates"
+    "online fraud microsoft"
   ],
   "trending": [
     {
       "keyword": "amd processors researchers",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "maximum severity flaw",
-      "mentions": 4
-    },
-    {
-      "keyword": "sinec security monitor",
-      "mentions": 6
-    },
-    {
-      "keyword": "copilot studio extension",
       "mentions": 5
     },
     {
-      "keyword": "supply chain governance",
-      "mentions": 4
+      "keyword": "sinec security monitor",
+      "mentions": 7
     },
     {
-      "keyword": "security problems show",
-      "mentions": 22
-    },
-    {
-      "keyword": "siemens ruggedcom ros",
+      "keyword": "copilot studio extension",
       "mentions": 6
     },
     {
-      "keyword": "law enforcement authorities",
-      "mentions": 10
+      "keyword": "cisco secure email",
+      "mentions": 1
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 96
+      "keyword": "supply chain governance",
+      "mentions": 5
+    },
+    {
+      "keyword": "security problems show",
+      "mentions": 23
+    },
+    {
+      "keyword": "siemens ruggedcom ros",
+      "mentions": 7
+    },
+    {
+      "keyword": "law enforcement authorities",
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways",
+      "link": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html",
+      "summary": "Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager, nearly a month after the company disclosed that it had been exploited as a zero-day by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686. The vulnerability, tracked as CVE-2025-20393 (CVSS",
+      "published": "Fri, 16 Jan 2026 11:08:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "RCE",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
@@ -141,19 +155,6 @@
       "published": "Thu, 15 Jan 2026 15:07:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
-      "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
-      "summary": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit. The vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for",
-      "published": "Thu, 15 Jan 2026 13:48:00 +0530",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "PoC available",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -157,7 +157,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 356,
+      "count": 357,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1779,7 +1779,7 @@
       ]
     },
     "internet router probably": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -2147,7 +2147,7 @@
       ]
     },
     "security problems show": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-08",
         "2026-01-09",
@@ -2988,7 +2988,7 @@
       ]
     },
     "law enforcement authorities": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-15",
         "2026-01-16"
@@ -3067,28 +3067,28 @@
       ]
     },
     "amd processors researchers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "telecontrol server basic": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "sinec security monitor": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "siemens ruggedcom ros": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-15",
         "2026-01-16"
@@ -3101,68 +3101,68 @@
       ]
     },
     "respective security advisories": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "redis model security": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "copilot studio extension": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "online fraud microsoft": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "maximum severity flaw": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "supply chain governance": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "github repositories including": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "1 000 archives": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-16"
       ]
     },
     "xyz gmail com": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-16"
       ]
     },
     "abc gmail com": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-16"
       ]
@@ -3172,20 +3172,15 @@
       "dates": [
         "2026-01-16"
       ]
+    },
+    "cisco secure email": {
+      "count": 1,
+      "dates": [
+        "2026-01-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-07 22:16",
-      "articles": 48,
-      "top_keywords": [
-        "2025 analysis 2025",
-        "address multiple flaws",
-        "twitter whistleblower complaint",
-        "fintech company stepped",
-        "fake blue screen"
-      ]
-    },
     {
       "timestamp": "2026-01-08 01:19",
       "articles": 56,
@@ -4266,6 +4261,17 @@
     },
     {
       "timestamp": "2026-01-16 04:35",
+      "articles": 56,
+      "top_keywords": [
+        "amd processors researchers",
+        "telecontrol server basic",
+        "maximum severity flaw",
+        "sinec security monitor",
+        "copilot studio extension"
+      ]
+    },
+    {
+      "timestamp": "2026-01-16 06:27",
       "articles": 56,
       "top_keywords": [
         "amd processors researchers",

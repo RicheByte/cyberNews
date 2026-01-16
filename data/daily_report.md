@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-16 04:35 UTC  
+> **Last Updated:** 2026-01-16 06:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**amd processors researchers** • **telecontrol server basic** • **maximum severity flaw** • **sinec security monitor** • **copilot studio extension** • **supply chain governance** • **security problems show** • **siemens ruggedcom ros** • **law enforcement authorities** • **windows operating systems** • **twitter whistleblower complaint** • **internet router probably** • **github repositories including** • **1 000 archives** • **xyz gmail com** • **abc gmail com** • **respective security advisories** • **redis model security** • **online fraud microsoft** • **krebsonsecurity com celebrates**
+**amd processors researchers** • **telecontrol server basic** • **maximum severity flaw** • **sinec security monitor** • **copilot studio extension** • **cisco secure email** • **supply chain governance** • **security problems show** • **siemens ruggedcom ros** • **law enforcement authorities** • **windows operating systems** • **twitter whistleblower complaint** • **internet router probably** • **github repositories including** • **1 000 archives** • **xyz gmail com** • **abc gmail com** • **respective security advisories** • **redis model security** • **online fraud microsoft**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways](https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html)
 - [AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks](https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html)
 - [Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html)
 - [Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot](https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html)
@@ -23,7 +24,6 @@
 - [Model Security Is the Wrong Frame – The Real Risk Is Workflow Security](https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html)
 - [4 Outdated Habits Destroying Your SOC's MTTR in 2026](https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html)
 - [Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud](https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html)
-- [Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login](https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html)
 
 ### BleepingComputer
 

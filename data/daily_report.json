@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-16 14:19",
+  "last_updated": "2026-01-16 16:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "amd processors researchers",
     "telecontrol server basic",
     "sinec security monitor",
-    "1 000 archives",
+    "windows operating systems",
     "cybersecurity firms react",
     "zip archive us",
-    "supply chain governance",
-    "security problems show",
+    "750 000 impacted",
+    "1 000 archives",
+    "cisco secure email",
     "siemens ruggedcom ros",
     "pop email accounts",
-    "cisco secure email",
-    "windows operating systems",
     "twitter whistleblower complaint",
     "github repositories including",
     "130 companies tangled",
+    "respective security advisories",
+    "post quantum security",
     "xyz gmail com",
     "abc gmail com",
-    "respective security advisories",
     "windows pcs fail",
-    "ciro member firms"
+    "ciro member firms",
+    "krebsonsecurity com celebrates"
   ],
   "trending": [
     {
-      "keyword": "amd processors researchers",
-      "mentions": 11
-    },
-    {
       "keyword": "telecontrol server basic",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "sinec security monitor",
-      "mentions": 11
+      "mentions": 12
     },
     {
-      "keyword": "1 000 archives",
-      "mentions": 8
+      "keyword": "windows operating systems",
+      "mentions": 102
     },
     {
       "keyword": "cybersecurity firms react",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "zip archive us",
+      "mentions": 3
+    },
+    {
+      "keyword": "750 000 impacted",
       "mentions": 2
     },
     {
-      "keyword": "supply chain governance",
+      "keyword": "1 000 archives",
       "mentions": 9
     },
     {
-      "keyword": "security problems show",
-      "mentions": 27
+      "keyword": "cisco secure email",
+      "mentions": 6
     },
     {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "pop email accounts",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
+      "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
+      "summary": "Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Workday, NetSuite, and SuccessFactors to take control of victim accounts. \"The extensions work in concert to steal authentication tokens, block incident response capabilities, and enable complete account",
+      "published": "Fri, 16 Jan 2026 19:39:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Your Digital Footprint Can Lead Right to Your Front Door",
@@ -152,16 +161,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
-      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
-      "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere. This week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in. Read on to catch up before the next wave hits. Unauthenticated RCE risk Security Flaw in Redis",
-      "published": "Thu, 15 Jan 2026 19:26:00 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "RCE",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Verizon starts issuing $20 credits after nationwide outage",
+      "link": "https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/",
+      "summary": "Verizon has begun sending text messages with instructions on how to redeem a $20 account credit for last week's nationwide wireless outage. [...]",
+      "published": "Fri, 16 Jan 2026 11:19:47 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -235,17 +241,6 @@
       "published": "Thu, 15 Jan 2026 17:54:34 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Grubhub confirms hackers stole data in recent security breach",
-      "link": "https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/",
-      "summary": "Food delivery platform Grubhub has confirmed a recent data breach after hackers accessed its systems, with sources telling BleepingComputer the company is now facing extortion demands. [...]",
-      "published": "Thu, 15 Jan 2026 16:38:51 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -334,6 +329,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "CISOs Rise to Prominence: Security Leaders Join the Executive Suite",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite",
+      "summary": "Security professionals are moving on up the executive ranks as enterprises face rising regulatory and compliance standards.",
+      "published": "Fri, 16 Jan 2026 15:25:40 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI System Reduces Attack Reconstruction Time From Weeks to Hours",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-system-attack-reconstruction-weeks-hours",
       "summary": "Pacific Northwest National Labs' expert cybersecurity system, ALOHA, can recreate attacks and test them against organizations' infrastructure to bolster defense.",
@@ -400,11 +404,31 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Secure Your Spot at RSAC 2026 Conference",
-      "link": "https://www.darkreading.com/events/rsac-2026-conference",
-      "summary": "",
-      "published": "2026-03-23T11:00:00.000Z",
+      "source": "Security Week",
+      "title": "In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack",
+      "link": "https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: BodySnatcher agentic AI hijacking, Telegram IP exposure, shipping systems hacked by researcher. The post In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack appeared first on SecurityWeek .",
+      "published": "Fri, 16 Jan 2026 16:14:58 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Monnai Raises $12 Million for Identity and Risk Data Infrastructure",
+      "link": "https://www.securityweek.com/monnai-raises-12-million-for-identity-and-risk-data-infrastructure/",
+      "summary": "The company will use the investment to accelerate the adoption of its solution among financial institutions and digital businesses. The post Monnai Raises $12 Million for Identity and Risk Data Infrastructure appeared first on SecurityWeek .",
+      "published": "Fri, 16 Jan 2026 14:51:53 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Project Eleven Raises $20 Million for Post-Quantum Security",
+      "link": "https://www.securityweek.com/project-eleven-raises-20-million-for-post-quantum-security/",
+      "summary": "The startup is building the necessary infrastructure and tools to help organizations transition to post-quantum computing. The post Project Eleven Raises $20 Million for Post-Quantum Security appeared first on SecurityWeek .",
+      "published": "Fri, 16 Jan 2026 14:21:30 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -458,37 +482,6 @@
       "value_signals": [
         "Backdoor",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Former CISA Director Jen Easterly Appointed CEO of RSAC",
-      "link": "https://www.securityweek.com/former-cisa-director-jen-easterly-appointed-ceo-of-rsac/",
-      "summary": "Easterly will be leading the world-renowned cybersecurity conference and other RSAC programs. The post Former CISA Director Jen Easterly Appointed CEO of RSAC appeared first on SecurityWeek .",
-      "published": "Fri, 16 Jan 2026 07:54:57 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CISA/KEV ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Forget Predictions: True 2026 Cybersecurity Priorities From Leaders",
-      "link": "https://www.securityweek.com/forget-predictions-true-2026-cybersecurity-priorities-from-leaders/",
-      "summary": "Security leaders chart course beyond predictions with focus on supply chain, governance, and team efficiency. The post Forget Predictions: True 2026 Cybersecurity Priorities From Leaders appeared first on SecurityWeek .",
-      "published": "Thu, 15 Jan 2026 18:15:34 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New ‘StackWarp’ Attack Threatens Confidential VMs on AMD Processors",
-      "link": "https://www.securityweek.com/new-stackwarp-attack-threatens-confidential-vms-on-amd-processors/",
-      "summary": "Researchers have disclosed technical details on a new AMD processor attack that allows remote code execution inside confidential VMs. The post New ‘StackWarp’ Attack Threatens Confidential VMs on AMD Processors appeared first on SecurityWeek .",
-      "published": "Thu, 15 Jan 2026 18:00:00 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-16 14:19 UTC  
+> **Last Updated:** 2026-01-16 16:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**amd processors researchers** • **telecontrol server basic** • **sinec security monitor** • **1 000 archives** • **cybersecurity firms react** • **zip archive us** • **supply chain governance** • **security problems show** • **siemens ruggedcom ros** • **pop email accounts** • **cisco secure email** • **windows operating systems** • **twitter whistleblower complaint** • **github repositories including** • **130 companies tangled** • **xyz gmail com** • **abc gmail com** • **respective security advisories** • **windows pcs fail** • **ciro member firms**
+**telecontrol server basic** • **sinec security monitor** • **windows operating systems** • **cybersecurity firms react** • **zip archive us** • **750 000 impacted** • **1 000 archives** • **cisco secure email** • **siemens ruggedcom ros** • **pop email accounts** • **twitter whistleblower complaint** • **github repositories including** • **130 companies tangled** • **respective security advisories** • **post quantum security** • **xyz gmail com** • **abc gmail com** • **windows pcs fail** • **ciro member firms** • **krebsonsecurity com celebrates**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html)
 - [Your Digital Footprint Can Lead Right to Your Front Door](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html)
 - [LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing](https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html)
 - [China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure](https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html)
@@ -23,10 +24,10 @@
 - [AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks](https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html)
 - [Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html)
 - [Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot](https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html)
-- [ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html)
 
 ### BleepingComputer
 
+- [Verizon starts issuing $20 credits after nationwide outage](https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/)
 - [Microsoft: Windows 11 update causes Outlook freezes for POP users](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/)
 - [Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/)
 - [Cisco finally fixes AsyncOS zero-day exploited since November](https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/)
@@ -34,7 +35,6 @@
 - [Google now lets you change your @gmail.com address, rolling out](https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/)
 - [ChatGPT is now more reliable at finding and remembering your past chat](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/)
 - [Gootloader now uses 1,000-part ZIP archives for stealthy delivery](https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/)
-- [Grubhub confirms hackers stole data in recent security breach](https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [CISOs Rise to Prominence: Security Leaders Join the Executive Suite](https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite)
 - [AI System Reduces Attack Reconstruction Time From Weeks to Hours](https://www.darkreading.com/cybersecurity-operations/ai-system-attack-reconstruction-weeks-hours)
 - [Predator Spyware Sample Indicates 'Vendor-Controlled' C2](https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2)
 - [Winter Olympics Could Share Podium With Cyberattackers](https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers)
@@ -56,18 +57,17 @@
 - [Trio of Critical Bugs Spotted in Delta Industrial PLCs](https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs)
 - [Retail, Services Industries Under Fire in Oceania](https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania)
 - [Microsoft Disrupts Cybercrime Service RedVDS](https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds)
-- [Secure Your Spot at RSAC 2026 Conference](https://www.darkreading.com/events/rsac-2026-conference)
 
 ### Security Week
 
+- [In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack](https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/)
+- [Monnai Raises $12 Million for Identity and Risk Data Infrastructure](https://www.securityweek.com/monnai-raises-12-million-for-identity-and-risk-data-infrastructure/)
+- [Project Eleven Raises $20 Million for Post-Quantum Security](https://www.securityweek.com/project-eleven-raises-20-million-for-post-quantum-security/)
 - [750,000 Impacted by Data Breach at Canadian Investment Watchdog](https://www.securityweek.com/750000-impacted-by-data-breach-at-canadian-investment-watchdog/)
 - [Cyber Insights 2026: Social Engineering](https://www.securityweek.com/cyber-insights-2026-social-engineering/)
 - [WhisperPair Attack Leaves Millions of Audio Accessories Open to Hijacking](https://www.securityweek.com/whisperpair-attack-leaves-millions-of-bluetooth-accessories-open-to-hijacking/)
 - [Cybersecurity Firms React to China’s Reported Software Ban](https://www.securityweek.com/cybersecurity-firms-react-to-chinas-reported-software-ban/)
 - [Cisco Patches Vulnerability Exploited by Chinese Hackers](https://www.securityweek.com/cisco-patches-vulnerability-exploited-by-chinese-hackers/)
-- [Former CISA Director Jen Easterly Appointed CEO of RSAC](https://www.securityweek.com/former-cisa-director-jen-easterly-appointed-ceo-of-rsac/)
-- [Forget Predictions: True 2026 Cybersecurity Priorities From Leaders](https://www.securityweek.com/forget-predictions-true-2026-cybersecurity-priorities-from-leaders/)
-- [New ‘StackWarp’ Attack Threatens Confidential VMs on AMD Processors](https://www.securityweek.com/new-stackwarp-attack-threatens-confidential-vms-on-amd-processors/)
 
 ### Threatpost
 

@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 101,
+      "count": 102,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -157,7 +157,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 361,
+      "count": 362,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1845,7 +1845,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3077,21 +3077,21 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "sinec security monitor": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "siemens ruggedcom ros": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-15",
         "2026-01-16"
@@ -3104,7 +3104,7 @@
       ]
     },
     "respective security advisories": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-15",
         "2026-01-16"
@@ -3146,38 +3146,38 @@
       ]
     },
     "github repositories including": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "1 000 archives": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-16"
       ]
     },
     "xyz gmail com": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-16"
       ]
     },
     "abc gmail com": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-16"
       ]
     },
     "krebsonsecurity com celebrates": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-16"
       ]
     },
     "cisco secure email": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-16"
       ]
@@ -3189,36 +3189,42 @@
       ]
     },
     "cybersecurity firms react": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-16"
       ]
     },
     "zip archive us": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-16"
       ]
     },
     "750 000 impacted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-16"
       ]
     },
     "pop email accounts": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-16"
       ]
     },
     "windows pcs fail": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-16"
       ]
     },
     "ciro member firms": {
+      "count": 2,
+      "dates": [
+        "2026-01-16"
+      ]
+    },
+    "post quantum security": {
       "count": 1,
       "dates": [
         "2026-01-16"
@@ -3226,17 +3232,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-08 08:24",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus hunters",
-        "2025 analysis 2025",
-        "twitter whistleblower complaint",
-        "run arbitrary commands",
-        "prolific cybercriminal group"
-      ]
-    },
     {
       "timestamp": "2026-01-08 10:19",
       "articles": 56,
@@ -4324,6 +4319,17 @@
         "sinec security monitor",
         "1 000 archives",
         "cybersecurity firms react"
+      ]
+    },
+    {
+      "timestamp": "2026-01-16 16:22",
+      "articles": 56,
+      "top_keywords": [
+        "telecontrol server basic",
+        "sinec security monitor",
+        "windows operating systems",
+        "cybersecurity firms react",
+        "zip archive us"
       ]
     }
   ]

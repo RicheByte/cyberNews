@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16 06:27",
+  "last_updated": "2026-01-16 08:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "amd processors researchers",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "maximum severity flaw",
-      "mentions": 5
-    },
-    {
-      "keyword": "sinec security monitor",
-      "mentions": 7
-    },
-    {
-      "keyword": "copilot studio extension",
       "mentions": 6
     },
     {
-      "keyword": "cisco secure email",
-      "mentions": 1
+      "keyword": "sinec security monitor",
+      "mentions": 8
     },
     {
-      "keyword": "supply chain governance",
-      "mentions": 5
-    },
-    {
-      "keyword": "security problems show",
-      "mentions": 23
-    },
-    {
-      "keyword": "siemens ruggedcom ros",
+      "keyword": "copilot studio extension",
       "mentions": 7
     },
     {
+      "keyword": "cisco secure email",
+      "mentions": 2
+    },
+    {
+      "keyword": "supply chain governance",
+      "mentions": 6
+    },
+    {
+      "keyword": "security problems show",
+      "mentions": 24
+    },
+    {
+      "keyword": "siemens ruggedcom ros",
+      "mentions": 8
+    },
+    {
       "keyword": "law enforcement authorities",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
@@ -225,8 +225,8 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
+      "title": "Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-whisperpair-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
       "summary": "A critical vulnerability in Google's Fast Pair protocol can allow attackers to hijack Bluetooth audio accessories like wireless headphones and earbuds, track users, and eavesdrop on their conversations. [...]",
       "published": "Thu, 15 Jan 2026 11:13:54 -0500",
       "value_score": 26,
@@ -397,6 +397,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Former CISA Director Jen Easterly Appointed CEO of RSAC",
+      "link": "https://www.securityweek.com/former-cisa-director-jen-easterly-appointed-ceo-of-rsac/",
+      "summary": "Easterly will be leading the world-renowned cybersecurity conference and other RSAC programs. The post Former CISA Director Jen Easterly Appointed CEO of RSAC appeared first on SecurityWeek .",
+      "published": "Fri, 16 Jan 2026 07:54:57 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Forget Predictions: True 2026 Cybersecurity Priorities From Leaders",
       "link": "https://www.securityweek.com/forget-predictions-true-2026-cybersecurity-priorities-from-leaders/",
       "summary": "Security leaders chart course beyond predictions with focus on supply chain, governance, and team efficiency. The post Forget Predictions: True 2026 Cybersecurity Priorities From Leaders appeared first on SecurityWeek .",
@@ -463,15 +474,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "VoidLink Linux Malware Framework Targets Cloud Environments",
-      "link": "https://www.securityweek.com/voidlink-linux-malware-framework-targets-cloud-environments/",
-      "summary": "Designed for long-term access, the framework targets cloud and container environments with loaders, implants, and rootkits. The post VoidLink Linux Malware Framework Targets Cloud Environments appeared first on SecurityWeek .",
-      "published": "Thu, 15 Jan 2026 09:35:19 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

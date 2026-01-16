@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-16 06:27 UTC  
+> **Last Updated:** 2026-01-16 08:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -34,7 +34,7 @@
 - [Hackers exploit Modular DS WordPress plugin flaw for admin access](https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/)
 - [Verizon blames nationwide outage on a "software issue"](https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/)
 - [Microsoft Copilot Studio extension for VS Code now publicly available](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/)
-- [Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices](https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/)
+- [Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices](https://www.bleepingcomputer.com/news/security/critical-whisperpair-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Former CISA Director Jen Easterly Appointed CEO of RSAC](https://www.securityweek.com/former-cisa-director-jen-easterly-appointed-ceo-of-rsac/)
 - [Forget Predictions: True 2026 Cybersecurity Priorities From Leaders](https://www.securityweek.com/forget-predictions-true-2026-cybersecurity-priorities-from-leaders/)
 - [New ‘StackWarp’ Attack Threatens Confidential VMs on AMD Processors](https://www.securityweek.com/new-stackwarp-attack-threatens-confidential-vms-on-amd-processors/)
 - [Vibe Coding Tested: AI Agents Nail SQLi but Fail Miserably on Security Controls](https://www.securityweek.com/vibe-coding-tested-ai-agents-nail-sqli-but-fail-miserably-on-security-controls/)
@@ -67,7 +68,6 @@
 - [isVerified Emerges From Stealth With Voice Deepfake Detection Apps](https://www.securityweek.com/isverified-emerges-from-stealth-with-voice-deepfake-detection-apps/)
 - [New ‘Reprompt’ Attack Silently Siphons Microsoft Copilot Data](https://www.securityweek.com/new-reprompt-attack-silently-siphons-microsoft-copilot-data/)
 - [Central Maine Healthcare Data Breach Impacts 145,000 Individuals](https://www.securityweek.com/central-maine-healthcare-data-breach-impacts-145000-individuals/)
-- [VoidLink Linux Malware Framework Targets Cloud Environments](https://www.securityweek.com/voidlink-linux-malware-framework-targets-cloud-environments/)
 
 ### Threatpost
 

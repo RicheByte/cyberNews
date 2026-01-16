@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-16 12:35 UTC  
+> **Last Updated:** 2026-01-16 14:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**amd processors researchers** • **telecontrol server basic** • **sinec security monitor** • **cybersecurity firms react** • **zip archive us** • **supply chain governance** • **750 000 impacted** • **1 000 archives** • **security problems show** • **windows operating systems** • **siemens ruggedcom ros** • **pop email accounts** • **cisco secure email** • **twitter whistleblower complaint** • **github repositories including** • **130 companies tangled** • **xyz gmail com** • **abc gmail com** • **respective security advisories** • **windows pcs fail**
+**amd processors researchers** • **telecontrol server basic** • **sinec security monitor** • **1 000 archives** • **cybersecurity firms react** • **zip archive us** • **supply chain governance** • **security problems show** • **siemens ruggedcom ros** • **pop email accounts** • **cisco secure email** • **windows operating systems** • **twitter whistleblower complaint** • **github repositories including** • **130 companies tangled** • **xyz gmail com** • **abc gmail com** • **respective security advisories** • **windows pcs fail** • **ciro member firms**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI System Reduces Attack Reconstruction Time From Weeks to Hours](https://www.darkreading.com/cybersecurity-operations/ai-system-attack-reconstruction-weeks-hours)
 - [Predator Spyware Sample Indicates 'Vendor-Controlled' C2](https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2)
 - [Winter Olympics Could Share Podium With Cyberattackers](https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers)
 - [Vulnerabilities Surge, But Messy Reporting Blurs Picture](https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture)
@@ -56,7 +57,6 @@
 - [Retail, Services Industries Under Fire in Oceania](https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania)
 - [Microsoft Disrupts Cybercrime Service RedVDS](https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds)
 - [Secure Your Spot at RSAC 2026 Conference](https://www.darkreading.com/events/rsac-2026-conference)
-- ['VoidLink' Malware Poses Advanced Threat to Linux Systems](https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems)
 
 ### Security Week
 

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-16 12:35",
+  "last_updated": "2026-01-16 14:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "amd processors researchers",
     "telecontrol server basic",
     "sinec security monitor",
+    "1 000 archives",
     "cybersecurity firms react",
     "zip archive us",
     "supply chain governance",
-    "750 000 impacted",
-    "1 000 archives",
     "security problems show",
-    "windows operating systems",
     "siemens ruggedcom ros",
     "pop email accounts",
     "cisco secure email",
+    "windows operating systems",
     "twitter whistleblower complaint",
     "github repositories including",
     "130 companies tangled",
     "xyz gmail com",
     "abc gmail com",
     "respective security advisories",
-    "windows pcs fail"
+    "windows pcs fail",
+    "ciro member firms"
   ],
   "trending": [
     {
       "keyword": "amd processors researchers",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "sinec security monitor",
-      "mentions": 10
-    },
-    {
-      "keyword": "cybersecurity firms react",
-      "mentions": 1
-    },
-    {
-      "keyword": "zip archive us",
-      "mentions": 1
-    },
-    {
-      "keyword": "supply chain governance",
-      "mentions": 8
-    },
-    {
-      "keyword": "750 000 impacted",
-      "mentions": 1
+      "mentions": 11
     },
     {
       "keyword": "1 000 archives",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "cybersecurity firms react",
+      "mentions": 2
+    },
+    {
+      "keyword": "zip archive us",
+      "mentions": 2
+    },
+    {
+      "keyword": "supply chain governance",
+      "mentions": 9
     },
     {
       "keyword": "security problems show",
-      "mentions": 26
+      "mentions": 27
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 100
+      "keyword": "siemens ruggedcom ros",
+      "mentions": 11
+    },
+    {
+      "keyword": "pop email accounts",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -334,6 +334,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI System Reduces Attack Reconstruction Time From Weeks to Hours",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-system-attack-reconstruction-weeks-hours",
+      "summary": "Pacific Northwest National Labs' expert cybersecurity system, ALOHA, can recreate attacks and test them against organizations' infrastructure to bolster defense.",
+      "published": "Fri, 16 Jan 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Predator Spyware Sample Indicates 'Vendor-Controlled' C2",
       "link": "https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2",
       "summary": "Researchers detailed how Intellexa, Predator's owner, uses failed deployments and thwarted infections to strengthen its commercial spyware and generate more effective attacks.",
@@ -396,15 +405,6 @@
       "link": "https://www.darkreading.com/events/rsac-2026-conference",
       "summary": "",
       "published": "2026-03-23T11:00:00.000Z",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'VoidLink' Malware Poses Advanced Threat to Linux Systems",
-      "link": "https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems",
-      "summary": "Researchers discovered a modular, \"cloud-first\" framework that is feature-rich and designed to maintain stealthy, long-term access to Linux environments.",
-      "published": "Wed, 14 Jan 2026 15:59:49 GMT",
       "value_score": 10,
       "value_signals": []
     },

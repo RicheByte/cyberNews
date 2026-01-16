@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-16 08:23 UTC  
+> **Last Updated:** 2026-01-16 10:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**amd processors researchers** • **telecontrol server basic** • **maximum severity flaw** • **sinec security monitor** • **copilot studio extension** • **cisco secure email** • **supply chain governance** • **security problems show** • **siemens ruggedcom ros** • **law enforcement authorities** • **windows operating systems** • **twitter whistleblower complaint** • **internet router probably** • **github repositories including** • **1 000 archives** • **xyz gmail com** • **abc gmail com** • **respective security advisories** • **redis model security** • **online fraud microsoft**
+**amd processors researchers** • **telecontrol server basic** • **maximum severity flaw** • **sinec security monitor** • **supply chain governance** • **security problems show** • **siemens ruggedcom ros** • **cisco secure email** • **twitter whistleblower complaint** • **github repositories including** • **1 000 archives** • **xyz gmail com** • **abc gmail com** • **windows operating systems** • **respective security advisories** • **redis model security** • **nation s ability** • **krebsonsecurity com celebrates** • **internal network behind** • **gmail com address**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure](https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html)
 - [Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways](https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html)
 - [AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks](https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html)
 - [Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html)
@@ -23,18 +24,17 @@
 - [ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html)
 - [Model Security Is the Wrong Frame – The Real Risk Is Workflow Security](https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html)
 - [4 Outdated Habits Destroying Your SOC's MTTR in 2026](https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html)
-- [Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud](https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html)
 
 ### BleepingComputer
 
+- [Cisco finally fixes AsyncOS zero-day exploited since November](https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/)
+- [Microsoft: Some Windows PCs fail to shut down after January update](https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/)
 - [Google now lets you change your @gmail.com address, rolling out](https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/)
 - [ChatGPT is now more reliable at finding and remembering your past chat](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/)
 - [Gootloader now uses 1,000-part ZIP archives for stealthy delivery](https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/)
 - [Grubhub confirms hackers stole data in recent security breach](https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/)
 - [Hackers exploit Modular DS WordPress plugin flaw for admin access](https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/)
 - [Verizon blames nationwide outage on a "software issue"](https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/)
-- [Microsoft Copilot Studio extension for VS Code now publicly available](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/)
-- [Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices](https://www.bleepingcomputer.com/news/security/critical-whisperpair-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Cisco Patches Vulnerability Exploited by Chinese Hackers](https://www.securityweek.com/cisco-patches-vulnerability-exploited-by-chinese-hackers/)
 - [Former CISA Director Jen Easterly Appointed CEO of RSAC](https://www.securityweek.com/former-cisa-director-jen-easterly-appointed-ceo-of-rsac/)
 - [Forget Predictions: True 2026 Cybersecurity Priorities From Leaders](https://www.securityweek.com/forget-predictions-true-2026-cybersecurity-priorities-from-leaders/)
 - [New ‘StackWarp’ Attack Threatens Confidential VMs on AMD Processors](https://www.securityweek.com/new-stackwarp-attack-threatens-confidential-vms-on-amd-processors/)
@@ -67,7 +68,6 @@
 - [Depthfirst Raises $40 Million for Vulnerability Management](https://www.securityweek.com/depthfirst-raises-40-million-for-vulnerability-management/)
 - [isVerified Emerges From Stealth With Voice Deepfake Detection Apps](https://www.securityweek.com/isverified-emerges-from-stealth-with-voice-deepfake-detection-apps/)
 - [New ‘Reprompt’ Attack Silently Siphons Microsoft Copilot Data](https://www.securityweek.com/new-reprompt-attack-silently-siphons-microsoft-copilot-data/)
-- [Central Maine Healthcare Data Breach Impacts 145,000 Individuals](https://www.securityweek.com/central-maine-healthcare-data-breach-impacts-145000-individuals/)
 
 ### Threatpost
 

@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 98,
+      "count": 99,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -157,7 +157,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 358,
+      "count": 359,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1431,14 +1431,15 @@
       ]
     },
     "nation s ability": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2025-12-30",
         "2025-12-31",
         "2026-01-07",
         "2026-01-08",
         "2026-01-12",
-        "2026-01-13"
+        "2026-01-13",
+        "2026-01-16"
       ]
     },
     "cyber insurers recommend": {
@@ -2147,7 +2148,7 @@
       ]
     },
     "security problems show": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-08",
         "2026-01-09",
@@ -2282,7 +2283,7 @@
       ]
     },
     "internal network behind": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2290,7 +2291,8 @@
         "2026-01-12",
         "2026-01-13",
         "2026-01-14",
-        "2026-01-15"
+        "2026-01-15",
+        "2026-01-16"
       ]
     },
     "ai driven access": {
@@ -3067,28 +3069,28 @@
       ]
     },
     "amd processors researchers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "telecontrol server basic": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "sinec security monitor": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "siemens ruggedcom ros": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-15",
         "2026-01-16"
@@ -3101,14 +3103,14 @@
       ]
     },
     "respective security advisories": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "redis model security": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-15",
         "2026-01-16"
@@ -3129,69 +3131,64 @@
       ]
     },
     "maximum severity flaw": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "supply chain governance": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "github repositories including": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-15",
         "2026-01-16"
       ]
     },
     "1 000 archives": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-16"
       ]
     },
     "xyz gmail com": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-16"
       ]
     },
     "abc gmail com": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-16"
       ]
     },
     "krebsonsecurity com celebrates": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-16"
       ]
     },
     "cisco secure email": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-01-16"
+      ]
+    },
+    "gmail com address": {
+      "count": 1,
       "dates": [
         "2026-01-16"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-08 03:25",
-      "articles": 48,
-      "top_keywords": [
-        "2025 analysis 2025",
-        "twitter whistleblower complaint",
-        "run arbitrary commands",
-        "fake blue screen",
-        "exploits surrounding ics"
-      ]
-    },
     {
       "timestamp": "2026-01-08 04:35",
       "articles": 56,
@@ -4279,6 +4276,17 @@
         "maximum severity flaw",
         "sinec security monitor",
         "copilot studio extension"
+      ]
+    },
+    {
+      "timestamp": "2026-01-16 10:18",
+      "articles": 56,
+      "top_keywords": [
+        "amd processors researchers",
+        "telecontrol server basic",
+        "maximum severity flaw",
+        "sinec security monitor",
+        "supply chain governance"
       ]
     }
   ]

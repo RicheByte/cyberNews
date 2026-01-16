@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-16 20:17 UTC  
+> **Last Updated:** 2026-01-16 22:16 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**telecontrol server basic** • **sinec security monitor** • **windows operating systems** • **north america since** • **750 000 impacted** • **1 000 archives** • **cybersecurity firms react** • **cisco secure email** • **siemens ruggedcom ros** • **pop email accounts** • **twitter whistleblower complaint** • **github repositories including** • **130 companies tangled** • **xyz gmail com** • **abc gmail com** • **respective security advisories** • **post quantum security** • **windows pcs fail** • **top 20 firms** • **ciro member firms**
+**telecontrol server basic** • **sinec security monitor** • **windows operating systems** • **cisco secure email** • **pop email accounts** • **north america since** • **750 000 impacted** • **1 000 archives** • **cybersecurity firms react** • **siemens ruggedcom ros** • **twitter whistleblower complaint** • **github repositories including** • **130 companies tangled** • **respective security advisories** • **post quantum security** • **windows pcs fail** • **ciro member firms** • **internal network behind** • **web manager nearly** • **upcoming winter games**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [StealC hackers hacked as researchers hijack malware control panels](https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/)
 - [Black Basta boss makes it onto Interpol's 'Red Notice' list](https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/)
 - [China-linked hackers exploited Sitecore zero-day for initial access](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/)
 - [Verizon starts issuing $20 credits after nationwide outage](https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/)
@@ -34,7 +35,6 @@
 - [Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/)
 - [Cisco finally fixes AsyncOS zero-day exploited since November](https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/)
 - [Microsoft: Some Windows PCs fail to shut down after January update](https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/)
-- [Google now lets you change your @gmail.com address, rolling out](https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/)
 
 ### Krebs on Security
 
@@ -46,6 +46,17 @@
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
 - [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 - [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
+
+### Dark Reading
+
+- [More Problems for Fortinet: Critical FortiSIEM Flaw Exploited](https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited)
+- [CISOs Rise to Prominence: Security Leaders Join the Executive Suite](https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite)
+- [AI System Reduces Attack Reconstruction Time From Weeks to Hours](https://www.darkreading.com/cybersecurity-operations/ai-system-attack-reconstruction-weeks-hours)
+- [Predator Spyware Sample Indicates 'Vendor-Controlled' C2](https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2)
+- [Winter Olympics Could Share Podium With Cyberattackers](https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers)
+- [Vulnerabilities Surge, But Messy Reporting Blurs Picture](https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture)
+- [Trio of Critical Bugs Spotted in Delta Industrial PLCs](https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs)
+- [Retail, Services Industries Under Fire in Oceania](https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania)
 
 ### Security Week
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-15 22:17 UTC  
+> **Last Updated:** 2026-01-16 01:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**amd processors researchers** • **telecontrol server basic** • **maximum severity flaw** • **sinec security monitor** • **copilot studio extension** • **supply chain governance** • **security problems show** • **siemens ruggedcom ros** • **law enforcement authorities** • **windows operating systems** • **twitter whistleblower complaint** • **internet router probably** • **github repositories including** • **drivers without consent** • **auditability collide daily** • **respective security advisories** • **redis model security** • **online fraud microsoft** • **law enforcement operation** • **internal network behind**
+**amd processors researchers** • **telecontrol server basic** • **maximum severity flaw** • **sinec security monitor** • **copilot studio extension** • **supply chain governance** • **security problems show** • **siemens ruggedcom ros** • **law enforcement authorities** • **windows operating systems** • **twitter whistleblower complaint** • **internet router probably** • **github repositories including** • **1 000 archives** • **xyz gmail com** • **abc gmail com** • **respective security advisories** • **redis model security** • **online fraud microsoft** • **krebsonsecurity com celebrates**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Google now lets you change your @gmail.com address, rolling out](https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/)
+- [ChatGPT is now more reliable at finding and remembering your past chat](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/)
+- [Gootloader now uses 1,000-part ZIP archives for stealthy delivery](https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/)
 - [Grubhub confirms hackers stole data in recent security breach](https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/)
 - [Hackers exploit Modular DS WordPress plugin flaw for admin access](https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/)
 - [Verizon blames nationwide outage on a "software issue"](https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/)
 - [Microsoft Copilot Studio extension for VS Code now publicly available](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/)
 - [Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices](https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/)
-- [How to automate just-in-time access to applications with Tines](https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/)
-- [FTC bans GM from selling drivers' location data for five years](https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/)
-- [Palo Alto Networks warns of DoS bug letting hackers disable firewalls](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/)
 
 ### Krebs on Security
 

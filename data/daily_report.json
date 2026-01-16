@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15 22:17",
+  "last_updated": "2026-01-16 01:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -16,54 +16,54 @@
     "twitter whistleblower complaint",
     "internet router probably",
     "github repositories including",
-    "drivers without consent",
-    "auditability collide daily",
+    "1 000 archives",
+    "xyz gmail com",
+    "abc gmail com",
     "respective security advisories",
     "redis model security",
     "online fraud microsoft",
-    "law enforcement operation",
-    "internal network behind"
+    "krebsonsecurity com celebrates"
   ],
   "trending": [
     {
       "keyword": "amd processors researchers",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "maximum severity flaw",
-      "mentions": 1
-    },
-    {
-      "keyword": "sinec security monitor",
-      "mentions": 3
-    },
-    {
-      "keyword": "copilot studio extension",
       "mentions": 2
     },
     {
-      "keyword": "supply chain governance",
-      "mentions": 1
+      "keyword": "sinec security monitor",
+      "mentions": 4
     },
     {
-      "keyword": "security problems show",
-      "mentions": 19
-    },
-    {
-      "keyword": "siemens ruggedcom ros",
+      "keyword": "copilot studio extension",
       "mentions": 3
     },
     {
+      "keyword": "supply chain governance",
+      "mentions": 2
+    },
+    {
+      "keyword": "security problems show",
+      "mentions": 20
+    },
+    {
+      "keyword": "siemens ruggedcom ros",
+      "mentions": 4
+    },
+    {
       "keyword": "law enforcement authorities",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 93
+      "mentions": 94
     }
   ],
   "articles": [
@@ -157,6 +157,33 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Google now lets you change your @gmail.com address, rolling out",
+      "link": "https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/",
+      "summary": "Google has confirmed that it's now possible to change your @gmail.com address. This means that if your current email is xyz@gmail.com, you can now change it to abc@gmail.com. [...]",
+      "published": "Thu, 15 Jan 2026 19:36:10 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ChatGPT is now more reliable at finding and remembering your past chat",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/",
+      "summary": "OpenAI is rolling out a big upgrade for ChatGPT with support for advanced chat history search, but the feature is rolling out to Plus and Pro subscribers only. [...]",
+      "published": "Thu, 15 Jan 2026 19:14:44 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery",
+      "link": "https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/",
+      "summary": "The Gootloader malware, typically used for initial access, is now using a malformed ZIP archive designed to evade detection by concatenating up to 1,000 archives. [...]",
+      "published": "Thu, 15 Jan 2026 17:54:34 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Grubhub confirms hackers stole data in recent security breach",
       "link": "https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/",
       "summary": "Food delivery platform Grubhub has confirmed a recent data breach after hackers accessed its systems, with sources telling BleepingComputer the company is now facing extortion demands. [...]",
@@ -205,33 +232,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How to automate just-in-time access to applications with Tines",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
-      "summary": "Managing just-in-time access at scale is a growing IAM challenge as speed and auditability collide daily. Tines shows how automated workflows can grant, track, and revoke temporary app access without manual effort. [...]",
-      "published": "Thu, 15 Jan 2026 10:01:10 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FTC bans GM from selling drivers' location data for five years",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/",
-      "summary": "The FTC has finalized an order with General Motors, settling charges that it collected and sold the location and driving data of millions of drivers without consent. [...]",
-      "published": "Thu, 15 Jan 2026 04:59:30 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/",
-      "summary": "Palo Alto Networks patched a high-severity vulnerability that could allow unauthenticated attackers to disable firewall protections in denial-of-service (DoS) attacks. [...]",
-      "published": "Thu, 15 Jan 2026 04:02:42 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

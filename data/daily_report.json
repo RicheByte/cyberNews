@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-16 18:26",
+  "last_updated": "2026-01-16 20:17",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
     "telecontrol server basic",
     "sinec security monitor",
@@ -16,54 +16,54 @@
     "twitter whistleblower complaint",
     "github repositories including",
     "130 companies tangled",
-    "respective security advisories",
-    "post quantum security",
     "xyz gmail com",
     "abc gmail com",
+    "respective security advisories",
+    "post quantum security",
     "windows pcs fail",
-    "ciro member firms",
-    "krebsonsecurity com celebrates"
+    "top 20 firms",
+    "ciro member firms"
   ],
   "trending": [
     {
       "keyword": "telecontrol server basic",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "sinec security monitor",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 103
+      "mentions": 104
     },
     {
       "keyword": "north america since",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "750 000 impacted",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "1 000 archives",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "cybersecurity firms react",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "cisco secure email",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "pop email accounts",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -162,6 +162,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Black Basta boss makes it onto Interpol's 'Red Notice' list",
+      "link": "https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/",
+      "summary": "The identity of the Black Basta ransomware gang leader has been confirmed by law enforcement in Ukraine and Germany, and the individual has been added to the wanted list of Europol and Interpol. [...]",
+      "published": "Fri, 16 Jan 2026 14:00:20 -0500",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "China-linked hackers exploited Sitecore zero-day for initial access",
       "link": "https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/",
       "summary": "An advanced threat actor tracked as UAT-8837 and believed to be linked to China has been focusing on critical infrastructure systems in North America, gaining access by exploiting both known and zero-day vulnerabilities. [...]",
@@ -234,15 +245,6 @@
       "link": "https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/",
       "summary": "Google has confirmed that it's now possible to change your @gmail.com address. This means that if your current email is xyz@gmail.com, you can now change it to abc@gmail.com. [...]",
       "published": "Thu, 15 Jan 2026 19:36:10 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ChatGPT is now more reliable at finding and remembering your past chat",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/",
-      "summary": "OpenAI is rolling out a big upgrade for ChatGPT with support for advanced chat history search, but the feature is rolling out to Plus and Pro subscribers only. [...]",
-      "published": "Thu, 15 Jan 2026 19:14:44 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -328,82 +330,6 @@
       "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
       "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
       "published": "Sat, 06 Dec 2025 14:45:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CISOs Rise to Prominence: Security Leaders Join the Executive Suite",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite",
-      "summary": "Security professionals are moving on up the executive ranks as enterprises face rising regulatory and compliance standards.",
-      "published": "Fri, 16 Jan 2026 15:25:40 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI System Reduces Attack Reconstruction Time From Weeks to Hours",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-system-attack-reconstruction-weeks-hours",
-      "summary": "Pacific Northwest National Labs' expert cybersecurity system, ALOHA, can recreate attacks and test them against organizations' infrastructure to bolster defense.",
-      "published": "Fri, 16 Jan 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Predator Spyware Sample Indicates 'Vendor-Controlled' C2",
-      "link": "https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2",
-      "summary": "Researchers detailed how Intellexa, Predator's owner, uses failed deployments and thwarted infections to strengthen its commercial spyware and generate more effective attacks.",
-      "published": "Thu, 15 Jan 2026 21:26:18 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Winter Olympics Could Share Podium With Cyberattackers",
-      "link": "https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers",
-      "summary": "The upcoming Winter Games in the Italian Alps are attracting both hacktivists looking to reach billions of people and state-sponsored cyber-spies targeting the attending glitterati.",
-      "published": "Thu, 15 Jan 2026 19:10:05 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Vulnerabilities Surge, But Messy Reporting Blurs Picture",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture",
-      "summary": "MITRE loses its lead as the top reporter of vulnerabilities, while new organizations pump out CVEs and reported bugs in WordPress plug-ins surge.",
-      "published": "Thu, 15 Jan 2026 15:19:31 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Trio of Critical Bugs Spotted in Delta Industrial PLCs",
-      "link": "https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs",
-      "summary": "Experts disagree on whether the vulnerabilities in a programmable logic controller from Delta are a five-alarm fire or not much to worry over.",
-      "published": "Thu, 15 Jan 2026 11:00:00 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Retail, Services Industries Under Fire in Oceania",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania",
-      "summary": "Last year in Australia, New Zealand, and the South Pacific, Main Street businesses like retail and construction suffered more cyberattacks than their critical sector counterparts.",
-      "published": "Wed, 14 Jan 2026 21:19:44 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Microsoft Disrupts Cybercrime Service RedVDS",
-      "link": "https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds",
-      "summary": "RedVDS, a cybercrime-as-a-service operation that has stolen millions from victims, lost two domains to a law enforcement operation.",
-      "published": "Wed, 14 Jan 2026 19:07:30 GMT",
       "value_score": 10,
       "value_signals": []
     },

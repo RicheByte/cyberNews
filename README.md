@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-16 16:22 UTC |
+| 🕐 Last Updated | 2026-01-16 18:26 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`telecontrol server basic` • `sinec security monitor` • `windows operating systems` • `cybersecurity firms react` • `zip archive us` • `750 000 impacted` • `1 000 archives` • `cisco secure email` • `siemens ruggedcom ros` • `pop email accounts`
+`telecontrol server basic` • `sinec security monitor` • `windows operating systems` • `north america since` • `750 000 impacted` • `1 000 archives` • `cybersecurity firms react` • `cisco secure email` • `siemens ruggedcom ros` • `pop email accounts`
 
 ## 📄 Reports
 

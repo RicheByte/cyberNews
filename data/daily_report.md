@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-16 16:22 UTC  
+> **Last Updated:** 2026-01-16 18:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**telecontrol server basic** • **sinec security monitor** • **windows operating systems** • **cybersecurity firms react** • **zip archive us** • **750 000 impacted** • **1 000 archives** • **cisco secure email** • **siemens ruggedcom ros** • **pop email accounts** • **twitter whistleblower complaint** • **github repositories including** • **130 companies tangled** • **respective security advisories** • **post quantum security** • **xyz gmail com** • **abc gmail com** • **windows pcs fail** • **ciro member firms** • **krebsonsecurity com celebrates**
+**telecontrol server basic** • **sinec security monitor** • **windows operating systems** • **north america since** • **750 000 impacted** • **1 000 archives** • **cybersecurity firms react** • **cisco secure email** • **siemens ruggedcom ros** • **pop email accounts** • **twitter whistleblower complaint** • **github repositories including** • **130 companies tangled** • **respective security advisories** • **post quantum security** • **xyz gmail com** • **abc gmail com** • **windows pcs fail** • **ciro member firms** • **krebsonsecurity com celebrates**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection](https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html)
 - [Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html)
 - [Your Digital Footprint Can Lead Right to Your Front Door](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html)
 - [LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing](https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html)
-- [China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure](https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html)
+- [China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions](https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html)
 - [Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways](https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html)
 - [AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks](https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html)
 - [Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html)
-- [Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot](https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html)
 
 ### BleepingComputer
 
+- [China-linked hackers exploited Sitecore zero-day for initial access](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/)
 - [Verizon starts issuing $20 credits after nationwide outage](https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/)
 - [Microsoft: Windows 11 update causes Outlook freezes for POP users](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/)
 - [Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/)
@@ -34,7 +35,6 @@
 - [Microsoft: Some Windows PCs fail to shut down after January update](https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/)
 - [Google now lets you change your @gmail.com address, rolling out](https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/)
 - [ChatGPT is now more reliable at finding and remembering your past chat](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/)
-- [Gootloader now uses 1,000-part ZIP archives for stealthy delivery](https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/)
 
 ### Krebs on Security
 

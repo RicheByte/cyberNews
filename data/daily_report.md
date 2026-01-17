@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-17 10:16 UTC  
+> **Last Updated:** 2026-01-17 12:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System](https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/)
 - [In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack](https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/)
 - [Monnai Raises $12 Million for Identity and Risk Data Infrastructure](https://www.securityweek.com/monnai-raises-12-million-for-identity-and-risk-data-infrastructure/)
 - [Project Eleven Raises $20 Million for Post-Quantum Security](https://www.securityweek.com/project-eleven-raises-20-million-for-post-quantum-security/)
@@ -67,7 +68,6 @@
 - [Cyber Insights 2026: Social Engineering](https://www.securityweek.com/cyber-insights-2026-social-engineering/)
 - [WhisperPair Attack Leaves Millions of Audio Accessories Open to Hijacking](https://www.securityweek.com/whisperpair-attack-leaves-millions-of-bluetooth-accessories-open-to-hijacking/)
 - [Cybersecurity Firms React to China’s Reported Software Ban](https://www.securityweek.com/cybersecurity-firms-react-to-chinas-reported-software-ban/)
-- [Cisco Patches Vulnerability Exploited by Chinese Hackers](https://www.securityweek.com/cisco-patches-vulnerability-exploited-by-chinese-hackers/)
 
 ### Threatpost
 

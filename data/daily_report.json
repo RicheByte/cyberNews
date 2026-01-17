@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-17 10:16",
+  "last_updated": "2026-01-17 12:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "telecontrol server basic",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "sinec security monitor",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 111
+      "mentions": 112
     },
     {
       "keyword": "cisco secure email",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "pop email accounts",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "north america since",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "750 000 impacted",
-      "mentions": 11
-    },
-    {
-      "keyword": "cybersecurity firms react",
       "mentions": 12
     },
     {
+      "keyword": "cybersecurity firms react",
+      "mentions": 13
+    },
+    {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 371
+      "mentions": 372
     }
   ],
   "articles": [
@@ -404,6 +404,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System",
+      "link": "https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/",
+      "summary": "Nicholas Moore pleaded guilty to repeatedly hacking the U.S. Supreme Court’s filing system and illegally accessing computer systems belonging to AmeriCorps and the Department of Veterans Affairs. The post Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System appeared first on SecurityWeek .",
+      "published": "Sat, 17 Jan 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack",
       "link": "https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/",
       "summary": "Other noteworthy stories that might have slipped under the radar: BodySnatcher agentic AI hijacking, Telegram IP exposure, shipping systems hacked by researcher. The post In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack appeared first on SecurityWeek .",
@@ -470,18 +479,6 @@
       "published": "Fri, 16 Jan 2026 11:25:26 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches Vulnerability Exploited by Chinese Hackers",
-      "link": "https://www.securityweek.com/cisco-patches-vulnerability-exploited-by-chinese-hackers/",
-      "summary": "UAT-9686 exploited the bug to deploy the AquaShell backdoor on Cisco appliances with certain ports open to the internet. The post Cisco Patches Vulnerability Exploited by Chinese Hackers appeared first on SecurityWeek .",
-      "published": "Fri, 16 Jan 2026 09:43:58 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Backdoor",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

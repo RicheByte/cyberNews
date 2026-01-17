@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-16 22:16 UTC  
+> **Last Updated:** 2026-01-17 01:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**telecontrol server basic** • **sinec security monitor** • **windows operating systems** • **cisco secure email** • **pop email accounts** • **north america since** • **750 000 impacted** • **1 000 archives** • **cybersecurity firms react** • **siemens ruggedcom ros** • **twitter whistleblower complaint** • **github repositories including** • **130 companies tangled** • **respective security advisories** • **post quantum security** • **windows pcs fail** • **ciro member firms** • **internal network behind** • **web manager nearly** • **upcoming winter games**
+**telecontrol server basic** • **sinec security monitor** • **windows operating systems** • **cisco secure email** • **pop email accounts** • **north america since** • **750 000 impacted** • **1 000 archives** • **cybersecurity firms react** • **siemens ruggedcom ros** • **twitter whistleblower complaint** • **github repositories including** • **130 companies tangled** • **respective security advisories** • **post quantum security** • **ciro member firms** • **internal network behind** • **web manager nearly** • **upcoming winter games** • **today we'll dig**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/)
+- [OpenAI says its new ChatGPT ads won't influence answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/)
 - [StealC hackers hacked as researchers hijack malware control panels](https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/)
 - [Black Basta boss makes it onto Interpol's 'Red Notice' list](https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/)
 - [China-linked hackers exploited Sitecore zero-day for initial access](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/)
 - [Verizon starts issuing $20 credits after nationwide outage](https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/)
 - [Microsoft: Windows 11 update causes Outlook freezes for POP users](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/)
 - [Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/)
-- [Cisco finally fixes AsyncOS zero-day exploited since November](https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/)
-- [Microsoft: Some Windows PCs fail to shut down after January update](https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/)
 
 ### Krebs on Security
 

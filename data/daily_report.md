@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-17 16:17 UTC  
+> **Last Updated:** 2026-01-17 18:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**telecontrol server basic** • **sinec security monitor** • **windows operating systems** • **cisco secure email** • **pop email accounts** • **north america since** • **750 000 impacted** • **cybersecurity firms react** • **siemens ruggedcom ros** • **twitter whistleblower complaint** • **130 companies tangled** • **1 000 archives** • **respective security advisories** • **post quantum security** • **ciro member firms** • **internal network behind** • **web manager nearly** • **upcoming winter games** • **today we'll dig** • **strong theme running**
+**telecontrol server basic** • **sinec security monitor** • **windows operating systems** • **cisco secure email** • **pop email accounts** • **north america since** • **750 000 impacted** • **cybersecurity firms react** • **siemens ruggedcom ros** • **twitter whistleblower complaint** • **130 companies tangled** • **1 000 archives** • **respective security advisories** • **post quantum security** • **national security risk** • **ciro member firms** • **internal network behind** • **dire critical rating** • **critical sector counterparts** • **critical infrastructure systems**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice](https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html)
 - [OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html)
 - [GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection](https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html)
 - [Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html)
@@ -23,7 +24,6 @@
 - [LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing](https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html)
 - [China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions](https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html)
 - [Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways](https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html)
-- [AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks](https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html)
 
 ### BleepingComputer
 

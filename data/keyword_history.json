@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -158,7 +158,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 374,
+      "count": 375,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -659,10 +659,11 @@
       ]
     },
     "national security risk": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-19",
-        "2026-01-15"
+        "2026-01-15",
+        "2026-01-17"
       ]
     },
     "open source millions": {
@@ -1847,7 +1848,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2289,7 +2290,7 @@
       ]
     },
     "internal network behind": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2853,9 +2854,10 @@
       ]
     },
     "dire critical rating": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-01-14"
+        "2026-01-14",
+        "2026-01-17"
       ]
     },
     "bugs fixed today": {
@@ -3083,7 +3085,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3091,7 +3093,7 @@
       ]
     },
     "sinec security monitor": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3099,7 +3101,7 @@
       ]
     },
     "siemens ruggedcom ros": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3113,7 +3115,7 @@
       ]
     },
     "respective security advisories": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3164,7 +3166,7 @@
       ]
     },
     "1 000 archives": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-16",
         "2026-01-17"
@@ -3189,7 +3191,7 @@
       ]
     },
     "cisco secure email": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-16",
         "2026-01-17"
@@ -3202,7 +3204,7 @@
       ]
     },
     "cybersecurity firms react": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-16",
         "2026-01-17"
@@ -3215,14 +3217,14 @@
       ]
     },
     "750 000 impacted": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-16",
         "2026-01-17"
       ]
     },
     "pop email accounts": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-16",
         "2026-01-17"
@@ -3235,21 +3237,21 @@
       ]
     },
     "ciro member firms": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-16",
         "2026-01-17"
       ]
     },
     "post quantum security": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-16",
         "2026-01-17"
       ]
     },
     "north america since": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-16",
         "2026-01-17"
@@ -3274,20 +3276,21 @@
         "2026-01-16",
         "2026-01-17"
       ]
+    },
+    "critical sector counterparts": {
+      "count": 1,
+      "dates": [
+        "2026-01-17"
+      ]
+    },
+    "critical infrastructure systems": {
+      "count": 1,
+      "dates": [
+        "2026-01-17"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-09 10:18",
-      "articles": 56,
-      "top_keywords": [
-        "reboot loops due",
-        "arbitrary code execution",
-        "concept poc exploit",
-        "security problems show",
-        "narrative intelligence platform"
-      ]
-    },
     {
       "timestamp": "2026-01-09 12:35",
       "articles": 48,
@@ -4368,6 +4371,17 @@
     },
     {
       "timestamp": "2026-01-17 16:17",
+      "articles": 56,
+      "top_keywords": [
+        "telecontrol server basic",
+        "sinec security monitor",
+        "windows operating systems",
+        "cisco secure email",
+        "pop email accounts"
+      ]
+    },
+    {
+      "timestamp": "2026-01-17 18:22",
       "articles": 56,
       "top_keywords": [
         "telecontrol server basic",

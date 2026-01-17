@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -158,7 +158,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 376,
+      "count": 377,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -659,7 +659,7 @@
       ]
     },
     "national security risk": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1848,7 +1848,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2290,7 +2290,7 @@
       ]
     },
     "internal network behind": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2854,7 +2854,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-14",
         "2026-01-17"
@@ -3085,7 +3085,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3093,7 +3093,7 @@
       ]
     },
     "sinec security monitor": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3101,7 +3101,7 @@
       ]
     },
     "siemens ruggedcom ros": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3115,7 +3115,7 @@
       ]
     },
     "respective security advisories": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3166,7 +3166,7 @@
       ]
     },
     "1 000 archives": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-16",
         "2026-01-17"
@@ -3191,7 +3191,7 @@
       ]
     },
     "cisco secure email": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-16",
         "2026-01-17"
@@ -3204,7 +3204,7 @@
       ]
     },
     "cybersecurity firms react": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-16",
         "2026-01-17"
@@ -3217,14 +3217,14 @@
       ]
     },
     "750 000 impacted": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-16",
         "2026-01-17"
       ]
     },
     "pop email accounts": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-16",
         "2026-01-17"
@@ -3237,21 +3237,21 @@
       ]
     },
     "ciro member firms": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-16",
         "2026-01-17"
       ]
     },
     "post quantum security": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-16",
         "2026-01-17"
       ]
     },
     "north america since": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-16",
         "2026-01-17"
@@ -3278,30 +3278,19 @@
       ]
     },
     "critical sector counterparts": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-17"
       ]
     },
     "critical infrastructure systems": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-17"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-09 14:19",
-      "articles": 56,
-      "top_keywords": [
-        "377 000 impacted",
-        "arbitrary code execution",
-        "ai driven access",
-        "narrative intelligence platform",
-        "malicious cyber actors"
-      ]
-    },
     {
       "timestamp": "2026-01-09 16:21",
       "articles": 56,
@@ -4382,6 +4371,17 @@
     },
     {
       "timestamp": "2026-01-17 20:17",
+      "articles": 56,
+      "top_keywords": [
+        "telecontrol server basic",
+        "sinec security monitor",
+        "windows operating systems",
+        "cisco secure email",
+        "pop email accounts"
+      ]
+    },
+    {
+      "timestamp": "2026-01-17 22:15",
       "articles": 56,
       "top_keywords": [
         "telecontrol server basic",

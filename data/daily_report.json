@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-17 08:20",
+  "last_updated": "2026-01-17 10:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,63 +10,72 @@
     "pop email accounts",
     "north america since",
     "750 000 impacted",
-    "1 000 archives",
     "cybersecurity firms react",
     "siemens ruggedcom ros",
     "twitter whistleblower complaint",
-    "github repositories including",
     "130 companies tangled",
+    "1 000 archives",
     "respective security advisories",
     "post quantum security",
     "ciro member firms",
     "internal network behind",
     "web manager nearly",
     "upcoming winter games",
-    "today we'll dig"
+    "today we'll dig",
+    "strong theme running"
   ],
   "trending": [
     {
       "keyword": "telecontrol server basic",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "sinec security monitor",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 110
+      "mentions": 111
     },
     {
       "keyword": "cisco secure email",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "pop email accounts",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "north america since",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "750 000 impacted",
-      "mentions": 10
-    },
-    {
-      "keyword": "1 000 archives",
-      "mentions": 17
-    },
-    {
-      "keyword": "cybersecurity firms react",
       "mentions": 11
     },
     {
+      "keyword": "cybersecurity firms react",
+      "mentions": 12
+    },
+    {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 20
+      "mentions": 21
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 371
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
+      "link": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
+      "summary": "OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, as the artificial intelligence (AI) company expanded access to its low-cost subscription globally. \"You need to know that your data and conversations are protected and never sold to advertisers,\" OpenAI said. \"And we need to keep a high bar and give",
+      "published": "Sat, 17 Jan 2026 14:04:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection",
@@ -143,21 +152,6 @@
       "value_signals": [
         "Patch/update",
         "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
-      "summary": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack. The vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin",
-      "published": "Thu, 15 Jan 2026 21:01:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "Privilege escalation",
-        "High severity",
-        "Exploit wording"
       ]
     },
     {

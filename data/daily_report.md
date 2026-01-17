@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-17 08:20 UTC  
+> **Last Updated:** 2026-01-17 10:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**telecontrol server basic** • **sinec security monitor** • **windows operating systems** • **cisco secure email** • **pop email accounts** • **north america since** • **750 000 impacted** • **1 000 archives** • **cybersecurity firms react** • **siemens ruggedcom ros** • **twitter whistleblower complaint** • **github repositories including** • **130 companies tangled** • **respective security advisories** • **post quantum security** • **ciro member firms** • **internal network behind** • **web manager nearly** • **upcoming winter games** • **today we'll dig**
+**telecontrol server basic** • **sinec security monitor** • **windows operating systems** • **cisco secure email** • **pop email accounts** • **north america since** • **750 000 impacted** • **cybersecurity firms react** • **siemens ruggedcom ros** • **twitter whistleblower complaint** • **130 companies tangled** • **1 000 archives** • **respective security advisories** • **post quantum security** • **ciro member firms** • **internal network behind** • **web manager nearly** • **upcoming winter games** • **today we'll dig** • **strong theme running**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html)
 - [GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection](https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html)
 - [Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html)
 - [Your Digital Footprint Can Lead Right to Your Front Door](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html)
@@ -23,7 +24,6 @@
 - [China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions](https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html)
 - [Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways](https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html)
 - [AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks](https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html)
-- [Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html)
 
 ### BleepingComputer
 

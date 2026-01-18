@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-18 16:19 UTC  
+> **Last Updated:** 2026-01-18 18:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**telecontrol server basic** • **cisco secure email** • **windows operating systems** • **sinec security monitor** • **north america since** • **cybersecurity firms react** • **750 000 impacted** • **siemens ruggedcom ros** • **web manager nearly** • **twitter whistleblower complaint** • **local ai models** • **130 companies tangled** • **840 000 installations** • **1 000 archives** • **ciro member firms** • **internal network behind** • **respective security advisories** • **post quantum security** • **national security risk** • **upcoming winter games**
+**cisco secure email** • **windows operating systems** • **750 000 impacted** • **sinec security monitor** • **telecontrol server basic** • **cybersecurity firms react** • **siemens ruggedcom ros** • **web manager nearly** • **twitter whistleblower complaint** • **840 000 installations** • **130 companies tangled** • **1 000 archives** • **local ai models** • **ciro member firms** • **internal network behind** • **final patch tuesday** • **respective security advisories** • **post quantum security** • **national security risk** • **upcoming winter games**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/)
+- [CIRO data breach last year exposed info on 750,000 Canadian investors](https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/)
+- [Google Chrome tests Gemini-powered AI "Skills"](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/)
 - [Google Chrome now lets you turn off on-device AI model powering scam detection](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/)
 - [Credential-stealing Chrome extensions target enterprise HR platforms](https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/)
 - [Malicious GhostPoster browser extensions found with 840,000 installs](https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/)
 - [ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/)
 - [OpenAI says its new ChatGPT ads won't influence answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/)
-- [StealC hackers hacked as researchers hijack malware control panels](https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/)
-- [Black Basta boss makes it onto Interpol's 'Red Notice' list](https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/)
-- [China-linked hackers exploited Sitecore zero-day for initial access](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/)
 
 ### Krebs on Security
 

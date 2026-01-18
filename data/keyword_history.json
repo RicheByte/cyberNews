@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -159,7 +159,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 386,
+      "count": 387,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -661,7 +661,7 @@
       ]
     },
     "national security risk": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1851,7 +1851,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2294,7 +2294,7 @@
       ]
     },
     "internal network behind": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2880,9 +2880,10 @@
       ]
     },
     "final patch tuesday": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-14"
+        "2026-01-14",
+        "2026-01-18"
       ]
     },
     "severe ai vulnerability": {
@@ -3091,7 +3092,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3100,7 +3101,7 @@
       ]
     },
     "sinec security monitor": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3109,7 +3110,7 @@
       ]
     },
     "siemens ruggedcom ros": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3124,7 +3125,7 @@
       ]
     },
     "respective security advisories": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3176,7 +3177,7 @@
       ]
     },
     "1 000 archives": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3202,7 +3203,7 @@
       ]
     },
     "cisco secure email": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3216,7 +3217,7 @@
       ]
     },
     "cybersecurity firms react": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3230,7 +3231,7 @@
       ]
     },
     "750 000 impacted": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3252,7 +3253,7 @@
       ]
     },
     "ciro member firms": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3260,7 +3261,7 @@
       ]
     },
     "post quantum security": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3282,7 +3283,7 @@
       ]
     },
     "web manager nearly": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3290,7 +3291,7 @@
       ]
     },
     "upcoming winter games": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3312,30 +3313,19 @@
       ]
     },
     "local ai models": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-18"
       ]
     },
     "840 000 installations": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-18"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-10 10:16",
-      "articles": 56,
-      "top_keywords": [
-        "377 000 impacted",
-        "arbitrary code execution",
-        "twitter whistleblower complaint",
-        "nearly 600 women",
-        "misconfigured proxy servers"
-      ]
-    },
     {
       "timestamp": "2026-01-10 12:31",
       "articles": 56,
@@ -4423,6 +4413,17 @@
         "windows operating systems",
         "sinec security monitor",
         "north america since"
+      ]
+    },
+    {
+      "timestamp": "2026-01-18 18:21",
+      "articles": 56,
+      "top_keywords": [
+        "cisco secure email",
+        "windows operating systems",
+        "750 000 impacted",
+        "sinec security monitor",
+        "telecontrol server basic"
       ]
     }
   ]

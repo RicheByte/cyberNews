@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-18 01:24",
+  "last_updated": "2026-01-18 03:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "telecontrol server basic",
-    "sinec security monitor",
-    "windows operating systems",
     "cisco secure email",
-    "pop email accounts",
+    "windows operating systems",
+    "sinec security monitor",
     "north america since",
-    "750 000 impacted",
     "cybersecurity firms react",
+    "750 000 impacted",
     "siemens ruggedcom ros",
+    "web manager nearly",
     "twitter whistleblower complaint",
+    "local ai models",
     "130 companies tangled",
+    "840 000 installations",
     "1 000 archives",
+    "ciro member firms",
+    "internal network behind",
     "respective security advisories",
     "post quantum security",
     "national security risk",
-    "ciro member firms",
-    "internal network behind",
-    "dire critical rating",
-    "critical sector counterparts",
-    "critical infrastructure systems"
+    "upcoming winter games"
   ],
   "trending": [
     {
       "keyword": "telecontrol server basic",
-      "mentions": 28
-    },
-    {
-      "keyword": "sinec security monitor",
-      "mentions": 28
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 118
+      "mentions": 29
     },
     {
       "keyword": "cisco secure email",
-      "mentions": 22
+      "mentions": 23
     },
     {
-      "keyword": "pop email accounts",
-      "mentions": 19
+      "keyword": "windows operating systems",
+      "mentions": 119
+    },
+    {
+      "keyword": "sinec security monitor",
+      "mentions": 29
     },
     {
       "keyword": "north america since",
-      "mentions": 16
-    },
-    {
-      "keyword": "750 000 impacted",
-      "mentions": 18
+      "mentions": 17
     },
     {
       "keyword": "cybersecurity firms react",
+      "mentions": 20
+    },
+    {
+      "keyword": "750 000 impacted",
       "mentions": 19
     },
     {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 28
+      "mentions": 29
+    },
+    {
+      "keyword": "web manager nearly",
+      "mentions": 11
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 378
+      "mentions": 379
     }
   ],
   "articles": [
@@ -155,6 +155,33 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Google Chrome now lets you turn off on-device AI model powering scam detection",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/",
+      "summary": "Google Chrome now lets you delete the local AI models that power the \"Enhanced Protection\" feature, which was upgraded with AI capabilities last year. [...]",
+      "published": "Sat, 17 Jan 2026 21:05:01 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Credential-stealing Chrome extensions target enterprise HR platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/",
+      "summary": "Malicious Chrome extensions on the Chrome Web Store masquerading as productivity and security tools for enterprise HR and ERP platforms were discovered stealing authentication credentials or blocking management pages used to respond to security incidents. [...]",
+      "published": "Sat, 17 Jan 2026 11:19:30 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Malicious GhostPoster browser extensions found with 840,000 installs",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/",
+      "summary": "Another set of 17 malicious extensions linked to the GhostPoster campaign has been discovered in Chrome, Firefox, and Edge stores, where they accumulated a total of 840,000 installations. [...]",
+      "published": "Sat, 17 Jan 2026 10:23:34 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/",
       "summary": "OpenAI's $8 ChatGPT Go subscription, which gives you 10x more messages, is now available in the United States and other regions. [...]",
@@ -201,38 +228,6 @@
       "value_signals": [
         "Zero-day ×2",
         "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Verizon starts issuing $20 credits after nationwide outage",
-      "link": "https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/",
-      "summary": "Verizon has begun sending text messages with instructions on how to redeem a $20 account credit for last week's nationwide wireless outage. [...]",
-      "published": "Fri, 16 Jan 2026 11:19:47 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Windows 11 update causes Outlook freezes for POP users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/",
-      "summary": "Microsoft confirmed that the KB5074109 January Windows 11 security update causes the classic Outlook desktop client to freeze and hang for users with POP email accounts. [...]",
-      "published": "Fri, 16 Jan 2026 07:12:41 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/",
-      "summary": "Attackers are now exploiting a critical Fortinet FortiSIEM vulnerability with publicly available proof-of-concept exploit code. [...]",
-      "published": "Fri, 16 Jan 2026 05:29:58 -0500",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
         "Exploit wording"
       ]
     },

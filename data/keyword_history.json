@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 128,
+      "count": 129,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -159,7 +159,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 388,
+      "count": 389,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -661,7 +661,7 @@
       ]
     },
     "national security risk": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1851,7 +1851,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2294,7 +2294,7 @@
       ]
     },
     "internal network behind": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2880,7 +2880,7 @@
       ]
     },
     "final patch tuesday": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-14",
         "2026-01-18"
@@ -3092,7 +3092,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3101,7 +3101,7 @@
       ]
     },
     "sinec security monitor": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3110,7 +3110,7 @@
       ]
     },
     "siemens ruggedcom ros": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3125,7 +3125,7 @@
       ]
     },
     "respective security advisories": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3177,7 +3177,7 @@
       ]
     },
     "1 000 archives": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3203,7 +3203,7 @@
       ]
     },
     "cisco secure email": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3217,7 +3217,7 @@
       ]
     },
     "cybersecurity firms react": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3231,7 +3231,7 @@
       ]
     },
     "750 000 impacted": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3253,7 +3253,7 @@
       ]
     },
     "ciro member firms": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3261,7 +3261,7 @@
       ]
     },
     "post quantum security": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3283,7 +3283,7 @@
       ]
     },
     "web manager nearly": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3291,7 +3291,7 @@
       ]
     },
     "upcoming winter games": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3313,30 +3313,19 @@
       ]
     },
     "local ai models": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-18"
       ]
     },
     "840 000 installations": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-18"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-10 14:15",
-      "articles": 56,
-      "top_keywords": [
-        "377 000 impacted",
-        "arbitrary code execution",
-        "twitter whistleblower complaint",
-        "nearly 600 women",
-        "misconfigured proxy servers"
-      ]
-    },
     {
       "timestamp": "2026-01-10 16:18",
       "articles": 56,
@@ -4417,6 +4406,17 @@
     },
     {
       "timestamp": "2026-01-18 20:18",
+      "articles": 56,
+      "top_keywords": [
+        "cisco secure email",
+        "windows operating systems",
+        "750 000 impacted",
+        "sinec security monitor",
+        "telecontrol server basic"
+      ]
+    },
+    {
+      "timestamp": "2026-01-18 22:15",
       "articles": 56,
       "top_keywords": [
         "cisco secure email",

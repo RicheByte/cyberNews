@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-18 18:21",
+  "last_updated": "2026-01-18 20:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "cisco secure email",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 127
+      "mentions": 128
     },
     {
       "keyword": "750 000 impacted",
-      "mentions": 27
-    },
-    {
-      "keyword": "sinec security monitor",
-      "mentions": 37
-    },
-    {
-      "keyword": "telecontrol server basic",
-      "mentions": 37
-    },
-    {
-      "keyword": "cybersecurity firms react",
       "mentions": 28
     },
     {
+      "keyword": "sinec security monitor",
+      "mentions": 38
+    },
+    {
+      "keyword": "telecontrol server basic",
+      "mentions": 38
+    },
+    {
+      "keyword": "cybersecurity firms react",
+      "mentions": 29
+    },
+    {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "web manager nearly",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 387
+      "mentions": 388
     },
     {
       "keyword": "840 000 installations",
-      "mentions": 9
+      "mentions": 10
     }
   ],
   "articles": [
@@ -166,7 +166,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "CIRO data breach last year exposed info on 750,000 Canadian investors",
+      "title": "CIRO confirms data breach exposed info on 750,000 Canadian investors",
       "link": "https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/",
       "summary": "The Canadian Investment Regulatory Organization (CIRO) confirmed that the data breach it suffered last year impacts about 750,000 Canadian investors. [...]",
       "published": "Sun, 18 Jan 2026 10:17:45 -0500",

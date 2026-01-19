@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-19 12:39 UTC  
+> **Last Updated:** 2026-01-19 14:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **750 000 impacted** • **42 000 impacted** • **sinec security monitor** • **devops saas downtime** • **1 000 archives** • **telecontrol server basic** • **siemens ruggedcom ros** • **upcoming winter games** • **twitter whistleblower complaint** • **product codenamed sonata** • **malicious extension crashes** • **go plans openai** • **840 000 installations** • **local ai models** • **internal network behind** • **final patch tuesday** • **respective security advisories** • **post quantum security** • **national security risk**
+**42 000 impacted** • **windows operating systems** • **sinec security monitor** • **openai hostname hints** • **1 000 archives** • **telecontrol server basic** • **42 000 individuals** • **siemens ruggedcom ros** • **upcoming winter games** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **product codenamed sonata** • **go plans openai** • **local ai models** • **internal network behind** • **final patch tuesday** • **will allow ai** • **today we'll dig** • **strong theme running** • **scoops nestled inside**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More](https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html)
 - [DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses](https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html)
 - [New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs](https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html)
 - [CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures](https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html)
@@ -23,10 +24,10 @@
 - [Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice](https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html)
 - [OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html)
 - [GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection](https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html)
-- [Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html)
 
 ### BleepingComputer
 
+- [Ingram Micro says ransomware attack affected 42,000 people](https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/)
 - [OpenAI hostname hints at a new ChatGPT feature codenamed "Sonata"](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/)
 - [New OpenAI leak hints at upcoming ChatGPT features](https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/)
 - [Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/)
@@ -34,7 +35,6 @@
 - [Google Chrome tests Gemini-powered AI "Skills"](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/)
 - [Google Chrome now lets you turn off on-device AI model powering scam detection](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/)
 - [Credential-stealing Chrome extensions target enterprise HR platforms](https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/)
-- [Malicious GhostPoster browser extensions found with 840,000 installs](https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks](https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/)
+- [‘SolyxImmortal’ Information Stealer Emerges](https://www.securityweek.com/solyximmortal-information-stealer-emerges/)
+- [Cyber Insights 2026: Information Sharing](https://www.securityweek.com/cyber-insights-2026-information-sharing/)
 - [New Reports Reinforce Cyberattack’s Role in Maduro Capture Blackout](https://www.securityweek.com/new-reports-reinforce-cyberattacks-role-in-maduro-capture-blackout/)
 - [Malicious Chrome Extension Crashes Browser in ClickFix Variant ‘CrashFix’](https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/)
 - [42,000 Impacted by Ingram Micro Ransomware Attack](https://www.securityweek.com/42000-impacted-by-ingram-micro-ransomware-attack/)
 - [Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System](https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/)
 - [In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack](https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/)
-- [Monnai Raises $12 Million for Identity and Risk Data Infrastructure](https://www.securityweek.com/monnai-raises-12-million-for-identity-and-risk-data-infrastructure/)
-- [Project Eleven Raises $20 Million for Post-Quantum Security](https://www.securityweek.com/project-eleven-raises-20-million-for-post-quantum-security/)
-- [750,000 Impacted by Data Breach at Canadian Investment Watchdog](https://www.securityweek.com/750000-impacted-by-data-breach-at-canadian-investment-watchdog/)
 
 ### Threatpost
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-19 12:39 UTC |
+| 🕐 Last Updated | 2026-01-19 14:22 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows operating systems` • `750 000 impacted` • `42 000 impacted` • `sinec security monitor` • `devops saas downtime` • `1 000 archives` • `telecontrol server basic` • `siemens ruggedcom ros` • `upcoming winter games` • `twitter whistleblower complaint`
+`42 000 impacted` • `windows operating systems` • `sinec security monitor` • `openai hostname hints` • `1 000 archives` • `telecontrol server basic` • `42 000 individuals` • `siemens ruggedcom ros` • `upcoming winter games` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

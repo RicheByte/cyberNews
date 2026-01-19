@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-19 16:22 UTC |
+| 🕐 Last Updated | 2026-01-19 18:25 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`42 000 impacted` • `sinec security monitor` • `openai hostname hints` • `1 000 archives` • `telecontrol server basic` • `42 000 individuals` • `siemens ruggedcom ros` • `upcoming winter games` • `twitter whistleblower complaint` • `sprawling phishing campaign`
+`42 000 impacted` • `sinec security monitor` • `openai hostname hints` • `42 000 individuals` • `telecontrol server basic` • `siemens ruggedcom ros` • `upcoming winter games` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `product codenamed sonata`
 
 ## 📄 Reports
 

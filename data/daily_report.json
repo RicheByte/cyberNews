@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-01-19 16:22",
+  "last_updated": "2026-01-19 18:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "42 000 impacted",
     "sinec security monitor",
     "openai hostname hints",
-    "1 000 archives",
-    "telecontrol server basic",
     "42 000 individuals",
+    "telecontrol server basic",
     "siemens ruggedcom ros",
     "upcoming winter games",
     "twitter whistleblower complaint",
@@ -22,51 +21,61 @@
     "final patch tuesday",
     "respective security advisories",
     "national security risk",
-    "today we'll dig"
+    "today we'll dig",
+    "strong theme running"
   ],
   "trending": [
     {
       "keyword": "42 000 impacted",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "sinec security monitor",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "openai hostname hints",
-      "mentions": 2
-    },
-    {
-      "keyword": "1 000 archives",
-      "mentions": 45
-    },
-    {
-      "keyword": "telecontrol server basic",
-      "mentions": 48
+      "mentions": 3
     },
     {
       "keyword": "42 000 individuals",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "telecontrol server basic",
+      "mentions": 49
     },
     {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "upcoming winter games",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 398
+      "mentions": 399
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 68
+      "mentions": 69
+    },
+    {
+      "keyword": "product codenamed sonata",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+      "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+      "summary": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism. The vulnerability, Miggo Security's Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar's privacy controls by hiding a dormant",
+      "published": "Mon, 19 Jan 2026 22:51:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
@@ -138,13 +147,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection",
-      "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html",
-      "summary": "The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that's designed to sidestep detection efforts by concatenating anywhere from 500 to 1,000 archives. \"The actor creates a malformed archive as an anti-analysis technique,\" Expel security researcher Aaron Walton said in a report shared with The Hacker News. \"That is, many unarchiving tools",
-      "published": "Fri, 16 Jan 2026 23:29:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "UK govt. warns about ongoing Russian hacktivist group attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/",
+      "summary": "The U.K. government is warning of continued malicious activity from Russian-aligned hacktivist groups targeting critical infrastructure and local government organizations in the country in disruptive denial-of-service (DDoS) attacks. [...]",
+      "published": "Mon, 19 Jan 2026 12:20:39 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -218,15 +229,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google Chrome tests Gemini-powered AI \"Skills\"",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/",
-      "summary": "Google is testing \"Skills\" for Gemini in Chrome, which will allow AI in Chrome to perform tasks automatically, and it could challenge Perplexity Comet or Edge's Copilot mode. [...]",
-      "published": "Sat, 17 Jan 2026 22:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -315,6 +317,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "ChatGPT Health Raises Big Security, Safety Concerns",
+      "link": "https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns",
+      "summary": "ChatGPT Health promises robust data protection, but elements of the rollout raise big questions regarding user security and safety.",
+      "published": "Mon, 19 Jan 2026 17:57:52 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "More Problems for Fortinet: Critical FortiSIEM Flaw Exploited",
       "link": "https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited",
       "summary": "CVE-2025-64155, a command injection vulnerability, was disclosed earlier this week and quickly came under attack from a variety of IP addresses.",
@@ -377,17 +388,6 @@
       "link": "https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs",
       "summary": "Experts disagree on whether the vulnerabilities in a programmable logic controller from Delta are a five-alarm fire or not much to worry over.",
       "published": "Thu, 15 Jan 2026 11:00:00 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Retail, Services Industries Under Fire in Oceania",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania",
-      "summary": "Last year in Australia, New Zealand, and the South Pacific, Main Street businesses like retail and construction suffered more cyberattacks than their critical sector counterparts.",
-      "published": "Wed, 14 Jan 2026 21:19:44 GMT",
       "value_score": 18,
       "value_signals": [
         "High severity"

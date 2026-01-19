@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -160,7 +160,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 398,
+      "count": 399,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -663,7 +663,7 @@
       ]
     },
     "national security risk": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1334,7 +1334,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2178,7 +2178,7 @@
       ]
     },
     "strong theme running": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2287,7 +2287,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2301,7 +2301,7 @@
       ]
     },
     "internal network behind": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2889,7 +2889,7 @@
       ]
     },
     "final patch tuesday": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-14",
         "2026-01-18",
@@ -3102,7 +3102,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3112,7 +3112,7 @@
       ]
     },
     "sinec security monitor": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3122,7 +3122,7 @@
       ]
     },
     "siemens ruggedcom ros": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3138,7 +3138,7 @@
       ]
     },
     "respective security advisories": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3311,7 +3311,7 @@
       ]
     },
     "upcoming winter games": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3348,7 +3348,7 @@
       ]
     },
     "go plans openai": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-19"
       ]
@@ -3366,7 +3366,7 @@
       ]
     },
     "42 000 impacted": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-19"
       ]
@@ -3378,7 +3378,7 @@
       ]
     },
     "product codenamed sonata": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-19"
       ]
@@ -3390,13 +3390,13 @@
       ]
     },
     "openai hostname hints": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-19"
       ]
     },
     "42 000 individuals": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-19"
       ]
@@ -3408,30 +3408,19 @@
       ]
     },
     "least 50 companies": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-19"
       ]
     },
     "50 corporate networks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-19"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-11 10:16",
-      "articles": 56,
-      "top_keywords": [
-        "377 000 impacted",
-        "arbitrary code execution",
-        "twitter whistleblower complaint",
-        "misconfigured proxy servers",
-        "exploits surrounding ics"
-      ]
-    },
     {
       "timestamp": "2026-01-11 12:32",
       "articles": 48,
@@ -4518,6 +4507,17 @@
         "sinec security monitor",
         "openai hostname hints",
         "1 000 archives",
+        "telecontrol server basic"
+      ]
+    },
+    {
+      "timestamp": "2026-01-19 18:25",
+      "articles": 56,
+      "top_keywords": [
+        "42 000 impacted",
+        "sinec security monitor",
+        "openai hostname hints",
+        "42 000 individuals",
         "telecontrol server basic"
       ]
     }

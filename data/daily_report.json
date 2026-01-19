@@ -1,19 +1,18 @@
 {
-  "last_updated": "2026-01-19 20:19",
+  "last_updated": "2026-01-19 22:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "42 000 impacted",
     "sinec security monitor",
     "openai hostname hints",
-    "42 000 individuals",
     "telecontrol server basic",
     "siemens ruggedcom ros",
+    "42 000 individuals",
     "upcoming winter games",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "product codenamed sonata",
-    "windows operating systems",
     "go plans openai",
     "least 50 companies",
     "50 corporate networks",
@@ -22,48 +21,49 @@
     "respective security advisories",
     "national security risk",
     "today we'll dig",
-    "strong theme running"
+    "strong theme running",
+    "scoops nestled inside"
   ],
   "trending": [
     {
       "keyword": "42 000 impacted",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "sinec security monitor",
-      "mentions": 50
+      "mentions": 51
     },
     {
       "keyword": "openai hostname hints",
-      "mentions": 4
-    },
-    {
-      "keyword": "42 000 individuals",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 50
+      "mentions": 51
     },
     {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 50
+      "mentions": 51
+    },
+    {
+      "keyword": "42 000 individuals",
+      "mentions": 5
     },
     {
       "keyword": "upcoming winter games",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 400
+      "mentions": 401
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 70
+      "mentions": 71
     },
     {
       "keyword": "product codenamed sonata",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -148,6 +148,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New PDFSider Windows malware deployed on Fortune 100 firm's network",
+      "link": "https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/",
+      "summary": "Ransomware attackers targeting a Fortune 100 company in the finance sector used a new malware strain, dubbed PDFSider, to deliver malicious payloads on Windows systems. [...]",
+      "published": "Mon, 19 Jan 2026 16:00:34 -0500",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "UK govt. warns about ongoing Russian hacktivist group attacks",
       "link": "https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/",
       "summary": "The U.K. government is warning of continued malicious activity from Russian-aligned hacktivist groups targeting critical infrastructure and local government organizations in the country in disruptive denial-of-service (DDoS) attacks. [...]",
@@ -217,17 +228,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CIRO confirms data breach exposed info on 750,000 Canadian investors",
-      "link": "https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/",
-      "summary": "The Canadian Investment Regulatory Organization (CIRO) confirmed that the data breach it suffered last year impacts about 750,000 Canadian investors. [...]",
-      "published": "Sun, 18 Jan 2026 10:17:45 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

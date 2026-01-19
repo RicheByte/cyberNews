@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -160,7 +160,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 391,
+      "count": 392,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1853,7 +1853,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2297,7 +2297,7 @@
       ]
     },
     "internal network behind": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2884,7 +2884,7 @@
       ]
     },
     "final patch tuesday": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-14",
         "2026-01-18",
@@ -3097,7 +3097,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3107,7 +3107,7 @@
       ]
     },
     "sinec security monitor": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3117,7 +3117,7 @@
       ]
     },
     "siemens ruggedcom ros": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3133,7 +3133,7 @@
       ]
     },
     "respective security advisories": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3186,7 +3186,7 @@
       ]
     },
     "1 000 archives": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3213,7 +3213,7 @@
       ]
     },
     "cisco secure email": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3228,7 +3228,7 @@
       ]
     },
     "cybersecurity firms react": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3243,7 +3243,7 @@
       ]
     },
     "750 000 impacted": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3266,7 +3266,7 @@
       ]
     },
     "ciro member firms": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3275,7 +3275,7 @@
       ]
     },
     "post quantum security": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3306,7 +3306,7 @@
       ]
     },
     "upcoming winter games": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3329,44 +3329,33 @@
       ]
     },
     "local ai models": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-18",
         "2026-01-19"
       ]
     },
     "840 000 installations": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-18",
         "2026-01-19"
       ]
     },
     "go plans openai": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-19"
       ]
     },
     "chatgpt go tiers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-19"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-10 20:17",
-      "articles": 56,
-      "top_keywords": [
-        "377 000 impacted",
-        "arbitrary code execution",
-        "twitter whistleblower complaint",
-        "misconfigured proxy servers",
-        "exploits surrounding ics"
-      ]
-    },
     {
       "timestamp": "2026-01-10 22:15",
       "articles": 56,
@@ -4447,6 +4436,17 @@
     },
     {
       "timestamp": "2026-01-19 03:45",
+      "articles": 56,
+      "top_keywords": [
+        "cisco secure email",
+        "windows operating systems",
+        "750 000 impacted",
+        "sinec security monitor",
+        "telecontrol server basic"
+      ]
+    },
+    {
+      "timestamp": "2026-01-19 04:47",
       "articles": 56,
       "top_keywords": [
         "cisco secure email",

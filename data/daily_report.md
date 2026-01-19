@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-19 14:22 UTC  
+> **Last Updated:** 2026-01-19 16:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**42 000 impacted** • **windows operating systems** • **sinec security monitor** • **openai hostname hints** • **1 000 archives** • **telecontrol server basic** • **42 000 individuals** • **siemens ruggedcom ros** • **upcoming winter games** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **product codenamed sonata** • **go plans openai** • **local ai models** • **internal network behind** • **final patch tuesday** • **will allow ai** • **today we'll dig** • **strong theme running** • **scoops nestled inside**
+**42 000 impacted** • **sinec security monitor** • **openai hostname hints** • **1 000 archives** • **telecontrol server basic** • **42 000 individuals** • **siemens ruggedcom ros** • **upcoming winter games** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **product codenamed sonata** • **windows operating systems** • **go plans openai** • **least 50 companies** • **50 corporate networks** • **internal network behind** • **final patch tuesday** • **respective security advisories** • **national security risk** • **today we'll dig**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Hacker admits to leaking stolen Supreme Court data on Instagram](https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/)
+- [Jordanian pleads guilty to selling access to 50 corporate networks](https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/)
 - [Ingram Micro says ransomware attack affected 42,000 people](https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/)
 - [OpenAI hostname hints at a new ChatGPT feature codenamed "Sonata"](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/)
 - [New OpenAI leak hints at upcoming ChatGPT features](https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/)
 - [Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/)
 - [CIRO confirms data breach exposed info on 750,000 Canadian investors](https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/)
 - [Google Chrome tests Gemini-powered AI "Skills"](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/)
-- [Google Chrome now lets you turn off on-device AI model powering scam detection](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/)
-- [Credential-stealing Chrome extensions target enterprise HR platforms](https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking](https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/)
 - [Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks](https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/)
 - [‘SolyxImmortal’ Information Stealer Emerges](https://www.securityweek.com/solyximmortal-information-stealer-emerges/)
 - [Cyber Insights 2026: Information Sharing](https://www.securityweek.com/cyber-insights-2026-information-sharing/)
@@ -67,7 +68,6 @@
 - [Malicious Chrome Extension Crashes Browser in ClickFix Variant ‘CrashFix’](https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/)
 - [42,000 Impacted by Ingram Micro Ransomware Attack](https://www.securityweek.com/42000-impacted-by-ingram-micro-ransomware-attack/)
 - [Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System](https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/)
-- [In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack](https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/)
 
 ### Threatpost
 

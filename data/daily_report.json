@@ -1,10 +1,9 @@
 {
-  "last_updated": "2026-01-19 14:22",
+  "last_updated": "2026-01-19 16:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "42 000 impacted",
-    "windows operating systems",
     "sinec security monitor",
     "openai hostname hints",
     "1 000 archives",
@@ -15,55 +14,56 @@
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "product codenamed sonata",
+    "windows operating systems",
     "go plans openai",
-    "local ai models",
+    "least 50 companies",
+    "50 corporate networks",
     "internal network behind",
     "final patch tuesday",
-    "will allow ai",
-    "today we'll dig",
-    "strong theme running",
-    "scoops nestled inside"
+    "respective security advisories",
+    "national security risk",
+    "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "42 000 impacted",
-      "mentions": 2
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 137
+      "mentions": 3
     },
     {
       "keyword": "sinec security monitor",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "openai hostname hints",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "1 000 archives",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "42 000 individuals",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "upcoming winter games",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 397
+      "mentions": 398
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 68
     }
   ],
   "articles": [
@@ -148,6 +148,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hacker admits to leaking stolen Supreme Court data on Instagram",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/",
+      "summary": "A Tennessee man has pleaded guilty to hacking the U.S. Supreme Court's electronic filing system and breaching accounts at the AmeriCorps U.S. federal agency and the Department of Veterans Affairs. [...]",
+      "published": "Mon, 19 Jan 2026 11:04:14 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Jordanian pleads guilty to selling access to 50 corporate networks",
+      "link": "https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/",
+      "summary": "A Jordanian man has pleaded guilty to operating as an \"access broker\" who sold access to the computer networks of at least 50 companies. [...]",
+      "published": "Mon, 19 Jan 2026 09:38:32 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Ingram Micro says ransomware attack affected 42,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/",
       "summary": "​Information technology giant Ingram Micro has revealed that a ransomware attack on its systems in July 2025 led to a data breach affecting over 42,000 individuals. [...]",
@@ -207,24 +225,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/",
       "summary": "Google is testing \"Skills\" for Gemini in Chrome, which will allow AI in Chrome to perform tasks automatically, and it could challenge Perplexity Comet or Edge's Copilot mode. [...]",
       "published": "Sat, 17 Jan 2026 22:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google Chrome now lets you turn off on-device AI model powering scam detection",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/",
-      "summary": "Google Chrome now lets you delete the local AI models that power the \"Enhanced Protection\" feature, which was upgraded with AI capabilities last year. [...]",
-      "published": "Sat, 17 Jan 2026 21:05:01 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Credential-stealing Chrome extensions target enterprise HR platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/",
-      "summary": "Malicious Chrome extensions on the Chrome Web Store masquerading as productivity and security tools for enterprise HR and ERP platforms were discovered stealing authentication credentials or blocking management pages used to respond to security incidents. [...]",
-      "published": "Sat, 17 Jan 2026 11:19:30 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -395,6 +395,15 @@
     },
     {
       "source": "Security Week",
+      "title": "TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking",
+      "link": "https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/",
+      "summary": "The researcher who discovered the vulnerability saw more than 2,500 internet-exposed devices. The post TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking appeared first on SecurityWeek .",
+      "published": "Mon, 19 Jan 2026 14:39:37 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks",
       "link": "https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/",
       "summary": "Operating as an access broker, the defendant sold unauthorized access to compromised networks to an undercover agent. The post Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks appeared first on SecurityWeek .",
@@ -457,17 +466,6 @@
       "published": "Sat, 17 Jan 2026 11:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack",
-      "link": "https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: BodySnatcher agentic AI hijacking, Telegram IP exposure, shipping systems hacked by researcher. The post In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack appeared first on SecurityWeek .",
-      "published": "Fri, 16 Jan 2026 16:14:58 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

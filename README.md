@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-18 22:15 UTC |
+| 🕐 Last Updated | 2026-01-19 01:23 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cisco secure email` • `windows operating systems` • `750 000 impacted` • `sinec security monitor` • `telecontrol server basic` • `cybersecurity firms react` • `siemens ruggedcom ros` • `web manager nearly` • `twitter whistleblower complaint` • `840 000 installations`
+`cisco secure email` • `windows operating systems` • `750 000 impacted` • `sinec security monitor` • `telecontrol server basic` • `cybersecurity firms react` • `siemens ruggedcom ros` • `go plans openai` • `upcoming winter games` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

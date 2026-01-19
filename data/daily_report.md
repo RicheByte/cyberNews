@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-18 22:15 UTC  
+> **Last Updated:** 2026-01-19 01:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cisco secure email** • **windows operating systems** • **750 000 impacted** • **sinec security monitor** • **telecontrol server basic** • **cybersecurity firms react** • **siemens ruggedcom ros** • **web manager nearly** • **twitter whistleblower complaint** • **840 000 installations** • **130 companies tangled** • **1 000 archives** • **local ai models** • **ciro member firms** • **internal network behind** • **final patch tuesday** • **respective security advisories** • **post quantum security** • **national security risk** • **upcoming winter games**
+**cisco secure email** • **windows operating systems** • **750 000 impacted** • **sinec security monitor** • **telecontrol server basic** • **cybersecurity firms react** • **siemens ruggedcom ros** • **go plans openai** • **upcoming winter games** • **twitter whistleblower complaint** • **840 000 installations** • **130 companies tangled** • **1 000 archives** • **local ai models** • **chatgpt go tiers** • **ciro member firms** • **internal network behind** • **final patch tuesday** • **respective security advisories** • **post quantum security**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New OpenAI leak hints at upcoming ChatGPT features](https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/)
 - [Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/)
 - [CIRO confirms data breach exposed info on 750,000 Canadian investors](https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/)
 - [Google Chrome tests Gemini-powered AI "Skills"](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/)
@@ -34,7 +35,6 @@
 - [Credential-stealing Chrome extensions target enterprise HR platforms](https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/)
 - [Malicious GhostPoster browser extensions found with 840,000 installs](https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/)
 - [ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/)
-- [OpenAI says its new ChatGPT ads won't influence answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/)
 
 ### Krebs on Security
 

@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-01-19 10:23",
+  "last_updated": "2026-01-19 12:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "windows operating systems",
     "750 000 impacted",
-    "telecontrol server basic",
+    "42 000 impacted",
     "sinec security monitor",
-    "cybersecurity firms react",
+    "devops saas downtime",
+    "1 000 archives",
+    "telecontrol server basic",
     "siemens ruggedcom ros",
     "upcoming winter games",
     "twitter whistleblower complaint",
+    "product codenamed sonata",
+    "malicious extension crashes",
     "go plans openai",
     "840 000 installations",
-    "130 companies tangled",
-    "1 000 archives",
     "local ai models",
-    "ciro member firms",
     "internal network behind",
     "final patch tuesday",
-    "today we'll dig",
-    "strong theme running",
-    "scoops nestled inside",
-    "run arbitrary code"
+    "respective security advisories",
+    "post quantum security",
+    "national security risk"
   ],
   "trending": [
     {
       "keyword": "windows operating systems",
-      "mentions": 135
+      "mentions": 136
     },
     {
       "keyword": "750 000 impacted",
-      "mentions": 35
-    },
-    {
-      "keyword": "telecontrol server basic",
-      "mentions": 45
-    },
-    {
-      "keyword": "sinec security monitor",
-      "mentions": 45
-    },
-    {
-      "keyword": "cybersecurity firms react",
       "mentions": 36
     },
     {
+      "keyword": "42 000 impacted",
+      "mentions": 1
+    },
+    {
+      "keyword": "sinec security monitor",
+      "mentions": 46
+    },
+    {
+      "keyword": "devops saas downtime",
+      "mentions": 1
+    },
+    {
+      "keyword": "1 000 archives",
+      "mentions": 43
+    },
+    {
+      "keyword": "telecontrol server basic",
+      "mentions": 46
+    },
+    {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 45
+      "mentions": 46
     },
     {
       "keyword": "upcoming winter games",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 395
-    },
-    {
-      "keyword": "go plans openai",
-      "mentions": 6
-    },
-    {
-      "keyword": "840 000 installations",
-      "mentions": 17
+      "mentions": 396
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
+      "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+      "summary": "Just a few years ago, the cloud was touted as the “magic pill” for any cyber threat or performance issue. Many were lured by the “always-on” dream, trading granular control for the convenience of managed services. In recent years, many of us have learned (often the hard way) that public cloud service providers are not immune to attacks and SaaS downtime, hiding behind the Shared Responsibility",
+      "published": "Mon, 19 Jan 2026 17:25:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs",
+      "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+      "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors. The security flaw, codenamed StackWarp, can allow bad actors with privileged control over a host server to run malicious code within confidential virtual machines (CVMs), undermining the integrity guarantees provided by AMD",
+      "published": "Mon, 19 Jan 2026 17:01:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
@@ -124,27 +142,6 @@
       "published": "Fri, 16 Jan 2026 19:39:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Your Digital Footprint Can Lead Right to Your Front Door",
-      "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html",
-      "summary": "You lock your doors at night. You avoid sketchy phone calls. You’re careful about what you post on social media. But what about the information about you that’s already out there—without your permission? Your name. Home address. Phone number. Past jobs. Family members. Old usernames. It’s all still online, and it’s a lot easier to find than you think. The hidden safety threat lurking online Most",
-      "published": "Fri, 16 Jan 2026 16:12:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
-      "link": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html",
-      "summary": "Security experts have disclosed details of a new campaign that has targeted U.S. government and policy entities using politically themed lures to deliver a backdoor known as LOTUSLITE. The targeted malware campaign leverages decoys related to the recent geopolitical developments between the U.S. and Venezuela to distribute a ZIP archive (\"US now deciding what's next for Venezuela.zip\")",
-      "published": "Fri, 16 Jan 2026 15:57:00 +0530",
-      "value_score": 42,
-      "value_signals": [
-        "Backdoor ×2",
-        "Phishing"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -392,6 +389,35 @@
     },
     {
       "source": "Security Week",
+      "title": "New Reports Reinforce Cyberattack’s Role in Maduro Capture Blackout",
+      "link": "https://www.securityweek.com/new-reports-reinforce-cyberattacks-role-in-maduro-capture-blackout/",
+      "summary": "US officials told The New York Times that cyberattacks were used to turn off the lights in Caracas and disrupt air defense radars. The post New Reports Reinforce Cyberattack’s Role in Maduro Capture Blackout appeared first on SecurityWeek .",
+      "published": "Mon, 19 Jan 2026 12:26:38 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Malicious Chrome Extension Crashes Browser in ClickFix Variant ‘CrashFix’",
+      "link": "https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/",
+      "summary": "Posing as an ad blocker, the malicious extension crashes the browser to lure victims into installing malware. The post Malicious Chrome Extension Crashes Browser in ClickFix Variant ‘CrashFix’ appeared first on SecurityWeek .",
+      "published": "Mon, 19 Jan 2026 11:08:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "42,000 Impacted by Ingram Micro Ransomware Attack",
+      "link": "https://www.securityweek.com/42000-impacted-by-ingram-micro-ransomware-attack/",
+      "summary": "The compromised personal information includes names, dates of birth, Social Security numbers, and employment-related data. The post 42,000 Impacted by Ingram Micro Ransomware Attack appeared first on SecurityWeek .",
+      "published": "Mon, 19 Jan 2026 10:51:28 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System",
       "link": "https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/",
       "summary": "Nicholas Moore pleaded guilty to repeatedly hacking the U.S. Supreme Court’s filing system and illegally accessing computer systems belonging to AmeriCorps and the Department of Veterans Affairs. The post Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System appeared first on SecurityWeek .",
@@ -438,35 +464,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyber Insights 2026: Social Engineering",
-      "link": "https://www.securityweek.com/cyber-insights-2026-social-engineering/",
-      "summary": "We've known that social engineering would get AI wings. Now, at the beginning of 2026, we are learning just how high those wings can soar. The post Cyber Insights 2026: Social Engineering appeared first on SecurityWeek .",
-      "published": "Fri, 16 Jan 2026 12:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "WhisperPair Attack Leaves Millions of Audio Accessories Open to Hijacking",
-      "link": "https://www.securityweek.com/whisperpair-attack-leaves-millions-of-bluetooth-accessories-open-to-hijacking/",
-      "summary": "The critical issue impacts Bluetooth audio accessories with improper Google Fast Pair implementations. The post WhisperPair Attack Leaves Millions of Audio Accessories Open to Hijacking appeared first on SecurityWeek .",
-      "published": "Fri, 16 Jan 2026 11:50:01 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cybersecurity Firms React to China’s Reported Software Ban",
-      "link": "https://www.securityweek.com/cybersecurity-firms-react-to-chinas-reported-software-ban/",
-      "summary": "China has more than 5,000 cybersecurity companies and all the top 20 firms are working with the government. The post Cybersecurity Firms React to China’s Reported Software Ban appeared first on SecurityWeek .",
-      "published": "Fri, 16 Jan 2026 11:25:26 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

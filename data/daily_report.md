@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-19 10:23 UTC  
+> **Last Updated:** 2026-01-19 12:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **750 000 impacted** • **telecontrol server basic** • **sinec security monitor** • **cybersecurity firms react** • **siemens ruggedcom ros** • **upcoming winter games** • **twitter whistleblower complaint** • **go plans openai** • **840 000 installations** • **130 companies tangled** • **1 000 archives** • **local ai models** • **ciro member firms** • **internal network behind** • **final patch tuesday** • **today we'll dig** • **strong theme running** • **scoops nestled inside** • **run arbitrary code**
+**windows operating systems** • **750 000 impacted** • **42 000 impacted** • **sinec security monitor** • **devops saas downtime** • **1 000 archives** • **telecontrol server basic** • **siemens ruggedcom ros** • **upcoming winter games** • **twitter whistleblower complaint** • **product codenamed sonata** • **malicious extension crashes** • **go plans openai** • **840 000 installations** • **local ai models** • **internal network behind** • **final patch tuesday** • **respective security advisories** • **post quantum security** • **national security risk**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses](https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html)
+- [New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs](https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html)
 - [CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures](https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html)
 - [Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations](https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html)
 - [Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice](https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html)
 - [OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html)
 - [GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection](https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html)
 - [Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html)
-- [Your Digital Footprint Can Lead Right to Your Front Door](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html)
-- [LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing](https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [New Reports Reinforce Cyberattack’s Role in Maduro Capture Blackout](https://www.securityweek.com/new-reports-reinforce-cyberattacks-role-in-maduro-capture-blackout/)
+- [Malicious Chrome Extension Crashes Browser in ClickFix Variant ‘CrashFix’](https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/)
+- [42,000 Impacted by Ingram Micro Ransomware Attack](https://www.securityweek.com/42000-impacted-by-ingram-micro-ransomware-attack/)
 - [Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System](https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/)
 - [In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack](https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/)
 - [Monnai Raises $12 Million for Identity and Risk Data Infrastructure](https://www.securityweek.com/monnai-raises-12-million-for-identity-and-risk-data-infrastructure/)
 - [Project Eleven Raises $20 Million for Post-Quantum Security](https://www.securityweek.com/project-eleven-raises-20-million-for-post-quantum-security/)
 - [750,000 Impacted by Data Breach at Canadian Investment Watchdog](https://www.securityweek.com/750000-impacted-by-data-breach-at-canadian-investment-watchdog/)
-- [Cyber Insights 2026: Social Engineering](https://www.securityweek.com/cyber-insights-2026-social-engineering/)
-- [WhisperPair Attack Leaves Millions of Audio Accessories Open to Hijacking](https://www.securityweek.com/whisperpair-attack-leaves-millions-of-bluetooth-accessories-open-to-hijacking/)
-- [Cybersecurity Firms React to China’s Reported Software Ban](https://www.securityweek.com/cybersecurity-firms-react-to-chinas-reported-software-ban/)
 
 ### Threatpost
 

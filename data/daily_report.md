@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-19 06:31 UTC  
+> **Last Updated:** 2026-01-19 08:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cisco secure email** • **windows operating systems** • **750 000 impacted** • **sinec security monitor** • **telecontrol server basic** • **cybersecurity firms react** • **siemens ruggedcom ros** • **go plans openai** • **upcoming winter games** • **twitter whistleblower complaint** • **840 000 installations** • **130 companies tangled** • **1 000 archives** • **local ai models** • **chatgpt go tiers** • **ciro member firms** • **internal network behind** • **final patch tuesday** • **respective security advisories** • **post quantum security**
+**windows operating systems** • **750 000 impacted** • **telecontrol server basic** • **sinec security monitor** • **cybersecurity firms react** • **go plans openai** • **siemens ruggedcom ros** • **upcoming winter games** • **twitter whistleblower complaint** • **840 000 installations** • **130 companies tangled** • **1 000 archives** • **local ai models** • **chatgpt go tiers** • **ciro member firms** • **internal network behind** • **final patch tuesday** • **today we'll dig** • **strong theme running** • **scoops nestled inside**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations](https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html)
 - [Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice](https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html)
 - [OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html)
 - [GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection](https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html)
@@ -23,7 +24,6 @@
 - [Your Digital Footprint Can Lead Right to Your Front Door](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html)
 - [LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing](https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html)
 - [China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions](https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html)
-- [Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways](https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html)
 
 ### BleepingComputer
 

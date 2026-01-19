@@ -1,16 +1,15 @@
 {
-  "last_updated": "2026-01-19 06:31",
+  "last_updated": "2026-01-19 08:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "cisco secure email",
     "windows operating systems",
     "750 000 impacted",
-    "sinec security monitor",
     "telecontrol server basic",
+    "sinec security monitor",
     "cybersecurity firms react",
-    "siemens ruggedcom ros",
     "go plans openai",
+    "siemens ruggedcom ros",
     "upcoming winter games",
     "twitter whistleblower complaint",
     "840 000 installations",
@@ -21,52 +20,64 @@
     "ciro member firms",
     "internal network behind",
     "final patch tuesday",
-    "respective security advisories",
-    "post quantum security"
+    "today we'll dig",
+    "strong theme running",
+    "scoops nestled inside"
   ],
   "trending": [
     {
-      "keyword": "cisco secure email",
-      "mentions": 37
-    },
-    {
       "keyword": "windows operating systems",
-      "mentions": 133
+      "mentions": 134
     },
     {
       "keyword": "750 000 impacted",
-      "mentions": 33
-    },
-    {
-      "keyword": "sinec security monitor",
-      "mentions": 43
-    },
-    {
-      "keyword": "telecontrol server basic",
-      "mentions": 43
-    },
-    {
-      "keyword": "cybersecurity firms react",
       "mentions": 34
     },
     {
-      "keyword": "siemens ruggedcom ros",
-      "mentions": 43
+      "keyword": "telecontrol server basic",
+      "mentions": 44
+    },
+    {
+      "keyword": "sinec security monitor",
+      "mentions": 44
+    },
+    {
+      "keyword": "cybersecurity firms react",
+      "mentions": 35
     },
     {
       "keyword": "go plans openai",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "siemens ruggedcom ros",
+      "mentions": 44
     },
     {
       "keyword": "upcoming winter games",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 393
+      "mentions": 394
+    },
+    {
+      "keyword": "840 000 installations",
+      "mentions": 16
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+      "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
+      "summary": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial insights on one of the threat actors using the malware in their operations. \"By exploiting it, we were able to collect system fingerprints, monitor active sessions, and – in a twist that will",
+      "published": "Mon, 19 Jan 2026 12:23:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
@@ -136,20 +147,6 @@
       "value_signals": [
         "Zero-day",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways",
-      "link": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html",
-      "summary": "Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager, nearly a month after the company disclosed that it had been exploited as a zero-day by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686. The vulnerability, tracked as CVE-2025-20393 (CVSS",
-      "published": "Fri, 16 Jan 2026 11:08:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "RCE",
         "Exploit wording"
       ]
     },

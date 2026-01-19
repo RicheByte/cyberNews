@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19 08:26",
+  "last_updated": "2026-01-19 10:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,65 +8,74 @@
     "telecontrol server basic",
     "sinec security monitor",
     "cybersecurity firms react",
-    "go plans openai",
     "siemens ruggedcom ros",
     "upcoming winter games",
     "twitter whistleblower complaint",
+    "go plans openai",
     "840 000 installations",
     "130 companies tangled",
     "1 000 archives",
     "local ai models",
-    "chatgpt go tiers",
     "ciro member firms",
     "internal network behind",
     "final patch tuesday",
     "today we'll dig",
     "strong theme running",
-    "scoops nestled inside"
+    "scoops nestled inside",
+    "run arbitrary code"
   ],
   "trending": [
     {
       "keyword": "windows operating systems",
-      "mentions": 134
+      "mentions": 135
     },
     {
       "keyword": "750 000 impacted",
-      "mentions": 34
-    },
-    {
-      "keyword": "telecontrol server basic",
-      "mentions": 44
-    },
-    {
-      "keyword": "sinec security monitor",
-      "mentions": 44
-    },
-    {
-      "keyword": "cybersecurity firms react",
       "mentions": 35
     },
     {
-      "keyword": "go plans openai",
-      "mentions": 5
+      "keyword": "telecontrol server basic",
+      "mentions": 45
+    },
+    {
+      "keyword": "sinec security monitor",
+      "mentions": 45
+    },
+    {
+      "keyword": "cybersecurity firms react",
+      "mentions": 36
     },
     {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "upcoming winter games",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 394
+      "mentions": 395
+    },
+    {
+      "keyword": "go plans openai",
+      "mentions": 6
     },
     {
       "keyword": "840 000 installations",
-      "mentions": 16
+      "mentions": 17
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
+      "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT. This new escalation of ClickFix has",
+      "published": "Mon, 19 Jan 2026 14:39:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
@@ -138,17 +147,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions",
-      "link": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
-      "summary": "A threat actor likely aligned with China has been observed targeting critical infrastructure sectors in North America since at least last year. Cisco Talos, which is tracking the activity under the name UAT-8837, assessed it to be a China-nexus advanced persistent threat (APT) actor with medium confidence based on tactical overlaps with other campaigns mounted by threat actors from the region.",
-      "published": "Fri, 16 Jan 2026 12:48:00 +0530",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "High severity ×2",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "OpenAI hostname hints at a new ChatGPT feature codenamed \"Sonata\"",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/",
+      "summary": "OpenAI is reportedly testing a new feature or product codenamed \"Sonata,\" and it could be related to music or audio-related experiences on ChatGPT. [...]",
+      "published": "Sun, 18 Jan 2026 20:47:00 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -217,15 +222,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/",
       "summary": "Another set of 17 malicious extensions linked to the GhostPoster campaign has been discovered in Chrome, Firefox, and Edge stores, where they accumulated a total of 840,000 installations. [...]",
       "published": "Sat, 17 Jan 2026 10:23:34 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/",
-      "summary": "OpenAI's $8 ChatGPT Go subscription, which gives you 10x more messages, is now available in the United States and other regions. [...]",
-      "published": "Fri, 16 Jan 2026 18:43:49 -0500",
       "value_score": 10,
       "value_signals": []
     },

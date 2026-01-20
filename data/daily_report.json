@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-20 06:29",
+  "last_updated": "2026-01-20 08:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "42 000 impacted",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "sinec security monitor",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "least 50 companies",
-      "mentions": 8
-    },
-    {
-      "keyword": "siemens ruggedcom ros",
-      "mentions": 55
-    },
-    {
-      "keyword": "42 000 individuals",
       "mentions": 9
     },
     {
+      "keyword": "siemens ruggedcom ros",
+      "mentions": 56
+    },
+    {
+      "keyword": "42 000 individuals",
+      "mentions": 10
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 405
+      "mentions": 406
     },
     {
       "keyword": "50 corporate networks",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "internal network behind",
-      "mentions": 114
+      "mentions": 115
     },
     {
       "keyword": "industrial edge devices",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
+      "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
+      "summary": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic. The blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed",
+      "published": "Tue, 20 Jan 2026 13:10:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
@@ -110,7 +119,7 @@
       "source": "The Hacker News",
       "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
       "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT. This new escalation of ClickFix has",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT. This new escalation of ClickFix,",
       "published": "Mon, 19 Jan 2026 14:39:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -136,15 +145,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
-      "link": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
-      "summary": "OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, as the artificial intelligence (AI) company expanded access to its low-cost subscription globally. \"You need to know that your data and conversations are protected and never sold to advertisers,\" OpenAI said. \"And we need to keep a high bar and give",
-      "published": "Sat, 17 Jan 2026 14:04:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

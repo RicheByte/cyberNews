@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-20 06:29 UTC  
+> **Last Updated:** 2026-01-20 08:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion](https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html)
 - [Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites](https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html)
 - [⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More](https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html)
 - [DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses](https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html)
@@ -23,7 +24,6 @@
 - [CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures](https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html)
 - [Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations](https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html)
 - [Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice](https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html)
-- [OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html)
 
 ### BleepingComputer
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-20 18:29 UTC |
+| 🕐 Last Updated | 2026-01-20 20:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`telecontrol server basic` • `access sensitive information` • `identities left behind` • `deliver malicious payloads` • `bypass security controls` • `twitter whistleblower complaint` • `multi monitor setups` • `leak credentials databases` • `join sumo logic` • `elevates staff capabilities`
+`eu plans phase` • `telecontrol server basic` • `access sensitive information` • `windows operating systems` • `identities left behind` • `bypass security controls` • `crypto cybersecurity researchers` • `high risk suppliers` • `twitter whistleblower complaint` • `three security vulnerabilities`
 
 ## 📄 Reports
 

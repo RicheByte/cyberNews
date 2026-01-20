@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-20 18:29 UTC  
+> **Last Updated:** 2026-01-20 20:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**telecontrol server basic** • **access sensitive information** • **identities left behind** • **deliver malicious payloads** • **bypass security controls** • **twitter whistleblower complaint** • **multi monitor setups** • **leak credentials databases** • **join sumo logic** • **elevates staff capabilities** • **consolidates critical information** • **crypto cybersecurity researchers** • **access private data** • **aligning security tools** • **malicious prompt injection** • **windows operating systems** • **illicit services appears** • **bypass authorization guardrails** • **command injection vulnerability** • **vulnerabilities earned microsoft's**
+**eu plans phase** • **telecontrol server basic** • **access sensitive information** • **windows operating systems** • **identities left behind** • **bypass security controls** • **crypto cybersecurity researchers** • **high risk suppliers** • **twitter whistleblower complaint** • **three security vulnerabilities** • **multi monitor setups** • **malicious prompt injection** • **leak credentials databases** • **join sumo logic** • **elevates staff capabilities** • **consolidates critical information** • **aligning security tools** • **ai assistant reads** • **access private data** • **illicit services appears**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [North Korea-Linked Hackers Target Developers via Malicious VS Code Projects](https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html)
 - [Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution](https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html)
 - [Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading](https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html)
 - [The Hidden Risk of Orphan Accounts](https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html)
@@ -23,18 +24,17 @@
 - [Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers](https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html)
 - [Why Secrets in JavaScript Bundles are Still Being Missed](https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html)
 - [Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion](https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html)
-- [Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites](https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html)
 
 ### BleepingComputer
 
+- [VoidLink cloud malware shows clear signs of being AI-generated](https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/)
+- [EU plans cybersecurity overhaul to block foreign high-risk suppliers](https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/)
 - [Gemini AI assistant tricked into leaking Google Calendar data](https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/)
 - [Microsoft PowerToys adds new CursorWrap mouse 'teleport' tool](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/)
 - [Make Identity Threat Detection your security strategy for 2026](https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/)
 - [Webinar: Aligning cybersecurity purchases with what your SOC team needs](https://www.bleepingcomputer.com/news/security/webinar-aligning-cybersecurity-purchases-with-what-your-soc-team-needs/)
 - [ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/)
 - [You can get ChatGPT's $20 Plus subscription for free for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/)
-- [Fake ad blocker extension crashes the browser for ClickFix attacks](https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/)
-- [New PDFSider Windows malware deployed on Fortune 100 firm's network](https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [Mass Spam Attacks Leverage Zendesk Instances](https://www.darkreading.com/threat-intelligence/mass-spam-attacks-zendesk-instances)
+- [Vulnerabilities Threaten to Break Chainlit AI Framework](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-break-chainlit-ai-framework)
 - [Google Gemini Flaw Turns Calendar Invites Into Attack Vector](https://www.darkreading.com/cloud-security/google-gemini-flaw-calendar-invites-attack-vector)
 - [Microsoft &amp; Anthropic MCP Servers At Risk of RCE, Cloud Takeovers](https://www.darkreading.com/application-security/microsoft-anthropic-mcp-servers-risk-takeovers)
 - [ChatGPT Health Raises Big Security, Safety Concerns](https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns)
 - [More Problems for Fortinet: Critical FortiSIEM Flaw Exploited](https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited)
 - [CISOs Rise to Prominence: Security Leaders Join the Executive Suite](https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite)
 - [AI System Reduces Attack Reconstruction Time From Weeks to Hours](https://www.darkreading.com/cybersecurity-operations/ai-system-attack-reconstruction-weeks-hours)
-- [Predator Spyware Sample Indicates 'Vendor-Controlled' C2](https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2)
-- [Winter Olympics Could Share Podium With Cyberattackers](https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers)
 
 ### Security Week
 
+- [EU Plans Phase Out of High Risk Telecom Suppliers, in Proposals Seen as Targeting China](https://www.securityweek.com/eu-plans-phase-out-of-high-risk-telecom-suppliers-in-proposals-seen-as-targeting-china/)
 - [Chainlit Vulnerabilities May Leak Sensitive Information](https://www.securityweek.com/chainlit-vulnerabilities-may-leak-sensitive-information/)
 - [APT-Grade PDFSider Malware Used by Ransomware Groups](https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/)
 - [Weaponized Invite Enabled Calendar Data Theft via Google Gemini](https://www.securityweek.com/weaponized-invite-enabled-calendar-data-theft-via-google-gemini/)
@@ -67,7 +68,6 @@
 - [Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks](https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/)
 - [‘SolyxImmortal’ Information Stealer Emerges](https://www.securityweek.com/solyximmortal-information-stealer-emerges/)
 - [Cyber Insights 2026: Information Sharing](https://www.securityweek.com/cyber-insights-2026-information-sharing/)
-- [New Reports Reinforce Cyberattack’s Role in Maduro Capture Blackout](https://www.securityweek.com/new-reports-reinforce-cyberattacks-role-in-maduro-capture-blackout/)
 
 ### Threatpost
 

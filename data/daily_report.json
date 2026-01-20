@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-01-20 14:26",
+  "last_updated": "2026-01-20 16:29",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "telecontrol server basic",
     "sinec security monitor",
-    "least 50 companies",
     "identities left behind",
+    "deliver malicious payloads",
     "siemens ruggedcom ros",
     "twitter whistleblower complaint",
-    "run arbitrary code",
-    "get real results",
-    "50 corporate networks",
+    "join sumo logic",
+    "aligning security tools",
+    "mcp server git",
+    "continued malicious activity",
+    "crypto cybersecurity researchers",
+    "windows operating systems",
     "industrial edge devices",
-    "internal network behind",
-    "respective security advisories",
-    "bypass security controls",
+    "illicit services appears",
     "upcoming winter games",
+    "unlocks unlimited access",
     "today we'll dig",
     "strong theme running",
     "steal developer credentials",
-    "scoops nestled inside",
-    "programmable logic controller",
-    "president s efforts"
+    "scoops nestled inside"
   ],
   "trending": [
     {
       "keyword": "telecontrol server basic",
-      "mentions": 59
+      "mentions": 60
     },
     {
       "keyword": "sinec security monitor",
-      "mentions": 59
-    },
-    {
-      "keyword": "least 50 companies",
-      "mentions": 12
+      "mentions": 60
     },
     {
       "keyword": "identities left behind",
+      "mentions": 2
+    },
+    {
+      "keyword": "deliver malicious payloads",
       "mentions": 1
     },
     {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 59
+      "mentions": 60
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 409
+      "mentions": 410
     },
     {
-      "keyword": "run arbitrary code",
-      "mentions": 9
-    },
-    {
-      "keyword": "get real results",
+      "keyword": "join sumo logic",
       "mentions": 1
     },
     {
-      "keyword": "50 corporate networks",
-      "mentions": 12
+      "keyword": "aligning security tools",
+      "mentions": 1
     },
     {
-      "keyword": "industrial edge devices",
-      "mentions": 8
+      "keyword": "mcp server git",
+      "mentions": 1
+    },
+    {
+      "keyword": "continued malicious activity",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
+      "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
+      "summary": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbitrary files and execute code under certain conditions. \"These flaws can be exploited through prompt injection, meaning an attacker who can influence what an AI assistant reads (a malicious README,",
+      "published": "Tue, 20 Jan 2026 19:25:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
+      "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
+      "summary": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (RAT). The activity delivers \"weaponized files via Dynamic Link Library (DLL) sideloading, combined with a legitimate, open-source Python pen-testing script,\" ReliaQuest said in a report shared with",
+      "published": "Tue, 20 Jan 2026 19:16:00 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Phishing",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "The Hidden Risk of Orphan Accounts",
@@ -122,31 +145,21 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
-      "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
-      "summary": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week’s stories show how easily a small mistake or hidden service can turn into a real",
-      "published": "Mon, 19 Jan 2026 18:47:00 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "Make Identity Threat Detection your security strategy for 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/",
+      "summary": "Identity-based attacks are one of the primary paths attackers use to breach corporate networks. Tenfold shows how Identity Threat Detection helps spot suspicious account activity before real damage occurs. [...]",
+      "published": "Tue, 20 Jan 2026 10:01:11 -0500",
+      "value_score": 22,
       "value_signals": [
-        "Patch/update",
-        "Exploit wording"
+        "Breach/leak"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
-      "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
-      "summary": "Just a few years ago, the cloud was touted as the “magic pill” for any cyber threat or performance issue. Many were lured by the “always-on” dream, trading granular control for the convenience of managed services. In recent years, many of us have learned (often the hard way) that public cloud service providers are not immune to attacks and SaaS downtime, hiding behind the Shared Responsibility",
-      "published": "Mon, 19 Jan 2026 17:25:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
       "source": "BleepingComputer",
-      "title": "Webinar: Why execs don’t buy SOC teams the tools they need",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-execs-dont-buy-soc-teams-the-tools-they-need/",
-      "summary": "Many security teams are forced to defend environments using tools they didn't choose. This webinar explores how SOC teams can overcome alert fatigue, platform gaps, and AI hype to get real results from the tools they already have. [...]",
+      "title": "Webinar: Aligning cybersecurity purchases with what your SOC team needs",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-aligning-cybersecurity-purchases-with-what-your-soc-team-needs/",
+      "summary": "Learn how security leaders and SOC teams can work together to close the gap between platform decisions and operational needs. Join Sumo Logic and BleepingComputer on January 29 for a practical webinar on aligning security tools with real-world workflows. [...]",
       "published": "Tue, 20 Jan 2026 08:15:23 -0500",
       "value_score": 10,
       "value_signals": []
@@ -206,15 +219,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/",
       "summary": "A Tennessee man has pleaded guilty to hacking the U.S. Supreme Court's electronic filing system and breaching accounts at the AmeriCorps U.S. federal agency and the Department of Veterans Affairs. [...]",
       "published": "Mon, 19 Jan 2026 11:04:14 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Jordanian pleads guilty to selling access to 50 corporate networks",
-      "link": "https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/",
-      "summary": "A Jordanian man has pleaded guilty to operating as an \"access broker\" who sold access to the computer networks of at least 50 companies. [...]",
-      "published": "Mon, 19 Jan 2026 09:38:32 -0500",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-20 14:26 UTC  
+> **Last Updated:** 2026-01-20 16:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**telecontrol server basic** • **sinec security monitor** • **least 50 companies** • **identities left behind** • **siemens ruggedcom ros** • **twitter whistleblower complaint** • **run arbitrary code** • **get real results** • **50 corporate networks** • **industrial edge devices** • **internal network behind** • **respective security advisories** • **bypass security controls** • **upcoming winter games** • **today we'll dig** • **strong theme running** • **steal developer credentials** • **scoops nestled inside** • **programmable logic controller** • **president s efforts**
+**telecontrol server basic** • **sinec security monitor** • **identities left behind** • **deliver malicious payloads** • **siemens ruggedcom ros** • **twitter whistleblower complaint** • **join sumo logic** • **aligning security tools** • **mcp server git** • **continued malicious activity** • **crypto cybersecurity researchers** • **windows operating systems** • **industrial edge devices** • **illicit services appears** • **upcoming winter games** • **unlocks unlimited access** • **today we'll dig** • **strong theme running** • **steal developer credentials** • **scoops nestled inside**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution](https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html)
+- [Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading](https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html)
 - [The Hidden Risk of Orphan Accounts](https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html)
 - [Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto](https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html)
 - [Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers](https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html)
 - [Why Secrets in JavaScript Bundles are Still Being Missed](https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html)
 - [Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion](https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html)
 - [Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites](https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html)
-- [⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More](https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html)
-- [DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses](https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html)
 
 ### BleepingComputer
 
-- [Webinar: Why execs don’t buy SOC teams the tools they need](https://www.bleepingcomputer.com/news/security/webinar-why-execs-dont-buy-soc-teams-the-tools-they-need/)
+- [Make Identity Threat Detection your security strategy for 2026](https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/)
+- [Webinar: Aligning cybersecurity purchases with what your SOC team needs](https://www.bleepingcomputer.com/news/security/webinar-aligning-cybersecurity-purchases-with-what-your-soc-team-needs/)
 - [ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/)
 - [You can get ChatGPT's $20 Plus subscription for free for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/)
 - [Fake ad blocker extension crashes the browser for ClickFix attacks](https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/)
 - [New PDFSider Windows malware deployed on Fortune 100 firm's network](https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/)
 - [UK govt. warns about ongoing Russian hacktivist group attacks](https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/)
 - [Hacker admits to leaking stolen Supreme Court data on Instagram](https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/)
-- [Jordanian pleads guilty to selling access to 50 corporate networks](https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/)
 
 ### Krebs on Security
 

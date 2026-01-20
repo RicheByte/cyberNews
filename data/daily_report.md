@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-19 22:17 UTC  
+> **Last Updated:** 2026-01-20 01:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**42 000 impacted** • **sinec security monitor** • **openai hostname hints** • **telecontrol server basic** • **siemens ruggedcom ros** • **42 000 individuals** • **upcoming winter games** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **product codenamed sonata** • **go plans openai** • **least 50 companies** • **50 corporate networks** • **internal network behind** • **final patch tuesday** • **respective security advisories** • **national security risk** • **today we'll dig** • **strong theme running** • **scoops nestled inside**
+**42 000 impacted** • **sinec security monitor** • **telecontrol server basic** • **least 50 companies** • **siemens ruggedcom ros** • **42 000 individuals** • **twitter whistleblower complaint** • **product codenamed sonata** • **50 corporate networks** • **internal network behind** • **industrial edge devices** • **respective security advisories** • **national security risk** • **upcoming winter games** • **today we'll dig** • **strong theme running** • **sprawling phishing campaign** • **scoops nestled inside** • **run arbitrary code** • **programmable logic controller**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [You can get ChatGPT's $20 Plus subscription for free for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/)
+- [Fake ad blocker extension crashes the browser for ClickFix attacks](https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/)
 - [New PDFSider Windows malware deployed on Fortune 100 firm's network](https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/)
 - [UK govt. warns about ongoing Russian hacktivist group attacks](https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/)
 - [Hacker admits to leaking stolen Supreme Court data on Instagram](https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/)
 - [Jordanian pleads guilty to selling access to 50 corporate networks](https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/)
 - [Ingram Micro says ransomware attack affected 42,000 people](https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/)
 - [OpenAI hostname hints at a new ChatGPT feature codenamed "Sonata"](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/)
-- [New OpenAI leak hints at upcoming ChatGPT features](https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/)
-- [Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/)
 
 ### Krebs on Security
 

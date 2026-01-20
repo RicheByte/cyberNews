@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-20 10:22 UTC |
+| 🕐 Last Updated | 2026-01-20 12:39 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`42 000 impacted` • `sinec security monitor` • `telecontrol server basic` • `least 50 companies` • `siemens ruggedcom ros` • `42 000 individuals` • `twitter whistleblower complaint` • `50 corporate networks` • `internal network behind` • `industrial edge devices`
+`sinec security monitor` • `telecontrol server basic` • `least 50 companies` • `siemens ruggedcom ros` • `twitter whistleblower complaint` • `run arbitrary code` • `50 corporate networks` • `internal network behind` • `industrial edge devices` • `president s efforts`
 
 ## 📄 Reports
 

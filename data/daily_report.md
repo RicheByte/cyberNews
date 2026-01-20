@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-20 10:22 UTC  
+> **Last Updated:** 2026-01-20 12:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**42 000 impacted** • **sinec security monitor** • **telecontrol server basic** • **least 50 companies** • **siemens ruggedcom ros** • **42 000 individuals** • **twitter whistleblower complaint** • **50 corporate networks** • **internal network behind** • **industrial edge devices** • **respective security advisories** • **national security risk** • **upcoming winter games** • **today we'll dig** • **strong theme running** • **sprawling phishing campaign** • **scoops nestled inside** • **run arbitrary code** • **programmable logic controller** • **president s efforts**
+**sinec security monitor** • **telecontrol server basic** • **least 50 companies** • **siemens ruggedcom ros** • **twitter whistleblower complaint** • **run arbitrary code** • **50 corporate networks** • **internal network behind** • **industrial edge devices** • **president s efforts** • **nation s ability** • **respective security advisories** • **national security risk** • **bypass security controls** • **upcoming winter games** • **today we'll dig** • **strong theme running** • **sprawling phishing campaign** • **scoops nestled inside** • **programmable logic controller**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers](https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html)
+- [Why Secrets in JavaScript Bundles are Still Being Missed](https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html)
 - [Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion](https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html)
 - [Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites](https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html)
 - [⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More](https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html)
 - [DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses](https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html)
 - [New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs](https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html)
 - [CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures](https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html)
-- [Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations](https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html)
-- [Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice](https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [APT-Grade PDFSider Malware Used by Ransomware Groups](https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/)
+- [Weaponized Invite Enabled Calendar Data Theft via Google Gemini](https://www.securityweek.com/weaponized-invite-enabled-calendar-data-theft-via-google-gemini/)
 - [TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking](https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/)
 - [Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks](https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/)
 - [‘SolyxImmortal’ Information Stealer Emerges](https://www.securityweek.com/solyximmortal-information-stealer-emerges/)
 - [Cyber Insights 2026: Information Sharing](https://www.securityweek.com/cyber-insights-2026-information-sharing/)
 - [New Reports Reinforce Cyberattack’s Role in Maduro Capture Blackout](https://www.securityweek.com/new-reports-reinforce-cyberattacks-role-in-maduro-capture-blackout/)
 - [Malicious Chrome Extension Crashes Browser in ClickFix Variant ‘CrashFix’](https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/)
-- [42,000 Impacted by Ingram Micro Ransomware Attack](https://www.securityweek.com/42000-impacted-by-ingram-micro-ransomware-attack/)
-- [Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System](https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/)
 
 ### Threatpost
 

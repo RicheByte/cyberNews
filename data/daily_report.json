@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-01-20 10:22",
+  "last_updated": "2026-01-20 12:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "42 000 impacted",
     "sinec security monitor",
     "telecontrol server basic",
     "least 50 companies",
     "siemens ruggedcom ros",
-    "42 000 individuals",
     "twitter whistleblower complaint",
+    "run arbitrary code",
     "50 corporate networks",
     "internal network behind",
     "industrial edge devices",
+    "president s efforts",
+    "nation s ability",
     "respective security advisories",
     "national security risk",
+    "bypass security controls",
     "upcoming winter games",
     "today we'll dig",
     "strong theme running",
     "sprawling phishing campaign",
     "scoops nestled inside",
-    "run arbitrary code",
-    "programmable logic controller",
-    "president s efforts"
+    "programmable logic controller"
   ],
   "trending": [
     {
-      "keyword": "42 000 impacted",
-      "mentions": 12
-    },
-    {
       "keyword": "sinec security monitor",
-      "mentions": 57
+      "mentions": 58
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 57
+      "mentions": 58
     },
     {
       "keyword": "least 50 companies",
-      "mentions": 10
-    },
-    {
-      "keyword": "siemens ruggedcom ros",
-      "mentions": 57
-    },
-    {
-      "keyword": "42 000 individuals",
       "mentions": 11
     },
     {
+      "keyword": "siemens ruggedcom ros",
+      "mentions": 58
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 407
+      "mentions": 408
+    },
+    {
+      "keyword": "run arbitrary code",
+      "mentions": 8
     },
     {
       "keyword": "50 corporate networks",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "internal network behind",
-      "mentions": 116
+      "mentions": 117
     },
     {
       "keyword": "industrial edge devices",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "president s efforts",
+      "mentions": 58
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
+      "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
+      "summary": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers. \"The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),\" the web infrastructure",
+      "published": "Tue, 20 Jan 2026 16:42:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
+      "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
+      "summary": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed? To find out, Intruder’s research team looked at what traditional vulnerability scanners actually cover and built a new secrets detection method to address gaps in existing approaches. Applying this at scale by scanning 5 million applications revealed over",
+      "published": "Tue, 20 Jan 2026 16:15:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
@@ -123,28 +141,6 @@
       "published": "Mon, 19 Jan 2026 14:39:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
-      "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
-      "summary": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial insights on one of the threat actors using the malware in their operations. \"By exploiting it, we were able to collect system fingerprints, monitor active sessions, and – in a twist that will",
-      "published": "Mon, 19 Jan 2026 12:23:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
-      "link": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
-      "summary": "Ukrainian and German law enforcement authorities have identified two Ukrainians suspected of working for the Russia-linked ransomware-as-a-service (RaaS) group Black Basta. In addition, the group's alleged leader, a 35-year-old Russian national named Oleg Evgenievich Nefedov (Нефедов Олег Евгеньевич), has been added to the European Union's Most Wanted and INTERPOL's Red Notice lists, authorities",
-      "published": "Sat, 17 Jan 2026 21:56:00 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -390,6 +386,27 @@
     },
     {
       "source": "Security Week",
+      "title": "APT-Grade PDFSider Malware Used by Ransomware Groups",
+      "link": "https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/",
+      "summary": "Providing cyberespionage and remote code execution capabilities, the malware is executed via DLL sideloading. The post APT-Grade PDFSider Malware Used by Ransomware Groups appeared first on SecurityWeek .",
+      "published": "Tue, 20 Jan 2026 12:09:44 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "Ransomware ×2",
+        "RCE"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Weaponized Invite Enabled Calendar Data Theft via Google Gemini",
+      "link": "https://www.securityweek.com/weaponized-invite-enabled-calendar-data-theft-via-google-gemini/",
+      "summary": "A simple payload allowed attackers to create a new event leaking summaries of the victim’s private meetings. The post Weaponized Invite Enabled Calendar Data Theft via Google Gemini appeared first on SecurityWeek .",
+      "published": "Tue, 20 Jan 2026 10:59:36 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking",
       "link": "https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/",
       "summary": "The researcher who discovered the vulnerability saw more than 2,500 internet-exposed devices. The post TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking appeared first on SecurityWeek .",
@@ -439,26 +456,6 @@
       "link": "https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/",
       "summary": "Posing as an ad blocker, the malicious extension crashes the browser to lure victims into installing malware. The post Malicious Chrome Extension Crashes Browser in ClickFix Variant ‘CrashFix’ appeared first on SecurityWeek .",
       "published": "Mon, 19 Jan 2026 11:08:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "42,000 Impacted by Ingram Micro Ransomware Attack",
-      "link": "https://www.securityweek.com/42000-impacted-by-ingram-micro-ransomware-attack/",
-      "summary": "The compromised personal information includes names, dates of birth, Social Security numbers, and employment-related data. The post 42,000 Impacted by Ingram Micro Ransomware Attack appeared first on SecurityWeek .",
-      "published": "Mon, 19 Jan 2026 10:51:28 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System",
-      "link": "https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/",
-      "summary": "Nicholas Moore pleaded guilty to repeatedly hacking the U.S. Supreme Court’s filing system and illegally accessing computer systems belonging to AmeriCorps and the Department of Veterans Affairs. The post Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System appeared first on SecurityWeek .",
-      "published": "Sat, 17 Jan 2026 11:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

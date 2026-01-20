@@ -160,7 +160,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 407,
+      "count": 408,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -664,7 +664,7 @@
       ]
     },
     "national security risk": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1336,7 +1336,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1444,7 +1444,7 @@
       ]
     },
     "nation s ability": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1452,7 +1452,8 @@
         "2026-01-08",
         "2026-01-12",
         "2026-01-13",
-        "2026-01-16"
+        "2026-01-16",
+        "2026-01-20"
       ]
     },
     "cyber insurers recommend": {
@@ -1745,7 +1746,7 @@
       ]
     },
     "president s efforts": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -2182,7 +2183,7 @@
       ]
     },
     "strong theme running": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2292,7 +2293,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2307,7 +2308,7 @@
       ]
     },
     "internal network behind": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2521,7 +2522,7 @@
       ]
     },
     "scoops nestled inside": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-11",
         "2026-01-13",
@@ -3049,9 +3050,10 @@
       ]
     },
     "bypass security controls": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-15"
+        "2026-01-15",
+        "2026-01-20"
       ]
     },
     "four limiting habits": {
@@ -3110,7 +3112,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3121,7 +3123,7 @@
       ]
     },
     "sinec security monitor": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3132,7 +3134,7 @@
       ]
     },
     "siemens ruggedcom ros": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3149,7 +3151,7 @@
       ]
     },
     "respective security advisories": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3323,7 +3325,7 @@
       ]
     },
     "upcoming winter games": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-16",
         "2026-01-17",
@@ -3373,7 +3375,7 @@
       ]
     },
     "run arbitrary code": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-19",
         "2026-01-20"
@@ -3425,44 +3427,33 @@
       ]
     },
     "least 50 companies": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-19",
         "2026-01-20"
       ]
     },
     "50 corporate networks": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-19",
         "2026-01-20"
       ]
     },
     "industrial edge devices": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-20"
       ]
     },
     "programmable logic controller": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-20"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-12 04:45",
-      "articles": 56,
-      "top_keywords": [
-        "377 000 impacted",
-        "arbitrary code execution",
-        "hackers accessed university",
-        "vmware esxi exploit",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-12 06:29",
       "articles": 48,
@@ -4550,6 +4541,17 @@
         "telecontrol server basic",
         "least 50 companies",
         "siemens ruggedcom ros"
+      ]
+    },
+    {
+      "timestamp": "2026-01-20 12:39",
+      "articles": 56,
+      "top_keywords": [
+        "sinec security monitor",
+        "telecontrol server basic",
+        "least 50 companies",
+        "siemens ruggedcom ros",
+        "twitter whistleblower complaint"
       ]
     }
   ]

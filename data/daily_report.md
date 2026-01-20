@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-20 01:18 UTC  
+> **Last Updated:** 2026-01-20 03:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**42 000 impacted** • **sinec security monitor** • **telecontrol server basic** • **least 50 companies** • **siemens ruggedcom ros** • **42 000 individuals** • **twitter whistleblower complaint** • **product codenamed sonata** • **50 corporate networks** • **internal network behind** • **industrial edge devices** • **respective security advisories** • **national security risk** • **upcoming winter games** • **today we'll dig** • **strong theme running** • **sprawling phishing campaign** • **scoops nestled inside** • **run arbitrary code** • **programmable logic controller**
+**42 000 impacted** • **sinec security monitor** • **telecontrol server basic** • **least 50 companies** • **siemens ruggedcom ros** • **42 000 individuals** • **twitter whistleblower complaint** • **50 corporate networks** • **internal network behind** • **industrial edge devices** • **respective security advisories** • **national security risk** • **upcoming winter games** • **today we'll dig** • **strong theme running** • **sprawling phishing campaign** • **scoops nestled inside** • **run arbitrary code** • **programmable logic controller** • **president s efforts**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/)
 - [You can get ChatGPT's $20 Plus subscription for free for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/)
 - [Fake ad blocker extension crashes the browser for ClickFix attacks](https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/)
 - [New PDFSider Windows malware deployed on Fortune 100 firm's network](https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/)
@@ -34,7 +35,6 @@
 - [Hacker admits to leaking stolen Supreme Court data on Instagram](https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/)
 - [Jordanian pleads guilty to selling access to 50 corporate networks](https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/)
 - [Ingram Micro says ransomware attack affected 42,000 people](https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/)
-- [OpenAI hostname hints at a new ChatGPT feature codenamed "Sonata"](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/)
 
 ### Krebs on Security
 

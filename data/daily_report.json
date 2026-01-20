@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-20 01:18",
+  "last_updated": "2026-01-20 03:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,7 +10,6 @@
     "siemens ruggedcom ros",
     "42 000 individuals",
     "twitter whistleblower complaint",
-    "product codenamed sonata",
     "50 corporate networks",
     "internal network behind",
     "industrial edge devices",
@@ -22,48 +21,49 @@
     "sprawling phishing campaign",
     "scoops nestled inside",
     "run arbitrary code",
-    "programmable logic controller"
+    "programmable logic controller",
+    "president s efforts"
   ],
   "trending": [
     {
       "keyword": "42 000 impacted",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "sinec security monitor",
-      "mentions": 52
+      "mentions": 53
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 52
+      "mentions": 53
     },
     {
       "keyword": "least 50 companies",
-      "mentions": 5
-    },
-    {
-      "keyword": "siemens ruggedcom ros",
-      "mentions": 52
-    },
-    {
-      "keyword": "42 000 individuals",
       "mentions": 6
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 402
+      "keyword": "siemens ruggedcom ros",
+      "mentions": 53
     },
     {
-      "keyword": "product codenamed sonata",
+      "keyword": "42 000 individuals",
       "mentions": 7
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 403
+    },
+    {
       "keyword": "50 corporate networks",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "internal network behind",
-      "mentions": 111
+      "mentions": 112
+    },
+    {
+      "keyword": "industrial edge devices",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -148,6 +148,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/",
+      "summary": "ChatGPT Go is finally worth your money, as OpenAI has almost doubled the usage limits and enabled ultimate access to GPT 5.2 Instant. [...]",
+      "published": "Mon, 19 Jan 2026 20:24:25 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "You can get ChatGPT's $20 Plus subscription for free for a limited time",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/",
       "summary": "OpenAI is offering ChatGPT Plus, which costs $20 in the United States, for free, but the offer is valid for some accounts only, and it's a limited-time deal. [...]",
@@ -215,15 +224,6 @@
         "Ransomware ×2",
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI hostname hints at a new ChatGPT feature codenamed \"Sonata\"",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/",
-      "summary": "OpenAI is reportedly testing a new feature or product codenamed \"Sonata,\" and it could be related to music or audio-related experiences on ChatGPT. [...]",
-      "published": "Sun, 18 Jan 2026 20:47:00 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-20 16:29 UTC |
+| 🕐 Last Updated | 2026-01-20 18:29 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`telecontrol server basic` • `sinec security monitor` • `identities left behind` • `deliver malicious payloads` • `siemens ruggedcom ros` • `twitter whistleblower complaint` • `join sumo logic` • `aligning security tools` • `mcp server git` • `continued malicious activity`
+`telecontrol server basic` • `access sensitive information` • `identities left behind` • `deliver malicious payloads` • `bypass security controls` • `twitter whistleblower complaint` • `multi monitor setups` • `leak credentials databases` • `join sumo logic` • `elevates staff capabilities`
 
 ## 📄 Reports
 

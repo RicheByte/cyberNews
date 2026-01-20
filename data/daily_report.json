@@ -1,68 +1,68 @@
 {
-  "last_updated": "2026-01-20 16:29",
+  "last_updated": "2026-01-20 18:29",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "telecontrol server basic",
-    "sinec security monitor",
+    "access sensitive information",
     "identities left behind",
     "deliver malicious payloads",
-    "siemens ruggedcom ros",
+    "bypass security controls",
     "twitter whistleblower complaint",
+    "multi monitor setups",
+    "leak credentials databases",
     "join sumo logic",
-    "aligning security tools",
-    "mcp server git",
-    "continued malicious activity",
+    "elevates staff capabilities",
+    "consolidates critical information",
     "crypto cybersecurity researchers",
+    "access private data",
+    "aligning security tools",
+    "malicious prompt injection",
     "windows operating systems",
-    "industrial edge devices",
     "illicit services appears",
-    "upcoming winter games",
-    "unlocks unlimited access",
-    "today we'll dig",
-    "strong theme running",
-    "steal developer credentials",
-    "scoops nestled inside"
+    "bypass authorization guardrails",
+    "command injection vulnerability",
+    "vulnerabilities earned microsoft's"
   ],
   "trending": [
     {
       "keyword": "telecontrol server basic",
-      "mentions": 60
+      "mentions": 61
     },
     {
-      "keyword": "sinec security monitor",
-      "mentions": 60
+      "keyword": "access sensitive information",
+      "mentions": 1
     },
     {
       "keyword": "identities left behind",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "deliver malicious payloads",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "siemens ruggedcom ros",
-      "mentions": 60
+      "keyword": "bypass security controls",
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 410
+      "mentions": 411
+    },
+    {
+      "keyword": "multi monitor setups",
+      "mentions": 1
+    },
+    {
+      "keyword": "leak credentials databases",
+      "mentions": 1
     },
     {
       "keyword": "join sumo logic",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "aligning security tools",
-      "mentions": 1
-    },
-    {
-      "keyword": "mcp server git",
-      "mentions": 1
-    },
-    {
-      "keyword": "continued malicious activity",
+      "keyword": "elevates staff capabilities",
       "mentions": 1
     }
   ],
@@ -146,6 +146,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Gemini AI assistant tricked into leaking Google Calendar data",
+      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/",
+      "summary": "Using only natural language instructions, researchers were able to bypass Google Gemini's defenses against malicious prompt injection and create misleading events to leak private Calendar data. [...]",
+      "published": "Tue, 20 Jan 2026 12:50:01 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft PowerToys adds new CursorWrap mouse 'teleport' tool",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/",
+      "summary": "Microsoft has released PowerToys 0.97, with a new mouse utility for multi-monitor setups and significant improvements to the Command Palette quick launcher. [...]",
+      "published": "Tue, 20 Jan 2026 11:33:30 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Make Identity Threat Detection your security strategy for 2026",
       "link": "https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/",
       "summary": "Identity-based attacks are one of the primary paths attackers use to breach corporate networks. Tenfold shows how Identity Threat Detection helps spot suspicious account activity before real damage occurs. [...]",
@@ -201,26 +221,6 @@
       "value_signals": [
         "Ransomware"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK govt. warns about ongoing Russian hacktivist group attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/",
-      "summary": "The U.K. government is warning of continued malicious activity from Russian-aligned hacktivist groups targeting critical infrastructure and local government organizations in the country in disruptive denial-of-service (DDoS) attacks. [...]",
-      "published": "Mon, 19 Jan 2026 12:20:39 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hacker admits to leaking stolen Supreme Court data on Instagram",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/",
-      "summary": "A Tennessee man has pleaded guilty to hacking the U.S. Supreme Court's electronic filing system and breaching accounts at the AmeriCorps U.S. federal agency and the Department of Veterans Affairs. [...]",
-      "published": "Mon, 19 Jan 2026 11:04:14 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -309,6 +309,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Google Gemini Flaw Turns Calendar Invites Into Attack Vector",
+      "link": "https://www.darkreading.com/cloud-security/google-gemini-flaw-calendar-invites-attack-vector",
+      "summary": "The indirect prompt injection vulnerability allows an attacker to weaponize invites to circumvent Google's privacy controls and access private data.",
+      "published": "Tue, 20 Jan 2026 15:52:35 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Microsoft &amp; Anthropic MCP Servers At Risk of RCE, Cloud Takeovers",
+      "link": "https://www.darkreading.com/application-security/microsoft-anthropic-mcp-servers-risk-takeovers",
+      "summary": "Researchers found the popular model context protocol (MCP) servers, which are integral components of AI services, carry serious vulnerabilities.",
+      "published": "Tue, 20 Jan 2026 15:47:19 GMT",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "ChatGPT Health Raises Big Security, Safety Concerns",
       "link": "https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns",
       "summary": "ChatGPT Health promises robust data protection, but elements of the rollout raise big questions regarding user security and safety.",
@@ -364,26 +384,6 @@
       "published": "Thu, 15 Jan 2026 19:10:05 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Vulnerabilities Surge, But Messy Reporting Blurs Picture",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture",
-      "summary": "MITRE loses its lead as the top reporter of vulnerabilities, while new organizations pump out CVEs and reported bugs in WordPress plug-ins surge.",
-      "published": "Thu, 15 Jan 2026 15:19:31 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Trio of Critical Bugs Spotted in Delta Industrial PLCs",
-      "link": "https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs",
-      "summary": "Experts disagree on whether the vulnerabilities in a programmable logic controller from Delta are a five-alarm fire or not much to worry over.",
-      "published": "Thu, 15 Jan 2026 11:00:00 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",
@@ -548,6 +548,45 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Schneider Electric EcoStruxure Foxboro DCS",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-01",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability disclosed by INTEL used in the EcoStruxure™ Foxboro DCS product formerly known as Foxboro Evo Process Automation System and I/A Series. The [EcoStruxure™ Foxboro DCS product](https://www.se.com/ww/en/product-range/63680-ecostruxure-foxboro-dcs/#overview) is an innovative family of fault-tolerant, highly available control components, which consolidates critical information and elevates staff capabilities to ensure flawless, continuo",
+      "published": "Tue, 20 Jan 26 12:00:00 +0000",
+      "value_score": 43,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Rockwell Automation Verve Asset Manager",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities may allow an attacker to access sensitive information stored in variables within the ADI server. The following versions of Rockwell Automation Verve Asset Manager are affected: Verve Asset Manager (CVE-2025-14376, CVE-2025-14377) Verve Asset Manager (CVE-2025-14376, CVE-2025-14377) Verve Asset Manager (CVE-2025-14376, CVE-2025-14377) Verve Asset Manager (CVE-2025-14376, CVE-2025-14377) Verve Asset Manager (CVE-2025-14376, CVE-202",
+      "published": "Tue, 20 Jan 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×9",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Schneider Electric devices using CODESYS Runtime",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-02",
+      "summary": "View CSAF Summary Schneider Electric is aware of multiple vulnerabilities disclosed on CODESYS runtime system V3 communication server. Many vendors, including Schneider Electric, embed CODESYS in their offers. If successfully exploited, these vulnerabilities could result in a denial of service or, in some cases, in remote code execution on PacDrive controllers, Modicon Controllers M241 / M251 / M262 / M258 / LMC058 / LMC078 / M218 , HMISCU, the Simulation Runtime SoftSPS from EcoStruxure Machine",
+      "published": "Tue, 20 Jan 26 12:00:00 +0000",
+      "value_score": 61,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "AVEVA Process Optimization",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-01",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable an attacker to execute remote code, perform SQL injection, escalate privileges, or access sensitive information. The following versions of AVEVA Process Optimization are affected: Process Optimization (CVE-2025-61937, CVE-2025-64691, CVE-2025-61943, CVE-2025-65118, CVE-2025-64729, CVE-2025-65117, CVE-2025-64769) CVSS Vendor Equipment Vulnerabilities v3 10 AVEVA AVEVA Process Optimization Improper Control of Generatio",
@@ -562,14 +601,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Secure Connectivity Principles for Operational Technology (OT)",
-      "link": "https://www.cisa.gov/resources-tools/resources/secure-connectivity-principles-operational-technology-ot",
-      "summary": "CISA and the UK National Cyber Security Centre (NCSC-UK), in collaboration with federal and international partners, have released Secure Connectivity Principles for Operational Technology (OT) guidance to help asset owners address increasing business and regulatory pressures for connectivity into operational technology (OT) networks. This guidance outlines eight principles to use as a framework to design, secure, and manage connectivity into OT environments. These principles are particularly cri",
+      "title": "Siemens Industrial Edge Device Kit",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-09",
+      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains an authorization bypass vulnerability that could facilitate an unauthenticated remote attacker to circumvent authentication and impersonate a legitimate user. Siemens has released new versions for several affected products and recommends to update to the latest versions.",
       "published": "Wed, 14 Jan 26 12:00:00 +0000",
-      "value_score": 55,
+      "value_score": 43,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CISA/KEV"
+        "Patch/update"
       ]
     },
     {
@@ -588,6 +627,18 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Secure Connectivity Principles for Operational Technology (OT)",
+      "link": "https://www.cisa.gov/resources-tools/resources/secure-connectivity-principles-operational-technology-ot",
+      "summary": "CISA and the UK National Cyber Security Centre (NCSC-UK), in collaboration with federal and international partners, have released Secure Connectivity Principles for Operational Technology (OT) guidance to help asset owners address increasing business and regulatory pressures for connectivity into operational technology (OT) networks. This guidance outlines eight principles to use as a framework to design, secure, and manage connectivity into OT environments. These principles are particularly cri",
+      "published": "Wed, 14 Jan 26 12:00:00 +0000",
+      "value_score": 55,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CISA/KEV"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Siemens TeleControl Server Basic",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-03",
       "summary": "View CSAF Summary TeleControl Server Basic before V3.1.2.4 contains a local privilege escalation vulnerability that could allow an attacker to run arbitrary code with elevated privileges. Siemens has released a new version for TeleControl Server Basic and recommends to update to the latest version. The following versions of Siemens TeleControl Server Basic are affected: TeleControl Server Basic (CVE-2025-40942) CVSS Vendor Equipment Vulnerabilities v3 8.8 Siemens Siemens TeleControl Server Basic",
@@ -598,59 +649,6 @@
         "CVE mentioned",
         "Privilege escalation",
         "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens SIMATIC and SIPLUS products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-04",
-      "summary": "View CSAF Summary Siemens ET 200SP contains a denial-of-service vulnerability that could be triggered by sending a valid S7 protocol Disconnect Request (COTP DR TPDU), causing the device to become unresponsive and require a power cycle to recover. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fix versions and recommends specific countermeasures for products where fixes are not, or not yet available. T",
-      "published": "Wed, 14 Jan 26 12:00:00 +0000",
-      "value_score": 51,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens Industrial Edge Device Kit",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-09",
-      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains an authorization bypass vulnerability that could facilitate an unauthenticated remote attacker to circumvent authentication and impersonate a legitimate user. Siemens has released new versions for several affected products and recommends to update to the latest versions.",
-      "published": "Wed, 14 Jan 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens RUGGEDCOM APE1808 Devices",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-07",
-      "summary": "View CSAF Summary Nozomi Networks has published information on vulnerabilities in Nozomi Guardian/CMC. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Siemens is preparing fix versions and recommends countermeasures for products where fixes are not, or not yet available. The following versions of Siemens RUGGEDCOM APE1808 Devices are affected: RUGGEDCOM APE1808 (CVE-2025-40891, CVE-2025-40892, CVE-2025-40893, CVE-2025-40898) CVSS Vendor Equipment Vu",
-      "published": "Wed, 14 Jan 26 12:00:00 +0000",
-      "value_score": 91,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "Patch/update",
-        "Multiple CVEs"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens SINEC Security Monitor",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-06",
-      "summary": "View CSAF Summary SINEC Security Monitor before V4.10.0 contains multiple vulnerabilities. Siemens has released a new version for SINEC Security Monitor and recommends to update to the latest version. The following versions of Siemens SINEC Security Monitor are affected: SINEC Security Monitor (CVE-2025-40830, CVE-2025-40831) CVSS Vendor Equipment Vulnerabilities v3 6.7 Siemens Siemens SINEC Security Monitor Improper Authorization, Improper Input Validation Background Critical Infrastructure Sec",
-      "published": "Wed, 14 Jan 26 12:00:00 +0000",
-      "value_score": 95,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Patch/update",
-        "High severity",
-        "Multiple CVEs"
       ]
     }
   ],

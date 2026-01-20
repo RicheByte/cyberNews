@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-20 16:29 UTC  
+> **Last Updated:** 2026-01-20 18:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**telecontrol server basic** • **sinec security monitor** • **identities left behind** • **deliver malicious payloads** • **siemens ruggedcom ros** • **twitter whistleblower complaint** • **join sumo logic** • **aligning security tools** • **mcp server git** • **continued malicious activity** • **crypto cybersecurity researchers** • **windows operating systems** • **industrial edge devices** • **illicit services appears** • **upcoming winter games** • **unlocks unlimited access** • **today we'll dig** • **strong theme running** • **steal developer credentials** • **scoops nestled inside**
+**telecontrol server basic** • **access sensitive information** • **identities left behind** • **deliver malicious payloads** • **bypass security controls** • **twitter whistleblower complaint** • **multi monitor setups** • **leak credentials databases** • **join sumo logic** • **elevates staff capabilities** • **consolidates critical information** • **crypto cybersecurity researchers** • **access private data** • **aligning security tools** • **malicious prompt injection** • **windows operating systems** • **illicit services appears** • **bypass authorization guardrails** • **command injection vulnerability** • **vulnerabilities earned microsoft's**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Gemini AI assistant tricked into leaking Google Calendar data](https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/)
+- [Microsoft PowerToys adds new CursorWrap mouse 'teleport' tool](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/)
 - [Make Identity Threat Detection your security strategy for 2026](https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/)
 - [Webinar: Aligning cybersecurity purchases with what your SOC team needs](https://www.bleepingcomputer.com/news/security/webinar-aligning-cybersecurity-purchases-with-what-your-soc-team-needs/)
 - [ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/)
 - [You can get ChatGPT's $20 Plus subscription for free for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/)
 - [Fake ad blocker extension crashes the browser for ClickFix attacks](https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/)
 - [New PDFSider Windows malware deployed on Fortune 100 firm's network](https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/)
-- [UK govt. warns about ongoing Russian hacktivist group attacks](https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/)
-- [Hacker admits to leaking stolen Supreme Court data on Instagram](https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Google Gemini Flaw Turns Calendar Invites Into Attack Vector](https://www.darkreading.com/cloud-security/google-gemini-flaw-calendar-invites-attack-vector)
+- [Microsoft &amp; Anthropic MCP Servers At Risk of RCE, Cloud Takeovers](https://www.darkreading.com/application-security/microsoft-anthropic-mcp-servers-risk-takeovers)
 - [ChatGPT Health Raises Big Security, Safety Concerns](https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns)
 - [More Problems for Fortinet: Critical FortiSIEM Flaw Exploited](https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited)
 - [CISOs Rise to Prominence: Security Leaders Join the Executive Suite](https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite)
 - [AI System Reduces Attack Reconstruction Time From Weeks to Hours](https://www.darkreading.com/cybersecurity-operations/ai-system-attack-reconstruction-weeks-hours)
 - [Predator Spyware Sample Indicates 'Vendor-Controlled' C2](https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2)
 - [Winter Olympics Could Share Podium With Cyberattackers](https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers)
-- [Vulnerabilities Surge, But Messy Reporting Blurs Picture](https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture)
-- [Trio of Critical Bugs Spotted in Delta Industrial PLCs](https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Schneider Electric EcoStruxure Foxboro DCS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-01)
+- [Rockwell Automation Verve Asset Manager](https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-03)
+- [Schneider Electric devices using CODESYS Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-02)
 - [AVEVA Process Optimization](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-01)
-- [Secure Connectivity Principles for Operational Technology (OT)](https://www.cisa.gov/resources-tools/resources/secure-connectivity-principles-operational-technology-ot)
-- [Siemens RUGGEDCOM ROS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-05)
-- [Siemens TeleControl Server Basic](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-03)
-- [Siemens SIMATIC and SIPLUS products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-04)
 - [Siemens Industrial Edge Device Kit](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-09)
-- [Siemens RUGGEDCOM APE1808 Devices](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-07)
-- [Siemens SINEC Security Monitor](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-06)
+- [Siemens RUGGEDCOM ROS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-05)
+- [Secure Connectivity Principles for Operational Technology (OT)](https://www.cisa.gov/resources-tools/resources/secure-connectivity-principles-operational-technology-ot)
+- [Siemens TeleControl Server Basic](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-03)
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-20 20:40",
+  "last_updated": "2026-01-20 22:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "telecontrol server basic",
     "access sensitive information",
     "windows operating systems",
+    "python based rat",
     "identities left behind",
     "bypass security controls",
+    "malicious prompt injection",
     "crypto cybersecurity researchers",
     "high risk suppliers",
     "twitter whistleblower complaint",
     "three security vulnerabilities",
     "multi monitor setups",
-    "malicious prompt injection",
     "leak credentials databases",
     "join sumo logic",
     "elevates staff capabilities",
     "consolidates critical information",
     "aligning security tools",
     "ai assistant reads",
-    "access private data",
-    "illicit services appears"
+    "access private data"
   ],
   "trending": [
     {
       "keyword": "eu plans phase",
-      "mentions": 1
-    },
-    {
-      "keyword": "telecontrol server basic",
-      "mentions": 62
-    },
-    {
-      "keyword": "access sensitive information",
       "mentions": 2
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 143
+      "keyword": "telecontrol server basic",
+      "mentions": 63
     },
     {
-      "keyword": "identities left behind",
-      "mentions": 4
-    },
-    {
-      "keyword": "bypass security controls",
-      "mentions": 6
-    },
-    {
-      "keyword": "crypto cybersecurity researchers",
+      "keyword": "access sensitive information",
       "mentions": 3
     },
     {
+      "keyword": "windows operating systems",
+      "mentions": 144
+    },
+    {
+      "keyword": "python based rat",
+      "mentions": 1
+    },
+    {
+      "keyword": "identities left behind",
+      "mentions": 5
+    },
+    {
+      "keyword": "bypass security controls",
+      "mentions": 7
+    },
+    {
+      "keyword": "malicious prompt injection",
+      "mentions": 3
+    },
+    {
+      "keyword": "crypto cybersecurity researchers",
+      "mentions": 4
+    },
+    {
       "keyword": "high risk suppliers",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 412
-    },
-    {
-      "keyword": "three security vulnerabilities",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -148,6 +148,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ACF plugin bug gives hackers admin on 50,000 WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/",
+      "summary": "A critical-severity vulnerability in the Advanced Custom Fields: Extended (ACF Extended) plugin for WordPress can be exploited remotely by unauthenticated attackers to obtain administrative permissions. [...]",
+      "published": "Tue, 20 Jan 2026 17:12:27 -0500",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "VoidLink cloud malware shows clear signs of being AI-generated",
       "link": "https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/",
       "summary": "The recently discovered cloud-focused VoidLink malware framework is believed to have been developed by a single person with the help of an artificial intelligence model. [...]",
@@ -212,15 +224,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/",
       "summary": "ChatGPT Go is finally worth your money, as OpenAI has almost doubled the usage limits and enabled ultimate access to GPT 5.2 Instant. [...]",
       "published": "Mon, 19 Jan 2026 20:24:25 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "You can get ChatGPT's $20 Plus subscription for free for a limited time",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/",
-      "summary": "OpenAI is offering ChatGPT Plus, which costs $20 in the United States, for free, but the offer is valid for some accounts only, and it's a limited-time deal. [...]",
-      "published": "Mon, 19 Jan 2026 20:07:57 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -311,6 +314,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'CrashFix' Scam Crashes Browsers, Delivers Malware",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/crashfix-scam-crashes-browsers-delivers-malware",
+      "summary": "The attack consists of a NexShield malicious browser extension, a social engineering technique to crash the browser, and a Python-based RAT.",
+      "published": "Tue, 20 Jan 2026 21:10:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Mass Spam Attacks Leverage Zendesk Instances",
       "link": "https://www.darkreading.com/threat-intelligence/mass-spam-attacks-zendesk-instances",
       "summary": "The CRM vendor advised ignoring or deleting suspicious emails and said the attacks were not tied to any breach or software vulnerability.",
@@ -377,15 +389,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite",
       "summary": "Security professionals are moving up the executive ranks as enterprises face rising regulatory and compliance standards.",
       "published": "Fri, 16 Jan 2026 15:25:40 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI System Reduces Attack Reconstruction Time From Weeks to Hours",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-system-attack-reconstruction-weeks-hours",
-      "summary": "Pacific Northwest National Labs' expert cybersecurity system, ALOHA, can recreate attacks and test them against organizations' infrastructure to bolster defense.",
-      "published": "Fri, 16 Jan 2026 14:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

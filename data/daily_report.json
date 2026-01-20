@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-01-20 12:39",
+  "last_updated": "2026-01-20 14:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "sinec security monitor",
     "telecontrol server basic",
+    "sinec security monitor",
     "least 50 companies",
+    "identities left behind",
     "siemens ruggedcom ros",
     "twitter whistleblower complaint",
     "run arbitrary code",
+    "get real results",
     "50 corporate networks",
-    "internal network behind",
     "industrial edge devices",
-    "president s efforts",
-    "nation s ability",
+    "internal network behind",
     "respective security advisories",
-    "national security risk",
     "bypass security controls",
     "upcoming winter games",
     "today we'll dig",
     "strong theme running",
-    "sprawling phishing campaign",
+    "steal developer credentials",
     "scoops nestled inside",
-    "programmable logic controller"
+    "programmable logic controller",
+    "president s efforts"
   ],
   "trending": [
     {
-      "keyword": "sinec security monitor",
-      "mentions": 58
+      "keyword": "telecontrol server basic",
+      "mentions": 59
     },
     {
-      "keyword": "telecontrol server basic",
-      "mentions": 58
+      "keyword": "sinec security monitor",
+      "mentions": 59
     },
     {
       "keyword": "least 50 companies",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "identities left behind",
+      "mentions": 1
     },
     {
       "keyword": "siemens ruggedcom ros",
-      "mentions": 58
+      "mentions": 59
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 408
+      "mentions": 409
     },
     {
       "keyword": "run arbitrary code",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "get real results",
+      "mentions": 1
     },
     {
       "keyword": "50 corporate networks",
-      "mentions": 11
-    },
-    {
-      "keyword": "internal network behind",
-      "mentions": 117
+      "mentions": 12
     },
     {
       "keyword": "industrial edge devices",
-      "mentions": 7
-    },
-    {
-      "keyword": "president s efforts",
-      "mentions": 58
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "The Hidden Risk of Orphan Accounts",
+      "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
+      "summary": "The Problem: The Identities Left Behind As organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or “orphan” accounts sit dormant across applications, platforms, assets, and cloud consoles. The reason they persist isn’t negligence - it’s fragmentation. Traditional IAM and IGA systems are designed",
+      "published": "Tue, 20 Jan 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+      "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Studio Code (VS Code) extension ecosystem. \"The malware is designed to exfiltrate sensitive information, including developer credentials and cryptocurrency-related data. Compromised developer",
+      "published": "Tue, 20 Jan 2026 17:18:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
@@ -125,20 +143,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs",
-      "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
-      "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors. The security flaw, codenamed StackWarp, can allow bad actors with privileged control over a host server to run malicious code within confidential virtual machines (CVMs), undermining the integrity guarantees provided by AMD",
-      "published": "Mon, 19 Jan 2026 17:01:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
-      "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT. This new escalation of ClickFix,",
-      "published": "Mon, 19 Jan 2026 14:39:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Webinar: Why execs don’t buy SOC teams the tools they need",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-execs-dont-buy-soc-teams-the-tools-they-need/",
+      "summary": "Many security teams are forced to defend environments using tools they didn't choose. This webinar explores how SOC teams can overcome alert fatigue, platform gaps, and AI hype to get real results from the tools they already have. [...]",
+      "published": "Tue, 20 Jan 2026 08:15:23 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -208,18 +217,6 @@
       "published": "Mon, 19 Jan 2026 09:38:32 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ingram Micro says ransomware attack affected 42,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/",
-      "summary": "​Information technology giant Ingram Micro has revealed that a ransomware attack on its systems in July 2025 led to a data breach affecting over 42,000 individuals. [...]",
-      "published": "Mon, 19 Jan 2026 08:33:45 -0500",
-      "value_score": 58,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -386,6 +383,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Chainlit Vulnerabilities May Leak Sensitive Information",
+      "link": "https://www.securityweek.com/chainlit-vulnerabilities-may-leak-sensitive-information/",
+      "summary": "The two bugs, an arbitrary file read and an SSRF bug, can be exploited without user interaction to leak credentials, databases, and other data. The post Chainlit Vulnerabilities May Leak Sensitive Information appeared first on SecurityWeek .",
+      "published": "Tue, 20 Jan 2026 14:13:54 +0000",
+      "value_score": 40,
+      "value_signals": [
+        "Breach/leak ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "APT-Grade PDFSider Malware Used by Ransomware Groups",
       "link": "https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/",
       "summary": "Providing cyberespionage and remote code execution capabilities, the malware is executed via DLL sideloading. The post APT-Grade PDFSider Malware Used by Ransomware Groups appeared first on SecurityWeek .",
@@ -447,15 +456,6 @@
       "link": "https://www.securityweek.com/new-reports-reinforce-cyberattacks-role-in-maduro-capture-blackout/",
       "summary": "US officials told The New York Times that cyberattacks were used to turn off the lights in Caracas and disrupt air defense radars. The post New Reports Reinforce Cyberattack’s Role in Maduro Capture Blackout appeared first on SecurityWeek .",
       "published": "Mon, 19 Jan 2026 12:26:38 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Malicious Chrome Extension Crashes Browser in ClickFix Variant ‘CrashFix’",
-      "link": "https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/",
-      "summary": "Posing as an ad blocker, the malicious extension crashes the browser to lure victims into installing malware. The post Malicious Chrome Extension Crashes Browser in ClickFix Variant ‘CrashFix’ appeared first on SecurityWeek .",
-      "published": "Mon, 19 Jan 2026 11:08:26 +0000",
       "value_score": 10,
       "value_signals": []
     },

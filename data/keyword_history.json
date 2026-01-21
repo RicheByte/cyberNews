@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -162,7 +162,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 420,
+      "count": 421,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2119,10 +2119,11 @@
       ]
     },
     "social engineering technique": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-07",
-        "2026-01-08"
+        "2026-01-08",
+        "2026-01-21"
       ]
     },
     "run arbitrary commands": {
@@ -2296,7 +2297,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2307,11 +2308,12 @@
         "2026-01-15",
         "2026-01-17",
         "2026-01-19",
-        "2026-01-20"
+        "2026-01-20",
+        "2026-01-21"
       ]
     },
     "internal network behind": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2526,14 +2528,15 @@
       ]
     },
     "scoops nestled inside": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-11",
         "2026-01-13",
         "2026-01-14",
         "2026-01-15",
         "2026-01-19",
-        "2026-01-20"
+        "2026-01-20",
+        "2026-01-21"
       ]
     },
     "banning legitimate accounts": {
@@ -2889,9 +2892,10 @@
       ]
     },
     "bugs fixed today": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-14"
+        "2026-01-14",
+        "2026-01-21"
       ]
     },
     "vulnerabilities earned microsoft's": {
@@ -3118,7 +3122,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3530,7 +3534,7 @@
       ]
     },
     "access sensitive information": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3558,7 +3562,7 @@
       ]
     },
     "consolidates critical information": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3605,14 +3609,14 @@
       ]
     },
     "three security vulnerabilities": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "ai assistant reads": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3638,25 +3642,25 @@
       ]
     },
     "artificial intelligence model": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-21"
       ]
     },
     "steal sensitive files": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-21"
       ]
     },
     "tesla infotainment system": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-21"
       ]
     },
     "ai assisted defenders": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-21"
       ]
@@ -3672,20 +3676,33 @@
       "dates": [
         "2026-01-21"
       ]
+    },
+    "lastpass users targeted": {
+      "count": 1,
+      "dates": [
+        "2026-01-21"
+      ]
+    },
+    "steal sensitive data": {
+      "count": 1,
+      "dates": [
+        "2026-01-21"
+      ]
+    },
+    "ai deployments built": {
+      "count": 1,
+      "dates": [
+        "2026-01-21"
+      ]
+    },
+    "simulation runtime softsps": {
+      "count": 1,
+      "dates": [
+        "2026-01-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-13 06:27",
-      "articles": 56,
-      "top_keywords": [
-        "cyber insights 2026",
-        "will add warnings",
-        "twitter whistleblower complaint",
-        "stolen code repositories",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-01-13 08:24",
       "articles": 56,
@@ -4773,6 +4790,17 @@
         "windows operating systems",
         "telecontrol server basic",
         "ai assistant reads"
+      ]
+    },
+    {
+      "timestamp": "2026-01-21 14:26",
+      "articles": 56,
+      "top_keywords": [
+        "artificial intelligence model",
+        "telecontrol server basic",
+        "windows operating systems",
+        "lastpass users targeted",
+        "twitter whistleblower complaint"
       ]
     }
   ]

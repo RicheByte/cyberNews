@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-21 12:39",
+  "last_updated": "2026-01-21 14:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "eu plans phase",
     "artificial intelligence model",
-    "windows operating systems",
     "telecontrol server basic",
-    "ai assistant reads",
-    "high risk suppliers",
-    "access sensitive information",
-    "three security vulnerabilities",
+    "windows operating systems",
+    "lastpass users targeted",
     "twitter whistleblower complaint",
     "tesla infotainment system",
-    "leak credentials databases",
-    "ai assisted defenders",
+    "bugs fixed today",
     "consolidates critical information",
-    "reduce risk exposure",
+    "three security vulnerabilities",
     "steal sensitive files",
-    "access private data",
-    "malicious prompt injection",
+    "steal sensitive data",
+    "ai deployments built",
+    "ai assisted defenders",
+    "ai assistant reads",
     "internal network behind",
-    "respective security advisories",
-    "authorization bypass vulnerability"
+    "access sensitive information",
+    "today we'll dig",
+    "social engineering technique",
+    "simulation runtime softsps",
+    "scoops nestled inside"
   ],
   "trending": [
     {
-      "keyword": "eu plans phase",
-      "mentions": 9
-    },
-    {
       "keyword": "artificial intelligence model",
-      "mentions": 2
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 151
+      "mentions": 3
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 70
+      "mentions": 71
     },
     {
-      "keyword": "ai assistant reads",
-      "mentions": 9
+      "keyword": "windows operating systems",
+      "mentions": 152
     },
     {
-      "keyword": "high risk suppliers",
-      "mentions": 9
-    },
-    {
-      "keyword": "access sensitive information",
-      "mentions": 10
-    },
-    {
-      "keyword": "three security vulnerabilities",
-      "mentions": 9
+      "keyword": "lastpass users targeted",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 420
+      "mentions": 421
     },
     {
       "keyword": "tesla infotainment system",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "bugs fixed today",
+      "mentions": 2
+    },
+    {
+      "keyword": "consolidates critical information",
+      "mentions": 11
+    },
+    {
+      "keyword": "three security vulnerabilities",
+      "mentions": 10
+    },
+    {
+      "keyword": "steal sensitive files",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -152,6 +152,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit security testing apps to breach Fortune 500 firms",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/",
+      "summary": "Threat actors are exploiting misconfigured web applications used for security training and internal penetration testing, such as DVWA, OWASP Juice Shop, Hackazon, and bWAPP, to gain access to cloud environments of Fortune 500 companies and security vendors. [...]",
+      "published": "Wed, 21 Jan 2026 09:00:00 -0500",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "GitLab warns of high-severity 2FA bypass, denial-of-service flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/",
+      "summary": "GitLab has patched a high-severity two-factor authentication bypass impacting community and enterprise editions of its software development platform. [...]",
+      "published": "Wed, 21 Jan 2026 08:57:06 -0500",
+      "value_score": 25,
+      "value_signals": [
+        "Auth bypass"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026",
       "link": "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/",
       "summary": "Security researchers have hacked the Tesla Infotainment System and earned $516,500 after exploiting 37 zero-days on the first day of the Pwn2Own Automotive 2026 competition. [...]",
@@ -208,28 +231,6 @@
       "published": "Tue, 20 Jan 2026 14:35:31 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers",
-      "link": "https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/",
-      "summary": "The European Commission has proposed new cybersecurity legislation mandating the removal of high-risk suppliers to secure telecommunications networks and strengthening defenses against state-backed and cybercrime groups targeting critical infrastructure. [...]",
-      "published": "Tue, 20 Jan 2026 13:54:38 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Gemini AI assistant tricked into leaking Google Calendar data",
-      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/",
-      "summary": "Using only natural language instructions, researchers were able to bypass Google Gemini's defenses against malicious prompt injection and create misleading events to leak private Calendar data. [...]",
-      "published": "Tue, 20 Jan 2026 12:50:01 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +319,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed",
+      "link": "https://www.darkreading.com/application-security/vulnerable-vendors-training-apps",
+      "summary": "Hackers are already leveraging these over-permissioned programs to access the IT systems of major security vendors.",
+      "published": "Wed, 21 Jan 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'CrashFix' Scam Crashes Browsers, Delivers Malware",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/crashfix-scam-crashes-browsers-delivers-malware",
       "summary": "The attack consists of a NexShield malicious browser extension, a social engineering technique to crash the browser, and a Python-based RAT.",
@@ -388,11 +398,31 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "CISOs Rise to Prominence: Security Leaders Join the Executive Suite",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite",
-      "summary": "Security professionals are moving up the executive ranks as enterprises face rising regulatory and compliance standards.",
-      "published": "Fri, 16 Jan 2026 15:25:40 GMT",
+      "source": "Security Week",
+      "title": "aiFWall Emerges from Stealth With an AI Firewall",
+      "link": "https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/",
+      "summary": "aiFWall is a firewall protection for AI deployments built to use AI to improve its own performance. The post aiFWall Emerges from Stealth With an AI Firewall appeared first on SecurityWeek .",
+      "published": "Wed, 21 Jan 2026 14:09:42 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "LastPass Users Targeted With Backup-Themed Phishing Emails",
+      "link": "https://www.securityweek.com/lastpass-users-targeted-with-backup-themed-phishing-emails/",
+      "summary": "Threat actors may have wanted to take advantage of the holiday weekend in the United States to increase their chances of success. The post LastPass Users Targeted With Backup-Themed Phishing Emails appeared first on SecurityWeek .",
+      "published": "Wed, 21 Jan 2026 13:47:02 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "North Korean Hackers Target macOS Developers via Malicious VS Code Projects",
+      "link": "https://www.securityweek.com/north-korean-hackers-target-macos-developers-via-malicious-vs-code-projects/",
+      "summary": "The hackers trick victims into accessing GitHub or GitLab repositories that are opened using Visual Studio Code. The post North Korean Hackers Target macOS Developers via Malicious VS Code Projects appeared first on SecurityWeek .",
+      "published": "Wed, 21 Jan 2026 13:20:11 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -444,36 +474,6 @@
       "published": "Wed, 21 Jan 2026 10:46:56 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Analysis of 6 Billion Passwords Shows Stagnant User Behavior",
-      "link": "https://www.securityweek.com/analysis-of-6-billion-passwords-shows-stagnant-user-behavior/",
-      "summary": "The most common stolen passwords in 2025 were 123456, admin, and password, according to a Specops study. The post Analysis of 6 Billion Passwords Shows Stagnant User Behavior appeared first on SecurityWeek .",
-      "published": "Wed, 21 Jan 2026 09:12:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "EU Plans Phase Out of High Risk Telecom Suppliers, in Proposals Seen as Targeting China",
-      "link": "https://www.securityweek.com/eu-plans-phase-out-of-high-risk-telecom-suppliers-in-proposals-seen-as-targeting-china/",
-      "summary": "Under the new rules, measures for 5G cybersecurity would become mandatory. The post EU Plans Phase Out of High Risk Telecom Suppliers, in Proposals Seen as Targeting China appeared first on SecurityWeek .",
-      "published": "Tue, 20 Jan 2026 19:53:27 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chainlit Vulnerabilities May Leak Sensitive Information",
-      "link": "https://www.securityweek.com/chainlit-vulnerabilities-may-leak-sensitive-information/",
-      "summary": "The two bugs, an arbitrary file read and an SSRF bug, can be exploited without user interaction to leak credentials, databases, and other data. The post Chainlit Vulnerabilities May Leak Sensitive Information appeared first on SecurityWeek .",
-      "published": "Tue, 20 Jan 2026 14:13:54 +0000",
-      "value_score": 40,
-      "value_signals": [
-        "Breach/leak ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

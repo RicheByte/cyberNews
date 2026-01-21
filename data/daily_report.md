@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-21 12:39 UTC  
+> **Last Updated:** 2026-01-21 14:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**eu plans phase** • **artificial intelligence model** • **windows operating systems** • **telecontrol server basic** • **ai assistant reads** • **high risk suppliers** • **access sensitive information** • **three security vulnerabilities** • **twitter whistleblower complaint** • **tesla infotainment system** • **leak credentials databases** • **ai assisted defenders** • **consolidates critical information** • **reduce risk exposure** • **steal sensitive files** • **access private data** • **malicious prompt injection** • **internal network behind** • **respective security advisories** • **authorization bypass vulnerability**
+**artificial intelligence model** • **telecontrol server basic** • **windows operating systems** • **lastpass users targeted** • **twitter whistleblower complaint** • **tesla infotainment system** • **bugs fixed today** • **consolidates critical information** • **three security vulnerabilities** • **steal sensitive files** • **steal sensitive data** • **ai deployments built** • **ai assisted defenders** • **ai assistant reads** • **internal network behind** • **access sensitive information** • **today we'll dig** • **social engineering technique** • **simulation runtime softsps** • **scoops nestled inside**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Hackers exploit security testing apps to breach Fortune 500 firms](https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/)
+- [GitLab warns of high-severity 2FA bypass, denial-of-service flaws](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/)
 - [Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026](https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/)
 - [OpenAI's ChatGPT Atlas browser is testing actions feature](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/)
 - [Google says Gemini won’t have ads, as ChatGPT prepares to add them](https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/)
 - [OpenAI rolls out age prediction model on ChatGPT to detect your age](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/)
 - [ACF plugin bug gives hackers admin on 50,000 WordPress sites](https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/)
 - [VoidLink cloud malware shows clear signs of being AI-generated](https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/)
-- [EU plans cybersecurity overhaul to block foreign high-risk suppliers](https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/)
-- [Gemini AI assistant tricked into leaking Google Calendar data](https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- ['Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed](https://www.darkreading.com/application-security/vulnerable-vendors-training-apps)
 - ['CrashFix' Scam Crashes Browsers, Delivers Malware](https://www.darkreading.com/cyberattacks-data-breaches/crashfix-scam-crashes-browsers-delivers-malware)
 - [Mass Spam Attacks Leverage Zendesk Instances](https://www.darkreading.com/threat-intelligence/mass-spam-attacks-zendesk-instances)
 - [Vulnerabilities Threaten to Break Chainlit AI Framework](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-break-chainlit-ai-framework)
@@ -56,18 +57,17 @@
 - [Microsoft &amp; Anthropic MCP Servers At Risk of RCE, Cloud Takeovers](https://www.darkreading.com/application-security/microsoft-anthropic-mcp-servers-risk-takeovers)
 - [ChatGPT Health Raises Big Security, Safety Concerns](https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns)
 - [More Problems for Fortinet: Critical FortiSIEM Flaw Exploited](https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited)
-- [CISOs Rise to Prominence: Security Leaders Join the Executive Suite](https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite)
 
 ### Security Week
 
+- [aiFWall Emerges from Stealth With an AI Firewall](https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/)
+- [LastPass Users Targeted With Backup-Themed Phishing Emails](https://www.securityweek.com/lastpass-users-targeted-with-backup-themed-phishing-emails/)
+- [North Korean Hackers Target macOS Developers via Malicious VS Code Projects](https://www.securityweek.com/north-korean-hackers-target-macos-developers-via-malicious-vs-code-projects/)
 - [Why Identity Security Must Move Beyond MFA](https://www.securityweek.com/why-identity-security-must-move-beyond-mfa/)
 - [MITRE Launches New Security Framework for Embedded Systems](https://www.securityweek.com/mitre-launches-new-security-framework-for-embedded-systems/)
 - [Cyber Insights 2026: API Security – Harder to Secure, Impossible to Ignore](https://www.securityweek.com/cyber-insights-2026-api-security/)
 - [Anthropic MCP Server Flaws Lead to Code Execution, Data Exposure](https://www.securityweek.com/anthropic-mcp-server-flaws-lead-to-code-execution-data-exposure/)
 - [Oracle’s First 2026 CPU Delivers 337 New Security Patches](https://www.securityweek.com/oracles-first-2026-cpu-delivers-337-new-security-patches/)
-- [Analysis of 6 Billion Passwords Shows Stagnant User Behavior](https://www.securityweek.com/analysis-of-6-billion-passwords-shows-stagnant-user-behavior/)
-- [EU Plans Phase Out of High Risk Telecom Suppliers, in Proposals Seen as Targeting China](https://www.securityweek.com/eu-plans-phase-out-of-high-risk-telecom-suppliers-in-proposals-seen-as-targeting-china/)
-- [Chainlit Vulnerabilities May Leak Sensitive Information](https://www.securityweek.com/chainlit-vulnerabilities-may-leak-sensitive-information/)
 
 ### Threatpost
 

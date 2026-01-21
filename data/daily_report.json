@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-21 20:25",
+  "last_updated": "2026-01-21 22:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "windows operating systems",
     "telecontrol server basic",
     "4 2 million",
-    "lastpass users targeted",
     "twitter whistleblower complaint",
-    "tesla infotainment system",
+    "malicious cyber actors",
     "deleting suspicious emails",
-    "bugs fixed today",
     "consolidates critical information",
     "steal sensitive files",
-    "steal sensitive data",
-    "released security updates",
+    "lastpass users targeted",
+    "reduce risk exposure",
     "internal network behind",
+    "vulnerabilities earned microsoft's",
     "ai researchers say",
     "ai deployments built",
     "ai assisted defenders",
     "access sensitive information",
     "asymmetric security emerges",
-    "vulnerabilities earned microsoft's",
-    "today we'll dig"
+    "today we'll dig",
+    "specific advertisement elements",
+    "social engineering technique"
   ],
   "trending": [
     {
       "keyword": "windows operating systems",
-      "mentions": 155
+      "mentions": 156
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 74
+      "mentions": 75
     },
     {
       "keyword": "4 2 million",
-      "mentions": 3
-    },
-    {
-      "keyword": "lastpass users targeted",
       "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 424
+      "mentions": 425
     },
     {
-      "keyword": "tesla infotainment system",
-      "mentions": 5
+      "keyword": "malicious cyber actors",
+      "mentions": 182
     },
     {
       "keyword": "deleting suspicious emails",
-      "mentions": 2
-    },
-    {
-      "keyword": "bugs fixed today",
-      "mentions": 5
+      "mentions": 3
     },
     {
       "keyword": "consolidates critical information",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "steal sensitive files",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "lastpass users targeted",
+      "mentions": 5
+    },
+    {
+      "keyword": "reduce risk exposure",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -152,6 +152,42 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cisco fixes Unified Communications RCE zero day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/",
+      "summary": "Cisco has fixed a critical Unified Communications and Webex Calling remote code execution vulnerability, tracked as CVE-2026-20045, that has been actively exploited as a zero-day in attacks. [...]",
+      "published": "Wed, 21 Jan 2026 17:16:21 -0500",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation",
+        "RCE ×2",
+        "Patch/update",
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Android malware uses AI to click on hidden browser ads",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/",
+      "summary": "A new family of Android click-fraud trojans leverages TensorFlow machine learning models to automatically detect and interact with specific advertisement elements. [...]",
+      "published": "Wed, 21 Jan 2026 17:07:53 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Online retailer PcComponentes says data breach claims are fake",
+      "link": "https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/",
+      "summary": "PcComponentes, a major technology retailer in Spain, has denied claims of a data breach on its systems impacting 16 million customers, but confirmed it suffered a credential stuffing attack. [...]",
+      "published": "Wed, 21 Jan 2026 15:55:19 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Fortinet admins report patched FortiGate firewalls getting hacked",
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/",
       "summary": "Fortinet customers are seeing attackers exploiting a patch bypass for a previously fixed critical FortiGate authentication vulnerability (CVE-2025-59718) to hack patched firewalls. [...]",
@@ -209,37 +245,6 @@
         "Breach/leak",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GitLab warns of high-severity 2FA bypass, denial-of-service flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/",
-      "summary": "GitLab has patched a high-severity two-factor authentication bypass impacting community and enterprise editions of its software development platform. [...]",
-      "published": "Wed, 21 Jan 2026 08:57:06 -0500",
-      "value_score": 25,
-      "value_signals": [
-        "Auth bypass"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/",
-      "summary": "Security researchers have hacked the Tesla Infotainment System and earned $516,500 after exploiting 37 zero-days on the first day of the Pwn2Own Automotive 2026 competition. [...]",
-      "published": "Wed, 21 Jan 2026 07:16:15 -0500",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI's ChatGPT Atlas browser is testing actions feature",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/",
-      "summary": "Chromium-based ChatGPT Atlas browser is testing a new feature likely called \"Actions,\" and it can also understand videos, which is why you might see ChatGPT generating timestamps for videos. [...]",
-      "published": "Tue, 20 Jan 2026 21:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -328,6 +333,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Contagious Interview' Attack Now Delivers Backdoor Via VS Code",
+      "link": "https://www.darkreading.com/cyber-risk/contagious-interview-attack-delivers-backdoor",
+      "summary": "Once trust is granted to the repository's author, a malicious app executes arbitrary commands on the victim's system with no other user interaction.",
+      "published": "Wed, 21 Jan 2026 22:00:37 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Phishing Campaign Zeroes in on LastPass Customers",
+      "link": "https://www.darkreading.com/application-security/phishing-campaign-zeroes-lastpass-customers",
+      "summary": "The bait incudes plausible subject lines and credible messages, most likely thanks to attackers' use of large language models to craft them.",
+      "published": "Wed, 21 Jan 2026 20:22:02 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Complex VoidLink Linux Malware Created by AI",
       "link": "https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai",
       "summary": "Researchers say the advanced framework was built almost entirely by agents, marking a significant evolution in the use of AI to develop wholly original malware.",
@@ -379,26 +406,6 @@
       "link": "https://www.darkreading.com/cloud-security/google-gemini-flaw-calendar-invites-attack-vector",
       "summary": "The indirect prompt injection vulnerability allows an attacker to weaponize invites to circumvent Google's privacy controls and access private data.",
       "published": "Tue, 20 Jan 2026 15:52:35 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Microsoft &amp; Anthropic MCP Servers At Risk of RCE, Cloud Takeovers",
-      "link": "https://www.darkreading.com/application-security/microsoft-anthropic-mcp-servers-risk-takeovers",
-      "summary": "Researchers found the popular model context protocol (MCP) servers, which are integral components of AI services, carry serious vulnerabilities.",
-      "published": "Tue, 20 Jan 2026 15:47:19 GMT",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "ChatGPT Health Raises Big Security, Safety Concerns",
-      "link": "https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns",
-      "summary": "ChatGPT Health promises robust data protection, but elements of the rollout raise big questions regarding user security and safety.",
-      "published": "Mon, 19 Jan 2026 17:57:52 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -563,6 +570,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/01/21/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20045 Cisco Unified Communications Products Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living",
+      "published": "Wed, 21 Jan 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Schneider Electric EcoStruxure Foxboro DCS",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-01",
       "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability disclosed by INTEL used in the EcoStruxure™ Foxboro DCS product formerly known as Foxboro Evo Process Automation System and I/A Series. The [EcoStruxure™ Foxboro DCS product](https://www.se.com/ww/en/product-range/63680-ecostruxure-foxboro-dcs/#overview) is an innovative family of fault-tolerant, highly available control components, which consolidates critical information and elevates staff capabilities to ensure flawless, continuo",
@@ -616,18 +637,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens Industrial Edge Device Kit",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-09",
-      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains an authorization bypass vulnerability that could facilitate an unauthenticated remote attacker to circumvent authentication and impersonate a legitimate user. Siemens has released new versions for several affected products and recommends to update to the latest versions.",
-      "published": "Wed, 14 Jan 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Siemens RUGGEDCOM ROS",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-05",
       "summary": "View CSAF Summary Ruggedcom ROS devices contain a temporary denial of service vulnerability that could allow an attacker to crash and restart the device. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens RUGGEDCOM ROS are affected: RUGGEDCOM RMC8388 V5.X (CVE-2025-40935) RUGGEDCOM RS416Pv2 V5.X (CVE-2025-40935) RUGGEDCOM RS416v2 V5.X (CVE-2025-40935) RUGGEDCOM RS900 (32M) V5.X (CVE-2025-40935) RUGGEDCOM ",
@@ -642,18 +651,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Secure Connectivity Principles for Operational Technology (OT)",
-      "link": "https://www.cisa.gov/resources-tools/resources/secure-connectivity-principles-operational-technology-ot",
-      "summary": "CISA and the UK National Cyber Security Centre (NCSC-UK), in collaboration with federal and international partners, have released Secure Connectivity Principles for Operational Technology (OT) guidance to help asset owners address increasing business and regulatory pressures for connectivity into operational technology (OT) networks. This guidance outlines eight principles to use as a framework to design, secure, and manage connectivity into OT environments. These principles are particularly cri",
-      "published": "Wed, 14 Jan 26 12:00:00 +0000",
-      "value_score": 55,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Siemens TeleControl Server Basic",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-03",
       "summary": "View CSAF Summary TeleControl Server Basic before V3.1.2.4 contains a local privilege escalation vulnerability that could allow an attacker to run arbitrary code with elevated privileges. Siemens has released a new version for TeleControl Server Basic and recommends to update to the latest version. The following versions of Siemens TeleControl Server Basic are affected: TeleControl Server Basic (CVE-2025-40942) CVSS Vendor Equipment Vulnerabilities v3 8.8 Siemens Siemens TeleControl Server Basic",
@@ -664,6 +661,18 @@
         "CVE mentioned",
         "Privilege escalation",
         "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens SIMATIC and SIPLUS products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-04",
+      "summary": "View CSAF Summary Siemens ET 200SP contains a denial-of-service vulnerability that could be triggered by sending a valid S7 protocol Disconnect Request (COTP DR TPDU), causing the device to become unresponsive and require a power cycle to recover. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fix versions and recommends specific countermeasures for products where fixes are not, or not yet available. T",
+      "published": "Wed, 14 Jan 26 12:00:00 +0000",
+      "value_score": 51,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update ×2"
       ]
     }
   ],

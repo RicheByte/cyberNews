@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -100,7 +100,8 @@
         "2026-01-12",
         "2026-01-13",
         "2026-01-14",
-        "2026-01-15"
+        "2026-01-15",
+        "2026-01-21"
       ]
     },
     "user named csnemess": {
@@ -138,7 +139,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -162,7 +163,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 424,
+      "count": 425,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2119,7 +2120,7 @@
       ]
     },
     "social engineering technique": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -2297,7 +2298,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2313,7 +2314,7 @@
       ]
     },
     "internal network behind": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2899,7 +2900,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3124,7 +3125,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3536,7 +3537,7 @@
       ]
     },
     "access sensitive information": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3564,7 +3565,7 @@
       ]
     },
     "consolidates critical information": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3650,7 +3651,7 @@
       ]
     },
     "steal sensitive files": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-21"
       ]
@@ -3662,13 +3663,13 @@
       ]
     },
     "ai assisted defenders": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-21"
       ]
     },
     "reduce risk exposure": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-21"
       ]
@@ -3680,7 +3681,7 @@
       ]
     },
     "lastpass users targeted": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-21"
       ]
@@ -3692,7 +3693,7 @@
       ]
     },
     "ai deployments built": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-21"
       ]
@@ -3704,42 +3705,37 @@
       ]
     },
     "4 2 million": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-21"
       ]
     },
     "ai researchers say": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-21"
       ]
     },
     "asymmetric security emerges": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-21"
       ]
     },
     "deleting suspicious emails": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-01-21"
+      ]
+    },
+    "specific advertisement elements": {
+      "count": 1,
       "dates": [
         "2026-01-21"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-13 14:21",
-      "articles": 56,
-      "top_keywords": [
-        "ordered government agencies",
-        "cyber insights 2026",
-        "notorious hacker forum",
-        "servicenow ai platform",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-13 16:26",
       "articles": 56,
@@ -4827,6 +4823,17 @@
         "4 2 million",
         "lastpass users targeted",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-21 22:19",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "telecontrol server basic",
+        "4 2 million",
+        "twitter whistleblower complaint",
+        "malicious cyber actors"
       ]
     }
   ]

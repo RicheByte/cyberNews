@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-21 20:25 UTC  
+> **Last Updated:** 2026-01-21 22:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **telecontrol server basic** • **4 2 million** • **lastpass users targeted** • **twitter whistleblower complaint** • **tesla infotainment system** • **deleting suspicious emails** • **bugs fixed today** • **consolidates critical information** • **steal sensitive files** • **steal sensitive data** • **released security updates** • **internal network behind** • **ai researchers say** • **ai deployments built** • **ai assisted defenders** • **access sensitive information** • **asymmetric security emerges** • **vulnerabilities earned microsoft's** • **today we'll dig**
+**windows operating systems** • **telecontrol server basic** • **4 2 million** • **twitter whistleblower complaint** • **malicious cyber actors** • **deleting suspicious emails** • **consolidates critical information** • **steal sensitive files** • **lastpass users targeted** • **reduce risk exposure** • **internal network behind** • **vulnerabilities earned microsoft's** • **ai researchers say** • **ai deployments built** • **ai assisted defenders** • **access sensitive information** • **asymmetric security emerges** • **today we'll dig** • **specific advertisement elements** • **social engineering technique**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Cisco fixes Unified Communications RCE zero day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/)
+- [New Android malware uses AI to click on hidden browser ads](https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/)
+- [Online retailer PcComponentes says data breach claims are fake](https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/)
 - [Fortinet admins report patched FortiGate firewalls getting hacked](https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/)
 - [Fake Lastpass emails pose as password vault backup alerts](https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/)
 - [Microsoft shares workaround for Outlook freezes after Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/)
 - [You Got Phished? Of Course! You're Human...](https://www.bleepingcomputer.com/news/security/you-got-phished-of-course-youre-human/)
 - [Hackers exploit security testing apps to breach Fortune 500 firms](https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/)
-- [GitLab warns of high-severity 2FA bypass, denial-of-service flaws](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/)
-- [Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026](https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/)
-- [OpenAI's ChatGPT Atlas browser is testing actions feature](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- ['Contagious Interview' Attack Now Delivers Backdoor Via VS Code](https://www.darkreading.com/cyber-risk/contagious-interview-attack-delivers-backdoor)
+- [Phishing Campaign Zeroes in on LastPass Customers](https://www.darkreading.com/application-security/phishing-campaign-zeroes-lastpass-customers)
 - [Complex VoidLink Linux Malware Created by AI](https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai)
 - ['Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed](https://www.darkreading.com/application-security/vulnerable-vendors-training-apps)
 - ['CrashFix' Scam Crashes Browsers, Delivers Malware](https://www.darkreading.com/cyberattacks-data-breaches/crashfix-scam-crashes-browsers-delivers-malware)
 - [Mass Spam Attacks Leverage Zendesk Instances](https://www.darkreading.com/threat-intelligence/mass-spam-attacks-zendesk-instances)
 - [Vulnerabilities Threaten to Break Chainlit AI Framework](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-break-chainlit-ai-framework)
 - [Google Gemini Flaw Turns Calendar Invites Into Attack Vector](https://www.darkreading.com/cloud-security/google-gemini-flaw-calendar-invites-attack-vector)
-- [Microsoft &amp; Anthropic MCP Servers At Risk of RCE, Cloud Takeovers](https://www.darkreading.com/application-security/microsoft-anthropic-mcp-servers-risk-takeovers)
-- [ChatGPT Health Raises Big Security, Safety Concerns](https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/21/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Schneider Electric EcoStruxure Foxboro DCS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-01)
 - [Rockwell Automation Verve Asset Manager](https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-03)
 - [Schneider Electric devices using CODESYS Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-02)
 - [AVEVA Process Optimization](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-01)
-- [Siemens Industrial Edge Device Kit](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-09)
 - [Siemens RUGGEDCOM ROS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-05)
-- [Secure Connectivity Principles for Operational Technology (OT)](https://www.cisa.gov/resources-tools/resources/secure-connectivity-principles-operational-technology-ot)
 - [Siemens TeleControl Server Basic](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-03)
+- [Siemens SIMATIC and SIPLUS products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-04)
 
 ---
 

@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 152,
+      "count": 153,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -162,7 +162,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 421,
+      "count": 422,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2119,7 +2119,7 @@
       ]
     },
     "social engineering technique": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -2297,7 +2297,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2313,7 +2313,7 @@
       ]
     },
     "internal network behind": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2892,18 +2892,19 @@
       ]
     },
     "bugs fixed today": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-14",
         "2026-01-21"
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-14",
         "2026-01-15",
-        "2026-01-20"
+        "2026-01-20",
+        "2026-01-21"
       ]
     },
     "final patch tuesday": {
@@ -3085,9 +3086,10 @@
       ]
     },
     "released security updates": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-15"
+        "2026-01-15",
+        "2026-01-21"
       ]
     },
     "auditability collide daily": {
@@ -3122,7 +3124,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3534,7 +3536,7 @@
       ]
     },
     "access sensitive information": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3562,7 +3564,7 @@
       ]
     },
     "consolidates critical information": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3648,19 +3650,19 @@
       ]
     },
     "steal sensitive files": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-21"
       ]
     },
     "tesla infotainment system": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-21"
       ]
     },
     "ai assisted defenders": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-21"
       ]
@@ -3678,19 +3680,19 @@
       ]
     },
     "lastpass users targeted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-21"
       ]
     },
     "steal sensitive data": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-21"
       ]
     },
     "ai deployments built": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-21"
       ]
@@ -3700,20 +3702,27 @@
       "dates": [
         "2026-01-21"
       ]
+    },
+    "4 2 million": {
+      "count": 1,
+      "dates": [
+        "2026-01-21"
+      ]
+    },
+    "ai researchers say": {
+      "count": 1,
+      "dates": [
+        "2026-01-21"
+      ]
+    },
+    "asymmetric security emerges": {
+      "count": 1,
+      "dates": [
+        "2026-01-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-13 08:24",
-      "articles": 56,
-      "top_keywords": [
-        "cyber insights 2026",
-        "will add warnings",
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "ordered government agencies"
-      ]
-    },
     {
       "timestamp": "2026-01-13 10:19",
       "articles": 56,
@@ -4801,6 +4810,17 @@
         "windows operating systems",
         "lastpass users targeted",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-21 16:37",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "telecontrol server basic",
+        "4 2 million",
+        "twitter whistleblower complaint",
+        "tesla infotainment system"
       ]
     }
   ]

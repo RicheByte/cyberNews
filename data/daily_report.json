@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-20 22:19",
+  "last_updated": "2026-01-21 01:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "eu plans phase",
     "telecontrol server basic",
     "access sensitive information",
+    "bypass security controls",
     "windows operating systems",
     "python based rat",
     "identities left behind",
-    "bypass security controls",
     "malicious prompt injection",
-    "crypto cybersecurity researchers",
     "high risk suppliers",
-    "twitter whistleblower complaint",
     "three security vulnerabilities",
+    "twitter whistleblower complaint",
     "multi monitor setups",
     "leak credentials databases",
-    "join sumo logic",
     "elevates staff capabilities",
     "consolidates critical information",
-    "aligning security tools",
     "ai assistant reads",
-    "access private data"
+    "crypto cybersecurity researchers",
+    "access private data",
+    "illicit services appears",
+    "secure telecommunications networks"
   ],
   "trending": [
     {
       "keyword": "eu plans phase",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 63
+      "mentions": 64
     },
     {
       "keyword": "access sensitive information",
-      "mentions": 3
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 144
-    },
-    {
-      "keyword": "python based rat",
-      "mentions": 1
-    },
-    {
-      "keyword": "identities left behind",
-      "mentions": 5
+      "mentions": 4
     },
     {
       "keyword": "bypass security controls",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 145
+    },
+    {
+      "keyword": "python based rat",
+      "mentions": 2
+    },
+    {
+      "keyword": "identities left behind",
+      "mentions": 6
     },
     {
       "keyword": "malicious prompt injection",
-      "mentions": 3
-    },
-    {
-      "keyword": "crypto cybersecurity researchers",
       "mentions": 4
     },
     {
       "keyword": "high risk suppliers",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "three security vulnerabilities",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -148,6 +148,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Google says Gemini won’t have ads, as ChatGPT prepares to add them",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/",
+      "summary": "OpenAI recently rolled out ads to ChatGPT in the United States if you use $8 Go subscription or a free account, but Google says it does not plan to put ads in Gemini. [...]",
+      "published": "Tue, 20 Jan 2026 19:00:00 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "OpenAI rolls out age prediction model on ChatGPT to detect your age",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/",
+      "summary": "OpenAI is rolling out an age prediction model on ChatGPT to detect your age and apply possible safety-related restrictions to prevent misuse by teens. [...]",
+      "published": "Tue, 20 Jan 2026 17:57:21 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ACF plugin bug gives hackers admin on 50,000 WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/",
       "summary": "A critical-severity vulnerability in the Advanced Custom Fields: Extended (ACF Extended) plugin for WordPress can be exploited remotely by unauthenticated attackers to obtain administrative permissions. [...]",
@@ -208,24 +226,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Aligning cybersecurity purchases with what your SOC team needs",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-aligning-cybersecurity-purchases-with-what-your-soc-team-needs/",
-      "summary": "Learn how security leaders and SOC teams can work together to close the gap between platform decisions and operational needs. Join Sumo Logic and BleepingComputer on January 29 for a practical webinar on aligning security tools with real-world workflows. [...]",
-      "published": "Tue, 20 Jan 2026 08:15:23 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/",
-      "summary": "ChatGPT Go is finally worth your money, as OpenAI has almost doubled the usage limits and enabled ultimate access to GPT 5.2 Instant. [...]",
-      "published": "Mon, 19 Jan 2026 20:24:25 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

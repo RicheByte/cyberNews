@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-20 22:19 UTC |
+| 🕐 Last Updated | 2026-01-21 01:21 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`eu plans phase` • `telecontrol server basic` • `access sensitive information` • `windows operating systems` • `python based rat` • `identities left behind` • `bypass security controls` • `malicious prompt injection` • `crypto cybersecurity researchers` • `high risk suppliers`
+`eu plans phase` • `telecontrol server basic` • `access sensitive information` • `bypass security controls` • `windows operating systems` • `python based rat` • `identities left behind` • `malicious prompt injection` • `high risk suppliers` • `three security vulnerabilities`
 
 ## 📄 Reports
 

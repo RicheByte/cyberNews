@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-20 22:19 UTC  
+> **Last Updated:** 2026-01-21 01:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**eu plans phase** • **telecontrol server basic** • **access sensitive information** • **windows operating systems** • **python based rat** • **identities left behind** • **bypass security controls** • **malicious prompt injection** • **crypto cybersecurity researchers** • **high risk suppliers** • **twitter whistleblower complaint** • **three security vulnerabilities** • **multi monitor setups** • **leak credentials databases** • **join sumo logic** • **elevates staff capabilities** • **consolidates critical information** • **aligning security tools** • **ai assistant reads** • **access private data**
+**eu plans phase** • **telecontrol server basic** • **access sensitive information** • **bypass security controls** • **windows operating systems** • **python based rat** • **identities left behind** • **malicious prompt injection** • **high risk suppliers** • **three security vulnerabilities** • **twitter whistleblower complaint** • **multi monitor setups** • **leak credentials databases** • **elevates staff capabilities** • **consolidates critical information** • **ai assistant reads** • **crypto cybersecurity researchers** • **access private data** • **illicit services appears** • **secure telecommunications networks**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Google says Gemini won’t have ads, as ChatGPT prepares to add them](https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/)
+- [OpenAI rolls out age prediction model on ChatGPT to detect your age](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/)
 - [ACF plugin bug gives hackers admin on 50,000 WordPress sites](https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/)
 - [VoidLink cloud malware shows clear signs of being AI-generated](https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/)
 - [EU plans cybersecurity overhaul to block foreign high-risk suppliers](https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/)
 - [Gemini AI assistant tricked into leaking Google Calendar data](https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/)
 - [Microsoft PowerToys adds new CursorWrap mouse 'teleport' tool](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/)
 - [Make Identity Threat Detection your security strategy for 2026](https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/)
-- [Webinar: Aligning cybersecurity purchases with what your SOC team needs](https://www.bleepingcomputer.com/news/security/webinar-aligning-cybersecurity-purchases-with-what-your-soc-team-needs/)
-- [ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/)
 
 ### Krebs on Security
 

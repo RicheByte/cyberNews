@@ -1,18 +1,17 @@
 {
-  "last_updated": "2026-01-21 01:21",
+  "last_updated": "2026-01-21 03:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "eu plans phase",
+    "bypass security controls",
     "telecontrol server basic",
     "access sensitive information",
-    "bypass security controls",
     "windows operating systems",
-    "python based rat",
     "identities left behind",
+    "three security vulnerabilities",
     "malicious prompt injection",
     "high risk suppliers",
-    "three security vulnerabilities",
     "twitter whistleblower complaint",
     "multi monitor setups",
     "leak credentials databases",
@@ -21,49 +20,50 @@
     "ai assistant reads",
     "crypto cybersecurity researchers",
     "access private data",
-    "illicit services appears",
-    "secure telecommunications networks"
+    "python based rat",
+    "secure telecommunications networks",
+    "illicit services appears"
   ],
   "trending": [
     {
       "keyword": "eu plans phase",
-      "mentions": 3
-    },
-    {
-      "keyword": "telecontrol server basic",
-      "mentions": 64
-    },
-    {
-      "keyword": "access sensitive information",
       "mentions": 4
     },
     {
       "keyword": "bypass security controls",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "telecontrol server basic",
+      "mentions": 65
+    },
+    {
+      "keyword": "access sensitive information",
+      "mentions": 5
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 145
-    },
-    {
-      "keyword": "python based rat",
-      "mentions": 2
+      "mentions": 146
     },
     {
       "keyword": "identities left behind",
-      "mentions": 6
-    },
-    {
-      "keyword": "malicious prompt injection",
-      "mentions": 4
-    },
-    {
-      "keyword": "high risk suppliers",
-      "mentions": 3
+      "mentions": 7
     },
     {
       "keyword": "three security vulnerabilities",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "malicious prompt injection",
+      "mentions": 5
+    },
+    {
+      "keyword": "high risk suppliers",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 415
     }
   ],
   "articles": [
@@ -148,6 +148,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI's ChatGPT Atlas browser is testing actions feature",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/",
+      "summary": "Chromium-based ChatGPT Atlas browser is testing a new feature likely called \"Actions,\" and it can also understand videos, which is why you might see ChatGPT generating timestamps for videos. [...]",
+      "published": "Tue, 20 Jan 2026 21:00:00 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google says Gemini won’t have ads, as ChatGPT prepares to add them",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/",
       "summary": "OpenAI recently rolled out ads to ChatGPT in the United States if you use $8 Go subscription or a free account, but Google says it does not plan to put ads in Gemini. [...]",
@@ -215,17 +224,6 @@
       "published": "Tue, 20 Jan 2026 11:33:30 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Make Identity Threat Detection your security strategy for 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/",
-      "summary": "Identity-based attacks are one of the primary paths attackers use to breach corporate networks. Tenfold shows how Identity Threat Detection helps spot suspicious account activity before real damage occurs. [...]",
-      "published": "Tue, 20 Jan 2026 10:01:11 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",

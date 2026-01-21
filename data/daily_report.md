@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-21 01:21 UTC  
+> **Last Updated:** 2026-01-21 03:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**eu plans phase** • **telecontrol server basic** • **access sensitive information** • **bypass security controls** • **windows operating systems** • **python based rat** • **identities left behind** • **malicious prompt injection** • **high risk suppliers** • **three security vulnerabilities** • **twitter whistleblower complaint** • **multi monitor setups** • **leak credentials databases** • **elevates staff capabilities** • **consolidates critical information** • **ai assistant reads** • **crypto cybersecurity researchers** • **access private data** • **illicit services appears** • **secure telecommunications networks**
+**eu plans phase** • **bypass security controls** • **telecontrol server basic** • **access sensitive information** • **windows operating systems** • **identities left behind** • **three security vulnerabilities** • **malicious prompt injection** • **high risk suppliers** • **twitter whistleblower complaint** • **multi monitor setups** • **leak credentials databases** • **elevates staff capabilities** • **consolidates critical information** • **ai assistant reads** • **crypto cybersecurity researchers** • **access private data** • **python based rat** • **secure telecommunications networks** • **illicit services appears**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [OpenAI's ChatGPT Atlas browser is testing actions feature](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/)
 - [Google says Gemini won’t have ads, as ChatGPT prepares to add them](https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/)
 - [OpenAI rolls out age prediction model on ChatGPT to detect your age](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/)
 - [ACF plugin bug gives hackers admin on 50,000 WordPress sites](https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/)
@@ -34,7 +35,6 @@
 - [EU plans cybersecurity overhaul to block foreign high-risk suppliers](https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/)
 - [Gemini AI assistant tricked into leaking Google Calendar data](https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/)
 - [Microsoft PowerToys adds new CursorWrap mouse 'teleport' tool](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/)
-- [Make Identity Threat Detection your security strategy for 2026](https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/)
 
 ### Krebs on Security
 

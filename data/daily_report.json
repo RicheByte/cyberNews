@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-01-21 10:23",
+  "last_updated": "2026-01-21 12:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "eu plans phase",
     "artificial intelligence model",
-    "telecontrol server basic",
     "windows operating systems",
+    "telecontrol server basic",
+    "ai assistant reads",
+    "high risk suppliers",
     "access sensitive information",
     "three security vulnerabilities",
-    "identities left behind",
-    "ai assistant reads",
-    "malicious prompt injection",
-    "high risk suppliers",
     "twitter whistleblower complaint",
-    "multi monitor setups",
+    "tesla infotainment system",
     "leak credentials databases",
-    "elevates staff capabilities",
+    "ai assisted defenders",
     "consolidates critical information",
-    "access private data",
-    "python based rat",
+    "reduce risk exposure",
     "steal sensitive files",
-    "secure telecommunications networks",
-    "respective security advisories"
+    "access private data",
+    "malicious prompt injection",
+    "internal network behind",
+    "respective security advisories",
+    "authorization bypass vulnerability"
   ],
   "trending": [
     {
       "keyword": "eu plans phase",
-      "mentions": 8
-    },
-    {
-      "keyword": "artificial intelligence model",
-      "mentions": 1
-    },
-    {
-      "keyword": "telecontrol server basic",
-      "mentions": 69
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 150
-    },
-    {
-      "keyword": "access sensitive information",
       "mentions": 9
     },
     {
-      "keyword": "three security vulnerabilities",
-      "mentions": 8
+      "keyword": "artificial intelligence model",
+      "mentions": 2
     },
     {
-      "keyword": "identities left behind",
-      "mentions": 11
+      "keyword": "windows operating systems",
+      "mentions": 151
+    },
+    {
+      "keyword": "telecontrol server basic",
+      "mentions": 70
     },
     {
       "keyword": "ai assistant reads",
-      "mentions": 8
-    },
-    {
-      "keyword": "malicious prompt injection",
       "mentions": 9
     },
     {
       "keyword": "high risk suppliers",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "access sensitive information",
+      "mentions": 10
+    },
+    {
+      "keyword": "three security vulnerabilities",
+      "mentions": 9
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 420
+    },
+    {
+      "keyword": "tesla infotainment system",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
+      "link": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
+      "summary": "Every managed security provider is chasing the same problem in 2026 — too many alerts, too few analysts, and clients demanding “CISO-level protection” at SMB budgets. The truth? Most MSSPs are running harder, not smarter. And it’s breaking their margins. That’s where the quiet revolution is happening: AI isn’t just writing reports or surfacing risks — it’s rebuilding how security services are",
+      "published": "Wed, 21 Jan 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Exposure Assessment Platforms Signal a Shift in Focus",
+      "link": "https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html",
+      "summary": "Gartner® doesn’t create new categories lightly. Generally speaking, a new acronym only emerges when the industry's collective \"to-do list\" has become mathematically impossible to complete. And so it seems that the introduction of the Exposure Assessment Platforms (EAP) category is a formal admission that traditional Vulnerability Management (VM) is no longer a viable way to secure a modern",
+      "published": "Wed, 21 Jan 2026 16:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs",
@@ -133,25 +151,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
-      "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
-      "summary": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (RAT). The activity delivers \"weaponized files via Dynamic Link Library (DLL) sideloading, combined with a legitimate, open-source Python pen-testing script,\" ReliaQuest said in a report shared with",
-      "published": "Tue, 20 Jan 2026 19:16:00 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/",
+      "summary": "Security researchers have hacked the Tesla Infotainment System and earned $516,500 after exploiting 37 zero-days on the first day of the Pwn2Own Automotive 2026 competition. [...]",
+      "published": "Wed, 21 Jan 2026 07:16:15 -0500",
+      "value_score": 16,
       "value_signals": [
-        "Phishing",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Hidden Risk of Orphan Accounts",
-      "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
-      "summary": "The Problem: The Identities Left Behind As organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or “orphan” accounts sit dormant across applications, platforms, assets, and cloud consoles. The reason they persist isn’t negligence - it’s fragmentation. Traditional IAM and IGA systems are designed",
-      "published": "Tue, 20 Jan 2026 17:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -222,15 +230,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft PowerToys adds new CursorWrap mouse 'teleport' tool",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/",
-      "summary": "Microsoft has released PowerToys 0.97, with a new mouse utility for multi-monitor setups and significant improvements to the Command Palette quick launcher. [...]",
-      "published": "Tue, 20 Jan 2026 11:33:30 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -399,6 +398,55 @@
     },
     {
       "source": "Security Week",
+      "title": "Why Identity Security Must Move Beyond MFA",
+      "link": "https://www.securityweek.com/why-identity-security-must-move-beyond-mfa/",
+      "summary": "By integrating identity threat detection with MFA, organizations can protect sensitive data, maintain operational continuity, and reduce risk exposure. The post Why Identity Security Must Move Beyond MFA appeared first on SecurityWeek .",
+      "published": "Wed, 21 Jan 2026 12:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "MITRE Launches New Security Framework for Embedded Systems",
+      "link": "https://www.securityweek.com/mitre-launches-new-security-framework-for-embedded-systems/",
+      "summary": "The Embedded Systems Threat Matrix (ESTM) aims to help organizations protect critical embedded systems. The post MITRE Launches New Security Framework for Embedded Systems appeared first on SecurityWeek .",
+      "published": "Wed, 21 Jan 2026 12:11:46 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cyber Insights 2026: API Security – Harder to Secure, Impossible to Ignore",
+      "link": "https://www.securityweek.com/cyber-insights-2026-api-security/",
+      "summary": "API cybersecurity will be a ping pong ball, battered between the rackets of AI-assisted attackers and AI-assisted defenders. The post Cyber Insights 2026: API Security – Harder to Secure, Impossible to Ignore appeared first on SecurityWeek .",
+      "published": "Wed, 21 Jan 2026 12:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic MCP Server Flaws Lead to Code Execution, Data Exposure",
+      "link": "https://www.securityweek.com/anthropic-mcp-server-flaws-lead-to-code-execution-data-exposure/",
+      "summary": "Impacting Anthropic’s official MCP server, the vulnerabilities can be exploited through prompt injections. The post Anthropic MCP Server Flaws Lead to Code Execution, Data Exposure appeared first on SecurityWeek .",
+      "published": "Wed, 21 Jan 2026 11:41:55 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Oracle’s First 2026 CPU Delivers 337 New Security Patches",
+      "link": "https://www.securityweek.com/oracles-first-2026-cpu-delivers-337-new-security-patches/",
+      "summary": "Oracle’s January 2026 CPU resolves roughly 230 unique vulnerabilities across more than 30 products. The post Oracle’s First 2026 CPU Delivers 337 New Security Patches appeared first on SecurityWeek .",
+      "published": "Wed, 21 Jan 2026 10:46:56 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Analysis of 6 Billion Passwords Shows Stagnant User Behavior",
       "link": "https://www.securityweek.com/analysis-of-6-billion-passwords-shows-stagnant-user-behavior/",
       "summary": "The most common stolen passwords in 2025 were 123456, admin, and password, according to a Specops study. The post Analysis of 6 Billion Passwords Shows Stagnant User Behavior appeared first on SecurityWeek .",
@@ -426,54 +474,6 @@
         "Breach/leak ×3",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "APT-Grade PDFSider Malware Used by Ransomware Groups",
-      "link": "https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/",
-      "summary": "Providing cyberespionage and remote code execution capabilities, the malware is executed via DLL sideloading. The post APT-Grade PDFSider Malware Used by Ransomware Groups appeared first on SecurityWeek .",
-      "published": "Tue, 20 Jan 2026 12:09:44 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Ransomware ×2",
-        "RCE"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Weaponized Invite Enabled Calendar Data Theft via Google Gemini",
-      "link": "https://www.securityweek.com/weaponized-invite-enabled-calendar-data-theft-via-google-gemini/",
-      "summary": "A simple payload allowed attackers to create a new event leaking summaries of the victim’s private meetings. The post Weaponized Invite Enabled Calendar Data Theft via Google Gemini appeared first on SecurityWeek .",
-      "published": "Tue, 20 Jan 2026 10:59:36 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking",
-      "link": "https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/",
-      "summary": "The researcher who discovered the vulnerability saw more than 2,500 internet-exposed devices. The post TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking appeared first on SecurityWeek .",
-      "published": "Mon, 19 Jan 2026 14:39:37 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks",
-      "link": "https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/",
-      "summary": "Operating as an access broker, the defendant sold unauthorized access to compromised networks to an undercover agent. The post Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks appeared first on SecurityWeek .",
-      "published": "Mon, 19 Jan 2026 13:48:43 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "‘SolyxImmortal’ Information Stealer Emerges",
-      "link": "https://www.securityweek.com/solyximmortal-information-stealer-emerges/",
-      "summary": "The information stealer abuses legitimate APIs and libraries to exfiltrate data to Discord webhooks. The post ‘SolyxImmortal’ Information Stealer Emerges appeared first on SecurityWeek .",
-      "published": "Mon, 19 Jan 2026 13:35:09 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -162,7 +162,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 419,
+      "count": 420,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2311,7 +2311,7 @@
       ]
     },
     "internal network behind": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2324,7 +2324,8 @@
         "2026-01-17",
         "2026-01-18",
         "2026-01-19",
-        "2026-01-20"
+        "2026-01-20",
+        "2026-01-21"
       ]
     },
     "ai driven access": {
@@ -3117,7 +3118,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3157,7 +3158,7 @@
       ]
     },
     "respective security advisories": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3529,7 +3530,7 @@
       ]
     },
     "access sensitive information": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3543,7 +3544,7 @@
       ]
     },
     "leak credentials databases": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3557,21 +3558,21 @@
       ]
     },
     "consolidates critical information": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "access private data": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "malicious prompt injection": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3590,28 +3591,28 @@
       ]
     },
     "eu plans phase": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "high risk suppliers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "three security vulnerabilities": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "ai assistant reads": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3637,12 +3638,36 @@
       ]
     },
     "artificial intelligence model": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-21"
       ]
     },
     "steal sensitive files": {
+      "count": 2,
+      "dates": [
+        "2026-01-21"
+      ]
+    },
+    "tesla infotainment system": {
+      "count": 1,
+      "dates": [
+        "2026-01-21"
+      ]
+    },
+    "ai assisted defenders": {
+      "count": 1,
+      "dates": [
+        "2026-01-21"
+      ]
+    },
+    "reduce risk exposure": {
+      "count": 1,
+      "dates": [
+        "2026-01-21"
+      ]
+    },
+    "authorization bypass vulnerability": {
       "count": 1,
       "dates": [
         "2026-01-21"
@@ -3650,17 +3675,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-13 04:36",
-      "articles": 56,
-      "top_keywords": [
-        "cyber insights 2026",
-        "will add warnings",
-        "twitter whistleblower complaint",
-        "stolen code repositories",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-01-13 06:27",
       "articles": 56,
@@ -4748,6 +4762,17 @@
         "telecontrol server basic",
         "windows operating systems",
         "access sensitive information"
+      ]
+    },
+    {
+      "timestamp": "2026-01-21 12:39",
+      "articles": 56,
+      "top_keywords": [
+        "eu plans phase",
+        "artificial intelligence model",
+        "windows operating systems",
+        "telecontrol server basic",
+        "ai assistant reads"
       ]
     }
   ]

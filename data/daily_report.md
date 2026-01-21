@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-21 06:29 UTC  
+> **Last Updated:** 2026-01-21 08:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**eu plans phase** • **bypass security controls** • **telecontrol server basic** • **access sensitive information** • **windows operating systems** • **identities left behind** • **three security vulnerabilities** • **malicious prompt injection** • **high risk suppliers** • **twitter whistleblower complaint** • **multi monitor setups** • **leak credentials databases** • **elevates staff capabilities** • **consolidates critical information** • **ai assistant reads** • **crypto cybersecurity researchers** • **access private data** • **python based rat** • **secure telecommunications networks** • **illicit services appears**
+**eu plans phase** • **access sensitive information** • **telecontrol server basic** • **bypass security controls** • **windows operating systems** • **identities left behind** • **malicious prompt injection** • **high risk suppliers** • **three security vulnerabilities** • **twitter whistleblower complaint** • **multi monitor setups** • **leak credentials databases** • **elevates staff capabilities** • **consolidates critical information** • **ai assistant reads** • **crypto cybersecurity researchers** • **access private data** • **python based rat** • **secure telecommunications networks** • **access origin servers**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [LastPass Warns of Fake Maintenance Messages Targeting Users’ Master Passwords](https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html)
+- [CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution](https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html)
 - [North Korea-Linked Hackers Target Developers via Malicious VS Code Projects](https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html)
 - [Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution](https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html)
 - [Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading](https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html)
 - [The Hidden Risk of Orphan Accounts](https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html)
 - [Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto](https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html)
 - [Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers](https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html)
-- [Why Secrets in JavaScript Bundles are Still Being Missed](https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html)
-- [Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion](https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html)
 
 ### BleepingComputer
 

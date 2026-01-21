@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-01-21 06:29",
+  "last_updated": "2026-01-21 08:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "eu plans phase",
-    "bypass security controls",
-    "telecontrol server basic",
     "access sensitive information",
+    "telecontrol server basic",
+    "bypass security controls",
     "windows operating systems",
     "identities left behind",
-    "three security vulnerabilities",
     "malicious prompt injection",
     "high risk suppliers",
+    "three security vulnerabilities",
     "twitter whistleblower complaint",
     "multi monitor setups",
     "leak credentials databases",
@@ -22,51 +22,74 @@
     "access private data",
     "python based rat",
     "secure telecommunications networks",
-    "illicit services appears"
+    "access origin servers"
   ],
   "trending": [
     {
       "keyword": "eu plans phase",
-      "mentions": 6
-    },
-    {
-      "keyword": "bypass security controls",
-      "mentions": 11
-    },
-    {
-      "keyword": "telecontrol server basic",
-      "mentions": 67
+      "mentions": 7
     },
     {
       "keyword": "access sensitive information",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "telecontrol server basic",
+      "mentions": 68
+    },
+    {
+      "keyword": "bypass security controls",
+      "mentions": 12
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 148
+      "mentions": 149
     },
     {
       "keyword": "identities left behind",
-      "mentions": 9
-    },
-    {
-      "keyword": "three security vulnerabilities",
-      "mentions": 6
+      "mentions": 10
     },
     {
       "keyword": "malicious prompt injection",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "high risk suppliers",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "three security vulnerabilities",
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 417
+      "mentions": 418
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "LastPass Warns of Fake Maintenance Messages Targeting Users’ Master Passwords",
+      "link": "https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html",
+      "summary": "LastPass is alerting users to a new active phishing campaign that's impersonating the password management service, which aims to trick users into giving up their master passwords. The campaign, which began on or around January 19, 2026, involves sending phishing emails claiming upcoming maintenance and urging them to create a local backup of their password vaults in the next 24 hours. The",
+      "published": "Wed, 21 Jan 2026 12:10:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution",
+      "link": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html",
+      "summary": "A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript. The vulnerability, tracked as CVE-2026-1245 (CVSS score: N/A), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025. Binary-parser is a",
+      "published": "Wed, 21 Jan 2026 11:34:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
@@ -125,24 +148,6 @@
       "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
       "summary": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers. \"The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),\" the web infrastructure",
       "published": "Tue, 20 Jan 2026 16:42:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
-      "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
-      "summary": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed? To find out, Intruder’s research team looked at what traditional vulnerability scanners actually cover and built a new secrets detection method to address gaps in existing approaches. Applying this at scale by scanning 5 million applications revealed over",
-      "published": "Tue, 20 Jan 2026 16:15:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
-      "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
-      "summary": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic. The blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed",
-      "published": "Tue, 20 Jan 2026 13:10:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

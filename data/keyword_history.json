@@ -138,7 +138,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -162,7 +162,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 417,
+      "count": 418,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3054,7 +3054,7 @@
       ]
     },
     "bypass security controls": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-15",
         "2026-01-20",
@@ -3117,7 +3117,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3459,7 +3459,7 @@
       ]
     },
     "identities left behind": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3508,7 +3508,7 @@
       ]
     },
     "crypto cybersecurity researchers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3528,49 +3528,49 @@
       ]
     },
     "access sensitive information": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "multi monitor setups": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "leak credentials databases": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "elevates staff capabilities": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "consolidates critical information": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "access private data": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "malicious prompt injection": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-20",
         "2026-01-21"
@@ -3589,59 +3589,54 @@
       ]
     },
     "eu plans phase": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "high risk suppliers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "three security vulnerabilities": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "ai assistant reads": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "python based rat": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-20",
         "2026-01-21"
       ]
     },
     "secure telecommunications networks": {
-      "count": 4,
+      "count": 5,
+      "dates": [
+        "2026-01-21"
+      ]
+    },
+    "access origin servers": {
+      "count": 1,
       "dates": [
         "2026-01-21"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-13 01:15",
-      "articles": 56,
-      "top_keywords": [
-        "cyber insights 2026",
-        "will add warnings",
-        "twitter whistleblower complaint",
-        "stolen code repositories",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-01-13 03:24",
       "articles": 56,
@@ -4728,6 +4723,17 @@
         "bypass security controls",
         "telecontrol server basic",
         "access sensitive information",
+        "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-01-21 08:26",
+      "articles": 56,
+      "top_keywords": [
+        "eu plans phase",
+        "access sensitive information",
+        "telecontrol server basic",
+        "bypass security controls",
         "windows operating systems"
       ]
     }

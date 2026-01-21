@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-21 08:26 UTC  
+> **Last Updated:** 2026-01-21 10:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**eu plans phase** • **access sensitive information** • **telecontrol server basic** • **bypass security controls** • **windows operating systems** • **identities left behind** • **malicious prompt injection** • **high risk suppliers** • **three security vulnerabilities** • **twitter whistleblower complaint** • **multi monitor setups** • **leak credentials databases** • **elevates staff capabilities** • **consolidates critical information** • **ai assistant reads** • **crypto cybersecurity researchers** • **access private data** • **python based rat** • **secure telecommunications networks** • **access origin servers**
+**eu plans phase** • **artificial intelligence model** • **telecontrol server basic** • **windows operating systems** • **access sensitive information** • **three security vulnerabilities** • **identities left behind** • **ai assistant reads** • **malicious prompt injection** • **high risk suppliers** • **twitter whistleblower complaint** • **multi monitor setups** • **leak credentials databases** • **elevates staff capabilities** • **consolidates critical information** • **access private data** • **python based rat** • **steal sensitive files** • **secure telecommunications networks** • **respective security advisories**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs](https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html)
+- [VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code](https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html)
 - [LastPass Warns of Fake Maintenance Messages Targeting Users’ Master Passwords](https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html)
 - [CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution](https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html)
 - [North Korea-Linked Hackers Target Developers via Malicious VS Code Projects](https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html)
 - [Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution](https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html)
 - [Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading](https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html)
 - [The Hidden Risk of Orphan Accounts](https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html)
-- [Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto](https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html)
-- [Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers](https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Analysis of 6 Billion Passwords Shows Stagnant User Behavior](https://www.securityweek.com/analysis-of-6-billion-passwords-shows-stagnant-user-behavior/)
 - [EU Plans Phase Out of High Risk Telecom Suppliers, in Proposals Seen as Targeting China](https://www.securityweek.com/eu-plans-phase-out-of-high-risk-telecom-suppliers-in-proposals-seen-as-targeting-china/)
 - [Chainlit Vulnerabilities May Leak Sensitive Information](https://www.securityweek.com/chainlit-vulnerabilities-may-leak-sensitive-information/)
 - [APT-Grade PDFSider Malware Used by Ransomware Groups](https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/)
@@ -67,7 +68,6 @@
 - [TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking](https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/)
 - [Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks](https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/)
 - [‘SolyxImmortal’ Information Stealer Emerges](https://www.securityweek.com/solyximmortal-information-stealer-emerges/)
-- [Cyber Insights 2026: Information Sharing](https://www.securityweek.com/cyber-insights-2026-information-sharing/)
 
 ### Threatpost
 

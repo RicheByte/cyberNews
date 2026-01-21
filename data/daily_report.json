@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-01-21 08:26",
+  "last_updated": "2026-01-21 10:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "eu plans phase",
-    "access sensitive information",
+    "artificial intelligence model",
     "telecontrol server basic",
-    "bypass security controls",
     "windows operating systems",
+    "access sensitive information",
+    "three security vulnerabilities",
     "identities left behind",
+    "ai assistant reads",
     "malicious prompt injection",
     "high risk suppliers",
-    "three security vulnerabilities",
     "twitter whistleblower complaint",
     "multi monitor setups",
     "leak credentials databases",
     "elevates staff capabilities",
     "consolidates critical information",
-    "ai assistant reads",
-    "crypto cybersecurity researchers",
     "access private data",
     "python based rat",
+    "steal sensitive files",
     "secure telecommunications networks",
-    "access origin servers"
+    "respective security advisories"
   ],
   "trending": [
     {
       "keyword": "eu plans phase",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "access sensitive information",
-      "mentions": 8
+      "keyword": "artificial intelligence model",
+      "mentions": 1
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 68
-    },
-    {
-      "keyword": "bypass security controls",
-      "mentions": 12
+      "mentions": 69
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 149
+      "mentions": 150
     },
     {
-      "keyword": "identities left behind",
-      "mentions": 10
-    },
-    {
-      "keyword": "malicious prompt injection",
-      "mentions": 8
-    },
-    {
-      "keyword": "high risk suppliers",
-      "mentions": 7
+      "keyword": "access sensitive information",
+      "mentions": 9
     },
     {
       "keyword": "three security vulnerabilities",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 418
+      "keyword": "identities left behind",
+      "mentions": 11
+    },
+    {
+      "keyword": "ai assistant reads",
+      "mentions": 8
+    },
+    {
+      "keyword": "malicious prompt injection",
+      "mentions": 9
+    },
+    {
+      "keyword": "high risk suppliers",
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs",
+      "link": "https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html",
+      "summary": "Security vulnerabilities were uncovered in the popular open-source artificial intelligence (AI) framework Chainlit that could allow attackers to steal sensitive data, which may allow for lateral movement within a susceptible organization. Zafran Security said the high-severity flaws, collectively dubbed ChainLeak, could be abused to leak cloud environment API keys and steal sensitive files, or",
+      "published": "Wed, 21 Jan 2026 14:40:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code",
+      "link": "https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html",
+      "summary": "The recently discovered sophisticated Linux malware framework known as VoidLink is assessed to have been developed by a single person with assistance from an artificial intelligence (AI) model. That's according to new findings from Check Point Research, which identified operational security blunders by malware's author that provided clues to its developmental origins. The latest insight makes",
+      "published": "Wed, 21 Jan 2026 14:25:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "LastPass Warns of Fake Maintenance Messages Targeting Users’ Master Passwords",
@@ -130,24 +150,6 @@
       "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
       "summary": "The Problem: The Identities Left Behind As organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or “orphan” accounts sit dormant across applications, platforms, assets, and cloud consoles. The reason they persist isn’t negligence - it’s fragmentation. Traditional IAM and IGA systems are designed",
       "published": "Tue, 20 Jan 2026 17:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
-      "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
-      "summary": "Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Studio Code (VS Code) extension ecosystem. \"The malware is designed to exfiltrate sensitive information, including developer credentials and cryptocurrency-related data. Compromised developer",
-      "published": "Tue, 20 Jan 2026 17:18:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
-      "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
-      "summary": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers. \"The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),\" the web infrastructure",
-      "published": "Tue, 20 Jan 2026 16:42:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -397,6 +399,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Analysis of 6 Billion Passwords Shows Stagnant User Behavior",
+      "link": "https://www.securityweek.com/analysis-of-6-billion-passwords-shows-stagnant-user-behavior/",
+      "summary": "The most common stolen passwords in 2025 were 123456, admin, and password, according to a Specops study. The post Analysis of 6 Billion Passwords Shows Stagnant User Behavior appeared first on SecurityWeek .",
+      "published": "Wed, 21 Jan 2026 09:12:02 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "EU Plans Phase Out of High Risk Telecom Suppliers, in Proposals Seen as Targeting China",
       "link": "https://www.securityweek.com/eu-plans-phase-out-of-high-risk-telecom-suppliers-in-proposals-seen-as-targeting-china/",
       "summary": "Under the new rules, measures for 5G cybersecurity would become mandatory. The post EU Plans Phase Out of High Risk Telecom Suppliers, in Proposals Seen as Targeting China appeared first on SecurityWeek .",
@@ -461,15 +472,6 @@
       "link": "https://www.securityweek.com/solyximmortal-information-stealer-emerges/",
       "summary": "The information stealer abuses legitimate APIs and libraries to exfiltrate data to Discord webhooks. The post ‘SolyxImmortal’ Information Stealer Emerges appeared first on SecurityWeek .",
       "published": "Mon, 19 Jan 2026 13:35:09 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyber Insights 2026: Information Sharing",
-      "link": "https://www.securityweek.com/cyber-insights-2026-information-sharing/",
-      "summary": "Information sharing is necessary for efficient cybersecurity, and is widespread; but never quite perfect in practice. The post Cyber Insights 2026: Information Sharing appeared first on SecurityWeek .",
-      "published": "Mon, 19 Jan 2026 13:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-21 16:37 UTC |
+| 🕐 Last Updated | 2026-01-21 18:36 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows operating systems` • `telecontrol server basic` • `4 2 million` • `twitter whistleblower complaint` • `tesla infotainment system` • `bugs fixed today` • `lastpass users targeted` • `consolidates critical information` • `steal sensitive files` • `steal sensitive data`
+`windows operating systems` • `telecontrol server basic` • `4 2 million` • `lastpass users targeted` • `twitter whistleblower complaint` • `tesla infotainment system` • `deleting suspicious emails` • `bugs fixed today` • `consolidates critical information` • `steal sensitive files`
 
 ## 📄 Reports
 

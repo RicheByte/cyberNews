@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-01-21 16:37",
+  "last_updated": "2026-01-21 18:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "windows operating systems",
     "telecontrol server basic",
     "4 2 million",
+    "lastpass users targeted",
     "twitter whistleblower complaint",
     "tesla infotainment system",
+    "deleting suspicious emails",
     "bugs fixed today",
-    "lastpass users targeted",
     "consolidates critical information",
     "steal sensitive files",
     "steal sensitive data",
@@ -21,52 +22,60 @@
     "access sensitive information",
     "asymmetric security emerges",
     "vulnerabilities earned microsoft's",
-    "today we'll dig",
-    "social engineering technique"
+    "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "windows operating systems",
-      "mentions": 153
+      "mentions": 154
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "4 2 million",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 422
-    },
-    {
-      "keyword": "tesla infotainment system",
-      "mentions": 3
-    },
-    {
-      "keyword": "bugs fixed today",
-      "mentions": 3
+      "mentions": 2
     },
     {
       "keyword": "lastpass users targeted",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "consolidates critical information",
-      "mentions": 12
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 423
     },
     {
-      "keyword": "steal sensitive files",
+      "keyword": "tesla infotainment system",
       "mentions": 4
     },
     {
-      "keyword": "steal sensitive data",
-      "mentions": 2
+      "keyword": "deleting suspicious emails",
+      "mentions": 1
+    },
+    {
+      "keyword": "bugs fixed today",
+      "mentions": 4
+    },
+    {
+      "keyword": "consolidates critical information",
+      "mentions": 13
+    },
+    {
+      "keyword": "steal sensitive files",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
+      "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
+      "summary": "As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning artificial intelligence (AI), cryptocurrency, financial services, IT services, marketing, and software development sectors in Europe, South Asia, the Middle East, and Central America. The new findings",
+      "published": "Wed, 21 Jan 2026 22:47:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
@@ -142,14 +151,28 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
-      "link": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html",
-      "summary": "The North Korean threat actors associated with the long-running Contagious Interview campaign have been observed using malicious Microsoft Visual Studio Code (VS Code) projects as lures to deliver a backdoor on compromised endpoints. The latest finding demonstrates continued evolution of the new tactic that was first discovered in December 2025, Jamf Threat Labs said. \"This activity involved",
-      "published": "Wed, 21 Jan 2026 00:11:00 +0530",
-      "value_score": 22,
+      "source": "BleepingComputer",
+      "title": "Fortinet admins report patched FortiGate firewalls getting hacked",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/",
+      "summary": "Fortinet customers are seeing attackers exploiting a patch bypass for a previously fixed critical FortiGate authentication vulnerability (CVE-2025-59718) to hack patched firewalls. [...]",
+      "published": "Wed, 21 Jan 2026 12:49:08 -0500",
+      "value_score": 58,
       "value_signals": [
-        "Backdoor"
+        "CVE mentioned",
+        "Patch/update ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Fake Lastpass emails pose as password vault backup alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/",
+      "summary": "LastPass is warning of a new phishing campaign disguised as a maintenance notification from the service, asking users to back up their vaults in the next 24 hours. [...]",
+      "published": "Wed, 21 Jan 2026 11:58:39 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
       ]
     },
     {
@@ -215,24 +238,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/",
       "summary": "Chromium-based ChatGPT Atlas browser is testing a new feature likely called \"Actions,\" and it can also understand videos, which is why you might see ChatGPT generating timestamps for videos. [...]",
       "published": "Tue, 20 Jan 2026 21:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google says Gemini won’t have ads, as ChatGPT prepares to add them",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/",
-      "summary": "OpenAI recently rolled out ads to ChatGPT in the United States if you use $8 Go subscription or a free account, but Google says it does not plan to put ads in Gemini. [...]",
-      "published": "Tue, 20 Jan 2026 19:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI rolls out age prediction model on ChatGPT to detect your age",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/",
-      "summary": "OpenAI is rolling out an age prediction model on ChatGPT to detect your age and apply possible safety-related restrictions to prevent misuse by teens. [...]",
-      "published": "Tue, 20 Jan 2026 17:57:21 -0500",
       "value_score": 10,
       "value_signals": []
     },

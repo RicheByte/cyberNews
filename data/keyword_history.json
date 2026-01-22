@@ -140,7 +140,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 166,
+      "count": 167,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -165,7 +165,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 435,
+      "count": 436,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1345,7 +1345,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1589,7 +1589,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2322,7 +2322,7 @@
       ]
     },
     "internal network behind": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3760,7 +3760,7 @@
       ]
     },
     "phishing campaign zeroes": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-22"
       ]
@@ -3790,7 +3790,7 @@
       ]
     },
     "malicious sso logins": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-22"
       ]
@@ -3802,13 +3802,13 @@
       ]
     },
     "january 15 2026": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-22"
       ]
     },
     "roughly 900 million": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-22"
       ]
@@ -3820,43 +3820,43 @@
       ]
     },
     "ai features microsoft": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-22"
       ]
     },
     "windows 11 insiders": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-22"
       ]
     },
     "deceive unsuspecting users": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-22"
       ]
     },
     "business without slowing": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-22"
       ]
     },
     "single automation system": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-22"
       ]
     },
     "johnson controls inc": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-22"
       ]
     },
     "12 us orgs": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-22"
       ]
@@ -3872,20 +3872,33 @@
       "dates": [
         "2026-01-22"
       ]
+    },
+    "vulnerable driver byovd": {
+      "count": 1,
+      "dates": [
+        "2026-01-22"
+      ]
+    },
+    "authentication bypass vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-01-22"
+      ]
+    },
+    "us tech concern": {
+      "count": 1,
+      "dates": [
+        "2026-01-22"
+      ]
+    },
+    "us cybersecurity companies": {
+      "count": 1,
+      "dates": [
+        "2026-01-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-14 12:36",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "ai generated configurations",
-        "420 million news",
-        "25 vulnerabilities across",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-14 14:21",
       "articles": 56,
@@ -4972,6 +4985,17 @@
         "january 15 2026",
         "ai features microsoft",
         "windows operating systems",
+        "roughly 900 million"
+      ]
+    },
+    {
+      "timestamp": "2026-01-22 20:20",
+      "articles": 56,
+      "top_keywords": [
+        "malicious sso logins",
+        "vulnerable driver byovd",
+        "january 15 2026",
+        "authentication bypass vulnerability",
         "roughly 900 million"
       ]
     }

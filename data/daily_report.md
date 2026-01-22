@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-22 18:25 UTC  
+> **Last Updated:** 2026-01-22 20:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**malicious sso logins** • **january 15 2026** • **ai features microsoft** • **windows operating systems** • **roughly 900 million** • **sprawling phishing campaign** • **phishing campaign zeroes** • **twitter whistleblower complaint** • **single automation system** • **rated 9 8** • **python based rat** • **johnson controls inc** • **deceive unsuspecting users** • **business without slowing** • **12 us orgs** • **windows 11 insiders** • **vulnerabilities earned microsoft's** • **internal network behind** • **wt 2026 0001** • **traditional tools miss**
+**malicious sso logins** • **vulnerable driver byovd** • **january 15 2026** • **authentication bypass vulnerability** • **roughly 900 million** • **sprawling phishing campaign** • **phishing campaign zeroes** • **twitter whistleblower complaint** • **single automation system** • **rated 9 8** • **johnson controls inc** • **deceive unsuspecting users** • **business without slowing** • **windows operating systems** • **windows 11 insiders** • **us tech concern** • **us cybersecurity companies** • **12 us orgs** • **internal network behind** • **ai features microsoft**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack](https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html)
 - [Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access](https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html)
 - [ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html)
 - [Filling the Most Common Gaps in Google Workspace Security](https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html)
@@ -23,18 +24,17 @@
 - [SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release](https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html)
 - [Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations](https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html)
 - [Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex](https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html)
-- [North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews](https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html)
 
 ### BleepingComputer
 
+- [Curl ending bug bounty program after flood of AI slop reports](https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/)
+- [SmarterMail auth bypass flaw now exploited to hijack admin accounts](https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/)
 - [Microsoft Teams to add brand impersonation warnings to calls](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/)
 - [INC ransomware opsec fail allowed data recovery for 12 US orgs](https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/)
 - [Why Active Directory password resets are surging in hybrid work](https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/)
 - [Microsoft updates Notepad and Paint with more AI features](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/)
 - [Hackers exploit 29 zero-days on second day of Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/)
 - [Hackers breach Fortinet FortiGate devices, steal firewall configs](https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/)
-- [Zendesk ticket systems hijacked in massive global spam wave](https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/)
-- [Chainlit AI framework bugs let hackers breach cloud environments](https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [From a Whisper to a Scream: Europe Frets About Overreliance on US Tech](https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech)
 - [Latin American Orgs Lack Confidence in Cyber Defenses, Skills](https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills)
 - [DPRK Actors Deploy VS Code Tunnels for Remote Hacking](https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking)
 - [AI Agents Undermine Progress in Browser Security](https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security)
@@ -56,7 +57,6 @@
 - [Phishing Campaign Zeroes in on LastPass Customers](https://www.darkreading.com/application-security/phishing-campaign-zeroes-lastpass-customers)
 - [Complex VoidLink Linux Malware Created by AI](https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai)
 - ['Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed](https://www.darkreading.com/application-security/vulnerable-vendors-training-apps)
-- ['CrashFix' Scam Crashes Browsers, Delivers Malware](https://www.darkreading.com/cyberattacks-data-breaches/crashfix-scam-crashes-browsers-delivers-malware)
 
 ### Security Week
 
@@ -86,10 +86,10 @@
 - [Schneider Electric EcoStruxure Process Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-01)
 - [EVMAPA](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-08)
 - [Weintek cMT X Series HMI EasyWeb Service](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-05)
+- [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/22/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 - [Delta Electronics DIAView](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-07)
 - [Johnson Controls Inc. iSTAR Configuration Utility (ICU) tool](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-04)
 - [AutomationDirect CLICK Programmable Logic Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-02)
-- [Hubitat Elevation Hubs](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-06)
 
 ---
 

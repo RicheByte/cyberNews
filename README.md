@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-22 18:25 UTC |
+| 🕐 Last Updated | 2026-01-22 20:20 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`malicious sso logins` • `january 15 2026` • `ai features microsoft` • `windows operating systems` • `roughly 900 million` • `sprawling phishing campaign` • `phishing campaign zeroes` • `twitter whistleblower complaint` • `single automation system` • `rated 9 8`
+`malicious sso logins` • `vulnerable driver byovd` • `january 15 2026` • `authentication bypass vulnerability` • `roughly 900 million` • `sprawling phishing campaign` • `phishing campaign zeroes` • `twitter whistleblower complaint` • `single automation system` • `rated 9 8`
 
 ## 📄 Reports
 

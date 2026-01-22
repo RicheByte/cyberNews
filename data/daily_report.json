@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-01-22 18:25",
+  "last_updated": "2026-01-22 20:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "malicious sso logins",
+    "vulnerable driver byovd",
     "january 15 2026",
-    "ai features microsoft",
-    "windows operating systems",
+    "authentication bypass vulnerability",
     "roughly 900 million",
     "sprawling phishing campaign",
     "phishing campaign zeroes",
     "twitter whistleblower complaint",
     "single automation system",
     "rated 9 8",
-    "python based rat",
     "johnson controls inc",
     "deceive unsuspecting users",
     "business without slowing",
-    "12 us orgs",
+    "windows operating systems",
     "windows 11 insiders",
-    "vulnerabilities earned microsoft's",
+    "us tech concern",
+    "us cybersecurity companies",
+    "12 us orgs",
     "internal network behind",
-    "wt 2026 0001",
-    "traditional tools miss"
+    "ai features microsoft"
   ],
   "trending": [
     {
       "keyword": "malicious sso logins",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "january 15 2026",
-      "mentions": 4
-    },
-    {
-      "keyword": "ai features microsoft",
-      "mentions": 3
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 166
-    },
-    {
-      "keyword": "roughly 900 million",
-      "mentions": 4
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 87
-    },
-    {
-      "keyword": "phishing campaign zeroes",
-      "mentions": 8
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 435
-    },
-    {
-      "keyword": "single automation system",
+      "keyword": "vulnerable driver byovd",
       "mentions": 1
     },
     {
+      "keyword": "january 15 2026",
+      "mentions": 5
+    },
+    {
+      "keyword": "authentication bypass vulnerability",
+      "mentions": 1
+    },
+    {
+      "keyword": "roughly 900 million",
+      "mentions": 5
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 88
+    },
+    {
+      "keyword": "phishing campaign zeroes",
+      "mentions": 9
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 436
+    },
+    {
+      "keyword": "single automation system",
+      "mentions": 2
+    },
+    {
       "keyword": "rated 9 8",
-      "mentions": 23
+      "mentions": 24
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
+      "link": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new ransomware family called Osiris that targeted a major food service franchisee operator in Southeast Asia in November 2025. The attack leveraged a malicious driver called POORTRY as part of a known technique referred to as bring your own vulnerable driver (BYOVD) to disarm security software, the Symantec and Carbon Black Threat Hunter",
+      "published": "Thu, 22 Jan 2026 23:30:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
@@ -151,13 +162,25 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
-      "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
-      "summary": "As many as 3,136 individual IP addresses linked to likely targets of the Contagious Interview activity have been identified, with the campaign claiming 20 potential victim organizations spanning artificial intelligence (AI), cryptocurrency, financial services, IT services, marketing, and software development sectors in Europe, South Asia, the Middle East, and Central America. The new findings",
-      "published": "Wed, 21 Jan 2026 22:47:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Curl ending bug bounty program after flood of AI slop reports",
+      "link": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
+      "summary": "The developer of the popular curl command-line utility and library announced that the project will end its HackerOne security bug bounty program at the end of this month, after being overwhelmed by low-quality AI-generated vulnerability reports. [...]",
+      "published": "Thu, 22 Jan 2026 14:01:36 -0500",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "SmarterMail auth bypass flaw now exploited to hijack admin accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/",
+      "summary": "Hackers began exploiting an authentication bypass vulnerability in SmarterTools' SmarterMail email server and collaboration tool that allows resetting admin passwords. [...]",
+      "published": "Thu, 22 Jan 2026 13:44:21 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Auth bypass ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -218,26 +241,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Zendesk ticket systems hijacked in massive global spam wave",
-      "link": "https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/",
-      "summary": "People worldwide are being targeted by a massive spam wave originating from unsecured Zendesk support systems, with victims reporting receiving hundreds of emails with strange and sometimes alarming subject lines. [...]",
-      "published": "Wed, 21 Jan 2026 18:46:53 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chainlit AI framework bugs let hackers breach cloud environments",
-      "link": "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/",
-      "summary": "Two high-severity vulnerabilities in Chainlit, a popular open-source framework for building conversational AI applications, allow reading any file on the server and leak sensitive information. [...]",
-      "published": "Wed, 21 Jan 2026 17:37:04 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -327,6 +330,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "From a Whisper to a Scream: Europe Frets About Overreliance on US Tech",
+      "link": "https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech",
+      "summary": "Concern is growing across Europe about relying on US cybersecurity companies, and Greenland takeover talk is eroding trust across the EU even further.",
+      "published": "Thu, 22 Jan 2026 18:09:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Latin American Orgs Lack Confidence in Cyber Defenses, Skills",
       "link": "https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills",
       "summary": "Cybersecurity professionals in Latin America are least likely to have faith in their countries' preparedness for cyberattacks on critical infrastructure, the World Economic Forum says.",
@@ -393,15 +405,6 @@
       "link": "https://www.darkreading.com/application-security/vulnerable-vendors-training-apps",
       "summary": "Hackers are already leveraging these over-permissioned programs to access the IT systems of major security vendors.",
       "published": "Wed, 21 Jan 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'CrashFix' Scam Crashes Browsers, Delivers Malware",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/crashfix-scam-crashes-browsers-delivers-malware",
-      "summary": "The attack consists of a NexShield malicious browser extension, a social engineering technique to crash the browser, and a Python-based RAT.",
-      "published": "Tue, 20 Jan 2026 21:10:14 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -621,6 +624,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/01/22/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-31125 Vite Vitejs Improper Access Control Vulnerability CVE-2025-34026 Versa Concerto Improper Authentication Vulnerability CVE-2025-54313 Prettier eslint-config-prettier Embedded Malicious Code Vulnerability CVE-2025-68645 Synacor Zimbra Collaboration Suite (ZCS) PHP Remote File Inclusion Vulnerability These types of vulnerabilities are frequent attac",
+      "published": "Thu, 22 Jan 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Delta Electronics DIAView",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-07",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could enable an attacker to execute arbitrary code. The following versions of Delta Electronics DIAView are affected: DIAView (CVE-2026-0975) CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics DIAView Improper Neutralization of Special Elements used in a Command ('Command Injection') Background Critical Infrastructure Sectors: Chemical, Commercial Facilities, Critical Manufacturing, Energy, Transportati",
@@ -656,20 +674,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Hubitat Elevation Hubs",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-06",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated attacker to escalate their privileges and control devices outside of their authorized scope. The following versions of Hubitat Elevation Hubs are affected: Elevation C3 (CVE-2026-1201) Elevation C4 (CVE-2026-1201) Elevation C5 (CVE-2026-1201) Elevation C7 (CVE-2026-1201) Elevation C8 (CVE-2026-1201) Elevation C8 pro (CVE-2026-1201) CVSS Vendor Equipment Vulnerabilities v3 9.1 Hubitat Hubitat Elevation Hu",
-      "published": "Thu, 22 Jan 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×6",
         "Multiple CVEs",
         "Exploit wording"
       ]

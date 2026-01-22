@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-22 03:43 UTC  
+> **Last Updated:** 2026-01-22 04:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **4 2 million** • **twitter whistleblower complaint** • **telecontrol server basic** • **malicious cyber actors** • **leak sensitive information** • **consolidates critical information** • **steal sensitive files** • **reduce risk exposure** • **internal network behind** • **asymmetric security emerges** • **vulnerabilities earned microsoft's** • **ai researchers say** • **ai deployments built** • **ai assisted defenders** • **sprawling phishing campaign** • **phishing campaign zeroes** • **major security vendors** • **access sensitive information** • **today we'll dig**
+**windows operating systems** • **twitter whistleblower complaint** • **telecontrol server basic** • **malicious cyber actors** • **leak sensitive information** • **4 2 million** • **consolidates critical information** • **asymmetric security emerges** • **steal sensitive files** • **reduce risk exposure** • **internal network behind** • **released security updates** • **major security vendors** • **vulnerabilities earned microsoft's** • **multiple vulnerabilities disclosed** • **ai researchers say** • **ai deployments built** • **ai assisted defenders** • **sprawling phishing campaign** • **phishing campaign zeroes**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex](https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html)
 - [North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews](https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html)
 - [Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws](https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html)
 - [Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff](https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html)
@@ -23,7 +24,6 @@
 - [Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs](https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html)
 - [VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code](https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html)
 - [LastPass Warns of Fake Maintenance Messages Targeting Users’ Master Passwords](https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html)
-- [CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution](https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html)
 
 ### BleepingComputer
 

@@ -1,72 +1,88 @@
 {
-  "last_updated": "2026-01-22 03:43",
+  "last_updated": "2026-01-22 04:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "windows operating systems",
-    "4 2 million",
     "twitter whistleblower complaint",
     "telecontrol server basic",
     "malicious cyber actors",
     "leak sensitive information",
+    "4 2 million",
     "consolidates critical information",
+    "asymmetric security emerges",
     "steal sensitive files",
     "reduce risk exposure",
     "internal network behind",
-    "asymmetric security emerges",
+    "released security updates",
+    "major security vendors",
     "vulnerabilities earned microsoft's",
+    "multiple vulnerabilities disclosed",
     "ai researchers say",
     "ai deployments built",
     "ai assisted defenders",
     "sprawling phishing campaign",
-    "phishing campaign zeroes",
-    "major security vendors",
-    "access sensitive information",
-    "today we'll dig"
+    "phishing campaign zeroes"
   ],
   "trending": [
     {
       "keyword": "windows operating systems",
-      "mentions": 158
-    },
-    {
-      "keyword": "4 2 million",
-      "mentions": 6
+      "mentions": 159
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 427
+      "mentions": 428
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 77
+      "mentions": 78
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 184
+      "mentions": 185
     },
     {
       "keyword": "leak sensitive information",
-      "mentions": 15
+      "mentions": 16
+    },
+    {
+      "keyword": "4 2 million",
+      "mentions": 7
     },
     {
       "keyword": "consolidates critical information",
-      "mentions": 17
+      "mentions": 18
+    },
+    {
+      "keyword": "asymmetric security emerges",
+      "mentions": 7
     },
     {
       "keyword": "steal sensitive files",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "reduce risk exposure",
-      "mentions": 4
-    },
-    {
-      "keyword": "internal network behind",
-      "mentions": 126
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
+      "link": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
+      "summary": "Cisco has released fresh patches to address what it described as a \"critical\" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that it has been actively exploited as a zero-day in the wild. The vulnerability, CVE-2026-20045 (CVSS score: 8.2), could permit an unauthenticated remote attacker to execute arbitrary commands on the",
+      "published": "Thu, 22 Jan 2026 09:36:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day ×2",
+        "Active exploitation ×3",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
@@ -136,18 +152,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution",
-      "link": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html",
-      "summary": "A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript. The vulnerability, tracked as CVE-2026-1245 (CVSS score: N/A), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025. Binary-parser is a",
-      "published": "Wed, 21 Jan 2026 11:34:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
       ]
     },
     {

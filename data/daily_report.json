@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-01-22 16:28",
+  "last_updated": "2026-01-22 18:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "windows operating systems",
-    "remote code execution",
     "malicious sso logins",
     "january 15 2026",
+    "ai features microsoft",
+    "windows operating systems",
     "roughly 900 million",
     "sprawling phishing campaign",
     "phishing campaign zeroes",
-    "leak sensitive information",
     "twitter whistleblower complaint",
-    "telecontrol server basic",
+    "single automation system",
+    "rated 9 8",
     "python based rat",
-    "malicious cyber actors",
+    "johnson controls inc",
     "deceive unsuspecting users",
     "business without slowing",
-    "ai features microsoft",
-    "access sensitive information",
+    "12 us orgs",
     "windows 11 insiders",
-    "run arbitrary code",
+    "vulnerabilities earned microsoft's",
     "internal network behind",
-    "vulnerabilities earned microsoft's"
+    "wt 2026 0001",
+    "traditional tools miss"
   ],
   "trending": [
     {
-      "keyword": "windows operating systems",
-      "mentions": 165
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 27
-    },
-    {
       "keyword": "malicious sso logins",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "january 15 2026",
+      "mentions": 4
+    },
+    {
+      "keyword": "ai features microsoft",
       "mentions": 3
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 166
     },
     {
       "keyword": "roughly 900 million",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 86
+      "mentions": 87
     },
     {
       "keyword": "phishing campaign zeroes",
-      "mentions": 7
-    },
-    {
-      "keyword": "leak sensitive information",
-      "mentions": 22
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 434
+      "mentions": 435
     },
     {
-      "keyword": "telecontrol server basic",
-      "mentions": 84
+      "keyword": "single automation system",
+      "mentions": 1
+    },
+    {
+      "keyword": "rated 9 8",
+      "mentions": 23
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
+      "link": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
+      "summary": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years. The vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0 on the CVSS scoring system. It affects all versions of GNU InetUtils from version 1.9.3 up to and including version 2.7. \"Telnetd in GNU Inetutils through 2.7 allows remote authentication bypass",
+      "published": "Thu, 22 Jan 2026 22:00:00 +0530",
+      "value_score": 59,
+      "value_signals": [
+        "CVE mentioned",
+        "Auth bypass",
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
@@ -145,19 +158,6 @@
       "published": "Wed, 21 Jan 2026 22:47:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
-      "link": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
-      "summary": "Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote code execution. The most severe of the lot is a critical security flaw impacting Zoom Node Multimedia Routers (MMRs) that could permit a meeting participant to conduct remote code execution attacks. The vulnerability, tracked as CVE-2026-22844",
-      "published": "Wed, 21 Jan 2026 21:12:00 +0530",
-      "value_score": 76,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×3",
-        "High severity"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -327,6 +327,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Latin American Orgs Lack Confidence in Cyber Defenses, Skills",
+      "link": "https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills",
+      "summary": "Cybersecurity professionals in Latin America are least likely to have faith in their countries' preparedness for cyberattacks on critical infrastructure, the World Economic Forum says.",
+      "published": "Thu, 22 Jan 2026 16:05:18 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "DPRK Actors Deploy VS Code Tunnels for Remote Hacking",
       "link": "https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking",
       "summary": "A spear-phishing campaign tied to the Democratic People's Republic of Korea (DPRK) uses trusted Microsoft infrastructure to avoid detection.",
@@ -395,15 +406,13 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Mass Spam Attacks Leverage Zendesk Instances",
-      "link": "https://www.darkreading.com/threat-intelligence/mass-spam-attacks-zendesk-instances",
-      "summary": "The CRM vendor advised ignoring or deleting suspicious emails and said the attacks were not tied to any breach or software vulnerability.",
-      "published": "Tue, 20 Jan 2026 20:18:30 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
+      "source": "Security Week",
+      "title": "The Upside Down is Real: What Stranger Things Teaches Us About Modern Cybersecurity",
+      "link": "https://www.securityweek.com/the-upside-down-is-real-what-stranger-things-teaches-us-about-modern-cybersecurity/",
+      "summary": "To all those who are fighting the good fight in the world of cyber, keep collaborating to ensure our world never succumbs to the chaos of the Upside Down. The post The Upside Down is Real: What Stranger Things Teaches Us About Modern Cybersecurity appeared first on SecurityWeek .",
+      "published": "Thu, 22 Jan 2026 16:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -470,21 +479,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Targeting Cisco Unified CM Zero-Day",
-      "link": "https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/",
-      "summary": "Cisco has released patches for CVE-2026-20045, a critical vulnerability that can be exploited for unauthenticated remote code execution. The post Hackers Targeting Cisco Unified CM Zero-Day appeared first on SecurityWeek .",
-      "published": "Thu, 22 Jan 2026 08:52:24 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "RCE",
-        "High severity",
-        "Exploit wording"
       ]
     },
     {
@@ -572,109 +566,112 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/01/21/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20045 Cisco Unified Communications Products Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living",
-      "published": "Wed, 21 Jan 26 12:00:00 +0000",
-      "value_score": 99,
+      "title": "Rockwell Automation CompactLogix 5370",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition. The following versions of Rockwell Automation CompactLogix 5370 are affected: CompactLogix 5370 (CVE-2025-11743) CompactLogix 5370 (CVE-2025-11743) CompactLogix 5370 (CVE-2025-11743) CVSS Vendor Equipment Vulnerabilities v3 6.5 Rockwell Automation Rockwell Automation CompactLogix 5370 Improper Validation of Specified Quantity in Input Background Critical Infrastructure ",
+      "published": "Thu, 22 Jan 26 12:00:00 +0000",
+      "value_score": 97,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric EcoStruxure Foxboro DCS",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-01",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability disclosed by INTEL used in the EcoStruxure™ Foxboro DCS product formerly known as Foxboro Evo Process Automation System and I/A Series. The [EcoStruxure™ Foxboro DCS product](https://www.se.com/ww/en/product-range/63680-ecostruxure-foxboro-dcs/#overview) is an innovative family of fault-tolerant, highly available control components, which consolidates critical information and elevates staff capabilities to ensure flawless, continuo",
-      "published": "Tue, 20 Jan 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Rockwell Automation Verve Asset Manager",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities may allow an attacker to access sensitive information stored in variables within the ADI server. The following versions of Rockwell Automation Verve Asset Manager are affected: Verve Asset Manager (CVE-2025-14376, CVE-2025-14377) Verve Asset Manager (CVE-2025-14376, CVE-2025-14377) Verve Asset Manager (CVE-2025-14376, CVE-2025-14377) Verve Asset Manager (CVE-2025-14376, CVE-2025-14377) Verve Asset Manager (CVE-2025-14376, CVE-202",
-      "published": "Tue, 20 Jan 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×9",
+        "CVE mentioned ×3",
+        "High severity",
         "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Schneider Electric devices using CODESYS Runtime",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-02",
-      "summary": "View CSAF Summary Schneider Electric is aware of multiple vulnerabilities disclosed on CODESYS runtime system V3 communication server. Many vendors, including Schneider Electric, embed CODESYS in their offers. If successfully exploited, these vulnerabilities could result in a denial of service or, in some cases, in remote code execution on PacDrive controllers, Modicon Controllers M241 / M251 / M262 / M258 / LMC058 / LMC078 / M218 , HMISCU, the Simulation Runtime SoftSPS from EcoStruxure Machine",
-      "published": "Tue, 20 Jan 26 12:00:00 +0000",
-      "value_score": 61,
+      "title": "Schneider Electric EcoStruxure Process Expert",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-01",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxureTM Process and EcoStruxure™ Process Expert for AVEVA System Platform products. The EcoStruxureTM Process is a single automation system to engineer, operate, and maintain your entire infrastructure for a sustainable, productive and market-agile plant. The EcoStruxure™ Process Expert for AVEVA System Platform product enables users to achieve operational profitability from design engineering to meeting the demands of",
+      "published": "Thu, 22 Jan 26 12:00:00 +0000",
+      "value_score": 35,
       "value_signals": [
-        "Source boost: CISA Alerts",
-        "RCE",
-        "Exploit wording"
+        "Source boost: CISA Alerts"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "AVEVA Process Optimization",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable an attacker to execute remote code, perform SQL injection, escalate privileges, or access sensitive information. The following versions of AVEVA Process Optimization are affected: Process Optimization (CVE-2025-61937, CVE-2025-64691, CVE-2025-61943, CVE-2025-65118, CVE-2025-64729, CVE-2025-65117, CVE-2025-64769) CVSS Vendor Equipment Vulnerabilities v3 10 AVEVA AVEVA Process Optimization Improper Control of Generatio",
-      "published": "Thu, 15 Jan 26 12:00:00 +0000",
-      "value_score": 89,
+      "title": "EVMAPA",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-08",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could lead to degraded service, a denial-of-service, or unauthorized remote command execution, which could lead to spoofing or a manipulation of charging station statuses. The following versions of EVMAPA are affected: EVMAPA (CVE-2025-54816, CVE-2025-53968, CVE-2025-55705) CVSS Vendor Equipment Vulnerabilities v3 9.4 EVMAPA EVMAPA Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Atte",
+      "published": "Thu, 22 Jan 26 12:00:00 +0000",
+      "value_score": 97,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×7",
+        "CVE mentioned ×3",
+        "High severity",
         "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens RUGGEDCOM ROS",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-05",
-      "summary": "View CSAF Summary Ruggedcom ROS devices contain a temporary denial of service vulnerability that could allow an attacker to crash and restart the device. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens RUGGEDCOM ROS are affected: RUGGEDCOM RMC8388 V5.X (CVE-2025-40935) RUGGEDCOM RS416Pv2 V5.X (CVE-2025-40935) RUGGEDCOM RS416v2 V5.X (CVE-2025-40935) RUGGEDCOM RS900 (32M) V5.X (CVE-2025-40935) RUGGEDCOM ",
-      "published": "Wed, 14 Jan 26 12:00:00 +0000",
-      "value_score": 91,
+      "title": "Weintek cMT X Series HMI EasyWeb Service",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-05",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a low-level user to alter privileges and gain full control to the device. The following versions of Weintek cMT X Series HMI EasyWeb Service are affected: cMT3072XH (CVE-2025-14750, CVE-2025-14751) cMT3072XH(T) (CVE-2025-14750, CVE-2025-14751) cMT-SVRX-820 (CVE-2025-14750, CVE-2025-14751) cMT-CTRL01 (CVE-2025-14750, CVE-2025-14751) CVSS Vendor Equipment Vulnerabilities v3 8.3 Weintek Weintek cMT X Series HMI EasyWeb S",
+      "published": "Thu, 22 Jan 26 12:00:00 +0000",
+      "value_score": 89,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "Patch/update",
-        "Multiple CVEs"
+        "CVE mentioned ×8",
+        "Multiple CVEs",
+        "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens TeleControl Server Basic",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-03",
-      "summary": "View CSAF Summary TeleControl Server Basic before V3.1.2.4 contains a local privilege escalation vulnerability that could allow an attacker to run arbitrary code with elevated privileges. Siemens has released a new version for TeleControl Server Basic and recommends to update to the latest version. The following versions of Siemens TeleControl Server Basic are affected: TeleControl Server Basic (CVE-2025-40942) CVSS Vendor Equipment Vulnerabilities v3 8.8 Siemens Siemens TeleControl Server Basic",
-      "published": "Wed, 14 Jan 26 12:00:00 +0000",
-      "value_score": 73,
+      "title": "Delta Electronics DIAView",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-07",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could enable an attacker to execute arbitrary code. The following versions of Delta Electronics DIAView are affected: DIAView (CVE-2026-0975) CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics DIAView Improper Neutralization of Special Elements used in a Command ('Command Injection') Background Critical Infrastructure Sectors: Chemical, Commercial Facilities, Critical Manufacturing, Energy, Transportati",
+      "published": "Thu, 22 Jan 26 12:00:00 +0000",
+      "value_score": 75,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
-        "Privilege escalation",
-        "Patch/update"
+        "High severity ×2",
+        "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens SIMATIC and SIPLUS products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-04",
-      "summary": "View CSAF Summary Siemens ET 200SP contains a denial-of-service vulnerability that could be triggered by sending a valid S7 protocol Disconnect Request (COTP DR TPDU), causing the device to become unresponsive and require a power cycle to recover. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fix versions and recommends specific countermeasures for products where fixes are not, or not yet available. T",
-      "published": "Wed, 14 Jan 26 12:00:00 +0000",
-      "value_score": 51,
+      "title": "Johnson Controls Inc. iSTAR Configuration Utility (ICU) tool",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a failure within the operating system of the machine hosting the ICU tool. The following versions of Johnson Controls Inc. iSTAR Configuration Utility (ICU) tool are affected: iSTAR Configuration Utility (ICU) tool (CVE-2025-26386) CVSS Vendor Equipment Vulnerabilities v3 7.1 Johnson Controls Inc. Johnson Controls Inc. iSTAR Configuration Utility (ICU) tool Stack-based Buffer Overflow Background Crit",
+      "published": "Thu, 22 Jan 26 12:00:00 +0000",
+      "value_score": 59,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "Patch/update ×2"
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "AutomationDirect CLICK Programmable Logic Controller",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-02",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to impersonate users, escalate privileges, gain unauthorized access to systems and services, and decrypt sensitive data. The following versions of AutomationDirect CLICK Programmable Logic Controller are affected: CLICK Programmable Logic Controller (CVE-2025-67652, CVE-2025-25051) CLICK Programmable Logic Controller (CVE-2025-67652, CVE-2025-25051) CLICK Programmable Logic Controller (CVE-2025-67652, CVE-",
+      "published": "Thu, 22 Jan 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hubitat Elevation Hubs",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-06",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated attacker to escalate their privileges and control devices outside of their authorized scope. The following versions of Hubitat Elevation Hubs are affected: Elevation C3 (CVE-2026-1201) Elevation C4 (CVE-2026-1201) Elevation C5 (CVE-2026-1201) Elevation C7 (CVE-2026-1201) Elevation C8 (CVE-2026-1201) Elevation C8 pro (CVE-2026-1201) CVSS Vendor Equipment Vulnerabilities v3 9.1 Hubitat Hubitat Elevation Hu",
+      "published": "Thu, 22 Jan 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×6",
+        "Multiple CVEs",
+        "Exploit wording"
       ]
     }
   ],

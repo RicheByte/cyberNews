@@ -140,7 +140,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -165,7 +165,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 434,
+      "count": 435,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1345,7 +1345,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1589,11 +1589,12 @@
       ]
     },
     "rated 9 8": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-31",
         "2026-01-01",
-        "2026-01-02"
+        "2026-01-02",
+        "2026-01-22"
       ]
     },
     "raspberry pi devices": {
@@ -2321,7 +2322,7 @@
       ]
     },
     "internal network behind": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2908,7 +2909,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3640,7 +3641,7 @@
       ]
     },
     "python based rat": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-20",
         "2026-01-21",
@@ -3759,7 +3760,7 @@
       ]
     },
     "phishing campaign zeroes": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-22"
       ]
@@ -3789,7 +3790,7 @@
       ]
     },
     "malicious sso logins": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-22"
       ]
@@ -3801,13 +3802,13 @@
       ]
     },
     "january 15 2026": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-22"
       ]
     },
     "roughly 900 million": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-22"
       ]
@@ -3819,24 +3820,54 @@
       ]
     },
     "ai features microsoft": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-22"
       ]
     },
     "windows 11 insiders": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-22"
       ]
     },
     "deceive unsuspecting users": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-22"
       ]
     },
     "business without slowing": {
+      "count": 2,
+      "dates": [
+        "2026-01-22"
+      ]
+    },
+    "single automation system": {
+      "count": 1,
+      "dates": [
+        "2026-01-22"
+      ]
+    },
+    "johnson controls inc": {
+      "count": 1,
+      "dates": [
+        "2026-01-22"
+      ]
+    },
+    "12 us orgs": {
+      "count": 1,
+      "dates": [
+        "2026-01-22"
+      ]
+    },
+    "wt 2026 0001": {
+      "count": 1,
+      "dates": [
+        "2026-01-22"
+      ]
+    },
+    "traditional tools miss": {
       "count": 1,
       "dates": [
         "2026-01-22"
@@ -3844,17 +3875,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-14 10:20",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "ai generated configurations",
-        "25 vulnerabilities across",
-        "dire critical rating",
-        "420 million news"
-      ]
-    },
     {
       "timestamp": "2026-01-14 12:36",
       "articles": 56,
@@ -4941,6 +4961,17 @@
         "remote code execution",
         "malicious sso logins",
         "january 15 2026",
+        "roughly 900 million"
+      ]
+    },
+    {
+      "timestamp": "2026-01-22 18:25",
+      "articles": 56,
+      "top_keywords": [
+        "malicious sso logins",
+        "january 15 2026",
+        "ai features microsoft",
+        "windows operating systems",
         "roughly 900 million"
       ]
     }

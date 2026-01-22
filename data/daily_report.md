@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-22 16:28 UTC  
+> **Last Updated:** 2026-01-22 18:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **remote code execution** • **malicious sso logins** • **january 15 2026** • **roughly 900 million** • **sprawling phishing campaign** • **phishing campaign zeroes** • **leak sensitive information** • **twitter whistleblower complaint** • **telecontrol server basic** • **python based rat** • **malicious cyber actors** • **deceive unsuspecting users** • **business without slowing** • **ai features microsoft** • **access sensitive information** • **windows 11 insiders** • **run arbitrary code** • **internal network behind** • **vulnerabilities earned microsoft's**
+**malicious sso logins** • **january 15 2026** • **ai features microsoft** • **windows operating systems** • **roughly 900 million** • **sprawling phishing campaign** • **phishing campaign zeroes** • **twitter whistleblower complaint** • **single automation system** • **rated 9 8** • **python based rat** • **johnson controls inc** • **deceive unsuspecting users** • **business without slowing** • **12 us orgs** • **windows 11 insiders** • **vulnerabilities earned microsoft's** • **internal network behind** • **wt 2026 0001** • **traditional tools miss**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access](https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html)
 - [ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html)
 - [Filling the Most Common Gaps in Google Workspace Security](https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html)
 - [Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts](https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html)
@@ -23,7 +24,6 @@
 - [Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations](https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html)
 - [Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex](https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html)
 - [North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews](https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html)
-- [Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws](https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Latin American Orgs Lack Confidence in Cyber Defenses, Skills](https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills)
 - [DPRK Actors Deploy VS Code Tunnels for Remote Hacking](https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking)
 - [AI Agents Undermine Progress in Browser Security](https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security)
 - ['Contagious Interview' Attack Now Delivers Backdoor Via VS Code](https://www.darkreading.com/cyber-risk/contagious-interview-attack-delivers-backdoor)
@@ -56,10 +57,10 @@
 - [Complex VoidLink Linux Malware Created by AI](https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai)
 - ['Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed](https://www.darkreading.com/application-security/vulnerable-vendors-training-apps)
 - ['CrashFix' Scam Crashes Browsers, Delivers Malware](https://www.darkreading.com/cyberattacks-data-breaches/crashfix-scam-crashes-browsers-delivers-malware)
-- [Mass Spam Attacks Leverage Zendesk Instances](https://www.darkreading.com/threat-intelligence/mass-spam-attacks-zendesk-instances)
 
 ### Security Week
 
+- [The Upside Down is Real: What Stranger Things Teaches Us About Modern Cybersecurity](https://www.securityweek.com/the-upside-down-is-real-what-stranger-things-teaches-us-about-modern-cybersecurity/)
 - [Old Attack, New Speed: Researchers Optimize Page Cache Exploits](https://www.securityweek.com/old-attack-new-speed-researchers-optimize-page-cache-exploits/)
 - [Webinar Today: Rethinking Email Security for Mid-Sized Organizations](https://www.securityweek.com/webinar-today-rethinking-email-security-for-mid-sized-organizations/)
 - [AiStrike Raises $7 Million in Seed Funding](https://www.securityweek.com/aistrike-raises-7-million-in-seed-funding/)
@@ -67,7 +68,6 @@
 - [Claroty Raises $150 Million in Series F Funding](https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/)
 - [Furl Raises $10 Million for Autonomous Vulnerability Remediation](https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/)
 - [Atlassian, GitLab, Zoom Release Security Patches](https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/)
-- [Hackers Targeting Cisco Unified CM Zero-Day](https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/21/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Schneider Electric EcoStruxure Foxboro DCS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-01)
-- [Rockwell Automation Verve Asset Manager](https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-03)
-- [Schneider Electric devices using CODESYS Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-020-02)
-- [AVEVA Process Optimization](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-01)
-- [Siemens RUGGEDCOM ROS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-05)
-- [Siemens TeleControl Server Basic](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-03)
-- [Siemens SIMATIC and SIPLUS products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-015-04)
+- [Rockwell Automation CompactLogix 5370](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-03)
+- [Schneider Electric EcoStruxure Process Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-01)
+- [EVMAPA](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-08)
+- [Weintek cMT X Series HMI EasyWeb Service](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-05)
+- [Delta Electronics DIAView](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-07)
+- [Johnson Controls Inc. iSTAR Configuration Utility (ICU) tool](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-04)
+- [AutomationDirect CLICK Programmable Logic Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-02)
+- [Hubitat Elevation Hubs](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-06)
 
 ---
 

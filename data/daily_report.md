@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-22 10:22 UTC  
+> **Last Updated:** 2026-01-22 12:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **sprawling phishing campaign** • **remote code execution** • **phishing campaign zeroes** • **twitter whistleblower complaint** • **telecontrol server basic** • **hackers trick victims** • **leak sensitive information** • **high severity bugs** • **4 2 million** • **cve 2026 20045** • **malicious sso logins** • **malicious cyber actors** • **lastpass users targeted** • **asymmetric security emerges** • **steal sensitive files** • **reduce risk exposure** • **internal network behind** • **major security vendors** • **ai researchers say**
+**windows operating systems** • **remote code execution** • **malicious sso logins** • **january 15 2026** • **leak sensitive information** • **twitter whistleblower complaint** • **telecontrol server basic** • **roughly 900 million** • **python based rat** • **malicious cyber actors** • **4 2 million** • **run arbitrary code** • **asymmetric security emerges** • **access sensitive information** • **internal network behind** • **vulnerabilities earned microsoft's** • **today we'll dig** • **tech stack optimized** • **sprawling phishing campaign** • **specific advertisement elements**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Filling the Most Common Gaps in Google Workspace Security](https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html)
+- [Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts](https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html)
+- [SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release](https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html)
 - [Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations](https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html)
 - [Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex](https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html)
 - [North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews](https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html)
 - [Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws](https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html)
 - [Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff](https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html)
-- [Exposure Assessment Platforms Signal a Shift in Focus](https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html)
-- [Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs](https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html)
-- [VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code](https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html)
 
 ### BleepingComputer
 
+- [Hackers exploit 29 zero-days on second day of Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/)
+- [Hackers breach Fortinet FortiGate devices, steal firewall configs](https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/)
 - [Zendesk ticket systems hijacked in massive global spam wave](https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/)
 - [Chainlit AI framework bugs let hackers breach cloud environments](https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/)
 - [Cisco fixes Unified Communications RCE zero day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/)
 - [New Android malware uses AI to click on hidden browser ads](https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/)
 - [Online retailer PcComponentes says data breach claims are fake](https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/)
 - [Fortinet admins report patched FortiGate firewalls getting hacked](https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/)
-- [Fake Lastpass emails pose as password vault backup alerts](https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/)
-- [Microsoft shares workaround for Outlook freezes after Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [New Wave of Attacks Targeting FortiGate Firewalls](https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/)
+- [Claroty Raises $150 Million in Series F Funding](https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/)
+- [Furl Raises $10 Million for Autonomous Vulnerability Remediation](https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/)
 - [Atlassian, GitLab, Zoom Release Security Patches](https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/)
 - [Hackers Targeting Cisco Unified CM Zero-Day](https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/)
 - [CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training](https://www.securityweek.com/cybernut-closes-5m-growth-capital-for-k-12-security-awareness-training/)
 - [Asymmetric Security Emerges From Stealth With $4.2 Million in Funding](https://www.securityweek.com/asymmetric-security-emerges-from-stealth-with-4-2-million-in-funding/)
 - [aiFWall Emerges From Stealth With an AI Firewall](https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/)
-- [LastPass Users Targeted With Backup-Themed Phishing Emails](https://www.securityweek.com/lastpass-users-targeted-with-backup-themed-phishing-emails/)
-- [North Korean Hackers Target macOS Developers via Malicious VS Code Projects](https://www.securityweek.com/north-korean-hackers-target-macos-developers-via-malicious-vs-code-projects/)
-- [Why Identity Security Must Move Beyond MFA](https://www.securityweek.com/why-identity-security-must-move-beyond-mfa/)
 
 ### Threatpost
 

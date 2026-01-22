@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-22 10:22 UTC |
+| 🕐 Last Updated | 2026-01-22 12:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows operating systems` • `sprawling phishing campaign` • `remote code execution` • `phishing campaign zeroes` • `twitter whistleblower complaint` • `telecontrol server basic` • `hackers trick victims` • `leak sensitive information` • `high severity bugs` • `4 2 million`
+`windows operating systems` • `remote code execution` • `malicious sso logins` • `january 15 2026` • `leak sensitive information` • `twitter whistleblower complaint` • `telecontrol server basic` • `roughly 900 million` • `python based rat` • `malicious cyber actors`
 
 ## 📄 Reports
 

@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-01-22 14:25",
+  "last_updated": "2026-01-22 16:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "remote code execution",
     "windows operating systems",
+    "remote code execution",
     "malicious sso logins",
     "january 15 2026",
-    "asymmetric security emerges",
-    "ai features microsoft",
-    "leak sensitive information",
     "roughly 900 million",
-    "4 2 million",
+    "sprawling phishing campaign",
+    "phishing campaign zeroes",
+    "leak sensitive information",
     "twitter whistleblower complaint",
     "telecontrol server basic",
     "python based rat",
     "malicious cyber actors",
+    "deceive unsuspecting users",
+    "business without slowing",
+    "ai features microsoft",
+    "access sensitive information",
     "windows 11 insiders",
     "run arbitrary code",
     "internal network behind",
-    "ai researchers say",
-    "access sensitive information",
-    "vulnerabilities earned microsoft's",
-    "today we'll dig"
+    "vulnerabilities earned microsoft's"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 26
+      "keyword": "windows operating systems",
+      "mentions": 165
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 164
+      "keyword": "remote code execution",
+      "mentions": 27
     },
     {
       "keyword": "malicious sso logins",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "january 15 2026",
-      "mentions": 2
-    },
-    {
-      "keyword": "asymmetric security emerges",
-      "mentions": 12
-    },
-    {
-      "keyword": "ai features microsoft",
-      "mentions": 1
-    },
-    {
-      "keyword": "leak sensitive information",
-      "mentions": 21
+      "mentions": 3
     },
     {
       "keyword": "roughly 900 million",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "4 2 million",
-      "mentions": 12
+      "keyword": "sprawling phishing campaign",
+      "mentions": 86
+    },
+    {
+      "keyword": "phishing campaign zeroes",
+      "mentions": 7
+    },
+    {
+      "keyword": "leak sensitive information",
+      "mentions": 22
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 433
+      "mentions": 434
+    },
+    {
+      "keyword": "telecontrol server basic",
+      "mentions": 84
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
+      "summary": "Most of this week’s threats didn’t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows were enough to open doors without forcing them. What stands out is how little friction attackers now need. Some activity focused on quiet reach and coverage, others on timing and reuse. The emphasis",
+      "published": "Thu, 22 Jan 2026 19:53:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Filling the Most Common Gaps in Google Workspace Security",
@@ -149,11 +160,31 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
-      "link": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
-      "summary": "Every managed security provider is chasing the same problem in 2026 — too many alerts, too few analysts, and clients demanding “CISO-level protection” at SMB budgets. The truth? Most MSSPs are running harder, not smarter. And it’s breaking their margins. That’s where the quiet revolution is happening: AI isn’t just writing reports or surfacing risks — it’s rebuilding how security services are",
-      "published": "Wed, 21 Jan 2026 17:28:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft Teams to add brand impersonation warnings to calls",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/",
+      "summary": "Microsoft will soon add new fraud protection features to Teams calls, warning users about external callers who attempt to impersonate trusted organizations in social engineering attacks. [...]",
+      "published": "Thu, 22 Jan 2026 11:28:47 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "INC ransomware opsec fail allowed data recovery for 12 US orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/",
+      "summary": "An operational security failure allowed researchers to recover data that the INC ransomware gang stole from a dozen U.S. organizations. [...]",
+      "published": "Thu, 22 Jan 2026 11:21:17 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Why Active Directory password resets are surging in hybrid work",
+      "link": "https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/",
+      "summary": "Hybrid work has driven a surge in Active Directory password resets, turning minor lockouts into major productivity drains. Specops shows why remote access, cached credentials, and security policies are fueling the spike. [...]",
+      "published": "Thu, 22 Jan 2026 10:01:11 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -204,42 +235,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/",
       "summary": "Two high-severity vulnerabilities in Chainlit, a popular open-source framework for building conversational AI applications, allow reading any file on the server and leak sensitive information. [...]",
       "published": "Wed, 21 Jan 2026 17:37:04 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco fixes Unified Communications RCE zero day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/",
-      "summary": "Cisco has fixed a critical Unified Communications and Webex Calling remote code execution vulnerability, tracked as CVE-2026-20045, that has been actively exploited as a zero-day in attacks. [...]",
-      "published": "Wed, 21 Jan 2026 17:16:21 -0500",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation",
-        "RCE ×2",
-        "Patch/update",
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Android malware uses AI to click on hidden browser ads",
-      "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/",
-      "summary": "A new family of Android click-fraud trojans leverages TensorFlow machine learning models to automatically detect and interact with specific advertisement elements. [...]",
-      "published": "Wed, 21 Jan 2026 17:07:53 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Online retailer PcComponentes says data breach claims are fake",
-      "link": "https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/",
-      "summary": "PcComponentes, a major technology retailer in Spain, has denied claims of a data breach on its systems impacting 16 million customers, but confirmed it suffered a credential stuffing attack. [...]",
-      "published": "Wed, 21 Jan 2026 15:55:19 -0500",
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
@@ -332,6 +327,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "DPRK Actors Deploy VS Code Tunnels for Remote Hacking",
+      "link": "https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking",
+      "summary": "A spear-phishing campaign tied to the Democratic People's Republic of Korea (DPRK) uses trusted Microsoft infrastructure to avoid detection.",
+      "published": "Thu, 22 Jan 2026 14:05:11 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Agents Undermine Progress in Browser Security",
       "link": "https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security",
       "summary": "Web browser companies have put in substantial effort over the past three decades to strengthen the browser security stack against abuses. Agentic browsers are undoing all that work.",
@@ -400,11 +406,22 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Vulnerabilities Threaten to Break Chainlit AI Framework",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-break-chainlit-ai-framework",
-      "summary": "Familiar bugs in a popular open source framework for AI chatbots could give attackers dangerous powers in the cloud.",
-      "published": "Tue, 20 Jan 2026 18:04:28 GMT",
+      "source": "Security Week",
+      "title": "Old Attack, New Speed: Researchers Optimize Page Cache Exploits",
+      "link": "https://www.securityweek.com/old-attack-new-speed-researchers-optimize-page-cache-exploits/",
+      "summary": "A team of researchers from the Graz University of Technology in Austria has revived page Linux page cache attacks. The post Old Attack, New Speed: Researchers Optimize Page Cache Exploits appeared first on SecurityWeek .",
+      "published": "Thu, 22 Jan 2026 15:05:28 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Webinar Today: Rethinking Email Security for Mid-Sized Organizations",
+      "link": "https://www.securityweek.com/webinar-today-rethinking-email-security-for-mid-sized-organizations/",
+      "summary": "See how modern AI-driven detection can block sophisticated attacks that traditional tools miss The post Webinar Today: Rethinking Email Security for Mid-Sized Organizations appeared first on SecurityWeek .",
+      "published": "Thu, 22 Jan 2026 14:37:43 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -469,24 +486,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training",
-      "link": "https://www.securityweek.com/cybernut-closes-5m-growth-capital-for-k-12-security-awareness-training/",
-      "summary": "CyberNut emerged from stealth in May 2024 with $800k in pre-seed funding for its cybersecurity platform. The post CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training appeared first on SecurityWeek .",
-      "published": "Wed, 21 Jan 2026 16:18:08 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Asymmetric Security Emerges From Stealth With $4.2 Million in Funding",
-      "link": "https://www.securityweek.com/asymmetric-security-emerges-from-stealth-with-4-2-million-in-funding/",
-      "summary": "The startup’s platform leverages AI to automate forensic investigations, accelerating incident response. The post Asymmetric Security Emerges From Stealth With $4.2 Million in Funding appeared first on SecurityWeek .",
-      "published": "Wed, 21 Jan 2026 15:18:17 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

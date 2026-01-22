@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-22 14:25 UTC  
+> **Last Updated:** 2026-01-22 16:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **windows operating systems** • **malicious sso logins** • **january 15 2026** • **asymmetric security emerges** • **ai features microsoft** • **leak sensitive information** • **roughly 900 million** • **4 2 million** • **twitter whistleblower complaint** • **telecontrol server basic** • **python based rat** • **malicious cyber actors** • **windows 11 insiders** • **run arbitrary code** • **internal network behind** • **ai researchers say** • **access sensitive information** • **vulnerabilities earned microsoft's** • **today we'll dig**
+**windows operating systems** • **remote code execution** • **malicious sso logins** • **january 15 2026** • **roughly 900 million** • **sprawling phishing campaign** • **phishing campaign zeroes** • **leak sensitive information** • **twitter whistleblower complaint** • **telecontrol server basic** • **python based rat** • **malicious cyber actors** • **deceive unsuspecting users** • **business without slowing** • **ai features microsoft** • **access sensitive information** • **windows 11 insiders** • **run arbitrary code** • **internal network behind** • **vulnerabilities earned microsoft's**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html)
 - [Filling the Most Common Gaps in Google Workspace Security](https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html)
 - [Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts](https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html)
 - [SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release](https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html)
@@ -23,18 +24,17 @@
 - [Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex](https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html)
 - [North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews](https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html)
 - [Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws](https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html)
-- [Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff](https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html)
 
 ### BleepingComputer
 
+- [Microsoft Teams to add brand impersonation warnings to calls](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/)
+- [INC ransomware opsec fail allowed data recovery for 12 US orgs](https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/)
+- [Why Active Directory password resets are surging in hybrid work](https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/)
 - [Microsoft updates Notepad and Paint with more AI features](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/)
 - [Hackers exploit 29 zero-days on second day of Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/)
 - [Hackers breach Fortinet FortiGate devices, steal firewall configs](https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/)
 - [Zendesk ticket systems hijacked in massive global spam wave](https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/)
 - [Chainlit AI framework bugs let hackers breach cloud environments](https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/)
-- [Cisco fixes Unified Communications RCE zero day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/)
-- [New Android malware uses AI to click on hidden browser ads](https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/)
-- [Online retailer PcComponentes says data breach claims are fake](https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [DPRK Actors Deploy VS Code Tunnels for Remote Hacking](https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking)
 - [AI Agents Undermine Progress in Browser Security](https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security)
 - ['Contagious Interview' Attack Now Delivers Backdoor Via VS Code](https://www.darkreading.com/cyber-risk/contagious-interview-attack-delivers-backdoor)
 - [Phishing Campaign Zeroes in on LastPass Customers](https://www.darkreading.com/application-security/phishing-campaign-zeroes-lastpass-customers)
@@ -56,18 +57,17 @@
 - ['Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed](https://www.darkreading.com/application-security/vulnerable-vendors-training-apps)
 - ['CrashFix' Scam Crashes Browsers, Delivers Malware](https://www.darkreading.com/cyberattacks-data-breaches/crashfix-scam-crashes-browsers-delivers-malware)
 - [Mass Spam Attacks Leverage Zendesk Instances](https://www.darkreading.com/threat-intelligence/mass-spam-attacks-zendesk-instances)
-- [Vulnerabilities Threaten to Break Chainlit AI Framework](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-break-chainlit-ai-framework)
 
 ### Security Week
 
+- [Old Attack, New Speed: Researchers Optimize Page Cache Exploits](https://www.securityweek.com/old-attack-new-speed-researchers-optimize-page-cache-exploits/)
+- [Webinar Today: Rethinking Email Security for Mid-Sized Organizations](https://www.securityweek.com/webinar-today-rethinking-email-security-for-mid-sized-organizations/)
 - [AiStrike Raises $7 Million in Seed Funding](https://www.securityweek.com/aistrike-raises-7-million-in-seed-funding/)
 - [New Wave of Attacks Targeting FortiGate Firewalls](https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/)
 - [Claroty Raises $150 Million in Series F Funding](https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/)
 - [Furl Raises $10 Million for Autonomous Vulnerability Remediation](https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/)
 - [Atlassian, GitLab, Zoom Release Security Patches](https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/)
 - [Hackers Targeting Cisco Unified CM Zero-Day](https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/)
-- [CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training](https://www.securityweek.com/cybernut-closes-5m-growth-capital-for-k-12-security-awareness-training/)
-- [Asymmetric Security Emerges From Stealth With $4.2 Million in Funding](https://www.securityweek.com/asymmetric-security-emerges-from-stealth-with-4-2-million-in-funding/)
 
 ### Threatpost
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-22 20:20",
+  "last_updated": "2026-01-22 22:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -19,51 +19,51 @@
     "windows operating systems",
     "windows 11 insiders",
     "us tech concern",
-    "us cybersecurity companies",
     "12 us orgs",
     "internal network behind",
-    "ai features microsoft"
+    "ai features microsoft",
+    "critical security flaw"
   ],
   "trending": [
     {
       "keyword": "malicious sso logins",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "vulnerable driver byovd",
-      "mentions": 1
-    },
-    {
-      "keyword": "january 15 2026",
-      "mentions": 5
-    },
-    {
-      "keyword": "authentication bypass vulnerability",
-      "mentions": 1
-    },
-    {
-      "keyword": "roughly 900 million",
-      "mentions": 5
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 88
-    },
-    {
-      "keyword": "phishing campaign zeroes",
-      "mentions": 9
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 436
-    },
-    {
-      "keyword": "single automation system",
       "mentions": 2
     },
     {
+      "keyword": "january 15 2026",
+      "mentions": 6
+    },
+    {
+      "keyword": "authentication bypass vulnerability",
+      "mentions": 2
+    },
+    {
+      "keyword": "roughly 900 million",
+      "mentions": 6
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 89
+    },
+    {
+      "keyword": "phishing campaign zeroes",
+      "mentions": 10
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 437
+    },
+    {
+      "keyword": "single automation system",
+      "mentions": 3
+    },
+    {
       "keyword": "rated 9 8",
-      "mentions": 24
+      "mentions": 25
     }
   ],
   "articles": [
@@ -163,6 +163,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Okta SSO accounts targeted in vishing-based data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/",
+      "summary": "Okta is warning about custom phishing kits built specifically for voice-based social engineering (vishing) attacks. BleepingComputer has learned that these kits are being used in active attacks to steal Okta SSO credentials for data theft. [...]",
+      "published": "Thu, 22 Jan 2026 16:43:43 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Curl ending bug bounty program after flood of AI slop reports",
       "link": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
       "summary": "The developer of the popular curl command-line utility and library announced that the project will end its HackerOne security bug bounty program at the end of this month, after being overwhelmed by low-quality AI-generated vulnerability reports. [...]",
@@ -230,17 +241,6 @@
       "value_signals": [
         "Zero-day",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers breach Fortinet FortiGate devices, steal firewall configs",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/",
-      "summary": "Fortinet FortiGate devices are being targeted in automated attacks that create rogue accounts and steal firewall configuration data, according to cybersecurity company Arctic Wolf. [...]",
-      "published": "Thu, 22 Jan 2026 06:49:12 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -330,6 +330,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Fortinet Firewalls Hit With Malicious Configuration Changes",
+      "link": "https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes",
+      "summary": "Automated infections of potentially fully patched FortiGate devices are allowing threat actors to steal firewall configuration files.",
+      "published": "Thu, 22 Jan 2026 21:18:42 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "From a Whisper to a Scream: Europe Frets About Overreliance on US Tech",
       "link": "https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech",
       "summary": "Concern is growing across Europe about relying on US cybersecurity companies, and Greenland takeover talk is eroding trust across the EU even further.",
@@ -396,15 +405,6 @@
       "link": "https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai",
       "summary": "Researchers say the advanced framework was built almost entirely by agents, marking a significant evolution in the use of AI to develop wholly original malware.",
       "published": "Wed, 21 Jan 2026 14:48:15 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed",
-      "link": "https://www.darkreading.com/application-security/vulnerable-vendors-training-apps",
-      "summary": "Hackers are already leveraging these over-permissioned programs to access the IT systems of major security vendors.",
-      "published": "Wed, 21 Jan 2026 14:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

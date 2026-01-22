@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-22 20:20 UTC  
+> **Last Updated:** 2026-01-22 22:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**malicious sso logins** • **vulnerable driver byovd** • **january 15 2026** • **authentication bypass vulnerability** • **roughly 900 million** • **sprawling phishing campaign** • **phishing campaign zeroes** • **twitter whistleblower complaint** • **single automation system** • **rated 9 8** • **johnson controls inc** • **deceive unsuspecting users** • **business without slowing** • **windows operating systems** • **windows 11 insiders** • **us tech concern** • **us cybersecurity companies** • **12 us orgs** • **internal network behind** • **ai features microsoft**
+**malicious sso logins** • **vulnerable driver byovd** • **january 15 2026** • **authentication bypass vulnerability** • **roughly 900 million** • **sprawling phishing campaign** • **phishing campaign zeroes** • **twitter whistleblower complaint** • **single automation system** • **rated 9 8** • **johnson controls inc** • **deceive unsuspecting users** • **business without slowing** • **windows operating systems** • **windows 11 insiders** • **us tech concern** • **12 us orgs** • **internal network behind** • **ai features microsoft** • **critical security flaw**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Okta SSO accounts targeted in vishing-based data theft attacks](https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/)
 - [Curl ending bug bounty program after flood of AI slop reports](https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/)
 - [SmarterMail auth bypass flaw now exploited to hijack admin accounts](https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/)
 - [Microsoft Teams to add brand impersonation warnings to calls](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/)
@@ -34,7 +35,6 @@
 - [Why Active Directory password resets are surging in hybrid work](https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/)
 - [Microsoft updates Notepad and Paint with more AI features](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/)
 - [Hackers exploit 29 zero-days on second day of Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/)
-- [Hackers breach Fortinet FortiGate devices, steal firewall configs](https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Fortinet Firewalls Hit With Malicious Configuration Changes](https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes)
 - [From a Whisper to a Scream: Europe Frets About Overreliance on US Tech](https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech)
 - [Latin American Orgs Lack Confidence in Cyber Defenses, Skills](https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills)
 - [DPRK Actors Deploy VS Code Tunnels for Remote Hacking](https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking)
@@ -56,7 +57,6 @@
 - ['Contagious Interview' Attack Now Delivers Backdoor Via VS Code](https://www.darkreading.com/cyber-risk/contagious-interview-attack-delivers-backdoor)
 - [Phishing Campaign Zeroes in on LastPass Customers](https://www.darkreading.com/application-security/phishing-campaign-zeroes-lastpass-customers)
 - [Complex VoidLink Linux Malware Created by AI](https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai)
-- ['Damn Vulnerable' Training Apps Leave Vendors' Clouds Exposed](https://www.darkreading.com/application-security/vulnerable-vendors-training-apps)
 
 ### Security Week
 

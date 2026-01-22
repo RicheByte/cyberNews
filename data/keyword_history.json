@@ -140,7 +140,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -165,7 +165,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 436,
+      "count": 437,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -645,7 +645,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -659,7 +659,8 @@
         "2025-12-31",
         "2026-01-01",
         "2026-01-02",
-        "2026-01-09"
+        "2026-01-09",
+        "2026-01-22"
       ]
     },
     "denmark's critical infrastructure": {
@@ -1345,7 +1346,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1589,7 +1590,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2322,7 +2323,7 @@
       ]
     },
     "internal network behind": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3760,7 +3761,7 @@
       ]
     },
     "phishing campaign zeroes": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-22"
       ]
@@ -3790,7 +3791,7 @@
       ]
     },
     "malicious sso logins": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-22"
       ]
@@ -3802,13 +3803,13 @@
       ]
     },
     "january 15 2026": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-22"
       ]
     },
     "roughly 900 million": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-22"
       ]
@@ -3820,43 +3821,43 @@
       ]
     },
     "ai features microsoft": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-22"
       ]
     },
     "windows 11 insiders": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-22"
       ]
     },
     "deceive unsuspecting users": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-22"
       ]
     },
     "business without slowing": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-22"
       ]
     },
     "single automation system": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-22"
       ]
     },
     "johnson controls inc": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-22"
       ]
     },
     "12 us orgs": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-22"
       ]
@@ -3874,19 +3875,19 @@
       ]
     },
     "vulnerable driver byovd": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-22"
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-22"
       ]
     },
     "us tech concern": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-22"
       ]
@@ -3899,17 +3900,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-14 14:21",
-      "articles": 56,
-      "top_keywords": [
-        "malicious cyber actors",
-        "legitimate binary associated",
-        "windows operating systems",
-        "420 million news",
-        "buy seraphic security"
-      ]
-    },
     {
       "timestamp": "2026-01-14 16:24",
       "articles": 56,
@@ -4990,6 +4980,17 @@
     },
     {
       "timestamp": "2026-01-22 20:20",
+      "articles": 56,
+      "top_keywords": [
+        "malicious sso logins",
+        "vulnerable driver byovd",
+        "january 15 2026",
+        "authentication bypass vulnerability",
+        "roughly 900 million"
+      ]
+    },
+    {
+      "timestamp": "2026-01-22 22:18",
       "articles": 56,
       "top_keywords": [
         "malicious sso logins",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-22 12:38 UTC  
+> **Last Updated:** 2026-01-22 14:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **remote code execution** • **malicious sso logins** • **january 15 2026** • **leak sensitive information** • **twitter whistleblower complaint** • **telecontrol server basic** • **roughly 900 million** • **python based rat** • **malicious cyber actors** • **4 2 million** • **run arbitrary code** • **asymmetric security emerges** • **access sensitive information** • **internal network behind** • **vulnerabilities earned microsoft's** • **today we'll dig** • **tech stack optimized** • **sprawling phishing campaign** • **specific advertisement elements**
+**remote code execution** • **windows operating systems** • **malicious sso logins** • **january 15 2026** • **asymmetric security emerges** • **ai features microsoft** • **leak sensitive information** • **roughly 900 million** • **4 2 million** • **twitter whistleblower complaint** • **telecontrol server basic** • **python based rat** • **malicious cyber actors** • **windows 11 insiders** • **run arbitrary code** • **internal network behind** • **ai researchers say** • **access sensitive information** • **vulnerabilities earned microsoft's** • **today we'll dig**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft updates Notepad and Paint with more AI features](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/)
 - [Hackers exploit 29 zero-days on second day of Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/)
 - [Hackers breach Fortinet FortiGate devices, steal firewall configs](https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/)
 - [Zendesk ticket systems hijacked in massive global spam wave](https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/)
@@ -34,7 +35,6 @@
 - [Cisco fixes Unified Communications RCE zero day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/)
 - [New Android malware uses AI to click on hidden browser ads](https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/)
 - [Online retailer PcComponentes says data breach claims are fake](https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/)
-- [Fortinet admins report patched FortiGate firewalls getting hacked](https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI Agents Undermine Progress in Browser Security](https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security)
 - ['Contagious Interview' Attack Now Delivers Backdoor Via VS Code](https://www.darkreading.com/cyber-risk/contagious-interview-attack-delivers-backdoor)
 - [Phishing Campaign Zeroes in on LastPass Customers](https://www.darkreading.com/application-security/phishing-campaign-zeroes-lastpass-customers)
 - [Complex VoidLink Linux Malware Created by AI](https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai)
@@ -56,10 +57,10 @@
 - ['CrashFix' Scam Crashes Browsers, Delivers Malware](https://www.darkreading.com/cyberattacks-data-breaches/crashfix-scam-crashes-browsers-delivers-malware)
 - [Mass Spam Attacks Leverage Zendesk Instances](https://www.darkreading.com/threat-intelligence/mass-spam-attacks-zendesk-instances)
 - [Vulnerabilities Threaten to Break Chainlit AI Framework](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-break-chainlit-ai-framework)
-- [Google Gemini Flaw Turns Calendar Invites Into Attack Vector](https://www.darkreading.com/cloud-security/google-gemini-flaw-calendar-invites-attack-vector)
 
 ### Security Week
 
+- [AiStrike Raises $7 Million in Seed Funding](https://www.securityweek.com/aistrike-raises-7-million-in-seed-funding/)
 - [New Wave of Attacks Targeting FortiGate Firewalls](https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/)
 - [Claroty Raises $150 Million in Series F Funding](https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/)
 - [Furl Raises $10 Million for Autonomous Vulnerability Remediation](https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/)
@@ -67,7 +68,6 @@
 - [Hackers Targeting Cisco Unified CM Zero-Day](https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/)
 - [CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training](https://www.securityweek.com/cybernut-closes-5m-growth-capital-for-k-12-security-awareness-training/)
 - [Asymmetric Security Emerges From Stealth With $4.2 Million in Funding](https://www.securityweek.com/asymmetric-security-emerges-from-stealth-with-4-2-million-in-funding/)
-- [aiFWall Emerges From Stealth With an AI Firewall](https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/)
 
 ### Threatpost
 

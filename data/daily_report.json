@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-22 12:38",
+  "last_updated": "2026-01-22 14:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "windows operating systems",
     "remote code execution",
+    "windows operating systems",
     "malicious sso logins",
     "january 15 2026",
+    "asymmetric security emerges",
+    "ai features microsoft",
     "leak sensitive information",
+    "roughly 900 million",
+    "4 2 million",
     "twitter whistleblower complaint",
     "telecontrol server basic",
-    "roughly 900 million",
     "python based rat",
     "malicious cyber actors",
-    "4 2 million",
+    "windows 11 insiders",
     "run arbitrary code",
-    "asymmetric security emerges",
-    "access sensitive information",
     "internal network behind",
+    "ai researchers say",
+    "access sensitive information",
     "vulnerabilities earned microsoft's",
-    "today we'll dig",
-    "tech stack optimized",
-    "sprawling phishing campaign",
-    "specific advertisement elements"
+    "today we'll dig"
   ],
   "trending": [
     {
-      "keyword": "windows operating systems",
-      "mentions": 163
+      "keyword": "remote code execution",
+      "mentions": 26
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 25
+      "keyword": "windows operating systems",
+      "mentions": 164
     },
     {
       "keyword": "malicious sso logins",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "january 15 2026",
+      "mentions": 2
+    },
+    {
+      "keyword": "asymmetric security emerges",
+      "mentions": 12
+    },
+    {
+      "keyword": "ai features microsoft",
       "mentions": 1
     },
     {
       "keyword": "leak sensitive information",
-      "mentions": 20
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 432
-    },
-    {
-      "keyword": "telecontrol server basic",
-      "mentions": 82
+      "mentions": 21
     },
     {
       "keyword": "roughly 900 million",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "python based rat",
-      "mentions": 8
+      "keyword": "4 2 million",
+      "mentions": 12
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 189
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 433
     }
   ],
   "articles": [
@@ -159,6 +159,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft updates Notepad and Paint with more AI features",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/",
+      "summary": "Microsoft is rolling out new artificial intelligence features with the latest updates to the Notepad and Paint apps for Windows 11 Insiders. [...]",
+      "published": "Thu, 22 Jan 2026 09:22:23 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/",
       "summary": "Hackers collect $439,250 after exploiting 29 zero-day vulnerabilities on the second day of Pwn2Own Automotive 2026. [...]",
@@ -234,20 +243,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fortinet admins report patched FortiGate firewalls getting hacked",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/",
-      "summary": "Fortinet customers are seeing attackers exploiting a patch bypass for a previously fixed critical FortiGate authentication vulnerability (CVE-2025-59718) to hack patched firewalls. [...]",
-      "published": "Wed, 21 Jan 2026 12:49:08 -0500",
-      "value_score": 58,
-      "value_signals": [
-        "CVE mentioned",
-        "Patch/update ×2",
-        "High severity",
-        "Exploit wording"
       ]
     },
     {
@@ -337,6 +332,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Agents Undermine Progress in Browser Security",
+      "link": "https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security",
+      "summary": "Web browser companies have put in substantial effort over the past three decades to strengthen the browser security stack against abuses. Agentic browsers are undoing all that work.",
+      "published": "Wed, 21 Jan 2026 23:06:50 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Contagious Interview' Attack Now Delivers Backdoor Via VS Code",
       "link": "https://www.darkreading.com/cyber-risk/contagious-interview-attack-delivers-backdoor",
       "summary": "Once trust is granted to the repository's author, a malicious app executes arbitrary commands on the victim's system with no other user interaction.",
@@ -405,11 +409,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Google Gemini Flaw Turns Calendar Invites Into Attack Vector",
-      "link": "https://www.darkreading.com/cloud-security/google-gemini-flaw-calendar-invites-attack-vector",
-      "summary": "The indirect prompt injection vulnerability allows an attacker to weaponize invites to circumvent Google's privacy controls and access private data.",
-      "published": "Tue, 20 Jan 2026 15:52:35 GMT",
+      "source": "Security Week",
+      "title": "AiStrike Raises $7 Million in Seed Funding",
+      "link": "https://www.securityweek.com/aistrike-raises-7-million-in-seed-funding/",
+      "summary": "The startup’s AI-native platform unifies exposure analysis, threat intelligence, investigation, and response. The post AiStrike Raises $7 Million in Seed Funding appeared first on SecurityWeek .",
+      "published": "Thu, 22 Jan 2026 12:58:03 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -481,15 +485,6 @@
       "link": "https://www.securityweek.com/asymmetric-security-emerges-from-stealth-with-4-2-million-in-funding/",
       "summary": "The startup’s platform leverages AI to automate forensic investigations, accelerating incident response. The post Asymmetric Security Emerges From Stealth With $4.2 Million in Funding appeared first on SecurityWeek .",
       "published": "Wed, 21 Jan 2026 15:18:17 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "aiFWall Emerges From Stealth With an AI Firewall",
-      "link": "https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/",
-      "summary": "aiFWall is a firewall protection for AI deployments built to use AI to improve its own performance. The post aiFWall Emerges From Stealth With an AI Firewall appeared first on SecurityWeek .",
-      "published": "Wed, 21 Jan 2026 14:09:42 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 189,
+      "count": 190,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -140,7 +140,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 163,
+      "count": 164,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -165,7 +165,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 432,
+      "count": 433,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -450,7 +450,7 @@
       ]
     },
     "remote code execution": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1315,7 +1315,7 @@
       ]
     },
     "leak sensitive information": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2304,7 +2304,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2321,7 +2321,7 @@
       ]
     },
     "internal network behind": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2908,7 +2908,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3135,7 +3135,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3401,7 +3401,7 @@
       ]
     },
     "run arbitrary code": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-19",
         "2026-01-20",
@@ -3549,7 +3549,7 @@
       ]
     },
     "access sensitive information": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-20",
         "2026-01-21",
@@ -3640,7 +3640,7 @@
       ]
     },
     "python based rat": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-20",
         "2026-01-21",
@@ -3725,21 +3725,21 @@
       ]
     },
     "4 2 million": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-21",
         "2026-01-22"
       ]
     },
     "ai researchers say": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-21",
         "2026-01-22"
       ]
     },
     "asymmetric security emerges": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-21",
         "2026-01-22"
@@ -3789,7 +3789,7 @@
       ]
     },
     "malicious sso logins": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-22"
       ]
@@ -3801,13 +3801,13 @@
       ]
     },
     "january 15 2026": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-22"
       ]
     },
     "roughly 900 million": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-22"
       ]
@@ -3817,20 +3817,21 @@
       "dates": [
         "2026-01-22"
       ]
+    },
+    "ai features microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-01-22"
+      ]
+    },
+    "windows 11 insiders": {
+      "count": 1,
+      "dates": [
+        "2026-01-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-14 06:27",
-      "articles": 48,
-      "top_keywords": [
-        "ai generated configurations",
-        "twitter whistleblower complaint",
-        "china chinese cyberattacks",
-        "420 million news",
-        "25 vulnerabilities across"
-      ]
-    },
     {
       "timestamp": "2026-01-14 08:24",
       "articles": 56,
@@ -4918,6 +4919,17 @@
         "malicious sso logins",
         "january 15 2026",
         "leak sensitive information"
+      ]
+    },
+    {
+      "timestamp": "2026-01-22 14:25",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "windows operating systems",
+        "malicious sso logins",
+        "january 15 2026",
+        "asymmetric security emerges"
       ]
     }
   ]

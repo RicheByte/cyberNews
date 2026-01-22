@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 185,
+      "count": 186,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -140,7 +140,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -165,7 +165,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 428,
+      "count": 429,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1314,7 +1314,7 @@
       ]
     },
     "leak sensitive information": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1344,7 +1344,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2320,7 +2320,7 @@
       ]
     },
     "internal network behind": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2907,7 +2907,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3095,7 +3095,7 @@
       ]
     },
     "released security updates": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -3134,7 +3134,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3576,7 +3576,7 @@
       ]
     },
     "consolidates critical information": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-20",
         "2026-01-21",
@@ -3663,7 +3663,7 @@
       ]
     },
     "steal sensitive files": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-21",
         "2026-01-22"
@@ -3676,14 +3676,14 @@
       ]
     },
     "ai assisted defenders": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-21",
         "2026-01-22"
       ]
     },
     "reduce risk exposure": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-21",
         "2026-01-22"
@@ -3708,7 +3708,7 @@
       ]
     },
     "ai deployments built": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-21",
         "2026-01-22"
@@ -3721,21 +3721,21 @@
       ]
     },
     "4 2 million": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-21",
         "2026-01-22"
       ]
     },
     "ai researchers say": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-21",
         "2026-01-22"
       ]
     },
     "asymmetric security emerges": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-21",
         "2026-01-22"
@@ -3754,36 +3754,25 @@
       ]
     },
     "phishing campaign zeroes": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-22"
       ]
     },
     "major security vendors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-22"
       ]
     },
     "multiple vulnerabilities disclosed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-22"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-13 22:17",
-      "articles": 56,
-      "top_keywords": [
-        "ai generated configurations",
-        "25 vulnerabilities across",
-        "420 million news",
-        "will automatically install",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-14 01:21",
       "articles": 48,
@@ -4864,6 +4853,17 @@
     },
     {
       "timestamp": "2026-01-22 04:43",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "twitter whistleblower complaint",
+        "telecontrol server basic",
+        "malicious cyber actors",
+        "leak sensitive information"
+      ]
+    },
+    {
+      "timestamp": "2026-01-22 06:28",
       "articles": 56,
       "top_keywords": [
         "windows operating systems",

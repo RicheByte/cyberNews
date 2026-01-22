@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-22 04:43 UTC  
+> **Last Updated:** 2026-01-22 06:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -62,7 +62,7 @@
 
 - [CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training](https://www.securityweek.com/cybernut-closes-5m-growth-capital-for-k-12-security-awareness-training/)
 - [Asymmetric Security Emerges From Stealth With $4.2 Million in Funding](https://www.securityweek.com/asymmetric-security-emerges-from-stealth-with-4-2-million-in-funding/)
-- [aiFWall Emerges from Stealth With an AI Firewall](https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/)
+- [aiFWall Emerges From Stealth With an AI Firewall](https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/)
 - [LastPass Users Targeted With Backup-Themed Phishing Emails](https://www.securityweek.com/lastpass-users-targeted-with-backup-themed-phishing-emails/)
 - [North Korean Hackers Target macOS Developers via Malicious VS Code Projects](https://www.securityweek.com/north-korean-hackers-target-macos-developers-via-malicious-vs-code-projects/)
 - [Why Identity Security Must Move Beyond MFA](https://www.securityweek.com/why-identity-security-must-move-beyond-mfa/)

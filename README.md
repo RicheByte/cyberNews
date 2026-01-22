@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-22 06:28 UTC |
+| 🕐 Last Updated | 2026-01-22 08:25 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows operating systems` • `twitter whistleblower complaint` • `telecontrol server basic` • `malicious cyber actors` • `leak sensitive information` • `4 2 million` • `consolidates critical information` • `asymmetric security emerges` • `steal sensitive files` • `reduce risk exposure`
+`windows operating systems` • `sprawling phishing campaign` • `phishing campaign zeroes` • `twitter whistleblower complaint` • `telecontrol server basic` • `hackers trick victims` • `leak sensitive information` • `4 2 million` • `cve 2026 20045` • `malicious sso logins`
 
 ## 📄 Reports
 

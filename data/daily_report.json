@@ -1,14 +1,20 @@
 {
-  "last_updated": "2026-01-22 06:28",
+  "last_updated": "2026-01-22 08:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "windows operating systems",
+    "sprawling phishing campaign",
+    "phishing campaign zeroes",
     "twitter whistleblower complaint",
     "telecontrol server basic",
-    "malicious cyber actors",
+    "hackers trick victims",
     "leak sensitive information",
     "4 2 million",
+    "cve 2026 20045",
+    "malicious sso logins",
+    "malicious cyber actors",
+    "lastpass users targeted",
     "consolidates critical information",
     "asymmetric security emerges",
     "steal sensitive files",
@@ -16,57 +22,62 @@
     "internal network behind",
     "released security updates",
     "major security vendors",
-    "vulnerabilities earned microsoft's",
-    "multiple vulnerabilities disclosed",
-    "ai researchers say",
-    "ai deployments built",
-    "ai assisted defenders",
-    "sprawling phishing campaign",
-    "phishing campaign zeroes"
+    "vulnerabilities earned microsoft's"
   ],
   "trending": [
     {
       "keyword": "windows operating systems",
-      "mentions": 160
+      "mentions": 161
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 83
+    },
+    {
+      "keyword": "phishing campaign zeroes",
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 429
+      "mentions": 430
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 79
+      "mentions": 80
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 186
+      "keyword": "hackers trick victims",
+      "mentions": 1
     },
     {
       "keyword": "leak sensitive information",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "4 2 million",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "consolidates critical information",
-      "mentions": 19
+      "keyword": "cve 2026 20045",
+      "mentions": 1
     },
     {
-      "keyword": "asymmetric security emerges",
-      "mentions": 8
-    },
-    {
-      "keyword": "steal sensitive files",
-      "mentions": 11
-    },
-    {
-      "keyword": "reduce risk exposure",
-      "mentions": 6
+      "keyword": "malicious sso logins",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
+      "link": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
+      "summary": "Cybersecurity company Arctic Wolf has warned of a \"new cluster of automated malicious activity\" that involves unauthorized firewall configuration changes on Fortinet FortiGate devices. The activity, it said, commenced on January 15, 2026, adding it shares similarities with a December 2025 campaign in which malicious SSO logins on FortiGate appliances were recorded against the admin account from",
+      "published": "Thu, 22 Jan 2026 11:25:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
@@ -142,17 +153,6 @@
       "published": "Wed, 21 Jan 2026 14:25:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "LastPass Warns of Fake Maintenance Messages Targeting Users’ Master Passwords",
-      "link": "https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html",
-      "summary": "LastPass is alerting users to a new active phishing campaign that's impersonating the password management service, which aims to trick users into giving up their master passwords. The campaign, which began on or around January 19, 2026, involves sending phishing emails claiming upcoming maintenance and urging them to create a local backup of their password vaults in the next 24 hours. The",
-      "published": "Wed, 21 Jan 2026 12:10:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
     },
     {
       "source": "BleepingComputer",

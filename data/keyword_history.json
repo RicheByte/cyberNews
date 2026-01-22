@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 187,
+      "count": 188,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -140,7 +140,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -165,7 +165,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 430,
+      "count": 431,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -450,12 +450,13 @@
       ]
     },
     "remote code execution": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2025-12-18",
         "2025-12-19",
         "2026-01-08",
-        "2026-01-09"
+        "2026-01-09",
+        "2026-01-22"
       ]
     },
     "attacker remotely control": {
@@ -1314,7 +1315,7 @@
       ]
     },
     "leak sensitive information": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1344,7 +1345,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2320,7 +2321,7 @@
       ]
     },
     "internal network behind": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3134,7 +3135,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3663,7 +3664,7 @@
       ]
     },
     "steal sensitive files": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-21",
         "2026-01-22"
@@ -3683,7 +3684,7 @@
       ]
     },
     "reduce risk exposure": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-21",
         "2026-01-22"
@@ -3696,7 +3697,7 @@
       ]
     },
     "lastpass users targeted": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-21",
         "2026-01-22"
@@ -3722,21 +3723,21 @@
       ]
     },
     "4 2 million": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-21",
         "2026-01-22"
       ]
     },
     "ai researchers say": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-21",
         "2026-01-22"
       ]
     },
     "asymmetric security emerges": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-21",
         "2026-01-22"
@@ -3755,13 +3756,13 @@
       ]
     },
     "phishing campaign zeroes": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-22"
       ]
     },
     "major security vendors": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-22"
       ]
@@ -3773,18 +3774,24 @@
       ]
     },
     "hackers trick victims": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-22"
       ]
     },
     "cve 2026 20045": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-22"
       ]
     },
     "malicious sso logins": {
+      "count": 2,
+      "dates": [
+        "2026-01-22"
+      ]
+    },
+    "high severity bugs": {
       "count": 1,
       "dates": [
         "2026-01-22"
@@ -3792,17 +3799,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-14 03:43",
-      "articles": 48,
-      "top_keywords": [
-        "ai generated configurations",
-        "twitter whistleblower complaint",
-        "china chinese cyberattacks",
-        "420 million news",
-        "25 vulnerabilities across"
-      ]
-    },
     {
       "timestamp": "2026-01-14 04:42",
       "articles": 48,
@@ -4890,6 +4886,17 @@
         "phishing campaign zeroes",
         "twitter whistleblower complaint",
         "telecontrol server basic"
+      ]
+    },
+    {
+      "timestamp": "2026-01-22 10:22",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "sprawling phishing campaign",
+        "remote code execution",
+        "phishing campaign zeroes",
+        "twitter whistleblower complaint"
       ]
     }
   ]

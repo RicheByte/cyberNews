@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-22 08:25 UTC  
+> **Last Updated:** 2026-01-22 10:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **sprawling phishing campaign** • **phishing campaign zeroes** • **twitter whistleblower complaint** • **telecontrol server basic** • **hackers trick victims** • **leak sensitive information** • **4 2 million** • **cve 2026 20045** • **malicious sso logins** • **malicious cyber actors** • **lastpass users targeted** • **consolidates critical information** • **asymmetric security emerges** • **steal sensitive files** • **reduce risk exposure** • **internal network behind** • **released security updates** • **major security vendors** • **vulnerabilities earned microsoft's**
+**windows operating systems** • **sprawling phishing campaign** • **remote code execution** • **phishing campaign zeroes** • **twitter whistleblower complaint** • **telecontrol server basic** • **hackers trick victims** • **leak sensitive information** • **high severity bugs** • **4 2 million** • **cve 2026 20045** • **malicious sso logins** • **malicious cyber actors** • **lastpass users targeted** • **asymmetric security emerges** • **steal sensitive files** • **reduce risk exposure** • **internal network behind** • **major security vendors** • **ai researchers say**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Atlassian, GitLab, Zoom Release Security Patches](https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/)
+- [Hackers Targeting Cisco Unified CM Zero-Day](https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/)
 - [CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training](https://www.securityweek.com/cybernut-closes-5m-growth-capital-for-k-12-security-awareness-training/)
 - [Asymmetric Security Emerges From Stealth With $4.2 Million in Funding](https://www.securityweek.com/asymmetric-security-emerges-from-stealth-with-4-2-million-in-funding/)
 - [aiFWall Emerges From Stealth With an AI Firewall](https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/)
 - [LastPass Users Targeted With Backup-Themed Phishing Emails](https://www.securityweek.com/lastpass-users-targeted-with-backup-themed-phishing-emails/)
 - [North Korean Hackers Target macOS Developers via Malicious VS Code Projects](https://www.securityweek.com/north-korean-hackers-target-macos-developers-via-malicious-vs-code-projects/)
 - [Why Identity Security Must Move Beyond MFA](https://www.securityweek.com/why-identity-security-must-move-beyond-mfa/)
-- [MITRE Launches New Security Framework for Embedded Systems](https://www.securityweek.com/mitre-launches-new-security-framework-for-embedded-systems/)
-- [Cyber Insights 2026: API Security – Harder to Secure, Impossible to Ignore](https://www.securityweek.com/cyber-insights-2026-api-security/)
 
 ### Threatpost
 

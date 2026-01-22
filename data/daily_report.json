@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-22 08:25",
+  "last_updated": "2026-01-22 10:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "windows operating systems",
     "sprawling phishing campaign",
+    "remote code execution",
     "phishing campaign zeroes",
     "twitter whistleblower complaint",
     "telecontrol server basic",
     "hackers trick victims",
     "leak sensitive information",
+    "high severity bugs",
     "4 2 million",
     "cve 2026 20045",
     "malicious sso logins",
     "malicious cyber actors",
     "lastpass users targeted",
-    "consolidates critical information",
     "asymmetric security emerges",
     "steal sensitive files",
     "reduce risk exposure",
     "internal network behind",
-    "released security updates",
     "major security vendors",
-    "vulnerabilities earned microsoft's"
+    "ai researchers say"
   ],
   "trending": [
     {
       "keyword": "windows operating systems",
-      "mentions": 161
+      "mentions": 162
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 83
+      "mentions": 84
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 24
     },
     {
       "keyword": "phishing campaign zeroes",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 430
+      "mentions": 431
     },
     {
       "keyword": "telecontrol server basic",
-      "mentions": 80
+      "mentions": 81
     },
     {
       "keyword": "hackers trick victims",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "leak sensitive information",
-      "mentions": 18
+      "mentions": 19
+    },
+    {
+      "keyword": "high severity bugs",
+      "mentions": 1
     },
     {
       "keyword": "4 2 million",
-      "mentions": 9
-    },
-    {
-      "keyword": "cve 2026 20045",
-      "mentions": 1
-    },
-    {
-      "keyword": "malicious sso logins",
-      "mentions": 1
+      "mentions": 10
     }
   ],
   "articles": [
@@ -411,6 +411,32 @@
     },
     {
       "source": "Security Week",
+      "title": "Atlassian, GitLab, Zoom Release Security Patches",
+      "link": "https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/",
+      "summary": "Fixes were rolled out for over two dozen vulnerabilities, including critical- and high-severity bugs. The post Atlassian, GitLab, Zoom Release Security Patches appeared first on SecurityWeek .",
+      "published": "Thu, 22 Jan 2026 09:39:54 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hackers Targeting Cisco Unified CM Zero-Day",
+      "link": "https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/",
+      "summary": "Cisco has released patches for CVE-2026-20045, a critical vulnerability that can be exploited for unauthenticated remote code execution. The post Hackers Targeting Cisco Unified CM Zero-Day appeared first on SecurityWeek .",
+      "published": "Thu, 22 Jan 2026 08:52:24 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training",
       "link": "https://www.securityweek.com/cybernut-closes-5m-growth-capital-for-k-12-security-awareness-training/",
       "summary": "CyberNut emerged from stealth in May 2024 with $800k in pre-seed funding for its cybersecurity platform. The post CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training appeared first on SecurityWeek .",
@@ -462,26 +488,6 @@
       "link": "https://www.securityweek.com/why-identity-security-must-move-beyond-mfa/",
       "summary": "By integrating identity threat detection with MFA, organizations can protect sensitive data, maintain operational continuity, and reduce risk exposure. The post Why Identity Security Must Move Beyond MFA appeared first on SecurityWeek .",
       "published": "Wed, 21 Jan 2026 12:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "MITRE Launches New Security Framework for Embedded Systems",
-      "link": "https://www.securityweek.com/mitre-launches-new-security-framework-for-embedded-systems/",
-      "summary": "The Embedded Systems Threat Matrix (ESTM) aims to help organizations protect critical embedded systems. The post MITRE Launches New Security Framework for Embedded Systems appeared first on SecurityWeek .",
-      "published": "Wed, 21 Jan 2026 12:11:46 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyber Insights 2026: API Security – Harder to Secure, Impossible to Ignore",
-      "link": "https://www.securityweek.com/cyber-insights-2026-api-security/",
-      "summary": "API cybersecurity will be a ping pong ball, battered between the rackets of AI-assisted attackers and AI-assisted defenders. The post Cyber Insights 2026: API Security – Harder to Secure, Impossible to Ignore appeared first on SecurityWeek .",
-      "published": "Wed, 21 Jan 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

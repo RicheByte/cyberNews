@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-21 22:19 UTC  
+> **Last Updated:** 2026-01-22 01:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **telecontrol server basic** • **4 2 million** • **twitter whistleblower complaint** • **malicious cyber actors** • **deleting suspicious emails** • **consolidates critical information** • **steal sensitive files** • **lastpass users targeted** • **reduce risk exposure** • **internal network behind** • **vulnerabilities earned microsoft's** • **ai researchers say** • **ai deployments built** • **ai assisted defenders** • **access sensitive information** • **asymmetric security emerges** • **today we'll dig** • **specific advertisement elements** • **social engineering technique**
+**windows operating systems** • **4 2 million** • **twitter whistleblower complaint** • **telecontrol server basic** • **malicious cyber actors** • **leak sensitive information** • **consolidates critical information** • **steal sensitive files** • **reduce risk exposure** • **internal network behind** • **asymmetric security emerges** • **vulnerabilities earned microsoft's** • **ai researchers say** • **ai deployments built** • **ai assisted defenders** • **sprawling phishing campaign** • **phishing campaign zeroes** • **major security vendors** • **access sensitive information** • **today we'll dig**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Zendesk ticket systems hijacked in massive global spam wave](https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/)
+- [Chainlit AI framework bugs let hackers breach cloud environments](https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/)
 - [Cisco fixes Unified Communications RCE zero day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/)
 - [New Android malware uses AI to click on hidden browser ads](https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/)
 - [Online retailer PcComponentes says data breach claims are fake](https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/)
 - [Fortinet admins report patched FortiGate firewalls getting hacked](https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/)
 - [Fake Lastpass emails pose as password vault backup alerts](https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/)
 - [Microsoft shares workaround for Outlook freezes after Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/)
-- [You Got Phished? Of Course! You're Human...](https://www.bleepingcomputer.com/news/security/you-got-phished-of-course-youre-human/)
-- [Hackers exploit security testing apps to breach Fortune 500 firms](https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/)
 
 ### Krebs on Security
 

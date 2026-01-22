@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-21 22:19 UTC |
+| 🕐 Last Updated | 2026-01-22 01:21 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows operating systems` • `telecontrol server basic` • `4 2 million` • `twitter whistleblower complaint` • `malicious cyber actors` • `deleting suspicious emails` • `consolidates critical information` • `steal sensitive files` • `lastpass users targeted` • `reduce risk exposure`
+`windows operating systems` • `4 2 million` • `twitter whistleblower complaint` • `telecontrol server basic` • `malicious cyber actors` • `leak sensitive information` • `consolidates critical information` • `steal sensitive files` • `reduce risk exposure` • `internal network behind`
 
 ## 📄 Reports
 

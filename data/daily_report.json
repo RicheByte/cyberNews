@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-21 22:19",
+  "last_updated": "2026-01-22 01:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "windows operating systems",
-    "telecontrol server basic",
     "4 2 million",
     "twitter whistleblower complaint",
+    "telecontrol server basic",
     "malicious cyber actors",
-    "deleting suspicious emails",
+    "leak sensitive information",
     "consolidates critical information",
     "steal sensitive files",
-    "lastpass users targeted",
     "reduce risk exposure",
     "internal network behind",
+    "asymmetric security emerges",
     "vulnerabilities earned microsoft's",
     "ai researchers say",
     "ai deployments built",
     "ai assisted defenders",
+    "sprawling phishing campaign",
+    "phishing campaign zeroes",
+    "major security vendors",
     "access sensitive information",
-    "asymmetric security emerges",
-    "today we'll dig",
-    "specific advertisement elements",
-    "social engineering technique"
+    "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "windows operating systems",
-      "mentions": 156
-    },
-    {
-      "keyword": "telecontrol server basic",
-      "mentions": 75
+      "mentions": 157
     },
     {
       "keyword": "4 2 million",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 425
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 182
-    },
-    {
-      "keyword": "deleting suspicious emails",
-      "mentions": 3
-    },
-    {
-      "keyword": "consolidates critical information",
-      "mentions": 15
-    },
-    {
-      "keyword": "steal sensitive files",
-      "mentions": 7
-    },
-    {
-      "keyword": "lastpass users targeted",
       "mentions": 5
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 426
+    },
+    {
+      "keyword": "telecontrol server basic",
+      "mentions": 76
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 183
+    },
+    {
+      "keyword": "leak sensitive information",
+      "mentions": 14
+    },
+    {
+      "keyword": "consolidates critical information",
+      "mentions": 16
+    },
+    {
+      "keyword": "steal sensitive files",
+      "mentions": 8
+    },
+    {
       "keyword": "reduce risk exposure",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 125
     }
   ],
   "articles": [
@@ -152,6 +152,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Zendesk ticket systems hijacked in massive global spam wave",
+      "link": "https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/",
+      "summary": "People worldwide are being targeted by a massive spam wave originating from unsecured Zendesk support systems, with victims reporting receiving hundreds of emails with strange and sometimes alarming subject lines. [...]",
+      "published": "Wed, 21 Jan 2026 18:46:53 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Chainlit AI framework bugs let hackers breach cloud environments",
+      "link": "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/",
+      "summary": "Two high-severity vulnerabilities in Chainlit, a popular open-source framework for building conversational AI applications, allow reading any file on the server and leak sensitive information. [...]",
+      "published": "Wed, 21 Jan 2026 17:37:04 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Cisco fixes Unified Communications RCE zero day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/",
       "summary": "Cisco has fixed a critical Unified Communications and Webex Calling remote code execution vulnerability, tracked as CVE-2026-20045, that has been actively exploited as a zero-day in attacks. [...]",
@@ -220,30 +240,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "You Got Phished? Of Course! You're Human...",
-      "link": "https://www.bleepingcomputer.com/news/security/you-got-phished-of-course-youre-human/",
-      "summary": "Phishing succeeds not because users are careless, but because attackers exploit human timing, context, and emotion. Flare shows how modern phishing has become industrialized, scalable, and increasingly hard to spot. [...]",
-      "published": "Wed, 21 Jan 2026 09:30:39 -0500",
-      "value_score": 32,
-      "value_signals": [
-        "Phishing ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit security testing apps to breach Fortune 500 firms",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/",
-      "summary": "Threat actors are exploiting misconfigured web applications used for security training and internal penetration testing, such as DVWA, OWASP Juice Shop, Hackazon, and bWAPP, to gain access to cloud environments of Fortune 500 companies and security vendors. [...]",
-      "published": "Wed, 21 Jan 2026 09:00:00 -0500",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
       ]
     },
     {

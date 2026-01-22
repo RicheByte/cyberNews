@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2025-12-23",
     "2025-12-24",
     "2025-12-25",
     "2025-12-26",
@@ -29,7 +28,8 @@
     "2026-01-18",
     "2026-01-19",
     "2026-01-20",
-    "2026-01-21"
+    "2026-01-21",
+    "2026-01-22"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -101,7 +101,8 @@
         "2026-01-13",
         "2026-01-14",
         "2026-01-15",
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "user named csnemess": {
@@ -139,7 +140,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 156,
+      "count": 157,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -159,11 +160,12 @@
         "2026-01-18",
         "2026-01-19",
         "2026-01-20",
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 425,
+      "count": 426,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -200,7 +202,8 @@
         "2026-01-18",
         "2026-01-19",
         "2026-01-20",
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "supposed wayward package": {
@@ -1311,10 +1314,11 @@
       ]
     },
     "leak sensitive information": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2025-12-29",
-        "2025-12-30"
+        "2025-12-30",
+        "2026-01-22"
       ]
     },
     "gpt 5 2": {
@@ -1340,7 +1344,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1352,7 +1356,8 @@
         "2026-01-14",
         "2026-01-15",
         "2026-01-19",
-        "2026-01-20"
+        "2026-01-20",
+        "2026-01-22"
       ]
     },
     "model agnostic abstractions": {
@@ -2298,7 +2303,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2310,11 +2315,12 @@
         "2026-01-17",
         "2026-01-19",
         "2026-01-20",
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "internal network behind": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2328,7 +2334,8 @@
         "2026-01-18",
         "2026-01-19",
         "2026-01-20",
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "ai driven access": {
@@ -2900,12 +2907,13 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-14",
         "2026-01-15",
         "2026-01-20",
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "final patch tuesday": {
@@ -3125,7 +3133,7 @@
       ]
     },
     "telecontrol server basic": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -3133,7 +3141,8 @@
         "2026-01-18",
         "2026-01-19",
         "2026-01-20",
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "sinec security monitor": {
@@ -3537,10 +3546,11 @@
       ]
     },
     "access sensitive information": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-20",
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "multi monitor setups": {
@@ -3565,10 +3575,11 @@
       ]
     },
     "consolidates critical information": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-20",
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "access private data": {
@@ -3651,9 +3662,10 @@
       ]
     },
     "steal sensitive files": {
-      "count": 7,
+      "count": 8,
       "dates": [
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "tesla infotainment system": {
@@ -3663,15 +3675,17 @@
       ]
     },
     "ai assisted defenders": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "reduce risk exposure": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "authorization bypass vulnerability": {
@@ -3693,9 +3707,10 @@
       ]
     },
     "ai deployments built": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "simulation runtime softsps": {
@@ -3705,21 +3720,24 @@
       ]
     },
     "4 2 million": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "ai researchers say": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "asymmetric security emerges": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-01-21"
+        "2026-01-21",
+        "2026-01-22"
       ]
     },
     "deleting suspicious emails": {
@@ -3733,20 +3751,21 @@
       "dates": [
         "2026-01-21"
       ]
+    },
+    "phishing campaign zeroes": {
+      "count": 1,
+      "dates": [
+        "2026-01-22"
+      ]
+    },
+    "major security vendors": {
+      "count": 1,
+      "dates": [
+        "2026-01-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-13 16:26",
-      "articles": 56,
-      "top_keywords": [
-        "ordered government agencies",
-        "cyber insights 2026",
-        "notorious hacker forum",
-        "twitter whistleblower complaint",
-        "seemingly legitimate form"
-      ]
-    },
     {
       "timestamp": "2026-01-13 18:26",
       "articles": 56,
@@ -4833,6 +4852,17 @@
         "telecontrol server basic",
         "4 2 million",
         "twitter whistleblower complaint",
+        "malicious cyber actors"
+      ]
+    },
+    {
+      "timestamp": "2026-01-22 01:21",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "4 2 million",
+        "twitter whistleblower complaint",
+        "telecontrol server basic",
         "malicious cyber actors"
       ]
     }

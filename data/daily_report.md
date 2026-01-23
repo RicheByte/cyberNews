@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-23 10:20 UTC  
+> **Last Updated:** 2026-01-23 12:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2 venezuelans convicted** • **january 15 2026** • **hack atms dozens** • **malicious sso logins** • **authentication bypass vulnerability** • **deliver phishing payloads** • **ai features microsoft** • **roughly 900 million** • **twitter whistleblower complaint** • **single automation system** • **rated 9 8** • **multi stage adversary** • **johnson controls inc** • **deceive unsuspecting users** • **business without slowing** • **ai slop reports** • **sprawling phishing campaign** • **phishing campaign zeroes** • **windows 11 insiders** • **scream europe frets**
+**2 venezuelans convicted** • **persistent remote access** • **hack atms dozens** • **executive order signed** • **sprawling phishing campaign** • **phishing campaign zeroes** • **deliver phishing payloads** • **leverages stolen credentials** • **cyber keep collaborating** • **twitter whistleblower complaint** • **single automation system** • **rated 9 8** • **multi stage adversary** • **johnson controls inc** • **deceive unsuspecting users** • **business without slowing** • **ai features microsoft** • **authentication bypass vulnerability** • **windows 11 insiders** • **scream europe frets**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html)
+- [Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access](https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html)
 - [Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms](https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html)
 - [New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack](https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html)
 - [Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access](https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html)
 - [ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html)
 - [Filling the Most Common Gaps in Google Workspace Security](https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html)
 - [Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts](https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html)
-- [SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release](https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html)
-- [Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations](https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html)
 
 ### BleepingComputer
 
+- [Fortinet confirms critical FortiCloud auth bypass not fully patched](https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/)
 - [Okta SSO accounts targeted in vishing-based data theft attacks](https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/)
 - [Curl ending bug bounty program after flood of AI slop reports](https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/)
 - [SmarterMail auth bypass flaw now exploited to hijack admin accounts](https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/)
@@ -34,7 +35,6 @@
 - [INC ransomware opsec fail allowed data recovery for 12 US orgs](https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/)
 - [Why Active Directory password resets are surging in hybrid work](https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/)
 - [Microsoft updates Notepad and Paint with more AI features](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/)
-- [Hackers exploit 29 zero-days on second day of Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Cyber Insights 2026: Regulations and the Tangled Mess of Compliance Requirements](https://www.securityweek.com/cyber-insights-2026-regulations-and-the-tangled-mess-of-compliance-requirements/)
+- [Under Armour Looking Into Data Breach Affecting Customers’ Email Addresses](https://www.securityweek.com/under-armour-looking-into-data-breach-affecting-customers-email-addresses/)
+- [Organizations Warned of Exploited Zimbra Collaboration Vulnerability](https://www.securityweek.com/organizations-warned-of-exploited-zimbra-collaboration-vulnerability/)
+- [Infotainment, EV Charger Exploits Earn Hackers $1M at Pwn2Own Automotive 2026](https://www.securityweek.com/infotainment-ev-charger-exploits-earn-hackers-1m-at-pwn2own-automotive-2026/)
+- [Fresh SmarterMail Flaw Exploited for Admin Access](https://www.securityweek.com/fresh-smartermail-flaw-exploited-for-admin-access/)
 - [2 Venezuelans Convicted in US for Using Malware to Hack ATMs](https://www.securityweek.com/2-venezuelans-convicted-in-us-for-using-malware-to-hack-atms/)
 - [The Upside Down is Real: What Stranger Things Teaches Us About Modern Cybersecurity](https://www.securityweek.com/the-upside-down-is-real-what-stranger-things-teaches-us-about-modern-cybersecurity/)
 - [Old Attack, New Speed: Researchers Optimize Page Cache Exploits](https://www.securityweek.com/old-attack-new-speed-researchers-optimize-page-cache-exploits/)
-- [Webinar Today: Rethinking Email Security for Mid-Sized Organizations](https://www.securityweek.com/webinar-today-rethinking-email-security-for-mid-sized-organizations/)
-- [AiStrike Raises $7 Million in Seed Funding](https://www.securityweek.com/aistrike-raises-7-million-in-seed-funding/)
-- [New Wave of Attacks Targeting FortiGate Firewalls](https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/)
-- [Claroty Raises $150 Million in Series F Funding](https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/)
-- [Furl Raises $10 Million for Autonomous Vulnerability Remediation](https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/)
 
 ### Threatpost
 

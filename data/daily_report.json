@@ -1,16 +1,17 @@
 {
-  "last_updated": "2026-01-23 10:20",
+  "last_updated": "2026-01-23 12:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "2 venezuelans convicted",
-    "january 15 2026",
+    "persistent remote access",
     "hack atms dozens",
-    "malicious sso logins",
-    "authentication bypass vulnerability",
+    "executive order signed",
+    "sprawling phishing campaign",
+    "phishing campaign zeroes",
     "deliver phishing payloads",
-    "ai features microsoft",
-    "roughly 900 million",
+    "leverages stolen credentials",
+    "cyber keep collaborating",
     "twitter whistleblower complaint",
     "single automation system",
     "rated 9 8",
@@ -18,55 +19,74 @@
     "johnson controls inc",
     "deceive unsuspecting users",
     "business without slowing",
-    "ai slop reports",
-    "sprawling phishing campaign",
-    "phishing campaign zeroes",
+    "ai features microsoft",
+    "authentication bypass vulnerability",
     "windows 11 insiders",
     "scream europe frets"
   ],
   "trending": [
     {
       "keyword": "2 venezuelans convicted",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "january 15 2026",
-      "mentions": 12
+      "keyword": "persistent remote access",
+      "mentions": 1
     },
     {
       "keyword": "hack atms dozens",
+      "mentions": 2
+    },
+    {
+      "keyword": "executive order signed",
       "mentions": 1
     },
     {
-      "keyword": "malicious sso logins",
-      "mentions": 14
+      "keyword": "sprawling phishing campaign",
+      "mentions": 96
     },
     {
-      "keyword": "authentication bypass vulnerability",
-      "mentions": 8
+      "keyword": "phishing campaign zeroes",
+      "mentions": 17
     },
     {
       "keyword": "deliver phishing payloads",
+      "mentions": 2
+    },
+    {
+      "keyword": "leverages stolen credentials",
       "mentions": 1
     },
     {
-      "keyword": "ai features microsoft",
-      "mentions": 11
-    },
-    {
-      "keyword": "roughly 900 million",
-      "mentions": 12
+      "keyword": "cyber keep collaborating",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 443
-    },
-    {
-      "keyword": "single automation system",
-      "mentions": 9
+      "mentions": 444
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order",
+      "link": "https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html",
+      "summary": "TikTok on Friday officially announced that it formed a joint venture that will allow the hugely popular video-sharing application to continue operating in the U.S. The new venture, named TikTok USDS Joint Venture LLC, has been established in compliance with the Executive Order signed by U.S. President Donald Trump in September 2025, the platform said. The new deal will see TikTok's Chinese",
+      "published": "Fri, 23 Jan 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access",
+      "link": "https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new dual-vector campaign that leverages stolen credentials to deploy legitimate Remote Monitoring and Management (RMM) software for persistent remote access to compromised hosts. \"Instead of deploying custom viruses, attackers are bypassing security perimeters by weaponizing the necessary IT tools that administrators trust,\" KnowBe4 Threat",
+      "published": "Fri, 23 Jan 2026 16:48:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms",
@@ -132,28 +152,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
-      "link": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
-      "summary": "A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch. The vulnerability, which currently does not have a CVE identifier, is tracked by watchTowr Labs as WT-2026-0001. It was patched by SmarterTools on January 15, 2026, with Build 9511, following responsible disclosure by the exposure management",
-      "published": "Thu, 22 Jan 2026 15:16:00 +0530",
-      "value_score": 97,
+      "source": "BleepingComputer",
+      "title": "Fortinet confirms critical FortiCloud auth bypass not fully patched",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/",
+      "summary": "Days after admins began reporting that their fully patched firewalls are being hacked, Fortinet confirmed it's working to fully address a critical FortiCloud SSO authentication bypass vulnerability that should have already been patched since early December. [...]",
+      "published": "Fri, 23 Jan 2026 05:39:03 -0500",
+      "value_score": 56,
       "value_signals": [
-        "Active exploitation ×2",
-        "Auth bypass",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
-      "link": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
-      "summary": "Cybersecurity company Arctic Wolf has warned of a \"new cluster of automated malicious activity\" that involves unauthorized firewall configuration changes on Fortinet FortiGate devices. The activity, it said, commenced on January 15, 2026, adding it shares similarities with a December 2025 campaign in which malicious SSO logins on FortiGate appliances were recorded against the admin account from",
-      "published": "Thu, 22 Jan 2026 11:25:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
+        "Auth bypass ×2",
+        "High severity ×2"
       ]
     },
     {
@@ -225,18 +232,6 @@
       "published": "Thu, 22 Jan 2026 09:22:23 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/",
-      "summary": "Hackers collect $439,250 after exploiting 29 zero-day vulnerabilities on the second day of Pwn2Own Automotive 2026. [...]",
-      "published": "Thu, 22 Jan 2026 07:30:30 -0500",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -407,6 +402,62 @@
     },
     {
       "source": "Security Week",
+      "title": "Cyber Insights 2026: Regulations and the Tangled Mess of Compliance Requirements",
+      "link": "https://www.securityweek.com/cyber-insights-2026-regulations-and-the-tangled-mess-of-compliance-requirements/",
+      "summary": "Cyber regulations are where politics meets business – where business becomes subject to political realities. The post Cyber Insights 2026: Regulations and the Tangled Mess of Compliance Requirements appeared first on SecurityWeek .",
+      "published": "Fri, 23 Jan 2026 12:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Under Armour Looking Into Data Breach Affecting Customers’ Email Addresses",
+      "link": "https://www.securityweek.com/under-armour-looking-into-data-breach-affecting-customers-email-addresses/",
+      "summary": "Under Armour is investigating a recent data breach that purloined customers’ email addresses and other personal information. The post Under Armour Looking Into Data Breach Affecting Customers’ Email Addresses appeared first on SecurityWeek .",
+      "published": "Fri, 23 Jan 2026 12:01:18 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Organizations Warned of Exploited Zimbra Collaboration Vulnerability",
+      "link": "https://www.securityweek.com/organizations-warned-of-exploited-zimbra-collaboration-vulnerability/",
+      "summary": "CISA has added the Zimbra flaw to the KEV catalog along with three other bugs exploited in the wild. The post Organizations Warned of Exploited Zimbra Collaboration Vulnerability appeared first on SecurityWeek .",
+      "published": "Fri, 23 Jan 2026 11:47:24 +0000",
+      "value_score": 81,
+      "value_signals": [
+        "Active exploitation",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Infotainment, EV Charger Exploits Earn Hackers $1M at Pwn2Own Automotive 2026",
+      "link": "https://www.securityweek.com/infotainment-ev-charger-exploits-earn-hackers-1m-at-pwn2own-automotive-2026/",
+      "summary": "Pwn2Own participants disclosed a total of 76 vulnerabilities during the three-day event. The post Infotainment, EV Charger Exploits Earn Hackers $1M at Pwn2Own Automotive 2026 appeared first on SecurityWeek .",
+      "published": "Fri, 23 Jan 2026 11:33:22 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Fresh SmarterMail Flaw Exploited for Admin Access",
+      "link": "https://www.securityweek.com/fresh-smartermail-flaw-exploited-for-admin-access/",
+      "summary": "The exploitation of the authentication bypass vulnerability started two days after patches were released. The post Fresh SmarterMail Flaw Exploited for Admin Access appeared first on SecurityWeek .",
+      "published": "Fri, 23 Jan 2026 10:34:09 +0000",
+      "value_score": 31,
+      "value_signals": [
+        "Auth bypass",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "2 Venezuelans Convicted in US for Using Malware to Hack ATMs",
       "link": "https://www.securityweek.com/2-venezuelans-convicted-in-us-for-using-malware-to-hack-atms/",
       "summary": "Dozens of Venezuelan nationals have been charged by the US for their role in ATM jackpotting attacks. The post 2 Venezuelans Convicted in US for Using Malware to Hack ATMs appeared first on SecurityWeek .",
@@ -433,51 +484,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Webinar Today: Rethinking Email Security for Mid-Sized Organizations",
-      "link": "https://www.securityweek.com/webinar-today-rethinking-email-security-for-mid-sized-organizations/",
-      "summary": "See how modern AI-driven detection can block sophisticated attacks that traditional tools miss The post Webinar Today: Rethinking Email Security for Mid-Sized Organizations appeared first on SecurityWeek .",
-      "published": "Thu, 22 Jan 2026 14:37:43 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "AiStrike Raises $7 Million in Seed Funding",
-      "link": "https://www.securityweek.com/aistrike-raises-7-million-in-seed-funding/",
-      "summary": "The startup’s AI-native platform unifies exposure analysis, threat intelligence, investigation, and response. The post AiStrike Raises $7 Million in Seed Funding appeared first on SecurityWeek .",
-      "published": "Thu, 22 Jan 2026 12:58:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New Wave of Attacks Targeting FortiGate Firewalls",
-      "link": "https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/",
-      "summary": "Hackers bypass the FortiCloud SSO login authentication to create new accounts and change device configurations. The post New Wave of Attacks Targeting FortiGate Firewalls appeared first on SecurityWeek .",
-      "published": "Thu, 22 Jan 2026 12:10:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Claroty Raises $150 Million in Series F Funding",
-      "link": "https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/",
-      "summary": "Claroty has raised a total of roughly $900 million and its valuation has reportedly reached $3 billion. The post Claroty Raises $150 Million in Series F Funding appeared first on SecurityWeek .",
-      "published": "Thu, 22 Jan 2026 11:58:28 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Furl Raises $10 Million for Autonomous Vulnerability Remediation",
-      "link": "https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/",
-      "summary": "The startup will use the new funding to accelerate product development and deepen remediation capabilities. The post Furl Raises $10 Million for Autonomous Vulnerability Remediation appeared first on SecurityWeek .",
-      "published": "Thu, 22 Jan 2026 11:07:34 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

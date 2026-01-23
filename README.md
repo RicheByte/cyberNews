@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-23 10:20 UTC |
+| 🕐 Last Updated | 2026-01-23 12:37 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`2 venezuelans convicted` • `january 15 2026` • `hack atms dozens` • `malicious sso logins` • `authentication bypass vulnerability` • `deliver phishing payloads` • `ai features microsoft` • `roughly 900 million` • `twitter whistleblower complaint` • `single automation system`
+`2 venezuelans convicted` • `persistent remote access` • `hack atms dozens` • `executive order signed` • `sprawling phishing campaign` • `phishing campaign zeroes` • `deliver phishing payloads` • `leverages stolen credentials` • `cyber keep collaborating` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

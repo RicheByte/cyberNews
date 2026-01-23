@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-23 20:20 UTC  
+> **Last Updated:** 2026-01-23 22:14 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **single automation system** • **executive order signed** • **executive order 14144** • **persistent remote access** • **malicious cyber actors** • **windows operating systems** • **widely available products** • **twitter whistleblower complaint** • **rated 9 8** • **multi stage adversary** • **known technique referred** • **ipad devices due** • **scream europe frets** • **growing across europe** • **sprawling phishing campaign** • **sport remote connectivity** • **cvss scoring system** • **patched devices similar** • **internal network behind**
+**phishers abuse sharepoint** • **single automation system** • **executive order signed** • **executive order 14144** • **persistent remote access** • **malicious cyber actors** • **widely available products** • **twitter whistleblower complaint** • **rated 9 8** • **multi stage adversary** • **known technique referred** • **ipad devices due** • **automotive world 2026** • **windows operating systems** • **scream europe frets** • **growing across europe** • **sprawling phishing campaign** • **vehicle infotainment systems** • **sport remote connectivity** • **patched devices similar**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles](https://www.darkreading.com/endpoint-security/researchers-find-new-ways-hack-vehicles)
+- [Exploited Zero-Day Flaw in Cisco UC Could Affect Millions](https://www.darkreading.com/endpoint-security/exploited-zero-day-flaw-cisco-uc-affect-millions)
 - [Healthy Security Cultures Thrive on Risk Reporting](https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting)
 - [Risky Chinese Electric Buses Spark Aussie Gov't Review](https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt)
 - [Fortinet Firewalls Hit With Malicious Configuration Changes](https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes)
 - [From a Whisper to a Scream: Europe Frets About Overreliance on US Tech](https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech)
 - [Latin American Orgs Lack Confidence in Cyber Defenses, Skills](https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills)
 - [DPRK Actors Deploy VS Code Tunnels for Remote Hacking](https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking)
-- [Dark Reading Confidential: Reviving the Hacker Ethos That Built Cybersecurity](https://www.darkreading.com/cybersecurity-operations/untitled)
-- [AI Agents Undermine Progress in Browser Security](https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security)
 
 ### Security Week
 

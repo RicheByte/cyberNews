@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -141,7 +141,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -167,7 +167,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 448,
+      "count": 449,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1351,7 +1351,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1596,7 +1596,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -3862,7 +3862,7 @@
       ]
     },
     "single automation system": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-22",
         "2026-01-23"
@@ -3929,13 +3929,13 @@
       ]
     },
     "scream europe frets": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-23"
       ]
     },
     "growing across europe": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-23"
       ]
@@ -3959,19 +3959,19 @@
       ]
     },
     "multi stage adversary": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-23"
       ]
     },
     "persistent remote access": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-23"
       ]
     },
     "executive order signed": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-23"
       ]
@@ -3989,7 +3989,7 @@
       ]
     },
     "phishers abuse sharepoint": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-23"
       ]
@@ -4001,7 +4001,7 @@
       ]
     },
     "ipad devices due": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-23"
       ]
@@ -4013,7 +4013,7 @@
       ]
     },
     "patched devices similar": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-23"
       ]
@@ -4025,13 +4025,13 @@
       ]
     },
     "executive order 14144": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-23"
       ]
     },
     "widely available products": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-23"
       ]
@@ -4043,12 +4043,24 @@
       ]
     },
     "known technique referred": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-23"
       ]
     },
     "sport remote connectivity": {
+      "count": 2,
+      "dates": [
+        "2026-01-23"
+      ]
+    },
+    "automotive world 2026": {
+      "count": 1,
+      "dates": [
+        "2026-01-23"
+      ]
+    },
+    "vehicle infotainment systems": {
       "count": 1,
       "dates": [
         "2026-01-23"
@@ -4056,17 +4068,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-15 14:20",
-      "articles": 56,
-      "top_keywords": [
-        "least 40 million",
-        "malicious cyber actors",
-        "law enforcement authorities",
-        "windows operating systems",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-15 16:29",
       "articles": 56,
@@ -5147,6 +5148,17 @@
     },
     {
       "timestamp": "2026-01-23 20:20",
+      "articles": 56,
+      "top_keywords": [
+        "phishers abuse sharepoint",
+        "single automation system",
+        "executive order signed",
+        "executive order 14144",
+        "persistent remote access"
+      ]
+    },
+    {
+      "timestamp": "2026-01-23 22:14",
       "articles": 56,
       "top_keywords": [
         "phishers abuse sharepoint",

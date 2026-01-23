@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23 20:20",
+  "last_updated": "2026-01-23 22:14",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,61 +9,61 @@
     "executive order 14144",
     "persistent remote access",
     "malicious cyber actors",
-    "windows operating systems",
     "widely available products",
     "twitter whistleblower complaint",
     "rated 9 8",
     "multi stage adversary",
     "known technique referred",
     "ipad devices due",
+    "automotive world 2026",
+    "windows operating systems",
     "scream europe frets",
     "growing across europe",
     "sprawling phishing campaign",
+    "vehicle infotainment systems",
     "sport remote connectivity",
-    "cvss scoring system",
-    "patched devices similar",
-    "internal network behind"
+    "patched devices similar"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "single automation system",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "executive order signed",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "persistent remote access",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 192
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 170
+      "mentions": 193
     },
     {
       "keyword": "widely available products",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 448
+      "mentions": 449
     },
     {
       "keyword": "rated 9 8",
-      "mentions": 36
+      "mentions": 37
+    },
+    {
+      "keyword": "multi stage adversary",
+      "mentions": 7
     }
   ],
   "articles": [
@@ -335,6 +335,31 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles",
+      "link": "https://www.darkreading.com/endpoint-security/researchers-find-new-ways-hack-vehicles",
+      "summary": "Security researchers exploited dozens of vulnerabilities in vehicle infotainment systems and EV chargers during the latest Pwn2Own contest at Automotive World 2026.",
+      "published": "Fri, 23 Jan 2026 21:04:17 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Exploited Zero-Day Flaw in Cisco UC Could Affect Millions",
+      "link": "https://www.darkreading.com/endpoint-security/exploited-zero-day-flaw-cisco-uc-affect-millions",
+      "summary": "Mass scanning is underway for CVE-2026-20045, which Cisco tagged as critical because successful exploitation could lead to a complete system takeover.",
+      "published": "Fri, 23 Jan 2026 20:56:42 GMT",
+      "value_score": 67,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Healthy Security Cultures Thrive on Risk Reporting",
       "link": "https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting",
       "summary": "The signs of an effective security culture are shifting as companies call on CISOs and security teams to raise their hands unabashedly.",
@@ -392,24 +417,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Dark Reading Confidential: Reviving the Hacker Ethos That Built Cybersecurity",
-      "link": "https://www.darkreading.com/cybersecurity-operations/untitled",
-      "summary": "Dark Reading Confidential Episode 14: How curious, ethical problem solving can continue to serve as a guiding principle for an evolving cybersecurity sector.",
-      "published": "Thu, 22 Jan 2026 00:24:21 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Agents Undermine Progress in Browser Security",
-      "link": "https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security",
-      "summary": "Web browser companies have put in substantial effort over the past three decades to strengthen the browser security stack against abuses. Agentic browsers are undoing all that work.",
-      "published": "Wed, 21 Jan 2026 23:06:50 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

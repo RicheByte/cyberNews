@@ -165,7 +165,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 438,
+      "count": 439,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1347,7 +1347,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1592,7 +1592,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2326,7 +2326,7 @@
       ]
     },
     "internal network behind": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2341,7 +2341,8 @@
         "2026-01-19",
         "2026-01-20",
         "2026-01-21",
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "ai driven access": {
@@ -3764,7 +3765,7 @@
       ]
     },
     "phishing campaign zeroes": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-22",
         "2026-01-23"
@@ -3795,7 +3796,7 @@
       ]
     },
     "malicious sso logins": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-22",
         "2026-01-23"
@@ -3808,14 +3809,14 @@
       ]
     },
     "january 15 2026": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-22",
         "2026-01-23"
       ]
     },
     "roughly 900 million": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-22",
         "2026-01-23"
@@ -3828,48 +3829,49 @@
       ]
     },
     "ai features microsoft": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-22",
         "2026-01-23"
       ]
     },
     "windows 11 insiders": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "deceive unsuspecting users": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-22",
         "2026-01-23"
       ]
     },
     "business without slowing": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-22",
         "2026-01-23"
       ]
     },
     "single automation system": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-22",
         "2026-01-23"
       ]
     },
     "johnson controls inc": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-22",
         "2026-01-23"
       ]
     },
     "12 us orgs": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-22",
         "2026-01-23"
@@ -3895,14 +3897,14 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-22",
         "2026-01-23"
       ]
     },
     "us tech concern": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-22",
         "2026-01-23"
@@ -3916,36 +3918,25 @@
       ]
     },
     "ai slop reports": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-23"
       ]
     },
     "scream europe frets": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-23"
       ]
     },
     "growing across europe": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-14 18:27",
-      "articles": 56,
-      "top_keywords": [
-        "malicious cyber actors",
-        "windows operating systems",
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "cvss scoring system"
-      ]
-    },
     {
       "timestamp": "2026-01-14 20:17",
       "articles": 56,
@@ -5033,6 +5024,17 @@
         "authentication bypass vulnerability",
         "roughly 900 million",
         "ai features microsoft"
+      ]
+    },
+    {
+      "timestamp": "2026-01-23 03:29",
+      "articles": 56,
+      "top_keywords": [
+        "january 15 2026",
+        "malicious sso logins",
+        "authentication bypass vulnerability",
+        "ai features microsoft",
+        "roughly 900 million"
       ]
     }
   ]

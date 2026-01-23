@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-22 22:18",
+  "last_updated": "2026-01-23 01:19",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
     "malicious sso logins",
-    "vulnerable driver byovd",
     "january 15 2026",
     "authentication bypass vulnerability",
     "roughly 900 million",
+    "ai features microsoft",
     "sprawling phishing campaign",
     "phishing campaign zeroes",
+    "us cybersecurity companies",
     "twitter whistleblower complaint",
     "single automation system",
     "rated 9 8",
     "johnson controls inc",
     "deceive unsuspecting users",
     "business without slowing",
-    "windows operating systems",
-    "windows 11 insiders",
+    "ai slop reports",
+    "scream europe frets",
+    "growing across europe",
     "us tech concern",
     "12 us orgs",
-    "internal network behind",
-    "ai features microsoft",
-    "critical security flaw"
+    "wt 2026 0001"
   ],
   "trending": [
     {
       "keyword": "malicious sso logins",
-      "mentions": 8
-    },
-    {
-      "keyword": "vulnerable driver byovd",
-      "mentions": 2
+      "mentions": 9
     },
     {
       "keyword": "january 15 2026",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "authentication bypass vulnerability",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "roughly 900 million",
+      "mentions": 7
+    },
+    {
+      "keyword": "ai features microsoft",
       "mentions": 6
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 89
+      "mentions": 90
     },
     {
       "keyword": "phishing campaign zeroes",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "us cybersecurity companies",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 437
+      "mentions": 438
     },
     {
       "keyword": "single automation system",
-      "mentions": 3
-    },
-    {
-      "keyword": "rated 9 8",
-      "mentions": 25
+      "mentions": 4
     }
   ],
   "articles": [
@@ -244,87 +244,11 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, January 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-      "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
-      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
-      "value_score": 40,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Botnet",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-      "published": "Sat, 06 Dec 2025 14:45:03 +0000",
+      "source": "Dark Reading",
+      "title": "Risky Chinese Electric Buses Spark Aussie Gov't Review",
+      "link": "https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt",
+      "summary": "Deployed across Australia and Europe, China's electric buses are vulnerable to cybercriminals and sport a virtual kill switch the Chinese state could activate.",
+      "published": "Thu, 22 Jan 2026 22:13:49 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -398,15 +322,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Complex VoidLink Linux Malware Created by AI",
-      "link": "https://www.darkreading.com/threat-intelligence/voidlink-linux-malware-ai",
-      "summary": "Researchers say the advanced framework was built almost entirely by agents, marking a significant evolution in the use of AI to develop wholly original malware.",
-      "published": "Wed, 21 Jan 2026 14:48:15 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

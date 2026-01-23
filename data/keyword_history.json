@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2025-12-24",
     "2025-12-25",
     "2025-12-26",
     "2025-12-27",
@@ -29,7 +28,8 @@
     "2026-01-19",
     "2026-01-20",
     "2026-01-21",
-    "2026-01-22"
+    "2026-01-22",
+    "2026-01-23"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -165,7 +165,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 437,
+      "count": 438,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -203,7 +203,8 @@
         "2026-01-19",
         "2026-01-20",
         "2026-01-21",
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "supposed wayward package": {
@@ -1346,7 +1347,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1359,7 +1360,8 @@
         "2026-01-15",
         "2026-01-19",
         "2026-01-20",
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "model agnostic abstractions": {
@@ -1590,12 +1592,13 @@
       ]
     },
     "rated 9 8": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2025-12-31",
         "2026-01-01",
         "2026-01-02",
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "raspberry pi devices": {
@@ -3761,9 +3764,10 @@
       ]
     },
     "phishing campaign zeroes": {
-      "count": 10,
+      "count": 11,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "major security vendors": {
@@ -3791,9 +3795,10 @@
       ]
     },
     "malicious sso logins": {
-      "count": 8,
+      "count": 9,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "high severity bugs": {
@@ -3803,15 +3808,17 @@
       ]
     },
     "january 15 2026": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "roughly 900 million": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "tech stack optimized": {
@@ -3821,9 +3828,10 @@
       ]
     },
     "ai features microsoft": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "windows 11 insiders": {
@@ -3833,39 +3841,45 @@
       ]
     },
     "deceive unsuspecting users": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "business without slowing": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "single automation system": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "johnson controls inc": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "12 us orgs": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "wt 2026 0001": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "traditional tools miss": {
@@ -3881,36 +3895,46 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "us tech concern": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "us cybersecurity companies": {
+      "count": 2,
+      "dates": [
+        "2026-01-22",
+        "2026-01-23"
+      ]
+    },
+    "ai slop reports": {
       "count": 1,
       "dates": [
-        "2026-01-22"
+        "2026-01-23"
+      ]
+    },
+    "scream europe frets": {
+      "count": 1,
+      "dates": [
+        "2026-01-23"
+      ]
+    },
+    "growing across europe": {
+      "count": 1,
+      "dates": [
+        "2026-01-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-14 16:24",
-      "articles": 56,
-      "top_keywords": [
-        "malicious cyber actors",
-        "windows operating systems",
-        "twitter whistleblower complaint",
-        "legitimate binary associated",
-        "cvss scoring system"
-      ]
-    },
     {
       "timestamp": "2026-01-14 18:27",
       "articles": 56,
@@ -4998,6 +5022,17 @@
         "january 15 2026",
         "authentication bypass vulnerability",
         "roughly 900 million"
+      ]
+    },
+    {
+      "timestamp": "2026-01-23 01:19",
+      "articles": 48,
+      "top_keywords": [
+        "malicious sso logins",
+        "january 15 2026",
+        "authentication bypass vulnerability",
+        "roughly 900 million",
+        "ai features microsoft"
       ]
     }
   ]

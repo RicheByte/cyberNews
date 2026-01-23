@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-01-23 12:37",
+  "last_updated": "2026-01-23 14:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "2 venezuelans convicted",
-    "persistent remote access",
-    "hack atms dozens",
-    "executive order signed",
-    "sprawling phishing campaign",
-    "phishing campaign zeroes",
-    "deliver phishing payloads",
-    "leverages stolen credentials",
-    "cyber keep collaborating",
-    "twitter whistleblower complaint",
+    "phishers abuse sharepoint",
     "single automation system",
+    "executive order signed",
+    "persistent remote access",
+    "sso login vulnerabilities",
+    "twitter whistleblower complaint",
+    "sprawling phishing campaign",
     "rated 9 8",
+    "phishing campaign zeroes",
     "multi stage adversary",
+    "leverages stolen credentials",
     "johnson controls inc",
-    "deceive unsuspecting users",
+    "ipad devices due",
     "business without slowing",
-    "ai features microsoft",
-    "authentication bypass vulnerability",
-    "windows 11 insiders",
-    "scream europe frets"
+    "ai slop reports",
+    "scream europe frets",
+    "growing across europe",
+    "attacks bypass authentication",
+    "patched devices similar",
+    "internal network behind"
   ],
   "trending": [
     {
-      "keyword": "2 venezuelans convicted",
+      "keyword": "phishers abuse sharepoint",
+      "mentions": 1
+    },
+    {
+      "keyword": "single automation system",
+      "mentions": 11
+    },
+    {
+      "keyword": "executive order signed",
       "mentions": 2
     },
     {
       "keyword": "persistent remote access",
-      "mentions": 1
-    },
-    {
-      "keyword": "hack atms dozens",
       "mentions": 2
     },
     {
-      "keyword": "executive order signed",
-      "mentions": 1
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 96
-    },
-    {
-      "keyword": "phishing campaign zeroes",
-      "mentions": 17
-    },
-    {
-      "keyword": "deliver phishing payloads",
-      "mentions": 2
-    },
-    {
-      "keyword": "leverages stolen credentials",
-      "mentions": 1
-    },
-    {
-      "keyword": "cyber keep collaborating",
+      "keyword": "sso login vulnerabilities",
       "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 444
+      "mentions": 445
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 97
+    },
+    {
+      "keyword": "rated 9 8",
+      "mentions": 33
+    },
+    {
+      "keyword": "phishing campaign zeroes",
+      "mentions": 18
+    },
+    {
+      "keyword": "multi stage adversary",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
+      "link": "https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html",
+      "summary": "Fortinet has officially confirmed that it's working to completely plug a FortiCloud SSO authentication bypass vulnerability following reports of fresh exploitation activity on fully-patched firewalls. \"In the last 24 hours, we have identified a number of cases where the exploit was to a device that had been fully upgraded to the latest release at the time of the attack, which suggested a new",
+      "published": "Fri, 23 Jan 2026 18:00:00 +0530",
+      "value_score": 31,
+      "value_signals": [
+        "Auth bypass",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order",
@@ -143,13 +155,25 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
-      "link": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
-      "summary": "A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency miner, on Linux hosts. The package, named sympy-dev, mimics SymPy, replicating the latter's project description verbatim in an attempt to deceive unsuspecting users into thinking that they are",
-      "published": "Thu, 22 Jan 2026 15:34:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft: Outlook for iOS crashes, freezes due to coding error",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/",
+      "summary": "Microsoft confirmed today that Outlook mobile may crash or freeze when launched on iPad devices due to a coding error. [...]",
+      "published": "Fri, 23 Jan 2026 08:34:25 -0500",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/",
+      "summary": "Pwn2Own Automotive 2026 has ended with security researchers earning $1,047,000 after exploiting 76 zero-day vulnerabilities between January 21 and January 23. [...]",
+      "published": "Fri, 23 Jan 2026 07:50:11 -0500",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -214,24 +238,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why Active Directory password resets are surging in hybrid work",
-      "link": "https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/",
-      "summary": "Hybrid work has driven a surge in Active Directory password resets, turning minor lockouts into major productivity drains. Specops shows why remote access, cached credentials, and security policies are fueling the spike. [...]",
-      "published": "Thu, 22 Jan 2026 10:01:11 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft updates Notepad and Paint with more AI features",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/",
-      "summary": "Microsoft is rolling out new artificial intelligence features with the latest updates to the Notepad and Paint apps for Windows 11 Insiders. [...]",
-      "published": "Thu, 22 Jan 2026 09:22:23 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -402,6 +408,37 @@
     },
     {
       "source": "Security Week",
+      "title": "Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices",
+      "link": "https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/",
+      "summary": "Similar to recent FortiCloud single sign-on (SSO) login vulnerabilities, the attacks bypass authentication. The post Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices appeared first on SecurityWeek .",
+      "published": "Fri, 23 Jan 2026 14:00:07 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "In Other News: €1.2B GDPR Fines, Net-NTLMv1 Rainbow Tables, Rockwell Security Notice",
+      "link": "https://www.securityweek.com/in-other-news-e1-2b-gdpr-fines-net-ntlmv1-rainbow-tables-rockwell-security-notice/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Cloudflare WAF bypass, Canonical Snap Store abused for malware delivery, Curl terminating bug bounty program The post In Other News: €1.2B GDPR Fines, Net-NTLMv1 Rainbow Tables, Rockwell Security Notice appeared first on SecurityWeek .",
+      "published": "Fri, 23 Jan 2026 13:53:29 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Phishers Abuse SharePoint in New Campaign Targeting Energy Sector",
+      "link": "https://www.securityweek.com/phishers-abuse-sharepoint-in-new-campaign-targeting-energy-sector/",
+      "summary": "Threat actors are leveraging the file-sharing service for payload delivery in AitM phishing and BEC attacks. The post Phishers Abuse SharePoint in New Campaign Targeting Energy Sector appeared first on SecurityWeek .",
+      "published": "Fri, 23 Jan 2026 13:19:11 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Cyber Insights 2026: Regulations and the Tangled Mess of Compliance Requirements",
       "link": "https://www.securityweek.com/cyber-insights-2026-regulations-and-the-tangled-mess-of-compliance-requirements/",
       "summary": "Cyber regulations are where politics meets business – where business becomes subject to political realities. The post Cyber Insights 2026: Regulations and the Tangled Mess of Compliance Requirements appeared first on SecurityWeek .",
@@ -453,35 +490,6 @@
       "value_score": 31,
       "value_signals": [
         "Auth bypass",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "2 Venezuelans Convicted in US for Using Malware to Hack ATMs",
-      "link": "https://www.securityweek.com/2-venezuelans-convicted-in-us-for-using-malware-to-hack-atms/",
-      "summary": "Dozens of Venezuelan nationals have been charged by the US for their role in ATM jackpotting attacks. The post 2 Venezuelans Convicted in US for Using Malware to Hack ATMs appeared first on SecurityWeek .",
-      "published": "Fri, 23 Jan 2026 09:05:58 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "The Upside Down is Real: What Stranger Things Teaches Us About Modern Cybersecurity",
-      "link": "https://www.securityweek.com/the-upside-down-is-real-what-stranger-things-teaches-us-about-modern-cybersecurity/",
-      "summary": "To all those who are fighting the good fight in the world of cyber, keep collaborating to ensure our world never succumbs to the chaos of the Upside Down. The post The Upside Down is Real: What Stranger Things Teaches Us About Modern Cybersecurity appeared first on SecurityWeek .",
-      "published": "Thu, 22 Jan 2026 16:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Old Attack, New Speed: Researchers Optimize Page Cache Exploits",
-      "link": "https://www.securityweek.com/old-attack-new-speed-researchers-optimize-page-cache-exploits/",
-      "summary": "A team of researchers from the Graz University of Technology in Austria has revived page Linux page cache attacks. The post Old Attack, New Speed: Researchers Optimize Page Cache Exploits appeared first on SecurityWeek .",
-      "published": "Thu, 22 Jan 2026 15:05:28 +0000",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },

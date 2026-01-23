@@ -165,7 +165,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 444,
+      "count": 445,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1347,7 +1347,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1592,7 +1592,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2326,7 +2326,7 @@
       ]
     },
     "internal network behind": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3765,7 +3765,7 @@
       ]
     },
     "phishing campaign zeroes": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-22",
         "2026-01-23"
@@ -3850,21 +3850,21 @@
       ]
     },
     "business without slowing": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-22",
         "2026-01-23"
       ]
     },
     "single automation system": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-22",
         "2026-01-23"
       ]
     },
     "johnson controls inc": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-22",
         "2026-01-23"
@@ -3918,19 +3918,19 @@
       ]
     },
     "ai slop reports": {
-      "count": 6,
-      "dates": [
-        "2026-01-23"
-      ]
-    },
-    "scream europe frets": {
       "count": 7,
       "dates": [
         "2026-01-23"
       ]
     },
+    "scream europe frets": {
+      "count": 8,
+      "dates": [
+        "2026-01-23"
+      ]
+    },
     "growing across europe": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-23"
       ]
@@ -3954,25 +3954,25 @@
       ]
     },
     "multi stage adversary": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-23"
       ]
     },
     "persistent remote access": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-23"
       ]
     },
     "executive order signed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-23"
       ]
     },
     "leverages stolen credentials": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-23"
       ]
@@ -3982,20 +3982,39 @@
       "dates": [
         "2026-01-23"
       ]
+    },
+    "phishers abuse sharepoint": {
+      "count": 1,
+      "dates": [
+        "2026-01-23"
+      ]
+    },
+    "sso login vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-01-23"
+      ]
+    },
+    "ipad devices due": {
+      "count": 1,
+      "dates": [
+        "2026-01-23"
+      ]
+    },
+    "attacks bypass authentication": {
+      "count": 1,
+      "dates": [
+        "2026-01-23"
+      ]
+    },
+    "patched devices similar": {
+      "count": 1,
+      "dates": [
+        "2026-01-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-15 06:27",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "twitter whistleblower complaint",
-        "researchers null route",
-        "malicious cyber actors",
-        "legitimate binary associated"
-      ]
-    },
     {
       "timestamp": "2026-01-15 08:25",
       "articles": 56,
@@ -5083,6 +5102,17 @@
         "hack atms dozens",
         "executive order signed",
         "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-01-23 14:21",
+      "articles": 56,
+      "top_keywords": [
+        "phishers abuse sharepoint",
+        "single automation system",
+        "executive order signed",
+        "persistent remote access",
+        "sso login vulnerabilities"
       ]
     }
   ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-23 12:37 UTC |
+| 🕐 Last Updated | 2026-01-23 14:21 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`2 venezuelans convicted` • `persistent remote access` • `hack atms dozens` • `executive order signed` • `sprawling phishing campaign` • `phishing campaign zeroes` • `deliver phishing payloads` • `leverages stolen credentials` • `cyber keep collaborating` • `twitter whistleblower complaint`
+`phishers abuse sharepoint` • `single automation system` • `executive order signed` • `persistent remote access` • `sso login vulnerabilities` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `rated 9 8` • `phishing campaign zeroes` • `multi stage adversary`
 
 ## 📄 Reports
 

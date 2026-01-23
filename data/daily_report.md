@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-23 12:37 UTC  
+> **Last Updated:** 2026-01-23 14:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2 venezuelans convicted** • **persistent remote access** • **hack atms dozens** • **executive order signed** • **sprawling phishing campaign** • **phishing campaign zeroes** • **deliver phishing payloads** • **leverages stolen credentials** • **cyber keep collaborating** • **twitter whistleblower complaint** • **single automation system** • **rated 9 8** • **multi stage adversary** • **johnson controls inc** • **deceive unsuspecting users** • **business without slowing** • **ai features microsoft** • **authentication bypass vulnerability** • **windows 11 insiders** • **scream europe frets**
+**phishers abuse sharepoint** • **single automation system** • **executive order signed** • **persistent remote access** • **sso login vulnerabilities** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **rated 9 8** • **phishing campaign zeroes** • **multi stage adversary** • **leverages stolen credentials** • **johnson controls inc** • **ipad devices due** • **business without slowing** • **ai slop reports** • **scream europe frets** • **growing across europe** • **attacks bypass authentication** • **patched devices similar** • **internal network behind**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls](https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html)
 - [TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html)
 - [Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access](https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html)
 - [Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms](https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html)
@@ -23,18 +24,17 @@
 - [Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access](https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html)
 - [ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html)
 - [Filling the Most Common Gaps in Google Workspace Security](https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html)
-- [Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts](https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html)
 
 ### BleepingComputer
 
+- [Microsoft: Outlook for iOS crashes, freezes due to coding error](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/)
+- [Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026](https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/)
 - [Fortinet confirms critical FortiCloud auth bypass not fully patched](https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/)
 - [Okta SSO accounts targeted in vishing-based data theft attacks](https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/)
 - [Curl ending bug bounty program after flood of AI slop reports](https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/)
 - [SmarterMail auth bypass flaw now exploited to hijack admin accounts](https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/)
 - [Microsoft Teams to add brand impersonation warnings to calls](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/)
 - [INC ransomware opsec fail allowed data recovery for 12 US orgs](https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/)
-- [Why Active Directory password resets are surging in hybrid work](https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/)
-- [Microsoft updates Notepad and Paint with more AI features](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices](https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/)
+- [In Other News: €1.2B GDPR Fines, Net-NTLMv1 Rainbow Tables, Rockwell Security Notice](https://www.securityweek.com/in-other-news-e1-2b-gdpr-fines-net-ntlmv1-rainbow-tables-rockwell-security-notice/)
+- [Phishers Abuse SharePoint in New Campaign Targeting Energy Sector](https://www.securityweek.com/phishers-abuse-sharepoint-in-new-campaign-targeting-energy-sector/)
 - [Cyber Insights 2026: Regulations and the Tangled Mess of Compliance Requirements](https://www.securityweek.com/cyber-insights-2026-regulations-and-the-tangled-mess-of-compliance-requirements/)
 - [Under Armour Looking Into Data Breach Affecting Customers’ Email Addresses](https://www.securityweek.com/under-armour-looking-into-data-breach-affecting-customers-email-addresses/)
 - [Organizations Warned of Exploited Zimbra Collaboration Vulnerability](https://www.securityweek.com/organizations-warned-of-exploited-zimbra-collaboration-vulnerability/)
 - [Infotainment, EV Charger Exploits Earn Hackers $1M at Pwn2Own Automotive 2026](https://www.securityweek.com/infotainment-ev-charger-exploits-earn-hackers-1m-at-pwn2own-automotive-2026/)
 - [Fresh SmarterMail Flaw Exploited for Admin Access](https://www.securityweek.com/fresh-smartermail-flaw-exploited-for-admin-access/)
-- [2 Venezuelans Convicted in US for Using Malware to Hack ATMs](https://www.securityweek.com/2-venezuelans-convicted-in-us-for-using-malware-to-hack-atms/)
-- [The Upside Down is Real: What Stranger Things Teaches Us About Modern Cybersecurity](https://www.securityweek.com/the-upside-down-is-real-what-stranger-things-teaches-us-about-modern-cybersecurity/)
-- [Old Attack, New Speed: Researchers Optimize Page Cache Exploits](https://www.securityweek.com/old-attack-new-speed-researchers-optimize-page-cache-exploits/)
 
 ### Threatpost
 

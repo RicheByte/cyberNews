@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23 18:26",
+  "last_updated": "2026-01-23 20:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "single automation system",
     "executive order signed",
     "executive order 14144",
-    "sso login vulnerabilities",
+    "persistent remote access",
+    "malicious cyber actors",
     "windows operating systems",
     "widely available products",
     "twitter whistleblower complaint",
     "rated 9 8",
-    "persistent remote access",
     "multi stage adversary",
-    "leverages stolen credentials",
+    "known technique referred",
     "ipad devices due",
-    "ai slop reports",
     "scream europe frets",
     "growing across europe",
     "sprawling phishing campaign",
+    "sport remote connectivity",
+    "cvss scoring system",
     "patched devices similar",
-    "internal network behind",
-    "effective security culture"
+    "internal network behind"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "single automation system",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "executive order signed",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 1
-    },
-    {
-      "keyword": "sso login vulnerabilities",
-      "mentions": 3
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 169
-    },
-    {
-      "keyword": "widely available products",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 447
-    },
-    {
-      "keyword": "rated 9 8",
-      "mentions": 35
+      "mentions": 2
     },
     {
       "keyword": "persistent remote access",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 192
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 170
+    },
+    {
+      "keyword": "widely available products",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 448
+    },
+    {
+      "keyword": "rated 9 8",
+      "mentions": 36
     }
   ],
   "articles": [
@@ -161,6 +161,27 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Malicious AI extensions on VSCode Marketplace steal developer data",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/",
+      "summary": "Two malicious extensions in Microsoft's Visual Studio Code (VSCode) Marketplace that were collectively installed 1.5 million times, exfiltrate developer data to China-based servers. [...]",
+      "published": "Fri, 23 Jan 2026 15:11:58 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA confirms active exploitation of four enterprise software bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) in the U.S. warned of active exploitation of four vulnerabilities impacting enterprise software from Versa and Zimbra, the Vite frontend tooling framework, and the Prettier code formatter. [...]",
+      "published": "Fri, 23 Jan 2026 13:47:31 -0500",
+      "value_score": 56,
+      "value_signals": [
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "US to deport Venezuelans who emptied bank ATMs using malware",
       "link": "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/",
       "summary": "South Carolina federal prosecutors announced that two Venezuelan nationals convicted of stealing hundreds of thousands of dollars from U.S. banks in an ATM jackpotting scheme will be deported after serving their sentences. [...]",
@@ -224,26 +245,6 @@
         "Auth bypass ×2",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Okta SSO accounts targeted in vishing-based data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/",
-      "summary": "Okta is warning about custom phishing kits built specifically for voice-based social engineering (vishing) attacks. BleepingComputer has learned that these kits are being used in active attacks to steal Okta SSO credentials for data theft. [...]",
-      "published": "Thu, 22 Jan 2026 16:43:43 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Curl ending bug bounty program after flood of AI slop reports",
-      "link": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
-      "summary": "The developer of the popular curl command-line utility and library announced that the project will end its HackerOne security bug bounty program at the end of this month, after being overwhelmed by low-quality AI-generated vulnerability reports. [...]",
-      "published": "Thu, 22 Jan 2026 14:01:36 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -345,10 +346,12 @@
       "source": "Dark Reading",
       "title": "Risky Chinese Electric Buses Spark Aussie Gov't Review",
       "link": "https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt",
-      "summary": "Deployed across Australia and Europe, China's electric buses are vulnerable to cybercriminals and sport a remote connection some worry the Chinese state could activate.",
+      "summary": "Deployed across Australia and Europe, China's electric buses are vulnerable to cybercriminals and sport remote connectivity some worry the Chinese state could exploit.",
       "published": "Thu, 22 Jan 2026 22:13:49 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -392,23 +395,21 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Dark Reading Confidential: Reviving the Hacker Ethos That Built Cybersecurity",
+      "link": "https://www.darkreading.com/cybersecurity-operations/untitled",
+      "summary": "Dark Reading Confidential Episode 14: How curious, ethical problem solving can continue to serve as a guiding principle for an evolving cybersecurity sector.",
+      "published": "Thu, 22 Jan 2026 00:24:21 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Agents Undermine Progress in Browser Security",
       "link": "https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security",
       "summary": "Web browser companies have put in substantial effort over the past three decades to strengthen the browser security stack against abuses. Agentic browsers are undoing all that work.",
       "published": "Wed, 21 Jan 2026 23:06:50 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Contagious Interview' Attack Now Delivers Backdoor Via VS Code",
-      "link": "https://www.darkreading.com/cyber-risk/contagious-interview-attack-delivers-backdoor",
-      "summary": "Once trust is granted to the repository's author, a malicious app executes arbitrary commands on the victim's system with no other user interaction.",
-      "published": "Wed, 21 Jan 2026 22:00:37 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "Security Week",
@@ -582,6 +583,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/01/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-37079 Broadcom VMware vCenter Server Out-of-bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
+      "published": "Fri, 23 Jan 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Product Categories for Technologies That Use Post-Quantum Cryptography Standards",
       "link": "https://www.cisa.gov/resources-tools/resources/product-categories-technologies-use-post-quantum-cryptography-standards",
       "summary": "Executive Summary In response to the June 6, 2025, Executive Order (EO) 14306, “Sustaining Select Efforts to Strengthen the Nation’s Cybersecurity and Amending Executive Order 13694 and Executive Order 14144,” the Cybersecurity and Infrastructure Security Agency (CISA) is providing and regularly updating the below lists to aid in post-quantum cryptography (PQC) adoption. The lists include hardware and software categories with example types of widely available products that use PQC standards to p",
@@ -672,20 +687,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Weintek cMT X Series HMI EasyWeb Service",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-05",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a low-level user to alter privileges and gain full control to the device. The following versions of Weintek cMT X Series HMI EasyWeb Service are affected: cMT3072XH (CVE-2025-14750, CVE-2025-14751) cMT3072XH(T) (CVE-2025-14750, CVE-2025-14751) cMT-SVRX-820 (CVE-2025-14750, CVE-2025-14751) cMT-CTRL01 (CVE-2025-14750, CVE-2025-14751) CVSS Vendor Equipment Vulnerabilities v3 8.3 Weintek Weintek cMT X Series HMI EasyWeb S",
-      "published": "Thu, 22 Jan 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×8",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     }

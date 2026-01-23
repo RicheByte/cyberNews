@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-23 18:26 UTC  
+> **Last Updated:** 2026-01-23 20:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **single automation system** • **executive order signed** • **executive order 14144** • **sso login vulnerabilities** • **windows operating systems** • **widely available products** • **twitter whistleblower complaint** • **rated 9 8** • **persistent remote access** • **multi stage adversary** • **leverages stolen credentials** • **ipad devices due** • **ai slop reports** • **scream europe frets** • **growing across europe** • **sprawling phishing campaign** • **patched devices similar** • **internal network behind** • **effective security culture**
+**phishers abuse sharepoint** • **single automation system** • **executive order signed** • **executive order 14144** • **persistent remote access** • **malicious cyber actors** • **windows operating systems** • **widely available products** • **twitter whistleblower complaint** • **rated 9 8** • **multi stage adversary** • **known technique referred** • **ipad devices due** • **scream europe frets** • **growing across europe** • **sprawling phishing campaign** • **sport remote connectivity** • **cvss scoring system** • **patched devices similar** • **internal network behind**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Malicious AI extensions on VSCode Marketplace steal developer data](https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/)
+- [CISA confirms active exploitation of four enterprise software bugs](https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/)
 - [US to deport Venezuelans who emptied bank ATMs using malware](https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/)
 - [Hackers exploit critical telnetd auth bypass flaw to get root](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/)
 - [What an AI-Written Honeypot Taught Us About Trusting Machines](https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/)
 - [Microsoft: Outlook for iOS crashes, freezes due to coding error](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/)
 - [Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026](https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/)
 - [Fortinet confirms critical FortiCloud auth bypass not fully patched](https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/)
-- [Okta SSO accounts targeted in vishing-based data theft attacks](https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/)
-- [Curl ending bug bounty program after flood of AI slop reports](https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/)
 
 ### Krebs on Security
 
@@ -55,8 +55,8 @@
 - [From a Whisper to a Scream: Europe Frets About Overreliance on US Tech](https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech)
 - [Latin American Orgs Lack Confidence in Cyber Defenses, Skills](https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills)
 - [DPRK Actors Deploy VS Code Tunnels for Remote Hacking](https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking)
+- [Dark Reading Confidential: Reviving the Hacker Ethos That Built Cybersecurity](https://www.darkreading.com/cybersecurity-operations/untitled)
 - [AI Agents Undermine Progress in Browser Security](https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security)
-- ['Contagious Interview' Attack Now Delivers Backdoor Via VS Code](https://www.darkreading.com/cyber-risk/contagious-interview-attack-delivers-backdoor)
 
 ### Security Week
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/23/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Product Categories for Technologies That Use Post-Quantum Cryptography Standards](https://www.cisa.gov/resources-tools/resources/product-categories-technologies-use-post-quantum-cryptography-standards)
 - [Schneider Electric EcoStruxure Process Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-01)
 - [EVMAPA](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-08)
@@ -89,7 +90,6 @@
 - [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/22/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 - [Delta Electronics DIAView](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-07)
 - [Johnson Controls Inc. iSTAR Configuration Utility (ICU) tool](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-04)
-- [Weintek cMT X Series HMI EasyWeb Service](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-05)
 
 ---
 

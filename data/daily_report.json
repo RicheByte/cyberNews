@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-01-23 08:24",
+  "last_updated": "2026-01-23 10:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "2 venezuelans convicted",
     "january 15 2026",
+    "hack atms dozens",
     "malicious sso logins",
     "authentication bypass vulnerability",
+    "deliver phishing payloads",
     "ai features microsoft",
     "roughly 900 million",
-    "sprawling phishing campaign",
-    "phishing campaign zeroes",
     "twitter whistleblower complaint",
     "single automation system",
     "rated 9 8",
+    "multi stage adversary",
     "johnson controls inc",
     "deceive unsuspecting users",
     "business without slowing",
     "ai slop reports",
+    "sprawling phishing campaign",
+    "phishing campaign zeroes",
     "windows 11 insiders",
-    "scream europe frets",
-    "growing across europe",
-    "us tech concern",
-    "12 us orgs",
-    "internal network behind"
+    "scream europe frets"
   ],
   "trending": [
     {
+      "keyword": "2 venezuelans convicted",
+      "mentions": 1
+    },
+    {
       "keyword": "january 15 2026",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "hack atms dozens",
+      "mentions": 1
     },
     {
       "keyword": "malicious sso logins",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "authentication bypass vulnerability",
-      "mentions": 7
-    },
-    {
-      "keyword": "ai features microsoft",
-      "mentions": 10
-    },
-    {
-      "keyword": "roughly 900 million",
-      "mentions": 11
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 94
-    },
-    {
-      "keyword": "phishing campaign zeroes",
-      "mentions": 15
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 442
-    },
-    {
-      "keyword": "single automation system",
       "mentions": 8
     },
     {
-      "keyword": "rated 9 8",
-      "mentions": 30
+      "keyword": "deliver phishing payloads",
+      "mentions": 1
+    },
+    {
+      "keyword": "ai features microsoft",
+      "mentions": 11
+    },
+    {
+      "keyword": "roughly 900 million",
+      "mentions": 12
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 443
+    },
+    {
+      "keyword": "single automation system",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms",
+      "link": "https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html",
+      "summary": "Microsoft has warned of a multi‑stage adversary‑in‑the‑middle (AitM) phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector. \"The campaign abused SharePoint file‑sharing services to deliver phishing payloads and relied on inbox rule creation to maintain persistence and evade user awareness,\" the Microsoft Defender Security Research Team said.",
+      "published": "Fri, 23 Jan 2026 13:55:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
@@ -142,22 +153,6 @@
       "published": "Thu, 22 Jan 2026 11:25:00 +0530",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
-      "link": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
-      "summary": "Cisco has released fresh patches to address what it described as a \"critical\" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that it has been actively exploited as a zero-day in the wild. The vulnerability, CVE-2026-20045 (CVSS score: 8.2), could permit an unauthenticated remote attacker to execute arbitrary commands on the",
-      "published": "Thu, 22 Jan 2026 09:36:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Zero-day ×2",
-        "Active exploitation ×3",
-        "High severity",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     },
@@ -412,6 +407,15 @@
     },
     {
       "source": "Security Week",
+      "title": "2 Venezuelans Convicted in US for Using Malware to Hack ATMs",
+      "link": "https://www.securityweek.com/2-venezuelans-convicted-in-us-for-using-malware-to-hack-atms/",
+      "summary": "Dozens of Venezuelan nationals have been charged by the US for their role in ATM jackpotting attacks. The post 2 Venezuelans Convicted in US for Using Malware to Hack ATMs appeared first on SecurityWeek .",
+      "published": "Fri, 23 Jan 2026 09:05:58 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "The Upside Down is Real: What Stranger Things Teaches Us About Modern Cybersecurity",
       "link": "https://www.securityweek.com/the-upside-down-is-real-what-stranger-things-teaches-us-about-modern-cybersecurity/",
       "summary": "To all those who are fighting the good fight in the world of cyber, keep collaborating to ensure our world never succumbs to the chaos of the Upside Down. The post The Upside Down is Real: What Stranger Things Teaches Us About Modern Cybersecurity appeared first on SecurityWeek .",
@@ -474,17 +478,6 @@
       "published": "Thu, 22 Jan 2026 11:07:34 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Atlassian, GitLab, Zoom Release Security Patches",
-      "link": "https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/",
-      "summary": "Fixes were rolled out for over two dozen vulnerabilities, including critical- and high-severity bugs. The post Atlassian, GitLab, Zoom Release Security Patches appeared first on SecurityWeek .",
-      "published": "Thu, 22 Jan 2026 09:39:54 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Threatpost",

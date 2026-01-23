@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-23 08:24 UTC  
+> **Last Updated:** 2026-01-23 10:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**january 15 2026** • **malicious sso logins** • **authentication bypass vulnerability** • **ai features microsoft** • **roughly 900 million** • **sprawling phishing campaign** • **phishing campaign zeroes** • **twitter whistleblower complaint** • **single automation system** • **rated 9 8** • **johnson controls inc** • **deceive unsuspecting users** • **business without slowing** • **ai slop reports** • **windows 11 insiders** • **scream europe frets** • **growing across europe** • **us tech concern** • **12 us orgs** • **internal network behind**
+**2 venezuelans convicted** • **january 15 2026** • **hack atms dozens** • **malicious sso logins** • **authentication bypass vulnerability** • **deliver phishing payloads** • **ai features microsoft** • **roughly 900 million** • **twitter whistleblower complaint** • **single automation system** • **rated 9 8** • **multi stage adversary** • **johnson controls inc** • **deceive unsuspecting users** • **business without slowing** • **ai slop reports** • **sprawling phishing campaign** • **phishing campaign zeroes** • **windows 11 insiders** • **scream europe frets**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms](https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html)
 - [New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack](https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html)
 - [Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access](https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html)
 - [ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html)
@@ -23,7 +24,6 @@
 - [Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts](https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html)
 - [SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release](https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html)
 - [Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations](https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html)
-- [Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex](https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [2 Venezuelans Convicted in US for Using Malware to Hack ATMs](https://www.securityweek.com/2-venezuelans-convicted-in-us-for-using-malware-to-hack-atms/)
 - [The Upside Down is Real: What Stranger Things Teaches Us About Modern Cybersecurity](https://www.securityweek.com/the-upside-down-is-real-what-stranger-things-teaches-us-about-modern-cybersecurity/)
 - [Old Attack, New Speed: Researchers Optimize Page Cache Exploits](https://www.securityweek.com/old-attack-new-speed-researchers-optimize-page-cache-exploits/)
 - [Webinar Today: Rethinking Email Security for Mid-Sized Organizations](https://www.securityweek.com/webinar-today-rethinking-email-security-for-mid-sized-organizations/)
@@ -67,7 +68,6 @@
 - [New Wave of Attacks Targeting FortiGate Firewalls](https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/)
 - [Claroty Raises $150 Million in Series F Funding](https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/)
 - [Furl Raises $10 Million for Autonomous Vulnerability Remediation](https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/)
-- [Atlassian, GitLab, Zoom Release Security Patches](https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/)
 
 ### Threatpost
 

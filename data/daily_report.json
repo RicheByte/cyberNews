@@ -1,12 +1,15 @@
 {
-  "last_updated": "2026-01-23 16:24",
+  "last_updated": "2026-01-23 18:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "phishers abuse sharepoint",
     "single automation system",
     "executive order signed",
+    "executive order 14144",
     "sso login vulnerabilities",
+    "windows operating systems",
+    "widely available products",
     "twitter whistleblower complaint",
     "rated 9 8",
     "persistent remote access",
@@ -14,56 +17,53 @@
     "leverages stolen credentials",
     "ipad devices due",
     "ai slop reports",
-    "critical security flaw",
     "scream europe frets",
     "growing across europe",
     "sprawling phishing campaign",
-    "phishing campaign zeroes",
-    "national security risk",
-    "bypassing security perimeters",
     "patched devices similar",
-    "internal network behind"
+    "internal network behind",
+    "effective security culture"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "single automation system",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "executive order signed",
-      "mentions": 3
-    },
-    {
-      "keyword": "sso login vulnerabilities",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 446
-    },
-    {
-      "keyword": "rated 9 8",
-      "mentions": 34
-    },
-    {
-      "keyword": "persistent remote access",
-      "mentions": 3
-    },
-    {
-      "keyword": "multi stage adversary",
       "mentions": 4
     },
     {
-      "keyword": "leverages stolen credentials",
+      "keyword": "executive order 14144",
+      "mentions": 1
+    },
+    {
+      "keyword": "sso login vulnerabilities",
       "mentions": 3
     },
     {
-      "keyword": "ipad devices due",
-      "mentions": 2
+      "keyword": "windows operating systems",
+      "mentions": 169
+    },
+    {
+      "keyword": "widely available products",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 447
+    },
+    {
+      "keyword": "rated 9 8",
+      "mentions": 35
+    },
+    {
+      "keyword": "persistent remote access",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -161,6 +161,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "US to deport Venezuelans who emptied bank ATMs using malware",
+      "link": "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/",
+      "summary": "South Carolina federal prosecutors announced that two Venezuelan nationals convicted of stealing hundreds of thousands of dollars from U.S. banks in an ATM jackpotting scheme will be deported after serving their sentences. [...]",
+      "published": "Fri, 23 Jan 2026 11:38:54 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers exploit critical telnetd auth bypass flaw to get root",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/",
       "summary": "A coordinated campaign has been observed targeting a recently disclosed critical-severity vulnerability that has been present in the GNU InetUtils telnetd server for 11 years. [...]",
@@ -235,18 +244,6 @@
       "published": "Thu, 22 Jan 2026 14:01:36 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SmarterMail auth bypass flaw now exploited to hijack admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/",
-      "summary": "Hackers began exploiting an authentication bypass vulnerability in SmarterTools' SmarterMail email server and collaboration tool that allows resetting admin passwords. [...]",
-      "published": "Thu, 22 Jan 2026 13:44:21 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Auth bypass ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -337,6 +334,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Healthy Security Cultures Thrive on Risk Reporting",
+      "link": "https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting",
+      "summary": "The signs of an effective security culture are shifting as companies call on CISOs and security teams to raise their hands unabashedly.",
+      "published": "Fri, 23 Jan 2026 16:45:35 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Risky Chinese Electric Buses Spark Aussie Gov't Review",
       "link": "https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt",
       "summary": "Deployed across Australia and Europe, China's electric buses are vulnerable to cybercriminals and sport a remote connection some worry the Chinese state could activate.",
@@ -402,17 +408,6 @@
       "value_score": 22,
       "value_signals": [
         "Backdoor"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Phishing Campaign Zeroes in on LastPass Customers",
-      "link": "https://www.darkreading.com/application-security/phishing-campaign-zeroes-lastpass-customers",
-      "summary": "The bait incudes plausible subject lines and credible messages, most likely thanks to attackers' use of large language models to craft them.",
-      "published": "Wed, 21 Jan 2026 20:22:02 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {
@@ -587,17 +582,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Rockwell Automation CompactLogix 5370",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition. The following versions of Rockwell Automation CompactLogix 5370 are affected: CompactLogix 5370 (CVE-2025-11743) CompactLogix 5370 (CVE-2025-11743) CompactLogix 5370 (CVE-2025-11743) CVSS Vendor Equipment Vulnerabilities v3 6.5 Rockwell Automation Rockwell Automation CompactLogix 5370 Improper Validation of Specified Quantity in Input Background Critical Infrastructure ",
-      "published": "Thu, 22 Jan 26 12:00:00 +0000",
-      "value_score": 97,
+      "title": "Product Categories for Technologies That Use Post-Quantum Cryptography Standards",
+      "link": "https://www.cisa.gov/resources-tools/resources/product-categories-technologies-use-post-quantum-cryptography-standards",
+      "summary": "Executive Summary In response to the June 6, 2025, Executive Order (EO) 14306, “Sustaining Select Efforts to Strengthen the Nation’s Cybersecurity and Amending Executive Order 13694 and Executive Order 14144,” the Cybersecurity and Infrastructure Security Agency (CISA) is providing and regularly updating the below lists to aid in post-quantum cryptography (PQC) adoption. The lists include hardware and software categories with example types of widely available products that use PQC standards to p",
+      "published": "Fri, 23 Jan 26 12:00:00 +0000",
+      "value_score": 55,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
+        "CISA/KEV"
       ]
     },
     {
@@ -628,14 +620,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Weintek cMT X Series HMI EasyWeb Service",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-05",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a low-level user to alter privileges and gain full control to the device. The following versions of Weintek cMT X Series HMI EasyWeb Service are affected: cMT3072XH (CVE-2025-14750, CVE-2025-14751) cMT3072XH(T) (CVE-2025-14750, CVE-2025-14751) cMT-SVRX-820 (CVE-2025-14750, CVE-2025-14751) cMT-CTRL01 (CVE-2025-14750, CVE-2025-14751) CVSS Vendor Equipment Vulnerabilities v3 8.3 Weintek Weintek cMT X Series HMI EasyWeb S",
+      "title": "Rockwell Automation CompactLogix 5370",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition. The following versions of Rockwell Automation CompactLogix 5370 are affected: CompactLogix 5370 (CVE-2025-11743) CompactLogix 5370 (CVE-2025-11743) CompactLogix 5370 (CVE-2025-11743) CVSS Vendor Equipment Vulnerabilities v3 6.5 Rockwell Automation Rockwell Automation CompactLogix 5370 Improper Validation of Specified Quantity in Input Background Critical Infrastructure ",
       "published": "Thu, 22 Jan 26 12:00:00 +0000",
-      "value_score": 89,
+      "value_score": 97,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×8",
+        "CVE mentioned ×3",
+        "High severity",
         "Multiple CVEs",
         "Exploit wording"
       ]
@@ -684,14 +677,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "AutomationDirect CLICK Programmable Logic Controller",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-02",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to impersonate users, escalate privileges, gain unauthorized access to systems and services, and decrypt sensitive data. The following versions of AutomationDirect CLICK Programmable Logic Controller are affected: CLICK Programmable Logic Controller (CVE-2025-67652, CVE-2025-25051) CLICK Programmable Logic Controller (CVE-2025-67652, CVE-2025-25051) CLICK Programmable Logic Controller (CVE-2025-67652, CVE-",
+      "title": "Weintek cMT X Series HMI EasyWeb Service",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-05",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a low-level user to alter privileges and gain full control to the device. The following versions of Weintek cMT X Series HMI EasyWeb Service are affected: cMT3072XH (CVE-2025-14750, CVE-2025-14751) cMT3072XH(T) (CVE-2025-14750, CVE-2025-14751) cMT-SVRX-820 (CVE-2025-14750, CVE-2025-14751) cMT-CTRL01 (CVE-2025-14750, CVE-2025-14751) CVSS Vendor Equipment Vulnerabilities v3 8.3 Weintek Weintek cMT X Series HMI EasyWeb S",
       "published": "Thu, 22 Jan 26 12:00:00 +0000",
       "value_score": 89,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×5",
+        "CVE mentioned ×8",
         "Multiple CVEs",
         "Exploit wording"
       ]

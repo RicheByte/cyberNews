@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-23 16:24 UTC  
+> **Last Updated:** 2026-01-23 18:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **single automation system** • **executive order signed** • **sso login vulnerabilities** • **twitter whistleblower complaint** • **rated 9 8** • **persistent remote access** • **multi stage adversary** • **leverages stolen credentials** • **ipad devices due** • **ai slop reports** • **critical security flaw** • **scream europe frets** • **growing across europe** • **sprawling phishing campaign** • **phishing campaign zeroes** • **national security risk** • **bypassing security perimeters** • **patched devices similar** • **internal network behind**
+**phishers abuse sharepoint** • **single automation system** • **executive order signed** • **executive order 14144** • **sso login vulnerabilities** • **windows operating systems** • **widely available products** • **twitter whistleblower complaint** • **rated 9 8** • **persistent remote access** • **multi stage adversary** • **leverages stolen credentials** • **ipad devices due** • **ai slop reports** • **scream europe frets** • **growing across europe** • **sprawling phishing campaign** • **patched devices similar** • **internal network behind** • **effective security culture**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [US to deport Venezuelans who emptied bank ATMs using malware](https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/)
 - [Hackers exploit critical telnetd auth bypass flaw to get root](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/)
 - [What an AI-Written Honeypot Taught Us About Trusting Machines](https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/)
 - [Microsoft: Outlook for iOS crashes, freezes due to coding error](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/)
@@ -34,7 +35,6 @@
 - [Fortinet confirms critical FortiCloud auth bypass not fully patched](https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/)
 - [Okta SSO accounts targeted in vishing-based data theft attacks](https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/)
 - [Curl ending bug bounty program after flood of AI slop reports](https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/)
-- [SmarterMail auth bypass flaw now exploited to hijack admin accounts](https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Healthy Security Cultures Thrive on Risk Reporting](https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting)
 - [Risky Chinese Electric Buses Spark Aussie Gov't Review](https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt)
 - [Fortinet Firewalls Hit With Malicious Configuration Changes](https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes)
 - [From a Whisper to a Scream: Europe Frets About Overreliance on US Tech](https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech)
@@ -56,7 +57,6 @@
 - [DPRK Actors Deploy VS Code Tunnels for Remote Hacking](https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking)
 - [AI Agents Undermine Progress in Browser Security](https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security)
 - ['Contagious Interview' Attack Now Delivers Backdoor Via VS Code](https://www.darkreading.com/cyber-risk/contagious-interview-attack-delivers-backdoor)
-- [Phishing Campaign Zeroes in on LastPass Customers](https://www.darkreading.com/application-security/phishing-campaign-zeroes-lastpass-customers)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [Rockwell Automation CompactLogix 5370](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-03)
+- [Product Categories for Technologies That Use Post-Quantum Cryptography Standards](https://www.cisa.gov/resources-tools/resources/product-categories-technologies-use-post-quantum-cryptography-standards)
 - [Schneider Electric EcoStruxure Process Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-01)
 - [EVMAPA](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-08)
-- [Weintek cMT X Series HMI EasyWeb Service](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-05)
+- [Rockwell Automation CompactLogix 5370](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-03)
 - [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/22/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 - [Delta Electronics DIAView](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-07)
 - [Johnson Controls Inc. iSTAR Configuration Utility (ICU) tool](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-04)
-- [AutomationDirect CLICK Programmable Logic Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-02)
+- [Weintek cMT X Series HMI EasyWeb Service](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-05)
 
 ---
 

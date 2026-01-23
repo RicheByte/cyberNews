@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-23 16:24 UTC |
+| 🕐 Last Updated | 2026-01-23 18:26 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`phishers abuse sharepoint` • `single automation system` • `executive order signed` • `sso login vulnerabilities` • `twitter whistleblower complaint` • `rated 9 8` • `persistent remote access` • `multi stage adversary` • `leverages stolen credentials` • `ipad devices due`
+`phishers abuse sharepoint` • `single automation system` • `executive order signed` • `executive order 14144` • `sso login vulnerabilities` • `windows operating systems` • `widely available products` • `twitter whistleblower complaint` • `rated 9 8` • `persistent remote access`
 
 ## 📄 Reports
 

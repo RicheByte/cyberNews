@@ -140,7 +140,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -161,11 +161,12 @@
         "2026-01-19",
         "2026-01-20",
         "2026-01-21",
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-23"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 446,
+      "count": 447,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1349,7 +1350,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 98,
+      "count": 99,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1594,7 +1595,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2328,7 +2329,7 @@
       ]
     },
     "internal network behind": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3859,7 +3860,7 @@
       ]
     },
     "single automation system": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-22",
         "2026-01-23"
@@ -3920,19 +3921,19 @@
       ]
     },
     "ai slop reports": {
-      "count": 8,
-      "dates": [
-        "2026-01-23"
-      ]
-    },
-    "scream europe frets": {
       "count": 9,
       "dates": [
         "2026-01-23"
       ]
     },
+    "scream europe frets": {
+      "count": 10,
+      "dates": [
+        "2026-01-23"
+      ]
+    },
     "growing across europe": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-23"
       ]
@@ -3956,25 +3957,25 @@
       ]
     },
     "multi stage adversary": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-23"
       ]
     },
     "persistent remote access": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-23"
       ]
     },
     "executive order signed": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-23"
       ]
     },
     "leverages stolen credentials": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-23"
       ]
@@ -3986,19 +3987,19 @@
       ]
     },
     "phishers abuse sharepoint": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-23"
       ]
     },
     "sso login vulnerabilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-23"
       ]
     },
     "ipad devices due": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-23"
       ]
@@ -4010,7 +4011,7 @@
       ]
     },
     "patched devices similar": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-23"
       ]
@@ -4020,20 +4021,27 @@
       "dates": [
         "2026-01-23"
       ]
+    },
+    "executive order 14144": {
+      "count": 1,
+      "dates": [
+        "2026-01-23"
+      ]
+    },
+    "widely available products": {
+      "count": 1,
+      "dates": [
+        "2026-01-23"
+      ]
+    },
+    "effective security culture": {
+      "count": 1,
+      "dates": [
+        "2026-01-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-15 10:19",
-      "articles": 56,
-      "top_keywords": [
-        "law enforcement authorities",
-        "windows operating systems",
-        "least 40 million",
-        "severe ai vulnerability",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-15 12:36",
       "articles": 56,
@@ -5121,6 +5129,17 @@
         "executive order signed",
         "sso login vulnerabilities",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-23 18:26",
+      "articles": 56,
+      "top_keywords": [
+        "phishers abuse sharepoint",
+        "single automation system",
+        "executive order signed",
+        "executive order 14144",
+        "sso login vulnerabilities"
       ]
     }
   ]

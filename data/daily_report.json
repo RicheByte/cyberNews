@@ -1,72 +1,86 @@
 {
-  "last_updated": "2026-01-23 14:21",
+  "last_updated": "2026-01-23 16:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "phishers abuse sharepoint",
     "single automation system",
     "executive order signed",
-    "persistent remote access",
     "sso login vulnerabilities",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
     "rated 9 8",
-    "phishing campaign zeroes",
+    "persistent remote access",
     "multi stage adversary",
     "leverages stolen credentials",
-    "johnson controls inc",
     "ipad devices due",
-    "business without slowing",
     "ai slop reports",
+    "critical security flaw",
     "scream europe frets",
     "growing across europe",
-    "attacks bypass authentication",
+    "sprawling phishing campaign",
+    "phishing campaign zeroes",
+    "national security risk",
+    "bypassing security perimeters",
     "patched devices similar",
     "internal network behind"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "single automation system",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "executive order signed",
-      "mentions": 2
-    },
-    {
-      "keyword": "persistent remote access",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "sso login vulnerabilities",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 445
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 97
+      "mentions": 446
     },
     {
       "keyword": "rated 9 8",
-      "mentions": 33
+      "mentions": 34
     },
     {
-      "keyword": "phishing campaign zeroes",
-      "mentions": 18
+      "keyword": "persistent remote access",
+      "mentions": 3
     },
     {
       "keyword": "multi stage adversary",
+      "mentions": 4
+    },
+    {
+      "keyword": "leverages stolen credentials",
       "mentions": 3
+    },
+    {
+      "keyword": "ipad devices due",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities",
+      "link": "https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2025-68645 (CVSS score: 8.8) - A PHP remote file inclusion vulnerability in Synacor Zimbra Collaboration Suite (ZCS) that could allow a",
+      "published": "Fri, 23 Jan 2026 20:54:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
@@ -146,13 +160,28 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Filling the Most Common Gaps in Google Workspace Security",
-      "link": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
-      "summary": "Security teams at agile, fast-growing companies often have the same mandate: secure the business without slowing it down. Most teams inherit a tech stack optimized for breakneck growth, not resilience. In these environments, the security team is the helpdesk, the compliance expert, and the incident response team all rolled into one. Securing the cloud office in this scenario is all about",
-      "published": "Thu, 22 Jan 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Hackers exploit critical telnetd auth bypass flaw to get root",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/",
+      "summary": "A coordinated campaign has been observed targeting a recently disclosed critical-severity vulnerability that has been present in the GNU InetUtils telnetd server for 11 years. [...]",
+      "published": "Fri, 23 Jan 2026 11:21:46 -0500",
+      "value_score": 47,
+      "value_signals": [
+        "Auth bypass",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "What an AI-Written Honeypot Taught Us About Trusting Machines",
+      "link": "https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/",
+      "summary": "AI-generated code can introduce subtle security flaws when teams over-trust automated output. Intruder shows how an AI-written honeypot introduced hidden vulnerabilities that were exploited in attacks. [...]",
+      "published": "Fri, 23 Jan 2026 09:59:58 -0500",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -217,26 +246,6 @@
       "value_signals": [
         "Auth bypass ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Teams to add brand impersonation warnings to calls",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/",
-      "summary": "Microsoft will soon add new fraud protection features to Teams calls, warning users about external callers who attempt to impersonate trusted organizations in social engineering attacks. [...]",
-      "published": "Thu, 22 Jan 2026 11:28:47 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "INC ransomware opsec fail allowed data recovery for 12 US orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/",
-      "summary": "An operational security failure allowed researchers to recover data that the INC ransomware gang stole from a dozen U.S. organizations. [...]",
-      "published": "Thu, 22 Jan 2026 11:21:17 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {
@@ -330,7 +339,7 @@
       "source": "Dark Reading",
       "title": "Risky Chinese Electric Buses Spark Aussie Gov't Review",
       "link": "https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt",
-      "summary": "Deployed across Australia and Europe, China's electric buses are vulnerable to cybercriminals and sport a virtual kill switch the Chinese state could activate.",
+      "summary": "Deployed across Australia and Europe, China's electric buses are vulnerable to cybercriminals and sport a remote connection some worry the Chinese state could activate.",
       "published": "Thu, 22 Jan 2026 22:13:49 GMT",
       "value_score": 10,
       "value_signals": []

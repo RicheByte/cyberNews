@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23 22:14",
+  "last_updated": "2026-01-24 01:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "single automation system",
     "executive order signed",
     "executive order 14144",
-    "persistent remote access",
     "malicious cyber actors",
+    "persistent remote access",
     "widely available products",
     "twitter whistleblower complaint",
+    "steal company data",
     "rated 9 8",
     "multi stage adversary",
     "known technique referred",
     "ipad devices due",
+    "emphasis shinyhunters claim",
     "automotive world 2026",
     "windows operating systems",
     "scream europe frets",
     "growing across europe",
     "sprawling phishing campaign",
-    "vehicle infotainment systems",
-    "sport remote connectivity",
-    "patched devices similar"
+    "vehicle infotainment systems"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "single automation system",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "executive order signed",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 3
-    },
-    {
-      "keyword": "persistent remote access",
-      "mentions": 6
+      "mentions": 4
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 193
+      "mentions": 194
+    },
+    {
+      "keyword": "persistent remote access",
+      "mentions": 7
     },
     {
       "keyword": "widely available products",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 449
+      "mentions": 450
+    },
+    {
+      "keyword": "steal company data",
+      "mentions": 1
     },
     {
       "keyword": "rated 9 8",
-      "mentions": 37
-    },
-    {
-      "keyword": "multi stage adversary",
-      "mentions": 7
+      "mentions": 38
     }
   ],
   "articles": [
@@ -161,6 +161,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ShinyHunters claim to be behind SSO-account data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/",
+      "summary": "The ShinyHunters extortion gang claims it is behind a wave of ongoing voice phishing attacks targeting single sign-on (SSO) accounts at Okta, Microsoft, and Google, enabling threat actors to breach corporate SaaS platforms and steal company data for extortion. [...]",
+      "published": "Fri, 23 Jan 2026 18:35:03 -0500",
+      "value_score": 30,
+      "value_signals": [
+        "Breach/leak",
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Malicious AI extensions on VSCode Marketplace steal developer data",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/",
       "summary": "Two malicious extensions in Microsoft's Visual Studio Code (VSCode) Marketplace that were collectively installed 1.5 million times, exfiltrate developer data to China-based servers. [...]",
@@ -232,18 +244,6 @@
       "value_signals": [
         "Zero-day",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fortinet confirms critical FortiCloud auth bypass not fully patched",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/",
-      "summary": "Days after admins began reporting that their fully patched firewalls are being hacked, Fortinet confirmed it's working to fully address a critical FortiCloud SSO authentication bypass vulnerability that should have already been patched since early December. [...]",
-      "published": "Fri, 23 Jan 2026 05:39:03 -0500",
-      "value_score": 56,
-      "value_signals": [
-        "Auth bypass ×2",
-        "High severity ×2"
       ]
     },
     {

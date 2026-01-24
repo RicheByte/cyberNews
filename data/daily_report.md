@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-23 22:14 UTC  
+> **Last Updated:** 2026-01-24 01:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **single automation system** • **executive order signed** • **executive order 14144** • **persistent remote access** • **malicious cyber actors** • **widely available products** • **twitter whistleblower complaint** • **rated 9 8** • **multi stage adversary** • **known technique referred** • **ipad devices due** • **automotive world 2026** • **windows operating systems** • **scream europe frets** • **growing across europe** • **sprawling phishing campaign** • **vehicle infotainment systems** • **sport remote connectivity** • **patched devices similar**
+**phishers abuse sharepoint** • **single automation system** • **executive order signed** • **executive order 14144** • **malicious cyber actors** • **persistent remote access** • **widely available products** • **twitter whistleblower complaint** • **steal company data** • **rated 9 8** • **multi stage adversary** • **known technique referred** • **ipad devices due** • **emphasis shinyhunters claim** • **automotive world 2026** • **windows operating systems** • **scream europe frets** • **growing across europe** • **sprawling phishing campaign** • **vehicle infotainment systems**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [ShinyHunters claim to be behind SSO-account data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/)
 - [Malicious AI extensions on VSCode Marketplace steal developer data](https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/)
 - [CISA confirms active exploitation of four enterprise software bugs](https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/)
 - [US to deport Venezuelans who emptied bank ATMs using malware](https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/)
@@ -34,7 +35,6 @@
 - [What an AI-Written Honeypot Taught Us About Trusting Machines](https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/)
 - [Microsoft: Outlook for iOS crashes, freezes due to coding error](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/)
 - [Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026](https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/)
-- [Fortinet confirms critical FortiCloud auth bypass not fully patched](https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/)
 
 ### Krebs on Security
 

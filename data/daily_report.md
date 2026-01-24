@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-24 10:17 UTC  
+> **Last Updated:** 2026-01-24 12:32 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **single automation system** • **applications ai agents** • **executive order signed** • **executive order 14144** • **persistent remote access** • **widely available products** • **twitter whistleblower complaint** • **steal company data** • **multi stage adversary** • **ipad devices due** • **automotive world 2026** • **windows operating systems** • **scream europe frets** • **malicious cyber actors** • **growing across europe** • **sprawling phishing campaign** • **fresh exploitation activity** • **vehicle infotainment systems** • **sport remote connectivity**
+**phishers abuse sharepoint** • **single automation system** • **applications ai agents** • **executive order signed** • **executive order 14144** • **persistent remote access** • **widely available products** • **twitter whistleblower complaint** • **steal company data** • **ipad devices due** • **automotive world 2026** • **windows operating systems** • **scream europe frets** • **malicious cyber actors** • **growing across europe** • **sprawling phishing campaign** • **fresh exploitation activity** • **vehicle infotainment systems** • **sport remote connectivity** • **effective security culture**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
 - [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html)
 - [Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html)
 - [CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html)
@@ -23,7 +24,6 @@
 - [Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls](https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html)
 - [TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html)
 - [Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access](https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html)
-- [Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms](https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html)
 
 ### BleepingComputer
 

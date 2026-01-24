@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-24 10:17 UTC |
+| 🕐 Last Updated | 2026-01-24 12:32 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`phishers abuse sharepoint` • `single automation system` • `applications ai agents` • `executive order signed` • `executive order 14144` • `persistent remote access` • `widely available products` • `twitter whistleblower complaint` • `steal company data` • `multi stage adversary`
+`phishers abuse sharepoint` • `single automation system` • `applications ai agents` • `executive order signed` • `executive order 14144` • `persistent remote access` • `widely available products` • `twitter whistleblower complaint` • `steal company data` • `ipad devices due`
 
 ## 📄 Reports
 

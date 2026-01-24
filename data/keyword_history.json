@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 201,
+      "count": 202,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -142,7 +142,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -169,7 +169,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 457,
+      "count": 458,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1354,7 +1354,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3867,7 +3867,7 @@
       ]
     },
     "single automation system": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -3935,14 +3935,14 @@
       ]
     },
     "scream europe frets": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-23",
         "2026-01-24"
       ]
     },
     "growing across europe": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-23",
         "2026-01-24"
@@ -3974,14 +3974,14 @@
       ]
     },
     "persistent remote access": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-23",
         "2026-01-24"
       ]
     },
     "executive order signed": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-23",
         "2026-01-24"
@@ -4000,7 +4000,7 @@
       ]
     },
     "phishers abuse sharepoint": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-23",
         "2026-01-24"
@@ -4013,7 +4013,7 @@
       ]
     },
     "ipad devices due": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-23",
         "2026-01-24"
@@ -4038,14 +4038,14 @@
       ]
     },
     "executive order 14144": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-23",
         "2026-01-24"
       ]
     },
     "widely available products": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-23",
         "2026-01-24"
@@ -4066,28 +4066,28 @@
       ]
     },
     "sport remote connectivity": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-23",
         "2026-01-24"
       ]
     },
     "automotive world 2026": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-23",
         "2026-01-24"
       ]
     },
     "vehicle infotainment systems": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-23",
         "2026-01-24"
       ]
     },
     "steal company data": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-24"
       ]
@@ -4099,30 +4099,25 @@
       ]
     },
     "applications ai agents": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-24"
       ]
     },
     "fresh exploitation activity": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2026-01-24"
+      ]
+    },
+    "complete system takeover": {
+      "count": 1,
       "dates": [
         "2026-01-24"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-16 08:23",
-      "articles": 56,
-      "top_keywords": [
-        "amd processors researchers",
-        "telecontrol server basic",
-        "maximum severity flaw",
-        "sinec security monitor",
-        "copilot studio extension"
-      ]
-    },
     {
       "timestamp": "2026-01-16 10:18",
       "articles": 56,
@@ -5203,6 +5198,17 @@
     },
     {
       "timestamp": "2026-01-24 14:15",
+      "articles": 56,
+      "top_keywords": [
+        "phishers abuse sharepoint",
+        "single automation system",
+        "applications ai agents",
+        "executive order signed",
+        "executive order 14144"
+      ]
+    },
+    {
+      "timestamp": "2026-01-24 16:19",
       "articles": 56,
       "top_keywords": [
         "phishers abuse sharepoint",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-24 14:15",
+  "last_updated": "2026-01-24 16:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -22,48 +22,48 @@
     "fresh exploitation activity",
     "vehicle infotainment systems",
     "sport remote connectivity",
-    "effective security culture"
+    "complete system takeover"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "single automation system",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "applications ai agents",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "executive order signed",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "persistent remote access",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "widely available products",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 457
+      "mentions": 458
     },
     {
       "keyword": "steal company data",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "ipad devices due",
-      "mentions": 13
+      "mentions": 14
     }
   ],
   "articles": [
@@ -161,6 +161,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Konni hackers target blockchain engineers with AI-built malware",
+      "link": "https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/",
+      "summary": "The North Korean hacker group Konni (Opal Sleet, TA406) is using AI-generated PowerShell malware to target developers and engineers in the blockchain sector. [...]",
+      "published": "Sat, 24 Jan 2026 10:23:46 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ShinyHunters claim to be behind SSO-account data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/",
       "summary": "The ShinyHunters extortion gang claims it is behind a wave of ongoing voice phishing attacks targeting single sign-on (SSO) accounts at Okta, Microsoft, and Google, enabling threat actors to breach corporate SaaS platforms and steal company data for extortion. [...]",
@@ -233,18 +242,6 @@
       "published": "Fri, 23 Jan 2026 08:34:25 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/",
-      "summary": "Pwn2Own Automotive 2026 has ended with security researchers earning $1,047,000 after exploiting 76 zero-day vulnerabilities between January 21 and January 23. [...]",
-      "published": "Fri, 23 Jan 2026 07:50:11 -0500",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -360,7 +357,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Healthy Security Cultures Thrive on Risk Reporting",
+      "title": "Healthy Security Cultures Want People to Report Risks",
       "link": "https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting",
       "summary": "The signs of an effective security culture are shifting as companies call on CISOs and security teams to raise their hands unabashedly.",
       "published": "Fri, 23 Jan 2026 16:45:35 GMT",

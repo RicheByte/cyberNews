@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-24 14:15 UTC  
+> **Last Updated:** 2026-01-24 16:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **single automation system** • **applications ai agents** • **executive order signed** • **executive order 14144** • **persistent remote access** • **widely available products** • **twitter whistleblower complaint** • **steal company data** • **ipad devices due** • **automotive world 2026** • **windows operating systems** • **scream europe frets** • **malicious cyber actors** • **growing across europe** • **sprawling phishing campaign** • **fresh exploitation activity** • **vehicle infotainment systems** • **sport remote connectivity** • **effective security culture**
+**phishers abuse sharepoint** • **single automation system** • **applications ai agents** • **executive order signed** • **executive order 14144** • **persistent remote access** • **widely available products** • **twitter whistleblower complaint** • **steal company data** • **ipad devices due** • **automotive world 2026** • **windows operating systems** • **scream europe frets** • **malicious cyber actors** • **growing across europe** • **sprawling phishing campaign** • **fresh exploitation activity** • **vehicle infotainment systems** • **sport remote connectivity** • **complete system takeover**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Konni hackers target blockchain engineers with AI-built malware](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/)
 - [ShinyHunters claim to be behind SSO-account data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/)
 - [Malicious AI extensions on VSCode Marketplace steal developer data](https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/)
 - [CISA confirms active exploitation of four enterprise software bugs](https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/)
@@ -34,7 +35,6 @@
 - [Hackers exploit critical telnetd auth bypass flaw to get root](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/)
 - [What an AI-Written Honeypot Taught Us About Trusting Machines](https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/)
 - [Microsoft: Outlook for iOS crashes, freezes due to coding error](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/)
-- [Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026](https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/)
 
 ### Krebs on Security
 
@@ -51,7 +51,7 @@
 
 - [Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles](https://www.darkreading.com/endpoint-security/researchers-find-new-ways-hack-vehicles)
 - [Exploited Zero-Day Flaw in Cisco UC Could Affect Millions](https://www.darkreading.com/endpoint-security/exploited-zero-day-flaw-cisco-uc-affect-millions)
-- [Healthy Security Cultures Thrive on Risk Reporting](https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting)
+- [Healthy Security Cultures Want People to Report Risks](https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting)
 - [Risky Chinese Electric Buses Spark Aussie Gov't Review](https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt)
 - [Fortinet Firewalls Hit With Malicious Configuration Changes](https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes)
 - [From a Whisper to a Scream: Europe Frets About Overreliance on US Tech](https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech)

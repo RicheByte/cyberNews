@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-24 20:17",
+  "last_updated": "2026-01-24 22:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,61 +9,61 @@
     "executive order signed",
     "executive order 14144",
     "persistent remote access",
+    "windows operating systems",
     "widely available products",
     "twitter whistleblower complaint",
     "steal company data",
-    "ipad devices due",
     "automotive world 2026",
-    "windows operating systems",
+    "vehicle infotainment systems",
     "scream europe frets",
     "malicious cyber actors",
     "growing across europe",
     "sprawling phishing campaign",
     "fresh exploitation activity",
-    "vehicle infotainment systems",
     "sport remote connectivity",
-    "complete system takeover"
+    "complete system takeover",
+    "recent data breach"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "single automation system",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "applications ai agents",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "executive order signed",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "persistent remote access",
-      "mentions": 17
+      "mentions": 18
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 183
     },
     {
       "keyword": "widely available products",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 460
+      "mentions": 461
     },
     {
       "keyword": "steal company data",
-      "mentions": 11
-    },
-    {
-      "keyword": "ipad devices due",
-      "mentions": 16
+      "mentions": 12
     }
   ],
   "articles": [
@@ -161,6 +161,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Sandworm hackers linked to failed wiper attack on Poland’s energy systems",
+      "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/",
+      "summary": "A cyberattack targeting Poland's power grid in late December 2025 has been linked to the Russian state-sponsored hacking group Sandworm, which attempted to deploy a new destructive data-wiping malware dubbed DynoWiper during the attack.. [...]",
+      "published": "Sat, 24 Jan 2026 16:58:42 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Konni hackers target blockchain engineers with AI-built malware",
       "link": "https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/",
       "summary": "The North Korean hacker group Konni (Opal Sleet, TA406) is using AI-generated PowerShell malware to target developers and engineers in the blockchain sector. [...]",
@@ -233,15 +242,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Outlook for iOS crashes, freezes due to coding error",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/",
-      "summary": "Microsoft confirmed today that Outlook mobile may crash or freeze when launched on iPad devices due to a coding error. [...]",
-      "published": "Fri, 23 Jan 2026 08:34:25 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

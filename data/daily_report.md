@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-24 20:17 UTC  
+> **Last Updated:** 2026-01-24 22:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **single automation system** • **applications ai agents** • **executive order signed** • **executive order 14144** • **persistent remote access** • **widely available products** • **twitter whistleblower complaint** • **steal company data** • **ipad devices due** • **automotive world 2026** • **windows operating systems** • **scream europe frets** • **malicious cyber actors** • **growing across europe** • **sprawling phishing campaign** • **fresh exploitation activity** • **vehicle infotainment systems** • **sport remote connectivity** • **complete system takeover**
+**phishers abuse sharepoint** • **single automation system** • **applications ai agents** • **executive order signed** • **executive order 14144** • **persistent remote access** • **windows operating systems** • **widely available products** • **twitter whistleblower complaint** • **steal company data** • **automotive world 2026** • **vehicle infotainment systems** • **scream europe frets** • **malicious cyber actors** • **growing across europe** • **sprawling phishing campaign** • **fresh exploitation activity** • **sport remote connectivity** • **complete system takeover** • **recent data breach**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Sandworm hackers linked to failed wiper attack on Poland’s energy systems](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/)
 - [Konni hackers target blockchain engineers with AI-built malware](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/)
 - [ShinyHunters claim to be behind SSO-account data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/)
 - [Malicious AI extensions on VSCode Marketplace steal developer data](https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/)
@@ -34,7 +35,6 @@
 - [US to deport Venezuelans who emptied bank ATMs using malware](https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/)
 - [Hackers exploit critical telnetd auth bypass flaw to get root](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/)
 - [What an AI-Written Honeypot Taught Us About Trusting Machines](https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/)
-- [Microsoft: Outlook for iOS crashes, freezes due to coding error](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/)
 
 ### Krebs on Security
 

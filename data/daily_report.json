@@ -1,72 +1,106 @@
 {
-  "last_updated": "2026-01-24 08:21",
+  "last_updated": "2026-01-24 10:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "phishers abuse sharepoint",
     "single automation system",
+    "applications ai agents",
     "executive order signed",
     "executive order 14144",
-    "malicious cyber actors",
     "persistent remote access",
     "widely available products",
     "twitter whistleblower complaint",
     "steal company data",
-    "rated 9 8",
     "multi stage adversary",
-    "known technique referred",
     "ipad devices due",
-    "emphasis shinyhunters claim",
     "automotive world 2026",
     "windows operating systems",
     "scream europe frets",
+    "malicious cyber actors",
     "growing across europe",
     "sprawling phishing campaign",
-    "vehicle infotainment systems"
+    "fresh exploitation activity",
+    "vehicle infotainment systems",
+    "sport remote connectivity"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "single automation system",
-      "mentions": 20
+      "mentions": 21
+    },
+    {
+      "keyword": "applications ai agents",
+      "mentions": 1
     },
     {
       "keyword": "executive order signed",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 8
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 198
+      "mentions": 9
     },
     {
       "keyword": "persistent remote access",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "widely available products",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 454
+      "mentions": 455
     },
     {
       "keyword": "steal company data",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "rated 9 8",
-      "mentions": 42
+      "keyword": "multi stage adversary",
+      "mentions": 13
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector",
+      "link": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html",
+      "summary": "The Russian nation-state hacking group known as Sandworm has been attributed to what has been described as the \"largest cyber attack\" targeting Poland's power system in the last week of December 2025. The attack was unsuccessful, the country's energy minister, Milosz Motyka, said last week. \"The command of the cyberspace forces has diagnosed in the last days of the year the strongest attack on",
+      "published": "Sat, 24 Jan 2026 13:51:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
+      "link": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
+      "summary": "AI agents are accelerating how work gets done. They schedule meetings, access data, trigger workflows, write code, and take action in real time, pushing productivity beyond human speed across the enterprise. Then comes the moment every security team eventually hits: “Wait… who approved this?” Unlike users or applications, AI agents are often deployed quickly, shared broadly,",
+      "published": "Sat, 24 Jan 2026 13:50:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
+      "link": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw affecting Broadcom VMware vCenter Server that was patched in June 2024 to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The vulnerability in question is CVE-2024-37079 (CVSS score: 9.8), which refers to a heap overflow in the",
+      "published": "Sat, 24 Jan 2026 13:39:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "CISA/KEV ×5",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities",
@@ -122,41 +156,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
-      "link": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new ransomware family called Osiris that targeted a major food service franchisee operator in Southeast Asia in November 2025. The attack leveraged a malicious driver called POORTRY as part of a known technique referred to as bring your own vulnerable driver (BYOVD) to disarm security software, the Symantec and Carbon Black Threat Hunter",
-      "published": "Thu, 22 Jan 2026 23:30:00 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
-      "link": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
-      "summary": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years. The vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0 on the CVSS scoring system. It affects all versions of GNU InetUtils from version 1.9.3 up to and including version 2.7. \"Telnetd in GNU Inetutils through 2.7 allows remote authentication bypass",
-      "published": "Thu, 22 Jan 2026 22:00:00 +0530",
-      "value_score": 59,
-      "value_signals": [
-        "CVE mentioned",
-        "Auth bypass",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
-      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
-      "summary": "Most of this week’s threats didn’t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows were enough to open doors without forcing them. What stands out is how little friction attackers now need. Some activity focused on quiet reach and coverage, others on timing and reuse. The emphasis",
-      "published": "Thu, 22 Jan 2026 19:53:00 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
       ]
     },
     {
@@ -420,6 +419,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Nike Probing Potential Security Incident as Hackers Threaten to Leak Data",
+      "link": "https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/",
+      "summary": "The WorldLeaks cybercrime group claims to have stolen information from the footwear and apparel giant’s systems. The post Nike Probing Potential Security Incident as Hackers Threaten to Leak Data appeared first on SecurityWeek .",
+      "published": "Sat, 24 Jan 2026 08:45:43 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices",
       "link": "https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/",
       "summary": "Similar to recent FortiCloud single sign-on (SSO) login vulnerabilities, the attacks bypass authentication. The post Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices appeared first on SecurityWeek .",
@@ -490,18 +500,6 @@
       "published": "Fri, 23 Jan 2026 11:33:22 +0000",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Fresh SmarterMail Flaw Exploited for Admin Access",
-      "link": "https://www.securityweek.com/fresh-smartermail-flaw-exploited-for-admin-access/",
-      "summary": "The exploitation of the authentication bypass vulnerability started two days after patches were released. The post Fresh SmarterMail Flaw Exploited for Admin Access appeared first on SecurityWeek .",
-      "published": "Fri, 23 Jan 2026 10:34:09 +0000",
-      "value_score": 31,
-      "value_signals": [
-        "Auth bypass",
         "Exploit wording"
       ]
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-24 08:21 UTC  
+> **Last Updated:** 2026-01-24 10:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **single automation system** • **executive order signed** • **executive order 14144** • **malicious cyber actors** • **persistent remote access** • **widely available products** • **twitter whistleblower complaint** • **steal company data** • **rated 9 8** • **multi stage adversary** • **known technique referred** • **ipad devices due** • **emphasis shinyhunters claim** • **automotive world 2026** • **windows operating systems** • **scream europe frets** • **growing across europe** • **sprawling phishing campaign** • **vehicle infotainment systems**
+**phishers abuse sharepoint** • **single automation system** • **applications ai agents** • **executive order signed** • **executive order 14144** • **persistent remote access** • **widely available products** • **twitter whistleblower complaint** • **steal company data** • **multi stage adversary** • **ipad devices due** • **automotive world 2026** • **windows operating systems** • **scream europe frets** • **malicious cyber actors** • **growing across europe** • **sprawling phishing campaign** • **fresh exploitation activity** • **vehicle infotainment systems** • **sport remote connectivity**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html)
+- [Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html)
+- [CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html)
 - [CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities](https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html)
 - [Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls](https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html)
 - [TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html)
 - [Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access](https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html)
 - [Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms](https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html)
-- [New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack](https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html)
-- [Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access](https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html)
-- [ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Nike Probing Potential Security Incident as Hackers Threaten to Leak Data](https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/)
 - [Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices](https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/)
 - [In Other News: €1.2B GDPR Fines, Net-NTLMv1 Rainbow Tables, Rockwell Security Notice](https://www.securityweek.com/in-other-news-e1-2b-gdpr-fines-net-ntlmv1-rainbow-tables-rockwell-security-notice/)
 - [Phishers Abuse SharePoint in New Campaign Targeting Energy Sector](https://www.securityweek.com/phishers-abuse-sharepoint-in-new-campaign-targeting-energy-sector/)
@@ -67,7 +68,6 @@
 - [Under Armour Looking Into Data Breach Affecting Customers’ Email Addresses](https://www.securityweek.com/under-armour-looking-into-data-breach-affecting-customers-email-addresses/)
 - [Organizations Warned of Exploited Zimbra Collaboration Vulnerability](https://www.securityweek.com/organizations-warned-of-exploited-zimbra-collaboration-vulnerability/)
 - [Infotainment, EV Charger Exploits Earn Hackers $1M at Pwn2Own Automotive 2026](https://www.securityweek.com/infotainment-ev-charger-exploits-earn-hackers-1m-at-pwn2own-automotive-2026/)
-- [Fresh SmarterMail Flaw Exploited for Admin Access](https://www.securityweek.com/fresh-smartermail-flaw-exploited-for-admin-access/)
 
 ### Threatpost
 

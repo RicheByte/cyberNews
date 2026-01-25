@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25 14:15",
+  "last_updated": "2026-01-25 16:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -16,54 +16,54 @@
     "sport remote connectivity",
     "shinyhunters claim hacks",
     "protect human decisions",
+    "1password digital vault",
     "windows operating systems",
     "january updates microsoft",
     "vehicle infotainment systems",
     "solely protecting systems",
     "scream europe frets",
-    "malicious cyber actors",
     "growing across europe"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "applications ai agents",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "single automation system",
-      "mentions": 35
+      "mentions": 36
     },
     {
       "keyword": "persistent remote access",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "executive order signed",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "windows 11 devices",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "widely available products",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 469
+      "mentions": 470
     },
     {
       "keyword": "tracking security flaws",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
@@ -161,6 +161,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "1Password adds pop-pup warnings for suspected phishing sites",
+      "link": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-pup-warnings-for-suspected-phishing-sites/",
+      "summary": "The 1Password digital vault and password manager has added built-in protection against phishing URLs to help users identify malicious pages and prevent them from sharing account credentials with threat actors. [...]",
+      "published": "Sun, 25 Jan 2026 10:17:12 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft investigates Windows 11 boot failures after January updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/",
       "summary": "Microsoft is investigating reports that some Windows 11 devices are failing to boot with \"UNMOUNTABLE_BOOT_VOLUME\" errors after installing the January 2026 Patch Tuesday security updates. [...]",
@@ -231,15 +242,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US to deport Venezuelans who emptied bank ATMs using malware",
-      "link": "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/",
-      "summary": "South Carolina federal prosecutors announced that two Venezuelan nationals convicted of stealing hundreds of thousands of dollars from U.S. banks in an ATM jackpotting scheme will be deported after serving their sentences. [...]",
-      "published": "Fri, 23 Jan 2026 11:38:54 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-24 22:15 UTC  
+> **Last Updated:** 2026-01-25 01:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **single automation system** • **applications ai agents** • **executive order signed** • **executive order 14144** • **persistent remote access** • **windows operating systems** • **widely available products** • **twitter whistleblower complaint** • **steal company data** • **automotive world 2026** • **vehicle infotainment systems** • **scream europe frets** • **malicious cyber actors** • **growing across europe** • **sprawling phishing campaign** • **fresh exploitation activity** • **sport remote connectivity** • **complete system takeover** • **recent data breach**
+**phishers abuse sharepoint** • **applications ai agents** • **single automation system** • **persistent remote access** • **executive order signed** • **executive order 14144** • **tracking security flaws** • **windows operating systems** • **widely available products** • **twitter whistleblower complaint** • **steal company data** • **sport remote connectivity** • **protect human decisions** • **vehicle infotainment systems** • **solely protecting systems** • **scream europe frets** • **malicious cyber actors** • **growing across europe** • **fresh exploitation activity** • **recent data breach**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems](https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems)
 - [Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles](https://www.darkreading.com/endpoint-security/researchers-find-new-ways-hack-vehicles)
 - [Exploited Zero-Day Flaw in Cisco UC Could Affect Millions](https://www.darkreading.com/endpoint-security/exploited-zero-day-flaw-cisco-uc-affect-millions)
+- [Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases](https://www.darkreading.com/cyber-risk/gcve-raises-concerns-fragmentation-vulnerability-database)
 - [Healthy Security Cultures Want People to Report Risks](https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting)
 - [Risky Chinese Electric Buses Spark Aussie Gov't Review](https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt)
 - [Fortinet Firewalls Hit With Malicious Configuration Changes](https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes)
 - [From a Whisper to a Scream: Europe Frets About Overreliance on US Tech](https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech)
-- [Latin American Orgs Lack Confidence in Cyber Defenses, Skills](https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills)
-- [DPRK Actors Deploy VS Code Tunnels for Remote Hacking](https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking)
 
 ### Security Week
 

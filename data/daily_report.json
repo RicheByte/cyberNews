@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-24 22:15",
+  "last_updated": "2026-01-25 01:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "phishers abuse sharepoint",
-    "single automation system",
     "applications ai agents",
+    "single automation system",
+    "persistent remote access",
     "executive order signed",
     "executive order 14144",
-    "persistent remote access",
+    "tracking security flaws",
     "windows operating systems",
     "widely available products",
     "twitter whistleblower complaint",
     "steal company data",
-    "automotive world 2026",
+    "sport remote connectivity",
+    "protect human decisions",
     "vehicle infotainment systems",
+    "solely protecting systems",
     "scream europe frets",
     "malicious cyber actors",
     "growing across europe",
-    "sprawling phishing campaign",
     "fresh exploitation activity",
-    "sport remote connectivity",
-    "complete system takeover",
     "recent data breach"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 17
-    },
-    {
-      "keyword": "single automation system",
-      "mentions": 27
+      "mentions": 18
     },
     {
       "keyword": "applications ai agents",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "executive order signed",
-      "mentions": 18
-    },
-    {
-      "keyword": "executive order 14144",
-      "mentions": 15
+      "keyword": "single automation system",
+      "mentions": 28
     },
     {
       "keyword": "persistent remote access",
-      "mentions": 18
+      "mentions": 19
+    },
+    {
+      "keyword": "executive order signed",
+      "mentions": 19
+    },
+    {
+      "keyword": "executive order 14144",
+      "mentions": 16
+    },
+    {
+      "keyword": "tracking security flaws",
+      "mentions": 1
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 183
+      "mentions": 184
     },
     {
       "keyword": "widely available products",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 461
-    },
-    {
-      "keyword": "steal company data",
-      "mentions": 12
+      "mentions": 462
     }
   ],
   "articles": [
@@ -332,6 +332,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems",
+      "link": "https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems",
+      "summary": "Cybersecurity must shift from solely protecting systems to safeguarding human decision-making under uncertainty and system failures.",
+      "published": "Sat, 24 Jan 2026 00:55:56 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles",
       "link": "https://www.darkreading.com/endpoint-security/researchers-find-new-ways-hack-vehicles",
       "summary": "Security researchers exploited dozens of vulnerabilities in vehicle infotainment systems and EV chargers during the latest Pwn2Own contest at Automotive World 2026.",
@@ -354,6 +363,15 @@
         "High severity",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases",
+      "link": "https://www.darkreading.com/cyber-risk/gcve-raises-concerns-fragmentation-vulnerability-database",
+      "summary": "GCVE would enhance global collaboration, flexibility, and efficiency in tracking security flaws. Duplicate entries and a decentralization policy may create more chaos for defenders.",
+      "published": "Fri, 23 Jan 2026 20:31:58 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -392,28 +410,6 @@
       "published": "Thu, 22 Jan 2026 18:09:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Latin American Orgs Lack Confidence in Cyber Defenses, Skills",
-      "link": "https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills",
-      "summary": "Cybersecurity professionals in Latin America are least likely to have faith in their countries' preparedness for cyberattacks on critical infrastructure, the World Economic Forum says.",
-      "published": "Thu, 22 Jan 2026 16:05:18 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "DPRK Actors Deploy VS Code Tunnels for Remote Hacking",
-      "link": "https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking",
-      "summary": "A spear-phishing campaign tied to the Democratic People's Republic of Korea (DPRK) uses trusted Microsoft infrastructure to avoid detection.",
-      "published": "Thu, 22 Jan 2026 14:05:11 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "Security Week",

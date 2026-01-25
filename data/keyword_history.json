@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 206,
+      "count": 207,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -143,7 +143,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 184,
+      "count": 185,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -171,7 +171,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 462,
+      "count": 463,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3870,7 +3870,7 @@
       ]
     },
     "single automation system": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -3939,7 +3939,7 @@
       ]
     },
     "scream europe frets": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -3947,7 +3947,7 @@
       ]
     },
     "growing across europe": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -3980,7 +3980,7 @@
       ]
     },
     "persistent remote access": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -3988,7 +3988,7 @@
       ]
     },
     "executive order signed": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4008,7 +4008,7 @@
       ]
     },
     "phishers abuse sharepoint": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4047,7 +4047,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4055,7 +4055,7 @@
       ]
     },
     "widely available products": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4077,7 +4077,7 @@
       ]
     },
     "sport remote connectivity": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4092,7 +4092,7 @@
       ]
     },
     "vehicle infotainment systems": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4100,7 +4100,7 @@
       ]
     },
     "steal company data": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-24",
         "2026-01-25"
@@ -4113,14 +4113,14 @@
       ]
     },
     "applications ai agents": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-24",
         "2026-01-25"
       ]
     },
     "fresh exploitation activity": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-24",
         "2026-01-25"
@@ -4140,18 +4140,24 @@
       ]
     },
     "tracking security flaws": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-25"
       ]
     },
     "protect human decisions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-25"
       ]
     },
     "solely protecting systems": {
+      "count": 2,
+      "dates": [
+        "2026-01-25"
+      ]
+    },
+    "shinyhunters claim hacks": {
       "count": 1,
       "dates": [
         "2026-01-25"
@@ -4159,17 +4165,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-16 18:26",
-      "articles": 56,
-      "top_keywords": [
-        "telecontrol server basic",
-        "sinec security monitor",
-        "windows operating systems",
-        "north america since",
-        "750 000 impacted"
-      ]
-    },
     {
       "timestamp": "2026-01-16 20:17",
       "articles": 48,
@@ -5250,6 +5245,17 @@
     },
     {
       "timestamp": "2026-01-25 01:26",
+      "articles": 56,
+      "top_keywords": [
+        "phishers abuse sharepoint",
+        "applications ai agents",
+        "single automation system",
+        "persistent remote access",
+        "executive order signed"
+      ]
+    },
+    {
+      "timestamp": "2026-01-25 03:49",
       "articles": 56,
       "top_keywords": [
         "phishers abuse sharepoint",

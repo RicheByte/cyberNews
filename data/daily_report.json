@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25 01:26",
+  "last_updated": "2026-01-25 03:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,61 +9,61 @@
     "persistent remote access",
     "executive order signed",
     "executive order 14144",
-    "tracking security flaws",
     "windows operating systems",
     "widely available products",
     "twitter whistleblower complaint",
-    "steal company data",
+    "tracking security flaws",
     "sport remote connectivity",
+    "shinyhunters claim hacks",
     "protect human decisions",
     "vehicle infotainment systems",
     "solely protecting systems",
     "scream europe frets",
     "malicious cyber actors",
     "growing across europe",
-    "fresh exploitation activity",
-    "recent data breach"
+    "steal company data",
+    "fresh exploitation activity"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "applications ai agents",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "single automation system",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "persistent remote access",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "executive order signed",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 16
-    },
-    {
-      "keyword": "tracking security flaws",
-      "mentions": 1
+      "mentions": 17
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 184
+      "mentions": 185
     },
     {
       "keyword": "widely available products",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 462
+      "mentions": 463
+    },
+    {
+      "keyword": "tracking security flaws",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -161,6 +161,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft releases emergency OOB update to fix Outlook freezes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/",
+      "summary": "Microsoft has released emergency, out-of-band updates on Saturday for Windows 10, Windows 11, and Windows Server to fix an issue that prevented Microsoft Outlook classic from opening when using PSTs stored in cloud storage. [...]",
+      "published": "Sat, 24 Jan 2026 20:59:15 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Sandworm hackers linked to failed wiper attack on Poland’s energy systems",
       "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/",
       "summary": "A cyberattack targeting Poland's power grid in late December 2025 has been linked to the Russian state-sponsored hacking group Sandworm, which attempted to deploy a new destructive data-wiping malware dubbed DynoWiper during the attack.. [...]",
@@ -179,7 +190,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "ShinyHunters claim to be behind SSO-account data theft attacks",
+      "title": "ShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/",
       "summary": "The ShinyHunters extortion gang claims it is behind a wave of ongoing voice phishing attacks targeting single sign-on (SSO) accounts at Okta, Microsoft, and Google, enabling threat actors to breach corporate SaaS platforms and steal company data for extortion. [...]",
       "published": "Fri, 23 Jan 2026 18:35:03 -0500",
@@ -229,17 +240,6 @@
       "value_signals": [
         "Auth bypass",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "What an AI-Written Honeypot Taught Us About Trusting Machines",
-      "link": "https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/",
-      "summary": "AI-generated code can introduce subtle security flaws when teams over-trust automated output. Intruder shows how an AI-written honeypot introduced hidden vulnerabilities that were exploited in attacks. [...]",
-      "published": "Fri, 23 Jan 2026 09:59:58 -0500",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25 18:23",
+  "last_updated": "2026-01-25 20:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "applications ai agents",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "single automation system",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "persistent remote access",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "executive order signed",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "windows 11 devices",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "widely available products",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 471
+      "mentions": 472
     },
     {
       "keyword": "tracking security flaws",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
@@ -161,8 +161,8 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "1Password adds pop-pup warnings for suspected phishing sites",
-      "link": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-pup-warnings-for-suspected-phishing-sites/",
+      "title": "1Password adds pop-up warnings for suspected phishing sites",
+      "link": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/",
       "summary": "The 1Password digital vault and password manager has added built-in protection against phishing URLs to help users identify malicious pages and prevent them from sharing account credentials with threat actors. [...]",
       "published": "Sun, 25 Jan 2026 10:17:12 -0500",
       "value_score": 26,

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-25 12:33 UTC  
+> **Last Updated:** 2026-01-25 14:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **applications ai agents** • **single automation system** • **persistent remote access** • **executive order signed** • **executive order 14144** • **windows operating systems** • **widely available products** • **twitter whistleblower complaint** • **tracking security flaws** • **sport remote connectivity** • **shinyhunters claim hacks** • **protect human decisions** • **vehicle infotainment systems** • **solely protecting systems** • **scream europe frets** • **malicious cyber actors** • **growing across europe** • **steal company data** • **fresh exploitation activity**
+**phishers abuse sharepoint** • **applications ai agents** • **single automation system** • **persistent remote access** • **executive order signed** • **executive order 14144** • **windows 11 devices** • **widely available products** • **twitter whistleblower complaint** • **tracking security flaws** • **sport remote connectivity** • **shinyhunters claim hacks** • **protect human decisions** • **windows operating systems** • **january updates microsoft** • **vehicle infotainment systems** • **solely protecting systems** • **scream europe frets** • **malicious cyber actors** • **growing across europe**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft investigates Windows 11 boot failures after January updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/)
 - [Microsoft releases emergency OOB update to fix Outlook freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/)
 - [Sandworm hackers linked to failed wiper attack on Poland’s energy systems](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/)
 - [Konni hackers target blockchain engineers with AI-built malware](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/)
@@ -34,7 +35,6 @@
 - [Malicious AI extensions on VSCode Marketplace steal developer data](https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/)
 - [CISA confirms active exploitation of four enterprise software bugs](https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/)
 - [US to deport Venezuelans who emptied bank ATMs using malware](https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/)
-- [Hackers exploit critical telnetd auth bypass flaw to get root](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/)
 
 ### Krebs on Security
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-26 10:21 UTC  
+> **Last Updated:** 2026-01-26 12:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **2024 vmware flaw** • **applications ai agents** • **single automation system** • **executive order signed** • **executive order 14144** • **windows 11 devices** • **remote code execution** • **widely available products** • **twitter whistleblower complaint** • **tracking security flaws** • **shinyhunters claim hacks** • **protect human decisions** • **1password digital vault** • **windows operating systems** • **january updates microsoft** • **vehicle infotainment systems** • **solely protecting systems** • **steal company data** • **sport remote connectivity**
+**hacking claims crunchbase** • **2024 vmware flaw** • **executive order 14144** • **windows 11 devices** • **applications ai agents** • **windows operating systems** • **widely available products** • **twitter whistleblower complaint** • **tracking security flaws** • **steal company data** • **remote code execution** • **protect human decisions** • **attacks bypass authentication** • **1password digital vault** • **january updates microsoft** • **vehicle infotainment systems** • **solely protecting systems** • **sport remote connectivity** • **scream europe frets** • **growing across europe**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Winning Against AI-Based Attacks Requires a Combined Defensive Approach](https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html)
 - [Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers](https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html)
 - [Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
 - [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html)
@@ -23,10 +24,10 @@
 - [CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html)
 - [CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities](https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html)
 - [Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls](https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html)
-- [TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html)
 
 ### BleepingComputer
 
+- [CISA says critical VMware RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/)
 - [ChatGPT Temporary chat feature is getting a much-needed upgrade](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/)
 - [1Password adds pop-up warnings for suspected phishing sites](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/)
 - [Microsoft investigates Windows 11 boot failures after January updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/)
@@ -34,7 +35,6 @@
 - [Sandworm hackers linked to failed wiper attack on Poland’s energy systems](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/)
 - [Konni hackers target blockchain engineers with AI-built malware](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/)
 - [ShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft](https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/)
-- [Malicious AI extensions on VSCode Marketplace steal developer data](https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Crunchbase Confirms Data Breach After Hacking Claims](https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/)
+- [Cyber Insights 2026: Threat Hunting in an Age of Automation and AI](https://www.securityweek.com/cyber-insights-2026-threat-hunting-in-an-age-of-automation-and-ai/)
+- [‘Stanley’ Malware Toolkit Enables Phishing via Website Spoofing](https://www.securityweek.com/stanley-malware-toolkit-enables-phishing-via-website-spoofing/)
+- [TikTok Finalizes a Deal to Form a New American Entity](https://www.securityweek.com/tiktok-finalizes-a-deal-to-form-a-new-american-entity/)
 - [Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid](https://www.securityweek.com/russian-sandworm-hackers-blamed-for-cyberattack-on-polish-power-grid/)
 - [2024 VMware Flaw Now in Attackers’ Crosshairs](https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/)
 - [Nike Probing Potential Security Incident as Hackers Threaten to Leak Data](https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/)
 - [Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices](https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/)
-- [In Other News: €1.2B GDPR Fines, Net-NTLMv1 Rainbow Tables, Rockwell Security Notice](https://www.securityweek.com/in-other-news-e1-2b-gdpr-fines-net-ntlmv1-rainbow-tables-rockwell-security-notice/)
-- [Phishers Abuse SharePoint in New Campaign Targeting Energy Sector](https://www.securityweek.com/phishers-abuse-sharepoint-in-new-campaign-targeting-energy-sector/)
-- [Cyber Insights 2026: Regulations and the Tangled Mess of Compliance Requirements](https://www.securityweek.com/cyber-insights-2026-regulations-and-the-tangled-mess-of-compliance-requirements/)
-- [Under Armour Looking Into Data Breach Affecting Customers’ Email Addresses](https://www.securityweek.com/under-armour-looking-into-data-breach-affecting-customers-email-addresses/)
 
 ### Threatpost
 

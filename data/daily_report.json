@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-26 10:21",
+  "last_updated": "2026-01-26 12:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "phishers abuse sharepoint",
+    "hacking claims crunchbase",
     "2024 vmware flaw",
-    "applications ai agents",
-    "single automation system",
-    "executive order signed",
     "executive order 14144",
     "windows 11 devices",
-    "remote code execution",
+    "applications ai agents",
+    "windows operating systems",
     "widely available products",
     "twitter whistleblower complaint",
     "tracking security flaws",
-    "shinyhunters claim hacks",
+    "steal company data",
+    "remote code execution",
     "protect human decisions",
+    "attacks bypass authentication",
     "1password digital vault",
-    "windows operating systems",
     "january updates microsoft",
     "vehicle infotainment systems",
     "solely protecting systems",
-    "steal company data",
-    "sport remote connectivity"
+    "sport remote connectivity",
+    "scream europe frets",
+    "growing across europe"
   ],
   "trending": [
     {
-      "keyword": "phishers abuse sharepoint",
-      "mentions": 35
+      "keyword": "hacking claims crunchbase",
+      "mentions": 1
     },
     {
       "keyword": "2024 vmware flaw",
-      "mentions": 3
-    },
-    {
-      "keyword": "applications ai agents",
-      "mentions": 25
-    },
-    {
-      "keyword": "single automation system",
-      "mentions": 45
-    },
-    {
-      "keyword": "executive order signed",
-      "mentions": 36
+      "mentions": 4
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "windows 11 devices",
-      "mentions": 11
+      "mentions": 12
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 30
+      "keyword": "applications ai agents",
+      "mentions": 26
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 202
     },
     {
       "keyword": "widely available products",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 479
+      "mentions": 480
+    },
+    {
+      "keyword": "tracking security flaws",
+      "mentions": 19
+    },
+    {
+      "keyword": "steal company data",
+      "mentions": 21
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Winning Against AI-Based Attacks Requires a Combined Defensive Approach",
+      "link": "https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html",
+      "summary": "If there’s a constant in cybersecurity, it’s that adversaries are always innovating. The rise of offensive AI is transforming attack strategies and making them harder to detect. Google’s Threat Intelligence Group, recently reported on adversaries using Large Language Models (LLMs) to both conceal code and generate malicious scripts on the fly, letting malware shape-shift in real-time to evade",
+      "published": "Mon, 26 Jan 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers",
@@ -152,13 +161,19 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order",
-      "link": "https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html",
-      "summary": "TikTok on Friday officially announced that it formed a joint venture that will allow the hugely popular video-sharing application to continue operating in the U.S. The new venture, named TikTok USDS Joint Venture LLC, has been established in compliance with the Executive Order signed by U.S. President Donald Trump in September 2025, the platform said. The new deal will see TikTok's Chinese",
-      "published": "Fri, 23 Jan 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "CISA says critical VMware RCE flaw now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/",
+      "summary": "CISA has flagged a critical VMware vCenter Server vulnerability as actively exploited and ordered U.S. federal agencies to secure their servers within three weeks. [...]",
+      "published": "Mon, 26 Jan 2026 06:49:41 -0500",
+      "value_score": 100,
+      "value_signals": [
+        "Active exploitation ×2",
+        "RCE",
+        "CISA/KEV ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -233,15 +248,6 @@
         "Breach/leak",
         "Phishing"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Malicious AI extensions on VSCode Marketplace steal developer data",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/",
-      "summary": "Two malicious extensions in Microsoft's Visual Studio Code (VSCode) Marketplace that were collectively installed 1.5 million times, exfiltrate developer data to China-based servers. [...]",
-      "published": "Fri, 23 Jan 2026 15:11:58 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -413,6 +419,46 @@
     },
     {
       "source": "Security Week",
+      "title": "Crunchbase Confirms Data Breach After Hacking Claims",
+      "link": "https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/",
+      "summary": "Crunchbase was targeted alongside SoundCloud and Betterment in a ShinyHunters campaign. The post Crunchbase Confirms Data Breach After Hacking Claims appeared first on SecurityWeek .",
+      "published": "Mon, 26 Jan 2026 12:22:02 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cyber Insights 2026: Threat Hunting in an Age of Automation and AI",
+      "link": "https://www.securityweek.com/cyber-insights-2026-threat-hunting-in-an-age-of-automation-and-ai/",
+      "summary": "Understanding how threat hunting differs from reactive security provides a deeper understanding of the role, while hinting at how it will evolve in the future. The post Cyber Insights 2026: Threat Hunting in an Age of Automation and AI appeared first on SecurityWeek .",
+      "published": "Mon, 26 Jan 2026 12:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "‘Stanley’ Malware Toolkit Enables Phishing via Website Spoofing",
+      "link": "https://www.securityweek.com/stanley-malware-toolkit-enables-phishing-via-website-spoofing/",
+      "summary": "Priced $2,000 - $6,000 on a cybercrime forum, the MaaS toolkit promises publication on the Chrome Web Store. The post ‘Stanley’ Malware Toolkit Enables Phishing via Website Spoofing appeared first on SecurityWeek .",
+      "published": "Mon, 26 Jan 2026 11:44:38 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "TikTok Finalizes a Deal to Form a New American Entity",
+      "link": "https://www.securityweek.com/tiktok-finalizes-a-deal-to-form-a-new-american-entity/",
+      "summary": "TikTok has finalized a deal to create a new American entity, avoiding the looming threat of a ban in the United States. The post TikTok Finalizes a Deal to Form a New American Entity appeared first on SecurityWeek .",
+      "published": "Mon, 26 Jan 2026 11:29:23 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid",
       "link": "https://www.securityweek.com/russian-sandworm-hackers-blamed-for-cyberattack-on-polish-power-grid/",
       "summary": "10 years after disrupting the Ukrainian power grid, the APT targeted Poland with data-wiping malware. The post Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid appeared first on SecurityWeek .",
@@ -453,46 +499,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: €1.2B GDPR Fines, Net-NTLMv1 Rainbow Tables, Rockwell Security Notice",
-      "link": "https://www.securityweek.com/in-other-news-e1-2b-gdpr-fines-net-ntlmv1-rainbow-tables-rockwell-security-notice/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Cloudflare WAF bypass, Canonical Snap Store abused for malware delivery, Curl terminating bug bounty program The post In Other News: €1.2B GDPR Fines, Net-NTLMv1 Rainbow Tables, Rockwell Security Notice appeared first on SecurityWeek .",
-      "published": "Fri, 23 Jan 2026 13:53:29 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Phishers Abuse SharePoint in New Campaign Targeting Energy Sector",
-      "link": "https://www.securityweek.com/phishers-abuse-sharepoint-in-new-campaign-targeting-energy-sector/",
-      "summary": "Threat actors are leveraging the file-sharing service for payload delivery in AitM phishing and BEC attacks. The post Phishers Abuse SharePoint in New Campaign Targeting Energy Sector appeared first on SecurityWeek .",
-      "published": "Fri, 23 Jan 2026 13:19:11 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyber Insights 2026: Regulations and the Tangled Mess of Compliance Requirements",
-      "link": "https://www.securityweek.com/cyber-insights-2026-regulations-and-the-tangled-mess-of-compliance-requirements/",
-      "summary": "Cyber regulations are where politics meets business – where business becomes subject to political realities. The post Cyber Insights 2026: Regulations and the Tangled Mess of Compliance Requirements appeared first on SecurityWeek .",
-      "published": "Fri, 23 Jan 2026 12:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Under Armour Looking Into Data Breach Affecting Customers’ Email Addresses",
-      "link": "https://www.securityweek.com/under-armour-looking-into-data-breach-affecting-customers-email-addresses/",
-      "summary": "Under Armour is investigating a recent data breach that purloined customers’ email addresses and other personal information. The post Under Armour Looking Into Data Breach Affecting Customers’ Email Addresses appeared first on SecurityWeek .",
-      "published": "Fri, 23 Jan 2026 12:01:18 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
       ]
     },
     {

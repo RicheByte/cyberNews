@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-26 10:21 UTC |
+| 🕐 Last Updated | 2026-01-26 12:37 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`phishers abuse sharepoint` • `2024 vmware flaw` • `applications ai agents` • `single automation system` • `executive order signed` • `executive order 14144` • `windows 11 devices` • `remote code execution` • `widely available products` • `twitter whistleblower complaint`
+`hacking claims crunchbase` • `2024 vmware flaw` • `executive order 14144` • `windows 11 devices` • `applications ai agents` • `windows operating systems` • `widely available products` • `twitter whistleblower complaint` • `tracking security flaws` • `steal company data`
 
 ## 📄 Reports
 

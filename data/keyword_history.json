@@ -143,7 +143,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 201,
+      "count": 202,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -172,7 +172,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 479,
+      "count": 480,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -461,7 +461,7 @@
       ]
     },
     "remote code execution": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3943,7 +3943,7 @@
       ]
     },
     "scream europe frets": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -3952,7 +3952,7 @@
       ]
     },
     "growing across europe": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4038,9 +4038,10 @@
       ]
     },
     "attacks bypass authentication": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-23"
+        "2026-01-23",
+        "2026-01-26"
       ]
     },
     "patched devices similar": {
@@ -4056,7 +4057,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4065,7 +4066,7 @@
       ]
     },
     "widely available products": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4088,7 +4089,7 @@
       ]
     },
     "sport remote connectivity": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4104,7 +4105,7 @@
       ]
     },
     "vehicle infotainment systems": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4113,7 +4114,7 @@
       ]
     },
     "steal company data": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-24",
         "2026-01-25",
@@ -4127,7 +4128,7 @@
       ]
     },
     "applications ai agents": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-24",
         "2026-01-25",
@@ -4155,21 +4156,21 @@
       ]
     },
     "tracking security flaws": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-25",
         "2026-01-26"
       ]
     },
     "protect human decisions": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-25",
         "2026-01-26"
       ]
     },
     "solely protecting systems": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-25",
         "2026-01-26"
@@ -4183,45 +4184,40 @@
       ]
     },
     "windows 11 devices": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-25",
         "2026-01-26"
       ]
     },
     "january updates microsoft": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-25",
         "2026-01-26"
       ]
     },
     "1password digital vault": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-25",
         "2026-01-26"
       ]
     },
     "2024 vmware flaw": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2026-01-26"
+      ]
+    },
+    "hacking claims crunchbase": {
+      "count": 1,
       "dates": [
         "2026-01-26"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-18 04:38",
-      "articles": 56,
-      "top_keywords": [
-        "telecontrol server basic",
-        "cisco secure email",
-        "windows operating systems",
-        "sinec security monitor",
-        "north america since"
-      ]
-    },
     {
       "timestamp": "2026-01-18 06:24",
       "articles": 56,
@@ -5309,6 +5305,17 @@
         "applications ai agents",
         "single automation system",
         "executive order signed"
+      ]
+    },
+    {
+      "timestamp": "2026-01-26 12:37",
+      "articles": 56,
+      "top_keywords": [
+        "hacking claims crunchbase",
+        "2024 vmware flaw",
+        "executive order 14144",
+        "windows 11 devices",
+        "applications ai agents"
       ]
     }
   ]

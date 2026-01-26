@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-26 20:21",
+  "last_updated": "2026-01-26 22:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "2024 vmware flaw",
     "hacking claims crunchbase",
+    "windows operating systems",
     "executive order 14144",
     "china based servers",
     "applications ai agents",
     "tracking security flaws",
-    "windows operating systems",
     "ai generated backdoor",
     "twitter whistleblower complaint",
     "protect human decisions",
     "overlooked okta misconfigurations",
     "multi stage backdoor",
+    "malicious cyber actors",
+    "generate malicious scripts",
     "sport remote connectivity",
     "siphon developer data",
     "reactive security provides",
-    "malicious cyber actors",
-    "generate malicious scripts",
     "effective security culture",
-    "vehicle infotainment systems",
-    "solely protecting systems"
+    "complete system takeover",
+    "vehicle infotainment systems"
   ],
   "trending": [
     {
       "keyword": "2024 vmware flaw",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "hacking claims crunchbase",
-      "mentions": 5
-    },
-    {
-      "keyword": "executive order 14144",
-      "mentions": 38
-    },
-    {
-      "keyword": "china based servers",
-      "mentions": 3
-    },
-    {
-      "keyword": "applications ai agents",
-      "mentions": 30
-    },
-    {
-      "keyword": "tracking security flaws",
-      "mentions": 23
+      "mentions": 6
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 205
+      "mentions": 206
+    },
+    {
+      "keyword": "executive order 14144",
+      "mentions": 39
+    },
+    {
+      "keyword": "china based servers",
+      "mentions": 4
+    },
+    {
+      "keyword": "applications ai agents",
+      "mentions": 31
+    },
+    {
+      "keyword": "tracking security flaws",
+      "mentions": 24
     },
     {
       "keyword": "ai generated backdoor",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 484
+      "mentions": 485
     },
     {
       "keyword": "protect human decisions",
-      "mentions": 23
+      "mentions": 24
     }
   ],
   "articles": [
@@ -153,6 +153,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New ClickFix attacks abuse Windows App-V scripts to push malware",
+      "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/",
+      "summary": "A new malicious campaign mixes the ClickFix method with fake CAPTCHA and a signed Microsoft Application Virtualization (App-V) script to ultimately deliver the Amatera infostealing malware. [...]",
+      "published": "Mon, 26 Jan 2026 16:42:12 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft patches actively exploited Office zero-day vulnerability",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/",
       "summary": "Microsoft has released emergency security updates to patch a high-severity Office zero-day vulnerability exploited in attacks. [...]",
@@ -231,17 +240,6 @@
         "CISA/KEV ×2",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ChatGPT Temporary chat feature is getting a much-needed upgrade",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/",
-      "summary": "OpenAI is testing a big upgrade for ChatGPT's temporary chat feature. The update will allow you to retain personalization in temporary chat, and still block temporary chat from influencing your account. [...]",
-      "published": "Sun, 25 Jan 2026 20:01:12 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -333,6 +331,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Sandworm Blamed for Wiper Attack on Poland Power Grid",
+      "link": "https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid",
+      "summary": "Researchers attributed the failed attempt to the infamous Russian APT Sandworm, which is notorious for wiper attacks on critical infrastructure organizations.",
+      "published": "Mon, 26 Jan 2026 21:30:14 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "DPRK's Konni Targets Blockchain Developers With AI-Generated Backdoor",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/dprks-konni-targets-blockchain-developers-ai-generated-backdoor",
       "summary": "The North Korean threat group is using a new PowerShell backdoor to compromise development environments and target cryptocurrency holdings, according to researchers.",
@@ -404,15 +413,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fortinet Firewalls Hit With Malicious Configuration Changes",
-      "link": "https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes",
-      "summary": "Automated infections of potentially fully patched FortiGate devices are allowing threat actors to steal firewall configuration files.",
-      "published": "Thu, 22 Jan 2026 21:18:42 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -579,6 +579,22 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/01/26/cisa-adds-five-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2018-14634 Linux Kernel Integer Overflow Vulnerability CVE-2025-52691 SmarterTools SmarterMail Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-21509 Microsoft Office Security Feature Bypass Vulnerability CVE-2026-23760 SmarterTools SmarterMail Authentication Bypass Using an Alternate Path or Channel Vulnerability CVE-2026-24061 GNU In",
+      "published": "Mon, 26 Jan 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×5",
+        "Auth bypass",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/01/23/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-37079 Broadcom VMware vCenter Server Out-of-bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
@@ -670,19 +686,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Johnson Controls Inc. iSTAR Configuration Utility (ICU) tool",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a failure within the operating system of the machine hosting the ICU tool. The following versions of Johnson Controls Inc. iSTAR Configuration Utility (ICU) tool are affected: iSTAR Configuration Utility (ICU) tool (CVE-2025-26386) CVSS Vendor Equipment Vulnerabilities v3 7.1 Johnson Controls Inc. Johnson Controls Inc. iSTAR Configuration Utility (ICU) tool Stack-based Buffer Overflow Background Crit",
-      "published": "Thu, 22 Jan 26 12:00:00 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
         "Exploit wording"
       ]
     }

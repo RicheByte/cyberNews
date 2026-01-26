@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-26 20:21 UTC  
+> **Last Updated:** 2026-01-26 22:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2024 vmware flaw** • **hacking claims crunchbase** • **executive order 14144** • **china based servers** • **applications ai agents** • **tracking security flaws** • **windows operating systems** • **ai generated backdoor** • **twitter whistleblower complaint** • **protect human decisions** • **overlooked okta misconfigurations** • **multi stage backdoor** • **sport remote connectivity** • **siphon developer data** • **reactive security provides** • **malicious cyber actors** • **generate malicious scripts** • **effective security culture** • **vehicle infotainment systems** • **solely protecting systems**
+**2024 vmware flaw** • **hacking claims crunchbase** • **windows operating systems** • **executive order 14144** • **china based servers** • **applications ai agents** • **tracking security flaws** • **ai generated backdoor** • **twitter whistleblower complaint** • **protect human decisions** • **overlooked okta misconfigurations** • **multi stage backdoor** • **malicious cyber actors** • **generate malicious scripts** • **sport remote connectivity** • **siphon developer data** • **reactive security provides** • **effective security culture** • **complete system takeover** • **vehicle infotainment systems**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New ClickFix attacks abuse Windows App-V scripts to push malware](https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/)
 - [Microsoft patches actively exploited Office zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/)
 - [Cloudflare misconfiguration behind recent BGP route leak](https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/)
 - [EU launches investigation into X over Grok-generated sexual images](https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/)
@@ -34,7 +35,6 @@
 - [6 Okta security settings you might have overlooked](https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/)
 - [Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies](https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/)
 - [CISA says critical VMware RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/)
-- [ChatGPT Temporary chat feature is getting a much-needed upgrade](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Sandworm Blamed for Wiper Attack on Poland Power Grid](https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid)
 - [DPRK's Konni Targets Blockchain Developers With AI-Generated Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/dprks-konni-targets-blockchain-developers-ai-generated-backdoor)
 - [2025 Was a Wake-up Call to Protect Human Decisions, Not Just Systems](https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems)
 - [Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles](https://www.darkreading.com/endpoint-security/researchers-find-new-ways-hack-vehicles)
@@ -56,7 +57,6 @@
 - [Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases](https://www.darkreading.com/cyber-risk/gcve-raises-concerns-fragmentation-vulnerability-database)
 - [Healthy Security Cultures Want People to Report Risks](https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting)
 - [Risky Chinese Electric Buses Spark Aussie Gov't Review](https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt)
-- [Fortinet Firewalls Hit With Malicious Configuration Changes](https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes)
 
 ### Security Week
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/26/cisa-adds-five-known-exploited-vulnerabilities-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/23/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Product Categories for Technologies That Use Post-Quantum Cryptography Standards](https://www.cisa.gov/resources-tools/resources/product-categories-technologies-use-post-quantum-cryptography-standards)
 - [Schneider Electric EcoStruxure Process Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-01)
@@ -89,7 +90,6 @@
 - [Rockwell Automation CompactLogix 5370](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-03)
 - [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/22/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 - [Delta Electronics DIAView](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-07)
-- [Johnson Controls Inc. iSTAR Configuration Utility (ICU) tool](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-04)
 
 ---
 

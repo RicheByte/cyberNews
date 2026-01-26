@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-01-26 16:28",
+  "last_updated": "2026-01-26 18:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "hacking claims crunchbase",
     "2024 vmware flaw",
+    "hacking claims crunchbase",
+    "badbox 2 0",
     "executive order 14144",
     "china based servers",
     "applications ai agents",
-    "tracking security flaws",
-    "windows operating systems",
-    "windows 11 devices",
+    "ai generated backdoor",
     "twitter whistleblower complaint",
     "protect human decisions",
     "overlooked okta misconfigurations",
-    "1password digital vault",
+    "multi stage backdoor",
+    "much clearer idea",
     "sport remote connectivity",
     "siphon developer data",
-    "reactive security provides",
-    "effective security culture",
     "vehicle infotainment systems",
     "solely protecting systems",
-    "january updates microsoft",
+    "tracking security flaws",
+    "reactive security provides",
+    "effective security culture",
     "internal network behind"
   ],
   "trending": [
     {
-      "keyword": "hacking claims crunchbase",
-      "mentions": 3
-    },
-    {
       "keyword": "2024 vmware flaw",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "executive order 14144",
-      "mentions": 36
+      "keyword": "hacking claims crunchbase",
+      "mentions": 4
     },
     {
-      "keyword": "china based servers",
+      "keyword": "badbox 2 0",
       "mentions": 1
     },
     {
+      "keyword": "executive order 14144",
+      "mentions": 37
+    },
+    {
+      "keyword": "china based servers",
+      "mentions": 2
+    },
+    {
       "keyword": "applications ai agents",
-      "mentions": 28
+      "mentions": 29
     },
     {
-      "keyword": "tracking security flaws",
-      "mentions": 21
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 204
-    },
-    {
-      "keyword": "windows 11 devices",
-      "mentions": 14
+      "keyword": "ai generated backdoor",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 482
+      "mentions": 483
     },
     {
       "keyword": "protect human decisions",
-      "mentions": 21
+      "mentions": 22
+    },
+    {
+      "keyword": "overlooked okta misconfigurations",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
+      "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
+      "summary": "Cybersecurity researchers have discovered an ongoing campaign that's targeting Indian users with a multi-stage backdoor as part of a suspected cyber espionage campaign. The activity, per the eSentire Threat Response Unit (TRU), involves using phishing emails impersonating the Income Tax Department of India to trick victims into downloading a malicious archive, ultimately granting the threat",
+      "published": "Mon, 26 Jan 2026 22:31:00 +0530",
+      "value_score": 38,
+      "value_signals": [
+        "Backdoor",
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
@@ -140,20 +152,38 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
-      "link": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw affecting Broadcom VMware vCenter Server that was patched in June 2024 to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The vulnerability in question is CVE-2024-37079 (CVSS score: 9.8), which refers to a heap overflow in the",
-      "published": "Sat, 24 Jan 2026 13:39:00 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Microsoft patches actively exploited Office zero-day vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/",
+      "summary": "Microsoft has released emergency security updates to patch a high-severity Office zero-day vulnerability exploited in attacks. [...]",
+      "published": "Mon, 26 Jan 2026 13:20:35 -0500",
+      "value_score": 99,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×2",
-        "CISA/KEV ×5",
-        "High severity",
-        "Multiple CVEs",
+        "Zero-day ×2",
+        "Active exploitation",
+        "Patch/update",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cloudflare misconfiguration behind recent BGP route leak",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/",
+      "summary": "Cloudflare has shared more details about a recent 25-minute Border Gateway Protocol (BGP) route leak affecting IPv6 traffic, which caused measurable congestion, packet loss, and approximately 12 Gbps of dropped traffic. [...]",
+      "published": "Mon, 26 Jan 2026 12:50:35 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "EU launches investigation into X over Grok-generated sexual images",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/",
+      "summary": "The European Commission is now investigating whether X properly assessed risks before deploying its Grok artificial intelligence tool, following its use to generate sexually explicit images. [...]",
+      "published": "Mon, 26 Jan 2026 12:14:29 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -215,36 +245,14 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "1Password adds pop-up warnings for suspected phishing sites",
-      "link": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/",
-      "summary": "The 1Password digital vault and password manager has added built-in protection against phishing URLs to help users identify malicious pages and prevent them from sharing account credentials with threat actors. [...]",
-      "published": "Sun, 25 Jan 2026 10:17:12 -0500",
-      "value_score": 26,
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
       "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft investigates Windows 11 boot failures after January updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/",
-      "summary": "Microsoft is investigating reports that some Windows 11 devices are failing to boot with \"UNMOUNTABLE_BOOT_VOLUME\" errors after installing the January 2026 Patch Tuesday security updates. [...]",
-      "published": "Sun, 25 Jan 2026 08:20:28 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft releases emergency OOB update to fix Outlook freezes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/",
-      "summary": "Microsoft has released emergency, out-of-band updates on Saturday for Windows 10, Windows 11, and Windows Server to fix an issue that prevented Microsoft Outlook classic from opening when using PSTs stored in cloud storage. [...]",
-      "published": "Sat, 24 Jan 2026 20:59:15 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
+        "Botnet ×3"
       ]
     },
     {
@@ -322,19 +330,6 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
       "source": "Dark Reading",
       "title": "DPRK's Konni Targets Blockchain Developers With AI-Generated Backdoor",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/dprks-konni-targets-blockchain-developers-ai-generated-backdoor",
@@ -347,7 +342,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems",
+      "title": "2025 Was a Wake-up Call to Protect Human Decisions, Not Just Systems",
       "link": "https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems",
       "summary": "Cybersecurity must shift from solely protecting systems to safeguarding human decision-making under uncertainty and system failures.",
       "published": "Sat, 24 Jan 2026 00:55:56 GMT",

@@ -172,7 +172,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 482,
+      "count": 483,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2342,7 +2342,7 @@
       ]
     },
     "internal network behind": {
-      "count": 146,
+      "count": 147,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4058,7 +4058,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4076,7 +4076,7 @@
       ]
     },
     "effective security culture": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4091,7 +4091,7 @@
       ]
     },
     "sport remote connectivity": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4107,7 +4107,7 @@
       ]
     },
     "vehicle infotainment systems": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4130,7 +4130,7 @@
       ]
     },
     "applications ai agents": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-24",
         "2026-01-25",
@@ -4158,21 +4158,21 @@
       ]
     },
     "tracking security flaws": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-25",
         "2026-01-26"
       ]
     },
     "protect human decisions": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-25",
         "2026-01-26"
       ]
     },
     "solely protecting systems": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-25",
         "2026-01-26"
@@ -4207,36 +4207,60 @@
       ]
     },
     "2024 vmware flaw": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-26"
       ]
     },
     "hacking claims crunchbase": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-26"
       ]
     },
     "china based servers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-26"
       ]
     },
     "overlooked okta misconfigurations": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-26"
       ]
     },
     "siphon developer data": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-26"
       ]
     },
     "reactive security provides": {
+      "count": 2,
+      "dates": [
+        "2026-01-26"
+      ]
+    },
+    "badbox 2 0": {
+      "count": 1,
+      "dates": [
+        "2026-01-26"
+      ]
+    },
+    "ai generated backdoor": {
+      "count": 1,
+      "dates": [
+        "2026-01-26"
+      ]
+    },
+    "multi stage backdoor": {
+      "count": 1,
+      "dates": [
+        "2026-01-26"
+      ]
+    },
+    "much clearer idea": {
       "count": 1,
       "dates": [
         "2026-01-26"
@@ -4244,17 +4268,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-18 10:16",
-      "articles": 56,
-      "top_keywords": [
-        "telecontrol server basic",
-        "cisco secure email",
-        "windows operating systems",
-        "sinec security monitor",
-        "north america since"
-      ]
-    },
     {
       "timestamp": "2026-01-18 12:31",
       "articles": 56,
@@ -5342,6 +5355,17 @@
         "executive order 14144",
         "china based servers",
         "applications ai agents"
+      ]
+    },
+    {
+      "timestamp": "2026-01-26 18:28",
+      "articles": 56,
+      "top_keywords": [
+        "2024 vmware flaw",
+        "hacking claims crunchbase",
+        "badbox 2 0",
+        "executive order 14144",
+        "china based servers"
       ]
     }
   ]

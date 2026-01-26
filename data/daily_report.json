@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25 22:16",
+  "last_updated": "2026-01-26 01:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "applications ai agents",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "single automation system",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "persistent remote access",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "executive order signed",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "windows 11 devices",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "widely available products",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 473
+      "mentions": 474
     },
     {
       "keyword": "tracking security flaws",
-      "mentions": 12
+      "mentions": 13
     }
   ],
   "articles": [
@@ -161,6 +161,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ChatGPT Temporary chat feature is getting a much-needed upgrade",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/",
+      "summary": "OpenAI is testing a big upgrade for ChatGPT's temporary chat feature. The update will allow you to retain personalization in temporary chat, and still block temporary chat from influencing your account. [...]",
+      "published": "Sun, 25 Jan 2026 20:01:12 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "1Password adds pop-up warnings for suspected phishing sites",
       "link": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/",
       "summary": "The 1Password digital vault and password manager has added built-in protection against phishing URLs to help users identify malicious pages and prevent them from sharing account credentials with threat actors. [...]",
@@ -230,18 +241,6 @@
       "published": "Fri, 23 Jan 2026 15:11:58 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA confirms active exploitation of four enterprise software bugs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) in the U.S. warned of active exploitation of four vulnerabilities impacting enterprise software from Versa and Zimbra, the Vite frontend tooling framework, and the Prettier code formatter. [...]",
-      "published": "Fri, 23 Jan 2026 13:47:31 -0500",
-      "value_score": 56,
-      "value_signals": [
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-26 12:37",
+  "last_updated": "2026-01-26 14:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,64 +9,76 @@
     "windows 11 devices",
     "applications ai agents",
     "windows operating systems",
+    "january updates microsoft",
     "widely available products",
     "twitter whistleblower complaint",
     "tracking security flaws",
-    "steal company data",
     "remote code execution",
     "protect human decisions",
-    "attacks bypass authentication",
     "1password digital vault",
-    "january updates microsoft",
     "vehicle infotainment systems",
     "solely protecting systems",
     "sport remote connectivity",
     "scream europe frets",
-    "growing across europe"
+    "growing across europe",
+    "single automation system",
+    "internal network behind"
   ],
   "trending": [
     {
       "keyword": "hacking claims crunchbase",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "2024 vmware flaw",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "windows 11 devices",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "applications ai agents",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 202
+      "mentions": 203
+    },
+    {
+      "keyword": "january updates microsoft",
+      "mentions": 13
     },
     {
       "keyword": "widely available products",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 480
+      "mentions": 481
     },
     {
       "keyword": "tracking security flaws",
-      "mentions": 19
-    },
-    {
-      "keyword": "steal company data",
-      "mentions": 21
+      "mentions": 20
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
+      "link": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html",
+      "summary": "Security failures rarely arrive loudly. They slip in through trusted tools, half-fixed problems, and habits people stop questioning. This week’s recap shows that pattern clearly. Attackers are moving faster than defenses, mixing old tricks with new paths. “Patched” no longer means safe, and every day, software keeps becoming the entry point. What follows is a set of small but telling signals.",
+      "published": "Mon, 26 Jan 2026 17:25:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Winning Against AI-Based Attacks Requires a Combined Defensive Approach",
@@ -149,16 +161,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
-      "link": "https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html",
-      "summary": "Fortinet has officially confirmed that it's working to completely plug a FortiCloud SSO authentication bypass vulnerability following reports of fresh exploitation activity on fully-patched firewalls. \"In the last 24 hours, we have identified a number of cases where the exploit was to a device that had been fully upgraded to the latest release at the time of the attack, which suggested a new",
-      "published": "Fri, 23 Jan 2026 18:00:00 +0530",
-      "value_score": 31,
-      "value_signals": [
-        "Auth bypass",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/",
+      "summary": "The defense mechanisms that NPM introduced after the 'Shai-Hulud' supply-chain attacks have weaknesses that allow threat actors to bypass them via Git dependencies. [...]",
+      "published": "Mon, 26 Jan 2026 09:02:48 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -236,18 +245,6 @@
       "published": "Sat, 24 Jan 2026 10:23:46 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/",
-      "summary": "The ShinyHunters extortion gang claims it is behind a wave of ongoing voice phishing attacks targeting single sign-on (SSO) accounts at Okta, Microsoft, and Google, enabling threat actors to breach corporate SaaS platforms and steal company data for extortion. [...]",
-      "published": "Fri, 23 Jan 2026 18:35:03 -0500",
-      "value_score": 30,
-      "value_signals": [
-        "Breach/leak",
-        "Phishing"
-      ]
     },
     {
       "source": "Krebs on Security",

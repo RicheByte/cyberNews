@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-26 18:28 UTC  
+> **Last Updated:** 2026-01-26 20:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2024 vmware flaw** • **hacking claims crunchbase** • **badbox 2 0** • **executive order 14144** • **china based servers** • **applications ai agents** • **ai generated backdoor** • **twitter whistleblower complaint** • **protect human decisions** • **overlooked okta misconfigurations** • **multi stage backdoor** • **much clearer idea** • **sport remote connectivity** • **siphon developer data** • **vehicle infotainment systems** • **solely protecting systems** • **tracking security flaws** • **reactive security provides** • **effective security culture** • **internal network behind**
+**2024 vmware flaw** • **hacking claims crunchbase** • **executive order 14144** • **china based servers** • **applications ai agents** • **tracking security flaws** • **windows operating systems** • **ai generated backdoor** • **twitter whistleblower complaint** • **protect human decisions** • **overlooked okta misconfigurations** • **multi stage backdoor** • **sport remote connectivity** • **siphon developer data** • **reactive security provides** • **malicious cyber actors** • **generate malicious scripts** • **effective security culture** • **vehicle infotainment systems** • **solely protecting systems**
 
 ---
 
@@ -38,7 +38,6 @@
 
 ### Krebs on Security
 
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
@@ -46,6 +45,7 @@
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-26 14:23",
+  "last_updated": "2026-01-26 16:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "hacking claims crunchbase",
     "2024 vmware flaw",
     "executive order 14144",
-    "windows 11 devices",
+    "china based servers",
     "applications ai agents",
-    "windows operating systems",
-    "january updates microsoft",
-    "widely available products",
-    "twitter whistleblower complaint",
     "tracking security flaws",
-    "remote code execution",
+    "windows operating systems",
+    "windows 11 devices",
+    "twitter whistleblower complaint",
     "protect human decisions",
+    "overlooked okta misconfigurations",
     "1password digital vault",
+    "sport remote connectivity",
+    "siphon developer data",
+    "reactive security provides",
+    "effective security culture",
     "vehicle infotainment systems",
     "solely protecting systems",
-    "sport remote connectivity",
-    "scream europe frets",
-    "growing across europe",
-    "single automation system",
+    "january updates microsoft",
     "internal network behind"
   ],
   "trending": [
     {
       "keyword": "hacking claims crunchbase",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "2024 vmware flaw",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 35
+      "mentions": 36
     },
     {
-      "keyword": "windows 11 devices",
-      "mentions": 13
+      "keyword": "china based servers",
+      "mentions": 1
     },
     {
       "keyword": "applications ai agents",
-      "mentions": 27
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 203
-    },
-    {
-      "keyword": "january updates microsoft",
-      "mentions": 13
-    },
-    {
-      "keyword": "widely available products",
-      "mentions": 35
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 481
+      "mentions": 28
     },
     {
       "keyword": "tracking security flaws",
-      "mentions": 20
+      "mentions": 21
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 204
+    },
+    {
+      "keyword": "windows 11 devices",
+      "mentions": 14
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 482
+    },
+    {
+      "keyword": "protect human decisions",
+      "mentions": 21
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
+      "link": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html",
+      "summary": "Cybersecurity researchers have discovered two malicious Microsoft Visual Studio Code (VS Code) extensions that are advertised as artificial intelligence (AI)-powered coding assistants, but also harbor covert functionality to siphon developer data to China-based servers. The extensions, which have 1.5 million combined installs and are still available for download from the official Visual Studio",
+      "published": "Mon, 26 Jan 2026 21:13:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
@@ -147,17 +156,27 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities",
-      "link": "https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2025-68645 (CVSS score: 8.8) - A PHP remote file inclusion vulnerability in Synacor Zimbra Collaboration Suite (ZCS) that could allow a",
-      "published": "Fri, 23 Jan 2026 20:54:00 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Nearly 800,000 Telnet servers exposed to remote attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/",
+      "summary": "Internet security watchdog Shadowserver tracks nearly 800,000 IP addresses with Telnet fingerprints amid ongoing attacks exploiting a critical authentication bypass vulnerability in the GNU InetUtils telnetd server. [...]",
+      "published": "Mon, 26 Jan 2026 10:19:14 -0500",
+      "value_score": 39,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "CISA/KEV ×5",
+        "Auth bypass",
+        "High severity",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "6 Okta security settings you might have overlooked",
+      "link": "https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/",
+      "summary": "Okta misconfigurations can quietly weaken identity security as SaaS environments evolve. Nudge Security shows six Okta security settings teams often overlook and how to fix them. [...]",
+      "published": "Mon, 26 Jan 2026 10:01:11 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
       ]
     },
     {
@@ -227,24 +246,6 @@
       "value_signals": [
         "Patch/update ×3"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Sandworm hackers linked to failed wiper attack on Poland’s energy systems",
-      "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/",
-      "summary": "A cyberattack targeting Poland's power grid in late December 2025 has been linked to the Russian state-sponsored hacking group Sandworm, which attempted to deploy a new destructive data-wiping malware dubbed DynoWiper during the attack.. [...]",
-      "published": "Sat, 24 Jan 2026 16:58:42 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Konni hackers target blockchain engineers with AI-built malware",
-      "link": "https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/",
-      "summary": "The North Korean hacker group Konni (Opal Sleet, TA406) is using AI-generated PowerShell malware to target developers and engineers in the blockchain sector. [...]",
-      "published": "Sat, 24 Jan 2026 10:23:46 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -335,6 +336,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "DPRK's Konni Targets Blockchain Developers With AI-Generated Backdoor",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/dprks-konni-targets-blockchain-developers-ai-generated-backdoor",
+      "summary": "The North Korean threat group is using a new PowerShell backdoor to compromise development environments and target cryptocurrency holdings, according to researchers.",
+      "published": "Mon, 26 Jan 2026 15:47:40 GMT",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems",
       "link": "https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems",
       "summary": "Cybersecurity must shift from solely protecting systems to safeguarding human decision-making under uncertainty and system failures.",
@@ -406,11 +418,20 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "From a Whisper to a Scream: Europe Frets About Overreliance on US Tech",
-      "link": "https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech",
-      "summary": "Concern is growing across Europe about relying on US cybersecurity companies, and Greenland takeover talk is eroding trust across the EU even further.",
-      "published": "Thu, 22 Jan 2026 18:09:00 GMT",
+      "source": "Security Week",
+      "title": "Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms",
+      "link": "https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/",
+      "summary": "More than 20 vulnerabilities were found and patched in Dormakaba physical access control systems. The post Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms appeared first on SecurityWeek .",
+      "published": "Mon, 26 Jan 2026 16:11:08 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Upwind Raises $250 Million at $1.5 Billion Valuation",
+      "link": "https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/",
+      "summary": "The CNAPP company will use the fresh investment to scale its runtime-first cloud security offering across data, AI and code. The post Upwind Raises $250 Million at $1.5 Billion Valuation appeared first on SecurityWeek .",
+      "published": "Mon, 26 Jan 2026 14:41:11 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -473,28 +494,6 @@
       "value_signals": [
         "RCE",
         "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Nike Probing Potential Security Incident as Hackers Threaten to Leak Data",
-      "link": "https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/",
-      "summary": "The WorldLeaks cybercrime group claims to have stolen information from the footwear and apparel giant’s systems. The post Nike Probing Potential Security Incident as Hackers Threaten to Leak Data appeared first on SecurityWeek .",
-      "published": "Sat, 24 Jan 2026 08:45:43 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices",
-      "link": "https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/",
-      "summary": "Similar to recent FortiCloud single sign-on (SSO) login vulnerabilities, the attacks bypass authentication. The post Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices appeared first on SecurityWeek .",
-      "published": "Fri, 23 Jan 2026 14:00:07 +0000",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },

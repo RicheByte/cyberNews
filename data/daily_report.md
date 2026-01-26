@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-26 14:23 UTC  
+> **Last Updated:** 2026-01-26 16:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hacking claims crunchbase** • **2024 vmware flaw** • **executive order 14144** • **windows 11 devices** • **applications ai agents** • **windows operating systems** • **january updates microsoft** • **widely available products** • **twitter whistleblower complaint** • **tracking security flaws** • **remote code execution** • **protect human decisions** • **1password digital vault** • **vehicle infotainment systems** • **solely protecting systems** • **sport remote connectivity** • **scream europe frets** • **growing across europe** • **single automation system** • **internal network behind**
+**hacking claims crunchbase** • **2024 vmware flaw** • **executive order 14144** • **china based servers** • **applications ai agents** • **tracking security flaws** • **windows operating systems** • **windows 11 devices** • **twitter whistleblower complaint** • **protect human decisions** • **overlooked okta misconfigurations** • **1password digital vault** • **sport remote connectivity** • **siphon developer data** • **reactive security provides** • **effective security culture** • **vehicle infotainment systems** • **solely protecting systems** • **january updates microsoft** • **internal network behind**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code](https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html)
 - [⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More](https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html)
 - [Winning Against AI-Based Attacks Requires a Combined Defensive Approach](https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html)
 - [Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers](https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html)
@@ -23,18 +24,17 @@
 - [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html)
 - [Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html)
 - [CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html)
-- [CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities](https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html)
 
 ### BleepingComputer
 
+- [Nearly 800,000 Telnet servers exposed to remote attacks](https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/)
+- [6 Okta security settings you might have overlooked](https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/)
 - [Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies](https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/)
 - [CISA says critical VMware RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/)
 - [ChatGPT Temporary chat feature is getting a much-needed upgrade](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/)
 - [1Password adds pop-up warnings for suspected phishing sites](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/)
 - [Microsoft investigates Windows 11 boot failures after January updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/)
 - [Microsoft releases emergency OOB update to fix Outlook freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/)
-- [Sandworm hackers linked to failed wiper attack on Poland’s energy systems](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/)
-- [Konni hackers target blockchain engineers with AI-built malware](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [DPRK's Konni Targets Blockchain Developers With AI-Generated Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/dprks-konni-targets-blockchain-developers-ai-generated-backdoor)
 - [2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems](https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems)
 - [Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles](https://www.darkreading.com/endpoint-security/researchers-find-new-ways-hack-vehicles)
 - [Exploited Zero-Day Flaw in Cisco UC Could Affect Millions](https://www.darkreading.com/endpoint-security/exploited-zero-day-flaw-cisco-uc-affect-millions)
@@ -56,18 +57,17 @@
 - [Healthy Security Cultures Want People to Report Risks](https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting)
 - [Risky Chinese Electric Buses Spark Aussie Gov't Review](https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt)
 - [Fortinet Firewalls Hit With Malicious Configuration Changes](https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes)
-- [From a Whisper to a Scream: Europe Frets About Overreliance on US Tech](https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech)
 
 ### Security Week
 
+- [Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms](https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/)
+- [Upwind Raises $250 Million at $1.5 Billion Valuation](https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/)
 - [Crunchbase Confirms Data Breach After Hacking Claims](https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/)
 - [Cyber Insights 2026: Threat Hunting in an Age of Automation and AI](https://www.securityweek.com/cyber-insights-2026-threat-hunting-in-an-age-of-automation-and-ai/)
 - [‘Stanley’ Malware Toolkit Enables Phishing via Website Spoofing](https://www.securityweek.com/stanley-malware-toolkit-enables-phishing-via-website-spoofing/)
 - [TikTok Finalizes a Deal to Form a New American Entity](https://www.securityweek.com/tiktok-finalizes-a-deal-to-form-a-new-american-entity/)
 - [Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid](https://www.securityweek.com/russian-sandworm-hackers-blamed-for-cyberattack-on-polish-power-grid/)
 - [2024 VMware Flaw Now in Attackers’ Crosshairs](https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/)
-- [Nike Probing Potential Security Incident as Hackers Threaten to Leak Data](https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/)
-- [Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices](https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/)
 
 ### Threatpost
 

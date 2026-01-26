@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-26 04:52",
+  "last_updated": "2026-01-26 06:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "phishers abuse sharepoint",
     "applications ai agents",
     "single automation system",
-    "persistent remote access",
     "executive order signed",
     "executive order 14144",
+    "remote code execution",
+    "persistent remote access",
     "windows 11 devices",
+    "2024 vmware flaw",
     "widely available products",
     "twitter whistleblower complaint",
     "tracking security flaws",
-    "sport remote connectivity",
     "shinyhunters claim hacks",
     "protect human decisions",
     "1password digital vault",
     "windows operating systems",
+    "sport remote connectivity",
     "january updates microsoft",
     "vehicle infotainment systems",
-    "solely protecting systems",
-    "scream europe frets",
-    "growing across europe"
+    "solely protecting systems"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "applications ai agents",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "single automation system",
-      "mentions": 42
-    },
-    {
-      "keyword": "persistent remote access",
-      "mentions": 33
+      "mentions": 43
     },
     {
       "keyword": "executive order signed",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 30
+      "mentions": 31
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 28
+    },
+    {
+      "keyword": "persistent remote access",
+      "mentions": 34
     },
     {
       "keyword": "windows 11 devices",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "2024 vmware flaw",
+      "mentions": 1
     },
     {
       "keyword": "widely available products",
-      "mentions": 30
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 476
-    },
-    {
-      "keyword": "tracking security flaws",
-      "mentions": 15
+      "mentions": 31
     }
   ],
   "articles": [
@@ -412,6 +412,19 @@
     },
     {
       "source": "Security Week",
+      "title": "2024 VMware Flaw Now in Attackers’ Crosshairs",
+      "link": "https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/",
+      "summary": "The critical-severity vulnerability can be exploited via crafted network packets for remote code execution. The post 2024 VMware Flaw Now in Attackers’ Crosshairs appeared first on SecurityWeek .",
+      "published": "Mon, 26 Jan 2026 05:28:19 +0000",
+      "value_score": 44,
+      "value_signals": [
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Nike Probing Potential Security Incident as Hackers Threaten to Leak Data",
       "link": "https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/",
       "summary": "The WorldLeaks cybercrime group claims to have stolen information from the footwear and apparel giant’s systems. The post Nike Probing Potential Security Incident as Hackers Threaten to Leak Data appeared first on SecurityWeek .",
@@ -482,17 +495,6 @@
       "value_signals": [
         "Active exploitation",
         "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Infotainment, EV Charger Exploits Earn Hackers $1M at Pwn2Own Automotive 2026",
-      "link": "https://www.securityweek.com/infotainment-ev-charger-exploits-earn-hackers-1m-at-pwn2own-automotive-2026/",
-      "summary": "Pwn2Own participants disclosed a total of 76 vulnerabilities during the three-day event. The post Infotainment, EV Charger Exploits Earn Hackers $1M at Pwn2Own Automotive 2026 appeared first on SecurityWeek .",
-      "published": "Fri, 23 Jan 2026 11:33:22 +0000",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },

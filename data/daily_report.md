@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-26 04:52 UTC  
+> **Last Updated:** 2026-01-26 06:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **applications ai agents** • **single automation system** • **persistent remote access** • **executive order signed** • **executive order 14144** • **windows 11 devices** • **widely available products** • **twitter whistleblower complaint** • **tracking security flaws** • **sport remote connectivity** • **shinyhunters claim hacks** • **protect human decisions** • **1password digital vault** • **windows operating systems** • **january updates microsoft** • **vehicle infotainment systems** • **solely protecting systems** • **scream europe frets** • **growing across europe**
+**phishers abuse sharepoint** • **applications ai agents** • **single automation system** • **executive order signed** • **executive order 14144** • **remote code execution** • **persistent remote access** • **windows 11 devices** • **2024 vmware flaw** • **widely available products** • **twitter whistleblower complaint** • **tracking security flaws** • **shinyhunters claim hacks** • **protect human decisions** • **1password digital vault** • **windows operating systems** • **sport remote connectivity** • **january updates microsoft** • **vehicle infotainment systems** • **solely protecting systems**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [2024 VMware Flaw Now in Attackers’ Crosshairs](https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/)
 - [Nike Probing Potential Security Incident as Hackers Threaten to Leak Data](https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/)
 - [Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices](https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/)
 - [In Other News: €1.2B GDPR Fines, Net-NTLMv1 Rainbow Tables, Rockwell Security Notice](https://www.securityweek.com/in-other-news-e1-2b-gdpr-fines-net-ntlmv1-rainbow-tables-rockwell-security-notice/)
@@ -67,7 +68,6 @@
 - [Cyber Insights 2026: Regulations and the Tangled Mess of Compliance Requirements](https://www.securityweek.com/cyber-insights-2026-regulations-and-the-tangled-mess-of-compliance-requirements/)
 - [Under Armour Looking Into Data Breach Affecting Customers’ Email Addresses](https://www.securityweek.com/under-armour-looking-into-data-breach-affecting-customers-email-addresses/)
 - [Organizations Warned of Exploited Zimbra Collaboration Vulnerability](https://www.securityweek.com/organizations-warned-of-exploited-zimbra-collaboration-vulnerability/)
-- [Infotainment, EV Charger Exploits Earn Hackers $1M at Pwn2Own Automotive 2026](https://www.securityweek.com/infotainment-ev-charger-exploits-earn-hackers-1m-at-pwn2own-automotive-2026/)
 
 ### Threatpost
 

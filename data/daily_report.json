@@ -1,17 +1,16 @@
 {
-  "last_updated": "2026-01-26 08:26",
+  "last_updated": "2026-01-26 10:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "phishers abuse sharepoint",
+    "2024 vmware flaw",
     "applications ai agents",
     "single automation system",
     "executive order signed",
     "executive order 14144",
-    "remote code execution",
-    "persistent remote access",
     "windows 11 devices",
-    "2024 vmware flaw",
+    "remote code execution",
     "widely available products",
     "twitter whistleblower complaint",
     "tracking security flaws",
@@ -19,54 +18,67 @@
     "protect human decisions",
     "1password digital vault",
     "windows operating systems",
-    "sport remote connectivity",
     "january updates microsoft",
     "vehicle infotainment systems",
-    "solely protecting systems"
+    "solely protecting systems",
+    "steal company data",
+    "sport remote connectivity"
   ],
   "trending": [
     {
       "keyword": "phishers abuse sharepoint",
-      "mentions": 34
-    },
-    {
-      "keyword": "applications ai agents",
-      "mentions": 24
-    },
-    {
-      "keyword": "single automation system",
-      "mentions": 44
-    },
-    {
-      "keyword": "executive order signed",
       "mentions": 35
-    },
-    {
-      "keyword": "executive order 14144",
-      "mentions": 32
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 29
-    },
-    {
-      "keyword": "persistent remote access",
-      "mentions": 35
-    },
-    {
-      "keyword": "windows 11 devices",
-      "mentions": 10
     },
     {
       "keyword": "2024 vmware flaw",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "applications ai agents",
+      "mentions": 25
+    },
+    {
+      "keyword": "single automation system",
+      "mentions": 45
+    },
+    {
+      "keyword": "executive order signed",
+      "mentions": 36
+    },
+    {
+      "keyword": "executive order 14144",
+      "mentions": 33
+    },
+    {
+      "keyword": "windows 11 devices",
+      "mentions": 11
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 30
     },
     {
       "keyword": "widely available products",
-      "mentions": 32
+      "mentions": 33
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 479
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers",
+      "link": "https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html",
+      "summary": "The North Korean threat actor known as Konni has been observed using PowerShell malware generated using artificial intelligence (AI) tools to target developers and engineering teams in the blockchain sector. The phishing campaign has targeted Japan, Australia, and India, highlighting the adversary's expansion of the targeting scope beyond South Korea, Russia, Ukraine, and European nations, Check",
+      "published": "Mon, 26 Jan 2026 14:24:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Backdoor",
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
@@ -147,17 +159,6 @@
       "published": "Fri, 23 Jan 2026 17:00:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access",
-      "link": "https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new dual-vector campaign that leverages stolen credentials to deploy legitimate Remote Monitoring and Management (RMM) software for persistent remote access to compromised hosts. \"Instead of deploying custom viruses, attackers are bypassing security perimeters by weaponizing the necessary IT tools that administrators trust,\" KnowBe4 Threat",
-      "published": "Fri, 23 Jan 2026 16:48:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -412,6 +413,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid",
+      "link": "https://www.securityweek.com/russian-sandworm-hackers-blamed-for-cyberattack-on-polish-power-grid/",
+      "summary": "10 years after disrupting the Ukrainian power grid, the APT targeted Poland with data-wiping malware. The post Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid appeared first on SecurityWeek .",
+      "published": "Mon, 26 Jan 2026 08:55:29 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "2024 VMware Flaw Now in Attackers’ Crosshairs",
       "link": "https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/",
       "summary": "The critical-severity vulnerability can be exploited via crafted network packets for remote code execution. The post 2024 VMware Flaw Now in Attackers’ Crosshairs appeared first on SecurityWeek .",
@@ -483,19 +493,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Organizations Warned of Exploited Zimbra Collaboration Vulnerability",
-      "link": "https://www.securityweek.com/organizations-warned-of-exploited-zimbra-collaboration-vulnerability/",
-      "summary": "CISA has added the Zimbra flaw to the KEV catalog along with three other bugs exploited in the wild. The post Organizations Warned of Exploited Zimbra Collaboration Vulnerability appeared first on SecurityWeek .",
-      "published": "Fri, 23 Jan 2026 11:47:24 +0000",
-      "value_score": 81,
-      "value_signals": [
-        "Active exploitation",
-        "CISA/KEV ×2",
-        "Exploit wording"
       ]
     },
     {

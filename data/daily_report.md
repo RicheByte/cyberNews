@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-26 08:26 UTC  
+> **Last Updated:** 2026-01-26 10:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**phishers abuse sharepoint** • **applications ai agents** • **single automation system** • **executive order signed** • **executive order 14144** • **remote code execution** • **persistent remote access** • **windows 11 devices** • **2024 vmware flaw** • **widely available products** • **twitter whistleblower complaint** • **tracking security flaws** • **shinyhunters claim hacks** • **protect human decisions** • **1password digital vault** • **windows operating systems** • **sport remote connectivity** • **january updates microsoft** • **vehicle infotainment systems** • **solely protecting systems**
+**phishers abuse sharepoint** • **2024 vmware flaw** • **applications ai agents** • **single automation system** • **executive order signed** • **executive order 14144** • **windows 11 devices** • **remote code execution** • **widely available products** • **twitter whistleblower complaint** • **tracking security flaws** • **shinyhunters claim hacks** • **protect human decisions** • **1password digital vault** • **windows operating systems** • **january updates microsoft** • **vehicle infotainment systems** • **solely protecting systems** • **steal company data** • **sport remote connectivity**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers](https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html)
 - [Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
 - [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html)
 - [Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html)
@@ -23,7 +24,6 @@
 - [CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities](https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html)
 - [Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls](https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html)
 - [TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html)
-- [Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access](https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid](https://www.securityweek.com/russian-sandworm-hackers-blamed-for-cyberattack-on-polish-power-grid/)
 - [2024 VMware Flaw Now in Attackers’ Crosshairs](https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/)
 - [Nike Probing Potential Security Incident as Hackers Threaten to Leak Data](https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/)
 - [Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices](https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/)
@@ -67,7 +68,6 @@
 - [Phishers Abuse SharePoint in New Campaign Targeting Energy Sector](https://www.securityweek.com/phishers-abuse-sharepoint-in-new-campaign-targeting-energy-sector/)
 - [Cyber Insights 2026: Regulations and the Tangled Mess of Compliance Requirements](https://www.securityweek.com/cyber-insights-2026-regulations-and-the-tangled-mess-of-compliance-requirements/)
 - [Under Armour Looking Into Data Breach Affecting Customers’ Email Addresses](https://www.securityweek.com/under-armour-looking-into-data-breach-affecting-customers-email-addresses/)
-- [Organizations Warned of Exploited Zimbra Collaboration Vulnerability](https://www.securityweek.com/organizations-warned-of-exploited-zimbra-collaboration-vulnerability/)
 
 ### Threatpost
 

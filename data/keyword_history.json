@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 216,
+      "count": 217,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -145,7 +145,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 207,
+      "count": 208,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -175,7 +175,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 486,
+      "count": 487,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4062,7 +4062,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4081,7 +4081,7 @@
       ]
     },
     "effective security culture": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4097,7 +4097,7 @@
       ]
     },
     "sport remote connectivity": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4114,7 +4114,7 @@
       ]
     },
     "vehicle infotainment systems": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4138,7 +4138,7 @@
       ]
     },
     "applications ai agents": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-24",
         "2026-01-25",
@@ -4154,7 +4154,7 @@
       ]
     },
     "complete system takeover": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-24",
         "2026-01-26",
@@ -4169,7 +4169,7 @@
       ]
     },
     "tracking security flaws": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4177,7 +4177,7 @@
       ]
     },
     "protect human decisions": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4220,42 +4220,42 @@
       ]
     },
     "2024 vmware flaw": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "hacking claims crunchbase": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "china based servers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "overlooked okta misconfigurations": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "siphon developer data": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "reactive security provides": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4268,14 +4268,14 @@
       ]
     },
     "ai generated backdoor": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "multi stage backdoor": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4288,7 +4288,7 @@
       ]
     },
     "generate malicious scripts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4296,17 +4296,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-18 18:21",
-      "articles": 56,
-      "top_keywords": [
-        "cisco secure email",
-        "windows operating systems",
-        "750 000 impacted",
-        "sinec security monitor",
-        "telecontrol server basic"
-      ]
-    },
     {
       "timestamp": "2026-01-18 20:18",
       "articles": 56,
@@ -5387,6 +5376,17 @@
     },
     {
       "timestamp": "2026-01-27 01:24",
+      "articles": 56,
+      "top_keywords": [
+        "2024 vmware flaw",
+        "hacking claims crunchbase",
+        "windows operating systems",
+        "executive order 14144",
+        "applications ai agents"
+      ]
+    },
+    {
+      "timestamp": "2026-01-27 03:43",
       "articles": 56,
       "top_keywords": [
         "2024 vmware flaw",

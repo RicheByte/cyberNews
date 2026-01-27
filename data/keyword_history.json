@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 217,
+      "count": 218,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -175,7 +175,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 487,
+      "count": 488,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4062,7 +4062,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4097,7 +4097,7 @@
       ]
     },
     "sport remote connectivity": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4114,7 +4114,7 @@
       ]
     },
     "vehicle infotainment systems": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4138,7 +4138,7 @@
       ]
     },
     "applications ai agents": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-24",
         "2026-01-25",
@@ -4154,7 +4154,7 @@
       ]
     },
     "complete system takeover": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-24",
         "2026-01-26",
@@ -4169,7 +4169,7 @@
       ]
     },
     "tracking security flaws": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4177,7 +4177,7 @@
       ]
     },
     "protect human decisions": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4185,10 +4185,11 @@
       ]
     },
     "solely protecting systems": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-25",
-        "2026-01-26"
+        "2026-01-26",
+        "2026-01-27"
       ]
     },
     "shinyhunters claim hacks": {
@@ -4220,62 +4221,63 @@
       ]
     },
     "2024 vmware flaw": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "hacking claims crunchbase": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "china based servers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "overlooked okta misconfigurations": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "siphon developer data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "reactive security provides": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "badbox 2 0": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-26"
+        "2026-01-26",
+        "2026-01-27"
       ]
     },
     "ai generated backdoor": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "multi stage backdoor": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4288,7 +4290,7 @@
       ]
     },
     "generate malicious scripts": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4296,17 +4298,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-18 20:18",
-      "articles": 56,
-      "top_keywords": [
-        "cisco secure email",
-        "windows operating systems",
-        "750 000 impacted",
-        "sinec security monitor",
-        "telecontrol server basic"
-      ]
-    },
     {
       "timestamp": "2026-01-18 22:15",
       "articles": 56,
@@ -5392,6 +5383,17 @@
         "2024 vmware flaw",
         "hacking claims crunchbase",
         "windows operating systems",
+        "executive order 14144",
+        "applications ai agents"
+      ]
+    },
+    {
+      "timestamp": "2026-01-27 04:42",
+      "articles": 56,
+      "top_keywords": [
+        "2024 vmware flaw",
+        "hacking claims crunchbase",
+        "badbox 2 0",
         "executive order 14144",
         "applications ai agents"
       ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-27 18:31 UTC  
+> **Last Updated:** 2026-01-27 20:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **malicious cyber actors** • **executive order 14144** • **bypass security features** • **ai generated backdoor** • **twitter whistleblower complaint** • **remote code execution** • **multi stage backdoor** • **cve 2026 21509** • **critical security flaw** • **contact information belonging** • **chinese gambling industries** • **vehicle infotainment systems** • **sprawling phishing campaign** • **solely protecting systems** • **iba systems ibapda** • **advanced cyber attacks** • **security feature bypass** • **protect human decisions** • **band security patches**
+**executive order 14144** • **badbox 2 0** • **malicious cyber actors** • **ai generated backdoor** • **bypass security features** • **twitter whistleblower complaint** • **remote code execution** • **multi stage backdoor** • **cve 2026 21509** • **contact information belonging** • **chinese gambling industries** • **critical security flaw** • **vehicle infotainment systems** • **solely protecting systems** • **iba systems ibapda** • **advanced cyber attacks** • **protect human decisions** • **security feature bypass** • **band security patches** • **windows 10 include**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [WinRAR path traversal flaw still exploited by numerous hackers](https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/)
 - [Nike investigates data breach after extortion gang leaks files](https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/)
 - [Critical sandbox escape flaw found in popular vm2 NodeJS library](https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/)
 - [US charges 31 more suspects linked to ATM malware attacks](https://www.bleepingcomputer.com/news/security/us-charges-31-more-suspects-linked-to-atm-malware-attacks/)
@@ -34,10 +35,10 @@
 - [Over 6,000 SmarterMail servers exposed to automated hijacking attacks](https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/)
 - [Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts](https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/)
 - [New malware service guarantees phishing extensions on Chrome web store](https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/)
-- [New ClickFix attacks abuse Windows App-V scripts to push malware](https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/)
 
 ### Krebs on Security
 
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
@@ -45,7 +46,6 @@
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 

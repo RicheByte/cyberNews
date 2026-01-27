@@ -1,72 +1,87 @@
 {
-  "last_updated": "2026-01-27 08:27",
+  "last_updated": "2026-01-27 10:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "2024 vmware flaw",
     "hacking claims crunchbase",
-    "badbox 2 0",
     "executive order 14144",
-    "applications ai agents",
-    "ai generated backdoor",
+    "badbox 2 0",
+    "cve 2026 21509",
     "twitter whistleblower complaint",
+    "sport remote connectivity",
     "protect human decisions",
     "overlooked okta misconfigurations",
+    "observed targeting users",
     "multi stage backdoor",
     "china based servers",
-    "sport remote connectivity",
     "siphon developer data",
     "malicious cyber actors",
     "generate malicious scripts",
+    "cve 2026 20045",
+    "ai generated backdoor",
     "vehicle infotainment systems",
     "solely protecting systems",
     "complete system takeover",
-    "tracking security flaws",
-    "reactive security provides"
+    "targeted japan australia"
   ],
   "trending": [
     {
-      "keyword": "2024 vmware flaw",
-      "mentions": 14
-    },
-    {
       "keyword": "hacking claims crunchbase",
-      "mentions": 11
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 3
+      "mentions": 12
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 44
+      "mentions": 45
     },
     {
-      "keyword": "applications ai agents",
-      "mentions": 36
+      "keyword": "badbox 2 0",
+      "mentions": 4
     },
     {
-      "keyword": "ai generated backdoor",
-      "mentions": 8
+      "keyword": "cve 2026 21509",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 490
+      "mentions": 491
+    },
+    {
+      "keyword": "sport remote connectivity",
+      "mentions": 39
     },
     {
       "keyword": "protect human decisions",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "overlooked okta misconfigurations",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "observed targeting users",
+      "mentions": 1
     },
     {
       "keyword": "multi stage backdoor",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
+      "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
+      "summary": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks. The vulnerability, tracked as CVE-2026-21509, carries a CVSS score of 7.8 out of 10.0. It has been described as a security feature bypass in Microsoft Office. \"Reliance on untrusted inputs in a security decision in Microsoft Office allows an unauthorized",
+      "published": "Tue, 27 Jan 2026 12:49:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day ×2",
+        "Patch/update",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
@@ -139,15 +154,6 @@
       "link": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html",
       "summary": "The Russian nation-state hacking group known as Sandworm has been attributed to what has been described as the \"largest cyber attack\" targeting Poland's power system in the last week of December 2025. The attack was unsuccessful, the country's energy minister, Milosz Motyka, said last week. \"The command of the cyberspace forces has diagnosed in the last days of the year the strongest attack on",
       "published": "Sat, 24 Jan 2026 13:51:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
-      "link": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
-      "summary": "AI agents are accelerating how work gets done. They schedule meetings, access data, trigger workflows, write code, and take action in real time, pushing productivity beyond human speed across the enterprise. Then comes the moment every security team eventually hits: “Wait… who approved this?” Unlike users or applications, AI agents are often deployed quickly, shared broadly,",
-      "published": "Sat, 24 Jan 2026 13:50:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -410,6 +416,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks",
+      "link": "https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/",
+      "summary": "The vulnerability is tracked as CVE-2026-21509 and it can be exploited to bypass security features. The post Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 27 Jan 2026 08:41:04 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms",
       "link": "https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/",
       "summary": "More than 20 vulnerabilities were found and patched in Dormakaba physical access control systems. The post Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms appeared first on SecurityWeek .",
@@ -474,19 +493,6 @@
       "published": "Mon, 26 Jan 2026 08:55:29 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "2024 VMware Flaw Now in Attackers’ Crosshairs",
-      "link": "https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/",
-      "summary": "The critical-severity vulnerability can be exploited via crafted network packets for remote code execution. The post 2024 VMware Flaw Now in Attackers’ Crosshairs appeared first on SecurityWeek .",
-      "published": "Mon, 26 Jan 2026 05:28:19 +0000",
-      "value_score": 44,
-      "value_signals": [
-        "RCE",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

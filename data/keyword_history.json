@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 220,
+      "count": 221,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -175,7 +175,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 490,
+      "count": 491,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3811,9 +3811,10 @@
       ]
     },
     "cve 2026 20045": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-27"
       ]
     },
     "malicious sso logins": {
@@ -4062,7 +4063,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4097,7 +4098,7 @@
       ]
     },
     "sport remote connectivity": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4114,7 +4115,7 @@
       ]
     },
     "vehicle infotainment systems": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4154,7 +4155,7 @@
       ]
     },
     "complete system takeover": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-24",
         "2026-01-26",
@@ -4177,7 +4178,7 @@
       ]
     },
     "protect human decisions": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4185,7 +4186,7 @@
       ]
     },
     "solely protecting systems": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4228,28 +4229,28 @@
       ]
     },
     "hacking claims crunchbase": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "china based servers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "overlooked okta misconfigurations": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "siphon developer data": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4263,21 +4264,21 @@
       ]
     },
     "badbox 2 0": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "ai generated backdoor": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "multi stage backdoor": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4290,25 +4291,32 @@
       ]
     },
     "generate malicious scripts": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-26",
+        "2026-01-27"
+      ]
+    },
+    "cve 2026 21509": {
+      "count": 1,
+      "dates": [
+        "2026-01-27"
+      ]
+    },
+    "observed targeting users": {
+      "count": 1,
+      "dates": [
+        "2026-01-27"
+      ]
+    },
+    "targeted japan australia": {
+      "count": 1,
+      "dates": [
         "2026-01-27"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-19 03:45",
-      "articles": 56,
-      "top_keywords": [
-        "cisco secure email",
-        "windows operating systems",
-        "750 000 impacted",
-        "sinec security monitor",
-        "telecontrol server basic"
-      ]
-    },
     {
       "timestamp": "2026-01-19 04:47",
       "articles": 56,
@@ -5396,6 +5404,17 @@
         "badbox 2 0",
         "executive order 14144",
         "applications ai agents"
+      ]
+    },
+    {
+      "timestamp": "2026-01-27 10:22",
+      "articles": 56,
+      "top_keywords": [
+        "hacking claims crunchbase",
+        "executive order 14144",
+        "badbox 2 0",
+        "cve 2026 21509",
+        "twitter whistleblower complaint"
       ]
     }
   ]

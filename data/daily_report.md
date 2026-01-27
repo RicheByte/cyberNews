@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-27 08:27 UTC  
+> **Last Updated:** 2026-01-27 10:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2024 vmware flaw** • **hacking claims crunchbase** • **badbox 2 0** • **executive order 14144** • **applications ai agents** • **ai generated backdoor** • **twitter whistleblower complaint** • **protect human decisions** • **overlooked okta misconfigurations** • **multi stage backdoor** • **china based servers** • **sport remote connectivity** • **siphon developer data** • **malicious cyber actors** • **generate malicious scripts** • **vehicle infotainment systems** • **solely protecting systems** • **complete system takeover** • **tracking security flaws** • **reactive security provides**
+**hacking claims crunchbase** • **executive order 14144** • **badbox 2 0** • **cve 2026 21509** • **twitter whistleblower complaint** • **sport remote connectivity** • **protect human decisions** • **overlooked okta misconfigurations** • **observed targeting users** • **multi stage backdoor** • **china based servers** • **siphon developer data** • **malicious cyber actors** • **generate malicious scripts** • **cve 2026 20045** • **ai generated backdoor** • **vehicle infotainment systems** • **solely protecting systems** • **complete system takeover** • **targeted japan australia**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation](https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html)
 - [Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware](https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html)
 - [Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code](https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html)
 - [⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More](https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html)
@@ -23,7 +24,6 @@
 - [Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers](https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html)
 - [Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
 - [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html)
-- [Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks](https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/)
 - [Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms](https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/)
 - [Upwind Raises $250 Million at $1.5 Billion Valuation](https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/)
 - [Crunchbase Confirms Data Breach After Hacking Claims](https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/)
@@ -67,7 +68,6 @@
 - [‘Stanley’ Malware Toolkit Enables Phishing via Website Spoofing](https://www.securityweek.com/stanley-malware-toolkit-enables-phishing-via-website-spoofing/)
 - [TikTok Finalizes a Deal to Form a New American Entity](https://www.securityweek.com/tiktok-finalizes-a-deal-to-form-a-new-american-entity/)
 - [Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid](https://www.securityweek.com/russian-sandworm-hackers-blamed-for-cyberattack-on-polish-power-grid/)
-- [2024 VMware Flaw Now in Attackers’ Crosshairs](https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/)
 
 ### Threatpost
 

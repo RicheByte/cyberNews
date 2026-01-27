@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-27 16:24 UTC |
+| 🕐 Last Updated | 2026-01-27 18:31 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai generated backdoor` • `executive order 14144` • `badbox 2 0` • `malicious cyber actors` • `single automation system` • `twitter whistleblower complaint` • `tracking security flaws` • `target multiple environments` • `security feature bypass` • `remote code execution`
+`windows operating systems` • `malicious cyber actors` • `executive order 14144` • `bypass security features` • `ai generated backdoor` • `twitter whistleblower complaint` • `remote code execution` • `multi stage backdoor` • `cve 2026 21509` • `critical security flaw`
 
 ## 📄 Reports
 

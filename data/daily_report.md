@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-27 16:24 UTC  
+> **Last Updated:** 2026-01-27 18:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai generated backdoor** • **executive order 14144** • **badbox 2 0** • **malicious cyber actors** • **single automation system** • **twitter whistleblower complaint** • **tracking security flaws** • **target multiple environments** • **security feature bypass** • **remote code execution** • **protect human decisions** • **multi stage backdoor** • **jscript based command** • **cyera research labs** • **cve 2026 21509** • **critical security flaw** • **contact information belonging** • **chinese gambling industries** • **bypass security features** • **agentless platform including**
+**windows operating systems** • **malicious cyber actors** • **executive order 14144** • **bypass security features** • **ai generated backdoor** • **twitter whistleblower complaint** • **remote code execution** • **multi stage backdoor** • **cve 2026 21509** • **critical security flaw** • **contact information belonging** • **chinese gambling industries** • **vehicle infotainment systems** • **sprawling phishing campaign** • **solely protecting systems** • **iba systems ibapda** • **advanced cyber attacks** • **security feature bypass** • **protect human decisions** • **band security patches**
 
 ---
 
@@ -16,29 +16,28 @@
 
 ### The Hacker News
 
+- [WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware](https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html)
+- [Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities](https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html)
 - [ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services](https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html)
 - [CTEM in Practice: Prioritization, Validation, and Outcomes That Matter](https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html)
 - [Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation](https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html)
 - [Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas](https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html)
 - [China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023](https://thehackernews.com/2026/01/china-linked-hackers-have-used.html)
 - [Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware](https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html)
-- [Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code](https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html)
-- [⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More](https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html)
 
 ### BleepingComputer
 
+- [Nike investigates data breach after extortion gang leaks files](https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/)
+- [Critical sandbox escape flaw found in popular vm2 NodeJS library](https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/)
+- [US charges 31 more suspects linked to ATM malware attacks](https://www.bleepingcomputer.com/news/security/us-charges-31-more-suspects-linked-to-atm-malware-attacks/)
 - [From Cipher to Fear: The psychology behind modern ransomware extortion](https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/)
 - [Over 6,000 SmarterMail servers exposed to automated hijacking attacks](https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/)
 - [Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts](https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/)
 - [New malware service guarantees phishing extensions on Chrome web store](https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/)
 - [New ClickFix attacks abuse Windows App-V scripts to push malware](https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/)
-- [Microsoft patches actively exploited Office zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/)
-- [Cloudflare misconfiguration behind recent BGP route leak](https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/)
-- [EU launches investigation into X over Grok-generated sexual images](https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/)
 
 ### Krebs on Security
 
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
@@ -46,9 +45,11 @@
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
+- [WorldLeaks Extortion Group Claims It Stole 1.4TB of Nike Data](https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1.4tb-nike-data)
 - [Hand CVE Over to the Private Sector](https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector)
 - [Beauty in Destruction: Exploring Malware's Impact Through Art](https://www.darkreading.com/vulnerabilities-threats/beauty-in-destruction-exploring-malware-impact-through-art)
 - [Sandworm Blamed for Wiper Attack on Poland Power Grid](https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid)
@@ -56,7 +57,6 @@
 - [2025 Was a Wake-up Call to Protect Human Decisions, Not Just Systems](https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems)
 - [Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles](https://www.darkreading.com/endpoint-security/researchers-find-new-ways-hack-vehicles)
 - [Exploited Zero-Day Flaw in Cisco UC Could Affect Millions](https://www.darkreading.com/endpoint-security/exploited-zero-day-flaw-cisco-uc-affect-millions)
-- [Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases](https://www.darkreading.com/cyber-risk/gcve-raises-concerns-fragmentation-vulnerability-database)
 
 ### Security Week
 
@@ -82,13 +82,13 @@
 
 ### CISA Alerts
 
+- [Johnson Controls Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-04)
+- [Festo Didactic SE MES PC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-02)
+- [iba Systems ibaPDA](https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-01)
+- [Schneider Electric Zigbee Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-03)
 - [CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/26/cisa-adds-five-known-exploited-vulnerabilities-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/23/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Product Categories for Technologies That Use Post-Quantum Cryptography Standards](https://www.cisa.gov/resources-tools/resources/product-categories-technologies-use-post-quantum-cryptography-standards)
-- [Schneider Electric EcoStruxure Process Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-01)
-- [EVMAPA](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-08)
-- [Rockwell Automation CompactLogix 5370](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-03)
-- [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/22/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 - [Delta Electronics DIAView](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-07)
 
 ---

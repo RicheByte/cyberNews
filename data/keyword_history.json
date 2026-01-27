@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 224,
+      "count": 225,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -145,7 +145,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 210,
+      "count": 211,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -175,7 +175,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 494,
+      "count": 495,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -465,7 +465,7 @@
       ]
     },
     "remote code execution": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -662,7 +662,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1366,7 +1366,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1381,7 +1381,8 @@
         "2026-01-20",
         "2026-01-22",
         "2026-01-23",
-        "2026-01-24"
+        "2026-01-24",
+        "2026-01-27"
       ]
     },
     "model agnostic abstractions": {
@@ -4066,7 +4067,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4118,7 +4119,7 @@
       ]
     },
     "vehicle infotainment systems": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4181,7 +4182,7 @@
       ]
     },
     "protect human decisions": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4189,7 +4190,7 @@
       ]
     },
     "solely protecting systems": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4274,14 +4275,14 @@
       ]
     },
     "ai generated backdoor": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "multi stage backdoor": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4301,7 +4302,7 @@
       ]
     },
     "cve 2026 21509": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-27"
       ]
@@ -4325,19 +4326,19 @@
       ]
     },
     "chinese gambling industries": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-27"
       ]
     },
     "security feature bypass": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-27"
       ]
     },
     "bypass security features": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-27"
       ]
@@ -4361,7 +4362,7 @@
       ]
     },
     "contact information belonging": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-27"
       ]
@@ -4371,20 +4372,27 @@
       "dates": [
         "2026-01-27"
       ]
+    },
+    "iba systems ibapda": {
+      "count": 1,
+      "dates": [
+        "2026-01-27"
+      ]
+    },
+    "advanced cyber attacks": {
+      "count": 1,
+      "dates": [
+        "2026-01-27"
+      ]
+    },
+    "band security patches": {
+      "count": 1,
+      "dates": [
+        "2026-01-27"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-19 10:23",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "750 000 impacted",
-        "telecontrol server basic",
-        "sinec security monitor",
-        "cybersecurity firms react"
-      ]
-    },
     {
       "timestamp": "2026-01-19 12:39",
       "articles": 56,
@@ -5472,6 +5480,17 @@
         "badbox 2 0",
         "malicious cyber actors",
         "single automation system"
+      ]
+    },
+    {
+      "timestamp": "2026-01-27 18:31",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "malicious cyber actors",
+        "executive order 14144",
+        "bypass security features",
+        "ai generated backdoor"
       ]
     }
   ]

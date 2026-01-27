@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-26 22:17",
+  "last_updated": "2026-01-27 01:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,7 +7,6 @@
     "hacking claims crunchbase",
     "windows operating systems",
     "executive order 14144",
-    "china based servers",
     "applications ai agents",
     "tracking security flaws",
     "ai generated backdoor",
@@ -17,6 +16,7 @@
     "multi stage backdoor",
     "malicious cyber actors",
     "generate malicious scripts",
+    "china based servers",
     "sport remote connectivity",
     "siphon developer data",
     "reactive security provides",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "2024 vmware flaw",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "hacking claims crunchbase",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 206
+      "mentions": 207
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 39
-    },
-    {
-      "keyword": "china based servers",
-      "mentions": 4
+      "mentions": 40
     },
     {
       "keyword": "applications ai agents",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "tracking security flaws",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "ai generated backdoor",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 485
+      "mentions": 486
     },
     {
       "keyword": "protect human decisions",
-      "mentions": 24
+      "mentions": 25
+    },
+    {
+      "keyword": "overlooked okta misconfigurations",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -153,6 +153,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New malware service guarantees phishing extensions on Chrome web store",
+      "link": "https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/",
+      "summary": "A new malware-as-a-service (MaaS) called 'Stanley' promises malicious Chrome extensions that can clear Google's review process and publish them to the Chrome Web Store. [...]",
+      "published": "Mon, 26 Jan 2026 18:46:09 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New ClickFix attacks abuse Windows App-V scripts to push malware",
       "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/",
       "summary": "A new malicious campaign mixes the ClickFix method with fake CAPTCHA and a signed Microsoft Application Virtualization (App-V) script to ultimately deliver the Amatera infostealing malware. [...]",
@@ -226,21 +237,6 @@
       "published": "Mon, 26 Jan 2026 09:02:48 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA says critical VMware RCE flaw now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/",
-      "summary": "CISA has flagged a critical VMware vCenter Server vulnerability as actively exploited and ordered U.S. federal agencies to secure their servers within three weeks. [...]",
-      "published": "Mon, 26 Jan 2026 06:49:41 -0500",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×2",
-        "RCE",
-        "CISA/KEV ×2",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

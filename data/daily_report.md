@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-26 22:17 UTC  
+> **Last Updated:** 2026-01-27 01:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2024 vmware flaw** • **hacking claims crunchbase** • **windows operating systems** • **executive order 14144** • **china based servers** • **applications ai agents** • **tracking security flaws** • **ai generated backdoor** • **twitter whistleblower complaint** • **protect human decisions** • **overlooked okta misconfigurations** • **multi stage backdoor** • **malicious cyber actors** • **generate malicious scripts** • **sport remote connectivity** • **siphon developer data** • **reactive security provides** • **effective security culture** • **complete system takeover** • **vehicle infotainment systems**
+**2024 vmware flaw** • **hacking claims crunchbase** • **windows operating systems** • **executive order 14144** • **applications ai agents** • **tracking security flaws** • **ai generated backdoor** • **twitter whistleblower complaint** • **protect human decisions** • **overlooked okta misconfigurations** • **multi stage backdoor** • **malicious cyber actors** • **generate malicious scripts** • **china based servers** • **sport remote connectivity** • **siphon developer data** • **reactive security provides** • **effective security culture** • **complete system takeover** • **vehicle infotainment systems**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New malware service guarantees phishing extensions on Chrome web store](https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/)
 - [New ClickFix attacks abuse Windows App-V scripts to push malware](https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/)
 - [Microsoft patches actively exploited Office zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/)
 - [Cloudflare misconfiguration behind recent BGP route leak](https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/)
@@ -34,7 +35,6 @@
 - [Nearly 800,000 Telnet servers exposed to remote attacks](https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/)
 - [6 Okta security settings you might have overlooked](https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/)
 - [Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies](https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/)
-- [CISA says critical VMware RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/)
 
 ### Krebs on Security
 

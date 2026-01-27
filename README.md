@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-26 22:17 UTC |
+| 🕐 Last Updated | 2026-01-27 01:24 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`2024 vmware flaw` • `hacking claims crunchbase` • `windows operating systems` • `executive order 14144` • `china based servers` • `applications ai agents` • `tracking security flaws` • `ai generated backdoor` • `twitter whistleblower complaint` • `protect human decisions`
+`2024 vmware flaw` • `hacking claims crunchbase` • `windows operating systems` • `executive order 14144` • `applications ai agents` • `tracking security flaws` • `ai generated backdoor` • `twitter whistleblower complaint` • `protect human decisions` • `overlooked okta misconfigurations`
 
 ## 📄 Reports
 

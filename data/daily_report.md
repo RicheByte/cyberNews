@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-27 12:38 UTC  
+> **Last Updated:** 2026-01-27 14:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hacking claims crunchbase** • **windows operating systems** • **malicious cyber actors** • **executive order 14144** • **jscript based command** • **cve 2026 21509** • **tracking security flaws** • **chinese gambling industries** • **security feature bypass** • **critical security flaw** • **bypass security features** • **twitter whistleblower complaint** • **target multiple environments** • **protect human decisions** • **overlooked okta misconfigurations** • **multi stage backdoor** • **generate malicious scripts** • **cyera research labs** • **ai generated backdoor** • **sport remote connectivity**
+**hacking claims crunchbase** • **executive order 14144** • **badbox 2 0** • **ai generated backdoor** • **malicious cyber actors** • **jscript based command** • **single automation system** • **twitter whistleblower complaint** • **tracking security flaws** • **target multiple environments** • **security feature bypass** • **protect human decisions** • **multi stage backdoor** • **cyera research labs** • **cve 2026 21509** • **critical security flaw** • **chinese gambling industries** • **bypass security features** • **world's vulnerability database** • **generate malicious scripts**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Over 6,000 SmarterMail servers exposed to automated hijacking attacks](https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/)
 - [Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts](https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/)
 - [New malware service guarantees phishing extensions on Chrome web store](https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/)
 - [New ClickFix attacks abuse Windows App-V scripts to push malware](https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/)
@@ -34,10 +35,10 @@
 - [Cloudflare misconfiguration behind recent BGP route leak](https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/)
 - [EU launches investigation into X over Grok-generated sexual images](https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/)
 - [Nearly 800,000 Telnet servers exposed to remote attacks](https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/)
-- [6 Okta security settings you might have overlooked](https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/)
 
 ### Krebs on Security
 
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
@@ -45,21 +46,21 @@
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
+- [Beauty in Destruction: Exploring Malware's Impact Through Art](https://www.darkreading.com/vulnerabilities-threats/beauty-in-destruction-exploring-malware-impact-through-art)
+- [Hand CVE Over to the Private Sector](https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector)
 - [Sandworm Blamed for Wiper Attack on Poland Power Grid](https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid)
 - [DPRK's Konni Targets Blockchain Developers With AI-Generated Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/dprks-konni-targets-blockchain-developers-ai-generated-backdoor)
 - [2025 Was a Wake-up Call to Protect Human Decisions, Not Just Systems](https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems)
 - [Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles](https://www.darkreading.com/endpoint-security/researchers-find-new-ways-hack-vehicles)
 - [Exploited Zero-Day Flaw in Cisco UC Could Affect Millions](https://www.darkreading.com/endpoint-security/exploited-zero-day-flaw-cisco-uc-affect-millions)
 - [Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases](https://www.darkreading.com/cyber-risk/gcve-raises-concerns-fragmentation-vulnerability-database)
-- [Healthy Security Cultures Want People to Report Risks](https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting)
-- [Risky Chinese Electric Buses Spark Aussie Gov't Review](https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt)
 
 ### Security Week
 
+- [‘PackageGate’ Flaws Open JavaScript Ecosystem to Supply Chain Attacks](https://www.securityweek.com/packagegate-flaws-open-javascript-ecosystem-to-supply-chain-attacks/)
 - [Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI](https://www.securityweek.com/cyber-insights-2026-quantum-computing-and-the-potential-synergy-with-advanced-ai/)
 - [Chrome, Edge Extensions Caught Stealing ChatGPT Sessions](https://www.securityweek.com/chrome-edge-extensions-caught-stealing-chatgpt-sessions/)
 - [Organizations Warned of Exploited Linux Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/)
@@ -67,7 +68,6 @@
 - [Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms](https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/)
 - [Upwind Raises $250 Million at $1.5 Billion Valuation](https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/)
 - [Crunchbase Confirms Data Breach After Hacking Claims](https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/)
-- [Cyber Insights 2026: Threat Hunting in an Age of Automation and AI](https://www.securityweek.com/cyber-insights-2026-threat-hunting-in-an-age-of-automation-and-ai/)
 
 ### Threatpost
 

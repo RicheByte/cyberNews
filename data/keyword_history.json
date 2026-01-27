@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 222,
+      "count": 223,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -175,7 +175,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 492,
+      "count": 493,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -661,7 +661,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -3880,13 +3880,14 @@
       ]
     },
     "single automation system": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-01-22",
         "2026-01-23",
         "2026-01-24",
         "2026-01-25",
-        "2026-01-26"
+        "2026-01-26",
+        "2026-01-27"
       ]
     },
     "johnson controls inc": {
@@ -4064,7 +4065,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4171,7 +4172,7 @@
       ]
     },
     "tracking security flaws": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4179,7 +4180,7 @@
       ]
     },
     "protect human decisions": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4230,7 +4231,7 @@
       ]
     },
     "hacking claims crunchbase": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4265,21 +4266,21 @@
       ]
     },
     "badbox 2 0": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "ai generated backdoor": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "multi stage backdoor": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4292,14 +4293,14 @@
       ]
     },
     "generate malicious scripts": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "cve 2026 21509": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-27"
       ]
@@ -4317,36 +4318,42 @@
       ]
     },
     "jscript based command": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-27"
       ]
     },
     "chinese gambling industries": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-27"
       ]
     },
     "security feature bypass": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-27"
       ]
     },
     "bypass security features": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-27"
       ]
     },
     "target multiple environments": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-27"
       ]
     },
     "cyera research labs": {
+      "count": 2,
+      "dates": [
+        "2026-01-27"
+      ]
+    },
+    "world's vulnerability database": {
       "count": 1,
       "dates": [
         "2026-01-27"
@@ -4354,17 +4361,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-19 06:31",
-      "articles": 56,
-      "top_keywords": [
-        "cisco secure email",
-        "windows operating systems",
-        "750 000 impacted",
-        "sinec security monitor",
-        "telecontrol server basic"
-      ]
-    },
     {
       "timestamp": "2026-01-19 08:26",
       "articles": 56,
@@ -5452,6 +5448,17 @@
         "malicious cyber actors",
         "executive order 14144",
         "jscript based command"
+      ]
+    },
+    {
+      "timestamp": "2026-01-27 14:25",
+      "articles": 56,
+      "top_keywords": [
+        "hacking claims crunchbase",
+        "executive order 14144",
+        "badbox 2 0",
+        "ai generated backdoor",
+        "malicious cyber actors"
       ]
     }
   ]

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-27 12:38",
+  "last_updated": "2026-01-27 14:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "hacking claims crunchbase",
-    "windows operating systems",
-    "malicious cyber actors",
     "executive order 14144",
-    "jscript based command",
-    "cve 2026 21509",
-    "tracking security flaws",
-    "chinese gambling industries",
-    "security feature bypass",
-    "critical security flaw",
-    "bypass security features",
-    "twitter whistleblower complaint",
-    "target multiple environments",
-    "protect human decisions",
-    "overlooked okta misconfigurations",
-    "multi stage backdoor",
-    "generate malicious scripts",
-    "cyera research labs",
+    "badbox 2 0",
     "ai generated backdoor",
-    "sport remote connectivity"
+    "malicious cyber actors",
+    "jscript based command",
+    "single automation system",
+    "twitter whistleblower complaint",
+    "tracking security flaws",
+    "target multiple environments",
+    "security feature bypass",
+    "protect human decisions",
+    "multi stage backdoor",
+    "cyera research labs",
+    "cve 2026 21509",
+    "critical security flaw",
+    "chinese gambling industries",
+    "bypass security features",
+    "world's vulnerability database",
+    "generate malicious scripts"
   ],
   "trending": [
     {
       "keyword": "hacking claims crunchbase",
-      "mentions": 13
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 210
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 222
+      "mentions": 14
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 46
+      "mentions": 47
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 5
+    },
+    {
+      "keyword": "ai generated backdoor",
+      "mentions": 11
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 223
     },
     {
       "keyword": "jscript based command",
-      "mentions": 1
-    },
-    {
-      "keyword": "cve 2026 21509",
       "mentions": 2
     },
     {
+      "keyword": "single automation system",
+      "mentions": 47
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 493
+    },
+    {
       "keyword": "tracking security flaws",
-      "mentions": 30
+      "mentions": 31
     },
     {
-      "keyword": "chinese gambling industries",
-      "mentions": 1
-    },
-    {
-      "keyword": "security feature bypass",
-      "mentions": 1
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 108
+      "keyword": "target multiple environments",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -159,6 +159,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/",
+      "summary": "Nonprofit security organization Shadowserver has found over 6,000 SmarterMail servers exposed online and likely vulnerable to attacks exploiting a critical authentication bypass vulnerability. [...]",
+      "published": "Tue, 27 Jan 2026 09:09:47 -0500",
+      "value_score": 39,
+      "value_signals": [
+        "Auth bypass",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/",
       "summary": "Hackers have stolen the personal and contact information belonging to over 29.8 million SoundCloud user accounts after breaching the audio streaming platform's systems. [...]",
@@ -236,14 +249,14 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "6 Okta security settings you might have overlooked",
-      "link": "https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/",
-      "summary": "Okta misconfigurations can quietly weaken identity security as SaaS environments evolve. Nudge Security shows six Okta security settings teams often overlook and how to fix them. [...]",
-      "published": "Mon, 26 Jan 2026 10:01:11 -0500",
-      "value_score": 18,
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
       "value_signals": [
-        "Patch/update"
+        "Botnet ×3"
       ]
     },
     {
@@ -321,17 +334,22 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
+      "source": "Dark Reading",
+      "title": "Beauty in Destruction: Exploring Malware's Impact Through Art",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/beauty-in-destruction-exploring-malware-impact-through-art",
+      "summary": "Artistic initiatives turn cybersecurity into immersive exhibits at the Museum of Malware Art, transforming digital threats into thought-provoking experiences.",
+      "published": "Tue, 27 Jan 2026 13:08:57 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Hand CVE Over to the Private Sector",
+      "link": "https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector",
+      "summary": "How MITRE has mismanaged the world's vulnerability database for decades and wasted millions along the way.",
+      "published": "Tue, 27 Jan 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -399,30 +417,19 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Healthy Security Cultures Want People to Report Risks",
-      "link": "https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting",
-      "summary": "The signs of an effective security culture are shifting as companies call on CISOs and security teams to raise their hands unabashedly.",
-      "published": "Fri, 23 Jan 2026 16:45:35 GMT",
+      "source": "Security Week",
+      "title": "‘PackageGate’ Flaws Open JavaScript Ecosystem to Supply Chain Attacks",
+      "link": "https://www.securityweek.com/packagegate-flaws-open-javascript-ecosystem-to-supply-chain-attacks/",
+      "summary": "The protections against NPM supply chain attacks could be bypassed, leading to arbitrary code execution. The post ‘PackageGate’ Flaws Open JavaScript Ecosystem to Supply Chain Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 27 Jan 2026 13:43:32 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Risky Chinese Electric Buses Spark Aussie Gov't Review",
-      "link": "https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt",
-      "summary": "Deployed across Australia and Europe, China's electric buses are vulnerable to cybercriminals and sport remote connectivity some worry the Chinese state could exploit.",
-      "published": "Thu, 22 Jan 2026 22:13:49 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",
       "title": "Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI",
       "link": "https://www.securityweek.com/cyber-insights-2026-quantum-computing-and-the-potential-synergy-with-advanced-ai/",
-      "summary": "SecurityWeek’s Cyber Insights 2026 examines expert opinions on the expected evolution of more than a dozen areas of cybersecurity interest over the next 12 months. We spoke to hundreds of individual experts to gain their expert opinions. Here we explore quantum computing and its threat to current encryption, where the use of AI might shorten […] The post Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI appeared first on SecurityWeek .",
+      "summary": "Quantum computers are coming, with a potential computing power almost beyond comprehension. The post Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI appeared first on SecurityWeek .",
       "published": "Tue, 27 Jan 2026 12:30:00 +0000",
       "value_score": 10,
       "value_signals": []
@@ -488,15 +495,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyber Insights 2026: Threat Hunting in an Age of Automation and AI",
-      "link": "https://www.securityweek.com/cyber-insights-2026-threat-hunting-in-an-age-of-automation-and-ai/",
-      "summary": "Understanding how threat hunting differs from reactive security provides a deeper understanding of the role, while hinting at how it will evolve in the future. The post Cyber Insights 2026: Threat Hunting in an Age of Automation and AI appeared first on SecurityWeek .",
-      "published": "Mon, 26 Jan 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

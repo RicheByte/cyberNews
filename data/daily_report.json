@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27 20:18",
+  "last_updated": "2026-01-27 22:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "badbox 2 0",
     "malicious cyber actors",
     "ai generated backdoor",
-    "bypass security features",
     "twitter whistleblower complaint",
-    "remote code execution",
     "multi stage backdoor",
     "cve 2026 21509",
     "contact information belonging",
     "chinese gambling industries",
-    "critical security flaw",
-    "vehicle infotainment systems",
-    "solely protecting systems",
-    "iba systems ibapda",
+    "bypass security features",
     "advanced cyber attacks",
-    "protect human decisions",
-    "security feature bypass",
-    "band security patches",
-    "windows 10 include"
+    "dire critical rating",
+    "critical security flaw",
+    "critical infrastructure organizations",
+    "critical severity vulnerability",
+    "windows 10 include",
+    "widely available products",
+    "visible url signaling",
+    "us charges 31",
+    "undetectable phishing vector"
   ],
   "trending": [
     {
       "keyword": "executive order 14144",
-      "mentions": 50
+      "mentions": 51
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 226
+      "mentions": 227
     },
     {
       "keyword": "ai generated backdoor",
-      "mentions": 14
-    },
-    {
-      "keyword": "bypass security features",
-      "mentions": 5
+      "mentions": 15
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 496
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 35
+      "mentions": 497
     },
     {
       "keyword": "multi stage backdoor",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "cve 2026 21509",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "contact information belonging",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "chinese gambling industries",
+      "mentions": 6
+    },
+    {
+      "keyword": "bypass security features",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -333,6 +333,41 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Critical Telnet Server Flaw Exposes Forgotten Attack Surface",
+      "link": "https://www.darkreading.com/ics-ot-security/critical-telnet-server-flaw-forgotten-attack-surface",
+      "summary": "While telnet is considered obsolete, the network protocol is still used by hundreds of thousands of legacy systems and IoT devices for remote access.",
+      "published": "Tue, 27 Jan 2026 21:00:21 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Microsoft Rushes Emergency Patch for Office Zero-Day",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-rushes-emergency-patch-office-zero-day",
+      "summary": "To exploit the vulnerability, an attacker would need either system access or be able to convince a user to open a malicious Office file.",
+      "published": "Tue, 27 Jan 2026 20:07:03 GMT",
+      "value_score": 49,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'Stanley' Toolkit Turns Chrome Into Undetectable Phishing Vector",
+      "link": "https://www.darkreading.com/remote-workforce/stanley-toolkit-chrome-undetectable-phishing",
+      "summary": "The malware-as-a-service kit enables malicious extensions to overlay pages on real websites without changing the visible URL, signaling a fresh challenge for enterprise security.",
+      "published": "Tue, 27 Jan 2026 18:20:28 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "WorldLeaks Extortion Group Claims It Stole 1.4TB of Nike Data",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1.4tb-nike-data",
       "summary": "The sportswear brand is investigating an alleged breach of its network that exposed some 188,347 files of highly sensitive corporate data.",
@@ -380,40 +415,6 @@
       "value_score": 34,
       "value_signals": [
         "Backdoor ×2"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "2025 Was a Wake-up Call to Protect Human Decisions, Not Just Systems",
-      "link": "https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems",
-      "summary": "Cybersecurity must shift from solely protecting systems to safeguarding human decision-making under uncertainty and system failures.",
-      "published": "Sat, 24 Jan 2026 00:55:56 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles",
-      "link": "https://www.darkreading.com/endpoint-security/researchers-find-new-ways-hack-vehicles",
-      "summary": "Security researchers exploited dozens of vulnerabilities in vehicle infotainment systems and EV chargers during the latest Pwn2Own contest at Automotive World 2026.",
-      "published": "Fri, 23 Jan 2026 21:04:17 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Exploited Zero-Day Flaw in Cisco UC Could Affect Millions",
-      "link": "https://www.darkreading.com/endpoint-security/exploited-zero-day-flaw-cisco-uc-affect-millions",
-      "summary": "Mass scanning is underway for CVE-2026-20045, which Cisco tagged as critical because successful exploitation could lead to a complete system takeover.",
-      "published": "Fri, 23 Jan 2026 20:56:42 GMT",
-      "value_score": 67,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "High severity",
-        "Exploit wording"
       ]
     },
     {

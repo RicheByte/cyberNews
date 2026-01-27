@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 226,
+      "count": 227,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -175,7 +175,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 496,
+      "count": 497,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -662,7 +662,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -2923,11 +2923,12 @@
       ]
     },
     "dire critical rating": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-14",
         "2026-01-17",
-        "2026-01-18"
+        "2026-01-18",
+        "2026-01-27"
       ]
     },
     "bugs fixed today": {
@@ -4067,7 +4068,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4077,12 +4078,13 @@
       ]
     },
     "widely available products": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-23",
         "2026-01-24",
         "2026-01-25",
-        "2026-01-26"
+        "2026-01-26",
+        "2026-01-27"
       ]
     },
     "effective security culture": {
@@ -4268,21 +4270,21 @@
       ]
     },
     "badbox 2 0": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "ai generated backdoor": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "multi stage backdoor": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4302,7 +4304,7 @@
       ]
     },
     "cve 2026 21509": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-27"
       ]
@@ -4326,7 +4328,7 @@
       ]
     },
     "chinese gambling industries": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-27"
       ]
@@ -4338,7 +4340,7 @@
       ]
     },
     "bypass security features": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-27"
       ]
@@ -4362,7 +4364,7 @@
       ]
     },
     "contact information belonging": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-27"
       ]
@@ -4380,7 +4382,7 @@
       ]
     },
     "advanced cyber attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-27"
       ]
@@ -4392,6 +4394,36 @@
       ]
     },
     "windows 10 include": {
+      "count": 2,
+      "dates": [
+        "2026-01-27"
+      ]
+    },
+    "critical infrastructure organizations": {
+      "count": 1,
+      "dates": [
+        "2026-01-27"
+      ]
+    },
+    "critical severity vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-01-27"
+      ]
+    },
+    "visible url signaling": {
+      "count": 1,
+      "dates": [
+        "2026-01-27"
+      ]
+    },
+    "us charges 31": {
+      "count": 1,
+      "dates": [
+        "2026-01-27"
+      ]
+    },
+    "undetectable phishing vector": {
       "count": 1,
       "dates": [
         "2026-01-27"
@@ -4399,17 +4431,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-19 14:22",
-      "articles": 56,
-      "top_keywords": [
-        "42 000 impacted",
-        "windows operating systems",
-        "sinec security monitor",
-        "openai hostname hints",
-        "1 000 archives"
-      ]
-    },
     {
       "timestamp": "2026-01-19 16:22",
       "articles": 56,
@@ -5497,6 +5518,17 @@
         "malicious cyber actors",
         "ai generated backdoor",
         "bypass security features"
+      ]
+    },
+    {
+      "timestamp": "2026-01-27 22:18",
+      "articles": 56,
+      "top_keywords": [
+        "executive order 14144",
+        "badbox 2 0",
+        "malicious cyber actors",
+        "ai generated backdoor",
+        "twitter whistleblower complaint"
       ]
     }
   ]

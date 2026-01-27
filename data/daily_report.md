@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-27 20:18 UTC  
+> **Last Updated:** 2026-01-27 22:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**executive order 14144** • **badbox 2 0** • **malicious cyber actors** • **ai generated backdoor** • **bypass security features** • **twitter whistleblower complaint** • **remote code execution** • **multi stage backdoor** • **cve 2026 21509** • **contact information belonging** • **chinese gambling industries** • **critical security flaw** • **vehicle infotainment systems** • **solely protecting systems** • **iba systems ibapda** • **advanced cyber attacks** • **protect human decisions** • **security feature bypass** • **band security patches** • **windows 10 include**
+**executive order 14144** • **badbox 2 0** • **malicious cyber actors** • **ai generated backdoor** • **twitter whistleblower complaint** • **multi stage backdoor** • **cve 2026 21509** • **contact information belonging** • **chinese gambling industries** • **bypass security features** • **advanced cyber attacks** • **dire critical rating** • **critical security flaw** • **critical infrastructure organizations** • **critical severity vulnerability** • **windows 10 include** • **widely available products** • **visible url signaling** • **us charges 31** • **undetectable phishing vector**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Critical Telnet Server Flaw Exposes Forgotten Attack Surface](https://www.darkreading.com/ics-ot-security/critical-telnet-server-flaw-forgotten-attack-surface)
+- [Microsoft Rushes Emergency Patch for Office Zero-Day](https://www.darkreading.com/vulnerabilities-threats/microsoft-rushes-emergency-patch-office-zero-day)
+- ['Stanley' Toolkit Turns Chrome Into Undetectable Phishing Vector](https://www.darkreading.com/remote-workforce/stanley-toolkit-chrome-undetectable-phishing)
 - [WorldLeaks Extortion Group Claims It Stole 1.4TB of Nike Data](https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1.4tb-nike-data)
 - [Hand CVE Over to the Private Sector](https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector)
 - [Beauty in Destruction: Exploring Malware's Impact Through Art](https://www.darkreading.com/vulnerabilities-threats/beauty-in-destruction-exploring-malware-impact-through-art)
 - [Sandworm Blamed for Wiper Attack on Poland Power Grid](https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid)
 - [DPRK's Konni Targets Blockchain Developers With AI-Generated Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/dprks-konni-targets-blockchain-developers-ai-generated-backdoor)
-- [2025 Was a Wake-up Call to Protect Human Decisions, Not Just Systems](https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems)
-- [Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles](https://www.darkreading.com/endpoint-security/researchers-find-new-ways-hack-vehicles)
-- [Exploited Zero-Day Flaw in Cisco UC Could Affect Millions](https://www.darkreading.com/endpoint-security/exploited-zero-day-flaw-cisco-uc-affect-millions)
 
 ### Security Week
 

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 219,
+      "count": 220,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -175,7 +175,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 489,
+      "count": 490,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4062,7 +4062,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4097,7 +4097,7 @@
       ]
     },
     "sport remote connectivity": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4114,7 +4114,7 @@
       ]
     },
     "vehicle infotainment systems": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4138,7 +4138,7 @@
       ]
     },
     "applications ai agents": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-24",
         "2026-01-25",
@@ -4154,7 +4154,7 @@
       ]
     },
     "complete system takeover": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-24",
         "2026-01-26",
@@ -4169,7 +4169,7 @@
       ]
     },
     "tracking security flaws": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4177,7 +4177,7 @@
       ]
     },
     "protect human decisions": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4185,7 +4185,7 @@
       ]
     },
     "solely protecting systems": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4221,63 +4221,63 @@
       ]
     },
     "2024 vmware flaw": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "hacking claims crunchbase": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "china based servers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "overlooked okta misconfigurations": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "siphon developer data": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "reactive security provides": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "badbox 2 0": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "ai generated backdoor": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "multi stage backdoor": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4290,7 +4290,7 @@
       ]
     },
     "generate malicious scripts": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4298,17 +4298,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-19 01:23",
-      "articles": 56,
-      "top_keywords": [
-        "cisco secure email",
-        "windows operating systems",
-        "750 000 impacted",
-        "sinec security monitor",
-        "telecontrol server basic"
-      ]
-    },
     {
       "timestamp": "2026-01-19 03:45",
       "articles": 56,
@@ -5394,6 +5383,17 @@
         "2024 vmware flaw",
         "hacking claims crunchbase",
         "windows operating systems",
+        "executive order 14144",
+        "applications ai agents"
+      ]
+    },
+    {
+      "timestamp": "2026-01-27 08:27",
+      "articles": 56,
+      "top_keywords": [
+        "2024 vmware flaw",
+        "hacking claims crunchbase",
+        "badbox 2 0",
         "executive order 14144",
         "applications ai agents"
       ]

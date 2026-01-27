@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 223,
+      "count": 224,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -175,7 +175,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 493,
+      "count": 494,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -465,14 +465,15 @@
       ]
     },
     "remote code execution": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2025-12-18",
         "2025-12-19",
         "2026-01-08",
         "2026-01-09",
         "2026-01-22",
-        "2026-01-26"
+        "2026-01-26",
+        "2026-01-27"
       ]
     },
     "attacker remotely control": {
@@ -661,7 +662,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -3880,7 +3881,7 @@
       ]
     },
     "single automation system": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -4065,7 +4066,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4172,7 +4173,7 @@
       ]
     },
     "tracking security flaws": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4180,7 +4181,7 @@
       ]
     },
     "protect human decisions": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-25",
         "2026-01-26",
@@ -4266,21 +4267,21 @@
       ]
     },
     "badbox 2 0": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "ai generated backdoor": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-26",
         "2026-01-27"
       ]
     },
     "multi stage backdoor": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-26",
         "2026-01-27"
@@ -4300,7 +4301,7 @@
       ]
     },
     "cve 2026 21509": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-27"
       ]
@@ -4318,37 +4319,37 @@
       ]
     },
     "jscript based command": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-27"
       ]
     },
     "chinese gambling industries": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-27"
       ]
     },
     "security feature bypass": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-27"
       ]
     },
     "bypass security features": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-27"
       ]
     },
     "target multiple environments": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-27"
       ]
     },
     "cyera research labs": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-27"
       ]
@@ -4358,20 +4359,21 @@
       "dates": [
         "2026-01-27"
       ]
+    },
+    "contact information belonging": {
+      "count": 1,
+      "dates": [
+        "2026-01-27"
+      ]
+    },
+    "agentless platform including": {
+      "count": 1,
+      "dates": [
+        "2026-01-27"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-19 08:26",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "750 000 impacted",
-        "telecontrol server basic",
-        "sinec security monitor",
-        "cybersecurity firms react"
-      ]
-    },
     {
       "timestamp": "2026-01-19 10:23",
       "articles": 56,
@@ -5459,6 +5461,17 @@
         "badbox 2 0",
         "ai generated backdoor",
         "malicious cyber actors"
+      ]
+    },
+    {
+      "timestamp": "2026-01-27 16:24",
+      "articles": 56,
+      "top_keywords": [
+        "ai generated backdoor",
+        "executive order 14144",
+        "badbox 2 0",
+        "malicious cyber actors",
+        "single automation system"
       ]
     }
   ]

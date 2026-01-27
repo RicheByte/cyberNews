@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-27 14:25",
+  "last_updated": "2026-01-27 16:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "hacking claims crunchbase",
+    "ai generated backdoor",
     "executive order 14144",
     "badbox 2 0",
-    "ai generated backdoor",
     "malicious cyber actors",
-    "jscript based command",
     "single automation system",
     "twitter whistleblower complaint",
     "tracking security flaws",
     "target multiple environments",
     "security feature bypass",
+    "remote code execution",
     "protect human decisions",
     "multi stage backdoor",
+    "jscript based command",
     "cyera research labs",
     "cve 2026 21509",
     "critical security flaw",
+    "contact information belonging",
     "chinese gambling industries",
     "bypass security features",
-    "world's vulnerability database",
-    "generate malicious scripts"
+    "agentless platform including"
   ],
   "trending": [
     {
-      "keyword": "hacking claims crunchbase",
-      "mentions": 14
+      "keyword": "ai generated backdoor",
+      "mentions": 12
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 5
-    },
-    {
-      "keyword": "ai generated backdoor",
-      "mentions": 11
+      "mentions": 6
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 223
-    },
-    {
-      "keyword": "jscript based command",
-      "mentions": 2
+      "mentions": 224
     },
     {
       "keyword": "single automation system",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 493
+      "mentions": 494
     },
     {
       "keyword": "tracking security flaws",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "target multiple environments",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "security feature bypass",
+      "mentions": 3
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 33
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+      "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute an information stealer called Amatera. \"Instead of launching PowerShell directly, the attacker uses this script to control how execution begins and to avoid more common, easily recognized execution paths,\"",
+      "published": "Tue, 27 Jan 2026 20:08:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
@@ -149,13 +158,16 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Winning Against AI-Based Attacks Requires a Combined Defensive Approach",
-      "link": "https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html",
-      "summary": "If there’s a constant in cybersecurity, it’s that adversaries are always innovating. The rise of offensive AI is transforming attack strategies and making them harder to detect. Google’s Threat Intelligence Group, recently reported on adversaries using Large Language Models (LLMs) to both conceal code and generate malicious scripts on the fly, letting malware shape-shift in real-time to evade",
-      "published": "Mon, 26 Jan 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "From Cipher to Fear: The psychology behind modern ransomware extortion",
+      "link": "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/",
+      "summary": "Modern ransomware has shifted from encryption to psychological extortion that exploits fear, liability, and exposure. Flare shows how today's ransomware groups weaponize stolen data and pressure tactics to force payment. [...]",
+      "published": "Tue, 27 Jan 2026 10:02:12 -0500",
+      "value_score": 52,
+      "value_signals": [
+        "Ransomware ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -234,19 +246,6 @@
       "published": "Mon, 26 Jan 2026 12:14:29 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Nearly 800,000 Telnet servers exposed to remote attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/",
-      "summary": "Internet security watchdog Shadowserver tracks nearly 800,000 IP addresses with Telnet fingerprints amid ongoing attacks exploiting a critical authentication bypass vulnerability in the GNU InetUtils telnetd server. [...]",
-      "published": "Mon, 26 Jan 2026 10:19:14 -0500",
-      "value_score": 39,
-      "value_signals": [
-        "Auth bypass",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -335,19 +334,19 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Beauty in Destruction: Exploring Malware's Impact Through Art",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/beauty-in-destruction-exploring-malware-impact-through-art",
-      "summary": "Artistic initiatives turn cybersecurity into immersive exhibits at the Museum of Malware Art, transforming digital threats into thought-provoking experiences.",
-      "published": "Tue, 27 Jan 2026 13:08:57 GMT",
+      "title": "Hand CVE Over to the Private Sector",
+      "link": "https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector",
+      "summary": "How MITRE has mismanaged the world's vulnerability database for decades and wasted millions along the way.",
+      "published": "Tue, 27 Jan 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Dark Reading",
-      "title": "Hand CVE Over to the Private Sector",
-      "link": "https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector",
-      "summary": "How MITRE has mismanaged the world's vulnerability database for decades and wasted millions along the way.",
-      "published": "Tue, 27 Jan 2026 13:00:00 GMT",
+      "title": "Beauty in Destruction: Exploring Malware's Impact Through Art",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/beauty-in-destruction-exploring-malware-impact-through-art",
+      "summary": "Artistic initiatives turn cybersecurity into immersive exhibits at the Museum of Malware Art, transforming digital threats into thought-provoking experiences.",
+      "published": "Mon, 26 Jan 2026 23:08:57 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -418,6 +417,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Memcyco Raises $37 Million for Anti-Impersonation Technology",
+      "link": "https://www.securityweek.com/memcyco-raises-37-million-for-anti-impersonation-technology/",
+      "summary": "The startup will use the investment to fuel global expansion of its agentless platform, including in Latin America. The post Memcyco Raises $37 Million for Anti-Impersonation Technology appeared first on SecurityWeek .",
+      "published": "Tue, 27 Jan 2026 15:37:39 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Over 100 Organizations Targeted in ShinyHunters Phishing Campaign",
+      "link": "https://www.securityweek.com/over-100-organizations-targeted-in-shinyhunters-phishing-campaign/",
+      "summary": "Domains set up by the threat actor suggest attacks aimed at Atlassian, Canva, Epic Games, HubSpot, Moderna, ZoomInfo, and WeWork. The post Over 100 Organizations Targeted in ShinyHunters Phishing Campaign appeared first on SecurityWeek .",
+      "published": "Tue, 27 Jan 2026 14:57:09 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "‘PackageGate’ Flaws Open JavaScript Ecosystem to Supply Chain Attacks",
       "link": "https://www.securityweek.com/packagegate-flaws-open-javascript-ecosystem-to-supply-chain-attacks/",
       "summary": "The protections against NPM supply chain attacks could be bypassed, leading to arbitrary code execution. The post ‘PackageGate’ Flaws Open JavaScript Ecosystem to Supply Chain Attacks appeared first on SecurityWeek .",
@@ -475,26 +494,6 @@
       "published": "Mon, 26 Jan 2026 16:11:08 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Upwind Raises $250 Million at $1.5 Billion Valuation",
-      "link": "https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/",
-      "summary": "The CNAPP company will use the fresh investment to scale its runtime-first cloud security offering across data, AI and code. The post Upwind Raises $250 Million at $1.5 Billion Valuation appeared first on SecurityWeek .",
-      "published": "Mon, 26 Jan 2026 14:41:11 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Crunchbase Confirms Data Breach After Hacking Claims",
-      "link": "https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/",
-      "summary": "Crunchbase was targeted alongside SoundCloud and Betterment in a ShinyHunters campaign. The post Crunchbase Confirms Data Breach After Hacking Claims appeared first on SecurityWeek .",
-      "published": "Mon, 26 Jan 2026 12:22:02 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

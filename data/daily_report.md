@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-27 10:22 UTC  
+> **Last Updated:** 2026-01-27 12:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hacking claims crunchbase** • **executive order 14144** • **badbox 2 0** • **cve 2026 21509** • **twitter whistleblower complaint** • **sport remote connectivity** • **protect human decisions** • **overlooked okta misconfigurations** • **observed targeting users** • **multi stage backdoor** • **china based servers** • **siphon developer data** • **malicious cyber actors** • **generate malicious scripts** • **cve 2026 20045** • **ai generated backdoor** • **vehicle infotainment systems** • **solely protecting systems** • **complete system takeover** • **targeted japan australia**
+**hacking claims crunchbase** • **windows operating systems** • **malicious cyber actors** • **executive order 14144** • **jscript based command** • **cve 2026 21509** • **tracking security flaws** • **chinese gambling industries** • **security feature bypass** • **critical security flaw** • **bypass security features** • **twitter whistleblower complaint** • **target multiple environments** • **protect human decisions** • **overlooked okta misconfigurations** • **multi stage backdoor** • **generate malicious scripts** • **cyera research labs** • **ai generated backdoor** • **sport remote connectivity**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [CTEM in Practice: Prioritization, Validation, and Outcomes That Matter](https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html)
 - [Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation](https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html)
+- [Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas](https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html)
+- [China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023](https://thehackernews.com/2026/01/china-linked-hackers-have-used.html)
 - [Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware](https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html)
 - [Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code](https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html)
 - [⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More](https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html)
 - [Winning Against AI-Based Attacks Requires a Combined Defensive Approach](https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html)
-- [Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers](https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html)
-- [Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html)
-- [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html)
 
 ### BleepingComputer
 
+- [Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts](https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/)
 - [New malware service guarantees phishing extensions on Chrome web store](https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/)
 - [New ClickFix attacks abuse Windows App-V scripts to push malware](https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/)
 - [Microsoft patches actively exploited Office zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/)
@@ -34,11 +35,9 @@
 - [EU launches investigation into X over Grok-generated sexual images](https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/)
 - [Nearly 800,000 Telnet servers exposed to remote attacks](https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/)
 - [6 Okta security settings you might have overlooked](https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/)
-- [Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies](https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/)
 
 ### Krebs on Security
 
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
@@ -46,6 +45,7 @@
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI](https://www.securityweek.com/cyber-insights-2026-quantum-computing-and-the-potential-synergy-with-advanced-ai/)
+- [Chrome, Edge Extensions Caught Stealing ChatGPT Sessions](https://www.securityweek.com/chrome-edge-extensions-caught-stealing-chatgpt-sessions/)
+- [Organizations Warned of Exploited Linux Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/)
 - [Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks](https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/)
 - [Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms](https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/)
 - [Upwind Raises $250 Million at $1.5 Billion Valuation](https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/)
 - [Crunchbase Confirms Data Breach After Hacking Claims](https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/)
 - [Cyber Insights 2026: Threat Hunting in an Age of Automation and AI](https://www.securityweek.com/cyber-insights-2026-threat-hunting-in-an-age-of-automation-and-ai/)
-- [‘Stanley’ Malware Toolkit Enables Phishing via Website Spoofing](https://www.securityweek.com/stanley-malware-toolkit-enables-phishing-via-website-spoofing/)
-- [TikTok Finalizes a Deal to Form a New American Entity](https://www.securityweek.com/tiktok-finalizes-a-deal-to-form-a-new-american-entity/)
-- [Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid](https://www.securityweek.com/russian-sandworm-hackers-blamed-for-cyberattack-on-polish-power-grid/)
 
 ### Threatpost
 

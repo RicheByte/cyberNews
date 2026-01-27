@@ -1,78 +1,89 @@
 {
-  "last_updated": "2026-01-27 10:22",
+  "last_updated": "2026-01-27 12:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "hacking claims crunchbase",
+    "windows operating systems",
+    "malicious cyber actors",
     "executive order 14144",
-    "badbox 2 0",
+    "jscript based command",
     "cve 2026 21509",
+    "tracking security flaws",
+    "chinese gambling industries",
+    "security feature bypass",
+    "critical security flaw",
+    "bypass security features",
     "twitter whistleblower complaint",
-    "sport remote connectivity",
+    "target multiple environments",
     "protect human decisions",
     "overlooked okta misconfigurations",
-    "observed targeting users",
     "multi stage backdoor",
-    "china based servers",
-    "siphon developer data",
-    "malicious cyber actors",
     "generate malicious scripts",
-    "cve 2026 20045",
+    "cyera research labs",
     "ai generated backdoor",
-    "vehicle infotainment systems",
-    "solely protecting systems",
-    "complete system takeover",
-    "targeted japan australia"
+    "sport remote connectivity"
   ],
   "trending": [
     {
       "keyword": "hacking claims crunchbase",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 210
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 222
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 45
+      "mentions": 46
     },
     {
-      "keyword": "badbox 2 0",
-      "mentions": 4
+      "keyword": "jscript based command",
+      "mentions": 1
     },
     {
       "keyword": "cve 2026 21509",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 491
-    },
-    {
-      "keyword": "sport remote connectivity",
-      "mentions": 39
-    },
-    {
-      "keyword": "protect human decisions",
+      "keyword": "tracking security flaws",
       "mentions": 30
     },
     {
-      "keyword": "overlooked okta misconfigurations",
-      "mentions": 10
-    },
-    {
-      "keyword": "observed targeting users",
+      "keyword": "chinese gambling industries",
       "mentions": 1
     },
     {
-      "keyword": "multi stage backdoor",
-      "mentions": 9
+      "keyword": "security feature bypass",
+      "mentions": 1
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 108
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+      "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It’s not only about what could go wrong (vulnerabilities) or who might attack (threats), but where they intersect in your actual environment to create real, exploitable exposure. Which exposures truly matter? Can attackers exploit them? Are our defenses effective? Continuous Threat Exposure",
+      "published": "Tue, 27 Jan 2026 17:20:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
       "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
       "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
       "summary": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks. The vulnerability, tracked as CVE-2026-21509, carries a CVSS score of 7.8 out of 10.0. It has been described as a security feature bypass in Microsoft Office. \"Reliance on untrusted inputs in a security decision in Microsoft Office allows an unauthorized",
-      "published": "Tue, 27 Jan 2026 12:49:00 +0530",
+      "published": "Tue, 27 Jan 2026 16:07:00 +0530",
       "value_score": 100,
       "value_signals": [
         "CVE mentioned ×2",
@@ -81,6 +92,28 @@
         "Multiple CVEs",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
+      "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
+      "summary": "A critical security flaw has been disclosed in Grist‑Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution. The vulnerability, tracked as CVE-2026-24002 (CVSS score: 9.1), has been codenamed Cellbreak by Cyera Research Labs. \"One malicious formula can turn a spreadsheet into a Remote Code Execution (RCE) beachhead,\"",
+      "published": "Tue, 27 Jan 2026 16:06:00 +0530",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×4",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
+      "link": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
+      "summary": "Cybersecurity researchers have discovered a JScript-based command-and-control (C2) framework called PeckBirdy that has been put to use by China-aligned APT actors since 2023 to target multiple environments. The flexible framework has been put to use against Chinese gambling industries and malicious activities targeting Asian government entities and private organizations, according to Trend Micro",
+      "published": "Tue, 27 Jan 2026 14:31:00 +0530",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "The Hacker News",
@@ -125,37 +158,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers",
-      "link": "https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html",
-      "summary": "The North Korean threat actor known as Konni has been observed using PowerShell malware generated using artificial intelligence (AI) tools to target developers and engineering teams in the blockchain sector. The phishing campaign has targeted Japan, Australia, and India, highlighting the adversary's expansion of the targeting scope beyond South Korea, Russia, Ukraine, and European nations, Check",
-      "published": "Mon, 26 Jan 2026 14:24:00 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/",
+      "summary": "Hackers have stolen the personal and contact information belonging to over 29.8 million SoundCloud user accounts after breaching the audio streaming platform's systems. [...]",
+      "published": "Tue, 27 Jan 2026 07:25:00 -0500",
+      "value_score": 22,
       "value_signals": [
-        "Backdoor",
-        "Phishing"
+        "Breach/leak"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
-      "link": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html",
-      "summary": "A new multi-stage phishing campaign has been observed targeting users in Russia with ransomware and a remote access trojan called Amnesia RAT. \"The attack begins with social engineering lures delivered via business-themed documents crafted to appear routine and benign,\" Fortinet FortiGuard Labs researcher Cara Lin said in a technical breakdown published this week. \"These documents and",
-      "published": "Sat, 24 Jan 2026 16:39:00 +0530",
-      "value_score": 62,
-      "value_signals": [
-        "Ransomware ×2",
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector",
-      "link": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html",
-      "summary": "The Russian nation-state hacking group known as Sandworm has been attributed to what has been described as the \"largest cyber attack\" targeting Poland's power system in the last week of December 2025. The attack was unsuccessful, the country's energy minister, Milosz Motyka, said last week. \"The command of the cyberspace forces has diagnosed in the last days of the year the strongest attack on",
-      "published": "Sat, 24 Jan 2026 13:51:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -236,26 +247,6 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/",
-      "summary": "The defense mechanisms that NPM introduced after the 'Shai-Hulud' supply-chain attacks have weaknesses that allow threat actors to bypass them via Git dependencies. [...]",
-      "published": "Mon, 26 Jan 2026 09:02:48 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -328,6 +319,19 @@
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -416,6 +420,35 @@
     },
     {
       "source": "Security Week",
+      "title": "Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI",
+      "link": "https://www.securityweek.com/cyber-insights-2026-quantum-computing-and-the-potential-synergy-with-advanced-ai/",
+      "summary": "SecurityWeek’s Cyber Insights 2026 examines expert opinions on the expected evolution of more than a dozen areas of cybersecurity interest over the next 12 months. We spoke to hundreds of individual experts to gain their expert opinions. Here we explore quantum computing and its threat to current encryption, where the use of AI might shorten […] The post Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI appeared first on SecurityWeek .",
+      "published": "Tue, 27 Jan 2026 12:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome, Edge Extensions Caught Stealing ChatGPT Sessions",
+      "link": "https://www.securityweek.com/chrome-edge-extensions-caught-stealing-chatgpt-sessions/",
+      "summary": "Marketed as ChatGPT enhancement and productivity tools, the extensions allow the threat actor to access the victim's ChatGPT data. The post Chrome, Edge Extensions Caught Stealing ChatGPT Sessions appeared first on SecurityWeek .",
+      "published": "Tue, 27 Jan 2026 12:28:42 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Organizations Warned of Exploited Linux Vulnerabilities",
+      "link": "https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/",
+      "summary": "The flaws allow threat actors to obtain root privileges or bypass authentication via Telnet and gain shell access as root. The post Organizations Warned of Exploited Linux Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 27 Jan 2026 10:37:02 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks",
       "link": "https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/",
       "summary": "The vulnerability is tracked as CVE-2026-21509 and it can be exploited to bypass security features. The post Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks appeared first on SecurityWeek .",
@@ -462,35 +495,6 @@
       "link": "https://www.securityweek.com/cyber-insights-2026-threat-hunting-in-an-age-of-automation-and-ai/",
       "summary": "Understanding how threat hunting differs from reactive security provides a deeper understanding of the role, while hinting at how it will evolve in the future. The post Cyber Insights 2026: Threat Hunting in an Age of Automation and AI appeared first on SecurityWeek .",
       "published": "Mon, 26 Jan 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "‘Stanley’ Malware Toolkit Enables Phishing via Website Spoofing",
-      "link": "https://www.securityweek.com/stanley-malware-toolkit-enables-phishing-via-website-spoofing/",
-      "summary": "Priced $2,000 - $6,000 on a cybercrime forum, the MaaS toolkit promises publication on the Chrome Web Store. The post ‘Stanley’ Malware Toolkit Enables Phishing via Website Spoofing appeared first on SecurityWeek .",
-      "published": "Mon, 26 Jan 2026 11:44:38 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "TikTok Finalizes a Deal to Form a New American Entity",
-      "link": "https://www.securityweek.com/tiktok-finalizes-a-deal-to-form-a-new-american-entity/",
-      "summary": "TikTok has finalized a deal to create a new American entity, avoiding the looming threat of a ban in the United States. The post TikTok Finalizes a Deal to Form a New American Entity appeared first on SecurityWeek .",
-      "published": "Mon, 26 Jan 2026 11:29:23 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid",
-      "link": "https://www.securityweek.com/russian-sandworm-hackers-blamed-for-cyberattack-on-polish-power-grid/",
-      "summary": "10 years after disrupting the Ukrainian power grid, the APT targeted Poland with data-wiping malware. The post Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid appeared first on SecurityWeek .",
-      "published": "Mon, 26 Jan 2026 08:55:29 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-27 10:22 UTC |
+| 🕐 Last Updated | 2026-01-27 12:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`hacking claims crunchbase` • `executive order 14144` • `badbox 2 0` • `cve 2026 21509` • `twitter whistleblower complaint` • `sport remote connectivity` • `protect human decisions` • `overlooked okta misconfigurations` • `observed targeting users` • `multi stage backdoor`
+`hacking claims crunchbase` • `windows operating systems` • `malicious cyber actors` • `executive order 14144` • `jscript based command` • `cve 2026 21509` • `tracking security flaws` • `chinese gambling industries` • `security feature bypass` • `critical security flaw`
 
 ## 📄 Reports
 

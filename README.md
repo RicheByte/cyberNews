@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-28 16:30 UTC |
+| 🕐 Last Updated | 2026-01-28 18:31 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`us charges 31` • `executive order 14144` • `badbox 2 0` • `rein security emerges` • `remote code execution` • `rewriting compliance controls` • `dire critical rating` • `released security updates` • `twitter whistleblower complaint` • `slovakian national admitted`
+`us charges 31` • `rein security emerges` • `rewriting compliance controls` • `remote code execution` • `dire critical rating` • `windows operating systems` • `malicious cyber actors` • `twitter whistleblower complaint` • `slovakian national admitted` • `rightly command attention`
 
 ## 📄 Reports
 

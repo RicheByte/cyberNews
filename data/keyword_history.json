@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 234,
+      "count": 235,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -146,7 +146,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 218,
+      "count": 219,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -177,7 +177,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 506,
+      "count": 507,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -468,7 +468,7 @@
       ]
     },
     "remote code execution": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1791,7 +1791,7 @@
       ]
     },
     "president s efforts": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1801,7 +1801,8 @@
         "2026-01-08",
         "2026-01-12",
         "2026-01-13",
-        "2026-01-20"
+        "2026-01-20",
+        "2026-01-28"
       ]
     },
     "wafer fabrication operation": {
@@ -1857,10 +1858,11 @@
       ]
     },
     "token security explains": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-05",
-        "2026-01-06"
+        "2026-01-06",
+        "2026-01-28"
       ]
     },
     "advanced ai technologies": {
@@ -2394,7 +2396,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2933,7 +2935,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3138,7 +3140,7 @@
       ]
     },
     "released security updates": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4441,7 +4443,7 @@
       ]
     },
     "us charges 31": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4497,7 +4499,7 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-28"
       ]
@@ -4521,19 +4523,19 @@
       ]
     },
     "rein security emerges": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-28"
       ]
     },
     "slovakian national admitted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-28"
       ]
     },
     "cyber espionage attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-28"
       ]
@@ -4545,25 +4547,25 @@
       ]
     },
     "rewriting compliance controls": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-28"
       ]
     },
     "rightly command attention": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-28"
       ]
     },
     "perform unauthorized actions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-28"
       ]
     },
     "high risk individuals": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-28"
       ]
@@ -4575,6 +4577,12 @@
       ]
     },
     "johnson controls products": {
+      "count": 2,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "backdoor called coolclient": {
       "count": 1,
       "dates": [
         "2026-01-28"
@@ -4582,17 +4590,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-20 10:22",
-      "articles": 56,
-      "top_keywords": [
-        "42 000 impacted",
-        "sinec security monitor",
-        "telecontrol server basic",
-        "least 50 companies",
-        "siemens ruggedcom ros"
-      ]
-    },
     {
       "timestamp": "2026-01-20 12:39",
       "articles": 56,
@@ -5680,6 +5677,17 @@
         "badbox 2 0",
         "rein security emerges",
         "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-01-28 18:31",
+      "articles": 56,
+      "top_keywords": [
+        "us charges 31",
+        "rein security emerges",
+        "rewriting compliance controls",
+        "remote code execution",
+        "dire critical rating"
       ]
     }
   ]

@@ -1,84 +1,89 @@
 {
-  "last_updated": "2026-01-28 16:30",
+  "last_updated": "2026-01-28 18:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "us charges 31",
-    "executive order 14144",
-    "badbox 2 0",
     "rein security emerges",
-    "remote code execution",
     "rewriting compliance controls",
+    "remote code execution",
     "dire critical rating",
-    "released security updates",
+    "windows operating systems",
+    "malicious cyber actors",
     "twitter whistleblower complaint",
     "slovakian national admitted",
     "rightly command attention",
     "perform unauthorized actions",
-    "packages named spellcheckerpy",
     "high risk individuals",
-    "fortios single sign",
+    "backdoor called coolclient",
     "atm jackpotting scheme",
     "arbitrary code execution",
-    "underlying operating system",
+    "cyber espionage attacks",
+    "president s efforts",
     "johnson controls products",
-    "authentication bypass related"
+    "token security explains",
+    "released security updates"
   ],
   "trending": [
     {
       "keyword": "us charges 31",
-      "mentions": 10
-    },
-    {
-      "keyword": "executive order 14144",
-      "mentions": 60
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "rein security emerges",
+      "mentions": 3
+    },
+    {
+      "keyword": "rewriting compliance controls",
       "mentions": 2
     },
     {
       "keyword": "remote code execution",
-      "mentions": 37
-    },
-    {
-      "keyword": "rewriting compliance controls",
-      "mentions": 1
+      "mentions": 38
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 14
+      "mentions": 15
     },
     {
-      "keyword": "released security updates",
-      "mentions": 8
+      "keyword": "windows operating systems",
+      "mentions": 219
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 235
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 506
+      "mentions": 507
     },
     {
       "keyword": "slovakian national admitted",
+      "mentions": 3
+    },
+    {
+      "keyword": "rightly command attention",
       "mentions": 2
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
-      "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
-      "summary": "A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system. The vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of 10.0 on the CVSS scoring system. \"In vm2 for version 3.10.0, Promise.prototype.then Promise.prototype.catch",
-      "published": "Wed, 28 Jan 2026 19:31:00 +0530",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
+      "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
+      "link": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
+      "summary": "Cybersecurity researchers have flagged a new malicious Microsoft Visual Studio Code (VS Code) extension for Moltbot (formerly Clawdbot) on the official Extension Marketplace that claims to be a free artificial intelligence (AI) coding assistant, but stealthily drops a malicious payload on compromised hosts. The extension, named \"ClawdBot Agent - AI Coding Assistant\" (\"clawdbot.clawdbot-agent\")",
+      "published": "Wed, 28 Jan 2026 23:16:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
+      "link": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
+      "summary": "The \"coordinated\" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM. Operational technology (OT) cybersecurity company Dragos, in a new intelligence brief published Tuesday, described the late December 2025 activity as the first major cyber attack targeting distributed energy",
+      "published": "Wed, 28 Jan 2026 21:36:00 +0530",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "The Hacker News",
@@ -100,6 +105,19 @@
       "published": "Wed, 28 Jan 2026 17:25:00 +0530",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
+      "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
+      "summary": "A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system. The vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of 10.0 on the CVSS scoring system. \"In vm2 for version 3.10.0, Promise.prototype.then Promise.prototype.catch",
+      "published": "Wed, 28 Jan 2026 17:20:00 +0530",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "The Hacker News",
@@ -138,29 +156,35 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
-      "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
-      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT). The packages, named spellcheckerpy and spellcheckpy, are no longer available on PyPI, but not before they were collectively downloaded a little over 1,000 times. \"Hidden inside the Basque",
-      "published": "Wed, 28 Jan 2026 15:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "New sandbox escape flaw exposes n8n instances to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/",
+      "summary": "Two vulnerabilities in the n8n workflow automation platform could allow attackers to fully compromise affected instances, access sensitive data, and execute arbitrary code on the underlying host. [...]",
+      "published": "Wed, 28 Jan 2026 12:46:57 -0500",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
-      "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
-      "summary": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild. The vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4), has been described as an authentication bypass related to FortiOS single sign-on (SSO). The flaw also affects FortiManager and FortiAnalyzer. The company said it's",
-      "published": "Wed, 28 Jan 2026 10:19:00 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "FBI seizes RAMP cybercrime forum used by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/",
+      "summary": "The FBI has seized the notorious RAMP cybercrime forum, a platform used to advertise a wide range of malware and hacking services, and one of the few remaining forums that openly allowed the promotion of ransomware operations. [...]",
+      "published": "Wed, 28 Jan 2026 12:38:45 -0500",
+      "value_score": 46,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation",
-        "Auth bypass",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Ransomware ×2"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Empire cybercrime market owner pleads guilty to drug conspiracy",
+      "link": "https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/",
+      "summary": "​A Virginia man who co-created Empire Market, one of the largest dark web marketplaces at the time, pleaded guilty to federal drug conspiracy charges for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
+      "published": "Wed, 28 Jan 2026 12:19:02 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -211,53 +235,6 @@
       "published": "Wed, 28 Jan 2026 06:48:26 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/",
-      "summary": "OpenAI plans to begin rolling out ads on ChatGPT in the United States if you have a free or $8 Go subscription, but the catch is that the ads could be very expensive for advertisers. [...]",
-      "published": "Tue, 27 Jan 2026 19:04:45 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fortinet blocks exploited FortiCloud SSO zero day until patch is ready",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/",
-      "summary": "Fortinet has confirmed a new, actively exploited critical FortiCloud single sign-on (SSO) authentication bypass vulnerability, tracked as CVE-2026-24858, and says it has mitigated the zero-day attacks by blocking FortiCloud SSO connections from devices running vulnerable firmware versions. [...]",
-      "published": "Tue, 27 Jan 2026 18:19:42 -0500",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation",
-        "Auth bypass",
-        "Patch/update",
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese Mustang Panda hackers deploy infostealers via CoolClient backdoor",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/",
-      "summary": "The Chinese espionage threat group Mustang Panda has updated its CoolClient backdoor to a new variant that can steal login data from browsers and monitor the clipboard. [...]",
-      "published": "Tue, 27 Jan 2026 17:26:26 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×2"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -330,6 +307,28 @@
       "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
       "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks",
+      "link": "https://www.darkreading.com/threat-intelligence/china-backed-peckbirdy-cross-platform-attacks",
+      "summary": "In two separate campaigns, attackers used the JScript C2 framework to target Chinese gambling websites and Asian government entities with new backdoors.",
+      "published": "Wed, 28 Jan 2026 16:19:22 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -410,15 +409,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Hand CVE Over to the Private Sector",
-      "link": "https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector",
-      "summary": "How MITRE has mismanaged the world's vulnerability database for decades and wasted millions along the way.",
-      "published": "Tue, 27 Jan 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -580,6 +570,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Fortinet Releases Guidance to Address Ongoing Exploitation of Authentication Bypass Vulnerability CVE-2026-24858",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/01/28/fortinet-releases-guidance-address-ongoing-exploitation-authentication-bypass-vulnerability-cve-2026",
+      "summary": "Newly disclosed vulnerability Common Vulnerabilities and Exposures (CVE)-2026-24858 [ Common Weakness Enumeration (CWE)-288: Authentication Bypass Using an Alternate Path or Channel ] allows malicious actors with a FortiCloud account and a registered device to log in to separate devices registered to other users in FortiOS, FortiManager, FortiWeb, FortiProxy, and FortiAnalyzer, if FortiCloud single sign on (SSO) is enabled on devices. 1 Users are vulnerable to CVE-2026-24858 even if they updated",
+      "published": "Wed, 28 Jan 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "Auth bypass ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Johnson Controls Products",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-04",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in remote SQL execution, leading to alteration or loss of data. The following versions of Johnson Controls Products are affected: Application and Data Server (ADS) (CVE-2025-26385) Extended Application and Data Server (ADX) (CVE-2025-26385) LCS8500 (CVE-2025-26385) NAE8500 (CVE-2025-26385) System Configuration Tool (SCT) (CVE-2025-26385) Controller Configuration Tool (CCT) (CVE-2025-26385) CVSS Vendor Equipment Vulnerab",
@@ -658,18 +663,6 @@
         "CISA/KEV ×5",
         "Multiple CVEs",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Product Categories for Technologies That Use Post-Quantum Cryptography Standards",
-      "link": "https://www.cisa.gov/resources-tools/resources/product-categories-technologies-use-post-quantum-cryptography-standards",
-      "summary": "Executive Summary In response to the June 6, 2025, Executive Order (EO) 14306, “Sustaining Select Efforts to Strengthen the Nation’s Cybersecurity and Amending Executive Order 13694 and Executive Order 14144,” the Cybersecurity and Infrastructure Security Agency (CISA) is providing and regularly updating the below lists to aid in post-quantum cryptography (PQC) adoption. The lists include hardware and software categories with example types of widely available products that use PQC standards to p",
-      "published": "Fri, 23 Jan 26 12:00:00 +0000",
-      "value_score": 55,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CISA/KEV"
       ]
     },
     {

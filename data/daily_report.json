@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-27 22:18",
+  "last_updated": "2026-01-28 01:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "executive order 14144",
-    "badbox 2 0",
     "malicious cyber actors",
-    "ai generated backdoor",
+    "executive order 14144",
+    "windows operating systems",
     "twitter whistleblower complaint",
-    "multi stage backdoor",
     "cve 2026 21509",
-    "contact information belonging",
     "chinese gambling industries",
-    "bypass security features",
     "advanced cyber attacks",
-    "dire critical rating",
+    "bypass security features",
+    "ai generated data",
     "critical security flaw",
-    "critical infrastructure organizations",
-    "critical severity vulnerability",
-    "windows 10 include",
+    "band security patches",
     "widely available products",
     "visible url signaling",
     "us charges 31",
-    "undetectable phishing vector"
+    "undetectable phishing vector",
+    "underlying host system",
+    "today we'll dig",
+    "strong theme running",
+    "stole 1 4tb",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
-      "keyword": "executive order 14144",
-      "mentions": 51
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 8
-    },
-    {
       "keyword": "malicious cyber actors",
-      "mentions": 227
+      "mentions": 228
     },
     {
-      "keyword": "ai generated backdoor",
-      "mentions": 15
+      "keyword": "executive order 14144",
+      "mentions": 52
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 212
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 497
-    },
-    {
-      "keyword": "multi stage backdoor",
-      "mentions": 15
+      "mentions": 498
     },
     {
       "keyword": "cve 2026 21509",
-      "mentions": 7
-    },
-    {
-      "keyword": "contact information belonging",
-      "mentions": 4
+      "mentions": 8
     },
     {
       "keyword": "chinese gambling industries",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "advanced cyber attacks",
+      "mentions": 4
     },
     {
       "keyword": "bypass security features",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "ai generated data",
+      "mentions": 1
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 114
     }
   ],
   "articles": [
@@ -156,6 +156,42 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/",
+      "summary": "OpenAI plans to begin rolling out ads on ChatGPT in the United States if you have a free or $8 Go subscription, but the catch is that the ads could be very expensive for advertisers. [...]",
+      "published": "Tue, 27 Jan 2026 19:04:45 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Fortinet blocks exploited FortiCloud SSO zero day until patch is ready",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/",
+      "summary": "Fortinet has confirmed a new, actively exploited critical FortiCloud single sign-on (SSO) authentication bypass vulnerability, tracked as CVE-2026-24858, and says it has mitigated the zero-day attacks by blocking FortiCloud SSO connections from devices running vulnerable firmware versions. [...]",
+      "published": "Tue, 27 Jan 2026 18:19:42 -0500",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation",
+        "Auth bypass",
+        "Patch/update",
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Chinese Mustang Panda hackers deploy infostealers via CoolClient backdoor",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/",
+      "summary": "The Chinese espionage threat group Mustang Panda has updated its CoolClient backdoor to a new variant that can steal login data from browsers and monitor the clipboard. [...]",
+      "published": "Tue, 27 Jan 2026 17:26:26 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "WinRAR path traversal flaw still exploited by numerous hackers",
       "link": "https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/",
       "summary": "Multiple threat actors, both state-sponsored and financially motivated, are exploiting the CVE-2025-8088 high-severity vulnerability in WinRAR for initial access and to deliver various malicious payloads. [...]",
@@ -209,52 +245,6 @@
       "value_signals": [
         "Ransomware ×3",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/",
-      "summary": "Nonprofit security organization Shadowserver has found over 6,000 SmarterMail servers exposed online and likely vulnerable to attacks exploiting a critical authentication bypass vulnerability. [...]",
-      "published": "Tue, 27 Jan 2026 09:09:47 -0500",
-      "value_score": 39,
-      "value_signals": [
-        "Auth bypass",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/",
-      "summary": "Hackers have stolen the personal and contact information belonging to over 29.8 million SoundCloud user accounts after breaching the audio streaming platform's systems. [...]",
-      "published": "Tue, 27 Jan 2026 07:25:00 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New malware service guarantees phishing extensions on Chrome web store",
-      "link": "https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/",
-      "summary": "A new malware-as-a-service (MaaS) called 'Stanley' promises malicious Chrome extensions that can clear Google's review process and publish them to the Chrome Web Store. [...]",
-      "published": "Mon, 26 Jan 2026 18:46:09 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
       ]
     },
     {
@@ -332,6 +322,39 @@
       "value_signals": []
     },
     {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI &amp; the Death of Accuracy: What It Means for Zero-Trust",
+      "link": "https://www.darkreading.com/application-security/ai-death-accuracy-zero-trust",
+      "summary": "AI \"model collapse,\" where LLMs over time train on more and more AI-generated data and become degraded as a result, can introduce inaccuracies, promulgate malicious activity, and impact PII protections.",
+      "published": "Tue, 27 Jan 2026 22:31:48 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Vibe-Coded 'Sicarii' Ransomware Can't Be Decrypted",
+      "link": "https://www.darkreading.com/endpoint-security/vibe-coded-sicarii-ransomware-decrypted",
+      "summary": "A new ransomware strain that entered the scene last year has poorly designed code and an odd \"Hebrew\" identity that might be a false flag.",
+      "published": "Tue, 27 Jan 2026 22:15:39 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
       "source": "Dark Reading",
       "title": "Critical Telnet Server Flaw Exposes Forgotten Attack Surface",
       "link": "https://www.darkreading.com/ics-ot-security/critical-telnet-server-flaw-forgotten-attack-surface",
@@ -394,28 +417,6 @@
       "published": "Mon, 26 Jan 2026 23:08:57 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Sandworm Blamed for Wiper Attack on Poland Power Grid",
-      "link": "https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid",
-      "summary": "Researchers attributed the failed attempt to the infamous Russian APT Sandworm, which is notorious for wiper attacks on critical infrastructure organizations.",
-      "published": "Mon, 26 Jan 2026 21:30:14 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "DPRK's Konni Targets Blockchain Developers With AI-Generated Backdoor",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/dprks-konni-targets-blockchain-developers-ai-generated-backdoor",
-      "summary": "The North Korean threat group is using a new PowerShell backdoor to compromise development environments and target cryptocurrency holdings, according to researchers.",
-      "published": "Mon, 26 Jan 2026 15:47:40 GMT",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×2"
-      ]
     },
     {
       "source": "Security Week",
@@ -596,6 +597,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/01/27/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-24858 Fortinet Multiple Products Authentication Bypass Using an Alternate Path or Channel Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities establis",
+      "published": "Tue, 27 Jan 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Auth bypass",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Festo Didactic SE MES PC",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-02",
       "summary": "View CSAF Summary MES PCs shipped with Windows 10 come pre-installed with XAMPP. XAMPP is a bundle of third-party open-source applications including the Apache HTTP Server, the MariaDB database and more. From time to time, vulnerabilities in these applications are discovered. These are fixed in newer versions of XAMPP by updating the bundled applications. MES PCs shipped with Windows 10 include a copy of XAMPP which contains around 140 such vulnerabilities listed in this advisory. They can be fi",
@@ -649,20 +665,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/01/23/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-37079 Broadcom VMware vCenter Server Out-of-bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
-      "published": "Fri, 23 Jan 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Product Categories for Technologies That Use Post-Quantum Cryptography Standards",
       "link": "https://www.cisa.gov/resources-tools/resources/product-categories-technologies-use-post-quantum-cryptography-standards",
       "summary": "Executive Summary In response to the June 6, 2025, Executive Order (EO) 14306, “Sustaining Select Efforts to Strengthen the Nation’s Cybersecurity and Amending Executive Order 13694 and Executive Order 14144,” the Cybersecurity and Infrastructure Security Agency (CISA) is providing and regularly updating the below lists to aid in post-quantum cryptography (PQC) adoption. The lists include hardware and software categories with example types of widely available products that use PQC standards to p",
@@ -675,15 +677,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Delta Electronics DIAView",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-07",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could enable an attacker to execute arbitrary code. The following versions of Delta Electronics DIAView are affected: DIAView (CVE-2026-0975) CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics DIAView Improper Neutralization of Special Elements used in a Command ('Command Injection') Background Critical Infrastructure Sectors: Chemical, Commercial Facilities, Critical Manufacturing, Energy, Transportati",
-      "published": "Thu, 22 Jan 26 12:00:00 +0000",
-      "value_score": 75,
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/01/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-37079 Broadcom VMware vCenter Server Out-of-bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
+      "published": "Fri, 23 Jan 26 12:00:00 +0000",
+      "value_score": 99,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
-        "High severity ×2",
+        "CISA/KEV ×6",
         "Exploit wording"
       ]
     }

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-28 04:40 UTC |
+| 🕐 Last Updated | 2026-01-28 06:29 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`malicious cyber actors` • `executive order 14144` • `windows operating systems` • `twitter whistleblower complaint` • `cve 2026 21509` • `chinese gambling industries` • `advanced cyber attacks` • `bypass security features` • `ai generated data` • `critical security flaw`
+`critical security flaw` • `executive order 14144` • `authentication bypass related` • `windows operating systems` • `malicious cyber actors` • `twitter whistleblower complaint` • `fortios single sign` • `cve 2026 21509` • `chinese gambling industries` • `bypass security features`
 
 ## 📄 Reports
 

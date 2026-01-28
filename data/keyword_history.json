@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 230,
+      "count": 231,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -146,7 +146,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 214,
+      "count": 215,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -177,7 +177,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 500,
+      "count": 501,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -665,7 +665,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -2338,7 +2338,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2930,12 +2930,13 @@
       ]
     },
     "dire critical rating": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-14",
         "2026-01-17",
         "2026-01-18",
-        "2026-01-27"
+        "2026-01-27",
+        "2026-01-28"
       ]
     },
     "bugs fixed today": {
@@ -4075,7 +4076,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4086,7 +4087,7 @@
       ]
     },
     "widely available products": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4313,7 +4314,7 @@
       ]
     },
     "cve 2026 21509": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4338,7 +4339,7 @@
       ]
     },
     "chinese gambling industries": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4351,7 +4352,7 @@
       ]
     },
     "bypass security features": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4394,14 +4395,14 @@
       ]
     },
     "advanced cyber attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-27",
         "2026-01-28"
       ]
     },
     "band security patches": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4426,34 +4427,34 @@
       ]
     },
     "visible url signaling": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-27",
         "2026-01-28"
       ]
     },
     "us charges 31": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-27",
         "2026-01-28"
       ]
     },
     "undetectable phishing vector": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-27",
         "2026-01-28"
       ]
     },
     "ai generated data": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-28"
       ]
     },
     "underlying host system": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-28"
       ]
@@ -4463,20 +4464,21 @@
       "dates": [
         "2026-01-28"
       ]
+    },
+    "authentication bypass related": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "fortios single sign": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-19 22:17",
-      "articles": 56,
-      "top_keywords": [
-        "42 000 impacted",
-        "sinec security monitor",
-        "openai hostname hints",
-        "telecontrol server basic",
-        "siemens ruggedcom ros"
-      ]
-    },
     {
       "timestamp": "2026-01-20 01:18",
       "articles": 56,
@@ -5564,6 +5566,17 @@
         "windows operating systems",
         "twitter whistleblower complaint",
         "cve 2026 21509"
+      ]
+    },
+    {
+      "timestamp": "2026-01-28 06:29",
+      "articles": 56,
+      "top_keywords": [
+        "critical security flaw",
+        "executive order 14144",
+        "authentication bypass related",
+        "windows operating systems",
+        "malicious cyber actors"
       ]
     }
   ]

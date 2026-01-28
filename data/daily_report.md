@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-28 04:40 UTC  
+> **Last Updated:** 2026-01-28 06:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**malicious cyber actors** • **executive order 14144** • **windows operating systems** • **twitter whistleblower complaint** • **cve 2026 21509** • **chinese gambling industries** • **advanced cyber attacks** • **bypass security features** • **ai generated data** • **critical security flaw** • **band security patches** • **widely available products** • **visible url signaling** • **us charges 31** • **undetectable phishing vector** • **underlying host system** • **today we'll dig** • **strong theme running** • **stole 1 4tb** • **sprawling phishing campaign**
+**critical security flaw** • **executive order 14144** • **authentication bypass related** • **windows operating systems** • **malicious cyber actors** • **twitter whistleblower complaint** • **fortios single sign** • **cve 2026 21509** • **chinese gambling industries** • **bypass security features** • **dire critical rating** • **advanced cyber attacks** • **band security patches** • **ai generated data** • **widely available products** • **visible url signaling** • **us charges 31** • **undetectable phishing vector** • **underlying host system** • **today we'll dig**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected](https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html)
 - [WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware](https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html)
 - [Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities](https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html)
 - [ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services](https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html)
@@ -23,7 +24,6 @@
 - [Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation](https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html)
 - [Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas](https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html)
 - [China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023](https://thehackernews.com/2026/01/china-linked-hackers-have-used.html)
-- [Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware](https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html)
 
 ### BleepingComputer
 

@@ -1,72 +1,88 @@
 {
-  "last_updated": "2026-01-28 04:40",
+  "last_updated": "2026-01-28 06:29",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "malicious cyber actors",
+    "critical security flaw",
     "executive order 14144",
+    "authentication bypass related",
     "windows operating systems",
+    "malicious cyber actors",
     "twitter whistleblower complaint",
+    "fortios single sign",
     "cve 2026 21509",
     "chinese gambling industries",
-    "advanced cyber attacks",
     "bypass security features",
-    "ai generated data",
-    "critical security flaw",
+    "dire critical rating",
+    "advanced cyber attacks",
     "band security patches",
+    "ai generated data",
     "widely available products",
     "visible url signaling",
     "us charges 31",
     "undetectable phishing vector",
     "underlying host system",
-    "today we'll dig",
-    "strong theme running",
-    "stole 1 4tb",
-    "sprawling phishing campaign"
+    "today we'll dig"
   ],
   "trending": [
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 230
+      "keyword": "critical security flaw",
+      "mentions": 117
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 54
+      "mentions": 55
+    },
+    {
+      "keyword": "authentication bypass related",
+      "mentions": 1
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 214
+      "mentions": 215
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 231
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 500
+      "mentions": 501
+    },
+    {
+      "keyword": "fortios single sign",
+      "mentions": 1
     },
     {
       "keyword": "cve 2026 21509",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "chinese gambling industries",
-      "mentions": 9
-    },
-    {
-      "keyword": "advanced cyber attacks",
-      "mentions": 6
+      "mentions": 10
     },
     {
       "keyword": "bypass security features",
-      "mentions": 9
-    },
-    {
-      "keyword": "ai generated data",
-      "mentions": 3
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 116
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
+      "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
+      "summary": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild. The vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4), has been described as an authentication bypass related to FortiOS single sign-on (SSO). The flaw also affects FortiManager and FortiAnalyzer. The company said it's",
+      "published": "Wed, 28 Jan 2026 10:19:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "Auth bypass",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
@@ -141,18 +157,6 @@
       "published": "Tue, 27 Jan 2026 14:31:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
-      "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
-      "summary": "Cybersecurity researchers have discovered an ongoing campaign that's targeting Indian users with a multi-stage backdoor as part of a suspected cyber espionage campaign. The activity, per the eSentire Threat Response Unit (TRU), involves using phishing emails impersonating the Income Tax Department of India to trick victims into downloading a malicious archive, ultimately granting the threat",
-      "published": "Mon, 26 Jan 2026 22:31:00 +0530",
-      "value_score": 38,
-      "value_signals": [
-        "Backdoor",
-        "Phishing ×2"
-      ]
     },
     {
       "source": "BleepingComputer",

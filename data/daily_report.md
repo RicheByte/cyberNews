@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-28 20:24 UTC  
+> **Last Updated:** 2026-01-28 22:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**us charges 31** • **rein security emerges** • **rewriting compliance controls** • **remote code execution** • **dire critical rating** • **windows operating systems** • **malicious cyber actors** • **twitter whistleblower complaint** • **slovakian national admitted** • **rightly command attention** • **perform unauthorized actions** • **high risk individuals** • **backdoor called coolclient** • **atm jackpotting scheme** • **arbitrary code execution** • **cyber espionage attacks** • **president s efforts** • **johnson controls products** • **token security explains** • **released security updates**
+**us charges 31** • **rein security emerges** • **perform unauthorized actions** • **rewriting compliance controls** • **remote code execution** • **dire critical rating** • **windows operating systems** • **malicious cyber actors** • **twitter whistleblower complaint** • **rightly command attention** • **backdoor called coolclient** • **atm jackpotting scheme** • **arbitrary code execution** • **token security explains** • **released security updates** • **president s efforts** • **national security risk** • **johnson controls products** • **cyber espionage attacks** • **vulnerabilities earned microsoft's**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Cyberattack on Polish energy grid impacted around 30 facilities](https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/)
+- [eScan confirms update server breached to push malicious update](https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/)
+- [Viral Moltbot AI assistant raises concerns over data security](https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/)
 - [New sandbox escape flaw exposes n8n instances to RCE attacks](https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/)
 - [FBI seizes RAMP cybercrime forum used by ransomware gangs](https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/)
 - [Empire cybercrime market owner pleads guilty to drug conspiracy](https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/)
 - [AI Is Rewriting Compliance Controls and CISOs Must Take Notice](https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/)
 - [SolarWinds warns of critical Web Help Desk RCE, auth bypass flaws](https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-critical-web-help-desk-rce-auth-bypass-flaws/)
-- [Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation](https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/)
-- [Slovakian man pleads guilty to operating darknet marketplace](https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/)
-- [New WhatsApp lockdown feature protects high-risk users from hackers](https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Fortinet Confirms New Zero-Day Behind Malicious SSO Logins](https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins)
 - [China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks](https://www.darkreading.com/threat-intelligence/china-backed-peckbirdy-cross-platform-attacks)
 - [Surging Cyberattacks Boost Latin America to Riskiest Region](https://www.darkreading.com/cyber-risk/surging-cyberattacks-latin-america-riskiest-region)
 - [AI &amp; the Death of Accuracy: What It Means for Zero-Trust](https://www.darkreading.com/application-security/ai-death-accuracy-zero-trust)
@@ -56,7 +57,6 @@
 - [Critical Telnet Server Flaw Exposes Forgotten Attack Surface](https://www.darkreading.com/ics-ot-security/critical-telnet-server-flaw-forgotten-attack-surface)
 - [Microsoft Rushes Emergency Patch for Office Zero-Day](https://www.darkreading.com/vulnerabilities-threats/microsoft-rushes-emergency-patch-office-zero-day)
 - ['Stanley' Toolkit Turns Chrome Into Undetectable Phishing Vector](https://www.darkreading.com/remote-workforce/stanley-toolkit-chrome-undetectable-phishing)
-- [WorldLeaks Extortion Group Claims It Stole 1.4TB of Nike Data](https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1.4tb-nike-data)
 
 ### Security Week
 

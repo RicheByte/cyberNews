@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 236,
+      "count": 237,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -146,7 +146,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 220,
+      "count": 221,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -177,7 +177,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 508,
+      "count": 509,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -468,7 +468,7 @@
       ]
     },
     "remote code execution": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -697,7 +697,7 @@
       ]
     },
     "national security risk": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1791,7 +1791,7 @@
       ]
     },
     "president s efforts": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1858,7 +1858,7 @@
       ]
     },
     "token security explains": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -2396,7 +2396,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2935,7 +2935,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -2952,13 +2952,14 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-14",
         "2026-01-15",
         "2026-01-20",
         "2026-01-21",
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-28"
       ]
     },
     "final patch tuesday": {
@@ -3140,7 +3141,7 @@
       ]
     },
     "released security updates": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4443,7 +4444,7 @@
       ]
     },
     "us charges 31": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4499,7 +4500,7 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-28"
       ]
@@ -4523,7 +4524,7 @@
       ]
     },
     "rein security emerges": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-28"
       ]
@@ -4535,7 +4536,7 @@
       ]
     },
     "cyber espionage attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-28"
       ]
@@ -4547,19 +4548,19 @@
       ]
     },
     "rewriting compliance controls": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-28"
       ]
     },
     "rightly command attention": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-28"
       ]
     },
     "perform unauthorized actions": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-28"
       ]
@@ -4577,30 +4578,19 @@
       ]
     },
     "johnson controls products": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-28"
       ]
     },
     "backdoor called coolclient": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-28"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-20 14:26",
-      "articles": 56,
-      "top_keywords": [
-        "telecontrol server basic",
-        "sinec security monitor",
-        "least 50 companies",
-        "identities left behind",
-        "siemens ruggedcom ros"
-      ]
-    },
     {
       "timestamp": "2026-01-20 16:29",
       "articles": 56,
@@ -5688,6 +5678,17 @@
         "rewriting compliance controls",
         "remote code execution",
         "dire critical rating"
+      ]
+    },
+    {
+      "timestamp": "2026-01-28 22:21",
+      "articles": 56,
+      "top_keywords": [
+        "us charges 31",
+        "rein security emerges",
+        "perform unauthorized actions",
+        "rewriting compliance controls",
+        "remote code execution"
       ]
     }
   ]

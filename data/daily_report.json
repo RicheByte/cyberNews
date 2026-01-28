@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-28 20:24",
+  "last_updated": "2026-01-28 22:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "us charges 31",
     "rein security emerges",
+    "perform unauthorized actions",
     "rewriting compliance controls",
     "remote code execution",
     "dire critical rating",
     "windows operating systems",
     "malicious cyber actors",
     "twitter whistleblower complaint",
-    "slovakian national admitted",
     "rightly command attention",
-    "perform unauthorized actions",
-    "high risk individuals",
     "backdoor called coolclient",
     "atm jackpotting scheme",
     "arbitrary code execution",
-    "cyber espionage attacks",
-    "president s efforts",
-    "johnson controls products",
     "token security explains",
-    "released security updates"
+    "released security updates",
+    "president s efforts",
+    "national security risk",
+    "johnson controls products",
+    "cyber espionage attacks",
+    "vulnerabilities earned microsoft's"
   ],
   "trending": [
     {
       "keyword": "us charges 31",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "rein security emerges",
+      "mentions": 5
+    },
+    {
+      "keyword": "perform unauthorized actions",
       "mentions": 4
     },
     {
       "keyword": "rewriting compliance controls",
-      "mentions": 3
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 39
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 16
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 220
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 236
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 508
-    },
-    {
-      "keyword": "slovakian national admitted",
       "mentions": 4
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 40
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 17
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 221
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 237
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 509
+    },
+    {
       "keyword": "rightly command attention",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -157,6 +157,35 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cyberattack on Polish energy grid impacted around 30 facilities",
+      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/",
+      "summary": "The coordinated attack on Poland's power grid in late December targeted multiple distributed energy resource (DER) sites across the country, including combined heat and power (CHP) facilities and wind and solar dispatch systems. [...]",
+      "published": "Wed, 28 Jan 2026 17:14:35 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "eScan confirms update server breached to push malicious update",
+      "link": "https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/",
+      "summary": "MicroWorld Technologies, the maker of the eScan antivirus product, has confirmed that one of its update servers was breached and used to distribute an unauthorized update later analyzed as malicious to a small subset of customers earlier this month. [...]",
+      "published": "Wed, 28 Jan 2026 16:00:40 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×4"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Viral Moltbot AI assistant raises concerns over data security",
+      "link": "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/",
+      "summary": "Security researchers are warning of insecure deployments in enterprise environments of the Moltbot (formerly Clawdbot) AI assistant, which can lead to leaking API keys, OAuth tokens, conversation history, and credentials. [...]",
+      "published": "Wed, 28 Jan 2026 15:26:59 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New sandbox escape flaw exposes n8n instances to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/",
       "summary": "Two vulnerabilities in the n8n workflow automation platform could allow attackers to fully compromise affected instances, access sensitive data, and execute arbitrary code on the underlying host. [...]",
@@ -208,33 +237,6 @@
         "Patch/update",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/",
-      "summary": "A malicious campaign is actively targeting exposed LLM (Large Language Model) service endpoints to commercialize unauthorized access to AI infrastructure. [...]",
-      "published": "Wed, 28 Jan 2026 08:15:03 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Slovakian man pleads guilty to operating darknet marketplace",
-      "link": "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/",
-      "summary": "A Slovakian national admitted on Tuesday to helping operate a darknet marketplace that sold narcotics, cybercrime tools and services, fake government IDs, and stolen personal information for more than two years. [...]",
-      "published": "Wed, 28 Jan 2026 07:49:05 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New WhatsApp lockdown feature protects high-risk users from hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/",
-      "summary": "Meta has started rolling out a new WhatsApp lockdown-style security feature designed to protect journalists, public figures, and other high-risk individuals from sophisticated threats, including spyware attacks. [...]",
-      "published": "Wed, 28 Jan 2026 06:48:26 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -325,6 +327,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Fortinet Confirms New Zero-Day Behind Malicious SSO Logins",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins",
+      "summary": "To stop the ongoing attacks, the cybersecurity vendor took the drastic step of temporarily disabling FortiCloud single sign-on (SSO) authentication for all devices.",
+      "published": "Wed, 28 Jan 2026 21:14:27 GMT",
+      "value_score": 35,
+      "value_signals": [
+        "Zero-day"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks",
       "link": "https://www.darkreading.com/threat-intelligence/china-backed-peckbirdy-cross-platform-attacks",
       "summary": "In two separate campaigns, attackers used the JScript C2 framework to target Chinese gambling websites and Asian government entities with new backdoors.",
@@ -397,17 +410,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "WorldLeaks Extortion Group Claims It Stole 1.4TB of Nike Data",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1.4tb-nike-data",
-      "summary": "The sportswear brand is investigating an alleged breach of its network that exposed some 188,347 files of highly sensitive corporate data.",
-      "published": "Tue, 27 Jan 2026 16:41:40 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

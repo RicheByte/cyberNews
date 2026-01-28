@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 232,
+      "count": 233,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -146,7 +146,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 216,
+      "count": 217,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -177,7 +177,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 502,
+      "count": 503,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -665,7 +665,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -696,7 +696,7 @@
       ]
     },
     "national security risk": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -704,7 +704,8 @@
         "2026-01-18",
         "2026-01-19",
         "2026-01-20",
-        "2026-01-23"
+        "2026-01-23",
+        "2026-01-28"
       ]
     },
     "open source millions": {
@@ -2338,7 +2339,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2930,7 +2931,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4076,7 +4077,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4087,7 +4088,7 @@
       ]
     },
     "widely available products": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4339,7 +4340,7 @@
       ]
     },
     "chinese gambling industries": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4402,7 +4403,7 @@
       ]
     },
     "band security patches": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4427,21 +4428,21 @@
       ]
     },
     "visible url signaling": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-27",
         "2026-01-28"
       ]
     },
     "us charges 31": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-27",
         "2026-01-28"
       ]
     },
     "undetectable phishing vector": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4454,7 +4455,7 @@
       ]
     },
     "underlying host system": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-28"
       ]
@@ -4466,18 +4467,30 @@
       ]
     },
     "authentication bypass related": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-28"
       ]
     },
     "fortios single sign": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-28"
       ]
     },
     "close security gap": {
+      "count": 2,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "impact pii protections": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "atm jackpotting scheme": {
       "count": 1,
       "dates": [
         "2026-01-28"
@@ -4485,17 +4498,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-20 03:39",
-      "articles": 56,
-      "top_keywords": [
-        "42 000 impacted",
-        "sinec security monitor",
-        "telecontrol server basic",
-        "least 50 companies",
-        "siemens ruggedcom ros"
-      ]
-    },
     {
       "timestamp": "2026-01-20 04:40",
       "articles": 56,
@@ -5583,6 +5585,17 @@
         "windows operating systems",
         "twitter whistleblower complaint",
         "fortios single sign"
+      ]
+    },
+    {
+      "timestamp": "2026-01-28 10:23",
+      "articles": 56,
+      "top_keywords": [
+        "us charges 31",
+        "critical security flaw",
+        "executive order 14144",
+        "windows operating systems",
+        "twitter whistleblower complaint"
       ]
     }
   ]

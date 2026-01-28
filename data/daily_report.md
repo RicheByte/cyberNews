@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-28 08:25 UTC  
+> **Last Updated:** 2026-01-28 10:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical security flaw** • **executive order 14144** • **windows operating systems** • **twitter whistleblower complaint** • **fortios single sign** • **chinese gambling industries** • **authentication bypass related** • **advanced cyber attacks** • **malicious cyber actors** • **dire critical rating** • **close security gap** • **band security patches** • **ai generated data** • **widely available products** • **visible url signaling** • **us charges 31** • **undetectable phishing vector** • **underlying host system** • **today we'll dig** • **strong theme running**
+**us charges 31** • **critical security flaw** • **executive order 14144** • **windows operating systems** • **twitter whistleblower complaint** • **impact pii protections** • **fortios single sign** • **chinese gambling industries** • **authentication bypass related** • **atm jackpotting scheme** • **malicious cyber actors** • **dire critical rating** • **national security risk** • **close security gap** • **band security patches** • **widely available products** • **visible url signaling** • **undetectable phishing vector** • **underlying host system** • **today we'll dig**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [WhatsApp Boosts Account Security for At-Risk Individuals](https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/)
+- [US Charges 31 More Defendants in Massive ATM Hacking Probe](https://www.securityweek.com/us-charges-31-more-defendants-in-massive-atm-hacking-probe/)
+- [APTs, Cybercriminals Widely Exploiting WinRAR Vulnerability](https://www.securityweek.com/apts-cybercriminals-widely-exploiting-winrar-vulnerability/)
 - [Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems](https://www.securityweek.com/indurex-emerges-from-stealth-to-close-security-gap-in-cyber-physical-systems/)
 - [Fortinet Patches Exploited FortiCloud SSO Authentication Bypass](https://www.securityweek.com/fortinet-patches-exploited-forticloud-sso-authentication-bypass/)
 - [High-Severity Remote Code Execution Vulnerability Patched in OpenSSL](https://www.securityweek.com/high-severity-remote-code-execution-vulnerability-patched-in-openssl/)
 - [Memcyco Raises $37 Million for Anti-Impersonation Technology](https://www.securityweek.com/memcyco-raises-37-million-for-anti-impersonation-technology/)
 - [Over 100 Organizations Targeted in ShinyHunters Phishing Campaign](https://www.securityweek.com/over-100-organizations-targeted-in-shinyhunters-phishing-campaign/)
-- [‘PackageGate’ Flaws Open JavaScript Ecosystem to Supply Chain Attacks](https://www.securityweek.com/packagegate-flaws-open-javascript-ecosystem-to-supply-chain-attacks/)
-- [Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI](https://www.securityweek.com/cyber-insights-2026-quantum-computing-and-the-potential-synergy-with-advanced-ai/)
-- [Chrome, Edge Extensions Caught Stealing ChatGPT Sessions](https://www.securityweek.com/chrome-edge-extensions-caught-stealing-chatgpt-sessions/)
 
 ### Threatpost
 

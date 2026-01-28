@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-28 08:25",
+  "last_updated": "2026-01-28 10:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "us charges 31",
     "critical security flaw",
     "executive order 14144",
     "windows operating systems",
     "twitter whistleblower complaint",
+    "impact pii protections",
     "fortios single sign",
     "chinese gambling industries",
     "authentication bypass related",
-    "advanced cyber attacks",
+    "atm jackpotting scheme",
     "malicious cyber actors",
     "dire critical rating",
+    "national security risk",
     "close security gap",
     "band security patches",
-    "ai generated data",
     "widely available products",
     "visible url signaling",
-    "us charges 31",
     "undetectable phishing vector",
     "underlying host system",
-    "today we'll dig",
-    "strong theme running"
+    "today we'll dig"
   ],
   "trending": [
     {
+      "keyword": "us charges 31",
+      "mentions": 7
+    },
+    {
       "keyword": "critical security flaw",
-      "mentions": 118
+      "mentions": 119
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 56
+      "mentions": 57
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 216
+      "mentions": 217
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 502
+      "mentions": 503
+    },
+    {
+      "keyword": "impact pii protections",
+      "mentions": 1
     },
     {
       "keyword": "fortios single sign",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "chinese gambling industries",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "authentication bypass related",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "advanced cyber attacks",
-      "mentions": 8
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 232
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 10
+      "keyword": "atm jackpotting scheme",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -424,6 +424,36 @@
     },
     {
       "source": "Security Week",
+      "title": "WhatsApp Boosts Account Security for At-Risk Individuals",
+      "link": "https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/",
+      "summary": "New Strict Account Settings allow users to block attachments and media and silence calls from unknown people. The post WhatsApp Boosts Account Security for At-Risk Individuals appeared first on SecurityWeek .",
+      "published": "Wed, 28 Jan 2026 10:08:21 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "US Charges 31 More Defendants in Massive ATM Hacking Probe",
+      "link": "https://www.securityweek.com/us-charges-31-more-defendants-in-massive-atm-hacking-probe/",
+      "summary": "A total of 87 individuals, mostly Venezuelan nationals, have been charged for their role in the ATM jackpotting scheme. The post US Charges 31 More Defendants in Massive ATM Hacking Probe appeared first on SecurityWeek .",
+      "published": "Wed, 28 Jan 2026 09:27:41 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "APTs, Cybercriminals Widely Exploiting WinRAR Vulnerability",
+      "link": "https://www.securityweek.com/apts-cybercriminals-widely-exploiting-winrar-vulnerability/",
+      "summary": "Russian and Chinese state-sponsored threat actors have been exploiting CVE-2025-8088 since July 2025. The post APTs, Cybercriminals Widely Exploiting WinRAR Vulnerability appeared first on SecurityWeek .",
+      "published": "Wed, 28 Jan 2026 09:17:54 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems",
       "link": "https://www.securityweek.com/indurex-emerges-from-stealth-to-close-security-gap-in-cyber-physical-systems/",
       "summary": "Indurex was founded by Jalal Bouhdada, who previously led industrial cybersecurity company Applied Risk. The post Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems appeared first on SecurityWeek .",
@@ -475,33 +505,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "‘PackageGate’ Flaws Open JavaScript Ecosystem to Supply Chain Attacks",
-      "link": "https://www.securityweek.com/packagegate-flaws-open-javascript-ecosystem-to-supply-chain-attacks/",
-      "summary": "The protections against NPM supply chain attacks could be bypassed, leading to arbitrary code execution. The post ‘PackageGate’ Flaws Open JavaScript Ecosystem to Supply Chain Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 27 Jan 2026 13:43:32 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI",
-      "link": "https://www.securityweek.com/cyber-insights-2026-quantum-computing-and-the-potential-synergy-with-advanced-ai/",
-      "summary": "Quantum computers are coming, with a potential computing power almost beyond comprehension. The post Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI appeared first on SecurityWeek .",
-      "published": "Tue, 27 Jan 2026 12:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome, Edge Extensions Caught Stealing ChatGPT Sessions",
-      "link": "https://www.securityweek.com/chrome-edge-extensions-caught-stealing-chatgpt-sessions/",
-      "summary": "Marketed as ChatGPT enhancement and productivity tools, the extensions allow the threat actor to access the victim's ChatGPT data. The post Chrome, Edge Extensions Caught Stealing ChatGPT Sessions appeared first on SecurityWeek .",
-      "published": "Tue, 27 Jan 2026 12:28:42 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

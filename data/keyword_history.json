@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 233,
+      "count": 234,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -146,7 +146,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 217,
+      "count": 218,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -177,7 +177,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 503,
+      "count": 504,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -696,7 +696,7 @@
       ]
     },
     "national security risk": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2339,7 +2339,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2931,7 +2931,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4077,7 +4077,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4410,9 +4410,10 @@
       ]
     },
     "windows 10 include": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-27"
+        "2026-01-27",
+        "2026-01-28"
       ]
     },
     "critical infrastructure organizations": {
@@ -4422,20 +4423,21 @@
       ]
     },
     "critical severity vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-27"
+        "2026-01-27",
+        "2026-01-28"
       ]
     },
     "visible url signaling": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-27",
         "2026-01-28"
       ]
     },
     "us charges 31": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4455,7 +4457,7 @@
       ]
     },
     "underlying host system": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-28"
       ]
@@ -4467,30 +4469,48 @@
       ]
     },
     "authentication bypass related": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-28"
       ]
     },
     "fortios single sign": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-28"
       ]
     },
     "close security gap": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-28"
       ]
     },
     "impact pii protections": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-28"
       ]
     },
     "atm jackpotting scheme": {
+      "count": 2,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "public facing figures": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "packages named spellcheckerpy": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "8 go subscription": {
       "count": 1,
       "dates": [
         "2026-01-28"
@@ -4498,17 +4518,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-20 04:40",
-      "articles": 56,
-      "top_keywords": [
-        "42 000 impacted",
-        "sinec security monitor",
-        "telecontrol server basic",
-        "least 50 companies",
-        "siemens ruggedcom ros"
-      ]
-    },
     {
       "timestamp": "2026-01-20 06:29",
       "articles": 56,
@@ -5593,6 +5602,17 @@
       "top_keywords": [
         "us charges 31",
         "critical security flaw",
+        "executive order 14144",
+        "windows operating systems",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-28 12:39",
+      "articles": 56,
+      "top_keywords": [
+        "us charges 31",
+        "public facing figures",
         "executive order 14144",
         "windows operating systems",
         "twitter whistleblower complaint"

@@ -1,72 +1,106 @@
 {
-  "last_updated": "2026-01-28 10:23",
+  "last_updated": "2026-01-28 12:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "us charges 31",
-    "critical security flaw",
+    "public facing figures",
     "executive order 14144",
     "windows operating systems",
     "twitter whistleblower complaint",
+    "packages named spellcheckerpy",
+    "malicious cyber actors",
     "impact pii protections",
     "fortios single sign",
-    "chinese gambling industries",
-    "authentication bypass related",
-    "atm jackpotting scheme",
-    "malicious cyber actors",
     "dire critical rating",
+    "authentication bypass related",
+    "8 go subscription",
     "national security risk",
     "close security gap",
-    "band security patches",
-    "widely available products",
+    "windows 10 include",
+    "atm jackpotting scheme",
+    "critical severity vulnerability",
     "visible url signaling",
-    "undetectable phishing vector",
     "underlying host system",
     "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "us charges 31",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "critical security flaw",
-      "mentions": 119
+      "keyword": "public facing figures",
+      "mentions": 1
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 57
+      "mentions": 58
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 217
+      "mentions": 218
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 503
+      "mentions": 504
+    },
+    {
+      "keyword": "packages named spellcheckerpy",
+      "mentions": 1
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 234
     },
     {
       "keyword": "impact pii protections",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "fortios single sign",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "chinese gambling industries",
+      "keyword": "dire critical rating",
       "mentions": 12
-    },
-    {
-      "keyword": "authentication bypass related",
-      "mentions": 3
-    },
-    {
-      "keyword": "atm jackpotting scheme",
-      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
+      "link": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
+      "summary": "When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack methods continue to evolve and rightly command attention. However, one of the most persistent and underestimated risks to organizational security remains far more ordinary. Near-identical password reuse continues to slip past security controls, often",
+      "published": "Wed, 28 Jan 2026 16:00:00 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "Ransomware",
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
+      "link": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
+      "summary": "Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to establish initial access and deploy a diverse array of payloads. \"Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated",
+      "published": "Wed, 28 Jan 2026 15:16:00 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
+      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT). The packages, named spellcheckerpy and spellcheckpy, are no longer available for download, but not before they were collectively downloaded a little over 1,000 times. \"Hidden inside the",
+      "published": "Wed, 28 Jan 2026 15:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
@@ -122,39 +156,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
-      "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-      "summary": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks. The vulnerability, tracked as CVE-2026-21509, carries a CVSS score of 7.8 out of 10.0. It has been described as a security feature bypass in Microsoft Office. \"Reliance on untrusted inputs in a security decision in Microsoft Office allows an unauthorized",
-      "published": "Tue, 27 Jan 2026 16:07:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Zero-day ×2",
-        "Patch/update",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
-      "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
-      "summary": "A critical security flaw has been disclosed in Grist‑Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution. The vulnerability, tracked as CVE-2026-24002 (CVSS score: 9.1), has been codenamed Cellbreak by Cyera Research Labs. \"One malicious formula can turn a spreadsheet into a Remote Code Execution (RCE) beachhead,\"",
-      "published": "Tue, 27 Jan 2026 16:06:00 +0530",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×4",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
-      "link": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
-      "summary": "Cybersecurity researchers have discovered a JScript-based command-and-control (C2) framework called PeckBirdy that has been put to use by China-aligned APT actors since 2023 to target multiple environments. The flexible framework has been put to use against Chinese gambling industries and malicious activities targeting Asian government entities and private organizations, according to Trend Micro",
-      "published": "Tue, 27 Jan 2026 14:31:00 +0530",
+      "source": "BleepingComputer",
+      "title": "New WhatsApp lockdown feature protects high-risk users from hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/",
+      "summary": "Meta has started rolling out a new WhatsApp lockdown-style security feature designed to protect journalists, public figures, and other high-risk individuals from sophisticated threats, including spyware attacks. [...]",
+      "published": "Wed, 28 Jan 2026 06:48:26 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -238,18 +244,6 @@
       "published": "Tue, 27 Jan 2026 11:27:04 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "From Cipher to Fear: The psychology behind modern ransomware extortion",
-      "link": "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/",
-      "summary": "Modern ransomware has shifted from encryption to psychological extortion that exploits fear, liability, and exposure. Flare shows how today's ransomware groups weaponize stolen data and pressure tactics to force payment. [...]",
-      "published": "Tue, 27 Jan 2026 10:02:12 -0500",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

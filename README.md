@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-28 10:23 UTC |
+| 🕐 Last Updated | 2026-01-28 12:39 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`us charges 31` • `critical security flaw` • `executive order 14144` • `windows operating systems` • `twitter whistleblower complaint` • `impact pii protections` • `fortios single sign` • `chinese gambling industries` • `authentication bypass related` • `atm jackpotting scheme`
+`us charges 31` • `public facing figures` • `executive order 14144` • `windows operating systems` • `twitter whistleblower complaint` • `packages named spellcheckerpy` • `malicious cyber actors` • `impact pii protections` • `fortios single sign` • `dire critical rating`
 
 ## 📄 Reports
 

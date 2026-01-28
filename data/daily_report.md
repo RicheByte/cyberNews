@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-28 12:39 UTC  
+> **Last Updated:** 2026-01-28 14:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**us charges 31** • **public facing figures** • **executive order 14144** • **windows operating systems** • **twitter whistleblower complaint** • **packages named spellcheckerpy** • **malicious cyber actors** • **impact pii protections** • **fortios single sign** • **dire critical rating** • **authentication bypass related** • **8 go subscription** • **national security risk** • **close security gap** • **windows 10 include** • **atm jackpotting scheme** • **critical severity vulnerability** • **visible url signaling** • **underlying host system** • **today we'll dig**
+**us charges 31** • **badbox 2 0** • **rein security emerges** • **public facing figures** • **executive order 14144** • **remote code execution** • **dire critical rating** • **windows 10 include** • **twitter whistleblower complaint** • **slovakian national admitted** • **packages named spellcheckerpy** • **fortios single sign** • **atm jackpotting scheme** • **national security risk** • **cyber espionage attacks** • **visible url signaling** • **today we'll dig** • **strong theme running** • **stolen personal information** • **stole 1 4tb**
 
 ---
 
@@ -16,28 +16,29 @@
 
 ### The Hacker News
 
+- [Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution](https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html)
+- [From Triage to Threat Hunts: How AI Accelerates SecOps](https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html)
+- [Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks](https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html)
 - [Password Reuse in Disguise: An Often-Missed Risky Workaround](https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html)
 - [Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088](https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html)
 - [Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan](https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html)
 - [Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected](https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html)
 - [WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware](https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html)
-- [Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities](https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html)
-- [ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services](https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html)
-- [CTEM in Practice: Prioritization, Validation, and Outcomes That Matter](https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html)
 
 ### BleepingComputer
 
+- [Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation](https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/)
+- [Slovakian man pleads guilty to operating darknet marketplace](https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/)
 - [New WhatsApp lockdown feature protects high-risk users from hackers](https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/)
 - [OpenAI's ChatGPT ad costs are on par with live NFL broadcasts](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/)
 - [Fortinet blocks exploited FortiCloud SSO zero day until patch is ready](https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/)
 - [Chinese Mustang Panda hackers deploy infostealers via CoolClient backdoor](https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/)
 - [WinRAR path traversal flaw still exploited by numerous hackers](https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/)
 - [Nike investigates data breach after extortion gang leaks files](https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/)
-- [Critical sandbox escape flaw found in popular vm2 NodeJS library](https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/)
-- [US charges 31 more suspects linked to ATM malware attacks](https://www.bleepingcomputer.com/news/security/us-charges-31-more-suspects-linked-to-atm-malware-attacks/)
 
 ### Krebs on Security
 
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
@@ -45,10 +46,10 @@
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
+- [Surging Cyberattacks Boost Latin America to Riskiest Region](https://www.darkreading.com/cyber-risk/surging-cyberattacks-latin-america-riskiest-region)
 - [AI &amp; the Death of Accuracy: What It Means for Zero-Trust](https://www.darkreading.com/application-security/ai-death-accuracy-zero-trust)
 - [Vibe-Coded 'Sicarii' Ransomware Can't Be Decrypted](https://www.darkreading.com/endpoint-security/vibe-coded-sicarii-ransomware-decrypted)
 - [Critical Telnet Server Flaw Exposes Forgotten Attack Surface](https://www.darkreading.com/ics-ot-security/critical-telnet-server-flaw-forgotten-attack-surface)
@@ -56,18 +57,17 @@
 - ['Stanley' Toolkit Turns Chrome Into Undetectable Phishing Vector](https://www.darkreading.com/remote-workforce/stanley-toolkit-chrome-undetectable-phishing)
 - [WorldLeaks Extortion Group Claims It Stole 1.4TB of Nike Data](https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1.4tb-nike-data)
 - [Hand CVE Over to the Private Sector](https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector)
-- [Beauty in Destruction: Exploring Malware's Impact Through Art](https://www.darkreading.com/vulnerabilities-threats/beauty-in-destruction-exploring-malware-impact-through-art)
 
 ### Security Week
 
+- [Why We Can’t Let AI Take the Wheel of Cyber Defense](https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/)
+- [Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach](https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/)
 - [WhatsApp Boosts Account Security for At-Risk Individuals](https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/)
 - [US Charges 31 More Defendants in Massive ATM Hacking Probe](https://www.securityweek.com/us-charges-31-more-defendants-in-massive-atm-hacking-probe/)
 - [APTs, Cybercriminals Widely Exploiting WinRAR Vulnerability](https://www.securityweek.com/apts-cybercriminals-widely-exploiting-winrar-vulnerability/)
 - [Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems](https://www.securityweek.com/indurex-emerges-from-stealth-to-close-security-gap-in-cyber-physical-systems/)
 - [Fortinet Patches Exploited FortiCloud SSO Authentication Bypass](https://www.securityweek.com/fortinet-patches-exploited-forticloud-sso-authentication-bypass/)
 - [High-Severity Remote Code Execution Vulnerability Patched in OpenSSL](https://www.securityweek.com/high-severity-remote-code-execution-vulnerability-patched-in-openssl/)
-- [Memcyco Raises $37 Million for Anti-Impersonation Technology](https://www.securityweek.com/memcyco-raises-37-million-for-anti-impersonation-technology/)
-- [Over 100 Organizations Targeted in ShinyHunters Phishing Campaign](https://www.securityweek.com/over-100-organizations-targeted-in-shinyhunters-phishing-campaign/)
 
 ### Threatpost
 

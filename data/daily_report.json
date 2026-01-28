@@ -1,72 +1,104 @@
 {
-  "last_updated": "2026-01-28 12:39",
+  "last_updated": "2026-01-28 14:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "us charges 31",
+    "badbox 2 0",
+    "rein security emerges",
     "public facing figures",
     "executive order 14144",
-    "windows operating systems",
-    "twitter whistleblower complaint",
-    "packages named spellcheckerpy",
-    "malicious cyber actors",
-    "impact pii protections",
-    "fortios single sign",
+    "remote code execution",
     "dire critical rating",
-    "authentication bypass related",
-    "8 go subscription",
-    "national security risk",
-    "close security gap",
     "windows 10 include",
+    "twitter whistleblower complaint",
+    "slovakian national admitted",
+    "packages named spellcheckerpy",
+    "fortios single sign",
     "atm jackpotting scheme",
-    "critical severity vulnerability",
+    "national security risk",
+    "cyber espionage attacks",
     "visible url signaling",
-    "underlying host system",
-    "today we'll dig"
+    "today we'll dig",
+    "strong theme running",
+    "stolen personal information",
+    "stole 1 4tb"
   ],
   "trending": [
     {
       "keyword": "us charges 31",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 9
+    },
+    {
+      "keyword": "rein security emerges",
+      "mentions": 1
     },
     {
       "keyword": "public facing figures",
-      "mentions": 1
-    },
-    {
-      "keyword": "executive order 14144",
-      "mentions": 58
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 218
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 504
-    },
-    {
-      "keyword": "packages named spellcheckerpy",
-      "mentions": 1
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 234
-    },
-    {
-      "keyword": "impact pii protections",
       "mentions": 2
     },
     {
-      "keyword": "fortios single sign",
-      "mentions": 4
+      "keyword": "executive order 14144",
+      "mentions": 59
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 36
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "windows 10 include",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 505
+    },
+    {
+      "keyword": "slovakian national admitted",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
+      "summary": "Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution. The weaknesses, discovered by the JFrog Security Research team, are listed below - CVE-2026-1470 (CVSS score: 9.9) - An eval injection vulnerability that could allow an authenticated user to bypass the Expression",
+      "published": "Wed, 28 Jan 2026 18:13:00 +0530",
+      "value_score": 68,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
+      "link": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
+      "summary": "If you work in security operations, the concept of the AI SOC agent is likely familiar. Early narratives promised total autonomy. Vendors seized on the idea of the \"Autonomous SOC\" and suggested a future where algorithms replaced analysts. That future has not arrived. We have not seen mass layoffs or empty security operations centers. We have instead seen the emergence of a practical reality.",
+      "published": "Wed, 28 Jan 2026 17:25:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
+      "link": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
+      "summary": "Threat actors with ties to China have been observed using an updated version of a backdoor called COOLCLIENT in cyber espionage attacks in 2025 to facilitate comprehensive data theft from infected endpoints. The activity has been attributed to Mustang Panda (aka Earth Preta, Fireant, HoneyMyte, Polaris, and Twill Typhoon) with the intrusions primarily directed against government entities located",
+      "published": "Wed, 28 Jan 2026 17:10:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
@@ -96,7 +128,7 @@
       "source": "The Hacker News",
       "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
       "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
-      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT). The packages, named spellcheckerpy and spellcheckpy, are no longer available for download, but not before they were collectively downloaded a little over 1,000 times. \"Hidden inside the",
+      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT). The packages, named spellcheckerpy and spellcheckpy, are no longer available on PyPI, but not before they were collectively downloaded a little over 1,000 times. \"Hidden inside the Basque",
       "published": "Wed, 28 Jan 2026 15:00:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -127,33 +159,22 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
-      "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
-      "summary": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft. The campaigns have been codenamed Gopher Strike and Sheet Attack by Zscaler ThreatLabz, which identified them in September 2025. \"While these campaigns share some similarities with the Pakistan-linked Advanced Persistent Threat (APT)",
-      "published": "Tue, 27 Jan 2026 22:15:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/",
+      "summary": "A malicious campaign is actively targeting exposed LLM (Large Language Model) service endpoints to commercialize unauthorized access to AI infrastructure. [...]",
+      "published": "Wed, 28 Jan 2026 08:15:03 -0500",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
-      "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute an information stealer called Amatera. \"Instead of launching PowerShell directly, the attacker uses this script to control how execution begins and to avoid more common, easily recognized execution paths,\"",
-      "published": "Tue, 27 Jan 2026 20:08:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Slovakian man pleads guilty to operating darknet marketplace",
+      "link": "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/",
+      "summary": "A Slovakian national admitted on Tuesday to helping operate a darknet marketplace that sold narcotics, cybercrime tools and services, fake government IDs, and stolen personal information for more than two years. [...]",
+      "published": "Wed, 28 Jan 2026 07:49:05 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
-      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
-      "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It’s not only about what could go wrong (vulnerabilities) or who might attack (threats), but where they intersect in your actual environment to create real, exploitable exposure. Which exposures truly matter? Can attackers exploit them? Are our defenses effective? Continuous Threat Exposure",
-      "published": "Tue, 27 Jan 2026 17:20:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -225,25 +246,15 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Critical sandbox escape flaw found in popular vm2 NodeJS library",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/",
-      "summary": "A critical-severity vulnerability in the vm2 Node.js sandbox library, tracked as CVE-2026-22709, allows escaping the sandbox and executing arbitrary code on the underlying host system. [...]",
-      "published": "Tue, 27 Jan 2026 11:35:29 -0500",
-      "value_score": 44,
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
       "value_signals": [
-        "CVE mentioned",
-        "High severity ×2"
+        "Botnet ×3"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US charges 31 more suspects linked to ATM malware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-31-more-suspects-linked-to-atm-malware-attacks/",
-      "summary": "A Nebraska federal grand jury charged 31 additional defendants for their involvement in an ATM jackpotting operation allegedly orchestrated by members of the Venezuelan gang Tren de Aragua. [...]",
-      "published": "Tue, 27 Jan 2026 11:27:04 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -320,15 +331,14 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
+      "source": "Dark Reading",
+      "title": "Surging Cyberattacks Boost Latin America to Riskiest Region",
+      "link": "https://www.darkreading.com/cyber-risk/surging-cyberattacks-latin-america-riskiest-region",
+      "summary": "The region is up against tactics like data-leak extortion, credential-stealing campaigns, edge-device exploitation, and attackers leveraging AI.",
+      "published": "Wed, 28 Jan 2026 14:00:00 GMT",
+      "value_score": 28,
       "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
+        "Breach/leak",
         "Exploit wording"
       ]
     },
@@ -408,11 +418,20 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Beauty in Destruction: Exploring Malware's Impact Through Art",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/beauty-in-destruction-exploring-malware-impact-through-art",
-      "summary": "Artistic initiatives turn cybersecurity into immersive exhibits at the Museum of Malware Art, transforming digital threats into thought-provoking experiences.",
-      "published": "Mon, 26 Jan 2026 23:08:57 GMT",
+      "source": "Security Week",
+      "title": "Why We Can’t Let AI Take the Wheel of Cyber Defense",
+      "link": "https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/",
+      "summary": "The fastest way to squander the promise of AI is to mistake automation for assurance, and novelty for resilience. The post Why We Can’t Let AI Take the Wheel of Cyber Defense appeared first on SecurityWeek .",
+      "published": "Wed, 28 Jan 2026 14:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach",
+      "link": "https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/",
+      "summary": "Rein aims to close the production visibility gap by stopping attacks inside the application runtime. The post Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach appeared first on SecurityWeek .",
+      "published": "Wed, 28 Jan 2026 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -478,26 +497,6 @@
       "value_signals": [
         "RCE ×2",
         "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Memcyco Raises $37 Million for Anti-Impersonation Technology",
-      "link": "https://www.securityweek.com/memcyco-raises-37-million-for-anti-impersonation-technology/",
-      "summary": "The startup will use the investment to fuel global expansion of its agentless platform, including in Latin America. The post Memcyco Raises $37 Million for Anti-Impersonation Technology appeared first on SecurityWeek .",
-      "published": "Tue, 27 Jan 2026 15:37:39 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Over 100 Organizations Targeted in ShinyHunters Phishing Campaign",
-      "link": "https://www.securityweek.com/over-100-organizations-targeted-in-shinyhunters-phishing-campaign/",
-      "summary": "Domains set up by the threat actor suggest attacks aimed at Atlassian, Canva, Epic Games, HubSpot, Moderna, ZoomInfo, and WeWork. The post Over 100 Organizations Targeted in ShinyHunters Phishing Campaign appeared first on SecurityWeek .",
-      "published": "Tue, 27 Jan 2026 14:57:09 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {

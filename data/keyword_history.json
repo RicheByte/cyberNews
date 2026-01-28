@@ -177,7 +177,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 504,
+      "count": 505,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -468,7 +468,7 @@
       ]
     },
     "remote code execution": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -476,7 +476,8 @@
         "2026-01-09",
         "2026-01-22",
         "2026-01-26",
-        "2026-01-27"
+        "2026-01-27",
+        "2026-01-28"
       ]
     },
     "attacker remotely control": {
@@ -696,7 +697,7 @@
       ]
     },
     "national security risk": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2228,7 +2229,7 @@
       ]
     },
     "strong theme running": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2339,7 +2340,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2931,7 +2932,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4077,7 +4078,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4281,10 +4282,11 @@
       ]
     },
     "badbox 2 0": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-26",
-        "2026-01-27"
+        "2026-01-27",
+        "2026-01-28"
       ]
     },
     "ai generated backdoor": {
@@ -4410,7 +4412,7 @@
       ]
     },
     "windows 10 include": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4430,14 +4432,14 @@
       ]
     },
     "visible url signaling": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-27",
         "2026-01-28"
       ]
     },
     "us charges 31": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4463,7 +4465,7 @@
       ]
     },
     "stole 1 4tb": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-28"
       ]
@@ -4475,7 +4477,7 @@
       ]
     },
     "fortios single sign": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-28"
       ]
@@ -4493,19 +4495,19 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-28"
       ]
     },
     "public facing figures": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-28"
       ]
     },
     "packages named spellcheckerpy": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-28"
       ]
@@ -4515,20 +4517,33 @@
       "dates": [
         "2026-01-28"
       ]
+    },
+    "rein security emerges": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "slovakian national admitted": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "cyber espionage attacks": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "stolen personal information": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-20 06:29",
-      "articles": 56,
-      "top_keywords": [
-        "42 000 impacted",
-        "sinec security monitor",
-        "telecontrol server basic",
-        "least 50 companies",
-        "siemens ruggedcom ros"
-      ]
-    },
     {
       "timestamp": "2026-01-20 08:26",
       "articles": 56,
@@ -5616,6 +5631,17 @@
         "executive order 14144",
         "windows operating systems",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-01-28 14:25",
+      "articles": 56,
+      "top_keywords": [
+        "us charges 31",
+        "badbox 2 0",
+        "rein security emerges",
+        "public facing figures",
+        "executive order 14144"
       ]
     }
   ]

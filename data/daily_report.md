@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-28 14:25 UTC  
+> **Last Updated:** 2026-01-28 16:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**us charges 31** • **badbox 2 0** • **rein security emerges** • **public facing figures** • **executive order 14144** • **remote code execution** • **dire critical rating** • **windows 10 include** • **twitter whistleblower complaint** • **slovakian national admitted** • **packages named spellcheckerpy** • **fortios single sign** • **atm jackpotting scheme** • **national security risk** • **cyber espionage attacks** • **visible url signaling** • **today we'll dig** • **strong theme running** • **stolen personal information** • **stole 1 4tb**
+**us charges 31** • **executive order 14144** • **badbox 2 0** • **rein security emerges** • **remote code execution** • **rewriting compliance controls** • **dire critical rating** • **released security updates** • **twitter whistleblower complaint** • **slovakian national admitted** • **rightly command attention** • **perform unauthorized actions** • **packages named spellcheckerpy** • **high risk individuals** • **fortios single sign** • **atm jackpotting scheme** • **arbitrary code execution** • **underlying operating system** • **johnson controls products** • **authentication bypass related**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html)
 - [Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution](https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html)
 - [From Triage to Threat Hunts: How AI Accelerates SecOps](https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html)
 - [Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks](https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html)
@@ -23,18 +24,17 @@
 - [Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088](https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html)
 - [Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan](https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html)
 - [Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected](https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html)
-- [WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware](https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html)
 
 ### BleepingComputer
 
+- [AI Is Rewriting Compliance Controls and CISOs Must Take Notice](https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/)
+- [SolarWinds warns of critical Web Help Desk RCE, auth bypass flaws](https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-critical-web-help-desk-rce-auth-bypass-flaws/)
 - [Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation](https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/)
 - [Slovakian man pleads guilty to operating darknet marketplace](https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/)
 - [New WhatsApp lockdown feature protects high-risk users from hackers](https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/)
 - [OpenAI's ChatGPT ad costs are on par with live NFL broadcasts](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/)
 - [Fortinet blocks exploited FortiCloud SSO zero day until patch is ready](https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/)
 - [Chinese Mustang Panda hackers deploy infostealers via CoolClient backdoor](https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/)
-- [WinRAR path traversal flaw still exploited by numerous hackers](https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/)
-- [Nike investigates data breach after extortion gang leaks files](https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Cyber Insights 2026: Offensive Security; Where It Is and Where It’s Going](https://www.securityweek.com/cyber-insights-2026-offensive-security-where-it-is-and-where-its-going/)
+- [Mesh Security Raises $12 Million for CSMA Platform](https://www.securityweek.com/mesh-security-raises-12-million-for-csma-platform/)
 - [Why We Can’t Let AI Take the Wheel of Cyber Defense](https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/)
 - [Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach](https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/)
 - [WhatsApp Boosts Account Security for At-Risk Individuals](https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/)
 - [US Charges 31 More Defendants in Massive ATM Hacking Probe](https://www.securityweek.com/us-charges-31-more-defendants-in-massive-atm-hacking-probe/)
 - [APTs, Cybercriminals Widely Exploiting WinRAR Vulnerability](https://www.securityweek.com/apts-cybercriminals-widely-exploiting-winrar-vulnerability/)
 - [Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems](https://www.securityweek.com/indurex-emerges-from-stealth-to-close-security-gap-in-cyber-physical-systems/)
-- [Fortinet Patches Exploited FortiCloud SSO Authentication Bypass](https://www.securityweek.com/fortinet-patches-exploited-forticloud-sso-authentication-bypass/)
-- [High-Severity Remote Code Execution Vulnerability Patched in OpenSSL](https://www.securityweek.com/high-severity-remote-code-execution-vulnerability-patched-in-openssl/)
 
 ### Threatpost
 

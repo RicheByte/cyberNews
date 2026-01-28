@@ -177,7 +177,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 505,
+      "count": 506,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -468,7 +468,7 @@
       ]
     },
     "remote code execution": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2394,12 +2394,13 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
-        "2026-01-12"
+        "2026-01-12",
+        "2026-01-28"
       ]
     },
     "authenticated remote attacker": {
@@ -2932,7 +2933,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3137,11 +3138,12 @@
       ]
     },
     "released security updates": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-15",
         "2026-01-21",
-        "2026-01-22"
+        "2026-01-22",
+        "2026-01-28"
       ]
     },
     "auditability collide daily": {
@@ -4078,7 +4080,7 @@
       ]
     },
     "executive order 14144": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-01-23",
         "2026-01-24",
@@ -4282,7 +4284,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4439,7 +4441,7 @@
       ]
     },
     "us charges 31": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-27",
         "2026-01-28"
@@ -4471,13 +4473,13 @@
       ]
     },
     "authentication bypass related": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-28"
       ]
     },
     "fortios single sign": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-28"
       ]
@@ -4495,7 +4497,7 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-28"
       ]
@@ -4507,7 +4509,7 @@
       ]
     },
     "packages named spellcheckerpy": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-28"
       ]
@@ -4519,13 +4521,13 @@
       ]
     },
     "rein security emerges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-28"
       ]
     },
     "slovakian national admitted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-28"
       ]
@@ -4541,20 +4543,45 @@
       "dates": [
         "2026-01-28"
       ]
+    },
+    "rewriting compliance controls": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "rightly command attention": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "perform unauthorized actions": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "high risk individuals": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "underlying operating system": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
+    },
+    "johnson controls products": {
+      "count": 1,
+      "dates": [
+        "2026-01-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-20 08:26",
-      "articles": 56,
-      "top_keywords": [
-        "42 000 impacted",
-        "sinec security monitor",
-        "telecontrol server basic",
-        "least 50 companies",
-        "siemens ruggedcom ros"
-      ]
-    },
     {
       "timestamp": "2026-01-20 10:22",
       "articles": 56,
@@ -5642,6 +5669,17 @@
         "rein security emerges",
         "public facing figures",
         "executive order 14144"
+      ]
+    },
+    {
+      "timestamp": "2026-01-28 16:30",
+      "articles": 56,
+      "top_keywords": [
+        "us charges 31",
+        "executive order 14144",
+        "badbox 2 0",
+        "rein security emerges",
+        "remote code execution"
       ]
     }
   ]

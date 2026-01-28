@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-28 06:29",
+  "last_updated": "2026-01-28 08:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "critical security flaw",
     "executive order 14144",
-    "authentication bypass related",
     "windows operating systems",
-    "malicious cyber actors",
     "twitter whistleblower complaint",
     "fortios single sign",
-    "cve 2026 21509",
     "chinese gambling industries",
-    "bypass security features",
-    "dire critical rating",
+    "authentication bypass related",
     "advanced cyber attacks",
+    "malicious cyber actors",
+    "dire critical rating",
+    "close security gap",
     "band security patches",
     "ai generated data",
     "widely available products",
@@ -22,47 +21,48 @@
     "us charges 31",
     "undetectable phishing vector",
     "underlying host system",
-    "today we'll dig"
+    "today we'll dig",
+    "strong theme running"
   ],
   "trending": [
     {
       "keyword": "critical security flaw",
-      "mentions": 117
+      "mentions": 118
     },
     {
       "keyword": "executive order 14144",
-      "mentions": 55
-    },
-    {
-      "keyword": "authentication bypass related",
-      "mentions": 1
+      "mentions": 56
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 215
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 231
+      "mentions": 216
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 501
+      "mentions": 502
     },
     {
       "keyword": "fortios single sign",
-      "mentions": 1
-    },
-    {
-      "keyword": "cve 2026 21509",
-      "mentions": 11
+      "mentions": 2
     },
     {
       "keyword": "chinese gambling industries",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "bypass security features",
+      "keyword": "authentication bypass related",
+      "mentions": 2
+    },
+    {
+      "keyword": "advanced cyber attacks",
+      "mentions": 8
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 232
+    },
+    {
+      "keyword": "dire critical rating",
       "mentions": 10
     }
   ],
@@ -424,6 +424,40 @@
     },
     {
       "source": "Security Week",
+      "title": "Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems",
+      "link": "https://www.securityweek.com/indurex-emerges-from-stealth-to-close-security-gap-in-cyber-physical-systems/",
+      "summary": "Indurex was founded by Jalal Bouhdada, who previously led industrial cybersecurity company Applied Risk. The post Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems appeared first on SecurityWeek .",
+      "published": "Wed, 28 Jan 2026 08:23:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Fortinet Patches Exploited FortiCloud SSO Authentication Bypass",
+      "link": "https://www.securityweek.com/fortinet-patches-exploited-forticloud-sso-authentication-bypass/",
+      "summary": "Tracked as CVE-2026-24858, the bug allows attackers to log into devices registered to other FortiCloud accounts. The post Fortinet Patches Exploited FortiCloud SSO Authentication Bypass appeared first on SecurityWeek .",
+      "published": "Wed, 28 Jan 2026 08:05:57 +0000",
+      "value_score": 64,
+      "value_signals": [
+        "CVE mentioned",
+        "Auth bypass ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "High-Severity Remote Code Execution Vulnerability Patched in OpenSSL",
+      "link": "https://www.securityweek.com/high-severity-remote-code-execution-vulnerability-patched-in-openssl/",
+      "summary": "A total of 12 vulnerabilities have been fixed in OpenSSL, all discovered by a single cybersecurity firm. The post High-Severity Remote Code Execution Vulnerability Patched in OpenSSL appeared first on SecurityWeek .",
+      "published": "Wed, 28 Jan 2026 07:36:01 +0000",
+      "value_score": 58,
+      "value_signals": [
+        "RCE ×2",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Memcyco Raises $37 Million for Anti-Impersonation Technology",
       "link": "https://www.securityweek.com/memcyco-raises-37-million-for-anti-impersonation-technology/",
       "summary": "The startup will use the investment to fuel global expansion of its agentless platform, including in Latin America. The post Memcyco Raises $37 Million for Anti-Impersonation Technology appeared first on SecurityWeek .",
@@ -466,39 +500,6 @@
       "link": "https://www.securityweek.com/chrome-edge-extensions-caught-stealing-chatgpt-sessions/",
       "summary": "Marketed as ChatGPT enhancement and productivity tools, the extensions allow the threat actor to access the victim's ChatGPT data. The post Chrome, Edge Extensions Caught Stealing ChatGPT Sessions appeared first on SecurityWeek .",
       "published": "Tue, 27 Jan 2026 12:28:42 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Organizations Warned of Exploited Linux Vulnerabilities",
-      "link": "https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/",
-      "summary": "The flaws allow threat actors to obtain root privileges or bypass authentication via Telnet and gain shell access as root. The post Organizations Warned of Exploited Linux Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 27 Jan 2026 10:37:02 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks",
-      "link": "https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/",
-      "summary": "The vulnerability is tracked as CVE-2026-21509 and it can be exploited to bypass security features. The post Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 27 Jan 2026 08:41:04 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms",
-      "link": "https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/",
-      "summary": "More than 20 vulnerabilities were found and patched in Dormakaba physical access control systems. The post Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms appeared first on SecurityWeek .",
-      "published": "Mon, 26 Jan 2026 16:11:08 +0000",
       "value_score": 10,
       "value_signals": []
     },

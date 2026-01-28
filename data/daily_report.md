@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-28 06:29 UTC  
+> **Last Updated:** 2026-01-28 08:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical security flaw** • **executive order 14144** • **authentication bypass related** • **windows operating systems** • **malicious cyber actors** • **twitter whistleblower complaint** • **fortios single sign** • **cve 2026 21509** • **chinese gambling industries** • **bypass security features** • **dire critical rating** • **advanced cyber attacks** • **band security patches** • **ai generated data** • **widely available products** • **visible url signaling** • **us charges 31** • **undetectable phishing vector** • **underlying host system** • **today we'll dig**
+**critical security flaw** • **executive order 14144** • **windows operating systems** • **twitter whistleblower complaint** • **fortios single sign** • **chinese gambling industries** • **authentication bypass related** • **advanced cyber attacks** • **malicious cyber actors** • **dire critical rating** • **close security gap** • **band security patches** • **ai generated data** • **widely available products** • **visible url signaling** • **us charges 31** • **undetectable phishing vector** • **underlying host system** • **today we'll dig** • **strong theme running**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems](https://www.securityweek.com/indurex-emerges-from-stealth-to-close-security-gap-in-cyber-physical-systems/)
+- [Fortinet Patches Exploited FortiCloud SSO Authentication Bypass](https://www.securityweek.com/fortinet-patches-exploited-forticloud-sso-authentication-bypass/)
+- [High-Severity Remote Code Execution Vulnerability Patched in OpenSSL](https://www.securityweek.com/high-severity-remote-code-execution-vulnerability-patched-in-openssl/)
 - [Memcyco Raises $37 Million for Anti-Impersonation Technology](https://www.securityweek.com/memcyco-raises-37-million-for-anti-impersonation-technology/)
 - [Over 100 Organizations Targeted in ShinyHunters Phishing Campaign](https://www.securityweek.com/over-100-organizations-targeted-in-shinyhunters-phishing-campaign/)
 - [‘PackageGate’ Flaws Open JavaScript Ecosystem to Supply Chain Attacks](https://www.securityweek.com/packagegate-flaws-open-javascript-ecosystem-to-supply-chain-attacks/)
 - [Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI](https://www.securityweek.com/cyber-insights-2026-quantum-computing-and-the-potential-synergy-with-advanced-ai/)
 - [Chrome, Edge Extensions Caught Stealing ChatGPT Sessions](https://www.securityweek.com/chrome-edge-extensions-caught-stealing-chatgpt-sessions/)
-- [Organizations Warned of Exploited Linux Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/)
-- [Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks](https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/)
-- [Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms](https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/)
 
 ### Threatpost
 

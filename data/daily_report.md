@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-29 10:31 UTC  
+> **Last Updated:** 2026-01-29 12:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**us charges 31** • **rein security emerges** • **perform unauthorized actions** • **badbox 2 0** • **remote code execution** • **rewriting compliance controls** • **arbitrary code execution** • **twitter whistleblower complaint** • **dire critical rating** • **backdoor called coolclient** • **atm jackpotting scheme** • **token security explains** • **released security updates** • **national security risk** • **cloud security deal** • **malicious cyber actors** • **president s efforts** • **nation s ability** • **johnson controls products** • **cyber espionage attacks**
+**rein security emerges** • **remote code execution** • **windows operating systems** • **twitter whistleblower complaint** • **perform unauthorized actions** • **control centers worldwide** • **released security updates** • **cloud security deal** • **windows 10 include** • **prevent downtime risk** • **malicious cyber actors** • **national security risk** • **poorly designed code** • **execute arbitrary code** • **internal network behind** • **hackers network operators** • **uses hebrew language** • **took legal action** • **today we'll dig** • **three strategic steps**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps](https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html)
+- [3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026](https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html)
 - [SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass](https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html)
 - [Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks](https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html)
 - [Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware](https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html)
 - [Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid](https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html)
 - [Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution](https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html)
 - [From Triage to Threat Hunts: How AI Accelerates SecOps](https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html)
-- [Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html)
-- [Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks](https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html)
 
 ### BleepingComputer
 
+- [Google rolls out Android theft protection feature updates](https://www.bleepingcomputer.com/news/google/google-rolls-out-android-theft-protection-feature-updates/)
 - [Initial access hackers switch to Tsundere Bot for ransomware attacks](https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/)
 - [Cyberattack on Polish energy grid impacted around 30 facilities](https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/)
 - [eScan confirms update server breached to push malicious update](https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/)
@@ -34,11 +35,9 @@
 - [New sandbox escape flaw exposes n8n instances to RCE attacks](https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/)
 - [FBI seizes RAMP cybercrime forum used by ransomware gangs](https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/)
 - [Empire cybercrime market owner pleads guilty to drug conspiracy](https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/)
-- [AI Is Rewriting Compliance Controls and CISOs Must Take Notice](https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/)
 
 ### Krebs on Security
 
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
@@ -46,6 +45,7 @@
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Cyber Insights 2026: Zero Trust and Following the Path](https://www.securityweek.com/cyber-insights-2026-zero-trust-and-following-the-path/)
+- [Google Disrupts IPIDEA Proxy Network](https://www.securityweek.com/google-disrupts-ipidea-proxy-network/)
 - [PwC and Google Cloud Ink $400 Million Deal to Scale AI-Powered Defense](https://www.securityweek.com/pwc-and-google-cloud-ink-400-million-deal-to-scale-ai-powered-defense/)
 - [Cyber Insights 2026: Offensive Security; Where It Is and Where It’s Going](https://www.securityweek.com/cyber-insights-2026-offensive-security-where-it-is-and-where-its-going/)
 - [Mesh Security Raises $12 Million for CSMA Platform](https://www.securityweek.com/mesh-security-raises-12-million-for-csma-platform/)
 - [Why We Can’t Let AI Take the Wheel of Cyber Defense](https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/)
 - [Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach](https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/)
 - [WhatsApp Boosts Account Security for At-Risk Individuals](https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/)
-- [US Charges 31 More Defendants in Massive ATM Hacking Probe](https://www.securityweek.com/us-charges-31-more-defendants-in-massive-atm-hacking-probe/)
-- [APTs, Cybercriminals Widely Exploiting WinRAR Vulnerability](https://www.securityweek.com/apts-cybercriminals-widely-exploiting-winrar-vulnerability/)
 
 ### Threatpost
 

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 242,
+      "count": 243,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -147,7 +147,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 224,
+      "count": 225,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -179,7 +179,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 514,
+      "count": 515,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -471,7 +471,7 @@
       ]
     },
     "remote code execution": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -552,12 +552,13 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2025-12-18",
         "2025-12-19",
         "2026-01-09",
-        "2026-01-10"
+        "2026-01-10",
+        "2026-01-29"
       ]
     },
     "france arrests latvian": {
@@ -701,7 +702,7 @@
       ]
     },
     "national security risk": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2350,7 +2351,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2364,11 +2365,12 @@
         "2026-01-20",
         "2026-01-21",
         "2026-01-22",
-        "2026-01-28"
+        "2026-01-28",
+        "2026-01-29"
       ]
     },
     "internal network behind": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2524,11 +2526,12 @@
       ]
     },
     "hackers network operators": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-09",
         "2026-01-10",
-        "2026-01-11"
+        "2026-01-11",
+        "2026-01-29"
       ]
     },
     "deepfake fraud tools": {
@@ -3153,7 +3156,7 @@
       ]
     },
     "released security updates": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4431,7 +4434,7 @@
       ]
     },
     "windows 10 include": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-27",
         "2026-01-28",
@@ -4541,7 +4544,7 @@
       ]
     },
     "rein security emerges": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-28",
         "2026-01-29"
@@ -4580,7 +4583,7 @@
       ]
     },
     "perform unauthorized actions": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-28",
         "2026-01-29"
@@ -4613,24 +4616,49 @@
       ]
     },
     "cloud security deal": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-01-29"
+      ]
+    },
+    "control centers worldwide": {
+      "count": 1,
+      "dates": [
+        "2026-01-29"
+      ]
+    },
+    "prevent downtime risk": {
+      "count": 1,
+      "dates": [
+        "2026-01-29"
+      ]
+    },
+    "poorly designed code": {
+      "count": 1,
+      "dates": [
+        "2026-01-29"
+      ]
+    },
+    "uses hebrew language": {
+      "count": 1,
+      "dates": [
+        "2026-01-29"
+      ]
+    },
+    "took legal action": {
+      "count": 1,
+      "dates": [
+        "2026-01-29"
+      ]
+    },
+    "three strategic steps": {
+      "count": 1,
       "dates": [
         "2026-01-29"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-21 03:39",
-      "articles": 56,
-      "top_keywords": [
-        "eu plans phase",
-        "bypass security controls",
-        "telecontrol server basic",
-        "access sensitive information",
-        "windows operating systems"
-      ]
-    },
     {
       "timestamp": "2026-01-21 04:40",
       "articles": 56,
@@ -5718,6 +5746,17 @@
         "perform unauthorized actions",
         "badbox 2 0",
         "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-01-29 12:45",
+      "articles": 56,
+      "top_keywords": [
+        "rein security emerges",
+        "remote code execution",
+        "windows operating systems",
+        "twitter whistleblower complaint",
+        "perform unauthorized actions"
       ]
     }
   ]

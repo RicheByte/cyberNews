@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-28 22:21 UTC |
+| 🕐 Last Updated | 2026-01-29 01:41 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`us charges 31` • `rein security emerges` • `perform unauthorized actions` • `rewriting compliance controls` • `remote code execution` • `dire critical rating` • `windows operating systems` • `malicious cyber actors` • `twitter whistleblower complaint` • `rightly command attention`
+`us charges 31` • `rein security emerges` • `perform unauthorized actions` • `rewriting compliance controls` • `windows operating systems` • `dire critical rating` • `malicious cyber actors` • `twitter whistleblower complaint` • `backdoor called coolclient` • `atm jackpotting scheme`
 
 ## 📄 Reports
 

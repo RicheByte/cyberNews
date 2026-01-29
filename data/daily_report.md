@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-28 22:21 UTC  
+> **Last Updated:** 2026-01-29 01:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**us charges 31** • **rein security emerges** • **perform unauthorized actions** • **rewriting compliance controls** • **remote code execution** • **dire critical rating** • **windows operating systems** • **malicious cyber actors** • **twitter whistleblower complaint** • **rightly command attention** • **backdoor called coolclient** • **atm jackpotting scheme** • **arbitrary code execution** • **token security explains** • **released security updates** • **president s efforts** • **national security risk** • **johnson controls products** • **cyber espionage attacks** • **vulnerabilities earned microsoft's**
+**us charges 31** • **rein security emerges** • **perform unauthorized actions** • **rewriting compliance controls** • **windows operating systems** • **dire critical rating** • **malicious cyber actors** • **twitter whistleblower complaint** • **backdoor called coolclient** • **atm jackpotting scheme** • **token security explains** • **national security risk** • **remote code execution** • **president s efforts** • **nation s ability** • **johnson controls products** • **cyber espionage attacks** • **arbitrary code execution** • **vulnerabilities earned microsoft's** • **internal network behind**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Initial access hackers switch to Tsundere Bot for ransomware attacks](https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/)
 - [Cyberattack on Polish energy grid impacted around 30 facilities](https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/)
 - [eScan confirms update server breached to push malicious update](https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/)
 - [Viral Moltbot AI assistant raises concerns over data security](https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/)
@@ -34,7 +35,6 @@
 - [FBI seizes RAMP cybercrime forum used by ransomware gangs](https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/)
 - [Empire cybercrime market owner pleads guilty to drug conspiracy](https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/)
 - [AI Is Rewriting Compliance Controls and CISOs Must Take Notice](https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/)
-- [SolarWinds warns of critical Web Help Desk RCE, auth bypass flaws](https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-critical-web-help-desk-rce-auth-bypass-flaws/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Months After Patch, WinRAR Bug Poised to Hit SMBs Hardest](https://www.darkreading.com/application-security/months-after-patch-winrar-bug-poised-smbs-hardest)
 - [Fortinet Confirms New Zero-Day Behind Malicious SSO Logins](https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins)
+- [Consumers Reluctant to Shop at Stores That Don't Take Security Seriously](https://www.darkreading.com/cyber-risk/consumers-reluctant-to-shop-at-stores-hit-by-cyberattacks)
 - [China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks](https://www.darkreading.com/threat-intelligence/china-backed-peckbirdy-cross-platform-attacks)
 - [Surging Cyberattacks Boost Latin America to Riskiest Region](https://www.darkreading.com/cyber-risk/surging-cyberattacks-latin-america-riskiest-region)
 - [AI &amp; the Death of Accuracy: What It Means for Zero-Trust](https://www.darkreading.com/application-security/ai-death-accuracy-zero-trust)
 - [Vibe-Coded 'Sicarii' Ransomware Can't Be Decrypted](https://www.darkreading.com/endpoint-security/vibe-coded-sicarii-ransomware-decrypted)
 - [Critical Telnet Server Flaw Exposes Forgotten Attack Surface](https://www.darkreading.com/ics-ot-security/critical-telnet-server-flaw-forgotten-attack-surface)
-- [Microsoft Rushes Emergency Patch for Office Zero-Day](https://www.darkreading.com/vulnerabilities-threats/microsoft-rushes-emergency-patch-office-zero-day)
-- ['Stanley' Toolkit Turns Chrome Into Undetectable Phishing Vector](https://www.darkreading.com/remote-workforce/stanley-toolkit-chrome-undetectable-phishing)
 
 ### Security Week
 

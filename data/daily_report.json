@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-01-29 18:37",
+  "last_updated": "2026-01-29 20:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
-    "badbox 2 0",
     "rockwell automation controllogix",
     "llms hijacked monetized",
+    "windows operating systems",
     "massive distributed denial",
     "released security updates",
-    "windows 10 include",
     "twitter whistleblower complaint",
     "dire critical rating",
     "43 million people",
     "december 2025 peaking",
+    "kimwolf botnet lurking",
+    "windows 10 include",
+    "residential networks across",
     "internal network behind",
     "prevent downtime risk",
-    "cloud security deal",
-    "malicious cyber actors",
     "trusted platforms turning",
     "trend familiar tools",
     "took legal action",
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 49
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 13
+      "mentions": 50
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "llms hijacked monetized",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 228
     },
     {
       "keyword": "massive distributed denial",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "released security updates",
-      "mentions": 16
-    },
-    {
-      "keyword": "windows 10 include",
-      "mentions": 9
+      "mentions": 17
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 518
+      "mentions": 519
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "43 million people",
+      "mentions": 4
+    },
+    {
+      "keyword": "december 2025 peaking",
       "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
+      "link": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
+      "summary": "A new joint investigation by SentinelOne SentinelLABS, and Censys has revealed that the open-source artificial intelligence (AI) deployment has created a vast \"unmanaged, publicly accessible layer of AI compute infrastructure\" that spans 175,000 unique Ollama hosts across 130 countries. These systems, which span both cloud and residential networks across the world, operate outside the",
+      "published": "Fri, 30 Jan 2026 00:07:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
@@ -138,16 +147,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
-      "summary": "Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution. The weaknesses, discovered by the JFrog Security Research team, are listed below - CVE-2026-1470 (CVSS score: 9.9) - An eval injection vulnerability that could allow an authenticated user to bypass the Expression",
-      "published": "Wed, 28 Jan 2026 18:13:00 +0530",
-      "value_score": 68,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
+      "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
+      "summary": "IPIDEA, one of the largest residential proxy networks used by threat actors, was disrupted earlier this week by Google Threat Intelligence Group (GTIG) in collaboration with industry partners. [...]",
+      "published": "Thu, 29 Jan 2026 14:29:17 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -224,28 +230,6 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Initial access hackers switch to Tsundere Bot for ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/",
-      "summary": "A prolific initial access broker tracked as TA584 has been observed using the Tsundere Bot alongside XWorm remote access trojan to gain network access that could lead to ransomware attacks. [...]",
-      "published": "Wed, 28 Jan 2026 18:29:00 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -318,6 +302,19 @@
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-29 14:35 UTC  
+> **Last Updated:** 2026-01-29 16:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **rein security emerges** • **windows operating systems** • **released security updates** • **twitter whistleblower complaint** • **perform unauthorized actions** • **dire critical rating** • **43 million people** • **cloud security deal** • **windows 10 include** • **malicious cyber actors** • **poorly designed code** • **internal network behind** • **execute arbitrary code** • **solar dispatch systems** • **iba systems ibapda** • **prevent downtime risk** • **uses hebrew language** • **trusted platforms turning** • **trend familiar tools**
+**remote code execution** • **windows operating systems** • **llms hijacked monetized** • **released security updates** • **massive distributed denial** • **december 2025 peaking** • **twitter whistleblower complaint** • **perform unauthorized actions** • **dire critical rating** • **43 million people** • **kimwolf botnet lurking** • **windows 10 include** • **poorly designed code** • **malicious cyber actors** • **internal network behind** • **cloud security deal** • **solar dispatch systems** • **iba systems ibapda** • **prevent downtime risk** • **uses hebrew language**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Not a Kids Game: From Roblox Mod to Compromising Your Company](https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/)
+- [Aisuru botnet sets new record with 31.4 Tbps DDoS attack](https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/)
+- [New Microsoft Teams feature will let you report suspicious calls](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/)
 - [France fines unemployment agency €5 million over data breach](https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/)
 - [Google rolls out Android theft protection feature updates](https://www.bleepingcomputer.com/news/google/google-rolls-out-android-theft-protection-feature-updates/)
 - [Initial access hackers switch to Tsundere Bot for ransomware attacks](https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/)
 - [Cyberattack on Polish energy grid impacted around 30 facilities](https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/)
 - [eScan confirms update server breached to push malicious update](https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/)
-- [Viral Moltbot AI assistant raises concerns over data security](https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/)
-- [New sandbox escape flaw exposes n8n instances to RCE attacks](https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/)
-- [FBI seizes RAMP cybercrime forum used by ransomware gangs](https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’](https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/)
+- [N8n Vulnerabilities Could Lead to Remote Code Execution](https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/)
 - [SolarWinds Patches Critical Web Help Desk Vulnerabilities](https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/)
 - [Cyber Insights 2026: Zero Trust and Following the Path](https://www.securityweek.com/cyber-insights-2026-zero-trust-and-following-the-path/)
 - [Google Disrupts IPIDEA Proxy Network](https://www.securityweek.com/google-disrupts-ipidea-proxy-network/)
 - [PwC and Google Cloud Ink $400 Million Deal to Scale AI-Powered Defense](https://www.securityweek.com/pwc-and-google-cloud-ink-400-million-deal-to-scale-ai-powered-defense/)
 - [Cyber Insights 2026: Offensive Security; Where It Is and Where It’s Going](https://www.securityweek.com/cyber-insights-2026-offensive-security-where-it-is-and-where-its-going/)
 - [Mesh Security Raises $12 Million for CSMA Platform](https://www.securityweek.com/mesh-security-raises-12-million-for-csma-platform/)
-- [Why We Can’t Let AI Take the Wheel of Cyber Defense](https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/)
-- [Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach](https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/)
 
 ### Threatpost
 

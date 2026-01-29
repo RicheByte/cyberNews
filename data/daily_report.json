@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-29 14:35",
+  "last_updated": "2026-01-29 16:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
-    "rein security emerges",
     "windows operating systems",
+    "llms hijacked monetized",
     "released security updates",
+    "massive distributed denial",
+    "december 2025 peaking",
     "twitter whistleblower complaint",
     "perform unauthorized actions",
     "dire critical rating",
     "43 million people",
-    "cloud security deal",
+    "kimwolf botnet lurking",
     "windows 10 include",
-    "malicious cyber actors",
     "poorly designed code",
+    "malicious cyber actors",
     "internal network behind",
-    "execute arbitrary code",
+    "cloud security deal",
     "solar dispatch systems",
     "iba systems ibapda",
     "prevent downtime risk",
-    "uses hebrew language",
-    "trusted platforms turning",
-    "trend familiar tools"
+    "uses hebrew language"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 47
-    },
-    {
-      "keyword": "rein security emerges",
-      "mentions": 12
+      "mentions": 48
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 226
+      "mentions": 227
     },
     {
-      "keyword": "released security updates",
-      "mentions": 14
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 516
-    },
-    {
-      "keyword": "perform unauthorized actions",
-      "mentions": 11
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 23
-    },
-    {
-      "keyword": "43 million people",
+      "keyword": "llms hijacked monetized",
       "mentions": 1
     },
     {
-      "keyword": "cloud security deal",
-      "mentions": 4
+      "keyword": "released security updates",
+      "mentions": 15
     },
     {
-      "keyword": "windows 10 include",
-      "mentions": 7
+      "keyword": "massive distributed denial",
+      "mentions": 1
+    },
+    {
+      "keyword": "december 2025 peaking",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 517
+    },
+    {
+      "keyword": "perform unauthorized actions",
+      "mentions": 12
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 24
+    },
+    {
+      "keyword": "43 million people",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -151,6 +151,37 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Not a Kids Game: From Roblox Mod to Compromising Your Company",
+      "link": "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/",
+      "summary": "Seemingly harmless game mods can hide infostealer malware that quietly steals identities. Flare shows how Roblox mods can turn a home PC infection into corporate compromise. [...]",
+      "published": "Thu, 29 Jan 2026 10:02:12 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack",
+      "link": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/",
+      "summary": "The Aisuru/Kimwolf botnet launched a new massive distributed denial of service (DDoS) attack in December 2025, peaking at 31.4 Tbps and 200 million requests per second. [...]",
+      "published": "Thu, 29 Jan 2026 09:55:25 -0500",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Microsoft Teams feature will let you report suspicious calls",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/",
+      "summary": "Microsoft plans to introduce a call reporting feature in Teams by mid-March, allowing users to flag suspicious or unwanted calls as potential scams or phishing attempts. [...]",
+      "published": "Thu, 29 Jan 2026 09:49:47 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "France fines unemployment agency €5 million over data breach",
       "link": "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/",
       "summary": "The French data protection authority fined the national employment agency €5 million (nearly €6 million) for failing to secure job seekers' data, which allowed hackers to steal the personal information of 43 million people. [...]",
@@ -198,37 +229,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×4"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Viral Moltbot AI assistant raises concerns over data security",
-      "link": "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/",
-      "summary": "Security researchers are warning of insecure deployments in enterprise environments of the Moltbot (formerly Clawdbot) AI assistant, which can lead to leaking API keys, OAuth tokens, conversation history, and credentials. [...]",
-      "published": "Wed, 28 Jan 2026 15:26:59 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New sandbox escape flaw exposes n8n instances to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/",
-      "summary": "Two vulnerabilities in the n8n workflow automation platform could allow attackers to fully compromise affected instances, access sensitive data, and execute arbitrary code on the underlying host. [...]",
-      "published": "Wed, 28 Jan 2026 12:46:57 -0500",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI seizes RAMP cybercrime forum used by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/",
-      "summary": "The FBI has seized the notorious RAMP cybercrime forum, a platform used to advertise a wide range of malware and hacking services, and one of the few remaining forums that openly allowed the promotion of ransomware operations. [...]",
-      "published": "Wed, 28 Jan 2026 12:38:45 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {
@@ -322,7 +322,7 @@
       "source": "Dark Reading",
       "title": "How Can CISOs Respond to Ransomware Getting More Violent?",
       "link": "https://www.darkreading.com/cyber-risk/how-cisos-respond-ransomware-getting-more-violent",
-      "summary": "Ransomware defense requires focusing on business resilience. This means patching issues promptly, improving user education, and deploying multi-factor authentication.",
+      "summary": "Ransomware defense requires focusing on business resilience. This means patching issues promptly, improving user education, and deploying multifactor authentication.",
       "published": "Wed, 28 Jan 2026 22:51:36 GMT",
       "value_score": 46,
       "value_signals": [
@@ -404,6 +404,27 @@
     },
     {
       "source": "Security Week",
+      "title": "LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’",
+      "link": "https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/",
+      "summary": "An LLMjacking operation has been targeting exposed LLMs and MCPs at scale, for commercial monetization. The post LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’ appeared first on SecurityWeek .",
+      "published": "Thu, 29 Jan 2026 15:01:24 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "N8n Vulnerabilities Could Lead to Remote Code Execution",
+      "link": "https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/",
+      "summary": "The two bugs impacted n8n’s sandbox mechanism and could be exploited via weaknesses in the AST sanitization logic. The post N8n Vulnerabilities Could Lead to Remote Code Execution appeared first on SecurityWeek .",
+      "published": "Thu, 29 Jan 2026 14:51:17 +0000",
+      "value_score": 56,
+      "value_signals": [
+        "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "SolarWinds Patches Critical Web Help Desk Vulnerabilities",
       "link": "https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/",
       "summary": "The four critical flaws could be exploited without authentication for remote code execution or authentication bypass. The post SolarWinds Patches Critical Web Help Desk Vulnerabilities appeared first on SecurityWeek .",
@@ -458,24 +479,6 @@
       "link": "https://www.securityweek.com/mesh-security-raises-12-million-for-csma-platform/",
       "summary": "The investment will allow Mesh to advance its autonomous, agentic capabilities, and scale sales and customer support efforts. The post Mesh Security Raises $12 Million for CSMA Platform appeared first on SecurityWeek .",
       "published": "Wed, 28 Jan 2026 14:26:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Why We Can’t Let AI Take the Wheel of Cyber Defense",
-      "link": "https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/",
-      "summary": "The fastest way to squander the promise of AI is to mistake automation for assurance, and novelty for resilience. The post Why We Can’t Let AI Take the Wheel of Cyber Defense appeared first on SecurityWeek .",
-      "published": "Wed, 28 Jan 2026 14:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach",
-      "link": "https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/",
-      "summary": "Rein aims to close the production visibility gap by stopping attacks inside the application runtime. The post Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach appeared first on SecurityWeek .",
-      "published": "Wed, 28 Jan 2026 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

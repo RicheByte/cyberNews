@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-29 20:24 UTC  
+> **Last Updated:** 2026-01-29 22:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **rockwell automation controllogix** • **llms hijacked monetized** • **windows operating systems** • **massive distributed denial** • **released security updates** • **twitter whistleblower complaint** • **dire critical rating** • **43 million people** • **december 2025 peaking** • **kimwolf botnet lurking** • **windows 10 include** • **residential networks across** • **internal network behind** • **prevent downtime risk** • **trusted platforms turning** • **trend familiar tools** • **took legal action** • **today we'll dig** • **three strategic steps**
+**remote code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **windows operating systems** • **massive distributed denial** • **released security updates** • **twitter whistleblower complaint** • **december 2025 peaking** • **kimwolf botnet lurking** • **android malware variants** • **vulnerabilities earned microsoft's** • **multibillion dollar ai** • **dire critical rating** • **ai compute infrastructure** • **residential networks across** • **internal network behind** • **cve 2026 1340** • **cve 2026 1281** • **prevent downtime risk** • **trusted platforms turning**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Hugging Face abused to spread thousands of Android malware variants](https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/)
+- [Ivanti warns of two EPMM flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/)
 - [Google disrupts IPIDEA residential proxy networks fueled by malware](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/)
 - [Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match](https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/)
 - [Marquis blames ransomware breach on SonicWall cloud backup hack](https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/)
 - [Not a Kids Game: From Roblox Mod to Compromising Your Company](https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/)
 - [Aisuru botnet sets new record with 31.4 Tbps DDoS attack](https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/)
 - [New Microsoft Teams feature will let you report suspicious calls](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/)
-- [France fines unemployment agency €5 million over data breach](https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/)
-- [Google rolls out Android theft protection feature updates](https://www.bleepingcomputer.com/news/google/google-rolls-out-android-theft-protection-feature-updates/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [More Critical Flaws on n8n Could Compromise Customer Security](https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security)
 - ['Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4](https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4)
 - [How Can CISOs Respond to Ransomware Getting More Violent?](https://www.darkreading.com/cyber-risk/how-cisos-respond-ransomware-getting-more-violent)
 - [Months After Patch, WinRAR Bug Poised to Hit SMBs Hardest](https://www.darkreading.com/application-security/months-after-patch-winrar-bug-poised-smbs-hardest)
@@ -56,7 +57,6 @@
 - [Consumers Reluctant to Shop at Stores That Don't Take Security Seriously](https://www.darkreading.com/cyber-risk/consumers-reluctant-to-shop-at-stores-hit-by-cyberattacks)
 - [China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks](https://www.darkreading.com/threat-intelligence/china-backed-peckbirdy-cross-platform-attacks)
 - [Surging Cyberattacks Boost Latin America to Riskiest Region](https://www.darkreading.com/cyber-risk/surging-cyberattacks-latin-america-riskiest-region)
-- [AI &amp; the Death of Accuracy: What It Means for Zero-Trust](https://www.darkreading.com/application-security/ai-death-accuracy-zero-trust)
 
 ### Security Week
 
@@ -84,12 +84,12 @@
 
 - [KiloView Encoder Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-01)
 - [Rockwell Automation ArmorStart LT](https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-02)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/29/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Rockwell Automation ControlLogix](https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-03)
 - [Fortinet Releases Guidance to Address Ongoing Exploitation of Authentication Bypass Vulnerability CVE-2026-24858](https://www.cisa.gov/news-events/alerts/2026/01/28/fortinet-releases-guidance-address-ongoing-exploitation-authentication-bypass-vulnerability-cve-2026)
-- [Johnson Controls Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-04)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/27/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Festo Didactic SE MES PC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-02)
 - [iba Systems ibaPDA](https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-01)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/27/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [Johnson Controls Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-04)
 
 ---
 

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-29 20:24",
+  "last_updated": "2026-01-29 22:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
-    "rockwell automation controllogix",
     "llms hijacked monetized",
+    "rockwell automation controllogix",
     "windows operating systems",
     "massive distributed denial",
     "released security updates",
     "twitter whistleblower complaint",
-    "dire critical rating",
-    "43 million people",
     "december 2025 peaking",
     "kimwolf botnet lurking",
-    "windows 10 include",
+    "android malware variants",
+    "vulnerabilities earned microsoft's",
+    "multibillion dollar ai",
+    "dire critical rating",
+    "ai compute infrastructure",
     "residential networks across",
     "internal network behind",
+    "cve 2026 1340",
+    "cve 2026 1281",
     "prevent downtime risk",
-    "trusted platforms turning",
-    "trend familiar tools",
-    "took legal action",
-    "today we'll dig",
-    "three strategic steps"
+    "trusted platforms turning"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 50
-    },
-    {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 2
+      "mentions": 51
     },
     {
       "keyword": "llms hijacked monetized",
+      "mentions": 4
+    },
+    {
+      "keyword": "rockwell automation controllogix",
       "mentions": 3
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 228
+      "mentions": 229
     },
     {
       "keyword": "massive distributed denial",
-      "mentions": 3
-    },
-    {
-      "keyword": "released security updates",
-      "mentions": 17
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 519
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 26
-    },
-    {
-      "keyword": "43 million people",
       "mentions": 4
     },
     {
+      "keyword": "released security updates",
+      "mentions": 18
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 520
+    },
+    {
       "keyword": "december 2025 peaking",
+      "mentions": 4
+    },
+    {
+      "keyword": "kimwolf botnet lurking",
       "mentions": 3
+    },
+    {
+      "keyword": "android malware variants",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -148,6 +148,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hugging Face abused to spread thousands of Android malware variants",
+      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
+      "summary": "A new Android malware campaign is using the Hugging Face platform as a repository for thousands of variations of an APK payload that collects credentials for popular financial and payment services. [...]",
+      "published": "Thu, 29 Jan 2026 17:08:19 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Ivanti warns of two EPMM flaws exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/",
+      "summary": "Ivanti has disclosed two critical vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), tracked as CVE-2026-1281 and CVE-2026-1340, that were exploited in zero-day attacks. [...]",
+      "published": "Thu, 29 Jan 2026 17:07:33 -0500",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day ×2",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
       "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
       "summary": "IPIDEA, one of the largest residential proxy networks used by threat actors, was disrupted earlier this week by Google Threat Intelligence Group (GTIG) in collaboration with industry partners. [...]",
@@ -208,26 +232,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "France fines unemployment agency €5 million over data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/",
-      "summary": "The French data protection authority fined the national employment agency €5 million (nearly €6 million) for failing to secure job seekers' data, which allowed hackers to steal the personal information of 43 million people. [...]",
-      "published": "Thu, 29 Jan 2026 08:36:01 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google rolls out Android theft protection feature updates",
-      "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-android-theft-protection-feature-updates/",
-      "summary": "​Google has introduced stronger Android authentication safeguards and enhanced recovery tools to make smartphones more challenging targets for thieves. [...]",
-      "published": "Thu, 29 Jan 2026 06:56:26 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +322,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "More Critical Flaws on n8n Could Compromise Customer Security",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security",
+      "summary": "A new around of vulnerabilities in the popular AI automation platform could let attackers hijack servers and steal credentials.",
+      "published": "Thu, 29 Jan 2026 21:53:01 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4",
       "link": "https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4",
       "summary": "If an attacker splits a malicious prompt into discrete chunks, some large language models (LLMs) will get lost in the details and miss the true intent.",
@@ -388,15 +403,6 @@
         "Breach/leak",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI &amp; the Death of Accuracy: What It Means for Zero-Trust",
-      "link": "https://www.darkreading.com/application-security/ai-death-accuracy-zero-trust",
-      "summary": "AI \"model collapse,\" where LLMs over time train on more and more AI-generated data and become degraded as a result, can introduce inaccuracies, promulgate malicious activity, and impact PII protections.",
-      "published": "Tue, 27 Jan 2026 22:31:48 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -591,6 +597,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/01/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-1281 Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living ",
+      "published": "Thu, 29 Jan 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Rockwell Automation ControlLogix",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-03",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition. The following versions of Rockwell Automation ControlLogix are affected: ControlLogix Redundancy Enhanced Module Catalog 1756-RM2 Firmware vers:all/* (CVE-2025-14027) ControlLogix Redundancy Enhanced Module Catalog 1756-RM2XT Firmware vers:all/* (CVE-2025-14027) CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation Rockwell Automation ControlLogix Missing Rel",
@@ -620,15 +640,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Johnson Controls Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in remote SQL execution, leading to alteration or loss of data. The following versions of Johnson Controls Products are affected: Application and Data Server (ADS) (CVE-2025-26385) Extended Application and Data Server (ADX) (CVE-2025-26385) LCS8500 (CVE-2025-26385) NAE8500 (CVE-2025-26385) System Configuration Tool (SCT) (CVE-2025-26385) Controller Configuration Tool (CCT) (CVE-2025-26385) CVSS Vendor Equipment Vulnerab",
+      "title": "iba Systems ibaPDA",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to perform unauthorized actions on the file system. The following versions of iba Systems ibaPDA are affected: ibaPDA (CVE-2025-14988) CVSS Vendor Equipment Vulnerabilities v3 9.8 iba Systems iba Systems ibaPDA Incorrect Permission Assignment for Critical Resource Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulne",
       "published": "Tue, 27 Jan 26 12:00:00 +0000",
-      "value_score": 89,
+      "value_score": 75,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×6",
-        "Multiple CVEs",
+        "CVE mentioned",
+        "High severity ×3",
         "Exploit wording"
       ]
     },
@@ -649,27 +669,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Festo Didactic SE MES PC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-02",
-      "summary": "View CSAF Summary MES PCs shipped with Windows 10 come pre-installed with XAMPP. XAMPP is a bundle of third-party open-source applications including the Apache HTTP Server, the MariaDB database and more. From time to time, vulnerabilities in these applications are discovered. These are fixed in newer versions of XAMPP by updating the bundled applications. MES PCs shipped with Windows 10 include a copy of XAMPP which contains around 140 such vulnerabilities listed in this advisory. They can be fi",
+      "title": "Johnson Controls Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in remote SQL execution, leading to alteration or loss of data. The following versions of Johnson Controls Products are affected: Application and Data Server (ADS) (CVE-2025-26385) Extended Application and Data Server (ADX) (CVE-2025-26385) LCS8500 (CVE-2025-26385) NAE8500 (CVE-2025-26385) System Configuration Tool (SCT) (CVE-2025-26385) Controller Configuration Tool (CCT) (CVE-2025-26385) CVSS Vendor Equipment Vulnerab",
       "published": "Tue, 27 Jan 26 12:00:00 +0000",
-      "value_score": 43,
+      "value_score": 89,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "iba Systems ibaPDA",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to perform unauthorized actions on the file system. The following versions of iba Systems ibaPDA are affected: ibaPDA (CVE-2025-14988) CVSS Vendor Equipment Vulnerabilities v3 9.8 iba Systems iba Systems ibaPDA Incorrect Permission Assignment for Critical Resource Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulne",
-      "published": "Tue, 27 Jan 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×3",
+        "CVE mentioned ×6",
+        "Multiple CVEs",
         "Exploit wording"
       ]
     }

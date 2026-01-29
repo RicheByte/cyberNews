@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 239,
+      "count": 240,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -179,7 +179,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 511,
+      "count": 512,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -471,7 +471,7 @@
       ]
     },
     "remote code execution": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -701,7 +701,7 @@
       ]
     },
     "national security risk": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1490,7 +1490,7 @@
       ]
     },
     "nation s ability": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1797,7 +1797,7 @@
       ]
     },
     "president s efforts": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1865,7 +1865,7 @@
       ]
     },
     "token security explains": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -2368,7 +2368,7 @@
       ]
     },
     "internal network behind": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2405,7 +2405,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2945,7 +2945,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4299,11 +4299,12 @@
       ]
     },
     "badbox 2 0": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-26",
         "2026-01-27",
-        "2026-01-28"
+        "2026-01-28",
+        "2026-01-29"
       ]
     },
     "ai generated backdoor": {
@@ -4429,10 +4430,11 @@
       ]
     },
     "windows 10 include": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-27",
-        "2026-01-28"
+        "2026-01-28",
+        "2026-01-29"
       ]
     },
     "critical infrastructure organizations": {
@@ -4456,7 +4458,7 @@
       ]
     },
     "us charges 31": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-27",
         "2026-01-28",
@@ -4513,7 +4515,7 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-28",
         "2026-01-29"
@@ -4538,7 +4540,7 @@
       ]
     },
     "rein security emerges": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-28",
         "2026-01-29"
@@ -4551,7 +4553,7 @@
       ]
     },
     "cyber espionage attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-28",
         "2026-01-29"
@@ -4564,7 +4566,7 @@
       ]
     },
     "rewriting compliance controls": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-28",
         "2026-01-29"
@@ -4577,7 +4579,7 @@
       ]
     },
     "perform unauthorized actions": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-28",
         "2026-01-29"
@@ -4596,14 +4598,14 @@
       ]
     },
     "johnson controls products": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-28",
         "2026-01-29"
       ]
     },
     "backdoor called coolclient": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-28",
         "2026-01-29"
@@ -4611,17 +4613,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-20 20:40",
-      "articles": 56,
-      "top_keywords": [
-        "eu plans phase",
-        "telecontrol server basic",
-        "access sensitive information",
-        "windows operating systems",
-        "identities left behind"
-      ]
-    },
     {
       "timestamp": "2026-01-20 22:19",
       "articles": 56,
@@ -5709,6 +5700,17 @@
         "perform unauthorized actions",
         "rewriting compliance controls",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-01-29 06:40",
+      "articles": 56,
+      "top_keywords": [
+        "us charges 31",
+        "rein security emerges",
+        "perform unauthorized actions",
+        "badbox 2 0",
+        "rewriting compliance controls"
       ]
     }
   ]

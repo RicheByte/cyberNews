@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-29 12:45",
+  "last_updated": "2026-01-29 14:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "rein security emerges",
     "remote code execution",
+    "rein security emerges",
     "windows operating systems",
+    "released security updates",
     "twitter whistleblower complaint",
     "perform unauthorized actions",
-    "control centers worldwide",
-    "released security updates",
+    "dire critical rating",
+    "43 million people",
     "cloud security deal",
     "windows 10 include",
-    "prevent downtime risk",
     "malicious cyber actors",
-    "national security risk",
     "poorly designed code",
-    "execute arbitrary code",
     "internal network behind",
-    "hackers network operators",
+    "execute arbitrary code",
+    "solar dispatch systems",
+    "iba systems ibapda",
+    "prevent downtime risk",
     "uses hebrew language",
-    "took legal action",
-    "today we'll dig",
-    "three strategic steps"
+    "trusted platforms turning",
+    "trend familiar tools"
   ],
   "trending": [
     {
-      "keyword": "rein security emerges",
-      "mentions": 11
+      "keyword": "remote code execution",
+      "mentions": 47
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 46
+      "keyword": "rein security emerges",
+      "mentions": 12
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 225
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 515
-    },
-    {
-      "keyword": "perform unauthorized actions",
-      "mentions": 10
-    },
-    {
-      "keyword": "control centers worldwide",
-      "mentions": 1
+      "mentions": 226
     },
     {
       "keyword": "released security updates",
-      "mentions": 13
+      "mentions": 14
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 516
+    },
+    {
+      "keyword": "perform unauthorized actions",
+      "mentions": 11
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 23
+    },
+    {
+      "keyword": "43 million people",
+      "mentions": 1
     },
     {
       "keyword": "cloud security deal",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "windows 10 include",
-      "mentions": 6
-    },
-    {
-      "keyword": "prevent downtime risk",
-      "mentions": 1
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
+      "summary": "This week’s updates show how small changes can create real problems. Not loud incidents, but quiet shifts that are easy to miss until they add up. The kind that affects systems people rely on every day. Many of the stories point to the same trend: familiar tools being used in unexpected ways. Security controls are being worked on. Trusted platforms turning into weak spots. What looks routine on",
+      "published": "Thu, 29 Jan 2026 18:31:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
@@ -141,13 +150,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
-      "link": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
-      "summary": "If you work in security operations, the concept of the AI SOC agent is likely familiar. Early narratives promised total autonomy. Vendors seized on the idea of the \"Autonomous SOC\" and suggested a future where algorithms replaced analysts. That future has not arrived. We have not seen mass layoffs or empty security operations centers. We have instead seen the emergence of a practical reality.",
-      "published": "Wed, 28 Jan 2026 17:25:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "France fines unemployment agency €5 million over data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/",
+      "summary": "The French data protection authority fined the national employment agency €5 million (nearly €6 million) for failing to secure job seekers' data, which allowed hackers to steal the personal information of 43 million people. [...]",
+      "published": "Thu, 29 Jan 2026 08:36:01 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -219,15 +230,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Empire cybercrime market owner pleads guilty to drug conspiracy",
-      "link": "https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/",
-      "summary": "​A Virginia man who co-created Empire Market, one of the largest dark web marketplaces at the time, pleaded guilty to federal drug conspiracy charges for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
-      "published": "Wed, 28 Jan 2026 12:19:02 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +320,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "How Can CISOs Respond to Ransomware Getting More Violent?",
+      "link": "https://www.darkreading.com/cyber-risk/how-cisos-respond-ransomware-getting-more-violent",
+      "summary": "Ransomware defense requires focusing on business resilience. This means patching issues promptly, improving user education, and deploying multi-factor authentication.",
+      "published": "Wed, 28 Jan 2026 22:51:36 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Months After Patch, WinRAR Bug Poised to Hit SMBs Hardest",
       "link": "https://www.darkreading.com/application-security/months-after-patch-winrar-bug-poised-smbs-hardest",
       "summary": "Russian and Chinese nation-state attackers are exploiting a months-old WinRAR vulnerability, despite a patch that came out last July.",
@@ -390,14 +403,17 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Critical Telnet Server Flaw Exposes Forgotten Attack Surface",
-      "link": "https://www.darkreading.com/ics-ot-security/critical-telnet-server-flaw-forgotten-attack-surface",
-      "summary": "While telnet is considered obsolete, the network protocol is still used by hundreds of thousands of legacy systems and IoT devices for remote access.",
-      "published": "Tue, 27 Jan 2026 21:00:21 GMT",
-      "value_score": 18,
+      "source": "Security Week",
+      "title": "SolarWinds Patches Critical Web Help Desk Vulnerabilities",
+      "link": "https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/",
+      "summary": "The four critical flaws could be exploited without authentication for remote code execution or authentication bypass. The post SolarWinds Patches Critical Web Help Desk Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 29 Jan 2026 13:18:18 +0000",
+      "value_score": 67,
       "value_signals": [
-        "High severity"
+        "RCE",
+        "Auth bypass",
+        "High severity ×3",
+        "Exploit wording"
       ]
     },
     {
@@ -460,15 +476,6 @@
       "link": "https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/",
       "summary": "Rein aims to close the production visibility gap by stopping attacks inside the application runtime. The post Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach appeared first on SecurityWeek .",
       "published": "Wed, 28 Jan 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "WhatsApp Boosts Account Security for At-Risk Individuals",
-      "link": "https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/",
-      "summary": "New Strict Account Settings allow users to block attachments and media and silence calls from unknown people. The post WhatsApp Boosts Account Security for At-Risk Individuals appeared first on SecurityWeek .",
-      "published": "Wed, 28 Jan 2026 10:08:21 +0000",
       "value_score": 10,
       "value_signals": []
     },

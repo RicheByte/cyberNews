@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-29 12:45 UTC  
+> **Last Updated:** 2026-01-29 14:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**rein security emerges** • **remote code execution** • **windows operating systems** • **twitter whistleblower complaint** • **perform unauthorized actions** • **control centers worldwide** • **released security updates** • **cloud security deal** • **windows 10 include** • **prevent downtime risk** • **malicious cyber actors** • **national security risk** • **poorly designed code** • **execute arbitrary code** • **internal network behind** • **hackers network operators** • **uses hebrew language** • **took legal action** • **today we'll dig** • **three strategic steps**
+**remote code execution** • **rein security emerges** • **windows operating systems** • **released security updates** • **twitter whistleblower complaint** • **perform unauthorized actions** • **dire critical rating** • **43 million people** • **cloud security deal** • **windows 10 include** • **malicious cyber actors** • **poorly designed code** • **internal network behind** • **execute arbitrary code** • **solar dispatch systems** • **iba systems ibapda** • **prevent downtime risk** • **uses hebrew language** • **trusted platforms turning** • **trend familiar tools**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html)
 - [Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps](https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html)
 - [3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026](https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html)
 - [SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass](https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html)
@@ -23,10 +24,10 @@
 - [Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware](https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html)
 - [Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid](https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html)
 - [Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution](https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html)
-- [From Triage to Threat Hunts: How AI Accelerates SecOps](https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html)
 
 ### BleepingComputer
 
+- [France fines unemployment agency €5 million over data breach](https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/)
 - [Google rolls out Android theft protection feature updates](https://www.bleepingcomputer.com/news/google/google-rolls-out-android-theft-protection-feature-updates/)
 - [Initial access hackers switch to Tsundere Bot for ransomware attacks](https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/)
 - [Cyberattack on Polish energy grid impacted around 30 facilities](https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/)
@@ -34,7 +35,6 @@
 - [Viral Moltbot AI assistant raises concerns over data security](https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/)
 - [New sandbox escape flaw exposes n8n instances to RCE attacks](https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/)
 - [FBI seizes RAMP cybercrime forum used by ransomware gangs](https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/)
-- [Empire cybercrime market owner pleads guilty to drug conspiracy](https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [How Can CISOs Respond to Ransomware Getting More Violent?](https://www.darkreading.com/cyber-risk/how-cisos-respond-ransomware-getting-more-violent)
 - [Months After Patch, WinRAR Bug Poised to Hit SMBs Hardest](https://www.darkreading.com/application-security/months-after-patch-winrar-bug-poised-smbs-hardest)
 - [Fortinet Confirms New Zero-Day Behind Malicious SSO Logins](https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins)
 - [Consumers Reluctant to Shop at Stores That Don't Take Security Seriously](https://www.darkreading.com/cyber-risk/consumers-reluctant-to-shop-at-stores-hit-by-cyberattacks)
@@ -56,10 +57,10 @@
 - [Surging Cyberattacks Boost Latin America to Riskiest Region](https://www.darkreading.com/cyber-risk/surging-cyberattacks-latin-america-riskiest-region)
 - [AI &amp; the Death of Accuracy: What It Means for Zero-Trust](https://www.darkreading.com/application-security/ai-death-accuracy-zero-trust)
 - [Vibe-Coded 'Sicarii' Ransomware Can't Be Decrypted](https://www.darkreading.com/endpoint-security/vibe-coded-sicarii-ransomware-decrypted)
-- [Critical Telnet Server Flaw Exposes Forgotten Attack Surface](https://www.darkreading.com/ics-ot-security/critical-telnet-server-flaw-forgotten-attack-surface)
 
 ### Security Week
 
+- [SolarWinds Patches Critical Web Help Desk Vulnerabilities](https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/)
 - [Cyber Insights 2026: Zero Trust and Following the Path](https://www.securityweek.com/cyber-insights-2026-zero-trust-and-following-the-path/)
 - [Google Disrupts IPIDEA Proxy Network](https://www.securityweek.com/google-disrupts-ipidea-proxy-network/)
 - [PwC and Google Cloud Ink $400 Million Deal to Scale AI-Powered Defense](https://www.securityweek.com/pwc-and-google-cloud-ink-400-million-deal-to-scale-ai-powered-defense/)
@@ -67,7 +68,6 @@
 - [Mesh Security Raises $12 Million for CSMA Platform](https://www.securityweek.com/mesh-security-raises-12-million-for-csma-platform/)
 - [Why We Can’t Let AI Take the Wheel of Cyber Defense](https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/)
 - [Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach](https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/)
-- [WhatsApp Boosts Account Security for At-Risk Individuals](https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/)
 
 ### Threatpost
 

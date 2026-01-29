@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-29 16:37 UTC |
+| 🕐 Last Updated | 2026-01-29 18:37 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `windows operating systems` • `llms hijacked monetized` • `released security updates` • `massive distributed denial` • `december 2025 peaking` • `twitter whistleblower complaint` • `perform unauthorized actions` • `dire critical rating` • `43 million people`
+`remote code execution` • `badbox 2 0` • `rockwell automation controllogix` • `llms hijacked monetized` • `massive distributed denial` • `released security updates` • `windows 10 include` • `twitter whistleblower complaint` • `dire critical rating` • `43 million people`
 
 ## 📄 Reports
 

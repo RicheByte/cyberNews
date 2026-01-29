@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-29 16:37",
+  "last_updated": "2026-01-29 18:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
-    "windows operating systems",
+    "badbox 2 0",
+    "rockwell automation controllogix",
     "llms hijacked monetized",
-    "released security updates",
     "massive distributed denial",
-    "december 2025 peaking",
+    "released security updates",
+    "windows 10 include",
     "twitter whistleblower complaint",
-    "perform unauthorized actions",
     "dire critical rating",
     "43 million people",
-    "kimwolf botnet lurking",
-    "windows 10 include",
-    "poorly designed code",
-    "malicious cyber actors",
+    "december 2025 peaking",
     "internal network behind",
-    "cloud security deal",
-    "solar dispatch systems",
-    "iba systems ibapda",
     "prevent downtime risk",
-    "uses hebrew language"
+    "cloud security deal",
+    "malicious cyber actors",
+    "trusted platforms turning",
+    "trend familiar tools",
+    "took legal action",
+    "today we'll dig",
+    "three strategic steps"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 48
+      "mentions": 49
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 227
+      "keyword": "badbox 2 0",
+      "mentions": 13
+    },
+    {
+      "keyword": "rockwell automation controllogix",
+      "mentions": 1
     },
     {
       "keyword": "llms hijacked monetized",
-      "mentions": 1
-    },
-    {
-      "keyword": "released security updates",
-      "mentions": 15
+      "mentions": 2
     },
     {
       "keyword": "massive distributed denial",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "december 2025 peaking",
-      "mentions": 1
+      "keyword": "released security updates",
+      "mentions": 16
+    },
+    {
+      "keyword": "windows 10 include",
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 517
-    },
-    {
-      "keyword": "perform unauthorized actions",
-      "mentions": 12
+      "mentions": 518
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "43 million people",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -151,6 +151,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match",
+      "link": "https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/",
+      "summary": "Match Group, the owner of multiple popular online dating services, Tinder, Match.com, Meetic, OkCupid, and Hinge, confirmed a cybersecurity incident that compromised user data. [...]",
+      "published": "Thu, 29 Jan 2026 13:09:40 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Marquis blames ransomware breach on SonicWall cloud backup hack",
+      "link": "https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/",
+      "summary": "Marquis Software Solutions, a Texas-based financial services provider, is blaming a ransomware attack that impacted its systems and affected dozens of U.S. banks and credit unions in August 2025 on a security breach reported by SonicWall a month later. [...]",
+      "published": "Thu, 29 Jan 2026 12:57:58 -0500",
+      "value_score": 70,
+      "value_signals": [
+        "Ransomware ×2",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Not a Kids Game: From Roblox Mod to Compromising Your Company",
       "link": "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/",
       "summary": "Seemingly harmless game mods can hide infostealer malware that quietly steals identities. Flare shows how Roblox mods can turn a home PC infection into corporate compromise. [...]",
@@ -212,23 +235,14 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Cyberattack on Polish energy grid impacted around 30 facilities",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/",
-      "summary": "The coordinated attack on Poland's power grid in late December targeted multiple distributed energy resource (DER) sites across the country, including combined heat and power (CHP) facilities and wind and solar dispatch systems. [...]",
-      "published": "Wed, 28 Jan 2026 17:14:35 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "eScan confirms update server breached to push malicious update",
-      "link": "https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/",
-      "summary": "MicroWorld Technologies, the maker of the eScan antivirus product, has confirmed that one of its update servers was breached and used to distribute an unauthorized update later analyzed as malicious to a small subset of customers earlier this month. [...]",
-      "published": "Wed, 28 Jan 2026 16:00:40 -0500",
-      "value_score": 26,
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
       "value_signals": [
-        "Patch/update ×4"
+        "Botnet ×3"
       ]
     },
     {
@@ -306,17 +320,13 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
+      "source": "Dark Reading",
+      "title": "'Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4",
+      "summary": "If an attacker splits a malicious prompt into discrete chunks, some large language models (LLMs) will get lost in the details and miss the true intent.",
+      "published": "Thu, 29 Jan 2026 16:09:01 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -390,17 +400,6 @@
       "published": "Tue, 27 Jan 2026 22:31:48 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Vibe-Coded 'Sicarii' Ransomware Can't Be Decrypted",
-      "link": "https://www.darkreading.com/endpoint-security/vibe-coded-sicarii-ransomware-decrypted",
-      "summary": "A new ransomware strain that entered the scene last year has poorly designed code and uses Hebrew language that might be a false flag.",
-      "published": "Tue, 27 Jan 2026 22:15:39 GMT",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Security Week",
@@ -567,6 +566,48 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "KiloView Encoder Series",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to create or delete administrator accounts, granting full administrative control. The following versions of KiloView Encoder Series are affected: Encoder Series E1 hardware Version 1.4 4.7.2516 (CVE-2026-1453) Encoder Series E1 hardware Version 1.6.20 4.7.2511|4.8.2523|4.8.2611|4.6.2400|4.7.2512|4.8.2561|4.8.2554|4.3.2029|4.8.2555|4.6.2408 (CVE-2026-1453) Encoder Series E1-s hardware Version 1",
+      "published": "Thu, 29 Jan 26 12:00:00 +0000",
+      "value_score": 85,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Rockwell Automation ArmorStart LT",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-02",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition. The following versions of Rockwell Automation ArmorStart LT are affected: ArmorStart LT 290D <=V2.002 (CVE-2025-9464, CVE-2025-9465, CVE-2025-9466, CVE-2025-9278, CVE-2025-9279, CVE-2025-9280, CVE-2025-9281, CVE-2025-9282, CVE-2025-9283) ArmorStart LT 291D <=V2.002 (CVE-2025-9464, CVE-2025-9465, CVE-2025-9466, CVE-2025-9278, CVE-2025-9279, CVE-2025-9280, CVE-2025-928",
+      "published": "Thu, 29 Jan 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×15",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Rockwell Automation ControlLogix",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition. The following versions of Rockwell Automation ControlLogix are affected: ControlLogix Redundancy Enhanced Module Catalog 1756-RM2 Firmware vers:all/* (CVE-2025-14027) ControlLogix Redundancy Enhanced Module Catalog 1756-RM2XT Firmware vers:all/* (CVE-2025-14027) CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation Rockwell Automation ControlLogix Missing Rel",
+      "published": "Thu, 29 Jan 26 12:00:00 +0000",
+      "value_score": 85,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Fortinet Releases Guidance to Address Ongoing Exploitation of Authentication Bypass Vulnerability CVE-2026-24858",
       "link": "https://www.cisa.gov/news-events/alerts/2026/01/28/fortinet-releases-guidance-address-ongoing-exploitation-authentication-bypass-vulnerability-cve-2026",
       "summary": "Newly disclosed vulnerability Common Vulnerabilities and Exposures (CVE)-2026-24858 [ Common Weakness Enumeration (CWE)-288: Authentication Bypass Using an Alternate Path or Channel ] allows malicious actors with a FortiCloud account and a registered device to log in to separate devices registered to other users in FortiOS, FortiManager, FortiWeb, FortiProxy, and FortiAnalyzer, if FortiCloud single sign on (SSO) is enabled on devices. 1 Users are vulnerable to CVE-2026-24858 even if they updated",
@@ -632,47 +673,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "High severity ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric Zigbee Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-03",
-      "summary": "View CSAF Summary Schneider Electric is aware of multiple vulnerabilities with EmberZNet disclosed by Silicon Labs. Many vendors, including Schneider Electric, use Silicon Labs’ Zigbee processors in their offers. The following have denial of service vulnerabilities: Wiser iTRV, Wiser RTR, Wiser UFH, Wiser Heat Switch, Wiser Boiler Relay, cFMT (Exaact, Elko, Odace, Merten), Wiser Micromodule, Iconic Wiser Connected Smart Dimmer, Iconic Zigbee devices, Wiser Application Modules, Wiser Connected Pu",
-      "published": "Tue, 27 Jan 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/01/26/cisa-adds-five-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2018-14634 Linux Kernel Integer Overflow Vulnerability CVE-2025-52691 SmarterTools SmarterMail Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-21509 Microsoft Office Security Feature Bypass Vulnerability CVE-2026-23760 SmarterTools SmarterMail Authentication Bypass Using an Alternate Path or Channel Vulnerability CVE-2026-24061 GNU In",
-      "published": "Mon, 26 Jan 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×5",
-        "Auth bypass",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/01/23/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-37079 Broadcom VMware vCenter Server Out-of-bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
-      "published": "Fri, 23 Jan 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
         "Exploit wording"
       ]
     }

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-29 06:40",
+  "last_updated": "2026-01-29 08:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "us charges 31",
     "rein security emerges",
     "perform unauthorized actions",
-    "badbox 2 0",
     "rewriting compliance controls",
-    "dire critical rating",
+    "windows operating systems",
     "twitter whistleblower complaint",
     "malicious cyber actors",
+    "dire critical rating",
     "backdoor called coolclient",
     "atm jackpotting scheme",
     "token security explains",
     "national security risk",
+    "cloud security deal",
     "remote code execution",
     "president s efforts",
     "nation s ability",
     "johnson controls products",
-    "cyber espionage attacks",
     "arbitrary code execution",
-    "internal network behind",
-    "windows 10 include"
+    "cyber espionage attacks",
+    "vulnerabilities earned microsoft's"
   ],
   "trending": [
     {
       "keyword": "us charges 31",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "rein security emerges",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "perform unauthorized actions",
-      "mentions": 7
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 11
+      "mentions": 8
     },
     {
       "keyword": "rewriting compliance controls",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "dire critical rating",
-      "mentions": 20
+      "keyword": "windows operating systems",
+      "mentions": 224
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 512
+      "mentions": 513
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 240
+      "mentions": 241
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 21
     },
     {
       "keyword": "backdoor called coolclient",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "atm jackpotting scheme",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks",
+      "link": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
+      "summary": "Google on Wednesday announced that it worked together with other partners to disrupt IPIDEA, which it described as one of the largest residential proxy networks in the world. To that end, the company said it took legal action to take down dozens of domains used to control devices and proxy traffic through them. As of writing, IPIDEA's website (\"www.ipidea.io\") is no longer accessible. It",
+      "published": "Thu, 29 Jan 2026 12:46:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
@@ -140,19 +149,6 @@
       "value_signals": [
         "Ransomware",
         "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
-      "link": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
-      "summary": "Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to establish initial access and deploy a diverse array of payloads. \"Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated",
-      "published": "Wed, 28 Jan 2026 15:16:00 +0530",
-      "value_score": 42,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity",
-        "Exploit wording"
       ]
     },
     {
@@ -237,17 +233,6 @@
     },
     {
       "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
@@ -319,6 +304,19 @@
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -406,6 +404,15 @@
     },
     {
       "source": "Security Week",
+      "title": "PwC and Google Cloud Ink $400 Million Deal to Scale AI-Powered Defense",
+      "link": "https://www.securityweek.com/pwc-and-google-cloud-ink-400-million-deal-to-scale-ai-powered-defense/",
+      "summary": "The announcement comes just weeks after Palo Alto Networks and Google Cloud announced a multibillion-dollar AI and cloud security deal. The post PwC and Google Cloud Ink $400 Million Deal to Scale AI-Powered Defense appeared first on SecurityWeek .",
+      "published": "Thu, 29 Jan 2026 07:41:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cyber Insights 2026: Offensive Security; Where It Is and Where It’s Going",
       "link": "https://www.securityweek.com/cyber-insights-2026-offensive-security-where-it-is-and-where-its-going/",
       "summary": "Malicious attacks are increasing in frequency, sophistication and damage. Defenders need to find and harden system weaknesses before attackers can attack them. The post Cyber Insights 2026: Offensive Security; Where It Is and Where It’s Going appeared first on SecurityWeek .",
@@ -469,15 +476,6 @@
         "CVE mentioned",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems",
-      "link": "https://www.securityweek.com/indurex-emerges-from-stealth-to-close-security-gap-in-cyber-physical-systems/",
-      "summary": "Indurex was founded by Jalal Bouhdada, who previously led industrial cybersecurity company Applied Risk. The post Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems appeared first on SecurityWeek .",
-      "published": "Wed, 28 Jan 2026 08:23:13 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30 14:31",
+  "last_updated": "2026-01-30 16:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,62 +8,62 @@
     "arbitrary code execution",
     "rockwell automation controllogix",
     "hugging face abused",
-    "badbox 2 0",
+    "windows operating systems",
     "windows 11 systems",
     "twitter whistleblower complaint",
     "means long term",
     "hugging face platform",
     "ai risks preparing",
     "ai compute infrastructure",
-    "critical severity vulnerabilities",
     "cve 2026 1340",
     "cve 2026 1281",
-    "android malware variants",
     "vulnerabilities earned microsoft's",
-    "dire critical rating",
-    "path zero trust",
+    "encrypted emails microsoft",
+    "critical severity vulnerabilities",
+    "android malware variants",
+    "post aisy launches",
     "world operate outside"
   ],
   "trending": [
     {
       "keyword": "llms hijacked monetized",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "remote code execution",
-      "mentions": 58
+      "mentions": 59
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "hugging face abused",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "badbox 2 0",
-      "mentions": 14
+      "keyword": "windows operating systems",
+      "mentions": 236
     },
     {
       "keyword": "windows 11 systems",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 527
+      "mentions": 528
     },
     {
       "keyword": "means long term",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "hugging face platform",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -152,6 +152,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft fixes Outlook bug blocking access to encrypted emails",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/",
+      "summary": "Microsoft has fixed a known issue that prevented Microsoft 365 customers from opening encrypted emails in classic Outlook after a recent update. [...]",
+      "published": "Fri, 30 Jan 2026 09:48:49 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Windows 11 KB5074105 update fixes boot, sign-in, and activation issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/",
       "summary": "Microsoft has released the KB5074105 preview cumulative update for Windows 11 systems, which includes 32 changes, including fixes for sign-in, boot, and activation issues. [...]",
@@ -229,26 +240,6 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Not a Kids Game: From Roblox Mod to Compromising Your Company",
-      "link": "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/",
-      "summary": "Seemingly harmless game mods can hide infostealer malware that quietly steals identities. Flare shows how Roblox mods can turn a home PC infection into corporate compromise. [...]",
-      "published": "Thu, 29 Jan 2026 10:02:12 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -323,6 +314,19 @@
       "value_signals": []
     },
     {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
       "source": "Dark Reading",
       "title": "Chinese APTs Hacking Asian Orgs With High-End Malware",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware",
@@ -333,9 +337,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Trump Administration Rescinds Biden-Era SBOM Guidance",
+      "title": "Trump Administration Rescinds Biden-Era Software Guidance",
       "link": "https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance",
-      "summary": "Federal agencies will no longer be required to solicit software bills of material (SBOMs) from tech vendors, nor attestations that they comply with NIST's Secure Software Development Framework (SSDF). What that means long term is unclear.",
+      "summary": "Federal agencies will no longer be required to solicit software attestations that they comply with NIST's Secure Software Development Framework (SSDF). What that means long term is unclear.",
       "published": "Thu, 29 Jan 2026 22:25:07 GMT",
       "value_score": 10,
       "value_signals": []
@@ -405,6 +409,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Aisy Launches Out of Stealth to Transform Vulnerability Management",
+      "link": "https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/",
+      "summary": "Aisy has emerged from stealth mode with $2.3 million in seed funding for its AI-assisted platform. The post Aisy Launches Out of Stealth to Transform Vulnerability Management appeared first on SecurityWeek .",
+      "published": "Fri, 30 Jan 2026 15:00:46 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "175,000 Exposed Ollama Hosts Could Enable LLM Abuse",
+      "link": "https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/",
+      "summary": "Among them, 23,000 hosts were persistently responsible for the majority of activity observed over 293 days of scanning. The post 175,000 Exposed Ollama Hosts Could Enable LLM Abuse appeared first on SecurityWeek .",
+      "published": "Fri, 30 Jan 2026 14:34:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "White House Scraps ‘Burdensome’ Software Security Rules",
       "link": "https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/",
       "summary": "Two Biden-era memorandums have been revoked, but some of the resources they provide can still be used by government organizations. The post White House Scraps ‘Burdensome’ Software Security Rules appeared first on SecurityWeek .",
@@ -462,29 +484,6 @@
         "RCE ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "SolarWinds Patches Critical Web Help Desk Vulnerabilities",
-      "link": "https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/",
-      "summary": "The four critical flaws could be exploited without authentication for remote code execution or authentication bypass. The post SolarWinds Patches Critical Web Help Desk Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 29 Jan 2026 13:18:18 +0000",
-      "value_score": 67,
-      "value_signals": [
-        "RCE",
-        "Auth bypass",
-        "High severity ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyber Insights 2026: Zero Trust and Following the Path",
-      "link": "https://www.securityweek.com/cyber-insights-2026-zero-trust-and-following-the-path/",
-      "summary": "Zero Trust is not a thing; it is an idea. It is not a product; it is a concept – it is a destination that has no precise route and may never be reached. The post Cyber Insights 2026: Zero Trust and Following the Path appeared first on SecurityWeek .",
-      "published": "Thu, 29 Jan 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

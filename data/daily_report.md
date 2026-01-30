@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-30 14:31 UTC  
+> **Last Updated:** 2026-01-30 16:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**llms hijacked monetized** • **remote code execution** • **arbitrary code execution** • **rockwell automation controllogix** • **hugging face abused** • **badbox 2 0** • **windows 11 systems** • **twitter whistleblower complaint** • **means long term** • **hugging face platform** • **ai risks preparing** • **ai compute infrastructure** • **critical severity vulnerabilities** • **cve 2026 1340** • **cve 2026 1281** • **android malware variants** • **vulnerabilities earned microsoft's** • **dire critical rating** • **path zero trust** • **world operate outside**
+**llms hijacked monetized** • **remote code execution** • **arbitrary code execution** • **rockwell automation controllogix** • **hugging face abused** • **windows operating systems** • **windows 11 systems** • **twitter whistleblower complaint** • **means long term** • **hugging face platform** • **ai risks preparing** • **ai compute infrastructure** • **cve 2026 1340** • **cve 2026 1281** • **vulnerabilities earned microsoft's** • **encrypted emails microsoft** • **critical severity vulnerabilities** • **android malware variants** • **post aisy launches** • **world operate outside**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft fixes Outlook bug blocking access to encrypted emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/)
 - [Windows 11 KB5074105 update fixes boot, sign-in, and activation issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/)
 - [Microsoft links Windows 11 boot failures to failed December 2025 update](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/)
 - [Hugging Face abused to spread thousands of Android malware variants](https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/)
@@ -34,11 +35,9 @@
 - [Google disrupts IPIDEA residential proxy networks fueled by malware](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/)
 - [Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match](https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/)
 - [Marquis blames ransomware breach on SonicWall cloud backup hack](https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/)
-- [Not a Kids Game: From Roblox Mod to Compromising Your Company](https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/)
 
 ### Krebs on Security
 
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
@@ -46,11 +45,12 @@
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
 - [Chinese APTs Hacking Asian Orgs With High-End Malware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware)
-- [Trump Administration Rescinds Biden-Era SBOM Guidance](https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance)
+- [Trump Administration Rescinds Biden-Era Software Guidance](https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance)
 - [More Critical Flaws on n8n Could Compromise Customer Security](https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security)
 - ['Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4](https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4)
 - [From Quantum to AI Risks: Preparing for Cybersecurity's Future](https://www.darkreading.com/cybersecurity-operations/quantum-ai-risks-cybersecuritys-future)
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Aisy Launches Out of Stealth to Transform Vulnerability Management](https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/)
+- [175,000 Exposed Ollama Hosts Could Enable LLM Abuse](https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/)
 - [White House Scraps ‘Burdensome’ Software Security Rules](https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/)
 - [Hugging Face Abused to Deploy Android RAT](https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/)
 - [ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid](https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/)
 - [Ivanti Patches Exploited EPMM Zero-Days](https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/)
 - [LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’](https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/)
 - [N8n Vulnerabilities Could Lead to Remote Code Execution](https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/)
-- [SolarWinds Patches Critical Web Help Desk Vulnerabilities](https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/)
-- [Cyber Insights 2026: Zero Trust and Following the Path](https://www.securityweek.com/cyber-insights-2026-zero-trust-and-following-the-path/)
 
 ### Threatpost
 

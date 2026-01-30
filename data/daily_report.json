@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-01-30 10:28",
+  "last_updated": "2026-01-30 12:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "llms hijacked monetized",
     "remote code execution",
     "arbitrary code execution",
-    "llms hijacked monetized",
     "rockwell automation controllogix",
+    "hugging face abused",
     "windows operating systems",
-    "ai risks preparing",
-    "ai compute infrastructure",
-    "massive distributed denial",
+    "windows 11 systems",
     "critical severity vulnerabilities",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "means long term",
-    "google cloud announced",
-    "kimwolf botnet lurking",
+    "hugging face platform",
+    "ai risks preparing",
+    "ai compute infrastructure",
     "cve 2026 1340",
     "cve 2026 1281",
     "vulnerabilities earned microsoft's",
     "android malware variants",
-    "refining ai applications",
-    "multibillion dollar ai"
+    "dire critical rating",
+    "path zero trust"
   ],
   "trending": [
     {
+      "keyword": "llms hijacked monetized",
+      "mentions": 10
+    },
+    {
       "keyword": "remote code execution",
-      "mentions": 56
+      "mentions": 57
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 47
-    },
-    {
-      "keyword": "llms hijacked monetized",
-      "mentions": 9
+      "mentions": 48
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 8
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 234
-    },
-    {
-      "keyword": "ai risks preparing",
-      "mentions": 5
-    },
-    {
-      "keyword": "ai compute infrastructure",
-      "mentions": 6
-    },
-    {
-      "keyword": "massive distributed denial",
       "mentions": 9
     },
     {
+      "keyword": "hugging face abused",
+      "mentions": 1
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 235
+    },
+    {
+      "keyword": "windows 11 systems",
+      "mentions": 1
+    },
+    {
       "keyword": "critical severity vulnerabilities",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 525
+      "mentions": 526
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 123
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Badges, Bytes and Blackmail",
+      "link": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html",
+      "summary": "Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was their function in the crimescape? Introduction: One view on the scattered fight against cybercrime The growing sophistication and diversification of cybercrime have compelled law enforcement agencies worldwide to respond through increasingly",
+      "published": "Fri, 30 Jan 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
@@ -144,17 +153,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
-      "link": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
-      "summary": "SolarWinds has released security updates to address multiple security vulnerabilities impacting SolarWinds Web Help Desk, including four critical vulnerabilities that could result in authentication bypass and remote code execution (RCE). The list of vulnerabilities is as follows - CVE-2025-40536 (CVSS score: 8.1) - A security control bypass vulnerability that could allow an unauthenticated",
-      "published": "Thu, 29 Jan 2026 14:30:00 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5074105 update fixes boot, sign-in, and activation issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/",
+      "summary": "Microsoft has released the KB5074105 preview cumulative update for Windows 11 systems, which includes 32 changes, including fixes for sign-in, boot, and activation issues. [...]",
+      "published": "Fri, 30 Jan 2026 07:02:09 -0500",
+      "value_score": 26,
       "value_signals": [
-        "CVE mentioned",
-        "RCE ×3",
-        "Auth bypass ×2",
-        "High severity ×2"
+        "Patch/update ×2"
       ]
     },
     {
@@ -232,17 +238,6 @@
       "published": "Thu, 29 Jan 2026 10:02:12 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack",
-      "link": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/",
-      "summary": "The Aisuru/Kimwolf botnet launched a new massive distributed denial of service (DDoS) attack in December 2025, peaking at 31.4 Tbps and 200 million requests per second. [...]",
-      "published": "Thu, 29 Jan 2026 09:55:25 -0500",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -414,6 +409,24 @@
     },
     {
       "source": "Security Week",
+      "title": "White House Scraps ‘Burdensome’ Software Security Rules",
+      "link": "https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/",
+      "summary": "Two Biden-era memorandums have been revoked, but some of the resources they provide can still be used by government organizations. The post White House Scraps ‘Burdensome’ Software Security Rules appeared first on SecurityWeek .",
+      "published": "Fri, 30 Jan 2026 12:31:25 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Hugging Face Abused to Deploy Android RAT",
+      "link": "https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/",
+      "summary": "Android users were lured to applications that served a malicious payload hosted in a Hugging Face repository. The post Hugging Face Abused to Deploy Android RAT appeared first on SecurityWeek .",
+      "published": "Fri, 30 Jan 2026 10:56:57 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid",
       "link": "https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/",
       "summary": "Sandworm/Electrum hackers targeted communication and control systems at 30 sites. The post ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid appeared first on SecurityWeek .",
@@ -474,24 +487,6 @@
       "link": "https://www.securityweek.com/cyber-insights-2026-zero-trust-and-following-the-path/",
       "summary": "Zero Trust is not a thing; it is an idea. It is not a product; it is a concept – it is a destination that has no precise route and may never be reached. The post Cyber Insights 2026: Zero Trust and Following the Path appeared first on SecurityWeek .",
       "published": "Thu, 29 Jan 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Disrupts IPIDEA Proxy Network",
-      "link": "https://www.securityweek.com/google-disrupts-ipidea-proxy-network/",
-      "summary": "One of the largest residential proxy networks, IPIDEA enrolled devices through SDKs for mobile and desktop. The post Google Disrupts IPIDEA Proxy Network appeared first on SecurityWeek .",
-      "published": "Thu, 29 Jan 2026 11:26:41 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "PwC and Google Cloud Ink $400 Million Deal to Scale AI-Powered Defense",
-      "link": "https://www.securityweek.com/pwc-and-google-cloud-ink-400-million-deal-to-scale-ai-powered-defense/",
-      "summary": "The announcement comes just weeks after Palo Alto Networks and Google Cloud announced a multibillion-dollar AI and cloud security deal. The post PwC and Google Cloud Ink $400 Million Deal to Scale AI-Powered Defense appeared first on SecurityWeek .",
-      "published": "Thu, 29 Jan 2026 07:41:28 +0000",
       "value_score": 10,
       "value_signals": []
     },

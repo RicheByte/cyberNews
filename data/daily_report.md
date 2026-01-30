@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-30 10:28 UTC  
+> **Last Updated:** 2026-01-30 12:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **arbitrary code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **windows operating systems** • **ai risks preparing** • **ai compute infrastructure** • **massive distributed denial** • **critical severity vulnerabilities** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **means long term** • **google cloud announced** • **kimwolf botnet lurking** • **cve 2026 1340** • **cve 2026 1281** • **vulnerabilities earned microsoft's** • **android malware variants** • **refining ai applications** • **multibillion dollar ai**
+**llms hijacked monetized** • **remote code execution** • **arbitrary code execution** • **rockwell automation controllogix** • **hugging face abused** • **windows operating systems** • **windows 11 systems** • **critical severity vulnerabilities** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **means long term** • **hugging face platform** • **ai risks preparing** • **ai compute infrastructure** • **cve 2026 1340** • **cve 2026 1281** • **vulnerabilities earned microsoft's** • **android malware variants** • **dire critical rating** • **path zero trust**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Badges, Bytes and Blackmail](https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html)
 - [Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup](https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html)
 - [SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score](https://thehackernews.com/2026/01/smartermail-fixes-critical.html)
 - [Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released](https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html)
@@ -23,10 +24,10 @@
 - [ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html)
 - [Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps](https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html)
 - [3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026](https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html)
-- [SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass](https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html)
 
 ### BleepingComputer
 
+- [Windows 11 KB5074105 update fixes boot, sign-in, and activation issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/)
 - [Microsoft links Windows 11 boot failures to failed December 2025 update](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/)
 - [Hugging Face abused to spread thousands of Android malware variants](https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/)
 - [Ivanti warns of two EPMM flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/)
@@ -34,7 +35,6 @@
 - [Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match](https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/)
 - [Marquis blames ransomware breach on SonicWall cloud backup hack](https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/)
 - [Not a Kids Game: From Roblox Mod to Compromising Your Company](https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/)
-- [Aisuru botnet sets new record with 31.4 Tbps DDoS attack](https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [White House Scraps ‘Burdensome’ Software Security Rules](https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/)
+- [Hugging Face Abused to Deploy Android RAT](https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/)
 - [ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid](https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/)
 - [Ivanti Patches Exploited EPMM Zero-Days](https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/)
 - [LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’](https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/)
 - [N8n Vulnerabilities Could Lead to Remote Code Execution](https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/)
 - [SolarWinds Patches Critical Web Help Desk Vulnerabilities](https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/)
 - [Cyber Insights 2026: Zero Trust and Following the Path](https://www.securityweek.com/cyber-insights-2026-zero-trust-and-following-the-path/)
-- [Google Disrupts IPIDEA Proxy Network](https://www.securityweek.com/google-disrupts-ipidea-proxy-network/)
-- [PwC and Google Cloud Ink $400 Million Deal to Scale AI-Powered Defense](https://www.securityweek.com/pwc-and-google-cloud-ink-400-million-deal-to-scale-ai-powered-defense/)
 
 ### Threatpost
 

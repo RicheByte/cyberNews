@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-30 06:41 UTC |
+| 🕐 Last Updated | 2026-01-30 08:32 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `llms hijacked monetized` • `rockwell automation controllogix` • `windows operating systems` • `ai risks preparing` • `ai compute infrastructure` • `massive distributed denial` • `critical severity vulnerabilities` • `twitter whistleblower complaint` • `sprawling phishing campaign`
+`remote code execution` • `llms hijacked monetized` • `rockwell automation controllogix` • `windows operating systems` • `arbitrary code execution` • `ai risks preparing` • `ai compute infrastructure` • `massive distributed denial` • `critical severity vulnerabilities` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

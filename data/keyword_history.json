@@ -147,7 +147,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 232,
+      "count": 233,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -180,7 +180,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 523,
+      "count": 524,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -473,7 +473,7 @@
       ]
     },
     "remote code execution": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1381,7 +1381,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2412,14 +2412,15 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
         "2026-01-12",
         "2026-01-28",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "authenticated remote attacker": {
@@ -2972,7 +2973,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4631,9 +4632,10 @@
       ]
     },
     "control centers worldwide": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "prevent downtime risk": {
@@ -4691,14 +4693,14 @@
       ]
     },
     "llms hijacked monetized": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-29",
         "2026-01-30"
       ]
     },
     "massive distributed denial": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-29",
         "2026-01-30"
@@ -4712,14 +4714,14 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-29",
         "2026-01-30"
       ]
     },
     "rockwell automation controllogix": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-29",
         "2026-01-30"
@@ -4733,7 +4735,7 @@
       ]
     },
     "android malware variants": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-29",
         "2026-01-30"
@@ -4747,44 +4749,46 @@
       ]
     },
     "ai compute infrastructure": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-29",
         "2026-01-30"
       ]
     },
     "cve 2026 1340": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "cve 2026 1281": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "ai risks preparing": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-30"
       ]
     },
     "means long term": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-30"
       ]
     },
     "refining ai applications": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-30"
       ]
     },
     "critical severity vulnerabilities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-30"
       ]
@@ -4794,20 +4798,15 @@
       "dates": [
         "2026-01-30"
       ]
+    },
+    "google cloud announced": {
+      "count": 1,
+      "dates": [
+        "2026-01-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-21 20:25",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "telecontrol server basic",
-        "4 2 million",
-        "lastpass users targeted",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-21 22:19",
       "articles": 56,
@@ -5895,6 +5894,17 @@
         "rockwell automation controllogix",
         "windows operating systems",
         "ai risks preparing"
+      ]
+    },
+    {
+      "timestamp": "2026-01-30 08:32",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "llms hijacked monetized",
+        "rockwell automation controllogix",
+        "windows operating systems",
+        "arbitrary code execution"
       ]
     }
   ]

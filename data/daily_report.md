@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-30 06:41 UTC  
+> **Last Updated:** 2026-01-30 08:32 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **windows operating systems** • **ai risks preparing** • **ai compute infrastructure** • **massive distributed denial** • **critical severity vulnerabilities** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **means long term** • **kimwolf botnet lurking** • **vulnerabilities earned microsoft's** • **android malware variants** • **residential networks across** • **refining ai applications** • **multibillion dollar ai** • **dire critical rating** • **path zero trust** • **internal network behind**
+**remote code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **windows operating systems** • **arbitrary code execution** • **ai risks preparing** • **ai compute infrastructure** • **massive distributed denial** • **critical severity vulnerabilities** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **means long term** • **google cloud announced** • **control centers worldwide** • **kimwolf botnet lurking** • **cve 2026 1340** • **cve 2026 1281** • **vulnerabilities earned microsoft's** • **android malware variants** • **refining ai applications**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup](https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html)
+- [SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score](https://thehackernews.com/2026/01/smartermail-fixes-critical.html)
 - [Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released](https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html)
 - [Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries](https://thehackernews.com/2026/01/researchers-find-175000-publicly.html)
 - [ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html)
 - [Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps](https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html)
 - [3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026](https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html)
 - [SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass](https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html)
-- [Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks](https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html)
-- [Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware](https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html)
 
 ### BleepingComputer
 

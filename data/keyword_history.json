@@ -180,7 +180,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 528,
+      "count": 529,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2412,7 +2412,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2954,7 +2954,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -2973,7 +2973,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4312,7 +4312,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4682,9 +4682,10 @@
       ]
     },
     "trusted platforms turning": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "trend familiar tools": {
@@ -4694,7 +4695,7 @@
       ]
     },
     "llms hijacked monetized": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-29",
         "2026-01-30"
@@ -4722,7 +4723,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-29",
         "2026-01-30"
@@ -4736,7 +4737,7 @@
       ]
     },
     "android malware variants": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-29",
         "2026-01-30"
@@ -4750,34 +4751,34 @@
       ]
     },
     "ai compute infrastructure": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-29",
         "2026-01-30"
       ]
     },
     "cve 2026 1340": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-29",
         "2026-01-30"
       ]
     },
     "cve 2026 1281": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-29",
         "2026-01-30"
       ]
     },
     "ai risks preparing": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-30"
       ]
     },
     "means long term": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-30"
       ]
@@ -4789,7 +4790,7 @@
       ]
     },
     "critical severity vulnerabilities": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-30"
       ]
@@ -4807,25 +4808,25 @@
       ]
     },
     "hugging face abused": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-30"
       ]
     },
     "windows 11 systems": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-30"
       ]
     },
     "hugging face platform": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-30"
       ]
     },
     "world operate outside": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-30"
       ]
@@ -4841,20 +4842,15 @@
       "dates": [
         "2026-01-30"
       ]
+    },
+    "critical rce bugs": {
+      "count": 1,
+      "dates": [
+        "2026-01-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-22 06:28",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "twitter whistleblower complaint",
-        "telecontrol server basic",
-        "malicious cyber actors",
-        "leak sensitive information"
-      ]
-    },
     {
       "timestamp": "2026-01-22 08:25",
       "articles": 56,
@@ -5942,6 +5938,17 @@
         "arbitrary code execution",
         "rockwell automation controllogix",
         "hugging face abused"
+      ]
+    },
+    {
+      "timestamp": "2026-01-30 18:35",
+      "articles": 56,
+      "top_keywords": [
+        "arbitrary code execution",
+        "llms hijacked monetized",
+        "rockwell automation controllogix",
+        "hugging face abused",
+        "windows 11 systems"
       ]
     }
   ]

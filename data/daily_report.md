@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-30 16:33 UTC  
+> **Last Updated:** 2026-01-30 18:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**llms hijacked monetized** • **remote code execution** • **arbitrary code execution** • **rockwell automation controllogix** • **hugging face abused** • **windows operating systems** • **windows 11 systems** • **twitter whistleblower complaint** • **means long term** • **hugging face platform** • **ai risks preparing** • **ai compute infrastructure** • **cve 2026 1340** • **cve 2026 1281** • **vulnerabilities earned microsoft's** • **encrypted emails microsoft** • **critical severity vulnerabilities** • **android malware variants** • **post aisy launches** • **world operate outside**
+**arbitrary code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **hugging face abused** • **windows 11 systems** • **badbox 2 0** • **twitter whistleblower complaint** • **means long term** • **hugging face platform** • **ai risks preparing** • **ai compute infrastructure** • **cve 2026 1340** • **cve 2026 1281** • **dire critical rating** • **critical severity vulnerabilities** • **critical rce bugs** • **android malware variants** • **world operate outside** • **vulnerabilities earned microsoft's** • **trusted platforms turning**
 
 ---
 
@@ -27,17 +27,18 @@
 
 ### BleepingComputer
 
+- [Microsoft to disable NTLM by default in future Windows releases](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/)
+- [Operation Switch Off dismantles major pirate TV streaming services](https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/)
 - [Microsoft fixes Outlook bug blocking access to encrypted emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/)
 - [Windows 11 KB5074105 update fixes boot, sign-in, and activation issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/)
 - [Microsoft links Windows 11 boot failures to failed December 2025 update](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/)
 - [Hugging Face abused to spread thousands of Android malware variants](https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/)
 - [Ivanti warns of two EPMM flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/)
 - [Google disrupts IPIDEA residential proxy networks fueled by malware](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/)
-- [Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match](https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/)
-- [Marquis blames ransomware breach on SonicWall cloud backup hack](https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/)
 
 ### Krebs on Security
 
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
@@ -45,13 +46,12 @@
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
 - [Chinese APTs Hacking Asian Orgs With High-End Malware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware)
 - [Trump Administration Rescinds Biden-Era Software Guidance](https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance)
-- [More Critical Flaws on n8n Could Compromise Customer Security](https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security)
+- [Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk](https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security)
 - ['Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4](https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4)
 - [From Quantum to AI Risks: Preparing for Cybersecurity's Future](https://www.darkreading.com/cybersecurity-operations/quantum-ai-risks-cybersecuritys-future)
 - [How Can CISOs Respond to Ransomware Getting More Violent?](https://www.darkreading.com/cyber-risk/how-cisos-respond-ransomware-getting-more-violent)
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [In Other News: Paid for Being Jailed, Google’s $68M Settlement, CISA Chief’s ChatGPT Leak](https://www.securityweek.com/in-other-news-paid-for-being-jailed-googles-68m-settlement-cisa-chiefs-chatgpt-leak/)
 - [Aisy Launches Out of Stealth to Transform Vulnerability Management](https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/)
 - [175,000 Exposed Ollama Hosts Could Enable LLM Abuse](https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/)
 - [White House Scraps ‘Burdensome’ Software Security Rules](https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/)
@@ -67,7 +68,6 @@
 - [ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid](https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/)
 - [Ivanti Patches Exploited EPMM Zero-Days](https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/)
 - [LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’](https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/)
-- [N8n Vulnerabilities Could Lead to Remote Code Execution](https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/)
 
 ### Threatpost
 
@@ -89,7 +89,7 @@
 - [Fortinet Releases Guidance to Address Ongoing Exploitation of Authentication Bypass Vulnerability CVE-2026-24858](https://www.cisa.gov/news-events/alerts/2026/01/28/fortinet-releases-guidance-address-ongoing-exploitation-authentication-bypass-vulnerability-cve-2026)
 - [iba Systems ibaPDA](https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-01)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/27/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Johnson Controls Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-04)
+- [Johnson Controls Metasys Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-04)
 
 ---
 

@@ -147,7 +147,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 231,
+      "count": 232,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -180,7 +180,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 522,
+      "count": 523,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -473,7 +473,7 @@
       ]
     },
     "remote code execution": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1381,7 +1381,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2374,7 +2374,7 @@
       ]
     },
     "internal network behind": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2953,7 +2953,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -2972,7 +2972,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4691,14 +4691,14 @@
       ]
     },
     "llms hijacked monetized": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-29",
         "2026-01-30"
       ]
     },
     "massive distributed denial": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-29",
         "2026-01-30"
@@ -4712,42 +4712,42 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-29",
         "2026-01-30"
       ]
     },
     "rockwell automation controllogix": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-29",
         "2026-01-30"
       ]
     },
     "residential networks across": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-29",
         "2026-01-30"
       ]
     },
     "android malware variants": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-29",
         "2026-01-30"
       ]
     },
     "multibillion dollar ai": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-29",
         "2026-01-30"
       ]
     },
     "ai compute infrastructure": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-29",
         "2026-01-30"
@@ -4766,36 +4766,37 @@
       ]
     },
     "ai risks preparing": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-30"
       ]
     },
     "means long term": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-30"
       ]
     },
     "refining ai applications": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-01-30"
+      ]
+    },
+    "critical severity vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-01-30"
+      ]
+    },
+    "path zero trust": {
+      "count": 1,
       "dates": [
         "2026-01-30"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-21 18:36",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "telecontrol server basic",
-        "4 2 million",
-        "lastpass users targeted",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-21 20:25",
       "articles": 56,
@@ -5883,6 +5884,17 @@
         "rockwell automation controllogix",
         "windows operating systems",
         "december 2025 peaking"
+      ]
+    },
+    {
+      "timestamp": "2026-01-30 06:41",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "llms hijacked monetized",
+        "rockwell automation controllogix",
+        "windows operating systems",
+        "ai risks preparing"
       ]
     }
   ]

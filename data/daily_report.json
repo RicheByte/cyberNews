@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30 04:04",
+  "last_updated": "2026-01-30 06:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,66 +7,82 @@
     "llms hijacked monetized",
     "rockwell automation controllogix",
     "windows operating systems",
-    "december 2025 peaking",
     "ai risks preparing",
+    "ai compute infrastructure",
     "massive distributed denial",
+    "critical severity vulnerabilities",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "means long term",
-    "released security updates",
     "kimwolf botnet lurking",
     "vulnerabilities earned microsoft's",
     "android malware variants",
-    "dire critical rating",
     "residential networks across",
     "refining ai applications",
     "multibillion dollar ai",
-    "ai compute infrastructure",
+    "dire critical rating",
+    "path zero trust",
     "internal network behind"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "llms hijacked monetized",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 231
-    },
-    {
-      "keyword": "december 2025 peaking",
-      "mentions": 6
+      "mentions": 232
     },
     {
       "keyword": "ai risks preparing",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "ai compute infrastructure",
+      "mentions": 4
     },
     {
       "keyword": "massive distributed denial",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "critical severity vulnerabilities",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 522
+      "mentions": 523
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 119
-    },
-    {
-      "keyword": "means long term",
-      "mentions": 2
+      "mentions": 120
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
+      "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
+      "summary": "Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to its Known Exploited Vulnerabilities (KEV) catalog. The critical-severity vulnerabilities are listed below - CVE-2026-1281 (CVSS score:",
+      "published": "Fri, 30 Jan 2026 10:13:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation",
+        "RCE",
+        "CISA/KEV ×3",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
@@ -134,15 +150,6 @@
       "link": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
       "summary": "Cybersecurity researchers have flagged a new malicious Microsoft Visual Studio Code (VS Code) extension for Moltbot (formerly Clawdbot) on the official Extension Marketplace that claims to be a free artificial intelligence (AI) coding assistant, but stealthily drops a malicious payload on compromised hosts. The extension, named \"ClawdBot Agent - AI Coding Assistant\" (\"clawdbot.clawdbot-agent\")",
       "published": "Wed, 28 Jan 2026 23:16:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
-      "link": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
-      "summary": "The \"coordinated\" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM. Operational technology (OT) cybersecurity company Dragos, in a new intelligence brief published Tuesday, described the late December 2025 activity as the first major cyber attack targeting distributed energy",
-      "published": "Wed, 28 Jan 2026 21:36:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

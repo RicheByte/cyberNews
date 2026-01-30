@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29 22:22",
+  "last_updated": "2026-01-30 01:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "llms hijacked monetized",
     "rockwell automation controllogix",
     "windows operating systems",
+    "december 2025 peaking",
+    "ai risks preparing",
     "massive distributed denial",
     "released security updates",
     "twitter whistleblower complaint",
-    "december 2025 peaking",
+    "sprawling phishing campaign",
+    "means long term",
     "kimwolf botnet lurking",
-    "android malware variants",
     "vulnerabilities earned microsoft's",
-    "multibillion dollar ai",
+    "android malware variants",
     "dire critical rating",
-    "ai compute infrastructure",
     "residential networks across",
-    "internal network behind",
-    "cve 2026 1340",
-    "cve 2026 1281",
-    "prevent downtime risk",
-    "trusted platforms turning"
+    "refining ai applications",
+    "multibillion dollar ai",
+    "ai compute infrastructure",
+    "internal network behind"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "llms hijacked monetized",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 229
-    },
-    {
-      "keyword": "massive distributed denial",
-      "mentions": 4
-    },
-    {
-      "keyword": "released security updates",
-      "mentions": 18
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 520
+      "mentions": 230
     },
     {
       "keyword": "december 2025 peaking",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "kimwolf botnet lurking",
-      "mentions": 3
-    },
-    {
-      "keyword": "android malware variants",
+      "keyword": "ai risks preparing",
       "mentions": 1
+    },
+    {
+      "keyword": "massive distributed denial",
+      "mentions": 5
+    },
+    {
+      "keyword": "released security updates",
+      "mentions": 19
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 521
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 118
     }
   ],
   "articles": [
@@ -148,6 +148,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft links Windows 11 boot failures to failed December 2025 update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/",
+      "summary": "Microsoft has linked recent reports of Windows 11 boot failures after installing the January 2026 updates to previously failed attempts to install the December 2025 security update, which left systems in an \"improper state.\" [...]",
+      "published": "Thu, 29 Jan 2026 19:21:49 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hugging Face abused to spread thousands of Android malware variants",
       "link": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
       "summary": "A new Android malware campaign is using the Hugging Face platform as a repository for thousands of variations of an APK payload that collects credentials for popular financial and payment services. [...]",
@@ -220,17 +231,6 @@
       "value_score": 30,
       "value_signals": [
         "Botnet ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Microsoft Teams feature will let you report suspicious calls",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/",
-      "summary": "Microsoft plans to introduce a call reporting feature in Teams by mid-March, allowing users to flag suspicious or unwanted calls as potential scams or phishing attempts. [...]",
-      "published": "Thu, 29 Jan 2026 09:49:47 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {
@@ -322,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Trump Administration Rescinds Biden-Era SBOM Guidance",
+      "link": "https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance",
+      "summary": "Federal agencies will no longer be required to solicit software bills of material (SBOMs) from tech vendors, nor attestations that they comply with NIST's Secure Software Development Framework (SSDF). What that means long term is unclear.",
+      "published": "Thu, 29 Jan 2026 22:25:07 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "More Critical Flaws on n8n Could Compromise Customer Security",
       "link": "https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security",
       "summary": "A new around of vulnerabilities in the popular AI automation platform could let attackers hijack servers and steal credentials.",
@@ -337,6 +346,15 @@
       "link": "https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4",
       "summary": "If an attacker splits a malicious prompt into discrete chunks, some large language models (LLMs) will get lost in the details and miss the true intent.",
       "published": "Thu, 29 Jan 2026 16:09:01 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "From Quantum to AI Risks: Preparing for Cybersecurity's Future",
+      "link": "https://www.darkreading.com/cybersecurity-operations/quantum-ai-risks-cybersecuritys-future",
+      "summary": "As 2026 begins, these journalists urge the cybersecurity industry to prioritize patching vulnerabilities, preparing for quantum threats, and refining AI applications, in the latest edition of Reporters' Notebook.",
+      "published": "Thu, 29 Jan 2026 15:32:24 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -382,27 +400,6 @@
       "published": "Wed, 28 Jan 2026 20:24:40 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks",
-      "link": "https://www.darkreading.com/threat-intelligence/china-backed-peckbirdy-cross-platform-attacks",
-      "summary": "In two separate campaigns, attackers used the JScript C2 framework to target Chinese gambling websites and Asian government entities with new backdoors.",
-      "published": "Wed, 28 Jan 2026 16:19:22 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Surging Cyberattacks Boost Latin America to Riskiest Region",
-      "link": "https://www.darkreading.com/cyber-risk/surging-cyberattacks-latin-america-riskiest-region",
-      "summary": "The region is up against tactics like data-leak extortion, credential-stealing campaigns, edge-device exploitation, and attackers leveraging AI.",
-      "published": "Wed, 28 Jan 2026 14:00:00 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

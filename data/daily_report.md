@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-29 22:22 UTC  
+> **Last Updated:** 2026-01-30 01:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **windows operating systems** • **massive distributed denial** • **released security updates** • **twitter whistleblower complaint** • **december 2025 peaking** • **kimwolf botnet lurking** • **android malware variants** • **vulnerabilities earned microsoft's** • **multibillion dollar ai** • **dire critical rating** • **ai compute infrastructure** • **residential networks across** • **internal network behind** • **cve 2026 1340** • **cve 2026 1281** • **prevent downtime risk** • **trusted platforms turning**
+**remote code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **windows operating systems** • **december 2025 peaking** • **ai risks preparing** • **massive distributed denial** • **released security updates** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **means long term** • **kimwolf botnet lurking** • **vulnerabilities earned microsoft's** • **android malware variants** • **dire critical rating** • **residential networks across** • **refining ai applications** • **multibillion dollar ai** • **ai compute infrastructure** • **internal network behind**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft links Windows 11 boot failures to failed December 2025 update](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/)
 - [Hugging Face abused to spread thousands of Android malware variants](https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/)
 - [Ivanti warns of two EPMM flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/)
 - [Google disrupts IPIDEA residential proxy networks fueled by malware](https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/)
@@ -34,7 +35,6 @@
 - [Marquis blames ransomware breach on SonicWall cloud backup hack](https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/)
 - [Not a Kids Game: From Roblox Mod to Compromising Your Company](https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/)
 - [Aisuru botnet sets new record with 31.4 Tbps DDoS attack](https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/)
-- [New Microsoft Teams feature will let you report suspicious calls](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Trump Administration Rescinds Biden-Era SBOM Guidance](https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance)
 - [More Critical Flaws on n8n Could Compromise Customer Security](https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security)
 - ['Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4](https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4)
+- [From Quantum to AI Risks: Preparing for Cybersecurity's Future](https://www.darkreading.com/cybersecurity-operations/quantum-ai-risks-cybersecuritys-future)
 - [How Can CISOs Respond to Ransomware Getting More Violent?](https://www.darkreading.com/cyber-risk/how-cisos-respond-ransomware-getting-more-violent)
 - [Months After Patch, WinRAR Bug Poised to Hit SMBs Hardest](https://www.darkreading.com/application-security/months-after-patch-winrar-bug-poised-smbs-hardest)
 - [Fortinet Confirms New Zero-Day Behind Malicious SSO Logins](https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins)
 - [Consumers Reluctant to Shop at Stores That Don't Take Security Seriously](https://www.darkreading.com/cyber-risk/consumers-reluctant-to-shop-at-stores-hit-by-cyberattacks)
-- [China-Backed 'PeckBirdy' Takes Flight for Cross-Platform Attacks](https://www.darkreading.com/threat-intelligence/china-backed-peckbirdy-cross-platform-attacks)
-- [Surging Cyberattacks Boost Latin America to Riskiest Region](https://www.darkreading.com/cyber-risk/surging-cyberattacks-latin-america-riskiest-region)
 
 ### Security Week
 

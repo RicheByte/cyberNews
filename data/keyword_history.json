@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2025-12-31",
     "2026-01-01",
     "2026-01-02",
     "2026-01-03",
@@ -29,7 +28,8 @@
     "2026-01-26",
     "2026-01-27",
     "2026-01-28",
-    "2026-01-29"
+    "2026-01-29",
+    "2026-01-30"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -147,7 +147,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 229,
+      "count": 230,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -175,11 +175,12 @@
         "2026-01-26",
         "2026-01-27",
         "2026-01-28",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 520,
+      "count": 521,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -224,7 +225,8 @@
         "2026-01-26",
         "2026-01-27",
         "2026-01-28",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "supposed wayward package": {
@@ -471,7 +473,7 @@
       ]
     },
     "remote code execution": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -481,7 +483,8 @@
         "2026-01-26",
         "2026-01-27",
         "2026-01-28",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "attacker remotely control": {
@@ -1378,7 +1381,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1395,7 +1398,8 @@
         "2026-01-23",
         "2026-01-24",
         "2026-01-27",
-        "2026-01-28"
+        "2026-01-28",
+        "2026-01-30"
       ]
     },
     "model agnostic abstractions": {
@@ -2370,7 +2374,7 @@
       ]
     },
     "internal network behind": {
-      "count": 156,
+      "count": 157,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2388,7 +2392,8 @@
         "2026-01-22",
         "2026-01-23",
         "2026-01-26",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "ai driven access": {
@@ -2948,14 +2953,15 @@
       ]
     },
     "dire critical rating": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-14",
         "2026-01-17",
         "2026-01-18",
         "2026-01-27",
         "2026-01-28",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "bugs fixed today": {
@@ -2966,7 +2972,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -2974,7 +2980,8 @@
         "2026-01-21",
         "2026-01-22",
         "2026-01-28",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "final patch tuesday": {
@@ -3156,13 +3163,14 @@
       ]
     },
     "released security updates": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-15",
         "2026-01-21",
         "2026-01-22",
         "2026-01-28",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "auditability collide daily": {
@@ -4683,57 +4691,66 @@
       ]
     },
     "llms hijacked monetized": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "massive distributed denial": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "december 2025 peaking": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "rockwell automation controllogix": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "residential networks across": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "android malware variants": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "multibillion dollar ai": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "ai compute infrastructure": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-30"
       ]
     },
     "cve 2026 1340": {
@@ -4747,20 +4764,27 @@
       "dates": [
         "2026-01-29"
       ]
+    },
+    "ai risks preparing": {
+      "count": 1,
+      "dates": [
+        "2026-01-30"
+      ]
+    },
+    "means long term": {
+      "count": 1,
+      "dates": [
+        "2026-01-30"
+      ]
+    },
+    "refining ai applications": {
+      "count": 1,
+      "dates": [
+        "2026-01-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-21 14:26",
-      "articles": 56,
-      "top_keywords": [
-        "artificial intelligence model",
-        "telecontrol server basic",
-        "windows operating systems",
-        "lastpass users targeted",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-21 16:37",
       "articles": 56,
@@ -5848,6 +5872,17 @@
         "rockwell automation controllogix",
         "windows operating systems",
         "massive distributed denial"
+      ]
+    },
+    {
+      "timestamp": "2026-01-30 01:41",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "llms hijacked monetized",
+        "rockwell automation controllogix",
+        "windows operating systems",
+        "december 2025 peaking"
       ]
     }
   ]

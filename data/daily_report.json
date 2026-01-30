@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30 12:42",
+  "last_updated": "2026-01-30 14:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,65 +8,83 @@
     "arbitrary code execution",
     "rockwell automation controllogix",
     "hugging face abused",
-    "windows operating systems",
+    "badbox 2 0",
     "windows 11 systems",
-    "critical severity vulnerabilities",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
     "means long term",
     "hugging face platform",
     "ai risks preparing",
     "ai compute infrastructure",
+    "critical severity vulnerabilities",
     "cve 2026 1340",
     "cve 2026 1281",
-    "vulnerabilities earned microsoft's",
     "android malware variants",
+    "vulnerabilities earned microsoft's",
     "dire critical rating",
-    "path zero trust"
+    "path zero trust",
+    "world operate outside"
   ],
   "trending": [
     {
       "keyword": "llms hijacked monetized",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "remote code execution",
-      "mentions": 57
+      "mentions": 58
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "hugging face abused",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 235
+      "keyword": "badbox 2 0",
+      "mentions": 14
     },
     {
       "keyword": "windows 11 systems",
-      "mentions": 1
-    },
-    {
-      "keyword": "critical severity vulnerabilities",
-      "mentions": 4
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 526
+      "mentions": 527
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 123
+      "keyword": "means long term",
+      "mentions": 7
+    },
+    {
+      "keyword": "hugging face platform",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
+      "link": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html",
+      "summary": "Cybersecurity researchers have discovered malicious Google Chrome extensions that come with capabilities to hijack affiliate links, steal data, and collect OpenAI ChatGPT authentication tokens. One of the extensions in question is Amazon Ads Blocker (ID: pnpchphmplpdimbllknjoiopmfphellj), which claims to be a tool to browse Amazon without any sponsored content. It was uploaded to the Chrome",
+      "published": "Fri, 30 Jan 2026 19:12:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware",
+      "link": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html",
+      "summary": "Cybersecurity researchers have discovered a new campaign attributed to a China-linked threat actor known as UAT-8099 that took place between late 2025 and early 2026. The activity, discovered by Cisco Talos, has targeted vulnerable Internet Information Services (IIS) servers located across Asia, but with a specific focus on targets in Thailand and Vietnam. The scale of the campaign is currently",
+      "published": "Fri, 30 Jan 2026 17:38:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Badges, Bytes and Blackmail",
@@ -129,26 +147,6 @@
       "link": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
       "summary": "This week’s updates show how small changes can create real problems. Not loud incidents, but quiet shifts that are easy to miss until they add up. The kind that affects systems people rely on every day. Many of the stories point to the same trend: familiar tools being used in unexpected ways. Security controls are being worked on. Trusted platforms turning into weak spots. What looks routine on",
       "published": "Thu, 29 Jan 2026 18:31:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
-      "link": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
-      "summary": "A study by OMICRON has revealed widespread cybersecurity gaps in the operational technology (OT) networks of substations, power plants, and control centers worldwide. Drawing on data from more than 100 installations, the analysis highlights recurring technical, organizational, and functional issues that leave critical energy infrastructure vulnerable to cyber threats. The findings are based on",
-      "published": "Thu, 29 Jan 2026 17:25:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
-      "link": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
-      "summary": "Beyond the direct impact of cyberattacks, enterprises suffer from a secondary but potentially even more costly risk: operational downtime, any amount of which translates into very real damage. That’s why for CISOs, it’s key to prioritize decisions that reduce dwell time and protect their company from risk. Three strategic steps you can take this year for better results: 1. Focus on today's",
-      "published": "Thu, 29 Jan 2026 16:00:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -241,6 +239,17 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
@@ -312,19 +321,6 @@
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Dark Reading",

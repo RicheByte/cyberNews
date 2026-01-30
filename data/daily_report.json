@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30 18:35",
+  "last_updated": "2026-01-30 20:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,61 +9,61 @@
     "hugging face abused",
     "windows 11 systems",
     "badbox 2 0",
+    "ai risks preparing",
+    "ai compute infrastructure",
     "twitter whistleblower complaint",
     "means long term",
     "hugging face platform",
-    "ai risks preparing",
-    "ai compute infrastructure",
+    "deploying multifactor authentication",
     "cve 2026 1340",
     "cve 2026 1281",
     "dire critical rating",
     "critical severity vulnerabilities",
     "critical rce bugs",
+    "ai assisted platform",
     "android malware variants",
-    "world operate outside",
-    "vulnerabilities earned microsoft's",
-    "trusted platforms turning"
+    "world operate outside"
   ],
   "trending": [
     {
       "keyword": "arbitrary code execution",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "llms hijacked monetized",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "hugging face abused",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "windows 11 systems",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 15
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 529
-    },
-    {
-      "keyword": "means long term",
-      "mentions": 9
-    },
-    {
-      "keyword": "hugging face platform",
-      "mentions": 4
+      "mentions": 16
     },
     {
       "keyword": "ai risks preparing",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "ai compute infrastructure",
+      "mentions": 11
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 530
+    },
+    {
+      "keyword": "means long term",
+      "mentions": 10
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Crypto wallets received a record $158 billion in illicit funds last year",
+      "link": "https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/",
+      "summary": "Illegal cryptocurrency flows hit a record $158 billion in 2025, reversing a three-year trend of declining amounts from $86B in 2021 to $64B in 2024. [...]",
+      "published": "Fri, 30 Jan 2026 13:49:51 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft to disable NTLM by default in future Windows releases",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/",
       "summary": "Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerabilities that expose organizations to cyberattacks. [...]",
@@ -224,15 +233,6 @@
         "Multiple CVEs",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
-      "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
-      "summary": "IPIDEA, one of the largest residential proxy networks used by threat actors, was disrupted earlier this week by Google Threat Intelligence Group (GTIG) in collaboration with industry partners. [...]",
-      "published": "Thu, 29 Jan 2026 14:29:17 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -321,6 +321,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "OpenClaw AI Runs Wild in Business Environments",
+      "link": "https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments",
+      "summary": "The popular open source AI assistant (aka ClawdBot, MoltBot) has taken off, raising security concerns over its privileged, autonomous control within users' computers.",
+      "published": "Fri, 30 Jan 2026 16:40:34 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Chinese APTs Hacking Asian Orgs With High-End Malware",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware",
       "summary": "Advanced persistent threat (APT) groups have deployed new cyber weapons against a variety of targets, highlighting the increasing threats to the region.",
@@ -362,7 +371,7 @@
       "source": "Dark Reading",
       "title": "From Quantum to AI Risks: Preparing for Cybersecurity's Future",
       "link": "https://www.darkreading.com/cybersecurity-operations/quantum-ai-risks-cybersecuritys-future",
-      "summary": "As 2026 begins, these journalists urge the cybersecurity industry to prioritize patching vulnerabilities, preparing for quantum threats, and refining AI applications, in the latest edition of Reporters' Notebook.",
+      "summary": "In the latest edition of \"Reporters' Notebook,\" a trio of journalists urge the cybersecurity industry to prioritize patching vulnerabilities, preparing for quantum threats, and refining AI applications,",
       "published": "Thu, 29 Jan 2026 15:32:24 GMT",
       "value_score": 10,
       "value_signals": []
@@ -388,17 +397,6 @@
       "value_signals": [
         "Patch/update ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fortinet Confirms New Zero-Day Behind Malicious SSO Logins",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins",
-      "summary": "To stop the ongoing attacks, the cybersecurity vendor took the drastic step of temporarily disabling FortiCloud single sign-on (SSO) authentication for all devices.",
-      "published": "Wed, 28 Jan 2026 21:14:27 GMT",
-      "value_score": 35,
-      "value_signals": [
-        "Zero-day"
       ]
     },
     {

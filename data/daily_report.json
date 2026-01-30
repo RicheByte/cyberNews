@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30 01:41",
+  "last_updated": "2026-01-30 04:04",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,10 +10,10 @@
     "december 2025 peaking",
     "ai risks preparing",
     "massive distributed denial",
-    "released security updates",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "means long term",
+    "released security updates",
     "kimwolf botnet lurking",
     "vulnerabilities earned microsoft's",
     "android malware variants",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 52
+      "mentions": 53
     },
     {
       "keyword": "llms hijacked monetized",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 230
+      "mentions": 231
     },
     {
       "keyword": "december 2025 peaking",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "ai risks preparing",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "massive distributed denial",
-      "mentions": 5
-    },
-    {
-      "keyword": "released security updates",
-      "mentions": 19
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 521
+      "mentions": 522
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 118
+      "mentions": 119
+    },
+    {
+      "keyword": "means long term",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -322,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Chinese APTs Hacking Asian Orgs With High-End Malware",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware",
+      "summary": "Advanced persistent threat (APT) groups have deployed new cyber weapons against a variety of targets, highlighting the increasing threats to the region.",
+      "published": "Fri, 30 Jan 2026 02:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Trump Administration Rescinds Biden-Era SBOM Guidance",
       "link": "https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance",
       "summary": "Federal agencies will no longer be required to solicit software bills of material (SBOMs) from tech vendors, nor attestations that they comply with NIST's Secure Software Development Framework (SSDF). What that means long term is unclear.",
@@ -391,15 +400,6 @@
       "value_signals": [
         "Zero-day"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Consumers Reluctant to Shop at Stores That Don't Take Security Seriously",
-      "link": "https://www.darkreading.com/cyber-risk/consumers-reluctant-to-shop-at-stores-hit-by-cyberattacks",
-      "summary": "The retail sector must adapt as consumers become more cybersecurity-conscious. Increased attack transparency is a good place to start.",
-      "published": "Wed, 28 Jan 2026 20:24:40 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-30 01:41 UTC  
+> **Last Updated:** 2026-01-30 04:04 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **windows operating systems** • **december 2025 peaking** • **ai risks preparing** • **massive distributed denial** • **released security updates** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **means long term** • **kimwolf botnet lurking** • **vulnerabilities earned microsoft's** • **android malware variants** • **dire critical rating** • **residential networks across** • **refining ai applications** • **multibillion dollar ai** • **ai compute infrastructure** • **internal network behind**
+**remote code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **windows operating systems** • **december 2025 peaking** • **ai risks preparing** • **massive distributed denial** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **means long term** • **released security updates** • **kimwolf botnet lurking** • **vulnerabilities earned microsoft's** • **android malware variants** • **dire critical rating** • **residential networks across** • **refining ai applications** • **multibillion dollar ai** • **ai compute infrastructure** • **internal network behind**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Chinese APTs Hacking Asian Orgs With High-End Malware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware)
 - [Trump Administration Rescinds Biden-Era SBOM Guidance](https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance)
 - [More Critical Flaws on n8n Could Compromise Customer Security](https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security)
 - ['Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4](https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4)
@@ -56,7 +57,6 @@
 - [How Can CISOs Respond to Ransomware Getting More Violent?](https://www.darkreading.com/cyber-risk/how-cisos-respond-ransomware-getting-more-violent)
 - [Months After Patch, WinRAR Bug Poised to Hit SMBs Hardest](https://www.darkreading.com/application-security/months-after-patch-winrar-bug-poised-smbs-hardest)
 - [Fortinet Confirms New Zero-Day Behind Malicious SSO Logins](https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins)
-- [Consumers Reluctant to Shop at Stores That Don't Take Security Seriously](https://www.darkreading.com/cyber-risk/consumers-reluctant-to-shop-at-stores-hit-by-cyberattacks)
 
 ### Security Week
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-30 08:32 UTC  
+> **Last Updated:** 2026-01-30 10:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **windows operating systems** • **arbitrary code execution** • **ai risks preparing** • **ai compute infrastructure** • **massive distributed denial** • **critical severity vulnerabilities** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **means long term** • **google cloud announced** • **control centers worldwide** • **kimwolf botnet lurking** • **cve 2026 1340** • **cve 2026 1281** • **vulnerabilities earned microsoft's** • **android malware variants** • **refining ai applications**
+**remote code execution** • **arbitrary code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **windows operating systems** • **ai risks preparing** • **ai compute infrastructure** • **massive distributed denial** • **critical severity vulnerabilities** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **means long term** • **google cloud announced** • **kimwolf botnet lurking** • **cve 2026 1340** • **cve 2026 1281** • **vulnerabilities earned microsoft's** • **android malware variants** • **refining ai applications** • **multibillion dollar ai**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid](https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/)
+- [Ivanti Patches Exploited EPMM Zero-Days](https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/)
 - [LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’](https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/)
 - [N8n Vulnerabilities Could Lead to Remote Code Execution](https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/)
 - [SolarWinds Patches Critical Web Help Desk Vulnerabilities](https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/)
 - [Cyber Insights 2026: Zero Trust and Following the Path](https://www.securityweek.com/cyber-insights-2026-zero-trust-and-following-the-path/)
 - [Google Disrupts IPIDEA Proxy Network](https://www.securityweek.com/google-disrupts-ipidea-proxy-network/)
 - [PwC and Google Cloud Ink $400 Million Deal to Scale AI-Powered Defense](https://www.securityweek.com/pwc-and-google-cloud-ink-400-million-deal-to-scale-ai-powered-defense/)
-- [Cyber Insights 2026: Offensive Security; Where It Is and Where It’s Going](https://www.securityweek.com/cyber-insights-2026-offensive-security-where-it-is-and-where-its-going/)
-- [Mesh Security Raises $12 Million for CSMA Platform](https://www.securityweek.com/mesh-security-raises-12-million-for-csma-platform/)
 
 ### Threatpost
 

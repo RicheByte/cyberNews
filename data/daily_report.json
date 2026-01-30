@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-01-30 08:32",
+  "last_updated": "2026-01-30 10:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
+    "arbitrary code execution",
     "llms hijacked monetized",
     "rockwell automation controllogix",
     "windows operating systems",
-    "arbitrary code execution",
     "ai risks preparing",
     "ai compute infrastructure",
     "massive distributed denial",
@@ -16,54 +16,54 @@
     "sprawling phishing campaign",
     "means long term",
     "google cloud announced",
-    "control centers worldwide",
     "kimwolf botnet lurking",
     "cve 2026 1340",
     "cve 2026 1281",
     "vulnerabilities earned microsoft's",
     "android malware variants",
-    "refining ai applications"
+    "refining ai applications",
+    "multibillion dollar ai"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 55
-    },
-    {
-      "keyword": "llms hijacked monetized",
-      "mentions": 8
-    },
-    {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 7
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 233
+      "mentions": 56
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 46
+      "mentions": 47
     },
     {
-      "keyword": "ai risks preparing",
-      "mentions": 4
+      "keyword": "llms hijacked monetized",
+      "mentions": 9
     },
     {
-      "keyword": "ai compute infrastructure",
-      "mentions": 5
-    },
-    {
-      "keyword": "massive distributed denial",
+      "keyword": "rockwell automation controllogix",
       "mentions": 8
     },
     {
+      "keyword": "windows operating systems",
+      "mentions": 234
+    },
+    {
+      "keyword": "ai risks preparing",
+      "mentions": 5
+    },
+    {
+      "keyword": "ai compute infrastructure",
+      "mentions": 6
+    },
+    {
+      "keyword": "massive distributed denial",
+      "mentions": 9
+    },
+    {
       "keyword": "critical severity vulnerabilities",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 524
+      "mentions": 525
     }
   ],
   "articles": [
@@ -414,6 +414,27 @@
     },
     {
       "source": "Security Week",
+      "title": "ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid",
+      "link": "https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/",
+      "summary": "Sandworm/Electrum hackers targeted communication and control systems at 30 sites. The post ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid appeared first on SecurityWeek .",
+      "published": "Fri, 30 Jan 2026 09:35:06 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Ivanti Patches Exploited EPMM Zero-Days",
+      "link": "https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/",
+      "summary": "The critical-severity vulnerabilities could allow unauthenticated attackers to execute arbitrary code remotely. The post Ivanti Patches Exploited EPMM Zero-Days appeared first on SecurityWeek .",
+      "published": "Fri, 30 Jan 2026 08:32:35 +0000",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’",
       "link": "https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/",
       "summary": "An LLMjacking operation has been targeting exposed LLMs and MCPs at scale, for commercial monetization. The post LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’ appeared first on SecurityWeek .",
@@ -471,24 +492,6 @@
       "link": "https://www.securityweek.com/pwc-and-google-cloud-ink-400-million-deal-to-scale-ai-powered-defense/",
       "summary": "The announcement comes just weeks after Palo Alto Networks and Google Cloud announced a multibillion-dollar AI and cloud security deal. The post PwC and Google Cloud Ink $400 Million Deal to Scale AI-Powered Defense appeared first on SecurityWeek .",
       "published": "Thu, 29 Jan 2026 07:41:28 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyber Insights 2026: Offensive Security; Where It Is and Where It’s Going",
-      "link": "https://www.securityweek.com/cyber-insights-2026-offensive-security-where-it-is-and-where-its-going/",
-      "summary": "Malicious attacks are increasing in frequency, sophistication and damage. Defenders need to find and harden system weaknesses before attackers can attack them. The post Cyber Insights 2026: Offensive Security; Where It Is and Where It’s Going appeared first on SecurityWeek .",
-      "published": "Wed, 28 Jan 2026 14:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Mesh Security Raises $12 Million for CSMA Platform",
-      "link": "https://www.securityweek.com/mesh-security-raises-12-million-for-csma-platform/",
-      "summary": "The investment will allow Mesh to advance its autonomous, agentic capabilities, and scale sales and customer support efforts. The post Mesh Security Raises $12 Million for CSMA Platform appeared first on SecurityWeek .",
-      "published": "Wed, 28 Jan 2026 14:26:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

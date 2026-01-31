@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-31 16:21",
+  "last_updated": "2026-01-31 18:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "arbitrary code execution",
     "hugging face abused",
     "rockwell automation controllogix",
+    "former software engineer",
+    "chinese tech firms",
     "windows operating systems",
-    "windows 11 systems",
-    "hugging face repository",
     "ai assisted platform",
+    "hugging face repository",
     "twitter whistleblower complaint",
     "means long term",
+    "stealing ai secrets",
     "national security risk",
+    "malicious cyber actors",
     "uses tradecraft consistent",
     "today we'll dig",
     "strong theme running",
+    "steal single sign",
     "scoops nestled inside",
     "restrict free speech",
-    "record 158 billion",
-    "raising security concerns",
-    "perform unauthorized actions",
-    "opening encrypted emails",
-    "malicious cyber actors"
+    "record 158 billion"
   ],
   "trending": [
     {
       "keyword": "arbitrary code execution",
-      "mentions": 61
+      "mentions": 62
     },
     {
       "keyword": "hugging face abused",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 22
+      "mentions": 23
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 241
-    },
-    {
-      "keyword": "windows 11 systems",
-      "mentions": 14
-    },
-    {
-      "keyword": "hugging face repository",
+      "keyword": "former software engineer",
       "mentions": 1
     },
     {
+      "keyword": "chinese tech firms",
+      "mentions": 1
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 242
+    },
+    {
       "keyword": "ai assisted platform",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "hugging face repository",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 539
+      "mentions": 540
     },
     {
       "keyword": "means long term",
-      "mentions": 19
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 48
+      "mentions": 20
     }
   ],
   "articles": [
@@ -148,6 +148,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "U.S. convicts ex-Google engineer for sending AI tech data to China",
+      "link": "https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/",
+      "summary": "A U.S. federal jury has convicted Linwei Ding, a former software engineer at Google, for stealing AI supercomputer data from his employer and secretly sharing it with Chinese tech firms. [...]",
+      "published": "Sat, 31 Jan 2026 12:33:42 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cloud storage payment scam floods inboxes with fake renewals",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/",
+      "summary": "Over the past few months, a large-scale cloud storage subscription scam campaign has been targeting users worldwide with repeated emails falsely warning recipients that their photos, files, and accounts are about to be blocked or deleted due to an alleged payment failure. [...]",
+      "published": "Sat, 31 Jan 2026 11:21:32 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
       "link": "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/",
       "summary": "Mandiant says a wave of recent ShinyHunters SaaS data-theft attacks is being fueled by targeted voice phishing (vishing) attacks and company-branded phishing sites that steal single sign-on (SSO) credentials and multi-factor authentication (MFA) codes. [...]",
@@ -201,28 +219,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/",
       "summary": "Microsoft has fixed a known issue that prevented Microsoft 365 customers from opening encrypted emails in classic Outlook after a recent update. [...]",
       "published": "Fri, 30 Jan 2026 09:48:49 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5074105 update fixes boot, sign-in, and activation issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/",
-      "summary": "Microsoft has released the KB5074105 preview cumulative update for Windows 11 systems, which includes 32 changes, including fixes for sign-in, boot, and activation issues. [...]",
-      "published": "Fri, 30 Jan 2026 07:02:09 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft links Windows 11 boot failures to failed December 2025 update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/",
-      "summary": "Microsoft has linked recent reports of Windows 11 boot failures after installing the January 2026 updates to previously failed attempts to install the December 2025 security update, which left systems in an \"improper state.\" [...]",
-      "published": "Thu, 29 Jan 2026 19:21:49 -0500",
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
@@ -317,6 +313,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation",
+      "link": "https://www.darkreading.com/remote-workforce/torq-moves-socs-soar-ai-powered-hyper-automation",
+      "summary": "Investors poured $140 million into Torq's Series D Round, bringing the startup's valuation to $1.2 billion, to bring AI-based \"hyper automation\" to SOCs.",
+      "published": "Fri, 30 Jan 2026 22:14:31 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "2026: The Year Agentic AI Becomes the Attack-Surface Poster Child",
       "link": "https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child",
       "summary": "Dark Reading asked readers whether agentic AI attacks, advanced deepfake threats, board recognition of cyber as a top priority, or password-less technology adoption would be most likely to become a trending reality for 2026.",
@@ -380,15 +385,6 @@
         "RCE",
         "High severity"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4",
-      "summary": "If an attacker splits a malicious prompt into discrete chunks, some large language models (LLMs) will get lost in the details and miss the true intent.",
-      "published": "Thu, 29 Jan 2026 16:09:01 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

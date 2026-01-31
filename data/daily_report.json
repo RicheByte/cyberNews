@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31 10:19",
+  "last_updated": "2026-01-31 12:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,66 +7,75 @@
     "llms hijacked monetized",
     "rockwell automation controllogix",
     "hugging face abused",
+    "windows operating systems",
     "windows 11 systems",
-    "badbox 2 0",
     "ai assisted platform",
     "twitter whistleblower complaint",
     "means long term",
     "hugging face platform",
     "dire critical rating",
     "critical rce bugs",
+    "national security risk",
+    "android malware variants",
+    "malicious cyber actors",
     "cve 2026 1340",
     "cve 2026 1281",
-    "android malware variants",
-    "national security risk",
-    "critical severity vulnerabilities",
+    "vulnerabilities earned microsoft's",
     "uses tradecraft consistent",
-    "today we'll dig",
-    "strong theme running"
+    "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "arbitrary code execution",
-      "mentions": 58
+      "mentions": 59
     },
     {
       "keyword": "llms hijacked monetized",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "hugging face abused",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 240
     },
     {
       "keyword": "windows 11 systems",
-      "mentions": 11
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 19
+      "mentions": 12
     },
     {
       "keyword": "ai assisted platform",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 536
+      "mentions": 537
     },
     {
       "keyword": "means long term",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "hugging face platform",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
+      "link": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html",
+      "summary": "A Farsi-speaking threat actor aligned with Iranian state interests is suspected to be behind a new campaign targeting non-governmental organizations and individuals involved in documenting recent human rights abuses. The activity, observed by HarfangLab in January 2026, has been codenamed RedKitten. It's said to coincide with the nationwide unrest in Iran that began towards the end of 2025,",
+      "published": "Sat, 31 Jan 2026 17:32:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms",
@@ -135,22 +144,6 @@
         "CVE mentioned",
         "RCE ×2",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
-      "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
-      "summary": "Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to its Known Exploited Vulnerabilities (KEV) catalog. The critical-severity vulnerabilities are listed below - CVE-2026-1281 (CVSS score:",
-      "published": "Fri, 30 Jan 2026 10:13:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation",
-        "RCE",
-        "CISA/KEV ×3",
-        "High severity"
       ]
     },
     {
@@ -239,17 +232,6 @@
     },
     {
       "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
@@ -321,6 +303,19 @@
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",

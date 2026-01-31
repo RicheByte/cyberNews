@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 246,
+      "count": 247,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -109,7 +109,8 @@
         "2026-01-26",
         "2026-01-27",
         "2026-01-28",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-31"
       ]
     },
     "user named csnemess": {
@@ -147,7 +148,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 239,
+      "count": 240,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -181,7 +182,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 536,
+      "count": 537,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -707,7 +708,7 @@
       ]
     },
     "national security risk": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2359,7 +2360,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2417,7 +2418,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2960,7 +2961,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -2980,7 +2981,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4705,7 +4706,7 @@
       ]
     },
     "llms hijacked monetized": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4734,7 +4735,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4749,7 +4750,7 @@
       ]
     },
     "android malware variants": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4772,7 +4773,7 @@
       ]
     },
     "cve 2026 1340": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4780,7 +4781,7 @@
       ]
     },
     "cve 2026 1281": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4794,7 +4795,7 @@
       ]
     },
     "means long term": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-30",
         "2026-01-31"
@@ -4826,21 +4827,21 @@
       ]
     },
     "hugging face abused": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-30",
         "2026-01-31"
       ]
     },
     "windows 11 systems": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-30",
         "2026-01-31"
       ]
     },
     "hugging face platform": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-30",
         "2026-01-31"
@@ -4866,7 +4867,7 @@
       ]
     },
     "critical rce bugs": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-30",
         "2026-01-31"
@@ -4879,31 +4880,20 @@
       ]
     },
     "ai assisted platform": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-30",
         "2026-01-31"
       ]
     },
     "uses tradecraft consistent": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-01-31"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-22 22:18",
-      "articles": 56,
-      "top_keywords": [
-        "malicious sso logins",
-        "vulnerable driver byovd",
-        "january 15 2026",
-        "authentication bypass vulnerability",
-        "roughly 900 million"
-      ]
-    },
     {
       "timestamp": "2026-01-23 01:19",
       "articles": 48,
@@ -5991,6 +5981,17 @@
         "rockwell automation controllogix",
         "hugging face abused",
         "windows 11 systems"
+      ]
+    },
+    {
+      "timestamp": "2026-01-31 12:37",
+      "articles": 56,
+      "top_keywords": [
+        "arbitrary code execution",
+        "llms hijacked monetized",
+        "rockwell automation controllogix",
+        "hugging face abused",
+        "windows operating systems"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31 08:23",
+  "last_updated": "2026-01-31 10:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,13 +7,12 @@
     "llms hijacked monetized",
     "rockwell automation controllogix",
     "hugging face abused",
-    "ai compute infrastructure",
-    "badbox 2 0",
     "windows 11 systems",
+    "badbox 2 0",
+    "ai assisted platform",
     "twitter whistleblower complaint",
     "means long term",
     "hugging face platform",
-    "ai assisted platform",
     "dire critical rating",
     "critical rce bugs",
     "cve 2026 1340",
@@ -21,52 +20,65 @@
     "android malware variants",
     "national security risk",
     "critical severity vulnerabilities",
-    "world operate outside",
-    "today we'll dig"
+    "uses tradecraft consistent",
+    "today we'll dig",
+    "strong theme running"
   ],
   "trending": [
     {
       "keyword": "arbitrary code execution",
-      "mentions": 57
+      "mentions": 58
     },
     {
       "keyword": "llms hijacked monetized",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "hugging face abused",
-      "mentions": 10
-    },
-    {
-      "keyword": "ai compute infrastructure",
-      "mentions": 16
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 18
+      "mentions": 11
     },
     {
       "keyword": "windows 11 systems",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 19
+    },
+    {
+      "keyword": "ai assisted platform",
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 535
+      "mentions": 536
     },
     {
       "keyword": "means long term",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "hugging face platform",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms",
+      "link": "https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html",
+      "summary": "Google-owned Mandiant on Friday said it identified an \"expansion in threat activity\" that uses tradecraft consistent with extortion-themed attacks orchestrated by a financially motivated hacking group known as ShinyHunters. The attacks leverage advanced voice phishing (aka vishing) and bogus credential harvesting sites mimicking targeted companies to gain unauthorized access to victim",
+      "published": "Sat, 31 Jan 2026 13:28:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Breach/leak",
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
@@ -140,15 +152,6 @@
         "CISA/KEV ×3",
         "High severity"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
-      "link": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
-      "summary": "A new joint investigation by SentinelOne SentinelLABS, and Censys has revealed that the open-source artificial intelligence (AI) deployment has created a vast \"unmanaged, publicly accessible layer of AI compute infrastructure\" that spans 175,000 unique Ollama hosts across 130 countries. These systems, which span both cloud and residential networks across the world, operate outside the",
-      "published": "Fri, 30 Jan 2026 00:07:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

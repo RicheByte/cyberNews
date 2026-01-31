@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-31 08:23 UTC  
+> **Last Updated:** 2026-01-31 10:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**arbitrary code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **hugging face abused** • **ai compute infrastructure** • **badbox 2 0** • **windows 11 systems** • **twitter whistleblower complaint** • **means long term** • **hugging face platform** • **ai assisted platform** • **dire critical rating** • **critical rce bugs** • **cve 2026 1340** • **cve 2026 1281** • **android malware variants** • **national security risk** • **critical severity vulnerabilities** • **world operate outside** • **today we'll dig**
+**arbitrary code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **hugging face abused** • **windows 11 systems** • **badbox 2 0** • **ai assisted platform** • **twitter whistleblower complaint** • **means long term** • **hugging face platform** • **dire critical rating** • **critical rce bugs** • **cve 2026 1340** • **cve 2026 1281** • **android malware variants** • **national security risk** • **critical severity vulnerabilities** • **uses tradecraft consistent** • **today we'll dig** • **strong theme running**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms](https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html)
 - [CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms](https://thehackernews.com/2026/01/poland-attributes-december-cyber.html)
 - [Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access](https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html)
 - [China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware](https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html)
@@ -23,7 +24,6 @@
 - [Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup](https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html)
 - [SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score](https://thehackernews.com/2026/01/smartermail-fixes-critical.html)
 - [Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released](https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html)
-- [Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries](https://thehackernews.com/2026/01/researchers-find-175000-publicly.html)
 
 ### BleepingComputer
 

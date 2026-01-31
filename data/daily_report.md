@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-31 06:32 UTC  
+> **Last Updated:** 2026-01-31 08:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**arbitrary code execution** • **llms hijacked monetized** • **ai compute infrastructure** • **rockwell automation controllogix** • **hugging face abused** • **windows operating systems** • **windows 11 systems** • **ai assisted platform** • **twitter whistleblower complaint** • **means long term** • **hugging face platform** • **dire critical rating** • **critical severity vulnerabilities** • **critical rce bugs** • **national security risk** • **cve 2026 1340** • **cve 2026 1281** • **android malware variants** • **world operate outside** • **vulnerabilities earned microsoft's**
+**arbitrary code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **hugging face abused** • **ai compute infrastructure** • **badbox 2 0** • **windows 11 systems** • **twitter whistleblower complaint** • **means long term** • **hugging face platform** • **ai assisted platform** • **dire critical rating** • **critical rce bugs** • **cve 2026 1340** • **cve 2026 1281** • **android malware variants** • **national security risk** • **critical severity vulnerabilities** • **world operate outside** • **today we'll dig**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms](https://thehackernews.com/2026/01/poland-attributes-december-cyber.html)
 - [Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access](https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html)
 - [China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware](https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html)
 - [Badges, Bytes and Blackmail](https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html)
-- [Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup](https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html)
+- [Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup](https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html)
 - [SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score](https://thehackernews.com/2026/01/smartermail-fixes-critical.html)
 - [Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released](https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html)
 - [Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries](https://thehackernews.com/2026/01/researchers-find-175000-publicly.html)
-- [ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories](https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html)
 
 ### BleepingComputer
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
@@ -45,7 +46,6 @@
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 

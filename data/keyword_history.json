@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 247,
+      "count": 248,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -148,7 +148,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 240,
+      "count": 241,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -182,7 +182,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 538,
+      "count": 539,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -708,7 +708,7 @@
       ]
     },
     "national security risk": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1176,12 +1176,13 @@
       ]
     },
     "restrict free speech": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-24",
         "2025-12-25",
         "2026-01-13",
-        "2026-01-14"
+        "2026-01-14",
+        "2026-01-31"
       ]
     },
     "spread powershell malware": {
@@ -2248,7 +2249,7 @@
       ]
     },
     "strong theme running": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2360,7 +2361,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2418,7 +2419,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2605,7 +2606,7 @@
       ]
     },
     "scoops nestled inside": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-11",
         "2026-01-13",
@@ -4605,10 +4606,11 @@
       ]
     },
     "perform unauthorized actions": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-28",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-31"
       ]
     },
     "high risk individuals": {
@@ -4736,7 +4738,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4796,7 +4798,7 @@
       ]
     },
     "means long term": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-30",
         "2026-01-31"
@@ -4828,14 +4830,14 @@
       ]
     },
     "hugging face abused": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-30",
         "2026-01-31"
       ]
     },
     "windows 11 systems": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-30",
         "2026-01-31"
@@ -4881,31 +4883,44 @@
       ]
     },
     "ai assisted platform": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-30",
         "2026-01-31"
       ]
     },
     "uses tradecraft consistent": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2026-01-31"
+      ]
+    },
+    "hugging face repository": {
+      "count": 1,
+      "dates": [
+        "2026-01-31"
+      ]
+    },
+    "record 158 billion": {
+      "count": 1,
+      "dates": [
+        "2026-01-31"
+      ]
+    },
+    "raising security concerns": {
+      "count": 1,
+      "dates": [
+        "2026-01-31"
+      ]
+    },
+    "opening encrypted emails": {
+      "count": 1,
       "dates": [
         "2026-01-31"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-23 03:29",
-      "articles": 56,
-      "top_keywords": [
-        "january 15 2026",
-        "malicious sso logins",
-        "authentication bypass vulnerability",
-        "ai features microsoft",
-        "roughly 900 million"
-      ]
-    },
     {
       "timestamp": "2026-01-23 04:38",
       "articles": 56,
@@ -5992,6 +6007,17 @@
         "llms hijacked monetized",
         "rockwell automation controllogix",
         "hugging face abused",
+        "windows 11 systems"
+      ]
+    },
+    {
+      "timestamp": "2026-01-31 16:21",
+      "articles": 56,
+      "top_keywords": [
+        "arbitrary code execution",
+        "hugging face abused",
+        "rockwell automation controllogix",
+        "windows operating systems",
         "windows 11 systems"
       ]
     }

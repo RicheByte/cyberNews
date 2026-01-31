@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-31 14:20",
+  "last_updated": "2026-01-31 16:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "arbitrary code execution",
-    "llms hijacked monetized",
-    "rockwell automation controllogix",
     "hugging face abused",
+    "rockwell automation controllogix",
+    "windows operating systems",
     "windows 11 systems",
-    "badbox 2 0",
+    "hugging face repository",
     "ai assisted platform",
     "twitter whistleblower complaint",
     "means long term",
-    "hugging face platform",
-    "dire critical rating",
-    "critical rce bugs",
-    "android malware variants",
     "national security risk",
-    "cve 2026 1340",
-    "cve 2026 1281",
     "uses tradecraft consistent",
     "today we'll dig",
     "strong theme running",
-    "scoops nestled inside"
+    "scoops nestled inside",
+    "restrict free speech",
+    "record 158 billion",
+    "raising security concerns",
+    "perform unauthorized actions",
+    "opening encrypted emails",
+    "malicious cyber actors"
   ],
   "trending": [
     {
       "keyword": "arbitrary code execution",
-      "mentions": 60
-    },
-    {
-      "keyword": "llms hijacked monetized",
-      "mentions": 22
-    },
-    {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 21
+      "mentions": 61
     },
     {
       "keyword": "hugging face abused",
-      "mentions": 13
+      "mentions": 14
+    },
+    {
+      "keyword": "rockwell automation controllogix",
+      "mentions": 22
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 241
     },
     {
       "keyword": "windows 11 systems",
-      "mentions": 13
+      "mentions": 14
     },
     {
-      "keyword": "badbox 2 0",
-      "mentions": 20
+      "keyword": "hugging face repository",
+      "mentions": 1
     },
     {
       "keyword": "ai assisted platform",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 538
+      "mentions": 539
     },
     {
       "keyword": "means long term",
-      "mentions": 18
+      "mentions": 19
     },
     {
-      "keyword": "hugging face platform",
-      "mentions": 13
+      "keyword": "national security risk",
+      "mentions": 48
     }
   ],
   "articles": [
@@ -148,6 +148,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
+      "link": "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/",
+      "summary": "Mandiant says a wave of recent ShinyHunters SaaS data-theft attacks is being fueled by targeted voice phishing (vishing) attacks and company-branded phishing sites that steal single sign-on (SSO) credentials and multi-factor authentication (MFA) codes. [...]",
+      "published": "Sat, 31 Jan 2026 10:02:12 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Researcher reveals evidence of private Instagram profiles leaking photos",
+      "link": "https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/",
+      "summary": "A researcher has released detailed evidence showing some Instagram private accounts exposed photo links to unauthenticated visitors. The issue was later fixed, but Meta closed the report as not applicable and did not respond to multiple requests for comment. [...]",
+      "published": "Sat, 31 Jan 2026 09:27:12 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Crypto wallets received a record $158 billion in illicit funds last year",
       "link": "https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/",
       "summary": "Illegal cryptocurrency flows hit a record $158 billion in 2025, reversing a three-year trend of declining amounts from $86B in 2021 to $64B in 2024. [...]",
@@ -204,41 +226,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hugging Face abused to spread thousands of Android malware variants",
-      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
-      "summary": "A new Android malware campaign is using the Hugging Face platform as a repository for thousands of variations of an APK payload that collects credentials for popular financial and payment services. [...]",
-      "published": "Thu, 29 Jan 2026 17:08:19 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ivanti warns of two EPMM flaws exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/",
-      "summary": "Ivanti has disclosed two critical vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), tracked as CVE-2026-1281 and CVE-2026-1340, that were exploited in zero-day attacks. [...]",
-      "published": "Thu, 29 Jan 2026 17:07:33 -0500",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Zero-day ×2",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
       ]
     },
     {
@@ -314,6 +301,19 @@
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -392,6 +392,17 @@
     },
     {
       "source": "Security Week",
+      "title": "eScan Antivirus Delivers Malware in Supply Chain Attack",
+      "link": "https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/",
+      "summary": "Hackers compromised a MicroWorld Technologies update server and fed a malicious file to eScan customers. The post eScan Antivirus Delivers Malware in Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Sat, 31 Jan 2026 15:00:00 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Paid for Being Jailed, Google’s $68M Settlement, CISA Chief’s ChatGPT Leak",
       "link": "https://www.securityweek.com/in-other-news-paid-for-being-jailed-googles-68m-settlement-cisa-chiefs-chatgpt-leak/",
       "summary": "Other noteworthy stories that might have slipped under the radar: Apple updates platform security guide, LastPass detects new phishing wave, CISA withdraws from RSA Conference. The post In Other News: Paid for Being Jailed, Google’s $68M Settlement, CISA Chief’s ChatGPT Leak appeared first on SecurityWeek .",
@@ -459,15 +470,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’",
-      "link": "https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/",
-      "summary": "An LLMjacking operation has been targeting exposed LLMs and MCPs at scale, for commercial monetization. The post LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’ appeared first on SecurityWeek .",
-      "published": "Thu, 29 Jan 2026 15:01:24 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

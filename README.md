@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-01-31 14:20 UTC |
+| 🕐 Last Updated | 2026-01-31 16:21 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`arbitrary code execution` • `llms hijacked monetized` • `rockwell automation controllogix` • `hugging face abused` • `windows 11 systems` • `badbox 2 0` • `ai assisted platform` • `twitter whistleblower complaint` • `means long term` • `hugging face platform`
+`arbitrary code execution` • `hugging face abused` • `rockwell automation controllogix` • `windows operating systems` • `windows 11 systems` • `hugging face repository` • `ai assisted platform` • `twitter whistleblower complaint` • `means long term` • `national security risk`
 
 ## 📄 Reports
 

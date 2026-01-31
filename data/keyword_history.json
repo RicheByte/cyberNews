@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-01-01",
     "2026-01-02",
     "2026-01-03",
     "2026-01-04",
@@ -29,7 +28,8 @@
     "2026-01-27",
     "2026-01-28",
     "2026-01-29",
-    "2026-01-30"
+    "2026-01-30",
+    "2026-01-31"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -147,7 +147,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 237,
+      "count": 238,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -176,11 +176,12 @@
         "2026-01-27",
         "2026-01-28",
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 531,
+      "count": 532,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -226,7 +227,8 @@
         "2026-01-27",
         "2026-01-28",
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "supposed wayward package": {
@@ -705,7 +707,7 @@
       ]
     },
     "national security risk": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -715,7 +717,8 @@
         "2026-01-20",
         "2026-01-23",
         "2026-01-28",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-01-31"
       ]
     },
     "open source millions": {
@@ -2412,7 +2415,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2420,7 +2423,8 @@
         "2026-01-12",
         "2026-01-28",
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "authenticated remote attacker": {
@@ -2954,7 +2958,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -2962,7 +2966,8 @@
         "2026-01-27",
         "2026-01-28",
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "bugs fixed today": {
@@ -2973,7 +2978,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -2982,7 +2987,8 @@
         "2026-01-22",
         "2026-01-28",
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "final patch tuesday": {
@@ -4695,10 +4701,11 @@
       ]
     },
     "llms hijacked monetized": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "massive distributed denial": {
@@ -4723,10 +4730,11 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "residential networks across": {
@@ -4737,10 +4745,11 @@
       ]
     },
     "android malware variants": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "multibillion dollar ai": {
@@ -4751,24 +4760,27 @@
       ]
     },
     "ai compute infrastructure": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "cve 2026 1340": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "cve 2026 1281": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "ai risks preparing": {
@@ -4778,9 +4790,10 @@
       ]
     },
     "means long term": {
-      "count": 11,
+      "count": 12,
       "dates": [
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "refining ai applications": {
@@ -4790,9 +4803,10 @@
       ]
     },
     "critical severity vulnerabilities": {
-      "count": 9,
+      "count": 10,
       "dates": [
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "path zero trust": {
@@ -4808,27 +4822,31 @@
       ]
     },
     "hugging face abused": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "windows 11 systems": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "hugging face platform": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "world operate outside": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "encrypted emails microsoft": {
@@ -4844,9 +4862,10 @@
       ]
     },
     "critical rce bugs": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     },
     "deploying multifactor authentication": {
@@ -4856,24 +4875,14 @@
       ]
     },
     "ai assisted platform": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-01-30"
+        "2026-01-30",
+        "2026-01-31"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-22 12:38",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "remote code execution",
-        "malicious sso logins",
-        "january 15 2026",
-        "leak sensitive information"
-      ]
-    },
     {
       "timestamp": "2026-01-22 14:25",
       "articles": 56,
@@ -5961,6 +5970,17 @@
         "rockwell automation controllogix",
         "hugging face abused",
         "ai risks preparing"
+      ]
+    },
+    {
+      "timestamp": "2026-01-31 01:27",
+      "articles": 56,
+      "top_keywords": [
+        "arbitrary code execution",
+        "llms hijacked monetized",
+        "ai compute infrastructure",
+        "rockwell automation controllogix",
+        "hugging face abused"
       ]
     }
   ]

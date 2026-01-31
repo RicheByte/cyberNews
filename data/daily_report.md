@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-30 22:20 UTC  
+> **Last Updated:** 2026-01-31 01:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**arbitrary code execution** • **llms hijacked monetized** • **rockwell automation controllogix** • **hugging face abused** • **ai risks preparing** • **ai compute infrastructure** • **windows operating systems** • **windows 11 systems** • **twitter whistleblower complaint** • **means long term** • **hugging face platform** • **ai assisted platform** • **critical severity vulnerabilities** • **dire critical rating** • **cve 2026 1340** • **cve 2026 1281** • **critical rce bugs** • **android malware variants** • **vulnerabilities earned microsoft's** • **world operate outside**
+**arbitrary code execution** • **llms hijacked monetized** • **ai compute infrastructure** • **rockwell automation controllogix** • **hugging face abused** • **windows operating systems** • **windows 11 systems** • **ai assisted platform** • **twitter whistleblower complaint** • **means long term** • **hugging face platform** • **dire critical rating** • **critical severity vulnerabilities** • **critical rce bugs** • **national security risk** • **cve 2026 1340** • **cve 2026 1281** • **android malware variants** • **world operate outside** • **vulnerabilities earned microsoft's**
 
 ---
 
@@ -50,13 +50,13 @@
 ### Dark Reading
 
 - [2026: The Year Agentic AI Becomes the Attack-Surface Poster Child](https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child)
+- [Out-of-the-Box Expectations for 2026 Reveal a Grab-Bag of Risk](https://www.darkreading.com/threat-intelligence/cyber-expectations-2026-grab-bag-risk)
 - [Tenable Tackles AI Governance, Shadow AI Risks, Data Exposure](https://www.darkreading.com/cyber-risk/tenable-tackles-ai-governance-shadow-ai-risks-data-exposure)
 - [OpenClaw AI Runs Wild in Business Environments](https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments)
 - [Chinese APTs Hacking Asian Orgs With High-End Malware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware)
 - [Trump Administration Rescinds Biden-Era Software Guidance](https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance)
 - [Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk](https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security)
 - ['Semantic Chaining' Jailbreak Dupes Gemini Nano Banana, Grok 4](https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4)
-- [From Quantum to AI Risks: Preparing for Cybersecurity's Future](https://www.darkreading.com/cybersecurity-operations/quantum-ai-risks-cybersecuritys-future)
 
 ### Security Week
 

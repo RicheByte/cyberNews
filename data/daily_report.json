@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-01-30 22:20",
+  "last_updated": "2026-01-31 01:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "arbitrary code execution",
     "llms hijacked monetized",
+    "ai compute infrastructure",
     "rockwell automation controllogix",
     "hugging face abused",
-    "ai risks preparing",
-    "ai compute infrastructure",
     "windows operating systems",
     "windows 11 systems",
+    "ai assisted platform",
     "twitter whistleblower complaint",
     "means long term",
     "hugging face platform",
-    "ai assisted platform",
-    "critical severity vulnerabilities",
     "dire critical rating",
+    "critical severity vulnerabilities",
+    "critical rce bugs",
+    "national security risk",
     "cve 2026 1340",
     "cve 2026 1281",
-    "critical rce bugs",
     "android malware variants",
-    "vulnerabilities earned microsoft's",
-    "world operate outside"
+    "world operate outside",
+    "vulnerabilities earned microsoft's"
   ],
   "trending": [
     {
       "keyword": "arbitrary code execution",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "llms hijacked monetized",
-      "mentions": 15
-    },
-    {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 14
-    },
-    {
-      "keyword": "hugging face abused",
-      "mentions": 6
-    },
-    {
-      "keyword": "ai risks preparing",
-      "mentions": 11
+      "mentions": 16
     },
     {
       "keyword": "ai compute infrastructure",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "rockwell automation controllogix",
+      "mentions": 15
+    },
+    {
+      "keyword": "hugging face abused",
+      "mentions": 7
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 237
+      "mentions": 238
     },
     {
       "keyword": "windows 11 systems",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "ai assisted platform",
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 531
+      "mentions": 532
     },
     {
       "keyword": "means long term",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
@@ -332,6 +332,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Out-of-the-Box Expectations for 2026 Reveal a Grab-Bag of Risk",
+      "link": "https://www.darkreading.com/threat-intelligence/cyber-expectations-2026-grab-bag-risk",
+      "summary": "Security teams need to be thinking about this list of emerging cybersecurity realities, to avoid rolling the dice on enterprise security risks (and opportunities).",
+      "published": "Fri, 30 Jan 2026 21:14:32 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Tenable Tackles AI Governance, Shadow AI Risks, Data Exposure",
       "link": "https://www.darkreading.com/cyber-risk/tenable-tackles-ai-governance-shadow-ai-risks-data-exposure",
       "summary": "The Tenable One AI Exposure add-on discovers unsanctioned AI use in the organization and enforces policy compliance with approved tools.",
@@ -384,15 +393,6 @@
       "link": "https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4",
       "summary": "If an attacker splits a malicious prompt into discrete chunks, some large language models (LLMs) will get lost in the details and miss the true intent.",
       "published": "Thu, 29 Jan 2026 16:09:01 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "From Quantum to AI Risks: Preparing for Cybersecurity's Future",
-      "link": "https://www.darkreading.com/cybersecurity-operations/quantum-ai-risks-cybersecuritys-future",
-      "summary": "In the latest edition of \"Reporters' Notebook,\" a trio of journalists urge the cybersecurity industry to prioritize patching vulnerabilities, preparing for quantum threats, and refining AI applications,",
-      "published": "Thu, 29 Jan 2026 15:32:24 GMT",
       "value_score": 10,
       "value_signals": []
     },

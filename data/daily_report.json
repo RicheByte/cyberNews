@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-01 18:28",
+  "last_updated": "2026-02-01 20:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "arbitrary code execution",
     "hugging face abused",
     "rockwell automation controllogix",
-    "chinese tech firms",
     "former software engineer",
-    "badbox 2 0",
+    "chinese tech firms",
+    "windows operating systems",
     "ai assisted platform",
     "hugging face repository",
     "twitter whistleblower complaint",
     "means long term",
     "data extortion attacks",
-    "stealing ai secrets",
     "national security risk",
+    "stealing ai secrets",
+    "malicious cyber actors",
+    "vulnerabilities earned microsoft's",
     "uses tradecraft consistent",
     "today we'll dig",
     "strong theme running",
     "steal single sign",
-    "scoops nestled inside",
-    "perform unauthorized actions",
-    "much clearer idea"
+    "scoops nestled inside"
   ],
   "trending": [
     {
       "keyword": "arbitrary code execution",
-      "mentions": 73
+      "mentions": 74
     },
     {
       "keyword": "hugging face abused",
-      "mentions": 26
-    },
-    {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 34
-    },
-    {
-      "keyword": "chinese tech firms",
-      "mentions": 12
-    },
-    {
-      "keyword": "former software engineer",
-      "mentions": 12
-    },
-    {
-      "keyword": "badbox 2 0",
       "mentions": 27
     },
     {
-      "keyword": "ai assisted platform",
-      "mentions": 22
+      "keyword": "rockwell automation controllogix",
+      "mentions": 35
     },
     {
-      "keyword": "hugging face repository",
+      "keyword": "former software engineer",
       "mentions": 13
     },
     {
+      "keyword": "chinese tech firms",
+      "mentions": 13
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 247
+    },
+    {
+      "keyword": "ai assisted platform",
+      "mentions": 23
+    },
+    {
+      "keyword": "hugging face repository",
+      "mentions": 14
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 551
+      "mentions": 552
     },
     {
       "keyword": "means long term",
-      "mentions": 31
+      "mentions": 32
     }
   ],
   "articles": [
@@ -224,17 +224,6 @@
     },
     {
       "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
@@ -306,6 +295,19 @@
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-01-31 22:17 UTC  
+> **Last Updated:** 2026-02-01 01:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**arbitrary code execution** • **hugging face abused** • **rockwell automation controllogix** • **chinese tech firms** • **former software engineer** • **badbox 2 0** • **ai assisted platform** • **hugging face repository** • **twitter whistleblower complaint** • **means long term** • **stealing ai secrets** • **uses tradecraft consistent** • **today we'll dig** • **strong theme running** • **steal single sign** • **scoops nestled inside** • **restrict free speech** • **record 158 billion** • **president s efforts** • **perform unauthorized actions**
+**arbitrary code execution** • **hugging face abused** • **rockwell automation controllogix** • **chinese tech firms** • **former software engineer** • **badbox 2 0** • **ai assisted platform** • **hugging face repository** • **twitter whistleblower complaint** • **means long term** • **stealing ai secrets** • **uses tradecraft consistent** • **today we'll dig** • **strong theme running** • **steal single sign** • **scoops nestled inside** • **restrict free speech** • **record 158 billion** • **perform unauthorized actions** • **national security risk**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/)
 - [U.S. convicts ex-Google engineer for sending AI tech data to China](https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/)
 - [Cloud storage payment scam floods inboxes with fake renewals](https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/)
 - [Mandiant details how ShinyHunters abuse SSO to steal cloud data](https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/)
@@ -34,7 +35,6 @@
 - [Crypto wallets received a record $158 billion in illicit funds last year](https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/)
 - [Microsoft to disable NTLM by default in future Windows releases](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/)
 - [Operation Switch Off dismantles major pirate TV streaming services](https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/)
-- [Microsoft fixes Outlook bug blocking access to encrypted emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/)
 
 ### Krebs on Security
 

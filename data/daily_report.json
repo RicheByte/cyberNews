@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31 22:17",
+  "last_updated": "2026-02-01 01:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -21,49 +21,49 @@
     "scoops nestled inside",
     "restrict free speech",
     "record 158 billion",
-    "president s efforts",
-    "perform unauthorized actions"
+    "perform unauthorized actions",
+    "national security risk"
   ],
   "trending": [
     {
       "keyword": "arbitrary code execution",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "hugging face abused",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "chinese tech firms",
-      "mentions": 3
-    },
-    {
-      "keyword": "former software engineer",
-      "mentions": 3
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 22
-    },
-    {
-      "keyword": "ai assisted platform",
-      "mentions": 13
-    },
-    {
-      "keyword": "hugging face repository",
       "mentions": 4
     },
     {
+      "keyword": "former software engineer",
+      "mentions": 4
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 23
+    },
+    {
+      "keyword": "ai assisted platform",
+      "mentions": 14
+    },
+    {
+      "keyword": "hugging face repository",
+      "mentions": 5
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 542
+      "mentions": 543
     },
     {
       "keyword": "means long term",
-      "mentions": 22
+      "mentions": 23
     }
   ],
   "articles": [
@@ -148,6 +148,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/",
+      "summary": "OpenAI has confirmed that it's retiring ChatGPT's most popular model called GPT-4o and several other models, including GPT-5 Instant, GPT-5 Thinking, GPT-4.1, GPT-4.1 mini, and o4-mini. [...]",
+      "published": "Sat, 31 Jan 2026 20:26:02 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "U.S. convicts ex-Google engineer for sending AI tech data to China",
       "link": "https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/",
       "summary": "A U.S. federal jury has convicted Linwei Ding, a former software engineer at Google, for stealing AI supercomputer data from his employer and secretly sharing it with Chinese tech firms. [...]",
@@ -212,17 +221,6 @@
       "published": "Fri, 30 Jan 2026 11:39:43 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes Outlook bug blocking access to encrypted emails",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/",
-      "summary": "Microsoft has fixed a known issue that prevented Microsoft 365 customers from opening encrypted emails in classic Outlook after a recent update. [...]",
-      "published": "Fri, 30 Jan 2026 09:48:49 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

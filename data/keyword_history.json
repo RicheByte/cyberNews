@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 252,
+      "count": 253,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -149,7 +149,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 245,
+      "count": 246,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -184,7 +184,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 549,
+      "count": 550,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -711,7 +711,7 @@
       ]
     },
     "national security risk": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2255,7 +2255,7 @@
       ]
     },
     "strong theme running": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2368,7 +2368,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2427,7 +2427,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2615,7 +2615,7 @@
       ]
     },
     "scoops nestled inside": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-11",
         "2026-01-13",
@@ -2993,7 +2993,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3003,7 +3003,8 @@
         "2026-01-28",
         "2026-01-29",
         "2026-01-30",
-        "2026-01-31"
+        "2026-01-31",
+        "2026-02-01"
       ]
     },
     "final patch tuesday": {
@@ -4751,7 +4752,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4812,7 +4813,7 @@
       ]
     },
     "means long term": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4845,7 +4846,7 @@
       ]
     },
     "hugging face abused": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4899,7 +4900,7 @@
       ]
     },
     "ai assisted platform": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4907,21 +4908,21 @@
       ]
     },
     "uses tradecraft consistent": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "hugging face repository": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "record 158 billion": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-31",
         "2026-02-01"
@@ -4940,28 +4941,28 @@
       ]
     },
     "former software engineer": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "chinese tech firms": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "stealing ai secrets": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "steal single sign": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-31",
         "2026-02-01"
@@ -4969,17 +4970,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-24 01:16",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "single automation system",
-        "executive order signed",
-        "executive order 14144",
-        "malicious cyber actors"
-      ]
-    },
     {
       "timestamp": "2026-01-24 03:23",
       "articles": 56,
@@ -6067,6 +6057,17 @@
         "rockwell automation controllogix",
         "chinese tech firms",
         "former software engineer"
+      ]
+    },
+    {
+      "timestamp": "2026-02-01 16:22",
+      "articles": 56,
+      "top_keywords": [
+        "arbitrary code execution",
+        "hugging face abused",
+        "rockwell automation controllogix",
+        "former software engineer",
+        "chinese tech firms"
       ]
     }
   ]

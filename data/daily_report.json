@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-01 14:21",
+  "last_updated": "2026-02-01 16:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "arbitrary code execution",
     "hugging face abused",
     "rockwell automation controllogix",
-    "chinese tech firms",
     "former software engineer",
-    "badbox 2 0",
+    "chinese tech firms",
+    "windows operating systems",
     "ai assisted platform",
     "hugging face repository",
     "twitter whistleblower complaint",
     "means long term",
+    "national security risk",
     "stealing ai secrets",
+    "malicious cyber actors",
+    "vulnerabilities earned microsoft's",
     "uses tradecraft consistent",
     "today we'll dig",
     "strong theme running",
     "steal single sign",
     "scoops nestled inside",
-    "record 158 billion",
-    "perform unauthorized actions",
-    "national security risk",
-    "much clearer idea"
+    "record 158 billion"
   ],
   "trending": [
     {
       "keyword": "arbitrary code execution",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "hugging face abused",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 32
-    },
-    {
-      "keyword": "chinese tech firms",
-      "mentions": 10
+      "mentions": 33
     },
     {
       "keyword": "former software engineer",
-      "mentions": 10
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 26
-    },
-    {
-      "keyword": "ai assisted platform",
-      "mentions": 20
-    },
-    {
-      "keyword": "hugging face repository",
       "mentions": 11
     },
     {
+      "keyword": "chinese tech firms",
+      "mentions": 11
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 246
+    },
+    {
+      "keyword": "ai assisted platform",
+      "mentions": 21
+    },
+    {
+      "keyword": "hugging face repository",
+      "mentions": 12
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 549
+      "mentions": 550
     },
     {
       "keyword": "means long term",
-      "mentions": 29
+      "mentions": 30
     }
   ],
   "articles": [
@@ -148,6 +148,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New Apple privacy feature limits location tracking on iPhones, iPads",
+      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/",
+      "summary": "Apple is introducing a new privacy feature that lets users limit the precision of location data shared with cellular networks on some iPhone and iPad models. [...]",
+      "published": "Sun, 01 Feb 2026 10:20:40 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/",
       "summary": "OpenAI previously confirmed that it's testing ads in ChatGPT for free and $8 Go accounts, and now we're seeing early signs of that rollout, at least on Android. [...]",
@@ -212,26 +221,6 @@
       "published": "Fri, 30 Jan 2026 13:49:51 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft to disable NTLM by default in future Windows releases",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/",
-      "summary": "Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerabilities that expose organizations to cyberattacks. [...]",
-      "published": "Fri, 30 Jan 2026 12:08:57 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -306,6 +295,19 @@
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",

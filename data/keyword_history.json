@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 254,
+      "count": 255,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -149,7 +149,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 247,
+      "count": 248,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -184,7 +184,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 552,
+      "count": 553,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -711,7 +711,7 @@
       ]
     },
     "national security risk": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2255,7 +2255,7 @@
       ]
     },
     "strong theme running": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2368,7 +2368,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2427,7 +2427,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2615,7 +2615,7 @@
       ]
     },
     "scoops nestled inside": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-01-11",
         "2026-01-13",
@@ -2993,7 +2993,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4752,7 +4752,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4813,7 +4813,7 @@
       ]
     },
     "means long term": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4846,7 +4846,7 @@
       ]
     },
     "hugging face abused": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4900,7 +4900,7 @@
       ]
     },
     "ai assisted platform": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4908,14 +4908,14 @@
       ]
     },
     "uses tradecraft consistent": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "hugging face repository": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-31",
         "2026-02-01"
@@ -4941,52 +4941,41 @@
       ]
     },
     "former software engineer": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "chinese tech firms": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "stealing ai secrets": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "steal single sign": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "data extortion attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-24 06:25",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "single automation system",
-        "executive order signed",
-        "executive order 14144",
-        "malicious cyber actors"
-      ]
-    },
     {
       "timestamp": "2026-01-24 08:21",
       "articles": 56,
@@ -6067,6 +6056,17 @@
     },
     {
       "timestamp": "2026-02-01 20:20",
+      "articles": 56,
+      "top_keywords": [
+        "arbitrary code execution",
+        "hugging face abused",
+        "rockwell automation controllogix",
+        "former software engineer",
+        "chinese tech firms"
+      ]
+    },
+    {
+      "timestamp": "2026-02-01 22:18",
       "articles": 56,
       "top_keywords": [
         "arbitrary code execution",

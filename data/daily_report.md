@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-01 16:22 UTC  
+> **Last Updated:** 2026-02-01 18:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**arbitrary code execution** • **hugging face abused** • **rockwell automation controllogix** • **former software engineer** • **chinese tech firms** • **windows operating systems** • **ai assisted platform** • **hugging face repository** • **twitter whistleblower complaint** • **means long term** • **national security risk** • **stealing ai secrets** • **malicious cyber actors** • **vulnerabilities earned microsoft's** • **uses tradecraft consistent** • **today we'll dig** • **strong theme running** • **steal single sign** • **scoops nestled inside** • **record 158 billion**
+**arbitrary code execution** • **hugging face abused** • **rockwell automation controllogix** • **chinese tech firms** • **former software engineer** • **badbox 2 0** • **ai assisted platform** • **hugging face repository** • **twitter whistleblower complaint** • **means long term** • **data extortion attacks** • **stealing ai secrets** • **national security risk** • **uses tradecraft consistent** • **today we'll dig** • **strong theme running** • **steal single sign** • **scoops nestled inside** • **perform unauthorized actions** • **much clearer idea**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Exposed MongoDB instances still targeted in data extortion attacks](https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/)
 - [New Apple privacy feature limits location tracking on iPhones, iPads](https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/)
 - [OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/)
 - [OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/)
@@ -34,10 +35,10 @@
 - [Cloud storage payment scam floods inboxes with fake renewals](https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/)
 - [Mandiant details how ShinyHunters abuse SSO to steal cloud data](https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/)
 - [Researcher reveals evidence of private Instagram profiles leaking photos](https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/)
-- [Crypto wallets received a record $158 billion in illicit funds last year](https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/)
 
 ### Krebs on Security
 
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
@@ -45,7 +46,6 @@
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 - [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 

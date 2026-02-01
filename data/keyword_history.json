@@ -184,7 +184,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 550,
+      "count": 551,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -711,7 +711,7 @@
       ]
     },
     "national security risk": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2255,7 +2255,7 @@
       ]
     },
     "strong theme running": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2368,7 +2368,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2427,7 +2427,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2615,7 +2615,7 @@
       ]
     },
     "scoops nestled inside": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-11",
         "2026-01-13",
@@ -4334,7 +4334,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4360,7 +4360,7 @@
       ]
     },
     "much clearer idea": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-26",
         "2026-02-01"
@@ -4619,7 +4619,7 @@
       ]
     },
     "perform unauthorized actions": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-28",
         "2026-01-29",
@@ -4752,7 +4752,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4813,7 +4813,7 @@
       ]
     },
     "means long term": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4846,7 +4846,7 @@
       ]
     },
     "hugging face abused": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4900,7 +4900,7 @@
       ]
     },
     "ai assisted platform": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4908,14 +4908,14 @@
       ]
     },
     "uses tradecraft consistent": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "hugging face repository": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-31",
         "2026-02-01"
@@ -4941,46 +4941,41 @@
       ]
     },
     "former software engineer": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "chinese tech firms": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "stealing ai secrets": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-31",
         "2026-02-01"
       ]
     },
     "steal single sign": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-31",
+        "2026-02-01"
+      ]
+    },
+    "data extortion attacks": {
+      "count": 1,
+      "dates": [
         "2026-02-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-24 03:23",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "single automation system",
-        "executive order signed",
-        "executive order 14144",
-        "malicious cyber actors"
-      ]
-    },
     {
       "timestamp": "2026-01-24 04:32",
       "articles": 56,
@@ -6068,6 +6063,17 @@
         "rockwell automation controllogix",
         "former software engineer",
         "chinese tech firms"
+      ]
+    },
+    {
+      "timestamp": "2026-02-01 18:28",
+      "articles": 56,
+      "top_keywords": [
+        "arbitrary code execution",
+        "hugging face abused",
+        "rockwell automation controllogix",
+        "chinese tech firms",
+        "former software engineer"
       ]
     }
   ]

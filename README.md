@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-02 10:39 UTC |
+| 🕐 Last Updated | 2026-02-02 12:48 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`badbox 2 0` • `hugging face abused` • `rockwell automation controllogix` • `chinese tech firms` • `multi stage malware` • `ai assisted platform` • `hugging face repository` • `redirect update traffic` • `twitter whistleblower complaint` • `means long term`
+`multi stage malware` • `rockwell automation controllogix` • `microsoft moves closer` • `chinese tech firms` • `windows operating systems` • `ai assisted platform` • `former software engineer` • `redirect update traffic` • `windows releases will` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

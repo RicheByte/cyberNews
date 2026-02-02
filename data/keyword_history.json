@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 258,
+      "count": 259,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -150,7 +150,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 249,
+      "count": 250,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -186,7 +186,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 558,
+      "count": 559,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -714,7 +714,7 @@
       ]
     },
     "national security risk": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -4764,7 +4764,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4826,7 +4826,7 @@
       ]
     },
     "means long term": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4915,7 +4915,7 @@
       ]
     },
     "ai assisted platform": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4947,7 +4947,7 @@
       ]
     },
     "raising security concerns": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-31",
         "2026-02-02"
@@ -4960,7 +4960,7 @@
       ]
     },
     "former software engineer": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-31",
         "2026-02-01",
@@ -4968,7 +4968,7 @@
       ]
     },
     "chinese tech firms": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-31",
         "2026-02-01",
@@ -4992,49 +4992,61 @@
       ]
     },
     "data extortion attacks": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-01",
         "2026-02-02"
       ]
     },
     "multi stage malware": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-02"
       ]
     },
     "security solution developed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-02"
       ]
     },
     "redirect update traffic": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-02"
       ]
     },
     "iranian state interests": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-02"
       ]
     },
     "game site nationstates": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-02"
       ]
     },
     "utility's update mechanism": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-02"
       ]
     },
     "allowed malicious actors": {
+      "count": 2,
+      "dates": [
+        "2026-02-02"
+      ]
+    },
+    "microsoft moves closer": {
+      "count": 1,
+      "dates": [
+        "2026-02-02"
+      ]
+    },
+    "windows releases will": {
       "count": 1,
       "dates": [
         "2026-02-02"
@@ -5042,17 +5054,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-24 18:23",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "single automation system",
-        "applications ai agents",
-        "executive order signed",
-        "executive order 14144"
-      ]
-    },
     {
       "timestamp": "2026-01-24 20:17",
       "articles": 56,
@@ -6140,6 +6141,17 @@
         "rockwell automation controllogix",
         "chinese tech firms",
         "multi stage malware"
+      ]
+    },
+    {
+      "timestamp": "2026-02-02 12:48",
+      "articles": 56,
+      "top_keywords": [
+        "multi stage malware",
+        "rockwell automation controllogix",
+        "microsoft moves closer",
+        "chinese tech firms",
+        "windows operating systems"
       ]
     }
   ]

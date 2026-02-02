@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-02 04:20 UTC  
+> **Last Updated:** 2026-02-02 06:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**arbitrary code execution** • **hugging face abused** • **rockwell automation controllogix** • **chinese tech firms** • **former software engineer** • **badbox 2 0** • **ai assisted platform** • **hugging face repository** • **twitter whistleblower complaint** • **means long term** • **data extortion attacks** • **stealing ai secrets** • **national security risk** • **uses tradecraft consistent** • **today we'll dig** • **strong theme running** • **steal single sign** • **scoops nestled inside** • **perform unauthorized actions** • **much clearer idea**
+**badbox 2 0** • **hugging face abused** • **multi stage malware** • **rockwell automation controllogix** • **chinese tech firms** • **ai assisted platform** • **hugging face repository** • **twitter whistleblower complaint** • **means long term** • **former software engineer** • **data extortion attacks** • **national security risk** • **malicious cyber actors** • **uses tradecraft consistent** • **today we'll dig** • **strong theme running** • **steal single sign** • **security solution developed** • **scoops nestled inside** • **raising security concerns**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html)
+- [Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html)
 - [Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html)
 - [Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms](https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html)
 - [CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms](https://thehackernews.com/2026/01/poland-attributes-december-cyber.html)
 - [Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access](https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html)
 - [China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware](https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html)
 - [Badges, Bytes and Blackmail](https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html)
-- [Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup](https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html)
-- [SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score](https://thehackernews.com/2026/01/smartermail-fixes-critical.html)
 
 ### BleepingComputer
 

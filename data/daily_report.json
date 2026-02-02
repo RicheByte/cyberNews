@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-02-02 04:20",
+  "last_updated": "2026-02-02 06:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "arbitrary code execution",
+    "badbox 2 0",
     "hugging face abused",
+    "multi stage malware",
     "rockwell automation controllogix",
     "chinese tech firms",
-    "former software engineer",
-    "badbox 2 0",
     "ai assisted platform",
     "hugging face repository",
     "twitter whistleblower complaint",
     "means long term",
+    "former software engineer",
     "data extortion attacks",
-    "stealing ai secrets",
     "national security risk",
+    "malicious cyber actors",
     "uses tradecraft consistent",
     "today we'll dig",
     "strong theme running",
     "steal single sign",
+    "security solution developed",
     "scoops nestled inside",
-    "perform unauthorized actions",
-    "much clearer idea"
+    "raising security concerns"
   ],
   "trending": [
     {
-      "keyword": "arbitrary code execution",
-      "mentions": 77
-    },
-    {
-      "keyword": "hugging face abused",
+      "keyword": "badbox 2 0",
       "mentions": 30
     },
     {
+      "keyword": "hugging face abused",
+      "mentions": 31
+    },
+    {
+      "keyword": "multi stage malware",
+      "mentions": 1
+    },
+    {
       "keyword": "rockwell automation controllogix",
-      "mentions": 38
+      "mentions": 39
     },
     {
       "keyword": "chinese tech firms",
-      "mentions": 16
-    },
-    {
-      "keyword": "former software engineer",
-      "mentions": 16
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 29
-    },
-    {
-      "keyword": "ai assisted platform",
-      "mentions": 26
-    },
-    {
-      "keyword": "hugging face repository",
       "mentions": 17
     },
     {
+      "keyword": "ai assisted platform",
+      "mentions": 27
+    },
+    {
+      "keyword": "hugging face repository",
+      "mentions": 18
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 555
+      "mentions": 556
     },
     {
       "keyword": "means long term",
-      "mentions": 35
+      "mentions": 36
+    },
+    {
+      "keyword": "former software engineer",
+      "mentions": 17
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
+      "link": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
+      "summary": "The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been compromised by unknown attackers to deliver a persistent downloader to enterprise and consumer systems. \"Malicious updates were distributed through eScan's legitimate update infrastructure, resulting in the deployment of multi-stage malware to enterprise",
+      "published": "Mon, 02 Feb 2026 11:17:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm",
+      "link": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html",
+      "summary": "Cybersecurity researchers have disclosed details of a supply chain attack targeting the Open VSX Registry in which unidentified threat actors compromised a legitimate developer's resources to push malicious updates to downstream users. \"On January 30, 2026, four established Open VSX extensions published by the oorzc author had malicious versions published to Open VSX that embed the GlassWorm",
+      "published": "Mon, 02 Feb 2026 10:34:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
@@ -123,28 +143,6 @@
       "published": "Fri, 30 Jan 2026 17:00:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup",
-      "link": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
-      "summary": "A former Google engineer accused of stealing thousands of the company's confidential documents to build a startup in China has been convicted in the U.S., the Department of Justice (DoJ) announced Thursday. Linwei Ding (aka Leon Ding), 38, was convicted by a federal jury on seven counts of economic espionage and seven counts of theft of trade secrets for taking over 2,000 documents containing",
-      "published": "Fri, 30 Jan 2026 13:05:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
-      "link": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
-      "summary": "SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-24423, carries a CVSS score of 9.3 out of 10.0. \"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API",
-      "published": "Fri, 30 Jan 2026 12:39:00 +0530",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "High severity ×2"
-      ]
     },
     {
       "source": "BleepingComputer",

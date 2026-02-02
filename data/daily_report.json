@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-02-02 08:37",
+  "last_updated": "2026-02-02 10:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "badbox 2 0",
     "hugging face abused",
-    "multi stage malware",
     "rockwell automation controllogix",
     "chinese tech firms",
+    "multi stage malware",
     "ai assisted platform",
     "hugging face repository",
-    "windows operating systems",
-    "former software engineer",
+    "redirect update traffic",
     "twitter whistleblower complaint",
     "means long term",
-    "national security risk",
+    "iranian state interests",
+    "game site nationstates",
+    "former software engineer",
+    "utility's update mechanism",
     "data extortion attacks",
     "malicious cyber actors",
-    "security solution developed",
-    "raising security concerns",
-    "vulnerabilities earned microsoft's",
+    "allowed malicious actors",
+    "national security risk",
     "uses tradecraft consistent",
-    "today we'll dig",
-    "strong theme running",
-    "steal single sign"
+    "today we'll dig"
   ],
   "trending": [
     {
-      "keyword": "hugging face abused",
-      "mentions": 32
+      "keyword": "badbox 2 0",
+      "mentions": 31
     },
     {
-      "keyword": "multi stage malware",
-      "mentions": 2
+      "keyword": "hugging face abused",
+      "mentions": 33
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "chinese tech firms",
-      "mentions": 18
-    },
-    {
-      "keyword": "ai assisted platform",
-      "mentions": 28
-    },
-    {
-      "keyword": "hugging face repository",
       "mentions": 19
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 249
+      "keyword": "multi stage malware",
+      "mentions": 3
     },
     {
-      "keyword": "former software engineer",
-      "mentions": 18
+      "keyword": "ai assisted platform",
+      "mentions": 29
+    },
+    {
+      "keyword": "hugging face repository",
+      "mentions": 20
+    },
+    {
+      "keyword": "redirect update traffic",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 557
+      "mentions": 558
     },
     {
       "keyword": "means long term",
-      "mentions": 37
+      "mentions": 38
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
+      "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
+      "summary": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead. \"The attack involved [an] infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org,\" developer Don Ho said. \"The compromise occurred at the hosting",
+      "published": "Mon, 02 Feb 2026 14:25:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×4"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
@@ -136,13 +147,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Badges, Bytes and Blackmail",
-      "link": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html",
-      "summary": "Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was their function in the crimescape? Introduction: One view on the scattered fight against cybercrime The growing sophistication and diversification of cybercrime have compelled law enforcement agencies worldwide to respond through increasingly",
-      "published": "Fri, 30 Jan 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "NationStates confirms data breach, shuts down game site",
+      "link": "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/",
+      "summary": "NationStates, a multiplayer browser-based game, has confirmed a data breach after taking its website offline earlier this week to investigate a security incident. [...]",
+      "published": "Mon, 02 Feb 2026 05:05:57 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -210,14 +223,14 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Researcher reveals evidence of private Instagram profiles leaking photos",
-      "link": "https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/",
-      "summary": "A researcher has released detailed evidence showing some Instagram private accounts exposed photo links to unauthenticated visitors. The issue was later fixed, but Meta closed the report as not applicable and did not respond to multiple requests for comment. [...]",
-      "published": "Sat, 31 Jan 2026 09:27:12 -0500",
-      "value_score": 18,
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
       "value_signals": [
-        "Patch/update"
+        "Botnet ×3"
       ]
     },
     {
@@ -293,19 +306,6 @@
       "published": "Tue, 16 Dec 2025 14:14:48 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Dark Reading",
@@ -384,6 +384,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China’s Influence Grows",
+      "link": "https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/",
+      "summary": "Japan and Britain agree to accelerate cooperation on cybersecurity and the supply of critical minerals, as China’s influence grows in the region. The post Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China’s Influence Grows appeared first on SecurityWeek .",
+      "published": "Mon, 02 Feb 2026 10:35:00 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Notepad++ Supply Chain Hack Conducted by China via Hosting Provider",
+      "link": "https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/",
+      "summary": "The likely state-sponsored threat actor had access to the hosting provider for months and targeted only certain Notepad++ customers. The post Notepad++ Supply Chain Hack Conducted by China via Hosting Provider appeared first on SecurityWeek .",
+      "published": "Mon, 02 Feb 2026 09:18:18 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "eScan Antivirus Delivers Malware in Supply Chain Attack",
       "link": "https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/",
       "summary": "Hackers compromised a MicroWorld Technologies update server and fed a malicious file to eScan customers. The post eScan Antivirus Delivers Malware in Supply Chain Attack appeared first on SecurityWeek .",
@@ -441,27 +461,6 @@
       "published": "Fri, 30 Jan 2026 10:56:57 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid",
-      "link": "https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/",
-      "summary": "Sandworm/Electrum hackers targeted communication and control systems at 30 sites. The post ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid appeared first on SecurityWeek .",
-      "published": "Fri, 30 Jan 2026 09:35:06 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Ivanti Patches Exploited EPMM Zero-Days",
-      "link": "https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/",
-      "summary": "The critical-severity vulnerabilities could allow unauthenticated attackers to execute arbitrary code remotely. The post Ivanti Patches Exploited EPMM Zero-Days appeared first on SecurityWeek .",
-      "published": "Fri, 30 Jan 2026 08:32:35 +0000",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

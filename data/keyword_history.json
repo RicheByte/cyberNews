@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 257,
+      "count": 258,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -186,7 +186,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 557,
+      "count": 558,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -714,7 +714,7 @@
       ]
     },
     "national security risk": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2373,7 +2373,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4343,7 +4343,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4764,7 +4764,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4826,7 +4826,7 @@
       ]
     },
     "means long term": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4860,7 +4860,7 @@
       ]
     },
     "hugging face abused": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4915,7 +4915,7 @@
       ]
     },
     "ai assisted platform": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4924,7 +4924,7 @@
       ]
     },
     "uses tradecraft consistent": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-31",
         "2026-02-01",
@@ -4932,7 +4932,7 @@
       ]
     },
     "hugging face repository": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-31",
         "2026-02-01",
@@ -4960,7 +4960,7 @@
       ]
     },
     "former software engineer": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-31",
         "2026-02-01",
@@ -4968,7 +4968,7 @@
       ]
     },
     "chinese tech firms": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-31",
         "2026-02-01",
@@ -4992,14 +4992,14 @@
       ]
     },
     "data extortion attacks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-01",
         "2026-02-02"
       ]
     },
     "multi stage malware": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-02"
       ]
@@ -5009,20 +5009,39 @@
       "dates": [
         "2026-02-02"
       ]
+    },
+    "redirect update traffic": {
+      "count": 1,
+      "dates": [
+        "2026-02-02"
+      ]
+    },
+    "iranian state interests": {
+      "count": 1,
+      "dates": [
+        "2026-02-02"
+      ]
+    },
+    "game site nationstates": {
+      "count": 1,
+      "dates": [
+        "2026-02-02"
+      ]
+    },
+    "utility's update mechanism": {
+      "count": 1,
+      "dates": [
+        "2026-02-02"
+      ]
+    },
+    "allowed malicious actors": {
+      "count": 1,
+      "dates": [
+        "2026-02-02"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-24 16:19",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "single automation system",
-        "applications ai agents",
-        "executive order signed",
-        "executive order 14144"
-      ]
-    },
     {
       "timestamp": "2026-01-24 18:23",
       "articles": 56,
@@ -6110,6 +6129,17 @@
         "rockwell automation controllogix",
         "chinese tech firms",
         "ai assisted platform"
+      ]
+    },
+    {
+      "timestamp": "2026-02-02 10:39",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "hugging face abused",
+        "rockwell automation controllogix",
+        "chinese tech firms",
+        "multi stage malware"
       ]
     }
   ]

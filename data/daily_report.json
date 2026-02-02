@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-02-02 16:33",
+  "last_updated": "2026-02-02 18:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "scattered lapsus shinyhunters",
+    "badbox 2 0",
+    "multi stage malware",
     "rockwell automation controllogix",
+    "redirect update traffic",
     "mid market across",
     "microsoft moves closer",
-    "multi stage malware",
-    "windows operating systems",
-    "vulnerabilities earned microsoft's",
+    "firefox ai features",
     "twitter whistleblower complaint",
-    "redirect update traffic",
+    "openclaw formerly referred",
     "means long term",
+    "glassworm malware loader",
     "game site nationstates",
+    "even swatting executives",
+    "vulnerabilities earned microsoft's",
+    "three stage plan",
+    "shinyhunters expands scope",
     "malicious cyber actors",
     "allowed malicious actors",
-    "three stage plan",
-    "chinese state hackers",
-    "windows releases will",
-    "glassworm malware loader",
-    "security solution developed",
-    "raising security concerns",
-    "utility's update mechanism",
-    "single update exploit"
+    "chinese state hackers"
   ],
   "trending": [
     {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 44
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 1
     },
     {
-      "keyword": "mid market across",
-      "mentions": 2
-    },
-    {
-      "keyword": "microsoft moves closer",
-      "mentions": 3
+      "keyword": "badbox 2 0",
+      "mentions": 32
     },
     {
       "keyword": "multi stage malware",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 252
-    },
-    {
-      "keyword": "vulnerabilities earned microsoft's",
-      "mentions": 52
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 561
+      "keyword": "rockwell automation controllogix",
+      "mentions": 45
     },
     {
       "keyword": "redirect update traffic",
+      "mentions": 5
+    },
+    {
+      "keyword": "mid market across",
+      "mentions": 3
+    },
+    {
+      "keyword": "microsoft moves closer",
       "mentions": 4
     },
     {
-      "keyword": "means long term",
-      "mentions": 41
+      "keyword": "firefox ai features",
+      "mentions": 1
     },
     {
-      "keyword": "game site nationstates",
-      "mentions": 4
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 562
+    },
+    {
+      "keyword": "openclaw formerly referred",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
+      "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
+      "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link. The issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addressed in version 2026.1.29 released on January 30, 2026. It has been described as a token exfiltration vulnerability that leads to",
+      "published": "Mon, 02 Feb 2026 21:58:00 +0530",
+      "value_score": 68,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
@@ -142,15 +154,23 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms",
-      "link": "https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html",
-      "summary": "Google-owned Mandiant on Friday said it identified an \"expansion in threat activity\" that uses tradecraft consistent with extortion-themed attacks orchestrated by a financially motivated hacking group known as ShinyHunters. The attacks leverage advanced voice phishing (aka vishing) and bogus credential harvesting sites mimicking targeted companies to gain unauthorized access to victim",
-      "published": "Sat, 31 Jan 2026 13:28:00 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "Mozilla announces switch to disable all Firefox AI features",
+      "link": "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/",
+      "summary": "In response to user feedback on AI integration, Mozilla announced today that the next Firefox release will let users disable AI features entirely or manage them individually. [...]",
+      "published": "Mon, 02 Feb 2026 13:09:13 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft: January update shutdown bug affects more Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/",
+      "summary": "Microsoft has confirmed that a known issue preventing some Windows 11 devices from shutting down also affects Windows 10 systems with Virtual Secure Mode (VSM) enabled. [...]",
+      "published": "Mon, 02 Feb 2026 12:17:30 -0500",
+      "value_score": 18,
       "value_signals": [
-        "Breach/leak",
-        "Phishing"
+        "Patch/update"
       ]
     },
     {
@@ -216,22 +236,24 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "New Apple privacy feature limits location tracking on iPhones, iPads",
-      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/",
-      "summary": "Apple is introducing a new privacy feature that lets users limit the precision of location data shared with cellular networks on some iPhone and iPad models. [...]",
-      "published": "Sun, 01 Feb 2026 10:20:40 -0500",
+      "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/",
-      "summary": "OpenAI previously confirmed that it's testing ads in ChatGPT for free and $8 Go accounts, and now we're seeing early signs of that rollout, at least on Android. [...]",
-      "published": "Sat, 31 Jan 2026 21:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
     },
     {
       "source": "Krebs on Security",
@@ -299,28 +321,6 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
       "source": "Dark Reading",
       "title": "ShinyHunters Expands Scope of SaaS Extortion Attacks",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks",
@@ -349,9 +349,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Out-of-the-Box Expectations for 2026 Reveal a Grab-Bag of Risk",
+      "title": "Out-of-the-Box Expectations for 2026 Reveal a Grab Bag of Risk",
       "link": "https://www.darkreading.com/threat-intelligence/cyber-expectations-2026-grab-bag-risk",
-      "summary": "Security teams need to be thinking about this list of emerging cybersecurity realities, to avoid rolling the dice on enterprise security risks (and opportunities).",
+      "summary": "Security teams need to be thinking about this list of emerging cybersecurity realities to avoid rolling the dice on enterprise security risks (and opportunities).",
       "published": "Fri, 30 Jan 2026 21:14:32 GMT",
       "value_score": 10,
       "value_signals": []

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 256,
+      "count": 257,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -150,7 +150,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 248,
+      "count": 249,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -181,11 +181,12 @@
         "2026-01-29",
         "2026-01-30",
         "2026-01-31",
-        "2026-02-01"
+        "2026-02-01",
+        "2026-02-02"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 556,
+      "count": 557,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -713,7 +714,7 @@
       ]
     },
     "national security risk": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2258,7 +2259,7 @@
       ]
     },
     "strong theme running": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2372,7 +2373,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3000,7 +3001,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3011,7 +3012,8 @@
         "2026-01-29",
         "2026-01-30",
         "2026-01-31",
-        "2026-02-01"
+        "2026-02-01",
+        "2026-02-02"
       ]
     },
     "final patch tuesday": {
@@ -4762,7 +4764,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4824,7 +4826,7 @@
       ]
     },
     "means long term": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4858,7 +4860,7 @@
       ]
     },
     "hugging face abused": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4913,7 +4915,7 @@
       ]
     },
     "ai assisted platform": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4922,7 +4924,7 @@
       ]
     },
     "uses tradecraft consistent": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-31",
         "2026-02-01",
@@ -4930,7 +4932,7 @@
       ]
     },
     "hugging face repository": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-31",
         "2026-02-01",
@@ -4945,7 +4947,7 @@
       ]
     },
     "raising security concerns": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-31",
         "2026-02-02"
@@ -4958,7 +4960,7 @@
       ]
     },
     "former software engineer": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-31",
         "2026-02-01",
@@ -4966,7 +4968,7 @@
       ]
     },
     "chinese tech firms": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-31",
         "2026-02-01",
@@ -4982,7 +4984,7 @@
       ]
     },
     "steal single sign": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-31",
         "2026-02-01",
@@ -4990,37 +4992,26 @@
       ]
     },
     "data extortion attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-01",
         "2026-02-02"
       ]
     },
     "multi stage malware": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-02"
       ]
     },
     "security solution developed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-02"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-24 14:15",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "single automation system",
-        "applications ai agents",
-        "executive order signed",
-        "executive order 14144"
-      ]
-    },
     {
       "timestamp": "2026-01-24 16:19",
       "articles": 56,
@@ -6108,6 +6099,17 @@
         "multi stage malware",
         "rockwell automation controllogix",
         "chinese tech firms"
+      ]
+    },
+    {
+      "timestamp": "2026-02-02 08:37",
+      "articles": 56,
+      "top_keywords": [
+        "hugging face abused",
+        "multi stage malware",
+        "rockwell automation controllogix",
+        "chinese tech firms",
+        "ai assisted platform"
       ]
     }
   ]

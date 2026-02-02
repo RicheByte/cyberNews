@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 260,
+      "count": 261,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -150,7 +150,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 251,
+      "count": 252,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -186,7 +186,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 560,
+      "count": 561,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3001,7 +3001,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4764,7 +4764,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -4826,7 +4826,7 @@
       ]
     },
     "means long term": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -4947,7 +4947,7 @@
       ]
     },
     "raising security concerns": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-31",
         "2026-02-02"
@@ -4999,19 +4999,19 @@
       ]
     },
     "multi stage malware": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-02"
       ]
     },
     "security solution developed": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-02"
       ]
     },
     "redirect update traffic": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-02"
       ]
@@ -5023,48 +5023,60 @@
       ]
     },
     "game site nationstates": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-02"
       ]
     },
     "utility's update mechanism": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-02"
       ]
     },
     "allowed malicious actors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-02"
       ]
     },
     "microsoft moves closer": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-02"
       ]
     },
     "windows releases will": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-02"
       ]
     },
     "mid market across": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-02"
       ]
     },
     "glassworm malware loader": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-02"
       ]
     },
     "single update exploit": {
+      "count": 2,
+      "dates": [
+        "2026-02-02"
+      ]
+    },
+    "three stage plan": {
+      "count": 1,
+      "dates": [
+        "2026-02-02"
+      ]
+    },
+    "chinese state hackers": {
       "count": 1,
       "dates": [
         "2026-02-02"
@@ -5072,17 +5084,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-24 22:15",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "single automation system",
-        "applications ai agents",
-        "executive order signed",
-        "executive order 14144"
-      ]
-    },
     {
       "timestamp": "2026-01-25 01:26",
       "articles": 56,
@@ -6170,6 +6171,17 @@
         "mid market across",
         "microsoft moves closer",
         "chinese tech firms"
+      ]
+    },
+    {
+      "timestamp": "2026-02-02 16:33",
+      "articles": 56,
+      "top_keywords": [
+        "rockwell automation controllogix",
+        "mid market across",
+        "microsoft moves closer",
+        "multi stage malware",
+        "windows operating systems"
       ]
     }
   ]

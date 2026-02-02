@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-02-02 14:38",
+  "last_updated": "2026-02-02 16:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "multi stage malware",
     "rockwell automation controllogix",
     "mid market across",
     "microsoft moves closer",
-    "chinese tech firms",
+    "multi stage malware",
     "windows operating systems",
-    "former software engineer",
-    "windows releases will",
+    "vulnerabilities earned microsoft's",
     "twitter whistleblower complaint",
     "redirect update traffic",
     "means long term",
-    "malicious cyber actors",
     "game site nationstates",
-    "glassworm malware loader",
-    "data extortion attacks",
+    "malicious cyber actors",
     "allowed malicious actors",
+    "three stage plan",
+    "chinese state hackers",
+    "windows releases will",
+    "glassworm malware loader",
     "security solution developed",
     "raising security concerns",
     "utility's update mechanism",
@@ -26,47 +26,56 @@
   ],
   "trending": [
     {
-      "keyword": "multi stage malware",
-      "mentions": 5
-    },
-    {
       "keyword": "rockwell automation controllogix",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "mid market across",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "microsoft moves closer",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "chinese tech firms",
-      "mentions": 21
+      "keyword": "multi stage malware",
+      "mentions": 6
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 251
+      "mentions": 252
     },
     {
-      "keyword": "former software engineer",
-      "mentions": 21
-    },
-    {
-      "keyword": "windows releases will",
-      "mentions": 2
+      "keyword": "vulnerabilities earned microsoft's",
+      "mentions": 52
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 560
+      "mentions": 561
     },
     {
       "keyword": "redirect update traffic",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "means long term",
+      "mentions": 41
+    },
+    {
+      "keyword": "game site nationstates",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
+      "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
+      "summary": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options. The development comes more than two years after the tech giant revealed its plans to deprecate the legacy technology, citing its susceptibility to weaknesses that could facilitate relay attacks and allow bad",
+      "published": "Mon, 02 Feb 2026 21:29:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
@@ -145,13 +154,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
-      "link": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
-      "summary": "CERT Polska, the Polish computer emergency response team, revealed that coordinated cyber attacks targeted more than 30 wind and photovoltaic farms, a private company from the manufacturing sector, and a large combined heat and power plant (CHP) supplying heat to almost half a million customers in the country. The incident took place on December 29, 2025. The agency has attributed the attacks to",
-      "published": "Sat, 31 Jan 2026 12:35:00 +0530",
+      "source": "BleepingComputer",
+      "title": "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams",
+      "link": "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/",
+      "summary": "Fake high-yield investment platforms are surging worldwide, promising \"guaranteed\" returns that mask classic Ponzi schemes.CTM360 explains how HYIP scams scale through social media, recycled templates, and referral abuse. [...]",
+      "published": "Mon, 02 Feb 2026 10:34:44 -0500",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Notepad++ update feature hijacked by Chinese state hackers for months",
+      "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/",
+      "summary": "Chinese state-sponsored threat actors were likely behind the hijacking of Notepad++ update traffic last year that lasted for almost half a year, the developer states in an official announcement today. [...]",
+      "published": "Mon, 02 Feb 2026 09:53:52 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -210,24 +230,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/",
       "summary": "OpenAI previously confirmed that it's testing ads in ChatGPT for free and $8 Go accounts, and now we're seeing early signs of that rollout, at least on Android. [...]",
       "published": "Sat, 31 Jan 2026 21:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/",
-      "summary": "OpenAI has confirmed that it's retiring ChatGPT's most popular model called GPT-4o and several other models, including GPT-5 Instant, GPT-5 Thinking, GPT-4.1, GPT-4.1 mini, and o4-mini. [...]",
-      "published": "Sat, 31 Jan 2026 20:26:02 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "U.S. convicts ex-Google engineer for sending AI tech data to China",
-      "link": "https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/",
-      "summary": "A U.S. federal jury has convicted Linwei Ding, a former software engineer at Google, for stealing AI supercomputer data from his employer and secretly sharing it with Chinese tech firms. [...]",
-      "published": "Sat, 31 Jan 2026 12:33:42 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -320,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "ShinyHunters Expands Scope of SaaS Extortion Attacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks",
+      "summary": "Following its attacks on Salesforce instances last year, members of the cybercrime group have broadened their targeting and gotten more aggressive with extortion tactics.",
+      "published": "Mon, 02 Feb 2026 16:07:57 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation",
       "link": "https://www.darkreading.com/remote-workforce/torq-moves-socs-soar-ai-powered-hyper-automation",
       "summary": "Investors poured $140 million into Torq's Series D Round, raising the startup's valuation to $1.2 billion, to bring AI-based \"hyper automation\" to SOCs.",
@@ -382,16 +393,13 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security",
-      "summary": "A new around of vulnerabilities in the popular AI automation platform could let attackers hijack servers and steal credentials, allowing full takeover.",
-      "published": "Thu, 29 Jan 2026 21:53:01 GMT",
-      "value_score": 38,
-      "value_signals": [
-        "RCE",
-        "High severity"
-      ]
+      "source": "Security Week",
+      "title": "ShinyHunters-Branded Extortion Activity Expands, Escalates",
+      "link": "https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/",
+      "summary": "Hackers rely on evolved vishing and login harvesting to compromise SSO credentials for unauthorized MFA enrollment. The post ShinyHunters-Branded Extortion Activity Expands, Escalates appeared first on SecurityWeek .",
+      "published": "Mon, 02 Feb 2026 15:28:16 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -461,17 +469,6 @@
       "published": "Mon, 02 Feb 2026 09:18:18 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "eScan Antivirus Delivers Malware in Supply Chain Attack",
-      "link": "https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/",
-      "summary": "Hackers compromised a MicroWorld Technologies update server and fed a malicious file to eScan customers. The post eScan Antivirus Delivers Malware in Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Sat, 31 Jan 2026 15:00:00 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Threatpost",

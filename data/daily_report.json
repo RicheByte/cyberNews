@@ -1,72 +1,97 @@
 {
-  "last_updated": "2026-02-02 12:48",
+  "last_updated": "2026-02-02 14:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "multi stage malware",
     "rockwell automation controllogix",
+    "mid market across",
     "microsoft moves closer",
     "chinese tech firms",
     "windows operating systems",
-    "ai assisted platform",
     "former software engineer",
-    "redirect update traffic",
     "windows releases will",
     "twitter whistleblower complaint",
+    "redirect update traffic",
     "means long term",
-    "iranian state interests",
-    "game site nationstates",
     "malicious cyber actors",
-    "national security risk",
-    "utility's update mechanism",
+    "game site nationstates",
+    "glassworm malware loader",
     "data extortion attacks",
     "allowed malicious actors",
     "security solution developed",
-    "raising security concerns"
+    "raising security concerns",
+    "utility's update mechanism",
+    "single update exploit"
   ],
   "trending": [
     {
       "keyword": "multi stage malware",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 42
+      "mentions": 43
+    },
+    {
+      "keyword": "mid market across",
+      "mentions": 1
     },
     {
       "keyword": "microsoft moves closer",
-      "mentions": 1
-    },
-    {
-      "keyword": "chinese tech firms",
-      "mentions": 20
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 250
-    },
-    {
-      "keyword": "ai assisted platform",
-      "mentions": 30
-    },
-    {
-      "keyword": "former software engineer",
-      "mentions": 20
-    },
-    {
-      "keyword": "redirect update traffic",
       "mentions": 2
     },
     {
+      "keyword": "chinese tech firms",
+      "mentions": 21
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 251
+    },
+    {
+      "keyword": "former software engineer",
+      "mentions": 21
+    },
+    {
       "keyword": "windows releases will",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 559
+      "mentions": 560
+    },
+    {
+      "keyword": "redirect update traffic",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
+      "link": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
+      "summary": "Every week brings new discoveries, attacks, and defenses that shape the state of cybersecurity. Some threats are stopped quickly, while others go unseen until they cause real damage. Sometimes a single update, exploit, or mistake changes how we think about risk and protection. Every incident shows how defenders adapt — and how fast attackers try to stay ahead. This week’s recap brings you the",
+      "published": "Mon, 02 Feb 2026 17:29:00 +0530",
+      "value_score": 59,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update",
+        "Botnet",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
+      "link": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
+      "summary": "For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks threats, they play a critical role in stopping cyberattacks before damage is done. The challenge is that many security tools add complexity and cost that most mid-market businesses",
+      "published": "Mon, 02 Feb 2026 17:15:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
@@ -129,22 +154,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
-      "link": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html",
-      "summary": "Cybersecurity researchers have discovered malicious Google Chrome extensions that come with capabilities to hijack affiliate links, steal data, and collect OpenAI ChatGPT authentication tokens. One of the extensions in question is Amazon Ads Blocker (ID: pnpchphmplpdimbllknjoiopmfphellj), which claims to be a tool to browse Amazon without any sponsored content. It was uploaded to the Chrome",
-      "published": "Fri, 30 Jan 2026 19:12:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware",
-      "link": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html",
-      "summary": "Cybersecurity researchers have discovered a new campaign attributed to a China-linked threat actor known as UAT-8099 that took place between late 2025 and early 2026. The activity, discovered by Cisco Talos, has targeted vulnerable Internet Information Services (IIS) servers located across Asia, but with a specific focus on targets in Thailand and Vietnam. The scale of the campaign is currently",
-      "published": "Fri, 30 Jan 2026 17:38:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
+      "summary": "The data breach notification service Have I Been Pwned says that a data breach at the U.S. food chain Panera Bread affected 5.1 million accounts, not 14 million customers as previously reported. [...]",
+      "published": "Mon, 02 Feb 2026 08:46:39 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×3"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -210,15 +228,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/",
       "summary": "A U.S. federal jury has convicted Linwei Ding, a former software engineer at Google, for stealing AI supercomputer data from his employer and secretly sharing it with Chinese tech firms. [...]",
       "published": "Sat, 31 Jan 2026 12:33:42 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cloud storage payment scam floods inboxes with fake renewals",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/",
-      "summary": "Over the past few months, a large-scale cloud storage subscription scam campaign has been targeting users worldwide with repeated emails falsely warning recipients that their photos, files, and accounts are about to be blocked or deleted due to an alleged payment failure. [...]",
-      "published": "Sat, 31 Jan 2026 11:21:32 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -313,7 +322,7 @@
       "source": "Dark Reading",
       "title": "Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation",
       "link": "https://www.darkreading.com/remote-workforce/torq-moves-socs-soar-ai-powered-hyper-automation",
-      "summary": "Investors poured $140 million into Torq's Series D Round, bringing the startup's valuation to $1.2 billion, to bring AI-based \"hyper automation\" to SOCs.",
+      "summary": "Investors poured $140 million into Torq's Series D Round, raising the startup's valuation to $1.2 billion, to bring AI-based \"hyper automation\" to SOCs.",
       "published": "Fri, 30 Jan 2026 22:14:31 GMT",
       "value_score": 10,
       "value_signals": []
@@ -386,6 +395,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack",
+      "link": "https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/",
+      "summary": "A hacker published malicious versions of four established VS Code extensions to distribute a GlassWorm malware loader. The post Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack appeared first on SecurityWeek .",
+      "published": "Mon, 02 Feb 2026 14:12:50 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities",
+      "link": "https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/",
+      "summary": "Poland’s CERT has published a report on the recent attack, providing new details on targeted ICS and attribution. The post Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities appeared first on SecurityWeek .",
+      "published": "Mon, 02 Feb 2026 13:50:53 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Cyber Insights 2026: Malware and Cyberattacks in the Age of AI",
       "link": "https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/",
       "summary": "Security leaders share how artificial intelligence is changing malware, ransomware, and identity-led intrusions, and how defenses must evolve. The post Cyber Insights 2026: Malware and Cyberattacks in the Age of AI appeared first on SecurityWeek .",
@@ -443,28 +472,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Paid for Being Jailed, Google’s $68M Settlement, CISA Chief’s ChatGPT Leak",
-      "link": "https://www.securityweek.com/in-other-news-paid-for-being-jailed-googles-68m-settlement-cisa-chiefs-chatgpt-leak/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Apple updates platform security guide, LastPass detects new phishing wave, CISA withdraws from RSA Conference. The post In Other News: Paid for Being Jailed, Google’s $68M Settlement, CISA Chief’s ChatGPT Leak appeared first on SecurityWeek .",
-      "published": "Fri, 30 Jan 2026 17:49:31 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Breach/leak ×2",
-        "Phishing",
-        "CISA/KEV ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Aisy Launches Out of Stealth to Transform Vulnerability Management",
-      "link": "https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/",
-      "summary": "Aisy has emerged from stealth mode with $2.3 million in seed funding for its AI-assisted platform. The post Aisy Launches Out of Stealth to Transform Vulnerability Management appeared first on SecurityWeek .",
-      "published": "Fri, 30 Jan 2026 15:00:46 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

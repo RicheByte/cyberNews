@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03 08:31",
+  "last_updated": "2026-02-03 10:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,66 +7,78 @@
     "rockwell automation controllogix",
     "mid market across",
     "microsoft moves closer",
-    "redirect update traffic",
+    "infrastructure hosting notepad",
     "2 857 skills",
+    "glassworm malware loader",
     "vulnerabilities earned microsoft's",
     "twitter whistleblower complaint",
+    "sprawling phishing campaign",
+    "hacking group weaponizing",
+    "certain notepad customers",
     "windows operating systems",
-    "utility's update mechanism",
-    "glassworm malware loader",
-    "allowed malicious actors",
-    "infrastructure hosting notepad",
-    "chinese state hackers",
+    "changing malware ransomware",
     "single update exploit",
+    "malicious cyber actors",
     "windows releases will",
     "windows pcs microsoft",
     "enterprise security risks",
-    "unauthorized mfa enrollment",
-    "tool's official registry"
+    "fresh glassworm attack"
   ],
   "trending": [
     {
       "keyword": "firefox ai features",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "mid market across",
-      "mentions": 7
-    },
-    {
-      "keyword": "microsoft moves closer",
       "mentions": 8
     },
     {
-      "keyword": "redirect update traffic",
+      "keyword": "microsoft moves closer",
       "mentions": 9
     },
     {
+      "keyword": "infrastructure hosting notepad",
+      "mentions": 2
+    },
+    {
       "keyword": "2 857 skills",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "glassworm malware loader",
+      "mentions": 8
     },
     {
       "keyword": "vulnerabilities earned microsoft's",
-      "mentions": 57
+      "mentions": 58
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 566
+      "mentions": 567
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 255
-    },
-    {
-      "keyword": "utility's update mechanism",
-      "mentions": 7
+      "keyword": "sprawling phishing campaign",
+      "mentions": 124
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
+      "link": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
+      "summary": "The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenamed Operation Neusploit. Zscaler ThreatLabz said it observed the hacking group weaponizing the shortcoming on January 29, 2026, in attacks targeting users in Ukraine, Slovakia, and Romania, three",
+      "published": "Tue, 03 Feb 2026 14:42:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
@@ -141,17 +153,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
-      "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
-      "summary": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead. \"The attack involved [an] infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org,\" developer Don Ho said. \"The compromise occurred at the hosting",
-      "published": "Mon, 02 Feb 2026 14:25:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×4"
       ]
     },
     {

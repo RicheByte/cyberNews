@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-03 08:31 UTC  
+> **Last Updated:** 2026-02-03 10:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**firefox ai features** • **rockwell automation controllogix** • **mid market across** • **microsoft moves closer** • **redirect update traffic** • **2 857 skills** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **windows operating systems** • **utility's update mechanism** • **glassworm malware loader** • **allowed malicious actors** • **infrastructure hosting notepad** • **chinese state hackers** • **single update exploit** • **windows releases will** • **windows pcs microsoft** • **enterprise security risks** • **unauthorized mfa enrollment** • **tool's official registry**
+**firefox ai features** • **rockwell automation controllogix** • **mid market across** • **microsoft moves closer** • **infrastructure hosting notepad** • **2 857 skills** • **glassworm malware loader** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **hacking group weaponizing** • **certain notepad customers** • **windows operating systems** • **changing malware ransomware** • **single update exploit** • **malicious cyber actors** • **windows releases will** • **windows pcs microsoft** • **enterprise security risks** • **fresh glassworm attack**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks](https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html)
 - [Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox](https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html)
 - [Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group](https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html)
 - [Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users](https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html)
@@ -23,7 +24,6 @@
 - [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
 - [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html)
 - [Securing the Mid-Market Across the Complete Threat Lifecycle](https://thehackernews.com/2026/02/securing-mid-market-across-complete.html)
-- [Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
 
 ### BleepingComputer
 

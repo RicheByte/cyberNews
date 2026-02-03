@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 262,
+      "count": 263,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -112,7 +112,8 @@
         "2026-01-29",
         "2026-01-31",
         "2026-02-01",
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "user named csnemess": {
@@ -150,7 +151,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 255,
+      "count": 256,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -187,7 +188,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 566,
+      "count": 567,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1397,7 +1398,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1415,7 +1416,8 @@
         "2026-01-24",
         "2026-01-27",
         "2026-01-28",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-02-03"
       ]
     },
     "model agnostic abstractions": {
@@ -3003,7 +3005,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4768,7 +4770,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5051,35 +5053,35 @@
       ]
     },
     "microsoft moves closer": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-02",
         "2026-02-03"
       ]
     },
     "windows releases will": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-02",
         "2026-02-03"
       ]
     },
     "mid market across": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-02",
         "2026-02-03"
       ]
     },
     "glassworm malware loader": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-02",
         "2026-02-03"
       ]
     },
     "single update exploit": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-02",
         "2026-02-03"
@@ -5107,7 +5109,7 @@
       ]
     },
     "firefox ai features": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-02",
         "2026-02-03"
@@ -5134,37 +5136,37 @@
       ]
     },
     "2 857 skills": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-03"
       ]
     },
     "fresh glassworm attack": {
-      "count": 2,
-      "dates": [
-        "2026-02-03"
-      ]
-    },
-    "windows pcs microsoft": {
-      "count": 4,
-      "dates": [
-        "2026-02-03"
-      ]
-    },
-    "changing malware ransomware": {
       "count": 3,
       "dates": [
         "2026-02-03"
       ]
     },
+    "windows pcs microsoft": {
+      "count": 5,
+      "dates": [
+        "2026-02-03"
+      ]
+    },
+    "changing malware ransomware": {
+      "count": 4,
+      "dates": [
+        "2026-02-03"
+      ]
+    },
     "infrastructure hosting notepad": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-03"
       ]
     },
     "enterprise security risks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-03"
       ]
@@ -5180,20 +5182,21 @@
       "dates": [
         "2026-02-03"
       ]
+    },
+    "hacking group weaponizing": {
+      "count": 1,
+      "dates": [
+        "2026-02-03"
+      ]
+    },
+    "certain notepad customers": {
+      "count": 1,
+      "dates": [
+        "2026-02-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-25 10:17",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "applications ai agents",
-        "single automation system",
-        "persistent remote access",
-        "executive order signed"
-      ]
-    },
     {
       "timestamp": "2026-01-25 12:33",
       "articles": 56,
@@ -6281,6 +6284,17 @@
         "mid market across",
         "microsoft moves closer",
         "redirect update traffic"
+      ]
+    },
+    {
+      "timestamp": "2026-02-03 10:34",
+      "articles": 56,
+      "top_keywords": [
+        "firefox ai features",
+        "rockwell automation controllogix",
+        "mid market across",
+        "microsoft moves closer",
+        "infrastructure hosting notepad"
       ]
     }
   ]

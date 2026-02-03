@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-02-03 16:45",
+  "last_updated": "2026-02-03 18:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "rapidfort raises 42m",
-    "firefox ai features",
     "grok ai assistant",
     "ai agent identities",
-    "infrastructure hosting notepad",
-    "ai powered automation",
-    "rockwell automation controllogix",
     "cybersecurity company zscaler",
+    "ai powered automation",
+    "mostly marketing materials",
+    "infrastructure hosting notepad",
+    "rockwell automation controllogix",
     "2 857 skills",
     "14 million records",
+    "enterprise security risks",
+    "company will invest",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "resulting ripple effects",
     "hacking group weaponizing",
-    "company will invest",
-    "vulnerability allows hackers",
     "emerging cybersecurity realities",
+    "vulnerability allows hackers",
     "platform s capabilities",
-    "token security shows",
-    "security teams today"
+    "token security shows"
   ],
   "trending": [
     {
       "keyword": "rapidfort raises 42m",
-      "mentions": 1
-    },
-    {
-      "keyword": "firefox ai features",
-      "mentions": 9
-    },
-    {
-      "keyword": "grok ai assistant",
       "mentions": 2
     },
     {
+      "keyword": "grok ai assistant",
+      "mentions": 3
+    },
+    {
       "keyword": "ai agent identities",
+      "mentions": 2
+    },
+    {
+      "keyword": "cybersecurity company zscaler",
+      "mentions": 2
+    },
+    {
+      "keyword": "ai powered automation",
+      "mentions": 2
+    },
+    {
+      "keyword": "mostly marketing materials",
       "mentions": 1
     },
     {
       "keyword": "infrastructure hosting notepad",
-      "mentions": 5
-    },
-    {
-      "keyword": "ai powered automation",
-      "mentions": 1
+      "mentions": 6
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 53
-    },
-    {
-      "keyword": "cybersecurity company zscaler",
-      "mentions": 1
+      "mentions": 54
     },
     {
       "keyword": "2 857 skills",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "14 million records",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
+      "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data. The critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by",
+      "published": "Tue, 03 Feb 2026 22:11:00 +0530",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
@@ -142,15 +154,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
-      "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
-      "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link. The issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addressed in version 2026.1.29 released on January 30, 2026. It has been described as a token exfiltration vulnerability that leads to",
-      "published": "Mon, 02 Feb 2026 21:58:00 +0530",
-      "value_score": 68,
+      "source": "BleepingComputer",
+      "title": "Iron Mountain: Data breach mostly limited to marketing materials",
+      "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
+      "summary": "Iron Mountain, a leading data storage and recovery services company, says that a recent breach claimed by the Everest extortion gang is limited to mostly marketing materials. [...]",
+      "published": "Tue, 03 Feb 2026 11:49:09 -0500",
+      "value_score": 34,
       "value_signals": [
-        "CVE mentioned",
-        "RCE ×3"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -227,11 +238,11 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Mozilla announces switch to disable all Firefox AI features",
-      "link": "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/",
-      "summary": "In response to user feedback on AI integration, Mozilla announced today that the next Firefox release will let users disable AI features entirely or manage them individually. [...]",
-      "published": "Mon, 02 Feb 2026 13:09:13 -0500",
+      "source": "Dark Reading",
+      "title": "Dark Patterns Undermine Security One Click at a Time",
+      "link": "https://www.darkreading.com/cyber-risk/dark-patterns-undermine-security-one-click-at-a-time",
+      "summary": "People trust organizations to do the right thing, but websites’ and apps’ dark patterns pose a hidden threat that can lead to inadequate security behaviors.",
+      "published": "Tue, 03 Feb 2026 16:30:41 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -297,15 +308,6 @@
       "link": "https://www.darkreading.com/threat-intelligence/cyber-expectations-2026-grab-bag-risk",
       "summary": "Security teams need to be thinking about this list of emerging cybersecurity realities to avoid rolling the dice on enterprise security risks (and opportunities).",
       "published": "Fri, 30 Jan 2026 21:14:32 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Tenable Tackles AI Governance, Shadow AI Risks, Data Exposure",
-      "link": "https://www.darkreading.com/cyber-risk/tenable-tackles-ai-governance-shadow-ai-risks-data-exposure",
-      "summary": "The Tenable One AI Exposure add-on discovers unsanctioned AI use in the organization and enforces policy compliance with approved tools.",
-      "published": "Fri, 30 Jan 2026 20:23:53 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -474,6 +476,76 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Synectix LAN 232 TRIO",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an unauthenticated attacker modifying critical device settings or factory resetting the device. The following versions of Synectix LAN 232 TRIO are affected: LAN 232 TRIO vers:all/* (CVE-2026-1633) CVSS Vendor Equipment Vulnerabilities v3 10 Synectix Synectix LAN 232 TRIO Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Critical Manufacturing, Emergency Services, Energy, Inform",
+      "published": "Tue, 03 Feb 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×4",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Mitsubishi Electric FREQSHIP-mini for Windows",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to, modify, delete, or destroy information stored on the system where the affected product is installed, or cause a denial-of-service condition on the affected system. The following versions of Mitsubishi Electric FREQSHIP-mini for Windows are affected: FREQSHIP-mini for Windows >=8.0.0|<=8.0.2 (CVE-2025-10314) CVSS Vendor Equipment Vulnerabilities v3 8.8 Mitsubishi Electric Mitsub",
+      "published": "Tue, 03 Feb 26 12:00:00 +0000",
+      "value_score": 59,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Avation Light Engine Pro",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take full control of the device. The following versions of Avation Light Engine Pro are affected: Light Engine Pro vers:all/* (CVE-2026-1341) CVSS Vendor Equipment Vulnerabilities v3 9.8 Avation Avation Light Engine Pro Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Australia V",
+      "published": "Tue, 03 Feb 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/02/03/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2019-19006 Sangoma FreePBX Improper Authentication Vulnerability CVE-2021-39935 GitLab Community and Enterprise Editions Server-Side Request Forgery (SSRF) Vulnerability CVE-2025-40551 SolarWinds Web Help Desk Deserialization of Untrusted Data Vulnerability CVE-2025-64328 Sangoma FreePBX OS Command Injection Vulnerability These types of vulnerabilities are ",
+      "published": "Tue, 03 Feb 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "RISS SRL MOMA Seismic Station",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an unauthenticated attacker creating a denial-of-service condition. The following versions of RISS SRL MOMA Seismic Station are affected: MOMA Seismic Station <=v2.4.2520 (CVE-2026-1632) CVSS Vendor Equipment Vulnerabilities v3 9.1 RISS SRL RISS SRL MOMA Seismic Station Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Critical Manufacturing, Dams, Energy, Water and Wastewater, ",
+      "published": "Tue, 03 Feb 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "KiloView Encoder Series",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-01",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to create or delete administrator accounts, granting full administrative control. The following versions of KiloView Encoder Series are affected: Encoder Series E1 hardware Version 1.4 4.7.2516 (CVE-2026-1453) Encoder Series E1 hardware Version 1.6.20 4.7.2511|4.8.2523|4.8.2611|4.6.2400|4.7.2512|4.8.2561|4.8.2554|4.3.2029|4.8.2555|4.6.2408 (CVE-2026-1453) Encoder Series E1-s hardware Version 1",
@@ -502,20 +574,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/01/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-1281 Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living ",
-      "published": "Thu, 29 Jan 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Rockwell Automation ControlLogix",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-03",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition. The following versions of Rockwell Automation ControlLogix are affected: ControlLogix Redundancy Enhanced Module Catalog 1756-RM2 Firmware vers:all/* (CVE-2025-14027) ControlLogix Redundancy Enhanced Module Catalog 1756-RM2XT Firmware vers:all/* (CVE-2025-14027) CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation Rockwell Automation ControlLogix Missing Rel",
@@ -524,64 +582,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Fortinet Releases Guidance to Address Ongoing Exploitation of Authentication Bypass Vulnerability CVE-2026-24858",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/01/28/fortinet-releases-guidance-address-ongoing-exploitation-authentication-bypass-vulnerability-cve-2026",
-      "summary": "Newly disclosed vulnerability Common Vulnerabilities and Exposures (CVE)-2026-24858 [ Common Weakness Enumeration (CWE)-288: Authentication Bypass Using an Alternate Path or Channel ] allows malicious actors with a FortiCloud account and a registered device to log in to separate devices registered to other users in FortiOS, FortiManager, FortiWeb, FortiProxy, and FortiAnalyzer, if FortiCloud single sign on (SSO) is enabled on devices. 1 Users are vulnerable to CVE-2026-24858 even if they updated",
-      "published": "Wed, 28 Jan 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Auth bypass ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "iba Systems ibaPDA",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to perform unauthorized actions on the file system. The following versions of iba Systems ibaPDA are affected: ibaPDA (CVE-2025-14988) CVSS Vendor Equipment Vulnerabilities v3 9.8 iba Systems iba Systems ibaPDA Incorrect Permission Assignment for Critical Resource Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulne",
-      "published": "Tue, 27 Jan 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/01/27/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-24858 Fortinet Multiple Products Authentication Bypass Using an Alternate Path or Channel Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities establis",
-      "published": "Tue, 27 Jan 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Auth bypass",
-        "CISA/KEV ×5",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Johnson Controls Metasys Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-027-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in remote SQL execution, leading to alteration or loss of data. The following versions of Johnson Controls Metasys Products are affected: Metasys Application and Data Server (ADS) (CVE-2025-26385) Metasys Extended Application and Data Server (ADX) (CVE-2025-26385) Metasys LCS8500 (CVE-2025-26385) Metasys NAE8500 (CVE-2025-26385) Metasys System Configuration Tool (SCT) (CVE-2025-26385) Metasys Controller Configuration To",
-      "published": "Tue, 27 Jan 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×5",
         "Multiple CVEs",
         "Exploit wording"
       ]

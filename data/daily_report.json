@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-03 18:50",
+  "last_updated": "2026-02-03 20:30",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "rapidfort raises 42m",
+    "cybersecurity company zscaler",
     "grok ai assistant",
     "ai agent identities",
-    "cybersecurity company zscaler",
-    "ai powered automation",
     "mostly marketing materials",
     "infrastructure hosting notepad",
+    "ai powered automation",
     "rockwell automation controllogix",
-    "2 857 skills",
+    "vulnerability allows hackers",
     "14 million records",
-    "enterprise security risks",
     "company will invest",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "resulting ripple effects",
     "hacking group weaponizing",
-    "emerging cybersecurity realities",
-    "vulnerability allows hackers",
+    "2 857 skills",
+    "ai assisted attack",
     "platform s capabilities",
-    "token security shows"
+    "unauthorized mfa enrollment",
+    "take full control"
   ],
   "trending": [
     {
       "keyword": "rapidfort raises 42m",
-      "mentions": 2
-    },
-    {
-      "keyword": "grok ai assistant",
       "mentions": 3
     },
     {
-      "keyword": "ai agent identities",
-      "mentions": 2
-    },
-    {
       "keyword": "cybersecurity company zscaler",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "ai powered automation",
-      "mentions": 2
+      "keyword": "grok ai assistant",
+      "mentions": 4
+    },
+    {
+      "keyword": "ai agent identities",
+      "mentions": 3
     },
     {
       "keyword": "mostly marketing materials",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "infrastructure hosting notepad",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "ai powered automation",
+      "mentions": 3
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 54
+      "mentions": 55
     },
     {
-      "keyword": "2 857 skills",
-      "mentions": 9
+      "keyword": "vulnerability allows hackers",
+      "mentions": 4
     },
     {
       "keyword": "14 million records",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -155,6 +155,31 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
+      "link": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
+      "summary": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to discover login panels. [...]",
+      "published": "Tue, 03 Feb 2026 15:25:40 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
+      "summary": "CISA has flagged a critical SolarWinds Web Help Desk vulnerability as actively exploited in attacks and ordered federal agencies to patch their systems within three days. [...]",
+      "published": "Tue, 03 Feb 2026 14:37:00 -0500",
+      "value_score": 100,
+      "value_signals": [
+        "Active exploitation",
+        "RCE",
+        "Patch/update",
+        "CISA/KEV ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Iron Mountain: Data breach mostly limited to marketing materials",
       "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
       "summary": "Iron Mountain, a leading data storage and recovery services company, says that a recent breach claimed by the Everest extortion gang is limited to mostly marketing materials. [...]",
@@ -217,31 +242,21 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
-      "summary": "Ukraine's Computer Emergency Response Team (CERT) says that Russian hackers are exploiting CVE-2026-21509, a recently patched vulnerability in multiple versions of Microsoft Office. [...]",
-      "published": "Mon, 02 Feb 2026 16:00:07 -0500",
-      "value_score": 34,
+      "source": "Dark Reading",
+      "title": "8-Minute Access: AI Accelerates Breach of AWS Environment",
+      "link": "https://www.darkreading.com/cloud-security/8-minute-access-ai-aws-environment-breach",
+      "summary": "The AI-assisted attack, which started with exposed credentials from public S3 buckets, rapidly achieved administrative privilges.",
+      "published": "Tue, 03 Feb 2026 16:38:11 GMT",
+      "value_score": 22,
       "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
+        "Breach/leak"
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Malicious MoltBot skills used to push password-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/",
-      "summary": "More than 230 malicious packages for the personal AI assistant OpenClaw (formerly known as Moltbot and ClawdBot) have been published in less than a week on the tool's official registry and on GitHub. [...]",
-      "published": "Mon, 02 Feb 2026 14:11:12 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
       "source": "Dark Reading",
-      "title": "Dark Patterns Undermine Security One Click at a Time",
+      "title": "Dark Patterns Undermine Security, One Click at a Time",
       "link": "https://www.darkreading.com/cyber-risk/dark-patterns-undermine-security-one-click-at-a-time",
-      "summary": "People trust organizations to do the right thing, but websites’ and apps’ dark patterns pose a hidden threat that can lead to inadequate security behaviors.",
+      "summary": "People trust organizations to do the right thing, but some websites and apps have user interfaces that ultimately lead to inadequate security for users.",
       "published": "Tue, 03 Feb 2026 16:30:41 GMT",
       "value_score": 10,
       "value_signals": []
@@ -299,15 +314,6 @@
       "link": "https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child",
       "summary": "Dark Reading asked readers whether agentic AI attacks, advanced deepfake threats, board recognition of cyber as a top priority, or password-less technology adoption would be most likely to become a trending reality for 2026.",
       "published": "Fri, 30 Jan 2026 21:16:15 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Out-of-the-Box Expectations for 2026 Reveal a Grab Bag of Risk",
-      "link": "https://www.darkreading.com/threat-intelligence/cyber-expectations-2026-grab-bag-risk",
-      "summary": "Security teams need to be thinking about this list of emerging cybersecurity realities to avoid rolling the dice on enterprise security risks (and opportunities).",
-      "published": "Fri, 30 Jan 2026 21:14:32 GMT",
       "value_score": 10,
       "value_signals": []
     },

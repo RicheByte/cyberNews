@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-03 18:50 UTC |
+| 🕐 Last Updated | 2026-02-03 20:30 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`rapidfort raises 42m` • `grok ai assistant` • `ai agent identities` • `cybersecurity company zscaler` • `ai powered automation` • `mostly marketing materials` • `infrastructure hosting notepad` • `rockwell automation controllogix` • `2 857 skills` • `14 million records`
+`rapidfort raises 42m` • `cybersecurity company zscaler` • `grok ai assistant` • `ai agent identities` • `mostly marketing materials` • `infrastructure hosting notepad` • `ai powered automation` • `rockwell automation controllogix` • `vulnerability allows hackers` • `14 million records`
 
 ## 📄 Reports
 

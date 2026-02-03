@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-02-03 06:43",
+  "last_updated": "2026-02-03 08:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "multi stage malware",
+    "firefox ai features",
     "rockwell automation controllogix",
     "mid market across",
     "microsoft moves closer",
+    "redirect update traffic",
     "2 857 skills",
-    "firefox ai features",
     "vulnerabilities earned microsoft's",
     "twitter whistleblower complaint",
-    "redirect update traffic",
-    "glassworm malware loader",
-    "three stage plan",
     "windows operating systems",
-    "allowed malicious actors",
-    "security solution developed",
     "utility's update mechanism",
-    "single update exploit",
+    "glassworm malware loader",
+    "allowed malicious actors",
+    "infrastructure hosting notepad",
     "chinese state hackers",
+    "single update exploit",
     "windows releases will",
     "windows pcs microsoft",
-    "changing malware ransomware"
+    "enterprise security risks",
+    "unauthorized mfa enrollment",
+    "tool's official registry"
   ],
   "trending": [
     {
-      "keyword": "multi stage malware",
-      "mentions": 10
+      "keyword": "firefox ai features",
+      "mentions": 5
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "mid market across",
-      "mentions": 6
-    },
-    {
-      "keyword": "microsoft moves closer",
       "mentions": 7
     },
     {
-      "keyword": "2 857 skills",
-      "mentions": 3
+      "keyword": "microsoft moves closer",
+      "mentions": 8
     },
     {
-      "keyword": "firefox ai features",
+      "keyword": "redirect update traffic",
+      "mentions": 9
+    },
+    {
+      "keyword": "2 857 skills",
       "mentions": 4
     },
     {
       "keyword": "vulnerabilities earned microsoft's",
-      "mentions": 56
+      "mentions": 57
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 565
+      "mentions": 566
     },
     {
-      "keyword": "redirect update traffic",
-      "mentions": 8
+      "keyword": "windows operating systems",
+      "mentions": 255
     },
     {
-      "keyword": "glassworm malware loader",
-      "mentions": 6
+      "keyword": "utility's update mechanism",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
+      "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
+      "summary": "Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features. \"It provides a single place to block current and future generative AI features in Firefox,\" Ajit Varma, head of Firefox, said. \"You can also review and manage individual AI features if you choose to use them. This",
+      "published": "Tue, 03 Feb 2026 11:09:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
@@ -143,17 +152,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×4"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
-      "link": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
-      "summary": "The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been compromised by unknown attackers to deliver a persistent downloader to enterprise and consumer systems. \"Malicious updates were distributed through eScan's legitimate update infrastructure, resulting in the deployment of multi-stage malware to enterprise",
-      "published": "Mon, 02 Feb 2026 11:17:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
       ]
     },
     {

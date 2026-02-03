@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-03 06:43 UTC |
+| 🕐 Last Updated | 2026-02-03 08:31 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`multi stage malware` • `rockwell automation controllogix` • `mid market across` • `microsoft moves closer` • `2 857 skills` • `firefox ai features` • `vulnerabilities earned microsoft's` • `twitter whistleblower complaint` • `redirect update traffic` • `glassworm malware loader`
+`firefox ai features` • `rockwell automation controllogix` • `mid market across` • `microsoft moves closer` • `redirect update traffic` • `2 857 skills` • `vulnerabilities earned microsoft's` • `twitter whistleblower complaint` • `windows operating systems` • `utility's update mechanism`
 
 ## 📄 Reports
 

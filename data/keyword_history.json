@@ -150,7 +150,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 254,
+      "count": 255,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -187,7 +187,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 565,
+      "count": 566,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3003,7 +3003,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4768,7 +4768,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5018,7 +5018,7 @@
       ]
     },
     "redirect update traffic": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-02",
         "2026-02-03"
@@ -5037,49 +5037,49 @@
       ]
     },
     "utility's update mechanism": {
-      "count": 6,
-      "dates": [
-        "2026-02-02",
-        "2026-02-03"
-      ]
-    },
-    "allowed malicious actors": {
-      "count": 8,
-      "dates": [
-        "2026-02-02",
-        "2026-02-03"
-      ]
-    },
-    "microsoft moves closer": {
       "count": 7,
       "dates": [
         "2026-02-02",
         "2026-02-03"
       ]
     },
+    "allowed malicious actors": {
+      "count": 9,
+      "dates": [
+        "2026-02-02",
+        "2026-02-03"
+      ]
+    },
+    "microsoft moves closer": {
+      "count": 8,
+      "dates": [
+        "2026-02-02",
+        "2026-02-03"
+      ]
+    },
     "windows releases will": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-02",
         "2026-02-03"
       ]
     },
     "mid market across": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-02",
         "2026-02-03"
       ]
     },
     "glassworm malware loader": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-02",
         "2026-02-03"
       ]
     },
     "single update exploit": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-02",
         "2026-02-03"
@@ -5093,7 +5093,7 @@
       ]
     },
     "chinese state hackers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-02",
         "2026-02-03"
@@ -5107,7 +5107,7 @@
       ]
     },
     "firefox ai features": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-02",
         "2026-02-03"
@@ -5134,7 +5134,7 @@
       ]
     },
     "2 857 skills": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-03"
       ]
@@ -5146,7 +5146,7 @@
       ]
     },
     "windows pcs microsoft": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-03"
       ]
@@ -5156,20 +5156,33 @@
       "dates": [
         "2026-02-03"
       ]
+    },
+    "infrastructure hosting notepad": {
+      "count": 1,
+      "dates": [
+        "2026-02-03"
+      ]
+    },
+    "enterprise security risks": {
+      "count": 1,
+      "dates": [
+        "2026-02-03"
+      ]
+    },
+    "unauthorized mfa enrollment": {
+      "count": 1,
+      "dates": [
+        "2026-02-03"
+      ]
+    },
+    "tool's official registry": {
+      "count": 1,
+      "dates": [
+        "2026-02-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-25 08:21",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "applications ai agents",
-        "single automation system",
-        "persistent remote access",
-        "executive order signed"
-      ]
-    },
     {
       "timestamp": "2026-01-25 10:17",
       "articles": 56,
@@ -6257,6 +6270,17 @@
         "mid market across",
         "microsoft moves closer",
         "2 857 skills"
+      ]
+    },
+    {
+      "timestamp": "2026-02-03 08:31",
+      "articles": 56,
+      "top_keywords": [
+        "firefox ai features",
+        "rockwell automation controllogix",
+        "mid market across",
+        "microsoft moves closer",
+        "redirect update traffic"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-03 06:43 UTC  
+> **Last Updated:** 2026-02-03 08:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**multi stage malware** • **rockwell automation controllogix** • **mid market across** • **microsoft moves closer** • **2 857 skills** • **firefox ai features** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **redirect update traffic** • **glassworm malware loader** • **three stage plan** • **windows operating systems** • **allowed malicious actors** • **security solution developed** • **utility's update mechanism** • **single update exploit** • **chinese state hackers** • **windows releases will** • **windows pcs microsoft** • **changing malware ransomware**
+**firefox ai features** • **rockwell automation controllogix** • **mid market across** • **microsoft moves closer** • **redirect update traffic** • **2 857 skills** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **windows operating systems** • **utility's update mechanism** • **glassworm malware loader** • **allowed malicious actors** • **infrastructure hosting notepad** • **chinese state hackers** • **single update exploit** • **windows releases will** • **windows pcs microsoft** • **enterprise security risks** • **unauthorized mfa enrollment** • **tool's official registry**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox](https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html)
 - [Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group](https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html)
 - [Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users](https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html)
 - [OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
@@ -23,7 +24,6 @@
 - [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html)
 - [Securing the Mid-Market Across the Complete Threat Lifecycle](https://thehackernews.com/2026/02/securing-mid-market-across-complete.html)
 - [Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
-- [eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html)
 
 ### BleepingComputer
 

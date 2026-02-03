@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-03 14:40 UTC |
+| 🕐 Last Updated | 2026-02-03 16:45 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`firefox ai features` • `grok ai assistant` • `rockwell automation controllogix` • `infrastructure hosting notepad` • `glassworm malware loader` • `2 857 skills` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `resulting ripple effects` • `hacking group weaponizing`
+`rapidfort raises 42m` • `firefox ai features` • `grok ai assistant` • `ai agent identities` • `infrastructure hosting notepad` • `ai powered automation` • `rockwell automation controllogix` • `cybersecurity company zscaler` • `2 857 skills` • `14 million records`
 
 ## 📄 Reports
 

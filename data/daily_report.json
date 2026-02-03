@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-02-03 14:40",
+  "last_updated": "2026-02-03 16:45",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "rapidfort raises 42m",
     "firefox ai features",
     "grok ai assistant",
-    "rockwell automation controllogix",
+    "ai agent identities",
     "infrastructure hosting notepad",
-    "glassworm malware loader",
+    "ai powered automation",
+    "rockwell automation controllogix",
+    "cybersecurity company zscaler",
     "2 857 skills",
+    "14 million records",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "resulting ripple effects",
     "hacking group weaponizing",
-    "14 million records",
-    "vulnerability allows hackers",
     "company will invest",
-    "crafted malicious link",
-    "230 malicious packages",
-    "unauthorized mfa enrollment",
-    "tool's official registry",
-    "three stage plan",
-    "tech giant revealed",
-    "shinyhunters expands scope"
+    "vulnerability allows hackers",
+    "emerging cybersecurity realities",
+    "platform s capabilities",
+    "token security shows",
+    "security teams today"
   ],
   "trending": [
     {
+      "keyword": "rapidfort raises 42m",
+      "mentions": 1
+    },
+    {
       "keyword": "firefox ai features",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "grok ai assistant",
+      "mentions": 2
+    },
+    {
+      "keyword": "ai agent identities",
+      "mentions": 1
+    },
+    {
+      "keyword": "infrastructure hosting notepad",
+      "mentions": 5
+    },
+    {
+      "keyword": "ai powered automation",
       "mentions": 1
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 52
+      "mentions": 53
     },
     {
-      "keyword": "infrastructure hosting notepad",
-      "mentions": 4
-    },
-    {
-      "keyword": "glassworm malware loader",
-      "mentions": 10
+      "keyword": "cybersecurity company zscaler",
+      "mentions": 1
     },
     {
       "keyword": "2 857 skills",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 569
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 126
-    },
-    {
-      "keyword": "resulting ripple effects",
-      "mentions": 2
-    },
-    {
-      "keyword": "hacking group weaponizing",
+      "keyword": "14 million records",
       "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
+      "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
+      "summary": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress. Every vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less. This",
+      "published": "Tue, 03 Feb 2026 19:44:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
+      "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
+      "summary": "Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package. Cybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary",
+      "published": "Tue, 03 Feb 2026 19:30:00 +0530",
+      "value_score": 62,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "When Cloud Outages Ripple Across the Internet",
@@ -131,26 +154,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
-      "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
-      "summary": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options. The development comes more than two years after the tech giant revealed its plans to deprecate the legacy technology, citing its susceptibility to weaknesses that could facilitate relay attacks and allow bad",
-      "published": "Mon, 02 Feb 2026 21:29:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
-      "link": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
-      "summary": "Every week brings new discoveries, attacks, and defenses that shape the state of cybersecurity. Some threats are stopped quickly, while others go unseen until they cause real damage. Sometimes a single update, exploit, or mistake changes how we think about risk and protection. Every incident shows how defenders adapt — and how fast attackers try to stay ahead. This week’s recap brings you the",
-      "published": "Mon, 02 Feb 2026 17:29:00 +0530",
-      "value_score": 59,
+      "source": "BleepingComputer",
+      "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
+      "summary": "Autonomous AI agents are creating a new identity blind spot as they operate outside traditional IAM controls. Token Security shows why managing the full lifecycle of AI agent identities is becoming a critical CISO priority. [...]",
+      "published": "Tue, 03 Feb 2026 10:01:11 -0500",
+      "value_score": 18,
       "value_signals": [
-        "Zero-day",
-        "Patch/update",
-        "Botnet",
-        "Exploit wording"
+        "High severity"
       ]
     },
     {
@@ -223,17 +234,6 @@
       "published": "Mon, 02 Feb 2026 13:09:13 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: January update shutdown bug affects more Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/",
-      "summary": "Microsoft has confirmed that a known issue preventing some Windows 11 devices from shutting down also affects Windows 10 systems with Virtual Secure Mode (VSM) enabled. [...]",
-      "published": "Mon, 02 Feb 2026 12:17:30 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Dark Reading",
@@ -311,6 +311,24 @@
     },
     {
       "source": "Security Week",
+      "title": "RADICL Raises $31 Million for vSOC",
+      "link": "https://www.securityweek.com/radicl-raises-31-million-for-vsoc/",
+      "summary": "The company will use the investment to accelerate development of its autonomous virtual security operations center (vSOC). The post RADICL Raises $31 Million for vSOC appeared first on SecurityWeek .",
+      "published": "Tue, 03 Feb 2026 15:32:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "RapidFort Raises $42M to Automate Software Supply Chain Security",
+      "link": "https://www.securityweek.com/rapidfort-raises-42m-to-automate-software-supply-chain-security/",
+      "summary": "The company will use the latest capital to scale its go-to-market efforts and expand its platform’s capabilities. The post RapidFort Raises $42M to Automate Software Supply Chain Security appeared first on SecurityWeek .",
+      "published": "Tue, 03 Feb 2026 14:41:18 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Critical React Native Vulnerability Exploited in the Wild",
       "link": "https://www.securityweek.com/critical-react-native-vulnerability-exploited-in-the-wild/",
       "summary": "Albeit mainly considered a theoretical risk, the flaw has been exploited to disable protections and deliver malware. The post Critical React Native Vulnerability Exploited in the Wild appeared first on SecurityWeek .",
@@ -370,26 +388,6 @@
       "published": "Mon, 02 Feb 2026 15:28:16 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack",
-      "link": "https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/",
-      "summary": "A hacker published malicious versions of four established VS Code extensions to distribute a GlassWorm malware loader. The post Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack appeared first on SecurityWeek .",
-      "published": "Mon, 02 Feb 2026 14:12:50 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities",
-      "link": "https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/",
-      "summary": "Poland’s CERT has published a report on the recent attack, providing new details on targeted ICS and attribution. The post Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities appeared first on SecurityWeek .",
-      "published": "Mon, 02 Feb 2026 13:50:53 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

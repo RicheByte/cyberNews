@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-03 14:40 UTC  
+> **Last Updated:** 2026-02-03 16:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**firefox ai features** • **grok ai assistant** • **rockwell automation controllogix** • **infrastructure hosting notepad** • **glassworm malware loader** • **2 857 skills** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **resulting ripple effects** • **hacking group weaponizing** • **14 million records** • **vulnerability allows hackers** • **company will invest** • **crafted malicious link** • **230 malicious packages** • **unauthorized mfa enrollment** • **tool's official registry** • **three stage plan** • **tech giant revealed** • **shinyhunters expands scope**
+**rapidfort raises 42m** • **firefox ai features** • **grok ai assistant** • **ai agent identities** • **infrastructure hosting notepad** • **ai powered automation** • **rockwell automation controllogix** • **cybersecurity company zscaler** • **2 857 skills** • **14 million records** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **resulting ripple effects** • **hacking group weaponizing** • **company will invest** • **vulnerability allows hackers** • **emerging cybersecurity realities** • **platform s capabilities** • **token security shows** • **security teams today**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate](https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html)
+- [Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package](https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html)
 - [When Cloud Outages Ripple Across the Internet](https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html)
 - [APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks](https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html)
 - [Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox](https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html)
 - [Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group](https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html)
 - [Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users](https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html)
 - [OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
-- [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
-- [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html)
 
 ### BleepingComputer
 
+- [AI Agent Identity Management: A New Security Control Plane for CISOs](https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/)
 - [UK privacy watchdog probes Grok over AI-generated sexual images](https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/)
 - [Hackers exploit critical React Native Metro bug to breach dev systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/)
 - [French prosecutors raid X offices, summon Musk over Grok deepfakes](https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/)
@@ -34,7 +35,6 @@
 - [Russian hackers exploit recently patched Microsoft Office bug in attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/)
 - [Malicious MoltBot skills used to push password-stealing malware](https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/)
 - [Mozilla announces switch to disable all Firefox AI features](https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/)
-- [Microsoft: January update shutdown bug affects more Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/)
 
 ### Dark Reading
 
@@ -49,14 +49,14 @@
 
 ### Security Week
 
+- [RADICL Raises $31 Million for vSOC](https://www.securityweek.com/radicl-raises-31-million-for-vsoc/)
+- [RapidFort Raises $42M to Automate Software Supply Chain Security](https://www.securityweek.com/rapidfort-raises-42m-to-automate-software-supply-chain-security/)
 - [Critical React Native Vulnerability Exploited in the Wild](https://www.securityweek.com/critical-react-native-vulnerability-exploited-in-the-wild/)
 - [Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant](https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/)
 - [Hackers Leak 5.1 Million Panera Bread Records](https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/)
 - [Russia’s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability](https://www.securityweek.com/russias-apt28-rapidly-weaponizes-newly-patched-office-vulnerability/)
 - [Kasada Raises $20 Million for Anti-Bot Expansion](https://www.securityweek.com/kasada-raises-20-million-for-anti-bot-expansion/)
 - [ShinyHunters-Branded Extortion Activity Expands, Escalates](https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/)
-- [Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack](https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/)
-- [Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities](https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/)
 
 ### Threatpost
 

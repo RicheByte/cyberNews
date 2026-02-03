@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-03 20:30 UTC  
+> **Last Updated:** 2026-02-03 22:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**rapidfort raises 42m** • **cybersecurity company zscaler** • **grok ai assistant** • **ai agent identities** • **mostly marketing materials** • **infrastructure hosting notepad** • **ai powered automation** • **rockwell automation controllogix** • **vulnerability allows hackers** • **14 million records** • **company will invest** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **resulting ripple effects** • **hacking group weaponizing** • **2 857 skills** • **ai assisted attack** • **platform s capabilities** • **unauthorized mfa enrollment** • **take full control**
+**rapidfort raises 42m** • **cybersecurity company zscaler** • **grok ai assistant** • **ai agent identities** • **mostly marketing materials** • **infrastructure hosting notepad** • **ai powered automation** • **rockwell automation controllogix** • **vulnerability allows hackers** • **14 million records** • **company will invest** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **resulting ripple effects** • **multistage infection chain** • **hacking group weaponizing** • **2 857 skills** • **platform s capabilities** • **unauthorized mfa enrollment** • **take full control**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Step Finance says compromised execs' devices led to $40M crypto theft](https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/)
 - [Wave of Citrix NetScaler scans use thousands of residential proxies](https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/)
 - [CISA flags critical SolarWinds RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/)
 - [Iron Mountain: Data breach mostly limited to marketing materials](https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/)
@@ -34,18 +35,17 @@
 - [UK privacy watchdog probes Grok over AI-generated sexual images](https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/)
 - [Hackers exploit critical React Native Metro bug to breach dev systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/)
 - [French prosecutors raid X offices, summon Musk over Grok deepfakes](https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/)
-- [New GlassWorm attack targets macOS via compromised OpenVSX extensions](https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/)
 
 ### Dark Reading
 
+- [Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days)
+- [GlassWorm Malware Returns to Shatter Developer Ecosystems](https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems)
 - [8-Minute Access: AI Accelerates Breach of AWS Environment](https://www.darkreading.com/cloud-security/8-minute-access-ai-aws-environment-breach)
 - [Dark Patterns Undermine Security, One Click at a Time](https://www.darkreading.com/cyber-risk/dark-patterns-undermine-security-one-click-at-a-time)
 - [Attackers Harvest Dropbox Logins Via Fake PDF Lures](https://www.darkreading.com/cloud-security/attackers-harvest-dropbox-logins-fake-pdf-lures)
 - [County Pays $600K to Wrongfully Jailed Pen Testers](https://www.darkreading.com/cybersecurity-operations/county-pays-600k-wrongfully-jailed-pen-testers)
 - [Chinese Hackers Hijack Notepad++ Updates for 6 Months](https://www.darkreading.com/application-security/chinese-hackers-hijack-notepad-updates-6-months)
 - [ShinyHunters Expands Scope of SaaS Extortion Attacks](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks)
-- [Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation](https://www.darkreading.com/remote-workforce/torq-moves-socs-soar-ai-powered-hyper-automation)
-- [2026: The Year Agentic AI Becomes the Attack-Surface Poster Child](https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child)
 
 ### Security Week
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03 20:30",
+  "last_updated": "2026-02-03 22:24",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -17,9 +17,9 @@
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "resulting ripple effects",
+    "multistage infection chain",
     "hacking group weaponizing",
     "2 857 skills",
-    "ai assisted attack",
     "platform s capabilities",
     "unauthorized mfa enrollment",
     "take full control"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "rapidfort raises 42m",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "cybersecurity company zscaler",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "grok ai assistant",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "ai agent identities",
-      "mentions": 3
-    },
-    {
-      "keyword": "mostly marketing materials",
-      "mentions": 2
-    },
-    {
-      "keyword": "infrastructure hosting notepad",
-      "mentions": 7
-    },
-    {
-      "keyword": "ai powered automation",
-      "mentions": 3
-    },
-    {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 55
-    },
-    {
-      "keyword": "vulnerability allows hackers",
       "mentions": 4
     },
     {
-      "keyword": "14 million records",
+      "keyword": "mostly marketing materials",
+      "mentions": 3
+    },
+    {
+      "keyword": "infrastructure hosting notepad",
+      "mentions": 8
+    },
+    {
+      "keyword": "ai powered automation",
+      "mentions": 4
+    },
+    {
+      "keyword": "rockwell automation controllogix",
+      "mentions": 56
+    },
+    {
+      "keyword": "vulnerability allows hackers",
       "mentions": 5
+    },
+    {
+      "keyword": "14 million records",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
+      "summary": "Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives. [...]",
+      "published": "Tue, 03 Feb 2026 16:33:23 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
       "link": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
       "summary": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to discover login panels. [...]",
@@ -233,11 +242,20 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
-      "summary": "A new GlassWorm malware attack through compromised OpenVSX extensions focuses on stealing passwords, crypto-wallet data, and developer credentials and configurations from macOS systems. [...]",
-      "published": "Mon, 02 Feb 2026 17:04:19 -0500",
+      "source": "Dark Reading",
+      "title": "Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days",
+      "summary": "APT28's attacks rely on specially crafted Microsoft Rich Text Format (RTF) documents to kick off a multistage infection chain to deliver malicious payloads.",
+      "published": "Tue, 03 Feb 2026 21:52:22 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "GlassWorm Malware Returns to Shatter Developer Ecosystems",
+      "link": "https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems",
+      "summary": "The self-replicating malware has poisoned a fresh set of Open VSX software components, leaving potential downstream victims with infostealer infections.",
+      "published": "Tue, 03 Feb 2026 20:55:51 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -296,24 +314,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks",
       "summary": "Following their attacks on Salesforce instances last year, members of the cybercrime group have broadened their targeting and gotten more aggressive with extortion tactics.",
       "published": "Mon, 02 Feb 2026 16:07:57 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation",
-      "link": "https://www.darkreading.com/remote-workforce/torq-moves-socs-soar-ai-powered-hyper-automation",
-      "summary": "Investors poured $140 million into Torq's Series D Round, raising the startup's valuation to $1.2 billion, to bring AI-based \"hyper automation\" to SOCs.",
-      "published": "Fri, 30 Jan 2026 22:14:31 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "2026: The Year Agentic AI Becomes the Attack-Surface Poster Child",
-      "link": "https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child",
-      "summary": "Dark Reading asked readers whether agentic AI attacks, advanced deepfake threats, board recognition of cyber as a top priority, or password-less technology adoption would be most likely to become a trending reality for 2026.",
-      "published": "Fri, 30 Jan 2026 21:16:15 GMT",
       "value_score": 10,
       "value_signals": []
     },

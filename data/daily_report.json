@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-03 12:48",
+  "last_updated": "2026-02-03 14:40",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
     "firefox ai features",
-    "scattered lapsus shinyhunters",
-    "badbox 2 0",
-    "infrastructure hosting notepad",
+    "grok ai assistant",
     "rockwell automation controllogix",
+    "infrastructure hosting notepad",
     "glassworm malware loader",
     "2 857 skills",
-    "changing malware ransomware",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "resulting ripple effects",
     "hacking group weaponizing",
-    "even swatting executives",
-    "vulnerabilities earned microsoft's",
-    "shinyhunters expands scope",
     "14 million records",
-    "single update exploit",
-    "malicious cyber actors",
-    "enterprise security risks",
-    "unauthorized mfa enrollment"
+    "vulnerability allows hackers",
+    "company will invest",
+    "crafted malicious link",
+    "230 malicious packages",
+    "unauthorized mfa enrollment",
+    "tool's official registry",
+    "three stage plan",
+    "tech giant revealed",
+    "shinyhunters expands scope"
   ],
   "trending": [
     {
       "keyword": "firefox ai features",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 3
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 34
-    },
-    {
-      "keyword": "infrastructure hosting notepad",
-      "mentions": 3
+      "keyword": "grok ai assistant",
+      "mentions": 1
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 51
+      "mentions": 52
+    },
+    {
+      "keyword": "infrastructure hosting notepad",
+      "mentions": 4
     },
     {
       "keyword": "glassworm malware loader",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "2 857 skills",
-      "mentions": 6
-    },
-    {
-      "keyword": "changing malware ransomware",
-      "mentions": 5
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 568
+      "mentions": 569
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 125
+      "mentions": 126
+    },
+    {
+      "keyword": "resulting ripple effects",
+      "mentions": 2
+    },
+    {
+      "keyword": "hacking group weaponizing",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -155,6 +155,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "UK privacy watchdog probes Grok over AI-generated sexual images",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/",
+      "summary": "The United Kingdom's data protection authority launched a formal investigation into X and its Irish subsidiary over reports that the Grok AI assistant was used to generate nonconsensual sexual images. [...]",
+      "published": "Tue, 03 Feb 2026 09:25:50 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/",
+      "summary": "Hackers are targeting developers by exploiting the critical vulnerability CVE-2025-11953 in the Metro server for React Native to deliver malicious payloads for Windows and Linux. [...]",
+      "published": "Tue, 03 Feb 2026 09:00:00 -0500",
+      "value_score": 62,
+      "value_signals": [
+        "CVE mentioned",
+        "Breach/leak",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
       "link": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
       "summary": "French prosecutors have raided X's offices in Paris on Tuesday as part of a criminal investigation into the platform's Grok AI tool, widely used to generate sexually explicit images. [...]",
@@ -213,111 +236,6 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams",
-      "link": "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/",
-      "summary": "Fake high-yield investment platforms are surging worldwide, promising \"guaranteed\" returns that mask classic Ponzi schemes.CTM360 explains how HYIP scams scale through social media, recycled templates, and referral abuse. [...]",
-      "published": "Mon, 02 Feb 2026 10:34:44 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Notepad++ update feature hijacked by Chinese state hackers for months",
-      "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/",
-      "summary": "Chinese state-sponsored threat actors were likely behind the hijacking of Notepad++ update traffic last year that lasted for almost half a year, the developer states in an official announcement today. [...]",
-      "published": "Mon, 02 Feb 2026 09:53:52 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
-      "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
-      "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
-      "published": "Tue, 20 Jan 2026 18:19:13 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, January 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-      "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
-      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
-      "value_score": 40,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Botnet",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
       "source": "Dark Reading",
       "title": "Attackers Harvest Dropbox Logins Via Fake PDF Lures",
       "link": "https://www.darkreading.com/cloud-security/attackers-harvest-dropbox-logins-fake-pdf-lures",
@@ -350,7 +268,7 @@
       "source": "Dark Reading",
       "title": "ShinyHunters Expands Scope of SaaS Extortion Attacks",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks",
-      "summary": "Following its attacks on Salesforce instances last year, members of the cybercrime group have broadened their targeting and gotten more aggressive with extortion tactics.",
+      "summary": "Following their attacks on Salesforce instances last year, members of the cybercrime group have broadened their targeting and gotten more aggressive with extortion tactics.",
       "published": "Mon, 02 Feb 2026 16:07:57 GMT",
       "value_score": 10,
       "value_signals": []
@@ -390,6 +308,30 @@
       "published": "Fri, 30 Jan 2026 20:23:53 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical React Native Vulnerability Exploited in the Wild",
+      "link": "https://www.securityweek.com/critical-react-native-vulnerability-exploited-in-the-wild/",
+      "summary": "Albeit mainly considered a theoretical risk, the flaw has been exploited to disable protections and deliver malware. The post Critical React Native Vulnerability Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Tue, 03 Feb 2026 14:00:00 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "Active exploitation ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant",
+      "link": "https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/",
+      "summary": "OpenClaw (aka Moltbot and Clawdbot) is vulnerable to one-click remote code execution attacks. The post Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant appeared first on SecurityWeek .",
+      "published": "Tue, 03 Feb 2026 13:44:55 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
     },
     {
       "source": "Security Week",
@@ -448,26 +390,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyber Insights 2026: Malware and Cyberattacks in the Age of AI",
-      "link": "https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/",
-      "summary": "Security leaders share how artificial intelligence is changing malware, ransomware, and identity-led intrusions, and how defenses must evolve. The post Cyber Insights 2026: Malware and Cyberattacks in the Age of AI appeared first on SecurityWeek .",
-      "published": "Mon, 02 Feb 2026 12:00:00 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Over 1,400 MongoDB Databases Ransacked by Threat Actor",
-      "link": "https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/",
-      "summary": "Of 3,100 unprotected MongoDB instances, half remain compromised, most of them by a single threat actor. The post Over 1,400 MongoDB Databases Ransacked by Threat Actor appeared first on SecurityWeek .",
-      "published": "Mon, 02 Feb 2026 11:45:56 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

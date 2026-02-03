@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-03 12:48 UTC  
+> **Last Updated:** 2026-02-03 14:40 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**firefox ai features** • **scattered lapsus shinyhunters** • **badbox 2 0** • **infrastructure hosting notepad** • **rockwell automation controllogix** • **glassworm malware loader** • **2 857 skills** • **changing malware ransomware** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **resulting ripple effects** • **hacking group weaponizing** • **even swatting executives** • **vulnerabilities earned microsoft's** • **shinyhunters expands scope** • **14 million records** • **single update exploit** • **malicious cyber actors** • **enterprise security risks** • **unauthorized mfa enrollment**
+**firefox ai features** • **grok ai assistant** • **rockwell automation controllogix** • **infrastructure hosting notepad** • **glassworm malware loader** • **2 857 skills** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **resulting ripple effects** • **hacking group weaponizing** • **14 million records** • **vulnerability allows hackers** • **company will invest** • **crafted malicious link** • **230 malicious packages** • **unauthorized mfa enrollment** • **tool's official registry** • **three stage plan** • **tech giant revealed** • **shinyhunters expands scope**
 
 ---
 
@@ -27,25 +27,14 @@
 
 ### BleepingComputer
 
+- [UK privacy watchdog probes Grok over AI-generated sexual images](https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/)
+- [Hackers exploit critical React Native Metro bug to breach dev systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/)
 - [French prosecutors raid X offices, summon Musk over Grok deepfakes](https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/)
 - [New GlassWorm attack targets macOS via compromised OpenVSX extensions](https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/)
 - [Russian hackers exploit recently patched Microsoft Office bug in attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/)
 - [Malicious MoltBot skills used to push password-stealing malware](https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/)
 - [Mozilla announces switch to disable all Firefox AI features](https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/)
 - [Microsoft: January update shutdown bug affects more Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/)
-- [CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams](https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/)
-- [Notepad++ update feature hijacked by Chinese state hackers for months](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/)
-
-### Krebs on Security
-
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
-- [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
-- [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
-- [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
-- [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
-- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
-- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 ### Dark Reading
 
@@ -60,14 +49,14 @@
 
 ### Security Week
 
+- [Critical React Native Vulnerability Exploited in the Wild](https://www.securityweek.com/critical-react-native-vulnerability-exploited-in-the-wild/)
+- [Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant](https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/)
 - [Hackers Leak 5.1 Million Panera Bread Records](https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/)
 - [Russia’s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability](https://www.securityweek.com/russias-apt28-rapidly-weaponizes-newly-patched-office-vulnerability/)
 - [Kasada Raises $20 Million for Anti-Bot Expansion](https://www.securityweek.com/kasada-raises-20-million-for-anti-bot-expansion/)
 - [ShinyHunters-Branded Extortion Activity Expands, Escalates](https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/)
 - [Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack](https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/)
 - [Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities](https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/)
-- [Cyber Insights 2026: Malware and Cyberattacks in the Age of AI](https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/)
-- [Over 1,400 MongoDB Databases Ransacked by Threat Actor](https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/)
 
 ### Threatpost
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-03 04:11 UTC  
+> **Last Updated:** 2026-02-03 06:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**multi stage malware** • **scattered lapsus shinyhunters** • **badbox 2 0** • **rockwell automation controllogix** • **mid market across** • **microsoft moves closer** • **2 857 skills** • **glassworm malware loader** • **redirect update traffic** • **firefox ai features** • **twitter whistleblower complaint** • **even swatting executives** • **fresh glassworm attack** • **changing malware ransomware** • **allowed malicious actors** • **vulnerabilities earned microsoft's** • **three stage plan** • **shinyhunters expands scope** • **windows releases will** • **windows pcs microsoft**
+**multi stage malware** • **rockwell automation controllogix** • **mid market across** • **microsoft moves closer** • **2 857 skills** • **firefox ai features** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **redirect update traffic** • **glassworm malware loader** • **three stage plan** • **windows operating systems** • **allowed malicious actors** • **security solution developed** • **utility's update mechanism** • **single update exploit** • **chinese state hackers** • **windows releases will** • **windows pcs microsoft** • **changing malware ransomware**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group](https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html)
 - [Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users](https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html)
 - [OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
 - [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
@@ -23,7 +24,6 @@
 - [Securing the Mid-Market Across the Complete Threat Lifecycle](https://thehackernews.com/2026/02/securing-mid-market-across-complete.html)
 - [Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
 - [eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html)
-- [Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html)
 
 ### BleepingComputer
 
@@ -38,14 +38,14 @@
 
 ### Krebs on Security
 
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-03 10:34 UTC |
+| 🕐 Last Updated | 2026-02-03 12:48 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`firefox ai features` • `rockwell automation controllogix` • `mid market across` • `microsoft moves closer` • `infrastructure hosting notepad` • `2 857 skills` • `glassworm malware loader` • `vulnerabilities earned microsoft's` • `twitter whistleblower complaint` • `sprawling phishing campaign`
+`firefox ai features` • `scattered lapsus shinyhunters` • `badbox 2 0` • `infrastructure hosting notepad` • `rockwell automation controllogix` • `glassworm malware loader` • `2 857 skills` • `changing malware ransomware` • `twitter whistleblower complaint` • `sprawling phishing campaign`
 
 ## 📄 Reports
 

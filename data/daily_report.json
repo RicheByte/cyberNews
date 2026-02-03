@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-02-03 10:34",
+  "last_updated": "2026-02-03 12:48",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "firefox ai features",
-    "rockwell automation controllogix",
-    "mid market across",
-    "microsoft moves closer",
+    "scattered lapsus shinyhunters",
+    "badbox 2 0",
     "infrastructure hosting notepad",
-    "2 857 skills",
+    "rockwell automation controllogix",
     "glassworm malware loader",
-    "vulnerabilities earned microsoft's",
+    "2 857 skills",
+    "changing malware ransomware",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
+    "resulting ripple effects",
     "hacking group weaponizing",
-    "certain notepad customers",
-    "windows operating systems",
-    "changing malware ransomware",
+    "even swatting executives",
+    "vulnerabilities earned microsoft's",
+    "shinyhunters expands scope",
+    "14 million records",
     "single update exploit",
     "malicious cyber actors",
-    "windows releases will",
-    "windows pcs microsoft",
     "enterprise security risks",
-    "fresh glassworm attack"
+    "unauthorized mfa enrollment"
   ],
   "trending": [
     {
       "keyword": "firefox ai features",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 50
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 3
     },
     {
-      "keyword": "mid market across",
-      "mentions": 8
-    },
-    {
-      "keyword": "microsoft moves closer",
-      "mentions": 9
+      "keyword": "badbox 2 0",
+      "mentions": 34
     },
     {
       "keyword": "infrastructure hosting notepad",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "2 857 skills",
-      "mentions": 5
+      "keyword": "rockwell automation controllogix",
+      "mentions": 51
     },
     {
       "keyword": "glassworm malware loader",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "vulnerabilities earned microsoft's",
-      "mentions": 58
+      "keyword": "2 857 skills",
+      "mentions": 6
+    },
+    {
+      "keyword": "changing malware ransomware",
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 567
+      "mentions": 568
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 124
+      "mentions": 125
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "When Cloud Outages Ripple Across the Internet",
+      "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
+      "summary": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other systems depend on. The resulting ripple effects have halted applications and workflows that many organizations rely on every day. For consumers, these outages are",
+      "published": "Tue, 03 Feb 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
@@ -145,15 +154,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
-      "link": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
-      "summary": "For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks threats, they play a critical role in stopping cyberattacks before damage is done. The challenge is that many security tools add complexity and cost that most mid-market businesses",
-      "published": "Mon, 02 Feb 2026 17:15:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
+      "source": "BleepingComputer",
+      "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
+      "link": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
+      "summary": "French prosecutors have raided X's offices in Paris on Tuesday as part of a criminal investigation into the platform's Grok AI tool, widely used to generate sexually explicit images. [...]",
+      "published": "Tue, 03 Feb 2026 07:43:37 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -226,14 +233,23 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers",
-      "link": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
-      "summary": "The data breach notification service Have I Been Pwned says that a data breach at the U.S. food chain Panera Bread affected 5.1 million accounts, not 14 million customers as previously reported. [...]",
-      "published": "Mon, 02 Feb 2026 08:46:39 -0500",
-      "value_score": 34,
+      "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
       "value_signals": [
-        "Breach/leak ×3"
+        "Botnet ×3"
       ]
     },
     {
@@ -300,28 +316,6 @@
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Dark Reading",
@@ -399,6 +393,35 @@
     },
     {
       "source": "Security Week",
+      "title": "Hackers Leak 5.1 Million Panera Bread Records",
+      "link": "https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/",
+      "summary": "ShinyHunters has claimed the theft of 14 million records from the US bakery-cafe chain’s systems. The post Hackers Leak 5.1 Million Panera Bread Records appeared first on SecurityWeek .",
+      "published": "Tue, 03 Feb 2026 12:16:31 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Russia’s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability",
+      "link": "https://www.securityweek.com/russias-apt28-rapidly-weaponizes-newly-patched-office-vulnerability/",
+      "summary": "The attacks targeting Europe were analyzed by Ukraine’s CERT-UA and the cybersecurity company Zscaler. The post Russia’s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability appeared first on SecurityWeek .",
+      "published": "Tue, 03 Feb 2026 11:22:52 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Kasada Raises $20 Million for Anti-Bot Expansion",
+      "link": "https://www.securityweek.com/kasada-raises-20-million-for-anti-bot-expansion/",
+      "summary": "The company will invest in market expansion and accelerating product capabilities. The post Kasada Raises $20 Million for Anti-Bot Expansion appeared first on SecurityWeek .",
+      "published": "Tue, 03 Feb 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "ShinyHunters-Branded Extortion Activity Expands, Escalates",
       "link": "https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/",
       "summary": "Hackers rely on evolved vishing and login harvesting to compromise SSO credentials for unauthorized MFA enrollment. The post ShinyHunters-Branded Extortion Activity Expands, Escalates appeared first on SecurityWeek .",
@@ -443,35 +466,6 @@
       "link": "https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/",
       "summary": "Of 3,100 unprotected MongoDB instances, half remain compromised, most of them by a single threat actor. The post Over 1,400 MongoDB Databases Ransacked by Threat Actor appeared first on SecurityWeek .",
       "published": "Mon, 02 Feb 2026 11:45:56 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Moves Closer to Disabling NTLM",
-      "link": "https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/",
-      "summary": "The next major Windows Server and Windows releases will have the deprecated authentication protocol disabled by default. The post Microsoft Moves Closer to Disabling NTLM appeared first on SecurityWeek .",
-      "published": "Mon, 02 Feb 2026 11:31:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China’s Influence Grows",
-      "link": "https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/",
-      "summary": "Japan and Britain agree to accelerate cooperation on cybersecurity and the supply of critical minerals, as China’s influence grows in the region. The post Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China’s Influence Grows appeared first on SecurityWeek .",
-      "published": "Mon, 02 Feb 2026 10:35:00 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Notepad++ Supply Chain Hack Conducted by China via Hosting Provider",
-      "link": "https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/",
-      "summary": "The likely state-sponsored threat actor had access to the hosting provider for months and targeted only certain Notepad++ customers. The post Notepad++ Supply Chain Hack Conducted by China via Hosting Provider appeared first on SecurityWeek .",
-      "published": "Mon, 02 Feb 2026 09:18:18 +0000",
       "value_score": 10,
       "value_signals": []
     },

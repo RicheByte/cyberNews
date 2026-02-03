@@ -187,7 +187,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 563,
+      "count": 564,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3003,7 +3003,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4346,7 +4346,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4355,7 +4355,8 @@
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "ai generated backdoor": {
@@ -4767,7 +4768,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5003,7 +5004,7 @@
       ]
     },
     "multi stage malware": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-02",
         "2026-02-03"
@@ -5017,7 +5018,7 @@
       ]
     },
     "redirect update traffic": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-02",
         "2026-02-03"
@@ -5043,35 +5044,35 @@
       ]
     },
     "allowed malicious actors": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-02",
         "2026-02-03"
       ]
     },
     "microsoft moves closer": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-02",
         "2026-02-03"
       ]
     },
     "windows releases will": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-02",
         "2026-02-03"
       ]
     },
     "mid market across": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-02",
         "2026-02-03"
       ]
     },
     "glassworm malware loader": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-02",
         "2026-02-03"
@@ -5085,7 +5086,7 @@
       ]
     },
     "three stage plan": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-02",
         "2026-02-03"
@@ -5098,13 +5099,14 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "firefox ai features": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-02",
         "2026-02-03"
@@ -5117,54 +5119,45 @@
       ]
     },
     "even swatting executives": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "shinyhunters expands scope": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "2 857 skills": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-03"
       ]
     },
     "fresh glassworm attack": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-03"
       ]
     },
     "windows pcs microsoft": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-03"
       ]
     },
     "changing malware ransomware": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-03"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-25 04:48",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "applications ai agents",
-        "single automation system",
-        "persistent remote access",
-        "executive order signed"
-      ]
-    },
     {
       "timestamp": "2026-01-25 06:25",
       "articles": 56,
@@ -6252,6 +6245,17 @@
         "mid market across",
         "microsoft moves closer",
         "2 857 skills"
+      ]
+    },
+    {
+      "timestamp": "2026-02-03 04:11",
+      "articles": 56,
+      "top_keywords": [
+        "multi stage malware",
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "rockwell automation controllogix",
+        "mid market across"
       ]
     }
   ]

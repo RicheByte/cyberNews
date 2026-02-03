@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-01-04",
     "2026-01-05",
     "2026-01-06",
     "2026-01-07",
@@ -29,7 +28,8 @@
     "2026-01-30",
     "2026-01-31",
     "2026-02-01",
-    "2026-02-02"
+    "2026-02-02",
+    "2026-02-03"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -150,7 +150,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 252,
+      "count": 253,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -182,11 +182,12 @@
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 562,
+      "count": 563,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -235,7 +236,8 @@
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "supposed wayward package": {
@@ -3001,7 +3003,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3013,7 +3015,8 @@
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "final patch tuesday": {
@@ -4764,13 +4767,14 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-01-29",
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "residential networks across": {
@@ -4999,21 +5003,24 @@
       ]
     },
     "multi stage malware": {
-      "count": 7,
+      "count": 8,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "security solution developed": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "redirect update traffic": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "iranian state interests": {
@@ -5029,51 +5036,59 @@
       ]
     },
     "utility's update mechanism": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "allowed malicious actors": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "microsoft moves closer": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "windows releases will": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "mid market across": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "glassworm malware loader": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "single update exploit": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "three stage plan": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "chinese state hackers": {
@@ -5089,9 +5104,10 @@
       ]
     },
     "firefox ai features": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-03"
       ]
     },
     "openclaw formerly referred": {
@@ -5111,20 +5127,33 @@
       "dates": [
         "2026-02-02"
       ]
+    },
+    "2 857 skills": {
+      "count": 1,
+      "dates": [
+        "2026-02-03"
+      ]
+    },
+    "fresh glassworm attack": {
+      "count": 1,
+      "dates": [
+        "2026-02-03"
+      ]
+    },
+    "windows pcs microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-02-03"
+      ]
+    },
+    "changing malware ransomware": {
+      "count": 1,
+      "dates": [
+        "2026-02-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-25 03:49",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "applications ai agents",
-        "single automation system",
-        "persistent remote access",
-        "executive order signed"
-      ]
-    },
     {
       "timestamp": "2026-01-25 04:48",
       "articles": 56,
@@ -6212,6 +6241,17 @@
         "multi stage malware",
         "rockwell automation controllogix",
         "redirect update traffic"
+      ]
+    },
+    {
+      "timestamp": "2026-02-03 01:47",
+      "articles": 56,
+      "top_keywords": [
+        "multi stage malware",
+        "rockwell automation controllogix",
+        "mid market across",
+        "microsoft moves closer",
+        "2 857 skills"
       ]
     }
   ]

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-02-02 18:36",
+  "last_updated": "2026-02-03 01:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "scattered lapsus shinyhunters",
-    "badbox 2 0",
     "multi stage malware",
     "rockwell automation controllogix",
-    "redirect update traffic",
     "mid market across",
     "microsoft moves closer",
-    "firefox ai features",
-    "twitter whistleblower complaint",
-    "openclaw formerly referred",
-    "means long term",
+    "2 857 skills",
     "glassworm malware loader",
-    "game site nationstates",
-    "even swatting executives",
+    "firefox ai features",
     "vulnerabilities earned microsoft's",
-    "three stage plan",
-    "shinyhunters expands scope",
-    "malicious cyber actors",
+    "twitter whistleblower complaint",
+    "redirect update traffic",
     "allowed malicious actors",
-    "chinese state hackers"
+    "fresh glassworm attack",
+    "three stage plan",
+    "windows operating systems",
+    "security solution developed",
+    "utility's update mechanism",
+    "single update exploit",
+    "windows releases will",
+    "windows pcs microsoft",
+    "changing malware ransomware"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 1
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 32
-    },
-    {
       "keyword": "multi stage malware",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 45
-    },
-    {
-      "keyword": "redirect update traffic",
-      "mentions": 5
+      "mentions": 46
     },
     {
       "keyword": "mid market across",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "microsoft moves closer",
+      "mentions": 5
+    },
+    {
+      "keyword": "2 857 skills",
+      "mentions": 1
+    },
+    {
+      "keyword": "glassworm malware loader",
       "mentions": 4
     },
     {
       "keyword": "firefox ai features",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "vulnerabilities earned microsoft's",
+      "mentions": 54
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 562
+      "mentions": 563
     },
     {
-      "keyword": "openclaw formerly referred",
-      "mentions": 1
+      "keyword": "redirect update traffic",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
+      "link": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
+      "summary": "A security audit of 2,857 skills on ClawHub has found 341 malicious skills across multiple campaigns, according to new findings from Koi Security, exposing users to new supply chain risks. ClawHub is a marketplace designed to make it easy for OpenClaw users to find and install third-party skills. It's an extension to the OpenClaw project, a self-hosted artificial intelligence (AI) assistant",
+      "published": "Mon, 02 Feb 2026 23:19:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
@@ -145,11 +154,32 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
-      "link": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html",
-      "summary": "A Farsi-speaking threat actor aligned with Iranian state interests is suspected to be behind a new campaign targeting non-governmental organizations and individuals involved in documenting recent human rights abuses. The activity, observed by HarfangLab in January 2026, has been codenamed RedKitten. It's said to coincide with the nationwide unrest in Iran that began towards the end of 2025,",
-      "published": "Sat, 31 Jan 2026 17:32:00 +0530",
+      "source": "BleepingComputer",
+      "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
+      "summary": "A new GlassWorm malware attack through compromised OpenVSX extensions focuses on stealing passwords, crypto-wallet data, and developer credentials and configurations from macOS systems. [...]",
+      "published": "Mon, 02 Feb 2026 17:04:19 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
+      "summary": "Ukraine's Computer Emergency Response Team (CERT) says that Russian hackers are exploiting CVE-2026-21509, a recently patched vulnerability in multiple versions of Microsoft Office. [...]",
+      "published": "Mon, 02 Feb 2026 16:00:07 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Malicious MoltBot skills used to push password-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/",
+      "summary": "More than 230 malicious packages for the personal AI assistant OpenClaw (formerly known as Moltbot and ClawdBot) have been published in less than a week on the tool's official registry and on GitHub. [...]",
+      "published": "Mon, 02 Feb 2026 14:11:12 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -202,57 +232,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes bug causing password sign-in option to disappear",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
-      "summary": "Microsoft has fixed a known issue that was causing the password sign-in option to disappear from the lock screen options after installing Windows 11 updates released since August 2025. [...]",
-      "published": "Mon, 02 Feb 2026 06:34:34 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NationStates confirms data breach, shuts down game site",
-      "link": "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/",
-      "summary": "NationStates, a multiplayer browser-based game, has confirmed a data breach after taking its website offline earlier this week to investigate a security incident. [...]",
-      "published": "Mon, 02 Feb 2026 05:05:57 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Exposed MongoDB instances still targeted in data extortion attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/",
-      "summary": "A threat actor is targeting exposed MongoDB instances in automated data extortion attacks demanding low ransoms from owners to restore the data. [...]",
-      "published": "Sun, 01 Feb 2026 11:27:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
       ]
     },
     {
@@ -321,6 +300,57 @@
       "value_signals": []
     },
     {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Attackers Harvest Dropbox Logins Via Fake PDF Lures",
+      "link": "https://www.darkreading.com/cloud-security/attackers-harvest-dropbox-logins-fake-pdf-lures",
+      "summary": "A malware-free phishing campaign targets corporate inboxes and asks employees to view \"request orders,\" ultimately leading to Dropbox credential theft.",
+      "published": "Mon, 02 Feb 2026 22:21:33 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "County Pays $600K to Wrongfully Jailed Pen Testers",
+      "link": "https://www.darkreading.com/cybersecurity-operations/county-pays-600k-wrongfully-jailed-pen-testers",
+      "summary": "Iowa police arrested two penetration testers in 2019 for doing their jobs, highlighting the risk to security professionals in red teaming exercises.",
+      "published": "Mon, 02 Feb 2026 21:57:51 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Chinese Hackers Hijack Notepad++ Updates for 6 Months",
+      "link": "https://www.darkreading.com/application-security/chinese-hackers-hijack-notepad-updates-6-months",
+      "summary": "State-sponsored threat actors compromised the popular code editor's hosting provider to redirect targeted users to malicious downloads.",
+      "published": "Mon, 02 Feb 2026 19:57:02 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
       "source": "Dark Reading",
       "title": "ShinyHunters Expands Scope of SaaS Extortion Attacks",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks",
@@ -362,33 +392,6 @@
       "link": "https://www.darkreading.com/cyber-risk/tenable-tackles-ai-governance-shadow-ai-risks-data-exposure",
       "summary": "The Tenable One AI Exposure add-on discovers unsanctioned AI use in the organization and enforces policy compliance with approved tools.",
       "published": "Fri, 30 Jan 2026 20:23:53 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "OpenClaw AI Runs Wild in Business Environments",
-      "link": "https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments",
-      "summary": "The popular open source AI assistant (aka ClawdBot, MoltBot) has taken off, raising security concerns over its privileged, autonomous control within users' computers.",
-      "published": "Fri, 30 Jan 2026 16:40:34 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Chinese APTs Hacking Asian Orgs With High-End Malware",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware",
-      "summary": "Advanced persistent threat (APT) groups have deployed new cyber weapons against a variety of targets, highlighting the increasing threats to the region.",
-      "published": "Fri, 30 Jan 2026 02:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Trump Administration Rescinds Biden-Era Software Guidance",
-      "link": "https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance",
-      "summary": "Federal agencies will no longer be required to solicit software attestations that they comply with NIST's Secure Software Development Framework (SSDF). What that means long term is unclear.",
-      "published": "Thu, 29 Jan 2026 22:25:07 GMT",
       "value_score": 10,
       "value_signals": []
     },

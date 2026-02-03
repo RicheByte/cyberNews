@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-02 18:36 UTC  
+> **Last Updated:** 2026-02-03 01:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **multi stage malware** • **rockwell automation controllogix** • **redirect update traffic** • **mid market across** • **microsoft moves closer** • **firefox ai features** • **twitter whistleblower complaint** • **openclaw formerly referred** • **means long term** • **glassworm malware loader** • **game site nationstates** • **even swatting executives** • **vulnerabilities earned microsoft's** • **three stage plan** • **shinyhunters expands scope** • **malicious cyber actors** • **allowed malicious actors** • **chinese state hackers**
+**multi stage malware** • **rockwell automation controllogix** • **mid market across** • **microsoft moves closer** • **2 857 skills** • **glassworm malware loader** • **firefox ai features** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **redirect update traffic** • **allowed malicious actors** • **fresh glassworm attack** • **three stage plan** • **windows operating systems** • **security solution developed** • **utility's update mechanism** • **single update exploit** • **windows releases will** • **windows pcs microsoft** • **changing malware ransomware**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users](https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html)
 - [OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link](https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html)
 - [Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos](https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html)
 - [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html)
@@ -23,40 +24,39 @@
 - [Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users](https://thehackernews.com/2026/02/notepad-official-update-mechanism.html)
 - [eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html)
 - [Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html)
-- [Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html)
 
 ### BleepingComputer
 
+- [New GlassWorm attack targets macOS via compromised OpenVSX extensions](https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/)
+- [Russian hackers exploit recently patched Microsoft Office bug in attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/)
+- [Malicious MoltBot skills used to push password-stealing malware](https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/)
 - [Mozilla announces switch to disable all Firefox AI features](https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/)
 - [Microsoft: January update shutdown bug affects more Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/)
 - [CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams](https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/)
 - [Notepad++ update feature hijacked by Chinese state hackers for months](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/)
 - [Panera Bread breach impacts 5.1 million accounts, not 14 million customers](https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/)
-- [Microsoft fixes bug causing password sign-in option to disappear](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/)
-- [NationStates confirms data breach, shuts down game site](https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/)
-- [Exposed MongoDB instances still targeted in data extortion attacks](https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/)
 
 ### Krebs on Security
 
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
+- [Attackers Harvest Dropbox Logins Via Fake PDF Lures](https://www.darkreading.com/cloud-security/attackers-harvest-dropbox-logins-fake-pdf-lures)
+- [County Pays $600K to Wrongfully Jailed Pen Testers](https://www.darkreading.com/cybersecurity-operations/county-pays-600k-wrongfully-jailed-pen-testers)
+- [Chinese Hackers Hijack Notepad++ Updates for 6 Months](https://www.darkreading.com/application-security/chinese-hackers-hijack-notepad-updates-6-months)
 - [ShinyHunters Expands Scope of SaaS Extortion Attacks](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks)
 - [Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation](https://www.darkreading.com/remote-workforce/torq-moves-socs-soar-ai-powered-hyper-automation)
 - [2026: The Year Agentic AI Becomes the Attack-Surface Poster Child](https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child)
 - [Out-of-the-Box Expectations for 2026 Reveal a Grab Bag of Risk](https://www.darkreading.com/threat-intelligence/cyber-expectations-2026-grab-bag-risk)
 - [Tenable Tackles AI Governance, Shadow AI Risks, Data Exposure](https://www.darkreading.com/cyber-risk/tenable-tackles-ai-governance-shadow-ai-risks-data-exposure)
-- [OpenClaw AI Runs Wild in Business Environments](https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments)
-- [Chinese APTs Hacking Asian Orgs With High-End Malware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware)
-- [Trump Administration Rescinds Biden-Era Software Guidance](https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance)
 
 ### Security Week
 

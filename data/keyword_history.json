@@ -188,7 +188,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 576,
+      "count": 577,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1399,7 +1399,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3070,10 +3070,11 @@
       ]
     },
     "exfiltrate sensitive data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-14",
-        "2026-01-15"
+        "2026-01-15",
+        "2026-02-04"
       ]
     },
     "microsoft licensing data": {
@@ -4775,7 +4776,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5135,7 +5136,7 @@
       ]
     },
     "shinyhunters expands scope": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5181,7 +5182,7 @@
       ]
     },
     "unauthorized mfa enrollment": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5207,14 +5208,14 @@
       ]
     },
     "resulting ripple effects": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "14 million records": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5228,14 +5229,14 @@
       ]
     },
     "vulnerability allows hackers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "company will invest": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5260,7 +5261,7 @@
       ]
     },
     "rapidfort raises 42m": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5274,14 +5275,14 @@
       ]
     },
     "ai powered automation": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "cybersecurity company zscaler": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5294,7 +5295,7 @@
       ]
     },
     "platform s capabilities": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5326,26 +5327,38 @@
       ]
     },
     "take full control": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "multistage infection chain": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "shatter developer ecosystems": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-04"
       ]
     },
     "self replicating malware": {
+      "count": 2,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "open vsx extensions": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "red teaming exercises": {
       "count": 1,
       "dates": [
         "2026-02-04"
@@ -5353,17 +5366,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-26 06:30",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "applications ai agents",
-        "single automation system",
-        "executive order signed",
-        "executive order 14144"
-      ]
-    },
     {
       "timestamp": "2026-01-26 08:26",
       "articles": 56,
@@ -6450,6 +6452,17 @@
         "infrastructure hosting notepad",
         "ai powered automation",
         "rockwell automation controllogix",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-02-04 08:34",
+      "articles": 40,
+      "top_keywords": [
+        "rapidfort raises 42m",
+        "vulnerability allows hackers",
+        "rockwell automation controllogix",
+        "14 million records",
         "twitter whistleblower complaint"
       ]
     }

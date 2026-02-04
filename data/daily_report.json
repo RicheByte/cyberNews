@@ -1,72 +1,106 @@
 {
-  "last_updated": "2026-02-04 06:43",
+  "last_updated": "2026-02-04 08:34",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 40,
   "keywords": [
     "rapidfort raises 42m",
-    "infrastructure hosting notepad",
-    "ai powered automation",
+    "vulnerability allows hackers",
     "rockwell automation controllogix",
+    "14 million records",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "resulting ripple effects",
+    "open vsx extensions",
     "multistage infection chain",
-    "hacking group weaponizing",
-    "2 857 skills",
-    "14 million records",
+    "exfiltrate sensitive data",
     "cybersecurity company zscaler",
     "company will invest",
-    "platform s capabilities",
-    "internal network behind",
-    "vulnerability allows hackers",
-    "vulnerabilities earned microsoft's",
+    "ai powered automation",
     "unauthorized mfa enrollment",
-    "today we'll dig",
-    "take full control"
+    "take full control",
+    "shinyhunters expands scope",
+    "shatter developer ecosystems",
+    "self replicating malware",
+    "red teaming exercises",
+    "platform s capabilities"
   ],
   "trending": [
     {
       "keyword": "rapidfort raises 42m",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "infrastructure hosting notepad",
-      "mentions": 11
-    },
-    {
-      "keyword": "ai powered automation",
-      "mentions": 7
-    },
-    {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 59
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 576
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 133
-    },
-    {
-      "keyword": "resulting ripple effects",
+      "keyword": "vulnerability allows hackers",
       "mentions": 9
     },
     {
-      "keyword": "multistage infection chain",
-      "mentions": 4
+      "keyword": "rockwell automation controllogix",
+      "mentions": 60
     },
     {
-      "keyword": "hacking group weaponizing",
+      "keyword": "14 million records",
       "mentions": 10
     },
     {
-      "keyword": "2 857 skills",
-      "mentions": 14
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 577
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 134
+    },
+    {
+      "keyword": "resulting ripple effects",
+      "mentions": 10
+    },
+    {
+      "keyword": "open vsx extensions",
+      "mentions": 1
+    },
+    {
+      "keyword": "multistage infection chain",
+      "mentions": 5
+    },
+    {
+      "keyword": "exfiltrate sensitive data",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
+      "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
+      "summary": "Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale. The tech giant's Defender Security Research Team said it observed macOS-targeted infostealer campaigns using social engineering techniques such as ClickFix since",
+      "published": "Wed, 04 Feb 2026 13:12:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
+      "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
+      "summary": "The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats. The move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don't end up getting published on the Open VSX Registry.",
+      "published": "Wed, 04 Feb 2026 11:56:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
+      "link": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in attacks. The vulnerability, tracked as CVE-2025-40551 (CVSS score: 9.8), is a untrusted data deserialization vulnerability that could pave the way for remote",
+      "published": "Wed, 04 Feb 2026 11:20:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "RCE",
+        "CISA/KEV ×5",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
@@ -120,123 +154,6 @@
       "value_score": 34,
       "value_signals": [
         "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
-      "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
-      "summary": "Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features. \"It provides a single place to block current and future generative AI features in Firefox,\" Ajit Varma, head of Firefox, said. \"You can also review and manage individual AI features if you choose to use them. This",
-      "published": "Tue, 03 Feb 2026 11:09:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
-      "link": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
-      "summary": "A China-linked threat actor known as Lotus Blossom has been attributed with medium confidence to the recently discovered compromise of the infrastructure hosting Notepad++. The attack enabled the state-sponsored hacking group to deliver a previously undocumented backdoor codenamed Chrysalis to users of the open-source editor, according to new findings from Rapid7. The development comes shortly",
-      "published": "Tue, 03 Feb 2026 10:25:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak",
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
-      "link": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
-      "summary": "A security audit of 2,857 skills on ClawHub has found 341 malicious skills across multiple campaigns, according to new findings from Koi Security, exposing users to new supply chain risks. ClawHub is a marketplace designed to make it easy for OpenClaw users to find and install third-party skills. It's an extension to the OpenClaw project, a self-hosted artificial intelligence (AI) assistant",
-      "published": "Mon, 02 Feb 2026 23:19:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
-      "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
-      "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
-      "published": "Tue, 20 Jan 2026 18:19:13 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, January 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-      "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
-      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
-      "value_score": 40,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Botnet",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
         "Exploit wording"
       ]
     },

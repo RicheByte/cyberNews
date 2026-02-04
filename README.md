@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-04 10:34 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-02-04 12:48 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`rapidfort raises 42m` • `data leaks wiz` • `rockwell automation controllogix` • `vulnerability allows hackers` • `internal network behind` • `ai powered automation` • `hackers network operators` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `resulting ripple effects`
+`rapidfort raises 42m` • `scattered lapsus shinyhunters` • `badbox 2 0` • `ai agent identities` • `mostly marketing materials` • `identity stack identity` • `grok ai assistant` • `105 million worth` • `rockwell automation controllogix` • `ai powered automation`
 
 ## 📄 Reports
 

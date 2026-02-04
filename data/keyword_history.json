@@ -189,7 +189,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 578,
+      "count": 579,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2403,7 +2403,7 @@
       ]
     },
     "internal network behind": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2565,7 +2565,7 @@
       ]
     },
     "hackers network operators": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4356,7 +4356,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4366,7 +4366,8 @@
         "2026-01-31",
         "2026-02-01",
         "2026-02-02",
-        "2026-02-03"
+        "2026-02-03",
+        "2026-02-04"
       ]
     },
     "ai generated backdoor": {
@@ -4778,7 +4779,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5111,10 +5112,11 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-02",
-        "2026-02-03"
+        "2026-02-03",
+        "2026-02-04"
       ]
     },
     "firefox ai features": {
@@ -5224,7 +5226,7 @@
       ]
     },
     "grok ai assistant": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5263,21 +5265,21 @@
       ]
     },
     "rapidfort raises 42m": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "ai agent identities": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "ai powered automation": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5316,7 +5318,7 @@
       ]
     },
     "mostly marketing materials": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5336,7 +5338,7 @@
       ]
     },
     "multistage infection chain": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5355,7 +5357,7 @@
       ]
     },
     "open vsx extensions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-04"
       ]
@@ -5367,7 +5369,7 @@
       ]
     },
     "data leaks wiz": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-04"
       ]
@@ -5389,20 +5391,45 @@
       "dates": [
         "2026-02-04"
       ]
+    },
+    "identity stack identity": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "105 million worth": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "security management company": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "time identity logic": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "gcp tenants environments": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "everest extortion gang": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-26 10:21",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "2024 vmware flaw",
-        "applications ai agents",
-        "single automation system",
-        "executive order signed"
-      ]
-    },
     {
       "timestamp": "2026-01-26 12:37",
       "articles": 56,
@@ -6490,6 +6517,17 @@
         "rockwell automation controllogix",
         "vulnerability allows hackers",
         "internal network behind"
+      ]
+    },
+    {
+      "timestamp": "2026-02-04 12:48",
+      "articles": 56,
+      "top_keywords": [
+        "rapidfort raises 42m",
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "ai agent identities",
+        "mostly marketing materials"
       ]
     }
   ]

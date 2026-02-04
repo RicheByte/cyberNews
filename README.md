@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-04 12:48 UTC |
+| 🕐 Last Updated | 2026-02-04 14:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`rapidfort raises 42m` • `scattered lapsus shinyhunters` • `badbox 2 0` • `ai agent identities` • `mostly marketing materials` • `identity stack identity` • `grok ai assistant` • `105 million worth` • `rockwell automation controllogix` • `ai powered automation`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `remote code execution` • `rockwell automation controllogix` • `105 million worth` • `twitter whistleblower complaint` • `open vsx extensions` • `multistage infection chain` • `identity stack identity` • `gcp tenants environments`
 
 ## 📄 Reports
 

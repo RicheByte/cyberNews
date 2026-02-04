@@ -189,7 +189,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 579,
+      "count": 580,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -487,7 +487,7 @@
       ]
     },
     "remote code execution": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -498,7 +498,8 @@
         "2026-01-27",
         "2026-01-28",
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-02-04"
       ]
     },
     "attacker remotely control": {
@@ -719,7 +720,7 @@
       ]
     },
     "national security risk": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -732,7 +733,8 @@
         "2026-01-29",
         "2026-01-31",
         "2026-02-01",
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-04"
       ]
     },
     "open source millions": {
@@ -2403,7 +2405,7 @@
       ]
     },
     "internal network behind": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4356,7 +4358,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4779,7 +4781,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5112,7 +5114,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5279,7 +5281,7 @@
       ]
     },
     "ai powered automation": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5312,9 +5314,10 @@
       ]
     },
     "security teams today": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-03"
+        "2026-02-03",
+        "2026-02-04"
       ]
     },
     "mostly marketing materials": {
@@ -5338,7 +5341,7 @@
       ]
     },
     "multistage infection chain": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5357,7 +5360,7 @@
       ]
     },
     "open vsx extensions": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-04"
       ]
@@ -5387,37 +5390,37 @@
       ]
     },
     "enforce security checks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-04"
       ]
     },
     "identity stack identity": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-04"
       ]
     },
     "105 million worth": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-04"
       ]
     },
     "security management company": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-04"
       ]
     },
     "time identity logic": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-04"
       ]
     },
     "gcp tenants environments": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-04"
       ]
@@ -5427,20 +5430,27 @@
       "dates": [
         "2026-02-04"
       ]
+    },
+    "36 million mexicans": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "windows 11 microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "will never boil": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-26 12:37",
-      "articles": 56,
-      "top_keywords": [
-        "hacking claims crunchbase",
-        "2024 vmware flaw",
-        "executive order 14144",
-        "windows 11 devices",
-        "applications ai agents"
-      ]
-    },
     {
       "timestamp": "2026-01-26 14:23",
       "articles": 56,
@@ -6528,6 +6538,17 @@
         "badbox 2 0",
         "ai agent identities",
         "mostly marketing materials"
+      ]
+    },
+    {
+      "timestamp": "2026-02-04 14:38",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "remote code execution",
+        "rockwell automation controllogix",
+        "105 million worth"
       ]
     }
   ]

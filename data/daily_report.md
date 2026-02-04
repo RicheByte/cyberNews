@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-04 12:48 UTC  
+> **Last Updated:** 2026-02-04 14:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**rapidfort raises 42m** • **scattered lapsus shinyhunters** • **badbox 2 0** • **ai agent identities** • **mostly marketing materials** • **identity stack identity** • **grok ai assistant** • **105 million worth** • **rockwell automation controllogix** • **ai powered automation** • **security management company** • **internal network behind** • **hackers network operators** • **data leaks wiz** • **twitter whistleblower complaint** • **time identity logic** • **open vsx extensions** • **multistage infection chain** • **gcp tenants environments** • **everest extortion gang**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **remote code execution** • **rockwell automation controllogix** • **105 million worth** • **twitter whistleblower complaint** • **open vsx extensions** • **multistage infection chain** • **identity stack identity** • **gcp tenants environments** • **ai powered automation** • **36 million mexicans** • **time identity logic** • **internal network behind** • **security teams today** • **security management company** • **national security risk** • **enforce security checks** • **windows 11 microsoft** • **will never boil**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [EDR killer tool uses signed kernel driver from forensic software](https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/)
+- [New Amaranth Dragon cyberespionage group exploits WinRAR flaw](https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/)
+- [Microsoft rolls out native Sysmon monitoring in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/)
 - [Owner of Incognito dark web drugs market gets 30 years in prison](https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/)
 - [Coinbase confirms insider breach linked to leaked support tool screenshots](https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/)
 - [Step Finance says compromised execs' devices led to $40M crypto theft](https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/)
 - [Wave of Citrix NetScaler scans use thousands of residential proxies](https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/)
 - [CISA flags critical SolarWinds RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/)
-- [Iron Mountain: Data breach mostly limited to marketing materials](https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/)
-- [AI Agent Identity Management: A New Security Control Plane for CISOs](https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/)
-- [UK privacy watchdog probes Grok over AI-generated sexual images](https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Extra Extra! Announcing DR Global Latin America](https://www.darkreading.com/cybersecurity-operations/announcing-dr-global-latin-america)
+- [Big Breach or Nada de Nada? Mexican Gov't Faces Leak Allegations](https://www.darkreading.com/cyberattacks-data-breaches/big-breach-or-nada-de-nada-mexican-govt-faces-leak-allegations)
 - [Google Looker Bugs Allow Cross-Tenant RCE, Data Exfil](https://www.darkreading.com/application-security/google-looker-bugs-cross-tenant-rce-data-exfil)
 - [Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days)
 - [GlassWorm Malware Returns to Shatter Developer Ecosystems](https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems)
+- [AI May Supplant Pen Testers, But Oversight &amp; Trust Are Not There Yet](https://www.darkreading.com/cybersecurity-operations/ai-supplant-pen-testers-oversight-trust-not-there-yet)
 - [8-Minute Access: AI Accelerates Breach of AWS Environment](https://www.darkreading.com/cloud-security/8-minute-access-ai-aws-environment-breach)
 - [Dark Patterns Undermine Security, One Click at a Time](https://www.darkreading.com/cyber-risk/dark-patterns-undermine-security-one-click-at-a-time)
-- [Attackers Harvest Dropbox Logins Via Fake PDF Lures](https://www.darkreading.com/cloud-security/attackers-harvest-dropbox-logins-fake-pdf-lures)
-- [County Pays $600K to Wrongfully Jailed Pen Testers](https://www.darkreading.com/cybersecurity-operations/county-pays-600k-wrongfully-jailed-pen-testers)
-- [Chinese Hackers Hijack Notepad++ Updates for 6 Months](https://www.darkreading.com/application-security/chinese-hackers-hijack-notepad-updates-6-months)
 
 ### Security Week
 
+- [Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation](https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/)
+- [Vulnerabilities Allowed Full Compromise of Google Looker Instances](https://www.securityweek.com/vulnerabilities-allowed-full-compromise-of-google-looker-instances/)
+- [Cyber Insights 2026: Cyberwar and Rising Nation State Threats](https://www.securityweek.com/cyber-insights-2026-cyberwar-and-rising-nation-state-threats/)
 - [Varonis Acquisition of AllTrue.ai Valued at $150 Million](https://www.securityweek.com/varonis-acquisition-of-alltrue-ai-valued-at-150-million/)
 - [Orion Raises $32 Million for Data Security](https://www.securityweek.com/orion-raises-32-million-for-data-security/)
 - [DockerDash Flaw in Docker AI Assistant Leads to RCE, Data Theft](https://www.securityweek.com/dockerdash-flaw-in-docker-ai-assistant-leads-to-rce-data-theft/)
 - [Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks](https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/)
 - [Fresh SolarWinds Vulnerability Exploited in Attacks](https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/)
-- [Security Analysis of Moltbook Agent Network: Bot-to-Bot Prompt Injection and Data Leaks](https://www.securityweek.com/security-analysis-of-moltbook-agent-network-bot-to-bot-prompt-injection-and-data-leaks/)
-- [RADICL Raises $31 Million for vSOC](https://www.securityweek.com/radicl-raises-31-million-for-vsoc/)
-- [RapidFort Raises $42M to Automate Software Supply Chain Security](https://www.securityweek.com/rapidfort-raises-42m-to-automate-software-supply-chain-security/)
 
 ### Threatpost
 

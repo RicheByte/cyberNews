@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-04 01:42",
+  "last_updated": "2026-02-04 04:07",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 40,
   "keywords": [
     "rapidfort raises 42m",
     "cybersecurity company zscaler",
-    "grok ai assistant",
-    "ai agent identities",
-    "mostly marketing materials",
     "infrastructure hosting notepad",
     "ai powered automation",
     "rockwell automation controllogix",
-    "vulnerability allows hackers",
     "14 million records",
-    "company will invest",
+    "vulnerability allows hackers",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "resulting ripple effects",
     "multistage infection chain",
     "hacking group weaponizing",
+    "company will invest",
     "2 857 skills",
     "platform s capabilities",
     "unauthorized mfa enrollment",
-    "take full control"
+    "take full control",
+    "shinyhunters expands scope",
+    "shatter developer ecosystems",
+    "self replicating malware"
   ],
   "trending": [
     {
       "keyword": "rapidfort raises 42m",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "cybersecurity company zscaler",
-      "mentions": 5
-    },
-    {
-      "keyword": "grok ai assistant",
       "mentions": 6
-    },
-    {
-      "keyword": "ai agent identities",
-      "mentions": 5
-    },
-    {
-      "keyword": "mostly marketing materials",
-      "mentions": 4
     },
     {
       "keyword": "infrastructure hosting notepad",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "ai powered automation",
-      "mentions": 5
-    },
-    {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 57
-    },
-    {
-      "keyword": "vulnerability allows hackers",
       "mentions": 6
     },
     {
+      "keyword": "rockwell automation controllogix",
+      "mentions": 58
+    },
+    {
       "keyword": "14 million records",
+      "mentions": 8
+    },
+    {
+      "keyword": "vulnerability allows hackers",
       "mentions": 7
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 575
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 132
+    },
+    {
+      "keyword": "resulting ripple effects",
+      "mentions": 8
     }
   ],
   "articles": [
@@ -150,94 +150,6 @@
       "link": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
       "summary": "A security audit of 2,857 skills on ClawHub has found 341 malicious skills across multiple campaigns, according to new findings from Koi Security, exposing users to new supply chain risks. ClawHub is a marketplace designed to make it easy for OpenClaw users to find and install third-party skills. It's an extension to the OpenClaw project, a self-hosted artificial intelligence (AI) assistant",
       "published": "Mon, 02 Feb 2026 23:19:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
-      "summary": "Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives. [...]",
-      "published": "Tue, 03 Feb 2026 16:33:23 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
-      "link": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
-      "summary": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to discover login panels. [...]",
-      "published": "Tue, 03 Feb 2026 15:25:40 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
-      "summary": "CISA has flagged a critical SolarWinds Web Help Desk vulnerability as actively exploited in attacks and ordered federal agencies to patch their systems within three days. [...]",
-      "published": "Tue, 03 Feb 2026 14:37:00 -0500",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation",
-        "RCE",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Iron Mountain: Data breach mostly limited to marketing materials",
-      "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
-      "summary": "Iron Mountain, a leading data storage and recovery services company, says that a recent breach claimed by the Everest extortion gang is limited to mostly marketing materials. [...]",
-      "published": "Tue, 03 Feb 2026 11:49:09 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
-      "summary": "Autonomous AI agents are creating a new identity blind spot as they operate outside traditional IAM controls. Token Security shows why managing the full lifecycle of AI agent identities is becoming a critical CISO priority. [...]",
-      "published": "Tue, 03 Feb 2026 10:01:11 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK privacy watchdog probes Grok over AI-generated sexual images",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/",
-      "summary": "The United Kingdom's data protection authority launched a formal investigation into X and its Irish subsidiary over reports that the Grok AI assistant was used to generate nonconsensual sexual images. [...]",
-      "published": "Tue, 03 Feb 2026 09:25:50 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/",
-      "summary": "Hackers are targeting developers by exploiting the critical vulnerability CVE-2025-11953 in the Metro server for React Native to deliver malicious payloads for Windows and Linux. [...]",
-      "published": "Tue, 03 Feb 2026 09:00:00 -0500",
-      "value_score": 62,
-      "value_signals": [
-        "CVE mentioned",
-        "Breach/leak",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
-      "link": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
-      "summary": "French prosecutors have raided X's offices in Paris on Tuesday as part of a criminal investigation into the platform's Grok AI tool, widely used to generate sexually explicit images. [...]",
-      "published": "Tue, 03 Feb 2026 07:43:37 -0500",
       "value_score": 10,
       "value_signals": []
     },

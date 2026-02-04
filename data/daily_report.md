@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-04 01:42 UTC  
+> **Last Updated:** 2026-02-04 04:07 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 40
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**rapidfort raises 42m** • **cybersecurity company zscaler** • **grok ai assistant** • **ai agent identities** • **mostly marketing materials** • **infrastructure hosting notepad** • **ai powered automation** • **rockwell automation controllogix** • **vulnerability allows hackers** • **14 million records** • **company will invest** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **resulting ripple effects** • **multistage infection chain** • **hacking group weaponizing** • **2 857 skills** • **platform s capabilities** • **unauthorized mfa enrollment** • **take full control**
+**rapidfort raises 42m** • **cybersecurity company zscaler** • **infrastructure hosting notepad** • **ai powered automation** • **rockwell automation controllogix** • **14 million records** • **vulnerability allows hackers** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **resulting ripple effects** • **multistage infection chain** • **hacking group weaponizing** • **company will invest** • **2 857 skills** • **platform s capabilities** • **unauthorized mfa enrollment** • **take full control** • **shinyhunters expands scope** • **shatter developer ecosystems** • **self replicating malware**
 
 ---
 
@@ -24,17 +24,6 @@
 - [Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox](https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html)
 - [Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group](https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html)
 - [Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users](https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html)
-
-### BleepingComputer
-
-- [Step Finance says compromised execs' devices led to $40M crypto theft](https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/)
-- [Wave of Citrix NetScaler scans use thousands of residential proxies](https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/)
-- [CISA flags critical SolarWinds RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/)
-- [Iron Mountain: Data breach mostly limited to marketing materials](https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/)
-- [AI Agent Identity Management: A New Security Control Plane for CISOs](https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/)
-- [UK privacy watchdog probes Grok over AI-generated sexual images](https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/)
-- [Hackers exploit critical React Native Metro bug to breach dev systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/)
-- [French prosecutors raid X offices, summon Musk over Grok deepfakes](https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/)
 
 ### Dark Reading
 

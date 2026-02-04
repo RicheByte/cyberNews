@@ -188,7 +188,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 574,
+      "count": 575,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1399,7 +1399,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -4772,7 +4772,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5132,14 +5132,15 @@
       ]
     },
     "shinyhunters expands scope": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-02",
-        "2026-02-03"
+        "2026-02-03",
+        "2026-02-04"
       ]
     },
     "2 857 skills": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5164,7 +5165,7 @@
       ]
     },
     "infrastructure hosting notepad": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5177,7 +5178,7 @@
       ]
     },
     "unauthorized mfa enrollment": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5190,7 +5191,7 @@
       ]
     },
     "hacking group weaponizing": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5203,14 +5204,14 @@
       ]
     },
     "resulting ripple effects": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "14 million records": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5224,14 +5225,14 @@
       ]
     },
     "vulnerability allows hackers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "company will invest": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5256,7 +5257,7 @@
       ]
     },
     "rapidfort raises 42m": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5270,14 +5271,14 @@
       ]
     },
     "ai powered automation": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "cybersecurity company zscaler": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5290,7 +5291,7 @@
       ]
     },
     "platform s capabilities": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5322,32 +5323,33 @@
       ]
     },
     "take full control": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "multistage infection chain": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-03",
+        "2026-02-04"
+      ]
+    },
+    "shatter developer ecosystems": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "self replicating malware": {
+      "count": 1,
+      "dates": [
         "2026-02-04"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-26 03:52",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "applications ai agents",
-        "single automation system",
-        "persistent remote access",
-        "executive order signed"
-      ]
-    },
     {
       "timestamp": "2026-01-26 04:52",
       "articles": 56,
@@ -6435,6 +6437,17 @@
         "grok ai assistant",
         "ai agent identities",
         "mostly marketing materials"
+      ]
+    },
+    {
+      "timestamp": "2026-02-04 04:07",
+      "articles": 40,
+      "top_keywords": [
+        "rapidfort raises 42m",
+        "cybersecurity company zscaler",
+        "infrastructure hosting notepad",
+        "ai powered automation",
+        "rockwell automation controllogix"
       ]
     }
   ]

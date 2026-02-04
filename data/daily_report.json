@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-04 08:34",
+  "last_updated": "2026-02-04 10:34",
   "sources_count": 8,
-  "articles_count": 40,
+  "articles_count": 48,
   "keywords": [
     "rapidfort raises 42m",
-    "vulnerability allows hackers",
+    "data leaks wiz",
     "rockwell automation controllogix",
-    "14 million records",
+    "vulnerability allows hackers",
+    "internal network behind",
+    "ai powered automation",
+    "hackers network operators",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "resulting ripple effects",
     "open vsx extensions",
     "multistage infection chain",
     "exfiltrate sensitive data",
-    "cybersecurity company zscaler",
-    "company will invest",
-    "ai powered automation",
-    "unauthorized mfa enrollment",
-    "take full control",
-    "shinyhunters expands scope",
-    "shatter developer ecosystems",
-    "self replicating malware",
-    "red teaming exercises",
-    "platform s capabilities"
+    "bot prompt injection",
+    "14 million records",
+    "windows operating systems",
+    "post security analysis",
+    "enforce security checks",
+    "vulnerabilities earned microsoft's",
+    "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "rapidfort raises 42m",
-      "mentions": 8
-    },
-    {
-      "keyword": "vulnerability allows hackers",
       "mentions": 9
     },
     {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 60
-    },
-    {
-      "keyword": "14 million records",
-      "mentions": 10
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 577
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 134
-    },
-    {
-      "keyword": "resulting ripple effects",
-      "mentions": 10
-    },
-    {
-      "keyword": "open vsx extensions",
+      "keyword": "data leaks wiz",
       "mentions": 1
     },
     {
-      "keyword": "multistage infection chain",
-      "mentions": 5
+      "keyword": "rockwell automation controllogix",
+      "mentions": 61
     },
     {
-      "keyword": "exfiltrate sensitive data",
-      "mentions": 7
+      "keyword": "vulnerability allows hackers",
+      "mentions": 10
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 161
+    },
+    {
+      "keyword": "ai powered automation",
+      "mentions": 9
+    },
+    {
+      "keyword": "hackers network operators",
+      "mentions": 24
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 578
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 135
+    },
+    {
+      "keyword": "resulting ripple effects",
+      "mentions": 11
     }
   ],
   "articles": [
@@ -158,6 +158,93 @@
       ]
     },
     {
+      "source": "Krebs on Security",
+      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+      "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+      "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
+      "published": "Tue, 20 Jan 2026 18:19:13 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Patch Tuesday, January 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+      "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
+      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
+      "value_score": 40,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
+      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
+      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Botnet",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
       "source": "Dark Reading",
       "title": "Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days",
@@ -235,6 +322,39 @@
     },
     {
       "source": "Security Week",
+      "title": "Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks",
+      "link": "https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/",
+      "summary": "Two IP addresses accounted for the majority of the 1.4 million exploitation attempts observed over the past week. The post Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 04 Feb 2026 10:00:14 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Fresh SolarWinds Vulnerability Exploited in Attacks",
+      "link": "https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/",
+      "summary": "The critical-severity SolarWinds Web Help Desk flaw could lead to unauthenticated remote code execution. The post Fresh SolarWinds Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 04 Feb 2026 09:50:56 +0000",
+      "value_score": 44,
+      "value_signals": [
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Security Analysis of Moltbook Agent Network: Bot-to-Bot Prompt Injection and Data Leaks",
+      "link": "https://www.securityweek.com/security-analysis-of-moltbook-agent-network-bot-to-bot-prompt-injection-and-data-leaks/",
+      "summary": "Wiz and Permiso have analyzed the AI agent social network and found serious security issues and threats. The post Security Analysis of Moltbook Agent Network: Bot-to-Bot Prompt Injection and Data Leaks appeared first on SecurityWeek .",
+      "published": "Wed, 04 Feb 2026 08:43:18 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "RADICL Raises $31 Million for vSOC",
       "link": "https://www.securityweek.com/radicl-raises-31-million-for-vsoc/",
       "summary": "The company will use the investment to accelerate development of its autonomous virtual security operations center (vSOC). The post RADICL Raises $31 Million for vSOC appeared first on SecurityWeek .",
@@ -285,33 +405,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Russia’s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability",
-      "link": "https://www.securityweek.com/russias-apt28-rapidly-weaponizes-newly-patched-office-vulnerability/",
-      "summary": "The attacks targeting Europe were analyzed by Ukraine’s CERT-UA and the cybersecurity company Zscaler. The post Russia’s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability appeared first on SecurityWeek .",
-      "published": "Tue, 03 Feb 2026 11:22:52 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Kasada Raises $20 Million for Anti-Bot Expansion",
-      "link": "https://www.securityweek.com/kasada-raises-20-million-for-anti-bot-expansion/",
-      "summary": "The company will invest in market expansion and accelerating product capabilities. The post Kasada Raises $20 Million for Anti-Bot Expansion appeared first on SecurityWeek .",
-      "published": "Tue, 03 Feb 2026 11:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "ShinyHunters-Branded Extortion Activity Expands, Escalates",
-      "link": "https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/",
-      "summary": "Hackers rely on evolved vishing and login harvesting to compromise SSO credentials for unauthorized MFA enrollment. The post ShinyHunters-Branded Extortion Activity Expands, Escalates appeared first on SecurityWeek .",
-      "published": "Mon, 02 Feb 2026 15:28:16 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

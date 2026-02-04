@@ -151,7 +151,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 256,
+      "count": 257,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -184,11 +184,12 @@
         "2026-01-31",
         "2026-02-01",
         "2026-02-02",
-        "2026-02-03"
+        "2026-02-03",
+        "2026-02-04"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 577,
+      "count": 578,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1399,7 +1400,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2379,7 +2380,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2402,7 +2403,7 @@
       ]
     },
     "internal network behind": {
-      "count": 160,
+      "count": 161,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2564,12 +2565,13 @@
       ]
     },
     "hackers network operators": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-02-04"
       ]
     },
     "deepfake fraud tools": {
@@ -3009,7 +3011,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3070,7 +3072,7 @@
       ]
     },
     "exfiltrate sensitive data": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4776,7 +4778,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5208,14 +5210,14 @@
       ]
     },
     "resulting ripple effects": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "14 million records": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5229,7 +5231,7 @@
       ]
     },
     "vulnerability allows hackers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5261,7 +5263,7 @@
       ]
     },
     "rapidfort raises 42m": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5275,7 +5277,7 @@
       ]
     },
     "ai powered automation": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5334,7 +5336,7 @@
       ]
     },
     "multistage infection chain": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5353,7 +5355,7 @@
       ]
     },
     "open vsx extensions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-04"
       ]
@@ -5363,20 +5365,33 @@
       "dates": [
         "2026-02-04"
       ]
+    },
+    "data leaks wiz": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "bot prompt injection": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "post security analysis": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
+    },
+    "enforce security checks": {
+      "count": 1,
+      "dates": [
+        "2026-02-04"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-26 08:26",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "applications ai agents",
-        "single automation system",
-        "executive order signed",
-        "executive order 14144"
-      ]
-    },
     {
       "timestamp": "2026-01-26 10:21",
       "articles": 56,
@@ -6464,6 +6479,17 @@
         "rockwell automation controllogix",
         "14 million records",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-02-04 10:34",
+      "articles": 48,
+      "top_keywords": [
+        "rapidfort raises 42m",
+        "data leaks wiz",
+        "rockwell automation controllogix",
+        "vulnerability allows hackers",
+        "internal network behind"
       ]
     }
   ]

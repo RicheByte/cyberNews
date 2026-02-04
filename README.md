@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-04 04:07 UTC |
-| 📰 Articles Analyzed | 40 |
+| 🕐 Last Updated | 2026-02-04 06:43 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`rapidfort raises 42m` • `cybersecurity company zscaler` • `infrastructure hosting notepad` • `ai powered automation` • `rockwell automation controllogix` • `14 million records` • `vulnerability allows hackers` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `resulting ripple effects`
+`rapidfort raises 42m` • `infrastructure hosting notepad` • `ai powered automation` • `rockwell automation controllogix` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `resulting ripple effects` • `multistage infection chain` • `hacking group weaponizing` • `2 857 skills`
 
 ## 📄 Reports
 

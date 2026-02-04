@@ -188,7 +188,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 575,
+      "count": 576,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1399,7 +1399,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2379,7 +2379,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2397,11 +2397,12 @@
         "2026-01-29",
         "2026-01-31",
         "2026-02-01",
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-04"
       ]
     },
     "internal network behind": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2420,7 +2421,8 @@
         "2026-01-23",
         "2026-01-26",
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-02-04"
       ]
     },
     "ai driven access": {
@@ -3007,7 +3009,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3020,7 +3022,8 @@
         "2026-01-31",
         "2026-02-01",
         "2026-02-02",
-        "2026-02-03"
+        "2026-02-03",
+        "2026-02-04"
       ]
     },
     "final patch tuesday": {
@@ -4772,7 +4775,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5140,7 +5143,7 @@
       ]
     },
     "2 857 skills": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5165,7 +5168,7 @@
       ]
     },
     "infrastructure hosting notepad": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5178,7 +5181,7 @@
       ]
     },
     "unauthorized mfa enrollment": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5191,7 +5194,7 @@
       ]
     },
     "hacking group weaponizing": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5204,14 +5207,14 @@
       ]
     },
     "resulting ripple effects": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "14 million records": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5225,14 +5228,14 @@
       ]
     },
     "vulnerability allows hackers": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "company will invest": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5257,7 +5260,7 @@
       ]
     },
     "rapidfort raises 42m": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5271,14 +5274,14 @@
       ]
     },
     "ai powered automation": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "cybersecurity company zscaler": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5291,7 +5294,7 @@
       ]
     },
     "platform s capabilities": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5323,14 +5326,14 @@
       ]
     },
     "take full control": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-03",
         "2026-02-04"
       ]
     },
     "multistage infection chain": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-03",
         "2026-02-04"
@@ -5350,17 +5353,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-26 04:52",
-      "articles": 56,
-      "top_keywords": [
-        "phishers abuse sharepoint",
-        "applications ai agents",
-        "single automation system",
-        "persistent remote access",
-        "executive order signed"
-      ]
-    },
     {
       "timestamp": "2026-01-26 06:30",
       "articles": 56,
@@ -6448,6 +6440,17 @@
         "infrastructure hosting notepad",
         "ai powered automation",
         "rockwell automation controllogix"
+      ]
+    },
+    {
+      "timestamp": "2026-02-04 06:43",
+      "articles": 48,
+      "top_keywords": [
+        "rapidfort raises 42m",
+        "infrastructure hosting notepad",
+        "ai powered automation",
+        "rockwell automation controllogix",
+        "twitter whistleblower complaint"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04 14:38",
+  "last_updated": "2026-02-04 16:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,61 +12,72 @@
     "open vsx extensions",
     "multistage infection chain",
     "identity stack identity",
-    "gcp tenants environments",
+    "check point research",
     "ai powered automation",
     "36 million mexicans",
     "time identity logic",
     "internal network behind",
-    "security teams today",
-    "security management company",
-    "national security risk",
-    "enforce security checks",
     "windows 11 microsoft",
-    "will never boil"
+    "will never boil",
+    "vulnerabilities earned microsoft's",
+    "today we'll dig",
+    "strong theme running",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "remote code execution",
-      "mentions": 60
+      "mentions": 61
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 63
+      "mentions": 64
     },
     {
       "keyword": "105 million worth",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 580
+      "mentions": 581
     },
     {
       "keyword": "open vsx extensions",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "multistage infection chain",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "identity stack identity",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "gcp tenants environments",
-      "mentions": 2
+      "keyword": "check point research",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
+      "summary": "Threat actors affiliated with China have been attributed to a fresh set of cyber espionage campaigns targeting government and law enforcement agencies across Southeast Asia throughout 2025. Check Point Research is tracking the previously undocumented activity cluster under the moniker Amaranth-Dragon, which it said shares links to the APT 41 ecosystem. Targeted countries include Cambodia,",
+      "published": "Wed, 04 Feb 2026 19:39:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
@@ -141,17 +152,27 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
-      "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
-      "summary": "Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package. Cybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary",
-      "published": "Tue, 03 Feb 2026 19:30:00 +0530",
-      "value_score": 62,
+      "source": "BleepingComputer",
+      "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems against a five-year-old GitLab vulnerability that is actively being exploited in attacks. [...]",
+      "published": "Wed, 04 Feb 2026 10:42:31 -0500",
+      "value_score": 64,
       "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity",
+        "Patch/update",
+        "CISA/KEV ×2",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "The Double-Edged Sword of Non-Human Identities",
+      "link": "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/",
+      "summary": "Leaked non-human identities like API keys and tokens are becoming a major breach driver in cloud environments. Flare shows how exposed machine credentials quietly grant attackers long-term access to enterprise systems. [...]",
+      "published": "Wed, 04 Feb 2026 10:05:15 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
       ]
     },
     {
@@ -212,31 +233,6 @@
       "published": "Tue, 03 Feb 2026 16:33:23 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
-      "link": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
-      "summary": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to discover login panels. [...]",
-      "published": "Tue, 03 Feb 2026 15:25:40 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
-      "summary": "CISA has flagged a critical SolarWinds Web Help Desk vulnerability as actively exploited in attacks and ordered federal agencies to patch their systems within three days. [...]",
-      "published": "Tue, 03 Feb 2026 14:37:00 -0500",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation",
-        "RCE",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -334,7 +330,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Big Breach or Nada de Nada? Mexican Gov't Faces Leak Allegations",
+      "title": "Big Breach or Smooth Sailing? Mexican Gov't Faces Leak Allegations",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/big-breach-or-nada-de-nada-mexican-govt-faces-leak-allegations",
       "summary": "A hacktivist group claims a 2.3-terabyte data breach exposes the information of 36 million Mexicans, but no sensitive accounts are at risk, says government.",
       "published": "Wed, 04 Feb 2026 13:00:00 GMT",

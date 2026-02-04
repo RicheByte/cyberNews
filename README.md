@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-04 14:38 UTC |
+| 🕐 Last Updated | 2026-02-04 16:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `remote code execution` • `rockwell automation controllogix` • `105 million worth` • `twitter whistleblower complaint` • `open vsx extensions` • `multistage infection chain` • `identity stack identity` • `gcp tenants environments`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `remote code execution` • `rockwell automation controllogix` • `105 million worth` • `twitter whistleblower complaint` • `open vsx extensions` • `multistage infection chain` • `identity stack identity` • `check point research`
 
 ## 📄 Reports
 

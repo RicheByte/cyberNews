@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04 16:40",
+  "last_updated": "2026-02-04 18:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,16 +7,16 @@
     "badbox 2 0",
     "remote code execution",
     "rockwell automation controllogix",
-    "105 million worth",
     "twitter whistleblower complaint",
     "open vsx extensions",
     "multistage infection chain",
     "identity stack identity",
     "check point research",
     "ai powered automation",
-    "36 million mexicans",
     "time identity logic",
     "internal network behind",
+    "36 million mexicans",
+    "105 million worth",
     "windows 11 microsoft",
     "will never boil",
     "vulnerabilities earned microsoft's",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "remote code execution",
-      "mentions": 61
+      "mentions": 62
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 64
-    },
-    {
-      "keyword": "105 million worth",
-      "mentions": 3
+      "mentions": 65
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 581
+      "mentions": 582
     },
     {
       "keyword": "open vsx extensions",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "multistage infection chain",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "identity stack identity",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "check point research",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "ai powered automation",
+      "mentions": 13
     }
   ],
   "articles": [
@@ -153,6 +153,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
+      "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks. [...]",
+      "published": "Wed, 04 Feb 2026 12:38:46 -0500",
+      "value_score": 100,
+      "value_signals": [
+        "Zero-day",
+        "Ransomware ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems against a five-year-old GitLab vulnerability that is actively being exploited in attacks. [...]",
@@ -224,15 +238,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
-      "summary": "Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives. [...]",
-      "published": "Tue, 03 Feb 2026 16:33:23 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

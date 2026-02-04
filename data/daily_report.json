@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-02-04 18:41",
+  "last_updated": "2026-02-04 20:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
-    "badbox 2 0",
     "remote code execution",
+    "badbox 2 0",
     "rockwell automation controllogix",
     "twitter whistleblower complaint",
     "open vsx extensions",
     "multistage infection chain",
     "identity stack identity",
     "check point research",
-    "ai powered automation",
     "time identity logic",
+    "windows 11 microsoft",
     "internal network behind",
+    "alltrue ai valued",
     "36 million mexicans",
     "105 million worth",
-    "windows 11 microsoft",
     "will never boil",
     "vulnerabilities earned microsoft's",
     "today we'll dig",
@@ -27,46 +27,66 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 7
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 38
+      "mentions": 8
     },
     {
       "keyword": "remote code execution",
-      "mentions": 62
+      "mentions": 63
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 39
     },
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 65
+      "mentions": 66
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 582
+      "mentions": 583
     },
     {
       "keyword": "open vsx extensions",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "multistage infection chain",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "identity stack identity",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "check point research",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "ai powered automation",
-      "mentions": 13
+      "keyword": "time identity logic",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
+      "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
+      "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems. The tech giant's AI Security team said the scanner leverages three observable signals that can be used to reliably flag the presence of backdoors while maintaining a low false positive",
+      "published": "Wed, 04 Feb 2026 23:22:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
+      "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
+      "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT. \"The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory",
+      "published": "Wed, 04 Feb 2026 22:54:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
@@ -129,27 +149,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
-      "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data. The critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by",
-      "published": "Tue, 03 Feb 2026 22:11:00 +0530",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
-      "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
-      "summary": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress. Every vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less. This",
-      "published": "Tue, 03 Feb 2026 19:44:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

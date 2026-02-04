@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-04 18:41 UTC  
+> **Last Updated:** 2026-02-04 20:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **remote code execution** • **rockwell automation controllogix** • **twitter whistleblower complaint** • **open vsx extensions** • **multistage infection chain** • **identity stack identity** • **check point research** • **ai powered automation** • **time identity logic** • **internal network behind** • **36 million mexicans** • **105 million worth** • **windows 11 microsoft** • **will never boil** • **vulnerabilities earned microsoft's** • **today we'll dig** • **strong theme running** • **sprawling phishing campaign**
+**scattered lapsus shinyhunters** • **remote code execution** • **badbox 2 0** • **rockwell automation controllogix** • **twitter whistleblower complaint** • **open vsx extensions** • **multistage infection chain** • **identity stack identity** • **check point research** • **time identity logic** • **windows 11 microsoft** • **internal network behind** • **alltrue ai valued** • **36 million mexicans** • **105 million worth** • **will never boil** • **vulnerabilities earned microsoft's** • **today we'll dig** • **strong theme running** • **sprawling phishing campaign**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
+- [DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
 - [China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns](https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html)
 - [Orchid Security Introduces Continuous Identity Observability for Enterprise Applications](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html)
 - [The First 90 Seconds: How Early Decisions Shape Incident Response Investigations](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html)
 - [Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers](https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html)
 - [Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions](https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html)
 - [CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html)
-- [Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata](https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html)
-- [[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate](https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html)
 
 ### BleepingComputer
 

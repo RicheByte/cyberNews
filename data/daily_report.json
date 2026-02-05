@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05 06:52",
+  "last_updated": "2026-02-05 08:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 70
+      "mentions": 71
     },
     {
       "keyword": "remote code execution",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 260
+      "mentions": 261
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 587
+      "mentions": 588
     },
     {
       "keyword": "take full control",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "identity stack identity",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "flaws dubbed lookout",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "check point research",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "critical vulnerability exists",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 43
+      "mentions": 44
     }
   ],
   "articles": [
@@ -329,6 +329,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Protests Don't Impede Iranian Spying on Expats, Syrians, Israelis",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis",
+      "summary": "Iranian threat actors have been stealing credentials from people of interest across the Middle East, using spear-phishing and social engineering.",
+      "published": "Thu, 05 Feb 2026 07:00:00 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Ransomware Gang Goes Full 'Godfather' With Cartel",
       "link": "https://www.darkreading.com/cyber-risk/ransomware-gang-full-godfather-cartel",
       "summary": "Since its launch in 2023, DragonForce has pushed a cartel model, emphasizing cooperation and coordination among ransomware gangs.",
@@ -396,15 +407,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days",
       "summary": "APT28's attacks rely on specially crafted Microsoft Rich Text Format (RTF) documents to kick off a multistage infection chain to deliver malicious payloads.",
       "published": "Tue, 03 Feb 2026 21:52:22 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "GlassWorm Malware Returns to Shatter Developer Ecosystems",
-      "link": "https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems",
-      "summary": "The self-replicating malware has poisoned a fresh set of Open VSX software components, leaving potential downstream victims with infostealer infections.",
-      "published": "Tue, 03 Feb 2026 20:55:51 GMT",
       "value_score": 10,
       "value_signals": []
     },

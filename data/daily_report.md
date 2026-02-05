@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-05 06:52 UTC  
+> **Last Updated:** 2026-02-05 08:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Protests Don't Impede Iranian Spying on Expats, Syrians, Israelis](https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis)
 - [Ransomware Gang Goes Full 'Godfather' With Cartel](https://www.darkreading.com/cyber-risk/ransomware-gang-full-godfather-cartel)
 - [CISA Makes Unpublicized Ransomware Updates to KEV Catalog](https://www.darkreading.com/threat-intelligence/cisa-hidden-ransomware-updates-kev-catalog)
 - [Attackers Use Windows Screensavers to Drop Malware, RMM Tools](https://www.darkreading.com/application-security/attackers-use-screensavers-drop-malware-rmm-tools)
@@ -56,7 +57,6 @@
 - [Big Breach or Smooth Sailing? Mexican Gov't Faces Leak Allegations](https://www.darkreading.com/cyberattacks-data-breaches/big-breach-or-nada-de-nada-mexican-govt-faces-leak-allegations)
 - [Google Looker Bugs Allow Cross-Tenant RCE, Data Exfil](https://www.darkreading.com/application-security/google-looker-bugs-cross-tenant-rce-data-exfil)
 - [Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days)
-- [GlassWorm Malware Returns to Shatter Developer Ecosystems](https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems)
 
 ### Security Week
 

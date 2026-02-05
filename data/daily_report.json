@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-02-05 12:52",
+  "last_updated": "2026-02-05 14:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "rockwell automation controllogix",
-    "take full control",
+    "researchers expose network",
     "least february 2024",
     "widespread internet blackout",
     "twitter whistleblower complaint",
-    "identity stack identity",
-    "flaws dubbed lookout",
-    "check point research",
     "automated emails generated",
-    "1 billion valuation",
     "taking complete control",
-    "36 million mexicans",
-    "hacktivist group claims",
-    "vulnerabilities earned microsoft's",
+    "take full control",
     "internal network behind",
-    "national security risk",
+    "hiding behind cloudflare",
+    "hacktivist group claims",
+    "36 million mexicans",
+    "16 9 million",
+    "cybersecurity ai workforce",
+    "vulnerabilities earned microsoft's",
     "today we'll dig",
     "targeted nginx installations",
+    "syn ventures brings",
     "strong theme running",
     "scoops nestled inside"
   ],
   "trending": [
     {
       "keyword": "rockwell automation controllogix",
-      "mentions": 73
+      "mentions": 74
     },
     {
-      "keyword": "take full control",
-      "mentions": 11
+      "keyword": "researchers expose network",
+      "mentions": 1
     },
     {
       "keyword": "least february 2024",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "widespread internet blackout",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 590
-    },
-    {
-      "keyword": "identity stack identity",
-      "mentions": 12
-    },
-    {
-      "keyword": "flaws dubbed lookout",
-      "mentions": 5
-    },
-    {
-      "keyword": "check point research",
-      "mentions": 10
+      "mentions": 591
     },
     {
       "keyword": "automated emails generated",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "1 billion valuation",
+      "keyword": "taking complete control",
       "mentions": 2
+    },
+    {
+      "keyword": "take full control",
+      "mentions": 12
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 174
+    },
+    {
+      "keyword": "hiding behind cloudflare",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
+      "link": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
+      "summary": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next. Researchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less",
+      "published": "Thu, 05 Feb 2026 18:27:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "The Buyer’s Guide to AI Usage Control",
@@ -143,13 +154,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
-      "link": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
-      "summary": "An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls. The Challenge: Identity Lives Outside the Identity Stack Identity and access management tools were built to govern users and directories. Modern enterprises run on applications. Over time, identity logic has moved into application code, APIs, service accounts, and custom authentication",
-      "published": "Wed, 04 Feb 2026 17:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Newsletter platform Substack notifies users of data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/",
+      "summary": "Newsletter platform Substack is notifying users of a data breach after attackers stole their email addresses and phone numbers in October 2025. [...]",
+      "published": "Thu, 05 Feb 2026 07:54:48 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -229,15 +242,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "EDR killer tool uses signed kernel driver from forensic software",
-      "link": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
-      "summary": "Hackers are abusing a legitimate but long-revoked EnCase kernel driver in an EDR killer that can detect 59 security tools in attempts to deactivate them. [...]",
-      "published": "Wed, 04 Feb 2026 09:17:45 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -328,6 +332,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cyber Success Trifecta: Education, Certifications &amp; Experience",
+      "link": "https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience",
+      "summary": "Colonel Georgeo Xavier Pulikkathara, CISO at iMerit discusses the importance of fundamentals, continuous learning, and human ingenuity in the face of AI-driven cybersecurity evolution.",
+      "published": "Thu, 05 Feb 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Protests Don't Impede Iranian Spying on Expats, Syrians, Israelis",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis",
       "summary": "Iranian threat actors have been stealing credentials from people of interest across the Middle East, using spear-phishing and social engineering.",
@@ -401,11 +414,29 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days",
-      "summary": "APT28's attacks rely on specially crafted Microsoft Rich Text Format (RTF) documents to kick off a multistage infection chain to deliver malicious payloads.",
-      "published": "Tue, 03 Feb 2026 21:52:22 GMT",
+      "source": "Security Week",
+      "title": "Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign",
+      "link": "https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/",
+      "summary": "Criminals are using AI to clone professional websites at an industrial scale. A new report shows how one AI-powered network grew to 150+ domains by hiding behind Cloudflare and rotating IP ranges. The post Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign appeared first on SecurityWeek .",
+      "published": "Thu, 05 Feb 2026 14:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "VS Code Configs Expose GitHub Codespaces to Attacks",
+      "link": "https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/",
+      "summary": "VS Code-integrated configuration files are automatically executed in Codespaces when the user opens a repository or pull request. The post VS Code Configs Expose GitHub Codespaces to Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 05 Feb 2026 13:41:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce",
+      "link": "https://www.securityweek.com/nullify-secures-12-5-million-in-seed-funding-for-cybersecurity-ai-workforce/",
+      "summary": "This latest infusion, led by SYN Ventures, brings the company’s total funding to $16.9 million. The post Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce appeared first on SecurityWeek .",
+      "published": "Thu, 05 Feb 2026 13:02:15 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -462,36 +493,6 @@
         "Privilege escalation",
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation",
-      "link": "https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/",
-      "summary": "The Series C funding will enable the company to expand its AI capabilities for disrupting criminal networks. The post Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation appeared first on SecurityWeek .",
-      "published": "Wed, 04 Feb 2026 14:27:13 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Vulnerabilities Allowed Full Compromise of Google Looker Instances",
-      "link": "https://www.securityweek.com/vulnerabilities-allowed-full-compromise-of-google-looker-instances/",
-      "summary": "The flaws dubbed LookOut can be exploited for remote code execution and data exfiltration. The post Vulnerabilities Allowed Full Compromise of Google Looker Instances appeared first on SecurityWeek .",
-      "published": "Wed, 04 Feb 2026 13:41:08 +0000",
-      "value_score": 36,
-      "value_signals": [
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyber Insights 2026: Cyberwar and Rising Nation State Threats",
-      "link": "https://www.securityweek.com/cyber-insights-2026-cyberwar-and-rising-nation-state-threats/",
-      "summary": "While both cyberwar and cyberwarfare will increase through 2026, cyberwarfare is likely to increase more dramatically. We hope it will never boil over – but we should be aware of the possibility and its consequences. The post Cyber Insights 2026: Cyberwar and Rising Nation State Threats appeared first on SecurityWeek .",
-      "published": "Wed, 04 Feb 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

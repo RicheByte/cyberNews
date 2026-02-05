@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-05 12:52 UTC |
+| 🕐 Last Updated | 2026-02-05 14:39 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`rockwell automation controllogix` • `take full control` • `least february 2024` • `widespread internet blackout` • `twitter whistleblower complaint` • `identity stack identity` • `flaws dubbed lookout` • `check point research` • `automated emails generated` • `1 billion valuation`
+`rockwell automation controllogix` • `researchers expose network` • `least february 2024` • `widespread internet blackout` • `twitter whistleblower complaint` • `automated emails generated` • `taking complete control` • `take full control` • `internal network behind` • `hiding behind cloudflare`
 
 ## 📄 Reports
 

@@ -190,7 +190,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 589,
+      "count": 590,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -723,7 +723,7 @@
       ]
     },
     "national security risk": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2272,7 +2272,7 @@
       ]
     },
     "strong theme running": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2388,7 +2388,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2412,7 +2412,7 @@
       ]
     },
     "internal network behind": {
-      "count": 172,
+      "count": 173,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2642,7 +2642,7 @@
       ]
     },
     "scoops nestled inside": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-01-11",
         "2026-01-13",
@@ -3023,7 +3023,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3238,9 +3238,10 @@
       ]
     },
     "1 billion valuation": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-15"
+        "2026-01-15",
+        "2026-02-05"
       ]
     },
     "legitimate microsoft link": {
@@ -4793,7 +4794,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5348,7 +5349,7 @@
       ]
     },
     "take full control": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-03",
         "2026-02-04",
@@ -5414,7 +5415,7 @@
       ]
     },
     "identity stack identity": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-04",
         "2026-02-05"
@@ -5451,7 +5452,7 @@
       ]
     },
     "36 million mexicans": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-04",
         "2026-02-05"
@@ -5471,7 +5472,7 @@
       ]
     },
     "check point research": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-04",
         "2026-02-05"
@@ -5511,7 +5512,7 @@
       ]
     },
     "flaws dubbed lookout": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-05"
       ]
@@ -5535,24 +5536,43 @@
       ]
     },
     "targeted nginx installations": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2026-02-05"
+      ]
+    },
+    "least february 2024": {
+      "count": 1,
+      "dates": [
+        "2026-02-05"
+      ]
+    },
+    "widespread internet blackout": {
+      "count": 1,
+      "dates": [
+        "2026-02-05"
+      ]
+    },
+    "automated emails generated": {
+      "count": 1,
+      "dates": [
+        "2026-02-05"
+      ]
+    },
+    "taking complete control": {
+      "count": 1,
+      "dates": [
+        "2026-02-05"
+      ]
+    },
+    "hacktivist group claims": {
+      "count": 1,
       "dates": [
         "2026-02-05"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-27 08:27",
-      "articles": 56,
-      "top_keywords": [
-        "2024 vmware flaw",
-        "hacking claims crunchbase",
-        "badbox 2 0",
-        "executive order 14144",
-        "applications ai agents"
-      ]
-    },
     {
       "timestamp": "2026-01-27 10:22",
       "articles": 56,
@@ -6640,6 +6660,17 @@
         "rockwell automation controllogix",
         "twitter whistleblower complaint",
         "identity stack identity"
+      ]
+    },
+    {
+      "timestamp": "2026-02-05 12:52",
+      "articles": 56,
+      "top_keywords": [
+        "rockwell automation controllogix",
+        "take full control",
+        "least february 2024",
+        "widespread internet blackout",
+        "twitter whistleblower complaint"
       ]
     }
   ]

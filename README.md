@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-05 10:35 UTC |
+| 🕐 Last Updated | 2026-02-05 12:52 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `rockwell automation controllogix` • `twitter whistleblower complaint` • `identity stack identity` • `check point research` • `dire critical rating` • `critical vulnerability exists` • `alltrue ai valued` • `36 million mexicans`
+`rockwell automation controllogix` • `take full control` • `least february 2024` • `widespread internet blackout` • `twitter whistleblower complaint` • `identity stack identity` • `flaws dubbed lookout` • `check point research` • `automated emails generated` • `1 billion valuation`
 
 ## 📄 Reports
 

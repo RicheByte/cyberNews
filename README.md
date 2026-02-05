@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-05 14:39 UTC |
+| 🕐 Last Updated | 2026-02-05 16:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`rockwell automation controllogix` • `researchers expose network` • `least february 2024` • `widespread internet blackout` • `twitter whistleblower complaint` • `automated emails generated` • `taking complete control` • `take full control` • `internal network behind` • `hiding behind cloudflare`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `rockwell automation controllogix` • `truth cloud logs` • `researchers expose network` • `widespread internet blackout` • `twitter whistleblower complaint` • `least february 2024` • `automated emails generated` • `hiding behind cloudflare`
 
 ## 📄 Reports
 

@@ -190,7 +190,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 592,
+      "count": 593,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -723,7 +723,7 @@
       ]
     },
     "national security risk": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2354,13 +2354,14 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-08",
         "2026-01-11",
         "2026-01-12",
         "2026-01-14",
-        "2026-01-15"
+        "2026-01-15",
+        "2026-02-05"
       ]
     },
     "next wave hits": {
@@ -2388,7 +2389,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2412,7 +2413,7 @@
       ]
     },
     "internal network behind": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3023,7 +3024,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4370,7 +4371,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5128,7 +5129,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5452,7 +5453,7 @@
       ]
     },
     "36 million mexicans": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-04",
         "2026-02-05"
@@ -5548,13 +5549,13 @@
       ]
     },
     "widespread internet blackout": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-05"
       ]
     },
     "automated emails generated": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-05"
       ]
@@ -5572,7 +5573,7 @@
       ]
     },
     "researchers expose network": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-05"
       ]
@@ -5584,13 +5585,13 @@
       ]
     },
     "16 9 million": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-05"
       ]
     },
     "cybersecurity ai workforce": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-05"
       ]
@@ -5602,6 +5603,36 @@
       ]
     },
     "truth cloud logs": {
+      "count": 2,
+      "dates": [
+        "2026-02-05"
+      ]
+    },
+    "execute arbitrary commands": {
+      "count": 1,
+      "dates": [
+        "2026-02-05"
+      ]
+    },
+    "arbitrary system commands": {
+      "count": 1,
+      "dates": [
+        "2026-02-05"
+      ]
+    },
+    "rotating ip ranges": {
+      "count": 1,
+      "dates": [
+        "2026-02-05"
+      ]
+    },
+    "legitimate system features": {
+      "count": 1,
+      "dates": [
+        "2026-02-05"
+      ]
+    },
+    "service ddos attacks": {
       "count": 1,
       "dates": [
         "2026-02-05"
@@ -5609,17 +5640,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-27 14:25",
-      "articles": 56,
-      "top_keywords": [
-        "hacking claims crunchbase",
-        "executive order 14144",
-        "badbox 2 0",
-        "ai generated backdoor",
-        "malicious cyber actors"
-      ]
-    },
     {
       "timestamp": "2026-01-27 16:24",
       "articles": 56,
@@ -6707,6 +6727,17 @@
         "rockwell automation controllogix",
         "truth cloud logs",
         "researchers expose network"
+      ]
+    },
+    {
+      "timestamp": "2026-02-05 18:41",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "execute arbitrary commands",
+        "widespread internet blackout",
+        "truth cloud logs"
       ]
     }
   ]

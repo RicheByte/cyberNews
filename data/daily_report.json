@@ -1,77 +1,88 @@
 {
-  "last_updated": "2026-02-05 16:40",
+  "last_updated": "2026-02-05 18:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
-    "rockwell automation controllogix",
-    "truth cloud logs",
-    "researchers expose network",
+    "execute arbitrary commands",
     "widespread internet blackout",
+    "truth cloud logs",
+    "arbitrary system commands",
+    "researchers expose network",
     "twitter whistleblower complaint",
-    "least february 2024",
+    "rotating ip ranges",
+    "recommended immediate actions",
     "automated emails generated",
-    "hiding behind cloudflare",
+    "legitimate system features",
     "36 million mexicans",
     "16 9 million",
     "internal network behind",
+    "service ddos attacks",
     "national security risk",
     "cybersecurity ai workforce",
-    "today we'll dig",
-    "targeted nginx installations",
-    "syn ventures brings",
-    "strong theme running",
-    "scoops nestled inside"
+    "vulnerabilities earned microsoft's",
+    "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 42
+      "mentions": 43
     },
     {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 75
+      "keyword": "execute arbitrary commands",
+      "mentions": 1
+    },
+    {
+      "keyword": "widespread internet blackout",
+      "mentions": 4
     },
     {
       "keyword": "truth cloud logs",
+      "mentions": 2
+    },
+    {
+      "keyword": "arbitrary system commands",
       "mentions": 1
     },
     {
       "keyword": "researchers expose network",
-      "mentions": 2
-    },
-    {
-      "keyword": "widespread internet blackout",
       "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 592
+      "mentions": 593
     },
     {
-      "keyword": "least february 2024",
-      "mentions": 3
+      "keyword": "rotating ip ranges",
+      "mentions": 1
     },
     {
-      "keyword": "automated emails generated",
-      "mentions": 3
-    },
-    {
-      "keyword": "hiding behind cloudflare",
-      "mentions": 2
+      "keyword": "recommended immediate actions",
+      "mentions": 10
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
+      "link": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
+      "summary": "The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds. Cloudflare, which automatically detected and mitigated the activity, said it's part of a growing number of hyper-volumetric HTTP DDoS attacks mounted by the botnet in the fourth quarter of 2025. The",
+      "published": "Thu, 05 Feb 2026 22:55:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
       "link": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
-      "summary": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next. Researchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less",
+      "summary": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next. Researchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less visible while impact",
       "published": "Thu, 05 Feb 2026 18:27:00 +0530",
       "value_score": 30,
       "value_signals": [
@@ -143,15 +154,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
-      "link": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
-      "summary": "Threat actors affiliated with China have been attributed to a fresh set of cyber espionage campaigns targeting government and law enforcement agencies across Southeast Asia throughout 2025. Check Point Research is tracking the previously undocumented activity cluster under the moniker Amaranth-Dragon, which it said shares links to the APT 41 ecosystem. Targeted countries include Cambodia,",
-      "published": "Wed, 04 Feb 2026 19:39:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Microsoft to shut down Exchange Online EWS in April 2027",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/",
+      "summary": "Microsoft announced today that the Exchange Web Services (EWS) API for Exchange Online will be shut down in April 2027, after nearly 20 years. [...]",
+      "published": "Thu, 05 Feb 2026 13:07:41 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Italian university La Sapienza goes offline after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/",
+      "summary": "Rome's \"La Sapienza\" university has been targeted by a cyberattack that impacted its IT systems and caused widespread operational disruptions at the educational institute. [...]",
+      "published": "Thu, 05 Feb 2026 12:02:45 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -210,32 +228,6 @@
       "published": "Wed, 04 Feb 2026 18:26:56 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical n8n flaws disclosed along with public exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/",
-      "summary": "Multiple critical vulnerabilities in the popular n8n open-source workflow automation platform allow escaping the confines of the environment and taking complete control of the host server. [...]",
-      "published": "Wed, 04 Feb 2026 16:14:36 -0500",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
-      "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was used in zero-day attacks since at least February 2024. [...]",
-      "published": "Wed, 04 Feb 2026 12:38:46 -0500",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day",
-        "Ransomware ×2",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -568,24 +560,24 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Synectix LAN 232 TRIO",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an unauthenticated attacker modifying critical device settings or factory resetting the device. The following versions of Synectix LAN 232 TRIO are affected: LAN 232 TRIO vers:all/* (CVE-2026-1633) CVSS Vendor Equipment Vulnerabilities v3 10 Synectix Synectix LAN 232 TRIO Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Critical Manufacturing, Emergency Services, Energy, Inform",
-      "published": "Tue, 03 Feb 26 12:00:00 +0000",
-      "value_score": 75,
+      "title": "TP-Link Systems Inc. VIGI Series IP Camera",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in unauthorized users gaining administrative access to affected closed circuit television cameras. The following versions of TP-Link Systems Inc. VIGI Series IP Camera are affected: VIGI Cx45 Series Models C345, C445 <=3.1.0_Build_250820_Rel.57668n (CVE-2026-0629) VIGI Cx55 Series Models C355, C455 <=3.1.0_Build_250820_Rel.58873n (CVE-2026-0629) VIGI Cx85 Series Models C385, C485 <=3.0.2_Build_250630_Rel.71279n (CVE-202",
+      "published": "Thu, 05 Feb 26 12:00:00 +0000",
+      "value_score": 85,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×4",
+        "CVE mentioned ×2",
+        "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Mitsubishi Electric FREQSHIP-mini for Windows",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to, modify, delete, or destroy information stored on the system where the affected product is installed, or cause a denial-of-service condition on the affected system. The following versions of Mitsubishi Electric FREQSHIP-mini for Windows are affected: FREQSHIP-mini for Windows >=8.0.0|<=8.0.2 (CVE-2025-10314) CVSS Vendor Equipment Vulnerabilities v3 8.8 Mitsubishi Electric Mitsub",
-      "published": "Tue, 03 Feb 26 12:00:00 +0000",
+      "title": "Mitsubishi Electric MELSEC iQ-R Series",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability may allow an attacker to read device data or part of a control program from the affected product, write device data in the affected product, or cause a denial-of-service condition on the affected product. The following versions of Mitsubishi Electric MELSEC iQ-R Series are affected: MELSEC iQ-R Series R08/16/32/120PCPU firmware <=48 (CVE-2025-15080) CVSS Vendor Equipment Vulnerabilities v3 9.4 Mitsubishi Electric Mitsubishi Electric",
+      "published": "Thu, 05 Feb 26 12:00:00 +0000",
       "value_score": 59,
       "value_signals": [
         "Source boost: CISA Alerts",
@@ -595,10 +587,22 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Avation Light Engine Pro",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take full control of the device. The following versions of Avation Light Engine Pro are affected: Light Engine Pro vers:all/* (CVE-2026-1341) CVSS Vendor Equipment Vulnerabilities v3 9.8 Avation Avation Light Engine Pro Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Australia V",
-      "published": "Tue, 03 Feb 26 12:00:00 +0000",
+      "title": "Hitachi Energy FOX61x",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-06",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects FOX61x product versions listed in this document. Successful exploitation of this vulnerability can lead to forgery attacks potentially causing impact on confidentiality, integrity and availability for the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. Note: This is applicable only if FOX61x devices are configured to use remote RADIUS authentication. The followin",
+      "published": "Thu, 05 Feb 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "o6 Automation GmbH Open62541",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition and memory corruption. The following versions of o6 Automation GmbH Open62541 are affected: Open62541 >=1.5-rc1|<1.5-rc2 (CVE-2026-1301) CVSS Vendor Equipment Vulnerabilities v3 5.7 o6 Automation GmbH o6 Automation GmbH Open62541 Out-of-bounds Write Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters",
+      "published": "Thu, 05 Feb 26 12:00:00 +0000",
       "value_score": 75,
       "value_signals": [
         "Source boost: CISA Alerts",
@@ -609,15 +613,26 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/03/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2019-19006 Sangoma FreePBX Improper Authentication Vulnerability CVE-2021-39935 GitLab Community and Enterprise Editions Server-Side Request Forgery (SSRF) Vulnerability CVE-2025-40551 SolarWinds Web Help Desk Deserialization of Untrusted Data Vulnerability CVE-2025-64328 Sangoma FreePBX OS Command Injection Vulnerability These types of vulnerabilities are ",
-      "published": "Tue, 03 Feb 26 12:00:00 +0000",
-      "value_score": 100,
+      "title": "Hitachi Energy XMC20",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-05",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects XMC20 product versions listed in this document. Successful exploitation of this vulnerability can lead to forgery attacks potentially causing impact on confidentiality, integrity and availability for the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. Note: This is applicable only if XMC20 devices are configured to use remote RADIUS authentication. The following ",
+      "published": "Thu, 05 Feb 26 12:00:00 +0000",
+      "value_score": 41,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Ilevia EVE X1 Server",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-04",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary shell commands and the disclosure of sensitive system information. The following versions of Ilevia EVE X1 Server are affected: EVE X1 <=4.7.18.0 (CVE-2025-34185, CVE-2025-34184, CVE-2025-34183, CVE-2025-34186, CVE-2025-34187, CVE-2025-34517, CVE-2025-34518, CVE-2025-34512, CVE-2025-34513) CVSS Vendor Equipment Vulnerabilities v3 9.8 Ilevia Ilevia EVE X1 Server Improper Limitation of a",
+      "published": "Thu, 05 Feb 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×9",
         "Multiple CVEs",
         "Exploit wording"
       ]
@@ -638,43 +653,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "KiloView Encoder Series",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to create or delete administrator accounts, granting full administrative control. The following versions of KiloView Encoder Series are affected: Encoder Series E1 hardware Version 1.4 4.7.2516 (CVE-2026-1453) Encoder Series E1 hardware Version 1.6.20 4.7.2511|4.8.2523|4.8.2611|4.6.2400|4.7.2512|4.8.2561|4.8.2554|4.3.2029|4.8.2555|4.6.2408 (CVE-2026-1453) Encoder Series E1-s hardware Version 1",
-      "published": "Thu, 29 Jan 26 12:00:00 +0000",
-      "value_score": 85,
+      "title": "Avation Light Engine Pro",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take full control of the device. The following versions of Avation Light Engine Pro are affected: Light Engine Pro vers:all/* (CVE-2026-1341) CVSS Vendor Equipment Vulnerabilities v3 9.8 Avation Avation Light Engine Pro Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Australia V",
+      "published": "Tue, 03 Feb 26 12:00:00 +0000",
+      "value_score": 75,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Rockwell Automation ArmorStart LT",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-02",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition. The following versions of Rockwell Automation ArmorStart LT are affected: ArmorStart LT 290D <=V2.002 (CVE-2025-9464, CVE-2025-9465, CVE-2025-9466, CVE-2025-9278, CVE-2025-9279, CVE-2025-9280, CVE-2025-9281, CVE-2025-9282, CVE-2025-9283) ArmorStart LT 291D <=V2.002 (CVE-2025-9464, CVE-2025-9465, CVE-2025-9466, CVE-2025-9278, CVE-2025-9279, CVE-2025-9280, CVE-2025-928",
-      "published": "Thu, 29 Jan 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×15",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Rockwell Automation ControlLogix",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition. The following versions of Rockwell Automation ControlLogix are affected: ControlLogix Redundancy Enhanced Module Catalog 1756-RM2 Firmware vers:all/* (CVE-2025-14027) ControlLogix Redundancy Enhanced Module Catalog 1756-RM2XT Firmware vers:all/* (CVE-2025-14027) CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation Rockwell Automation ControlLogix Missing Rel",
-      "published": "Thu, 29 Jan 26 12:00:00 +0000",
-      "value_score": 85,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Multiple CVEs",
+        "CVE mentioned",
+        "High severity ×2",
         "Exploit wording"
       ]
     }

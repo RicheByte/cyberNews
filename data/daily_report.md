@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-05 16:40 UTC  
+> **Last Updated:** 2026-02-05 18:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **rockwell automation controllogix** • **truth cloud logs** • **researchers expose network** • **widespread internet blackout** • **twitter whistleblower complaint** • **least february 2024** • **automated emails generated** • **hiding behind cloudflare** • **36 million mexicans** • **16 9 million** • **internal network behind** • **national security risk** • **cybersecurity ai workforce** • **today we'll dig** • **targeted nginx installations** • **syn ventures brings** • **strong theme running** • **scoops nestled inside**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **execute arbitrary commands** • **widespread internet blackout** • **truth cloud logs** • **arbitrary system commands** • **researchers expose network** • **twitter whistleblower complaint** • **rotating ip ranges** • **recommended immediate actions** • **automated emails generated** • **legitimate system features** • **36 million mexicans** • **16 9 million** • **internal network behind** • **service ddos attacks** • **national security risk** • **cybersecurity ai workforce** • **vulnerabilities earned microsoft's** • **today we'll dig**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack](https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html)
 - [ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html)
 - [The Buyer’s Guide to AI Usage Control](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html)
 - [Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html)
@@ -23,18 +24,17 @@
 - [Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
 - [Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
 - [DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
-- [China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns](https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html)
 
 ### BleepingComputer
 
+- [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
+- [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
 - [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
 - [When cloud logs fall short, the network tells the truth](https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/)
 - [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
 - [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
 - [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
 - [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
-- [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
-- [CISA: VMware ESXi flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [Synectix LAN 232 TRIO](https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-04)
-- [Mitsubishi Electric FREQSHIP-mini for Windows](https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-01)
-- [Avation Light Engine Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-02)
-- [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/03/cisa-adds-four-known-exploited-vulnerabilities-catalog)
+- [TP-Link Systems Inc. VIGI Series IP Camera](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-01)
+- [Mitsubishi Electric MELSEC iQ-R Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-02)
+- [Hitachi Energy FOX61x](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-06)
+- [o6 Automation GmbH Open62541](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-03)
+- [Hitachi Energy XMC20](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-05)
+- [Ilevia EVE X1 Server](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-04)
 - [RISS SRL MOMA Seismic Station](https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-03)
-- [KiloView Encoder Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-01)
-- [Rockwell Automation ArmorStart LT](https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-02)
-- [Rockwell Automation ControlLogix](https://www.cisa.gov/news-events/ics-advisories/icsa-26-029-03)
+- [Avation Light Engine Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-02)
 
 ---
 

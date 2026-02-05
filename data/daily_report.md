@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-05 20:28 UTC  
+> **Last Updated:** 2026-02-05 22:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **execute arbitrary commands** • **widespread internet blackout** • **truth cloud logs** • **arbitrary system commands** • **researchers expose network** • **twitter whistleblower complaint** • **rotating ip ranges** • **recommended immediate actions** • **automated emails generated** • **legitimate system features** • **36 million mexicans** • **16 9 million** • **internal network behind** • **service ddos attacks** • **national security risk** • **cybersecurity ai workforce** • **vulnerabilities earned microsoft's** • **today we'll dig**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **execute arbitrary commands** • **widespread internet blackout** • **truth cloud logs** • **arbitrary system commands** • **researchers expose network** • **twitter whistleblower complaint** • **rotating ip ranges** • **recommended immediate actions** • **memory spain's ministry** • **legitimate system features** • **hacktivist group claims** • **company facing services** • **36 million mexicans** • **16 9 million** • **internal network behind** • **service ddos attacks** • **national security risk** • **cybersecurity ai workforce**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Spain's Ministry of Science shuts down systems after breach claims](https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/)
+- [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
 - [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
 - [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
 - [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
 - [When cloud logs fall short, the network tells the truth](https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/)
 - [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
 - [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
-- [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
-- [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
 
 ### Krebs on Security
 
@@ -86,10 +86,10 @@
 - [Mitsubishi Electric MELSEC iQ-R Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-02)
 - [Hitachi Energy FOX61x](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-06)
 - [o6 Automation GmbH Open62541](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-03)
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Hitachi Energy XMC20](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-05)
 - [Ilevia EVE X1 Server](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-04)
-- [RISS SRL MOMA Seismic Station](https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-03)
-- [Avation Light Engine Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-02)
+- [Synectix LAN 232 TRIO](https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-04)
 
 ---
 

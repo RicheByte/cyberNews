@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05 20:28",
+  "last_updated": "2026-02-05 22:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,57 +13,57 @@
     "twitter whistleblower complaint",
     "rotating ip ranges",
     "recommended immediate actions",
-    "automated emails generated",
+    "memory spain's ministry",
     "legitimate system features",
+    "hacktivist group claims",
+    "company facing services",
     "36 million mexicans",
     "16 9 million",
     "internal network behind",
     "service ddos attacks",
     "national security risk",
-    "cybersecurity ai workforce",
-    "vulnerabilities earned microsoft's",
-    "today we'll dig"
+    "cybersecurity ai workforce"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "execute arbitrary commands",
-      "mentions": 2
-    },
-    {
-      "keyword": "widespread internet blackout",
-      "mentions": 5
-    },
-    {
-      "keyword": "truth cloud logs",
       "mentions": 3
     },
     {
-      "keyword": "arbitrary system commands",
-      "mentions": 2
+      "keyword": "widespread internet blackout",
+      "mentions": 6
     },
     {
-      "keyword": "researchers expose network",
+      "keyword": "truth cloud logs",
       "mentions": 4
     },
     {
+      "keyword": "arbitrary system commands",
+      "mentions": 3
+    },
+    {
+      "keyword": "researchers expose network",
+      "mentions": 5
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 594
+      "mentions": 595
     },
     {
       "keyword": "rotating ip ranges",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "recommended immediate actions",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
@@ -155,6 +155,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Spain's Ministry of Science shuts down systems after breach claims",
+      "link": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
+      "summary": "Spain's Ministry of Science (Ministerio de Ciencia) announced a partial shutdown of its IT systems, affecting several citizen- and company-facing services. [...]",
+      "published": "Thu, 05 Feb 2026 16:23:00 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Ransomware gang uses ISPsystem VMs for stealthy payload delivery",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/",
+      "summary": "Ransomware operators are hosting and delivering malicious payloads at scale by abusing virtual machines (VMs) provisioned by ISPsystem, a legitimate virtual infrastructure management provider. [...]",
+      "published": "Thu, 05 Feb 2026 15:57:11 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft to shut down Exchange Online EWS in April 2027",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/",
       "summary": "Microsoft announced today that the Exchange Web Services (EWS) API for Exchange Online will be shut down in April 2027, after nearly 20 years. [...]",
@@ -210,24 +232,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Zendesk spam wave returns, floods users with 'Activate account' emails",
-      "link": "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/",
-      "summary": "A fresh wave of spam is hitting inboxes worldwide, with users reporting that they are once again being bombarded by automated emails generated through companies' unsecured Zendesk support systems. Some recipients say they are receiving hundreds of messages with strange or alarming subject lines. such as 'Activate account...' [...]",
-      "published": "Thu, 05 Feb 2026 05:22:36 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers compromise NGINX servers to redirect user traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/",
-      "summary": "A threat actor is compromising NGINX servers in a campaign that hijacks user traffic and reroutes it through the attacker's backend infrastructure. [...]",
-      "published": "Wed, 04 Feb 2026 18:26:56 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -318,7 +322,7 @@
       "source": "Dark Reading",
       "title": "Cyber Success Trifecta: Education, Certifications &amp; Experience",
       "link": "https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience",
-      "summary": "Colonel Georgeo Xavier Pulikkathara, CISO at iMerit discusses the importance of fundamentals, continuous learning, and human ingenuity in the face of AI-driven cybersecurity evolution.",
+      "summary": "Col. Georgeo Xavier Pulikkathara, CISO at iMerit, discusses the importance of fundamentals, continuous learning, and human ingenuity in the face of AI-driven cybersecurity evolution.",
       "published": "Thu, 05 Feb 2026 14:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -613,6 +617,22 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/02/05/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-11953 React Native Community CLI OS Command Injection Vulnerability CVE-2026-24423 SmarterTools SmarterMail Missing Authentication for Critical Function Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reduc",
+      "published": "Thu, 05 Feb 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Hitachi Energy XMC20",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-05",
       "summary": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects XMC20 product versions listed in this document. Successful exploitation of this vulnerability can lead to forgery attacks potentially causing impact on confidentiality, integrity and availability for the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. Note: This is applicable only if XMC20 devices are configured to use remote RADIUS authentication. The following ",
@@ -639,29 +659,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "RISS SRL MOMA Seismic Station",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an unauthenticated attacker creating a denial-of-service condition. The following versions of RISS SRL MOMA Seismic Station are affected: MOMA Seismic Station <=v2.4.2520 (CVE-2026-1632) CVSS Vendor Equipment Vulnerabilities v3 9.1 RISS SRL RISS SRL MOMA Seismic Station Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Critical Manufacturing, Dams, Energy, Water and Wastewater, ",
+      "title": "Synectix LAN 232 TRIO",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an unauthenticated attacker modifying critical device settings or factory resetting the device. The following versions of Synectix LAN 232 TRIO are affected: LAN 232 TRIO vers:all/* (CVE-2026-1633) CVSS Vendor Equipment Vulnerabilities v3 10 Synectix Synectix LAN 232 TRIO Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Critical Manufacturing, Emergency Services, Energy, Inform",
       "published": "Tue, 03 Feb 26 12:00:00 +0000",
       "value_score": 75,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
-        "High severity ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Avation Light Engine Pro",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-034-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take full control of the device. The following versions of Avation Light Engine Pro are affected: Light Engine Pro vers:all/* (CVE-2026-1341) CVSS Vendor Equipment Vulnerabilities v3 9.8 Avation Avation Light Engine Pro Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Australia V",
-      "published": "Tue, 03 Feb 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×2",
+        "High severity ×4",
         "Exploit wording"
       ]
     }

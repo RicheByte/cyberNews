@@ -1,72 +1,98 @@
 {
-  "last_updated": "2026-02-05 04:10",
+  "last_updated": "2026-02-05 06:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "remote code execution",
     "rockwell automation controllogix",
+    "remote code execution",
     "windows operating systems",
     "twitter whistleblower complaint",
     "take full control",
-    "open vsx extensions",
-    "multistage infection chain",
     "identity stack identity",
     "flaws dubbed lookout",
     "check point research",
-    "attacker's backend infrastructure",
+    "critical vulnerability exists",
+    "dire critical rating",
+    "national security risk",
     "alltrue ai valued",
     "36 million mexicans",
-    "national security risk",
-    "enforce security checks",
-    "data security firm",
     "vulnerabilities earned microsoft's",
     "internal network behind",
     "conclude ransomware operators",
-    "windows insider program"
+    "windows insider program",
+    "data security firm",
+    "today we'll dig",
+    "targeted nginx installations"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 66
+      "keyword": "rockwell automation controllogix",
+      "mentions": 70
     },
     {
-      "keyword": "rockwell automation controllogix",
-      "mentions": 69
+      "keyword": "remote code execution",
+      "mentions": 67
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 259
+      "mentions": 260
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 586
+      "mentions": 587
     },
     {
       "keyword": "take full control",
-      "mentions": 8
-    },
-    {
-      "keyword": "open vsx extensions",
-      "mentions": 10
-    },
-    {
-      "keyword": "multistage infection chain",
-      "mentions": 14
+      "mentions": 9
     },
     {
       "keyword": "identity stack identity",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "flaws dubbed lookout",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "check point research",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "critical vulnerability exists",
+      "mentions": 1
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 43
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+      "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+      "summary": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands. The flaw, tracked as CVE-2026-25049 (CVSS score: 9.4), is the result of inadequate sanitization that bypasses safeguards put in place to address CVE-2025-68613 (CVSS score: 9.9), another critical defect that",
+      "published": "Thu, 05 Feb 2026 11:46:00 +0530",
+      "value_score": 80,
+      "value_signals": [
+        "CVE mentioned ×3",
+        "High severity ×3",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it through the attacker's infrastructure. Datadog Security Labs said it observed threat actors associated with the recent React2Shell (CVE-2025-55182, CVSS score: 10.0) exploitation using malicious NGINX",
+      "published": "Thu, 05 Feb 2026 10:26:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
@@ -124,31 +150,6 @@
       "published": "Wed, 04 Feb 2026 13:12:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
-      "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
-      "summary": "The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats. The move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don't end up getting published on the Open VSX Registry.",
-      "published": "Wed, 04 Feb 2026 11:56:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
-      "link": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in attacks. The vulnerability, tracked as CVE-2025-40551 (CVSS score: 9.8), is a untrusted data deserialization vulnerability that could pave the way for remote",
-      "published": "Wed, 04 Feb 2026 11:20:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "RCE",
-        "CISA/KEV ×5",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

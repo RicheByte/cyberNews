@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-05 04:10 UTC  
+> **Last Updated:** 2026-02-05 06:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **rockwell automation controllogix** • **windows operating systems** • **twitter whistleblower complaint** • **take full control** • **open vsx extensions** • **multistage infection chain** • **identity stack identity** • **flaws dubbed lookout** • **check point research** • **attacker's backend infrastructure** • **alltrue ai valued** • **36 million mexicans** • **national security risk** • **enforce security checks** • **data security firm** • **vulnerabilities earned microsoft's** • **internal network behind** • **conclude ransomware operators** • **windows insider program**
+**rockwell automation controllogix** • **remote code execution** • **windows operating systems** • **twitter whistleblower complaint** • **take full control** • **identity stack identity** • **flaws dubbed lookout** • **check point research** • **critical vulnerability exists** • **dire critical rating** • **national security risk** • **alltrue ai valued** • **36 million mexicans** • **vulnerabilities earned microsoft's** • **internal network behind** • **conclude ransomware operators** • **windows insider program** • **data security firm** • **today we'll dig** • **targeted nginx installations**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows](https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html)
+- [Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign](https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html)
 - [Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models](https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html)
 - [DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files](https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html)
 - [China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns](https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html)
 - [Orchid Security Introduces Continuous Identity Observability for Enterprise Applications](https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html)
 - [The First 90 Seconds: How Early Decisions Shape Incident Response Investigations](https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html)
 - [Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers](https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html)
-- [Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions](https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html)
-- [CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html)
 
 ### BleepingComputer
 

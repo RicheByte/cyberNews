@@ -151,7 +151,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 259,
+      "count": 260,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -190,7 +190,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 586,
+      "count": 587,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -489,7 +489,7 @@
       ]
     },
     "remote code execution": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -723,7 +723,7 @@
       ]
     },
     "national security risk": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2387,7 +2387,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2406,11 +2406,12 @@
         "2026-01-31",
         "2026-02-01",
         "2026-02-02",
-        "2026-02-04"
+        "2026-02-04",
+        "2026-02-05"
       ]
     },
     "internal network behind": {
-      "count": 169,
+      "count": 170,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2999,7 +3000,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3008,7 +3009,8 @@
         "2026-01-28",
         "2026-01-29",
         "2026-01-30",
-        "2026-01-31"
+        "2026-01-31",
+        "2026-02-05"
       ]
     },
     "bugs fixed today": {
@@ -3019,7 +3021,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4788,7 +4790,7 @@
       ]
     },
     "rockwell automation controllogix": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5342,7 +5344,7 @@
       ]
     },
     "take full control": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-03",
         "2026-02-04",
@@ -5408,7 +5410,7 @@
       ]
     },
     "identity stack identity": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-04",
         "2026-02-05"
@@ -5445,7 +5447,7 @@
       ]
     },
     "36 million mexicans": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-04",
         "2026-02-05"
@@ -5464,14 +5466,14 @@
       ]
     },
     "check point research": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-04",
         "2026-02-05"
       ]
     },
     "alltrue ai valued": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-04",
         "2026-02-05"
@@ -5484,14 +5486,14 @@
       ]
     },
     "data security firm": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-04",
         "2026-02-05"
       ]
     },
     "windows insider program": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-04",
         "2026-02-05"
@@ -5504,7 +5506,7 @@
       ]
     },
     "flaws dubbed lookout": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-05"
       ]
@@ -5516,24 +5518,25 @@
       ]
     },
     "conclude ransomware operators": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-02-05"
+      ]
+    },
+    "critical vulnerability exists": {
+      "count": 1,
+      "dates": [
+        "2026-02-05"
+      ]
+    },
+    "targeted nginx installations": {
+      "count": 1,
       "dates": [
         "2026-02-05"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-27 03:43",
-      "articles": 56,
-      "top_keywords": [
-        "2024 vmware flaw",
-        "hacking claims crunchbase",
-        "windows operating systems",
-        "executive order 14144",
-        "applications ai agents"
-      ]
-    },
     {
       "timestamp": "2026-01-27 04:42",
       "articles": 56,
@@ -6618,6 +6621,17 @@
       "top_keywords": [
         "remote code execution",
         "rockwell automation controllogix",
+        "windows operating systems",
+        "twitter whistleblower complaint",
+        "take full control"
+      ]
+    },
+    {
+      "timestamp": "2026-02-05 06:52",
+      "articles": 56,
+      "top_keywords": [
+        "rockwell automation controllogix",
+        "remote code execution",
         "windows operating systems",
         "twitter whistleblower complaint",
         "take full control"

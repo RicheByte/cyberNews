@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-05 08:36",
+  "last_updated": "2026-02-05 10:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "scattered lapsus shinyhunters",
+    "badbox 2 0",
     "rockwell automation controllogix",
-    "remote code execution",
-    "windows operating systems",
     "twitter whistleblower complaint",
-    "take full control",
     "identity stack identity",
-    "flaws dubbed lookout",
     "check point research",
-    "critical vulnerability exists",
     "dire critical rating",
-    "national security risk",
+    "critical vulnerability exists",
     "alltrue ai valued",
     "36 million mexicans",
-    "vulnerabilities earned microsoft's",
     "internal network behind",
     "conclude ransomware operators",
-    "windows insider program",
+    "national security risk",
     "data security firm",
+    "will never boil",
+    "vulnerabilities earned microsoft's",
     "today we'll dig",
-    "targeted nginx installations"
+    "targeted nginx installations",
+    "strong theme running",
+    "scoops nestled inside"
   ],
   "trending": [
     {
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 10
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 41
+    },
+    {
       "keyword": "rockwell automation controllogix",
-      "mentions": 71
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 68
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 261
+      "mentions": 72
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 588
-    },
-    {
-      "keyword": "take full control",
-      "mentions": 10
+      "mentions": 589
     },
     {
       "keyword": "identity stack identity",
-      "mentions": 10
-    },
-    {
-      "keyword": "flaws dubbed lookout",
-      "mentions": 4
+      "mentions": 11
     },
     {
       "keyword": "check point research",
-      "mentions": 8
-    },
-    {
-      "keyword": "critical vulnerability exists",
-      "mentions": 2
+      "mentions": 9
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 44
+      "mentions": 45
+    },
+    {
+      "keyword": "critical vulnerability exists",
+      "mentions": 3
+    },
+    {
+      "keyword": "alltrue ai valued",
+      "mentions": 7
+    },
+    {
+      "keyword": "36 million mexicans",
+      "mentions": 10
     }
   ],
   "articles": [
@@ -153,6 +153,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Zendesk spam wave returns, floods users with 'Activate account' emails",
+      "link": "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/",
+      "summary": "A fresh wave of spam is hitting inboxes worldwide, with users reporting that they are once again being bombarded by automated emails generated through companies' unsecured Zendesk support systems. Some recipients say they are receiving hundreds of messages with strange or alarming subject lines. such as 'Activate account...' [...]",
+      "published": "Thu, 05 Feb 2026 05:22:36 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers compromise NGINX servers to redirect user traffic",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/",
       "summary": "A threat actor is compromising NGINX servers in a campaign that hijacks user traffic and reroutes it through the attacker's backend infrastructure. [...]",
@@ -232,13 +241,24 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Microsoft rolls out native Sysmon monitoring in Windows 11",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
-      "summary": "Microsoft has started rolling out built-in Sysmon functionality to some Windows 11 systems enrolled in the Windows Insider program. [...]",
-      "published": "Wed, 04 Feb 2026 07:58:20 -0500",
+      "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
     },
     {
       "source": "Krebs on Security",
@@ -304,28 +324,6 @@
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Dark Reading",
@@ -412,6 +410,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Cisco, F5 Patch High-Severity Vulnerabilities",
+      "link": "https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/",
+      "summary": "The security defects can lead to DoS conditions, arbitrary command execution, and privilege escalation. The post Cisco, F5 Patch High-Severity Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 05 Feb 2026 09:54:34 +0000",
+      "value_score": 38,
+      "value_signals": [
+        "Privilege escalation",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation",
       "link": "https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/",
       "summary": "The Series C funding will enable the company to expand its AI capabilities for disrupting criminal networks. The post Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation appeared first on SecurityWeek .",
@@ -478,19 +488,6 @@
       "published": "Wed, 04 Feb 2026 10:00:14 +0000",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Fresh SolarWinds Vulnerability Exploited in Attacks",
-      "link": "https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/",
-      "summary": "The critical-severity SolarWinds Web Help Desk flaw could lead to unauthenticated remote code execution. The post Fresh SolarWinds Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
-      "published": "Wed, 04 Feb 2026 09:50:56 +0000",
-      "value_score": 44,
-      "value_signals": [
-        "RCE",
-        "High severity",
         "Exploit wording"
       ]
     },

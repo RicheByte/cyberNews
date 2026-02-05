@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-05 08:36 UTC |
+| 🕐 Last Updated | 2026-02-05 10:35 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`rockwell automation controllogix` • `remote code execution` • `windows operating systems` • `twitter whistleblower complaint` • `take full control` • `identity stack identity` • `flaws dubbed lookout` • `check point research` • `critical vulnerability exists` • `dire critical rating`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `rockwell automation controllogix` • `twitter whistleblower complaint` • `identity stack identity` • `check point research` • `dire critical rating` • `critical vulnerability exists` • `alltrue ai valued` • `36 million mexicans`
 
 ## 📄 Reports
 

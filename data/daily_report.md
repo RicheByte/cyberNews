@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-05 08:36 UTC  
+> **Last Updated:** 2026-02-05 10:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**rockwell automation controllogix** • **remote code execution** • **windows operating systems** • **twitter whistleblower complaint** • **take full control** • **identity stack identity** • **flaws dubbed lookout** • **check point research** • **critical vulnerability exists** • **dire critical rating** • **national security risk** • **alltrue ai valued** • **36 million mexicans** • **vulnerabilities earned microsoft's** • **internal network behind** • **conclude ransomware operators** • **windows insider program** • **data security firm** • **today we'll dig** • **targeted nginx installations**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **rockwell automation controllogix** • **twitter whistleblower complaint** • **identity stack identity** • **check point research** • **dire critical rating** • **critical vulnerability exists** • **alltrue ai valued** • **36 million mexicans** • **internal network behind** • **conclude ransomware operators** • **national security risk** • **data security firm** • **will never boil** • **vulnerabilities earned microsoft's** • **today we'll dig** • **targeted nginx installations** • **strong theme running** • **scoops nestled inside**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
 - [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
 - [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
 - [CISA: VMware ESXi flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/)
@@ -34,18 +35,17 @@
 - [The Double-Edged Sword of Non-Human Identities](https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/)
 - [EDR killer tool uses signed kernel driver from forensic software](https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/)
 - [New Amaranth Dragon cyberespionage group exploits WinRAR flaw](https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/)
-- [Microsoft rolls out native Sysmon monitoring in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/)
 
 ### Krebs on Security
 
+- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Cisco, F5 Patch High-Severity Vulnerabilities](https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/)
 - [Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation](https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/)
 - [Vulnerabilities Allowed Full Compromise of Google Looker Instances](https://www.securityweek.com/vulnerabilities-allowed-full-compromise-of-google-looker-instances/)
 - [Cyber Insights 2026: Cyberwar and Rising Nation State Threats](https://www.securityweek.com/cyber-insights-2026-cyberwar-and-rising-nation-state-threats/)
@@ -67,7 +68,6 @@
 - [Orion Raises $32 Million for Data Security](https://www.securityweek.com/orion-raises-32-million-for-data-security/)
 - [DockerDash Flaw in Docker AI Assistant Leads to RCE, Data Theft](https://www.securityweek.com/dockerdash-flaw-in-docker-ai-assistant-leads-to-rce-data-theft/)
 - [Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks](https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/)
-- [Fresh SolarWinds Vulnerability Exploited in Attacks](https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/)
 
 ### Threatpost
 

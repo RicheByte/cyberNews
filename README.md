@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-04 22:21 UTC |
+| 🕐 Last Updated | 2026-02-05 01:43 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `remote code execution` • `badbox 2 0` • `rockwell automation controllogix` • `twitter whistleblower complaint` • `open vsx extensions` • `multistage infection chain` • `identity stack identity` • `check point research` • `self replicating malware`
+`remote code execution` • `rockwell automation controllogix` • `windows operating systems` • `twitter whistleblower complaint` • `take full control` • `open vsx extensions` • `multistage infection chain` • `identity stack identity` • `flaws dubbed lookout` • `check point research`
 
 ## 📄 Reports
 

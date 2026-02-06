@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-06 16:38 UTC |
+| 🕐 Last Updated | 2026-02-06 18:41 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `man pleads guilty` • `internal network behind` • `cisa orders removal` • `national security risk` • `twitter whistleblower complaint` • `remote code execution` • `recommended immediate actions` • `even swatting executives`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `man pleads guilty` • `internal network behind` • `national security risk` • `twitter whistleblower complaint` • `remote code execution` • `recommended immediate actions` • `long term impact` • `even swatting executives`
 
 ## 📄 Reports
 

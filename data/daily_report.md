@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-06 16:38 UTC  
+> **Last Updated:** 2026-02-06 18:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **man pleads guilty** • **internal network behind** • **cisa orders removal** • **national security risk** • **twitter whistleblower complaint** • **remote code execution** • **recommended immediate actions** • **even swatting executives** • **agentic os platform** • **6 1 million** • **conclude ransomware operators** • **exchange online will** • **exchange online ews** • **dire critical rating** • **today we'll dig** • **hackers network operators** • **bugs fixed today** • **16th anniversary today**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **man pleads guilty** • **internal network behind** • **national security risk** • **twitter whistleblower complaint** • **remote code execution** • **recommended immediate actions** • **long term impact** • **even swatting executives** • **cisa orders removal** • **agentic os platform** • **6 1 million** • **130 companies tangled** • **dire critical rating** • **today we'll dig** • **spy deliver malware** • **hackers network operators** • **bugs fixed today** • **16th anniversary today**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [DKnife Linux toolkit hijacks router traffic to spy, deliver malware](https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/)
+- [CISA warns of SmarterMail RCE flaw used in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/)
 - [EDR, Email, and SASE Miss This Entire Class of Browser Attacks](https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/)
 - [EU says TikTok faces large fine over "addictive design"](https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/)
 - [Man pleads guilty to hacking nearly 600 women’s Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/)
 - [Flickr discloses potential data breach exposing users' names, emails](https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/)
 - [CISA orders federal agencies to replace end-of-life edge devices](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/)
 - [Spain's Ministry of Science shuts down systems after breach claims](https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/)
-- [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
-- [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [&quot;Encrypt It Already&quot; Campaign Pushes Big Tech to Prioritize E2E Encryption](https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption)
+- [Shai-hulud: The Hidden Cost of Supply Chain Attacks](https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks)
 - [OpenClaw's Gregarious Insecurities Make Safe Usage Difficult](https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult)
 - [EnCase Driver Weaponized as EDR Killers Persist](https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist)
 - [Agentic AI Site 'Moltbook' Is Riddled With Security Risks](https://www.darkreading.com/cyber-risk/agentic-ai-moltbook-security-risks)
 - [Data Tool to Triage Exploited Vulnerabilities Can Make KEV More Useful](https://www.darkreading.com/threat-intelligence/data-tool-triage-exploited-vulnerabilities-make-kev-catalog-more-useful)
 - [Cyber Success Trifecta: Education, Certifications &amp; Experience](https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience)
 - [Protests Don't Impede Iranian Spying on Expats, Syrians, Israelis](https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis)
-- [Ransomware Gang Goes Full 'Godfather' With Cartel](https://www.darkreading.com/cyber-risk/ransomware-gang-full-godfather-cartel)
-- [CISA Makes Unpublicized Ransomware Updates to KEV Catalog](https://www.darkreading.com/threat-intelligence/cisa-hidden-ransomware-updates-kev-catalog)
 
 ### Security Week
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06 16:38",
+  "last_updated": "2026-02-06 18:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,19 +7,19 @@
     "badbox 2 0",
     "man pleads guilty",
     "internal network behind",
-    "cisa orders removal",
     "national security risk",
     "twitter whistleblower complaint",
     "remote code execution",
     "recommended immediate actions",
+    "long term impact",
     "even swatting executives",
+    "cisa orders removal",
     "agentic os platform",
     "6 1 million",
-    "conclude ransomware operators",
-    "exchange online will",
-    "exchange online ews",
+    "130 companies tangled",
     "dire critical rating",
     "today we'll dig",
+    "spy deliver malware",
     "hackers network operators",
     "bugs fixed today",
     "16th anniversary today"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "man pleads guilty",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "internal network behind",
-      "mentions": 186
-    },
-    {
-      "keyword": "cisa orders removal",
-      "mentions": 2
+      "mentions": 187
     },
     {
       "keyword": "national security risk",
-      "mentions": 86
+      "mentions": 87
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 603
+      "mentions": 604
     },
     {
       "keyword": "remote code execution",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "recommended immediate actions",
-      "mentions": 20
+      "mentions": 21
+    },
+    {
+      "keyword": "long term impact",
+      "mentions": 1
     },
     {
       "keyword": "even swatting executives",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -153,6 +153,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
+      "link": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
+      "summary": "A newly discovered toolkit called DKnife has been used since 2019 to hijack traffic at the edge-device level and deliver malware in espionage campaigns. [...]",
+      "published": "Fri, 06 Feb 2026 13:35:11 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA warns of SmarterMail RCE flaw used in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/",
+      "summary": "The Cybersecurity & Infrastructure Security Agency (CISA) in the U.S. has issued a warning about CVE-2026-24423, an unauthenticated remote code execution (RCE) flaw in SmarterMail that is used in ransomware attacks. [...]",
+      "published": "Fri, 06 Feb 2026 12:16:03 -0500",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Ransomware ×2",
+        "RCE ×3",
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
       "link": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
       "summary": "Many modern attacks happen entirely inside the browser, leaving little evidence for traditional security tools. Keep Aware shows why EDR, email, and SASE miss browser-only attacks and how visibility changes prevention. [...]",
@@ -210,26 +233,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ransomware gang uses ISPsystem VMs for stealthy payload delivery",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/",
-      "summary": "Ransomware operators are hosting and delivering malicious payloads at scale by abusing virtual machines (VMs) provisioned by ISPsystem, a legitimate virtual infrastructure management provider. [...]",
-      "published": "Thu, 05 Feb 2026 15:57:11 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft to shut down Exchange Online EWS in April 2027",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/",
-      "summary": "Microsoft announced today that the Exchange Web Services (EWS) API for Exchange Online will be shut down in April 2027, after nearly 20 years. [...]",
-      "published": "Thu, 05 Feb 2026 13:07:41 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +321,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "&quot;Encrypt It Already&quot; Campaign Pushes Big Tech to Prioritize E2E Encryption",
+      "link": "https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption",
+      "summary": "The Electronic Frontier Foundation is urging major technology companies to follow through on their promises to implement end-to-end encryption by default across their services, as privacy concerns mount amid increased AI use.",
+      "published": "Fri, 06 Feb 2026 16:34:41 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Shai-hulud: The Hidden Cost of Supply Chain Attacks",
+      "link": "https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks",
+      "summary": "Recent supply chain attacks involving self-propagating worms have spread far, but the damage and long-term impact is hard to quantify.",
+      "published": "Fri, 06 Feb 2026 16:25:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "OpenClaw's Gregarious Insecurities Make Safe Usage Difficult",
       "link": "https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult",
       "summary": "Malicious \"skills\" and persnickety configuration settings are just some of the issues that security researchers have found when installing — and removing — the OpenClaw AI assistant.",
@@ -373,29 +394,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Ransomware Gang Goes Full 'Godfather' With Cartel",
-      "link": "https://www.darkreading.com/cyber-risk/ransomware-gang-full-godfather-cartel",
-      "summary": "DragonForce is taking cues from organized crime, emphasizing cooperation and coordination among ransomware gangs.",
-      "published": "Wed, 04 Feb 2026 22:14:19 GMT",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CISA Makes Unpublicized Ransomware Updates to KEV Catalog",
-      "link": "https://www.darkreading.com/threat-intelligence/cisa-hidden-ransomware-updates-kev-catalog",
-      "summary": "A third of the \"flipped\" CVEs affected network edge devices, leading one researcher to conclude, \"Ransomware operators are building playbooks around your perimeter.\"",
-      "published": "Wed, 04 Feb 2026 21:48:57 GMT",
-      "value_score": 86,
-      "value_signals": [
-        "Ransomware ×2",
-        "CISA/KEV ×2"
       ]
     },
     {

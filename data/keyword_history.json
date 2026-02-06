@@ -191,7 +191,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 605,
+      "count": 606,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -491,7 +491,7 @@
       ]
     },
     "remote code execution": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -726,7 +726,7 @@
       ]
     },
     "national security risk": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1952,7 +1952,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2360,7 +2360,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2396,7 +2396,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2421,7 +2421,7 @@
       ]
     },
     "internal network behind": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2585,7 +2585,7 @@
       ]
     },
     "hackers network operators": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3013,7 +3013,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3028,7 +3028,7 @@
       ]
     },
     "bugs fixed today": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-14",
         "2026-01-21",
@@ -4384,7 +4384,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5143,7 +5143,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5166,7 +5166,7 @@
       ]
     },
     "even swatting executives": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5710,19 +5710,19 @@
       ]
     },
     "agentic os platform": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-06"
       ]
     },
     "6 1 million": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-06"
       ]
     },
     "man pleads guilty": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-06"
       ]
@@ -5746,7 +5746,7 @@
       ]
     },
     "cisa orders removal": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-06"
       ]
@@ -5758,13 +5758,13 @@
       ]
     },
     "long term impact": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-06"
       ]
     },
     "spy deliver malware": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-06"
       ]
@@ -5774,20 +5774,15 @@
       "dates": [
         "2026-02-06"
       ]
+    },
+    "personalized recommendation systems": {
+      "count": 1,
+      "dates": [
+        "2026-02-06"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-28 16:30",
-      "articles": 56,
-      "top_keywords": [
-        "us charges 31",
-        "executive order 14144",
-        "badbox 2 0",
-        "rein security emerges",
-        "remote code execution"
-      ]
-    },
     {
       "timestamp": "2026-01-28 18:31",
       "articles": 56,
@@ -6875,6 +6870,17 @@
         "national security risk",
         "internal network behind",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-02-06 22:18",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "man pleads guilty",
+        "internal network behind",
+        "national security risk"
       ]
     }
   ]

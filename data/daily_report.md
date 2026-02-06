@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-06 18:41 UTC  
+> **Last Updated:** 2026-02-06 20:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **man pleads guilty** • **internal network behind** • **national security risk** • **twitter whistleblower complaint** • **remote code execution** • **recommended immediate actions** • **long term impact** • **even swatting executives** • **cisa orders removal** • **agentic os platform** • **6 1 million** • **130 companies tangled** • **dire critical rating** • **today we'll dig** • **spy deliver malware** • **hackers network operators** • **bugs fixed today** • **16th anniversary today**
+**windows operating systems** • **man pleads guilty** • **national security risk** • **internal network behind** • **twitter whistleblower complaint** • **remote code execution** • **recommended immediate actions** • **publicly accessible api** • **long term impact** • **cisa orders removal** • **agentic os platform** • **6 1 million** • **130 companies tangled** • **dire critical rating** • **traditional security tools** • **today we'll dig** • **hackers network operators** • **bugs fixed today** • **16th anniversary today** • **least 2019 dknife**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Germany warns of Signal account hijacking targeting senior figures](https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/)
 - [DKnife Linux toolkit hijacks router traffic to spy, deliver malware](https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/)
 - [CISA warns of SmarterMail RCE flaw used in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/)
 - [EDR, Email, and SASE Miss This Entire Class of Browser Attacks](https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/)
@@ -34,22 +35,21 @@
 - [Man pleads guilty to hacking nearly 600 women’s Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/)
 - [Flickr discloses potential data breach exposing users' names, emails](https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/)
 - [CISA orders federal agencies to replace end-of-life edge devices](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/)
-- [Spain's Ministry of Science shuts down systems after breach claims](https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/)
 
 ### Krebs on Security
 
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
-- [&quot;Encrypt It Already&quot; Campaign Pushes Big Tech to Prioritize E2E Encryption](https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption)
+- ['Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption](https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption)
 - [Shai-hulud: The Hidden Cost of Supply Chain Attacks](https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks)
 - [OpenClaw's Gregarious Insecurities Make Safe Usage Difficult](https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult)
 - [EnCase Driver Weaponized as EDR Killers Persist](https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist)

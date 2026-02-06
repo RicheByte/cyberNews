@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-06 18:41",
+  "last_updated": "2026-02-06 20:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "scattered lapsus shinyhunters",
-    "badbox 2 0",
+    "windows operating systems",
     "man pleads guilty",
-    "internal network behind",
     "national security risk",
+    "internal network behind",
     "twitter whistleblower complaint",
     "remote code execution",
     "recommended immediate actions",
+    "publicly accessible api",
     "long term impact",
-    "even swatting executives",
     "cisa orders removal",
     "agentic os platform",
     "6 1 million",
     "130 companies tangled",
     "dire critical rating",
+    "traditional security tools",
     "today we'll dig",
-    "spy deliver malware",
     "hackers network operators",
     "bugs fixed today",
-    "16th anniversary today"
+    "16th anniversary today",
+    "least 2019 dknife"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 21
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 52
+      "keyword": "windows operating systems",
+      "mentions": 264
     },
     {
       "keyword": "man pleads guilty",
-      "mentions": 4
-    },
-    {
-      "keyword": "internal network behind",
-      "mentions": 187
+      "mentions": 5
     },
     {
       "keyword": "national security risk",
-      "mentions": 87
+      "mentions": 88
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 188
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 604
+      "mentions": 605
     },
     {
       "keyword": "remote code execution",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "recommended immediate actions",
-      "mentions": 21
+      "mentions": 22
+    },
+    {
+      "keyword": "publicly accessible api",
+      "mentions": 3
     },
     {
       "keyword": "long term impact",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "even swatting executives",
-      "mentions": 5
+      "keyword": "cisa orders removal",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -153,6 +153,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Germany warns of Signal account hijacking targeting senior figures",
+      "link": "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/",
+      "summary": "Germany's domestic intelligence agency is warning of suspected state-sponsored threat actors targeting high-ranking individuals in phishing attacks via messaging apps like Signal. [...]",
+      "published": "Fri, 06 Feb 2026 15:00:33 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
       "link": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
       "summary": "A newly discovered toolkit called DKnife has been used since 2019 to hijack traffic at the edge-device level and deliver malware in espionage campaigns. [...]",
@@ -224,37 +235,6 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Spain's Ministry of Science shuts down systems after breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
-      "summary": "Spain's Ministry of Science (Ministerio de Ciencia) announced a partial shutdown of its IT systems, affecting several citizen- and company-facing services. [...]",
-      "published": "Thu, 05 Feb 2026 16:23:00 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -320,10 +300,32 @@
       "value_signals": []
     },
     {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
       "source": "Dark Reading",
-      "title": "&quot;Encrypt It Already&quot; Campaign Pushes Big Tech to Prioritize E2E Encryption",
+      "title": "'Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption",
       "link": "https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption",
-      "summary": "The Electronic Frontier Foundation is urging major technology companies to follow through on their promises to implement end-to-end encryption by default across their services, as privacy concerns mount amid increased AI use.",
+      "summary": "The Electronic Frontier Foundation is urging major technology companies to follow through on their promises to implement end-to-end encryption (E2E) by default across their services, as privacy concerns mount amid increased AI use.",
       "published": "Fri, 06 Feb 2026 16:34:41 GMT",
       "value_score": 10,
       "value_signals": []

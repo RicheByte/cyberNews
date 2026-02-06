@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-06 08:35 UTC |
+| 🕐 Last Updated | 2026-02-06 10:34 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `arbitrary system commands` • `widespread internet blackout` • `truth cloud logs` • `researchers expose network` • `entire web platform` • `twitter whistleblower complaint` • `service ddos attacks` • `rotating ip ranges`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `arbitrary system commands` • `widespread internet blackout` • `truth cloud logs` • `researchers expose network` • `service ddos attacks` • `least 2019 dknife` • `agentic os platform` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

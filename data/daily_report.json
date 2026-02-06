@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06 08:35",
+  "last_updated": "2026-02-06 10:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,69 +9,80 @@
     "widespread internet blackout",
     "truth cloud logs",
     "researchers expose network",
-    "entire web platform",
-    "twitter whistleblower complaint",
     "service ddos attacks",
+    "least 2019 dknife",
+    "agentic os platform",
+    "twitter whistleblower complaint",
     "rotating ip ranges",
     "recommended immediate actions",
     "exchange online will",
     "dire critical rating",
     "critical function vulnerability",
-    "conclude ransomware operators",
-    "16 9 million",
+    "6 1 million",
     "national security risk",
-    "company facing services",
+    "conclude ransomware operators",
     "internal network behind",
-    "cybersecurity ai workforce"
+    "entire web platform"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "arbitrary system commands",
-      "mentions": 7
-    },
-    {
-      "keyword": "widespread internet blackout",
-      "mentions": 10
-    },
-    {
-      "keyword": "truth cloud logs",
       "mentions": 8
     },
     {
-      "keyword": "researchers expose network",
+      "keyword": "widespread internet blackout",
+      "mentions": 11
+    },
+    {
+      "keyword": "truth cloud logs",
       "mentions": 9
     },
     {
-      "keyword": "entire web platform",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 599
+      "keyword": "researchers expose network",
+      "mentions": 10
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "rotating ip ranges",
-      "mentions": 7
+      "keyword": "least 2019 dknife",
+      "mentions": 1
+    },
+    {
+      "keyword": "agentic os platform",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 600
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
+      "link": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
+      "summary": "Cybersecurity researchers have discovered a new supply chain attack in which legitimate packages on npm and the Python Package Index (PyPI) repository have been compromised to push malicious versions to facilitate wallet credential theft and remote code execution. The compromised versions of the two packages are listed below - @dydxprotocol/v4-client-js (npm) - 3.4.1, 1.22.1, 1.15.2, 1.0.31&",
+      "published": "Fri, 06 Feb 2026 14:10:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
+    {
+      "source": "The Hacker News",
       "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
       "link": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
-      "summary": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF. Claude Opus 4.6, which was launched on Thursday, comes with improved coding skills, including code review and debugging capabilities, along",
+      "summary": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF. Claude Opus 4.6, which was launched Thursday, comes with improved coding skills, including code review and debugging capabilities, along with",
       "published": "Fri, 06 Feb 2026 11:19:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -143,13 +154,26 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
-      "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
-      "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems. The tech giant's AI Security team said the scanner leverages three observable signals that can be used to reliably flag the presence of backdoors while maintaining a low false positive",
-      "published": "Wed, 04 Feb 2026 23:22:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Flickr discloses potential data breach exposing users' names, emails",
+      "link": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
+      "summary": "Photo-sharing platform Flickr is notifying users of a potential data breach after a vulnerability at a third-party email service provider exposed their real names, email addresses, IP addresses, and account activity. [...]",
+      "published": "Fri, 06 Feb 2026 04:43:10 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA orders federal agencies to replace end-of-life edge devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued a new binding operational directive requiring federal agencies to identify and remove network edge devices that no longer receive security updates from manufacturers. [...]",
+      "published": "Fri, 06 Feb 2026 03:41:11 -0500",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -208,28 +232,6 @@
       "published": "Thu, 05 Feb 2026 10:00:10 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Newsletter platform Substack notifies users of data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/",
-      "summary": "Newsletter platform Substack is notifying users of a data breach after attackers stole their email addresses and phone numbers in October 2025. [...]",
-      "published": "Thu, 05 Feb 2026 07:54:48 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
-      "summary": "Hackers stole email addresses and other personal information from 1.4 million accounts after breaching the systems of automated investment platform Betterment in January. [...]",
-      "published": "Thu, 05 Feb 2026 06:16:12 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -397,6 +399,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Airrived Emerges From Stealth With $6.1 Million in Funding",
+      "link": "https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/",
+      "summary": "The startup aims to unify SOC, GRC, IAM, vulnerability management, IT, and business operations through its Agentic OS platform. The post Airrived Emerges From Stealth With $6.1 Million in Funding appeared first on SecurityWeek .",
+      "published": "Fri, 06 Feb 2026 09:40:59 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "‘DKnife’ Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks",
+      "link": "https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/",
+      "summary": "Used since at least 2019, DKnife has been targeting the desktop, mobile, and IoT devices of Chinese users. The post ‘DKnife’ Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks appeared first on SecurityWeek .",
+      "published": "Fri, 06 Feb 2026 08:50:46 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel",
       "link": "https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/",
       "summary": "The news comes after the Department of Energy conducted its annual Liberty Eclipse cybersecurity exercise. The post 5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel appeared first on SecurityWeek .",
@@ -454,24 +474,6 @@
       "link": "https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/",
       "summary": "Criminals are using AI to clone professional websites at an industrial scale. A new report shows how one AI-powered network grew to 150+ domains by hiding behind Cloudflare and rotating IP ranges. The post Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign appeared first on SecurityWeek .",
       "published": "Thu, 05 Feb 2026 14:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "VS Code Configs Expose GitHub Codespaces to Attacks",
-      "link": "https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/",
-      "summary": "VS Code-integrated configuration files are automatically executed in Codespaces when the user opens a repository or pull request. The post VS Code Configs Expose GitHub Codespaces to Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 05 Feb 2026 13:41:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce",
-      "link": "https://www.securityweek.com/nullify-secures-12-5-million-in-seed-funding-for-cybersecurity-ai-workforce/",
-      "summary": "This latest infusion, led by SYN Ventures, brings the company’s total funding to $16.9 million. The post Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce appeared first on SecurityWeek .",
-      "published": "Thu, 05 Feb 2026 13:02:15 +0000",
       "value_score": 10,
       "value_signals": []
     },

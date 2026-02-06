@@ -191,7 +191,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 599,
+      "count": 600,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -725,7 +725,7 @@
       ]
     },
     "national security risk": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2357,7 +2357,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2418,7 +2418,7 @@
       ]
     },
     "internal network behind": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3009,7 +3009,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4379,7 +4379,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5138,7 +5138,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5535,7 +5535,7 @@
       ]
     },
     "conclude ransomware operators": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5560,7 +5560,7 @@
       ]
     },
     "widespread internet blackout": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5585,7 +5585,7 @@
       ]
     },
     "researchers expose network": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5618,7 +5618,7 @@
       ]
     },
     "truth cloud logs": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5632,14 +5632,14 @@
       ]
     },
     "arbitrary system commands": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-05",
         "2026-02-06"
       ]
     },
     "rotating ip ranges": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5653,7 +5653,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5674,19 +5674,19 @@
       ]
     },
     "entire web platform": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-06"
       ]
     },
     "exchange online will": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-06"
       ]
     },
     "critical function vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-06"
       ]
@@ -5696,20 +5696,27 @@
       "dates": [
         "2026-02-06"
       ]
+    },
+    "least 2019 dknife": {
+      "count": 1,
+      "dates": [
+        "2026-02-06"
+      ]
+    },
+    "agentic os platform": {
+      "count": 1,
+      "dates": [
+        "2026-02-06"
+      ]
+    },
+    "6 1 million": {
+      "count": 1,
+      "dates": [
+        "2026-02-06"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-28 04:40",
-      "articles": 56,
-      "top_keywords": [
-        "malicious cyber actors",
-        "executive order 14144",
-        "windows operating systems",
-        "twitter whistleblower complaint",
-        "cve 2026 21509"
-      ]
-    },
     {
       "timestamp": "2026-01-28 06:29",
       "articles": 56,
@@ -6790,6 +6797,17 @@
     },
     {
       "timestamp": "2026-02-06 08:35",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "arbitrary system commands",
+        "widespread internet blackout",
+        "truth cloud logs"
+      ]
+    },
+    {
+      "timestamp": "2026-02-06 10:34",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

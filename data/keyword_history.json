@@ -191,7 +191,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 602,
+      "count": 603,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -491,7 +491,7 @@
       ]
     },
     "remote code execution": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -726,7 +726,7 @@
       ]
     },
     "national security risk": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2101,10 +2101,11 @@
       ]
     },
     "16th anniversary today": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-07",
-        "2026-01-08"
+        "2026-01-08",
+        "2026-02-06"
       ]
     },
     "unauthenticated remote attacker": {
@@ -2358,7 +2359,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2394,7 +2395,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2419,7 +2420,7 @@
       ]
     },
     "internal network behind": {
-      "count": 185,
+      "count": 186,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2583,7 +2584,7 @@
       ]
     },
     "hackers network operators": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3011,7 +3012,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3026,10 +3027,11 @@
       ]
     },
     "bugs fixed today": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-14",
-        "2026-01-21"
+        "2026-01-21",
+        "2026-02-06"
       ]
     },
     "vulnerabilities earned microsoft's": {
@@ -4381,7 +4383,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5140,7 +5142,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5163,10 +5165,11 @@
       ]
     },
     "even swatting executives": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-02",
-        "2026-02-03"
+        "2026-02-03",
+        "2026-02-06"
       ]
     },
     "shinyhunters expands scope": {
@@ -5537,7 +5540,7 @@
       ]
     },
     "conclude ransomware operators": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5682,7 +5685,7 @@
       ]
     },
     "exchange online will": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-06"
       ]
@@ -5706,19 +5709,19 @@
       ]
     },
     "agentic os platform": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-06"
       ]
     },
     "6 1 million": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-06"
       ]
     },
     "man pleads guilty": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-06"
       ]
@@ -5730,7 +5733,7 @@
       ]
     },
     "exchange online ews": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-06"
       ]
@@ -5742,7 +5745,7 @@
       ]
     },
     "cisa orders removal": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-06"
       ]
@@ -5755,17 +5758,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-28 10:23",
-      "articles": 56,
-      "top_keywords": [
-        "us charges 31",
-        "critical security flaw",
-        "executive order 14144",
-        "windows operating systems",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-28 12:39",
       "articles": 56,
@@ -6853,6 +6845,17 @@
         "least 2019 dknife",
         "national security risk",
         "internal network behind"
+      ]
+    },
+    {
+      "timestamp": "2026-02-06 16:38",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "man pleads guilty",
+        "internal network behind",
+        "cisa orders removal"
       ]
     }
   ]

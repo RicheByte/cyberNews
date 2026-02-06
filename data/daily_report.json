@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-02-06 14:37",
+  "last_updated": "2026-02-06 16:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "windows operating systems",
+    "scattered lapsus shinyhunters",
+    "badbox 2 0",
     "man pleads guilty",
-    "least 2019 dknife",
-    "national security risk",
     "internal network behind",
     "cisa orders removal",
+    "national security risk",
     "twitter whistleblower complaint",
-    "researchers tracked intrusions",
     "remote code execution",
     "recommended immediate actions",
-    "publicly accessible api",
+    "even swatting executives",
     "agentic os platform",
     "6 1 million",
     "conclude ransomware operators",
     "exchange online will",
     "exchange online ews",
     "dire critical rating",
-    "network security breach",
     "today we'll dig",
-    "hackers network operators"
+    "hackers network operators",
+    "bugs fixed today",
+    "16th anniversary today"
   ],
   "trending": [
     {
-      "keyword": "windows operating systems",
-      "mentions": 263
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 20
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 51
     },
     {
       "keyword": "man pleads guilty",
-      "mentions": 2
-    },
-    {
-      "keyword": "least 2019 dknife",
       "mentions": 3
     },
     {
-      "keyword": "national security risk",
-      "mentions": 85
-    },
-    {
       "keyword": "internal network behind",
-      "mentions": 185
+      "mentions": 186
     },
     {
       "keyword": "cisa orders removal",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 602
-    },
-    {
-      "keyword": "researchers tracked intrusions",
       "mentions": 2
     },
     {
+      "keyword": "national security risk",
+      "mentions": 86
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 603
+    },
+    {
       "keyword": "remote code execution",
-      "mentions": 70
+      "mentions": 71
     },
     {
       "keyword": "recommended immediate actions",
-      "mentions": 19
+      "mentions": 20
+    },
+    {
+      "keyword": "even swatting executives",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
+      "link": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
+      "summary": "Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at least 2019. The framework comprises seven Linux-based implants that are designed to perform deep packet inspection, manipulate traffic, and deliver malware via routers and edge devices. Its primary targets seem to",
+      "published": "Fri, 06 Feb 2026 20:26:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
@@ -143,11 +152,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The Buyer’s Guide to AI Usage Control",
-      "link": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
-      "summary": "Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening",
-      "published": "Thu, 05 Feb 2026 17:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
+      "summary": "Many modern attacks happen entirely inside the browser, leaving little evidence for traditional security tools. Keep Aware shows why EDR, email, and SASE miss browser-only attacks and how visibility changes prevention. [...]",
+      "published": "Fri, 06 Feb 2026 10:01:11 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -223,13 +232,24 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Italian university La Sapienza goes offline after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/",
-      "summary": "Rome's \"La Sapienza\" university has been targeted by a cyberattack that impacted its IT systems and caused widespread operational disruptions at the educational institute. [...]",
-      "published": "Thu, 05 Feb 2026 12:02:45 -0500",
+      "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
     },
     {
       "source": "Krebs on Security",
@@ -297,26 +317,13 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "source": "Dark Reading",
+      "title": "OpenClaw's Gregarious Insecurities Make Safe Usage Difficult",
+      "link": "https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult",
+      "summary": "Malicious \"skills\" and persnickety configuration settings are just some of the issues that security researchers have found when installing — and removing — the OpenClaw AI assistant.",
+      "published": "Fri, 06 Feb 2026 15:42:15 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Dark Reading",
@@ -390,15 +397,6 @@
         "Ransomware ×2",
         "CISA/KEV ×2"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Attackers Use Windows Screensavers to Drop Malware, RMM Tools",
-      "link": "https://www.darkreading.com/application-security/attackers-use-screensavers-drop-malware-rmm-tools",
-      "summary": "By tapping the unusual .scr file type, attackers leverage \"executables that don't always receive executable-level controls,\" one researcher noted.",
-      "published": "Wed, 04 Feb 2026 21:06:28 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

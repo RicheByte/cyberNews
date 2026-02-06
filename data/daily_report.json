@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-02-06 04:10",
+  "last_updated": "2026-02-06 06:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "scattered lapsus shinyhunters",
-    "badbox 2 0",
-    "execute arbitrary commands",
+    "arbitrary system commands",
+    "windows operating systems",
     "widespread internet blackout",
     "truth cloud logs",
-    "arbitrary system commands",
     "researchers expose network",
-    "entire web platform",
     "twitter whistleblower complaint",
     "rotating ip ranges",
     "recommended immediate actions",
-    "memory spain's ministry",
+    "publicly accessible api",
     "exchange online will",
-    "dire critical rating",
-    "critical function vulnerability",
-    "16 9 million",
     "national security risk",
-    "legitimate system features",
+    "dire critical rating",
+    "16 9 million",
     "company facing services",
-    "internal network behind"
+    "internal network behind",
+    "critical function vulnerability",
+    "service ddos attacks",
+    "entire web platform",
+    "cybersecurity ai workforce",
+    "vulnerabilities earned microsoft's"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 16
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 47
-    },
-    {
-      "keyword": "execute arbitrary commands",
-      "mentions": 5
-    },
-    {
-      "keyword": "widespread internet blackout",
-      "mentions": 8
-    },
-    {
-      "keyword": "truth cloud logs",
+      "keyword": "arbitrary system commands",
       "mentions": 6
     },
     {
-      "keyword": "arbitrary system commands",
-      "mentions": 5
+      "keyword": "windows operating systems",
+      "mentions": 262
     },
     {
-      "keyword": "researchers expose network",
+      "keyword": "widespread internet blackout",
+      "mentions": 9
+    },
+    {
+      "keyword": "truth cloud logs",
       "mentions": 7
     },
     {
-      "keyword": "entire web platform",
-      "mentions": 2
+      "keyword": "researchers expose network",
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 597
+      "mentions": 598
     },
     {
       "keyword": "rotating ip ranges",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "recommended immediate actions",
+      "mentions": 15
+    },
+    {
+      "keyword": "publicly accessible api",
+      "mentions": 1
+    },
+    {
+      "keyword": "exchange online will",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
+      "link": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
+      "summary": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF. Claude Opus 4.6, which was launched on Thursday, comes with improved coding skills, including code review and debugging capabilities, along",
+      "published": "Fri, 06 Feb 2026 11:19:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
@@ -141,17 +150,6 @@
       "published": "Wed, 04 Feb 2026 23:22:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-      "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-      "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT. \"The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory",
-      "published": "Wed, 04 Feb 2026 22:54:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -235,26 +233,6 @@
     },
     {
       "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
@@ -317,6 +295,28 @@
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -399,6 +399,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog",
+      "link": "https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/",
+      "summary": "CISA updated 59 KEV entries in 2025 to specify that the vulnerabilities have been exploited in ransomware attacks. The post Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog appeared first on SecurityWeek .",
+      "published": "Fri, 06 Feb 2026 05:28:39 +0000",
+      "value_score": 92,
+      "value_signals": [
+        "Ransomware ×3",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Zscaler Acquires Browser Security Firm SquareX",
       "link": "https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/",
       "summary": "Zscaler says the acquisition will allow customers to embed lightweight extensions into any browser, providing increased security and eliminating the need for third-party browsers. The post Zscaler Acquires Browser Security Firm SquareX appeared first on SecurityWeek .",
@@ -460,17 +473,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical N8n Sandbox Escape Could Lead to Server Compromise",
-      "link": "https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/",
-      "summary": "The vulnerability could allow attackers to execute arbitrary commands and steal credentials and other secrets. The post Critical N8n Sandbox Escape Could Lead to Server Compromise appeared first on SecurityWeek .",
-      "published": "Thu, 05 Feb 2026 11:23:19 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
       ]
     },
     {

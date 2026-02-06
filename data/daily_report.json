@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-06 06:47",
+  "last_updated": "2026-02-06 08:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "scattered lapsus shinyhunters",
+    "badbox 2 0",
     "arbitrary system commands",
-    "windows operating systems",
     "widespread internet blackout",
     "truth cloud logs",
     "researchers expose network",
+    "entire web platform",
     "twitter whistleblower complaint",
+    "service ddos attacks",
     "rotating ip ranges",
     "recommended immediate actions",
-    "publicly accessible api",
     "exchange online will",
-    "national security risk",
     "dire critical rating",
+    "critical function vulnerability",
+    "conclude ransomware operators",
     "16 9 million",
+    "national security risk",
     "company facing services",
     "internal network behind",
-    "critical function vulnerability",
-    "service ddos attacks",
-    "entire web platform",
-    "cybersecurity ai workforce",
-    "vulnerabilities earned microsoft's"
+    "cybersecurity ai workforce"
   ],
   "trending": [
     {
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 17
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 48
+    },
+    {
       "keyword": "arbitrary system commands",
-      "mentions": 6
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 262
-    },
-    {
-      "keyword": "widespread internet blackout",
-      "mentions": 9
-    },
-    {
-      "keyword": "truth cloud logs",
       "mentions": 7
     },
     {
-      "keyword": "researchers expose network",
+      "keyword": "widespread internet blackout",
+      "mentions": 10
+    },
+    {
+      "keyword": "truth cloud logs",
       "mentions": 8
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 598
+      "keyword": "researchers expose network",
+      "mentions": 9
     },
     {
-      "keyword": "rotating ip ranges",
+      "keyword": "entire web platform",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 599
+    },
+    {
+      "keyword": "service ddos attacks",
       "mentions": 6
     },
     {
-      "keyword": "recommended immediate actions",
-      "mentions": 15
-    },
-    {
-      "keyword": "publicly accessible api",
-      "mentions": 1
-    },
-    {
-      "keyword": "exchange online will",
-      "mentions": 2
+      "keyword": "rotating ip ranges",
+      "mentions": 7
     }
   ],
   "articles": [
@@ -233,6 +233,26 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
@@ -295,28 +315,6 @@
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Dark Reading",
@@ -399,6 +397,28 @@
     },
     {
       "source": "Security Week",
+      "title": "5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel",
+      "link": "https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/",
+      "summary": "The news comes after the Department of Energy conducted its annual Liberty Eclipse cybersecurity exercise. The post 5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel appeared first on SecurityWeek .",
+      "published": "Fri, 06 Feb 2026 08:19:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical SmarterMail Vulnerability Exploited in Ransomware Attacks",
+      "link": "https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/",
+      "summary": "The security defect allows unauthenticated attackers to execute arbitrary code remotely via malicious HTTP requests. The post Critical SmarterMail Vulnerability Exploited in Ransomware Attacks appeared first on SecurityWeek .",
+      "published": "Fri, 06 Feb 2026 07:50:23 +0000",
+      "value_score": 68,
+      "value_signals": [
+        "Ransomware ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog",
       "link": "https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/",
       "summary": "CISA updated 59 KEV entries in 2025 to specify that the vulnerabilities have been exploited in ransomware attacks. The post Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog appeared first on SecurityWeek .",
@@ -454,26 +474,6 @@
       "published": "Thu, 05 Feb 2026 13:02:15 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says",
-      "link": "https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/",
-      "summary": "Italy has foiled a series of cyberattacks targeting some of its foreign ministry offices, including one in Washington. The post Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says appeared first on SecurityWeek .",
-      "published": "Thu, 05 Feb 2026 12:29:34 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown",
-      "link": "https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/",
-      "summary": "The malware is known for dropping ransomware and other payloads, and for abusing infected machines to proxy traffic. The post SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown appeared first on SecurityWeek .",
-      "published": "Thu, 05 Feb 2026 12:18:55 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Threatpost",

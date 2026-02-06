@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-06 06:47 UTC |
+| 🕐 Last Updated | 2026-02-06 08:35 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`arbitrary system commands` • `windows operating systems` • `widespread internet blackout` • `truth cloud logs` • `researchers expose network` • `twitter whistleblower complaint` • `rotating ip ranges` • `recommended immediate actions` • `publicly accessible api` • `exchange online will`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `arbitrary system commands` • `widespread internet blackout` • `truth cloud logs` • `researchers expose network` • `entire web platform` • `twitter whistleblower complaint` • `service ddos attacks` • `rotating ip ranges`
 
 ## 📄 Reports
 

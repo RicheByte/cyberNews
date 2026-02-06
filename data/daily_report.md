@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-06 06:47 UTC  
+> **Last Updated:** 2026-02-06 08:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**arbitrary system commands** • **windows operating systems** • **widespread internet blackout** • **truth cloud logs** • **researchers expose network** • **twitter whistleblower complaint** • **rotating ip ranges** • **recommended immediate actions** • **publicly accessible api** • **exchange online will** • **national security risk** • **dire critical rating** • **16 9 million** • **company facing services** • **internal network behind** • **critical function vulnerability** • **service ddos attacks** • **entire web platform** • **cybersecurity ai workforce** • **vulnerabilities earned microsoft's**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **arbitrary system commands** • **widespread internet blackout** • **truth cloud logs** • **researchers expose network** • **entire web platform** • **twitter whistleblower complaint** • **service ddos attacks** • **rotating ip ranges** • **recommended immediate actions** • **exchange online will** • **dire critical rating** • **critical function vulnerability** • **conclude ransomware operators** • **16 9 million** • **national security risk** • **company facing services** • **internal network behind** • **cybersecurity ai workforce**
 
 ---
 
@@ -38,14 +38,14 @@
 
 ### Krebs on Security
 
+- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel](https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/)
+- [Critical SmarterMail Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/)
 - [Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog](https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/)
 - [Zscaler Acquires Browser Security Firm SquareX](https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/)
 - [Substack Discloses Security Incident After Hacker Leaks Data](https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/)
 - [Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign](https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/)
 - [VS Code Configs Expose GitHub Codespaces to Attacks](https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/)
 - [Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce](https://www.securityweek.com/nullify-secures-12-5-million-in-seed-funding-for-cybersecurity-ai-workforce/)
-- [Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says](https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/)
-- [SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown](https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/)
 
 ### Threatpost
 

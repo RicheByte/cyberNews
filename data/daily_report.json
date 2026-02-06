@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06 01:42",
+  "last_updated": "2026-02-06 04:10",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -15,55 +15,55 @@
     "rotating ip ranges",
     "recommended immediate actions",
     "memory spain's ministry",
+    "exchange online will",
+    "dire critical rating",
+    "critical function vulnerability",
     "16 9 million",
+    "national security risk",
     "legitimate system features",
     "company facing services",
-    "internal network behind",
-    "service ddos attacks",
-    "cybersecurity ai workforce",
-    "national security risk",
-    "today we'll dig"
+    "internal network behind"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "execute arbitrary commands",
-      "mentions": 4
-    },
-    {
-      "keyword": "widespread internet blackout",
-      "mentions": 7
-    },
-    {
-      "keyword": "truth cloud logs",
       "mentions": 5
     },
     {
-      "keyword": "arbitrary system commands",
-      "mentions": 4
+      "keyword": "widespread internet blackout",
+      "mentions": 8
     },
     {
-      "keyword": "researchers expose network",
+      "keyword": "truth cloud logs",
       "mentions": 6
     },
     {
+      "keyword": "arbitrary system commands",
+      "mentions": 5
+    },
+    {
+      "keyword": "researchers expose network",
+      "mentions": 7
+    },
+    {
       "keyword": "entire web platform",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 596
+      "mentions": 597
     },
     {
       "keyword": "rotating ip ranges",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -399,6 +399,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Zscaler Acquires Browser Security Firm SquareX",
+      "link": "https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/",
+      "summary": "Zscaler says the acquisition will allow customers to embed lightweight extensions into any browser, providing increased security and eliminating the need for third-party browsers. The post Zscaler Acquires Browser Security Firm SquareX appeared first on SecurityWeek .",
+      "published": "Fri, 06 Feb 2026 02:48:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Substack Discloses Security Incident After Hacker Leaks Data",
       "link": "https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/",
       "summary": "The hacker claims to have stolen nearly 700,000 Substack user records, including email addresses and phone numbers. The post Substack Discloses Security Incident After Hacker Leaks Data appeared first on SecurityWeek .",
@@ -459,17 +468,6 @@
       "link": "https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/",
       "summary": "The vulnerability could allow attackers to execute arbitrary commands and steal credentials and other secrets. The post Critical N8n Sandbox Escape Could Lead to Server Compromise appeared first on SecurityWeek .",
       "published": "Thu, 05 Feb 2026 11:23:19 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries",
-      "link": "https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/",
-      "summary": "Palo Alto Networks has not attributed the APT activity to any specific country, but evidence points to China. The post Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries appeared first on SecurityWeek .",
-      "published": "Thu, 05 Feb 2026 11:00:00 +0000",
       "value_score": 26,
       "value_signals": [
         "High severity ×2"

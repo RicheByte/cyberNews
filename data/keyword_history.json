@@ -190,7 +190,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 596,
+      "count": 597,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -724,7 +724,7 @@
       ]
     },
     "national security risk": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2356,7 +2356,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2417,7 +2417,7 @@
       ]
     },
     "internal network behind": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3008,7 +3008,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3018,7 +3018,8 @@
         "2026-01-29",
         "2026-01-30",
         "2026-01-31",
-        "2026-02-05"
+        "2026-02-05",
+        "2026-02-06"
       ]
     },
     "bugs fixed today": {
@@ -4376,7 +4377,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5135,7 +5136,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5556,7 +5557,7 @@
       ]
     },
     "widespread internet blackout": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5581,7 +5582,7 @@
       ]
     },
     "researchers expose network": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5594,7 +5595,7 @@
       ]
     },
     "16 9 million": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5614,35 +5615,35 @@
       ]
     },
     "truth cloud logs": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-05",
         "2026-02-06"
       ]
     },
     "execute arbitrary commands": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-05",
         "2026-02-06"
       ]
     },
     "arbitrary system commands": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-05",
         "2026-02-06"
       ]
     },
     "rotating ip ranges": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-05",
         "2026-02-06"
       ]
     },
     "legitimate system features": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5656,20 +5657,32 @@
       ]
     },
     "memory spain's ministry": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-05",
         "2026-02-06"
       ]
     },
     "company facing services": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-05",
         "2026-02-06"
       ]
     },
     "entire web platform": {
+      "count": 2,
+      "dates": [
+        "2026-02-06"
+      ]
+    },
+    "exchange online will": {
+      "count": 1,
+      "dates": [
+        "2026-02-06"
+      ]
+    },
+    "critical function vulnerability": {
       "count": 1,
       "dates": [
         "2026-02-06"
@@ -5677,17 +5690,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-27 22:18",
-      "articles": 56,
-      "top_keywords": [
-        "executive order 14144",
-        "badbox 2 0",
-        "malicious cyber actors",
-        "ai generated backdoor",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-01-28 01:20",
       "articles": 56,
@@ -6768,6 +6770,17 @@
     },
     {
       "timestamp": "2026-02-06 01:42",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "execute arbitrary commands",
+        "widespread internet blackout",
+        "truth cloud logs"
+      ]
+    },
+    {
+      "timestamp": "2026-02-06 04:10",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

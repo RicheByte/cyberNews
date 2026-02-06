@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-06 01:42 UTC  
+> **Last Updated:** 2026-02-06 04:10 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **execute arbitrary commands** • **widespread internet blackout** • **truth cloud logs** • **arbitrary system commands** • **researchers expose network** • **entire web platform** • **twitter whistleblower complaint** • **rotating ip ranges** • **recommended immediate actions** • **memory spain's ministry** • **16 9 million** • **legitimate system features** • **company facing services** • **internal network behind** • **service ddos attacks** • **cybersecurity ai workforce** • **national security risk** • **today we'll dig**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **execute arbitrary commands** • **widespread internet blackout** • **truth cloud logs** • **arbitrary system commands** • **researchers expose network** • **entire web platform** • **twitter whistleblower complaint** • **rotating ip ranges** • **recommended immediate actions** • **memory spain's ministry** • **exchange online will** • **dire critical rating** • **critical function vulnerability** • **16 9 million** • **national security risk** • **legitimate system features** • **company facing services** • **internal network behind**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Zscaler Acquires Browser Security Firm SquareX](https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/)
 - [Substack Discloses Security Incident After Hacker Leaks Data](https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/)
 - [Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign](https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/)
 - [VS Code Configs Expose GitHub Codespaces to Attacks](https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/)
@@ -67,7 +68,6 @@
 - [Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says](https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/)
 - [SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown](https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/)
 - [Critical N8n Sandbox Escape Could Lead to Server Compromise](https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/)
-- [Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries](https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/)
 
 ### Threatpost
 

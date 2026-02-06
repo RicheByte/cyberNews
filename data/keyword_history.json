@@ -151,7 +151,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 262,
+      "count": 263,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -191,7 +191,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 601,
+      "count": 602,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -491,7 +491,7 @@
       ]
     },
     "remote code execution": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -726,7 +726,7 @@
       ]
     },
     "national security risk": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2358,7 +2358,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2394,7 +2394,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2419,7 +2419,7 @@
       ]
     },
     "internal network behind": {
-      "count": 184,
+      "count": 185,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2583,13 +2583,14 @@
       ]
     },
     "hackers network operators": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-09",
         "2026-01-10",
         "2026-01-11",
         "2026-01-29",
-        "2026-02-04"
+        "2026-02-04",
+        "2026-02-06"
       ]
     },
     "deepfake fraud tools": {
@@ -3010,7 +3011,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -5536,7 +5537,7 @@
       ]
     },
     "conclude ransomware operators": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5681,7 +5682,7 @@
       ]
     },
     "exchange online will": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-06"
       ]
@@ -5693,43 +5694,43 @@
       ]
     },
     "publicly accessible api": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-06"
       ]
     },
     "least 2019 dknife": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-06"
       ]
     },
     "agentic os platform": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-06"
       ]
     },
     "6 1 million": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-06"
       ]
     },
     "man pleads guilty": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-06"
       ]
     },
     "researchers tracked intrusions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-06"
       ]
     },
     "exchange online ews": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-06"
       ]
@@ -5739,20 +5740,21 @@
       "dates": [
         "2026-02-06"
       ]
+    },
+    "cisa orders removal": {
+      "count": 1,
+      "dates": [
+        "2026-02-06"
+      ]
+    },
+    "network security breach": {
+      "count": 1,
+      "dates": [
+        "2026-02-06"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-28 08:25",
-      "articles": 56,
-      "top_keywords": [
-        "critical security flaw",
-        "executive order 14144",
-        "windows operating systems",
-        "twitter whistleblower complaint",
-        "fortios single sign"
-      ]
-    },
     {
       "timestamp": "2026-01-28 10:23",
       "articles": 56,
@@ -6840,6 +6842,17 @@
         "widespread internet blackout",
         "man pleads guilty",
         "least 2019 dknife"
+      ]
+    },
+    {
+      "timestamp": "2026-02-06 14:37",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "man pleads guilty",
+        "least 2019 dknife",
+        "national security risk",
+        "internal network behind"
       ]
     }
   ]

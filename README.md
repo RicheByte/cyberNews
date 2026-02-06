@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-06 12:48 UTC |
+| 🕐 Last Updated | 2026-02-06 14:37 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `widespread internet blackout` • `man pleads guilty` • `least 2019 dknife` • `internal network behind` • `twitter whistleblower complaint` • `researchers tracked intrusions` • `remote code execution` • `recommended immediate actions`
+`windows operating systems` • `man pleads guilty` • `least 2019 dknife` • `national security risk` • `internal network behind` • `cisa orders removal` • `twitter whistleblower complaint` • `researchers tracked intrusions` • `remote code execution` • `recommended immediate actions`
 
 ## 📄 Reports
 

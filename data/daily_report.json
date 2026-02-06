@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-02-06 12:48",
+  "last_updated": "2026-02-06 14:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "scattered lapsus shinyhunters",
-    "badbox 2 0",
-    "widespread internet blackout",
+    "windows operating systems",
     "man pleads guilty",
     "least 2019 dknife",
+    "national security risk",
     "internal network behind",
+    "cisa orders removal",
     "twitter whistleblower complaint",
     "researchers tracked intrusions",
     "remote code execution",
     "recommended immediate actions",
+    "publicly accessible api",
     "agentic os platform",
     "6 1 million",
     "conclude ransomware operators",
     "exchange online will",
     "exchange online ews",
     "dire critical rating",
-    "chinese threat actor",
-    "national security risk",
-    "critical function vulnerability",
-    "service ddos attacks"
+    "network security breach",
+    "today we'll dig",
+    "hackers network operators"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 19
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 50
-    },
-    {
-      "keyword": "widespread internet blackout",
-      "mentions": 12
+      "keyword": "windows operating systems",
+      "mentions": 263
     },
     {
       "keyword": "man pleads guilty",
-      "mentions": 1
-    },
-    {
-      "keyword": "least 2019 dknife",
       "mentions": 2
     },
     {
+      "keyword": "least 2019 dknife",
+      "mentions": 3
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 85
+    },
+    {
       "keyword": "internal network behind",
-      "mentions": 184
+      "mentions": 185
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 601
-    },
-    {
-      "keyword": "researchers tracked intrusions",
+      "keyword": "cisa orders removal",
       "mentions": 1
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 602
+    },
+    {
+      "keyword": "researchers tracked intrusions",
+      "mentions": 2
+    },
+    {
       "keyword": "remote code execution",
-      "mentions": 69
+      "mentions": 70
     },
     {
       "keyword": "recommended immediate actions",
-      "mentions": 18
+      "mentions": 19
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
+      "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive security updates from original equipment manufacturers (OEMs) over the next 12 to 18 months. The agency said the move is to drive down technical debt and minimize",
+      "published": "Fri, 06 Feb 2026 19:13:00 +0530",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
@@ -141,11 +152,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
-      "link": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
-      "summary": "The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of January 2026. \"The threat actor stopped maintaining its C2 servers on January 8 for the first time since we",
-      "published": "Thu, 05 Feb 2026 15:55:00 +0530",
+      "source": "BleepingComputer",
+      "title": "EU says TikTok faces large fine over \"addictive design\"",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/",
+      "summary": "The European Commission said today that TikTok is facing a fine because its addictive features, including infinite scroll, autoplay, push notifications, and personalized recommendation systems, are breaching the EU's Digital Services Act (DSA). [...]",
+      "published": "Fri, 06 Feb 2026 08:53:53 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -221,35 +232,6 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Romanian oil pipeline operator Conpet discloses cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/",
-      "summary": "Conpet, Romania's national oil pipeline operator, has disclosed that a cyberattack disrupted its business systems and took down the company's website on Tuesday. [...]",
-      "published": "Thu, 05 Feb 2026 10:15:49 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -315,6 +297,28 @@
       "value_signals": []
     },
     {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
       "source": "Dark Reading",
       "title": "EnCase Driver Weaponized as EDR Killers Persist",
       "link": "https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist",
@@ -331,6 +335,18 @@
       "published": "Thu, 05 Feb 2026 22:03:29 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Data Tool to Triage Exploited Vulnerabilities Can Make KEV More Useful",
+      "link": "https://www.darkreading.com/threat-intelligence/data-tool-triage-exploited-vulnerabilities-make-kev-catalog-more-useful",
+      "summary": "A disconnect exists between an organization's cybersecurity needs and lists like CISA's KEV Catalog. KEV Collider combines data from multiple open source vulnerability frameworks to help security teams quickly assess which are important, based on their priorities.",
+      "published": "Thu, 05 Feb 2026 20:53:34 GMT",
+      "value_score": 56,
+      "value_signals": [
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -381,15 +397,6 @@
       "link": "https://www.darkreading.com/application-security/attackers-use-screensavers-drop-malware-rmm-tools",
       "summary": "By tapping the unusual .scr file type, attackers leverage \"executables that don't always receive executable-level controls,\" one researcher noted.",
       "published": "Wed, 04 Feb 2026 21:06:28 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Extra Extra! Announcing DR Global Latin America",
-      "link": "https://www.darkreading.com/cybersecurity-operations/announcing-dr-global-latin-america",
-      "summary": "Dark Reading has something new hitting the newsstand: a content section purpose-built for Latin American readers, featuring news, analysis, features, and multimedia.",
-      "published": "Wed, 04 Feb 2026 13:30:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

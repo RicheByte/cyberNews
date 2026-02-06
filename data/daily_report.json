@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-02-06 10:34",
+  "last_updated": "2026-02-06 12:48",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
-    "arbitrary system commands",
     "widespread internet blackout",
-    "truth cloud logs",
-    "researchers expose network",
-    "service ddos attacks",
+    "man pleads guilty",
     "least 2019 dknife",
-    "agentic os platform",
-    "twitter whistleblower complaint",
-    "rotating ip ranges",
-    "recommended immediate actions",
-    "exchange online will",
-    "dire critical rating",
-    "critical function vulnerability",
-    "6 1 million",
-    "national security risk",
-    "conclude ransomware operators",
     "internal network behind",
-    "entire web platform"
+    "twitter whistleblower complaint",
+    "researchers tracked intrusions",
+    "remote code execution",
+    "recommended immediate actions",
+    "agentic os platform",
+    "6 1 million",
+    "conclude ransomware operators",
+    "exchange online will",
+    "exchange online ews",
+    "dire critical rating",
+    "chinese threat actor",
+    "national security risk",
+    "critical function vulnerability",
+    "service ddos attacks"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 49
-    },
-    {
-      "keyword": "arbitrary system commands",
-      "mentions": 8
+      "mentions": 50
     },
     {
       "keyword": "widespread internet blackout",
-      "mentions": 11
+      "mentions": 12
     },
     {
-      "keyword": "truth cloud logs",
-      "mentions": 9
-    },
-    {
-      "keyword": "researchers expose network",
-      "mentions": 10
-    },
-    {
-      "keyword": "service ddos attacks",
-      "mentions": 7
+      "keyword": "man pleads guilty",
+      "mentions": 1
     },
     {
       "keyword": "least 2019 dknife",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "agentic os platform",
-      "mentions": 1
+      "keyword": "internal network behind",
+      "mentions": 184
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 600
+      "mentions": 601
+    },
+    {
+      "keyword": "researchers tracked intrusions",
+      "mentions": 1
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 69
+    },
+    {
+      "keyword": "recommended immediate actions",
+      "mentions": 18
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
+      "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
+      "summary": "A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past year, according to new findings from Palo Alto Networks Unit 42. In addition, the hacking crew has been observed conducting active reconnaissance against government infrastructure associated with 155",
+      "published": "Fri, 06 Feb 2026 17:37:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How Samsung Knox Helps Stop Your Network Security Breach",
+      "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+      "summary": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it’s a big “however”), the increasing use of mobile devices in business operations necessitates network security measures that are specifically",
+      "published": "Fri, 06 Feb 2026 16:00:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
@@ -128,30 +150,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
-      "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
-      "summary": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands. The flaw, tracked as CVE-2026-25049 (CVSS score: 9.4), is the result of inadequate sanitization that bypasses safeguards put in place to address CVE-2025-68613 (CVSS score: 9.9), another critical defect that",
-      "published": "Thu, 05 Feb 2026 11:46:00 +0530",
-      "value_score": 80,
-      "value_signals": [
-        "CVE mentioned ×3",
-        "High severity ×3",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
-      "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
-      "summary": "Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it through the attacker's infrastructure. Datadog Security Labs said it observed threat actors associated with the recent React2Shell (CVE-2025-55182, CVSS score: 10.0) exploitation using malicious NGINX",
-      "published": "Thu, 05 Feb 2026 10:26:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Man pleads guilty to hacking nearly 600 women’s Snapchat accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/",
+      "summary": "An Illinois man pleaded guilty to hacking nearly 600 women's Snapchat accounts to steal nude photos that he kept, sold, or traded online, including accounts he compromised at the request of a former university track coach who was later convicted of sextortion. [...]",
+      "published": "Fri, 06 Feb 2026 07:34:30 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -221,15 +226,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/",
       "summary": "Conpet, Romania's national oil pipeline operator, has disclosed that a cyberattack disrupted its business systems and took down the company's website on Tuesday. [...]",
       "published": "Thu, 05 Feb 2026 10:15:49 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "When cloud logs fall short, the network tells the truth",
-      "link": "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/",
-      "summary": "Cloud logs can be inconsistent or incomplete, creating blind spots as environments scale and change. Corelight shows how network-level telemetry provides reliable visibility when cloud logs fall short. [...]",
-      "published": "Thu, 05 Feb 2026 10:00:10 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -399,6 +395,35 @@
     },
     {
       "source": "Security Week",
+      "title": "Flickr Security Incident Tied to Third-Party Email System",
+      "link": "https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/",
+      "summary": "Potential breach at Flickr exposes usernames, email addresses, IP addresses, and activity data. The post Flickr Security Incident Tied to Third-Party Email System appeared first on SecurityWeek .",
+      "published": "Fri, 06 Feb 2026 12:00:34 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Living off the AI: The Next Evolution of Attacker Tradecraft",
+      "link": "https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/",
+      "summary": "Living off the AI isn’t a hypothetical but a natural continuation of the tradecraft we’ve all been defending against, now mapped onto assistants, agents, and MCP. The post Living off the AI: The Next Evolution of Attacker Tradecraft appeared first on SecurityWeek .",
+      "published": "Fri, 06 Feb 2026 12:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "In Other News: Record DDoS, Epstein’s Hacker, ESET Product Vulnerabilities",
+      "link": "https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: AT&T and Verizon response to Salt Typhoon, AI agents solve security challenges, man arrested in Poland for DDos Attacks. The post In Other News: Record DDoS, Epstein’s Hacker, ESET Product Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Fri, 06 Feb 2026 12:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Airrived Emerges From Stealth With $6.1 Million in Funding",
       "link": "https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/",
       "summary": "The startup aims to unify SOC, GRC, IAM, vulnerability management, IT, and business operations through its Agentic OS platform. The post Airrived Emerges From Stealth With $6.1 Million in Funding appeared first on SecurityWeek .",
@@ -449,33 +474,6 @@
         "CISA/KEV ×6",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Zscaler Acquires Browser Security Firm SquareX",
-      "link": "https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/",
-      "summary": "Zscaler says the acquisition will allow customers to embed lightweight extensions into any browser, providing increased security and eliminating the need for third-party browsers. The post Zscaler Acquires Browser Security Firm SquareX appeared first on SecurityWeek .",
-      "published": "Fri, 06 Feb 2026 02:48:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Substack Discloses Security Incident After Hacker Leaks Data",
-      "link": "https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/",
-      "summary": "The hacker claims to have stolen nearly 700,000 Substack user records, including email addresses and phone numbers. The post Substack Discloses Security Incident After Hacker Leaks Data appeared first on SecurityWeek .",
-      "published": "Thu, 05 Feb 2026 15:13:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign",
-      "link": "https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/",
-      "summary": "Criminals are using AI to clone professional websites at an industrial scale. A new report shows how one AI-powered network grew to 150+ domains by hiding behind Cloudflare and rotating IP ranges. The post Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign appeared first on SecurityWeek .",
-      "published": "Thu, 05 Feb 2026 14:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

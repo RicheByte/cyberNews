@@ -191,7 +191,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 600,
+      "count": 601,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -491,7 +491,7 @@
       ]
     },
     "remote code execution": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -504,7 +504,8 @@
         "2026-01-29",
         "2026-01-30",
         "2026-02-04",
-        "2026-02-05"
+        "2026-02-05",
+        "2026-02-06"
       ]
     },
     "attacker remotely control": {
@@ -725,7 +726,7 @@
       ]
     },
     "national security risk": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2357,7 +2358,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2418,7 +2419,7 @@
       ]
     },
     "internal network behind": {
-      "count": 183,
+      "count": 184,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3009,7 +3010,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4379,7 +4380,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5138,7 +5139,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5535,7 +5536,7 @@
       ]
     },
     "conclude ransomware operators": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5560,7 +5561,7 @@
       ]
     },
     "widespread internet blackout": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5653,7 +5654,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-05",
         "2026-02-06"
@@ -5680,13 +5681,13 @@
       ]
     },
     "exchange online will": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-06"
       ]
     },
     "critical function vulnerability": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-06"
       ]
@@ -5698,18 +5699,42 @@
       ]
     },
     "least 2019 dknife": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-06"
       ]
     },
     "agentic os platform": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-06"
       ]
     },
     "6 1 million": {
+      "count": 2,
+      "dates": [
+        "2026-02-06"
+      ]
+    },
+    "man pleads guilty": {
+      "count": 1,
+      "dates": [
+        "2026-02-06"
+      ]
+    },
+    "researchers tracked intrusions": {
+      "count": 1,
+      "dates": [
+        "2026-02-06"
+      ]
+    },
+    "exchange online ews": {
+      "count": 1,
+      "dates": [
+        "2026-02-06"
+      ]
+    },
+    "chinese threat actor": {
       "count": 1,
       "dates": [
         "2026-02-06"
@@ -5717,17 +5742,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-28 06:29",
-      "articles": 56,
-      "top_keywords": [
-        "critical security flaw",
-        "executive order 14144",
-        "authentication bypass related",
-        "windows operating systems",
-        "malicious cyber actors"
-      ]
-    },
     {
       "timestamp": "2026-01-28 08:25",
       "articles": 56,
@@ -6815,6 +6829,17 @@
         "arbitrary system commands",
         "widespread internet blackout",
         "truth cloud logs"
+      ]
+    },
+    {
+      "timestamp": "2026-02-06 12:48",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "widespread internet blackout",
+        "man pleads guilty",
+        "least 2019 dknife"
       ]
     }
   ]

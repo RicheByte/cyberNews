@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-05 22:22 UTC  
+> **Last Updated:** 2026-02-06 01:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **execute arbitrary commands** • **widespread internet blackout** • **truth cloud logs** • **arbitrary system commands** • **researchers expose network** • **twitter whistleblower complaint** • **rotating ip ranges** • **recommended immediate actions** • **memory spain's ministry** • **legitimate system features** • **hacktivist group claims** • **company facing services** • **36 million mexicans** • **16 9 million** • **internal network behind** • **service ddos attacks** • **national security risk** • **cybersecurity ai workforce**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **execute arbitrary commands** • **widespread internet blackout** • **truth cloud logs** • **arbitrary system commands** • **researchers expose network** • **entire web platform** • **twitter whistleblower complaint** • **rotating ip ranges** • **recommended immediate actions** • **memory spain's ministry** • **16 9 million** • **legitimate system features** • **company facing services** • **internal network behind** • **service ddos attacks** • **cybersecurity ai workforce** • **national security risk** • **today we'll dig**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [EnCase Driver Weaponized as EDR Killers Persist](https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist)
+- [Agentic AI Site 'Moltbook' Is Riddled With Security Risks](https://www.darkreading.com/cyber-risk/agentic-ai-moltbook-security-risks)
 - [Cyber Success Trifecta: Education, Certifications &amp; Experience](https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience)
 - [Protests Don't Impede Iranian Spying on Expats, Syrians, Israelis](https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis)
 - [Ransomware Gang Goes Full 'Godfather' With Cartel](https://www.darkreading.com/cyber-risk/ransomware-gang-full-godfather-cartel)
 - [CISA Makes Unpublicized Ransomware Updates to KEV Catalog](https://www.darkreading.com/threat-intelligence/cisa-hidden-ransomware-updates-kev-catalog)
 - [Attackers Use Windows Screensavers to Drop Malware, RMM Tools](https://www.darkreading.com/application-security/attackers-use-screensavers-drop-malware-rmm-tools)
 - [Extra Extra! Announcing DR Global Latin America](https://www.darkreading.com/cybersecurity-operations/announcing-dr-global-latin-america)
-- [Big Breach or Smooth Sailing? Mexican Gov't Faces Leak Allegations](https://www.darkreading.com/cyberattacks-data-breaches/big-breach-or-nada-de-nada-mexican-govt-faces-leak-allegations)
-- [Google Looker Bugs Allow Cross-Tenant RCE, Data Exfil](https://www.darkreading.com/application-security/google-looker-bugs-cross-tenant-rce-data-exfil)
 
 ### Security Week
 

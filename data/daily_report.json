@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-07 06:36",
+  "last_updated": "2026-02-07 08:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "windows operating systems",
+    "scattered lapsus shinyhunters",
+    "badbox 2 0",
     "man pleads guilty",
-    "national security risk",
     "internal network behind",
+    "national security risk",
     "twitter whistleblower complaint",
     "remote code execution",
     "recommended immediate actions",
-    "publicly accessible api",
     "long term impact",
+    "even swatting executives",
     "cisa orders removal",
     "agentic os platform",
     "6 1 million",
     "130 companies tangled",
     "dire critical rating",
-    "traditional security tools",
     "today we'll dig",
+    "spy deliver malware",
+    "personalized recommendation systems",
     "hackers network operators",
-    "bugs fixed today",
-    "16th anniversary today",
-    "least 2019 dknife"
+    "bugs fixed today"
   ],
   "trending": [
     {
-      "keyword": "windows operating systems",
-      "mentions": 265
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 25
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 56
     },
     {
       "keyword": "man pleads guilty",
-      "mentions": 9
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 92
+      "mentions": 10
     },
     {
       "keyword": "internal network behind",
-      "mentions": 192
+      "mentions": 193
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 93
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 609
+      "mentions": 610
     },
     {
       "keyword": "remote code execution",
-      "mentions": 77
+      "mentions": 78
     },
     {
       "keyword": "recommended immediate actions",
-      "mentions": 26
-    },
-    {
-      "keyword": "publicly accessible api",
-      "mentions": 4
+      "mentions": 27
     },
     {
       "keyword": "long term impact",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "cisa orders removal",
-      "mentions": 8
+      "keyword": "even swatting executives",
+      "mentions": 9
     }
   ],
   "articles": [
@@ -236,6 +236,26 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
@@ -298,28 +318,6 @@
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Dark Reading",

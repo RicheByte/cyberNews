@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07 14:22",
+  "last_updated": "2026-02-07 16:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 58
+      "mentions": 59
     },
     {
       "keyword": "man pleads guilty",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "national security risk",
-      "mentions": 96
+      "mentions": 97
     },
     {
       "keyword": "internal network behind",
-      "mentions": 196
+      "mentions": 197
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 613
+      "mentions": 614
     },
     {
       "keyword": "remote code execution",
-      "mentions": 81
+      "mentions": 82
     },
     {
       "keyword": "long term impact",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "agentic os platform",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "6 1 million",
-      "mentions": 14
+      "mentions": 15
     }
   ],
   "articles": [
@@ -153,6 +153,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "State actor targets 155 countries in 'Shadow Campaigns' espionage op",
+      "link": "https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/",
+      "summary": "A new state-aligned cyberespionage threat group tracked as TGR-STA-1030/UNC6619, has conducted a global-scale operation dubbed the \"Shadow Campaigns,\" where it targeted government infrastructure in 155 countries. [...]",
+      "published": "Sat, 07 Feb 2026 10:09:46 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Payments platform BridgePay confirms ransomware attack behind outage",
       "link": "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/",
       "summary": "A major U.S. payment gateway and solutions provider says a ransomware attack has knocked key systems offline, triggering a widespread outage affecting multiple services. The incident began on Friday and quickly escalated into a nationwide disruption across BridgePay's platform. [...]",
@@ -222,17 +231,6 @@
       "published": "Fri, 06 Feb 2026 07:34:30 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Flickr discloses potential data breach exposing users' names, emails",
-      "link": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
-      "summary": "Photo-sharing platform Flickr is notifying users of a potential data breach after a vulnerability at a third-party email service provider exposed their real names, email addresses, IP addresses, and account activity. [...]",
-      "published": "Fri, 06 Feb 2026 04:43:10 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

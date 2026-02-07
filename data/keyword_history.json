@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 264,
+      "count": 265,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -113,7 +113,8 @@
         "2026-01-31",
         "2026-02-01",
         "2026-02-02",
-        "2026-02-03"
+        "2026-02-03",
+        "2026-02-07"
       ]
     },
     "user named csnemess": {
@@ -151,7 +152,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 265,
+      "count": 266,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -192,7 +193,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 611,
+      "count": 612,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -493,7 +494,7 @@
       ]
     },
     "remote code execution": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -729,7 +730,7 @@
       ]
     },
     "national security risk": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1956,7 +1957,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2107,7 +2108,7 @@
       ]
     },
     "16th anniversary today": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -2403,7 +2404,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2429,7 +2430,7 @@
       ]
     },
     "internal network behind": {
-      "count": 194,
+      "count": 195,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3023,7 +3024,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3039,7 +3040,7 @@
       ]
     },
     "bugs fixed today": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-14",
         "2026-01-21",
@@ -5707,41 +5708,42 @@
       ]
     },
     "critical function vulnerability": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-02-06"
+        "2026-02-06",
+        "2026-02-07"
       ]
     },
     "publicly accessible api": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-06",
         "2026-02-07"
       ]
     },
     "least 2019 dknife": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-06",
         "2026-02-07"
       ]
     },
     "agentic os platform": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-06",
         "2026-02-07"
       ]
     },
     "6 1 million": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-06",
         "2026-02-07"
       ]
     },
     "man pleads guilty": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-06",
         "2026-02-07"
@@ -5779,7 +5781,7 @@
       ]
     },
     "long term impact": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-06",
         "2026-02-07"
@@ -5793,14 +5795,14 @@
       ]
     },
     "traditional security tools": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-06",
         "2026-02-07"
       ]
     },
     "personalized recommendation systems": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-06",
         "2026-02-07"
@@ -5808,17 +5810,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-29 06:40",
-      "articles": 56,
-      "top_keywords": [
-        "us charges 31",
-        "rein security emerges",
-        "perform unauthorized actions",
-        "badbox 2 0",
-        "rewriting compliance controls"
-      ]
-    },
     {
       "timestamp": "2026-01-29 08:33",
       "articles": 56,
@@ -6906,6 +6897,17 @@
         "man pleads guilty",
         "national security risk",
         "internal network behind"
+      ]
+    },
+    {
+      "timestamp": "2026-02-07 12:37",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "man pleads guilty",
+        "national security risk",
+        "internal network behind",
+        "twitter whistleblower complaint"
       ]
     }
   ]

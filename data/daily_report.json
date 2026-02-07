@@ -1,19 +1,18 @@
 {
-  "last_updated": "2026-02-07 08:25",
+  "last_updated": "2026-02-07 10:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
     "man pleads guilty",
-    "internal network behind",
     "national security risk",
+    "internal network behind",
     "twitter whistleblower complaint",
     "remote code execution",
     "recommended immediate actions",
     "long term impact",
     "even swatting executives",
-    "cisa orders removal",
     "agentic os platform",
     "6 1 million",
     "130 companies tangled",
@@ -21,49 +20,50 @@
     "today we'll dig",
     "spy deliver malware",
     "personalized recommendation systems",
-    "hackers network operators",
-    "bugs fixed today"
+    "bugs fixed today",
+    "16th anniversary today",
+    "traditional security tools"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 56
+      "mentions": 57
     },
     {
       "keyword": "man pleads guilty",
-      "mentions": 10
-    },
-    {
-      "keyword": "internal network behind",
-      "mentions": 193
+      "mentions": 11
     },
     {
       "keyword": "national security risk",
-      "mentions": 93
+      "mentions": 94
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 194
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 610
+      "mentions": 611
     },
     {
       "keyword": "remote code execution",
-      "mentions": 78
+      "mentions": 79
     },
     {
       "keyword": "recommended immediate actions",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "long term impact",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "even swatting executives",
-      "mentions": 9
+      "mentions": 10
     }
   ],
   "articles": [
@@ -153,6 +153,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Payments platform BridgePay confirms ransomware attack behind outage",
+      "link": "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/",
+      "summary": "A major U.S. payment gateway and solutions provider says a ransomware attack has knocked key systems offline, triggering a widespread outage affecting multiple services. The incident began on Friday and quickly escalated into a nationwide disruption across BridgePay's platform. [...]",
+      "published": "Sat, 07 Feb 2026 04:47:10 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Germany warns of Signal account hijacking targeting senior figures",
       "link": "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/",
       "summary": "Germany's domestic intelligence agency is warning of suspected state-sponsored threat actors targeting high-ranking individuals in phishing attacks via messaging apps like Signal. [...]",
@@ -221,17 +232,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders federal agencies to replace end-of-life edge devices",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued a new binding operational directive requiring federal agencies to identify and remove network edge devices that no longer receive security updates from manufacturers. [...]",
-      "published": "Fri, 06 Feb 2026 03:41:11 -0500",
-      "value_score": 50,
-      "value_signals": [
-        "CISA/KEV ×2"
       ]
     },
     {

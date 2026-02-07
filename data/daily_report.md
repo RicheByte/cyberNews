@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-07 08:25 UTC  
+> **Last Updated:** 2026-02-07 10:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **man pleads guilty** • **internal network behind** • **national security risk** • **twitter whistleblower complaint** • **remote code execution** • **recommended immediate actions** • **long term impact** • **even swatting executives** • **cisa orders removal** • **agentic os platform** • **6 1 million** • **130 companies tangled** • **dire critical rating** • **today we'll dig** • **spy deliver malware** • **personalized recommendation systems** • **hackers network operators** • **bugs fixed today**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **man pleads guilty** • **national security risk** • **internal network behind** • **twitter whistleblower complaint** • **remote code execution** • **recommended immediate actions** • **long term impact** • **even swatting executives** • **agentic os platform** • **6 1 million** • **130 companies tangled** • **dire critical rating** • **today we'll dig** • **spy deliver malware** • **personalized recommendation systems** • **bugs fixed today** • **16th anniversary today** • **traditional security tools**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Payments platform BridgePay confirms ransomware attack behind outage](https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/)
 - [Germany warns of Signal account hijacking targeting senior figures](https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/)
 - [DKnife Linux toolkit hijacks router traffic to spy, deliver malware](https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/)
 - [CISA warns of SmarterMail RCE flaw used in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/)
@@ -34,7 +35,6 @@
 - [EU says TikTok faces large fine over "addictive design"](https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/)
 - [Man pleads guilty to hacking nearly 600 women’s Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/)
 - [Flickr discloses potential data breach exposing users' names, emails](https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/)
-- [CISA orders federal agencies to replace end-of-life edge devices](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/)
 
 ### Krebs on Security
 

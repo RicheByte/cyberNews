@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-07 04:04 UTC  
+> **Last Updated:** 2026-02-07 06:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **man pleads guilty** • **internal network behind** • **national security risk** • **twitter whistleblower complaint** • **remote code execution** • **recommended immediate actions** • **long term impact** • **even swatting executives** • **cisa orders removal** • **agentic os platform** • **6 1 million** • **130 companies tangled** • **dire critical rating** • **today we'll dig** • **spy deliver malware** • **personalized recommendation systems** • **hackers network operators** • **bugs fixed today**
+**windows operating systems** • **man pleads guilty** • **national security risk** • **internal network behind** • **twitter whistleblower complaint** • **remote code execution** • **recommended immediate actions** • **publicly accessible api** • **long term impact** • **cisa orders removal** • **agentic os platform** • **6 1 million** • **130 companies tangled** • **dire critical rating** • **traditional security tools** • **today we'll dig** • **hackers network operators** • **bugs fixed today** • **16th anniversary today** • **least 2019 dknife**
 
 ---
 
@@ -38,14 +38,14 @@
 
 ### Krebs on Security
 
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 

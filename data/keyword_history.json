@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 270,
+      "count": 271,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -195,7 +195,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 626,
+      "count": 627,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -734,7 +734,7 @@
       ]
     },
     "national security risk": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1962,7 +1962,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2114,7 +2114,7 @@
       ]
     },
     "16th anniversary today": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -2411,7 +2411,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2438,7 +2438,7 @@
       ]
     },
     "internal network behind": {
-      "count": 209,
+      "count": 210,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2604,7 +2604,7 @@
       ]
     },
     "hackers network operators": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3034,7 +3034,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3051,7 +3051,7 @@
       ]
     },
     "bugs fixed today": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-14",
         "2026-01-21",
@@ -4409,7 +4409,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5170,7 +5170,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5722,7 +5722,7 @@
       ]
     },
     "critical function vulnerability": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5754,7 +5754,7 @@
       ]
     },
     "6 1 million": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5801,7 +5801,7 @@
       ]
     },
     "long term impact": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5809,14 +5809,6 @@
       ]
     },
     "spy deliver malware": {
-      "count": 17,
-      "dates": [
-        "2026-02-06",
-        "2026-02-07",
-        "2026-02-08"
-      ]
-    },
-    "traditional security tools": {
       "count": 18,
       "dates": [
         "2026-02-06",
@@ -5824,8 +5816,16 @@
         "2026-02-08"
       ]
     },
+    "traditional security tools": {
+      "count": 19,
+      "dates": [
+        "2026-02-06",
+        "2026-02-07",
+        "2026-02-08"
+      ]
+    },
     "personalized recommendation systems": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5833,7 +5833,7 @@
       ]
     },
     "openclaw ai assistant": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-08"
       ]
@@ -5845,24 +5845,13 @@
       ]
     },
     "visibility changes prevention": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-08"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-30 14:31",
-      "articles": 56,
-      "top_keywords": [
-        "llms hijacked monetized",
-        "remote code execution",
-        "arbitrary code execution",
-        "rockwell automation controllogix",
-        "hugging face abused"
-      ]
-    },
     {
       "timestamp": "2026-01-30 16:33",
       "articles": 56,
@@ -6943,6 +6932,17 @@
     },
     {
       "timestamp": "2026-02-08 18:29",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "national security risk",
+        "internal network behind",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-02-08 20:21",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

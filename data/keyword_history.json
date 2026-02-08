@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-01-09",
     "2026-01-10",
     "2026-01-11",
     "2026-01-12",
@@ -29,7 +28,8 @@
     "2026-02-04",
     "2026-02-05",
     "2026-02-06",
-    "2026-02-07"
+    "2026-02-07",
+    "2026-02-08"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 266,
+      "count": 267,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -114,7 +114,8 @@
         "2026-02-01",
         "2026-02-02",
         "2026-02-03",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "user named csnemess": {
@@ -152,7 +153,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 267,
+      "count": 268,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -189,11 +190,12 @@
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 617,
+      "count": 618,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -247,7 +249,8 @@
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "supposed wayward package": {
@@ -494,7 +497,7 @@
       ]
     },
     "remote code execution": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -509,7 +512,8 @@
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "attacker remotely control": {
@@ -730,7 +734,7 @@
       ]
     },
     "national security risk": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -747,7 +751,8 @@
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "open source millions": {
@@ -1957,7 +1962,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -1969,7 +1974,8 @@
         "2026-01-18",
         "2026-01-19",
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "corporate data stolen": {
@@ -2108,12 +2114,13 @@
       ]
     },
     "16th anniversary today": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-07",
         "2026-01-08",
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "unauthenticated remote attacker": {
@@ -2404,7 +2411,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 146,
+      "count": 147,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2426,11 +2433,12 @@
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "internal network behind": {
-      "count": 200,
+      "count": 201,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2453,7 +2461,8 @@
         "2026-02-04",
         "2026-02-05",
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "ai driven access": {
@@ -3024,7 +3033,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3036,16 +3045,18 @@
         "2026-01-31",
         "2026-02-05",
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "bugs fixed today": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-14",
         "2026-01-21",
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "vulnerabilities earned microsoft's": {
@@ -5708,45 +5719,51 @@
       ]
     },
     "critical function vulnerability": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "publicly accessible api": {
-      "count": 6,
-      "dates": [
-        "2026-02-06",
-        "2026-02-07"
-      ]
-    },
-    "least 2019 dknife": {
       "count": 7,
       "dates": [
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
+      ]
+    },
+    "least 2019 dknife": {
+      "count": 8,
+      "dates": [
+        "2026-02-06",
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "agentic os platform": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "6 1 million": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "man pleads guilty": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "researchers tracked intrusions": {
@@ -5781,10 +5798,11 @@
       ]
     },
     "long term impact": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "spy deliver malware": {
@@ -5795,32 +5813,23 @@
       ]
     },
     "traditional security tools": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     },
     "personalized recommendation systems": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-08"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-29 18:37",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "badbox 2 0",
-        "rockwell automation controllogix",
-        "llms hijacked monetized",
-        "massive distributed denial"
-      ]
-    },
     {
       "timestamp": "2026-01-29 20:24",
       "articles": 56,
@@ -6908,6 +6917,17 @@
         "man pleads guilty",
         "national security risk",
         "internal network behind"
+      ]
+    },
+    {
+      "timestamp": "2026-02-08 02:06",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "man pleads guilty",
+        "national security risk",
+        "internal network behind",
+        "twitter whistleblower complaint"
       ]
     }
   ]

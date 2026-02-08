@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-08 02:06 UTC |
+| 🕐 Last Updated | 2026-02-08 05:21 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows operating systems` • `man pleads guilty` • `national security risk` • `internal network behind` • `twitter whistleblower complaint` • `remote code execution` • `publicly accessible api` • `long term impact` • `agentic os platform` • `6 1 million`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `man pleads guilty` • `national security risk` • `internal network behind` • `twitter whistleblower complaint` • `remote code execution` • `long term impact` • `agentic os platform` • `6 1 million`
 
 ## 📄 Reports
 

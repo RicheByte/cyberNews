@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-08 10:21 UTC |
+| 🕐 Last Updated | 2026-02-08 12:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `man pleads guilty` • `national security risk` • `internal network behind` • `twitter whistleblower complaint` • `remote code execution` • `openclaw ai assistant` • `long term impact` • `6 1 million`
+`windows operating systems` • `man pleads guilty` • `national security risk` • `internal network behind` • `twitter whistleblower complaint` • `remote code execution` • `publicly accessible api` • `openclaw ai assistant` • `long term impact` • `google owned virustotal`
 
 ## 📄 Reports
 

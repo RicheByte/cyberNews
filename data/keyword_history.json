@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 267,
+      "count": 268,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -153,7 +153,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 268,
+      "count": 269,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -195,7 +195,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 622,
+      "count": 623,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -497,7 +497,7 @@
       ]
     },
     "remote code execution": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -734,7 +734,7 @@
       ]
     },
     "national security risk": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1962,7 +1962,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2114,7 +2114,7 @@
       ]
     },
     "16th anniversary today": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -2411,7 +2411,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2438,7 +2438,7 @@
       ]
     },
     "internal network behind": {
-      "count": 205,
+      "count": 206,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3034,7 +3034,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3051,7 +3051,7 @@
       ]
     },
     "bugs fixed today": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-14",
         "2026-01-21",
@@ -5730,7 +5730,7 @@
       ]
     },
     "publicly accessible api": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5738,7 +5738,7 @@
       ]
     },
     "least 2019 dknife": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5754,7 +5754,7 @@
       ]
     },
     "6 1 million": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5762,7 +5762,7 @@
       ]
     },
     "man pleads guilty": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5801,7 +5801,7 @@
       ]
     },
     "long term impact": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5817,7 +5817,7 @@
       ]
     },
     "traditional security tools": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5825,7 +5825,7 @@
       ]
     },
     "personalized recommendation systems": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5833,24 +5833,19 @@
       ]
     },
     "openclaw ai assistant": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-02-08"
+      ]
+    },
+    "google owned virustotal": {
+      "count": 1,
       "dates": [
         "2026-02-08"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-30 06:41",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "llms hijacked monetized",
-        "rockwell automation controllogix",
-        "windows operating systems",
-        "ai risks preparing"
-      ]
-    },
     {
       "timestamp": "2026-01-30 08:32",
       "articles": 56,
@@ -6938,6 +6933,17 @@
         "man pleads guilty",
         "national security risk",
         "internal network behind"
+      ]
+    },
+    {
+      "timestamp": "2026-02-08 12:38",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "man pleads guilty",
+        "national security risk",
+        "internal network behind",
+        "twitter whistleblower complaint"
       ]
     }
   ]

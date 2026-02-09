@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-09 14:47 UTC |
+| 🕐 Last Updated | 2026-02-09 21:59 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `remote support rs` • `mobile device management` • `major u s` • `twitter whistleblower complaint` • `openclaw ai assistant` • `online gambling sites` • `long term impact` • `entire web platform`
+`lema ai emerges` • `mobile device management` • `remote support rs` • `windows operating systems` • `national security risk` • `twitter whistleblower complaint` • `publicly accessible api` • `openclaw ai assistant` • `long term impact` • `high value assets`
 
 ## 📄 Reports
 

@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 274,
+      "count": 275,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -197,7 +197,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 635,
+      "count": 636,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -500,7 +500,7 @@
       ]
     },
     "remote code execution": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -516,7 +516,8 @@
         "2026-02-05",
         "2026-02-06",
         "2026-02-07",
-        "2026-02-08"
+        "2026-02-08",
+        "2026-02-09"
       ]
     },
     "attacker remotely control": {
@@ -706,7 +707,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -724,7 +725,8 @@
         "2026-01-22",
         "2026-01-23",
         "2026-01-27",
-        "2026-01-28"
+        "2026-01-28",
+        "2026-02-09"
       ]
     },
     "denmark's critical infrastructure": {
@@ -737,7 +739,7 @@
       ]
     },
     "national security risk": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1541,7 +1543,7 @@
       ]
     },
     "nation s ability": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1551,7 +1553,8 @@
         "2026-01-13",
         "2026-01-16",
         "2026-01-20",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-02-09"
       ]
     },
     "cyber insurers recommend": {
@@ -1968,7 +1971,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3078,7 +3081,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -5752,7 +5755,7 @@
       ]
     },
     "publicly accessible api": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5829,7 +5832,7 @@
       ]
     },
     "long term impact": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5865,7 +5868,7 @@
       ]
     },
     "openclaw ai assistant": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-08",
         "2026-02-09"
@@ -5898,7 +5901,7 @@
       ]
     },
     "mobile device management": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-09"
       ]
@@ -5928,7 +5931,7 @@
       ]
     },
     "remote support rs": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-09"
       ]
@@ -5944,20 +5947,51 @@
       "dates": [
         "2026-02-09"
       ]
+    },
+    "lema ai emerges": {
+      "count": 1,
+      "dates": [
+        "2026-02-09"
+      ]
+    },
+    "high value assets": {
+      "count": 1,
+      "dates": [
+        "2026-02-09"
+      ]
+    },
+    "deploy dfir tool": {
+      "count": 1,
+      "dates": [
+        "2026-02-09"
+      ]
+    },
+    "multi stage intrusion": {
+      "count": 1,
+      "dates": [
+        "2026-02-09"
+      ]
+    },
+    "multi stage attacks": {
+      "count": 1,
+      "dates": [
+        "2026-02-09"
+      ]
+    },
+    "ransomware via vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-02-09"
+      ]
+    },
+    "virtual event shields": {
+      "count": 1,
+      "dates": [
+        "2026-02-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-31 10:19",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "llms hijacked monetized",
-        "rockwell automation controllogix",
-        "hugging face abused",
-        "windows 11 systems"
-      ]
-    },
     {
       "timestamp": "2026-01-31 12:37",
       "articles": 56,
@@ -7045,6 +7079,17 @@
         "remote support rs",
         "mobile device management",
         "major u s"
+      ]
+    },
+    {
+      "timestamp": "2026-02-09 21:59",
+      "articles": 56,
+      "top_keywords": [
+        "lema ai emerges",
+        "mobile device management",
+        "remote support rs",
+        "windows operating systems",
+        "national security risk"
       ]
     }
   ]

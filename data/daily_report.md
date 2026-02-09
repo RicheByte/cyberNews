@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-09 06:59 UTC  
+> **Last Updated:** 2026-02-09 08:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **national security risk** • **internal network behind** • **twitter whistleblower complaint** • **publicly accessible api** • **openclaw ai assistant** • **long term impact** • **google owned virustotal** • **6 1 million** • **130 companies tangled** • **dire critical rating** • **traditional security tools** • **today we'll dig** • **malicious cyber actors** • **bugs fixed today** • **16th anniversary today** • **least 2019 dknife** • **personalized recommendation systems** • **critical function vulnerability** • **hackers network operators**
+**windows operating systems** • **national security risk** • **internal network behind** • **twitter whistleblower complaint** • **publicly accessible api** • **long term impact** • **130 companies tangled** • **traditional security tools** • **today we'll dig** • **malicious cyber actors** • **bugs fixed today** • **16th anniversary today** • **least 2019 dknife** • **personalized recommendation systems** • **hackers network operators** • **vulnerabilities earned microsoft's** • **visibility changes prevention** • **undergone significant evolution** • **strong theme running** • **state sponsored hackers**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA](https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html)
 - [OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html)
 - [German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists](https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html)
 - [China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery](https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html)
@@ -23,7 +24,6 @@
 - [Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities](https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html)
 - [How Samsung Knox Helps Stop Your Network Security Breach](https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html)
 - [Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware](https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html)
-- [Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries](https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [European Commission Investigating Cyberattack](https://www.securityweek.com/european-commission-investigating-cyberattack/)
 - [Organizations Urged to Replace Discontinued Edge Devices](https://www.securityweek.com/organizations-urged-to-replace-discontinued-edge-devices/)
 - [Flickr Security Incident Tied to Third-Party Email System](https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/)
 - [Living off the AI: The Next Evolution of Attacker Tradecraft](https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/)
@@ -67,7 +68,6 @@
 - [Airrived Emerges From Stealth With $6.1 Million in Funding](https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/)
 - [‘DKnife’ Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks](https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/)
 - [5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel](https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/)
-- [Critical SmarterMail Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/)
 
 ### Threatpost
 

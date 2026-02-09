@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-09 06:59 UTC |
+| 🕐 Last Updated | 2026-02-09 08:43 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows operating systems` • `national security risk` • `internal network behind` • `twitter whistleblower complaint` • `publicly accessible api` • `openclaw ai assistant` • `long term impact` • `google owned virustotal` • `6 1 million` • `130 companies tangled`
+`windows operating systems` • `national security risk` • `internal network behind` • `twitter whistleblower complaint` • `publicly accessible api` • `long term impact` • `130 companies tangled` • `traditional security tools` • `today we'll dig` • `malicious cyber actors`
 
 ## 📄 Reports
 

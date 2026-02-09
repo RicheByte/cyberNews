@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09 06:59",
+  "last_updated": "2026-02-09 08:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,12 +8,8 @@
     "internal network behind",
     "twitter whistleblower complaint",
     "publicly accessible api",
-    "openclaw ai assistant",
     "long term impact",
-    "google owned virustotal",
-    "6 1 million",
     "130 companies tangled",
-    "dire critical rating",
     "traditional security tools",
     "today we'll dig",
     "malicious cyber actors",
@@ -21,52 +17,69 @@
     "16th anniversary today",
     "least 2019 dknife",
     "personalized recommendation systems",
-    "critical function vulnerability",
-    "hackers network operators"
+    "hackers network operators",
+    "vulnerabilities earned microsoft's",
+    "visibility changes prevention",
+    "undergone significant evolution",
+    "strong theme running",
+    "state sponsored hackers"
   ],
   "trending": [
     {
       "keyword": "windows operating systems",
-      "mentions": 272
+      "mentions": 273
     },
     {
       "keyword": "national security risk",
-      "mentions": 114
+      "mentions": 115
     },
     {
       "keyword": "internal network behind",
-      "mentions": 214
+      "mentions": 215
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 631
+      "mentions": 632
     },
     {
       "keyword": "publicly accessible api",
-      "mentions": 11
-    },
-    {
-      "keyword": "openclaw ai assistant",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "long term impact",
-      "mentions": 28
-    },
-    {
-      "keyword": "google owned virustotal",
-      "mentions": 4
-    },
-    {
-      "keyword": "6 1 million",
-      "mentions": 32
+      "mentions": 29
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 105
+      "mentions": 106
+    },
+    {
+      "keyword": "traditional security tools",
+      "mentions": 24
+    },
+    {
+      "keyword": "today we'll dig",
+      "mentions": 161
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 276
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
+      "link": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
+      "summary": "BeyondTrust has released updates to address a critical security flaw impacting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could result in remote code execution. \"BeyondTrust Remote Support (RS) and certain older versions of Privileged Remote Access (PRA) contain a critical pre-authentication remote code execution vulnerability,\" the company",
+      "published": "Mon, 09 Feb 2026 13:33:00 +0530",
+      "value_score": 72,
+      "value_signals": [
+        "RCE ×3",
+        "High severity ×3",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
@@ -139,15 +152,6 @@
       "value_signals": [
         "RCE"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
-      "link": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
-      "summary": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF. Claude Opus 4.6, which was launched Thursday, comes with improved coding skills, including code review and debugging capabilities, along with",
-      "published": "Fri, 06 Feb 2026 11:19:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -396,6 +400,15 @@
     },
     {
       "source": "Security Week",
+      "title": "European Commission Investigating Cyberattack",
+      "link": "https://www.securityweek.com/european-commission-investigating-cyberattack/",
+      "summary": "The signs of a cyberattack were identified on systems EU's main executive body uses for mobile device management. The post European Commission Investigating Cyberattack appeared first on SecurityWeek .",
+      "published": "Mon, 09 Feb 2026 08:06:54 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Organizations Urged to Replace Discontinued Edge Devices",
       "link": "https://www.securityweek.com/organizations-urged-to-replace-discontinued-edge-devices/",
       "summary": "Edge devices that are no longer supported have been targeted in attacks by state-sponsored hackers, the US says. The post Organizations Urged to Replace Discontinued Edge Devices appeared first on SecurityWeek .",
@@ -458,19 +471,6 @@
       "published": "Fri, 06 Feb 2026 08:19:03 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical SmarterMail Vulnerability Exploited in Ransomware Attacks",
-      "link": "https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/",
-      "summary": "The security defect allows unauthenticated attackers to execute arbitrary code remotely via malicious HTTP requests. The post Critical SmarterMail Vulnerability Exploited in Ransomware Attacks appeared first on SecurityWeek .",
-      "published": "Fri, 06 Feb 2026 07:50:23 +0000",
-      "value_score": 68,
-      "value_signals": [
-        "Ransomware ×2",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

@@ -197,7 +197,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 636,
+      "count": 637,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -500,7 +500,7 @@
       ]
     },
     "remote code execution": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -739,7 +739,7 @@
       ]
     },
     "national security risk": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1543,7 +1543,7 @@
       ]
     },
     "nation s ability": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1971,7 +1971,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -4430,7 +4430,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5192,7 +5192,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5832,7 +5832,7 @@
       ]
     },
     "long term impact": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5868,7 +5868,7 @@
       ]
     },
     "openclaw ai assistant": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-08",
         "2026-02-09"
@@ -5901,7 +5901,7 @@
       ]
     },
     "mobile device management": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-09"
       ]
@@ -5931,7 +5931,7 @@
       ]
     },
     "remote support rs": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-09"
       ]
@@ -5943,48 +5943,54 @@
       ]
     },
     "online gambling sites": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-09"
       ]
     },
     "lema ai emerges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-09"
       ]
     },
     "high value assets": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-09"
       ]
     },
     "deploy dfir tool": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-09"
       ]
     },
     "multi stage intrusion": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-09"
       ]
     },
     "multi stage attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-09"
       ]
     },
     "ransomware via vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-09"
       ]
     },
     "virtual event shields": {
+      "count": 2,
+      "dates": [
+        "2026-02-09"
+      ]
+    },
+    "urge defensive action": {
       "count": 1,
       "dates": [
         "2026-02-09"
@@ -5992,17 +5998,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-31 12:37",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "llms hijacked monetized",
-        "rockwell automation controllogix",
-        "hugging face abused",
-        "windows operating systems"
-      ]
-    },
     {
       "timestamp": "2026-01-31 14:20",
       "articles": 56,
@@ -7090,6 +7085,17 @@
         "remote support rs",
         "windows operating systems",
         "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-02-09 22:42",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "lema ai emerges",
+        "mobile device management",
+        "remote support rs"
       ]
     }
   ]

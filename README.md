@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-09 08:43 UTC |
+| 🕐 Last Updated | 2026-02-09 10:51 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows operating systems` • `national security risk` • `internal network behind` • `twitter whistleblower complaint` • `publicly accessible api` • `long term impact` • `130 companies tangled` • `traditional security tools` • `today we'll dig` • `malicious cyber actors`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `national security risk` • `internal network behind` • `twitter whistleblower complaint` • `long term impact` • `130 companies tangled` • `entire web platform` • `agentic os platform` • `mobile device management`
 
 ## 📄 Reports
 

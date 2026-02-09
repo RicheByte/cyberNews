@@ -197,7 +197,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 632,
+      "count": 633,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -737,7 +737,7 @@
       ]
     },
     "national security risk": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1213,14 +1213,15 @@
       ]
     },
     "restrict free speech": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-24",
         "2025-12-25",
         "2026-01-13",
         "2026-01-14",
         "2026-01-31",
-        "2026-02-01"
+        "2026-02-01",
+        "2026-02-09"
       ]
     },
     "spread powershell malware": {
@@ -1966,7 +1967,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2298,7 +2299,7 @@
       ]
     },
     "strong theme running": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2418,7 +2419,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2446,7 +2447,7 @@
       ]
     },
     "internal network behind": {
-      "count": 215,
+      "count": 216,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2613,7 +2614,7 @@
       ]
     },
     "hackers network operators": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2684,7 +2685,7 @@
       ]
     },
     "scoops nestled inside": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-01-11",
         "2026-01-13",
@@ -2696,7 +2697,8 @@
         "2026-01-31",
         "2026-02-01",
         "2026-02-02",
-        "2026-02-05"
+        "2026-02-05",
+        "2026-02-09"
       ]
     },
     "banning legitimate accounts": {
@@ -4422,7 +4424,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5184,7 +5186,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5725,9 +5727,10 @@
       ]
     },
     "entire web platform": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-02-06"
+        "2026-02-06",
+        "2026-02-09"
       ]
     },
     "exchange online will": {
@@ -5764,11 +5767,12 @@
       ]
     },
     "agentic os platform": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-02-06",
         "2026-02-07",
-        "2026-02-08"
+        "2026-02-08",
+        "2026-02-09"
       ]
     },
     "6 1 million": {
@@ -5814,13 +5818,14 @@
       ]
     },
     "network security breach": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-06"
+        "2026-02-06",
+        "2026-02-09"
       ]
     },
     "long term impact": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5829,7 +5834,7 @@
       ]
     },
     "spy deliver malware": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5877,12 +5882,24 @@
       ]
     },
     "undergone significant evolution": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-09"
       ]
     },
     "state sponsored hackers": {
+      "count": 2,
+      "dates": [
+        "2026-02-09"
+      ]
+    },
+    "mobile device management": {
+      "count": 1,
+      "dates": [
+        "2026-02-09"
+      ]
+    },
+    "signal messaging app": {
       "count": 1,
       "dates": [
         "2026-02-09"
@@ -5890,17 +5907,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-31 04:01",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "llms hijacked monetized",
-        "ai compute infrastructure",
-        "rockwell automation controllogix",
-        "hugging face abused"
-      ]
-    },
     {
       "timestamp": "2026-01-31 06:32",
       "articles": 56,
@@ -6988,6 +6994,17 @@
         "internal network behind",
         "twitter whistleblower complaint",
         "publicly accessible api"
+      ]
+    },
+    {
+      "timestamp": "2026-02-09 10:51",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "national security risk",
+        "internal network behind",
+        "twitter whistleblower complaint"
       ]
     }
   ]

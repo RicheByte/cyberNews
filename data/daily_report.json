@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-02-09 08:43",
+  "last_updated": "2026-02-09 10:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "windows operating systems",
+    "scattered lapsus shinyhunters",
+    "badbox 2 0",
     "national security risk",
     "internal network behind",
     "twitter whistleblower complaint",
-    "publicly accessible api",
     "long term impact",
     "130 companies tangled",
-    "traditional security tools",
-    "today we'll dig",
-    "malicious cyber actors",
-    "bugs fixed today",
-    "16th anniversary today",
-    "least 2019 dknife",
-    "personalized recommendation systems",
+    "entire web platform",
+    "agentic os platform",
+    "mobile device management",
     "hackers network operators",
-    "vulnerabilities earned microsoft's",
-    "visibility changes prevention",
+    "network security breach",
     "undergone significant evolution",
+    "today we'll dig",
     "strong theme running",
-    "state sponsored hackers"
+    "state sponsored hackers",
+    "spy deliver malware",
+    "signal messaging app",
+    "scoops nestled inside",
+    "restrict free speech"
   ],
   "trending": [
     {
-      "keyword": "windows operating systems",
-      "mentions": 273
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 40
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 71
     },
     {
       "keyword": "national security risk",
-      "mentions": 115
+      "mentions": 116
     },
     {
       "keyword": "internal network behind",
-      "mentions": 215
+      "mentions": 216
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 632
-    },
-    {
-      "keyword": "publicly accessible api",
-      "mentions": 12
+      "mentions": 633
     },
     {
       "keyword": "long term impact",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 106
+      "mentions": 107
     },
     {
-      "keyword": "traditional security tools",
-      "mentions": 24
+      "keyword": "entire web platform",
+      "mentions": 6
     },
     {
-      "keyword": "today we'll dig",
-      "mentions": 161
+      "keyword": "agentic os platform",
+      "mentions": 22
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 276
+      "keyword": "mobile device management",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
+      "link": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html",
+      "summary": "Cybersecurity researchers have called attention to a \"massive campaign\" that has systematically targeted cloud native environments to set up malicious infrastructure for follow-on exploitation. The activity, observed around December 25, 2025, and described as \"worm-driven,\" leveraged exposed Docker APIs, Kubernetes clusters, Ray dashboards, and Redis servers, along with the recently disclosed",
+      "published": "Mon, 09 Feb 2026 14:07:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
@@ -143,14 +154,25 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
-      "link": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
-      "summary": "Cybersecurity researchers have discovered a new supply chain attack in which legitimate packages on npm and the Python Package Index (PyPI) repository have been compromised to push malicious versions to facilitate wallet credential theft and remote code execution. The compromised versions of the two packages are listed below - @dydxprotocol/v4-client-js (npm) - 3.4.1, 1.22.1, 1.15.2, 1.0.31&",
-      "published": "Fri, 06 Feb 2026 14:10:00 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "Microsoft: Exchange Online flags legitimate emails as phishing",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/",
+      "summary": "Microsoft is investigating an ongoing Exchange Online issue that mistakenly flags legitimate emails as phishing and quarantines them. [...]",
+      "published": "Mon, 09 Feb 2026 05:47:25 -0500",
+      "value_score": 26,
       "value_signals": [
-        "RCE"
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "European Commission discloses breach that exposed staff data",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/",
+      "summary": "The European Commission is investigating a breach after finding evidence that its mobile device management platform was hacked. [...]",
+      "published": "Mon, 09 Feb 2026 04:49:04 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
       ]
     },
     {
@@ -217,22 +239,24 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
-      "summary": "Many modern attacks happen entirely inside the browser, leaving little evidence for traditional security tools. Keep Aware shows why EDR, email, and SASE miss browser-only attacks and how visibility changes prevention. [...]",
-      "published": "Fri, 06 Feb 2026 10:01:11 -0500",
+      "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "EU says TikTok faces large fine over \"addictive design\"",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/",
-      "summary": "The European Commission said today that TikTok is facing a fine because its addictive features, including infinite scroll, autoplay, push notifications, and personalized recommendation systems, are breaching the EU's Digital Services Act (DSA). [...]",
-      "published": "Fri, 06 Feb 2026 08:53:53 -0500",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
     },
     {
       "source": "Krebs on Security",
@@ -298,28 +322,6 @@
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Dark Reading",
@@ -400,6 +402,17 @@
     },
     {
       "source": "Security Week",
+      "title": "New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA’s KEV Catalog",
+      "link": "https://www.securityweek.com/new-paper-and-tool-help-security-teams-move-beyond-blind-reliance-on-cisas-kev-catalog/",
+      "summary": "The KEV list is useful but largely misunderstood. KEVology explains what it is, and how best to use it. The post New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA’s KEV Catalog appeared first on SecurityWeek .",
+      "published": "Mon, 09 Feb 2026 09:10:25 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×5"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "European Commission Investigating Cyberattack",
       "link": "https://www.securityweek.com/european-commission-investigating-cyberattack/",
       "summary": "The signs of a cyberattack were identified on systems EU's main executive body uses for mobile device management. The post European Commission Investigating Cyberattack appeared first on SecurityWeek .",
@@ -460,15 +473,6 @@
       "link": "https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/",
       "summary": "Used since at least 2019, DKnife has been targeting the desktop, mobile, and IoT devices of Chinese users. The post ‘DKnife’ Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks appeared first on SecurityWeek .",
       "published": "Fri, 06 Feb 2026 08:50:46 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel",
-      "link": "https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/",
-      "summary": "The news comes after the Department of Energy conducted its annual Liberty Eclipse cybersecurity exercise. The post 5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel appeared first on SecurityWeek .",
-      "published": "Fri, 06 Feb 2026 08:19:03 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-09 01:50 UTC |
+| 🕐 Last Updated | 2026-02-09 04:23 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `national security risk` • `internal network behind` • `twitter whistleblower complaint` • `openclaw ai assistant` • `long term impact` • `6 1 million` • `130 companies tangled` • `dire critical rating`
+`windows operating systems` • `national security risk` • `internal network behind` • `twitter whistleblower complaint` • `publicly accessible api` • `openclaw ai assistant` • `long term impact` • `google owned virustotal` • `6 1 million` • `130 companies tangled`
 
 ## 📄 Reports
 

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 273,
+      "count": 274,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 270,
+      "count": 271,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -192,11 +192,12 @@
         "2026-02-05",
         "2026-02-06",
         "2026-02-07",
-        "2026-02-08"
+        "2026-02-08",
+        "2026-02-09"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 629,
+      "count": 630,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -736,7 +737,7 @@
       ]
     },
     "national security risk": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1965,7 +1966,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2118,7 +2119,7 @@
       ]
     },
     "16th anniversary today": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -2416,7 +2417,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2444,7 +2445,7 @@
       ]
     },
     "internal network behind": {
-      "count": 212,
+      "count": 213,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2611,7 +2612,7 @@
       ]
     },
     "hackers network operators": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3042,7 +3043,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3060,7 +3061,7 @@
       ]
     },
     "bugs fixed today": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-14",
         "2026-01-21",
@@ -5734,7 +5735,7 @@
       ]
     },
     "critical function vulnerability": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5743,19 +5744,21 @@
       ]
     },
     "publicly accessible api": {
-      "count": 9,
-      "dates": [
-        "2026-02-06",
-        "2026-02-07",
-        "2026-02-08"
-      ]
-    },
-    "least 2019 dknife": {
       "count": 10,
       "dates": [
         "2026-02-06",
         "2026-02-07",
-        "2026-02-08"
+        "2026-02-08",
+        "2026-02-09"
+      ]
+    },
+    "least 2019 dknife": {
+      "count": 11,
+      "dates": [
+        "2026-02-06",
+        "2026-02-07",
+        "2026-02-08",
+        "2026-02-09"
       ]
     },
     "agentic os platform": {
@@ -5767,7 +5770,7 @@
       ]
     },
     "6 1 million": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5815,7 +5818,7 @@
       ]
     },
     "long term impact": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5833,7 +5836,7 @@
       ]
     },
     "traditional security tools": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5842,7 +5845,7 @@
       ]
     },
     "personalized recommendation systems": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5851,16 +5854,17 @@
       ]
     },
     "openclaw ai assistant": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-08",
         "2026-02-09"
       ]
     },
     "google owned virustotal": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-02-08"
+        "2026-02-08",
+        "2026-02-09"
       ]
     },
     "visibility changes prevention": {
@@ -5872,17 +5876,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-30 20:23",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "llms hijacked monetized",
-        "rockwell automation controllogix",
-        "hugging face abused",
-        "windows 11 systems"
-      ]
-    },
     {
       "timestamp": "2026-01-30 22:20",
       "articles": 56,
@@ -6970,6 +6963,17 @@
         "national security risk",
         "internal network behind",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-02-09 04:23",
+      "articles": 56,
+      "top_keywords": [
+        "windows operating systems",
+        "national security risk",
+        "internal network behind",
+        "twitter whistleblower complaint",
+        "publicly accessible api"
       ]
     }
   ]

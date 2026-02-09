@@ -197,7 +197,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 634,
+      "count": 635,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1213,7 +1213,7 @@
       ]
     },
     "restrict free speech": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2025-12-24",
         "2025-12-25",
@@ -1893,10 +1893,11 @@
       ]
     },
     "ai driven threats": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-05",
-        "2026-01-06"
+        "2026-01-06",
+        "2026-02-09"
       ]
     },
     "internet router probably": {
@@ -1967,7 +1968,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2299,7 +2300,7 @@
       ]
     },
     "strong theme running": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2382,7 +2383,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2420,7 +2421,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 163,
+      "count": 164,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2448,7 +2449,7 @@
       ]
     },
     "internal network behind": {
-      "count": 217,
+      "count": 218,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4426,7 +4427,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5188,7 +5189,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5729,7 +5730,7 @@
       ]
     },
     "entire web platform": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-06",
         "2026-02-09"
@@ -5751,7 +5752,7 @@
       ]
     },
     "publicly accessible api": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5828,7 +5829,7 @@
       ]
     },
     "long term impact": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5864,7 +5865,7 @@
       ]
     },
     "openclaw ai assistant": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-08",
         "2026-02-09"
@@ -5897,13 +5898,13 @@
       ]
     },
     "mobile device management": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-09"
       ]
     },
     "signal messaging app": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-09"
       ]
@@ -5915,7 +5916,7 @@
       ]
     },
     "routine triage piles": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-09"
       ]
@@ -5925,20 +5926,27 @@
       "dates": [
         "2026-02-09"
       ]
+    },
+    "remote support rs": {
+      "count": 1,
+      "dates": [
+        "2026-02-09"
+      ]
+    },
+    "major u s": {
+      "count": 1,
+      "dates": [
+        "2026-02-09"
+      ]
+    },
+    "online gambling sites": {
+      "count": 1,
+      "dates": [
+        "2026-02-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-31 08:23",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "llms hijacked monetized",
-        "rockwell automation controllogix",
-        "hugging face abused",
-        "ai compute infrastructure"
-      ]
-    },
     {
       "timestamp": "2026-01-31 10:19",
       "articles": 56,
@@ -7026,6 +7034,17 @@
         "national security risk",
         "twitter whistleblower complaint",
         "publicly accessible api"
+      ]
+    },
+    {
+      "timestamp": "2026-02-09 14:47",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "remote support rs",
+        "mobile device management",
+        "major u s"
       ]
     }
   ]

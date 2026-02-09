@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-09 12:58 UTC |
+| 🕐 Last Updated | 2026-02-09 14:47 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows operating systems` • `mobile device management` • `national security risk` • `twitter whistleblower complaint` • `publicly accessible api` • `long term impact` • `internal network behind` • `130 companies tangled` • `cisa orders removal` • `ai isn t`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `remote support rs` • `mobile device management` • `major u s` • `twitter whistleblower complaint` • `openclaw ai assistant` • `online gambling sites` • `long term impact` • `entire web platform`
 
 ## 📄 Reports
 

@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-02-09 10:51",
+  "last_updated": "2026-02-09 12:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "scattered lapsus shinyhunters",
-    "badbox 2 0",
-    "national security risk",
-    "internal network behind",
-    "twitter whistleblower complaint",
-    "long term impact",
-    "130 companies tangled",
-    "entire web platform",
-    "agentic os platform",
+    "windows operating systems",
     "mobile device management",
-    "hackers network operators",
-    "network security breach",
-    "undergone significant evolution",
+    "national security risk",
+    "twitter whistleblower complaint",
+    "publicly accessible api",
+    "long term impact",
+    "internal network behind",
+    "130 companies tangled",
+    "cisa orders removal",
+    "ai isn t",
+    "vulnerabilities earned microsoft's",
     "today we'll dig",
     "strong theme running",
-    "state sponsored hackers",
-    "spy deliver malware",
     "signal messaging app",
     "scoops nestled inside",
-    "restrict free speech"
+    "routine triage piles",
+    "restrict free speech",
+    "recommended immediate actions",
+    "prioritize e2e encryption",
+    "pose significant risks"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 40
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 71
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 116
-    },
-    {
-      "keyword": "internal network behind",
-      "mentions": 216
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 633
-    },
-    {
-      "keyword": "long term impact",
-      "mentions": 30
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 107
-    },
-    {
-      "keyword": "entire web platform",
-      "mentions": 6
-    },
-    {
-      "keyword": "agentic os platform",
-      "mentions": 22
+      "keyword": "windows operating systems",
+      "mentions": 274
     },
     {
       "keyword": "mobile device management",
+      "mentions": 2
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 117
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 634
+    },
+    {
+      "keyword": "publicly accessible api",
+      "mentions": 13
+    },
+    {
+      "keyword": "long term impact",
+      "mentions": 31
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 217
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 108
+    },
+    {
+      "keyword": "cisa orders removal",
+      "mentions": 10
+    },
+    {
+      "keyword": "ai isn t",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
+      "link": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
+      "summary": "Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged into basic validation, and MTTR climbs, while stealthy threats still find room to slip through. Top CISOs have realized the solution isn’t hiring more people or stacking yet another tool onto the workflow, but giving their teams faster, clearer",
+      "published": "Mon, 09 Feb 2026 16:53:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign",
+      "link": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html",
+      "summary": "The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan known as NetSupport RAT. Cybersecurity vendor Kaspersky is tracking the activity under the moniker Stan Ghouls. The threat actor is known to be active since at least 2023, orchestrating spear-phishing attacks against manufacturing, finance, and IT",
+      "published": "Mon, 09 Feb 2026 16:28:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
@@ -132,26 +152,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
-      "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
-      "summary": "A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past year, according to new findings from Palo Alto Networks Unit 42. In addition, the hacking crew has been observed conducting active reconnaissance against government infrastructure associated with 155",
-      "published": "Fri, 06 Feb 2026 17:37:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "How Samsung Knox Helps Stop Your Network Security Breach",
-      "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
-      "summary": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it’s a big “however”), the increasing use of mobile devices in business operations necessitates network security measures that are specifically",
-      "published": "Fri, 06 Feb 2026 16:00:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
+      "source": "BleepingComputer",
+      "title": "Men charged in FanDuel scheme fueled by thousands of stolen identities",
+      "link": "https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/",
+      "summary": "Two Connecticut men face federal charges for allegedly defrauding FanDuel and other online gambling sites of $3 million over several years using the stolen identities of approximately 3,000 victims. [...]",
+      "published": "Mon, 09 Feb 2026 06:41:17 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -225,40 +232,6 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "CISA warns of SmarterMail RCE flaw used in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/",
-      "summary": "The Cybersecurity & Infrastructure Security Agency (CISA) in the U.S. has issued a warning about CVE-2026-24423, an unauthenticated remote code execution (RCE) flaw in SmarterMail that is used in ransomware attacks. [...]",
-      "published": "Fri, 06 Feb 2026 12:16:03 -0500",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Ransomware ×2",
-        "RCE ×3",
-        "CISA/KEV ×2"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -322,6 +295,28 @@
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -402,6 +397,28 @@
     },
     {
       "source": "Security Week",
+      "title": "Recent SolarWinds Flaws Potentially Exploited as Zero-Days",
+      "link": "https://www.securityweek.com/recent-solarwinds-flaws-potentially-exploited-as-zero-days/",
+      "summary": "Vulnerable SolarWinds Web Help Desk instances were exploited in December 2025 for initial access. The post Recent SolarWinds Flaws Potentially Exploited as Zero-Days appeared first on SecurityWeek .",
+      "published": "Mon, 09 Feb 2026 12:42:19 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "SmarterTools Hit by Ransomware via Vulnerability in Its Own Product",
+      "link": "https://www.securityweek.com/smartertools-hit-by-ransomware-via-vulnerability-in-its-own-product/",
+      "summary": "SmarterTools says customers were impacted after hackers compromised a data center used for quality control testing. The post SmarterTools Hit by Ransomware via Vulnerability in Its Own Product appeared first on SecurityWeek .",
+      "published": "Mon, 09 Feb 2026 12:02:24 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA’s KEV Catalog",
       "link": "https://www.securityweek.com/new-paper-and-tool-help-security-teams-move-beyond-blind-reliance-on-cisas-kev-catalog/",
       "summary": "The KEV list is useful but largely misunderstood. KEVology explains what it is, and how best to use it. The post New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA’s KEV Catalog appeared first on SecurityWeek .",
@@ -455,24 +472,6 @@
       "link": "https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/",
       "summary": "Other noteworthy stories that might have slipped under the radar: AT&T and Verizon response to Salt Typhoon, AI agents solve security challenges, man arrested in Poland for DDos Attacks. The post In Other News: Record DDoS, Epstein’s Hacker, ESET Product Vulnerabilities appeared first on SecurityWeek .",
       "published": "Fri, 06 Feb 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Airrived Emerges From Stealth With $6.1 Million in Funding",
-      "link": "https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/",
-      "summary": "The startup aims to unify SOC, GRC, IAM, vulnerability management, IT, and business operations through its Agentic OS platform. The post Airrived Emerges From Stealth With $6.1 Million in Funding appeared first on SecurityWeek .",
-      "published": "Fri, 06 Feb 2026 09:40:59 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "‘DKnife’ Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks",
-      "link": "https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/",
-      "summary": "Used since at least 2019, DKnife has been targeting the desktop, mobile, and IoT devices of Chinese users. The post ‘DKnife’ Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks appeared first on SecurityWeek .",
-      "published": "Fri, 06 Feb 2026 08:50:46 +0000",
       "value_score": 10,
       "value_signals": []
     },

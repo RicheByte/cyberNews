@@ -1,15 +1,17 @@
 {
-  "last_updated": "2026-02-10 02:00",
+  "last_updated": "2026-02-10 05:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "scattered lapsus shinyhunters",
+    "badbox 2 0",
     "lema ai emerges",
     "mobile device management",
     "remote code execution",
     "remote support rs",
-    "windows operating systems",
-    "national security risk",
     "twitter whistleblower complaint",
+    "online gambling sites",
+    "national security risk",
     "long term impact",
     "high value assets",
     "deploy dfir tool",
@@ -18,52 +20,50 @@
     "openclaw ai assistant",
     "multi stage intrusion",
     "nation s ability",
-    "read device data",
     "multi stage attacks",
-    "critical security flaw",
     "ransomware via vulnerability",
-    "vulnerabilities earned microsoft's"
+    "virtual event shields"
   ],
   "trending": [
     {
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 43
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 74
+    },
+    {
       "keyword": "lema ai emerges",
-      "mentions": 3
-    },
-    {
-      "keyword": "mobile device management",
-      "mentions": 6
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 95
-    },
-    {
-      "keyword": "remote support rs",
       "mentions": 4
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 276
+      "keyword": "mobile device management",
+      "mentions": 7
     },
     {
-      "keyword": "national security risk",
-      "mentions": 120
+      "keyword": "remote code execution",
+      "mentions": 96
+    },
+    {
+      "keyword": "remote support rs",
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 638
+      "mentions": 639
+    },
+    {
+      "keyword": "online gambling sites",
+      "mentions": 3
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 121
     },
     {
       "keyword": "long term impact",
-      "mentions": 35
-    },
-    {
-      "keyword": "high value assets",
-      "mentions": 3
-    },
-    {
-      "keyword": "deploy dfir tool",
-      "mentions": 3
+      "mentions": 36
     }
   ],
   "articles": [
@@ -241,6 +241,26 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
@@ -303,28 +323,6 @@
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Dark Reading",

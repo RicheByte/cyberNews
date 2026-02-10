@@ -198,7 +198,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 638,
+      "count": 639,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -502,7 +502,7 @@
       ]
     },
     "remote code execution": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -743,7 +743,7 @@
       ]
     },
     "national security risk": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1548,7 +1548,7 @@
       ]
     },
     "nation s ability": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1977,7 +1977,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -4438,7 +4438,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4454,7 +4454,8 @@
         "2026-02-06",
         "2026-02-07",
         "2026-02-08",
-        "2026-02-09"
+        "2026-02-09",
+        "2026-02-10"
       ]
     },
     "ai generated backdoor": {
@@ -5200,7 +5201,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5209,7 +5210,8 @@
         "2026-02-06",
         "2026-02-07",
         "2026-02-08",
-        "2026-02-09"
+        "2026-02-09",
+        "2026-02-10"
       ]
     },
     "firefox ai features": {
@@ -5840,7 +5842,7 @@
       ]
     },
     "long term impact": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5877,7 +5879,7 @@
       ]
     },
     "openclaw ai assistant": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-08",
         "2026-02-09",
@@ -5911,7 +5913,7 @@
       ]
     },
     "mobile device management": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-09",
         "2026-02-10"
@@ -5942,7 +5944,7 @@
       ]
     },
     "remote support rs": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-09",
         "2026-02-10"
@@ -5955,57 +5957,59 @@
       ]
     },
     "online gambling sites": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-02-09"
+        "2026-02-09",
+        "2026-02-10"
       ]
     },
     "lema ai emerges": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "high value assets": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "deploy dfir tool": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "multi stage intrusion": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "multi stage attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "ransomware via vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "virtual event shields": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-02-09"
+        "2026-02-09",
+        "2026-02-10"
       ]
     },
     "urge defensive action": {
@@ -6015,7 +6019,7 @@
       ]
     },
     "reynolds ransomware illustrating": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-10"
       ]
@@ -6028,17 +6032,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-31 16:21",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "hugging face abused",
-        "rockwell automation controllogix",
-        "windows operating systems",
-        "windows 11 systems"
-      ]
-    },
     {
       "timestamp": "2026-01-31 18:24",
       "articles": 56,
@@ -7126,6 +7119,17 @@
         "remote code execution",
         "remote support rs",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-02-10 05:25",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "lema ai emerges",
+        "mobile device management",
+        "remote code execution"
       ]
     }
   ]

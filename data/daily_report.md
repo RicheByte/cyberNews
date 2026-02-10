@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-10 20:38 UTC  
+> **Last Updated:** 2026-02-10 22:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**vega raises 120m** • **scattered lapsus shinyhunters** • **bugs fixed today** • **badbox 2 0** • **secure ot communication** • **original 2011 certificates** • **rival cloud security** • **ics security gaps** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **manual investigation work** • **incident took place** • **credit reporting agency** • **monthly windows updates** • **targeting indian defense** • **defense evasion technique** • **national security risk** • **secure vibe coding** • **president s efforts** • **dire critical rating**
+**vega raises 120m** • **scattered lapsus shinyhunters** • **bugs fixed today** • **badbox 2 0** • **secure ot communication** • **sim location data** • **original 2011 certificates** • **ics security gaps** • **50 security holes** • **rival cloud security** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **credit reporting agency** • **targeting indian defense** • **national security risk** • **defense evasion technique** • **windows operating systems** • **secure vibe coding** • **dire critical rating** • **well planned campaign**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [North Korean hackers use new macOS malware in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/)
 - [Malicious 7-Zip site distributes installer laced with proxy tool](https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/)
 - [Microsoft releases Windows 10 KB5075912 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/)
 - [Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/)
@@ -34,10 +35,10 @@
 - [Volvo Group North America customer data exposed in Conduent hack](https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/)
 - [Microsoft rolls out new Secure Boot certificates before June expiration](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/)
 - [Microsoft 365 outage takes down admin center in North America](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/)
-- [How to Automate AWS Incident Investigation with Tines and AI](https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/)
 
 ### Krebs on Security
 
+- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
 - [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
 - [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
@@ -45,18 +46,17 @@
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
-- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 ### Dark Reading
 
+- [SolarWinds WHD Attacks Highlight Risks of Exposed Apps](https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps)
+- [In Bypassing MFA, ZeroDayRAT Is 'Textbook Stalkerware'](https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market)
+- [Microsoft Patches 6 Actively Exploited Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days)
 - [OT Attacks Get Scary With 'Living-off-the-Plant' Techniques](https://www.darkreading.com/ics-ot-security/ot-attacks-living-off-the-plant)
 - [TransUnion's Real Networks Deal Focuses on Robocall Blocking](https://www.darkreading.com/cyber-risk/transunion-s-real-networks-deal-focuses-on-robocall-blocking)
 - [Warlock Gang Breaches SmarterTools Via SmarterMail Bugs](https://www.darkreading.com/application-security/warlock-gang-breaches-smartertools-smartermail-bugs)
 - [TeamPCP Turns Cloud Infrastructure Into Crime Bots](https://www.darkreading.com/cloud-security/teampcp-cloud-infrastructure-crime-bots)
 - ['Reynolds' Bundles BYOVD With Ransomware Payload](https://www.darkreading.com/threat-intelligence/black-basta-bundles-byovd-ransomware-payload)
-- [[Virtual Event] Shields Up: Key Technologies Reshaping Cybersecurity Defenses](https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses)
-- [What Organizations Need to Change When Managing Printers](https://www.darkreading.com/cybersecurity-operations/what-organizations-need-to-change-when-managing-printers)
-- ['Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption](https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption)
 
 ### Security Week
 

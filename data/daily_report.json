@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10 20:38",
+  "last_updated": "2026-02-10 22:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,62 +8,62 @@
     "bugs fixed today",
     "badbox 2 0",
     "secure ot communication",
+    "sim location data",
     "original 2011 certificates",
-    "rival cloud security",
     "ics security gaps",
+    "50 security holes",
+    "rival cloud security",
     "vulnerabilities earned microsoft's",
     "twitter whistleblower complaint",
-    "manual investigation work",
-    "incident took place",
     "credit reporting agency",
-    "monthly windows updates",
     "targeting indian defense",
-    "defense evasion technique",
     "national security risk",
+    "defense evasion technique",
+    "windows operating systems",
     "secure vibe coding",
-    "president s efforts",
-    "dire critical rating"
+    "dire critical rating",
+    "well planned campaign"
   ],
   "trending": [
     {
       "keyword": "vega raises 120m",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 50
+      "mentions": 51
     },
     {
       "keyword": "bugs fixed today",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 81
+      "mentions": 82
     },
     {
       "keyword": "secure ot communication",
+      "mentions": 2
+    },
+    {
+      "keyword": "sim location data",
       "mentions": 1
     },
     {
       "keyword": "original 2011 certificates",
-      "mentions": 2
-    },
-    {
-      "keyword": "rival cloud security",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "ics security gaps",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "vulnerabilities earned microsoft's",
-      "mentions": 81
+      "keyword": "50 security holes",
+      "mentions": 1
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 647
+      "keyword": "rival cloud security",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "North Korean hackers use new macOS malware in crypto-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/",
+      "summary": "North Korean hackers are running tailored campaigns using AI-generated video and the ClickFix technique to deliver malware for macOS and Windows to targets in the cryptocurrency sector. [...]",
+      "published": "Tue, 10 Feb 2026 17:17:35 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Malicious 7-Zip site distributes installer laced with proxy tool",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/",
       "summary": "A fake 7-Zip website is distributing a trojanized installer of the popular archiving tool that turns the user's computer into a residential proxy node. [...]",
@@ -228,13 +237,18 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "How to Automate AWS Incident Investigation with Tines and AI",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/",
-      "summary": "Cloud incidents drag on when analysts have to leave cases to hunt through AWS consoles and CLIs. Tines shows how automated agents pull AWS CLI data directly into cases, reducing MTTR and manual investigation work. [...]",
-      "published": "Tue, 10 Feb 2026 10:01:11 -0500",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Krebs on Security",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Krebs on Security",
@@ -313,13 +327,34 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "source": "Dark Reading",
+      "title": "SolarWinds WHD Attacks Highlight Risks of Exposed Apps",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps",
+      "summary": "Organizations that have exposed their instances of Web Help Desk to the public Internet have inadvertently made them prime targets for attackers.",
+      "published": "Tue, 10 Feb 2026 22:00:53 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "In Bypassing MFA, ZeroDayRAT Is 'Textbook Stalkerware'",
+      "link": "https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market",
+      "summary": "With access to SIM, location data, and a preview of recent SMSes, attackers have everything they need for account takeover or targeted social engineering.",
+      "published": "Tue, 10 Feb 2026 21:37:15 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Microsoft Patches 6 Actively Exploited Zero-Days",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days",
+      "summary": "Three of those zero-days are security feature bypass flaws, which give attackers a way to slip past built-in protections in multiple Microsoft products.",
+      "published": "Tue, 10 Feb 2026 21:00:36 GMT",
+      "value_score": 41,
+      "value_signals": [
+        "Active exploitation",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -369,33 +404,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "[Virtual Event] Shields Up: Key Technologies Reshaping Cybersecurity Defenses",
-      "link": "https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses",
-      "summary": "",
-      "published": "2026-03-19T15:00:00.000Z",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "What Organizations Need to Change When Managing Printers",
-      "link": "https://www.darkreading.com/cybersecurity-operations/what-organizations-need-to-change-when-managing-printers",
-      "summary": "Ask the Expert: Organizations need to close the ownership vacuum, establish durable security controls, and ensure printers are protected as rigorously as other endpoints.",
-      "published": "Mon, 09 Feb 2026 17:22:18 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption",
-      "link": "https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption",
-      "summary": "The Electronic Frontier Foundation is urging major technology companies to follow through on their promises to implement end-to-end encryption (E2E) by default across their services, as privacy concerns mount amid increased AI use.",
-      "published": "Fri, 06 Feb 2026 16:34:41 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

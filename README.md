@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-10 20:38 UTC |
+| 🕐 Last Updated | 2026-02-10 22:35 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`vega raises 120m` • `scattered lapsus shinyhunters` • `bugs fixed today` • `badbox 2 0` • `secure ot communication` • `original 2011 certificates` • `rival cloud security` • `ics security gaps` • `vulnerabilities earned microsoft's` • `twitter whistleblower complaint`
+`vega raises 120m` • `scattered lapsus shinyhunters` • `bugs fixed today` • `badbox 2 0` • `secure ot communication` • `sim location data` • `original 2011 certificates` • `ics security gaps` • `50 security holes` • `rival cloud security`
 
 ## 📄 Reports
 

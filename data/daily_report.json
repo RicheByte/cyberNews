@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-02-10 14:54",
+  "last_updated": "2026-02-10 16:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "lema ai emerges",
     "scattered lapsus shinyhunters",
     "badbox 2 0",
-    "critical security flaw",
     "ics security gaps",
-    "high value assets",
     "credit reporting agency",
     "twitter whistleblower complaint",
-    "long term impact",
+    "incident took place",
+    "high value assets",
     "130 companies tangled",
+    "targeting indian defense",
+    "north america microsoft",
     "multi stage intrusion",
+    "defense evasion technique",
     "released security updates",
-    "national security risk",
+    "multi stage attacks",
     "deploy dfir tool",
-    "reynolds ransomware illustrating",
     "well planned campaign",
     "virtual event shields",
+    "velociraptor forensics tools",
     "urge defensive action",
-    "today we'll dig",
-    "strong theme running"
+    "today we'll dig"
   ],
   "trending": [
     {
-      "keyword": "lema ai emerges",
-      "mentions": 9
-    },
-    {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 78
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 126
+      "mentions": 79
     },
     {
       "keyword": "ics security gaps",
+      "mentions": 2
+    },
+    {
+      "keyword": "credit reporting agency",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 645
+    },
+    {
+      "keyword": "incident took place",
       "mentions": 1
     },
     {
       "keyword": "high value assets",
-      "mentions": 9
-    },
-    {
-      "keyword": "credit reporting agency",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 644
-    },
-    {
-      "keyword": "long term impact",
-      "mentions": 41
+      "mentions": 10
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 118
+      "mentions": 119
+    },
+    {
+      "keyword": "targeting indian defense",
+      "mentions": 1
+    },
+    {
+      "keyword": "north america microsoft",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
+      "link": "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html",
+      "summary": "Cybersecurity researchers have disclosed details of an emergent ransomware family dubbed Reynolds that comes embedded with a built-in bring your own vulnerable driver (BYOVD) component for defense evasion purposes within the ransomware payload itself. BYOVD refers to an adversarial technique that abuses legitimate but flawed driver software to escalate privileges and disable Endpoint Detection",
+      "published": "Tue, 10 Feb 2026 20:06:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "From Ransomware to Residency: Inside the Rise of the Digital Parasite",
@@ -146,15 +157,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More",
-      "link": "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html",
-      "summary": "Cyber threats are no longer coming from just malware or exploits. They’re showing up inside the tools, platforms, and ecosystems organizations use every day. As companies connect AI, cloud apps, developer tools, and communication systems, attackers are following those same paths. A clear pattern this week: attackers are abusing trust. Trusted updates, trusted marketplaces, trusted apps, even",
-      "published": "Mon, 09 Feb 2026 18:29:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Microsoft 365 outage takes down admin center in North America",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/",
+      "summary": "Microsoft is investigating an outage that blocks some administrators with business or enterprise subscriptions from accessing the Microsoft 365 admin center. [...]",
+      "published": "Tue, 10 Feb 2026 10:45:15 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "How to Automate AWS Incident Investigation with Tines and AI",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/",
+      "summary": "Cloud incidents drag on when analysts have to leave cases to hunt through AWS consoles and CLIs. Tines shows how automated agents pull AWS CLI data directly into cases, reducing MTTR and manual investigation work. [...]",
+      "published": "Tue, 10 Feb 2026 10:01:11 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -215,28 +233,6 @@
       "value_signals": [
         "Ransomware",
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Password guessing without AI: How attackers build targeted wordlists",
-      "link": "https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/",
-      "summary": "Attackers don't need AI to crack passwords, they build targeted wordlists from an organization's own public language. This article explains how tools like CeWL turn websites into high-success password guesses and why complexity rules alone fall short. [...]",
-      "published": "Mon, 09 Feb 2026 10:01:11 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "BeyondTrust warns of critical RCE flaw in remote support software",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/",
-      "summary": "BeyondTrust warned customers to patch a critical security flaw in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow unauthenticated attackers to execute arbitrary code remotely. [...]",
-      "published": "Mon, 09 Feb 2026 08:07:03 -0500",
-      "value_score": 54,
-      "value_signals": [
-        "RCE",
-        "Patch/update",
-        "High severity ×2"
       ]
     },
     {
@@ -326,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "OT Attacks Get Scary With 'Living-off-the-Plant' Techniques",
+      "link": "https://www.darkreading.com/ics-ot-security/ot-attacks-living-off-the-plant",
+      "summary": "Ironically, security by obscurity has helped prevent dangerous OT attacks in recent years. It won't be that way forever.",
+      "published": "Tue, 10 Feb 2026 16:14:29 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "TransUnion's Real Networks Deal Focuses on Robocall Blocking",
       "link": "https://www.darkreading.com/cyber-risk/transunion-s-real-networks-deal-focuses-on-robocall-blocking",
       "summary": "The acquisition allows the credit reporting agency to add SMS spam and scam prevention to its robocall blocking capabilities.",
@@ -392,13 +397,25 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Shai-hulud: The Hidden Costs of Supply Chain Attacks",
-      "link": "https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks",
-      "summary": "Recent supply chain attacks involving self-propagating worms have spread far, but the damage and long-term impact is hard to quantify.",
-      "published": "Fri, 06 Feb 2026 16:25:14 GMT",
+      "source": "Security Week",
+      "title": "RATs in the Machine: Inside a Pakistan-Linked Three-Pronged Cyber Assault on India",
+      "link": "https://www.securityweek.com/rats-in-the-machine-inside-a-pakistan-linked-three-pronged-cyber-assault-on-india/",
+      "summary": "Transparent Tribe (APT36) is targeting Indian defense and government sectors with GETA, ARES, and Desk RATs in a new wave of economic cyber espionage. The post RATs in the Machine: Inside a Pakistan-Linked Three-Pronged Cyber Assault on India appeared first on SecurityWeek .",
+      "published": "Tue, 10 Feb 2026 16:00:00 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "SAP Patches Critical CRM, S/4HANA, NetWeaver Vulnerabilities",
+      "link": "https://www.securityweek.com/sap-patches-critical-crm-s-4hana-netweaver-vulnerabilities/",
+      "summary": "SAP has released 26 new and one updated security notes on February 2026 security patch day. The post SAP Patches Critical CRM, S/4HANA, NetWeaver Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 10 Feb 2026 14:54:35 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Patch/update",
+        "High severity ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -461,26 +478,6 @@
       "published": "Tue, 10 Feb 2026 07:27:03 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk",
-      "link": "https://www.securityweek.com/lema-ai-emerges-from-stealth-with-24-million-to-tackle-third-party-risk/",
-      "summary": "The funding was raised over Series A and seed funding rounds for its supply chain security solution. The post Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk appeared first on SecurityWeek .",
-      "published": "Mon, 09 Feb 2026 17:25:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter",
-      "link": "https://www.securityweek.com/ransomware-groups-may-pivot-back-to-encryption-as-data-theft-tactics-falter/",
-      "summary": "As only data exfiltration for extortion no longer delivers ROI, ransomware gangs may increasingly encrypting data for additional leverage. The post Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter appeared first on SecurityWeek .",
-      "published": "Mon, 09 Feb 2026 14:38:17 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
     },
     {
       "source": "Threatpost",

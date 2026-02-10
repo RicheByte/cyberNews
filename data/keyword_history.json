@@ -198,7 +198,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 644,
+      "count": 645,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1979,7 +1979,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2434,7 +2434,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3293,7 +3293,7 @@
       ]
     },
     "released security updates": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4443,7 +4443,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5206,7 +5206,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5976,28 +5976,28 @@
       ]
     },
     "high value assets": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "deploy dfir tool": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "multi stage intrusion": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "multi stage attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-09",
         "2026-02-10"
@@ -6011,14 +6011,14 @@
       ]
     },
     "virtual event shields": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "urge defensive action": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-09",
         "2026-02-10"
@@ -6043,18 +6043,48 @@
       ]
     },
     "well planned campaign": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-10"
       ]
     },
     "ics security gaps": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-10"
       ]
     },
     "credit reporting agency": {
+      "count": 2,
+      "dates": [
+        "2026-02-10"
+      ]
+    },
+    "incident took place": {
+      "count": 1,
+      "dates": [
+        "2026-02-10"
+      ]
+    },
+    "targeting indian defense": {
+      "count": 1,
+      "dates": [
+        "2026-02-10"
+      ]
+    },
+    "north america microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-02-10"
+      ]
+    },
+    "defense evasion technique": {
+      "count": 1,
+      "dates": [
+        "2026-02-10"
+      ]
+    },
+    "velociraptor forensics tools": {
       "count": 1,
       "dates": [
         "2026-02-10"
@@ -6062,17 +6092,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-01 06:42",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "hugging face abused",
-        "rockwell automation controllogix",
-        "former software engineer",
-        "chinese tech firms"
-      ]
-    },
     {
       "timestamp": "2026-02-01 08:27",
       "articles": 56,
@@ -7160,6 +7179,17 @@
         "badbox 2 0",
         "critical security flaw",
         "ics security gaps"
+      ]
+    },
+    {
+      "timestamp": "2026-02-10 16:58",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "ics security gaps",
+        "credit reporting agency",
+        "twitter whistleblower complaint"
       ]
     }
   ]

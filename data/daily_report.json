@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10 18:59",
+  "last_updated": "2026-02-10 20:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "scattered lapsus shinyhunters",
     "bugs fixed today",
     "badbox 2 0",
+    "secure ot communication",
+    "original 2011 certificates",
     "rival cloud security",
     "ics security gaps",
-    "secure vibe coding",
-    "original 2011 certificates",
+    "vulnerabilities earned microsoft's",
     "twitter whistleblower complaint",
     "manual investigation work",
     "incident took place",
     "credit reporting agency",
-    "vulnerabilities earned microsoft's",
+    "monthly windows updates",
     "targeting indian defense",
     "defense evasion technique",
-    "released security updates",
     "national security risk",
+    "secure vibe coding",
     "president s efforts",
-    "north america microsoft",
-    "june expiration microsoft"
+    "dire critical rating"
   ],
   "trending": [
     {
       "keyword": "vega raises 120m",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "bugs fixed today",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 80
+      "mentions": 81
     },
     {
-      "keyword": "rival cloud security",
-      "mentions": 1
-    },
-    {
-      "keyword": "ics security gaps",
-      "mentions": 3
-    },
-    {
-      "keyword": "secure vibe coding",
+      "keyword": "secure ot communication",
       "mentions": 1
     },
     {
       "keyword": "original 2011 certificates",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "rival cloud security",
+      "mentions": 2
+    },
+    {
+      "keyword": "ics security gaps",
+      "mentions": 4
+    },
+    {
+      "keyword": "vulnerabilities earned microsoft's",
+      "mentions": 81
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 646
-    },
-    {
-      "keyword": "manual investigation work",
-      "mentions": 1
+      "mentions": 647
     }
   ],
   "articles": [
@@ -155,6 +155,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Malicious 7-Zip site distributes installer laced with proxy tool",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/",
+      "summary": "A fake 7-Zip website is distributing a trojanized installer of the popular archiving tool that turns the user's computer into a residential proxy node. [...]",
+      "published": "Tue, 10 Feb 2026 14:12:55 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft releases Windows 10 KB5075912 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/",
+      "summary": "Microsoft has released the Windows 10 KB5075912 extended security update to fix February 2026 Patch Tuesday vulnerabilities, including six zero-days, and continue rolling out replacements for expiring Secure Boot certificates. [...]",
+      "published": "Tue, 10 Feb 2026 14:06:13 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×4"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/",
       "summary": "Today is Microsoft's February 2026 Patch Tuesday with security updates for 58 flaws, including 6 actively exploited and three publicly disclosed zero-day vulnerabilities. [...]",
@@ -213,24 +233,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/",
       "summary": "Cloud incidents drag on when analysts have to leave cases to hunt through AWS consoles and CLIs. Tines shows how automated agents pull AWS CLI data directly into cases, reducing MTTR and manual investigation work. [...]",
       "published": "Tue, 10 Feb 2026 10:01:11 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft announces new mobile-style Windows security controls",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/",
-      "summary": "Microsoft wants to introduce smartphone-style app permission prompts in Windows 11 to request user consent before apps can access sensitive resources such as files, cameras, and microphones. [...]",
-      "published": "Tue, 10 Feb 2026 08:16:32 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ZeroDayRAT malware grants full access to Android, iOS devices",
-      "link": "https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/",
-      "summary": "A new commercial mobile spyware platform dubbed ZeroDayRAT is being advertised to cybercriminals on Telegram as a tool that provides full remote control over compromised Android and iOS devices. [...]",
-      "published": "Tue, 10 Feb 2026 08:00:00 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -397,6 +399,19 @@
     },
     {
       "source": "Security Week",
+      "title": "6 Actively Exploited Zero-Days Patched by Microsoft With February 2026 Updates",
+      "link": "https://www.securityweek.com/6-actively-exploited-zero-days-patched-by-microsoft-with-february-2026-updates/",
+      "summary": "Microsoft’s Patch Tuesday updates fix roughly 60 vulnerabilities found in the company’s products. The post 6 Actively Exploited Zero-Days Patched by Microsoft With February 2026 Updates appeared first on SecurityWeek .",
+      "published": "Tue, 10 Feb 2026 19:29:28 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "Active exploitation ×2",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "EU Unconditionally Approves Google’s $32B Acquisition of Wiz",
       "link": "https://www.securityweek.com/eu-unconditionally-approves-googles-32b-acquisition-of-wiz/",
       "summary": "The European Commission’s ruling is based on extensive feedback from customers and rival cloud security and infrastructure vendors. The post EU Unconditionally Approves Google’s $32B Acquisition of Wiz appeared first on SecurityWeek .",
@@ -462,15 +477,6 @@
       "link": "https://www.securityweek.com/backslash-raises-19-million-to-secure-vibe-coding/",
       "summary": "The company will use the investment to expand its R&D team and operations, deepen platform capabilities, and scale go-to-market presence. The post Backslash Raises $19 Million to Secure Vibe Coding appeared first on SecurityWeek .",
       "published": "Tue, 10 Feb 2026 14:01:08 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New ‘ZeroDayRAT’ Spyware Kit Enables Total Compromise of iOS, Android Devices",
-      "link": "https://www.securityweek.com/new-zerodayrat-spyware-kit-enables-total-compromise-of-ios-android-devices/",
-      "summary": "Available via Telegram, researchers warn ZeroDayRAT is a ‘complete mobile compromise toolkit’ comparable to kits normally requiring nation-state resources to develop. The post New ‘ZeroDayRAT’ Spyware Kit Enables Total Compromise of iOS, Android Devices appeared first on SecurityWeek .",
-      "published": "Tue, 10 Feb 2026 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -602,6 +608,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/02/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-21510 Microsoft Windows Shell Protection Mechanism Failure Vulnerability CVE-2026-21513 Microsoft MSHTML Framework Security Feature Bypass Vulnerability CVE-2026-21514 Microsoft Office Word Reliance on Untrusted Inputs in a Security Decision Vulnerability CVE-2026-21519 Microsoft Windows Type Confusion Vulnerability CVE-2026-21525 Microsoft Windows NULL",
+      "published": "Tue, 10 Feb 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×5",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "ZOLL ePCR IOS Mobile Application",
       "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-041-01",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to protected health information (PHI) or device telemetry. The following versions of ZOLL ePCR IOS Mobile Application are affected: ePCR IOS Mobile Application 2.6.7 (CVE-2025-12699) CVSS Vendor Equipment Vulnerabilities v3 5.5 ZOLL ZOLL ePCR IOS Mobile Application Insertion of Sensitive Information into Externally-Accessible File or Directory Background Critical Infrastructure Sec",
@@ -627,6 +648,18 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "​​Barriers to Secure OT Communication: Why Johnny Can’t Authenticate​",
+      "link": "https://www.cisa.gov/resources-tools/resources/barriers-secure-ot-communication-why-johnny-cant-authenticate",
+      "summary": "CISA released the guidance, Barriers to Secure OT Communication: Why Johnny Can’t Authenticate , which highlights the known issues with insecure-by-design legacy industrial protocols and seeks to understand why the technology to secure these protocols is not widely adopted. CISA developed this guidance in partnership with operational technology (OT) equipment manufacturers and standard development organizations, by interviewing OT asset owners and operators to understand: What motivates owners a",
+      "published": "Tue, 10 Feb 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "ZLAN Information Technology Co. ZLAN5143D",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-02",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could result in an attacker bypassing authentication, or resetting the device password. The following versions of ZLAN Information Technology Co. ZLAN5143D are affected: ZLAN5143D v1.600 (CVE-2026-25084, CVE-2026-24789) CVSS Vendor Equipment Vulnerabilities v3 9.8 ZLAN Information Technology Co. ZLAN Information Technology Co. ZLAN5143D Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Criti",
@@ -637,31 +670,6 @@
         "CVE mentioned ×2",
         "High severity ×2",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Mitsubishi Electric MELSEC iQ-R Series",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability may allow an attacker to read device data or part of a control program from the affected product, write device data in the affected product, or cause a denial-of-service condition on the affected product. The following versions of Mitsubishi Electric MELSEC iQ-R Series are affected: MELSEC iQ-R Series R08/16/32/120PCPU firmware <=48 (CVE-2025-15080) CVSS Vendor Equipment Vulnerabilities v3 9.4 Mitsubishi Electric Mitsubishi Electric",
-      "published": "Thu, 05 Feb 26 12:00:00 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Hitachi Energy FOX61x",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-06",
-      "summary": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects FOX61x product versions listed in this document. Successful exploitation of this vulnerability can lead to forgery attacks potentially causing impact on confidentiality, integrity and availability for the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. Note: This is applicable only if FOX61x devices are configured to use remote RADIUS authentication. The followin",
-      "published": "Thu, 05 Feb 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
         "Exploit wording"
       ]
     }

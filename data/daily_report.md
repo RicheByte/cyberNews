@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-10 18:59 UTC  
+> **Last Updated:** 2026-02-10 20:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**vega raises 120m** • **scattered lapsus shinyhunters** • **bugs fixed today** • **badbox 2 0** • **rival cloud security** • **ics security gaps** • **secure vibe coding** • **original 2011 certificates** • **twitter whistleblower complaint** • **manual investigation work** • **incident took place** • **credit reporting agency** • **vulnerabilities earned microsoft's** • **targeting indian defense** • **defense evasion technique** • **released security updates** • **national security risk** • **president s efforts** • **north america microsoft** • **june expiration microsoft**
+**vega raises 120m** • **scattered lapsus shinyhunters** • **bugs fixed today** • **badbox 2 0** • **secure ot communication** • **original 2011 certificates** • **rival cloud security** • **ics security gaps** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **manual investigation work** • **incident took place** • **credit reporting agency** • **monthly windows updates** • **targeting indian defense** • **defense evasion technique** • **national security risk** • **secure vibe coding** • **president s efforts** • **dire critical rating**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Malicious 7-Zip site distributes installer laced with proxy tool](https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/)
+- [Microsoft releases Windows 10 KB5075912 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/)
 - [Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/)
 - [Windows 11 KB5077181 & KB5075941 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-and-kb5075941-cumulative-updates-released/)
 - [Volvo Group North America customer data exposed in Conduent hack](https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/)
 - [Microsoft rolls out new Secure Boot certificates before June expiration](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/)
 - [Microsoft 365 outage takes down admin center in North America](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/)
 - [How to Automate AWS Incident Investigation with Tines and AI](https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/)
-- [Microsoft announces new mobile-style Windows security controls](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/)
-- [ZeroDayRAT malware grants full access to Android, iOS devices](https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [6 Actively Exploited Zero-Days Patched by Microsoft With February 2026 Updates](https://www.securityweek.com/6-actively-exploited-zero-days-patched-by-microsoft-with-february-2026-updates/)
 - [EU Unconditionally Approves Google’s $32B Acquisition of Wiz](https://www.securityweek.com/eu-unconditionally-approves-googles-32b-acquisition-of-wiz/)
 - [Patch Tuesday: Adobe Fixes 44 Vulnerabilities in Creative Apps](https://www.securityweek.com/patch-tuesday-adobe-fixes-44-vulnerabilities-in-creative-apps/)
 - [Reco Raises $30 Million to Enhance AI SaaS Security](https://www.securityweek.com/reco-raises-30-million-to-enhance-ai-saas-security/)
@@ -67,7 +68,6 @@
 - [RATs in the Machine: Inside a Pakistan-Linked Three-Pronged Cyber Assault on India](https://www.securityweek.com/rats-in-the-machine-inside-a-pakistan-linked-three-pronged-cyber-assault-on-india/)
 - [SAP Patches Critical CRM, S/4HANA, NetWeaver Vulnerabilities](https://www.securityweek.com/sap-patches-critical-crm-s-4hana-netweaver-vulnerabilities/)
 - [Backslash Raises $19 Million to Secure Vibe Coding](https://www.securityweek.com/backslash-raises-19-million-to-secure-vibe-coding/)
-- [New ‘ZeroDayRAT’ Spyware Kit Enables Total Compromise of iOS, Android Devices](https://www.securityweek.com/new-zerodayrat-spyware-kit-enables-total-compromise-of-ios-android-devices/)
 
 ### Threatpost
 
@@ -85,11 +85,11 @@
 - [Yokogawa FAST/TOOLS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-01)
 - [AVEVA PI Data Archive](https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-03)
 - [AVEVA PI to CONNECT Agent](https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-04)
+- [CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/10/cisa-adds-six-known-exploited-vulnerabilities-catalog)
 - [ZOLL ePCR IOS Mobile Application](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-041-01)
 - [Poland Energy Sector Cyber Incident Highlights OT and ICS Security Gaps](https://www.cisa.gov/news-events/alerts/2026/02/10/poland-energy-sector-cyber-incident-highlights-ot-and-ics-security-gaps)
+- [​​Barriers to Secure OT Communication: Why Johnny Can’t Authenticate​](https://www.cisa.gov/resources-tools/resources/barriers-secure-ot-communication-why-johnny-cant-authenticate)
 - [ZLAN Information Technology Co. ZLAN5143D](https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-02)
-- [Mitsubishi Electric MELSEC iQ-R Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-02)
-- [Hitachi Energy FOX61x](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-06)
 
 ---
 

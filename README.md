@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-10 16:58 UTC |
+| 🕐 Last Updated | 2026-02-10 18:59 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `ics security gaps` • `credit reporting agency` • `twitter whistleblower complaint` • `incident took place` • `high value assets` • `130 companies tangled` • `targeting indian defense` • `north america microsoft`
+`vega raises 120m` • `scattered lapsus shinyhunters` • `bugs fixed today` • `badbox 2 0` • `rival cloud security` • `ics security gaps` • `secure vibe coding` • `original 2011 certificates` • `twitter whistleblower complaint` • `manual investigation work`
 
 ## 📄 Reports
 

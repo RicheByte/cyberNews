@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-10 16:58 UTC  
+> **Last Updated:** 2026-02-10 18:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **ics security gaps** • **credit reporting agency** • **twitter whistleblower complaint** • **incident took place** • **high value assets** • **130 companies tangled** • **targeting indian defense** • **north america microsoft** • **multi stage intrusion** • **defense evasion technique** • **released security updates** • **multi stage attacks** • **deploy dfir tool** • **well planned campaign** • **virtual event shields** • **velociraptor forensics tools** • **urge defensive action** • **today we'll dig**
+**vega raises 120m** • **scattered lapsus shinyhunters** • **bugs fixed today** • **badbox 2 0** • **rival cloud security** • **ics security gaps** • **secure vibe coding** • **original 2011 certificates** • **twitter whistleblower complaint** • **manual investigation work** • **incident took place** • **credit reporting agency** • **vulnerabilities earned microsoft's** • **targeting indian defense** • **defense evasion technique** • **released security updates** • **national security risk** • **president s efforts** • **north america microsoft** • **june expiration microsoft**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies](https://thehackernews.com/2026/02/dprk-operatives-impersonate.html)
 - [Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools](https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html)
 - [From Ransomware to Residency: Inside the Rise of the Digital Parasite](https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html)
 - [Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution](https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html)
@@ -23,18 +24,17 @@
 - [Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server](https://thehackernews.com/2026/02/warlock-ransomware-breaches.html)
 - [Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data](https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html)
 - [China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign](https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html)
-- [SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers](https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html)
 
 ### BleepingComputer
 
+- [Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/)
+- [Windows 11 KB5077181 & KB5075941 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-and-kb5075941-cumulative-updates-released/)
+- [Volvo Group North America customer data exposed in Conduent hack](https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/)
+- [Microsoft rolls out new Secure Boot certificates before June expiration](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/)
 - [Microsoft 365 outage takes down admin center in North America](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/)
 - [How to Automate AWS Incident Investigation with Tines and AI](https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/)
 - [Microsoft announces new mobile-style Windows security controls](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/)
 - [ZeroDayRAT malware grants full access to Android, iOS devices](https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/)
-- [Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison](https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/)
-- [Chinese cyberspies breach Singapore's four largest telcos](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/)
-- [Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks](https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/)
-- [Hackers breach SmarterTools network using flaw in its own software](https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [EU Unconditionally Approves Google’s $32B Acquisition of Wiz](https://www.securityweek.com/eu-unconditionally-approves-googles-32b-acquisition-of-wiz/)
+- [Patch Tuesday: Adobe Fixes 44 Vulnerabilities in Creative Apps](https://www.securityweek.com/patch-tuesday-adobe-fixes-44-vulnerabilities-in-creative-apps/)
+- [Reco Raises $30 Million to Enhance AI SaaS Security](https://www.securityweek.com/reco-raises-30-million-to-enhance-ai-saas-security/)
+- [Vega Raises $120M in Series B Funding to Grow Security Analytics Platform](https://www.securityweek.com/vega-raises-120m-in-series-b-funding-to-grow-security-analytics-platform/)
 - [RATs in the Machine: Inside a Pakistan-Linked Three-Pronged Cyber Assault on India](https://www.securityweek.com/rats-in-the-machine-inside-a-pakistan-linked-three-pronged-cyber-assault-on-india/)
 - [SAP Patches Critical CRM, S/4HANA, NetWeaver Vulnerabilities](https://www.securityweek.com/sap-patches-critical-crm-s-4hana-netweaver-vulnerabilities/)
 - [Backslash Raises $19 Million to Secure Vibe Coding](https://www.securityweek.com/backslash-raises-19-million-to-secure-vibe-coding/)
 - [New ‘ZeroDayRAT’ Spyware Kit Enables Total Compromise of iOS, Android Devices](https://www.securityweek.com/new-zerodayrat-spyware-kit-enables-total-compromise-of-ios-android-devices/)
-- [New ‘SSHStalker’ Linux Botnet Uses Old Techniques](https://www.securityweek.com/new-sshstalker-linux-botnet-uses-old-techniques/)
-- [BeyondTrust Patches Critical RCE Vulnerability](https://www.securityweek.com/beyondtrust-patches-critical-rce-vulnerability/)
-- [Singapore: Rootkits, Zero-Day Used in Chinese Attack on Major Telecom Firms](https://www.securityweek.com/singapore-rootkits-zero-day-used-in-chinese-attack-on-major-telecom-firms/)
-- [RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool](https://www.securityweek.com/rsac-releases-quantickle-open-source-threat-intelligence-visualization-tool/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Yokogawa FAST/TOOLS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-01)
+- [AVEVA PI Data Archive](https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-03)
+- [AVEVA PI to CONNECT Agent](https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-04)
+- [ZOLL ePCR IOS Mobile Application](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-041-01)
 - [Poland Energy Sector Cyber Incident Highlights OT and ICS Security Gaps](https://www.cisa.gov/news-events/alerts/2026/02/10/poland-energy-sector-cyber-incident-highlights-ot-and-ics-security-gaps)
-- [Reducing the Attack Surface for End-of-Support Edge Devices](https://www.cisa.gov/resources-tools/resources/reducing-attack-surface-end-support-edge-devices)
+- [ZLAN Information Technology Co. ZLAN5143D](https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-02)
 - [Mitsubishi Electric MELSEC iQ-R Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-02)
 - [Hitachi Energy FOX61x](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-06)
-- [o6 Automation GmbH Open62541](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-03)
-- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [Hitachi Energy XMC20](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-05)
-- [Ilevia EVE X1 Server](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-04)
 
 ---
 

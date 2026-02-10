@@ -198,7 +198,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 645,
+      "count": 646,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -743,7 +743,7 @@
       ]
     },
     "national security risk": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1858,7 +1858,7 @@
       ]
     },
     "president s efforts": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -3081,18 +3081,19 @@
       ]
     },
     "bugs fixed today": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-14",
         "2026-01-21",
         "2026-02-06",
         "2026-02-07",
         "2026-02-08",
-        "2026-02-09"
+        "2026-02-09",
+        "2026-02-10"
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3293,7 +3294,7 @@
       ]
     },
     "released security updates": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4443,7 +4444,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5206,7 +5207,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6049,37 +6050,37 @@
       ]
     },
     "ics security gaps": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-10"
       ]
     },
     "credit reporting agency": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-10"
       ]
     },
     "incident took place": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-10"
       ]
     },
     "targeting indian defense": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-10"
       ]
     },
     "north america microsoft": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-10"
       ]
     },
     "defense evasion technique": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-10"
       ]
@@ -6089,20 +6090,45 @@
       "dates": [
         "2026-02-10"
       ]
+    },
+    "vega raises 120m": {
+      "count": 1,
+      "dates": [
+        "2026-02-10"
+      ]
+    },
+    "rival cloud security": {
+      "count": 1,
+      "dates": [
+        "2026-02-10"
+      ]
+    },
+    "secure vibe coding": {
+      "count": 1,
+      "dates": [
+        "2026-02-10"
+      ]
+    },
+    "original 2011 certificates": {
+      "count": 1,
+      "dates": [
+        "2026-02-10"
+      ]
+    },
+    "manual investigation work": {
+      "count": 1,
+      "dates": [
+        "2026-02-10"
+      ]
+    },
+    "june expiration microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-02-10"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-01 08:27",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "hugging face abused",
-        "rockwell automation controllogix",
-        "former software engineer",
-        "chinese tech firms"
-      ]
-    },
     {
       "timestamp": "2026-02-01 10:20",
       "articles": 56,
@@ -7190,6 +7216,17 @@
         "ics security gaps",
         "credit reporting agency",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-02-10 18:59",
+      "articles": 56,
+      "top_keywords": [
+        "vega raises 120m",
+        "scattered lapsus shinyhunters",
+        "bugs fixed today",
+        "badbox 2 0",
+        "rival cloud security"
       ]
     }
   ]

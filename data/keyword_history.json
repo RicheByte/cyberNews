@@ -198,7 +198,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 639,
+      "count": 640,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -502,7 +502,7 @@
       ]
     },
     "remote code execution": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -710,7 +710,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -743,7 +743,7 @@
       ]
     },
     "national security risk": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1548,7 +1548,7 @@
       ]
     },
     "nation s ability": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2025-12-30",
         "2025-12-31",
@@ -1857,7 +1857,7 @@
       ]
     },
     "president s efforts": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1870,7 +1870,8 @@
         "2026-01-20",
         "2026-01-28",
         "2026-01-29",
-        "2026-01-31"
+        "2026-01-31",
+        "2026-02-10"
       ]
     },
     "wafer fabrication operation": {
@@ -1977,7 +1978,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -4438,7 +4439,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5201,7 +5202,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5842,7 +5843,7 @@
       ]
     },
     "long term impact": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5879,7 +5880,7 @@
       ]
     },
     "openclaw ai assistant": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-08",
         "2026-02-09",
@@ -5913,7 +5914,7 @@
       ]
     },
     "mobile device management": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-09",
         "2026-02-10"
@@ -5944,7 +5945,7 @@
       ]
     },
     "remote support rs": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-09",
         "2026-02-10"
@@ -5957,42 +5958,42 @@
       ]
     },
     "online gambling sites": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "lema ai emerges": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "high value assets": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "deploy dfir tool": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "multi stage intrusion": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "multi stage attacks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-09",
         "2026-02-10"
@@ -6019,7 +6020,7 @@
       ]
     },
     "reynolds ransomware illustrating": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-10"
       ]
@@ -6032,17 +6033,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-31 18:24",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "hugging face abused",
-        "rockwell automation controllogix",
-        "former software engineer",
-        "chinese tech firms"
-      ]
-    },
     {
       "timestamp": "2026-01-31 20:20",
       "articles": 56,
@@ -7130,6 +7120,17 @@
         "lema ai emerges",
         "mobile device management",
         "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-02-10 06:58",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "lema ai emerges",
+        "mobile device management",
+        "badbox 2 0",
+        "remote support rs"
       ]
     }
   ]

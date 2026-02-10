@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-02-10 05:25",
+  "last_updated": "2026-02-10 06:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
-    "badbox 2 0",
     "lema ai emerges",
     "mobile device management",
-    "remote code execution",
+    "badbox 2 0",
     "remote support rs",
+    "critical security flaw",
     "twitter whistleblower complaint",
     "online gambling sites",
     "national security risk",
@@ -19,54 +19,66 @@
     "reynolds ransomware illustrating",
     "openclaw ai assistant",
     "multi stage intrusion",
+    "president s efforts",
     "nation s ability",
     "multi stage attacks",
-    "ransomware via vulnerability",
-    "virtual event shields"
+    "remote code execution"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 43
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 74
+      "mentions": 44
     },
     {
       "keyword": "lema ai emerges",
-      "mentions": 4
-    },
-    {
-      "keyword": "mobile device management",
-      "mentions": 7
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 96
-    },
-    {
-      "keyword": "remote support rs",
       "mentions": 5
     },
     {
+      "keyword": "mobile device management",
+      "mentions": 8
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 75
+    },
+    {
+      "keyword": "remote support rs",
+      "mentions": 6
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 122
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 639
+      "mentions": 640
     },
     {
       "keyword": "online gambling sites",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "national security risk",
-      "mentions": 121
+      "mentions": 122
     },
     {
       "keyword": "long term impact",
-      "mentions": 36
+      "mentions": 37
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
+      "link": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
+      "summary": "Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susceptible systems. The vulnerability, tracked as CVE-2026-21643, has a CVSS rating of 9.1 out of a maximum of 10.0. \"An improper neutralization of special elements used in an SQL Command ('SQL Injection') vulnerability [CWE-89] in FortiClientEMS may",
+      "published": "Tue, 10 Feb 2026 10:08:00 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
@@ -142,15 +154,6 @@
         "High severity ×3",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
-      "link": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
-      "summary": "OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to ClawHub, its skill marketplace, as part of broader efforts to bolster the security of the agentic ecosystem. \"All skills published to ClawHub are now scanned using VirusTotal's threat intelligence, including their new Code Insight capability,\"",
-      "published": "Sun, 08 Feb 2026 13:02:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

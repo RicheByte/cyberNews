@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-10 05:25 UTC  
+> **Last Updated:** 2026-02-10 06:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **lema ai emerges** • **mobile device management** • **remote code execution** • **remote support rs** • **twitter whistleblower complaint** • **online gambling sites** • **national security risk** • **long term impact** • **high value assets** • **deploy dfir tool** • **130 companies tangled** • **reynolds ransomware illustrating** • **openclaw ai assistant** • **multi stage intrusion** • **nation s ability** • **multi stage attacks** • **ransomware via vulnerability** • **virtual event shields**
+**scattered lapsus shinyhunters** • **lema ai emerges** • **mobile device management** • **badbox 2 0** • **remote support rs** • **critical security flaw** • **twitter whistleblower complaint** • **online gambling sites** • **national security risk** • **long term impact** • **high value assets** • **deploy dfir tool** • **130 companies tangled** • **reynolds ransomware illustrating** • **openclaw ai assistant** • **multi stage intrusion** • **president s efforts** • **nation s ability** • **multi stage attacks** • **remote code execution**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution](https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html)
 - [China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign](https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html)
 - [SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers](https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html)
 - [⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More](https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html)
@@ -23,7 +24,6 @@
 - [Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign](https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html)
 - [TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure](https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html)
 - [BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA](https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html)
-- [OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html)
 
 ### BleepingComputer
 

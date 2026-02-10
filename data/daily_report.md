@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-10 08:44 UTC  
+> **Last Updated:** 2026-02-10 10:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**lema ai emerges** • **deploy dfir tool** • **remote support rs** • **critical security flaw** • **windows operating systems** • **twitter whistleblower complaint** • **long term impact** • **high value assets** • **130 companies tangled** • **reynolds ransomware illustrating** • **openclaw ai assistant** • **multi stage intrusion** • **president s efforts** • **nation s ability** • **released security updates** • **national security risk** • **vulnerabilities earned microsoft's** • **virtual event shields** • **urge defensive action** • **today we'll dig**
+**scattered lapsus shinyhunters** • **lema ai emerges** • **deploy dfir tool** • **badbox 2 0** • **remote support rs** • **critical security flaw** • **twitter whistleblower complaint** • **online gambling sites** • **long term impact** • **high value assets** • **130 companies tangled** • **reynolds ransomware illustrating** • **openclaw ai assistant** • **multi stage intrusion** • **released security updates** • **national security risk** • **post smartertools hit** • **virtual event shields** • **urge defensive action** • **today we'll dig**
 
 ---
 
@@ -38,14 +38,14 @@
 
 ### Krebs on Security
 
+- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Singapore: Rootkits, Zero-Day Used in Chinese Attack on Major Telecom Firms](https://www.securityweek.com/singapore-rootkits-zero-day-used-in-chinese-attack-on-major-telecom-firms/)
 - [RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool](https://www.securityweek.com/rsac-releases-quantickle-open-source-threat-intelligence-visualization-tool/)
 - [Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk](https://www.securityweek.com/lema-ai-emerges-from-stealth-with-24-million-to-tackle-third-party-risk/)
 - [Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter](https://www.securityweek.com/ransomware-groups-may-pivot-back-to-encryption-as-data-theft-tactics-falter/)
@@ -67,7 +68,6 @@
 - [Cybersecurity M&A Roundup: 34 Deals Announced in January 2026](https://www.securityweek.com/cybersecurity-ma-roundup-34-deals-announced-in-january-2026/)
 - [Recent SolarWinds Flaws Potentially Exploited as Zero-Days](https://www.securityweek.com/recent-solarwinds-flaws-potentially-exploited-as-zero-days/)
 - [SmarterTools Hit by Ransomware via Vulnerability in Its Own Product](https://www.securityweek.com/smartertools-hit-by-ransomware-via-vulnerability-in-its-own-product/)
-- [New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA’s KEV Catalog](https://www.securityweek.com/new-paper-and-tool-help-security-teams-move-beyond-blind-reliance-on-cisas-kev-catalog/)
 
 ### Threatpost
 

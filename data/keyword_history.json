@@ -198,7 +198,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 641,
+      "count": 642,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -710,7 +710,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -743,7 +743,7 @@
       ]
     },
     "national security risk": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1978,7 +1978,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2432,7 +2432,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3291,7 +3291,7 @@
       ]
     },
     "released security updates": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4441,7 +4441,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5204,7 +5204,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5845,7 +5845,7 @@
       ]
     },
     "long term impact": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5882,7 +5882,7 @@
       ]
     },
     "openclaw ai assistant": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-08",
         "2026-02-09",
@@ -5947,7 +5947,7 @@
       ]
     },
     "remote support rs": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-09",
         "2026-02-10"
@@ -5960,35 +5960,35 @@
       ]
     },
     "online gambling sites": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "lema ai emerges": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "high value assets": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "deploy dfir tool": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "multi stage intrusion": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-09",
         "2026-02-10"
@@ -6009,21 +6009,21 @@
       ]
     },
     "virtual event shields": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "urge defensive action": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "reynolds ransomware illustrating": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-10"
       ]
@@ -6033,20 +6033,15 @@
       "dates": [
         "2026-02-10"
       ]
+    },
+    "post smartertools hit": {
+      "count": 1,
+      "dates": [
+        "2026-02-10"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-01-31 22:17",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "hugging face abused",
-        "rockwell automation controllogix",
-        "chinese tech firms",
-        "former software engineer"
-      ]
-    },
     {
       "timestamp": "2026-02-01 01:55",
       "articles": 56,
@@ -7134,6 +7129,17 @@
         "remote support rs",
         "critical security flaw",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-02-10 10:51",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "lema ai emerges",
+        "deploy dfir tool",
+        "badbox 2 0",
+        "remote support rs"
       ]
     }
   ]

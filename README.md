@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-10 13:02 UTC |
+| 🕐 Last Updated | 2026-02-10 14:54 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `lema ai emerges` • `badbox 2 0` • `high value assets` • `critical security flaw` • `twitter whistleblower complaint` • `reynolds ransomware illustrating` • `long term impact` • `130 companies tangled` • `openclaw ai assistant`
+`lema ai emerges` • `scattered lapsus shinyhunters` • `badbox 2 0` • `critical security flaw` • `ics security gaps` • `high value assets` • `credit reporting agency` • `twitter whistleblower complaint` • `long term impact` • `130 companies tangled`
 
 ## 📄 Reports
 

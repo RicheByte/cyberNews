@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-10 13:02 UTC  
+> **Last Updated:** 2026-02-10 14:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **lema ai emerges** • **badbox 2 0** • **high value assets** • **critical security flaw** • **twitter whistleblower complaint** • **reynolds ransomware illustrating** • **long term impact** • **130 companies tangled** • **openclaw ai assistant** • **multi stage intrusion** • **deploy dfir tool** • **released security updates** • **national security risk** • **well planned campaign** • **virtual event shields** • **urge defensive action** • **today we'll dig** • **strong theme running** • **sprawling phishing campaign**
+**lema ai emerges** • **scattered lapsus shinyhunters** • **badbox 2 0** • **critical security flaw** • **ics security gaps** • **high value assets** • **credit reporting agency** • **twitter whistleblower complaint** • **long term impact** • **130 companies tangled** • **multi stage intrusion** • **released security updates** • **national security risk** • **deploy dfir tool** • **reynolds ransomware illustrating** • **well planned campaign** • **virtual event shields** • **urge defensive action** • **today we'll dig** • **strong theme running**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [From Ransomware to Residency: Inside the Rise of the Digital Parasite](https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html)
+- [Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution](https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html)
 - [ZAST.AI Raises $6M Pre-A to Scale "Zero False Positive" AI-Powered Code Security](https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html)
 - [Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server](https://thehackernews.com/2026/02/warlock-ransomware-breaches.html)
 - [Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data](https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html)
-- [Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution](https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html)
 - [China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign](https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html)
 - [SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers](https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html)
 - [⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More](https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html)
-- [How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring](https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html)
 
 ### BleepingComputer
 
+- [Microsoft announces new mobile-style Windows security controls](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/)
 - [ZeroDayRAT malware grants full access to Android, iOS devices](https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/)
 - [Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison](https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/)
 - [Chinese cyberspies breach Singapore's four largest telcos](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/)
@@ -34,7 +35,6 @@
 - [Hackers breach SmarterTools network using flaw in its own software](https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/)
 - [Password guessing without AI: How attackers build targeted wordlists](https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/)
 - [BeyondTrust warns of critical RCE flaw in remote support software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/)
-- [Men charged in FanDuel scheme fueled by thousands of stolen identities](https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [TransUnion's Real Networks Deal Focuses on Robocall Blocking](https://www.darkreading.com/cyber-risk/transunion-s-real-networks-deal-focuses-on-robocall-blocking)
 - [Warlock Gang Breaches SmarterTools Via SmarterMail Bugs](https://www.darkreading.com/application-security/warlock-gang-breaches-smartertools-smartermail-bugs)
-- [TeamPCP Turns Cloud Infrastructure into Crime Bots](https://www.darkreading.com/cloud-security/teampcp-cloud-infrastructure-crime-bots)
+- [TeamPCP Turns Cloud Infrastructure Into Crime Bots](https://www.darkreading.com/cloud-security/teampcp-cloud-infrastructure-crime-bots)
 - ['Reynolds' Bundles BYOVD With Ransomware Payload](https://www.darkreading.com/threat-intelligence/black-basta-bundles-byovd-ransomware-payload)
 - [[Virtual Event] Shields Up: Key Technologies Reshaping Cybersecurity Defenses](https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses)
 - [What Organizations Need to Change When Managing Printers](https://www.darkreading.com/cybersecurity-operations/what-organizations-need-to-change-when-managing-printers)
 - ['Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption](https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption)
 - [Shai-hulud: The Hidden Costs of Supply Chain Attacks](https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks)
-- [OpenClaw's Gregarious Insecurities Make Safe Usage Difficult](https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult)
 
 ### Security Week
 
+- [Backslash Raises $19 Million to Secure Vibe Coding](https://www.securityweek.com/backslash-raises-19-million-to-secure-vibe-coding/)
+- [New ‘ZeroDayRAT’ Spyware Kit Enables Total Compromise of iOS, Android Devices](https://www.securityweek.com/new-zerodayrat-spyware-kit-enables-total-compromise-of-ios-android-devices/)
 - [New ‘SSHStalker’ Linux Botnet Uses Old Techniques](https://www.securityweek.com/new-sshstalker-linux-botnet-uses-old-techniques/)
 - [BeyondTrust Patches Critical RCE Vulnerability](https://www.securityweek.com/beyondtrust-patches-critical-rce-vulnerability/)
 - [Singapore: Rootkits, Zero-Day Used in Chinese Attack on Major Telecom Firms](https://www.securityweek.com/singapore-rootkits-zero-day-used-in-chinese-attack-on-major-telecom-firms/)
 - [RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool](https://www.securityweek.com/rsac-releases-quantickle-open-source-threat-intelligence-visualization-tool/)
 - [Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk](https://www.securityweek.com/lema-ai-emerges-from-stealth-with-24-million-to-tackle-third-party-risk/)
 - [Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter](https://www.securityweek.com/ransomware-groups-may-pivot-back-to-encryption-as-data-theft-tactics-falter/)
-- [Outtake Raises $40 Million to Bolster Digital Trust Against AI-Driven Threats](https://www.securityweek.com/outtake-raises-40-million-to-bolster-digital-trust-against-ai-driven-threats/)
-- [Cybersecurity M&A Roundup: 34 Deals Announced in January 2026](https://www.securityweek.com/cybersecurity-ma-roundup-34-deals-announced-in-january-2026/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [TP-Link Systems Inc. VIGI Series IP Camera](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-01)
+- [Poland Energy Sector Cyber Incident Highlights OT and ICS Security Gaps](https://www.cisa.gov/news-events/alerts/2026/02/10/poland-energy-sector-cyber-incident-highlights-ot-and-ics-security-gaps)
+- [Reducing the Attack Surface for End-of-Support Edge Devices](https://www.cisa.gov/resources-tools/resources/reducing-attack-surface-end-support-edge-devices)
 - [Mitsubishi Electric MELSEC iQ-R Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-02)
 - [Hitachi Energy FOX61x](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-06)
 - [o6 Automation GmbH Open62541](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-03)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/05/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Hitachi Energy XMC20](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-05)
 - [Ilevia EVE X1 Server](https://www.cisa.gov/news-events/ics-advisories/icsa-26-036-04)
-- [Reducing the Attack Surface for End-of-Support Edge Devices](https://www.cisa.gov/resources-tools/resources/reducing-attack-surface-end-support-edge-devices)
 
 ---
 

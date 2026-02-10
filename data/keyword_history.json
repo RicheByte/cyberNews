@@ -198,7 +198,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 643,
+      "count": 644,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -710,7 +710,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 125,
+      "count": 126,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -743,7 +743,7 @@
       ]
     },
     "national security risk": {
-      "count": 125,
+      "count": 126,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1979,7 +1979,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2312,7 +2312,7 @@
       ]
     },
     "strong theme running": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2434,7 +2434,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3293,7 +3293,7 @@
       ]
     },
     "released security updates": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4443,7 +4443,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5206,7 +5206,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5847,7 +5847,7 @@
       ]
     },
     "long term impact": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -5969,28 +5969,28 @@
       ]
     },
     "lema ai emerges": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "high value assets": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "deploy dfir tool": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "multi stage intrusion": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-09",
         "2026-02-10"
@@ -6011,21 +6011,21 @@
       ]
     },
     "virtual event shields": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "urge defensive action": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-09",
         "2026-02-10"
       ]
     },
     "reynolds ransomware illustrating": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-10"
       ]
@@ -6043,6 +6043,18 @@
       ]
     },
     "well planned campaign": {
+      "count": 2,
+      "dates": [
+        "2026-02-10"
+      ]
+    },
+    "ics security gaps": {
+      "count": 1,
+      "dates": [
+        "2026-02-10"
+      ]
+    },
+    "credit reporting agency": {
       "count": 1,
       "dates": [
         "2026-02-10"
@@ -6050,17 +6062,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-01 04:26",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "hugging face abused",
-        "rockwell automation controllogix",
-        "chinese tech firms",
-        "former software engineer"
-      ]
-    },
     {
       "timestamp": "2026-02-01 06:42",
       "articles": 56,
@@ -7148,6 +7149,17 @@
         "badbox 2 0",
         "high value assets",
         "critical security flaw"
+      ]
+    },
+    {
+      "timestamp": "2026-02-10 14:54",
+      "articles": 56,
+      "top_keywords": [
+        "lema ai emerges",
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "critical security flaw",
+        "ics security gaps"
       ]
     }
   ]

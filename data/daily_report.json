@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-02-10 06:58",
+  "last_updated": "2026-02-10 08:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "scattered lapsus shinyhunters",
     "lema ai emerges",
-    "mobile device management",
-    "badbox 2 0",
+    "deploy dfir tool",
     "remote support rs",
     "critical security flaw",
+    "windows operating systems",
     "twitter whistleblower complaint",
-    "online gambling sites",
-    "national security risk",
     "long term impact",
     "high value assets",
-    "deploy dfir tool",
     "130 companies tangled",
     "reynolds ransomware illustrating",
     "openclaw ai assistant",
     "multi stage intrusion",
     "president s efforts",
     "nation s ability",
-    "multi stage attacks",
-    "remote code execution"
+    "released security updates",
+    "national security risk",
+    "vulnerabilities earned microsoft's",
+    "virtual event shields",
+    "urge defensive action",
+    "today we'll dig"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 44
-    },
-    {
       "keyword": "lema ai emerges",
-      "mentions": 5
-    },
-    {
-      "keyword": "mobile device management",
-      "mentions": 8
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 75
-    },
-    {
-      "keyword": "remote support rs",
       "mentions": 6
     },
     {
+      "keyword": "deploy dfir tool",
+      "mentions": 6
+    },
+    {
+      "keyword": "remote support rs",
+      "mentions": 7
+    },
+    {
       "keyword": "critical security flaw",
-      "mentions": 122
+      "mentions": 123
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 277
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 640
-    },
-    {
-      "keyword": "online gambling sites",
-      "mentions": 4
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 122
+      "mentions": 641
     },
     {
       "keyword": "long term impact",
-      "mentions": 37
+      "mentions": 38
+    },
+    {
+      "keyword": "high value assets",
+      "mentions": 6
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 115
+    },
+    {
+      "keyword": "reynolds ransomware illustrating",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
+      "link": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
+      "summary": "The Netherlands' Dutch Data Protection Authority (AP) and the Council for the Judiciary confirmed both agencies (Rvdr) have disclosed that their systems were impacted by cyber attacks that exploited the recently disclosed security flaws in Ivanti Endpoint Manager Mobile (EPMM), according to a notice sent to the country's parliament on Friday. \"On January 29, the National Cyber Security Center (",
+      "published": "Tue, 10 Feb 2026 13:52:00 +0530",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
@@ -143,17 +155,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
-      "link": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
-      "summary": "BeyondTrust has released updates to address a critical security flaw impacting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could result in remote code execution. \"BeyondTrust Remote Support (RS) and certain older versions of Privileged Remote Access (PRA) contain a critical pre-authentication remote code execution vulnerability,\" the company",
-      "published": "Mon, 09 Feb 2026 13:33:00 +0530",
-      "value_score": 72,
-      "value_signals": [
-        "RCE ×3",
-        "High severity ×3",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/",
+      "summary": "A dual Chinese and St. Kitts and Nevis national was sentenced to 20 years in prison in absentia for his role in an international cryptocurrency investment scheme (also known as pig butchering or romance baiting) that defrauded victims of more than $73 million. [...]",
+      "published": "Tue, 10 Feb 2026 03:17:54 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -232,37 +240,6 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "European Commission discloses breach that exposed staff data",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/",
-      "summary": "The European Commission is investigating a breach after finding evidence that its mobile device management platform was hacked. [...]",
-      "published": "Mon, 09 Feb 2026 04:49:04 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -326,6 +303,28 @@
       "published": "Fri, 19 Dec 2025 15:14:55 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -405,6 +404,15 @@
     },
     {
       "source": "Security Week",
+      "title": "RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool",
+      "link": "https://www.securityweek.com/rsac-releases-quantickle-open-source-threat-intelligence-visualization-tool/",
+      "summary": "Quantickle is a browser-based tool designed for creating visual representations of threat research. The post RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool appeared first on SecurityWeek .",
+      "published": "Tue, 10 Feb 2026 07:27:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk",
       "link": "https://www.securityweek.com/lema-ai-emerges-from-stealth-with-24-million-to-tackle-third-party-risk/",
       "summary": "The funding was raised over Series A and seed funding rounds for its supply chain security solution. The post Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk appeared first on SecurityWeek .",
@@ -473,15 +481,6 @@
       "value_signals": [
         "CISA/KEV ×5"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "European Commission Investigating Cyberattack",
-      "link": "https://www.securityweek.com/european-commission-investigating-cyberattack/",
-      "summary": "The signs of a cyberattack were identified on systems EU's main executive body uses for mobile device management. The post European Commission Investigating Cyberattack appeared first on SecurityWeek .",
-      "published": "Mon, 09 Feb 2026 08:06:54 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

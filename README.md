@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-10 06:58 UTC |
+| 🕐 Last Updated | 2026-02-10 08:44 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `lema ai emerges` • `mobile device management` • `badbox 2 0` • `remote support rs` • `critical security flaw` • `twitter whistleblower complaint` • `online gambling sites` • `national security risk` • `long term impact`
+`lema ai emerges` • `deploy dfir tool` • `remote support rs` • `critical security flaw` • `windows operating systems` • `twitter whistleblower complaint` • `long term impact` • `high value assets` • `130 companies tangled` • `reynolds ransomware illustrating`
 
 ## 📄 Reports
 

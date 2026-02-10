@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-09 22:42",
+  "last_updated": "2026-02-10 02:00",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "scattered lapsus shinyhunters",
-    "badbox 2 0",
     "lema ai emerges",
     "mobile device management",
+    "remote code execution",
     "remote support rs",
-    "twitter whistleblower complaint",
-    "online gambling sites",
+    "windows operating systems",
     "national security risk",
+    "twitter whistleblower complaint",
     "long term impact",
     "high value assets",
     "deploy dfir tool",
     "130 companies tangled",
-    "remote code execution",
+    "reynolds ransomware illustrating",
     "openclaw ai assistant",
     "multi stage intrusion",
-    "ransomware via vulnerability",
     "nation s ability",
+    "read device data",
     "multi stage attacks",
-    "virtual event shields",
-    "urge defensive action"
+    "critical security flaw",
+    "ransomware via vulnerability",
+    "vulnerabilities earned microsoft's"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 42
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 73
-    },
-    {
       "keyword": "lema ai emerges",
-      "mentions": 2
-    },
-    {
-      "keyword": "mobile device management",
-      "mentions": 5
-    },
-    {
-      "keyword": "remote support rs",
       "mentions": 3
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 637
+      "keyword": "mobile device management",
+      "mentions": 6
     },
     {
-      "keyword": "online gambling sites",
-      "mentions": 2
+      "keyword": "remote code execution",
+      "mentions": 95
+    },
+    {
+      "keyword": "remote support rs",
+      "mentions": 4
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 276
     },
     {
       "keyword": "national security risk",
-      "mentions": 119
+      "mentions": 120
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 638
     },
     {
       "keyword": "long term impact",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "high value assets",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "deploy dfir tool",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -154,6 +154,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Chinese cyberspies breach Singapore's four largest telcos",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/",
+      "summary": "The Chinese threat actor tracked as UNC3886 breached Singapore's four largest telecommunication service providers, Singtel, StarHub, M1, and Simba, at least once last year. [...]",
+      "published": "Mon, 09 Feb 2026 17:47:53 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/",
       "summary": "Hackers are now exploiting SolarWinds Web Help Desk (WHD) vulnerabilities to gain code execution rights on exposed systems and deploy legitimate tools, including the Velociraptor forensics tools, for persistence and remote control. [...]",
@@ -229,35 +240,6 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "New tool blocks imposter attacks disguised as safe commands",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/",
-      "summary": "A new open-source and cross-platform tool called Tirith can detect homoglyph attacks over command-line environments by analyzing URLs in typed commands and stopping their execution. [...]",
-      "published": "Sun, 08 Feb 2026 10:26:48 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -323,6 +305,28 @@
       "value_signals": []
     },
     {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
       "source": "Dark Reading",
       "title": "Warlock Gang Breaches SmarterTools Via SmarterMail Bugs",
       "link": "https://www.darkreading.com/application-security/warlock-gang-breaches-smartertools-smartermail-bugs",
@@ -344,9 +348,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Black Basta Bundles BYOVD With Ransomware Payload",
+      "title": "'Reynolds' Bundles BYOVD With Ransomware Payload",
       "link": "https://www.darkreading.com/threat-intelligence/black-basta-bundles-byovd-ransomware-payload",
-      "summary": "Researchers discovered a newly disclosed vulnerable driver embedded in Black Basta's ransomware, illustrating the increasing popularity of the defense-evasion technique.",
+      "summary": "Researchers discovered a newly disclosed vulnerable driver embedded in Reynolds' ransomware, illustrating the increasing popularity of the defense-evasion technique.",
       "published": "Mon, 09 Feb 2026 20:14:22 GMT",
       "value_score": 46,
       "value_signals": [

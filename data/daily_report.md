@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-09 22:42 UTC  
+> **Last Updated:** 2026-02-10 02:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **lema ai emerges** • **mobile device management** • **remote support rs** • **twitter whistleblower complaint** • **online gambling sites** • **national security risk** • **long term impact** • **high value assets** • **deploy dfir tool** • **130 companies tangled** • **remote code execution** • **openclaw ai assistant** • **multi stage intrusion** • **ransomware via vulnerability** • **nation s ability** • **multi stage attacks** • **virtual event shields** • **urge defensive action**
+**lema ai emerges** • **mobile device management** • **remote code execution** • **remote support rs** • **windows operating systems** • **national security risk** • **twitter whistleblower complaint** • **long term impact** • **high value assets** • **deploy dfir tool** • **130 companies tangled** • **reynolds ransomware illustrating** • **openclaw ai assistant** • **multi stage intrusion** • **nation s ability** • **read device data** • **multi stage attacks** • **critical security flaw** • **ransomware via vulnerability** • **vulnerabilities earned microsoft's**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Chinese cyberspies breach Singapore's four largest telcos](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/)
 - [Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks](https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/)
 - [Hackers breach SmarterTools network using flaw in its own software](https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/)
 - [Password guessing without AI: How attackers build targeted wordlists](https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/)
@@ -34,24 +35,23 @@
 - [Men charged in FanDuel scheme fueled by thousands of stolen identities](https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/)
 - [Microsoft: Exchange Online flags legitimate emails as phishing](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/)
 - [European Commission discloses breach that exposed staff data](https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/)
-- [New tool blocks imposter attacks disguised as safe commands](https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/)
 
 ### Krebs on Security
 
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
 - [Warlock Gang Breaches SmarterTools Via SmarterMail Bugs](https://www.darkreading.com/application-security/warlock-gang-breaches-smartertools-smartermail-bugs)
 - [TeamPCP Turns Cloud Infrastructure into Crime Bots](https://www.darkreading.com/cloud-security/teampcp-cloud-infrastructure-crime-bots)
-- [Black Basta Bundles BYOVD With Ransomware Payload](https://www.darkreading.com/threat-intelligence/black-basta-bundles-byovd-ransomware-payload)
+- ['Reynolds' Bundles BYOVD With Ransomware Payload](https://www.darkreading.com/threat-intelligence/black-basta-bundles-byovd-ransomware-payload)
 - [[Virtual Event] Shields Up: Key Technologies Reshaping Cybersecurity Defenses](https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses)
 - ['Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption](https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption)
 - [Shai-hulud: The Hidden Costs of Supply Chain Attacks](https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks)

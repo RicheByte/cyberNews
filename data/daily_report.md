@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-10 10:51 UTC  
+> **Last Updated:** 2026-02-10 13:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **lema ai emerges** • **deploy dfir tool** • **badbox 2 0** • **remote support rs** • **critical security flaw** • **twitter whistleblower complaint** • **online gambling sites** • **long term impact** • **high value assets** • **130 companies tangled** • **reynolds ransomware illustrating** • **openclaw ai assistant** • **multi stage intrusion** • **released security updates** • **national security risk** • **post smartertools hit** • **virtual event shields** • **urge defensive action** • **today we'll dig**
+**scattered lapsus shinyhunters** • **lema ai emerges** • **badbox 2 0** • **high value assets** • **critical security flaw** • **twitter whistleblower complaint** • **reynolds ransomware illustrating** • **long term impact** • **130 companies tangled** • **openclaw ai assistant** • **multi stage intrusion** • **deploy dfir tool** • **released security updates** • **national security risk** • **well planned campaign** • **virtual event shields** • **urge defensive action** • **today we'll dig** • **strong theme running** • **sprawling phishing campaign**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [ZAST.AI Raises $6M Pre-A to Scale "Zero False Positive" AI-Powered Code Security](https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html)
+- [Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server](https://thehackernews.com/2026/02/warlock-ransomware-breaches.html)
 - [Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data](https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html)
 - [Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution](https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html)
 - [China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign](https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html)
 - [SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers](https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html)
 - [⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More](https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html)
 - [How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring](https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html)
-- [Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign](https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html)
-- [TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure](https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html)
 
 ### BleepingComputer
 
+- [ZeroDayRAT malware grants full access to Android, iOS devices](https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/)
 - [Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison](https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/)
 - [Chinese cyberspies breach Singapore's four largest telcos](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/)
 - [Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks](https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/)
@@ -34,7 +35,6 @@
 - [Password guessing without AI: How attackers build targeted wordlists](https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/)
 - [BeyondTrust warns of critical RCE flaw in remote support software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/)
 - [Men charged in FanDuel scheme fueled by thousands of stolen identities](https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/)
-- [Microsoft: Exchange Online flags legitimate emails as phishing](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/)
 
 ### Krebs on Security
 
@@ -53,21 +53,21 @@
 - [TeamPCP Turns Cloud Infrastructure into Crime Bots](https://www.darkreading.com/cloud-security/teampcp-cloud-infrastructure-crime-bots)
 - ['Reynolds' Bundles BYOVD With Ransomware Payload](https://www.darkreading.com/threat-intelligence/black-basta-bundles-byovd-ransomware-payload)
 - [[Virtual Event] Shields Up: Key Technologies Reshaping Cybersecurity Defenses](https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses)
+- [What Organizations Need to Change When Managing Printers](https://www.darkreading.com/cybersecurity-operations/what-organizations-need-to-change-when-managing-printers)
 - ['Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption](https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption)
 - [Shai-hulud: The Hidden Costs of Supply Chain Attacks](https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks)
 - [OpenClaw's Gregarious Insecurities Make Safe Usage Difficult](https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult)
-- [EnCase Driver Weaponized as EDR Killers Persist](https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist)
 
 ### Security Week
 
+- [New ‘SSHStalker’ Linux Botnet Uses Old Techniques](https://www.securityweek.com/new-sshstalker-linux-botnet-uses-old-techniques/)
+- [BeyondTrust Patches Critical RCE Vulnerability](https://www.securityweek.com/beyondtrust-patches-critical-rce-vulnerability/)
 - [Singapore: Rootkits, Zero-Day Used in Chinese Attack on Major Telecom Firms](https://www.securityweek.com/singapore-rootkits-zero-day-used-in-chinese-attack-on-major-telecom-firms/)
 - [RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool](https://www.securityweek.com/rsac-releases-quantickle-open-source-threat-intelligence-visualization-tool/)
 - [Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk](https://www.securityweek.com/lema-ai-emerges-from-stealth-with-24-million-to-tackle-third-party-risk/)
 - [Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter](https://www.securityweek.com/ransomware-groups-may-pivot-back-to-encryption-as-data-theft-tactics-falter/)
 - [Outtake Raises $40 Million to Bolster Digital Trust Against AI-Driven Threats](https://www.securityweek.com/outtake-raises-40-million-to-bolster-digital-trust-against-ai-driven-threats/)
 - [Cybersecurity M&A Roundup: 34 Deals Announced in January 2026](https://www.securityweek.com/cybersecurity-ma-roundup-34-deals-announced-in-january-2026/)
-- [Recent SolarWinds Flaws Potentially Exploited as Zero-Days](https://www.securityweek.com/recent-solarwinds-flaws-potentially-exploited-as-zero-days/)
-- [SmarterTools Hit by Ransomware via Vulnerability in Its Own Product](https://www.securityweek.com/smartertools-hit-by-ransomware-via-vulnerability-in-its-own-product/)
 
 ### Threatpost
 

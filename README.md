@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-11 17:00 UTC |
+| 🕐 Last Updated | 2026-02-11 18:56 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `50 security holes` • `webinar today identity` • `ics security gaps` • `curbing telnet traffic` • `fake zoom meeting` • `twitter whistleblower complaint` • `secure ot communication` • `internal network behind`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `50 security holes` • `webinar today identity` • `curbing telnet traffic` • `ics security gaps` • `fake zoom meeting` • `twitter whistleblower complaint` • `secure ot communication` • `open source siem`
 
 ## 📄 Reports
 

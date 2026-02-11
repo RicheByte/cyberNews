@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-11 17:00 UTC  
+> **Last Updated:** 2026-02-11 18:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **50 security holes** • **webinar today identity** • **ics security gaps** • **curbing telnet traffic** • **fake zoom meeting** • **twitter whistleblower complaint** • **secure ot communication** • **internal network behind** • **100 million since** • **10 million estimated** • **national security risk** • **vulnerabilities earned microsoft's** • **59 flaws across** • **various windows components** • **today we'll dig** • **bugs fixed today** • **sim location data** • **flawed driver software**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **50 security holes** • **webinar today identity** • **curbing telnet traffic** • **ics security gaps** • **fake zoom meeting** • **twitter whistleblower complaint** • **secure ot communication** • **open source siem** • **internal network behind** • **100 million since** • **10 million estimated** • **windows operating systems** • **59 flaws across** • **targeted social engineering** • **national security risk** • **vulnerabilities earned microsoft's** • **today we'll dig** • **flawed driver software**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Proactive strategies for cyber resilience with Wazuh](https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/)
+- [LummaStealer infections surge after CastleLoader malware campaigns](https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/)
 - [Microsoft releases Windows 11 26H1 for select and upcoming CPUs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/)
 - [New Linux botnet SSHStalker uses old-school IRC for C2 comms](https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/)
 - [North Korean hackers use new macOS malware in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/)
 - [Malicious 7-Zip site distributes installer laced with proxy tool](https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/)
 - [Microsoft releases Windows 10 KB5075912 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/)
 - [Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/)
-- [Windows 11 KB5077181 & KB5075941 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-and-kb5075941-cumulative-updates-released/)
-- [Volvo Group North America customer data exposed in Conduent hack](https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/)
 
 ### Krebs on Security
 

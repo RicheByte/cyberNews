@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-11 01:56 UTC  
+> **Last Updated:** 2026-02-11 04:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**vega raises 120m** • **scattered lapsus shinyhunters** • **bugs fixed today** • **badbox 2 0** • **secure ot communication** • **sim location data** • **original 2011 certificates** • **ics security gaps** • **50 security holes** • **rival cloud security** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **credit reporting agency** • **targeting indian defense** • **national security risk** • **defense evasion technique** • **windows operating systems** • **secure vibe coding** • **dire critical rating** • **well planned campaign**
+**vega raises 120m** • **scattered lapsus shinyhunters** • **bugs fixed today** • **badbox 2 0** • **sim location data** • **ics security gaps** • **50 security holes** • **rival cloud security** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **secure ot communication** • **credit reporting agency** • **windows operating systems** • **targeting indian defense** • **national security risk** • **defense evasion technique** • **dire critical rating** • **well planned campaign** • **verified workplace emails** • **total amount raised**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft releases Windows 11 26H1 for select and upcoming CPUs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/)
 - [New Linux botnet SSHStalker uses old-school IRC for C2 comms](https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/)
 - [North Korean hackers use new macOS malware in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/)
 - [Malicious 7-Zip site distributes installer laced with proxy tool](https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/)
@@ -34,7 +35,6 @@
 - [Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/)
 - [Windows 11 KB5077181 & KB5075941 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-and-kb5075941-cumulative-updates-released/)
 - [Volvo Group North America customer data exposed in Conduent hack](https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/)
-- [Microsoft rolls out new Secure Boot certificates before June expiration](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/)
 
 ### Krebs on Security
 

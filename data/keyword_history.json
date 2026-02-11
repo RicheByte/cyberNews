@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 279,
+      "count": 280,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -199,7 +199,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 649,
+      "count": 650,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -745,7 +745,7 @@
       ]
     },
     "national security risk": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3066,7 +3066,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3086,7 +3086,7 @@
       ]
     },
     "bugs fixed today": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-14",
         "2026-01-21",
@@ -3099,7 +3099,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4451,7 +4451,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5215,7 +5215,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6053,21 +6053,21 @@
       ]
     },
     "well planned campaign": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-10",
         "2026-02-11"
       ]
     },
     "ics security gaps": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-10",
         "2026-02-11"
       ]
     },
     "credit reporting agency": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6080,7 +6080,7 @@
       ]
     },
     "targeting indian defense": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6093,7 +6093,7 @@
       ]
     },
     "defense evasion technique": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6106,14 +6106,14 @@
       ]
     },
     "vega raises 120m": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-10",
         "2026-02-11"
       ]
     },
     "rival cloud security": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6146,7 +6146,7 @@
       ]
     },
     "secure ot communication": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6159,32 +6159,33 @@
       ]
     },
     "sim location data": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-10",
         "2026-02-11"
       ]
     },
     "50 security holes": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-10",
+        "2026-02-11"
+      ]
+    },
+    "verified workplace emails": {
+      "count": 1,
+      "dates": [
+        "2026-02-11"
+      ]
+    },
+    "total amount raised": {
+      "count": 1,
+      "dates": [
         "2026-02-11"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-01 16:22",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "hugging face abused",
-        "rockwell automation controllogix",
-        "former software engineer",
-        "chinese tech firms"
-      ]
-    },
     {
       "timestamp": "2026-02-01 18:28",
       "articles": 56,
@@ -7272,6 +7273,17 @@
         "bugs fixed today",
         "badbox 2 0",
         "secure ot communication"
+      ]
+    },
+    {
+      "timestamp": "2026-02-11 04:28",
+      "articles": 56,
+      "top_keywords": [
+        "vega raises 120m",
+        "scattered lapsus shinyhunters",
+        "bugs fixed today",
+        "badbox 2 0",
+        "sim location data"
       ]
     }
   ]

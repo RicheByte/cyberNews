@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-11 04:28 UTC  
+> **Last Updated:** 2026-02-11 06:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**vega raises 120m** • **scattered lapsus shinyhunters** • **bugs fixed today** • **badbox 2 0** • **sim location data** • **ics security gaps** • **50 security holes** • **rival cloud security** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **secure ot communication** • **credit reporting agency** • **windows operating systems** • **targeting indian defense** • **national security risk** • **defense evasion technique** • **dire critical rating** • **well planned campaign** • **verified workplace emails** • **total amount raised**
+**vega raises 120m** • **bugs fixed today** • **curbing telnet traffic** • **ics security gaps** • **sim location data** • **rival cloud security** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **targeting indian defense** • **secure ot communication** • **credit reporting agency** • **control c2 operations** • **windows operating systems** • **national security risk** • **president s efforts** • **dire critical rating** • **verified workplace emails** • **total amount raised** • **today we'll dig** • **strong theme running**
 
 ---
 
@@ -38,17 +38,18 @@
 
 ### Krebs on Security
 
-- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
+- [Asia Fumbles With Throttling Back Telnet Traffic in Region](https://www.darkreading.com/threat-intelligence/asia-fumbles-telnet-threat-traffic)
 - [SolarWinds WHD Attacks Highlight Risks of Exposed Apps](https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps)
 - [In Bypassing MFA, ZeroDayRAT Is 'Textbook Stalkerware'](https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market)
 - [Microsoft Patches 6 Actively Exploited Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days)
@@ -56,7 +57,6 @@
 - [TransUnion's Real Networks Deal Focuses on Robocall Blocking](https://www.darkreading.com/cyber-risk/transunion-s-real-networks-deal-focuses-on-robocall-blocking)
 - [Warlock Gang Breaches SmarterTools Via SmarterMail Bugs](https://www.darkreading.com/application-security/warlock-gang-breaches-smartertools-smartermail-bugs)
 - [TeamPCP Turns Cloud Infrastructure Into Crime Bots](https://www.darkreading.com/cloud-security/teampcp-cloud-infrastructure-crime-bots)
-- ['Reynolds' Bundles BYOVD With Ransomware Payload](https://www.darkreading.com/threat-intelligence/black-basta-bundles-byovd-ransomware-payload)
 
 ### Security Week
 

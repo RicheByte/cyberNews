@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 280,
+      "count": 281,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -199,7 +199,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 650,
+      "count": 651,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -745,7 +745,7 @@
       ]
     },
     "national security risk": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1861,7 +1861,7 @@
       ]
     },
     "president s efforts": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1875,7 +1875,8 @@
         "2026-01-28",
         "2026-01-29",
         "2026-01-31",
-        "2026-02-10"
+        "2026-02-10",
+        "2026-02-11"
       ]
     },
     "wafer fabrication operation": {
@@ -2315,7 +2316,7 @@
       ]
     },
     "strong theme running": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2333,7 +2334,8 @@
         "2026-02-04",
         "2026-02-05",
         "2026-02-09",
-        "2026-02-10"
+        "2026-02-10",
+        "2026-02-11"
       ]
     },
     "narrative intelligence platform": {
@@ -2437,7 +2439,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 169,
+      "count": 170,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2462,7 +2464,8 @@
         "2026-02-07",
         "2026-02-08",
         "2026-02-09",
-        "2026-02-10"
+        "2026-02-10",
+        "2026-02-11"
       ]
     },
     "internal network behind": {
@@ -3066,7 +3069,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3086,7 +3089,7 @@
       ]
     },
     "bugs fixed today": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-01-14",
         "2026-01-21",
@@ -3099,7 +3102,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -6060,14 +6063,14 @@
       ]
     },
     "ics security gaps": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-10",
         "2026-02-11"
       ]
     },
     "credit reporting agency": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6080,7 +6083,7 @@
       ]
     },
     "targeting indian defense": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6106,14 +6109,14 @@
       ]
     },
     "vega raises 120m": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-10",
         "2026-02-11"
       ]
     },
     "rival cloud security": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6146,7 +6149,7 @@
       ]
     },
     "secure ot communication": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6159,7 +6162,7 @@
       ]
     },
     "sim location data": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6173,12 +6176,24 @@
       ]
     },
     "verified workplace emails": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-11"
       ]
     },
     "total amount raised": {
+      "count": 2,
+      "dates": [
+        "2026-02-11"
+      ]
+    },
+    "curbing telnet traffic": {
+      "count": 1,
+      "dates": [
+        "2026-02-11"
+      ]
+    },
+    "control c2 operations": {
       "count": 1,
       "dates": [
         "2026-02-11"
@@ -6186,17 +6201,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-01 18:28",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "hugging face abused",
-        "rockwell automation controllogix",
-        "chinese tech firms",
-        "former software engineer"
-      ]
-    },
     {
       "timestamp": "2026-02-01 20:20",
       "articles": 56,
@@ -7283,6 +7287,17 @@
         "scattered lapsus shinyhunters",
         "bugs fixed today",
         "badbox 2 0",
+        "sim location data"
+      ]
+    },
+    {
+      "timestamp": "2026-02-11 06:55",
+      "articles": 56,
+      "top_keywords": [
+        "vega raises 120m",
+        "bugs fixed today",
+        "curbing telnet traffic",
+        "ics security gaps",
         "sim location data"
       ]
     }

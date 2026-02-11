@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 281,
+      "count": 282,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -199,7 +199,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 651,
+      "count": 652,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -745,7 +745,7 @@
       ]
     },
     "national security risk": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3069,7 +3069,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3089,7 +3089,7 @@
       ]
     },
     "bugs fixed today": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-14",
         "2026-01-21",
@@ -3102,7 +3102,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3919,9 +3919,10 @@
       ]
     },
     "steal sensitive data": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-01-21"
+        "2026-01-21",
+        "2026-02-11"
       ]
     },
     "ai deployments built": {
@@ -4454,7 +4455,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5218,7 +5219,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6063,7 +6064,7 @@
       ]
     },
     "ics security gaps": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6109,14 +6110,14 @@
       ]
     },
     "vega raises 120m": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-10",
         "2026-02-11"
       ]
     },
     "rival cloud security": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6149,7 +6150,7 @@
       ]
     },
     "secure ot communication": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6162,21 +6163,21 @@
       ]
     },
     "sim location data": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-10",
         "2026-02-11"
       ]
     },
     "50 security holes": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-10",
         "2026-02-11"
       ]
     },
     "verified workplace emails": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-11"
       ]
@@ -6188,7 +6189,7 @@
       ]
     },
     "curbing telnet traffic": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-11"
       ]
@@ -6198,20 +6199,27 @@
       "dates": [
         "2026-02-11"
       ]
+    },
+    "industrial giants products": {
+      "count": 1,
+      "dates": [
+        "2026-02-11"
+      ]
+    },
+    "targeted social engineering": {
+      "count": 1,
+      "dates": [
+        "2026-02-11"
+      ]
+    },
+    "fake zoom meeting": {
+      "count": 1,
+      "dates": [
+        "2026-02-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-01 20:20",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "hugging face abused",
-        "rockwell automation controllogix",
-        "former software engineer",
-        "chinese tech firms"
-      ]
-    },
     {
       "timestamp": "2026-02-01 22:18",
       "articles": 56,
@@ -7299,6 +7307,17 @@
         "curbing telnet traffic",
         "ics security gaps",
         "sim location data"
+      ]
+    },
+    {
+      "timestamp": "2026-02-11 08:41",
+      "articles": 56,
+      "top_keywords": [
+        "vega raises 120m",
+        "scattered lapsus shinyhunters",
+        "industrial giants products",
+        "targeted social engineering",
+        "badbox 2 0"
       ]
     }
   ]

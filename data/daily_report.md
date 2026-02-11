@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-11 08:41 UTC  
+> **Last Updated:** 2026-02-11 10:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**vega raises 120m** • **scattered lapsus shinyhunters** • **industrial giants products** • **targeted social engineering** • **badbox 2 0** • **curbing telnet traffic** • **ics security gaps** • **50 security holes** • **fake zoom meeting** • **sim location data** • **rival cloud security** • **twitter whistleblower complaint** • **bugs fixed today** • **secure ot communication** • **vulnerabilities earned microsoft's** • **windows operating systems** • **national security risk** • **dire critical rating** • **steal sensitive data** • **verified workplace emails**
+**vega raises 120m** • **scattered lapsus shinyhunters** • **industrial giants products** • **targeted social engineering** • **badbox 2 0** • **curbing telnet traffic** • **ics security gaps** • **50 security holes** • **fake zoom meeting** • **sim location data** • **rival cloud security** • **twitter whistleblower complaint** • **secure ot communication** • **vulnerabilities earned microsoft's** • **windows operating systems** • **bugs fixed today** • **national security risk** • **dire critical rating** • **steal sensitive data** • **web help desk**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Fortinet Patches High-Severity Vulnerabilities](https://www.securityweek.com/fortinet-patches-high-severity-vulnerabilities/)
 - [Google-Intel Security Audit Reveals Severe TDX Vulnerability Allowing Full Compromise](https://www.securityweek.com/google-intel-security-audit-reveals-severe-tdx-vulnerability-allowing-full-compromise/)
 - [ICS Patch Tuesday: Vulnerabilities Addressed by Siemens, Schneider, Aveva, Phoenix Contact](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-siemens-schneider-aveva-phoenix-contact/)
 - [6 Actively Exploited Zero-Days Patched by Microsoft With February 2026 Updates](https://www.securityweek.com/6-actively-exploited-zero-days-patched-by-microsoft-with-february-2026-updates/)
@@ -67,7 +68,6 @@
 - [Patch Tuesday: Adobe Fixes 44 Vulnerabilities in Creative Apps](https://www.securityweek.com/patch-tuesday-adobe-fixes-44-vulnerabilities-in-creative-apps/)
 - [Reco Raises $30 Million to Enhance AI SaaS Security](https://www.securityweek.com/reco-raises-30-million-to-enhance-ai-saas-security/)
 - [Vega Raises $120M in Series B Funding to Grow Security Analytics Platform](https://www.securityweek.com/vega-raises-120m-in-series-b-funding-to-grow-security-analytics-platform/)
-- [RATs in the Machine: Inside a Pakistan-Linked Three-Pronged Cyber Assault on India](https://www.securityweek.com/rats-in-the-machine-inside-a-pakistan-linked-three-pronged-cyber-assault-on-india/)
 
 ### Threatpost
 

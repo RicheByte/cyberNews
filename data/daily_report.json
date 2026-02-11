@@ -1,72 +1,107 @@
 {
-  "last_updated": "2026-02-11 10:44",
+  "last_updated": "2026-02-11 12:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "vega raises 120m",
-    "scattered lapsus shinyhunters",
-    "industrial giants products",
     "targeted social engineering",
-    "badbox 2 0",
-    "curbing telnet traffic",
     "ics security gaps",
-    "50 security holes",
-    "fake zoom meeting",
-    "sim location data",
+    "curbing telnet traffic",
+    "chipmaker patch tuesday",
     "rival cloud security",
+    "internal network behind",
+    "fake zoom meeting",
+    "released security updates",
     "twitter whistleblower complaint",
+    "sim location data",
+    "flawed driver software",
+    "control c2 purposes",
+    "exploited without authentication",
     "secure ot communication",
-    "vulnerabilities earned microsoft's",
-    "windows operating systems",
-    "bugs fixed today",
     "national security risk",
-    "dire critical rating",
-    "steal sensitive data",
-    "web help desk"
+    "windows operating systems",
+    "final patch tuesday",
+    "vulnerabilities found recently",
+    "vulnerabilities earned microsoft's",
+    "80 vulnerabilities addressed"
   ],
   "trending": [
     {
-      "keyword": "vega raises 120m",
-      "mentions": 8
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 55
-    },
-    {
-      "keyword": "industrial giants products",
-      "mentions": 2
-    },
-    {
       "keyword": "targeted social engineering",
-      "mentions": 2
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 86
-    },
-    {
-      "keyword": "curbing telnet traffic",
       "mentions": 3
     },
     {
       "keyword": "ics security gaps",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "50 security holes",
-      "mentions": 5
+      "keyword": "curbing telnet traffic",
+      "mentions": 4
+    },
+    {
+      "keyword": "chipmaker patch tuesday",
+      "mentions": 1
+    },
+    {
+      "keyword": "rival cloud security",
+      "mentions": 9
+    },
+    {
+      "keyword": "internal network behind",
+      "mentions": 219
     },
     {
       "keyword": "fake zoom meeting",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "released security updates",
+      "mentions": 27
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 654
     },
     {
       "keyword": "sim location data",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
+      "link": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html",
+      "summary": "Intentionally vulnerable training applications are widely used for security education, internal testing, and product demonstrations. Tools such as OWASP Juice Shop, DVWA, Hackazon, and bWAPP are designed to be insecure by default, making them useful for learning how common attack techniques work in controlled environments. The issue is not the applications themselves, but how they are often",
+      "published": "Wed, 11 Feb 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
+      "link": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html",
+      "summary": "Microsoft on Tuesday released security updates to address a set of 59 flaws across its software, including six vulnerabilities that it said have been exploited in the wild. Of the 59 flaws, five are rated Critical, 52 are rated Important, and two are rated Moderate in severity. Twenty-five of the patched vulnerabilities have been classified as privilege escalation, followed by remote code",
+      "published": "Wed, 11 Feb 2026 15:52:00 +0530",
+      "value_score": 86,
+      "value_signals": [
+        "Active exploitation ×2",
+        "Privilege escalation",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits",
+      "link": "https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new botnet operation called SSHStalker that relies on the Internet Relay Chat (IRC) communication protocol for command-and-control (C2) purposes. \"The toolset blends stealth helpers with legacy-era Linux exploitation: Alongside log cleaners (utmp/wtmp/lastlog tampering) and rootkit-class artifacts, the actor keeps a large back-catalog of",
+      "published": "Wed, 11 Feb 2026 15:26:00 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "Botnet ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations",
@@ -117,40 +152,6 @@
       "value_signals": [
         "CVE mentioned",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
-      "link": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html",
-      "summary": "January 5, 2026, Seattle, USA — ZAST.AI announced the completion of a $6 million Pre-A funding round. This investment came from the well-known investment firm Hillhouse Capital, bringing ZAST.AI's total funding close to $10 million. This marks a recognition from leading capital markets of a new solution: ending the era of high false positive rates in security tools and making every alert",
-      "published": "Tue, 10 Feb 2026 17:10:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server",
-      "link": "https://thehackernews.com/2026/02/warlock-ransomware-breaches.html",
-      "summary": "SmarterTools confirmed last week that the Warlock (aka Storm-2603) ransomware gang breached its network by exploiting an unpatched SmarterMail instance. The incident took place on January 29, 2026, when a mail server that was not updated to the latest version was compromised, the company's Chief Commercial Officer, Derek Curtis, said. \"Prior to the breach, we had approximately 30 servers/VMs",
-      "published": "Tue, 10 Feb 2026 15:54:00 +0530",
-      "value_score": 64,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
-      "link": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
-      "summary": "The Netherlands' Dutch Data Protection Authority (AP) and the Council for the Judiciary confirmed both agencies (Rvdr) have disclosed that their systems were impacted by cyber attacks that exploited the recently disclosed security flaws in Ivanti Endpoint Manager Mobile (EPMM), according to a notice sent to the country's parliament on Friday. \"On January 29, the National Cyber Security Center (",
-      "published": "Tue, 10 Feb 2026 13:52:00 +0530",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
       ]
     },
     {
@@ -240,40 +241,6 @@
     },
     {
       "source": "Krebs on Security",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
@@ -327,6 +294,37 @@
       "published": "Mon, 29 Dec 2025 20:23:26 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -407,6 +405,39 @@
     },
     {
       "source": "Security Week",
+      "title": "Hacker Conversations: Professional Hacker Douglas Day",
+      "link": "https://www.securityweek.com/hacker-conversations-professional-hacker-douglas-day/",
+      "summary": "Day became a professional hacker by choice. But that doesn’t mean he isn’t a natural hacker. The post Hacker Conversations: Professional Hacker Douglas Day appeared first on SecurityWeek .",
+      "published": "Wed, 11 Feb 2026 12:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Ivanti Patches Endpoint Manager Vulnerabilities Disclosed in October 2025",
+      "link": "https://www.securityweek.com/ivanti-patches-endpoint-manager-vulnerabilities-disclosed-in-october-2025/",
+      "summary": "It also fixed a high-severity authentication bypass that could be exploited remotely without authentication to obtain credentials. The post Ivanti Patches Endpoint Manager Vulnerabilities Disclosed in October 2025 appeared first on SecurityWeek .",
+      "published": "Wed, 11 Feb 2026 12:14:51 +0000",
+      "value_score": 39,
+      "value_signals": [
+        "Auth bypass",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chipmaker Patch Tuesday: Over 80 Vulnerabilities Addressed by Intel and AMD",
+      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-over-80-vulnerabilities-addressed-by-intel-and-amd/",
+      "summary": "More than two dozen advisories have been published by the chip giants for vulnerabilities found recently in their products. The post Chipmaker Patch Tuesday: Over 80 Vulnerabilities Addressed by Intel and AMD appeared first on SecurityWeek .",
+      "published": "Wed, 11 Feb 2026 11:00:00 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Fortinet Patches High-Severity Vulnerabilities",
       "link": "https://www.securityweek.com/fortinet-patches-high-severity-vulnerabilities/",
       "summary": "The bugs could be exploited without authentication for command execution and authentication bypass. The post Fortinet Patches High-Severity Vulnerabilities appeared first on SecurityWeek .",
@@ -456,37 +487,6 @@
       "link": "https://www.securityweek.com/eu-unconditionally-approves-googles-32b-acquisition-of-wiz/",
       "summary": "The European Commission’s ruling is based on extensive feedback from customers and rival cloud security and infrastructure vendors. The post EU Unconditionally Approves Google’s $32B Acquisition of Wiz appeared first on SecurityWeek .",
       "published": "Tue, 10 Feb 2026 18:00:36 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Patch Tuesday: Adobe Fixes 44 Vulnerabilities in Creative Apps",
-      "link": "https://www.securityweek.com/patch-tuesday-adobe-fixes-44-vulnerabilities-in-creative-apps/",
-      "summary": "The company has fixed several critical vulnerabilities that can be exploited for arbitrary code execution. The post Patch Tuesday: Adobe Fixes 44 Vulnerabilities in Creative Apps appeared first on SecurityWeek .",
-      "published": "Tue, 10 Feb 2026 17:36:45 +0000",
-      "value_score": 40,
-      "value_signals": [
-        "Patch/update ×3",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Reco Raises $30 Million to Enhance AI SaaS Security",
-      "link": "https://www.securityweek.com/reco-raises-30-million-to-enhance-ai-saas-security/",
-      "summary": "This investment comes less than 10 months after Reco’s last raise, bringing total funding to $85 million. The post Reco Raises $30 Million to Enhance AI SaaS Security appeared first on SecurityWeek .",
-      "published": "Tue, 10 Feb 2026 17:08:24 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Vega Raises $120M in Series B Funding to Grow Security Analytics Platform",
-      "link": "https://www.securityweek.com/vega-raises-120m-in-series-b-funding-to-grow-security-analytics-platform/",
-      "summary": "Led by existing investor Accel, with participation from Cyberstarts, Redpoint, and CRV, the Series B round brings the total amount raised by the company to $185 million. The post Vega Raises $120M in Series B Funding to Grow Security Analytics Platform appeared first on SecurityWeek .",
-      "published": "Tue, 10 Feb 2026 17:06:06 +0000",
       "value_score": 10,
       "value_signals": []
     },

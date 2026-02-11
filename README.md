@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-11 10:44 UTC |
+| 🕐 Last Updated | 2026-02-11 12:58 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`vega raises 120m` • `scattered lapsus shinyhunters` • `industrial giants products` • `targeted social engineering` • `badbox 2 0` • `curbing telnet traffic` • `ics security gaps` • `50 security holes` • `fake zoom meeting` • `sim location data`
+`targeted social engineering` • `ics security gaps` • `curbing telnet traffic` • `chipmaker patch tuesday` • `rival cloud security` • `internal network behind` • `fake zoom meeting` • `released security updates` • `twitter whistleblower complaint` • `sim location data`
 
 ## 📄 Reports
 

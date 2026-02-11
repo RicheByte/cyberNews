@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 283,
+      "count": 284,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -199,7 +199,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 653,
+      "count": 654,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -745,7 +745,7 @@
       ]
     },
     "national security risk": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2469,7 +2469,7 @@
       ]
     },
     "internal network behind": {
-      "count": 218,
+      "count": 219,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2494,7 +2494,8 @@
         "2026-02-06",
         "2026-02-07",
         "2026-02-08",
-        "2026-02-09"
+        "2026-02-09",
+        "2026-02-11"
       ]
     },
     "ai driven access": {
@@ -3102,7 +3103,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3125,11 +3126,12 @@
       ]
     },
     "final patch tuesday": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-14",
         "2026-01-18",
-        "2026-01-19"
+        "2026-01-19",
+        "2026-02-11"
       ]
     },
     "severe ai vulnerability": {
@@ -3304,7 +3306,7 @@
       ]
     },
     "released security updates": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -3312,7 +3314,8 @@
         "2026-01-28",
         "2026-01-29",
         "2026-01-30",
-        "2026-02-10"
+        "2026-02-10",
+        "2026-02-11"
       ]
     },
     "auditability collide daily": {
@@ -6064,7 +6067,7 @@
       ]
     },
     "ics security gaps": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6117,7 +6120,7 @@
       ]
     },
     "rival cloud security": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6150,7 +6153,7 @@
       ]
     },
     "secure ot communication": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6163,7 +6166,7 @@
       ]
     },
     "sim location data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6189,7 +6192,7 @@
       ]
     },
     "curbing telnet traffic": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-11"
       ]
@@ -6207,13 +6210,13 @@
       ]
     },
     "targeted social engineering": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-11"
       ]
     },
     "fake zoom meeting": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-11"
       ]
@@ -6223,20 +6226,45 @@
       "dates": [
         "2026-02-11"
       ]
+    },
+    "chipmaker patch tuesday": {
+      "count": 1,
+      "dates": [
+        "2026-02-11"
+      ]
+    },
+    "flawed driver software": {
+      "count": 1,
+      "dates": [
+        "2026-02-11"
+      ]
+    },
+    "control c2 purposes": {
+      "count": 1,
+      "dates": [
+        "2026-02-11"
+      ]
+    },
+    "exploited without authentication": {
+      "count": 1,
+      "dates": [
+        "2026-02-11"
+      ]
+    },
+    "vulnerabilities found recently": {
+      "count": 1,
+      "dates": [
+        "2026-02-11"
+      ]
+    },
+    "80 vulnerabilities addressed": {
+      "count": 1,
+      "dates": [
+        "2026-02-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-02 01:47",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary code execution",
-        "hugging face abused",
-        "rockwell automation controllogix",
-        "chinese tech firms",
-        "former software engineer"
-      ]
-    },
     {
       "timestamp": "2026-02-02 04:20",
       "articles": 56,
@@ -7324,6 +7352,17 @@
         "industrial giants products",
         "targeted social engineering",
         "badbox 2 0"
+      ]
+    },
+    {
+      "timestamp": "2026-02-11 12:58",
+      "articles": 56,
+      "top_keywords": [
+        "targeted social engineering",
+        "ics security gaps",
+        "curbing telnet traffic",
+        "chipmaker patch tuesday",
+        "rival cloud security"
       ]
     }
   ]

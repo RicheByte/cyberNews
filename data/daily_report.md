@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-11 20:33 UTC  
+> **Last Updated:** 2026-02-11 22:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **50 security holes** • **webinar today identity** • **curbing telnet traffic** • **ics security gaps** • **fake zoom meeting** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **open source siem** • **internal network behind** • **100 million since** • **10 million estimated** • **windows operating systems** • **59 flaws across** • **targeted social engineering** • **national security risk** • **vulnerabilities earned microsoft's** • **today we'll dig** • **popular archiving tool**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **50 security holes** • **webinar today identity** • **curbing telnet traffic** • **ics security gaps** • **twitter whistleblower complaint** • **open source siem** • **internal network behind** • **fake zoom meeting** • **100 million since** • **10 million estimated** • **windows operating systems** • **59 flaws across** • **targeted social engineering** • **national security risk** • **vulnerabilities earned microsoft's** • **today we'll dig** • **bugs fixed today** • **flawed driver software**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts](https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/)
 - [Crazy ransomware gang abuses employee monitoring tool in attacks](https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/)
 - [Police arrest seller of JokerOTP MFA passcode capturing tool](https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/)
 - [Proactive strategies for cyber resilience with Wazuh](https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/)
@@ -34,7 +35,6 @@
 - [Microsoft releases Windows 11 26H1 for select and upcoming CPUs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/)
 - [New Linux botnet SSHStalker uses old-school IRC for C2 comms](https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/)
 - [North Korean hackers use new macOS malware in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/)
-- [Malicious 7-Zip site distributes installer laced with proxy tool](https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [North Korea's UNC1069 Hammers Crypto Firms With AI](https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms)
 - [AI Rising: Do We Know Enough About the Data Populating It?](https://www.darkreading.com/data-privacy/do-we-know-enough-about-data-populating-ai)
 - [Top Cyber Industry Defenses Spike CO2 Emissions](https://www.darkreading.com/application-security/cyber-industry-defenses-co2-emissions)
 - [Asia Fumbles With Throttling Back Telnet Traffic in Region](https://www.darkreading.com/threat-intelligence/asia-fumbles-telnet-threat-traffic)
@@ -56,7 +57,6 @@
 - [In Bypassing MFA, ZeroDayRAT Is 'Textbook Stalkerware'](https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market)
 - [Microsoft Patches 6 Actively Exploited Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days)
 - [How to Stay on Top of Future Threats With a Cutting-Edge SOC](https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc)
-- [Automaker Secures the Supply Chain With Developer-Friendly Platform](https://www.darkreading.com/application-security/automaker-secures-supply-chain-developer-friendly-platform)
 
 ### Security Week
 

@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 287,
+      "count": 288,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -199,7 +199,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 658,
+      "count": 659,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -745,7 +745,7 @@
       ]
     },
     "national security risk": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2440,7 +2440,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2470,7 +2470,7 @@
       ]
     },
     "internal network behind": {
-      "count": 223,
+      "count": 224,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3091,7 +3091,7 @@
       ]
     },
     "bugs fixed today": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-01-14",
         "2026-01-21",
@@ -3104,7 +3104,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4459,7 +4459,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5223,7 +5223,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6068,7 +6068,7 @@
       ]
     },
     "ics security gaps": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6174,7 +6174,7 @@
       ]
     },
     "50 security holes": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-10",
         "2026-02-11"
@@ -6193,7 +6193,7 @@
       ]
     },
     "curbing telnet traffic": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-11"
       ]
@@ -6211,13 +6211,13 @@
       ]
     },
     "targeted social engineering": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-11"
       ]
     },
     "fake zoom meeting": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-11"
       ]
@@ -6235,7 +6235,7 @@
       ]
     },
     "flawed driver software": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-11"
       ]
@@ -6271,31 +6271,31 @@
       ]
     },
     "100 million since": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-11"
       ]
     },
     "10 million estimated": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-11"
       ]
     },
     "59 flaws across": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-11"
       ]
     },
     "webinar today identity": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-11"
       ]
     },
     "open source siem": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-11"
       ]
@@ -6308,17 +6308,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-02 12:48",
-      "articles": 56,
-      "top_keywords": [
-        "multi stage malware",
-        "rockwell automation controllogix",
-        "microsoft moves closer",
-        "chinese tech firms",
-        "windows operating systems"
-      ]
-    },
     {
       "timestamp": "2026-02-02 14:38",
       "articles": 56,
@@ -7399,6 +7388,17 @@
     },
     {
       "timestamp": "2026-02-11 20:33",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "50 security holes",
+        "webinar today identity",
+        "curbing telnet traffic"
+      ]
+    },
+    {
+      "timestamp": "2026-02-11 22:25",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

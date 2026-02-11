@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-11 14:48 UTC  
+> **Last Updated:** 2026-02-11 17:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **50 security holes** • **targeted social engineering** • **curbing telnet traffic** • **chipmaker patch tuesday** • **ics security gaps** • **internal network behind** • **fake zoom meeting** • **twitter whistleblower complaint** • **various windows components** • **secure ot communication** • **100 million since** • **10 million estimated** • **59 flaws across** • **windows operating systems** • **national security risk** • **vulnerabilities found recently** • **vulnerabilities earned microsoft's** • **80 vulnerabilities addressed**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **50 security holes** • **webinar today identity** • **ics security gaps** • **curbing telnet traffic** • **fake zoom meeting** • **twitter whistleblower complaint** • **secure ot communication** • **internal network behind** • **100 million since** • **10 million estimated** • **national security risk** • **vulnerabilities earned microsoft's** • **59 flaws across** • **various windows components** • **today we'll dig** • **bugs fixed today** • **sim location data** • **flawed driver software**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities](https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html)
 - [Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms](https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html)
 - [Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments](https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html)
 - [Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days](https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html)
@@ -23,7 +24,6 @@
 - [North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations](https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html)
 - [DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies](https://thehackernews.com/2026/02/dprk-operatives-impersonate.html)
 - [Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools](https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html)
-- [From Ransomware to Residency: Inside the Rise of the Digital Parasite](https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html)
 
 ### BleepingComputer
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
 - [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
 - [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
 - [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
@@ -45,7 +46,6 @@
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
-- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 ### Dark Reading
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Webinar Today: Identity Under Attack – Strengthen Your Identity Defenses](https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/)
 - [GitGuardian Raises $50 Million for Secrets and Non-Human Identity Security](https://www.securityweek.com/gitguardian-raises-50-million-for-secrets-and-non-human-identity-security/)
 - [Conduent Breach Hits Volvo Group: Nearly 17,000 Employees’ Data Exposed](https://www.securityweek.com/conduent-breach-hits-volvo-group-nearly-17000-employees-data-exposed/)
 - [Zast.AI Raises $6 Million for AI-Powered Code Security](https://www.securityweek.com/zast-ai-raises-6-million-for-ai-powered-code-security/)
@@ -67,7 +68,6 @@
 - [Microsoft to Refresh Windows Secure Boot Certificates in June 2026](https://www.securityweek.com/microsoft-to-refresh-windows-secure-boot-certificates-in-june-2026/)
 - [Hacker Conversations: Professional Hacker Douglas Day](https://www.securityweek.com/hacker-conversations-professional-hacker-douglas-day/)
 - [Ivanti Patches Endpoint Manager Vulnerabilities Disclosed in October 2025](https://www.securityweek.com/ivanti-patches-endpoint-manager-vulnerabilities-disclosed-in-october-2025/)
-- [Chipmaker Patch Tuesday: Over 80 Vulnerabilities Addressed by Intel and AMD](https://www.securityweek.com/chipmaker-patch-tuesday-over-80-vulnerabilities-addressed-by-intel-and-amd/)
 
 ### Threatpost
 

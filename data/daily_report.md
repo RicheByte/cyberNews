@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-11 12:58 UTC  
+> **Last Updated:** 2026-02-11 14:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**targeted social engineering** • **ics security gaps** • **curbing telnet traffic** • **chipmaker patch tuesday** • **rival cloud security** • **internal network behind** • **fake zoom meeting** • **released security updates** • **twitter whistleblower complaint** • **sim location data** • **flawed driver software** • **control c2 purposes** • **exploited without authentication** • **secure ot communication** • **national security risk** • **windows operating systems** • **final patch tuesday** • **vulnerabilities found recently** • **vulnerabilities earned microsoft's** • **80 vulnerabilities addressed**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **50 security holes** • **targeted social engineering** • **curbing telnet traffic** • **chipmaker patch tuesday** • **ics security gaps** • **internal network behind** • **fake zoom meeting** • **twitter whistleblower complaint** • **various windows components** • **secure ot communication** • **100 million since** • **10 million estimated** • **59 flaws across** • **windows operating systems** • **national security risk** • **vulnerabilities found recently** • **vulnerabilities earned microsoft's** • **80 vulnerabilities addressed**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms](https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html)
 - [Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments](https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html)
 - [Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days](https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html)
 - [SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits](https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html)
@@ -23,7 +24,6 @@
 - [DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies](https://thehackernews.com/2026/02/dprk-operatives-impersonate.html)
 - [Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools](https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html)
 - [From Ransomware to Residency: Inside the Rise of the Digital Parasite](https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html)
-- [Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution](https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html)
 
 ### BleepingComputer
 
@@ -38,36 +38,36 @@
 
 ### Krebs on Security
 
+- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
+- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
-- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
+- [AI Rising: Do We Know Enough About the Data Populating It?](https://www.darkreading.com/data-privacy/do-we-know-enough-about-data-populating-ai)
+- [Top Cyber Industry Defenses Spike CO2 Emissions](https://www.darkreading.com/application-security/cyber-industry-defenses-co2-emissions)
 - [Asia Fumbles With Throttling Back Telnet Traffic in Region](https://www.darkreading.com/threat-intelligence/asia-fumbles-telnet-threat-traffic)
 - [SolarWinds WHD Attacks Highlight Risks of Exposed Apps](https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps)
 - [In Bypassing MFA, ZeroDayRAT Is 'Textbook Stalkerware'](https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market)
 - [Microsoft Patches 6 Actively Exploited Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days)
 - [OT Attacks Get Scary With 'Living-off-the-Plant' Techniques](https://www.darkreading.com/ics-ot-security/ot-attacks-living-off-the-plant)
 - [TransUnion's Real Networks Deal Focuses on Robocall Blocking](https://www.darkreading.com/cyber-risk/transunion-s-real-networks-deal-focuses-on-robocall-blocking)
-- [Warlock Gang Breaches SmarterTools Via SmarterMail Bugs](https://www.darkreading.com/application-security/warlock-gang-breaches-smartertools-smartermail-bugs)
-- [TeamPCP Turns Cloud Infrastructure Into Crime Bots](https://www.darkreading.com/cloud-security/teampcp-cloud-infrastructure-crime-bots)
 
 ### Security Week
 
+- [GitGuardian Raises $50 Million for Secrets and Non-Human Identity Security](https://www.securityweek.com/gitguardian-raises-50-million-for-secrets-and-non-human-identity-security/)
+- [Conduent Breach Hits Volvo Group: Nearly 17,000 Employees’ Data Exposed](https://www.securityweek.com/conduent-breach-hits-volvo-group-nearly-17000-employees-data-exposed/)
+- [Zast.AI Raises $6 Million for AI-Powered Code Security](https://www.securityweek.com/zast-ai-raises-6-million-for-ai-powered-code-security/)
+- [Security in the Dark: Recognizing the Signs of Hidden Information](https://www.securityweek.com/security-in-the-dark-recognizing-the-signs-of-hidden-information/)
+- [Microsoft to Refresh Windows Secure Boot Certificates in June 2026](https://www.securityweek.com/microsoft-to-refresh-windows-secure-boot-certificates-in-june-2026/)
 - [Hacker Conversations: Professional Hacker Douglas Day](https://www.securityweek.com/hacker-conversations-professional-hacker-douglas-day/)
 - [Ivanti Patches Endpoint Manager Vulnerabilities Disclosed in October 2025](https://www.securityweek.com/ivanti-patches-endpoint-manager-vulnerabilities-disclosed-in-october-2025/)
 - [Chipmaker Patch Tuesday: Over 80 Vulnerabilities Addressed by Intel and AMD](https://www.securityweek.com/chipmaker-patch-tuesday-over-80-vulnerabilities-addressed-by-intel-and-amd/)
-- [Fortinet Patches High-Severity Vulnerabilities](https://www.securityweek.com/fortinet-patches-high-severity-vulnerabilities/)
-- [Google-Intel Security Audit Reveals Severe TDX Vulnerability Allowing Full Compromise](https://www.securityweek.com/google-intel-security-audit-reveals-severe-tdx-vulnerability-allowing-full-compromise/)
-- [ICS Patch Tuesday: Vulnerabilities Addressed by Siemens, Schneider, Aveva, Phoenix Contact](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-siemens-schneider-aveva-phoenix-contact/)
-- [6 Actively Exploited Zero-Days Patched by Microsoft With February 2026 Updates](https://www.securityweek.com/6-actively-exploited-zero-days-patched-by-microsoft-with-february-2026-updates/)
-- [EU Unconditionally Approves Google’s $32B Acquisition of Wiz](https://www.securityweek.com/eu-unconditionally-approves-googles-32b-acquisition-of-wiz/)
 
 ### Threatpost
 

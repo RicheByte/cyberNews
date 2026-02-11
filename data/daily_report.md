@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-11 18:56 UTC  
+> **Last Updated:** 2026-02-11 20:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **50 security holes** • **webinar today identity** • **curbing telnet traffic** • **ics security gaps** • **fake zoom meeting** • **twitter whistleblower complaint** • **secure ot communication** • **open source siem** • **internal network behind** • **100 million since** • **10 million estimated** • **windows operating systems** • **59 flaws across** • **targeted social engineering** • **national security risk** • **vulnerabilities earned microsoft's** • **today we'll dig** • **flawed driver software**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **50 security holes** • **webinar today identity** • **curbing telnet traffic** • **ics security gaps** • **fake zoom meeting** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **open source siem** • **internal network behind** • **100 million since** • **10 million estimated** • **windows operating systems** • **59 flaws across** • **targeted social engineering** • **national security risk** • **vulnerabilities earned microsoft's** • **today we'll dig** • **popular archiving tool**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Crazy ransomware gang abuses employee monitoring tool in attacks](https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/)
+- [Police arrest seller of JokerOTP MFA passcode capturing tool](https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/)
 - [Proactive strategies for cyber resilience with Wazuh](https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/)
 - [LummaStealer infections surge after CastleLoader malware campaigns](https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/)
 - [Microsoft releases Windows 11 26H1 for select and upcoming CPUs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/)
 - [New Linux botnet SSHStalker uses old-school IRC for C2 comms](https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/)
 - [North Korean hackers use new macOS malware in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/)
 - [Malicious 7-Zip site distributes installer laced with proxy tool](https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/)
-- [Microsoft releases Windows 10 KB5075912 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/)
-- [Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/)
 
 ### Krebs on Security
 
@@ -55,11 +55,12 @@
 - [SolarWinds WHD Attacks Highlight Risks of Exposed Apps](https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps)
 - [In Bypassing MFA, ZeroDayRAT Is 'Textbook Stalkerware'](https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market)
 - [Microsoft Patches 6 Actively Exploited Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days)
-- [OT Attacks Get Scary With 'Living-off-the-Plant' Techniques](https://www.darkreading.com/ics-ot-security/ot-attacks-living-off-the-plant)
-- [TransUnion's Real Networks Deal Focuses on Robocall Blocking](https://www.darkreading.com/cyber-risk/transunion-s-real-networks-deal-focuses-on-robocall-blocking)
+- [How to Stay on Top of Future Threats With a Cutting-Edge SOC](https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc)
+- [Automaker Secures the Supply Chain With Developer-Friendly Platform](https://www.darkreading.com/application-security/automaker-secures-supply-chain-developer-friendly-platform)
 
 ### Security Week
 
+- [Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack](https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/)
 - [Webinar Today: Identity Under Attack – Strengthen Your Identity Defenses](https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/)
 - [GitGuardian Raises $50 Million for Secrets and Non-Human Identity Security](https://www.securityweek.com/gitguardian-raises-50-million-for-secrets-and-non-human-identity-security/)
 - [Conduent Breach Hits Volvo Group: Nearly 17,000 Employees’ Data Exposed](https://www.securityweek.com/conduent-breach-hits-volvo-group-nearly-17000-employees-data-exposed/)
@@ -67,7 +68,6 @@
 - [Security in the Dark: Recognizing the Signs of Hidden Information](https://www.securityweek.com/security-in-the-dark-recognizing-the-signs-of-hidden-information/)
 - [Microsoft to Refresh Windows Secure Boot Certificates in June 2026](https://www.securityweek.com/microsoft-to-refresh-windows-secure-boot-certificates-in-june-2026/)
 - [Hacker Conversations: Professional Hacker Douglas Day](https://www.securityweek.com/hacker-conversations-professional-hacker-douglas-day/)
-- [Ivanti Patches Endpoint Manager Vulnerabilities Disclosed in October 2025](https://www.securityweek.com/ivanti-patches-endpoint-manager-vulnerabilities-disclosed-in-october-2025/)
 
 ### Threatpost
 

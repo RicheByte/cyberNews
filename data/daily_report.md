@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-12 16:53 UTC  
+> **Last Updated:** 2026-02-12 18:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**bulletproof hosting infrastructure** • **scattered lapsus shinyhunters** • **badbox 2 0** • **webinar today identity** • **arbitrary code execution** • **windows operating systems** • **curbing telnet traffic** • **ics security gaps** • **50 security holes** • **twitter whistleblower complaint** • **private sector firms** • **dyld system component** • **vulnerabilities earned microsoft's** • **various windows components** • **apple devices apple** • **today we'll dig** • **crazy ransomware gang** • **abandoned legitimate add** • **windows security warnings** • **manufacturing sector company**
+**bulletproof hosting infrastructure** • **badbox 2 0** • **scattered lapsus shinyhunters** • **webinar today identity** • **curbing telnet traffic** • **arbitrary code execution** • **windows operating systems** • **accelerating various phases** • **twitter whistleblower complaint** • **sophisticated cyber attacks** • **private sector firms** • **dyld system component** • **50 security holes** • **today we'll dig** • **abandoned legitimate add** • **windows 11 notepad** • **targeting macos users** • **abusing gemini ai** • **achieve full access** • **windows security warnings**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html)
+- [Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html)
 - [ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html)
 - [The CTEM Divide: Why 84% of Security Programs Are Falling Behind](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html)
 - [83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure](https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html)
-- [Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices](https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html)
+- [Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices](https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html)
 - [First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials](https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html)
 - [APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities](https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html)
-- [Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms](https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html)
-- [Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments](https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html)
 
 ### BleepingComputer
 
+- [Odido data breach exposes personal info of 6.2 million customers](https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/)
+- [WordPress plugin with 900k installs vulnerable to critical RCE flaw](https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/)
 - [AMOS infostealer targets macOS through a popular AI app](https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/)
 - [Fake AI Chrome extensions with 300K users steal credentials, emails](https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/)
 - [Google says hackers are abusing Gemini AI for all attacks stages](https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/)
 - [Apple fixes zero-day flaw used in 'extremely sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/)
 - [Windows 11 Notepad flaw let files execute silently via Markdown links](https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/)
 - [Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts](https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/)
-- [Crazy ransomware gang abuses employee monitoring tool in attacks](https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/)
-- [Police arrest seller of JokerOTP MFA passcode capturing tool](https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [Yokogawa FAST/TOOLS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-01)
-- [AVEVA PI Data Archive](https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-03)
-- [AVEVA PI to CONNECT Agent](https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-04)
-- [CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/10/cisa-adds-six-known-exploited-vulnerabilities-catalog)
-- [ZOLL ePCR IOS Mobile Application](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-041-01)
-- [Poland Energy Sector Cyber Incident Highlights OT and ICS Security Gaps](https://www.cisa.gov/news-events/alerts/2026/02/10/poland-energy-sector-cyber-incident-highlights-ot-and-ics-security-gaps)
-- [​​Barriers to Secure OT Communication: Why Johnny Can’t Authenticate​](https://www.cisa.gov/resources-tools/resources/barriers-secure-ot-communication-why-johnny-cant-authenticate)
-- [ZLAN Information Technology Co. ZLAN5143D](https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-02)
+- [Siemens SINEC NMS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-01)
+- [Siemens Siveillance Video Management Servers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-07)
+- [Siemens Solid Edge](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-05)
+- [Siemens Polarion](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-02)
+- [Airleader Master](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-10)
+- [Siemens NX](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-08)
+- [Siemens Desigo CC Product Family and SENTRON Powermanager](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-04)
+- [Siemens SINEC OS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-06)
 
 ---
 

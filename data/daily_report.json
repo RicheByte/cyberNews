@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-02-12 16:53",
+  "last_updated": "2026-02-12 18:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "bulletproof hosting infrastructure",
-    "scattered lapsus shinyhunters",
     "badbox 2 0",
+    "scattered lapsus shinyhunters",
     "webinar today identity",
+    "curbing telnet traffic",
     "arbitrary code execution",
     "windows operating systems",
-    "curbing telnet traffic",
-    "ics security gaps",
-    "50 security holes",
+    "accelerating various phases",
     "twitter whistleblower complaint",
+    "sophisticated cyber attacks",
     "private sector firms",
     "dyld system component",
-    "vulnerabilities earned microsoft's",
-    "various windows components",
-    "apple devices apple",
+    "50 security holes",
     "today we'll dig",
-    "crazy ransomware gang",
     "abandoned legitimate add",
-    "windows security warnings",
-    "manufacturing sector company"
+    "windows 11 notepad",
+    "targeting macos users",
+    "abusing gemini ai",
+    "achieve full access",
+    "windows security warnings"
   ],
   "trending": [
     {
       "keyword": "bulletproof hosting infrastructure",
-      "mentions": 5
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 66
+      "mentions": 6
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 97
+      "mentions": 98
+    },
+    {
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 67
     },
     {
       "keyword": "webinar today identity",
-      "mentions": 12
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 82
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 296
+      "mentions": 13
     },
     {
       "keyword": "curbing telnet traffic",
-      "mentions": 17
+      "mentions": 18
     },
     {
-      "keyword": "ics security gaps",
-      "mentions": 24
+      "keyword": "arbitrary code execution",
+      "mentions": 83
     },
     {
-      "keyword": "50 security holes",
-      "mentions": 16
+      "keyword": "windows operating systems",
+      "mentions": 297
+    },
+    {
+      "keyword": "accelerating various phases",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 667
+      "mentions": 668
+    },
+    {
+      "keyword": "sophisticated cyber attacks",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
+      "link": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
+      "summary": "Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemini to conduct reconnaissance on its targets, as various hacking groups continue to weaponize the tool for accelerating various phases of the cyber attack life cycle, enabling information operations, and even conducting model extraction attacks. \"The",
+      "published": "Thu, 12 Feb 2026 23:27:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems",
+      "link": "https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html",
+      "summary": "Cybersecurity researchers have discovered a fresh set of malicious packages across npm and the Python Package Index (PyPI) repository linked to a fake recruitment-themed campaign orchestrated by the North Korea-linked Lazarus Group. The coordinated campaign has been codenamed graphalgo in reference to the first package published in the npm registry. It's assessed to be active since May 2025. \"",
+      "published": "Thu, 12 Feb 2026 22:25:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
@@ -101,7 +119,7 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices",
+      "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
       "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
       "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks. The vulnerability, tracked as CVE-2026-20700 (CVSS score: N/A), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an",
       "published": "Thu, 12 Feb 2026 11:09:00 +0530",
@@ -133,26 +151,28 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms",
-      "link": "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html",
-      "summary": "It's Patch Tuesday, which means a number of software vendors have released patches for various security vulnerabilities impacting their products and services. Microsoft issued fixes for 59 flaws, including six actively exploited zero-days in various Windows components that could be abused to bypass security features, escalate privileges, and trigger a denial-of-service (DoS) condition. Elsewhere",
-      "published": "Wed, 11 Feb 2026 18:58:00 +0530",
-      "value_score": 49,
+      "source": "BleepingComputer",
+      "title": "Odido data breach exposes personal info of 6.2 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/",
+      "summary": "Dutch telecommunications provider Odido is warning that it suffered a cyberattack that reportedly exposed the personal data of 6.2 million customers. [...]",
+      "published": "Thu, 12 Feb 2026 13:18:14 -0500",
+      "value_score": 22,
       "value_signals": [
-        "Active exploitation",
-        "Patch/update",
-        "Exploit wording"
+        "Breach/leak"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
-      "link": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html",
-      "summary": "Intentionally vulnerable training applications are widely used for security education, internal testing, and product demonstrations. Tools such as OWASP Juice Shop, DVWA, Hackazon, and bWAPP are designed to be insecure by default, making them useful for learning how common attack techniques work in controlled environments. The issue is not the applications themselves, but how they are often",
-      "published": "Wed, 11 Feb 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "WordPress plugin with 900k installs vulnerable to critical RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/",
+      "summary": "A critical vulnerability in the WPvivid Backup & Migration plugin for WordPress, installed on more than 900,000 websites, can be exploited to achieve remote code execution by uploading arbitrary files without authentication. [...]",
+      "published": "Thu, 12 Feb 2026 12:09:41 -0500",
+      "value_score": 72,
+      "value_signals": [
+        "RCE ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -212,28 +232,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/",
       "summary": "The AgreeTo add-in for Outlook has been hijacked and turned into a phishing kit that stole more than 4,000 Microsoft account credentials. [...]",
       "published": "Wed, 11 Feb 2026 16:53:58 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Crazy ransomware gang abuses employee monitoring tool in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/",
-      "summary": "A member of the Crazy ransomware gang is abusing legitimate employee monitoring software and the SimpleHelp remote support tool to maintain persistence in corporate networks, evade detection, and prepare for ransomware deployment. [...]",
-      "published": "Wed, 11 Feb 2026 14:29:14 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police arrest seller of JokerOTP MFA passcode capturing tool",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/",
-      "summary": "The Netherlands Police have arrested a a 21-year-old man from Dordrecht, suspected of selling access to the JokerOTP phishing automation tool that can intercept one-time passwords (OTP) for hijacking accounts. [...]",
-      "published": "Wed, 11 Feb 2026 14:14:32 -0500",
       "value_score": 18,
       "value_signals": [
         "Phishing"
@@ -565,112 +563,108 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Yokogawa FAST/TOOLS",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to redirected users to malicious sites, decrypt communications, perform a man-in-the-middle (MITM) attack, execute malicious scripts, steal files, and perform other various attacks. The following versions of Yokogawa FAST/TOOLS are affected: FAST/TOOLS >=R9.01|<=R10.04 (CVE-2025-66594, CVE-2025-66595, CVE-2025-66597, CVE-2025-66598, CVE-2025-66599, CVE-2025-66600, CVE-2025-66601, CVE-2025-66602, CVE-2025-6",
-      "published": "Tue, 10 Feb 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×8",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "AVEVA PI Data Archive",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in a denial-of-service condition. The following versions of AVEVA PI Data Archive are affected: PI Data Archive PI Server <=2018_SP3_Patch_7 (CVE-2026-1507) PI Data Archive PI Server 2023 (CVE-2026-1507) PI Data Archive PI Server 2023_Patch_1 (CVE-2026-1507) PI Data Archive PI Server 2024 (CVE-2026-1507) CVSS Vendor Equipment Vulnerabilities v3 7.5 AVEVA AVEVA PI Data Archive Uncaught Exception Background Critical Infra",
-      "published": "Tue, 10 Feb 26 12:00:00 +0000",
-      "value_score": 97,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "AVEVA PI to CONNECT Agent",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an unauthorized access to the proxy server. The following versions of AVEVA PI to CONNECT Agent are affected: PI to CONNECT Agent <=v2.4.2520 (CVE-2026-1495) CVSS Vendor Equipment Vulnerabilities v3 6.5 AVEVA AVEVA PI to CONNECT Agent Insertion of Sensitive Information into Log File Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Un",
-      "published": "Tue, 10 Feb 26 12:00:00 +0000",
-      "value_score": 75,
+      "title": "Siemens SINEC NMS",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-01",
+      "summary": "View CSAF Summary Multiple Siemens products are affected by two local privilege escalation vulnerabilities which could allow an low privileged attacker to load malicious DLLs, potentially leading to arbitrary code execution with elevated privileges. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SINEC NMS are affected: SINEC NMS: Versions prior to V4.0 SP2 (CVE-2026-25655) SINEC NMS: All Versions (CVE",
+      "published": "Thu, 12 Feb 26 12:00:00 +0000",
+      "value_score": 73,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
+        "Privilege escalation",
+        "Patch/update"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-21510 Microsoft Windows Shell Protection Mechanism Failure Vulnerability CVE-2026-21513 Microsoft MSHTML Framework Security Feature Bypass Vulnerability CVE-2026-21514 Microsoft Office Word Reliance on Untrusted Inputs in a Security Decision Vulnerability CVE-2026-21519 Microsoft Windows Type Confusion Vulnerability CVE-2026-21525 Microsoft Windows NULL",
-      "published": "Tue, 10 Feb 26 12:00:00 +0000",
-      "value_score": 100,
+      "title": "Siemens Siveillance Video Management Servers",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-07",
+      "summary": "View CSAF Summary The Webhooks implementation of Siveillance Video Management Servers contains a vulnerability that could allow an authenticated remote attacker with read-only privileges to achieve full access to Webhooks API. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Siveillance Video Management Servers are affected: Siveillance Video V2023 R1: All versions < V23.1 HotfixRev18 Siveillance Video ",
+      "published": "Thu, 12 Feb 26 12:00:00 +0000",
+      "value_score": 43,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×5",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Patch/update"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "ZOLL ePCR IOS Mobile Application",
-      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-041-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to protected health information (PHI) or device telemetry. The following versions of ZOLL ePCR IOS Mobile Application are affected: ePCR IOS Mobile Application 2.6.7 (CVE-2025-12699) CVSS Vendor Equipment Vulnerabilities v3 5.5 ZOLL ZOLL ePCR IOS Mobile Application Insertion of Sensitive Information into Externally-Accessible File or Directory Background Critical Infrastructure Sec",
-      "published": "Tue, 10 Feb 26 12:00:00 +0000",
-      "value_score": 67,
+      "title": "Siemens Solid Edge",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-05",
+      "summary": "View CSAF Summary Solid Edge uses PS/IGES Parasolid Translator Component that contains an out of bounds read that could be triggered when the application reads files in IGS file formats. If a user is tricked to open a malicious file with any of the affected products, this could lead the application to crash or potentially lead to arbitrary code execution. Siemens has released a new version for Solid Edge and recommends to update to the latest version. The following versions of Siemens Solid Edge",
+      "published": "Thu, 12 Feb 26 12:00:00 +0000",
+      "value_score": 43,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity",
-        "Exploit wording"
+        "Patch/update"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Poland Energy Sector Cyber Incident Highlights OT and ICS Security Gaps",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/10/poland-energy-sector-cyber-incident-highlights-ot-and-ics-security-gaps",
-      "summary": "The purpose of this Alert is to amplify Poland’s Computer Emergency Response Team (CERT Polska’s) Energy Sector Incident Report published on Jan. 30, 2026, and highlight key mitigations for Energy Sector stakeholders. In December 2025, a malicious cyber actor(s) targeted and compromised operational technology (OT) and industrial control systems (ICS) in Poland’s Energy Sector—specifically renewable energy plants, a combined heat and power plant, and a manufacturing sector company—in a cyber inci",
-      "published": "Tue, 10 Feb 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "​​Barriers to Secure OT Communication: Why Johnny Can’t Authenticate​",
-      "link": "https://www.cisa.gov/resources-tools/resources/barriers-secure-ot-communication-why-johnny-cant-authenticate",
-      "summary": "CISA released the guidance, Barriers to Secure OT Communication: Why Johnny Can’t Authenticate , which highlights the known issues with insecure-by-design legacy industrial protocols and seeks to understand why the technology to secure these protocols is not widely adopted. CISA developed this guidance in partnership with operational technology (OT) equipment manufacturers and standard development organizations, by interviewing OT asset owners and operators to understand: What motivates owners a",
-      "published": "Tue, 10 Feb 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CISA/KEV ×2"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ZLAN Information Technology Co. ZLAN5143D",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-041-02",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could result in an attacker bypassing authentication, or resetting the device password. The following versions of ZLAN Information Technology Co. ZLAN5143D are affected: ZLAN5143D v1.600 (CVE-2026-25084, CVE-2026-24789) CVSS Vendor Equipment Vulnerabilities v3 9.8 ZLAN Information Technology Co. ZLAN Information Technology Co. ZLAN5143D Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Criti",
-      "published": "Tue, 10 Feb 26 12:00:00 +0000",
-      "value_score": 100,
+      "title": "Siemens Polarion",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-02",
+      "summary": "View CSAF Summary Polarion before V2506 contains a vulnerability that could allow authenticated remote attackers to conduct cross-site scripting attacks. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Polarion are affected: Polarion V2404 vers:intdot/<2404.5 (CVE-2025-40587) Polarion V2410 vers:intdot/<2410.2 (CVE-2025-40587) CVSS Vendor Equipment Vulnerabilities v3 7.6 Siemens Siemens Polarion Improp",
+      "published": "Thu, 12 Feb 26 12:00:00 +0000",
+      "value_score": 87,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned ×2",
+        "Patch/update",
+        "Multiple CVEs"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Airleader Master",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-10",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to obtain remote code execution. The following versions of Airleader Master are affected: Airleader Master <=6.381 (CVE-2026-1358) CVSS Vendor Equipment Vulnerabilities v3 9.8 Airleader GmbH Airleader Master Unrestricted Upload of File with Dangerous Type Background Critical Infrastructure Sectors: Chemical, Critical Manufacturing, Energy, Food and Agriculture, Healthcare and Public Health, Transportation Sys",
+      "published": "Thu, 12 Feb 26 12:00:00 +0000",
+      "value_score": 95,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "RCE",
         "High severity ×2",
-        "Multiple CVEs",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens NX",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-08",
+      "summary": "View CSAF Summary Siemens NX is affected by multiple file parsing vulnerabilities that could be triggered when the application reads files in CGM format. If a user is tricked to open a malicious file with any of the affected products, this could lead the application to crash or potentially lead to arbitrary code execution. Siemens has released a new version for NX and recommends to update to the latest version. The following versions of Siemens NX are affected: NX vers:intdot/<2512 (CVE-2026-229",
+      "published": "Thu, 12 Feb 26 12:00:00 +0000",
+      "value_score": 43,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens Desigo CC Product Family and SENTRON Powermanager",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-04",
+      "summary": "View CSAF Summary Versions V6.0 through V8 QU1 of the Desigo CC product family (Desigo CC, Desigo CC Compact, Desigo CC Connect, Cerberus DMS), as well as the Desigo CC-based SENTRON Powermanager, are affected by a vulnerability in the underlying third-party component WIBU Systems CodeMeter Runtime. Successful exploitation of this vulnerability could lead to code execution in the context of the current process. Siemens has released instructions how to update the CodeMeter Runtime component and r",
+      "published": "Thu, 12 Feb 26 12:00:00 +0000",
+      "value_score": 49,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens SINEC OS",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-06",
+      "summary": "View CSAF Summary SINEC OS before V3.3 contains third-party components with multiple vulnerabilities. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SINEC OS are affected: RUGGEDCOM RST2428P (6GK6242-6PA00) vers:intdot/<3.3 (CVE-2022-48174, CVE-2023-7256, CVE-2023-39810, CVE-2023-42363, CVE-2023-42364, CVE-2023-42365, CVE-2023-42366, CVE-2024-6197, CVE-2024-6874, CVE-2024-7264, CVE-2024-8006, CVE-2024",
+      "published": "Thu, 12 Feb 26 12:00:00 +0000",
+      "value_score": 91,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×11",
+        "Patch/update",
+        "Multiple CVEs"
       ]
     }
   ],

@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 290,
+      "count": 291,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -200,7 +200,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 661,
+      "count": 662,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -747,7 +747,7 @@
       ]
     },
     "national security risk": {
-      "count": 141,
+      "count": 142,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2141,7 +2141,7 @@
       ]
     },
     "16th anniversary today": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -2444,7 +2444,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 176,
+      "count": 177,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2475,7 +2475,7 @@
       ]
     },
     "internal network behind": {
-      "count": 226,
+      "count": 227,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3110,7 +3110,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3314,7 +3314,7 @@
       ]
     },
     "released security updates": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -6078,7 +6078,7 @@
       ]
     },
     "ics security gaps": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6205,7 +6205,7 @@
       ]
     },
     "curbing telnet traffic": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6224,14 +6224,14 @@
       ]
     },
     "targeted social engineering": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-11",
         "2026-02-12"
       ]
     },
     "fake zoom meeting": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6256,7 +6256,7 @@
       ]
     },
     "control c2 purposes": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6287,35 +6287,35 @@
       ]
     },
     "100 million since": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-11",
         "2026-02-12"
       ]
     },
     "10 million estimated": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-11",
         "2026-02-12"
       ]
     },
     "59 flaws across": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-11",
         "2026-02-12"
       ]
     },
     "webinar today identity": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-11",
         "2026-02-12"
       ]
     },
     "open source siem": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6328,13 +6328,13 @@
       ]
     },
     "windows 11 notepad": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-12"
       ]
     },
     "abandoned legitimate add": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-12"
       ]
@@ -6347,17 +6347,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-02 18:36",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "multi stage malware",
-        "rockwell automation controllogix",
-        "redirect update traffic"
-      ]
-    },
     {
       "timestamp": "2026-02-03 01:47",
       "articles": 56,
@@ -7445,6 +7434,17 @@
         "50 security holes",
         "webinar today identity",
         "released security updates"
+      ]
+    },
+    {
+      "timestamp": "2026-02-12 06:55",
+      "articles": 56,
+      "top_keywords": [
+        "webinar today identity",
+        "released security updates",
+        "curbing telnet traffic",
+        "ics security gaps",
+        "internal network behind"
       ]
     }
   ]

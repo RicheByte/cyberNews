@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-12 14:43 UTC  
+> **Last Updated:** 2026-02-12 16:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**webinar today identity** • **scattered lapsus shinyhunters** • **bulletproof hosting infrastructure** • **badbox 2 0** • **50 security holes** • **arbitrary code execution** • **windows operating systems** • **curbing telnet traffic** • **ics security gaps** • **twitter whistleblower complaint** • **private sector firms** • **dyld system component** • **100 million since** • **vulnerabilities earned microsoft's** • **various windows components** • **apple devices apple** • **windows security warnings** • **today we'll dig** • **crazy ransomware gang** • **abandoned legitimate add**
+**bulletproof hosting infrastructure** • **scattered lapsus shinyhunters** • **badbox 2 0** • **webinar today identity** • **arbitrary code execution** • **windows operating systems** • **curbing telnet traffic** • **ics security gaps** • **50 security holes** • **twitter whistleblower complaint** • **private sector firms** • **dyld system component** • **vulnerabilities earned microsoft's** • **various windows components** • **apple devices apple** • **today we'll dig** • **crazy ransomware gang** • **abandoned legitimate add** • **windows security warnings** • **manufacturing sector company**
 
 ---
 
@@ -52,14 +52,15 @@
 - [Senegalese Data Breaches Expose Lack of 'Security Maturity'](https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database)
 - [North Korea's UNC1069 Hammers Crypto Firms With AI](https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms)
 - [How to Stay on Top of Future Threats With a Cutting-Edge SOC](https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc)
+- [Automaker Secures the Supply Chain With Developer-Friendly Platform](https://www.darkreading.com/application-security/automaker-secures-supply-chain-developer-friendly-platform)
 - [AI Rising: Do We Know Enough About the Data Populating It?](https://www.darkreading.com/data-privacy/do-we-know-enough-about-data-populating-ai)
 - [Top Cyber Industry Defenses Spike CO2 Emissions](https://www.darkreading.com/application-security/cyber-industry-defenses-co2-emissions)
 - [Asia Fumbles With Throttling Back Telnet Traffic in Region](https://www.darkreading.com/threat-intelligence/asia-fumbles-telnet-threat-traffic)
 - [SolarWinds WHD Attacks Highlight Risks of Exposed Apps](https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps)
-- [In Bypassing MFA, ZeroDayRAT Is 'Textbook Stalkerware'](https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market)
 
 ### Security Week
 
+- [How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development](https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/)
 - [ApolloMD Data Breach Impacts 626,000 Individuals](https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/)
 - [Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards](https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/)
 - [Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns](https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/)
@@ -67,7 +68,6 @@
 - [Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’](https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/)
 - [Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack](https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/)
 - [Webinar Today: Identity Under Attack – Strengthen Your Identity Defenses](https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/)
-- [GitGuardian Raises $50 Million for Secrets and Non-Human Identity Security](https://www.securityweek.com/gitguardian-raises-50-million-for-secrets-and-non-human-identity-security/)
 
 ### Threatpost
 

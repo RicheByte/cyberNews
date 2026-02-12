@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 295,
+      "count": 296,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -200,7 +200,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 666,
+      "count": 667,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2444,7 +2444,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2521,7 +2521,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3111,7 +3111,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4468,7 +4468,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5233,7 +5233,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6079,7 +6079,7 @@
       ]
     },
     "ics security gaps": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6186,7 +6186,7 @@
       ]
     },
     "50 security holes": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6206,7 +6206,7 @@
       ]
     },
     "curbing telnet traffic": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6282,7 +6282,7 @@
       ]
     },
     "various windows components": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6310,7 +6310,7 @@
       ]
     },
     "webinar today identity": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6336,37 +6336,37 @@
       ]
     },
     "abandoned legitimate add": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-12"
       ]
     },
     "crazy ransomware gang": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-12"
       ]
     },
     "bulletproof hosting infrastructure": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-12"
       ]
     },
     "private sector firms": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-12"
       ]
     },
     "dyld system component": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-12"
       ]
     },
     "apple devices apple": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-12"
       ]
@@ -6384,24 +6384,19 @@
       ]
     },
     "windows security warnings": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-02-12"
+      ]
+    },
+    "manufacturing sector company": {
+      "count": 1,
       "dates": [
         "2026-02-12"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-03 10:34",
-      "articles": 56,
-      "top_keywords": [
-        "firefox ai features",
-        "rockwell automation controllogix",
-        "mid market across",
-        "microsoft moves closer",
-        "infrastructure hosting notepad"
-      ]
-    },
     {
       "timestamp": "2026-02-03 12:48",
       "articles": 56,
@@ -7489,6 +7484,17 @@
         "bulletproof hosting infrastructure",
         "badbox 2 0",
         "50 security holes"
+      ]
+    },
+    {
+      "timestamp": "2026-02-12 16:53",
+      "articles": 56,
+      "top_keywords": [
+        "bulletproof hosting infrastructure",
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "webinar today identity",
+        "arbitrary code execution"
       ]
     }
   ]

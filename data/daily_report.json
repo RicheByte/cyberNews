@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12 08:40",
+  "last_updated": "2026-02-12 10:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,60 +10,60 @@
     "50 security holes",
     "arbitrary code execution",
     "curbing telnet traffic",
-    "windows operating systems",
     "ics security gaps",
+    "windows operating systems",
+    "released security updates",
     "twitter whistleblower complaint",
     "private sector firms",
     "open source siem",
     "internal network behind",
+    "increasingly sophisticated threats",
     "dyld system component",
-    "released security updates",
     "100 million since",
     "10 million estimated",
-    "apple devices apple",
-    "59 flaws across",
-    "vulnerabilities earned microsoft's"
+    "microsoft issued fixes",
+    "apple devices apple"
   ],
   "trending": [
     {
       "keyword": "webinar today identity",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 62
+      "mentions": 63
     },
     {
       "keyword": "bulletproof hosting infrastructure",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 93
+      "mentions": 94
     },
     {
       "keyword": "50 security holes",
-      "mentions": 12
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 78
-    },
-    {
-      "keyword": "curbing telnet traffic",
       "mentions": 13
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 292
+      "keyword": "arbitrary code execution",
+      "mentions": 79
+    },
+    {
+      "keyword": "curbing telnet traffic",
+      "mentions": 14
     },
     {
       "keyword": "ics security gaps",
-      "mentions": 20
+      "mentions": 21
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 663
+      "keyword": "windows operating systems",
+      "mentions": 293
+    },
+    {
+      "keyword": "released security updates",
+      "mentions": 32
     }
   ],
   "articles": [
@@ -338,6 +338,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Senegalese Data Breaches Expose Lack of 'Security Maturity'",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database",
+      "summary": "Green Blood Group steals personal records and biometric data of the West African nation's nearly 20 million residents.",
+      "published": "Thu, 12 Feb 2026 09:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "North Korea's UNC1069 Hammers Crypto Firms With AI",
       "link": "https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms",
       "summary": "In moving away from traditional banks to focus on Web3 companies, the threat actor is leveraging LLMs, deepfakes, legitimate platforms, and ClickFix.",
@@ -403,11 +412,11 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "How to Stay on Top of Future Threats With a Cutting-Edge SOC",
-      "link": "https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc",
-      "summary": "CISOs should focus on harnessing and securing AI and building new skills among their people. Vision and change management can transform security.",
-      "published": "Tue, 10 Feb 2026 20:36:42 GMT",
+      "source": "Security Week",
+      "title": "Nucleus Raises $20 Million for Exposure Management",
+      "link": "https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/",
+      "summary": "The company will use the investment to scale operations and deepen intelligence and automation. The post Nucleus Raises $20 Million for Exposure Management appeared first on SecurityWeek .",
+      "published": "Thu, 12 Feb 2026 09:09:02 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -476,15 +485,6 @@
       "link": "https://www.securityweek.com/security-in-the-dark-recognizing-the-signs-of-hidden-information/",
       "summary": "Security failures don’t always start with attackers, sometimes they start with missing truth. The post Security in the Dark: Recognizing the Signs of Hidden Information appeared first on SecurityWeek .",
       "published": "Wed, 11 Feb 2026 13:15:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft to Refresh Windows Secure Boot Certificates in June 2026",
-      "link": "https://www.securityweek.com/microsoft-to-refresh-windows-secure-boot-certificates-in-june-2026/",
-      "summary": "After a decade and a half of service, the current certificates will expire, and new ones will be rolled out. The post Microsoft to Refresh Windows Secure Boot Certificates in June 2026 appeared first on SecurityWeek .",
-      "published": "Wed, 11 Feb 2026 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

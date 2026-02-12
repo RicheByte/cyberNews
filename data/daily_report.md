@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-12 08:40 UTC  
+> **Last Updated:** 2026-02-12 10:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**webinar today identity** • **scattered lapsus shinyhunters** • **bulletproof hosting infrastructure** • **badbox 2 0** • **50 security holes** • **arbitrary code execution** • **curbing telnet traffic** • **windows operating systems** • **ics security gaps** • **twitter whistleblower complaint** • **private sector firms** • **open source siem** • **internal network behind** • **dyld system component** • **released security updates** • **100 million since** • **10 million estimated** • **apple devices apple** • **59 flaws across** • **vulnerabilities earned microsoft's**
+**webinar today identity** • **scattered lapsus shinyhunters** • **bulletproof hosting infrastructure** • **badbox 2 0** • **50 security holes** • **arbitrary code execution** • **curbing telnet traffic** • **ics security gaps** • **windows operating systems** • **released security updates** • **twitter whistleblower complaint** • **private sector firms** • **open source siem** • **internal network behind** • **increasingly sophisticated threats** • **dyld system component** • **100 million since** • **10 million estimated** • **microsoft issued fixes** • **apple devices apple**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Senegalese Data Breaches Expose Lack of 'Security Maturity'](https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database)
 - [North Korea's UNC1069 Hammers Crypto Firms With AI](https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms)
 - [AI Rising: Do We Know Enough About the Data Populating It?](https://www.darkreading.com/data-privacy/do-we-know-enough-about-data-populating-ai)
 - [Top Cyber Industry Defenses Spike CO2 Emissions](https://www.darkreading.com/application-security/cyber-industry-defenses-co2-emissions)
@@ -56,10 +57,10 @@
 - [SolarWinds WHD Attacks Highlight Risks of Exposed Apps](https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps)
 - [In Bypassing MFA, ZeroDayRAT Is 'Textbook Stalkerware'](https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market)
 - [Microsoft Patches 6 Actively Exploited Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days)
-- [How to Stay on Top of Future Threats With a Cutting-Edge SOC](https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc)
 
 ### Security Week
 
+- [Nucleus Raises $20 Million for Exposure Management](https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/)
 - [Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’](https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/)
 - [Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack](https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/)
 - [Webinar Today: Identity Under Attack – Strengthen Your Identity Defenses](https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/)
@@ -67,7 +68,6 @@
 - [Conduent Breach Hits Volvo Group: Nearly 17,000 Employees’ Data Exposed](https://www.securityweek.com/conduent-breach-hits-volvo-group-nearly-17000-employees-data-exposed/)
 - [Zast.AI Raises $6 Million for AI-Powered Code Security](https://www.securityweek.com/zast-ai-raises-6-million-for-ai-powered-code-security/)
 - [Security in the Dark: Recognizing the Signs of Hidden Information](https://www.securityweek.com/security-in-the-dark-recognizing-the-signs-of-hidden-information/)
-- [Microsoft to Refresh Windows Secure Boot Certificates in June 2026](https://www.securityweek.com/microsoft-to-refresh-windows-secure-boot-certificates-in-june-2026/)
 
 ### Threatpost
 

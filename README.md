@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-12 20:29 UTC |
+| 🕐 Last Updated | 2026-02-12 22:27 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`bulletproof hosting infrastructure` • `badbox 2 0` • `scattered lapsus shinyhunters` • `webinar today identity` • `curbing telnet traffic` • `arbitrary code execution` • `windows operating systems` • `accelerating various phases` • `twitter whistleblower complaint` • `sophisticated cyber attacks`
+`bulletproof hosting infrastructure` • `webinar today identity` • `beyondtrust remote support` • `trusted email addresses` • `critical rce flaw` • `windows operating systems` • `accelerating various phases` • `twitter whistleblower complaint` • `turnkey tools make` • `dyld system component`
 
 ## 📄 Reports
 

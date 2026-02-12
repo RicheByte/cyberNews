@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 298,
+      "count": 299,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -200,7 +200,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 669,
+      "count": 670,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2141,7 +2141,7 @@
       ]
     },
     "16th anniversary today": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -2444,7 +2444,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2521,7 +2521,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2645,7 +2645,7 @@
       ]
     },
     "hackers network operators": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2655,7 +2655,8 @@
         "2026-02-06",
         "2026-02-07",
         "2026-02-08",
-        "2026-02-09"
+        "2026-02-09",
+        "2026-02-12"
       ]
     },
     "deepfake fraud tools": {
@@ -3098,7 +3099,7 @@
       ]
     },
     "bugs fixed today": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-01-14",
         "2026-01-21",
@@ -3107,11 +3108,12 @@
         "2026-02-08",
         "2026-02-09",
         "2026-02-10",
-        "2026-02-11"
+        "2026-02-11",
+        "2026-02-12"
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -6310,7 +6312,7 @@
       ]
     },
     "webinar today identity": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6336,7 +6338,7 @@
       ]
     },
     "abandoned legitimate add": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-12"
       ]
@@ -6348,7 +6350,7 @@
       ]
     },
     "bulletproof hosting infrastructure": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-12"
       ]
@@ -6360,7 +6362,7 @@
       ]
     },
     "dyld system component": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-12"
       ]
@@ -6396,7 +6398,7 @@
       ]
     },
     "accelerating various phases": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-12"
       ]
@@ -6408,7 +6410,7 @@
       ]
     },
     "targeting macos users": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-12"
       ]
@@ -6420,24 +6422,43 @@
       ]
     },
     "achieve full access": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-02-12"
+      ]
+    },
+    "beyondtrust remote support": {
+      "count": 1,
+      "dates": [
+        "2026-02-12"
+      ]
+    },
+    "trusted email addresses": {
+      "count": 1,
+      "dates": [
+        "2026-02-12"
+      ]
+    },
+    "critical rce flaw": {
+      "count": 1,
+      "dates": [
+        "2026-02-12"
+      ]
+    },
+    "turnkey tools make": {
+      "count": 1,
+      "dates": [
+        "2026-02-12"
+      ]
+    },
+    "amos operates spreads": {
+      "count": 1,
       "dates": [
         "2026-02-12"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-03 16:45",
-      "articles": 48,
-      "top_keywords": [
-        "rapidfort raises 42m",
-        "firefox ai features",
-        "grok ai assistant",
-        "ai agent identities",
-        "infrastructure hosting notepad"
-      ]
-    },
     {
       "timestamp": "2026-02-03 18:50",
       "articles": 48,
@@ -7525,6 +7546,17 @@
         "scattered lapsus shinyhunters",
         "webinar today identity",
         "curbing telnet traffic"
+      ]
+    },
+    {
+      "timestamp": "2026-02-12 22:27",
+      "articles": 56,
+      "top_keywords": [
+        "bulletproof hosting infrastructure",
+        "webinar today identity",
+        "beyondtrust remote support",
+        "trusted email addresses",
+        "critical rce flaw"
       ]
     }
   ]

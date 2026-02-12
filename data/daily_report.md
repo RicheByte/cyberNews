@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-12 20:29 UTC  
+> **Last Updated:** 2026-02-12 22:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**bulletproof hosting infrastructure** • **badbox 2 0** • **scattered lapsus shinyhunters** • **webinar today identity** • **curbing telnet traffic** • **arbitrary code execution** • **windows operating systems** • **accelerating various phases** • **twitter whistleblower complaint** • **sophisticated cyber attacks** • **private sector firms** • **dyld system component** • **abandoned legitimate add** • **50 security holes** • **today we'll dig** • **windows 11 notepad** • **targeting macos users** • **abusing gemini ai** • **achieve full access** • **windows security warnings**
+**bulletproof hosting infrastructure** • **webinar today identity** • **beyondtrust remote support** • **trusted email addresses** • **critical rce flaw** • **windows operating systems** • **accelerating various phases** • **twitter whistleblower complaint** • **turnkey tools make** • **dyld system component** • **arbitrary code execution** • **amos operates spreads** • **abandoned legitimate add** • **achieve full access** • **vulnerabilities earned microsoft's** • **today we'll dig** • **bugs fixed today** • **16th anniversary today** • **targeting macos users** • **hackers network operators**
 
 ---
 
@@ -27,36 +27,36 @@
 
 ### BleepingComputer
 
+- [Bitwarden introduces ‘Cupid Vault’ for secure password sharing](https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/)
+- [Critical BeyondTrust RCE flaw now exploited in attacks, patch now](https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/)
+- [Microsoft: New Windows LNK spoofing issues aren't vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/)
 - [Romania's oil pipeline operator Conpet confirms data stolen in attack](https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/)
 - [Odido data breach exposes personal info of 6.2 million customers](https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/)
 - [WordPress plugin with 900k installs vulnerable to critical RCE flaw](https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/)
 - [AMOS infostealer targets macOS through a popular AI app](https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/)
 - [Fake AI Chrome extensions with 300K users steal credentials, emails](https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/)
-- [Google says hackers are abusing Gemini AI for all attacks stages](https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/)
-- [Apple fixes zero-day flaw used in 'extremely sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/)
-- [Windows 11 Notepad flaw let files execute silently via Markdown links](https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/)
 
 ### Krebs on Security
 
-- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
-- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
+- [Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense](https://www.darkreading.com/endpoint-security/booz-allen-announces-general-availability-vellox-reverser)
+- [SpecterOps Launches BloodHound Scentry to Accelerate the Practice of Identity Attack Path Management](https://www.darkreading.com/identity-access-management-security/specterops-launches-bloodhound-scentry)
+- [Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents](https://www.darkreading.com/cyber-risk/one-in-two-americans-romance-scam-incidents)
+- [Those 'Summarize With AI' Buttons May Be Lying to You](https://www.darkreading.com/cyber-risk/summarize-ai-buttons-may-be-lying)
 - [Senegalese Data Breaches Expose Lack of 'Security Maturity'](https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database)
 - [North Korea's UNC1069 Hammers Crypto Firms With AI](https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms)
 - [How to Stay on Top of Future Threats With a Cutting-Edge SOC](https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc)
 - [Automaker Secures the Supply Chain With Developer-Friendly Platform](https://www.darkreading.com/application-security/automaker-secures-supply-chain-developer-friendly-platform)
-- [AI Rising: Do We Know Enough About the Data Populating It?](https://www.darkreading.com/data-privacy/do-we-know-enough-about-data-populating-ai)
-- [Top Cyber Industry Defenses Spike CO2 Emissions](https://www.darkreading.com/application-security/cyber-industry-defenses-co2-emissions)
-- [Asia Fumbles With Throttling Back Telnet Traffic in Region](https://www.darkreading.com/threat-intelligence/asia-fumbles-telnet-threat-traffic)
-- [SolarWinds WHD Attacks Highlight Risks of Exposed Apps](https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps)
 
 ### Security Week
 
@@ -83,13 +83,13 @@
 ### CISA Alerts
 
 - [Siemens SINEC NMS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-01)
+- [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/12/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 - [Siemens Siveillance Video Management Servers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-07)
 - [Siemens Solid Edge](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-05)
 - [Siemens Polarion](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-02)
 - [Airleader Master](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-10)
 - [Siemens NX](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-08)
 - [Siemens Desigo CC Product Family and SENTRON Powermanager](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-04)
-- [Siemens SINEC OS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-06)
 
 ---
 

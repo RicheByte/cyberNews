@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-12 18:56 UTC  
+> **Last Updated:** 2026-02-12 20:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**bulletproof hosting infrastructure** • **badbox 2 0** • **scattered lapsus shinyhunters** • **webinar today identity** • **curbing telnet traffic** • **arbitrary code execution** • **windows operating systems** • **accelerating various phases** • **twitter whistleblower complaint** • **sophisticated cyber attacks** • **private sector firms** • **dyld system component** • **50 security holes** • **today we'll dig** • **abandoned legitimate add** • **windows 11 notepad** • **targeting macos users** • **abusing gemini ai** • **achieve full access** • **windows security warnings**
+**bulletproof hosting infrastructure** • **badbox 2 0** • **scattered lapsus shinyhunters** • **webinar today identity** • **curbing telnet traffic** • **arbitrary code execution** • **windows operating systems** • **accelerating various phases** • **twitter whistleblower complaint** • **sophisticated cyber attacks** • **private sector firms** • **dyld system component** • **abandoned legitimate add** • **50 security holes** • **today we'll dig** • **windows 11 notepad** • **targeting macos users** • **abusing gemini ai** • **achieve full access** • **windows security warnings**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Romania's oil pipeline operator Conpet confirms data stolen in attack](https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/)
 - [Odido data breach exposes personal info of 6.2 million customers](https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/)
 - [WordPress plugin with 900k installs vulnerable to critical RCE flaw](https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/)
 - [AMOS infostealer targets macOS through a popular AI app](https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/)
@@ -34,7 +35,6 @@
 - [Google says hackers are abusing Gemini AI for all attacks stages](https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/)
 - [Apple fixes zero-day flaw used in 'extremely sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/)
 - [Windows 11 Notepad flaw let files execute silently via Markdown links](https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/)
-- [Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts](https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/)
 
 ### Krebs on Security
 

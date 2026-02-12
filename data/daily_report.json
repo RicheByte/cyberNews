@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12 18:56",
+  "last_updated": "2026-02-12 20:29",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -15,9 +15,9 @@
     "sophisticated cyber attacks",
     "private sector firms",
     "dyld system component",
+    "abandoned legitimate add",
     "50 security holes",
     "today we'll dig",
-    "abandoned legitimate add",
     "windows 11 notepad",
     "targeting macos users",
     "abusing gemini ai",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "bulletproof hosting infrastructure",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 98
+      "mentions": 99
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "webinar today identity",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "curbing telnet traffic",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 297
+      "mentions": 298
     },
     {
       "keyword": "accelerating various phases",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 668
+      "mentions": 669
     },
     {
       "keyword": "sophisticated cyber attacks",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -152,6 +152,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Romania's oil pipeline operator Conpet confirms data stolen in attack",
+      "link": "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/",
+      "summary": "Romania's national oil pipeline operator, Conpet S.A., confirmed that the Qilin ransomware gang stole company data in an attack last week. [...]",
+      "published": "Thu, 12 Feb 2026 14:16:38 -0500",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Odido data breach exposes personal info of 6.2 million customers",
       "link": "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/",
       "summary": "Dutch telecommunications provider Odido is warning that it suffered a cyberattack that reportedly exposed the personal data of 6.2 million customers. [...]",
@@ -224,17 +235,6 @@
       "value_signals": [
         "RCE",
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/",
-      "summary": "The AgreeTo add-in for Outlook has been hijacked and turned into a phishing kit that stole more than 4,000 Microsoft account credentials. [...]",
-      "published": "Wed, 11 Feb 2026 16:53:58 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

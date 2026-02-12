@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12 12:56",
+  "last_updated": "2026-02-12 14:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -14,56 +14,56 @@
     "ics security gaps",
     "twitter whistleblower complaint",
     "private sector firms",
-    "open source siem",
-    "increasingly sophisticated threats",
     "dyld system component",
     "100 million since",
     "vulnerabilities earned microsoft's",
     "various windows components",
-    "windows security warnings",
     "apple devices apple",
-    "today we'll dig"
+    "windows security warnings",
+    "today we'll dig",
+    "crazy ransomware gang",
+    "abandoned legitimate add"
   ],
   "trending": [
     {
       "keyword": "webinar today identity",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "bulletproof hosting infrastructure",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 95
+      "mentions": 96
     },
     {
       "keyword": "50 security holes",
-      "mentions": 14
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 80
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 294
-    },
-    {
-      "keyword": "curbing telnet traffic",
       "mentions": 15
     },
     {
+      "keyword": "arbitrary code execution",
+      "mentions": 81
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 295
+    },
+    {
+      "keyword": "curbing telnet traffic",
+      "mentions": 16
+    },
+    {
       "keyword": "ics security gaps",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 665
+      "mentions": 666
     }
   ],
   "articles": [
@@ -156,6 +156,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "AMOS infostealer targets macOS through a popular AI app",
+      "link": "https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/",
+      "summary": "AMOS infostealer is targeting macOS users by abusing popular AI apps and extension marketplaces to harvest credentials. Flare examines how AMOS operates, spreads through AI-driven lures, and feeds the broader stealer-log cybercrime economy. [...]",
+      "published": "Thu, 12 Feb 2026 09:25:38 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Fake AI Chrome extensions with 300K users steal credentials, emails",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/",
+      "summary": "A set of 30 malicious Chrome extensions that have been installed by more than 300,000 users are masquerading as AI assistants to steal credentials, email content, and browsing information. [...]",
+      "published": "Thu, 12 Feb 2026 08:41:55 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google says hackers are abusing Gemini AI for all attacks stages",
       "link": "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/",
       "summary": "Google Threat Intelligence Group (GTIG) has published a new report warning about AI model extraction/distillation attacks, in which private-sector firms and researchers use legitimate API access to systematically probe models and replicate their logic and reasoning. [...]",
@@ -220,24 +238,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Proactive strategies for cyber resilience with Wazuh",
-      "link": "https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/",
-      "summary": "Cyber resilience means anticipating threats, detecting them early, and recovering fast when incidents occur. Wazuh shows how its open source SIEM and XDR unify visibility, detection, and automated response to strengthen proactive defense. [...]",
-      "published": "Wed, 11 Feb 2026 12:40:28 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "LummaStealer infections surge after CastleLoader malware campaigns",
-      "link": "https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/",
-      "summary": "A surge in LummaStealer infections has been observed, driven by social engineering campaigns leveraging the ClickFix technique to deliver the CastleLoader malware. [...]",
-      "published": "Wed, 11 Feb 2026 12:02:29 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -351,6 +351,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "How to Stay on Top of Future Threats With a Cutting-Edge SOC",
+      "link": "https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc",
+      "summary": "CISOs should focus on harnessing and securing AI and building new skills among their people. Vision and change management can transform security.",
+      "published": "Wed, 11 Feb 2026 20:36:42 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Rising: Do We Know Enough About the Data Populating It?",
       "link": "https://www.darkreading.com/data-privacy/do-we-know-enough-about-data-populating-ai",
       "summary": "Organizations remain reluctant to address the fact that AI can dangerously expose business operations as well as personal data.",
@@ -393,18 +402,6 @@
       "published": "Tue, 10 Feb 2026 21:37:15 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Microsoft Patches 6 Actively Exploited Zero-Days",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days",
-      "summary": "Three of those zero-days are security feature bypass flaws, which give attackers a way to slip past built-in protections in multiple Microsoft products.",
-      "published": "Tue, 10 Feb 2026 21:00:36 GMT",
-      "value_score": 41,
-      "value_signals": [
-        "Active exploitation",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

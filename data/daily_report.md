@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-12 12:56 UTC  
+> **Last Updated:** 2026-02-12 14:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**webinar today identity** • **scattered lapsus shinyhunters** • **bulletproof hosting infrastructure** • **badbox 2 0** • **50 security holes** • **arbitrary code execution** • **windows operating systems** • **curbing telnet traffic** • **ics security gaps** • **twitter whistleblower complaint** • **private sector firms** • **open source siem** • **increasingly sophisticated threats** • **dyld system component** • **100 million since** • **vulnerabilities earned microsoft's** • **various windows components** • **windows security warnings** • **apple devices apple** • **today we'll dig**
+**webinar today identity** • **scattered lapsus shinyhunters** • **bulletproof hosting infrastructure** • **badbox 2 0** • **50 security holes** • **arbitrary code execution** • **windows operating systems** • **curbing telnet traffic** • **ics security gaps** • **twitter whistleblower complaint** • **private sector firms** • **dyld system component** • **100 million since** • **vulnerabilities earned microsoft's** • **various windows components** • **apple devices apple** • **windows security warnings** • **today we'll dig** • **crazy ransomware gang** • **abandoned legitimate add**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [AMOS infostealer targets macOS through a popular AI app](https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/)
+- [Fake AI Chrome extensions with 300K users steal credentials, emails](https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/)
 - [Google says hackers are abusing Gemini AI for all attacks stages](https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/)
 - [Apple fixes zero-day flaw used in 'extremely sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/)
 - [Windows 11 Notepad flaw let files execute silently via Markdown links](https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/)
 - [Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts](https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/)
 - [Crazy ransomware gang abuses employee monitoring tool in attacks](https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/)
 - [Police arrest seller of JokerOTP MFA passcode capturing tool](https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/)
-- [Proactive strategies for cyber resilience with Wazuh](https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/)
-- [LummaStealer infections surge after CastleLoader malware campaigns](https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/)
 
 ### Krebs on Security
 
@@ -51,12 +51,12 @@
 
 - [Senegalese Data Breaches Expose Lack of 'Security Maturity'](https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database)
 - [North Korea's UNC1069 Hammers Crypto Firms With AI](https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms)
+- [How to Stay on Top of Future Threats With a Cutting-Edge SOC](https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc)
 - [AI Rising: Do We Know Enough About the Data Populating It?](https://www.darkreading.com/data-privacy/do-we-know-enough-about-data-populating-ai)
 - [Top Cyber Industry Defenses Spike CO2 Emissions](https://www.darkreading.com/application-security/cyber-industry-defenses-co2-emissions)
 - [Asia Fumbles With Throttling Back Telnet Traffic in Region](https://www.darkreading.com/threat-intelligence/asia-fumbles-telnet-threat-traffic)
 - [SolarWinds WHD Attacks Highlight Risks of Exposed Apps](https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps)
 - [In Bypassing MFA, ZeroDayRAT Is 'Textbook Stalkerware'](https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market)
-- [Microsoft Patches 6 Actively Exploited Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days)
 
 ### Security Week
 

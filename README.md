@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-12 06:55 UTC |
+| 🕐 Last Updated | 2026-02-12 08:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`webinar today identity` • `released security updates` • `curbing telnet traffic` • `ics security gaps` • `internal network behind` • `twitter whistleblower complaint` • `open source siem` • `fake zoom meeting` • `control c2 purposes` • `59 flaws across`
+`webinar today identity` • `scattered lapsus shinyhunters` • `bulletproof hosting infrastructure` • `badbox 2 0` • `50 security holes` • `arbitrary code execution` • `curbing telnet traffic` • `windows operating systems` • `ics security gaps` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

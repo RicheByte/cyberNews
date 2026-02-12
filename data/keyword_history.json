@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 291,
+      "count": 292,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -200,7 +200,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 662,
+      "count": 663,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2475,7 +2475,7 @@
       ]
     },
     "internal network behind": {
-      "count": 227,
+      "count": 228,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2521,7 +2521,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2532,7 +2532,8 @@
         "2026-01-30",
         "2026-01-31",
         "2026-02-01",
-        "2026-02-02"
+        "2026-02-02",
+        "2026-02-12"
       ]
     },
     "authenticated remote attacker": {
@@ -3110,7 +3111,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3314,7 +3315,7 @@
       ]
     },
     "released security updates": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4467,7 +4468,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5232,7 +5233,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6078,7 +6079,7 @@
       ]
     },
     "ics security gaps": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6185,7 +6186,7 @@
       ]
     },
     "50 security holes": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6205,7 +6206,7 @@
       ]
     },
     "curbing telnet traffic": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6287,35 +6288,35 @@
       ]
     },
     "100 million since": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-11",
         "2026-02-12"
       ]
     },
     "10 million estimated": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-11",
         "2026-02-12"
       ]
     },
     "59 flaws across": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-11",
         "2026-02-12"
       ]
     },
     "webinar today identity": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-11",
         "2026-02-12"
       ]
     },
     "open source siem": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6344,20 +6345,33 @@
       "dates": [
         "2026-02-12"
       ]
+    },
+    "bulletproof hosting infrastructure": {
+      "count": 1,
+      "dates": [
+        "2026-02-12"
+      ]
+    },
+    "private sector firms": {
+      "count": 1,
+      "dates": [
+        "2026-02-12"
+      ]
+    },
+    "dyld system component": {
+      "count": 1,
+      "dates": [
+        "2026-02-12"
+      ]
+    },
+    "apple devices apple": {
+      "count": 1,
+      "dates": [
+        "2026-02-12"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-03 01:47",
-      "articles": 56,
-      "top_keywords": [
-        "multi stage malware",
-        "rockwell automation controllogix",
-        "mid market across",
-        "microsoft moves closer",
-        "2 857 skills"
-      ]
-    },
     {
       "timestamp": "2026-02-03 04:11",
       "articles": 56,
@@ -7445,6 +7459,17 @@
         "curbing telnet traffic",
         "ics security gaps",
         "internal network behind"
+      ]
+    },
+    {
+      "timestamp": "2026-02-12 08:40",
+      "articles": 56,
+      "top_keywords": [
+        "webinar today identity",
+        "scattered lapsus shinyhunters",
+        "bulletproof hosting infrastructure",
+        "badbox 2 0",
+        "50 security holes"
       ]
     }
   ]

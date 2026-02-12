@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-11 22:25 UTC  
+> **Last Updated:** 2026-02-12 01:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **50 security holes** • **webinar today identity** • **curbing telnet traffic** • **ics security gaps** • **twitter whistleblower complaint** • **open source siem** • **internal network behind** • **fake zoom meeting** • **100 million since** • **10 million estimated** • **windows operating systems** • **59 flaws across** • **targeted social engineering** • **national security risk** • **vulnerabilities earned microsoft's** • **today we'll dig** • **bugs fixed today** • **flawed driver software**
+**webinar today identity** • **released security updates** • **curbing telnet traffic** • **ics security gaps** • **internal network behind** • **twitter whistleblower complaint** • **open source siem** • **fake zoom meeting** • **control c2 purposes** • **59 flaws across** • **100 million since** • **10 million estimated** • **windows operating systems** • **windows 11 notepad** • **vulnerabilities earned microsoft's** • **targeted social engineering** • **abandoned legitimate add** • **national security risk** • **today we'll dig** • **16th anniversary today**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials](https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html)
 - [APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities](https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html)
 - [Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms](https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html)
 - [Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments](https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html)
@@ -23,29 +24,28 @@
 - [SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits](https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html)
 - [North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations](https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html)
 - [DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies](https://thehackernews.com/2026/02/dprk-operatives-impersonate.html)
-- [Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools](https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html)
 
 ### BleepingComputer
 
+- [Apple fixes zero-day flaw used in 'extremely sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/)
+- [Windows 11 Notepad flaw let files execute silently via Markdown links](https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/)
 - [Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts](https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/)
 - [Crazy ransomware gang abuses employee monitoring tool in attacks](https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/)
 - [Police arrest seller of JokerOTP MFA passcode capturing tool](https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/)
 - [Proactive strategies for cyber resilience with Wazuh](https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/)
 - [LummaStealer infections surge after CastleLoader malware campaigns](https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/)
 - [Microsoft releases Windows 11 26H1 for select and upcoming CPUs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/)
-- [New Linux botnet SSHStalker uses old-school IRC for C2 comms](https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/)
-- [North Korean hackers use new macOS malware in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/)
 
 ### Krebs on Security
 
-- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
-- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 

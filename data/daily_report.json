@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-02-11 22:25",
+  "last_updated": "2026-02-12 01:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "scattered lapsus shinyhunters",
-    "badbox 2 0",
-    "50 security holes",
     "webinar today identity",
+    "released security updates",
     "curbing telnet traffic",
     "ics security gaps",
+    "internal network behind",
     "twitter whistleblower complaint",
     "open source siem",
-    "internal network behind",
     "fake zoom meeting",
+    "control c2 purposes",
+    "59 flaws across",
     "100 million since",
     "10 million estimated",
     "windows operating systems",
-    "59 flaws across",
-    "targeted social engineering",
-    "national security risk",
+    "windows 11 notepad",
     "vulnerabilities earned microsoft's",
+    "targeted social engineering",
+    "abandoned legitimate add",
+    "national security risk",
     "today we'll dig",
-    "bugs fixed today",
-    "flawed driver software"
+    "16th anniversary today"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 60
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 91
-    },
-    {
-      "keyword": "50 security holes",
-      "mentions": 10
-    },
-    {
       "keyword": "webinar today identity",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "released security updates",
+      "mentions": 28
     },
     {
       "keyword": "curbing telnet traffic",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "ics security gaps",
-      "mentions": 16
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 659
-    },
-    {
-      "keyword": "open source siem",
-      "mentions": 3
+      "mentions": 17
     },
     {
       "keyword": "internal network behind",
-      "mentions": 224
+      "mentions": 225
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 660
+    },
+    {
+      "keyword": "open source siem",
+      "mentions": 4
     },
     {
       "keyword": "fake zoom meeting",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "control c2 purposes",
+      "mentions": 2
+    },
+    {
+      "keyword": "59 flaws across",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
+      "link": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
+      "summary": "Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild. In this unusual supply chain attack detailed by Koi Security, an unknown attacker claimed the domain associated with a now-abandoned legitimate add-in to serve a fake Microsoft login page, stealing over 4,000 credentials in the process. The activity has been",
+      "published": "Wed, 11 Feb 2026 23:15:00 +0530",
+      "value_score": 35,
+      "value_signals": [
+        "Active exploitation"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities",
@@ -143,14 +154,28 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
-      "link": "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html",
-      "summary": "Cybersecurity researchers have disclosed details of an emergent ransomware family dubbed Reynolds that comes embedded with a built-in bring your own vulnerable driver (BYOVD) component for defense evasion purposes within the ransomware payload itself. BYOVD refers to an adversarial technique that abuses legitimate but flawed driver software to escalate privileges and disable Endpoint Detection",
-      "published": "Tue, 10 Feb 2026 20:06:00 +0530",
-      "value_score": 46,
+      "source": "BleepingComputer",
+      "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/",
+      "summary": "Apple has released security updates to fix a zero-day vulnerability that was exploited in an \"extremely sophisticated attack\" targeting specific individuals. [...]",
+      "published": "Wed, 11 Feb 2026 20:06:05 -0500",
+      "value_score": 74,
       "value_signals": [
-        "Ransomware ×3"
+        "Zero-day ×2",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows 11 Notepad flaw let files execute silently via Markdown links",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/",
+      "summary": "Microsoft has fixed a \"remote code execution\" vulnerability in Windows 11 Notepad that allowed attackers to execute local or remote programs by tricking users into clicking specially crafted Markdown links, without displaying any Windows security warnings. [...]",
+      "published": "Wed, 11 Feb 2026 18:15:41 -0500",
+      "value_score": 38,
+      "value_signals": [
+        "RCE",
+        "Patch/update"
       ]
     },
     {
@@ -214,71 +239,6 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "New Linux botnet SSHStalker uses old-school IRC for C2 comms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/",
-      "summary": "A newly documented Linux botnet named SSHStalker is using the IRC (Internet Relay Chat) communication protocol for command-and-control (C2) operations. [...]",
-      "published": "Tue, 10 Feb 2026 18:09:48 -0500",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "North Korean hackers use new macOS malware in crypto-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/",
-      "summary": "North Korean hackers are running tailored campaigns using AI-generated video and the ClickFix technique to deliver malware for macOS and Windows to targets in the cryptocurrency sector. [...]",
-      "published": "Tue, 10 Feb 2026 17:17:35 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -322,6 +282,46 @@
       "value_score": 26,
       "value_signals": [
         "Botnet",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
         "Exploit wording"
       ]
     },

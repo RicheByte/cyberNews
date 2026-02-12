@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-12 10:39 UTC  
+> **Last Updated:** 2026-02-12 12:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**webinar today identity** • **scattered lapsus shinyhunters** • **bulletproof hosting infrastructure** • **badbox 2 0** • **50 security holes** • **arbitrary code execution** • **curbing telnet traffic** • **ics security gaps** • **windows operating systems** • **released security updates** • **twitter whistleblower complaint** • **private sector firms** • **open source siem** • **internal network behind** • **increasingly sophisticated threats** • **dyld system component** • **100 million since** • **10 million estimated** • **microsoft issued fixes** • **apple devices apple**
+**webinar today identity** • **scattered lapsus shinyhunters** • **bulletproof hosting infrastructure** • **badbox 2 0** • **50 security holes** • **arbitrary code execution** • **windows operating systems** • **curbing telnet traffic** • **ics security gaps** • **twitter whistleblower complaint** • **private sector firms** • **open source siem** • **increasingly sophisticated threats** • **dyld system component** • **100 million since** • **vulnerabilities earned microsoft's** • **various windows components** • **windows security warnings** • **apple devices apple** • **today we'll dig**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html)
+- [The CTEM Divide: Why 84% of Security Programs Are Falling Behind](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html)
 - [83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure](https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html)
 - [Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices](https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html)
 - [First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials](https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html)
 - [APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities](https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html)
 - [Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms](https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html)
 - [Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments](https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html)
-- [Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days](https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html)
-- [SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits](https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [ApolloMD Data Breach Impacts 626,000 Individuals](https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/)
+- [Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards](https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/)
+- [Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns](https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/)
 - [Nucleus Raises $20 Million for Exposure Management](https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/)
 - [Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’](https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/)
 - [Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack](https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/)
 - [Webinar Today: Identity Under Attack – Strengthen Your Identity Defenses](https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/)
 - [GitGuardian Raises $50 Million for Secrets and Non-Human Identity Security](https://www.securityweek.com/gitguardian-raises-50-million-for-secrets-and-non-human-identity-security/)
-- [Conduent Breach Hits Volvo Group: Nearly 17,000 Employees’ Data Exposed](https://www.securityweek.com/conduent-breach-hits-volvo-group-nearly-17000-employees-data-exposed/)
-- [Zast.AI Raises $6 Million for AI-Powered Code Security](https://www.securityweek.com/zast-ai-raises-6-million-for-ai-powered-code-security/)
-- [Security in the Dark: Recognizing the Signs of Hidden Information](https://www.securityweek.com/security-in-the-dark-recognizing-the-signs-of-hidden-information/)
 
 ### Threatpost
 

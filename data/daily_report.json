@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12 10:39",
+  "last_updated": "2026-02-12 12:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,64 +9,85 @@
     "badbox 2 0",
     "50 security holes",
     "arbitrary code execution",
+    "windows operating systems",
     "curbing telnet traffic",
     "ics security gaps",
-    "windows operating systems",
-    "released security updates",
     "twitter whistleblower complaint",
     "private sector firms",
     "open source siem",
-    "internal network behind",
     "increasingly sophisticated threats",
     "dyld system component",
     "100 million since",
-    "10 million estimated",
-    "microsoft issued fixes",
-    "apple devices apple"
+    "vulnerabilities earned microsoft's",
+    "various windows components",
+    "windows security warnings",
+    "apple devices apple",
+    "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "webinar today identity",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 63
+      "mentions": 64
     },
     {
       "keyword": "bulletproof hosting infrastructure",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 94
+      "mentions": 95
     },
     {
       "keyword": "50 security holes",
-      "mentions": 13
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 79
-    },
-    {
-      "keyword": "curbing telnet traffic",
       "mentions": 14
     },
     {
-      "keyword": "ics security gaps",
-      "mentions": 21
+      "keyword": "arbitrary code execution",
+      "mentions": 80
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 293
+      "mentions": 294
     },
     {
-      "keyword": "released security updates",
-      "mentions": 32
+      "keyword": "curbing telnet traffic",
+      "mentions": 15
+    },
+    {
+      "keyword": "ics security gaps",
+      "mentions": 22
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 665
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
+      "link": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
+      "summary": "Threat activity this week shows one consistent signal — attackers are leaning harder on what already works. Instead of flashy new exploits, many operations are built around quiet misuse of trusted tools, familiar workflows, and overlooked exposures that sit in plain sight. Another shift is how access is gained versus how it’s used. Initial entry points are getting simpler, while post-compromise",
+      "published": "Thu, 12 Feb 2026 17:21:00 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
+      "link": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
+      "summary": "A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations – one that has nothing to do with budget size or industry and everything to do with a single framework decision. Organizations implementing Continuous Threat Exposure Management (CTEM) demonstrate 50% better attack surface visibility, 23-point",
+      "published": "Thu, 12 Feb 2026 16:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
@@ -132,32 +153,6 @@
       "published": "Wed, 11 Feb 2026 17:00:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
-      "link": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html",
-      "summary": "Microsoft on Tuesday released security updates to address a set of 59 flaws across its software, including six vulnerabilities that it said have been exploited in the wild. Of the 59 flaws, five are rated Critical, 52 are rated Important, and two are rated Moderate in severity. Twenty-five of the patched vulnerabilities have been classified as privilege escalation, followed by remote code",
-      "published": "Wed, 11 Feb 2026 15:52:00 +0530",
-      "value_score": 86,
-      "value_signals": [
-        "Active exploitation ×2",
-        "Privilege escalation",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits",
-      "link": "https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new botnet operation called SSHStalker that relies on the Internet Relay Chat (IRC) communication protocol for command-and-control (C2) purposes. \"The toolset blends stealth helpers with legacy-era Linux exploitation: Alongside log cleaners (utmp/wtmp/lastlog tampering) and rootkit-class artifacts, the actor keeps a large back-catalog of",
-      "published": "Wed, 11 Feb 2026 15:26:00 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "Botnet ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -413,6 +408,35 @@
     },
     {
       "source": "Security Week",
+      "title": "ApolloMD Data Breach Impacts 626,000 Individuals",
+      "link": "https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/",
+      "summary": "The company says hackers stole the personal information of patients of affiliated physicians and practices. The post ApolloMD Data Breach Impacts 626,000 Individuals appeared first on SecurityWeek .",
+      "published": "Thu, 12 Feb 2026 12:23:33 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards",
+      "link": "https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/",
+      "summary": "Windows will have runtime safeguards enabled by default, ensuring that only properly signed software runs. The post Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards appeared first on SecurityWeek .",
+      "published": "Thu, 12 Feb 2026 11:27:30 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns",
+      "link": "https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/",
+      "summary": "Threat actors from Russia, China, North Korea and Iran have been observed launching attacks. The post Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns appeared first on SecurityWeek .",
+      "published": "Thu, 12 Feb 2026 11:12:46 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Nucleus Raises $20 Million for Exposure Management",
       "link": "https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/",
       "summary": "The company will use the investment to scale operations and deepen intelligence and automation. The post Nucleus Raises $20 Million for Exposure Management appeared first on SecurityWeek .",
@@ -456,35 +480,6 @@
       "link": "https://www.securityweek.com/gitguardian-raises-50-million-for-secrets-and-non-human-identity-security/",
       "summary": "The secrets security company has raised more than $100 million since its creation in 2017. The post GitGuardian Raises $50 Million for Secrets and Non-Human Identity Security appeared first on SecurityWeek .",
       "published": "Wed, 11 Feb 2026 14:11:38 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Conduent Breach Hits Volvo Group: Nearly 17,000 Employees’ Data Exposed",
-      "link": "https://www.securityweek.com/conduent-breach-hits-volvo-group-nearly-17000-employees-data-exposed/",
-      "summary": "The Conduent data breach affects at least 25 million individuals, up from 10 million estimated a few months ago. The post Conduent Breach Hits Volvo Group: Nearly 17,000 Employees’ Data Exposed appeared first on SecurityWeek .",
-      "published": "Wed, 11 Feb 2026 13:41:10 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Zast.AI Raises $6 Million for AI-Powered Code Security",
-      "link": "https://www.securityweek.com/zast-ai-raises-6-million-for-ai-powered-code-security/",
-      "summary": "The startup relies on AI agents to identify software vulnerabilities and validate them before reporting. The post Zast.AI Raises $6 Million for AI-Powered Code Security appeared first on SecurityWeek .",
-      "published": "Wed, 11 Feb 2026 13:29:21 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Security in the Dark: Recognizing the Signs of Hidden Information",
-      "link": "https://www.securityweek.com/security-in-the-dark-recognizing-the-signs-of-hidden-information/",
-      "summary": "Security failures don’t always start with attackers, sometimes they start with missing truth. The post Security in the Dark: Recognizing the Signs of Hidden Information appeared first on SecurityWeek .",
-      "published": "Wed, 11 Feb 2026 13:15:55 +0000",
       "value_score": 10,
       "value_signals": []
     },

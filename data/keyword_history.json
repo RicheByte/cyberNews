@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 293,
+      "count": 294,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -200,7 +200,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 664,
+      "count": 665,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2444,7 +2444,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 177,
+      "count": 178,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2521,7 +2521,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3111,7 +3111,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4468,7 +4468,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5233,7 +5233,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6079,7 +6079,7 @@
       ]
     },
     "ics security gaps": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6186,7 +6186,7 @@
       ]
     },
     "50 security holes": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6206,7 +6206,7 @@
       ]
     },
     "curbing telnet traffic": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6282,13 +6282,14 @@
       ]
     },
     "various windows components": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-02-11"
+        "2026-02-11",
+        "2026-02-12"
       ]
     },
     "100 million since": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6309,14 +6310,14 @@
       ]
     },
     "webinar today identity": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-11",
         "2026-02-12"
       ]
     },
     "open source siem": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-11",
         "2026-02-12"
@@ -6347,31 +6348,31 @@
       ]
     },
     "bulletproof hosting infrastructure": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-12"
       ]
     },
     "private sector firms": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-12"
       ]
     },
     "dyld system component": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-12"
       ]
     },
     "apple devices apple": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-12"
       ]
     },
     "increasingly sophisticated threats": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-12"
       ]
@@ -6381,20 +6382,15 @@
       "dates": [
         "2026-02-12"
       ]
+    },
+    "windows security warnings": {
+      "count": 1,
+      "dates": [
+        "2026-02-12"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-03 06:43",
-      "articles": 56,
-      "top_keywords": [
-        "multi stage malware",
-        "rockwell automation controllogix",
-        "mid market across",
-        "microsoft moves closer",
-        "2 857 skills"
-      ]
-    },
     {
       "timestamp": "2026-02-03 08:31",
       "articles": 56,
@@ -7475,6 +7471,17 @@
     },
     {
       "timestamp": "2026-02-12 10:39",
+      "articles": 56,
+      "top_keywords": [
+        "webinar today identity",
+        "scattered lapsus shinyhunters",
+        "bulletproof hosting infrastructure",
+        "badbox 2 0",
+        "50 security holes"
+      ]
+    },
+    {
+      "timestamp": "2026-02-12 12:56",
       "articles": 56,
       "top_keywords": [
         "webinar today identity",

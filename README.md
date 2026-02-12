@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-12 10:39 UTC |
+| 🕐 Last Updated | 2026-02-12 12:56 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`webinar today identity` • `scattered lapsus shinyhunters` • `bulletproof hosting infrastructure` • `badbox 2 0` • `50 security holes` • `arbitrary code execution` • `curbing telnet traffic` • `ics security gaps` • `windows operating systems` • `released security updates`
+`webinar today identity` • `scattered lapsus shinyhunters` • `bulletproof hosting infrastructure` • `badbox 2 0` • `50 security holes` • `arbitrary code execution` • `windows operating systems` • `curbing telnet traffic` • `ics security gaps` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-02-13 08:37",
+  "last_updated": "2026-02-13 10:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "badbox 2 0",
     "scattered lapsus shinyhunters",
     "bulletproof hosting infrastructure",
-    "beyondtrust remote support",
+    "windows operating systems",
     "increased secrecy rewards",
     "critical rce flaw",
-    "windows operating systems",
     "accelerating various phases",
+    "beyondtrust remote support",
     "twitter whistleblower complaint",
     "turnkey tools make",
     "trusted email addresses",
-    "often russia tries",
     "dyld system component",
     "arbitrary code execution",
     "abandoned legitimate add",
-    "achieve full access",
     "50 security holes",
     "authenticated remote attacker",
     "vulnerabilities earned microsoft's",
-    "today we'll dig"
+    "today we'll dig",
+    "take extra care",
+    "secure online communications"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 103
+      "mentions": 104
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "bulletproof hosting infrastructure",
-      "mentions": 12
-    },
-    {
-      "keyword": "beyondtrust remote support",
-      "mentions": 5
-    },
-    {
-      "keyword": "increased secrecy rewards",
-      "mentions": 2
-    },
-    {
-      "keyword": "critical rce flaw",
-      "mentions": 5
+      "mentions": 13
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 303
+      "mentions": 304
+    },
+    {
+      "keyword": "increased secrecy rewards",
+      "mentions": 3
+    },
+    {
+      "keyword": "critical rce flaw",
+      "mentions": 6
     },
     {
       "keyword": "accelerating various phases",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "beyondtrust remote support",
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 674
+      "mentions": 675
     },
     {
       "keyword": "turnkey tools make",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
+      "link": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
+      "summary": "Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr. \"Overnight we observed first in-the-wild exploitation of BeyondTrust across our global sensors,\" Ryan Dewhurst, head of threat intelligence at watchTowr, said in a post on X. \"Attackers are abusing",
+      "published": "Fri, 13 Feb 2026 14:04:00 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
@@ -142,13 +154,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities",
-      "link": "https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html",
-      "summary": "Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux environments with remote access trojans capable of stealing sensitive data and ensuring continued access to infected machines. The campaigns are characterized by the use of malware families like Geta RAT, Ares RAT, and DeskRAT, which are often",
-      "published": "Wed, 11 Feb 2026 20:22:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes bug that blocked Google Chrome from launching",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/",
+      "summary": "Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers. [...]",
+      "published": "Fri, 13 Feb 2026 04:31:01 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -226,15 +240,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AMOS infostealer targets macOS through a popular AI app",
-      "link": "https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/",
-      "summary": "AMOS infostealer is targeting macOS users by abusing popular AI apps and extension marketplaces to harvest credentials. Flare examines how AMOS operates, spreads through AI-driven lures, and feeds the broader stealer-log cybercrime economy. [...]",
-      "published": "Thu, 12 Feb 2026 09:25:38 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-13 16:39 UTC |
+| 🕐 Last Updated | 2026-02-13 18:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `increased secrecy rewards` • `beyondtrust remote support` • `original researchers observe` • `accelerating various phases` • `windows operating systems` • `twitter whistleblower complaint` • `turnkey tools make` • `meta business suite`
+`tiffany 25 million` • `scattered lapsus shinyhunters` • `badbox 2 0` • `increased secrecy rewards` • `ibm qradar siem` • `beyondtrust remote support` • `original researchers observe` • `accelerating various phases` • `twitter whistleblower complaint` • `meta business suite`
 
 ## 📄 Reports
 

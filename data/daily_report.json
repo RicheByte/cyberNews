@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-02-13 16:39",
+  "last_updated": "2026-02-13 18:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "tiffany 25 million",
     "scattered lapsus shinyhunters",
     "badbox 2 0",
     "increased secrecy rewards",
+    "ibm qradar siem",
     "beyondtrust remote support",
     "original researchers observe",
     "accelerating various phases",
-    "windows operating systems",
     "twitter whistleblower complaint",
-    "turnkey tools make",
     "meta business suite",
     "dire critical rating",
     "customer contact system",
-    "beyondtrust vulnerability targeted",
-    "trusted email addresses",
-    "today we'll dig",
-    "take extra care",
+    "windows operating systems",
+    "50 security holes",
     "steal data associated",
-    "single framework decision",
-    "scoops nestled inside",
-    "safer node community"
+    "automate malware defense",
+    "beyondtrust vulnerability targeted",
+    "energy organizations within",
+    "turnkey tools make",
+    "today we'll dig"
   ],
   "trending": [
     {
+      "keyword": "tiffany 25 million",
+      "mentions": 1
+    },
+    {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 75
+      "mentions": 76
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 106
+      "mentions": 107
     },
     {
       "keyword": "increased secrecy rewards",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "ibm qradar siem",
+      "mentions": 1
     },
     {
       "keyword": "beyondtrust remote support",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "original researchers observe",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "accelerating various phases",
-      "mentions": 11
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 307
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 678
-    },
-    {
-      "keyword": "turnkey tools make",
-      "mentions": 9
+      "mentions": 679
     },
     {
       "keyword": "meta business suite",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
+      "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
+      "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL. Google Threat Intelligence Group (GTIG) described the hack group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and",
+      "published": "Fri, 13 Feb 2026 22:57:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations",
+      "link": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
+      "summary": "Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence Group (GTIG). The tech giant's threat intelligence division said the adversarial targeting of the sector is centered around four key themes: striking defense",
+      "published": "Fri, 13 Feb 2026 21:53:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors",
@@ -127,23 +145,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
-      "link": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
-      "summary": "Threat activity this week shows one consistent signal — attackers are leaning harder on what already works. Instead of flashy new exploits, many operations are built around quiet misuse of trusted tools, familiar workflows, and overlooked exposures that sit in plain sight. Another shift is how access is gained versus how it’s used. Initial entry points are getting simpler, while post-compromise",
-      "published": "Thu, 12 Feb 2026 17:21:00 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
-      "link": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
-      "summary": "A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations – one that has nothing to do with budget size or industry and everything to do with a single framework decision. Organizations implementing Continuous Threat Exposure Management (CTEM) demonstrate 50% better attack surface visibility, 23-point",
-      "published": "Thu, 12 Feb 2026 16:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
+      "summary": "South Korea has fined luxury fashion brands Louis Vuitton, Christian Dior Couture, and Tiffany $25 million for failing to implement adequate security measures, which facilitated unauthorized access and the exposure of data belonging to more than 5.5 million customers. [...]",
+      "published": "Fri, 13 Feb 2026 13:35:15 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -221,17 +227,6 @@
       "published": "Thu, 12 Feb 2026 16:01:00 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Romania's oil pipeline operator Conpet confirms data stolen in attack",
-      "link": "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/",
-      "summary": "Romania's national oil pipeline operator, Conpet S.A., confirmed that the Qilin ransomware gang stole company data in an attack last week. [...]",
-      "published": "Thu, 12 Feb 2026 14:16:38 -0500",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -327,6 +322,35 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Microsoft Under Pressure to Bolster Defenses for BYOVD Attacks",
+      "link": "https://www.darkreading.com/application-security/microsoft-under-pressure-defenses-byovd-attacks",
+      "summary": "Threat actors are exploiting security gaps to weaponize Windows drivers and terminate security processes in targeted networks, and there may be no easy fixes in sight.",
+      "published": "Fri, 13 Feb 2026 17:08:59 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Nation-State Hackers Put Defense Industrial Base Under Siege",
+      "link": "https://www.darkreading.com/cyber-risk/nation-state-hackers-defense-industrial-base-under-siege",
+      "summary": "Espionage groups from China, Russia and other nations burned at least two dozen zero-days in edge devices in attempts to infiltrate defense contractors’ networks.",
+      "published": "Fri, 13 Feb 2026 17:07:24 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI Agents 'Swarm,' Security Complexity Follows Suit",
+      "link": "https://www.darkreading.com/cloud-security/ai-agents-swarm-security-complexity",
+      "summary": "As AI deployments scale and start to include packs of agents autonomously working in concert, organizations face a naturally amplified attack surface.",
+      "published": "Fri, 13 Feb 2026 16:49:39 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again",
       "link": "https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-bugs-exploit",
       "summary": "It's time to phase out the \"patch and pray\" approach, eliminate needless public interfaces, and enforce authentication controls, one expert says.",
@@ -373,33 +397,6 @@
       "link": "https://www.darkreading.com/cyber-risk/summarize-ai-buttons-may-be-lying",
       "summary": "Microsoft uncovered AI recommendation poisoning in 31 companies across 14 industries, and turnkey tools make it trivially easy to pull off.",
       "published": "Thu, 12 Feb 2026 20:47:39 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Senegalese Data Breaches Expose Lack of Security Maturity",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database",
-      "summary": "Green Blood Group steals personal records and biometric data of the West African nation's nearly 20 million residents.",
-      "published": "Thu, 12 Feb 2026 09:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "North Korea's UNC1069 Hammers Crypto Firms With AI",
-      "link": "https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms",
-      "summary": "In moving away from traditional banks to focus on Web3 companies, the threat actor is leveraging LLMs, deepfakes, legitimate platforms, and ClickFix.",
-      "published": "Wed, 11 Feb 2026 21:56:11 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "How to Stay on Top of Future Threats With a Cutting-Edge SOC",
-      "link": "https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc",
-      "summary": "CISOs should focus on harnessing and securing AI and building new skills among their people. Vision and change management can transform security.",
-      "published": "Wed, 11 Feb 2026 20:36:42 GMT",
       "value_score": 10,
       "value_signals": []
     },

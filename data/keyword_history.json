@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 300,
+      "count": 301,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -201,7 +201,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 671,
+      "count": 672,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2446,7 +2446,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 184,
+      "count": 185,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2524,7 +2524,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2541,7 +2541,7 @@
       ]
     },
     "authenticated remote attacker": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-09",
         "2026-02-13"
@@ -3104,7 +3104,7 @@
       ]
     },
     "bugs fixed today": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-01-14",
         "2026-01-21",
@@ -4476,7 +4476,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5242,7 +5242,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6196,7 +6196,7 @@
       ]
     },
     "50 security holes": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6321,7 +6321,7 @@
       ]
     },
     "webinar today identity": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-11",
         "2026-02-12",
@@ -6348,7 +6348,7 @@
       ]
     },
     "abandoned legitimate add": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-12",
         "2026-02-13"
@@ -6361,7 +6361,7 @@
       ]
     },
     "bulletproof hosting infrastructure": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-12",
         "2026-02-13"
@@ -6374,7 +6374,7 @@
       ]
     },
     "dyld system component": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-12",
         "2026-02-13"
@@ -6411,7 +6411,7 @@
       ]
     },
     "accelerating various phases": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-12",
         "2026-02-13"
@@ -6436,35 +6436,35 @@
       ]
     },
     "achieve full access": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-12",
         "2026-02-13"
       ]
     },
     "beyondtrust remote support": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-12",
         "2026-02-13"
       ]
     },
     "trusted email addresses": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-12",
         "2026-02-13"
       ]
     },
     "critical rce flaw": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-12",
         "2026-02-13"
       ]
     },
     "turnkey tools make": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-12",
         "2026-02-13"
@@ -6477,24 +6477,13 @@
       ]
     },
     "often russia tries": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-13"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-03 20:30",
-      "articles": 48,
-      "top_keywords": [
-        "rapidfort raises 42m",
-        "cybersecurity company zscaler",
-        "grok ai assistant",
-        "ai agent identities",
-        "mostly marketing materials"
-      ]
-    },
     {
       "timestamp": "2026-02-03 22:24",
       "articles": 48,
@@ -7575,6 +7564,17 @@
     },
     {
       "timestamp": "2026-02-13 01:51",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "scattered lapsus shinyhunters",
+        "bulletproof hosting infrastructure",
+        "webinar today identity",
+        "beyondtrust remote support"
+      ]
+    },
+    {
+      "timestamp": "2026-02-13 04:17",
       "articles": 56,
       "top_keywords": [
         "badbox 2 0",

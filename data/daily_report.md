@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-13 12:47 UTC  
+> **Last Updated:** 2026-02-13 14:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **bulletproof hosting infrastructure** • **increased secrecy rewards** • **beyondtrust remote support** • **original researchers observe** • **accelerating various phases** • **windows operating systems** • **twitter whistleblower complaint** • **turnkey tools make** • **meta business suite** • **dire critical rating** • **customer contact system** • **beyondtrust vulnerability targeted** • **hackers network operators** • **50 security holes** • **vulnerabilities earned microsoft's** • **trusted email addresses** • **today we'll dig** • **take extra care**
+**bulletproof hosting infrastructure** • **increased secrecy rewards** • **beyondtrust remote support** • **original researchers observe** • **accelerating various phases** • **windows operating systems** • **twitter whistleblower complaint** • **turnkey tools make** • **meta business suite** • **dire critical rating** • **customer contact system** • **beyondtrust vulnerability targeted** • **hackers network operators** • **vulnerabilities earned microsoft's** • **trusted email addresses** • **today we'll dig** • **take extra care** • **strong theme running** • **scoops nestled inside** • **safer node community**
 
 ---
 
@@ -38,14 +38,14 @@
 
 ### Krebs on Security
 
-- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
-- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
@@ -54,7 +54,7 @@
 - [SpecterOps Launches BloodHound Scentry to Accelerate the Practice of Identity Attack Path Management](https://www.darkreading.com/identity-access-management-security/specterops-launches-bloodhound-scentry)
 - [Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents](https://www.darkreading.com/cyber-risk/one-in-two-americans-romance-scam-incidents)
 - [Those 'Summarize With AI' Buttons May Be Lying to You](https://www.darkreading.com/cyber-risk/summarize-ai-buttons-may-be-lying)
-- [Senegalese Data Breaches Expose Lack of 'Security Maturity'](https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database)
+- [Senegalese Data Breaches Expose Lack of Security Maturity](https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database)
 - [North Korea's UNC1069 Hammers Crypto Firms With AI](https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms)
 - [How to Stay on Top of Future Threats With a Cutting-Edge SOC](https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc)
 

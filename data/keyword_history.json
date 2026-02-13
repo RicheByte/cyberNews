@@ -154,7 +154,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 304,
+      "count": 305,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -201,7 +201,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 675,
+      "count": 676,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2446,7 +2446,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2650,7 +2650,7 @@
       ]
     },
     "hackers network operators": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2661,7 +2661,8 @@
         "2026-02-07",
         "2026-02-08",
         "2026-02-09",
-        "2026-02-12"
+        "2026-02-12",
+        "2026-02-13"
       ]
     },
     "deepfake fraud tools": {
@@ -3084,7 +3085,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3100,7 +3101,8 @@
         "2026-02-08",
         "2026-02-09",
         "2026-02-10",
-        "2026-02-11"
+        "2026-02-11",
+        "2026-02-13"
       ]
     },
     "bugs fixed today": {
@@ -3119,7 +3121,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4477,7 +4479,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5243,7 +5245,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6197,7 +6199,7 @@
       ]
     },
     "50 security holes": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6362,7 +6364,7 @@
       ]
     },
     "bulletproof hosting infrastructure": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-12",
         "2026-02-13"
@@ -6412,7 +6414,7 @@
       ]
     },
     "accelerating various phases": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-12",
         "2026-02-13"
@@ -6444,14 +6446,14 @@
       ]
     },
     "beyondtrust remote support": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-12",
         "2026-02-13"
       ]
     },
     "trusted email addresses": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-12",
         "2026-02-13"
@@ -6465,7 +6467,7 @@
       ]
     },
     "turnkey tools make": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-12",
         "2026-02-13"
@@ -6484,13 +6486,13 @@
       ]
     },
     "increased secrecy rewards": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-13"
       ]
     },
     "take extra care": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-13"
       ]
@@ -6500,20 +6502,33 @@
       "dates": [
         "2026-02-13"
       ]
+    },
+    "original researchers observe": {
+      "count": 1,
+      "dates": [
+        "2026-02-13"
+      ]
+    },
+    "meta business suite": {
+      "count": 1,
+      "dates": [
+        "2026-02-13"
+      ]
+    },
+    "customer contact system": {
+      "count": 1,
+      "dates": [
+        "2026-02-13"
+      ]
+    },
+    "beyondtrust vulnerability targeted": {
+      "count": 1,
+      "dates": [
+        "2026-02-13"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-04 06:43",
-      "articles": 48,
-      "top_keywords": [
-        "rapidfort raises 42m",
-        "infrastructure hosting notepad",
-        "ai powered automation",
-        "rockwell automation controllogix",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-02-04 08:34",
       "articles": 40,
@@ -7601,6 +7616,17 @@
         "bulletproof hosting infrastructure",
         "windows operating systems",
         "increased secrecy rewards"
+      ]
+    },
+    {
+      "timestamp": "2026-02-13 12:47",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "scattered lapsus shinyhunters",
+        "bulletproof hosting infrastructure",
+        "increased secrecy rewards",
+        "beyondtrust remote support"
       ]
     }
   ]

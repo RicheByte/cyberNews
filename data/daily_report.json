@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13 06:54",
+  "last_updated": "2026-02-13 08:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 102
+      "mentions": 103
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "bulletproof hosting infrastructure",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "beyondtrust remote support",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "increased secrecy rewards",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "critical rce flaw",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 302
+      "mentions": 303
     },
     {
       "keyword": "accelerating various phases",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 673
+      "mentions": 674
     },
     {
       "keyword": "turnkey tools make",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -121,7 +121,7 @@
       "source": "The Hacker News",
       "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
       "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
-      "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks. The vulnerability, tracked as CVE-2026-20700 (CVSS score: N/A), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an",
+      "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks. The vulnerability, tracked as CVE-2026-20700 (CVSS score: 7.8), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an",
       "published": "Thu, 12 Feb 2026 11:09:00 +0530",
       "value_score": 84,
       "value_signals": [
@@ -408,6 +408,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Chrome 145 Patches 11 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/",
+      "summary": "Three of the security defects are high-severity flaws, two of which were found and reported by Google. The post Chrome 145 Patches 11 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Fri, 13 Feb 2026 08:18:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "China Revives Tianfu Cup Hacking Contest Under Increased Secrecy",
       "link": "https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/",
       "summary": "Rewards for exploits are reportedly much smaller than in the contest’s glory days. The post China Revives Tianfu Cup Hacking Contest Under Increased Secrecy appeared first on SecurityWeek .",
@@ -475,15 +484,6 @@
         "Zero-day ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack",
-      "link": "https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/",
-      "summary": "Officials said data will now be classified as one of four categories: “public,” “sensitive,” “confidential” or “restricted.” The post Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack appeared first on SecurityWeek .",
-      "published": "Wed, 11 Feb 2026 19:50:13 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

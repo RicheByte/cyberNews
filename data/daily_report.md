@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-13 04:17 UTC  
+> **Last Updated:** 2026-02-13 06:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **bulletproof hosting infrastructure** • **webinar today identity** • **beyondtrust remote support** • **critical rce flaw** • **windows operating systems** • **accelerating various phases** • **twitter whistleblower complaint** • **turnkey tools make** • **trusted email addresses** • **often russia tries** • **dyld system component** • **arbitrary code execution** • **abandoned legitimate add** • **50 security holes** • **achieve full access** • **today we'll dig** • **bugs fixed today** • **authenticated remote attacker**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **bulletproof hosting infrastructure** • **beyondtrust remote support** • **increased secrecy rewards** • **critical rce flaw** • **windows operating systems** • **accelerating various phases** • **twitter whistleblower complaint** • **turnkey tools make** • **trusted email addresses** • **often russia tries** • **dyld system component** • **arbitrary code execution** • **abandoned legitimate add** • **achieve full access** • **50 security holes** • **authenticated remote attacker** • **vulnerabilities earned microsoft's** • **today we'll dig**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [China Revives Tianfu Cup Hacking Contest Under Increased Secrecy](https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/)
 - [How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development](https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/)
 - [ApolloMD Data Breach Impacts 626,000 Individuals](https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/)
 - [Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards](https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/)
@@ -67,7 +68,6 @@
 - [Nucleus Raises $20 Million for Exposure Management](https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/)
 - [Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’](https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/)
 - [Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack](https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/)
-- [Webinar Today: Identity Under Attack – Strengthen Your Identity Defenses](https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/)
 
 ### Threatpost
 

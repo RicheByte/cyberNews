@@ -1,13 +1,12 @@
 {
-  "last_updated": "2026-02-13 18:40",
+  "last_updated": "2026-02-13 20:32",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "tiffany 25 million",
-    "scattered lapsus shinyhunters",
-    "badbox 2 0",
     "increased secrecy rewards",
     "ibm qradar siem",
+    "abusing claude artifacts",
     "beyondtrust remote support",
     "original researchers observe",
     "accelerating various phases",
@@ -16,54 +15,55 @@
     "dire critical rating",
     "customer contact system",
     "windows operating systems",
-    "50 security holes",
-    "steal data associated",
-    "automate malware defense",
+    "frequent attack vectors",
+    "internal network behind",
+    "hackers network operators",
     "beyondtrust vulnerability targeted",
     "energy organizations within",
+    "vulnerabilities earned microsoft's",
     "turnkey tools make",
     "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "tiffany 25 million",
-      "mentions": 1
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 76
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 107
+      "mentions": 2
     },
     {
       "keyword": "increased secrecy rewards",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "ibm qradar siem",
+      "mentions": 2
+    },
+    {
+      "keyword": "abusing claude artifacts",
       "mentions": 1
     },
     {
       "keyword": "beyondtrust remote support",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "original researchers observe",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "accelerating various phases",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 679
+      "mentions": 680
     },
     {
       "keyword": "meta business suite",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 92
     }
   ],
   "articles": [
@@ -146,6 +146,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/",
+      "summary": "Threat actors are abusing Claude artifacts and Google Ads in ClickFix campaigns that deliver infostealer malware to macOS users searching for specific queries. [...]",
+      "published": "Fri, 13 Feb 2026 15:21:43 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches",
       "link": "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
       "summary": "South Korea has fined luxury fashion brands Louis Vuitton, Christian Dior Couture, and Tiffany $25 million for failing to implement adequate security measures, which facilitated unauthorized access and the exposure of data belonging to more than 5.5 million customers. [...]",
@@ -220,60 +229,6 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Microsoft: New Windows LNK spoofing issues aren't vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/",
-      "summary": "Today, at Wild West Hackin' Fest, security researcher Wietze Beukema disclosed multiple vulnerabilities in Windows LK shortcut files that allow attackers to deploy malicious payloads. [...]",
-      "published": "Thu, 12 Feb 2026 16:01:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -321,6 +276,46 @@
       ]
     },
     {
+      "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
       "source": "Dark Reading",
       "title": "Microsoft Under Pressure to Bolster Defenses for BYOVD Attacks",
       "link": "https://www.darkreading.com/application-security/microsoft-under-pressure-defenses-byovd-attacks",
@@ -335,7 +330,7 @@
       "source": "Dark Reading",
       "title": "Nation-State Hackers Put Defense Industrial Base Under Siege",
       "link": "https://www.darkreading.com/cyber-risk/nation-state-hackers-defense-industrial-base-under-siege",
-      "summary": "Espionage groups from China, Russia and other nations burned at least two dozen zero-days in edge devices in attempts to infiltrate defense contractors’ networks.",
+      "summary": "Espionage groups from China, Russia and other nations burned at least two dozen zero-days in edge devices in attempts to infiltrate defense contractors' networks.",
       "published": "Fri, 13 Feb 2026 17:07:24 GMT",
       "value_score": 10,
       "value_signals": []

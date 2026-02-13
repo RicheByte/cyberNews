@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-12 22:27",
+  "last_updated": "2026-02-13 01:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "badbox 2 0",
+    "scattered lapsus shinyhunters",
     "bulletproof hosting infrastructure",
     "webinar today identity",
     "beyondtrust remote support",
-    "trusted email addresses",
     "critical rce flaw",
     "windows operating systems",
     "accelerating various phases",
     "twitter whistleblower complaint",
     "turnkey tools make",
+    "trusted email addresses",
+    "often russia tries",
     "dyld system component",
     "arbitrary code execution",
-    "amos operates spreads",
     "abandoned legitimate add",
+    "50 security holes",
     "achieve full access",
-    "vulnerabilities earned microsoft's",
     "today we'll dig",
     "bugs fixed today",
-    "16th anniversary today",
-    "targeting macos users",
-    "hackers network operators"
+    "authenticated remote attacker"
   ],
   "trending": [
     {
+      "keyword": "badbox 2 0",
+      "mentions": 100
+    },
+    {
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 69
+    },
+    {
       "keyword": "bulletproof hosting infrastructure",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "webinar today identity",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "beyondtrust remote support",
-      "mentions": 1
-    },
-    {
-      "keyword": "trusted email addresses",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "critical rce flaw",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 299
+      "mentions": 300
     },
     {
       "keyword": "accelerating various phases",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 670
+      "mentions": 671
     },
     {
       "keyword": "turnkey tools make",
-      "mentions": 1
-    },
-    {
-      "keyword": "dyld system component",
-      "mentions": 8
+      "mentions": 2
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Russia tries to block WhatsApp, Telegram in communication blockade",
+      "link": "https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/",
+      "summary": "The Russian government is attempting to block WhatsApp in the country as its crackdown on communication platforms not under its control intensifies. [...]",
+      "published": "Thu, 12 Feb 2026 17:57:54 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Bitwarden introduces ‘Cupid Vault’ for secure password sharing",
       "link": "https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/",
       "summary": "Bitwarden has launched a new system called 'Cupid Vault' that allows users to safely share passwords with trusted email addresses. [...]",
@@ -228,13 +237,49 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Fake AI Chrome extensions with 300K users steal credentials, emails",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/",
-      "summary": "A set of 30 malicious Chrome extensions that have been installed by more than 300,000 users are masquerading as AI assistants to steal credentials, email content, and browsing information. [...]",
-      "published": "Thu, 12 Feb 2026 08:41:55 -0500",
+      "source": "Krebs on Security",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
     },
     {
       "source": "Krebs on Security",
@@ -284,42 +329,15 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
+      "source": "Dark Reading",
+      "title": "Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again",
+      "link": "https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-bugs-exploit",
+      "summary": "It's time to phase out the \"patch and pray\" approach, eliminate needless public interfaces, and enforce authentication controls, one expert says.",
+      "published": "Thu, 12 Feb 2026 22:05:32 GMT",
+      "value_score": 49,
       "value_signals": [
         "Zero-day",
-        "Patch/update ×3",
+        "Patch/update",
         "Exploit wording"
       ]
     },
@@ -385,15 +403,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc",
       "summary": "CISOs should focus on harnessing and securing AI and building new skills among their people. Vision and change management can transform security.",
       "published": "Wed, 11 Feb 2026 20:36:42 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Automaker Secures the Supply Chain With Developer-Friendly Platform",
-      "link": "https://www.darkreading.com/application-security/automaker-secures-supply-chain-developer-friendly-platform",
-      "summary": "How a platform engineering team embeds supply chain security into infrastructure without slowing developers.",
-      "published": "Wed, 11 Feb 2026 19:35:53 GMT",
       "value_score": 10,
       "value_signals": []
     },

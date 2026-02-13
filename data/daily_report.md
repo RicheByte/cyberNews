@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-13 14:37 UTC  
+> **Last Updated:** 2026-02-13 16:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**bulletproof hosting infrastructure** • **increased secrecy rewards** • **beyondtrust remote support** • **original researchers observe** • **accelerating various phases** • **windows operating systems** • **twitter whistleblower complaint** • **turnkey tools make** • **meta business suite** • **dire critical rating** • **customer contact system** • **beyondtrust vulnerability targeted** • **hackers network operators** • **vulnerabilities earned microsoft's** • **trusted email addresses** • **today we'll dig** • **take extra care** • **strong theme running** • **scoops nestled inside** • **safer node community**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **increased secrecy rewards** • **beyondtrust remote support** • **original researchers observe** • **accelerating various phases** • **windows operating systems** • **twitter whistleblower complaint** • **turnkey tools make** • **meta business suite** • **dire critical rating** • **customer contact system** • **beyondtrust vulnerability targeted** • **trusted email addresses** • **today we'll dig** • **take extra care** • **steal data associated** • **single framework decision** • **scoops nestled inside** • **safer node community**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors](https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html)
 - [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
 - [npm’s Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
 - [Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability](https://thehackernews.com/2026/02/researchers-observe-in-wild.html)
@@ -23,10 +24,10 @@
 - [Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html)
 - [ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html)
 - [The CTEM Divide: Why 84% of Security Programs Are Falling Behind](https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html)
-- [83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure](https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html)
 
 ### BleepingComputer
 
+- [Turning IBM QRadar Alerts into Action with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/)
 - [CISA flags critical Microsoft SCCM flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/)
 - [Microsoft fixes bug that blocked Google Chrome from launching](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/)
 - [Russia tries to block WhatsApp, Telegram in communication blockade](https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/)
@@ -34,18 +35,17 @@
 - [Critical BeyondTrust RCE flaw now exploited in attacks, patch now](https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/)
 - [Microsoft: New Windows LNK spoofing issues aren't vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/)
 - [Romania's oil pipeline operator Conpet confirms data stolen in attack](https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/)
-- [Odido data breach exposes personal info of 6.2 million customers](https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/)
 
 ### Krebs on Security
 
+- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
+- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
+- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
-- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
-- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine](https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/)
 - [Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat](https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/)
 - [Dutch Carrier Odido Discloses Data Breach Impacting 6 Million](https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/)
 - [BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release](https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/)
@@ -67,7 +68,6 @@
 - [Chrome 145 Patches 11 Vulnerabilities](https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/)
 - [China Revives Tianfu Cup Hacking Contest Under Increased Secrecy](https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/)
 - [How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development](https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/)
-- [ApolloMD Data Breach Impacts 626,000 Individuals](https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/)
 
 ### Threatpost
 

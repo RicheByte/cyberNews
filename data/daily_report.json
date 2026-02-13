@@ -1,9 +1,10 @@
 {
-  "last_updated": "2026-02-13 14:37",
+  "last_updated": "2026-02-13 16:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "bulletproof hosting infrastructure",
+    "scattered lapsus shinyhunters",
+    "badbox 2 0",
     "increased secrecy rewards",
     "beyondtrust remote support",
     "original researchers observe",
@@ -15,58 +16,66 @@
     "dire critical rating",
     "customer contact system",
     "beyondtrust vulnerability targeted",
-    "hackers network operators",
-    "vulnerabilities earned microsoft's",
     "trusted email addresses",
     "today we'll dig",
     "take extra care",
-    "strong theme running",
+    "steal data associated",
+    "single framework decision",
     "scoops nestled inside",
     "safer node community"
   ],
   "trending": [
     {
-      "keyword": "bulletproof hosting infrastructure",
-      "mentions": 15
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 75
+    },
+    {
+      "keyword": "badbox 2 0",
+      "mentions": 106
     },
     {
       "keyword": "increased secrecy rewards",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "beyondtrust remote support",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "original researchers observe",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "accelerating various phases",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 306
+      "mentions": 307
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 677
+      "mentions": 678
     },
     {
       "keyword": "turnkey tools make",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "meta business suite",
-      "mentions": 2
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 89
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors",
+      "link": "https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html",
+      "summary": "A previously unknown threat actor tracked as UAT-9921 has been observed leveraging a new modular framework called VoidLink in its campaigns targeting the technology and financial services sectors, according to findings from Cisco Talos. \"This threat actor seems to have been active since 2019, although they have not necessarily used VoidLink over the duration of their activity,\" researchers Nick",
+      "published": "Fri, 13 Feb 2026 20:53:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
@@ -139,15 +148,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
-      "link": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
-      "summary": "A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO. Threat intelligence firm GreyNoise said it recorded 417 exploitation sessions from 8 unique source IP addresses between February 1 and 9, 2026. An estimated 346",
-      "published": "Thu, 12 Feb 2026 13:02:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Turning IBM QRadar Alerts into Action with Criminal IP",
+      "link": "https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/",
+      "summary": "Criminal IP now integrates with IBM QRadar SIEM and SOAR to bring external IP-based threat intelligence directly into detection and response workflows. See how risk scoring and automated enrichment help SOC teams prioritize high-risk IPs and accelerate investigations without leaving QRadar. [...]",
+      "published": "Fri, 13 Feb 2026 10:05:15 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -227,14 +234,48 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Odido data breach exposes personal info of 6.2 million customers",
-      "link": "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/",
-      "summary": "Dutch telecommunications provider Odido is warning that it suffered a cyberattack that reportedly exposed the personal data of 6.2 million customers. [...]",
-      "published": "Thu, 12 Feb 2026 13:18:14 -0500",
-      "value_score": 22,
+      "source": "Krebs on Security",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "value_score": 30,
       "value_signals": [
-        "Breach/leak"
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
       ]
     },
     {
@@ -281,46 +322,6 @@
       "value_score": 26,
       "value_signals": [
         "Botnet",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
         "Exploit wording"
       ]
     },
@@ -404,6 +405,15 @@
     },
     {
       "source": "Security Week",
+      "title": "In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine",
+      "link": "https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: vulnerabilities at 277 water systems, DoD employee acting as money mule, 200 airports exposed by flaw. The post In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine appeared first on SecurityWeek .",
+      "published": "Fri, 13 Feb 2026 15:01:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat",
       "link": "https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/",
       "summary": "Check Point has acquired Israeli cybersecurity companies Cyata, Cyclops, and Rotate. The post Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat appeared first on SecurityWeek .",
@@ -478,17 +488,6 @@
       "published": "Thu, 12 Feb 2026 16:15:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "ApolloMD Data Breach Impacts 626,000 Individuals",
-      "link": "https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/",
-      "summary": "The company says hackers stole the personal information of patients of affiliated physicians and practices. The post ApolloMD Data Breach Impacts 626,000 Individuals appeared first on SecurityWeek .",
-      "published": "Thu, 12 Feb 2026 12:23:33 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

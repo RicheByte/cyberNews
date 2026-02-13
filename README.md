@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-13 14:37 UTC |
+| 🕐 Last Updated | 2026-02-13 16:39 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`bulletproof hosting infrastructure` • `increased secrecy rewards` • `beyondtrust remote support` • `original researchers observe` • `accelerating various phases` • `windows operating systems` • `twitter whistleblower complaint` • `turnkey tools make` • `meta business suite` • `dire critical rating`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `increased secrecy rewards` • `beyondtrust remote support` • `original researchers observe` • `accelerating various phases` • `windows operating systems` • `twitter whistleblower complaint` • `turnkey tools make` • `meta business suite`
 
 ## 📄 Reports
 

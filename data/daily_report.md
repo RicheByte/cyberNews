@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-13 22:27 UTC  
+> **Last Updated:** 2026-02-14 01:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**tiffany 25 million** • **scattered lapsus shinyhunters** • **badbox 2 0** • **increased secrecy rewards** • **ibm qradar siem** • **abusing claude artifacts** • **beyondtrust remote support** • **original researchers observe** • **accelerating various phases** • **twitter whistleblower complaint** • **meta business suite** • **dire critical rating** • **customer contact system** • **50 security holes** • **automate malware defense** • **windows operating systems** • **steal data associated** • **frequent attack vectors** • **beyondtrust vulnerability targeted** • **energy organizations within**
+**tiffany 25 million** • **scattered lapsus shinyhunters** • **badbox 2 0** • **increased secrecy rewards** • **ibm qradar siem** • **abusing claude artifacts** • **original researchers observe** • **accelerating various phases** • **twitter whistleblower complaint** • **meta business suite** • **customer contact system** • **50 security holes** • **beyondtrust remote support** • **automate malware defense** • **windows operating systems** • **steal data associated** • **frequent attack vectors** • **fake recruiter campaign** • **energy organizations within** • **turnkey tools make**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Fake job recruiters hide malware in developer coding challenges](https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/)
 - [Claude LLM artifacts abused to push Mac infostealers in ClickFix attack](https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/)
 - [Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches](https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/)
 - [Turning IBM QRadar Alerts into Action with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/)
@@ -34,7 +35,6 @@
 - [Microsoft fixes bug that blocked Google Chrome from launching](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/)
 - [Russia tries to block WhatsApp, Telegram in communication blockade](https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/)
 - [Bitwarden introduces ‘Cupid Vault’ for secure password sharing](https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/)
-- [Critical BeyondTrust RCE flaw now exploited in attacks, patch now](https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/)
 
 ### Krebs on Security
 

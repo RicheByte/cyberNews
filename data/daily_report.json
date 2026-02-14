@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13 22:27",
+  "last_updated": "2026-02-14 01:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,61 +9,61 @@
     "increased secrecy rewards",
     "ibm qradar siem",
     "abusing claude artifacts",
-    "beyondtrust remote support",
     "original researchers observe",
     "accelerating various phases",
     "twitter whistleblower complaint",
     "meta business suite",
-    "dire critical rating",
     "customer contact system",
     "50 security holes",
+    "beyondtrust remote support",
     "automate malware defense",
     "windows operating systems",
     "steal data associated",
     "frequent attack vectors",
-    "beyondtrust vulnerability targeted",
-    "energy organizations within"
+    "fake recruiter campaign",
+    "energy organizations within",
+    "turnkey tools make"
   ],
   "trending": [
     {
       "keyword": "tiffany 25 million",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 77
+      "mentions": 78
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 108
+      "mentions": 109
     },
     {
       "keyword": "increased secrecy rewards",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "ibm qradar siem",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "abusing claude artifacts",
-      "mentions": 2
-    },
-    {
-      "keyword": "beyondtrust remote support",
-      "mentions": 12
+      "mentions": 3
     },
     {
       "keyword": "original researchers observe",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "accelerating various phases",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 681
+      "mentions": 682
+    },
+    {
+      "keyword": "meta business suite",
+      "mentions": 7
     }
   ],
   "articles": [
@@ -146,6 +146,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Fake job recruiters hide malware in developer coding challenges",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/",
+      "summary": "A new variation of the fake recruiter campaign from North Korean threat actors is targeting JavaScript and Python developers with cryptocurrency-related tasks. [...]",
+      "published": "Fri, 13 Feb 2026 17:35:37 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack",
       "link": "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/",
       "summary": "Threat actors are abusing Claude artifacts and Google Ads in ClickFix campaigns that deliver infostealer malware to macOS users searching for specific queries. [...]",
@@ -212,21 +221,6 @@
       "published": "Thu, 12 Feb 2026 16:55:24 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/",
-      "summary": "A critical pre-authentication remote code execution vulnerability in BeyondTrust Remote Support and Privileged Remote Access appliances is now being exploited in attacks after a PoC was published online. [...]",
-      "published": "Thu, 12 Feb 2026 16:34:12 -0500",
-      "value_score": 90,
-      "value_signals": [
-        "RCE ×2",
-        "PoC available",
-        "Patch/update",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

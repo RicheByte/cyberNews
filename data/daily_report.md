@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-14 12:37 UTC  
+> **Last Updated:** 2026-02-14 14:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**tiffany 25 million** • **increased secrecy rewards** • **ibm qradar siem** • **arbitrary code execution** • **abusing claude artifacts** • **original researchers observe** • **accelerating various phases** • **twitter whistleblower complaint** • **meta business suite** • **customer contact system** • **beyondtrust remote support** • **windows operating systems** • **malicious cyber actors** • **frequent attack vectors** • **internal network behind** • **hackers network operators** • **fake recruiter campaign** • **energy organizations within** • **beyondtrust vulnerability targeted** • **turnkey tools make**
+**tiffany 25 million** • **scattered lapsus shinyhunters** • **badbox 2 0** • **increased secrecy rewards** • **ibm qradar siem** • **arbitrary code execution** • **abusing claude artifacts** • **original researchers observe** • **accelerating various phases** • **twitter whistleblower complaint** • **meta business suite** • **customer contact system** • **50 security holes** • **beyondtrust remote support** • **automate malware defense** • **windows operating systems** • **steal data associated** • **frequent attack vectors** • **fake recruiter campaign** • **malicious cyber actors**
 
 ---
 
@@ -38,17 +38,18 @@
 
 ### Krebs on Security
 
+- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
+- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
+- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
-- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
-- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
-- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
+- [Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities](https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities)
 - [Microsoft Under Pressure to Bolster Defenses for BYOVD Attacks](https://www.darkreading.com/application-security/microsoft-under-pressure-defenses-byovd-attacks)
 - [Nation-State Hackers Put Defense Industrial Base Under Siege](https://www.darkreading.com/cyber-risk/nation-state-hackers-defense-industrial-base-under-siege)
 - [AI Agents 'Swarm,' Security Complexity Follows Suit](https://www.darkreading.com/cloud-security/ai-agents-swarm-security-complexity)
@@ -56,7 +57,6 @@
 - [Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense](https://www.darkreading.com/endpoint-security/booz-allen-announces-general-availability-vellox-reverser)
 - [SpecterOps Launches BloodHound Scentry to Accelerate the Practice of Identity Attack Path Management](https://www.darkreading.com/identity-access-management-security/specterops-launches-bloodhound-scentry)
 - [Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents](https://www.darkreading.com/cyber-risk/one-in-two-americans-romance-scam-incidents)
-- [Those 'Summarize With AI' Buttons May Be Lying to You](https://www.darkreading.com/cyber-risk/summarize-ai-buttons-may-be-lying)
 
 ### Security Week
 

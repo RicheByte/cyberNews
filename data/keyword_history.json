@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 281,
+      "count": 282,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -155,7 +155,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 316,
+      "count": 317,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -203,7 +203,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 687,
+      "count": 688,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2530,7 +2530,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4488,7 +4488,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5255,7 +5255,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6210,7 +6210,7 @@
       ]
     },
     "50 security holes": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6426,7 +6426,7 @@
       ]
     },
     "accelerating various phases": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6459,7 +6459,7 @@
       ]
     },
     "beyondtrust remote support": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6501,7 +6501,7 @@
       ]
     },
     "increased secrecy rewards": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6520,21 +6520,21 @@
       ]
     },
     "original researchers observe": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "meta business suite": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "customer contact system": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6554,7 +6554,7 @@
       ]
     },
     "steal data associated": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6567,21 +6567,21 @@
       ]
     },
     "tiffany 25 million": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "ibm qradar siem": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "automate malware defense": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6595,38 +6595,27 @@
       ]
     },
     "abusing claude artifacts": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "frequent attack vectors": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "fake recruiter campaign": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-14"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-05 08:36",
-      "articles": 56,
-      "top_keywords": [
-        "rockwell automation controllogix",
-        "remote code execution",
-        "windows operating systems",
-        "twitter whistleblower complaint",
-        "take full control"
-      ]
-    },
     {
       "timestamp": "2026-02-05 10:35",
       "articles": 56,
@@ -7714,6 +7703,17 @@
         "ibm qradar siem",
         "arbitrary code execution",
         "abusing claude artifacts"
+      ]
+    },
+    {
+      "timestamp": "2026-02-14 14:21",
+      "articles": 56,
+      "top_keywords": [
+        "tiffany 25 million",
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "increased secrecy rewards",
+        "ibm qradar siem"
       ]
     }
   ]

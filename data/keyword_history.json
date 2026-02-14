@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 278,
+      "count": 279,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -155,7 +155,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 313,
+      "count": 314,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -203,7 +203,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 684,
+      "count": 685,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2529,7 +2529,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4486,7 +4486,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5253,7 +5253,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6208,7 +6208,7 @@
       ]
     },
     "50 security holes": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6424,7 +6424,7 @@
       ]
     },
     "accelerating various phases": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6457,7 +6457,7 @@
       ]
     },
     "beyondtrust remote support": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6499,7 +6499,7 @@
       ]
     },
     "increased secrecy rewards": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6518,21 +6518,21 @@
       ]
     },
     "original researchers observe": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "meta business suite": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "customer contact system": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6551,7 +6551,7 @@
       ]
     },
     "steal data associated": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6564,21 +6564,21 @@
       ]
     },
     "tiffany 25 million": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "ibm qradar siem": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "automate malware defense": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6592,38 +6592,27 @@
       ]
     },
     "abusing claude artifacts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "frequent attack vectors": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "fake recruiter campaign": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-14"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-05 01:43",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "rockwell automation controllogix",
-        "windows operating systems",
-        "twitter whistleblower complaint",
-        "take full control"
-      ]
-    },
     {
       "timestamp": "2026-02-05 04:10",
       "articles": 56,
@@ -7704,6 +7693,17 @@
     },
     {
       "timestamp": "2026-02-14 06:38",
+      "articles": 56,
+      "top_keywords": [
+        "tiffany 25 million",
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "increased secrecy rewards",
+        "ibm qradar siem"
+      ]
+    },
+    {
+      "timestamp": "2026-02-14 08:26",
       "articles": 56,
       "top_keywords": [
         "tiffany 25 million",

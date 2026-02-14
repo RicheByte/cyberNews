@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-14 01:42 UTC  
+> **Last Updated:** 2026-02-14 04:06 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**tiffany 25 million** • **scattered lapsus shinyhunters** • **badbox 2 0** • **increased secrecy rewards** • **ibm qradar siem** • **abusing claude artifacts** • **original researchers observe** • **accelerating various phases** • **twitter whistleblower complaint** • **meta business suite** • **customer contact system** • **50 security holes** • **beyondtrust remote support** • **automate malware defense** • **windows operating systems** • **steal data associated** • **frequent attack vectors** • **fake recruiter campaign** • **energy organizations within** • **turnkey tools make**
+**tiffany 25 million** • **scattered lapsus shinyhunters** • **badbox 2 0** • **increased secrecy rewards** • **ibm qradar siem** • **arbitrary code execution** • **abusing claude artifacts** • **original researchers observe** • **accelerating various phases** • **twitter whistleblower complaint** • **meta business suite** • **customer contact system** • **50 security holes** • **beyondtrust remote support** • **automate malware defense** • **windows operating systems** • **steal data associated** • **frequent attack vectors** • **fake recruiter campaign** • **malicious cyber actors**
 
 ---
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [Siemens SINEC NMS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-01)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [Siemens SINEC OS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-06)
+- [Siemens Solid Edge](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-05)
 - [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/12/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 - [Siemens Siveillance Video Management Servers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-07)
-- [Siemens Solid Edge](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-05)
 - [Siemens Polarion](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-02)
 - [Airleader Master](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-10)
 - [Siemens NX](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-08)
-- [Siemens Desigo CC Product Family and SENTRON Powermanager](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-04)
 
 ---
 

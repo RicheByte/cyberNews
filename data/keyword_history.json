@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 276,
+      "count": 277,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -116,7 +116,8 @@
         "2026-02-03",
         "2026-02-07",
         "2026-02-08",
-        "2026-02-09"
+        "2026-02-09",
+        "2026-02-14"
       ]
     },
     "user named csnemess": {
@@ -154,7 +155,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 311,
+      "count": 312,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -202,7 +203,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 682,
+      "count": 683,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2528,7 +2529,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2541,7 +2542,8 @@
         "2026-02-01",
         "2026-02-02",
         "2026-02-12",
-        "2026-02-13"
+        "2026-02-13",
+        "2026-02-14"
       ]
     },
     "authenticated remote attacker": {
@@ -4484,7 +4486,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5251,7 +5253,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6206,7 +6208,7 @@
       ]
     },
     "50 security holes": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6422,7 +6424,7 @@
       ]
     },
     "accelerating various phases": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6455,7 +6457,7 @@
       ]
     },
     "beyondtrust remote support": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6497,7 +6499,7 @@
       ]
     },
     "increased secrecy rewards": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6516,21 +6518,21 @@
       ]
     },
     "original researchers observe": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "meta business suite": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "customer contact system": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6549,7 +6551,7 @@
       ]
     },
     "steal data associated": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6562,21 +6564,21 @@
       ]
     },
     "tiffany 25 million": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "ibm qradar siem": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "automate malware defense": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6590,38 +6592,27 @@
       ]
     },
     "abusing claude artifacts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "frequent attack vectors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "fake recruiter campaign": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-14"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-04 20:28",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "remote code execution",
-        "badbox 2 0",
-        "rockwell automation controllogix",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-02-04 22:21",
       "articles": 56,
@@ -7702,6 +7693,17 @@
     },
     {
       "timestamp": "2026-02-14 01:42",
+      "articles": 56,
+      "top_keywords": [
+        "tiffany 25 million",
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "increased secrecy rewards",
+        "ibm qradar siem"
+      ]
+    },
+    {
+      "timestamp": "2026-02-14 04:06",
       "articles": 56,
       "top_keywords": [
         "tiffany 25 million",

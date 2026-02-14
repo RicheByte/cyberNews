@@ -1,11 +1,9 @@
 {
-  "last_updated": "2026-02-14 10:21",
+  "last_updated": "2026-02-14 12:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "tiffany 25 million",
-    "scattered lapsus shinyhunters",
-    "badbox 2 0",
     "increased secrecy rewards",
     "ibm qradar siem",
     "arbitrary code execution",
@@ -15,55 +13,57 @@
     "twitter whistleblower complaint",
     "meta business suite",
     "customer contact system",
-    "50 security holes",
     "beyondtrust remote support",
-    "automate malware defense",
     "windows operating systems",
-    "steal data associated",
+    "malicious cyber actors",
     "frequent attack vectors",
+    "internal network behind",
+    "hackers network operators",
     "fake recruiter campaign",
-    "malicious cyber actors"
+    "energy organizations within",
+    "beyondtrust vulnerability targeted",
+    "turnkey tools make"
   ],
   "trending": [
     {
       "keyword": "tiffany 25 million",
-      "mentions": 8
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 82
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 113
+      "mentions": 9
     },
     {
       "keyword": "increased secrecy rewards",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "ibm qradar siem",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 94
+      "mentions": 95
     },
     {
       "keyword": "abusing claude artifacts",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "original researchers observe",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "accelerating various phases",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 686
+      "mentions": 687
+    },
+    {
+      "keyword": "meta business suite",
+      "mentions": 12
+    },
+    {
+      "keyword": "customer contact system",
+      "mentions": 12
     }
   ],
   "articles": [
@@ -71,7 +71,7 @@
       "source": "The Hacker News",
       "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
       "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
-      "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL. Google Threat Intelligence Group (GTIG) described the hack group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and",
+      "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL. Google Threat Intelligence Group (GTIG) described the hacking group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and",
       "published": "Fri, 13 Feb 2026 22:57:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -224,51 +224,6 @@
     },
     {
       "source": "Krebs on Security",
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
@@ -311,6 +266,46 @@
       "value_score": 26,
       "value_signals": [
         "Botnet",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
         "Exploit wording"
       ]
     },
@@ -396,6 +391,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data",
+      "link": "https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/",
+      "summary": "With more than 37 million combined downloads, the extensions expose users to tracking and personal information theft. The post Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data appeared first on SecurityWeek .",
+      "published": "Sat, 14 Feb 2026 12:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine",
       "link": "https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/",
       "summary": "Other noteworthy stories that might have slipped under the radar: vulnerabilities at 277 water systems, DoD employee acting as money mule, 200 airports exposed by flaw. The post In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine appeared first on SecurityWeek .",
@@ -470,15 +474,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development",
-      "link": "https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/",
-      "summary": "Developers must view AI as a collaborator to be closely monitored, rather than an autonomous entity to be unleashed. Without such a mindset, crippling tech debt is inevitable. The post How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development appeared first on SecurityWeek .",
-      "published": "Thu, 12 Feb 2026 16:15:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

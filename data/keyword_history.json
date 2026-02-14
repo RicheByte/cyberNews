@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 280,
+      "count": 281,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -155,7 +155,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 315,
+      "count": 316,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -203,7 +203,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 686,
+      "count": 687,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2482,7 +2482,7 @@
       ]
     },
     "internal network behind": {
-      "count": 230,
+      "count": 231,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2510,7 +2510,8 @@
         "2026-02-09",
         "2026-02-11",
         "2026-02-12",
-        "2026-02-13"
+        "2026-02-13",
+        "2026-02-14"
       ]
     },
     "ai driven access": {
@@ -2529,7 +2530,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2656,7 +2657,7 @@
       ]
     },
     "hackers network operators": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2668,7 +2669,8 @@
         "2026-02-08",
         "2026-02-09",
         "2026-02-12",
-        "2026-02-13"
+        "2026-02-13",
+        "2026-02-14"
       ]
     },
     "deepfake fraud tools": {
@@ -6424,7 +6426,7 @@
       ]
     },
     "accelerating various phases": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6457,7 +6459,7 @@
       ]
     },
     "beyondtrust remote support": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6479,7 +6481,7 @@
       ]
     },
     "turnkey tools make": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6499,7 +6501,7 @@
       ]
     },
     "increased secrecy rewards": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6518,30 +6520,31 @@
       ]
     },
     "original researchers observe": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "meta business suite": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "customer contact system": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "beyondtrust vulnerability targeted": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-02-13"
+        "2026-02-13",
+        "2026-02-14"
       ]
     },
     "safer node community": {
@@ -6564,14 +6567,14 @@
       ]
     },
     "tiffany 25 million": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "ibm qradar siem": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-13",
         "2026-02-14"
@@ -6585,45 +6588,34 @@
       ]
     },
     "energy organizations within": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "abusing claude artifacts": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "frequent attack vectors": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-13",
         "2026-02-14"
       ]
     },
     "fake recruiter campaign": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-14"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-05 06:52",
-      "articles": 56,
-      "top_keywords": [
-        "rockwell automation controllogix",
-        "remote code execution",
-        "windows operating systems",
-        "twitter whistleblower complaint",
-        "take full control"
-      ]
-    },
     {
       "timestamp": "2026-02-05 08:36",
       "articles": 56,
@@ -7711,6 +7703,17 @@
         "badbox 2 0",
         "increased secrecy rewards",
         "ibm qradar siem"
+      ]
+    },
+    {
+      "timestamp": "2026-02-14 12:37",
+      "articles": 56,
+      "top_keywords": [
+        "tiffany 25 million",
+        "increased secrecy rewards",
+        "ibm qradar siem",
+        "arbitrary code execution",
+        "abusing claude artifacts"
       ]
     }
   ]

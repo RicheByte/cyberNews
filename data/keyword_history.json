@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 284,
+      "count": 285,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -117,7 +117,8 @@
         "2026-02-07",
         "2026-02-08",
         "2026-02-09",
-        "2026-02-14"
+        "2026-02-14",
+        "2026-02-15"
       ]
     },
     "user named csnemess": {
@@ -155,7 +156,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 322,
+      "count": 323,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -204,7 +205,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 693,
+      "count": 694,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2484,7 +2485,7 @@
       ]
     },
     "internal network behind": {
-      "count": 233,
+      "count": 234,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2513,7 +2514,8 @@
         "2026-02-11",
         "2026-02-12",
         "2026-02-13",
-        "2026-02-14"
+        "2026-02-14",
+        "2026-02-15"
       ]
     },
     "ai driven access": {
@@ -2532,7 +2534,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 101,
+      "count": 102,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2660,7 +2662,7 @@
       ]
     },
     "hackers network operators": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2673,7 +2675,8 @@
         "2026-02-09",
         "2026-02-12",
         "2026-02-13",
-        "2026-02-14"
+        "2026-02-14",
+        "2026-02-15"
       ]
     },
     "deepfake fraud tools": {
@@ -6432,7 +6435,7 @@
       ]
     },
     "accelerating various phases": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6466,7 +6469,7 @@
       ]
     },
     "beyondtrust remote support": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6509,7 +6512,7 @@
       ]
     },
     "increased secrecy rewards": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6529,7 +6532,7 @@
       ]
     },
     "original researchers observe": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6537,7 +6540,7 @@
       ]
     },
     "meta business suite": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6545,7 +6548,7 @@
       ]
     },
     "customer contact system": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6580,7 +6583,7 @@
       ]
     },
     "tiffany 25 million": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6588,7 +6591,7 @@
       ]
     },
     "ibm qradar siem": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6604,14 +6607,15 @@
       ]
     },
     "energy organizations within": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-13",
-        "2026-02-14"
+        "2026-02-14",
+        "2026-02-15"
       ]
     },
     "abusing claude artifacts": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6619,7 +6623,7 @@
       ]
     },
     "frequent attack vectors": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6627,20 +6631,21 @@
       ]
     },
     "fake recruiter campaign": {
-      "count": 9,
+      "count": 10,
       "dates": [
-        "2026-02-14"
+        "2026-02-14",
+        "2026-02-15"
       ]
     },
     "threat actor seems": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-14",
         "2026-02-15"
       ]
     },
     "single threat actor": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-14",
         "2026-02-15"
@@ -6648,17 +6653,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-05 20:28",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "execute arbitrary commands",
-        "widespread internet blackout",
-        "truth cloud logs"
-      ]
-    },
     {
       "timestamp": "2026-02-05 22:22",
       "articles": 56,
@@ -7746,6 +7740,17 @@
         "badbox 2 0",
         "increased secrecy rewards",
         "ibm qradar siem"
+      ]
+    },
+    {
+      "timestamp": "2026-02-15 04:18",
+      "articles": 56,
+      "top_keywords": [
+        "tiffany 25 million",
+        "increased secrecy rewards",
+        "ibm qradar siem",
+        "arbitrary code execution",
+        "abusing claude artifacts"
       ]
     }
   ]

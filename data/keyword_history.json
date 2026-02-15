@@ -156,7 +156,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 326,
+      "count": 327,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -205,7 +205,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 697,
+      "count": 698,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2534,7 +2534,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4494,7 +4494,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5262,7 +5262,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6218,7 +6218,7 @@
       ]
     },
     "50 security holes": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6435,7 +6435,7 @@
       ]
     },
     "accelerating various phases": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6469,7 +6469,7 @@
       ]
     },
     "beyondtrust remote support": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6512,7 +6512,7 @@
       ]
     },
     "increased secrecy rewards": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6532,7 +6532,7 @@
       ]
     },
     "original researchers observe": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6540,7 +6540,7 @@
       ]
     },
     "meta business suite": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6548,7 +6548,7 @@
       ]
     },
     "customer contact system": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6569,7 +6569,7 @@
       ]
     },
     "steal data associated": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6583,7 +6583,7 @@
       ]
     },
     "tiffany 25 million": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6591,7 +6591,7 @@
       ]
     },
     "ibm qradar siem": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6599,7 +6599,7 @@
       ]
     },
     "automate malware defense": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6615,7 +6615,7 @@
       ]
     },
     "abusing claude artifacts": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6623,7 +6623,7 @@
       ]
     },
     "frequent attack vectors": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6638,14 +6638,14 @@
       ]
     },
     "threat actor seems": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-14",
         "2026-02-15"
       ]
     },
     "single threat actor": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-14",
         "2026-02-15"
@@ -6653,17 +6653,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-06 06:47",
-      "articles": 56,
-      "top_keywords": [
-        "arbitrary system commands",
-        "windows operating systems",
-        "widespread internet blackout",
-        "truth cloud logs",
-        "researchers expose network"
-      ]
-    },
     {
       "timestamp": "2026-02-06 08:35",
       "articles": 56,
@@ -7751,6 +7740,17 @@
         "ibm qradar siem",
         "arbitrary code execution",
         "abusing claude artifacts"
+      ]
+    },
+    {
+      "timestamp": "2026-02-15 12:39",
+      "articles": 56,
+      "top_keywords": [
+        "tiffany 25 million",
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "increased secrecy rewards",
+        "ibm qradar siem"
       ]
     }
   ]

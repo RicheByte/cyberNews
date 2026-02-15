@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-15 16:25 UTC  
+> **Last Updated:** 2026-02-15 18:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**tiffany 25 million** • **scattered lapsus shinyhunters** • **badbox 2 0** • **increased secrecy rewards** • **ibm qradar siem** • **arbitrary code execution** • **abusing claude artifacts** • **accelerating various phases** • **twitter whistleblower complaint** • **original researchers observe** • **meta business suite** • **fake recruiter campaign** • **customer contact system** • **50 security holes** • **windows operating systems** • **beyondtrust remote support** • **automate malware defense** • **threat actor seems** • **steal data associated** • **single threat actor**
+**tiffany 25 million** • **scattered lapsus shinyhunters** • **badbox 2 0** • **increased secrecy rewards** • **ibm qradar siem** • **ctm360 lumma stealer** • **arbitrary code execution** • **abusing claude artifacts** • **windows operating systems** • **accelerating various phases** • **automate malware defense** • **twitter whistleblower complaint** • **original researchers observe** • **meta business suite** • **fake recruiter campaign** • **customer contact system** • **50 security holes** • **beyondtrust remote support** • **threat actor seems** • **single threat actor**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/)
 - [Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps](https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/)
 - [One threat actor responsible for 83% of recent Ivanti RCE attacks](https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/)
 - [Snail mail letters target Trezor and Ledger users in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/)
@@ -34,7 +35,6 @@
 - [Claude LLM artifacts abused to push Mac infostealers in ClickFix attack](https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/)
 - [Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches](https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/)
 - [Turning IBM QRadar Alerts into Action with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/)
-- [CISA flags critical Microsoft SCCM flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/)
 
 ### Krebs on Security
 

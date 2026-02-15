@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15 14:22",
+  "last_updated": "2026-02-15 16:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,63 +10,72 @@
     "ibm qradar siem",
     "arbitrary code execution",
     "abusing claude artifacts",
-    "original researchers observe",
     "accelerating various phases",
     "twitter whistleblower complaint",
+    "original researchers observe",
     "meta business suite",
+    "fake recruiter campaign",
     "customer contact system",
     "50 security holes",
+    "windows operating systems",
     "beyondtrust remote support",
     "automate malware defense",
-    "windows operating systems",
     "threat actor seems",
     "steal data associated",
-    "single threat actor",
-    "frequent attack vectors"
+    "single threat actor"
   ],
   "trending": [
     {
       "keyword": "tiffany 25 million",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 90
+      "mentions": 91
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 121
+      "mentions": 122
     },
     {
       "keyword": "increased secrecy rewards",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "ibm qradar siem",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 107
+      "mentions": 108
     },
     {
       "keyword": "abusing claude artifacts",
-      "mentions": 20
-    },
-    {
-      "keyword": "original researchers observe",
-      "mentions": 24
+      "mentions": 21
     },
     {
       "keyword": "accelerating various phases",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 699
+      "mentions": 700
+    },
+    {
+      "keyword": "original researchers observe",
+      "mentions": 25
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
+      "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
+      "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage payload. Specifically, the attack relies on using the \"nslookup\" (short for nameserver lookup) command to execute a custom DNS lookup triggered via the Windows",
+      "published": "Sun, 15 Feb 2026 19:40:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
@@ -136,11 +145,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems",
-      "link": "https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html",
-      "summary": "Cybersecurity researchers have discovered a fresh set of malicious packages across npm and the Python Package Index (PyPI) repository linked to a fake recruitment-themed campaign orchestrated by the North Korea-linked Lazarus Group. The coordinated campaign has been codenamed graphalgo in reference to the first package published in the npm registry. It's assessed to be active since May 2025. \"",
-      "published": "Thu, 12 Feb 2026 22:25:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps",
+      "link": "https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/",
+      "summary": "Threat actors are abusing Pastebin comments to distribute a new ClickFix-style attack that tricks cryptocurrency users into executing malicious JavaScript in their browser, allowing attackers to hijack Bitcoin swap transactions and redirect funds to attacker-controlled wallets. [...]",
+      "published": "Sun, 15 Feb 2026 10:17:27 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -215,17 +224,6 @@
         "CISA/KEV ×2",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes bug that blocked Google Chrome from launching",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/",
-      "summary": "Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers. [...]",
-      "published": "Fri, 13 Feb 2026 04:31:01 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {

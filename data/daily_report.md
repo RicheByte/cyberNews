@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-16 16:37 UTC  
+> **Last Updated:** 2026-02-16 18:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **reduced staff cisa** • **ctm360 lumma stealer** • **canada goose investigating** • **arbitrary code execution** • **scattered lapsus hunters** • **automate malware defense** • **amazon scraps partnership** • **grab sensitive data** • **released emergency updates** • **twitter whistleblower complaint** • **sales customer support** • **personal information theft** • **50 security holes** • **weaponize windows drivers** • **tricks cryptocurrency users** • **extensions expose users** • **service ddos attacks** • **february 11 2026**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **reduced staff cisa** • **ctm360 lumma stealer** • **canada goose investigating** • **arbitrary code execution** • **scattered lapsus hunters** • **automate malware defense** • **amazon scraps partnership** • **grab sensitive data** • **released emergency updates** • **twitter whistleblower complaint** • **sales customer support** • **personal information theft** • **50 security holes** • **weaponize windows drivers** • **extensions expose users** • **service ddos attacks** • **february 11 2026** • **stealing user data**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Infostealer malware found stealing OpenClaw secrets for first time](https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/)
 - [Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era](https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/)
 - [CISA gives feds 3 days to patch actively exploited BeyondTrust flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/)
 - [Google patches first Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/)
@@ -34,7 +35,6 @@
 - [New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS](https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/)
 - [Windows 11 KB5077181 fixes boot failures linked to failed updates](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/)
 - [CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/)
-- [Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps](https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Operation DoppelBrand: Weaponizing Fortune 500 Brands](https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands)
 - [260K+ Chrome Users Duped by Fake AI Browser Extensions](https://www.darkreading.com/cyber-risk/chrome-fake-ai-browser-extensions)
 - [Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities](https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities)
 - [Microsoft Under Pressure to Bolster Defenses for BYOVD Attacks](https://www.darkreading.com/application-security/microsoft-under-pressure-defenses-byovd-attacks)
@@ -56,7 +57,6 @@
 - [AI Agents 'Swarm,' Security Complexity Follows Suit](https://www.darkreading.com/cloud-security/ai-agents-swarm-security-complexity)
 - [Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again](https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-bugs-exploit)
 - [Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense](https://www.darkreading.com/endpoint-security/booz-allen-announces-general-availability-vellox-reverser)
-- [SpecterOps Launches BloodHound Scentry to Accelerate the Practice of Identity Attack Path Management](https://www.darkreading.com/identity-access-management-security/specterops-launches-bloodhound-scentry)
 
 ### Security Week
 

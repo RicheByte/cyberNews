@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-15 22:19 UTC |
+| 🕐 Last Updated | 2026-02-16 01:47 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`tiffany 25 million` • `increased secrecy rewards` • `ctm360 lumma stealer` • `arbitrary code execution` • `abusing claude artifacts` • `accelerating various phases` • `windows operating systems` • `twitter whistleblower complaint` • `original researchers observe` • `meta business suite`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `increased secrecy rewards` • `ctm360 lumma stealer` • `arbitrary code execution` • `abusing claude artifacts` • `accelerating various phases` • `automate malware defense` • `windows operating systems` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

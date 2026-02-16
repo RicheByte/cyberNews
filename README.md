@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-16 14:38 UTC |
+| 🕐 Last Updated | 2026-02-16 16:37 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`badbox 2 0` • `scattered lapsus shinyhunters` • `reduced staff cisa` • `ctm360 lumma stealer` • `canada goose investigating` • `arbitrary code execution` • `automate malware defense` • `amazon scraps partnership` • `50 security holes` • `released emergency updates`
+`badbox 2 0` • `scattered lapsus shinyhunters` • `reduced staff cisa` • `ctm360 lumma stealer` • `canada goose investigating` • `arbitrary code execution` • `scattered lapsus hunters` • `automate malware defense` • `amazon scraps partnership` • `grab sensitive data`
 
 ## 📄 Reports
 

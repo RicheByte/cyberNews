@@ -156,7 +156,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 333,
+      "count": 334,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -206,7 +206,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 704,
+      "count": 705,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2536,7 +2536,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4497,7 +4497,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 125,
+      "count": 126,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5266,7 +5266,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5793,7 +5793,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -6224,7 +6224,7 @@
       ]
     },
     "50 security holes": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6442,7 +6442,7 @@
       ]
     },
     "accelerating various phases": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6477,7 +6477,7 @@
       ]
     },
     "beyondtrust remote support": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6521,7 +6521,7 @@
       ]
     },
     "increased secrecy rewards": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6542,7 +6542,7 @@
       ]
     },
     "original researchers observe": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6551,7 +6551,7 @@
       ]
     },
     "meta business suite": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6560,7 +6560,7 @@
       ]
     },
     "customer contact system": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6612,7 +6612,7 @@
       ]
     },
     "automate malware defense": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6629,7 +6629,7 @@
       ]
     },
     "abusing claude artifacts": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6646,7 +6646,7 @@
       ]
     },
     "fake recruiter campaign": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-14",
         "2026-02-15",
@@ -6654,7 +6654,7 @@
       ]
     },
     "threat actor seems": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-14",
         "2026-02-15",
@@ -6662,7 +6662,7 @@
       ]
     },
     "single threat actor": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-14",
         "2026-02-15",
@@ -6670,7 +6670,7 @@
       ]
     },
     "ctm360 lumma stealer": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-15",
         "2026-02-16"
@@ -6683,24 +6683,13 @@
       ]
     },
     "supply chain attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-16"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-06 20:28",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "man pleads guilty",
-        "national security risk",
-        "internal network behind",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-02-06 22:18",
       "articles": 56,
@@ -7781,6 +7770,17 @@
     },
     {
       "timestamp": "2026-02-16 01:47",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "increased secrecy rewards",
+        "ctm360 lumma stealer",
+        "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-02-16 04:21",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

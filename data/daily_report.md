@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-16 06:57 UTC  
+> **Last Updated:** 2026-02-16 08:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **increased secrecy rewards** • **ctm360 lumma stealer** • **canada goose investigating** • **arbitrary code execution** • **accelerating various phases** • **automate malware defense** • **twitter whistleblower complaint** • **original researchers observe** • **meta business suite** • **fake recruiter campaign** • **customer contact system** • **50 security holes** • **beyondtrust remote support** • **windows operating systems** • **supply chain attacks** • **service ddos attacks** • **crypto theft attacks** • **single threat actor**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **ctm360 lumma stealer** • **canada goose investigating** • **arbitrary code execution** • **50 security holes** • **automate malware defense** • **twitter whistleblower complaint** • **released emergency updates** • **original researchers observe** • **meta business suite** • **customer contact system** • **weaponize windows drivers** • **beyondtrust remote support** • **beyondtrust vulnerability targeted** • **windows operating systems** • **energy organizations within** • **terminate security processes** • **supply chain attacks** • **service ddos attacks**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
 - [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
 - [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html)
 - [Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html)
@@ -23,10 +24,10 @@
 - [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
 - [npm’s Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html)
 - [Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability](https://thehackernews.com/2026/02/researchers-observe-in-wild.html)
-- [Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html)
 
 ### BleepingComputer
 
+- [Google patches first Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/)
 - [Canada Goose investigating as hackers leak 600K customer records](https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/)
 - [New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS](https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/)
 - [Windows 11 KB5077181 fixes boot failures linked to failed updates](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/)
@@ -34,7 +35,6 @@
 - [Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps](https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/)
 - [One threat actor responsible for 83% of recent Ivanti RCE attacks](https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/)
 - [Snail mail letters target Trezor and Ledger users in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/)
-- [Fake job recruiters hide malware in developer coding challenges](https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Google Patches First Actively Exploited Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/)
 - [Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data](https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/)
 - [In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine](https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/)
 - [Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat](https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/)
@@ -67,7 +68,6 @@
 - [BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release](https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/)
 - [CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/)
 - [Chrome 145 Patches 11 Vulnerabilities](https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/)
-- [China Revives Tianfu Cup Hacking Contest Under Increased Secrecy](https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/)
 
 ### Threatpost
 

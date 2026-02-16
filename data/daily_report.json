@@ -1,72 +1,88 @@
 {
-  "last_updated": "2026-02-16 06:57",
+  "last_updated": "2026-02-16 08:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
-    "increased secrecy rewards",
     "ctm360 lumma stealer",
     "canada goose investigating",
     "arbitrary code execution",
-    "accelerating various phases",
+    "50 security holes",
     "automate malware defense",
     "twitter whistleblower complaint",
+    "released emergency updates",
     "original researchers observe",
     "meta business suite",
-    "fake recruiter campaign",
     "customer contact system",
-    "50 security holes",
+    "weaponize windows drivers",
     "beyondtrust remote support",
+    "beyondtrust vulnerability targeted",
     "windows operating systems",
+    "energy organizations within",
+    "terminate security processes",
     "supply chain attacks",
-    "service ddos attacks",
-    "crypto theft attacks",
-    "single threat actor"
+    "service ddos attacks"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 96
+      "mentions": 97
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 127
-    },
-    {
-      "keyword": "increased secrecy rewards",
-      "mentions": 34
+      "mentions": 128
     },
     {
       "keyword": "ctm360 lumma stealer",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "canada goose investigating",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 114
+      "mentions": 115
     },
     {
-      "keyword": "accelerating various phases",
-      "mentions": 39
+      "keyword": "50 security holes",
+      "mentions": 46
     },
     {
       "keyword": "automate malware defense",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 706
+      "mentions": 707
+    },
+    {
+      "keyword": "released emergency updates",
+      "mentions": 1
     },
     {
       "keyword": "original researchers observe",
-      "mentions": 31
+      "mentions": 32
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released",
+      "link": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
+      "summary": "Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild. The high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a use-after-free bug in CSS. Security researcher Shaheen Fazim has been credited with discovering and reporting the shortcoming on February 11, 2026. \"Use after",
+      "published": "Mon, 16 Feb 2026 12:08:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day",
+        "Active exploitation",
+        "Patch/update",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
@@ -136,13 +152,17 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
-      "link": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
-      "summary": "Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemini to conduct reconnaissance on its targets, as various hacking groups continue to weaponize the tool for accelerating various phases of the cyber attack life cycle, enabling information operations, and even conducting model extraction attacks. \"The",
-      "published": "Thu, 12 Feb 2026 23:27:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Google patches first Chrome zero-day exploited in attacks this year",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/",
+      "summary": "Google has released emergency updates to fix a high-severity Chrome vulnerability exploited in zero-day attacks, marking the first such security flaw patched since the start of the year. [...]",
+      "published": "Mon, 16 Feb 2026 03:19:19 -0500",
+      "value_score": 74,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -214,15 +234,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/",
       "summary": "Threat actors are sending physical letters pretending to be from Trezor and Ledger, makers of cryptocurrency hardware wallets, to trick users into submitting recovery phrases in crypto theft attacks. [...]",
       "published": "Sat, 14 Feb 2026 10:15:25 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake job recruiters hide malware in developer coding challenges",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/",
-      "summary": "A new variation of the fake recruiter campaign from North Korean threat actors is targeting JavaScript and Python developers with cryptocurrency-related tasks. [...]",
-      "published": "Fri, 13 Feb 2026 17:35:37 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -400,6 +411,21 @@
     },
     {
       "source": "Security Week",
+      "title": "Google Patches First Actively Exploited Chrome Zero-Day of 2026",
+      "link": "https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/",
+      "summary": "A Chrome 145 update fixes CVE-2026-2441, a vulnerability that can likely be exploited for arbitrary code execution. The post Google Patches First Actively Exploited Chrome Zero-Day of 2026 appeared first on SecurityWeek .",
+      "published": "Mon, 16 Feb 2026 07:54:15 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation ×2",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data",
       "link": "https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/",
       "summary": "With more than 37 million combined downloads, the extensions expose users to tracking and personal information theft. The post Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data appeared first on SecurityWeek .",
@@ -472,17 +498,6 @@
       "published": "Fri, 13 Feb 2026 08:18:22 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "China Revives Tianfu Cup Hacking Contest Under Increased Secrecy",
-      "link": "https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/",
-      "summary": "Rewards for exploits are reportedly much smaller than in the contest’s glory days. The post China Revives Tianfu Cup Hacking Contest Under Increased Secrecy appeared first on SecurityWeek .",
-      "published": "Fri, 13 Feb 2026 06:49:26 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

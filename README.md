@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-16 06:57 UTC |
+| 🕐 Last Updated | 2026-02-16 08:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `increased secrecy rewards` • `ctm360 lumma stealer` • `canada goose investigating` • `arbitrary code execution` • `accelerating various phases` • `automate malware defense` • `twitter whistleblower complaint` • `original researchers observe`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `ctm360 lumma stealer` • `canada goose investigating` • `arbitrary code execution` • `50 security holes` • `automate malware defense` • `twitter whistleblower complaint` • `released emergency updates` • `original researchers observe`
 
 ## 📄 Reports
 

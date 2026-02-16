@@ -156,7 +156,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 335,
+      "count": 336,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -206,7 +206,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 706,
+      "count": 707,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2536,7 +2536,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4497,7 +4497,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5266,7 +5266,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5793,7 +5793,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -6224,7 +6224,7 @@
       ]
     },
     "50 security holes": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6477,7 +6477,7 @@
       ]
     },
     "beyondtrust remote support": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6542,7 +6542,7 @@
       ]
     },
     "original researchers observe": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6551,7 +6551,7 @@
       ]
     },
     "meta business suite": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6560,7 +6560,7 @@
       ]
     },
     "customer contact system": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6569,10 +6569,11 @@
       ]
     },
     "beyondtrust vulnerability targeted": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-13",
-        "2026-02-14"
+        "2026-02-14",
+        "2026-02-16"
       ]
     },
     "safer node community": {
@@ -6612,7 +6613,7 @@
       ]
     },
     "automate malware defense": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6621,11 +6622,12 @@
       ]
     },
     "energy organizations within": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-13",
         "2026-02-14",
-        "2026-02-15"
+        "2026-02-15",
+        "2026-02-16"
       ]
     },
     "abusing claude artifacts": {
@@ -6670,26 +6672,27 @@
       ]
     },
     "ctm360 lumma stealer": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-15",
         "2026-02-16"
       ]
     },
     "terminate security processes": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-15"
+        "2026-02-15",
+        "2026-02-16"
       ]
     },
     "supply chain attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-16"
       ]
     },
     "canada goose investigating": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-16"
       ]
@@ -6699,20 +6702,21 @@
       "dates": [
         "2026-02-16"
       ]
+    },
+    "released emergency updates": {
+      "count": 1,
+      "dates": [
+        "2026-02-16"
+      ]
+    },
+    "weaponize windows drivers": {
+      "count": 1,
+      "dates": [
+        "2026-02-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-07 01:40",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "man pleads guilty",
-        "internal network behind",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-02-07 04:04",
       "articles": 56,
@@ -7800,6 +7804,17 @@
         "increased secrecy rewards",
         "ctm360 lumma stealer",
         "canada goose investigating"
+      ]
+    },
+    {
+      "timestamp": "2026-02-16 08:40",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "ctm360 lumma stealer",
+        "canada goose investigating",
+        "arbitrary code execution"
       ]
     }
   ]

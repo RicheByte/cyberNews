@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-16 04:21 UTC  
+> **Last Updated:** 2026-02-16 06:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **increased secrecy rewards** • **ctm360 lumma stealer** • **arbitrary code execution** • **abusing claude artifacts** • **accelerating various phases** • **automate malware defense** • **windows operating systems** • **twitter whistleblower complaint** • **original researchers observe** • **meta business suite** • **fake recruiter campaign** • **customer contact system** • **50 security holes** • **beyondtrust remote support** • **threat actor seems** • **supply chain attacks** • **single threat actor** • **service ddos attacks**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **increased secrecy rewards** • **ctm360 lumma stealer** • **canada goose investigating** • **arbitrary code execution** • **accelerating various phases** • **automate malware defense** • **twitter whistleblower complaint** • **original researchers observe** • **meta business suite** • **fake recruiter campaign** • **customer contact system** • **50 security holes** • **beyondtrust remote support** • **windows operating systems** • **supply chain attacks** • **service ddos attacks** • **crypto theft attacks** • **single threat actor**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Canada Goose investigating as hackers leak 600K customer records](https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/)
 - [New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS](https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/)
 - [Windows 11 KB5077181 fixes boot failures linked to failed updates](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/)
 - [CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/)
@@ -34,7 +35,6 @@
 - [One threat actor responsible for 83% of recent Ivanti RCE attacks](https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/)
 - [Snail mail letters target Trezor and Ledger users in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/)
 - [Fake job recruiters hide malware in developer coding challenges](https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/)
-- [Claude LLM artifacts abused to push Mac infostealers in ClickFix attack](https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/)
 
 ### Krebs on Security
 

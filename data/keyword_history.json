@@ -156,7 +156,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 334,
+      "count": 335,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -206,7 +206,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 705,
+      "count": 706,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2536,7 +2536,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4497,7 +4497,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5266,7 +5266,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5793,7 +5793,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -6224,7 +6224,7 @@
       ]
     },
     "50 security holes": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6442,7 +6442,7 @@
       ]
     },
     "accelerating various phases": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6477,7 +6477,7 @@
       ]
     },
     "beyondtrust remote support": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -6521,7 +6521,7 @@
       ]
     },
     "increased secrecy rewards": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6542,7 +6542,7 @@
       ]
     },
     "original researchers observe": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6551,7 +6551,7 @@
       ]
     },
     "meta business suite": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6560,7 +6560,7 @@
       ]
     },
     "customer contact system": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6612,7 +6612,7 @@
       ]
     },
     "automate malware defense": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6646,7 +6646,7 @@
       ]
     },
     "fake recruiter campaign": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-14",
         "2026-02-15",
@@ -6662,7 +6662,7 @@
       ]
     },
     "single threat actor": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-14",
         "2026-02-15",
@@ -6670,7 +6670,7 @@
       ]
     },
     "ctm360 lumma stealer": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-15",
         "2026-02-16"
@@ -6683,24 +6683,25 @@
       ]
     },
     "supply chain attacks": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-02-16"
+      ]
+    },
+    "canada goose investigating": {
+      "count": 1,
+      "dates": [
+        "2026-02-16"
+      ]
+    },
+    "crypto theft attacks": {
+      "count": 1,
       "dates": [
         "2026-02-16"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-06 22:18",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "man pleads guilty",
-        "internal network behind",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-02-07 01:40",
       "articles": 56,
@@ -7788,6 +7789,17 @@
         "increased secrecy rewards",
         "ctm360 lumma stealer",
         "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-02-16 06:57",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "increased secrecy rewards",
+        "ctm360 lumma stealer",
+        "canada goose investigating"
       ]
     }
   ]

@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-02-16 12:53",
+  "last_updated": "2026-02-16 14:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "scattered lapsus shinyhunters",
     "badbox 2 0",
-    "beyondtrust remote support",
+    "scattered lapsus shinyhunters",
+    "reduced staff cisa",
     "ctm360 lumma stealer",
     "canada goose investigating",
     "arbitrary code execution",
-    "50 security holes",
-    "beyondtrust vulnerability targeted",
     "automate malware defense",
     "amazon scraps partnership",
+    "50 security holes",
     "released emergency updates",
     "twitter whistleblower complaint",
-    "rat named modelorat",
-    "personal information theft",
-    "meta business suite",
-    "customer contact system",
-    "weaponize windows drivers",
     "sales customer support",
+    "personal information theft",
+    "weaponize windows drivers",
     "grab sensitive data",
-    "windows operating systems"
+    "february 11 2026",
+    "tricks cryptocurrency users",
+    "extensions expose users",
+    "service ddos attacks",
+    "threat actor seems"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 99
-    },
-    {
       "keyword": "badbox 2 0",
-      "mentions": 130
+      "mentions": 131
     },
     {
-      "keyword": "beyondtrust remote support",
-      "mentions": 40
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 100
+    },
+    {
+      "keyword": "reduced staff cisa",
+      "mentions": 1
     },
     {
       "keyword": "ctm360 lumma stealer",
-      "mentions": 9
-    },
-    {
-      "keyword": "canada goose investigating",
-      "mentions": 4
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 117
-    },
-    {
-      "keyword": "50 security holes",
-      "mentions": 48
-    },
-    {
-      "keyword": "beyondtrust vulnerability targeted",
       "mentions": 10
     },
     {
+      "keyword": "canada goose investigating",
+      "mentions": 5
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 118
+    },
+    {
       "keyword": "automate malware defense",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "amazon scraps partnership",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "50 security holes",
+      "mentions": 49
+    },
+    {
+      "keyword": "released emergency updates",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
+      "link": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html",
+      "summary": "This week’s recap shows how small gaps are turning into big entry points. Not always through new exploits, often through tools, add-ons, cloud setups, or workflows that people already trust and rarely question. Another signal: attackers are mixing old and new methods. Legacy botnet tactics, modern cloud abuse, AI assistance, and supply-chain exposure are being used side by side, whichever path",
+      "published": "Mon, 16 Feb 2026 18:25:00 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "Botnet ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud",
@@ -134,15 +146,6 @@
       "link": "https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html",
       "summary": "A previously unknown threat actor tracked as UAT-9921 has been observed leveraging a new modular framework called VoidLink in its campaigns targeting the technology and financial services sectors, according to findings from Cisco Talos. \"This threat actor seems to have been active since 2019, although they have not necessarily used VoidLink over the duration of their activity,\" researchers Nick",
       "published": "Fri, 13 Feb 2026 20:53:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
-      "link": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
-      "summary": "Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager. The extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcnifhjiplhfoiefffl), is marketed as a way to scrape Meta Business Suite data, remove verification pop-ups, and generate two-factor authentication (2FA) codes.",
-      "published": "Fri, 13 Feb 2026 16:55:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -331,6 +334,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "260K+ Chrome Users Duped by Fake AI Browser Extensions",
+      "link": "https://www.darkreading.com/cyber-risk/chrome-fake-ai-browser-extensions",
+      "summary": "30 copycat apps tricked users, and Google itself, into thinking they're legitimate AI tools.",
+      "published": "Mon, 16 Feb 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities",
       "link": "https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities",
       "summary": "Zscaler's acquisition of SquareX comes as competitors like CrowdStrike and Palo Alto Networks are also investing in secure browser technologies.",
@@ -401,13 +413,24 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents",
-      "link": "https://www.darkreading.com/cyber-risk/one-in-two-americans-romance-scam-incidents",
-      "summary": "Men should take extra care on Valentine’s Day because they are nearly twice as likely as women to fall victim to romance scams.",
-      "published": "Thu, 12 Feb 2026 21:04:25 GMT",
+      "source": "Security Week",
+      "title": "Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security",
+      "link": "https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/",
+      "summary": "The latest Android version continues to improve security and privacy, according to its developers. The post Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security appeared first on SecurityWeek .",
+      "published": "Mon, 16 Feb 2026 13:50:36 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "CISA Navigates DHS Shutdown With Reduced Staff",
+      "link": "https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/",
+      "summary": "CISA is currently operating at roughly 38% capacity (888 out of 2,341 staff) due to the DHS shutdown that began February 14, 2026. The post CISA Navigates DHS Shutdown With Reduced Staff appeared first on SecurityWeek .",
+      "published": "Mon, 16 Feb 2026 13:49:03 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×3"
+      ]
     },
     {
       "source": "Security Week",
@@ -468,32 +491,6 @@
       "published": "Fri, 13 Feb 2026 12:35:11 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Dutch Carrier Odido Discloses Data Breach Impacting 6 Million",
-      "link": "https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/",
-      "summary": "Hackers stole personal information such as names, addresses, and phone numbers from a customer contact system. The post Dutch Carrier Odido Discloses Data Breach Impacting 6 Million appeared first on SecurityWeek .",
-      "published": "Fri, 13 Feb 2026 12:02:20 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release",
-      "link": "https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/",
-      "summary": "Exploitation attempts target CVE-2026-1731, a critical unauthenticated remote code execution flaw in BeyondTrust Remote Support. The post BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release appeared first on SecurityWeek .",
-      "published": "Fri, 13 Feb 2026 11:01:15 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "PoC available ×2",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

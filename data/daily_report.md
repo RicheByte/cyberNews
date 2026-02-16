@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-16 12:53 UTC  
+> **Last Updated:** 2026-02-16 14:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **beyondtrust remote support** • **ctm360 lumma stealer** • **canada goose investigating** • **arbitrary code execution** • **50 security holes** • **beyondtrust vulnerability targeted** • **automate malware defense** • **amazon scraps partnership** • **released emergency updates** • **twitter whistleblower complaint** • **rat named modelorat** • **personal information theft** • **meta business suite** • **customer contact system** • **weaponize windows drivers** • **sales customer support** • **grab sensitive data** • **windows operating systems**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **reduced staff cisa** • **ctm360 lumma stealer** • **canada goose investigating** • **arbitrary code execution** • **automate malware defense** • **amazon scraps partnership** • **50 security holes** • **released emergency updates** • **twitter whistleblower complaint** • **sales customer support** • **personal information theft** • **weaponize windows drivers** • **grab sensitive data** • **february 11 2026** • **tricks cryptocurrency users** • **extensions expose users** • **service ddos attacks** • **threat actor seems**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
 - [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
 - [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
 - [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
@@ -23,7 +24,6 @@
 - [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html)
 - [Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html)
 - [UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors](https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html)
-- [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [260K+ Chrome Users Duped by Fake AI Browser Extensions](https://www.darkreading.com/cyber-risk/chrome-fake-ai-browser-extensions)
 - [Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities](https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities)
 - [Microsoft Under Pressure to Bolster Defenses for BYOVD Attacks](https://www.darkreading.com/application-security/microsoft-under-pressure-defenses-byovd-attacks)
 - [Nation-State Hackers Put Defense Industrial Base Under Siege](https://www.darkreading.com/cyber-risk/nation-state-hackers-defense-industrial-base-under-siege)
@@ -56,18 +57,17 @@
 - [Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again](https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-bugs-exploit)
 - [Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense](https://www.darkreading.com/endpoint-security/booz-allen-announces-general-availability-vellox-reverser)
 - [SpecterOps Launches BloodHound Scentry to Accelerate the Practice of Identity Attack Path Management](https://www.darkreading.com/identity-access-management-security/specterops-launches-bloodhound-scentry)
-- [Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents](https://www.darkreading.com/cyber-risk/one-in-two-americans-romance-scam-incidents)
 
 ### Security Week
 
+- [Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security](https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/)
+- [CISA Navigates DHS Shutdown With Reduced Staff](https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/)
 - [Microsoft Warns of ClickFix Attack Abusing DNS Lookups](https://www.securityweek.com/microsoft-warns-of-clickfix-attack-abusing-dns-lookups/)
 - [Amazon Scraps Partnership With Surveillance Company After Super Bowl Ad Backlash](https://www.securityweek.com/amazon-scraps-partnership-with-surveillance-company-after-super-bowl-ad-backlash/)
 - [Google Patches First Actively Exploited Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/)
 - [Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data](https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/)
 - [In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine](https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/)
 - [Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat](https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/)
-- [Dutch Carrier Odido Discloses Data Breach Impacting 6 Million](https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/)
-- [BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release](https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/)
 
 ### Threatpost
 

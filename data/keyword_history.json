@@ -206,7 +206,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 712,
+      "count": 713,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1876,7 +1876,7 @@
       ]
     },
     "president s efforts": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1891,7 +1891,8 @@
         "2026-01-29",
         "2026-01-31",
         "2026-02-10",
-        "2026-02-11"
+        "2026-02-11",
+        "2026-02-16"
       ]
     },
     "wafer fabrication operation": {
@@ -2456,7 +2457,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 193,
+      "count": 194,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2484,11 +2485,12 @@
         "2026-02-10",
         "2026-02-11",
         "2026-02-12",
-        "2026-02-13"
+        "2026-02-13",
+        "2026-02-16"
       ]
     },
     "internal network behind": {
-      "count": 236,
+      "count": 237,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2518,7 +2520,8 @@
         "2026-02-12",
         "2026-02-13",
         "2026-02-14",
-        "2026-02-15"
+        "2026-02-15",
+        "2026-02-16"
       ]
     },
     "ai driven access": {
@@ -2537,7 +2540,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -6614,7 +6617,7 @@
       ]
     },
     "automate malware defense": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6680,7 +6683,7 @@
       ]
     },
     "terminate security processes": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-15",
         "2026-02-16"
@@ -6693,7 +6696,7 @@
       ]
     },
     "canada goose investigating": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-16"
       ]
@@ -6705,19 +6708,19 @@
       ]
     },
     "released emergency updates": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-16"
       ]
     },
     "weaponize windows drivers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-16"
       ]
     },
     "amazon scraps partnership": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-16"
       ]
@@ -6729,31 +6732,31 @@
       ]
     },
     "personal information theft": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-16"
       ]
     },
     "sales customer support": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-16"
       ]
     },
     "grab sensitive data": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-16"
       ]
     },
     "reduced staff cisa": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-16"
       ]
     },
     "february 11 2026": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-16"
       ]
@@ -6765,7 +6768,7 @@
       ]
     },
     "extensions expose users": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-16"
       ]
@@ -6775,20 +6778,27 @@
       "dates": [
         "2026-02-16"
       ]
+    },
+    "password recovery attacks": {
+      "count": 1,
+      "dates": [
+        "2026-02-16"
+      ]
+    },
+    "payment related data": {
+      "count": 1,
+      "dates": [
+        "2026-02-16"
+      ]
+    },
+    "supply chain exposure": {
+      "count": 1,
+      "dates": [
+        "2026-02-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-07 14:22",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "man pleads guilty",
-        "national security risk",
-        "internal network behind"
-      ]
-    },
     {
       "timestamp": "2026-02-07 16:23",
       "articles": 56,
@@ -7876,6 +7886,17 @@
         "reduced staff cisa",
         "ctm360 lumma stealer",
         "canada goose investigating"
+      ]
+    },
+    {
+      "timestamp": "2026-02-16 20:24",
+      "articles": 56,
+      "top_keywords": [
+        "reduced staff cisa",
+        "canada goose investigating",
+        "arbitrary code execution",
+        "amazon scraps partnership",
+        "twitter whistleblower complaint"
       ]
     }
   ]

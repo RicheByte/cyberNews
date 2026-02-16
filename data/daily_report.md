@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-16 18:36 UTC  
+> **Last Updated:** 2026-02-16 20:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **reduced staff cisa** • **ctm360 lumma stealer** • **canada goose investigating** • **arbitrary code execution** • **scattered lapsus hunters** • **automate malware defense** • **amazon scraps partnership** • **grab sensitive data** • **released emergency updates** • **twitter whistleblower complaint** • **sales customer support** • **personal information theft** • **50 security holes** • **weaponize windows drivers** • **extensions expose users** • **service ddos attacks** • **february 11 2026** • **stealing user data**
+**reduced staff cisa** • **canada goose investigating** • **arbitrary code execution** • **amazon scraps partnership** • **twitter whistleblower complaint** • **sales customer support** • **personal information theft** • **password recovery attacks** • **released emergency updates** • **weaponize windows drivers** • **payment related data** • **grab sensitive data** • **extensions expose users** • **president s efforts** • **internal network behind** • **automate malware defense** • **february 11 2026** • **today we'll dig** • **terminate security processes** • **supply chain exposure**
 
 ---
 
@@ -16,36 +16,36 @@
 
 ### The Hacker News
 
+- [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
+- [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
 - [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
 - [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
 - [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
 - [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
 - [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
 - [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html)
-- [Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html)
-- [UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors](https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html)
 
 ### BleepingComputer
 
+- [Eurail says stolen traveler data now up for sale on dark web](https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/)
+- [Man arrested for demanding reward after accidental police data leak](https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/)
 - [Infostealer malware found stealing OpenClaw secrets for first time](https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/)
 - [Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era](https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/)
 - [CISA gives feds 3 days to patch actively exploited BeyondTrust flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/)
 - [Google patches first Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/)
 - [Canada Goose investigating as hackers leak 600K customer records](https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/)
 - [New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS](https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/)
-- [Windows 11 KB5077181 fixes boot failures linked to failed updates](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/)
-- [CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/)
 
 ### Krebs on Security
 
-- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
-- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 

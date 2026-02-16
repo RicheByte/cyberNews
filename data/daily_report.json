@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-02-16 18:36",
+  "last_updated": "2026-02-16 20:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "badbox 2 0",
-    "scattered lapsus shinyhunters",
     "reduced staff cisa",
-    "ctm360 lumma stealer",
     "canada goose investigating",
     "arbitrary code execution",
-    "scattered lapsus hunters",
-    "automate malware defense",
     "amazon scraps partnership",
-    "grab sensitive data",
-    "released emergency updates",
     "twitter whistleblower complaint",
     "sales customer support",
     "personal information theft",
-    "50 security holes",
+    "password recovery attacks",
+    "released emergency updates",
     "weaponize windows drivers",
+    "payment related data",
+    "grab sensitive data",
     "extensions expose users",
-    "service ddos attacks",
+    "president s efforts",
+    "internal network behind",
+    "automate malware defense",
     "february 11 2026",
-    "stealing user data"
+    "today we'll dig",
+    "terminate security processes",
+    "supply chain exposure"
   ],
   "trending": [
     {
-      "keyword": "badbox 2 0",
-      "mentions": 133
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 102
-    },
-    {
       "keyword": "reduced staff cisa",
-      "mentions": 3
-    },
-    {
-      "keyword": "ctm360 lumma stealer",
-      "mentions": 12
+      "mentions": 4
     },
     {
       "keyword": "canada goose investigating",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 120
-    },
-    {
-      "keyword": "scattered lapsus hunters",
-      "mentions": 36
-    },
-    {
-      "keyword": "automate malware defense",
-      "mentions": 28
+      "mentions": 121
     },
     {
       "keyword": "amazon scraps partnership",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "grab sensitive data",
-      "mentions": 4
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 713
+    },
+    {
+      "keyword": "sales customer support",
+      "mentions": 5
+    },
+    {
+      "keyword": "personal information theft",
+      "mentions": 5
+    },
+    {
+      "keyword": "password recovery attacks",
+      "mentions": 1
+    },
+    {
+      "keyword": "released emergency updates",
+      "mentions": 7
+    },
+    {
+      "keyword": "weaponize windows drivers",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
+      "link": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
+      "summary": "Cybersecurity researchers disclosed they have detected a case of an information stealer infection successfully exfiltrating a victim's OpenClaw (formerly Clawdbot and Moltbot) configuration environment. \"This finding marks a significant milestone in the evolution of infostealer behavior: the transition from stealing browser credentials to harvesting the 'souls' and identities of personal AI [",
+      "published": "Tue, 17 Feb 2026 00:13:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers",
+      "link": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html",
+      "summary": "A new study has found that multiple cloud-based password managers, including Bitwarden, Dashlane, and LastPass, are susceptible to password recovery attacks under certain conditions. \"The attacks range in severity from integrity violations to the complete compromise of all vaults in an organization,\" researchers Matteo Scarlata, Giovanni Torrisi, Matilda Backendal, and Kenneth G. Paterson said.",
+      "published": "Mon, 16 Feb 2026 23:36:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
@@ -132,22 +150,26 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations",
-      "link": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
-      "summary": "Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence Group (GTIG). The tech giant's threat intelligence division said the adversarial targeting of the sector is centered around four key themes: striking defense",
-      "published": "Fri, 13 Feb 2026 21:53:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Eurail says stolen traveler data now up for sale on dark web",
+      "link": "https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/",
+      "summary": "Eurail B.V., the operator that provides access to 250,000 kilometers of European railways, confirmed that data stolen in a breach earlier this year is being offered for sale on the dark web. [...]",
+      "published": "Mon, 16 Feb 2026 14:19:09 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors",
-      "link": "https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html",
-      "summary": "A previously unknown threat actor tracked as UAT-9921 has been observed leveraging a new modular framework called VoidLink in its campaigns targeting the technology and financial services sectors, according to findings from Cisco Talos. \"This threat actor seems to have been active since 2019, although they have not necessarily used VoidLink over the duration of their activity,\" researchers Nick",
-      "published": "Fri, 13 Feb 2026 20:53:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Man arrested for demanding reward after accidental police data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/",
+      "summary": "Dutch authorities arrested a 40-year-old man after he downloaded confidential documents that had been mistakenly shared by the police and refused to delete them unless he received \"something in return.\" [...]",
+      "published": "Mon, 16 Feb 2026 14:13:39 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -215,71 +237,6 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
-      "summary": "Microsoft says it has resolved a Windows 11 bug that caused some commercial systems to fail to boot with an \"UNMOUNTABLE_BOOT_VOLUME\" error after installing recent security updates, with the fix delivered in the February 2026 Patch Tuesday update. [...]",
-      "published": "Sun, 15 Feb 2026 17:08:53 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups",
-      "link": "https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/",
-      "summary": "CTM360 reports 4,000+ malicious Google Groups and 3,500+ Google-hosted URLs used to spread the Lumma Stealer infostealing malware and a trojanized \"Ninja Browser.\" The report details how attackers abuse trusted Google services to steal credentials and maintain persistence across Windows and Linux systems. [...]",
-      "published": "Sun, 15 Feb 2026 11:30:41 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -323,6 +280,46 @@
       "value_score": 26,
       "value_signals": [
         "Botnet",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
         "Exploit wording"
       ]
     },

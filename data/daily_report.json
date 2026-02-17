@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-02-17 12:53",
+  "last_updated": "2026-02-17 14:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "password managers vulnerable",
     "reduced staff cisa",
+    "cyber insights 2026",
     "arbitrary code execution",
+    "api threats grow",
     "1password password managers",
-    "amazon scraps partnership",
-    "ai deployments scale",
-    "ai button that's",
-    "twitter whistleblower complaint",
-    "incident response teams",
     "windows operating systems",
-    "weaponize windows drivers",
-    "data centers investigations",
     "server access data",
+    "twitter whistleblower complaint",
+    "post man linked",
+    "incident response teams",
+    "gain unrestricted control",
+    "data centers investigations",
+    "weaponize windows drivers",
+    "connects ai assistants",
+    "ai button that's",
+    "malicious cyber actors",
     "president s efforts",
     "password recovery attacks",
-    "internal network behind",
-    "people already trust",
-    "malicious cyber actors",
-    "gain remote access",
-    "wouldn t otherwise"
+    "internal network behind"
   ],
   "trending": [
     {
       "keyword": "password managers vulnerable",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "reduced staff cisa",
-      "mentions": 11
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 128
-    },
-    {
-      "keyword": "1password password managers",
-      "mentions": 2
-    },
-    {
-      "keyword": "amazon scraps partnership",
       "mentions": 12
     },
     {
-      "keyword": "ai deployments scale",
-      "mentions": 2
+      "keyword": "cyber insights 2026",
+      "mentions": 14
     },
     {
-      "keyword": "ai button that's",
+      "keyword": "arbitrary code execution",
+      "mentions": 129
+    },
+    {
+      "keyword": "api threats grow",
+      "mentions": 1
+    },
+    {
+      "keyword": "1password password managers",
+      "mentions": 3
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 341
+    },
+    {
+      "keyword": "server access data",
       "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 720
+      "mentions": 721
     },
     {
-      "keyword": "incident response teams",
+      "keyword": "post man linked",
       "mentions": 1
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 340
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
+      "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to deliver an information stealer known as StealC. \"The threat actors cloned a legitimate Oura MCP Server – a tool that connects AI assistants to Oura Ring health data – and built a deceptive",
+      "published": "Tue, 17 Feb 2026 18:12:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
@@ -89,7 +98,7 @@
       "source": "The Hacker News",
       "title": "Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations",
       "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
-      "summary": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (AI). The new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
+      "summary": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (SEO). The new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
       "published": "Tue, 17 Feb 2026 15:01:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -136,13 +145,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud",
-      "link": "https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html",
-      "summary": "Presentation of the KTU Consortium Mission ‘A Safe and Inclusive Digital Society’ at the Innovation Agency event ‘Innovation Breakfast: How Mission-Oriented Science and Innovation Programmes Will Address Societal Challenges’. Technologies are evolving fast, reshaping economies, governance, and daily life. Yet, as innovation accelerates, so do digital risks. Technological change is no longer",
-      "published": "Mon, 16 Feb 2026 17:25:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "New Keenadu backdoor found in Android firmware, Google Play apps",
+      "link": "https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/",
+      "summary": "A newly discovered and sophisticated Android malware called Keenadu has been found embedded in firmware from multiple device brands, enabling it to compromise all installed applications and gain unrestricted control over infected devices. [...]",
+      "published": "Tue, 17 Feb 2026 09:05:25 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -214,20 +225,6 @@
       "published": "Mon, 16 Feb 2026 10:02:12 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA gives feds 3 days to patch actively exploited BeyondTrust flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/",
-      "summary": "CISA ordered U.S. government agencies on Friday to secure their BeyondTrust Remote Support instances against an actively exploited vulnerability within three days. [...]",
-      "published": "Mon, 16 Feb 2026 07:33:11 -0500",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×2",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -396,6 +393,38 @@
     },
     {
       "source": "Security Week",
+      "title": "API Threats Grow in Scale as AI Expands the Blast Radius",
+      "link": "https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/",
+      "summary": "New research shows attackers increasingly abusing APIs at machine speed as AI-driven systems widen exposure and amplify impact. The post API Threats Grow in Scale as AI Expands the Blast Radius appeared first on SecurityWeek .",
+      "published": "Tue, 17 Feb 2026 14:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems",
+      "link": "https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/",
+      "summary": "As nation-state actors, ransomware groups, and aging infrastructure collide, organizations must rethink how they defend critical operations through resilience, visibility, and modern security strategies. The post Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems appeared first on SecurityWeek .",
+      "published": "Tue, 17 Feb 2026 14:00:00 +0000",
+      "value_score": 36,
+      "value_signals": [
+        "Ransomware",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Man Linked to Phobos Ransomware Arrested in Poland",
+      "link": "https://www.securityweek.com/man-linked-to-phobos-ransomware-arrested-in-poland/",
+      "summary": "Polish police said they found evidence of cybercrime on the 47-year-old suspect’s devices. The post Man Linked to Phobos Ransomware Arrested in Poland appeared first on SecurityWeek .",
+      "published": "Tue, 17 Feb 2026 12:54:34 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "3 Threat Groups Started Targeting ICS/OT in 2025: Dragos",
       "link": "https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/",
       "summary": "Industrial cybersecurity firm Dragos has published its 9th Year in Review OT/ICS Cybersecurity Report. The post 3 Threat Groups Started Targeting ICS/OT in 2025: Dragos appeared first on SecurityWeek .",
@@ -439,39 +468,6 @@
       "value_score": 50,
       "value_signals": [
         "CISA/KEV ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Warns of ClickFix Attack Abusing DNS Lookups",
-      "link": "https://www.securityweek.com/microsoft-warns-of-clickfix-attack-abusing-dns-lookups/",
-      "summary": "Attackers are using DNS requests to deliver a RAT named ModeloRAT to targeted users. The post Microsoft Warns of ClickFix Attack Abusing DNS Lookups appeared first on SecurityWeek .",
-      "published": "Mon, 16 Feb 2026 11:56:12 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Amazon Scraps Partnership With Surveillance Company After Super Bowl Ad Backlash",
-      "link": "https://www.securityweek.com/amazon-scraps-partnership-with-surveillance-company-after-super-bowl-ad-backlash/",
-      "summary": "Amazon’s smart doorbell maker Ring has terminated a partnership with police surveillance tech company Flock Safety. The post Amazon Scraps Partnership With Surveillance Company After Super Bowl Ad Backlash appeared first on SecurityWeek .",
-      "published": "Mon, 16 Feb 2026 11:40:34 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Patches First Actively Exploited Chrome Zero-Day of 2026",
-      "link": "https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/",
-      "summary": "A Chrome 145 update fixes CVE-2026-2441, a vulnerability that can likely be exploited for arbitrary code execution. The post Google Patches First Actively Exploited Chrome Zero-Day of 2026 appeared first on SecurityWeek .",
-      "published": "Mon, 16 Feb 2026 07:54:15 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation ×2",
-        "Patch/update",
-        "Exploit wording"
       ]
     },
     {

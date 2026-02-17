@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 289,
+      "count": 290,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 342,
+      "count": 343,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -208,7 +208,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 722,
+      "count": 723,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2547,7 +2547,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2848,7 +2848,7 @@
       ]
     },
     "cyber insights 2026": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-12",
         "2026-01-13",
@@ -6730,7 +6730,7 @@
       ]
     },
     "weaponize windows drivers": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-16",
         "2026-02-17"
@@ -6836,19 +6836,19 @@
       ]
     },
     "password managers vulnerable": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-17"
       ]
     },
     "1password password managers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-17"
       ]
     },
     "malicious server researchers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-17"
       ]
@@ -6860,7 +6860,7 @@
       ]
     },
     "ai button that's": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-17"
       ]
@@ -6872,19 +6872,19 @@
       ]
     },
     "incident response teams": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-17"
       ]
     },
     "data centers investigations": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-17"
       ]
     },
     "server access data": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-17"
       ]
@@ -6902,13 +6902,13 @@
       ]
     },
     "api threats grow": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-17"
       ]
     },
     "post man linked": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-17"
       ]
@@ -6920,7 +6920,7 @@
       ]
     },
     "connects ai assistants": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-17"
       ]
@@ -6932,6 +6932,24 @@
       ]
     },
     "secure browser technologies": {
+      "count": 2,
+      "dates": [
+        "2026-02-17"
+      ]
+    },
+    "double lock design": {
+      "count": 1,
+      "dates": [
+        "2026-02-17"
+      ]
+    },
+    "backdoor dubbed keenadu": {
+      "count": 1,
+      "dates": [
+        "2026-02-17"
+      ]
+    },
+    "silently harvest data": {
       "count": 1,
       "dates": [
         "2026-02-17"
@@ -6939,17 +6957,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-08 12:38",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "man pleads guilty",
-        "national security risk",
-        "internal network behind",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-02-08 14:23",
       "articles": 56,
@@ -8037,6 +8044,17 @@
         "api threats grow",
         "scattered lapsus shinyhunters",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-02-17 18:51",
+      "articles": 56,
+      "top_keywords": [
+        "api threats grow",
+        "arbitrary code execution",
+        "password managers vulnerable",
+        "windows operating systems",
+        "double lock design"
       ]
     }
   ]

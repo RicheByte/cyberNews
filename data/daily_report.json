@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-02-17 16:52",
+  "last_updated": "2026-02-17 18:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "badbox 2 0",
-    "password managers vulnerable",
     "api threats grow",
-    "scattered lapsus shinyhunters",
-    "windows operating systems",
-    "1password password managers",
-    "cyber insights 2026",
     "arbitrary code execution",
-    "scattered lapsus hunters",
-    "wouldn t otherwise",
+    "password managers vulnerable",
+    "windows operating systems",
+    "double lock design",
+    "backdoor dubbed keenadu",
+    "connects ai assistants",
+    "cyber insights 2026",
+    "1password password managers",
     "twitter whistleblower complaint",
-    "information stealer known",
     "incident response teams",
-    "automate malware defense",
-    "server access data",
-    "50 security holes",
-    "post man linked",
+    "ai button that's",
     "weaponize windows drivers",
-    "secure online communications",
-    "secure browser technologies"
+    "silently harvest data",
+    "data centers investigations",
+    "malicious cyber actors",
+    "server access data",
+    "secure browser technologies",
+    "post man linked",
+    "malicious server researchers"
   ],
   "trending": [
     {
-      "keyword": "badbox 2 0",
-      "mentions": 139
-    },
-    {
-      "keyword": "password managers vulnerable",
-      "mentions": 4
-    },
-    {
       "keyword": "api threats grow",
-      "mentions": 2
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 108
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 342
-    },
-    {
-      "keyword": "1password password managers",
-      "mentions": 4
-    },
-    {
-      "keyword": "cyber insights 2026",
-      "mentions": 15
+      "mentions": 3
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 130
+      "mentions": 131
     },
     {
-      "keyword": "scattered lapsus hunters",
-      "mentions": 42
+      "keyword": "password managers vulnerable",
+      "mentions": 5
     },
     {
-      "keyword": "wouldn t otherwise",
+      "keyword": "windows operating systems",
+      "mentions": 343
+    },
+    {
+      "keyword": "double lock design",
+      "mentions": 1
+    },
+    {
+      "keyword": "backdoor dubbed keenadu",
+      "mentions": 1
+    },
+    {
+      "keyword": "connects ai assistants",
       "mentions": 2
+    },
+    {
+      "keyword": "cyber insights 2026",
+      "mentions": 16
+    },
+    {
+      "keyword": "1password password managers",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 723
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+      "link": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
+      "summary": "Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a technique that could allow attackers to blend into legitimate enterprise communications and evade detection. The attack method, which has been demonstrated against Microsoft Copilot and xAI Grok",
+      "published": "Tue, 17 Feb 2026 23:38:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
+      "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
+      "summary": "A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new findings from Kaspersky. The Russian cybersecurity vendor said it discovered the backdoor, dubbed Keenadu, in the firmware of devices associated with various brands, including Alldocube, with the compromise occurring during the firmware build phase.",
+      "published": "Tue, 17 Feb 2026 22:11:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
@@ -124,23 +144,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers",
-      "link": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html",
-      "summary": "A new study has found that multiple cloud-based password managers, including Bitwarden, Dashlane, and LastPass, are susceptible to password recovery attacks under certain conditions. \"The attacks range in severity from integrity violations to the complete compromise of all vaults in an organization,\" researchers Matteo Scarlata, Giovanni Torrisi, Matilda Backendal, and Kenneth G. Paterson said.",
-      "published": "Mon, 16 Feb 2026 23:36:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
-      "link": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html",
-      "summary": "This week’s recap shows how small gaps are turning into big entry points. Not always through new exploits, often through tools, add-ons, cloud setups, or workflows that people already trust and rarely question. Another signal: attackers are mixing old and new methods. Legacy botnet tactics, modern cloud abuse, AI assistance, and supply-chain exposure are being used side by side, whichever path",
-      "published": "Mon, 16 Feb 2026 18:25:00 +0530",
-      "value_score": 36,
+      "source": "BleepingComputer",
+      "title": "Notepad++ boosts update security with ‘double-lock’ mechanism",
+      "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
+      "summary": "Notepad++ has adopted a \"double-lock\" design for its update mechanism to address recently exploited security gaps that resulted in a supply-chain compromise. [...]",
+      "published": "Tue, 17 Feb 2026 13:29:18 -0500",
+      "value_score": 32,
       "value_signals": [
-        "Botnet ×2",
+        "Patch/update ×2",
         "Exploit wording"
       ]
     },
@@ -216,62 +227,6 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Man arrested for demanding reward after accidental police data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/",
-      "summary": "Dutch authorities arrested a 40-year-old man after he downloaded confidential documents that had been mistakenly shared by the police and refused to delete them unless he received \"something in return.\" [...]",
-      "published": "Mon, 16 Feb 2026 14:13:39 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -315,6 +270,46 @@
       "value_score": 26,
       "value_signals": [
         "Botnet",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
         "Exploit wording"
       ]
     },
@@ -558,6 +553,61 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Siemens Simcenter Femap and Nastran",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-01",
+      "summary": "View CSAF Summary Siemens Simcenter Femap and Nastran is affected by multiple file parsing vulnerabilities that could be triggered when the application reads files in NDB and XDB formats. If a user is tricked to open a malicious file with any of the affected products, this could lead the application to crash or potentially lead to arbitrary code execution. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemen",
+      "published": "Tue, 17 Feb 26 12:00:00 +0000",
+      "value_score": 43,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "GE Vernova Enervista UR Setup",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities may allow code execution with elevated privileges. The following versions of GE Vernova Enervista UR Setup are affected: Enervista UR Setup <8.70 (CVE-2026-1762, CVE-2026-1763) CVSS Vendor Equipment Vulnerabilities v3 7.8 GE Vernova GE Vernova Enervista UR Setup Uncontrolled Search Path Element, Path Traversal: '.../...//' Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Water and Wastewater Countries/A",
+      "published": "Tue, 17 Feb 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Honeywell CCTV Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could lead to account takeovers and unauthorized access to camera feeds; an unauthenticated attacker may change the recovery email address, potentially leading to further network compromise. The following versions of Honeywell CCTV Products are affected: I-HIB2PI-UL 2MP IP 6.1.22.1216 (CVE-2026-1670) SMB NDAA MVO-3 WDR_2MP_32M_PTZ_v2.0 (CVE-2026-1670) PTZ WDR 2MP 32M WDR_2MP_32M_PTZ_v2.0 (CVE-2026-1670) 25M IPC WDR_2MP_32M_PTZ_v2.0 ",
+      "published": "Tue, 17 Feb 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Delta Electronics ASDA-Soft",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability may allow an attacker to write arbitrary data beyond the bounds of a stack-allocated buffer, leading to the corruption of a structured exception handler (SEH). The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft <=7.2.0.0 (CVE-2026-1361) CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics ASDA-Soft Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Critical ",
+      "published": "Tue, 17 Feb 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-1731 BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) OS Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities es",
@@ -572,69 +622,16 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens SINEC OS",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-06",
-      "summary": "View CSAF Summary SINEC OS before V3.3 contains third-party components with multiple vulnerabilities. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SINEC OS are affected: RUGGEDCOM RST2428P (6GK6242-6PA00) vers:intdot/<3.3 (CVE-2022-48174, CVE-2023-7256, CVE-2023-39810, CVE-2023-42363, CVE-2023-42364, CVE-2023-42365, CVE-2023-42366, CVE-2024-6197, CVE-2024-6874, CVE-2024-7264, CVE-2024-8006, CVE-2024",
+      "title": "Siemens SINEC NMS",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-01",
+      "summary": "View CSAF Summary Multiple Siemens products are affected by two local privilege escalation vulnerabilities which could allow an low privileged attacker to load malicious DLLs, potentially leading to arbitrary code execution with elevated privileges. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SINEC NMS are affected: SINEC NMS: Versions prior to V4.0 SP2 (CVE-2026-25655) SINEC NMS: All Versions (CVE",
       "published": "Thu, 12 Feb 26 12:00:00 +0000",
-      "value_score": 91,
+      "value_score": 73,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×11",
-        "Patch/update",
-        "Multiple CVEs"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens Solid Edge",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-05",
-      "summary": "View CSAF Summary Solid Edge uses PS/IGES Parasolid Translator Component that contains an out of bounds read that could be triggered when the application reads files in IGS file formats. If a user is tricked to open a malicious file with any of the affected products, this could lead the application to crash or potentially lead to arbitrary code execution. Siemens has released a new version for Solid Edge and recommends to update to the latest version. The following versions of Siemens Solid Edge",
-      "published": "Thu, 12 Feb 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Privilege escalation",
         "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/12/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-43468 Microsoft Configuration Manager SQL Injection Vulnerability CVE-2025-15556 Notepad++ Download of Code Without Integrity Check Vulnerability CVE-2025-40536 SolarWinds Web Help Desk Security Control Bypass Vulnerability CVE-2026-20700 Apple Multiple Buffer Overflow Vulnerability These types of vulnerabilities are frequent attack vectors for malicio",
-      "published": "Thu, 12 Feb 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens Siveillance Video Management Servers",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-07",
-      "summary": "View CSAF Summary The Webhooks implementation of Siveillance Video Management Servers contains a vulnerability that could allow an authenticated remote attacker with read-only privileges to achieve full access to Webhooks API. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Siveillance Video Management Servers are affected: Siveillance Video V2023 R1: All versions < V23.1 HotfixRev18 Siveillance Video ",
-      "published": "Thu, 12 Feb 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens Polarion",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-02",
-      "summary": "View CSAF Summary Polarion before V2506 contains a vulnerability that could allow authenticated remote attackers to conduct cross-site scripting attacks. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Polarion are affected: Polarion V2404 vers:intdot/<2404.5 (CVE-2025-40587) Polarion V2410 vers:intdot/<2410.2 (CVE-2025-40587) CVSS Vendor Equipment Vulnerabilities v3 7.6 Siemens Siemens Polarion Improp",
-      "published": "Thu, 12 Feb 26 12:00:00 +0000",
-      "value_score": 87,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Patch/update",
-        "Multiple CVEs"
       ]
     },
     {
@@ -654,14 +651,16 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens NX",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-08",
-      "summary": "View CSAF Summary Siemens NX is affected by multiple file parsing vulnerabilities that could be triggered when the application reads files in CGM format. If a user is tricked to open a malicious file with any of the affected products, this could lead the application to crash or potentially lead to arbitrary code execution. Siemens has released a new version for NX and recommends to update to the latest version. The following versions of Siemens NX are affected: NX vers:intdot/<2512 (CVE-2026-229",
+      "title": "Siemens Polarion",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-02",
+      "summary": "View CSAF Summary Polarion before V2506 contains a vulnerability that could allow authenticated remote attackers to conduct cross-site scripting attacks. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Polarion are affected: Polarion V2404 vers:intdot/<2404.5 (CVE-2025-40587) Polarion V2410 vers:intdot/<2410.2 (CVE-2025-40587) CVSS Vendor Equipment Vulnerabilities v3 7.6 Siemens Siemens Polarion Improp",
       "published": "Thu, 12 Feb 26 12:00:00 +0000",
-      "value_score": 43,
+      "value_score": 87,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "Patch/update"
+        "CVE mentioned ×2",
+        "Patch/update",
+        "Multiple CVEs"
       ]
     }
   ],

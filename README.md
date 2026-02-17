@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-17 16:52 UTC |
+| 🕐 Last Updated | 2026-02-17 18:51 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`badbox 2 0` • `password managers vulnerable` • `api threats grow` • `scattered lapsus shinyhunters` • `windows operating systems` • `1password password managers` • `cyber insights 2026` • `arbitrary code execution` • `scattered lapsus hunters` • `wouldn t otherwise`
+`api threats grow` • `arbitrary code execution` • `password managers vulnerable` • `windows operating systems` • `double lock design` • `backdoor dubbed keenadu` • `connects ai assistants` • `cyber insights 2026` • `1password password managers` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

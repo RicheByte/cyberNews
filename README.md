@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-17 08:38 UTC |
+| 🕐 Last Updated | 2026-02-17 10:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`badbox 2 0` • `scattered lapsus shinyhunters` • `reduced staff cisa` • `canada goose investigating` • `arbitrary code execution` • `scattered lapsus hunters` • `amazon scraps partnership` • `twitter whistleblower complaint` • `personal information theft` • `automate malware defense`
+`password managers vulnerable` • `reduced staff cisa` • `arbitrary code execution` • `1password password managers` • `amazon scraps partnership` • `malicious server researchers` • `twitter whistleblower complaint` • `personal information theft` • `ai deployments scale` • `ai button that's`
 
 ## 📄 Reports
 

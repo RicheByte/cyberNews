@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-02-17 08:38",
+  "last_updated": "2026-02-17 10:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "badbox 2 0",
-    "scattered lapsus shinyhunters",
+    "password managers vulnerable",
     "reduced staff cisa",
-    "canada goose investigating",
     "arbitrary code execution",
-    "scattered lapsus hunters",
+    "1password password managers",
     "amazon scraps partnership",
+    "malicious server researchers",
     "twitter whistleblower complaint",
     "personal information theft",
-    "automate malware defense",
-    "50 security holes",
+    "ai deployments scale",
+    "ai button that's",
     "grab sensitive data",
-    "released emergency updates",
-    "windows washington hotel",
+    "windows operating systems",
     "weaponize windows drivers",
-    "extensions expose users",
+    "released emergency updates",
+    "president s efforts",
+    "internal network behind",
     "password recovery attacks",
-    "february 11 2026",
-    "washington hotel brand",
-    "today we'll dig"
+    "people already trust",
+    "malicious cyber actors",
+    "february 11 2026"
   ],
   "trending": [
     {
-      "keyword": "badbox 2 0",
-      "mentions": 138
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 107
+      "keyword": "password managers vulnerable",
+      "mentions": 1
     },
     {
       "keyword": "reduced staff cisa",
-      "mentions": 9
-    },
-    {
-      "keyword": "canada goose investigating",
-      "mentions": 13
+      "mentions": 10
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 126
+      "mentions": 127
     },
     {
-      "keyword": "scattered lapsus hunters",
-      "mentions": 41
+      "keyword": "1password password managers",
+      "mentions": 1
     },
     {
       "keyword": "amazon scraps partnership",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "malicious server researchers",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 718
+      "mentions": 719
     },
     {
       "keyword": "personal information theft",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "automate malware defense",
-      "mentions": 34
+      "keyword": "ai deployments scale",
+      "mentions": 1
+    },
+    {
+      "keyword": "ai button that's",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations",
+      "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
+      "summary": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (AI). The new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
+      "published": "Tue, 17 Feb 2026 15:01:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta",
@@ -143,11 +152,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
-      "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
-      "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage payload. Specifically, the attack relies on using the \"nslookup\" (short for nameserver lookup) command to execute a custom DNS lookup triggered via the Windows",
-      "published": "Sun, 15 Feb 2026 19:40:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Ireland now also investigating X over Grok-made sexual images",
+      "link": "https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/",
+      "summary": "Ireland's Data Protection Commission (DPC), the country's data protection authority, has opened a formal investigation into X over the use of the platform's Grok artificial intelligence tool to generate non-consensual sexual images of real people, including children. [...]",
+      "published": "Tue, 17 Feb 2026 05:02:21 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -230,62 +239,6 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Canada Goose investigating as hackers leak 600K customer records",
-      "link": "https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/",
-      "summary": "ShinyHunters, a well-known data extortion group, claims to have stolen more than 600,000 Canada Goose customer records containing personal and payment-related data. Canada Goose told BleepingComputer the dataset appears to relate to past customer transactions and that it has not found evidence of a breach of its own systems. [...]",
-      "published": "Sun, 15 Feb 2026 23:45:32 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -329,6 +282,46 @@
       "value_score": 26,
       "value_signals": [
         "Botnet",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
         "Exploit wording"
       ]
     },
@@ -412,6 +405,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Password Managers Vulnerable to Vault Compromise Under Malicious Server",
+      "link": "https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/",
+      "summary": "Researchers at ETH Zurich have tested the security of Bitwarden, LastPass, Dashlane, and 1Password password managers. The post Password Managers Vulnerable to Vault Compromise Under Malicious Server appeared first on SecurityWeek .",
+      "published": "Tue, 17 Feb 2026 09:30:46 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches",
       "link": "https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/",
       "summary": "Luxury brands were among the dozens of major companies whose Salesforce instances were targeted by Scattered LAPSUS$ Hunters. The post Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches appeared first on SecurityWeek .",
@@ -478,15 +480,6 @@
       "link": "https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/",
       "summary": "With more than 37 million combined downloads, the extensions expose users to tracking and personal information theft. The post Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data appeared first on SecurityWeek .",
       "published": "Sat, 14 Feb 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine",
-      "link": "https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: vulnerabilities at 277 water systems, DoD employee acting as money mule, 200 airports exposed by flaw. The post In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine appeared first on SecurityWeek .",
-      "published": "Fri, 13 Feb 2026 15:01:16 +0000",
       "value_score": 10,
       "value_signals": []
     },

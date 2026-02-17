@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 286,
+      "count": 287,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -118,7 +118,8 @@
         "2026-02-08",
         "2026-02-09",
         "2026-02-14",
-        "2026-02-15"
+        "2026-02-15",
+        "2026-02-17"
       ]
     },
     "user named csnemess": {
@@ -156,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 338,
+      "count": 339,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -202,11 +203,12 @@
         "2026-02-13",
         "2026-02-14",
         "2026-02-15",
-        "2026-02-16"
+        "2026-02-16",
+        "2026-02-17"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 718,
+      "count": 719,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1878,7 +1880,7 @@
       ]
     },
     "president s efforts": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-01-03",
         "2026-01-04",
@@ -1894,7 +1896,8 @@
         "2026-01-31",
         "2026-02-10",
         "2026-02-11",
-        "2026-02-16"
+        "2026-02-16",
+        "2026-02-17"
       ]
     },
     "wafer fabrication operation": {
@@ -2493,7 +2496,7 @@
       ]
     },
     "internal network behind": {
-      "count": 237,
+      "count": 238,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2524,7 +2527,8 @@
         "2026-02-13",
         "2026-02-14",
         "2026-02-15",
-        "2026-02-16"
+        "2026-02-16",
+        "2026-02-17"
       ]
     },
     "ai driven access": {
@@ -2543,7 +2547,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -6717,21 +6721,21 @@
       ]
     },
     "released emergency updates": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-16",
         "2026-02-17"
       ]
     },
     "weaponize windows drivers": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-16",
         "2026-02-17"
       ]
     },
     "amazon scraps partnership": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-16",
         "2026-02-17"
@@ -6744,7 +6748,7 @@
       ]
     },
     "personal information theft": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-16",
         "2026-02-17"
@@ -6758,21 +6762,21 @@
       ]
     },
     "grab sensitive data": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-16",
         "2026-02-17"
       ]
     },
     "reduced staff cisa": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-16",
         "2026-02-17"
       ]
     },
     "february 11 2026": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-16",
         "2026-02-17"
@@ -6798,7 +6802,7 @@
       ]
     },
     "password recovery attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-16",
         "2026-02-17"
@@ -6828,20 +6832,45 @@
       "dates": [
         "2026-02-17"
       ]
+    },
+    "password managers vulnerable": {
+      "count": 1,
+      "dates": [
+        "2026-02-17"
+      ]
+    },
+    "1password password managers": {
+      "count": 1,
+      "dates": [
+        "2026-02-17"
+      ]
+    },
+    "malicious server researchers": {
+      "count": 1,
+      "dates": [
+        "2026-02-17"
+      ]
+    },
+    "ai deployments scale": {
+      "count": 1,
+      "dates": [
+        "2026-02-17"
+      ]
+    },
+    "ai button that's": {
+      "count": 1,
+      "dates": [
+        "2026-02-17"
+      ]
+    },
+    "people already trust": {
+      "count": 1,
+      "dates": [
+        "2026-02-17"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-08 05:21",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "man pleads guilty",
-        "national security risk",
-        "internal network behind"
-      ]
-    },
     {
       "timestamp": "2026-02-08 06:42",
       "articles": 56,
@@ -7929,6 +7958,17 @@
         "reduced staff cisa",
         "canada goose investigating",
         "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-02-17 10:40",
+      "articles": 56,
+      "top_keywords": [
+        "password managers vulnerable",
+        "reduced staff cisa",
+        "arbitrary code execution",
+        "1password password managers",
+        "amazon scraps partnership"
       ]
     }
   ]

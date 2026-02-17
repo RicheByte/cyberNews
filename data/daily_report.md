@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-17 08:38 UTC  
+> **Last Updated:** 2026-02-17 10:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **reduced staff cisa** • **canada goose investigating** • **arbitrary code execution** • **scattered lapsus hunters** • **amazon scraps partnership** • **twitter whistleblower complaint** • **personal information theft** • **automate malware defense** • **50 security holes** • **grab sensitive data** • **released emergency updates** • **windows washington hotel** • **weaponize windows drivers** • **extensions expose users** • **password recovery attacks** • **february 11 2026** • **washington hotel brand** • **today we'll dig**
+**password managers vulnerable** • **reduced staff cisa** • **arbitrary code execution** • **1password password managers** • **amazon scraps partnership** • **malicious server researchers** • **twitter whistleblower complaint** • **personal information theft** • **ai deployments scale** • **ai button that's** • **grab sensitive data** • **windows operating systems** • **weaponize windows drivers** • **released emergency updates** • **president s efforts** • **internal network behind** • **password recovery attacks** • **people already trust** • **malicious cyber actors** • **february 11 2026**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations](https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html)
 - [Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html)
 - [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
 - [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
@@ -23,10 +24,10 @@
 - [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
 - [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
 - [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
-- [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
 
 ### BleepingComputer
 
+- [Ireland now also investigating X over Grok-made sexual images](https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/)
 - [Washington Hotel in Japan discloses ransomware infection incident](https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/)
 - [Eurail says stolen traveler data now up for sale on dark web](https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/)
 - [Man arrested for demanding reward after accidental police data leak](https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/)
@@ -34,18 +35,17 @@
 - [Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era](https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/)
 - [CISA gives feds 3 days to patch actively exploited BeyondTrust flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/)
 - [Google patches first Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/)
-- [Canada Goose investigating as hackers leak 600K customer records](https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/)
 
 ### Krebs on Security
 
-- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
-- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Password Managers Vulnerable to Vault Compromise Under Malicious Server](https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/)
 - [Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches](https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/)
 - [Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security](https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/)
 - [CISA Navigates DHS Shutdown With Reduced Staff](https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/)
@@ -67,7 +68,6 @@
 - [Amazon Scraps Partnership With Surveillance Company After Super Bowl Ad Backlash](https://www.securityweek.com/amazon-scraps-partnership-with-surveillance-company-after-super-bowl-ad-backlash/)
 - [Google Patches First Actively Exploited Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/)
 - [Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data](https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/)
-- [In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine](https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/)
 
 ### Threatpost
 

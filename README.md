@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-17 10:40 UTC |
+| 🕐 Last Updated | 2026-02-17 12:53 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`password managers vulnerable` • `reduced staff cisa` • `arbitrary code execution` • `1password password managers` • `amazon scraps partnership` • `malicious server researchers` • `twitter whistleblower complaint` • `personal information theft` • `ai deployments scale` • `ai button that's`
+`password managers vulnerable` • `reduced staff cisa` • `arbitrary code execution` • `1password password managers` • `amazon scraps partnership` • `ai deployments scale` • `ai button that's` • `twitter whistleblower complaint` • `incident response teams` • `windows operating systems`
 
 ## 📄 Reports
 

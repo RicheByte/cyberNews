@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-17 10:40 UTC  
+> **Last Updated:** 2026-02-17 12:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**password managers vulnerable** • **reduced staff cisa** • **arbitrary code execution** • **1password password managers** • **amazon scraps partnership** • **malicious server researchers** • **twitter whistleblower complaint** • **personal information theft** • **ai deployments scale** • **ai button that's** • **grab sensitive data** • **windows operating systems** • **weaponize windows drivers** • **released emergency updates** • **president s efforts** • **internal network behind** • **password recovery attacks** • **people already trust** • **malicious cyber actors** • **february 11 2026**
+**password managers vulnerable** • **reduced staff cisa** • **arbitrary code execution** • **1password password managers** • **amazon scraps partnership** • **ai deployments scale** • **ai button that's** • **twitter whistleblower complaint** • **incident response teams** • **windows operating systems** • **weaponize windows drivers** • **data centers investigations** • **server access data** • **president s efforts** • **password recovery attacks** • **internal network behind** • **people already trust** • **malicious cyber actors** • **gain remote access** • **wouldn t otherwise**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
+- [My Day Getting My Hands Dirty with an NDR System](https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html)
 - [Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations](https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html)
 - [Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html)
 - [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
 - [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
 - [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
 - [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html)
-- [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
-- [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
 
 ### BleepingComputer
 
+- [Poland arrests suspect linked to Phobos ransomware operation](https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/)
 - [Ireland now also investigating X over Grok-made sexual images](https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/)
 - [Washington Hotel in Japan discloses ransomware infection incident](https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/)
 - [Eurail says stolen traveler data now up for sale on dark web](https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/)
@@ -34,7 +35,6 @@
 - [Infostealer malware found stealing OpenClaw secrets for first time](https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/)
 - [Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era](https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/)
 - [CISA gives feds 3 days to patch actively exploited BeyondTrust flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/)
-- [Google patches first Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [3 Threat Groups Started Targeting ICS/OT in 2025: Dragos](https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/)
 - [Password Managers Vulnerable to Vault Compromise Under Malicious Server](https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/)
 - [Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches](https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/)
 - [Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security](https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/)
@@ -67,7 +68,6 @@
 - [Microsoft Warns of ClickFix Attack Abusing DNS Lookups](https://www.securityweek.com/microsoft-warns-of-clickfix-attack-abusing-dns-lookups/)
 - [Amazon Scraps Partnership With Surveillance Company After Super Bowl Ad Backlash](https://www.securityweek.com/amazon-scraps-partnership-with-surveillance-company-after-super-bowl-ad-backlash/)
 - [Google Patches First Actively Exploited Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/)
-- [Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data](https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/)
 
 ### Threatpost
 

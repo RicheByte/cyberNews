@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17 10:40",
+  "last_updated": "2026-02-17 12:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,65 +8,83 @@
     "arbitrary code execution",
     "1password password managers",
     "amazon scraps partnership",
-    "malicious server researchers",
-    "twitter whistleblower complaint",
-    "personal information theft",
     "ai deployments scale",
     "ai button that's",
-    "grab sensitive data",
+    "twitter whistleblower complaint",
+    "incident response teams",
     "windows operating systems",
     "weaponize windows drivers",
-    "released emergency updates",
+    "data centers investigations",
+    "server access data",
     "president s efforts",
-    "internal network behind",
     "password recovery attacks",
+    "internal network behind",
     "people already trust",
     "malicious cyber actors",
-    "february 11 2026"
+    "gain remote access",
+    "wouldn t otherwise"
   ],
   "trending": [
     {
       "keyword": "password managers vulnerable",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "reduced staff cisa",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 127
+      "mentions": 128
     },
     {
       "keyword": "1password password managers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "amazon scraps partnership",
-      "mentions": 11
-    },
-    {
-      "keyword": "malicious server researchers",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 719
-    },
-    {
-      "keyword": "personal information theft",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "ai deployments scale",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "ai button that's",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 720
+    },
+    {
+      "keyword": "incident response teams",
       "mentions": 1
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 340
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+      "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+      "summary": "Cloud attacks move fast — faster than most incident response teams. In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins. Cloud forensics is fundamentally",
+      "published": "Tue, 17 Feb 2026 17:29:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "My Day Getting My Hands Dirty with an NDR System",
+      "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
+      "summary": "My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn’t otherwise?Am I ready to be a network security analyst now? My objective As someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (",
+      "published": "Tue, 17 Feb 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations",
@@ -127,28 +145,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
-      "link": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices. \"The developer runs dedicated channels for sales, customer support, and regular updates, giving buyers a single point of access to a fully operational spyware",
-      "published": "Mon, 16 Feb 2026 15:54:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released",
-      "link": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
-      "summary": "Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild. The high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a use-after-free bug in CSS. Security researcher Shaheen Fazim has been credited with discovering and reporting the shortcoming on February 11, 2026. \"Use after",
-      "published": "Mon, 16 Feb 2026 12:08:00 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Poland arrests suspect linked to Phobos ransomware operation",
+      "link": "https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/",
+      "summary": "Polish police have detained a 47-year-old man suspected of ties to the Phobos ransomware group and seized computers and mobile phones containing stolen credentials, credit card numbers, and server access data. [...]",
+      "published": "Tue, 17 Feb 2026 06:31:37 -0500",
+      "value_score": 46,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Ransomware ×2"
       ]
     },
     {
@@ -222,19 +226,6 @@
         "Active exploitation ×2",
         "Patch/update",
         "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google patches first Chrome zero-day exploited in attacks this year",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/",
-      "summary": "Google has released emergency updates to fix a high-severity Chrome vulnerability exploited in zero-day attacks, marking the first such security flaw patched since the start of the year. [...]",
-      "published": "Mon, 16 Feb 2026 03:19:19 -0500",
-      "value_score": 74,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update",
         "Exploit wording"
       ]
     },
@@ -405,6 +396,15 @@
     },
     {
       "source": "Security Week",
+      "title": "3 Threat Groups Started Targeting ICS/OT in 2025: Dragos",
+      "link": "https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/",
+      "summary": "Industrial cybersecurity firm Dragos has published its 9th Year in Review OT/ICS Cybersecurity Report. The post 3 Threat Groups Started Targeting ICS/OT in 2025: Dragos appeared first on SecurityWeek .",
+      "published": "Tue, 17 Feb 2026 11:05:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Password Managers Vulnerable to Vault Compromise Under Malicious Server",
       "link": "https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/",
       "summary": "Researchers at ETH Zurich have tested the security of Bitwarden, LastPass, Dashlane, and 1Password password managers. The post Password Managers Vulnerable to Vault Compromise Under Malicious Server appeared first on SecurityWeek .",
@@ -473,15 +473,6 @@
         "Patch/update",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data",
-      "link": "https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/",
-      "summary": "With more than 37 million combined downloads, the extensions expose users to tracking and personal information theft. The post Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data appeared first on SecurityWeek .",
-      "published": "Sat, 14 Feb 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

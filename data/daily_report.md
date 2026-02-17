@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-17 20:31 UTC  
+> **Last Updated:** 2026-02-17 22:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**api threats grow** • **badbox 2 0** • **arbitrary code execution** • **scattered lapsus shinyhunters** • **password managers vulnerable** • **windows operating systems** • **double lock design** • **backdoor dubbed keenadu** • **connects ai assistants** • **cyber insights 2026** • **scattered lapsus hunters** • **1password password managers** • **50 security holes** • **wouldn t otherwise** • **twitter whistleblower complaint** • **silently harvest data** • **server access data** • **malicious server researchers** • **information stealer known** • **incident response teams**
+**api threats grow** • **badbox 2 0** • **arbitrary code execution** • **scattered lapsus shinyhunters** • **password managers vulnerable** • **windows operating systems** • **double lock design** • **backdoor dubbed keenadu** • **connects ai assistants** • **cyber insights 2026** • **scattered lapsus hunters** • **1password password managers** • **50 security holes** • **wouldn t otherwise** • **twitter whistleblower complaint** • **silently harvest data** • **server access data** • **renewable energy farms** • **malicious server researchers** • **information stealer known**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Flaws in popular VSCode extensions expose developers to attacks](https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/)
 - [Chinese hackers exploiting Dell zero-day flaw since mid-2024](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/)
 - [Notepad++ boosts update security with ‘double-lock’ mechanism](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/)
 - [Microsoft Teams outage affects users in United States, Europe](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/)
@@ -34,7 +35,6 @@
 - [New Keenadu backdoor found in Android firmware, Google Play apps](https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/)
 - [Poland arrests suspect linked to Phobos ransomware operation](https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/)
 - [Ireland now also investigating X over Grok-made sexual images](https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/)
-- [Washington Hotel in Japan discloses ransomware infection incident](https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Supply Chain Attack Embeds Malware in Android Devices](https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices)
+- [Poland Energy Survives Attack on Wind, Solar Infrastructure](https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure)
+- [RMM Abuse Explodes as Hackers Ditch Malware](https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware)
+- [ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT](https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat)
 - [Operation DoppelBrand: Weaponizing Fortune 500 Brands](https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands)
 - [260K+ Chrome Users Duped by Fake AI Browser Extensions](https://www.darkreading.com/cyber-risk/chrome-fake-ai-browser-extensions)
 - [Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities](https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities)
 - [Microsoft Under Pressure to Bolster Defenses for BYOVD Attacks](https://www.darkreading.com/application-security/microsoft-under-pressure-defenses-byovd-attacks)
-- [Nation-State Hackers Put Defense Industrial Base Under Siege](https://www.darkreading.com/cyber-risk/nation-state-hackers-defense-industrial-base-under-siege)
-- [AI Agents 'Swarm,' Security Complexity Follows Suit](https://www.darkreading.com/cloud-security/ai-agents-swarm-security-complexity)
-- [Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again](https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-bugs-exploit)
-- [Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense](https://www.darkreading.com/endpoint-security/booz-allen-announces-general-availability-vellox-reverser)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [Siemens Simcenter Femap and Nastran](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-01)
-- [GE Vernova Enervista UR Setup](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-03)
 - [Honeywell CCTV Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-04)
+- [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 - [Delta Electronics ASDA-Soft](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-02)
+- [GE Vernova Enervista UR Setup](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-03)
+- [Siemens Simcenter Femap and Nastran](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-01)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Siemens SINEC NMS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-01)
-- [Airleader Master](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-10)
 - [Siemens Polarion](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-02)
+- [Airleader Master](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-10)
 
 ---
 

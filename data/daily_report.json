@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17 06:53",
+  "last_updated": "2026-02-17 08:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,62 +11,73 @@
     "scattered lapsus hunters",
     "amazon scraps partnership",
     "twitter whistleblower complaint",
-    "sales customer support",
     "personal information theft",
-    "50 security holes",
-    "released emergency updates",
     "automate malware defense",
-    "password recovery attacks",
+    "50 security holes",
     "grab sensitive data",
+    "released emergency updates",
+    "windows washington hotel",
     "weaponize windows drivers",
     "extensions expose users",
+    "password recovery attacks",
     "february 11 2026",
-    "today we'll dig",
-    "supply chain exposure"
+    "washington hotel brand",
+    "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 137
+      "mentions": 138
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 106
+      "mentions": 107
     },
     {
       "keyword": "reduced staff cisa",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "canada goose investigating",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 125
+      "mentions": 126
     },
     {
       "keyword": "scattered lapsus hunters",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "amazon scraps partnership",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 717
-    },
-    {
-      "keyword": "sales customer support",
-      "mentions": 9
+      "mentions": 718
     },
     {
       "keyword": "personal information theft",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "automate malware defense",
+      "mentions": 34
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta",
+      "link": "https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html",
+      "summary": "Apple on Monday released a new developer beta of iOS and iPadOS with support for end-to-end encryption (E2EE) in Rich Communications Services (RCS) messages. The feature is currently available for testing in iOS and iPadOS 26.4 Beta, and is expected to be shipped to customers in a future update for iOS, iPadOS, macOS, and watchOS. \"End-to-end encryption is in beta and is not available for all",
+      "published": "Tue, 17 Feb 2026 12:14:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
@@ -137,15 +148,6 @@
       "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
       "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage payload. Specifically, the attack relies on using the \"nslookup\" (short for nameserver lookup) command to execute a custom DNS lookup triggered via the Windows",
       "published": "Sun, 15 Feb 2026 19:40:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
-      "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
-      "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL. Google Threat Intelligence Group (GTIG) described the hacking group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and",
-      "published": "Fri, 13 Feb 2026 22:57:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

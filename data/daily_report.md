@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-17 06:53 UTC  
+> **Last Updated:** 2026-02-17 08:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **reduced staff cisa** • **canada goose investigating** • **arbitrary code execution** • **scattered lapsus hunters** • **amazon scraps partnership** • **twitter whistleblower complaint** • **sales customer support** • **personal information theft** • **50 security holes** • **released emergency updates** • **automate malware defense** • **password recovery attacks** • **grab sensitive data** • **weaponize windows drivers** • **extensions expose users** • **february 11 2026** • **today we'll dig** • **supply chain exposure**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **reduced staff cisa** • **canada goose investigating** • **arbitrary code execution** • **scattered lapsus hunters** • **amazon scraps partnership** • **twitter whistleblower complaint** • **personal information theft** • **automate malware defense** • **50 security holes** • **grab sensitive data** • **released emergency updates** • **windows washington hotel** • **weaponize windows drivers** • **extensions expose users** • **password recovery attacks** • **february 11 2026** • **washington hotel brand** • **today we'll dig**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html)
 - [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
 - [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html)
 - [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html)
@@ -23,7 +24,6 @@
 - [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
 - [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
 - [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html)
-- [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html)
 
 ### BleepingComputer
 

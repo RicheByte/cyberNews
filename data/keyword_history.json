@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 341,
+      "count": 342,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -208,7 +208,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 721,
+      "count": 722,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -471,7 +471,7 @@
       ]
     },
     "scattered lapsus hunters": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2025-12-18",
         "2025-12-24",
@@ -2547,7 +2547,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2848,7 +2848,7 @@
       ]
     },
     "cyber insights 2026": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-12",
         "2026-01-13",
@@ -4510,7 +4510,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5280,7 +5280,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6239,7 +6239,7 @@
       ]
     },
     "50 security holes": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6552,9 +6552,10 @@
       ]
     },
     "secure online communications": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-13"
+        "2026-02-13",
+        "2026-02-17"
       ]
     },
     "original researchers observe": {
@@ -6629,7 +6630,7 @@
       ]
     },
     "automate malware defense": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -6729,7 +6730,7 @@
       ]
     },
     "weaponize windows drivers": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-16",
         "2026-02-17"
@@ -6835,13 +6836,13 @@
       ]
     },
     "password managers vulnerable": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-17"
       ]
     },
     "1password password managers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-17"
       ]
@@ -6871,7 +6872,7 @@
       ]
     },
     "incident response teams": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-17"
       ]
@@ -6883,7 +6884,7 @@
       ]
     },
     "server access data": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-17"
       ]
@@ -6895,19 +6896,19 @@
       ]
     },
     "wouldn t otherwise": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-17"
       ]
     },
     "api threats grow": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-17"
       ]
     },
     "post man linked": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-17"
       ]
@@ -6923,20 +6924,21 @@
       "dates": [
         "2026-02-17"
       ]
+    },
+    "information stealer known": {
+      "count": 1,
+      "dates": [
+        "2026-02-17"
+      ]
+    },
+    "secure browser technologies": {
+      "count": 1,
+      "dates": [
+        "2026-02-17"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-08 10:21",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "man pleads guilty",
-        "national security risk",
-        "internal network behind"
-      ]
-    },
     {
       "timestamp": "2026-02-08 12:38",
       "articles": 56,
@@ -8024,6 +8026,17 @@
         "cyber insights 2026",
         "arbitrary code execution",
         "api threats grow"
+      ]
+    },
+    {
+      "timestamp": "2026-02-17 16:52",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "password managers vulnerable",
+        "api threats grow",
+        "scattered lapsus shinyhunters",
+        "windows operating systems"
       ]
     }
   ]

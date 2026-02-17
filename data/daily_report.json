@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-17 14:41",
+  "last_updated": "2026-02-17 16:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "badbox 2 0",
     "password managers vulnerable",
-    "reduced staff cisa",
+    "api threats grow",
+    "scattered lapsus shinyhunters",
+    "windows operating systems",
+    "1password password managers",
     "cyber insights 2026",
     "arbitrary code execution",
-    "api threats grow",
-    "1password password managers",
-    "windows operating systems",
-    "server access data",
+    "scattered lapsus hunters",
+    "wouldn t otherwise",
     "twitter whistleblower complaint",
-    "post man linked",
+    "information stealer known",
     "incident response teams",
-    "gain unrestricted control",
-    "data centers investigations",
+    "automate malware defense",
+    "server access data",
+    "50 security holes",
+    "post man linked",
     "weaponize windows drivers",
-    "connects ai assistants",
-    "ai button that's",
-    "malicious cyber actors",
-    "president s efforts",
-    "password recovery attacks",
-    "internal network behind"
+    "secure online communications",
+    "secure browser technologies"
   ],
   "trending": [
     {
+      "keyword": "badbox 2 0",
+      "mentions": 139
+    },
+    {
       "keyword": "password managers vulnerable",
-      "mentions": 3
-    },
-    {
-      "keyword": "reduced staff cisa",
-      "mentions": 12
-    },
-    {
-      "keyword": "cyber insights 2026",
-      "mentions": 14
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 129
+      "mentions": 4
     },
     {
       "keyword": "api threats grow",
-      "mentions": 1
-    },
-    {
-      "keyword": "1password password managers",
-      "mentions": 3
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 341
-    },
-    {
-      "keyword": "server access data",
       "mentions": 2
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 721
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 108
     },
     {
-      "keyword": "post man linked",
-      "mentions": 1
+      "keyword": "windows operating systems",
+      "mentions": 342
+    },
+    {
+      "keyword": "1password password managers",
+      "mentions": 4
+    },
+    {
+      "keyword": "cyber insights 2026",
+      "mentions": 15
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 130
+    },
+    {
+      "keyword": "scattered lapsus hunters",
+      "mentions": 42
+    },
+    {
+      "keyword": "wouldn t otherwise",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -146,6 +146,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft Teams outage affects users in United States, Europe",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/",
+      "summary": "​Microsoft is working to resolve an ongoing outage affecting Microsoft Teams users, causing delays and preventing some from accessing the service. [...]",
+      "published": "Tue, 17 Feb 2026 10:37:45 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "What 5 Million Apps Revealed About Secrets in JavaScript",
+      "link": "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/",
+      "summary": "Leaked API keys are nothing new, but the scale of the problem in front-end code has been largely a mystery - until now. Intruder's research team built a new secrets detection method and scanned 5 million applications specifically looking for secrets hidden in JavaScript bundles. Here's what we learned. [...]",
+      "published": "Tue, 17 Feb 2026 09:40:49 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Keenadu backdoor found in Android firmware, Google Play apps",
       "link": "https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/",
       "summary": "A newly discovered and sophisticated Android malware called Keenadu has been found embedded in firmware from multiple device brands, enabling it to compromise all installed applications and gain unrestricted control over infected devices. [...]",
@@ -209,22 +227,49 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Infostealer malware found stealing OpenClaw secrets for first time",
-      "link": "https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/",
-      "summary": "With the massive adoption of the OpenClaw agentic AI assistant, information-stealing malware has been spotted stealing files associated with the framework that contain API keys, authentication tokens, and other secrets. [...]",
-      "published": "Mon, 16 Feb 2026 12:32:26 -0500",
+      "source": "Krebs on Security",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era",
-      "link": "https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/",
-      "summary": "Password-based authentication is increasingly risky as organizations adopt passkeys to strengthen security and meet ISO/IEC 27001 requirements. Passwork explains how to align passwordless adoption with Annex A controls, risk assessments, and secure implementation practices. [...]",
-      "published": "Mon, 16 Feb 2026 10:02:12 -0500",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
     },
     {
       "source": "Krebs on Security",
@@ -274,50 +319,10 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
-      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
       "source": "Dark Reading",
       "title": "Operation DoppelBrand: Weaponizing Fortune 500 Brands",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands",
-      "summary": "The GS7 cyberthreat group targets US financial institutions with near-perfect imitations of corporate portals to steal credentials and gain remote access.",
+      "summary": "The GS7 cyber-threat group targets US financial institutions with near-perfect imitations of corporate portals to steal credentials and gain remote access.",
       "published": "Mon, 16 Feb 2026 18:05:55 GMT",
       "value_score": 10,
       "value_signals": []
@@ -393,6 +398,24 @@
     },
     {
       "source": "Security Week",
+      "title": "VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence",
+      "link": "https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/",
+      "summary": "The latest funding round was led by Sorenson Capital and brings the total investment to $45 million. The post VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence appeared first on SecurityWeek .",
+      "published": "Tue, 17 Feb 2026 16:00:04 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Hackers Offer to Sell Millions of Eurail User Records",
+      "link": "https://www.securityweek.com/hackers-offer-to-sell-millions-of-eurail-user-records/",
+      "summary": "Eurail has confirmed that the stolen data is up for sale, but it’s still trying to determine how many individuals are impacted. The post Hackers Offer to Sell Millions of Eurail User Records appeared first on SecurityWeek .",
+      "published": "Tue, 17 Feb 2026 15:27:12 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "API Threats Grow in Scale as AI Expands the Blast Radius",
       "link": "https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/",
       "summary": "New research shows attackers increasingly abusing APIs at machine speed as AI-driven systems widen exposure and amplify impact. The post API Threats Grow in Scale as AI Expands the Blast Radius appeared first on SecurityWeek .",
@@ -449,26 +472,6 @@
       "published": "Mon, 16 Feb 2026 15:09:13 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security",
-      "link": "https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/",
-      "summary": "The latest Android version continues to improve security and privacy, according to its developers. The post Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security appeared first on SecurityWeek .",
-      "published": "Mon, 16 Feb 2026 13:50:36 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Navigates DHS Shutdown With Reduced Staff",
-      "link": "https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/",
-      "summary": "CISA is currently operating at roughly 38% capacity (888 out of 2,341 staff) due to the DHS shutdown that began February 14, 2026. The post CISA Navigates DHS Shutdown With Reduced Staff appeared first on SecurityWeek .",
-      "published": "Mon, 16 Feb 2026 13:49:03 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CISA/KEV ×3"
-      ]
     },
     {
       "source": "Threatpost",

@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 347,
+      "count": 348,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -209,7 +209,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 727,
+      "count": 728,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -473,7 +473,7 @@
       ]
     },
     "scattered lapsus hunters": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2025-12-18",
         "2025-12-24",
@@ -2550,7 +2550,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2852,7 +2852,7 @@
       ]
     },
     "cyber insights 2026": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-12",
         "2026-01-13",
@@ -4516,7 +4516,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5287,7 +5287,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6247,7 +6247,7 @@
       ]
     },
     "50 security holes": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6845,21 +6845,21 @@
       ]
     },
     "password managers vulnerable": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "1password password managers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "malicious server researchers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6899,7 +6899,7 @@
       ]
     },
     "server access data": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6912,14 +6912,14 @@
       ]
     },
     "wouldn t otherwise": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "api threats grow": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6938,14 +6938,14 @@
       ]
     },
     "connects ai assistants": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "information stealer known": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6958,28 +6958,28 @@
       ]
     },
     "double lock design": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "backdoor dubbed keenadu": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "silently harvest data": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "renewable energy farms": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6999,17 +6999,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-08 22:21",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "national security risk",
-        "internal network behind",
-        "twitter whistleblower complaint",
-        "publicly accessible api"
-      ]
-    },
     {
       "timestamp": "2026-02-09 01:50",
       "articles": 56,
@@ -8090,6 +8079,17 @@
     },
     {
       "timestamp": "2026-02-18 04:17",
+      "articles": 56,
+      "top_keywords": [
+        "api threats grow",
+        "badbox 2 0",
+        "windows operating systems",
+        "arbitrary code execution",
+        "scattered lapsus shinyhunters"
+      ]
+    },
+    {
+      "timestamp": "2026-02-18 06:56",
       "articles": 56,
       "top_keywords": [
         "api threats grow",

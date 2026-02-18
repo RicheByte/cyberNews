@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-18 08:39 UTC  
+> **Last Updated:** 2026-02-18 10:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5](https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/)
 - [Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction](https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/)
 - [Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group](https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/)
 - [VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence](https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/)
@@ -67,7 +68,6 @@
 - [API Threats Grow in Scale as AI Expands the Blast Radius](https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/)
 - [Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems](https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/)
 - [Man Linked to Phobos Ransomware Arrested in Poland](https://www.securityweek.com/man-linked-to-phobos-ransomware-arrested-in-poland/)
-- [3 Threat Groups Started Targeting ICS/OT in 2025: Dragos](https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/)
 
 ### Threatpost
 

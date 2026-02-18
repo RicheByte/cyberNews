@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-17 22:25",
+  "last_updated": "2026-02-18 01:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "api threats grow",
-    "badbox 2 0",
-    "arbitrary code execution",
-    "scattered lapsus shinyhunters",
-    "password managers vulnerable",
     "windows operating systems",
+    "arbitrary code execution",
+    "password managers vulnerable",
     "double lock design",
     "backdoor dubbed keenadu",
     "connects ai assistants",
     "cyber insights 2026",
-    "scattered lapsus hunters",
     "1password password managers",
-    "50 security holes",
-    "wouldn t otherwise",
+    "malicious server researchers",
     "twitter whistleblower complaint",
+    "renewable energy farms",
+    "ai button that's",
     "silently harvest data",
     "server access data",
-    "renewable energy farms",
-    "malicious server researchers",
-    "information stealer known"
+    "data centers investigations",
+    "probable culprits behind",
+    "incident response teams",
+    "dire critical rating",
+    "defend critical operations"
   ],
   "trending": [
     {
       "keyword": "api threats grow",
-      "mentions": 5
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 141
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 133
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 110
-    },
-    {
-      "keyword": "password managers vulnerable",
-      "mentions": 7
+      "mentions": 6
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 345
+      "mentions": 346
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 134
+    },
+    {
+      "keyword": "password managers vulnerable",
+      "mentions": 8
     },
     {
       "keyword": "double lock design",
-      "mentions": 3
-    },
-    {
-      "keyword": "backdoor dubbed keenadu",
-      "mentions": 3
-    },
-    {
-      "keyword": "connects ai assistants",
       "mentions": 4
     },
     {
+      "keyword": "backdoor dubbed keenadu",
+      "mentions": 4
+    },
+    {
+      "keyword": "connects ai assistants",
+      "mentions": 5
+    },
+    {
       "keyword": "cyber insights 2026",
-      "mentions": 18
+      "mentions": 19
+    },
+    {
+      "keyword": "1password password managers",
+      "mentions": 8
+    },
+    {
+      "keyword": "malicious server researchers",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -145,6 +145,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
+      "link": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
+      "summary": "A Spanish court has granted precautionary measures against NordVPN and ProtonVPN, ordering the two popular VPN providers to block 16 websites that facilitate piracy of football matches. [...]",
+      "published": "Tue, 17 Feb 2026 18:15:49 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Flaws in popular VSCode extensions expose developers to attacks",
       "link": "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/",
       "summary": "Vulnerabilities with high to critical severity ratings affecting popular Visual Studio Code (VSCode) extensions collectively downloaded more than 128 million times could be exploited to steal local files and execute code remotely. [...]",
@@ -221,60 +230,6 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Ireland now also investigating X over Grok-made sexual images",
-      "link": "https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/",
-      "summary": "Ireland's Data Protection Commission (DPC), the country's data protection authority, has opened a formal investigation into X over the use of the platform's Grok artificial intelligence tool to generate non-consensual sexual images of real people, including children. [...]",
-      "published": "Tue, 17 Feb 2026 05:02:21 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
       "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -322,6 +277,57 @@
       ]
     },
     {
+      "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Singapore &amp; Its 4 Major Telcos Fend Off Chinese Hackers",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers",
+      "summary": "After detecting a zero-day attack, the country's effective response was attributed to the tight relationship between its government and private industry.",
+      "published": "Wed, 18 Feb 2026 01:00:00 GMT",
+      "value_score": 35,
+      "value_signals": [
+        "Zero-day"
+      ]
+    },
+    {
       "source": "Dark Reading",
       "title": "Supply Chain Attack Embeds Malware in Android Devices",
       "link": "https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices",
@@ -343,7 +349,7 @@
       "source": "Dark Reading",
       "title": "RMM Abuse Explodes as Hackers Ditch Malware",
       "link": "https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware",
-      "summary": "It's the path of lesser resistance, as remote monitoring and management (RMM) software offers stealth, persistence, and operational efficiency.",
+      "summary": "Remote monitoring and management (RMM) software offers hackers multiple benefits, including stealth, persistence, and operational efficiency.",
       "published": "Tue, 17 Feb 2026 21:01:26 GMT",
       "value_score": 10,
       "value_signals": []
@@ -383,17 +389,6 @@
       "published": "Fri, 13 Feb 2026 21:58:19 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Microsoft Under Pressure to Bolster Defenses for BYOVD Attacks",
-      "link": "https://www.darkreading.com/application-security/microsoft-under-pressure-defenses-byovd-attacks",
-      "summary": "Threat actors are exploiting security gaps to weaponize Windows drivers and terminate security processes in targeted networks, and there may be no easy fixes in sight.",
-      "published": "Fri, 13 Feb 2026 17:08:59 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

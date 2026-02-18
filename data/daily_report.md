@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-18 16:57 UTC  
+> **Last Updated:** 2026-02-18 18:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **arbitrary code execution** • **critical security flaw** • **darknet drug ring** • **badbox 2 0** • **50 security holes** • **palo alto networks** • **block 16 websites** • **125 million times** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **renewable energy farms** • **apryse pdf tools** • **probable culprits behind** • **even swatting executives** • **dire critical rating** • **analysis even begins** • **selectively deliver malware** • **endpoint security solution** • **cve 2026 24423**
+**scattered lapsus shinyhunters** • **arbitrary code execution** • **critical security flaw** • **darknet drug ring** • **badbox 2 0** • **50 security holes** • **palo alto networks** • **interdisciplinary research unit** • **block 16 websites** • **125 million times** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **renewable energy farms** • **figure technology solutions** • **even swatting executives** • **apryse pdf tools** • **probable culprits behind** • **dire critical rating** • **selectively deliver malware** • **endpoint security solution**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
 - [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
 - [Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html)
 - [Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html)
@@ -23,7 +24,6 @@
 - [3 Ways to Start Your Intelligent Workflow Program](https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html)
 - [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
 - [CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html)
-- [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
 
 ### BleepingComputer
 

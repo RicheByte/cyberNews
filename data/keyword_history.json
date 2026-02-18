@@ -209,7 +209,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 733,
+      "count": 734,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -732,7 +732,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1457,7 +1457,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 141,
+      "count": 142,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2552,7 +2552,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 141,
+      "count": 142,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3123,7 +3123,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4518,7 +4518,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5289,7 +5289,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5324,7 +5324,7 @@
       ]
     },
     "even swatting executives": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6250,7 +6250,7 @@
       ]
     },
     "50 security holes": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6984,14 +6984,14 @@
       ]
     },
     "renewable energy farms": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "probable culprits behind": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-18"
       ]
@@ -7003,31 +7003,31 @@
       ]
     },
     "palo alto networks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-18"
       ]
     },
     "darknet drug ring": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-18"
       ]
     },
     "block 16 websites": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-18"
       ]
     },
     "125 million times": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-18"
       ]
     },
     "apryse pdf tools": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-18"
       ]
@@ -7039,7 +7039,7 @@
       ]
     },
     "endpoint security solution": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-18"
       ]
@@ -7051,7 +7051,7 @@
       ]
     },
     "selectively deliver malware": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-18"
       ]
@@ -7061,20 +7061,21 @@
       "dates": [
         "2026-02-18"
       ]
+    },
+    "interdisciplinary research unit": {
+      "count": 1,
+      "dates": [
+        "2026-02-18"
+      ]
+    },
+    "figure technology solutions": {
+      "count": 1,
+      "dates": [
+        "2026-02-18"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-09 12:58",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "mobile device management",
-        "national security risk",
-        "twitter whistleblower complaint",
-        "publicly accessible api"
-      ]
-    },
     {
       "timestamp": "2026-02-09 14:47",
       "articles": 56,
@@ -8155,6 +8156,17 @@
     },
     {
       "timestamp": "2026-02-18 16:57",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "arbitrary code execution",
+        "critical security flaw",
+        "darknet drug ring",
+        "badbox 2 0"
+      ]
+    },
+    {
+      "timestamp": "2026-02-18 18:45",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

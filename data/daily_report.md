@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-18 18:45 UTC  
+> **Last Updated:** 2026-02-18 20:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **arbitrary code execution** • **critical security flaw** • **darknet drug ring** • **badbox 2 0** • **50 security holes** • **palo alto networks** • **interdisciplinary research unit** • **block 16 websites** • **125 million times** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **renewable energy farms** • **figure technology solutions** • **even swatting executives** • **apryse pdf tools** • **probable culprits behind** • **dire critical rating** • **selectively deliver malware** • **endpoint security solution**
+**scattered lapsus shinyhunters** • **darknet drug ring** • **badbox 2 0** • **arbitrary code execution** • **50 security holes** • **palo alto networks** • **interdisciplinary research unit** • **block 16 websites** • **125 million times** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **renewable energy farms** • **figure technology solutions** • **even swatting executives** • **apryse pdf tools** • **probable culprits behind** • **selectively deliver malware** • **endpoint security solution** • **critical security flaw** • **cve 2026 24423**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [AI platforms can be abused for stealthy malware communication](https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/)
 - [Telegram channels expose rapid weaponization of SmarterMail flaws](https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/)
 - [Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages](https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/)
 - [Data breach at fintech firm Figure affects nearly 1 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/)
@@ -34,7 +35,6 @@
 - [Glendale man gets 5 years in prison for role in darknet drug ring](https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/)
 - [Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites](https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/)
 - [Flaws in popular VSCode extensions expose developers to attacks](https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/)
-- [Chinese hackers exploiting Dell zero-day flaw since mid-2024](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [A CISO's Playbook for Defending Data Assets Against AI Scraping](https://www.darkreading.com/cyber-risk/ciso-playbook-defending-data-assets-against-ai-scraping)
 - [Singapore &amp; Its 4 Major Telcos Fend Off Chinese Hackers](https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers)
 - [Supply Chain Attack Embeds Malware in Android Devices](https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices)
 - [Poland Energy Survives Attack on Wind, Solar Infrastructure](https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure)
@@ -56,7 +57,6 @@
 - [ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT](https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat)
 - [Operation DoppelBrand: Weaponizing Fortune 500 Brands](https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands)
 - [260K+ Chrome Users Duped by Fake AI Browser Extensions](https://www.darkreading.com/cyber-risk/chrome-fake-ai-browser-extensions)
-- [Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities](https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [Honeywell CCTV Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-04)
-- [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog)
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog)
+- [Siemens Simcenter Femap and Nastran](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-01)
 - [Delta Electronics ASDA-Soft](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-02)
 - [GE Vernova Enervista UR Setup](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-03)
-- [Siemens Simcenter Femap and Nastran](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-01)
+- [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog)
+- [Honeywell CCTV Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-04)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Siemens Polarion](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-02)
-- [Airleader Master](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-10)
+- [Siemens Siveillance Video Management Servers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-07)
 
 ---
 

@@ -209,7 +209,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 732,
+      "count": 733,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -732,7 +732,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -752,7 +752,8 @@
         "2026-01-27",
         "2026-01-28",
         "2026-02-09",
-        "2026-02-10"
+        "2026-02-10",
+        "2026-02-18"
       ]
     },
     "denmark's critical infrastructure": {
@@ -1456,7 +1457,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1478,7 +1479,8 @@
         "2026-02-03",
         "2026-02-04",
         "2026-02-10",
-        "2026-02-11"
+        "2026-02-11",
+        "2026-02-18"
       ]
     },
     "model agnostic abstractions": {
@@ -2550,7 +2552,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3121,7 +3123,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4516,7 +4518,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5287,7 +5289,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5322,7 +5324,7 @@
       ]
     },
     "even swatting executives": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6248,7 +6250,7 @@
       ]
     },
     "50 security holes": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6982,14 +6984,14 @@
       ]
     },
     "renewable energy farms": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "probable culprits behind": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-18"
       ]
@@ -7001,31 +7003,31 @@
       ]
     },
     "palo alto networks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-18"
       ]
     },
     "darknet drug ring": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-18"
       ]
     },
     "block 16 websites": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-18"
       ]
     },
     "125 million times": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-18"
       ]
     },
     "apryse pdf tools": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-18"
       ]
@@ -7037,6 +7039,24 @@
       ]
     },
     "endpoint security solution": {
+      "count": 2,
+      "dates": [
+        "2026-02-18"
+      ]
+    },
+    "analysis even begins": {
+      "count": 1,
+      "dates": [
+        "2026-02-18"
+      ]
+    },
+    "selectively deliver malware": {
+      "count": 1,
+      "dates": [
+        "2026-02-18"
+      ]
+    },
+    "cve 2026 24423": {
       "count": 1,
       "dates": [
         "2026-02-18"
@@ -7044,17 +7064,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-09 10:51",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "national security risk",
-        "internal network behind",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-02-09 12:58",
       "articles": 56,
@@ -8142,6 +8151,17 @@
         "arbitrary code execution",
         "api threats grow",
         "double lock design"
+      ]
+    },
+    {
+      "timestamp": "2026-02-18 16:57",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "arbitrary code execution",
+        "critical security flaw",
+        "darknet drug ring",
+        "badbox 2 0"
       ]
     }
   ]

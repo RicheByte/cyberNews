@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-18 20:34 UTC |
+| 🕐 Last Updated | 2026-02-18 22:27 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `darknet drug ring` • `badbox 2 0` • `arbitrary code execution` • `50 security holes` • `palo alto networks` • `interdisciplinary research unit` • `block 16 websites` • `125 million times` • `twitter whistleblower complaint`
+`scattered lapsus shinyhunters` • `smb phone infrastructure` • `darknet drug ring` • `badbox 2 0` • `arbitrary code execution` • `50 security holes` • `palo alto networks` • `interdisciplinary research unit` • `block 16 websites` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

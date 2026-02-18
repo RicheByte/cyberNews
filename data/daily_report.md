@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-18 20:34 UTC  
+> **Last Updated:** 2026-02-18 22:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **darknet drug ring** • **badbox 2 0** • **arbitrary code execution** • **50 security holes** • **palo alto networks** • **interdisciplinary research unit** • **block 16 websites** • **125 million times** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **renewable energy farms** • **figure technology solutions** • **even swatting executives** • **apryse pdf tools** • **probable culprits behind** • **selectively deliver malware** • **endpoint security solution** • **critical security flaw** • **cve 2026 24423**
+**scattered lapsus shinyhunters** • **smb phone infrastructure** • **darknet drug ring** • **badbox 2 0** • **arbitrary code execution** • **50 security holes** • **palo alto networks** • **interdisciplinary research unit** • **block 16 websites** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **renewable energy farms** • **honeywell cctv products** • **figure technology solutions** • **even swatting executives** • **buy fake crypto** • **apryse pdf tools** • **probable culprits behind** • **auth bypass flaw** • **endpoint security solution**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Critical infra Honeywell CCTVs vulnerable to auth bypass flaw](https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/)
 - [AI platforms can be abused for stealthy malware communication](https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/)
 - [Telegram channels expose rapid weaponization of SmarterMail flaws](https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/)
 - [Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages](https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/)
@@ -34,7 +35,6 @@
 - [Microsoft says bug causes Copilot to summarize confidential emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/)
 - [Glendale man gets 5 years in prison for role in darknet drug ring](https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/)
 - [Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites](https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/)
-- [Flaws in popular VSCode extensions expose developers to attacks](https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto](https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto)
+- [Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot](https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot)
+- [Dell's Hard-Coded Flaw: A Nation-State Goldmine](https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine)
 - [A CISO's Playbook for Defending Data Assets Against AI Scraping](https://www.darkreading.com/cyber-risk/ciso-playbook-defending-data-assets-against-ai-scraping)
 - [Singapore &amp; Its 4 Major Telcos Fend Off Chinese Hackers](https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers)
 - [Supply Chain Attack Embeds Malware in Android Devices](https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices)
 - [Poland Energy Survives Attack on Wind, Solar Infrastructure](https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure)
 - [RMM Abuse Explodes as Hackers Ditch Malware](https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware)
-- [ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT](https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat)
-- [Operation DoppelBrand: Weaponizing Fortune 500 Brands](https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands)
-- [260K+ Chrome Users Duped by Fake AI Browser Extensions](https://www.darkreading.com/cyber-risk/chrome-fake-ai-browser-extensions)
 
 ### Security Week
 

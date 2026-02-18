@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-18 10:39 UTC |
+| 🕐 Last Updated | 2026-02-18 12:54 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`api threats grow` • `scattered lapsus shinyhunters` • `badbox 2 0` • `windows operating systems` • `arbitrary code execution` • `double lock design` • `backdoor dubbed keenadu` • `connects ai assistants` • `cyber insights 2026` • `palo alto networks`
+`api threats grow` • `scattered lapsus shinyhunters` • `darknet drug ring` • `badbox 2 0` • `windows operating systems` • `arbitrary code execution` • `double lock design` • `cyber insights 2026` • `50 security holes` • `palo alto networks`
 
 ## 📄 Reports
 

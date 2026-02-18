@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 350,
+      "count": 351,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -209,7 +209,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 730,
+      "count": 731,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2550,7 +2550,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2852,7 +2852,7 @@
       ]
     },
     "cyber insights 2026": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-12",
         "2026-01-13",
@@ -3121,7 +3121,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4516,7 +4516,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5287,7 +5287,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5322,12 +5322,13 @@
       ]
     },
     "even swatting executives": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-02",
         "2026-02-03",
         "2026-02-06",
-        "2026-02-07"
+        "2026-02-07",
+        "2026-02-18"
       ]
     },
     "shinyhunters expands scope": {
@@ -6247,7 +6248,7 @@
       ]
     },
     "50 security holes": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6561,7 +6562,7 @@
       ]
     },
     "secure online communications": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -6920,7 +6921,7 @@
       ]
     },
     "api threats grow": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6946,21 +6947,21 @@
       ]
     },
     "information stealer known": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "secure browser technologies": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "double lock design": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6974,21 +6975,21 @@
       ]
     },
     "silently harvest data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "renewable energy farms": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "probable culprits behind": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-18"
       ]
@@ -7000,24 +7001,25 @@
       ]
     },
     "palo alto networks": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-02-18"
+      ]
+    },
+    "darknet drug ring": {
+      "count": 1,
+      "dates": [
+        "2026-02-18"
+      ]
+    },
+    "block 16 websites": {
+      "count": 1,
       "dates": [
         "2026-02-18"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-09 06:59",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "national security risk",
-        "internal network behind",
-        "twitter whistleblower complaint",
-        "publicly accessible api"
-      ]
-    },
     {
       "timestamp": "2026-02-09 08:43",
       "articles": 56,
@@ -8105,6 +8107,17 @@
         "badbox 2 0",
         "windows operating systems",
         "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-02-18 12:54",
+      "articles": 56,
+      "top_keywords": [
+        "api threats grow",
+        "scattered lapsus shinyhunters",
+        "darknet drug ring",
+        "badbox 2 0",
+        "windows operating systems"
       ]
     }
   ]

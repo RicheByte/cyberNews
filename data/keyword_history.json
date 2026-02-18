@@ -209,7 +209,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 731,
+      "count": 732,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2550,7 +2550,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4516,7 +4516,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 146,
+      "count": 147,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5287,7 +5287,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5322,7 +5322,7 @@
       ]
     },
     "even swatting executives": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6248,7 +6248,7 @@
       ]
     },
     "50 security holes": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6562,7 +6562,7 @@
       ]
     },
     "secure online communications": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -6894,7 +6894,7 @@
       ]
     },
     "data centers investigations": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6921,7 +6921,7 @@
       ]
     },
     "api threats grow": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6954,14 +6954,14 @@
       ]
     },
     "secure browser technologies": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "double lock design": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6982,14 +6982,14 @@
       ]
     },
     "renewable energy farms": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "probable culprits behind": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-18"
       ]
@@ -7001,18 +7001,42 @@
       ]
     },
     "palo alto networks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-18"
       ]
     },
     "darknet drug ring": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-18"
       ]
     },
     "block 16 websites": {
+      "count": 2,
+      "dates": [
+        "2026-02-18"
+      ]
+    },
+    "125 million times": {
+      "count": 1,
+      "dates": [
+        "2026-02-18"
+      ]
+    },
+    "apryse pdf tools": {
+      "count": 1,
+      "dates": [
+        "2026-02-18"
+      ]
+    },
+    "modern security strategies": {
+      "count": 1,
+      "dates": [
+        "2026-02-18"
+      ]
+    },
+    "endpoint security solution": {
       "count": 1,
       "dates": [
         "2026-02-18"
@@ -7020,17 +7044,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-09 08:43",
-      "articles": 56,
-      "top_keywords": [
-        "windows operating systems",
-        "national security risk",
-        "internal network behind",
-        "twitter whistleblower complaint",
-        "publicly accessible api"
-      ]
-    },
     {
       "timestamp": "2026-02-09 10:51",
       "articles": 56,
@@ -8118,6 +8131,17 @@
         "darknet drug ring",
         "badbox 2 0",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-02-18 14:40",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "arbitrary code execution",
+        "api threats grow",
+        "double lock design"
       ]
     }
   ]

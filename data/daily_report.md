@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-18 06:56 UTC  
+> **Last Updated:** 2026-02-18 08:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**api threats grow** • **badbox 2 0** • **windows operating systems** • **arbitrary code execution** • **scattered lapsus shinyhunters** • **password managers vulnerable** • **double lock design** • **backdoor dubbed keenadu** • **connects ai assistants** • **cyber insights 2026** • **scattered lapsus hunters** • **1password password managers** • **50 security holes** • **wouldn t otherwise** • **twitter whistleblower complaint** • **renewable energy farms** • **malicious server researchers** • **information stealer known** • **silently harvest data** • **server access data**
+**api threats grow** • **scattered lapsus shinyhunters** • **badbox 2 0** • **windows operating systems** • **arbitrary code execution** • **double lock design** • **backdoor dubbed keenadu** • **connects ai assistants** • **cyber insights 2026** • **palo alto networks** • **50 security holes** • **wouldn t otherwise** • **twitter whistleblower complaint** • **renewable energy farms** • **information stealer known** • **ai button that's** • **secure online communications** • **secure browser technologies** • **probable culprits behind** • **incident response teams**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
+- [CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html)
 - [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html)
 - [Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies](https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html)
 - [Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates](https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html)
 - [SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer](https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html)
 - [My Day Getting My Hands Dirty with an NDR System](https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html)
 - [Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations](https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html)
-- [Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html)
-- [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction](https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/)
+- [Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group](https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/)
 - [VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence](https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/)
 - [Hackers Offer to Sell Millions of Eurail User Records](https://www.securityweek.com/hackers-offer-to-sell-millions-of-eurail-user-records/)
 - [API Threats Grow in Scale as AI Expands the Blast Radius](https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/)
 - [Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems](https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/)
 - [Man Linked to Phobos Ransomware Arrested in Poland](https://www.securityweek.com/man-linked-to-phobos-ransomware-arrested-in-poland/)
 - [3 Threat Groups Started Targeting ICS/OT in 2025: Dragos](https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/)
-- [Password Managers Vulnerable to Vault Compromise Under Malicious Server](https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/)
-- [Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches](https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/)
 
 ### Threatpost
 

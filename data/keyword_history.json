@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 348,
+      "count": 349,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -209,7 +209,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 728,
+      "count": 729,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2550,7 +2550,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2852,7 +2852,7 @@
       ]
     },
     "cyber insights 2026": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-12",
         "2026-01-13",
@@ -4516,7 +4516,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5287,7 +5287,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6247,7 +6247,7 @@
       ]
     },
     "50 security holes": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6561,10 +6561,11 @@
       ]
     },
     "secure online communications": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-13",
-        "2026-02-17"
+        "2026-02-17",
+        "2026-02-18"
       ]
     },
     "original researchers observe": {
@@ -6872,7 +6873,7 @@
       ]
     },
     "ai button that's": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6885,7 +6886,7 @@
       ]
     },
     "incident response teams": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6912,14 +6913,14 @@
       ]
     },
     "wouldn t otherwise": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "api threats grow": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6938,34 +6939,35 @@
       ]
     },
     "connects ai assistants": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "information stealer known": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "secure browser technologies": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-02-17"
+        "2026-02-17",
+        "2026-02-18"
       ]
     },
     "double lock design": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "backdoor dubbed keenadu": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-17",
         "2026-02-18"
@@ -6979,14 +6981,14 @@
       ]
     },
     "renewable energy farms": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-17",
         "2026-02-18"
       ]
     },
     "probable culprits behind": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-18"
       ]
@@ -6996,20 +6998,15 @@
       "dates": [
         "2026-02-18"
       ]
+    },
+    "palo alto networks": {
+      "count": 1,
+      "dates": [
+        "2026-02-18"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-09 01:50",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "national security risk",
-        "internal network behind",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-02-09 04:23",
       "articles": 56,
@@ -8097,6 +8094,17 @@
         "windows operating systems",
         "arbitrary code execution",
         "scattered lapsus shinyhunters"
+      ]
+    },
+    {
+      "timestamp": "2026-02-18 08:39",
+      "articles": 56,
+      "top_keywords": [
+        "api threats grow",
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "windows operating systems",
+        "arbitrary code execution"
       ]
     }
   ]

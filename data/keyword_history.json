@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 351,
+      "count": 352,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -205,11 +205,12 @@
         "2026-02-15",
         "2026-02-16",
         "2026-02-17",
-        "2026-02-18"
+        "2026-02-18",
+        "2026-02-19"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 742,
+      "count": 743,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -733,7 +734,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1459,7 +1460,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2555,7 +2556,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4522,7 +4523,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5294,7 +5295,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6257,7 +6258,7 @@
       ]
     },
     "50 security holes": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7078,7 +7079,7 @@
       ]
     },
     "interdisciplinary research unit": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7092,28 +7093,28 @@
       ]
     },
     "smb phone infrastructure": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-18",
         "2026-02-19"
       ]
     },
     "honeywell cctv products": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-18",
         "2026-02-19"
       ]
     },
     "buy fake crypto": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-18",
         "2026-02-19"
       ]
     },
     "auth bypass flaw": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7126,25 +7127,25 @@
       ]
     },
     "venice security emerges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-19"
       ]
     },
     "targeting technology manufacturing": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-19"
       ]
     },
     "voice phishing vishing": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-19"
       ]
     },
     "ivanti exploitation surges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-19"
       ]
@@ -7162,6 +7163,18 @@
       ]
     },
     "fake loan applications": {
+      "count": 2,
+      "dates": [
+        "2026-02-19"
+      ]
+    },
+    "long term espionage": {
+      "count": 1,
+      "dates": [
+        "2026-02-19"
+      ]
+    },
+    "hacking tax firms": {
       "count": 1,
       "dates": [
         "2026-02-19"
@@ -7169,17 +7182,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-10 13:02",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "lema ai emerges",
-        "badbox 2 0",
-        "high value assets",
-        "critical security flaw"
-      ]
-    },
     {
       "timestamp": "2026-02-10 14:54",
       "articles": 56,
@@ -8267,6 +8269,17 @@
         "smb phone infrastructure",
         "targeting technology manufacturing",
         "honeywell cctv products"
+      ]
+    },
+    {
+      "timestamp": "2026-02-19 14:42",
+      "articles": 56,
+      "top_keywords": [
+        "venice security emerges",
+        "smb phone infrastructure",
+        "targeting technology manufacturing",
+        "scattered lapsus shinyhunters",
+        "long term espionage"
       ]
     }
   ]

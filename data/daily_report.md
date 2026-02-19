@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-19 12:54 UTC  
+> **Last Updated:** 2026-02-19 14:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **venice security emerges** • **smb phone infrastructure** • **targeting technology manufacturing** • **honeywell cctv products** • **badbox 2 0** • **arbitrary code execution** • **50 security holes** • **interdisciplinary research unit** • **voice phishing vishing** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **renewable energy farms** • **ivanti exploitation surges** • **defending data assets** • **automated data harvesting** • **critical security flaw** • **probable culprits behind** • **fake loan applications** • **buy fake crypto**
+**venice security emerges** • **smb phone infrastructure** • **targeting technology manufacturing** • **scattered lapsus shinyhunters** • **long term espionage** • **honeywell cctv products** • **badbox 2 0** • **arbitrary code execution** • **50 security holes** • **interdisciplinary research unit** • **twitter whistleblower complaint** • **ivanti exploitation surges** • **hacking tax firms** • **voice phishing vishing** • **sprawling phishing campaign** • **fake loan applications** • **critical security flaw** • **buy fake crypto** • **auth bypass flaw** • **windows operating systems**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html)
 - [From Exposure to Exploitation: How AI Collapses Your Response Window](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
 - [Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html)
 - [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
@@ -23,10 +24,10 @@
 - [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
 - [Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html)
 - [Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html)
-- [Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024](https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html)
 
 ### BleepingComputer
 
+- [Nigerian man gets eight years in prison for hacking tax firms](https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/)
 - [Texas sues TP-Link over Chinese hacking risks, user deception](https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/)
 - [Hackers target Microsoft Entra accounts in device code vishing attacks](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/)
 - [Police arrests 651 suspects in African cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/)
@@ -34,7 +35,6 @@
 - [Critical infra Honeywell CCTVs vulnerable to auth bypass flaw](https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/)
 - [AI platforms can be abused for stealthy malware communication](https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/)
 - [Telegram channels expose rapid weaponization of SmarterMail flaws](https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/)
-- [Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages](https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/)
 
 ### Krebs on Security
 
@@ -52,14 +52,15 @@
 - [More Than 40% of South Africans Were Scammed in 2025](https://www.darkreading.com/cybersecurity-analytics/south-africans-scammed-2025)
 - [Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto](https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto)
 - [Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot](https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot)
+- [Threat Intelligence Has a Human-Shaped Blind Spot](https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot)
 - [Dell's Hard-Coded Flaw: A Nation-State Goldmine](https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine)
 - [A CISO's Playbook for Defending Data Assets Against AI Scraping](https://www.darkreading.com/cyber-risk/ciso-playbook-defending-data-assets-against-ai-scraping)
 - [Singapore &amp; Its 4 Major Telcos Fend Off Chinese Hackers](https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers)
 - [Supply Chain Attack Embeds Malware in Android Devices](https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices)
-- [Poland Energy Survives Attack on Wind, Solar Infrastructure](https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure)
 
 ### Security Week
 
+- [Nearly 1 Million User Records Compromised in Figure Data Breach](https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/)
 - [Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management](https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/)
 - [Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025](https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/)
 - [OpenClaw Security Issues Continue as SecureClaw Open Source Tool Debuts](https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/)
@@ -67,7 +68,6 @@
 - [New Keenadu Android Malware Found on Thousands of Devices](https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/)
 - [Cogent Security Raises $42 Million for AI-Driven Vulnerability Management](https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/)
 - [Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration](https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/)
-- [CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5](https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/)
 
 ### Threatpost
 

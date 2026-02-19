@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-19 16:44 UTC  
+> **Last Updated:** 2026-02-19 18:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**venice security emerges** • **smb phone infrastructure** • **targeting technology manufacturing** • **scattered lapsus shinyhunters** • **long term espionage** • **honeywell cctv products** • **badbox 2 0** • **arbitrary code execution** • **50 security holes** • **interdisciplinary research unit** • **data allegedly stolen** • **windows operating systems** • **twitter whistleblower complaint** • **ivanti exploitation surges** • **hacking tax firms** • **voice phishing vishing** • **sprawling phishing campaign** • **fake loan applications** • **critical security flaw** • **buy fake crypto**
+**venice security emerges** • **arbitrary code execution** • **targeting technology manufacturing** • **scattered lapsus shinyhunters** • **long term espionage** • **badbox 2 0** • **50 security holes** • **execute code remotely** • **smb phone infrastructure** • **pose significant risks** • **interdisciplinary research unit** • **data allegedly stolen** • **critical security flaw** • **windows operating systems** • **twitter whistleblower complaint** • **missing something crucial** • **ivanti exploitation surges** • **hacking tax firms** • **voice phishing vishing** • **sprawling phishing campaign**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Flaw in Grandstream VoIP phones allows stealthy eavesdropping](https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/)
 - [CISA orders feds to patch actively exploited Dell flaw within 3 days](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/)
 - [How infostealers turn stolen credentials into real identities](https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/)
 - [Nigerian man gets eight years in prison for hacking tax firms](https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/)
@@ -34,7 +35,6 @@
 - [Hackers target Microsoft Entra accounts in device code vishing attacks](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/)
 - [Police arrests 651 suspects in African cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/)
 - [New 'Massiv' Android banking malware poses as an IPTV app](https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/)
-- [Critical infra Honeywell CCTVs vulnerable to auth bypass flaw](https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [EnOcean SmartServer IoT](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-01)
+- [Welker OdorEyes EcoSystem Pulse Bypass System with XL4 Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-04)
+- [Jinan USR IOT Technology Limited (PUSR) USR-W610](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-03)
+- [Valmet DNA Engineering Web Tools](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-02)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [Siemens Simcenter Femap and Nastran](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-01)
 - [Delta Electronics ASDA-Soft](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-02)
-- [GE Vernova Enervista UR Setup](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-03)
+- [Siemens Simcenter Femap and Nastran](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-01)
 - [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog)
-- [Honeywell CCTV Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-04)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Siemens Siveillance Video Management Servers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-07)
 
 ---
 

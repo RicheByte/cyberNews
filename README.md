@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-19 16:44 UTC |
+| 🕐 Last Updated | 2026-02-19 18:44 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`venice security emerges` • `smb phone infrastructure` • `targeting technology manufacturing` • `scattered lapsus shinyhunters` • `long term espionage` • `honeywell cctv products` • `badbox 2 0` • `arbitrary code execution` • `50 security holes` • `interdisciplinary research unit`
+`venice security emerges` • `arbitrary code execution` • `targeting technology manufacturing` • `scattered lapsus shinyhunters` • `long term espionage` • `badbox 2 0` • `50 security holes` • `execute code remotely` • `smb phone infrastructure` • `pose significant risks`
 
 ## 📄 Reports
 

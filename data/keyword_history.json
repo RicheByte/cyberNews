@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 353,
+      "count": 354,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -210,7 +210,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 744,
+      "count": 745,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -734,7 +734,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1460,7 +1460,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 152,
+      "count": 153,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2556,7 +2556,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 152,
+      "count": 153,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3121,10 +3121,11 @@
       ]
     },
     "pose significant risks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-14",
-        "2026-02-09"
+        "2026-02-09",
+        "2026-02-19"
       ]
     },
     "dire critical rating": {
@@ -4523,7 +4524,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5295,7 +5296,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 128,
+      "count": 129,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6258,7 +6259,7 @@
       ]
     },
     "50 security holes": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7079,7 +7080,7 @@
       ]
     },
     "interdisciplinary research unit": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7093,7 +7094,7 @@
       ]
     },
     "smb phone infrastructure": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7127,25 +7128,25 @@
       ]
     },
     "venice security emerges": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-19"
       ]
     },
     "targeting technology manufacturing": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-19"
       ]
     },
     "voice phishing vishing": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-19"
       ]
     },
     "ivanti exploitation surges": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-19"
       ]
@@ -7169,18 +7170,30 @@
       ]
     },
     "long term espionage": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-19"
       ]
     },
     "hacking tax firms": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-19"
       ]
     },
     "data allegedly stolen": {
+      "count": 2,
+      "dates": [
+        "2026-02-19"
+      ]
+    },
+    "execute code remotely": {
+      "count": 1,
+      "dates": [
+        "2026-02-19"
+      ]
+    },
+    "missing something crucial": {
       "count": 1,
       "dates": [
         "2026-02-19"
@@ -7188,17 +7201,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-10 16:58",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "ics security gaps",
-        "credit reporting agency",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-02-10 18:59",
       "articles": 56,
@@ -8283,6 +8285,17 @@
       "top_keywords": [
         "venice security emerges",
         "smb phone infrastructure",
+        "targeting technology manufacturing",
+        "scattered lapsus shinyhunters",
+        "long term espionage"
+      ]
+    },
+    {
+      "timestamp": "2026-02-19 18:44",
+      "articles": 56,
+      "top_keywords": [
+        "venice security emerges",
+        "arbitrary code execution",
         "targeting technology manufacturing",
         "scattered lapsus shinyhunters",
         "long term espionage"

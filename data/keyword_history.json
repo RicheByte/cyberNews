@@ -209,7 +209,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 740,
+      "count": 741,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -733,7 +733,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -754,7 +754,8 @@
         "2026-01-28",
         "2026-02-09",
         "2026-02-10",
-        "2026-02-18"
+        "2026-02-18",
+        "2026-02-19"
       ]
     },
     "denmark's critical infrastructure": {
@@ -1458,7 +1459,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2554,7 +2555,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4521,7 +4522,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5293,7 +5294,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5329,7 +5330,7 @@
       ]
     },
     "even swatting executives": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6256,7 +6257,7 @@
       ]
     },
     "50 security holes": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6991,7 +6992,7 @@
       ]
     },
     "renewable energy farms": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-17",
         "2026-02-18",
@@ -6999,7 +7000,7 @@
       ]
     },
     "probable culprits behind": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7012,14 +7013,14 @@
       ]
     },
     "palo alto networks": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-18",
         "2026-02-19"
       ]
     },
     "darknet drug ring": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7039,7 +7040,7 @@
       ]
     },
     "apryse pdf tools": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7052,7 +7053,7 @@
       ]
     },
     "endpoint security solution": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7077,35 +7078,35 @@
       ]
     },
     "interdisciplinary research unit": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-18",
         "2026-02-19"
       ]
     },
     "figure technology solutions": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-18",
         "2026-02-19"
       ]
     },
     "smb phone infrastructure": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-18",
         "2026-02-19"
       ]
     },
     "honeywell cctv products": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-18",
         "2026-02-19"
       ]
     },
     "buy fake crypto": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7117,20 +7118,15 @@
         "2026-02-18",
         "2026-02-19"
       ]
+    },
+    "scale vulnerability intelligence": {
+      "count": 1,
+      "dates": [
+        "2026-02-19"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-10 08:44",
-      "articles": 56,
-      "top_keywords": [
-        "lema ai emerges",
-        "deploy dfir tool",
-        "remote support rs",
-        "critical security flaw",
-        "windows operating systems"
-      ]
-    },
     {
       "timestamp": "2026-02-10 10:51",
       "articles": 56,
@@ -8218,6 +8214,17 @@
         "darknet drug ring",
         "badbox 2 0",
         "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-02-19 10:37",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "smb phone infrastructure",
+        "darknet drug ring",
+        "badbox 2 0",
+        "50 security holes"
       ]
     }
   ]

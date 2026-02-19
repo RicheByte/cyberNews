@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-19 08:37 UTC  
+> **Last Updated:** 2026-02-19 10:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **smb phone infrastructure** • **darknet drug ring** • **badbox 2 0** • **arbitrary code execution** • **50 security holes** • **palo alto networks** • **interdisciplinary research unit** • **block 16 websites** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **renewable energy farms** • **honeywell cctv products** • **figure technology solutions** • **even swatting executives** • **buy fake crypto** • **apryse pdf tools** • **probable culprits behind** • **auth bypass flaw** • **endpoint security solution**
+**scattered lapsus shinyhunters** • **smb phone infrastructure** • **darknet drug ring** • **badbox 2 0** • **50 security holes** • **arbitrary code execution** • **palo alto networks** • **interdisciplinary research unit** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **scale vulnerability intelligence** • **renewable energy farms** • **honeywell cctv products** • **figure technology solutions** • **even swatting executives** • **buy fake crypto** • **apryse pdf tools** • **endpoint security solution** • **critical security flaw** • **probable culprits behind**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html)
 - [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
 - [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
 - [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
@@ -23,10 +24,10 @@
 - [Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html)
 - [Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024](https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html)
 - [3 Ways to Start Your Intelligent Workflow Program](https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html)
-- [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
 
 ### BleepingComputer
 
+- [New 'Massiv' Android banking malware poses as an IPTV app](https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/)
 - [Critical infra Honeywell CCTVs vulnerable to auth bypass flaw](https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/)
 - [AI platforms can be abused for stealthy malware communication](https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/)
 - [Telegram channels expose rapid weaponization of SmarterMail flaws](https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/)
@@ -34,7 +35,6 @@
 - [Data breach at fintech firm Figure affects nearly 1 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/)
 - [Microsoft says bug causes Copilot to summarize confidential emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/)
 - [Glendale man gets 5 years in prison for role in darknet drug ring](https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/)
-- [Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites](https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [German Rail Giant Deutsche Bahn Hit by Large-Scale DDoS Attack](https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/)
 - [New Keenadu Android Malware Found on Thousands of Devices](https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/)
 - [Cogent Security Raises $42 Million for AI-Driven Vulnerability Management](https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/)
 - [Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration](https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/)
@@ -67,7 +68,6 @@
 - [Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction](https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/)
 - [Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group](https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/)
 - [VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence](https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/)
-- [Hackers Offer to Sell Millions of Eurail User Records](https://www.securityweek.com/hackers-offer-to-sell-millions-of-eurail-user-records/)
 
 ### Threatpost
 

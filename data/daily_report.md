@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-19 06:54 UTC  
+> **Last Updated:** 2026-02-19 08:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
 - [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
 - [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
 - [Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html)
@@ -23,7 +24,6 @@
 - [Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024](https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html)
 - [3 Ways to Start Your Intelligent Workflow Program](https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html)
 - [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html)
-- [CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [More Than 40% of South Africans Were Scammed in 2025](https://www.darkreading.com/cybersecurity-analytics/south-africans-scammed-2025)
 - [Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto](https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto)
 - [Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot](https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot)
 - [Dell's Hard-Coded Flaw: A Nation-State Goldmine](https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine)
@@ -56,7 +57,6 @@
 - [Singapore &amp; Its 4 Major Telcos Fend Off Chinese Hackers](https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers)
 - [Supply Chain Attack Embeds Malware in Android Devices](https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices)
 - [Poland Energy Survives Attack on Wind, Solar Infrastructure](https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure)
-- [RMM Abuse Explodes as Hackers Ditch Malware](https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware)
 
 ### Security Week
 

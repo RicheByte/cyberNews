@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 352,
+      "count": 353,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -210,7 +210,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 743,
+      "count": 744,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -734,7 +734,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1460,7 +1460,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2556,7 +2556,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4523,7 +4523,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5295,7 +5295,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6258,7 +6258,7 @@
       ]
     },
     "50 security holes": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7079,7 +7079,7 @@
       ]
     },
     "interdisciplinary research unit": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7093,21 +7093,21 @@
       ]
     },
     "smb phone infrastructure": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-18",
         "2026-02-19"
       ]
     },
     "honeywell cctv products": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-18",
         "2026-02-19"
       ]
     },
     "buy fake crypto": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7127,25 +7127,25 @@
       ]
     },
     "venice security emerges": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-19"
       ]
     },
     "targeting technology manufacturing": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-19"
       ]
     },
     "voice phishing vishing": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-19"
       ]
     },
     "ivanti exploitation surges": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-19"
       ]
@@ -7163,18 +7163,24 @@
       ]
     },
     "fake loan applications": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-19"
       ]
     },
     "long term espionage": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-19"
       ]
     },
     "hacking tax firms": {
+      "count": 2,
+      "dates": [
+        "2026-02-19"
+      ]
+    },
+    "data allegedly stolen": {
       "count": 1,
       "dates": [
         "2026-02-19"
@@ -7182,17 +7188,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-10 14:54",
-      "articles": 56,
-      "top_keywords": [
-        "lema ai emerges",
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "critical security flaw",
-        "ics security gaps"
-      ]
-    },
     {
       "timestamp": "2026-02-10 16:58",
       "articles": 56,
@@ -8273,6 +8268,17 @@
     },
     {
       "timestamp": "2026-02-19 14:42",
+      "articles": 56,
+      "top_keywords": [
+        "venice security emerges",
+        "smb phone infrastructure",
+        "targeting technology manufacturing",
+        "scattered lapsus shinyhunters",
+        "long term espionage"
+      ]
+    },
+    {
+      "timestamp": "2026-02-19 16:44",
       "articles": 56,
       "top_keywords": [
         "venice security emerges",

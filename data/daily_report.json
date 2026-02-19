@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 14:42",
+  "last_updated": "2026-02-19 16:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,6 +13,8 @@
     "arbitrary code execution",
     "50 security holes",
     "interdisciplinary research unit",
+    "data allegedly stolen",
+    "windows operating systems",
     "twitter whistleblower complaint",
     "ivanti exploitation surges",
     "hacking tax firms",
@@ -20,50 +22,48 @@
     "sprawling phishing campaign",
     "fake loan applications",
     "critical security flaw",
-    "buy fake crypto",
-    "auth bypass flaw",
-    "windows operating systems"
+    "buy fake crypto"
   ],
   "trending": [
     {
       "keyword": "venice security emerges",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "smb phone infrastructure",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "targeting technology manufacturing",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 127
+      "mentions": 128
     },
     {
       "keyword": "long term espionage",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "honeywell cctv products",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 158
+      "mentions": 159
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 151
+      "mentions": 152
     },
     {
       "keyword": "50 security holes",
-      "mentions": 76
+      "mentions": 77
     },
     {
       "keyword": "interdisciplinary research unit",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
@@ -153,6 +153,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems within three days against a maximum-severity Dell vulnerability that has been under active exploitation since mid-2024. [...]",
+      "published": "Thu, 19 Feb 2026 10:30:37 -0500",
+      "value_score": 97,
+      "value_signals": [
+        "Active exploitation",
+        "Patch/update ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "How infostealers turn stolen credentials into real identities",
+      "link": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
+      "summary": "Infostealer dumps increasingly tie stolen credentials to real identities, linking usernames, cookies, and behavior across personal and enterprise accounts. Specops explains how analyzing 90,000 dumps shows reuse fuels enterprise risk and how continuous AD scanning disrupts that cycle. [...]",
+      "published": "Thu, 19 Feb 2026 10:05:15 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Nigerian man gets eight years in prison for hacking tax firms",
       "link": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/",
       "summary": "A Nigerian national was sentenced to eight years in prison for hacking multiple tax preparation firms in Massachusetts and filing fraudulent tax returns seeking over $8.1 million in refunds. [...]",
@@ -211,29 +234,6 @@
         "Auth bypass",
         "CISA/KEV",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AI platforms can be abused for stealthy malware communication",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/",
-      "summary": "AI assistants like Grok and Microsoft Copilot with web browsing and URL-fetching capabilities can be abused to intermediate command-and-control (C2) activity. [...]",
-      "published": "Wed, 18 Feb 2026 15:18:24 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Telegram channels expose rapid weaponization of SmarterMail flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/",
-      "summary": "Underground Telegram channels shared SmarterMail exploit PoCs and stolen admin credentials within days of disclosure. Flare explains how monitoring these communities reveals rapid weaponization of CVE-2026-24423 and CVE-2026-23760 tied to ransomware activity. [...]",
-      "published": "Wed, 18 Feb 2026 11:27:38 -0500",
-      "value_score": 78,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Ransomware",
-        "Multiple CVEs",
-        "Exploit wording"
       ]
     },
     {
@@ -409,6 +409,17 @@
     },
     {
       "source": "Security Week",
+      "title": "French Government Says 1.2 Million Bank Accounts Exposed in Breach",
+      "link": "https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/",
+      "summary": "The Ministry of Economy reported discovering unauthorized access to the national bank account registry FICOBA. The post French Government Says 1.2 Million Bank Accounts Exposed in Breach appeared first on SecurityWeek .",
+      "published": "Thu, 19 Feb 2026 15:02:58 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Nearly 1 Million User Records Compromised in Figure Data Breach",
       "link": "https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/",
       "summary": "The blockchain-based lender has confirmed a data breach after ShinyHunters leaked over 2GB of data allegedly stolen from the company. The post Nearly 1 Million User Records Compromised in Figure Data Breach appeared first on SecurityWeek .",
@@ -474,17 +485,6 @@
       "published": "Wed, 18 Feb 2026 14:47:07 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration",
-      "link": "https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/",
-      "summary": "Novee researchers discovered 16 vulnerabilities in Foxit and Apryse PDF tools that could have been exploited via malicious documents or URLs. The post Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration appeared first on SecurityWeek .",
-      "published": "Wed, 18 Feb 2026 13:16:19 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

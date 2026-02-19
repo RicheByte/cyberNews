@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-19 18:44 UTC  
+> **Last Updated:** 2026-02-19 20:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**venice security emerges** • **arbitrary code execution** • **targeting technology manufacturing** • **scattered lapsus shinyhunters** • **long term espionage** • **badbox 2 0** • **50 security holes** • **execute code remotely** • **smb phone infrastructure** • **pose significant risks** • **interdisciplinary research unit** • **data allegedly stolen** • **critical security flaw** • **windows operating systems** • **twitter whistleblower complaint** • **missing something crucial** • **ivanti exploitation surges** • **hacking tax firms** • **voice phishing vishing** • **sprawling phishing campaign**
+**badbox 2 0** • **windows admin center** • **venice security emerges** • **targeting technology manufacturing** • **scattered lapsus shinyhunters** • **long term espionage** • **windows operating systems** • **arbitrary code execution** • **50 security holes** • **things attack surfaces** • **pose significant risks** • **interdisciplinary research unit** • **data allegedly stolen** • **twitter whistleblower complaint** • **missing something crucial** • **ivanti exploitation surges** • **hacking tax firms** • **8 1 million** • **4 3 million** • **windows clients servers**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
+- [INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
+- [Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center](https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html)
 - [ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html)
 - [From Exposure to Exploitation: How AI Collapses Your Response Window](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
 - [Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html)
 - [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
 - [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
-- [Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution](https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html)
-- [Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs](https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html)
-- [Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html)
 
 ### BleepingComputer
 
 - [Flaw in Grandstream VoIP phones allows stealthy eavesdropping](https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/)
+- [Google blocked over 1.75 million Play Store app submissions in 2025](https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/)
 - [CISA orders feds to patch actively exploited Dell flaw within 3 days](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/)
 - [How infostealers turn stolen credentials into real identities](https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/)
 - [Nigerian man gets eight years in prison for hacking tax firms](https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/)
 - [Texas sues TP-Link over Chinese hacking risks, user deception](https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/)
 - [Hackers target Microsoft Entra accounts in device code vishing attacks](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/)
 - [Police arrests 651 suspects in African cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/)
-- [New 'Massiv' Android banking malware poses as an IPTV app](https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Connected and Compromised: When IoT Devices Turn Into Threats](https://www.darkreading.com/iot/connected-compromised-iot-devices-turn-threats)
 - [More Than 40% of South Africans Were Scammed in 2025](https://www.darkreading.com/cybersecurity-analytics/south-africans-scammed-2025)
 - [Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto](https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto)
 - [Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot](https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot)
@@ -56,7 +57,6 @@
 - [Dell's Hard-Coded Flaw: A Nation-State Goldmine](https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine)
 - [A CISO's Playbook for Defending Data Assets Against AI Scraping](https://www.darkreading.com/cyber-risk/ciso-playbook-defending-data-assets-against-ai-scraping)
 - [Singapore &amp; Its 4 Major Telcos Fend Off Chinese Hackers](https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers)
-- [Supply Chain Attack Embeds Malware in Android Devices](https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices)
 
 ### Security Week
 

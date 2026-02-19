@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-19 18:44 UTC |
+| 🕐 Last Updated | 2026-02-19 20:26 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`venice security emerges` • `arbitrary code execution` • `targeting technology manufacturing` • `scattered lapsus shinyhunters` • `long term espionage` • `badbox 2 0` • `50 security holes` • `execute code remotely` • `smb phone infrastructure` • `pose significant risks`
+`badbox 2 0` • `windows admin center` • `venice security emerges` • `targeting technology manufacturing` • `scattered lapsus shinyhunters` • `long term espionage` • `windows operating systems` • `arbitrary code execution` • `50 security holes` • `things attack surfaces`
 
 ## 📄 Reports
 

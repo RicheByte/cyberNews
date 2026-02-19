@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 20:26",
+  "last_updated": "2026-02-19 22:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -21,49 +21,49 @@
     "ivanti exploitation surges",
     "hacking tax firms",
     "8 1 million",
-    "4 3 million",
-    "windows clients servers"
+    "windows clients servers",
+    "patched security flaw"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 161
+      "mentions": 162
     },
     {
       "keyword": "windows admin center",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "venice security emerges",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "targeting technology manufacturing",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 130
+      "mentions": 131
     },
     {
       "keyword": "long term espionage",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 355
+      "mentions": 356
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 154
+      "mentions": 155
     },
     {
       "keyword": "50 security holes",
-      "mentions": 79
+      "mentions": 80
     },
     {
       "keyword": "things attack surfaces",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -325,6 +325,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA",
+      "link": "https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa",
+      "summary": "A user-friendly PhaaS tool beats standard methods for detecting phishing attacks by live-proxying legitimate login sites.",
+      "published": "Thu, 19 Feb 2026 22:06:58 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Abu Dhabi Finance Week Exposed VIP Passport Details",
+      "link": "https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details",
+      "summary": "Unprotected cloud data sends the wrong signal at a time when the emirate's trying to attract investors and establish itself as a global financial center.",
+      "published": "Thu, 19 Feb 2026 20:50:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Connected and Compromised: When IoT Devices Turn Into Threats",
       "link": "https://www.darkreading.com/iot/connected-compromised-iot-devices-turn-threats",
       "summary": "Reused passwords, a lack of network segmentation, and poor sanitization processes make the Internet of Things' attack surfaces more dangerous.",
@@ -380,26 +400,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "A CISO's Playbook for Defending Data Assets Against AI Scraping",
-      "link": "https://www.darkreading.com/cyber-risk/ciso-playbook-defending-data-assets-against-ai-scraping",
-      "summary": "Discover a strategic approach to govern scraping risks, balance security with business growth, and safeguard intellectual capital from automated data harvesting.",
-      "published": "Wed, 18 Feb 2026 19:13:33 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Singapore &amp; Its 4 Major Telcos Fend Off Chinese Hackers",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers",
-      "summary": "After detecting a zero-day attack, the country's effective response was attributed to the tight relationship between its government and private industry.",
-      "published": "Wed, 18 Feb 2026 01:00:00 GMT",
-      "value_score": 35,
-      "value_signals": [
-        "Zero-day"
       ]
     },
     {

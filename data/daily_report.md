@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-19 20:26 UTC  
+> **Last Updated:** 2026-02-19 22:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **windows admin center** • **venice security emerges** • **targeting technology manufacturing** • **scattered lapsus shinyhunters** • **long term espionage** • **windows operating systems** • **arbitrary code execution** • **50 security holes** • **things attack surfaces** • **pose significant risks** • **interdisciplinary research unit** • **data allegedly stolen** • **twitter whistleblower complaint** • **missing something crucial** • **ivanti exploitation surges** • **hacking tax firms** • **8 1 million** • **4 3 million** • **windows clients servers**
+**badbox 2 0** • **windows admin center** • **venice security emerges** • **targeting technology manufacturing** • **scattered lapsus shinyhunters** • **long term espionage** • **windows operating systems** • **arbitrary code execution** • **50 security holes** • **things attack surfaces** • **pose significant risks** • **interdisciplinary research unit** • **data allegedly stolen** • **twitter whistleblower complaint** • **missing something crucial** • **ivanti exploitation surges** • **hacking tax firms** • **8 1 million** • **windows clients servers** • **patched security flaw**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA](https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa)
+- [Abu Dhabi Finance Week Exposed VIP Passport Details](https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details)
 - [Connected and Compromised: When IoT Devices Turn Into Threats](https://www.darkreading.com/iot/connected-compromised-iot-devices-turn-threats)
 - [More Than 40% of South Africans Were Scammed in 2025](https://www.darkreading.com/cybersecurity-analytics/south-africans-scammed-2025)
 - [Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto](https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto)
 - [Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot](https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot)
 - [Threat Intelligence Has a Human-Shaped Blind Spot](https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot)
 - [Dell's Hard-Coded Flaw: A Nation-State Goldmine](https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine)
-- [A CISO's Playbook for Defending Data Assets Against AI Scraping](https://www.darkreading.com/cyber-risk/ciso-playbook-defending-data-assets-against-ai-scraping)
-- [Singapore &amp; Its 4 Major Telcos Fend Off Chinese Hackers](https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers)
 
 ### Security Week
 

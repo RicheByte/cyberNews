@@ -209,7 +209,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 741,
+      "count": 742,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -733,7 +733,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1459,7 +1459,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2555,7 +2555,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4522,7 +4522,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 156,
+      "count": 157,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5294,7 +5294,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 125,
+      "count": 126,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6257,7 +6257,7 @@
       ]
     },
     "50 security holes": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6992,7 +6992,7 @@
       ]
     },
     "renewable energy farms": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-17",
         "2026-02-18",
@@ -7000,7 +7000,7 @@
       ]
     },
     "probable culprits behind": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7078,7 +7078,7 @@
       ]
     },
     "interdisciplinary research unit": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7092,21 +7092,21 @@
       ]
     },
     "smb phone infrastructure": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-18",
         "2026-02-19"
       ]
     },
     "honeywell cctv products": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-18",
         "2026-02-19"
       ]
     },
     "buy fake crypto": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-18",
         "2026-02-19"
@@ -7124,20 +7124,51 @@
       "dates": [
         "2026-02-19"
       ]
+    },
+    "venice security emerges": {
+      "count": 1,
+      "dates": [
+        "2026-02-19"
+      ]
+    },
+    "targeting technology manufacturing": {
+      "count": 1,
+      "dates": [
+        "2026-02-19"
+      ]
+    },
+    "voice phishing vishing": {
+      "count": 1,
+      "dates": [
+        "2026-02-19"
+      ]
+    },
+    "ivanti exploitation surges": {
+      "count": 1,
+      "dates": [
+        "2026-02-19"
+      ]
+    },
+    "defending data assets": {
+      "count": 1,
+      "dates": [
+        "2026-02-19"
+      ]
+    },
+    "automated data harvesting": {
+      "count": 1,
+      "dates": [
+        "2026-02-19"
+      ]
+    },
+    "fake loan applications": {
+      "count": 1,
+      "dates": [
+        "2026-02-19"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-10 10:51",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "lema ai emerges",
-        "deploy dfir tool",
-        "badbox 2 0",
-        "remote support rs"
-      ]
-    },
     {
       "timestamp": "2026-02-10 13:02",
       "articles": 56,
@@ -8225,6 +8256,17 @@
         "darknet drug ring",
         "badbox 2 0",
         "50 security holes"
+      ]
+    },
+    {
+      "timestamp": "2026-02-19 12:54",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "venice security emerges",
+        "smb phone infrastructure",
+        "targeting technology manufacturing",
+        "honeywell cctv products"
       ]
     }
   ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-19 10:37 UTC |
+| 🕐 Last Updated | 2026-02-19 12:54 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `smb phone infrastructure` • `darknet drug ring` • `badbox 2 0` • `50 security holes` • `arbitrary code execution` • `palo alto networks` • `interdisciplinary research unit` • `twitter whistleblower complaint` • `sprawling phishing campaign`
+`scattered lapsus shinyhunters` • `venice security emerges` • `smb phone infrastructure` • `targeting technology manufacturing` • `honeywell cctv products` • `badbox 2 0` • `arbitrary code execution` • `50 security holes` • `interdisciplinary research unit` • `voice phishing vishing`
 
 ## 📄 Reports
 

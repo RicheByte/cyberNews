@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-20 08:35 UTC  
+> **Last Updated:** 2026-02-20 10:32 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **windows admin center** • **venice security emerges** • **scattered lapsus shinyhunters** • **long term espionage** • **windows operating systems** • **arbitrary code execution** • **8 1 million** • **50 security holes** • **things attack surfaces** • **pose significant risks** • **data allegedly stolen** • **twitter whistleblower complaint** • **samaneh ghandali 41** • **missing something crucial** • **ivanti exploitation surges** • **buy fake crypto** • **4 000 times** • **windows clients servers** • **behavior across personal**
+**venice security emerges** • **windows admin center** • **windows operating systems** • **pose significant risks** • **arbitrary code execution** • **atm jackpotting attacks** • **twitter whistleblower complaint** • **things attack surfaces** • **samaneh ghandali 41** • **missing something crucial** • **ivanti exploitation surges** • **force cash machines** • **buy fake crypto** • **behavior across personal** • **across platforms tools** • **8 1 million** • **4 000 times** • **windows clients servers** • **vulnerabilities earned microsoft's** • **iot devices turn**
 
 ---
 
@@ -16,36 +16,36 @@
 
 ### The Hacker News
 
-- [Three Former Google Engineers Indicted Over Trade Secret Transfers to Iran](https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html)
+- [FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025](https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html)
+- [Former Google Engineers Indicted Over Trade Secret Transfers to Iran](https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html)
 - [PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
 - [INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
 - [Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center](https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html)
 - [ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html)
 - [From Exposure to Exploitation: How AI Collapses Your Response Window](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
 - [Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html)
-- [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
 
 ### BleepingComputer
 
+- [FBI: Over $20 million stolen in surge of ATM malware attacks in 2025](https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/)
+- [Ukrainian gets 5 years for helping North Koreans infiltrate US firms](https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/)
 - [PromptSpy is the first known Android malware to use generative AI at runtime](https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/)
 - [Flaw in Grandstream VoIP phones allows stealthy eavesdropping](https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/)
 - [Google blocked over 1.75 million Play Store app submissions in 2025](https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/)
 - [CISA orders feds to patch actively exploited Dell flaw within 3 days](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/)
 - [How infostealers turn stolen credentials into real identities](https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/)
 - [Nigerian man gets eight years in prison for hacking tax firms](https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/)
-- [Texas sues TP-Link over Chinese hacking risks, user deception](https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/)
-- [Hackers target Microsoft Entra accounts in device code vishing attacks](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/)
 
 ### Krebs on Security
 
-- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
-- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Chip Testing Giant Advantest Hit by Ransomware](https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/)
 - [PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence](https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/)
 - [French Government Says 1.2 Million Bank Accounts Exposed in Breach](https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/)
 - [Nearly 1 Million User Records Compromised in Figure Data Breach](https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/)
@@ -67,7 +68,6 @@
 - [Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025](https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/)
 - [OpenClaw Security Issues Continue as SecureClaw Open Source Tool Debuts](https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/)
 - [German Rail Giant Deutsche Bahn Hit by Large-Scale DDoS Attack](https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/)
-- [New Keenadu Android Malware Found on Thousands of Devices](https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/)
 
 ### Threatpost
 

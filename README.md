@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-20 16:31 UTC |
+| 🕐 Last Updated | 2026-02-20 18:39 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`badbox 2 0` • `atm jackpotting attacks` • `scattered lapsus shinyhunters` • `arbitrary code execution` • `windows operating systems` • `twitter whistleblower complaint` • `samaneh ghandali 41` • `global financial center` • `force cash machines` • `clinic locations statewide`
+`badbox 2 0` • `atm jackpotting attacks` • `scattered lapsus shinyhunters` • `windows operating systems` • `arbitrary code execution` • `cve 2026 1731` • `web shells backdoors` • `twitter whistleblower complaint` • `samaneh ghandali 41` • `global financial center`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-19 22:26 UTC  
+> **Last Updated:** 2026-02-20 01:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **windows admin center** • **venice security emerges** • **targeting technology manufacturing** • **scattered lapsus shinyhunters** • **long term espionage** • **windows operating systems** • **arbitrary code execution** • **50 security holes** • **things attack surfaces** • **pose significant risks** • **interdisciplinary research unit** • **data allegedly stolen** • **twitter whistleblower complaint** • **missing something crucial** • **ivanti exploitation surges** • **hacking tax firms** • **8 1 million** • **windows clients servers** • **patched security flaw**
+**badbox 2 0** • **windows admin center** • **venice security emerges** • **targeting technology manufacturing** • **scattered lapsus shinyhunters** • **long term espionage** • **windows operating systems** • **arbitrary code execution** • **50 security holes** • **things attack surfaces** • **pose significant risks** • **interdisciplinary research unit** • **data allegedly stolen** • **twitter whistleblower complaint** • **missing something crucial** • **ivanti exploitation surges** • **hacking tax firms** • **buy fake crypto** • **8 1 million** • **4 000 times**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [PromptSpy is the first known Android malware to use generative AI at runtime](https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/)
 - [Flaw in Grandstream VoIP phones allows stealthy eavesdropping](https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/)
 - [Google blocked over 1.75 million Play Store app submissions in 2025](https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/)
 - [CISA orders feds to patch actively exploited Dell flaw within 3 days](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/)
@@ -34,7 +35,6 @@
 - [Nigerian man gets eight years in prison for hacking tax firms](https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/)
 - [Texas sues TP-Link over Chinese hacking risks, user deception](https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/)
 - [Hackers target Microsoft Entra accounts in device code vishing attacks](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/)
-- [Police arrests 651 suspects in African cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Supply Chain Attack Secretly Installs OpenClaw for Cline Users](https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users)
 - [Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA](https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa)
 - [Abu Dhabi Finance Week Exposed VIP Passport Details](https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details)
 - [Connected and Compromised: When IoT Devices Turn Into Threats](https://www.darkreading.com/iot/connected-compromised-iot-devices-turn-threats)
@@ -56,7 +57,6 @@
 - [Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto](https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto)
 - [Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot](https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot)
 - [Threat Intelligence Has a Human-Shaped Blind Spot](https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot)
-- [Dell's Hard-Coded Flaw: A Nation-State Goldmine](https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine)
 
 ### Security Week
 

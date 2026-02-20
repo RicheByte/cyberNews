@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20 18:39",
+  "last_updated": "2026-02-20 20:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,58 +12,58 @@
     "web shells backdoors",
     "twitter whistleblower complaint",
     "samaneh ghandali 41",
+    "legitimate site forwarding",
     "global financial center",
     "force cash machines",
     "clinic locations statewide",
+    "beyondtrust vulnerability exploited",
     "shift left dream",
     "shift left approach",
-    "beyondtrust vulnerability exploited",
+    "kimwolf botnet lurking",
+    "free vulnerability th",
     "things attack surfaces",
-    "vulnerabilities earned microsoft's",
-    "three cyber attacks",
-    "detecting phishing attacks",
-    "atm malware attacks"
+    "vulnerabilities earned microsoft's"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 170
+      "mentions": 171
     },
     {
       "keyword": "atm jackpotting attacks",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 139
+      "mentions": 140
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 365
+      "mentions": 366
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 164
+      "mentions": 165
     },
     {
       "keyword": "cve 2026 1731",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "web shells backdoors",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 756
+      "mentions": 757
     },
     {
       "keyword": "samaneh ghandali 41",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "global financial center",
-      "mentions": 4
+      "keyword": "legitimate site forwarding",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -233,6 +233,17 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+      "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentic",
+      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
       "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
       "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
@@ -309,18 +320,6 @@
       "value_score": 20,
       "value_signals": [
         "Botnet"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Botnet",
-        "Exploit wording"
       ]
     },
     {

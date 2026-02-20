@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-20 18:39 UTC  
+> **Last Updated:** 2026-02-20 20:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **atm jackpotting attacks** • **scattered lapsus shinyhunters** • **windows operating systems** • **arbitrary code execution** • **cve 2026 1731** • **web shells backdoors** • **twitter whistleblower complaint** • **samaneh ghandali 41** • **global financial center** • **force cash machines** • **clinic locations statewide** • **shift left dream** • **shift left approach** • **beyondtrust vulnerability exploited** • **things attack surfaces** • **vulnerabilities earned microsoft's** • **three cyber attacks** • **detecting phishing attacks** • **atm malware attacks**
+**badbox 2 0** • **atm jackpotting attacks** • **scattered lapsus shinyhunters** • **windows operating systems** • **arbitrary code execution** • **cve 2026 1731** • **web shells backdoors** • **twitter whistleblower complaint** • **samaneh ghandali 41** • **legitimate site forwarding** • **global financial center** • **force cash machines** • **clinic locations statewide** • **beyondtrust vulnerability exploited** • **shift left dream** • **shift left approach** • **kimwolf botnet lurking** • **free vulnerability th** • **things attack surfaces** • **vulnerabilities earned microsoft's**
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
 - [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
 - [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
 - [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
@@ -45,7 +46,6 @@
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
-- [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
 ### Dark Reading
 

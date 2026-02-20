@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 365,
+      "count": 366,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -211,7 +211,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 756,
+      "count": 757,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2558,7 +2558,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 164,
+      "count": 165,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3170,7 +3170,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4529,7 +4529,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4961,10 +4961,11 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-02-20"
       ]
     },
     "rockwell automation controllogix": {
@@ -5302,7 +5303,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7224,7 +7225,7 @@
       ]
     },
     "things attack surfaces": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-19",
         "2026-02-20"
@@ -7263,7 +7264,7 @@
       ]
     },
     "samaneh ghandali 41": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-20"
       ]
@@ -7275,13 +7276,13 @@
       ]
     },
     "atm jackpotting attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-20"
       ]
     },
     "force cash machines": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-20"
       ]
@@ -7305,13 +7306,13 @@
       ]
     },
     "global financial center": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-20"
       ]
     },
     "clinic locations statewide": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-20"
       ]
@@ -7323,19 +7324,19 @@
       ]
     },
     "beyondtrust vulnerability exploited": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-20"
       ]
     },
     "shift left dream": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-20"
       ]
     },
     "shift left approach": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-20"
       ]
@@ -7353,12 +7354,24 @@
       ]
     },
     "cve 2026 1731": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-20"
       ]
     },
     "web shells backdoors": {
+      "count": 2,
+      "dates": [
+        "2026-02-20"
+      ]
+    },
+    "legitimate site forwarding": {
+      "count": 1,
+      "dates": [
+        "2026-02-20"
+      ]
+    },
+    "free vulnerability th": {
       "count": 1,
       "dates": [
         "2026-02-20"
@@ -7366,17 +7379,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-11 18:56",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "50 security holes",
-        "webinar today identity",
-        "curbing telnet traffic"
-      ]
-    },
     {
       "timestamp": "2026-02-11 20:33",
       "articles": 56,
@@ -8457,6 +8459,17 @@
     },
     {
       "timestamp": "2026-02-20 18:39",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "atm jackpotting attacks",
+        "scattered lapsus shinyhunters",
+        "windows operating systems",
+        "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-02-20 20:25",
       "articles": 56,
       "top_keywords": [
         "badbox 2 0",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-20 14:36 UTC  
+> **Last Updated:** 2026-02-20 16:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **atm jackpotting attacks** • **venice security emerges** • **scattered lapsus shinyhunters** • **windows operating systems** • **arbitrary code execution** • **50 security holes** • **three cyber attacks** • **twitter whistleblower complaint** • **samaneh ghandali 41** • **ivanti exploitation surges** • **global financial center** • **force cash machines** • **clinic locations statewide** • **buy fake crypto** • **4 000 times** • **atm malware attacks** • **things attack surfaces** • **beyondtrust vulnerability exploited** • **vulnerabilities earned microsoft's**
+**badbox 2 0** • **atm jackpotting attacks** • **scattered lapsus shinyhunters** • **arbitrary code execution** • **windows operating systems** • **twitter whistleblower complaint** • **samaneh ghandali 41** • **global financial center** • **force cash machines** • **clinic locations statewide** • **buy fake crypto** • **shift left dream** • **shift left approach** • **atm malware attacks** • **malware leverages gemini** • **things attack surfaces** • **vulnerabilities earned microsoft's** • **three cyber attacks** • **detecting phishing attacks** • **50 security holes**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
+- [Why the shift left dream has become a nightmare for security and developers](https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/)
 - [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
 - [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
 - [FBI: Over $20 million stolen in surge of ATM malware attacks in 2025](https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/)
 - [Ukrainian gets 5 years for helping North Koreans infiltrate US firms](https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/)
 - [PromptSpy is the first known Android malware to use generative AI at runtime](https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/)
 - [Flaw in Grandstream VoIP phones allows stealthy eavesdropping](https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/)
-- [Google blocked over 1.75 million Play Store app submissions in 2025](https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/)
-- [CISA orders feds to patch actively exploited Dell flaw within 3 days](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [NIST’s Quantum Breakthrough: Single Photons Produced on a Chip](https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/)
+- [In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI](https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/)
 - [BeyondTrust Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/)
 - [FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025](https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/)
 - [Chip Testing Giant Advantest Hit by Ransomware](https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/)
 - [PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence](https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/)
 - [French Government Says 1.2 Million Bank Accounts Exposed in Breach](https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/)
 - [Nearly 1 Million User Records Compromised in Figure Data Breach](https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/)
-- [Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management](https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/)
-- [Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025](https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/)
 
 ### Threatpost
 

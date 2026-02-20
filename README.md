@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-20 10:32 UTC |
+| 🕐 Last Updated | 2026-02-20 12:47 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`venice security emerges` • `windows admin center` • `windows operating systems` • `pose significant risks` • `arbitrary code execution` • `atm jackpotting attacks` • `twitter whistleblower complaint` • `things attack surfaces` • `samaneh ghandali 41` • `missing something crucial`
+`badbox 2 0` • `windows admin center` • `atm jackpotting attacks` • `windows operating systems` • `venice security emerges` • `scattered lapsus shinyhunters` • `arbitrary code execution` • `three cyber attacks` • `50 security holes` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

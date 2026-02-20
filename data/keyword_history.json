@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 361,
+      "count": 362,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -211,7 +211,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 752,
+      "count": 753,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2558,7 +2558,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 160,
+      "count": 161,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3124,7 +3124,7 @@
       ]
     },
     "pose significant risks": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-14",
         "2026-02-09",
@@ -4529,7 +4529,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 166,
+      "count": 167,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5302,7 +5302,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6266,7 +6266,7 @@
       ]
     },
     "50 security holes": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7117,7 +7117,7 @@
       ]
     },
     "buy fake crypto": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-18",
         "2026-02-19",
@@ -7138,7 +7138,7 @@
       ]
     },
     "venice security emerges": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-19",
         "2026-02-20"
@@ -7158,7 +7158,7 @@
       ]
     },
     "ivanti exploitation surges": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-19",
         "2026-02-20"
@@ -7210,14 +7210,14 @@
       ]
     },
     "missing something crucial": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-19",
         "2026-02-20"
       ]
     },
     "windows admin center": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-19",
         "2026-02-20"
@@ -7263,25 +7263,25 @@
       ]
     },
     "samaneh ghandali 41": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-20"
       ]
     },
     "behavior across personal": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-20"
       ]
     },
     "atm jackpotting attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-20"
       ]
     },
     "force cash machines": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-20"
       ]
@@ -7293,6 +7293,24 @@
       ]
     },
     "iot devices turn": {
+      "count": 2,
+      "dates": [
+        "2026-02-20"
+      ]
+    },
+    "three cyber attacks": {
+      "count": 1,
+      "dates": [
+        "2026-02-20"
+      ]
+    },
+    "global financial center": {
+      "count": 1,
+      "dates": [
+        "2026-02-20"
+      ]
+    },
+    "clinic locations statewide": {
       "count": 1,
       "dates": [
         "2026-02-20"
@@ -7300,17 +7318,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-11 10:44",
-      "articles": 56,
-      "top_keywords": [
-        "vega raises 120m",
-        "scattered lapsus shinyhunters",
-        "industrial giants products",
-        "targeted social engineering",
-        "badbox 2 0"
-      ]
-    },
     {
       "timestamp": "2026-02-11 12:58",
       "articles": 56,
@@ -8398,6 +8405,17 @@
         "windows operating systems",
         "pose significant risks",
         "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-02-20 12:47",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "windows admin center",
+        "atm jackpotting attacks",
+        "windows operating systems",
+        "venice security emerges"
       ]
     }
   ]

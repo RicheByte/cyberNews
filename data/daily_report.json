@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-20 20:25",
+  "last_updated": "2026-02-20 22:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "badbox 2 0",
     "atm jackpotting attacks",
-    "scattered lapsus shinyhunters",
     "windows operating systems",
-    "arbitrary code execution",
     "cve 2026 1731",
-    "web shells backdoors",
     "twitter whistleblower complaint",
     "samaneh ghandali 41",
-    "legitimate site forwarding",
     "global financial center",
     "force cash machines",
     "clinic locations statewide",
-    "beyondtrust vulnerability exploited",
     "shift left dream",
     "shift left approach",
-    "kimwolf botnet lurking",
-    "free vulnerability th",
-    "things attack surfaces",
-    "vulnerabilities earned microsoft's"
+    "beyondtrust vulnerability exploited",
+    "three cyber attacks",
+    "detecting phishing attacks",
+    "atm malware attacks",
+    "xl4 controller vers",
+    "wire fraud conspiracy",
+    "web shells backdoors",
+    "vulnerabilities earned microsoft's",
+    "unfortunately named toolkit",
+    "trade secret transfers"
   ],
   "trending": [
     {
-      "keyword": "badbox 2 0",
-      "mentions": 171
-    },
-    {
       "keyword": "atm jackpotting attacks",
-      "mentions": 6
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 140
+      "mentions": 7
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 366
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 165
+      "mentions": 367
     },
     {
       "keyword": "cve 2026 1731",
-      "mentions": 2
-    },
-    {
-      "keyword": "web shells backdoors",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 757
+      "mentions": 758
     },
     {
       "keyword": "samaneh ghandali 41",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "legitimate site forwarding",
-      "mentions": 1
+      "keyword": "global financial center",
+      "mentions": 6
+    },
+    {
+      "keyword": "force cash machines",
+      "mentions": 7
+    },
+    {
+      "keyword": "clinic locations statewide",
+      "mentions": 6
+    },
+    {
+      "keyword": "shift left dream",
+      "mentions": 4
+    },
+    {
+      "keyword": "shift left approach",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -233,62 +233,6 @@
     },
     {
       "source": "Krebs on Security",
-      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-      "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentic",
-      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
@@ -320,6 +264,69 @@
       "value_score": 20,
       "value_signals": [
         "Botnet"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
+      "published": "Fri, 02 Jan 2026 14:20:10 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Botnet",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "Mon, 29 Dec 2025 20:23:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president’s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren’t even aware of them all.",
+      "published": "Fri, 19 Dec 2025 15:14:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "Tue, 16 Dec 2025 14:14:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "Tue, 09 Dec 2025 23:18:29 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Attackers Use New Tool to Scan for React2Shell Exposure",
+      "link": "https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure",
+      "summary": "Researchers say threat actors wielded the sophisticated — and unfortunately named — toolkit to target high-value networks for React2Shell exploitation.",
+      "published": "Fri, 20 Feb 2026 21:07:07 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
       ]
     },
     {
@@ -388,15 +395,6 @@
       "link": "https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details",
       "summary": "Unprotected cloud data sends the wrong signal at a time when the emirate's trying to attract investors and establish itself as a global financial center.",
       "published": "Thu, 19 Feb 2026 20:50:14 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Connected and Compromised: When IoT Devices Turn Into Threats",
-      "link": "https://www.darkreading.com/iot/connected-compromised-iot-devices-turn-threats",
-      "summary": "Reused passwords, a lack of network segmentation, and poor sanitization processes make the Internet of Things' attack surfaces more dangerous.",
-      "published": "Thu, 19 Feb 2026 15:18:23 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -573,6 +571,48 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-49113 RoundCube Webmail Deserialization of Untrusted Data Vulnerability CVE-2025-68461 RoundCube Webmail Cross-site Scripting Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of",
+      "published": "Fri, 20 Feb 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Valmet DNA Engineering Web Tools",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to manipulate the web maintenance services URL to achieve arbitrary file read access. The following versions of Valmet DNA Engineering Web Tools are affected: Valmet DNA Engineering Web Tools <=C2022 (CVE-2025-15577) CVSS Vendor Equipment Vulnerabilities v3 8.6 Valmet Valmet DNA Engineering Web Tools Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') Background Crit",
+      "published": "Thu, 19 Feb 26 12:00:00 +0000",
+      "value_score": 59,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Jinan USR IOT Technology Limited (PUSR) USR-W610",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could result in authentication being disabled, a denial-of-service condition, or an attacker stealing valid user credentials, including administrator credentials. The following versions of Jinan USR IOT Technology Limited (PUSR) USR-W610 are affected: USR-W610 <=3.1.1.0 (CVE-2026-25715, CVE-2026-24455, CVE-2026-26049, CVE-2026-26048) CVSS Vendor Equipment Vulnerabilities v3 9.8 Jinan USR IOT Technology Limited (PUSR) Jinan USR IO",
+      "published": "Thu, 19 Feb 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "EnOcean SmartServer IoT",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-01",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to remotely execute arbitrary code and bypass ASLR. The following versions of EnOcean SmartServer IoT are affected: SmartServer IoT <=4.60.009 (CVE-2026-20761, CVE-2026-22885) CVSS Vendor Equipment Vulnerabilities v3 8.1 EnOcean Edge Inc EnOcean SmartServer IoT Improper Neutralization of Special Elements used in a Command ('Command Injection'), Out-of-bounds Read Background Critical Infrastructure Sectors:",
@@ -602,33 +642,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Jinan USR IOT Technology Limited (PUSR) USR-W610",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could result in authentication being disabled, a denial-of-service condition, or an attacker stealing valid user credentials, including administrator credentials. The following versions of Jinan USR IOT Technology Limited (PUSR) USR-W610 are affected: USR-W610 <=3.1.1.0 (CVE-2026-25715, CVE-2026-24455, CVE-2026-26049, CVE-2026-26048) CVSS Vendor Equipment Vulnerabilities v3 9.8 Jinan USR IOT Technology Limited (PUSR) Jinan USR IO",
-      "published": "Thu, 19 Feb 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Valmet DNA Engineering Web Tools",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to manipulate the web maintenance services URL to achieve arbitrary file read access. The following versions of Valmet DNA Engineering Web Tools are affected: Valmet DNA Engineering Web Tools <=C2022 (CVE-2025-15577) CVSS Vendor Equipment Vulnerabilities v3 8.6 Valmet Valmet DNA Engineering Web Tools Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') Background Crit",
-      "published": "Thu, 19 Feb 26 12:00:00 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2021-22175 GitLab Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-22769 Dell RecoverPoint for Virtual Machines (RP4VMs) Use of Hard-coded Credentials Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Red",
@@ -644,44 +657,31 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Delta Electronics ASDA-Soft",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability may allow an attacker to write arbitrary data beyond the bounds of a stack-allocated buffer, leading to the corruption of a structured exception handler (SEH). The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft <=7.2.0.0 (CVE-2026-1361) CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics ASDA-Soft Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Critical ",
+      "title": "Honeywell CCTV Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could lead to account takeovers and unauthorized access to camera feeds; an unauthenticated attacker may change the recovery email address, potentially leading to further network compromise. The following versions of Honeywell CCTV Products are affected: I-HIB2PI-UL 2MP IP 6.1.22.1216 (CVE-2026-1670) SMB NDAA MVO-3 WDR_2MP_32M_PTZ_v2.0 (CVE-2026-1670) PTZ WDR 2MP 32M WDR_2MP_32M_PTZ_v2.0 (CVE-2026-1670) 25M IPC WDR_2MP_32M_PTZ_v2.0 ",
       "published": "Tue, 17 Feb 26 12:00:00 +0000",
-      "value_score": 75,
+      "value_score": 89,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×2",
+        "CVE mentioned ×3",
+        "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens Simcenter Femap and Nastran",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-01",
-      "summary": "View CSAF Summary Siemens Simcenter Femap and Nastran is affected by multiple file parsing vulnerabilities that could be triggered when the application reads files in NDB and XDB formats. If a user is tricked to open a malicious file with any of the affected products, this could lead the application to crash or potentially lead to arbitrary code execution. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemen",
-      "published": "Tue, 17 Feb 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2008-0015 Microsoft Windows Video ActiveX Control Remote Code Execution Vulnerability CVE-2020-7796 Synacor Zimbra Collaboration Suite (ZCS) Server-Side Request Forgery Vulnerability CVE-2024-7694 TeamT5 ThreatSonar Anti-Ransomware Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-2441 Google Chromium CSS Use-After-Free Vulnerability Th",
+      "title": "GE Vernova Enervista UR Setup",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities may allow code execution with elevated privileges. The following versions of GE Vernova Enervista UR Setup are affected: Enervista UR Setup <8.70 (CVE-2026-1762, CVE-2026-1763) CVSS Vendor Equipment Vulnerabilities v3 7.8 GE Vernova GE Vernova Enervista UR Setup Uncontrolled Search Path Element, Path Traversal: '.../...//' Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Water and Wastewater Countries/A",
       "published": "Tue, 17 Feb 26 12:00:00 +0000",
       "value_score": 100,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "Ransomware",
-        "RCE",
-        "CISA/KEV ×5",
-        "Multiple CVEs"
+        "CVE mentioned ×2",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
       ]
     }
   ],

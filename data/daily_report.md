@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-20 20:25 UTC  
+> **Last Updated:** 2026-02-20 22:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **atm jackpotting attacks** • **scattered lapsus shinyhunters** • **windows operating systems** • **arbitrary code execution** • **cve 2026 1731** • **web shells backdoors** • **twitter whistleblower complaint** • **samaneh ghandali 41** • **legitimate site forwarding** • **global financial center** • **force cash machines** • **clinic locations statewide** • **beyondtrust vulnerability exploited** • **shift left dream** • **shift left approach** • **kimwolf botnet lurking** • **free vulnerability th** • **things attack surfaces** • **vulnerabilities earned microsoft's**
+**atm jackpotting attacks** • **windows operating systems** • **cve 2026 1731** • **twitter whistleblower complaint** • **samaneh ghandali 41** • **global financial center** • **force cash machines** • **clinic locations statewide** • **shift left dream** • **shift left approach** • **beyondtrust vulnerability exploited** • **three cyber attacks** • **detecting phishing attacks** • **atm malware attacks** • **xl4 controller vers** • **wire fraud conspiracy** • **web shells backdoors** • **vulnerabilities earned microsoft's** • **unfortunately named toolkit** • **trade secret transfers**
 
 ---
 
@@ -38,17 +38,18 @@
 
 ### Krebs on Security
 
-- [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
-- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
-- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
 - [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
+- [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+- [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
+- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
+- [Most Parked Domains Now Serving Malicious Content](https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/)
+- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/)
 
 ### Dark Reading
 
+- [Attackers Use New Tool to Scan for React2Shell Exposure](https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure)
 - ['God-Like' Attack Machines: AI Agents Ignore Security Policies](https://www.darkreading.com/application-security/ai-agents-ignore-security-policies)
 - [Lessons From AI Hacking: Every Model, Every Layer Is Risky](https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky)
 - [Latin America's Cyber Maturity Lags Threat Landscape](https://www.darkreading.com/threat-intelligence/latin-americas-cyber-maturity-lags-threat-landscape)
@@ -56,7 +57,6 @@
 - [Supply Chain Attack Secretly Installs OpenClaw for Cline Users](https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users)
 - [Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA](https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa)
 - [Abu Dhabi Finance Week Exposed VIP Passport Details](https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details)
-- [Connected and Compromised: When IoT Devices Turn Into Threats](https://www.darkreading.com/iot/connected-compromised-iot-devices-turn-threats)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)
+- [Valmet DNA Engineering Web Tools](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-02)
+- [Jinan USR IOT Technology Limited (PUSR) USR-W610](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-03)
 - [EnOcean SmartServer IoT](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-01)
 - [Welker OdorEyes EcoSystem Pulse Bypass System with XL4 Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-04)
-- [Jinan USR IOT Technology Limited (PUSR) USR-W610](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-03)
-- [Valmet DNA Engineering Web Tools](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-02)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [Delta Electronics ASDA-Soft](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-02)
-- [Siemens Simcenter Femap and Nastran](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-01)
-- [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog)
+- [Honeywell CCTV Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-04)
+- [GE Vernova Enervista UR Setup](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-03)
 
 ---
 

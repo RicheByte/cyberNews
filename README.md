@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-20 12:47 UTC |
+| 🕐 Last Updated | 2026-02-20 14:36 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`badbox 2 0` • `windows admin center` • `atm jackpotting attacks` • `windows operating systems` • `venice security emerges` • `scattered lapsus shinyhunters` • `arbitrary code execution` • `three cyber attacks` • `50 security holes` • `twitter whistleblower complaint`
+`badbox 2 0` • `atm jackpotting attacks` • `venice security emerges` • `scattered lapsus shinyhunters` • `windows operating systems` • `arbitrary code execution` • `50 security holes` • `three cyber attacks` • `twitter whistleblower complaint` • `samaneh ghandali 41`
 
 ## 📄 Reports
 

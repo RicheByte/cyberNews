@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-20 12:47 UTC  
+> **Last Updated:** 2026-02-20 14:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **windows admin center** • **atm jackpotting attacks** • **windows operating systems** • **venice security emerges** • **scattered lapsus shinyhunters** • **arbitrary code execution** • **three cyber attacks** • **50 security holes** • **twitter whistleblower complaint** • **samaneh ghandali 41** • **pose significant risks** • **missing something crucial** • **ivanti exploitation surges** • **iot devices turn** • **global financial center** • **force cash machines** • **clinic locations statewide** • **buy fake crypto** • **behavior across personal**
+**badbox 2 0** • **atm jackpotting attacks** • **venice security emerges** • **scattered lapsus shinyhunters** • **windows operating systems** • **arbitrary code execution** • **50 security holes** • **three cyber attacks** • **twitter whistleblower complaint** • **samaneh ghandali 41** • **ivanti exploitation surges** • **global financial center** • **force cash machines** • **clinic locations statewide** • **buy fake crypto** • **4 000 times** • **atm malware attacks** • **things attack surfaces** • **beyondtrust vulnerability exploited** • **vulnerabilities earned microsoft's**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
+- [ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware](https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html)
 - [Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026](https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html)
 - [Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case](https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html)
 - [FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025](https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html)
 - [Former Google Engineers Indicted Over Trade Secret Transfers to Iran](https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html)
 - [PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
 - [INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
-- [Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center](https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html)
-- [ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html)
 
 ### BleepingComputer
 
+- [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
 - [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
 - [FBI: Over $20 million stolen in surge of ATM malware attacks in 2025](https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/)
 - [Ukrainian gets 5 years for helping North Koreans infiltrate US firms](https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/)
@@ -34,7 +35,6 @@
 - [Flaw in Grandstream VoIP phones allows stealthy eavesdropping](https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/)
 - [Google blocked over 1.75 million Play Store app submissions in 2025](https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/)
 - [CISA orders feds to patch actively exploited Dell flaw within 3 days](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/)
-- [How infostealers turn stolen credentials into real identities](https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Latin America's Cyber Maturity Lags Threat Landscape](https://www.darkreading.com/threat-intelligence/latin-americas-cyber-maturity-lags-threat-landscape)
+- [Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges](https://www.darkreading.com/cyber-risk/emerging-chiplet-designs-spark-fresh-cybersecurity-challenges)
 - [Supply Chain Attack Secretly Installs OpenClaw for Cline Users](https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users)
 - [Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA](https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa)
 - [Abu Dhabi Finance Week Exposed VIP Passport Details](https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details)
 - [Connected and Compromised: When IoT Devices Turn Into Threats](https://www.darkreading.com/iot/connected-compromised-iot-devices-turn-threats)
 - [More Than 40% of South Africans Were Scammed in 2025](https://www.darkreading.com/cybersecurity-analytics/south-africans-scammed-2025)
 - [Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto](https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto)
-- [Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot](https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot)
-- [Threat Intelligence Has a Human-Shaped Blind Spot](https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot)
 
 ### Security Week
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20 06:49",
+  "last_updated": "2026-02-20 08:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,6 +10,7 @@
     "long term espionage",
     "windows operating systems",
     "arbitrary code execution",
+    "8 1 million",
     "50 security holes",
     "things attack surfaces",
     "pose significant risks",
@@ -19,7 +20,6 @@
     "missing something crucial",
     "ivanti exploitation surges",
     "buy fake crypto",
-    "8 1 million",
     "4 000 times",
     "windows clients servers",
     "behavior across personal"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 165
+      "mentions": 166
     },
     {
       "keyword": "windows admin center",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "venice security emerges",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 134
+      "mentions": 135
     },
     {
       "keyword": "long term espionage",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 359
+      "mentions": 360
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 158
+      "mentions": 159
+    },
+    {
+      "keyword": "8 1 million",
+      "mentions": 6
     },
     {
       "keyword": "50 security holes",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "things attack surfaces",
-      "mentions": 5
-    },
-    {
-      "keyword": "pose significant risks",
-      "mentions": 10
+      "mentions": 6
     }
   ],
   "articles": [
@@ -402,6 +402,15 @@
     },
     {
       "source": "Security Week",
+      "title": "PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence",
+      "link": "https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/",
+      "summary": "The malware leverages Gemini to analyze on-screen elements and ensure that it remains on the device even after a reboot. The post PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence appeared first on SecurityWeek .",
+      "published": "Fri, 20 Feb 2026 07:06:15 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "French Government Says 1.2 Million Bank Accounts Exposed in Breach",
       "link": "https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/",
       "summary": "The Ministry of Economy reported discovering unauthorized access to the national bank account registry FICOBA. The post French Government Says 1.2 Million Bank Accounts Exposed in Breach appeared first on SecurityWeek .",
@@ -467,15 +476,6 @@
       "link": "https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/",
       "summary": "The malware has been preinstalled on many devices but it has also been distributed through Google Play and other app stores. The post New Keenadu Android Malware Found on Thousands of Devices appeared first on SecurityWeek .",
       "published": "Wed, 18 Feb 2026 15:41:25 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cogent Security Raises $42 Million for AI-Driven Vulnerability Management",
-      "link": "https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/",
-      "summary": "The Series A funding round, led by Bain Capital, brings the total raised by Cogent to $53 million. The post Cogent Security Raises $42 Million for AI-Driven Vulnerability Management appeared first on SecurityWeek .",
-      "published": "Wed, 18 Feb 2026 14:47:07 +0000",
       "value_score": 10,
       "value_signals": []
     },

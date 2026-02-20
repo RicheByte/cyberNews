@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-20 06:49 UTC  
+> **Last Updated:** 2026-02-20 08:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **windows admin center** • **venice security emerges** • **scattered lapsus shinyhunters** • **long term espionage** • **windows operating systems** • **arbitrary code execution** • **50 security holes** • **things attack surfaces** • **pose significant risks** • **data allegedly stolen** • **twitter whistleblower complaint** • **samaneh ghandali 41** • **missing something crucial** • **ivanti exploitation surges** • **buy fake crypto** • **8 1 million** • **4 000 times** • **windows clients servers** • **behavior across personal**
+**badbox 2 0** • **windows admin center** • **venice security emerges** • **scattered lapsus shinyhunters** • **long term espionage** • **windows operating systems** • **arbitrary code execution** • **8 1 million** • **50 security holes** • **things attack surfaces** • **pose significant risks** • **data allegedly stolen** • **twitter whistleblower complaint** • **samaneh ghandali 41** • **missing something crucial** • **ivanti exploitation surges** • **buy fake crypto** • **4 000 times** • **windows clients servers** • **behavior across personal**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence](https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/)
 - [French Government Says 1.2 Million Bank Accounts Exposed in Breach](https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/)
 - [Nearly 1 Million User Records Compromised in Figure Data Breach](https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/)
 - [Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management](https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/)
@@ -67,7 +68,6 @@
 - [OpenClaw Security Issues Continue as SecureClaw Open Source Tool Debuts](https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/)
 - [German Rail Giant Deutsche Bahn Hit by Large-Scale DDoS Attack](https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/)
 - [New Keenadu Android Malware Found on Thousands of Devices](https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/)
-- [Cogent Security Raises $42 Million for AI-Driven Vulnerability Management](https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/)
 
 ### Threatpost
 

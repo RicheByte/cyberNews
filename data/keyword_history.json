@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 358,
+      "count": 359,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -211,7 +211,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 749,
+      "count": 750,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2558,7 +2558,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3124,7 +3124,7 @@
       ]
     },
     "pose significant risks": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-14",
         "2026-02-09",
@@ -4528,7 +4528,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 164,
+      "count": 165,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5301,7 +5301,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6265,7 +6265,7 @@
       ]
     },
     "50 security holes": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7116,7 +7116,7 @@
       ]
     },
     "buy fake crypto": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-18",
         "2026-02-19",
@@ -7137,7 +7137,7 @@
       ]
     },
     "venice security emerges": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-19",
         "2026-02-20"
@@ -7157,7 +7157,7 @@
       ]
     },
     "ivanti exploitation surges": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-19",
         "2026-02-20"
@@ -7182,7 +7182,7 @@
       ]
     },
     "long term espionage": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-19",
         "2026-02-20"
@@ -7196,7 +7196,7 @@
       ]
     },
     "data allegedly stolen": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-19",
         "2026-02-20"
@@ -7209,28 +7209,28 @@
       ]
     },
     "missing something crucial": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-19",
         "2026-02-20"
       ]
     },
     "windows admin center": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-19",
         "2026-02-20"
       ]
     },
     "things attack surfaces": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-19",
         "2026-02-20"
       ]
     },
     "8 1 million": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-19",
         "2026-02-20"
@@ -7243,9 +7243,10 @@
       ]
     },
     "windows clients servers": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-02-19"
+        "2026-02-19",
+        "2026-02-20"
       ]
     },
     "patched security flaw": {
@@ -7255,24 +7256,25 @@
       ]
     },
     "4 000 times": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-02-20"
+      ]
+    },
+    "samaneh ghandali 41": {
+      "count": 1,
+      "dates": [
+        "2026-02-20"
+      ]
+    },
+    "behavior across personal": {
+      "count": 1,
       "dates": [
         "2026-02-20"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-11 04:28",
-      "articles": 56,
-      "top_keywords": [
-        "vega raises 120m",
-        "scattered lapsus shinyhunters",
-        "bugs fixed today",
-        "badbox 2 0",
-        "sim location data"
-      ]
-    },
     {
       "timestamp": "2026-02-11 06:55",
       "articles": 56,
@@ -8360,6 +8362,17 @@
         "venice security emerges",
         "targeting technology manufacturing",
         "scattered lapsus shinyhunters"
+      ]
+    },
+    {
+      "timestamp": "2026-02-20 06:49",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "windows admin center",
+        "venice security emerges",
+        "scattered lapsus shinyhunters",
+        "long term espionage"
       ]
     }
   ]

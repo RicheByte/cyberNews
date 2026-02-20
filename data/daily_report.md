@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-20 04:10 UTC  
+> **Last Updated:** 2026-02-20 06:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **windows admin center** • **venice security emerges** • **targeting technology manufacturing** • **scattered lapsus shinyhunters** • **long term espionage** • **windows operating systems** • **arbitrary code execution** • **50 security holes** • **things attack surfaces** • **pose significant risks** • **interdisciplinary research unit** • **data allegedly stolen** • **twitter whistleblower complaint** • **missing something crucial** • **ivanti exploitation surges** • **hacking tax firms** • **buy fake crypto** • **8 1 million** • **4 000 times**
+**badbox 2 0** • **windows admin center** • **venice security emerges** • **scattered lapsus shinyhunters** • **long term espionage** • **windows operating systems** • **arbitrary code execution** • **50 security holes** • **things attack surfaces** • **pose significant risks** • **data allegedly stolen** • **twitter whistleblower complaint** • **samaneh ghandali 41** • **missing something crucial** • **ivanti exploitation surges** • **buy fake crypto** • **8 1 million** • **4 000 times** • **windows clients servers** • **behavior across personal**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Three Former Google Engineers Indicted Over Trade Secret Transfers to Iran](https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html)
 - [PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
 - [INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
 - [Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center](https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html)
@@ -23,7 +24,6 @@
 - [From Exposure to Exploitation: How AI Collapses Your Response Window](https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html)
 - [Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users](https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html)
 - [CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware](https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html)
-- [Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody](https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html)
 
 ### BleepingComputer
 

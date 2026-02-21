@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-21 08:24 UTC  
+> **Last Updated:** 2026-02-21 10:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **atm jackpotting attacks** • **scattered lapsus shinyhunters** • **limited research preview** • **windows operating systems** • **beyondtrust vulnerability exploited** • **cve 2026 1731** • **web shells backdoors** • **twitter whistleblower complaint** • **legitimate site forwarding** • **global financial center** • **force cash machines** • **atm malware attacks** • **untrusted data vulnerability** • **shift left dream** • **shift left approach** • **kimwolf botnet lurking** • **50 security holes** • **three cyber attacks** • **ransomware attacks cisa**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **limited research preview** • **atm jackpotting attacks** • **windows operating systems** • **beyondtrust vulnerability exploited** • **cve 2026 1731** • **web shells backdoors** • **twitter whistleblower complaint** • **legitimate site forwarding** • **global financial center** • **force cash machines** • **4 000 times** • **untrusted data vulnerability** • **shift left dream** • **shift left approach** • **kimwolf botnet lurking** • **atm malware attacks** • **50 security holes** • **three cyber attacks**
 
 ---
 
@@ -18,12 +18,12 @@
 
 - [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
 - [CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
+- [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html)
 - [BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration](https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html)
 - [Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
 - [ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware](https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html)
 - [Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026](https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html)
 - [Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case](https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html)
-- [FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025](https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html)
 
 ### BleepingComputer
 

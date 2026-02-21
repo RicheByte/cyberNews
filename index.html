@@ -500,7 +500,7 @@
             <p class="tagline">Real-time Cybersecurity News Aggregation & Trend Analysis</p>
             <div class="live-indicator">
                 <span class="live-dot"></span>
-                <span>Last updated: 2026-02-21 10:20 UTC</span>
+                <span>Last updated: 2026-02-21 12:36 UTC</span>
             </div>
         </header>
         
@@ -529,7 +529,7 @@
                     <div class="card-title"><span class="card-icon">🔥</span> Trending Keywords</div>
                 </div>
                 <div class="keyword-cloud">
-                    <span class="keyword-tag large">badbox 2 0 (175) </span><span class="keyword-tag large">scattered lapsus shinyhunters (144) </span><span class="keyword-tag large">limited research preview (2) </span><span class="keyword-tag medium">atm jackpotting attacks (12) </span><span class="keyword-tag medium">windows operating systems (372) </span><span class="keyword-tag medium">beyondtrust vulnerability exploited (9) </span><span class="keyword-tag medium">cve 2026 1731 (8) </span><span class="keyword-tag small">web shells backdoors (8) </span><span class="keyword-tag small">twitter whistleblower complaint (763) </span><span class="keyword-tag small">legitimate site forwarding (5) </span>
+                    <span class="keyword-tag large">scattered lapsus shinyhunters (145) </span><span class="keyword-tag large">badbox 2 0 (176) </span><span class="keyword-tag large">limited research preview (3) </span><span class="keyword-tag medium">atm jackpotting attacks (13) </span><span class="keyword-tag medium">windows operating systems (373) </span><span class="keyword-tag medium">beyondtrust vulnerability exploited (10) </span><span class="keyword-tag medium">web shells backdoors (9) </span><span class="keyword-tag small">twitter whistleblower complaint (764) </span><span class="keyword-tag small">remote code execution (98) </span><span class="keyword-tag small">legitimate site forwarding (6) </span>
                 </div>
             </div>
             
@@ -539,6 +539,13 @@
                 </div>
                 <div class="timeline">
                     
+        <div class="timeline-item">
+            <div class="timeline-time">2026-02-21 12:36</div>
+            <div class="timeline-content">
+                <strong>56 articles</strong> analyzed
+                <div class="timeline-keywords">scattered lapsus shinyhunters, badbox 2 0, limited research preview</div>
+            </div>
+        </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-02-21 10:20</div>
             <div class="timeline-content">
@@ -583,13 +590,6 @@
         </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-02-20 20:25</div>
-            <div class="timeline-content">
-                <strong>56 articles</strong> analyzed
-                <div class="timeline-keywords">badbox 2 0, atm jackpotting attacks, scattered lapsus shinyhunters</div>
-            </div>
-        </div>
-        <div class="timeline-item">
-            <div class="timeline-time">2026-02-20 18:39</div>
             <div class="timeline-content">
                 <strong>56 articles</strong> analyzed
                 <div class="timeline-keywords">badbox 2 0, atm jackpotting attacks, scattered lapsus shinyhunters</div>
@@ -928,6 +928,17 @@
             <div class="article-card" data-source="Security Week">
                 <div class="article-top">
                     <div class="article-source">Security Week</div>
+                    <div class="value-badge value-med">Value 70</div>
+                </div>
+                <h3 class="article-title">
+                    <a href="https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/" target="_blank" rel="noopener">Critical Grandstream Phone Vulnerability Exposes Calls to Interception</a>
+                </h3>
+                <p class="article-summary">The flaw tracked as CVE-2026-2329 can be exploited without authentication for remote code execution with root privileges. The post Critical Grandstrea...</p>
+                <div class="article-meta">Sat, 21 Feb 2026 12:00:00</div>
+            </div>
+            <div class="article-card" data-source="Security Week">
+                <div class="article-top">
+                    <div class="article-source">Security Week</div>
                     <div class="value-badge value-low">Value 10</div>
                 </div>
                 <h3 class="article-title">
@@ -968,17 +979,6 @@
                 </h3>
                 <p class="article-summary">The FBI has confirmed that the Ploutus malware, which has been around for over a decade, is still being used in the wild. The post FBI: $20 Million Lo...</p>
                 <div class="article-meta">Fri, 20 Feb 2026 11:05:26</div>
-            </div>
-            <div class="article-card" data-source="Security Week">
-                <div class="article-top">
-                    <div class="article-source">Security Week</div>
-                    <div class="value-badge value-low">Value 46</div>
-                </div>
-                <h3 class="article-title">
-                    <a href="https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/" target="_blank" rel="noopener">Chip Testing Giant Advantest Hit by Ransomware</a>
-                </h3>
-                <p class="article-summary">The company is investigating whether any customer or employee data was stolen by hackers. The post Chip Testing Giant Advantest Hit by Ransomware appe...</p>
-                <div class="article-meta">Fri, 20 Feb 2026 09:31:29</div>
             </div>
             <div class="article-card" data-source="Threatpost">
                 <div class="article-top">
@@ -1146,10 +1146,10 @@
         new Chart(keywordCtx, {
             type: 'bar',
             data: {
-                labels: ["badbox 2 0", "scattered lapsus shi", "limited research pre", "atm jackpotting atta", "windows operating sy", "beyondtrust vulnerab", "cve 2026 1731", "web shells backdoors", "twitter whistleblowe", "legitimate site forw"],
+                labels: ["scattered lapsus shi", "badbox 2 0", "limited research pre", "atm jackpotting atta", "windows operating sy", "beyondtrust vulnerab", "web shells backdoors", "twitter whistleblowe", "remote code executio", "legitimate site forw"],
                 datasets: [{
                     label: 'Mentions',
-                    data: [175, 144, 2, 12, 372, 9, 8, 8, 763, 5],
+                    data: [145, 176, 3, 13, 373, 10, 9, 764, 98, 6],
                     backgroundColor: 'rgba(0, 255, 136, 0.6)',
                     borderColor: '#00ff88',
                     borderWidth: 1,

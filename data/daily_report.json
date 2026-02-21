@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-21 10:20",
+  "last_updated": "2026-02-21 12:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "badbox 2 0",
     "scattered lapsus shinyhunters",
+    "badbox 2 0",
     "limited research preview",
     "atm jackpotting attacks",
     "windows operating systems",
     "beyondtrust vulnerability exploited",
-    "cve 2026 1731",
     "web shells backdoors",
     "twitter whistleblower complaint",
+    "remote code execution",
     "legitimate site forwarding",
     "global financial center",
     "force cash machines",
+    "cve 2026 1731",
     "4 000 times",
     "untrusted data vulnerability",
     "shift left dream",
     "shift left approach",
     "kimwolf botnet lurking",
     "atm malware attacks",
-    "50 security holes",
-    "three cyber attacks"
+    "50 security holes"
   ],
   "trending": [
     {
-      "keyword": "badbox 2 0",
-      "mentions": 175
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 145
     },
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 144
+      "keyword": "badbox 2 0",
+      "mentions": 176
     },
     {
       "keyword": "limited research preview",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "atm jackpotting attacks",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 372
+      "mentions": 373
     },
     {
       "keyword": "beyondtrust vulnerability exploited",
-      "mentions": 9
-    },
-    {
-      "keyword": "cve 2026 1731",
-      "mentions": 8
+      "mentions": 10
     },
     {
       "keyword": "web shells backdoors",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 763
+      "mentions": 764
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 98
     },
     {
       "keyword": "legitimate site forwarding",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -409,6 +409,20 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical Grandstream Phone Vulnerability Exposes Calls to Interception",
+      "link": "https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/",
+      "summary": "The flaw tracked as CVE-2026-2329 can be exploited without authentication for remote code execution with root privileges. The post Critical Grandstream Phone Vulnerability Exposes Calls to Interception appeared first on SecurityWeek .",
+      "published": "Sat, 21 Feb 2026 12:00:00 +0000",
+      "value_score": 70,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "NIST’s Quantum Breakthrough: Single Photons Produced on a Chip",
       "link": "https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/",
       "summary": "NIST’s single photon chip will likely make QKD an option for a wider range of companies. The post NIST’s Quantum Breakthrough: Single Photons Produced on a Chip appeared first on SecurityWeek .",
@@ -482,17 +496,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Nearly 1 Million User Records Compromised in Figure Data Breach",
-      "link": "https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/",
-      "summary": "The blockchain-based lender has confirmed a data breach after ShinyHunters leaked over 2GB of data allegedly stolen from the company. The post Nearly 1 Million User Records Compromised in Figure Data Breach appeared first on SecurityWeek .",
-      "published": "Thu, 19 Feb 2026 13:19:08 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
       ]
     },
     {

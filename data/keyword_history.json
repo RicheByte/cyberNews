@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 372,
+      "count": 373,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -212,7 +212,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 763,
+      "count": 764,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -530,7 +530,7 @@
       ]
     },
     "remote code execution": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -548,7 +548,8 @@
         "2026-02-07",
         "2026-02-08",
         "2026-02-09",
-        "2026-02-10"
+        "2026-02-10",
+        "2026-02-21"
       ]
     },
     "attacker remotely control": {
@@ -4532,7 +4533,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4965,7 +4966,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5308,7 +5309,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6273,7 +6274,7 @@
       ]
     },
     "50 security holes": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7265,7 +7266,7 @@
       ]
     },
     "4 000 times": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7285,14 +7286,14 @@
       ]
     },
     "atm jackpotting attacks": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "force cash machines": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7318,7 +7319,7 @@
       ]
     },
     "global financial center": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7332,28 +7333,28 @@
       ]
     },
     "atm malware attacks": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "beyondtrust vulnerability exploited": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "shift left dream": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "shift left approach": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7373,21 +7374,21 @@
       ]
     },
     "cve 2026 1731": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "web shells backdoors": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "legitimate site forwarding": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7428,13 +7429,13 @@
       ]
     },
     "limited research preview": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-21"
       ]
     },
     "untrusted data vulnerability": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-21"
       ]
@@ -7447,17 +7448,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-12 10:39",
-      "articles": 56,
-      "top_keywords": [
-        "webinar today identity",
-        "scattered lapsus shinyhunters",
-        "bulletproof hosting infrastructure",
-        "badbox 2 0",
-        "50 security holes"
-      ]
-    },
     {
       "timestamp": "2026-02-12 12:56",
       "articles": 56,
@@ -8542,6 +8532,17 @@
       "top_keywords": [
         "badbox 2 0",
         "scattered lapsus shinyhunters",
+        "limited research preview",
+        "atm jackpotting attacks",
+        "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-02-21 12:36",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
         "limited research preview",
         "atm jackpotting attacks",
         "windows operating systems"

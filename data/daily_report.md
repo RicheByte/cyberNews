@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-21 12:36 UTC  
+> **Last Updated:** 2026-02-21 14:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
 - [Japanese tech giant Advantest hit by ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/)
 - [CISA: BeyondTrust RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/)
 - [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
@@ -34,7 +35,6 @@
 - [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
 - [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
 - [FBI: Over $20 million stolen in surge of ATM malware attacks in 2025](https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/)
-- [Ukrainian gets 5 years for helping North Koreans infiltrate US firms](https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/)
 
 ### Krebs on Security
 

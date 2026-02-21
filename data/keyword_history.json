@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 377,
+      "count": 378,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -212,7 +212,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 768,
+      "count": 769,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -530,7 +530,7 @@
       ]
     },
     "remote code execution": {
-      "count": 102,
+      "count": 103,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2352,7 +2352,7 @@
       ]
     },
     "strong theme running": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2477,7 +2477,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 200,
+      "count": 201,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -7268,7 +7268,7 @@
       ]
     },
     "4 000 times": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7314,14 +7314,14 @@
       ]
     },
     "three cyber attacks": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "global financial center": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7342,21 +7342,21 @@
       ]
     },
     "beyondtrust vulnerability exploited": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "shift left dream": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "shift left approach": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7369,21 +7369,21 @@
       ]
     },
     "detecting phishing attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "cve 2026 1731": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "web shells backdoors": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7403,7 +7403,7 @@
       ]
     },
     "xl4 controller vers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7417,7 +7417,7 @@
       ]
     },
     "unfortunately named toolkit": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7431,42 +7431,31 @@
       ]
     },
     "limited research preview": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-21"
       ]
     },
     "untrusted data vulnerability": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-21"
       ]
     },
     "ransomware attacks cisa": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-21"
       ]
     },
     "cve 2026 2329": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-21"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-12 20:29",
-      "articles": 56,
-      "top_keywords": [
-        "bulletproof hosting infrastructure",
-        "badbox 2 0",
-        "scattered lapsus shinyhunters",
-        "webinar today identity",
-        "curbing telnet traffic"
-      ]
-    },
     {
       "timestamp": "2026-02-12 22:27",
       "articles": 56,
@@ -8554,6 +8543,17 @@
         "limited research preview",
         "windows operating systems",
         "beyondtrust vulnerability exploited"
+      ]
+    },
+    {
+      "timestamp": "2026-02-21 22:18",
+      "articles": 56,
+      "top_keywords": [
+        "limited research preview",
+        "windows operating systems",
+        "cve 2026 1731",
+        "twitter whistleblower complaint",
+        "remote code execution"
       ]
     }
   ]

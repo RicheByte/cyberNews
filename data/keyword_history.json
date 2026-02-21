@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 369,
+      "count": 370,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -212,7 +212,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 760,
+      "count": 761,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3172,7 +3172,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3194,7 +3194,8 @@
         "2026-02-11",
         "2026-02-12",
         "2026-02-13",
-        "2026-02-20"
+        "2026-02-20",
+        "2026-02-21"
       ]
     },
     "final patch tuesday": {
@@ -7269,7 +7270,7 @@
       ]
     },
     "samaneh ghandali 41": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7282,14 +7283,14 @@
       ]
     },
     "atm jackpotting attacks": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "force cash machines": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7308,49 +7309,49 @@
       ]
     },
     "three cyber attacks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "global financial center": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "clinic locations statewide": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "atm malware attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "beyondtrust vulnerability exploited": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "shift left dream": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "shift left approach": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7363,20 +7364,21 @@
       ]
     },
     "detecting phishing attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-02-20"
+        "2026-02-20",
+        "2026-02-21"
       ]
     },
     "cve 2026 1731": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "web shells backdoors": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7396,44 +7398,35 @@
       ]
     },
     "xl4 controller vers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "wire fraud conspiracy": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "unfortunately named toolkit": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-20"
+        "2026-02-20",
+        "2026-02-21"
       ]
     },
     "trade secret transfers": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-20"
+        "2026-02-20",
+        "2026-02-21"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-12 04:20",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "50 security holes",
-        "webinar today identity",
-        "released security updates"
-      ]
-    },
     {
       "timestamp": "2026-02-12 06:55",
       "articles": 56,
@@ -8521,6 +8514,17 @@
         "scattered lapsus shinyhunters",
         "windows operating systems",
         "cve 2026 1731"
+      ]
+    },
+    {
+      "timestamp": "2026-02-21 06:35",
+      "articles": 56,
+      "top_keywords": [
+        "atm jackpotting attacks",
+        "windows operating systems",
+        "cve 2026 1731",
+        "twitter whistleblower complaint",
+        "samaneh ghandali 41"
       ]
     }
   ]

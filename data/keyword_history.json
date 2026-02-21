@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 375,
+      "count": 376,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -212,7 +212,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 766,
+      "count": 767,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -530,7 +530,7 @@
       ]
     },
     "remote code execution": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2352,7 +2352,7 @@
       ]
     },
     "strong theme running": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2372,7 +2372,8 @@
         "2026-02-09",
         "2026-02-10",
         "2026-02-11",
-        "2026-02-13"
+        "2026-02-13",
+        "2026-02-21"
       ]
     },
     "narrative intelligence platform": {
@@ -2476,7 +2477,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 199,
+      "count": 200,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2506,7 +2507,8 @@
         "2026-02-12",
         "2026-02-13",
         "2026-02-16",
-        "2026-02-17"
+        "2026-02-17",
+        "2026-02-21"
       ]
     },
     "internal network behind": {
@@ -7266,7 +7268,7 @@
       ]
     },
     "4 000 times": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7312,14 +7314,14 @@
       ]
     },
     "three cyber attacks": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "global financial center": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7340,21 +7342,21 @@
       ]
     },
     "beyondtrust vulnerability exploited": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "shift left dream": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "shift left approach": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7367,21 +7369,21 @@
       ]
     },
     "detecting phishing attacks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "cve 2026 1731": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "web shells backdoors": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7401,7 +7403,7 @@
       ]
     },
     "xl4 controller vers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7415,7 +7417,7 @@
       ]
     },
     "unfortunately named toolkit": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7429,42 +7431,31 @@
       ]
     },
     "limited research preview": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-21"
       ]
     },
     "untrusted data vulnerability": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-21"
       ]
     },
     "ransomware attacks cisa": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-21"
       ]
     },
     "cve 2026 2329": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-21"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-12 16:53",
-      "articles": 56,
-      "top_keywords": [
-        "bulletproof hosting infrastructure",
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "webinar today identity",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-02-12 18:56",
       "articles": 56,
@@ -8552,6 +8543,17 @@
         "limited research preview",
         "windows operating systems",
         "beyondtrust vulnerability exploited"
+      ]
+    },
+    {
+      "timestamp": "2026-02-21 18:27",
+      "articles": 56,
+      "top_keywords": [
+        "limited research preview",
+        "windows operating systems",
+        "cve 2026 1731",
+        "twitter whistleblower complaint",
+        "remote code execution"
       ]
     }
   ]

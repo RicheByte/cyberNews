@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-21 14:21 UTC  
+> **Last Updated:** 2026-02-21 16:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **limited research preview** • **atm jackpotting attacks** • **windows operating systems** • **beyondtrust vulnerability exploited** • **web shells backdoors** • **twitter whistleblower complaint** • **remote code execution** • **legitimate site forwarding** • **global financial center** • **force cash machines** • **cve 2026 1731** • **4 000 times** • **untrusted data vulnerability** • **shift left dream** • **shift left approach** • **kimwolf botnet lurking** • **atm malware attacks** • **50 security holes**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **limited research preview** • **windows operating systems** • **beyondtrust vulnerability exploited** • **cve 2026 1731** • **web shells backdoors** • **twitter whistleblower complaint** • **remote code execution** • **legitimate site forwarding** • **global financial center** • **4 000 times** • **untrusted data vulnerability** • **shift left dream** • **shift left approach** • **kimwolf botnet lurking** • **50 security holes** • **three cyber attacks** • **cve 2026 2329** • **ransomware attacks cisa**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
 - [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
 - [CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
 - [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html)
@@ -23,18 +24,17 @@
 - [Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
 - [ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware](https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html)
 - [Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026](https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html)
-- [Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case](https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html)
 
 ### BleepingComputer
 
-- [Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
+- [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
+- [Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
 - [Japanese tech giant Advantest hit by ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/)
 - [CISA: BeyondTrust RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/)
 - [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
 - [Why the shift left dream has become a nightmare for security and developers](https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/)
 - [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
 - [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
-- [FBI: Over $20 million stolen in surge of ATM malware attacks in 2025](https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/)
 
 ### Krebs on Security
 

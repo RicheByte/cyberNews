@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-02-21 14:21",
+  "last_updated": "2026-02-21 16:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
     "limited research preview",
-    "atm jackpotting attacks",
     "windows operating systems",
     "beyondtrust vulnerability exploited",
+    "cve 2026 1731",
     "web shells backdoors",
     "twitter whistleblower complaint",
     "remote code execution",
     "legitimate site forwarding",
     "global financial center",
-    "force cash machines",
-    "cve 2026 1731",
     "4 000 times",
     "untrusted data vulnerability",
     "shift left dream",
     "shift left approach",
     "kimwolf botnet lurking",
-    "atm malware attacks",
-    "50 security holes"
+    "50 security holes",
+    "three cyber attacks",
+    "cve 2026 2329",
+    "ransomware attacks cisa"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 146
+      "mentions": 147
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 177
+      "mentions": 178
     },
     {
       "keyword": "limited research preview",
-      "mentions": 4
-    },
-    {
-      "keyword": "atm jackpotting attacks",
-      "mentions": 14
+      "mentions": 5
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 374
+      "mentions": 375
     },
     {
       "keyword": "beyondtrust vulnerability exploited",
+      "mentions": 12
+    },
+    {
+      "keyword": "cve 2026 1731",
       "mentions": 11
     },
     {
       "keyword": "web shells backdoors",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 765
+      "mentions": 766
     },
     {
       "keyword": "remote code execution",
-      "mentions": 99
+      "mentions": 100
     },
     {
       "keyword": "legitimate site forwarding",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
+      "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
+      "summary": "A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in 55 countries. That's according to new findings from Amazon Threat Intelligence, which said it observed the activity between January 11 and February 18, 2026. \"No exploitation of FortiGate",
+      "published": "Sat, 21 Feb 2026 20:19:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
@@ -142,17 +153,17 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
-      "link": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
-      "summary": "A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme. In November 2025, Oleksandr \"Alexander\" Didenko pleaded guilty to wire fraud conspiracy and aggravated identity theft for stealing the identities of U.S. citizens and selling them to IT workers to help them land",
-      "published": "Fri, 20 Feb 2026 15:22:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
+      "link": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/",
+      "summary": "Intellexa's Predator spyware can hide iOS recording indicators while secretly streaming camera and microphone feeds to its operators. [...]",
+      "published": "Sat, 21 Feb 2026 11:13:24 -0500",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "BleepingComputer",
-      "title": "Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks",
+      "title": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/",
       "summary": "Amazon is warning that a Russian-speaking hacker used multiple generative AI services as part of a campaign that breached more than 600 FortiGate firewalls across 55 countries in five weeks. [...]",
       "published": "Sat, 21 Feb 2026 08:50:58 -0500",
@@ -226,15 +237,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/",
-      "summary": "The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware to force cash machines to dispense money. [...]",
-      "published": "Fri, 20 Feb 2026 05:08:49 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

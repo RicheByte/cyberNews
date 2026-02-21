@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 370,
+      "count": 371,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -212,7 +212,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 761,
+      "count": 762,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4532,7 +4532,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4965,7 +4965,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5308,7 +5308,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6273,7 +6273,7 @@
       ]
     },
     "50 security holes": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6285,7 +6285,8 @@
         "2026-02-17",
         "2026-02-18",
         "2026-02-19",
-        "2026-02-20"
+        "2026-02-20",
+        "2026-02-21"
       ]
     },
     "verified workplace emails": {
@@ -7283,14 +7284,14 @@
       ]
     },
     "atm jackpotting attacks": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "force cash machines": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7309,14 +7310,14 @@
       ]
     },
     "three cyber attacks": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "global financial center": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7330,28 +7331,28 @@
       ]
     },
     "atm malware attacks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "beyondtrust vulnerability exploited": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "shift left dream": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "shift left approach": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7371,21 +7372,21 @@
       ]
     },
     "cve 2026 1731": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "web shells backdoors": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-20",
         "2026-02-21"
       ]
     },
     "legitimate site forwarding": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-20",
         "2026-02-21"
@@ -7424,20 +7425,27 @@
         "2026-02-20",
         "2026-02-21"
       ]
+    },
+    "limited research preview": {
+      "count": 1,
+      "dates": [
+        "2026-02-21"
+      ]
+    },
+    "untrusted data vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-02-21"
+      ]
+    },
+    "ransomware attacks cisa": {
+      "count": 1,
+      "dates": [
+        "2026-02-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-12 06:55",
-      "articles": 56,
-      "top_keywords": [
-        "webinar today identity",
-        "released security updates",
-        "curbing telnet traffic",
-        "ics security gaps",
-        "internal network behind"
-      ]
-    },
     {
       "timestamp": "2026-02-12 08:40",
       "articles": 56,
@@ -8525,6 +8533,17 @@
         "cve 2026 1731",
         "twitter whistleblower complaint",
         "samaneh ghandali 41"
+      ]
+    },
+    {
+      "timestamp": "2026-02-21 08:24",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "atm jackpotting attacks",
+        "scattered lapsus shinyhunters",
+        "limited research preview",
+        "windows operating systems"
       ]
     }
   ]

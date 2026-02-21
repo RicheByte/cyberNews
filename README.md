@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-21 06:35 UTC |
+| 🕐 Last Updated | 2026-02-21 08:24 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`atm jackpotting attacks` • `windows operating systems` • `cve 2026 1731` • `twitter whistleblower complaint` • `samaneh ghandali 41` • `global financial center` • `force cash machines` • `clinic locations statewide` • `shift left dream` • `shift left approach`
+`badbox 2 0` • `atm jackpotting attacks` • `scattered lapsus shinyhunters` • `limited research preview` • `windows operating systems` • `beyondtrust vulnerability exploited` • `cve 2026 1731` • `web shells backdoors` • `twitter whistleblower complaint` • `legitimate site forwarding`
 
 ## 📄 Reports
 

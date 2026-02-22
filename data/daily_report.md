@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-22 14:21 UTC  
+> **Last Updated:** 2026-02-22 16:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **limited research preview** • **windows operating systems** • **beyondtrust vulnerability exploited** • **cve 2026 1731** • **web shells backdoors** • **twitter whistleblower complaint** • **remote code execution** • **legitimate site forwarding** • **global financial center** • **4 000 times** • **untrusted data vulnerability** • **shift left dream** • **shift left approach** • **kimwolf botnet lurking** • **50 security holes** • **three cyber attacks** • **cve 2026 2329** • **ransomware attacks cisa**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **limited research preview** • **windows operating systems** • **beyondtrust vulnerability exploited** • **cve 2026 1731** • **web shells backdoors** • **twitter whistleblower complaint** • **remote code execution** • **legitimate site forwarding** • **4 000 times** • **untrusted data vulnerability** • **shift left dream** • **shift left approach** • **kimwolf botnet lurking** • **50 security holes** • **three cyber attacks** • **cve 2026 2329** • **ransomware attacks cisa** • **xl4 controller vers**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
 - [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
 - [Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
 - [Japanese tech giant Advantest hit by ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/)
@@ -34,7 +35,6 @@
 - [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
 - [Why the shift left dream has become a nightmare for security and developers](https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/)
 - [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
-- [Mississippi medical center closes all clinics after ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/)
 
 ### Krebs on Security
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22 14:21",
+  "last_updated": "2026-02-22 16:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,7 +13,6 @@
     "twitter whistleblower complaint",
     "remote code execution",
     "legitimate site forwarding",
-    "global financial center",
     "4 000 times",
     "untrusted data vulnerability",
     "shift left dream",
@@ -22,48 +21,49 @@
     "50 security holes",
     "three cyber attacks",
     "cve 2026 2329",
-    "ransomware attacks cisa"
+    "ransomware attacks cisa",
+    "xl4 controller vers"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 154
+      "mentions": 155
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 185
+      "mentions": 186
     },
     {
       "keyword": "limited research preview",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 385
+      "mentions": 386
     },
     {
       "keyword": "beyondtrust vulnerability exploited",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "cve 2026 1731",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "web shells backdoors",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 776
+      "mentions": 777
     },
     {
       "keyword": "remote code execution",
-      "mentions": 110
+      "mentions": 111
     },
     {
       "keyword": "legitimate site forwarding",
-      "mentions": 15
+      "mentions": 16
     }
   ],
   "articles": [
@@ -154,6 +154,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment",
+      "link": "https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/",
+      "summary": "An information-stealing malware operation named Arkanix Stealer, promoted on multiple dark web forums towards the end of 2025, was likely developed as an AI-assisted experiment. [...]",
+      "published": "Sun, 22 Feb 2026 10:33:26 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
       "link": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/",
       "summary": "Intellexa's Predator spyware can hide iOS recording indicators while secretly streaming camera and microphone feeds to its operators. [...]",
@@ -225,17 +234,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Mississippi medical center closes all clinics after ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/",
-      "summary": "The University of Mississippi Medical Center (UMMC) closed all its clinic locations statewide on Thursday following a ransomware attack. [...]",
-      "published": "Fri, 20 Feb 2026 06:50:14 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {

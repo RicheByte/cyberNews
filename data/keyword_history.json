@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 392,
+      "count": 393,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -214,7 +214,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 785,
+      "count": 786,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -534,7 +534,7 @@
       ]
     },
     "remote code execution": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2484,7 +2484,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 202,
+      "count": 203,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2516,7 +2516,8 @@
         "2026-02-16",
         "2026-02-17",
         "2026-02-21",
-        "2026-02-22"
+        "2026-02-22",
+        "2026-02-23"
       ]
     },
     "internal network behind": {
@@ -4543,7 +4544,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4978,7 +4979,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5323,7 +5324,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6290,7 +6291,7 @@
       ]
     },
     "50 security holes": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7284,7 +7285,7 @@
       ]
     },
     "4 000 times": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7372,7 +7373,7 @@
       ]
     },
     "shift left dream": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7381,7 +7382,7 @@
       ]
     },
     "shift left approach": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7414,7 +7415,7 @@
       ]
     },
     "web shells backdoors": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7438,7 +7439,7 @@
       ]
     },
     "xl4 controller vers": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7454,7 +7455,7 @@
       ]
     },
     "unfortunately named toolkit": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7470,7 +7471,7 @@
       ]
     },
     "limited research preview": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7478,7 +7479,7 @@
       ]
     },
     "untrusted data vulnerability": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7494,7 +7495,7 @@
       ]
     },
     "cve 2026 2329": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7508,7 +7509,7 @@
       ]
     },
     "strengthen u s": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-23"
       ]
@@ -7538,7 +7539,7 @@
       ]
     },
     "mississippi medical center": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-23"
       ]
@@ -7548,20 +7549,15 @@
       "dates": [
         "2026-02-23"
       ]
+    },
+    "victim's username password": {
+      "count": 1,
+      "dates": [
+        "2026-02-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-14 10:21",
-      "articles": 56,
-      "top_keywords": [
-        "tiffany 25 million",
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "increased secrecy rewards",
-        "ibm qradar siem"
-      ]
-    },
     {
       "timestamp": "2026-02-14 12:37",
       "articles": 56,
@@ -8649,6 +8645,17 @@
         "limited research preview",
         "cve 2026 1731",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-02-23 12:53",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "limited research preview",
+        "windows operating systems",
+        "web shells backdoors"
       ]
     }
   ]

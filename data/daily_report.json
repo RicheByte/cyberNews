@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-02-23 10:44",
+  "last_updated": "2026-02-23 12:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
     "limited research preview",
-    "cve 2026 1731",
     "windows operating systems",
-    "beyondtrust vulnerability exploited",
-    "untrusted data vulnerability",
     "web shells backdoors",
     "twitter whistleblower complaint",
     "remote code execution",
     "mississippi medical center",
-    "legitimate site forwarding",
+    "cve 2026 2329",
     "4 000 times",
     "shift left dream",
     "shift left approach",
-    "cve 2026 2329",
+    "untrusted data vulnerability",
     "kimwolf botnet lurking",
-    "ransomware attacks cisa",
     "50 security holes",
-    "6 months paypal"
+    "xl4 controller vers",
+    "victim's username password",
+    "unfortunately named toolkit",
+    "today we'll dig",
+    "strengthen u s"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 161
+      "mentions": 162
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 192
+      "mentions": 193
     },
     {
       "keyword": "limited research preview",
-      "mentions": 24
-    },
-    {
-      "keyword": "cve 2026 1731",
-      "mentions": 30
+      "mentions": 25
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 392
-    },
-    {
-      "keyword": "beyondtrust vulnerability exploited",
-      "mentions": 31
-    },
-    {
-      "keyword": "untrusted data vulnerability",
-      "mentions": 24
+      "mentions": 393
     },
     {
       "keyword": "web shells backdoors",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 785
+      "mentions": 786
     },
     {
       "keyword": "remote code execution",
-      "mentions": 119
+      "mentions": 120
+    },
+    {
+      "keyword": "mississippi medical center",
+      "mentions": 2
+    },
+    {
+      "keyword": "cve 2026 2329",
+      "mentions": 21
+    },
+    {
+      "keyword": "4 000 times",
+      "mentions": 30
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
+      "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
+      "summary": "As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that serves, connects and automates the model. Each new LLM endpoint expands the attack surface, often in",
+      "published": "Mon, 23 Feb 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
+      "link": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
+      "summary": "Cybersecurity researchers have disclosed what they say is an active \"Shai-Hulud-like\" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft. The campaign has been codenamed SANDWORM_MODE by supply chain security company Socket. As with prior Shai-Hulud attack waves, the malicious code embedded",
+      "published": "Mon, 23 Feb 2026 15:50:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
@@ -133,24 +151,18 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
-      "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
-      "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI agent that has become exceedingly popular in the past few months. \"On February 17, 2026, at 3:26 AM PT, an unauthorized party used a compromised npm publish token to publish an update to Cline CLI",
-      "published": "Fri, 20 Feb 2026 19:50:00 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
+      "summary": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
+      "published": "Mon, 23 Feb 2026 06:44:21 -0500",
+      "value_score": 89,
       "value_signals": [
-        "Patch/update"
+        "Active exploitation",
+        "Patch/update",
+        "CISA/KEV ×2",
+        "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
-      "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (aka AstarionRAT). \"The campaign demonstrates a high level of operational sophistication: compromised sites spanning multiple industries and geographies serve as delivery infrastructure, a multi-stage",
-      "published": "Fri, 20 Feb 2026 17:25:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -224,17 +236,6 @@
       "published": "Fri, 20 Feb 2026 09:45:54 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "PayPal discloses data breach that exposed user info for 6 months",
-      "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-      "summary": "PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including Social Security numbers, for nearly 6 months last year. [...]",
-      "published": "Fri, 20 Feb 2026 08:12:01 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -409,6 +410,46 @@
     },
     {
       "source": "Security Week",
+      "title": "Autonomous AI Agents Provide New Class of Supply Chain Attack",
+      "link": "https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/",
+      "summary": "While this campaign targets crypto wallets and steals money, the methodology has far wider potential that could be used by other attackers. The post Autonomous AI Agents Provide New Class of Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Mon, 23 Feb 2026 12:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Romanian Hacker Pleads Guilty to Selling Access to US State Network",
+      "link": "https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/",
+      "summary": "Catalin Dragomir admitted in a US court to selling access to an Oregon state government office’s network. The post Romanian Hacker Pleads Guilty to Selling Access to US State Network appeared first on SecurityWeek .",
+      "published": "Mon, 23 Feb 2026 11:53:35 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS",
+      "link": "https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/",
+      "summary": "Threat actors relying on AI have been exploiting exposed ports and weak credentials to take over FortiGate devices. The post Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS appeared first on SecurityWeek .",
+      "published": "Mon, 23 Feb 2026 11:34:35 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Recent RoundCube Webmail Vulnerability Exploited in Attacks",
+      "link": "https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/",
+      "summary": "Patched in December 2025, the exploited flaw leads to XSS attacks via the animate tags in SVG documents. The post Recent RoundCube Webmail Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
+      "published": "Mon, 23 Feb 2026 10:47:45 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Mississippi Hospital System Closes All Clinics After Ransomware Attack",
       "link": "https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/",
       "summary": "A ransomware attack forced the University of Mississippi Medical Center to close all of its roughly three dozen clinics around the state and cancel elective procedures. The post Mississippi Hospital System Closes All Clinics After Ransomware Attack appeared first on SecurityWeek .",
@@ -451,54 +492,6 @@
       "published": "Fri, 20 Feb 2026 15:48:12 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI",
-      "link": "https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Axonius lays off employees, Abu Dhabi conference data leak, HackerOne addresses AI concerns. The post In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI appeared first on SecurityWeek .",
-      "published": "Fri, 20 Feb 2026 15:30:00 +0000",
-      "value_score": 58,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "BeyondTrust Vulnerability Exploited in Ransomware Attacks",
-      "link": "https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/",
-      "summary": "CISA has updated its KEV entry for CVE-2026-1731 to alert organizations of exploitation in ransomware attacks. The post BeyondTrust Vulnerability Exploited in Ransomware Attacks appeared first on SecurityWeek .",
-      "published": "Fri, 20 Feb 2026 12:29:46 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Ransomware ×3",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025",
-      "link": "https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/",
-      "summary": "The FBI has confirmed that the Ploutus malware, which has been around for over a decade, is still being used in the wild. The post FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025 appeared first on SecurityWeek .",
-      "published": "Fri, 20 Feb 2026 11:05:26 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Active exploitation"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chip Testing Giant Advantest Hit by Ransomware",
-      "link": "https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/",
-      "summary": "The company is investigating whether any customer or employee data was stolen by hackers. The post Chip Testing Giant Advantest Hit by Ransomware appeared first on SecurityWeek .",
-      "published": "Fri, 20 Feb 2026 09:31:29 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Threatpost",

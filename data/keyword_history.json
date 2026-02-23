@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 390,
+      "count": 391,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -214,7 +214,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 782,
+      "count": 783,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -534,7 +534,7 @@
       ]
     },
     "remote code execution": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -4543,7 +4543,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 190,
+      "count": 191,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4978,7 +4978,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5323,7 +5323,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6290,7 +6290,7 @@
       ]
     },
     "50 security holes": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7284,7 +7284,7 @@
       ]
     },
     "4 000 times": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7332,7 +7332,7 @@
       ]
     },
     "three cyber attacks": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7363,7 +7363,7 @@
       ]
     },
     "beyondtrust vulnerability exploited": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7372,7 +7372,7 @@
       ]
     },
     "shift left dream": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7381,7 +7381,7 @@
       ]
     },
     "shift left approach": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7405,7 +7405,7 @@
       ]
     },
     "cve 2026 1731": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7414,7 +7414,7 @@
       ]
     },
     "web shells backdoors": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7423,7 +7423,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7438,7 +7438,7 @@
       ]
     },
     "xl4 controller vers": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7470,7 +7470,7 @@
       ]
     },
     "limited research preview": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7478,7 +7478,7 @@
       ]
     },
     "untrusted data vulnerability": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7486,7 +7486,7 @@
       ]
     },
     "ransomware attacks cisa": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7494,7 +7494,7 @@
       ]
     },
     "cve 2026 2329": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7527,17 +7527,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-14 04:06",
-      "articles": 56,
-      "top_keywords": [
-        "tiffany 25 million",
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "increased secrecy rewards",
-        "ibm qradar siem"
-      ]
-    },
     {
       "timestamp": "2026-02-14 06:38",
       "articles": 56,
@@ -8625,6 +8614,17 @@
         "web shells backdoors",
         "twitter whistleblower complaint",
         "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-02-23 06:58",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "limited research preview",
+        "windows operating systems",
+        "beyondtrust vulnerability exploited"
       ]
     }
   ]

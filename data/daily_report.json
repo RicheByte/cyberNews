@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-23 04:20",
+  "last_updated": "2026-02-23 06:58",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
+    "scattered lapsus shinyhunters",
+    "badbox 2 0",
+    "limited research preview",
+    "windows operating systems",
     "beyondtrust vulnerability exploited",
     "cve 2026 1731",
     "web shells backdoors",
     "twitter whistleblower complaint",
     "remote code execution",
-    "limited research preview",
-    "amazon threat intelligence",
+    "legitimate site forwarding",
     "4 000 times",
     "untrusted data vulnerability",
-    "cve 2026 2329",
-    "three cyber attacks",
-    "detecting phishing attacks",
-    "ransomware attacks cisa",
-    "xl4 controller vers",
-    "unfortunately named toolkit",
-    "strengthen u s",
-    "stealthily install openclaw",
     "shift left dream",
     "shift left approach",
-    "radar axonius lays"
+    "kimwolf botnet lurking",
+    "50 security holes",
+    "three cyber attacks",
+    "cve 2026 2329",
+    "ransomware attacks cisa",
+    "xl4 controller vers"
   ],
   "trending": [
     {
-      "keyword": "beyondtrust vulnerability exploited",
-      "mentions": 28
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 160
     },
     {
-      "keyword": "cve 2026 1731",
-      "mentions": 27
-    },
-    {
-      "keyword": "web shells backdoors",
-      "mentions": 27
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 782
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 116
+      "keyword": "badbox 2 0",
+      "mentions": 191
     },
     {
       "keyword": "limited research preview",
+      "mentions": 22
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 391
+    },
+    {
+      "keyword": "beyondtrust vulnerability exploited",
+      "mentions": 29
+    },
+    {
+      "keyword": "cve 2026 1731",
+      "mentions": 28
+    },
+    {
+      "keyword": "web shells backdoors",
+      "mentions": 28
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 783
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 117
+    },
+    {
+      "keyword": "legitimate site forwarding",
       "mentions": 21
-    },
-    {
-      "keyword": "amazon threat intelligence",
-      "mentions": 1
-    },
-    {
-      "keyword": "4 000 times",
-      "mentions": 26
-    },
-    {
-      "keyword": "untrusted data vulnerability",
-      "mentions": 21
-    },
-    {
-      "keyword": "cve 2026 2329",
-      "mentions": 17
     }
   ],
   "articles": [
@@ -234,6 +234,97 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+      "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentic",
+      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+      "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+      "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
+      "published": "Tue, 20 Jan 2026 18:19:13 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Patch Tuesday, January 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+      "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
+      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
+      "value_score": 40,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
+      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
       ]
     },
     {

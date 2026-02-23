@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-23 01:47 UTC  
+> **Last Updated:** 2026-02-23 04:20 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **limited research preview** • **windows operating systems** • **beyondtrust vulnerability exploited** • **cve 2026 1731** • **web shells backdoors** • **twitter whistleblower complaint** • **remote code execution** • **legitimate site forwarding** • **4 000 times** • **untrusted data vulnerability** • **shift left dream** • **shift left approach** • **kimwolf botnet lurking** • **50 security holes** • **three cyber attacks** • **cve 2026 2329** • **ransomware attacks cisa** • **xl4 controller vers**
+**beyondtrust vulnerability exploited** • **cve 2026 1731** • **web shells backdoors** • **twitter whistleblower complaint** • **remote code execution** • **limited research preview** • **amazon threat intelligence** • **4 000 times** • **untrusted data vulnerability** • **cve 2026 2329** • **three cyber attacks** • **detecting phishing attacks** • **ransomware attacks cisa** • **xl4 controller vers** • **unfortunately named toolkit** • **strengthen u s** • **stealthily install openclaw** • **shift left dream** • **shift left approach** • **radar axonius lays**
 
 ---
 
@@ -35,17 +35,6 @@
 - [Data breach at French bank registry impacts 1.2 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/)
 - [Why the shift left dream has become a nightmare for security and developers](https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/)
 - [PayPal discloses data breach that exposed user info for 6 months](https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/)
-
-### Krebs on Security
-
-- [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
-- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
-- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
-- [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
-- [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
-- [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 
 ### Dark Reading
 

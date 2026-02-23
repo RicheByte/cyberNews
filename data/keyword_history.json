@@ -214,7 +214,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 781,
+      "count": 782,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -534,7 +534,7 @@
       ]
     },
     "remote code execution": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -7284,7 +7284,7 @@
       ]
     },
     "4 000 times": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7332,7 +7332,7 @@
       ]
     },
     "three cyber attacks": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7363,7 +7363,7 @@
       ]
     },
     "beyondtrust vulnerability exploited": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7372,7 +7372,7 @@
       ]
     },
     "shift left dream": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7381,7 +7381,7 @@
       ]
     },
     "shift left approach": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7396,15 +7396,16 @@
       ]
     },
     "detecting phishing attacks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-20",
         "2026-02-21",
-        "2026-02-22"
+        "2026-02-22",
+        "2026-02-23"
       ]
     },
     "cve 2026 1731": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7413,7 +7414,7 @@
       ]
     },
     "web shells backdoors": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7437,7 +7438,7 @@
       ]
     },
     "xl4 controller vers": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7453,11 +7454,12 @@
       ]
     },
     "unfortunately named toolkit": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-20",
         "2026-02-21",
-        "2026-02-22"
+        "2026-02-22",
+        "2026-02-23"
       ]
     },
     "trade secret transfers": {
@@ -7468,7 +7470,7 @@
       ]
     },
     "limited research preview": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7476,7 +7478,7 @@
       ]
     },
     "untrusted data vulnerability": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7484,7 +7486,7 @@
       ]
     },
     "ransomware attacks cisa": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7492,26 +7494,39 @@
       ]
     },
     "cve 2026 2329": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-21",
         "2026-02-22",
         "2026-02-23"
       ]
+    },
+    "amazon threat intelligence": {
+      "count": 1,
+      "dates": [
+        "2026-02-23"
+      ]
+    },
+    "strengthen u s": {
+      "count": 1,
+      "dates": [
+        "2026-02-23"
+      ]
+    },
+    "stealthily install openclaw": {
+      "count": 1,
+      "dates": [
+        "2026-02-23"
+      ]
+    },
+    "radar axonius lays": {
+      "count": 1,
+      "dates": [
+        "2026-02-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-14 01:42",
-      "articles": 56,
-      "top_keywords": [
-        "tiffany 25 million",
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "increased secrecy rewards",
-        "ibm qradar siem"
-      ]
-    },
     {
       "timestamp": "2026-02-14 04:06",
       "articles": 56,
@@ -8599,6 +8614,17 @@
         "limited research preview",
         "windows operating systems",
         "beyondtrust vulnerability exploited"
+      ]
+    },
+    {
+      "timestamp": "2026-02-23 04:20",
+      "articles": 48,
+      "top_keywords": [
+        "beyondtrust vulnerability exploited",
+        "cve 2026 1731",
+        "web shells backdoors",
+        "twitter whistleblower complaint",
+        "remote code execution"
       ]
     }
   ]

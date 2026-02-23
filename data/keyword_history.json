@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 393,
+      "count": 394,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -214,7 +214,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 788,
+      "count": 789,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2485,7 +2485,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 203,
+      "count": 204,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4545,7 +4545,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 193,
+      "count": 194,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4980,7 +4980,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5325,7 +5325,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6292,7 +6292,7 @@
       ]
     },
     "50 security holes": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -6611,11 +6611,12 @@
       ]
     },
     "secure online communications": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-13",
         "2026-02-17",
-        "2026-02-18"
+        "2026-02-18",
+        "2026-02-23"
       ]
     },
     "original researchers observe": {
@@ -7441,7 +7442,7 @@
       ]
     },
     "xl4 controller vers": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7457,7 +7458,7 @@
       ]
     },
     "unfortunately named toolkit": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7473,7 +7474,7 @@
       ]
     },
     "limited research preview": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7481,7 +7482,7 @@
       ]
     },
     "untrusted data vulnerability": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7541,7 +7542,7 @@
       ]
     },
     "mississippi medical center": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-23"
       ]
@@ -7553,13 +7554,13 @@
       ]
     },
     "victim's username password": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-23"
       ]
     },
     "aiding north korean": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-23"
       ]
@@ -7601,7 +7602,7 @@
       ]
     },
     "identity isn t": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-23"
       ]
@@ -7613,6 +7614,24 @@
       ]
     },
     "everest ransomware group": {
+      "count": 2,
+      "dates": [
+        "2026-02-23"
+      ]
+    },
+    "mining payload reveals": {
+      "count": 1,
+      "dates": [
+        "2026-02-23"
+      ]
+    },
+    "called vanta diagnostics": {
+      "count": 1,
+      "dates": [
+        "2026-02-23"
+      ]
+    },
+    "popular online destinations": {
       "count": 1,
       "dates": [
         "2026-02-23"
@@ -7620,17 +7639,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-14 16:22",
-      "articles": 56,
-      "top_keywords": [
-        "tiffany 25 million",
-        "increased secrecy rewards",
-        "ibm qradar siem",
-        "arbitrary code execution",
-        "abusing claude artifacts"
-      ]
-    },
     {
       "timestamp": "2026-02-14 18:27",
       "articles": 56,
@@ -8718,6 +8726,17 @@
         "limited research preview",
         "identity isn t",
         "enable credential harvesting"
+      ]
+    },
+    {
+      "timestamp": "2026-02-23 18:56",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "limited research preview",
+        "identity isn t",
+        "untrusted data vulnerability"
       ]
     }
   ]

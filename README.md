@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-23 16:51 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-02-23 18:56 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`twitter whistleblower complaint` • `mississippi medical center` • `limited research preview` • `identity isn t` • `enable credential harvesting` • `aiding north korean` • `5 5 trillion` • `4 000 times` • `untrusted data vulnerability` • `february 18 2026`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `limited research preview` • `identity isn t` • `untrusted data vulnerability` • `twitter whistleblower complaint` • `mississippi medical center` • `mining payload reveals` • `called vanta diagnostics` • `aiding north korean`
 
 ## 📄 Reports
 

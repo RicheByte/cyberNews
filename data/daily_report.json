@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-02-23 16:51",
+  "last_updated": "2026-02-23 18:56",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
-    "twitter whistleblower complaint",
-    "mississippi medical center",
+    "scattered lapsus shinyhunters",
+    "badbox 2 0",
     "limited research preview",
     "identity isn t",
-    "enable credential harvesting",
-    "aiding north korean",
-    "5 5 trillion",
-    "4 000 times",
     "untrusted data vulnerability",
-    "february 18 2026",
+    "twitter whistleblower complaint",
+    "mississippi medical center",
+    "mining payload reveals",
+    "called vanta diagnostics",
+    "aiding north korean",
+    "windows operating systems",
+    "50 security holes",
+    "kimwolf botnet lurking",
     "everest ransomware group",
     "xl4 controller vers",
-    "user's software codebase",
+    "victim's username password",
     "unfortunately named toolkit",
-    "strengthen u s",
-    "specops software explains",
-    "ordered u s",
-    "nearly 6 months",
-    "leaked user emails",
-    "honeywell cctv products"
+    "today we'll dig",
+    "secure online communications",
+    "popular online destinations"
   ],
   "trending": [
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 788
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 163
     },
     {
-      "keyword": "mississippi medical center",
-      "mentions": 4
+      "keyword": "badbox 2 0",
+      "mentions": 194
     },
     {
       "keyword": "limited research preview",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "identity isn t",
+      "mentions": 2
+    },
+    {
+      "keyword": "untrusted data vulnerability",
+      "mentions": 28
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 789
+    },
+    {
+      "keyword": "mississippi medical center",
+      "mentions": 5
+    },
+    {
+      "keyword": "mining payload reveals",
       "mentions": 1
     },
     {
-      "keyword": "enable credential harvesting",
+      "keyword": "called vanta diagnostics",
       "mentions": 1
     },
     {
       "keyword": "aiding north korean",
-      "mentions": 2
-    },
-    {
-      "keyword": "5 5 trillion",
-      "mentions": 2
-    },
-    {
-      "keyword": "4 000 times",
-      "mentions": 32
-    },
-    {
-      "keyword": "untrusted data vulnerability",
-      "mentions": 27
-    },
-    {
-      "keyword": "february 18 2026",
       "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
+      "link": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts. \"Analysis of the recovered dropper, persistence triggers, and mining payload reveals a sophisticated, multi-stage infection prioritizing maximum cryptocurrency mining hashrate, often destabilizing the victim",
+      "published": "Mon, 23 Feb 2026 23:29:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
@@ -138,13 +149,16 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-      "link": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
-      "summary": "With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness. EC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite,",
-      "published": "Sat, 21 Feb 2026 10:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
+      "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
+      "summary": "New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack. [...]",
+      "published": "Mon, 23 Feb 2026 13:04:01 -0500",
+      "value_score": 42,
+      "value_signals": [
+        "Breach/leak ×2",
+        "Phishing"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -223,14 +237,94 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Data breach at French bank registry impacts 1.2 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/",
-      "summary": "The French Ministry of Finance has published an announcement informing of a cybersecurity incident that has impacted 1.2 million accounts. [...]",
-      "published": "Fri, 20 Feb 2026 11:20:40 -0500",
-      "value_score": 22,
+      "source": "Krebs on Security",
+      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+      "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentic",
+      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
+      "value_score": 26,
       "value_signals": [
-        "Breach/leak"
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+      "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+      "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
+      "published": "Tue, 20 Jan 2026 18:19:13 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Patch Tuesday, January 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+      "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
+      "published": "Wed, 14 Jan 2026 00:47:38 +0000",
+      "value_score": 40,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
+      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
       ]
     },
     {

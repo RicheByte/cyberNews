@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-23 12:53 UTC |
-| 📰 Articles Analyzed | 56 |
+| 🕐 Last Updated | 2026-02-23 14:41 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `limited research preview` • `windows operating systems` • `web shells backdoors` • `twitter whistleblower complaint` • `remote code execution` • `mississippi medical center` • `cve 2026 2329` • `4 000 times`
+`cve 2026 2329` • `twitter whistleblower complaint` • `remote code execution` • `mississippi medical center` • `limited research preview` • `aiding north korean` • `5 5 trillion` • `4 000 times` • `february 18 2026` • `untrusted data vulnerability`
 
 ## 📄 Reports
 

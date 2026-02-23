@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-23 18:56 UTC  
+> **Last Updated:** 2026-02-23 20:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **limited research preview** • **identity isn t** • **untrusted data vulnerability** • **twitter whistleblower complaint** • **mississippi medical center** • **mining payload reveals** • **called vanta diagnostics** • **aiding north korean** • **windows operating systems** • **50 security holes** • **kimwolf botnet lurking** • **everest ransomware group** • **xl4 controller vers** • **victim's username password** • **unfortunately named toolkit** • **today we'll dig** • **secure online communications** • **popular online destinations**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **limited research preview** • **identity isn t** • **twitter whistleblower complaint** • **mississippi medical center** • **mining payload reveals** • **called vanta diagnostics** • **aiding north korean** • **windows operating systems** • **50 security holes** • **untrusted data vulnerability** • **kimwolf botnet lurking** • **everest ransomware group** • **xl4 controller vers** • **victim's username password** • **unfortunately named toolkit** • **today we'll dig** • **secure online communications** • **popular online destinations**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft says bug in classic Outlook hides the mouse pointer](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/)
 - [Ad tech firm Optimizely confirms data breach after vishing attack](https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/)
 - [When identity isn’t the weak link, access still is](https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/)
 - [CISA: Recently patched RoundCube flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/)
@@ -34,7 +35,6 @@
 - [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
 - [Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
 - [Japanese tech giant Advantest hit by ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/)
-- [CISA: BeyondTrust RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/)
 
 ### Krebs on Security
 

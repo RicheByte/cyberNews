@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23 18:56",
+  "last_updated": "2026-02-23 20:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,7 +7,6 @@
     "badbox 2 0",
     "limited research preview",
     "identity isn t",
-    "untrusted data vulnerability",
     "twitter whistleblower complaint",
     "mississippi medical center",
     "mining payload reveals",
@@ -15,6 +14,7 @@
     "aiding north korean",
     "windows operating systems",
     "50 security holes",
+    "untrusted data vulnerability",
     "kimwolf botnet lurking",
     "everest ransomware group",
     "xl4 controller vers",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 163
+      "mentions": 164
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 194
+      "mentions": 195
     },
     {
       "keyword": "limited research preview",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "identity isn t",
-      "mentions": 2
-    },
-    {
-      "keyword": "untrusted data vulnerability",
-      "mentions": 28
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 789
+      "mentions": 790
     },
     {
       "keyword": "mississippi medical center",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "mining payload reveals",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "called vanta diagnostics",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "aiding north korean",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 395
     }
   ],
   "articles": [
@@ -150,6 +150,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft says bug in classic Outlook hides the mouse pointer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/",
+      "summary": "Microsoft is investigating a known issue that causes the mouse pointer to disappear in the classic Outlook desktop email client for some users. [...]",
+      "published": "Mon, 23 Feb 2026 14:40:42 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
       "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
       "summary": "New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack. [...]",
@@ -219,21 +228,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: BeyondTrust RCE flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/",
-      "summary": "Hackers are actively exploiting the CVE-2026-1731 vulnerability in the BeyondTrust Remote Support product, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) warns. [...]",
-      "published": "Fri, 20 Feb 2026 12:02:25 -0500",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Ransomware",
-        "RCE",
-        "CISA/KEV ×2",
-        "Exploit wording"
       ]
     },
     {

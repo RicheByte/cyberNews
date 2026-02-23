@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-23 14:41",
+  "last_updated": "2026-02-23 16:51",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cve 2026 2329",
     "twitter whistleblower complaint",
-    "remote code execution",
     "mississippi medical center",
     "limited research preview",
+    "identity isn t",
+    "enable credential harvesting",
     "aiding north korean",
     "5 5 trillion",
     "4 000 times",
-    "february 18 2026",
     "untrusted data vulnerability",
+    "february 18 2026",
+    "everest ransomware group",
     "xl4 controller vers",
     "user's software codebase",
     "unfortunately named toolkit",
     "strengthen u s",
-    "shift left dream",
-    "shift left approach",
+    "specops software explains",
     "ordered u s",
     "nearly 6 months",
-    "modern ci pipelines",
-    "leaked user emails"
+    "leaked user emails",
+    "honeywell cctv products"
   ],
   "trending": [
     {
-      "keyword": "cve 2026 2329",
-      "mentions": 22
-    },
-    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 787
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 121
+      "mentions": 788
     },
     {
       "keyword": "mississippi medical center",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "limited research preview",
-      "mentions": 26
+      "mentions": 27
+    },
+    {
+      "keyword": "identity isn t",
+      "mentions": 1
+    },
+    {
+      "keyword": "enable credential harvesting",
+      "mentions": 1
     },
     {
       "keyword": "aiding north korean",
-      "mentions": 1
-    },
-    {
-      "keyword": "5 5 trillion",
-      "mentions": 1
-    },
-    {
-      "keyword": "4 000 times",
-      "mentions": 31
-    },
-    {
-      "keyword": "february 18 2026",
       "mentions": 2
     },
     {
+      "keyword": "5 5 trillion",
+      "mentions": 2
+    },
+    {
+      "keyword": "4 000 times",
+      "mentions": 32
+    },
+    {
       "keyword": "untrusted data vulnerability",
-      "mentions": 26
+      "mentions": 27
+    },
+    {
+      "keyword": "february 18 2026",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -148,6 +148,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "When identity isn’t the weak link, access still is",
+      "link": "https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/",
+      "summary": "Stolen tokens and compromised devices let attackers reuse trust without breaking authentication. Specops Software explains why identity alone isn't enough and how continuous device verification strengthens Zero Trust. [...]",
+      "published": "Mon, 23 Feb 2026 10:00:10 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
       "summary": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
@@ -223,15 +232,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why the shift left dream has become a nightmare for security and developers",
-      "link": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
-      "summary": "The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines. Qualys explains how analyzing 34,000 public container images revealed 7.3% were malicious and why security must be enforced at the infrastructure layer by default. [...]",
-      "published": "Fri, 20 Feb 2026 09:45:54 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -315,6 +315,18 @@
     },
     {
       "source": "Security Week",
+      "title": "US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach",
+      "link": "https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/",
+      "summary": "The Everest ransomware group has taken credit for a hacker attack on Vikor Scientific, now called Vanta Diagnostics. The post US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach appeared first on SecurityWeek .",
+      "published": "Mon, 23 Feb 2026 15:35:32 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "Ransomware",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud",
       "link": "https://www.securityweek.com/ukrainian-gets-5-years-in-us-prison-for-aiding-north-korean-it-fraud/",
       "summary": "Oleksandr Didenko sold the stolen identities of US citizens, allowing North Koreans to get hired using freelance work platforms. The post Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud appeared first on SecurityWeek .",
@@ -382,20 +394,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Grandstream Phone Vulnerability Exposes Calls to Interception",
-      "link": "https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/",
-      "summary": "The flaw tracked as CVE-2026-2329 can be exploited without authentication for remote code execution with root privileges. The post Critical Grandstream Phone Vulnerability Exposes Calls to Interception appeared first on SecurityWeek .",
-      "published": "Sat, 21 Feb 2026 12:00:00 +0000",
-      "value_score": 70,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

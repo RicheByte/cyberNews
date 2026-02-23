@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-23 14:41 UTC |
+| 🕐 Last Updated | 2026-02-23 16:51 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cve 2026 2329` • `twitter whistleblower complaint` • `remote code execution` • `mississippi medical center` • `limited research preview` • `aiding north korean` • `5 5 trillion` • `4 000 times` • `february 18 2026` • `untrusted data vulnerability`
+`twitter whistleblower complaint` • `mississippi medical center` • `limited research preview` • `identity isn t` • `enable credential harvesting` • `aiding north korean` • `5 5 trillion` • `4 000 times` • `untrusted data vulnerability` • `february 18 2026`
 
 ## 📄 Reports
 

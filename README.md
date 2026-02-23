@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-23 06:58 UTC |
-| 📰 Articles Analyzed | 56 |
+| 🕐 Last Updated | 2026-02-23 08:42 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `limited research preview` • `windows operating systems` • `beyondtrust vulnerability exploited` • `cve 2026 1731` • `web shells backdoors` • `twitter whistleblower complaint` • `remote code execution` • `legitimate site forwarding`
+`cve 2026 1731` • `beyondtrust vulnerability exploited` • `web shells backdoors` • `twitter whistleblower complaint` • `remote code execution` • `limited research preview` • `cve 2026 2329` • `amazon threat intelligence` • `4 000 times` • `untrusted data vulnerability`
 
 ## 📄 Reports
 

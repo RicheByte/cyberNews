@@ -214,7 +214,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 783,
+      "count": 784,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -534,7 +534,7 @@
       ]
     },
     "remote code execution": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -7284,7 +7284,7 @@
       ]
     },
     "4 000 times": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7363,7 +7363,7 @@
       ]
     },
     "beyondtrust vulnerability exploited": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7372,7 +7372,7 @@
       ]
     },
     "shift left dream": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7381,7 +7381,7 @@
       ]
     },
     "shift left approach": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7396,7 +7396,7 @@
       ]
     },
     "detecting phishing attacks": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7405,7 +7405,7 @@
       ]
     },
     "cve 2026 1731": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7414,7 +7414,7 @@
       ]
     },
     "web shells backdoors": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7438,7 +7438,7 @@
       ]
     },
     "xl4 controller vers": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7454,7 +7454,7 @@
       ]
     },
     "unfortunately named toolkit": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7470,7 +7470,7 @@
       ]
     },
     "limited research preview": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7478,7 +7478,7 @@
       ]
     },
     "untrusted data vulnerability": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7486,7 +7486,7 @@
       ]
     },
     "ransomware attacks cisa": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7494,7 +7494,7 @@
       ]
     },
     "cve 2026 2329": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7502,19 +7502,19 @@
       ]
     },
     "amazon threat intelligence": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-23"
       ]
     },
     "strengthen u s": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-23"
       ]
     },
     "stealthily install openclaw": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-23"
       ]
@@ -7524,20 +7524,21 @@
       "dates": [
         "2026-02-23"
       ]
+    },
+    "february 18 2026": {
+      "count": 1,
+      "dates": [
+        "2026-02-23"
+      ]
+    },
+    "february 17 2026": {
+      "count": 1,
+      "dates": [
+        "2026-02-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-14 06:38",
-      "articles": 56,
-      "top_keywords": [
-        "tiffany 25 million",
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "increased secrecy rewards",
-        "ibm qradar siem"
-      ]
-    },
     {
       "timestamp": "2026-02-14 08:26",
       "articles": 56,
@@ -8625,6 +8626,17 @@
         "limited research preview",
         "windows operating systems",
         "beyondtrust vulnerability exploited"
+      ]
+    },
+    {
+      "timestamp": "2026-02-23 08:42",
+      "articles": 48,
+      "top_keywords": [
+        "cve 2026 1731",
+        "beyondtrust vulnerability exploited",
+        "web shells backdoors",
+        "twitter whistleblower complaint",
+        "remote code execution"
       ]
     }
   ]

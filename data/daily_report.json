@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-02-24 10:42",
+  "last_updated": "2026-02-24 12:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "scattered lapsus shinyhunters",
     "badbox 2 0",
+    "scattered lapsus shinyhunters",
     "fortigate firewalls hacked",
+    "identity prioritization isn't",
     "identity isn t",
+    "github issues abused",
+    "shinyhunters extortion gang",
+    "repository takeover attackers",
     "windows operating systems",
     "twitter whistleblower complaint",
-    "mississippi medical center",
     "mining payload reveals",
+    "even everyday apps",
     "called vanta diagnostics",
-    "aiding north korean",
+    "anti abuse activists",
     "130 companies tangled",
     "50 security holes",
     "kimwolf botnet lurking",
-    "hacktivist group believed",
-    "group s administrator",
+    "modern security risks",
     "everest ransomware group",
-    "xl4 controller vers",
-    "victim's username password",
-    "various public institutions",
-    "unfortunately named toolkit"
+    "xl4 controller vers"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 170
+      "keyword": "badbox 2 0",
+      "mentions": 202
     },
     {
-      "keyword": "badbox 2 0",
-      "mentions": 201
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 171
     },
     {
       "keyword": "fortigate firewalls hacked",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "identity prioritization isn't",
+      "mentions": 1
     },
     {
       "keyword": "identity isn t",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "github issues abused",
+      "mentions": 1
+    },
+    {
+      "keyword": "shinyhunters extortion gang",
+      "mentions": 1
+    },
+    {
+      "keyword": "repository takeover attackers",
+      "mentions": 1
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 401
+      "mentions": 402
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 794
-    },
-    {
-      "keyword": "mississippi medical center",
-      "mentions": 12
-    },
-    {
-      "keyword": "mining payload reveals",
-      "mentions": 8
-    },
-    {
-      "keyword": "called vanta diagnostics",
-      "mentions": 8
-    },
-    {
-      "keyword": "aiding north korean",
-      "mentions": 10
+      "mentions": 795
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
+      "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
+      "summary": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded. In modern enterprises, identity risk is created by a compound of factors: control posture, hygiene, business context, and intent. Any one of these can perhaps be",
+      "published": "Tue, 24 Feb 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
+      "link": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
+      "summary": "The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed entity in the Middle East, according to a new report by the Symantec and Carbon Black Threat Hunter Team. Broadcom's threat intelligence division said it also identified the same threat actors mounting an unsuccessful attack against a healthcare",
+      "published": "Tue, 24 Feb 2026 17:22:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
@@ -126,22 +146,26 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
-      "link": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
-      "summary": "Cybersecurity researchers have disclosed what they say is an active \"Shai-Hulud-like\" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft. The campaign has been codenamed SANDWORM_MODE by supply chain security company Socket. As with prior Shai-Hulud attack waves, the malicious code embedded",
-      "published": "Mon, 23 Feb 2026 15:50:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "ShinyHunters extortion gang claims Odido breach affecting millions",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/",
+      "summary": "The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records from its compromised systems. [...]",
+      "published": "Tue, 24 Feb 2026 06:40:20 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
-      "link": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
-      "summary": "The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo. The activity, first observed on January 26, 2026, has resulted in the deployment of new malware families that share",
-      "published": "Mon, 23 Feb 2026 12:55:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "North Korean Lazarus group linked to Medusa ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/",
+      "summary": "North Korean state-backed hackers associated with the Lazarus threat group are targeting U.S. healthcare organizations in extortion attacks using the Medusa ransomware. [...]",
+      "published": "Tue, 24 Feb 2026 06:00:00 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -204,24 +228,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment",
-      "link": "https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/",
-      "summary": "An information-stealing malware operation named Arkanix Stealer, promoted on multiple dark web forums towards the end of 2025, was likely developed as an AI-assisted experiment. [...]",
-      "published": "Sun, 22 Feb 2026 10:33:26 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
-      "link": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/",
-      "summary": "Intellexa's Predator spyware can hide iOS recording indicators while secretly streaming camera and microphone feeds to its operators. [...]",
-      "published": "Sat, 21 Feb 2026 11:13:24 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -325,6 +331,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "More Than Dashboards: AI Decisions Must Be Provable",
+      "link": "https://www.darkreading.com/cyber-risk/more-dashboards-ai-decisions-provable",
+      "summary": "AI systems have to be able to show a record of what happened and how.",
+      "published": "Mon, 23 Feb 2026 22:18:18 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Iran's MuddyWater Targets Orgs With Fresh Malware as Tensions Mount",
       "link": "https://www.darkreading.com/threat-intelligence/iran-muddywater-new-malware-tensions-mount",
       "summary": "The long-active Iranian threat group debuted various attack strains and payloads in attacks against organizations in the Middle East and Africa.",
@@ -382,14 +397,25 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Latin America's Cyber Maturity Lags Threat Landscape",
-      "link": "https://www.darkreading.com/threat-intelligence/latin-americas-cyber-maturity-lags-threat-landscape",
-      "summary": "The slower pace of upgrades has the unintended impact of creating a haven for attackers, especially for initial access brokers and ransomware gangs.",
-      "published": "Fri, 20 Feb 2026 14:00:00 GMT",
-      "value_score": 28,
+      "source": "Security Week",
+      "title": "GitHub Issues Abused in Copilot Attack Leading to Repository Takeover",
+      "link": "https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/",
+      "summary": "Attackers can inject malicious instructions in a GitHub Issue that are automatically processed by Copilot when launching a Codespace from that issue. The post GitHub Issues Abused in Copilot Attack Leading to Repository Takeover appeared first on SecurityWeek .",
+      "published": "Tue, 24 Feb 2026 12:26:53 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs",
+      "link": "https://www.securityweek.com/taiwan-security-firm-confirms-flaw-flagged-by-cisa-likely-exploited-by-chinese-apt/",
+      "summary": "The vulnerability in TeamT5 ThreatSonar Anti-Ransomware was recently added to CISA’s KEV catalog. The post Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs appeared first on SecurityWeek .",
+      "published": "Tue, 24 Feb 2026 12:00:51 +0000",
+      "value_score": 74,
       "value_signals": [
-        "Ransomware"
+        "Ransomware",
+        "CISA/KEV ×4",
+        "Exploit wording"
       ]
     },
     {
@@ -449,28 +475,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Recent RoundCube Webmail Vulnerability Exploited in Attacks",
-      "link": "https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/",
-      "summary": "Patched in December 2025, the exploited flaw leads to XSS attacks via the animate tags in SVG documents. The post Recent RoundCube Webmail Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
-      "published": "Mon, 23 Feb 2026 10:47:45 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Mississippi Hospital System Closes All Clinics After Ransomware Attack",
-      "link": "https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/",
-      "summary": "A ransomware attack forced the University of Mississippi Medical Center to close all of its roughly three dozen clinics around the state and cancel elective procedures. The post Mississippi Hospital System Closes All Clinics After Ransomware Attack appeared first on SecurityWeek .",
-      "published": "Mon, 23 Feb 2026 10:29:13 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
       ]
     },
     {

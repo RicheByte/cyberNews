@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 401,
+      "count": 402,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -215,7 +215,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 794,
+      "count": 795,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2027,7 +2027,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -4549,7 +4549,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 201,
+      "count": 202,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4985,7 +4985,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5331,7 +5331,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6299,7 +6299,7 @@
       ]
     },
     "50 security holes": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7451,7 +7451,7 @@
       ]
     },
     "xl4 controller vers": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7617,7 +7617,7 @@
       ]
     },
     "identity isn t": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-23",
         "2026-02-24"
@@ -7630,21 +7630,21 @@
       ]
     },
     "everest ransomware group": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-23",
         "2026-02-24"
       ]
     },
     "mining payload reveals": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-23",
         "2026-02-24"
       ]
     },
     "called vanta diagnostics": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-23",
         "2026-02-24"
@@ -7672,7 +7672,7 @@
       ]
     },
     "fortigate firewalls hacked": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-24"
       ]
@@ -7682,20 +7682,51 @@
       "dates": [
         "2026-02-24"
       ]
+    },
+    "identity prioritization isn't": {
+      "count": 1,
+      "dates": [
+        "2026-02-24"
+      ]
+    },
+    "github issues abused": {
+      "count": 1,
+      "dates": [
+        "2026-02-24"
+      ]
+    },
+    "shinyhunters extortion gang": {
+      "count": 1,
+      "dates": [
+        "2026-02-24"
+      ]
+    },
+    "repository takeover attackers": {
+      "count": 1,
+      "dates": [
+        "2026-02-24"
+      ]
+    },
+    "even everyday apps": {
+      "count": 1,
+      "dates": [
+        "2026-02-24"
+      ]
+    },
+    "anti abuse activists": {
+      "count": 1,
+      "dates": [
+        "2026-02-24"
+      ]
+    },
+    "modern security risks": {
+      "count": 1,
+      "dates": [
+        "2026-02-24"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-15 10:21",
-      "articles": 56,
-      "top_keywords": [
-        "tiffany 25 million",
-        "increased secrecy rewards",
-        "ibm qradar siem",
-        "arbitrary code execution",
-        "abusing claude artifacts"
-      ]
-    },
     {
       "timestamp": "2026-02-15 12:39",
       "articles": 56,
@@ -8783,6 +8814,17 @@
         "fortigate firewalls hacked",
         "identity isn t",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-02-24 12:55",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "scattered lapsus shinyhunters",
+        "fortigate firewalls hacked",
+        "identity prioritization isn't",
+        "identity isn t"
       ]
     }
   ]

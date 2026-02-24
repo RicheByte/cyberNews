@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-24 10:42 UTC  
+> **Last Updated:** 2026-02-24 12:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **fortigate firewalls hacked** • **identity isn t** • **windows operating systems** • **twitter whistleblower complaint** • **mississippi medical center** • **mining payload reveals** • **called vanta diagnostics** • **aiding north korean** • **130 companies tangled** • **50 security holes** • **kimwolf botnet lurking** • **hacktivist group believed** • **group s administrator** • **everest ransomware group** • **xl4 controller vers** • **victim's username password** • **various public institutions** • **unfortunately named toolkit**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **fortigate firewalls hacked** • **identity prioritization isn't** • **identity isn t** • **github issues abused** • **shinyhunters extortion gang** • **repository takeover attackers** • **windows operating systems** • **twitter whistleblower complaint** • **mining payload reveals** • **even everyday apps** • **called vanta diagnostics** • **anti abuse activists** • **130 companies tangled** • **50 security holes** • **kimwolf botnet lurking** • **modern security risks** • **everest ransomware group** • **xl4 controller vers**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
+- [Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
 - [UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
 - [Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
 - [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
 - [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
 - [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
 - [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
-- [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
-- [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
 
 ### BleepingComputer
 
+- [ShinyHunters extortion gang claims Odido breach affecting millions](https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/)
+- [North Korean Lazarus group linked to Medusa ransomware attacks](https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/)
 - [Android mental health apps with 14.7M installs filled with security flaws](https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/)
 - [Spain arrests suspected hacktivists for DDoSing govt sites](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/)
 - [Microsoft says bug in classic Outlook hides the mouse pointer](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/)
 - [Ad tech firm Optimizely confirms data breach after vishing attack](https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/)
 - [When identity isn’t the weak link, access still is](https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/)
 - [CISA: Recently patched RoundCube flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/)
-- [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
-- [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
 
 ### Krebs on Security
 
@@ -50,24 +50,24 @@
 ### Dark Reading
 
 - [Spitting Cash: ATM Jackpotting Attacks Surged in 2025](https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025)
+- [More Than Dashboards: AI Decisions Must Be Provable](https://www.darkreading.com/cyber-risk/more-dashboards-ai-decisions-provable)
 - [Iran's MuddyWater Targets Orgs With Fresh Malware as Tensions Mount](https://www.darkreading.com/threat-intelligence/iran-muddywater-new-malware-tensions-mount)
 - [Enigma Cipher Device Still Holds Secrets for Cyber Pros](https://www.darkreading.com/threat-intelligence/enigma-cipher-device-secrets-cyber-pros)
 - [600+ FortiGate Devices Hacked by AI-Armed Amateur](https://www.darkreading.com/threat-intelligence/600-fortigate-devices-hacked-ai-amateur)
 - [Attackers Use New Tool to Scan for React2Shell Exposure](https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure)
 - ['God-Like' Attack Machines: AI Agents Ignore Security Policies](https://www.darkreading.com/application-security/ai-agents-ignore-security-policies)
 - [Lessons From AI Hacking: Every Model, Every Layer Is Risky](https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky)
-- [Latin America's Cyber Maturity Lags Threat Landscape](https://www.darkreading.com/threat-intelligence/latin-americas-cyber-maturity-lags-threat-landscape)
 
 ### Security Week
 
+- [GitHub Issues Abused in Copilot Attack Leading to Repository Takeover](https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/)
+- [Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs](https://www.securityweek.com/taiwan-security-firm-confirms-flaw-flagged-by-cisa-likely-exploited-by-chinese-apt/)
 - [Anonymous Fénix Members Arrested in Spain](https://www.securityweek.com/anonymous-fenix-members-arrested-in-spain/)
 - [US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach](https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/)
 - [Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud](https://www.securityweek.com/ukrainian-gets-5-years-in-us-prison-for-aiding-north-korean-it-fraud/)
 - [Autonomous AI Agents Provide New Class of Supply Chain Attack](https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/)
 - [Romanian Hacker Pleads Guilty to Selling Access to US State Network](https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/)
 - [Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS](https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/)
-- [Recent RoundCube Webmail Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/)
-- [Mississippi Hospital System Closes All Clinics After Ransomware Attack](https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/)
 
 ### Threatpost
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24 17:00",
+  "last_updated": "2026-02-24 18:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,63 +10,72 @@
     "equation ai agents",
     "shinyhunters extortion gang",
     "repository takeover attackers",
-    "identity prioritization isn't",
+    "multiple building systems",
+    "codenamed operation macromaze",
     "twitter whistleblower complaint",
     "mining payload reveals",
     "even everyday apps",
+    "copy model anthropic",
+    "cisa likely exploited",
     "called vanta diagnostics",
     "anti abuse activists",
     "50 security holes",
     "130 companies tangled",
     "provable ai systems",
-    "ai native tech",
-    "ai armed amateur",
-    "modern security risks",
-    "kimwolf botnet lurking"
+    "ai native tech"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 204
+      "mentions": 205
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 173
+      "mentions": 174
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 404
+      "mentions": 405
     },
     {
       "keyword": "github issues abused",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "equation ai agents",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "shinyhunters extortion gang",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "repository takeover attackers",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "identity prioritization isn't",
-      "mentions": 3
+      "keyword": "multiple building systems",
+      "mentions": 1
+    },
+    {
+      "keyword": "codenamed operation macromaze",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 797
-    },
-    {
-      "keyword": "mining payload reveals",
-      "mentions": 11
+      "mentions": 798
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
+      "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
+      "summary": "A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat actor's targeting beyond Ukraine and into entities supporting the war-torn nation. The activity, which targeted an unnamed entity involved in regional",
+      "published": "Tue, 24 Feb 2026 19:51:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
@@ -137,11 +146,22 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
-      "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
-      "summary": "As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that serves, connects and automates the model. Each new LLM endpoint expands the attack surface, often in",
-      "published": "Mon, 23 Feb 2026 17:28:00 +0530",
+      "source": "BleepingComputer",
+      "title": "CarGurus data breach exposes information of 12.4 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/",
+      "summary": "The ShinyHunters extortion group has published personal information in more than 12 million records allegedly stolen from CarGurus, a U.S.-based digital auto platform. [...]",
+      "published": "Tue, 24 Feb 2026 13:08:20 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft adds Copilot data controls to all storage locations",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/",
+      "summary": "Microsoft is expanding data loss prevention (DLP) controls to block the Microsoft 365 Copilot AI assistant from processing confidential Word, Excel, and PowerPoint documents, regardless of their location. [...]",
+      "published": "Tue, 24 Feb 2026 12:30:10 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -203,24 +223,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/",
       "summary": "Several mental health mobile apps with millions of downloads on Google Play contain security vulnerabilities that could expose users' sensitive medical information. [...]",
       "published": "Mon, 23 Feb 2026 17:59:04 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Spain arrests suspected hacktivists for DDoSing govt sites",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/",
-      "summary": "Spanish authorities have arrested four alleged members of a hacktivist group believed to have carried out cyberattacks targeting government ministries, political parties, and various public institutions. [...]",
-      "published": "Mon, 23 Feb 2026 16:59:42 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says bug in classic Outlook hides the mouse pointer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/",
-      "summary": "Microsoft is investigating a known issue that causes the mouse pointer to disappear in the classic Outlook desktop email client for some users. [...]",
-      "published": "Mon, 23 Feb 2026 14:40:42 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -557,6 +559,47 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "InSAT MasterSCADA BUK-TS",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-01",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities may allow remote code execution. The following versions of InSAT MasterSCADA BUK-TS are affected: MasterSCADA BUK-TS vers:all/* (CVE-2026-21410, CVE-2026-22553) CVSS Vendor Equipment Vulnerabilities v3 9.8 InSAT InSAT MasterSCADA BUK-TS Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'), Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') Background Critical",
+      "published": "Tue, 24 Feb 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "RCE",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Schneider Electric EcoStruxure Building Operation Workstation",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-02",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in EcoStruxure Building Operation Workstation and EcoStruxure Building Operation WebStation. [EcoStruxure Building Operation (EBO)](https://www.se.com/ww/en/product-range/62111-ecostruxure-building-operation-software/#overview) is an open and scalable software platform providing insight, control and management of multiple building systems and devices in one mobile-enabled convenient view. It delivers valuable data for decision-maki",
+      "published": "Tue, 24 Feb 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Gardyn Home Kit",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow unauthenticated users to access and control edge devices, access cloud-based devices and user information without authentication, and pivot to other edge devices managed in the Gardyn cloud environment. The following versions of Gardyn Home Kit are affected: Home Kit Firmware Gardyn Home Kit Mobile Application <2.11.0 (CVE-2025-29628, CVE-2025-29629, CVE-2025-29631, CVE-2025-1242) Gardyn Home Kit Cloud API <2.12.2026 ",
+      "published": "Tue, 24 Feb 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-49113 RoundCube Webmail Deserialization of Untrusted Data Vulnerability CVE-2025-68461 RoundCube Webmail Cross-site Scripting Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of",
@@ -623,50 +666,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2021-22175 GitLab Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-22769 Dell RecoverPoint for Virtual Machines (RP4VMs) Use of Hard-coded Credentials Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Red",
-      "published": "Wed, 18 Feb 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Honeywell CCTV Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could lead to account takeovers and unauthorized access to camera feeds; an unauthenticated attacker may change the recovery email address, potentially leading to further network compromise. The following versions of Honeywell CCTV Products are affected: I-HIB2PI-UL 2MP IP 6.1.22.1216 (CVE-2026-1670) SMB NDAA MVO-3 WDR_2MP_32M_PTZ_v2.0 (CVE-2026-1670) PTZ WDR 2MP 32M WDR_2MP_32M_PTZ_v2.0 (CVE-2026-1670) 25M IPC WDR_2MP_32M_PTZ_v2.0 ",
-      "published": "Tue, 17 Feb 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "GE Vernova Enervista UR Setup",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities may allow code execution with elevated privileges. The following versions of GE Vernova Enervista UR Setup are affected: Enervista UR Setup <8.70 (CVE-2026-1762, CVE-2026-1763) CVSS Vendor Equipment Vulnerabilities v3 7.8 GE Vernova GE Vernova Enervista UR Setup Uncontrolled Search Path Element, Path Traversal: '.../...//' Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Water and Wastewater Countries/A",
-      "published": "Tue, 17 Feb 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "High severity ×2",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     }

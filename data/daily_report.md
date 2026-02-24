@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-24 17:00 UTC  
+> **Last Updated:** 2026-02-24 18:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **windows operating systems** • **github issues abused** • **equation ai agents** • **shinyhunters extortion gang** • **repository takeover attackers** • **identity prioritization isn't** • **twitter whistleblower complaint** • **mining payload reveals** • **even everyday apps** • **called vanta diagnostics** • **anti abuse activists** • **50 security holes** • **130 companies tangled** • **provable ai systems** • **ai native tech** • **ai armed amateur** • **modern security risks** • **kimwolf botnet lurking**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **windows operating systems** • **github issues abused** • **equation ai agents** • **shinyhunters extortion gang** • **repository takeover attackers** • **multiple building systems** • **codenamed operation macromaze** • **twitter whistleblower complaint** • **mining payload reveals** • **even everyday apps** • **copy model anthropic** • **cisa likely exploited** • **called vanta diagnostics** • **anti abuse activists** • **50 security holes** • **130 companies tangled** • **provable ai systems** • **ai native tech**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
 - [Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
 - [Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
 - [UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
@@ -23,18 +24,17 @@
 - [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
 - [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
 - [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
-- [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
 
 ### BleepingComputer
 
+- [CarGurus data breach exposes information of 12.4 million accounts](https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/)
+- [Microsoft adds Copilot data controls to all storage locations](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/)
 - [Identity-First AI Security: Why CISOs Must Add Intent to the Equation](https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/)
 - [UK fines Reddit $19 million for using children’s data unlawfully](https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/)
 - [Critical SolarWinds Serv-U flaws offer root access to servers](https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/)
 - [ShinyHunters extortion gang claims Odido breach affecting millions](https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/)
 - [North Korean Lazarus group linked to Medusa ransomware attacks](https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/)
 - [Android mental health apps with 14.7M installs filled with security flaws](https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/)
-- [Spain arrests suspected hacktivists for DDoSing govt sites](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/)
-- [Microsoft says bug in classic Outlook hides the mouse pointer](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [InSAT MasterSCADA BUK-TS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-01)
+- [Schneider Electric EcoStruxure Building Operation Workstation](https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-02)
+- [Gardyn Home Kit](https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-03)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Valmet DNA Engineering Web Tools](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-02)
 - [Jinan USR IOT Technology Limited (PUSR) USR-W610](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-03)
 - [EnOcean SmartServer IoT](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-01)
 - [Welker OdorEyes EcoSystem Pulse Bypass System with XL4 Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-04)
-- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/18/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [Honeywell CCTV Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-04)
-- [GE Vernova Enervista UR Setup](https://www.cisa.gov/news-events/ics-advisories/icsa-26-048-03)
 
 ---
 

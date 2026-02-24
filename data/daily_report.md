@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-24 20:29 UTC  
+> **Last Updated:** 2026-02-24 22:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **github issues abused** • **windows operating systems** • **equation ai agents** • **shinyhunters extortion gang** • **repository takeover attackers** • **multiple building systems** • **twitter whistleblower complaint** • **storage locations microsoft** • **mining payload reveals** • **inject malicious instructions** • **copy model anthropic** • **called vanta diagnostics** • **anti abuse activists** • **130 companies tangled** • **provable ai systems** • **ai native tech** • **ai armed amateur** • **kimwolf botnet lurking**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **github issues abused** • **shinyhunters extortion gang** • **equation ai agents** • **windows operating systems** • **repository takeover attackers** • **inject malicious instructions** • **shinyhunters extortion group** • **twitter whistleblower complaint** • **storage locations microsoft** • **mining payload reveals** • **everest ransomware group** • **copy model anthropic** • **called vanta diagnostics** • **anti abuse activists** • **130 companies tangled** • **delivers valuable data** • **ai native tech** • **ai armed amateur**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Wynn Resorts confirms employee data breach after extortion threat](https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/)
+- [1Campaign platform helps malicious Google ads evade detection](https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/)
 - [CarGurus data breach exposes information of 12.4 million accounts](https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/)
 - [Microsoft adds Copilot data controls to all storage locations](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/)
 - [Identity-First AI Security: Why CISOs Must Add Intent to the Equation](https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/)
 - [UK fines Reddit $19 million for using children’s data unlawfully](https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/)
 - [Critical SolarWinds Serv-U flaws offer root access to servers](https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/)
 - [ShinyHunters extortion gang claims Odido breach affecting millions](https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/)
-- [North Korean Lazarus group linked to Medusa ransomware attacks](https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/)
-- [Android mental health apps with 14.7M installs filled with security flaws](https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Lazarus Group Picks a New Poison: Medusa Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-new-position-medusa-ransomware)
 - [As Cybersecurity Firms Chase AI, VC Market Skyrockets](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-firms-chase-ai-vc-market-skyrockets)
 - [Spitting Cash: ATM Jackpotting Attacks Surged in 2025](https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025)
 - [More Than Dashboards: AI Decisions Must Be Provable](https://www.darkreading.com/cyber-risk/more-dashboards-ai-decisions-provable)
@@ -56,7 +57,6 @@
 - [Enigma Cipher Device Still Holds Secrets for Cyber Pros](https://www.darkreading.com/threat-intelligence/enigma-cipher-device-secrets-cyber-pros)
 - [600+ FortiGate Devices Hacked by AI-Armed Amateur](https://www.darkreading.com/threat-intelligence/600-fortigate-devices-hacked-ai-amateur)
 - [Attackers Use New Tool to Scan for React2Shell Exposure](https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure)
-- ['God-Like' Attack Machines: AI Agents Ignore Security Policies](https://www.darkreading.com/application-security/ai-agents-ignore-security-policies)
 
 ### Security Week
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-24 20:29 UTC |
+| 🕐 Last Updated | 2026-02-24 22:28 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`badbox 2 0` • `scattered lapsus shinyhunters` • `github issues abused` • `windows operating systems` • `equation ai agents` • `shinyhunters extortion gang` • `repository takeover attackers` • `multiple building systems` • `twitter whistleblower complaint` • `storage locations microsoft`
+`badbox 2 0` • `scattered lapsus shinyhunters` • `github issues abused` • `shinyhunters extortion gang` • `equation ai agents` • `windows operating systems` • `repository takeover attackers` • `inject malicious instructions` • `shinyhunters extortion group` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

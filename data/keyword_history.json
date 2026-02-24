@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 398,
+      "count": 399,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -215,7 +215,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 791,
+      "count": 792,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -285,7 +285,8 @@
         "2026-02-20",
         "2026-02-21",
         "2026-02-22",
-        "2026-02-23"
+        "2026-02-23",
+        "2026-02-24"
       ]
     },
     "supposed wayward package": {
@@ -2486,7 +2487,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 208,
+      "count": 209,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4547,7 +4548,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 198,
+      "count": 199,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4983,7 +4984,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5329,7 +5330,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6297,7 +6298,7 @@
       ]
     },
     "50 security holes": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7449,7 +7450,7 @@
       ]
     },
     "xl4 controller vers": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7466,7 +7467,7 @@
       ]
     },
     "unfortunately named toolkit": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7483,7 +7484,7 @@
       ]
     },
     "limited research preview": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-02-21",
         "2026-02-22",
@@ -7552,7 +7553,7 @@
       ]
     },
     "mississippi medical center": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-23",
         "2026-02-24"
@@ -7565,14 +7566,14 @@
       ]
     },
     "victim's username password": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-23",
         "2026-02-24"
       ]
     },
     "aiding north korean": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-23",
         "2026-02-24"
@@ -7615,7 +7616,7 @@
       ]
     },
     "identity isn t": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-23",
         "2026-02-24"
@@ -7628,20 +7629,21 @@
       ]
     },
     "everest ransomware group": {
-      "count": 4,
-      "dates": [
-        "2026-02-23"
-      ]
-    },
-    "mining payload reveals": {
       "count": 5,
       "dates": [
         "2026-02-23",
         "2026-02-24"
       ]
     },
+    "mining payload reveals": {
+      "count": 6,
+      "dates": [
+        "2026-02-23",
+        "2026-02-24"
+      ]
+    },
     "called vanta diagnostics": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-23",
         "2026-02-24"
@@ -7655,38 +7657,27 @@
       ]
     },
     "hacktivist group believed": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-23",
         "2026-02-24"
       ]
     },
     "various public institutions": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-23",
         "2026-02-24"
       ]
     },
     "fortigate firewalls hacked": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-24"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-15 04:18",
-      "articles": 56,
-      "top_keywords": [
-        "tiffany 25 million",
-        "increased secrecy rewards",
-        "ibm qradar siem",
-        "arbitrary code execution",
-        "abusing claude artifacts"
-      ]
-    },
     {
       "timestamp": "2026-02-15 06:44",
       "articles": 56,
@@ -8768,6 +8759,17 @@
     {
       "timestamp": "2026-02-24 04:14",
       "articles": 48,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "fortigate firewalls hacked",
+        "identity isn t",
+        "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-02-24 06:54",
+      "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",
         "badbox 2 0",

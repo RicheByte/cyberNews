@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-24 04:14 UTC  
+> **Last Updated:** 2026-02-24 06:54 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **fortigate firewalls hacked** • **identity isn t** • **windows operating systems** • **mississippi medical center** • **mining payload reveals** • **limited research preview** • **called vanta diagnostics** • **aiding north korean** • **50 security holes** • **hacktivist group believed** • **kimwolf botnet lurking** • **xl4 controller vers** • **victim's username password** • **various public institutions** • **unfortunately named toolkit** • **today we'll dig** • **secure online communications** • **popular online destinations**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **fortigate firewalls hacked** • **identity isn t** • **windows operating systems** • **twitter whistleblower complaint** • **mississippi medical center** • **mining payload reveals** • **limited research preview** • **called vanta diagnostics** • **aiding north korean** • **50 security holes** • **kimwolf botnet lurking** • **hacktivist group believed** • **everest ransomware group** • **xl4 controller vers** • **victim's username password** • **various public institutions** • **unfortunately named toolkit** • **today we'll dig**
 
 ---
 
@@ -68,6 +68,17 @@
 - [Recent RoundCube Webmail Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/)
 - [Mississippi Hospital System Closes All Clinics After Ransomware Attack](https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/)
 - [PayPal Data Breach Led to Fraudulent Transactions](https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/)
+
+### Threatpost
+
+- [Student Loan Breach Exposes 2.5M Records](https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/)
+- [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
+- [Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms](https://threatpost.com/0ktapus-victimize-130-firms/180487/)
+- [Ransomware Attacks are on the Rise](https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/)
+- [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
+- [Twitter Whistleblower Complaint: The TL;DR Version](https://threatpost.com/twitter-whistleblower-tldr-version/180472/)
+- [Firewall Bug Under Active Attack Triggers CISA Warning](https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/)
+- [Fake Reservation Links Prey on Weary Travelers](https://threatpost.com/reservation-links-prey-on-travelers/180462/)
 
 ### CISA Alerts
 

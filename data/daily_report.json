@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-24 04:14",
+  "last_updated": "2026-02-24 06:54",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
     "fortigate firewalls hacked",
     "identity isn t",
     "windows operating systems",
+    "twitter whistleblower complaint",
     "mississippi medical center",
     "mining payload reveals",
     "limited research preview",
     "called vanta diagnostics",
     "aiding north korean",
     "50 security holes",
-    "hacktivist group believed",
     "kimwolf botnet lurking",
+    "hacktivist group believed",
+    "everest ransomware group",
     "xl4 controller vers",
     "victim's username password",
     "various public institutions",
     "unfortunately named toolkit",
-    "today we'll dig",
-    "secure online communications",
-    "popular online destinations"
+    "today we'll dig"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 167
+      "mentions": 168
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 198
+      "mentions": 199
     },
     {
       "keyword": "fortigate firewalls hacked",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "identity isn t",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 398
+      "mentions": 399
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 792
     },
     {
       "keyword": "mississippi medical center",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "mining payload reveals",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "limited research preview",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "called vanta diagnostics",
-      "mentions": 5
-    },
-    {
-      "keyword": "aiding north korean",
-      "mentions": 7
+      "mentions": 6
     }
   ],
   "articles": [
@@ -476,6 +476,89 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
+    },
+    {
+      "source": "Threatpost",
+      "title": "Student Loan Breach Exposes 2.5M Records",
+      "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
+      "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
+      "published": "Wed, 31 Aug 2022 12:57:48 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Threatpost",
+      "title": "Watering Hole Attacks Push ScanBox Keylogger",
+      "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
+      "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
+      "published": "Tue, 30 Aug 2022 16:00:43 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Threatpost",
+      "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
+      "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
+      "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
+      "published": "Mon, 29 Aug 2022 14:56:19 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Threatpost",
+      "title": "Ransomware Attacks are on the Rise",
+      "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
+      "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
+      "published": "Fri, 26 Aug 2022 16:44:27 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Threatpost",
+      "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
+      "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
+      "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
+      "published": "Thu, 25 Aug 2022 18:47:15 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Threatpost",
+      "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+      "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+      "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.",
+      "published": "Wed, 24 Aug 2022 14:17:04 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Threatpost",
+      "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
+      "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
+      "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
+      "published": "Tue, 23 Aug 2022 13:19:58 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "Threatpost",
+      "title": "Fake Reservation Links Prey on Weary Travelers",
+      "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
+      "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
+      "published": "Mon, 22 Aug 2022 13:59:06 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "CISA Alerts",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-24 08:40 UTC  
+> **Last Updated:** 2026-02-24 10:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **fortigate firewalls hacked** • **identity isn t** • **windows operating systems** • **twitter whistleblower complaint** • **mississippi medical center** • **mining payload reveals** • **called vanta diagnostics** • **aiding north korean** • **50 security holes** • **kimwolf botnet lurking** • **hacktivist group believed** • **everest ransomware group** • **xl4 controller vers** • **victim's username password** • **various public institutions** • **unfortunately named toolkit** • **today we'll dig** • **secure online communications**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **fortigate firewalls hacked** • **identity isn t** • **windows operating systems** • **twitter whistleblower complaint** • **mississippi medical center** • **mining payload reveals** • **called vanta diagnostics** • **aiding north korean** • **130 companies tangled** • **50 security holes** • **kimwolf botnet lurking** • **hacktivist group believed** • **group s administrator** • **everest ransomware group** • **xl4 controller vers** • **victim's username password** • **various public institutions** • **unfortunately named toolkit**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
 - [Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
 - [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
 - [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
@@ -23,7 +24,6 @@
 - [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
 - [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
 - [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
-- [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Anonymous Fénix Members Arrested in Spain](https://www.securityweek.com/anonymous-fenix-members-arrested-in-spain/)
 - [US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach](https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/)
 - [Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud](https://www.securityweek.com/ukrainian-gets-5-years-in-us-prison-for-aiding-north-korean-it-fraud/)
 - [Autonomous AI Agents Provide New Class of Supply Chain Attack](https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/)
@@ -67,7 +68,6 @@
 - [Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS](https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/)
 - [Recent RoundCube Webmail Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/)
 - [Mississippi Hospital System Closes All Clinics After Ransomware Attack](https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/)
-- [PayPal Data Breach Led to Fraudulent Transactions](https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/)
 
 ### Threatpost
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-24 14:46 UTC |
+| 🕐 Last Updated | 2026-02-24 17:00 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`badbox 2 0` • `scattered lapsus shinyhunters` • `identity prioritization isn't` • `github issues abused` • `shinyhunters extortion gang` • `repository takeover attackers` • `windows operating systems` • `twitter whistleblower complaint` • `mining payload reveals` • `lessons still apply`
+`badbox 2 0` • `scattered lapsus shinyhunters` • `windows operating systems` • `github issues abused` • `equation ai agents` • `shinyhunters extortion gang` • `repository takeover attackers` • `identity prioritization isn't` • `twitter whistleblower complaint` • `mining payload reveals`
 
 ## 📄 Reports
 

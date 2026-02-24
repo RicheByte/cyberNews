@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-24 14:46 UTC  
+> **Last Updated:** 2026-02-24 17:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **identity prioritization isn't** • **github issues abused** • **shinyhunters extortion gang** • **repository takeover attackers** • **windows operating systems** • **twitter whistleblower complaint** • **mining payload reveals** • **lessons still apply** • **identity isn t** • **even everyday apps** • **called vanta diagnostics** • **anti abuse activists** • **130 companies tangled** • **ai native tech** • **ai armed amateur** • **50 security holes** • **kimwolf botnet lurking** • **modern security risks**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **windows operating systems** • **github issues abused** • **equation ai agents** • **shinyhunters extortion gang** • **repository takeover attackers** • **identity prioritization isn't** • **twitter whistleblower complaint** • **mining payload reveals** • **even everyday apps** • **called vanta diagnostics** • **anti abuse activists** • **50 security holes** • **130 companies tangled** • **provable ai systems** • **ai native tech** • **ai armed amateur** • **modern security risks** • **kimwolf botnet lurking**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Identity-First AI Security: Why CISOs Must Add Intent to the Equation](https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/)
+- [UK fines Reddit $19 million for using children’s data unlawfully](https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/)
 - [Critical SolarWinds Serv-U flaws offer root access to servers](https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/)
 - [ShinyHunters extortion gang claims Odido breach affecting millions](https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/)
 - [North Korean Lazarus group linked to Medusa ransomware attacks](https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/)
 - [Android mental health apps with 14.7M installs filled with security flaws](https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/)
 - [Spain arrests suspected hacktivists for DDoSing govt sites](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/)
 - [Microsoft says bug in classic Outlook hides the mouse pointer](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/)
-- [Ad tech firm Optimizely confirms data breach after vishing attack](https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/)
-- [When identity isn’t the weak link, access still is](https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [‘Arkanix Stealer’ Malware Disappears Shortly After Debut](https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/)
 - [VMware Aria Operations Vulnerability Could Allow Remote Code Execution](https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/)
 - [CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO](https://www.securityweek.com/ciso-conversations-timothy-youngblood-4x-fortune-500-ciso-cso/)
 - [New ‘Sandworm_Mode’ Supply Chain Attack Hits NPM](https://www.securityweek.com/new-sandworm_mode-supply-chain-attack-hits-npm/)
@@ -67,7 +68,6 @@
 - [Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs](https://www.securityweek.com/taiwan-security-firm-confirms-flaw-flagged-by-cisa-likely-exploited-by-chinese-apt/)
 - [Anonymous Fénix Members Arrested in Spain](https://www.securityweek.com/anonymous-fenix-members-arrested-in-spain/)
 - [US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach](https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/)
-- [Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud](https://www.securityweek.com/ukrainian-gets-5-years-in-us-prison-for-aiding-north-korean-it-fraud/)
 
 ### Threatpost
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-24 12:55 UTC  
+> **Last Updated:** 2026-02-24 14:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **fortigate firewalls hacked** • **identity prioritization isn't** • **identity isn t** • **github issues abused** • **shinyhunters extortion gang** • **repository takeover attackers** • **windows operating systems** • **twitter whistleblower complaint** • **mining payload reveals** • **even everyday apps** • **called vanta diagnostics** • **anti abuse activists** • **130 companies tangled** • **50 security holes** • **kimwolf botnet lurking** • **modern security risks** • **everest ransomware group** • **xl4 controller vers**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **identity prioritization isn't** • **github issues abused** • **shinyhunters extortion gang** • **repository takeover attackers** • **windows operating systems** • **twitter whistleblower complaint** • **mining payload reveals** • **lessons still apply** • **identity isn t** • **even everyday apps** • **called vanta diagnostics** • **anti abuse activists** • **130 companies tangled** • **ai native tech** • **ai armed amateur** • **50 security holes** • **kimwolf botnet lurking** • **modern security risks**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Critical SolarWinds Serv-U flaws offer root access to servers](https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/)
 - [ShinyHunters extortion gang claims Odido breach affecting millions](https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/)
 - [North Korean Lazarus group linked to Medusa ransomware attacks](https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/)
 - [Android mental health apps with 14.7M installs filled with security flaws](https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/)
@@ -34,7 +35,6 @@
 - [Microsoft says bug in classic Outlook hides the mouse pointer](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/)
 - [Ad tech firm Optimizely confirms data breach after vishing attack](https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/)
 - [When identity isn’t the weak link, access still is](https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/)
-- [CISA: Recently patched RoundCube flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [As Cybersecurity Firms Chase AI, VC Market Skyrockets](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-firms-chase-ai-vc-market-skyrockets)
 - [Spitting Cash: ATM Jackpotting Attacks Surged in 2025](https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025)
 - [More Than Dashboards: AI Decisions Must Be Provable](https://www.darkreading.com/cyber-risk/more-dashboards-ai-decisions-provable)
 - [Iran's MuddyWater Targets Orgs With Fresh Malware as Tensions Mount](https://www.darkreading.com/threat-intelligence/iran-muddywater-new-malware-tensions-mount)
@@ -56,18 +57,17 @@
 - [600+ FortiGate Devices Hacked by AI-Armed Amateur](https://www.darkreading.com/threat-intelligence/600-fortigate-devices-hacked-ai-amateur)
 - [Attackers Use New Tool to Scan for React2Shell Exposure](https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure)
 - ['God-Like' Attack Machines: AI Agents Ignore Security Policies](https://www.darkreading.com/application-security/ai-agents-ignore-security-policies)
-- [Lessons From AI Hacking: Every Model, Every Layer Is Risky](https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky)
 
 ### Security Week
 
+- [VMware Aria Operations Vulnerability Could Allow Remote Code Execution](https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/)
+- [CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO](https://www.securityweek.com/ciso-conversations-timothy-youngblood-4x-fortune-500-ciso-cso/)
+- [New ‘Sandworm_Mode’ Supply Chain Attack Hits NPM](https://www.securityweek.com/new-sandworm_mode-supply-chain-attack-hits-npm/)
 - [GitHub Issues Abused in Copilot Attack Leading to Repository Takeover](https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/)
 - [Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs](https://www.securityweek.com/taiwan-security-firm-confirms-flaw-flagged-by-cisa-likely-exploited-by-chinese-apt/)
 - [Anonymous Fénix Members Arrested in Spain](https://www.securityweek.com/anonymous-fenix-members-arrested-in-spain/)
 - [US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach](https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/)
 - [Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud](https://www.securityweek.com/ukrainian-gets-5-years-in-us-prison-for-aiding-north-korean-it-fraud/)
-- [Autonomous AI Agents Provide New Class of Supply Chain Attack](https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/)
-- [Romanian Hacker Pleads Guilty to Selling Access to US State Network](https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/)
-- [Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS](https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/)
 
 ### Threatpost
 

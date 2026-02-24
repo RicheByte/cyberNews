@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-24 12:55",
+  "last_updated": "2026-02-24 14:46",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "badbox 2 0",
     "scattered lapsus shinyhunters",
-    "fortigate firewalls hacked",
     "identity prioritization isn't",
-    "identity isn t",
     "github issues abused",
     "shinyhunters extortion gang",
     "repository takeover attackers",
     "windows operating systems",
     "twitter whistleblower complaint",
     "mining payload reveals",
+    "lessons still apply",
+    "identity isn t",
     "even everyday apps",
     "called vanta diagnostics",
     "anti abuse activists",
     "130 companies tangled",
+    "ai native tech",
+    "ai armed amateur",
     "50 security holes",
     "kimwolf botnet lurking",
-    "modern security risks",
-    "everest ransomware group",
-    "xl4 controller vers"
+    "modern security risks"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 202
+      "mentions": 203
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 171
-    },
-    {
-      "keyword": "fortigate firewalls hacked",
-      "mentions": 6
+      "mentions": 172
     },
     {
       "keyword": "identity prioritization isn't",
-      "mentions": 1
-    },
-    {
-      "keyword": "identity isn t",
-      "mentions": 10
+      "mentions": 2
     },
     {
       "keyword": "github issues abused",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "shinyhunters extortion gang",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "repository takeover attackers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 402
+      "mentions": 403
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 795
+      "mentions": 796
+    },
+    {
+      "keyword": "mining payload reveals",
+      "mentions": 10
+    },
+    {
+      "keyword": "lessons still apply",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -147,6 +147,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critical SolarWinds Serv-U flaws offer root access to servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/",
+      "summary": "SolarWinds has patched four critical Serv-U remote code execution vulnerabilities that could grant attackers root access to unpatched servers. [...]",
+      "published": "Tue, 24 Feb 2026 08:00:45 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "RCE",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ShinyHunters extortion gang claims Odido breach affecting millions",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/",
       "summary": "The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records from its compromised systems. [...]",
@@ -214,20 +226,6 @@
       "published": "Mon, 23 Feb 2026 10:00:10 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
-      "summary": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
-      "published": "Mon, 23 Feb 2026 06:44:21 -0500",
-      "value_score": 89,
-      "value_signals": [
-        "Active exploitation",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -322,6 +320,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "As Cybersecurity Firms Chase AI, VC Market Skyrockets",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/cybersecurity-firms-chase-ai-vc-market-skyrockets",
+      "summary": "Investments in cybersecurity startups took off in 2025, as venture capital firms focused not just on AI-native tech, but talent as well.",
+      "published": "Tue, 24 Feb 2026 13:04:04 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Spitting Cash: ATM Jackpotting Attacks Surged in 2025",
       "link": "https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025",
       "summary": "The attacks cost banks more than $20 million in losses last year, as criminals used many of the same tools and tactics they have wielded for more than a decade.",
@@ -388,11 +395,31 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Lessons From AI Hacking: Every Model, Every Layer Is Risky",
-      "link": "https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky",
-      "summary": "After two years of finding flaws in AI infrastructure, two Wiz researchers advise security pros to worry less about prompt injection and more about vulnerabilities.",
-      "published": "Fri, 20 Feb 2026 18:02:02 GMT",
+      "source": "Security Week",
+      "title": "VMware Aria Operations Vulnerability Could Allow Remote Code Execution",
+      "link": "https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/",
+      "summary": "Broadcom has patched several vulnerabilities in VMware Aria Operations, including high-severity flaws. The post VMware Aria Operations Vulnerability Could Allow Remote Code Execution appeared first on SecurityWeek .",
+      "published": "Tue, 24 Feb 2026 14:30:00 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "RCE ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO",
+      "link": "https://www.securityweek.com/ciso-conversations-timothy-youngblood-4x-fortune-500-ciso-cso/",
+      "summary": "Timothy Youngblood was CISO at Dell, CISO at Kimberley-Clark, VP & CISO at McDonald’s, and SVP, CSO & Product Security Officer at T-Mobile. The post CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO appeared first on SecurityWeek .",
+      "published": "Tue, 24 Feb 2026 14:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "New ‘Sandworm_Mode’ Supply Chain Attack Hits NPM",
+      "link": "https://www.securityweek.com/new-sandworm_mode-supply-chain-attack-hits-npm/",
+      "summary": "The malicious code propagates like a worm, poisons AI assistants, exfiltrates secrets, and contains a destructive dead switch. The post New ‘Sandworm_Mode’ Supply Chain Attack Hits NPM appeared first on SecurityWeek .",
+      "published": "Tue, 24 Feb 2026 13:40:35 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -447,35 +474,6 @@
       "published": "Mon, 23 Feb 2026 13:38:19 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Autonomous AI Agents Provide New Class of Supply Chain Attack",
-      "link": "https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/",
-      "summary": "While this campaign targets crypto wallets and steals money, the methodology has far wider potential that could be used by other attackers. The post Autonomous AI Agents Provide New Class of Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Mon, 23 Feb 2026 12:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Romanian Hacker Pleads Guilty to Selling Access to US State Network",
-      "link": "https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/",
-      "summary": "Catalin Dragomir admitted in a US court to selling access to an Oregon state government office’s network. The post Romanian Hacker Pleads Guilty to Selling Access to US State Network appeared first on SecurityWeek .",
-      "published": "Mon, 23 Feb 2026 11:53:35 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS",
-      "link": "https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/",
-      "summary": "Threat actors relying on AI have been exploiting exposed ports and weak credentials to take over FortiGate devices. The post Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS appeared first on SecurityWeek .",
-      "published": "Mon, 23 Feb 2026 11:34:35 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

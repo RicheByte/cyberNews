@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-23 22:36 UTC  
+> **Last Updated:** 2026-02-24 01:45 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **limited research preview** • **identity isn t** • **twitter whistleblower complaint** • **mississippi medical center** • **mining payload reveals** • **called vanta diagnostics** • **aiding north korean** • **windows operating systems** • **50 security holes** • **kimwolf botnet lurking** • **hacktivist group believed** • **everest ransomware group** • **xl4 controller vers** • **victim's username password** • **various public institutions** • **unfortunately named toolkit** • **today we'll dig** • **secure online communications**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **fortigate firewalls hacked** • **identity isn t** • **windows operating systems** • **mississippi medical center** • **mining payload reveals** • **limited research preview** • **called vanta diagnostics** • **aiding north korean** • **50 security holes** • **hacktivist group believed** • **kimwolf botnet lurking** • **xl4 controller vers** • **victim's username password** • **various public institutions** • **unfortunately named toolkit** • **today we'll dig** • **secure online communications** • **popular online destinations**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Android mental health apps with 14.7M installs filled with security flaws](https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/)
 - [Spain arrests suspected hacktivists for DDoSing govt sites](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/)
 - [Microsoft says bug in classic Outlook hides the mouse pointer](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/)
 - [Ad tech firm Optimizely confirms data breach after vishing attack](https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/)
@@ -34,7 +35,6 @@
 - [CISA: Recently patched RoundCube flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/)
 - [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
 - [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
-- [Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Spitting Cash: ATM Jackpotting Attacks Surged in 2025](https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025)
 - [Iran's MuddyWater Targets Orgs With Fresh Malware as Tensions Mount](https://www.darkreading.com/threat-intelligence/iran-muddywater-new-malware-tensions-mount)
 - [Enigma Cipher Device Still Holds Secrets for Cyber Pros](https://www.darkreading.com/threat-intelligence/enigma-cipher-device-secrets-cyber-pros)
+- [600+ FortiGate Devices Hacked by AI-Armed Amateur](https://www.darkreading.com/threat-intelligence/600-fortigate-devices-hacked-ai-amateur)
 - [Attackers Use New Tool to Scan for React2Shell Exposure](https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure)
 - ['God-Like' Attack Machines: AI Agents Ignore Security Policies](https://www.darkreading.com/application-security/ai-agents-ignore-security-policies)
 - [Lessons From AI Hacking: Every Model, Every Layer Is Risky](https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky)
 - [Latin America's Cyber Maturity Lags Threat Landscape](https://www.darkreading.com/threat-intelligence/latin-americas-cyber-maturity-lags-threat-landscape)
-- [Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges](https://www.darkreading.com/cyber-risk/emerging-chiplet-designs-spark-fresh-cybersecurity-challenges)
-- [Supply Chain Attack Secretly Installs OpenClaw for Cline Users](https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users)
 
 ### Security Week
 
@@ -68,17 +68,6 @@
 - [Recent RoundCube Webmail Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/)
 - [Mississippi Hospital System Closes All Clinics After Ransomware Attack](https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/)
 - [PayPal Data Breach Led to Fraudulent Transactions](https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/)
-
-### Threatpost
-
-- [Student Loan Breach Exposes 2.5M Records](https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/)
-- [Watering Hole Attacks Push ScanBox Keylogger](https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/)
-- [Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms](https://threatpost.com/0ktapus-victimize-130-firms/180487/)
-- [Ransomware Attacks are on the Rise](https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/)
-- [Cybercriminals Are Selling Access to Chinese Surveillance Cameras](https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/)
-- [Twitter Whistleblower Complaint: The TL;DR Version](https://threatpost.com/twitter-whistleblower-tldr-version/180472/)
-- [Firewall Bug Under Active Attack Triggers CISA Warning](https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/)
-- [Fake Reservation Links Prey on Weary Travelers](https://threatpost.com/reservation-links-prey-on-travelers/180462/)
 
 ### CISA Alerts
 

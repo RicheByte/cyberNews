@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-24 18:55 UTC  
+> **Last Updated:** 2026-02-24 20:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **windows operating systems** • **github issues abused** • **equation ai agents** • **shinyhunters extortion gang** • **repository takeover attackers** • **multiple building systems** • **codenamed operation macromaze** • **twitter whistleblower complaint** • **mining payload reveals** • **even everyday apps** • **copy model anthropic** • **cisa likely exploited** • **called vanta diagnostics** • **anti abuse activists** • **50 security holes** • **130 companies tangled** • **provable ai systems** • **ai native tech**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **github issues abused** • **windows operating systems** • **equation ai agents** • **shinyhunters extortion gang** • **repository takeover attackers** • **multiple building systems** • **twitter whistleblower complaint** • **storage locations microsoft** • **mining payload reveals** • **inject malicious instructions** • **copy model anthropic** • **called vanta diagnostics** • **anti abuse activists** • **130 companies tangled** • **provable ai systems** • **ai native tech** • **ai armed amateur** • **kimwolf botnet lurking**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
 - [UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
 - [Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
 - [Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
@@ -23,7 +24,6 @@
 - [Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
 - [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
 - [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
-- [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
 
 ### BleepingComputer
 
@@ -83,13 +83,13 @@
 ### CISA Alerts
 
 - [InSAT MasterSCADA BUK-TS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-01)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/24/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Schneider Electric EcoStruxure Building Operation Workstation](https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-02)
 - [Gardyn Home Kit](https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-03)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Valmet DNA Engineering Web Tools](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-02)
 - [Jinan USR IOT Technology Limited (PUSR) USR-W610](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-03)
 - [EnOcean SmartServer IoT](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-01)
-- [Welker OdorEyes EcoSystem Pulse Bypass System with XL4 Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-04)
 
 ---
 

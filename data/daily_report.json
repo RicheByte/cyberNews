@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-02-24 18:55",
+  "last_updated": "2026-02-24 20:29",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "badbox 2 0",
     "scattered lapsus shinyhunters",
-    "windows operating systems",
     "github issues abused",
+    "windows operating systems",
     "equation ai agents",
     "shinyhunters extortion gang",
     "repository takeover attackers",
     "multiple building systems",
-    "codenamed operation macromaze",
     "twitter whistleblower complaint",
+    "storage locations microsoft",
     "mining payload reveals",
-    "even everyday apps",
+    "inject malicious instructions",
     "copy model anthropic",
-    "cisa likely exploited",
     "called vanta diagnostics",
     "anti abuse activists",
-    "50 security holes",
     "130 companies tangled",
     "provable ai systems",
-    "ai native tech"
+    "ai native tech",
+    "ai armed amateur",
+    "kimwolf botnet lurking"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 205
+      "mentions": 206
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 174
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 405
+      "mentions": 175
     },
     {
       "keyword": "github issues abused",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 406
     },
     {
       "keyword": "equation ai agents",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "shinyhunters extortion gang",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "repository takeover attackers",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "multiple building systems",
-      "mentions": 1
-    },
-    {
-      "keyword": "codenamed operation macromaze",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 798
+      "mentions": 799
+    },
+    {
+      "keyword": "storage locations microsoft",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
+      "link": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
+      "summary": "A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue. The artificial intelligence (AI)-driven vulnerability has been codenamed RoguePilot by Orca Security. It has since been patched by Microsoft following responsible disclosure. \"Attackers can craft hidden instructions inside a",
+      "published": "Wed, 25 Feb 2026 00:22:00 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
@@ -135,15 +147,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
-      "link": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
-      "summary": "Security news rarely moves in a straight line. This week, it feels more like a series of sharp turns, some happening quietly in the background, others playing out in public view. The details are different, but the pressure points are familiar. Across devices, cloud services, research labs, and even everyday apps, the line between normal behavior and hidden risk keeps getting thinner. Tools",
-      "published": "Mon, 23 Feb 2026 18:30:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -575,6 +578,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/02/24/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-25108 Soliton Systems K.K. FileZen OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living li",
+      "published": "Tue, 24 Feb 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Schneider Electric EcoStruxure Building Operation Workstation",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-02",
       "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in EcoStruxure Building Operation Workstation and EcoStruxure Building Operation WebStation. [EcoStruxure Building Operation (EBO)](https://www.se.com/ww/en/product-range/62111-ecostruxure-building-operation-software/#overview) is an open and scalable software platform providing insight, control and management of multiple building systems and devices in one mobile-enabled convenient view. It delivers valuable data for decision-maki",
@@ -652,20 +669,6 @@
         "CVE mentioned ×2",
         "High severity",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Welker OdorEyes EcoSystem Pulse Bypass System with XL4 Controller",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an over- or under-odorization event. The following versions of Welker OdorEyes EcoSystem Pulse Bypass System with XL4 Controller are affected: OdorEyes EcoSystem Pulse Bypass System with XL4 Controller vers:all/* (CVE-2026-24790) CVSS Vendor Equipment Vulnerabilities v3 8.2 Welker Welker OdorEyes EcoSystem Pulse Bypass System with XL4 Controller Missing Authentication for Critical Function Background Critical Infrast",
-      "published": "Thu, 19 Feb 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×2",
         "Exploit wording"
       ]
     }

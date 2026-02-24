@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-24 06:54 UTC  
+> **Last Updated:** 2026-02-24 08:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **fortigate firewalls hacked** • **identity isn t** • **windows operating systems** • **twitter whistleblower complaint** • **mississippi medical center** • **mining payload reveals** • **limited research preview** • **called vanta diagnostics** • **aiding north korean** • **50 security holes** • **kimwolf botnet lurking** • **hacktivist group believed** • **everest ransomware group** • **xl4 controller vers** • **victim's username password** • **various public institutions** • **unfortunately named toolkit** • **today we'll dig**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **fortigate firewalls hacked** • **identity isn t** • **windows operating systems** • **twitter whistleblower complaint** • **mississippi medical center** • **mining payload reveals** • **called vanta diagnostics** • **aiding north korean** • **50 security holes** • **kimwolf botnet lurking** • **hacktivist group believed** • **everest ransomware group** • **xl4 controller vers** • **victim's username password** • **various public institutions** • **unfortunately named toolkit** • **today we'll dig** • **secure online communications**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
 - [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
 - [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
 - [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
@@ -23,7 +24,6 @@
 - [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
 - [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
 - [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
-- [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
 
 ### BleepingComputer
 

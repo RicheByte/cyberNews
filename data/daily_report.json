@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24 06:54",
+  "last_updated": "2026-02-24 08:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,7 +11,6 @@
     "twitter whistleblower complaint",
     "mississippi medical center",
     "mining payload reveals",
-    "limited research preview",
     "called vanta diagnostics",
     "aiding north korean",
     "50 security holes",
@@ -22,51 +21,61 @@
     "victim's username password",
     "various public institutions",
     "unfortunately named toolkit",
-    "today we'll dig"
+    "today we'll dig",
+    "secure online communications"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 168
+      "mentions": 169
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 199
+      "mentions": 200
     },
     {
       "keyword": "fortigate firewalls hacked",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "identity isn t",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 399
+      "mentions": 400
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 792
+      "mentions": 793
     },
     {
       "keyword": "mississippi medical center",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "mining payload reveals",
-      "mentions": 6
-    },
-    {
-      "keyword": "limited research preview",
-      "mentions": 33
+      "mentions": 7
     },
     {
       "keyword": "called vanta diagnostics",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "aiding north korean",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
+      "link": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
+      "summary": "Anthropic on Monday said it identified \"industrial-scale campaigns\" mounted by three artificial intelligence (AI) companies, DeepSeek, Moonshot AI, and MiniMax, to illegally extract Claude's capabilities to improve their own models. The distillation attacks generated over 16 million exchanges with its large language model (LLM) through about 24,000 fraudulent accounts in violation of its terms",
+      "published": "Tue, 24 Feb 2026 11:34:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
@@ -135,15 +144,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
-      "link": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
-      "summary": "Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches. The capability, called Claude Code Security, is currently available in a limited research preview to Enterprise and Team customers. \"It scans codebases for security vulnerabilities and suggests targeted",
-      "published": "Sat, 21 Feb 2026 13:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

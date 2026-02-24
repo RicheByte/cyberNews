@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-24 06:54 UTC |
+| 🕐 Last Updated | 2026-02-24 08:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `fortigate firewalls hacked` • `identity isn t` • `windows operating systems` • `twitter whistleblower complaint` • `mississippi medical center` • `mining payload reveals` • `limited research preview` • `called vanta diagnostics`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `fortigate firewalls hacked` • `identity isn t` • `windows operating systems` • `twitter whistleblower complaint` • `mississippi medical center` • `mining payload reveals` • `called vanta diagnostics` • `aiding north korean`
 
 ## 📄 Reports
 

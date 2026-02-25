@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-25 18:58 UTC  
+> **Last Updated:** 2026-02-25 20:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **critical vulnerability affecting** • **scattered lapsus shinyhunters** • **russia peter williams** • **prolific elusive actor** • **multiple building systems** • **remote code execution** • **windows operating systems** • **make things simpler** • **50 security holes** • **twitter whistleblower complaint** • **system admin user** • **digital battlespace report** • **cve 2026 20127** • **mission critical priority** • **targeting international governments** • **steal sensitive data** • **dark web openclaw** • **kimwolf botnet lurking** • **cve 2022 20775**
+**badbox 2 0** • **critical vulnerability affecting** • **scattered lapsus shinyhunters** • **russia peter williams** • **prolific elusive actor** • **multiple building systems** • **remote code execution** • **windows operating systems** • **make things simpler** • **50 security holes** • **twitter whistleblower complaint** • **system admin user** • **digital battlespace report** • **cve 2026 20127** • **steal sensitive data** • **mission critical priority** • **targeting international governments** • **dark web openclaw** • **kimwolf botnet lurking** • **cve 2022 20775**
 
 ---
 
@@ -61,11 +61,11 @@
 ### Security Week
 
 - [The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI](https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/)
-- [Google Disrupts Chinese Cyberespionage Campaign Targeting Telecoms, Governments](https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/)
+- [Google Disrupts Chinese Hackers Targeting Telecoms, Governments](https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/)
 - [SolarWinds Patches Four Critical Serv-U Vulnerabilities](https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/)
 - [Medical Device Maker UFP Technologies Hit by Cyberattack](https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/)
 - [Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia](https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/)
-- [Over 12 Million Users Impacted by CarGurus Data Breach](https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/)
+- [CarGurus Data Breach Impacts Over 12 Million Users](https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/)
 - [SecurityWeek Report: 426 Cybersecurity M&A Deals Announced in 2025](https://www.securityweek.com/securityweek-report-426-cybersecurity-ma-deals-announced-in-2025/)
 - [Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site](https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/)
 

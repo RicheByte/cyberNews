@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-25 06:56 UTC  
+> **Last Updated:** 2026-02-25 08:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **github issues abused** • **shinyhunters extortion group** • **equation ai agents** • **windows operating systems** • **inject malicious instructions** • **cisa likely exploited** • **twitter whistleblower complaint** • **storage locations microsoft** • **everest ransomware group** • **copy model anthropic** • **called vanta diagnostics** • **anti abuse activists** • **130 companies tangled** • **delivers valuable data** • **ai native tech** • **ai armed amateur** • **multiple building systems** • **50 security holes**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **github issues abused** • **equation ai agents** • **shinyhunters extortion group** • **cisa likely exploited** • **remote code execution** • **inject malicious instructions** • **delivers valuable data** • **twitter whistleblower complaint** • **storage locations microsoft** • **sprawling phishing campaign** • **copy model anthropic** • **anti abuse activists** • **130 companies tangled** • **ai native tech** • **system admin user** • **cvss scoring system** • **multiple building systems** • **50 security holes**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
 - [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
 - [RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
 - [UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
@@ -23,18 +24,17 @@
 - [Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
 - [UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
 - [Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
-- [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
 
 ### BleepingComputer
 
+- [Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker](https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/)
+- [Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/)
 - [Phishing campaign targets freight and logistics orgs in the US, Europe](https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/)
 - [Wynn Resorts confirms employee data breach after extortion threat](https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/)
 - [1Campaign platform helps malicious Google ads evade detection](https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/)
 - [CarGurus data breach exposes information of 12.4 million accounts](https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/)
 - [Microsoft adds Copilot data controls to all storage locations](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/)
 - [Identity-First AI Security: Why CISOs Must Add Intent to the Equation](https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/)
-- [UK fines Reddit $19 million for using children’s data unlawfully](https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/)
-- [Critical SolarWinds Serv-U flaws offer root access to servers](https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Operation Red Card 2.0 Leads to 651 Arrests in Africa](https://www.darkreading.com/cybersecurity-operations/operation-red-card-2-0-leads-to-651-arrests-in-africa)
 - [Attackers Now Need Just 29 Minutes to Own a Network](https://www.darkreading.com/cyber-risk/attackers-now-need-just-29-minutes-to-own-a-network)
 - [Lazarus Group Picks a New Poison: Medusa Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-new-position-medusa-ransomware)
 - [As Cybersecurity Firms Chase AI, VC Market Skyrockets](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-firms-chase-ai-vc-market-skyrockets)
@@ -56,10 +57,10 @@
 - [More Than Dashboards: AI Decisions Must Be Provable](https://www.darkreading.com/cyber-risk/more-dashboards-ai-decisions-provable)
 - [Iran's MuddyWater Targets Orgs With Fresh Malware as Tensions Mount](https://www.darkreading.com/threat-intelligence/iran-muddywater-new-malware-tensions-mount)
 - [Enigma Cipher Device Still Holds Secrets for Cyber Pros](https://www.darkreading.com/threat-intelligence/enigma-cipher-device-secrets-cyber-pros)
-- [600+ FortiGate Devices Hacked by AI-Armed Amateur](https://www.darkreading.com/threat-intelligence/600-fortigate-devices-hacked-ai-amateur)
 
 ### Security Week
 
+- [Ad Tech Company Optimizely Targeted in Cyberattack](https://www.securityweek.com/ad-tech-company-optimizely-confirms-cyberattack/)
 - [‘Arkanix Stealer’ Malware Disappears Shortly After Debut](https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/)
 - [VMware Aria Operations Vulnerability Could Allow Remote Code Execution](https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/)
 - [CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO](https://www.securityweek.com/ciso-conversations-timothy-youngblood-4x-fortune-500-ciso-cso/)
@@ -67,7 +68,6 @@
 - [GitHub Issues Abused in Copilot Attack Leading to Repository Takeover](https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/)
 - [Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs](https://www.securityweek.com/taiwan-security-firm-confirms-flaw-flagged-by-cisa-likely-exploited-by-chinese-apt/)
 - [Anonymous Fénix Members Arrested in Spain](https://www.securityweek.com/anonymous-fenix-members-arrested-in-spain/)
-- [US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach](https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/)
 
 ### Threatpost
 

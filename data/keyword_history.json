@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 412,
+      "count": 413,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -216,7 +216,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 806,
+      "count": 807,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -538,7 +538,7 @@
       ]
     },
     "remote code execution": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3196,7 +3196,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4021,10 +4021,11 @@
       ]
     },
     "steal sensitive data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-21",
-        "2026-02-11"
+        "2026-02-11",
+        "2026-02-25"
       ]
     },
     "ai deployments built": {
@@ -4557,7 +4558,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 213,
+      "count": 214,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4994,7 +4995,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5341,7 +5342,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6310,7 +6311,7 @@
       ]
     },
     "50 security holes": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7777,7 +7778,7 @@
       ]
     },
     "multiple building systems": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-24",
         "2026-02-25"
@@ -7818,14 +7819,14 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-24",
         "2026-02-25"
       ]
     },
     "delivers valuable data": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-24",
         "2026-02-25"
@@ -7862,36 +7863,48 @@
       ]
     },
     "war torn nation": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-25"
       ]
     },
     "command command injection": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-25"
       ]
     },
     "published personal information": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-25"
       ]
     },
     "critical vulnerability affecting": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-25"
       ]
     },
     "execute roguepilot flaw": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-25"
       ]
     },
     "mission critical priority": {
+      "count": 2,
+      "dates": [
+        "2026-02-25"
+      ]
+    },
+    "russia peter williams": {
+      "count": 1,
+      "dates": [
+        "2026-02-25"
+      ]
+    },
+    "digital battlespace report": {
       "count": 1,
       "dates": [
         "2026-02-25"
@@ -7899,17 +7912,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-16 12:53",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "beyondtrust remote support",
-        "ctm360 lumma stealer",
-        "canada goose investigating"
-      ]
-    },
     {
       "timestamp": "2026-02-16 14:38",
       "articles": 56,
@@ -8997,6 +8999,17 @@
         "scattered lapsus shinyhunters",
         "command command injection",
         "published personal information"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25 14:44",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "badbox 2 0",
+        "russia peter williams",
+        "scattered lapsus shinyhunters",
+        "command command injection"
       ]
     }
   ]

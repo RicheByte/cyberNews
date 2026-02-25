@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-25 12:54 UTC  
+> **Last Updated:** 2026-02-25 14:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **badbox 2 0** • **scattered lapsus shinyhunters** • **command command injection** • **published personal information** • **critical vulnerability affecting** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **execute roguepilot flaw** • **multiple building systems** • **kimwolf botnet lurking** • **shinyhunters extortion group** • **mission critical priority** • **delivers valuable data** • **50 security holes** • **windows operating systems** • **war torn nation** • **vulnerabilities earned microsoft's** • **victim's username password** • **today we'll dig**
+**remote code execution** • **badbox 2 0** • **russia peter williams** • **scattered lapsus shinyhunters** • **command command injection** • **published personal information** • **critical vulnerability affecting** • **twitter whistleblower complaint** • **execute roguepilot flaw** • **digital battlespace report** • **steal sensitive data** • **multiple building systems** • **kimwolf botnet lurking** • **shinyhunters extortion group** • **mission critical priority** • **50 security holes** • **windows operating systems** • **delivers valuable data** • **war torn nation** • **vulnerabilities earned microsoft's**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware](https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html)
 - [Manual Processes Are Putting National Security at Risk](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
 - [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
 - [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
@@ -23,7 +24,6 @@
 - [RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
 - [UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
 - [Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
-- [Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Why 'Call This Number' TOAD Emails Beat Gateways](https://www.darkreading.com/threat-intelligence/why-call-this-number-toad-emails-beat-gateways)
 - ['Richter Scale' Model Measures Magnitude of OT Cyber Incidents](https://www.darkreading.com/ics-ot-security/richter-scale-model-measures-cyber-incidents)
 - [Operation Red Card 2.0 Leads to 651 Arrests in Africa](https://www.darkreading.com/cybersecurity-operations/operation-red-card-2-0-leads-to-651-arrests-in-africa)
 - [Attackers Now Need Just 29 Minutes to Own a Network](https://www.darkreading.com/cyber-risk/attackers-now-need-just-29-minutes-to-own-a-network)
@@ -56,18 +57,17 @@
 - [As Cybersecurity Firms Chase AI, VC Market Skyrockets](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-firms-chase-ai-vc-market-skyrockets)
 - [Spitting Cash: ATM Jackpotting Attacks Surged in 2025](https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025)
 - [More Than Dashboards: AI Decisions Must Be Provable](https://www.darkreading.com/cyber-risk/more-dashboards-ai-decisions-provable)
-- [Iran's MuddyWater Targets Orgs With Fresh Malware as Tensions Mount](https://www.darkreading.com/threat-intelligence/iran-muddywater-new-malware-tensions-mount)
 
 ### Security Week
 
+- [Medical Device Maker UFP Technologies Hit by Cyberattack](https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/)
+- [Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia](https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/)
 - [Over 12 Million Users Impacted by CarGurus Data Breach](https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/)
 - [SecurityWeek Report: 426 Cybersecurity M&A Deals Announced in 2025](https://www.securityweek.com/securityweek-report-426-cybersecurity-ma-deals-announced-in-2025/)
 - [Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site](https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/)
 - [Astelia Raises $35 Million for Exposure Management](https://www.securityweek.com/astelia-raises-35-million-for-exposure-management/)
 - [Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings](https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/)
 - [Claude’s New AI Vulnerability Scanner Sends Cybersecurity Shares Plunging](https://www.securityweek.com/claudes-new-ai-vulnerability-scanner-sends-cybersecurity-shares-plunging/)
-- [Ad Tech Company Optimizely Targeted in Cyberattack](https://www.securityweek.com/ad-tech-company-optimizely-confirms-cyberattack/)
-- [‘Arkanix Stealer’ Malware Disappears Shortly After Debut](https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/)
 
 ### Threatpost
 

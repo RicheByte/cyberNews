@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-25 12:54 UTC |
+| 🕐 Last Updated | 2026-02-25 14:44 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `badbox 2 0` • `scattered lapsus shinyhunters` • `command command injection` • `published personal information` • `critical vulnerability affecting` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `execute roguepilot flaw` • `multiple building systems`
+`remote code execution` • `badbox 2 0` • `russia peter williams` • `scattered lapsus shinyhunters` • `command command injection` • `published personal information` • `critical vulnerability affecting` • `twitter whistleblower complaint` • `execute roguepilot flaw` • `digital battlespace report`
 
 ## 📄 Reports
 

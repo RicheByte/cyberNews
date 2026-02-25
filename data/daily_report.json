@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-02-25 12:54",
+  "last_updated": "2026-02-25 14:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
     "badbox 2 0",
+    "russia peter williams",
     "scattered lapsus shinyhunters",
     "command command injection",
     "published personal information",
     "critical vulnerability affecting",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
     "execute roguepilot flaw",
+    "digital battlespace report",
+    "steal sensitive data",
     "multiple building systems",
     "kimwolf botnet lurking",
     "shinyhunters extortion group",
     "mission critical priority",
-    "delivers valuable data",
     "50 security holes",
     "windows operating systems",
+    "delivers valuable data",
     "war torn nation",
-    "vulnerabilities earned microsoft's",
-    "victim's username password",
-    "today we'll dig"
+    "vulnerabilities earned microsoft's"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 124
+      "mentions": 125
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 213
+      "mentions": 214
+    },
+    {
+      "keyword": "russia peter williams",
+      "mentions": 1
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 182
+      "mentions": 183
     },
     {
       "keyword": "command command injection",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "published personal information",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "critical vulnerability affecting",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 806
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 156
+      "mentions": 807
     },
     {
       "keyword": "execute roguepilot flaw",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "multiple building systems",
-      "mentions": 8
+      "keyword": "digital battlespace report",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
+      "link": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
+      "summary": "Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data. The campaign, discovered by Socket, exfiltrates ASP.NET Identity data, including user accounts, role assignments, and permission mappings, as well as manipulates authorization rules to create persistent backdoors in victim applications.",
+      "published": "Wed, 25 Feb 2026 18:13:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Manual Processes Are Putting National Security at Risk",
@@ -147,17 +156,6 @@
       "published": "Tue, 24 Feb 2026 17:28:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
-      "link": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
-      "summary": "The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed entity in the Middle East, according to a new report by the Symantec and Carbon Black Threat Hunter Team. Broadcom's threat intelligence division said it also identified the same threat actors mounting an unsuccessful attack against a healthcare",
-      "published": "Tue, 24 Feb 2026 17:22:00 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -341,6 +339,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Why 'Call This Number' TOAD Emails Beat Gateways",
+      "link": "https://www.darkreading.com/threat-intelligence/why-call-this-number-toad-emails-beat-gateways",
+      "summary": "Attackers are bypassing email gateways through telephone-oriented attack delivery (TOAD), in which the only email payload is a phone number.",
+      "published": "Wed, 25 Feb 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Richter Scale' Model Measures Magnitude of OT Cyber Incidents",
       "link": "https://www.darkreading.com/ics-ot-security/richter-scale-model-measures-cyber-incidents",
       "summary": "ICS/OT experts have devised a scoring system for rating the severity and effects of cybersecurity events in operational technology environments.",
@@ -406,13 +413,26 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Iran's MuddyWater Targets Orgs With Fresh Malware as Tensions Mount",
-      "link": "https://www.darkreading.com/threat-intelligence/iran-muddywater-new-malware-tensions-mount",
-      "summary": "The long-active Iranian threat group debuted various attack strains and payloads in attacks against organizations in the Middle East and Africa.",
-      "published": "Mon, 23 Feb 2026 20:35:12 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Medical Device Maker UFP Technologies Hit by Cyberattack",
+      "link": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
+      "summary": "UFP Technologies appears to have been targeted in a ransomware attack that involved data theft and file-encrypting malware. The post Medical Device Maker UFP Technologies Hit by Cyberattack appeared first on SecurityWeek .",
+      "published": "Wed, 25 Feb 2026 13:40:46 +0000",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia",
+      "link": "https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/",
+      "summary": "Peter Williams was sentenced to 87 months in prison for selling cyber exploits to a Russian broker. The post Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia appeared first on SecurityWeek .",
+      "published": "Wed, 25 Feb 2026 12:59:30 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -469,24 +489,6 @@
       "link": "https://www.securityweek.com/claudes-new-ai-vulnerability-scanner-sends-cybersecurity-shares-plunging/",
       "summary": "The stocks of major cybersecurity companies have fallen sharply over fears that AI is disrupting the industry. The post Claude’s New AI Vulnerability Scanner Sends Cybersecurity Shares Plunging appeared first on SecurityWeek .",
       "published": "Wed, 25 Feb 2026 09:44:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Ad Tech Company Optimizely Targeted in Cyberattack",
-      "link": "https://www.securityweek.com/ad-tech-company-optimizely-confirms-cyberattack/",
-      "summary": "The company says the attackers accessed internal business systems such as Zendesk and Salesforce. The post Ad Tech Company Optimizely Targeted in Cyberattack appeared first on SecurityWeek .",
-      "published": "Wed, 25 Feb 2026 08:23:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "‘Arkanix Stealer’ Malware Disappears Shortly After Debut",
-      "link": "https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/",
-      "summary": "Written in C++ and Python, the malware exfiltrates system information, browser data, and steals files. The post ‘Arkanix Stealer’ Malware Disappears Shortly After Debut appeared first on SecurityWeek .",
-      "published": "Tue, 24 Feb 2026 15:20:06 +0000",
       "value_score": 10,
       "value_signals": []
     },

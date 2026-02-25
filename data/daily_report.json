@@ -1,17 +1,15 @@
 {
-  "last_updated": "2026-02-24 22:28",
+  "last_updated": "2026-02-25 01:48",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "badbox 2 0",
     "scattered lapsus shinyhunters",
     "github issues abused",
-    "shinyhunters extortion gang",
+    "shinyhunters extortion group",
     "equation ai agents",
     "windows operating systems",
-    "repository takeover attackers",
     "inject malicious instructions",
-    "shinyhunters extortion group",
     "twitter whistleblower complaint",
     "storage locations microsoft",
     "mining payload reveals",
@@ -22,48 +20,50 @@
     "130 companies tangled",
     "delivers valuable data",
     "ai native tech",
-    "ai armed amateur"
+    "ai armed amateur",
+    "multiple building systems",
+    "kimwolf botnet lurking"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 207
+      "mentions": 208
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 176
+      "mentions": 177
     },
     {
       "keyword": "github issues abused",
-      "mentions": 6
-    },
-    {
-      "keyword": "shinyhunters extortion gang",
-      "mentions": 6
-    },
-    {
-      "keyword": "equation ai agents",
-      "mentions": 4
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 407
-    },
-    {
-      "keyword": "repository takeover attackers",
-      "mentions": 6
-    },
-    {
-      "keyword": "inject malicious instructions",
-      "mentions": 2
+      "mentions": 7
     },
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "equation ai agents",
+      "mentions": 5
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 408
+    },
+    {
+      "keyword": "inject malicious instructions",
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 800
+      "mentions": 801
+    },
+    {
+      "keyword": "storage locations microsoft",
+      "mentions": 3
+    },
+    {
+      "keyword": "mining payload reveals",
+      "mentions": 15
     }
   ],
   "articles": [
@@ -150,6 +150,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Phishing campaign targets freight and logistics orgs in the US, Europe",
+      "link": "https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/",
+      "summary": "A financially motivated threat group dubbed \"Diesel Vortex\" is stealing credentials from freight and logistics operators in the U.S. and Europe in phishing attacks using 52 domains. [...]",
+      "published": "Tue, 24 Feb 2026 18:57:58 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Wynn Resorts confirms employee data breach after extortion threat",
       "link": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
       "summary": "Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data leak site. [...]",
@@ -216,17 +227,6 @@
       "value_signals": [
         "RCE",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ShinyHunters extortion gang claims Odido breach affecting millions",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/",
-      "summary": "The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records from its compromised systems. [...]",
-      "published": "Tue, 24 Feb 2026 06:40:20 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -322,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Attackers Now Need Just 29 Minutes to Own a Network",
+      "link": "https://www.darkreading.com/cyber-risk/attackers-now-need-just-29-minutes-to-own-a-network",
+      "summary": "Credential misuse, AI tools, and security blind spots help attackers move through breached networks faster than ever, CrowdStrike finds.",
+      "published": "Tue, 24 Feb 2026 21:38:15 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Lazarus Group Picks a New Poison: Medusa Ransomware",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-new-position-medusa-ransomware",
       "summary": "The North Korean threat group also leveraged Comebacker backdoor, Blindingcan RAT, and info stealer Infohook in its recent attacks.",
@@ -386,17 +395,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Attackers Use New Tool to Scan for React2Shell Exposure",
-      "link": "https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure",
-      "summary": "Researchers say threat actors wielded the sophisticated — and unfortunately named — toolkit to target high-value networks for React2Shell exploitation.",
-      "published": "Fri, 20 Feb 2026 21:07:07 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

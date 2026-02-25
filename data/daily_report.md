@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-25 08:41 UTC  
+> **Last Updated:** 2026-02-25 10:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **github issues abused** • **equation ai agents** • **shinyhunters extortion group** • **cisa likely exploited** • **remote code execution** • **inject malicious instructions** • **delivers valuable data** • **twitter whistleblower complaint** • **storage locations microsoft** • **sprawling phishing campaign** • **copy model anthropic** • **anti abuse activists** • **130 companies tangled** • **ai native tech** • **system admin user** • **cvss scoring system** • **multiple building systems** • **50 security holes**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **shinyhunters extortion group** • **remote code execution** • **delivers valuable data** • **twitter whistleblower complaint** • **storage locations microsoft** • **sprawling phishing campaign** • **defense contractor l3harris** • **system admin user** • **cvss scoring system** • **130 companies tangled** • **multiple building systems** • **kimwolf botnet lurking** • **windows operating systems** • **modern cyber threats** • **50 security holes** • **threat actors mounting** • **enabling threat actors** • **war torn nation**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
 - [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
 - [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
 - [RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
@@ -23,10 +24,10 @@
 - [Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
 - [Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
 - [UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
-- [Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
 
 ### BleepingComputer
 
+- [US sanctions Russian broker for buying stolen zero-day exploits](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/)
 - [Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker](https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/)
 - [Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/)
 - [Phishing campaign targets freight and logistics orgs in the US, Europe](https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/)
@@ -34,7 +35,6 @@
 - [1Campaign platform helps malicious Google ads evade detection](https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/)
 - [CarGurus data breach exposes information of 12.4 million accounts](https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/)
 - [Microsoft adds Copilot data controls to all storage locations](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/)
-- [Identity-First AI Security: Why CISOs Must Add Intent to the Equation](https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Astelia Raises $35 Million for Exposure Management](https://www.securityweek.com/astelia-raises-35-million-for-exposure-management/)
+- [Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings](https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/)
+- [Claude’s New AI Vulnerability Scanner Sends Cybersecurity Shares Plunging](https://www.securityweek.com/claudes-new-ai-vulnerability-scanner-sends-cybersecurity-shares-plunging/)
 - [Ad Tech Company Optimizely Targeted in Cyberattack](https://www.securityweek.com/ad-tech-company-optimizely-confirms-cyberattack/)
 - [‘Arkanix Stealer’ Malware Disappears Shortly After Debut](https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/)
 - [VMware Aria Operations Vulnerability Could Allow Remote Code Execution](https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/)
 - [CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO](https://www.securityweek.com/ciso-conversations-timothy-youngblood-4x-fortune-500-ciso-cso/)
 - [New ‘Sandworm_Mode’ Supply Chain Attack Hits NPM](https://www.securityweek.com/new-sandworm_mode-supply-chain-attack-hits-npm/)
-- [GitHub Issues Abused in Copilot Attack Leading to Repository Takeover](https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/)
-- [Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs](https://www.securityweek.com/taiwan-security-firm-confirms-flaw-flagged-by-cisa-likely-exploited-by-chinese-apt/)
-- [Anonymous Fénix Members Arrested in Spain](https://www.securityweek.com/anonymous-fenix-members-arrested-in-spain/)
 
 ### Threatpost
 

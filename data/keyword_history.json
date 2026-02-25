@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 410,
+      "count": 411,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -216,7 +216,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 804,
+      "count": 805,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -538,7 +538,7 @@
       ]
     },
     "remote code execution": {
-      "count": 122,
+      "count": 123,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1477,7 +1477,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 154,
+      "count": 155,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1762,7 +1762,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2032,7 +2032,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -4555,7 +4555,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 211,
+      "count": 212,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4992,7 +4992,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5339,7 +5339,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 180,
+      "count": 181,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6308,7 +6308,7 @@
       ]
     },
     "50 security holes": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7774,7 +7774,7 @@
       ]
     },
     "multiple building systems": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-24",
         "2026-02-25"
@@ -7801,7 +7801,7 @@
       ]
     },
     "storage locations microsoft": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-24",
         "2026-02-25"
@@ -7815,20 +7815,50 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-24",
         "2026-02-25"
       ]
     },
     "delivers valuable data": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-24",
         "2026-02-25"
       ]
     },
     "system admin user": {
+      "count": 2,
+      "dates": [
+        "2026-02-25"
+      ]
+    },
+    "defense contractor l3harris": {
+      "count": 1,
+      "dates": [
+        "2026-02-25"
+      ]
+    },
+    "modern cyber threats": {
+      "count": 1,
+      "dates": [
+        "2026-02-25"
+      ]
+    },
+    "threat actors mounting": {
+      "count": 1,
+      "dates": [
+        "2026-02-25"
+      ]
+    },
+    "enabling threat actors": {
+      "count": 1,
+      "dates": [
+        "2026-02-25"
+      ]
+    },
+    "war torn nation": {
       "count": 1,
       "dates": [
         "2026-02-25"
@@ -7836,17 +7866,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-16 08:40",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "ctm360 lumma stealer",
-        "canada goose investigating",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-02-16 10:43",
       "articles": 56,
@@ -8934,6 +8953,17 @@
         "github issues abused",
         "equation ai agents",
         "shinyhunters extortion group"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25 10:44",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "scattered lapsus shinyhunters",
+        "shinyhunters extortion group",
+        "remote code execution",
+        "delivers valuable data"
       ]
     }
   ]

@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 416,
+      "count": 417,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -216,7 +216,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 810,
+      "count": 811,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -538,7 +538,7 @@
       ]
     },
     "remote code execution": {
-      "count": 128,
+      "count": 129,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -4021,7 +4021,7 @@
       ]
     },
     "steal sensitive data": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-21",
         "2026-02-11",
@@ -4558,7 +4558,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 217,
+      "count": 218,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4995,7 +4995,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5342,7 +5342,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 186,
+      "count": 187,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6311,7 +6311,7 @@
       ]
     },
     "50 security holes": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7449,12 +7449,13 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-20",
         "2026-02-21",
         "2026-02-22",
-        "2026-02-23"
+        "2026-02-23",
+        "2026-02-25"
       ]
     },
     "free vulnerability th": {
@@ -7778,7 +7779,7 @@
       ]
     },
     "multiple building systems": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-24",
         "2026-02-25"
@@ -7833,7 +7834,7 @@
       ]
     },
     "system admin user": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-25"
       ]
@@ -7881,7 +7882,7 @@
       ]
     },
     "critical vulnerability affecting": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-25"
       ]
@@ -7893,25 +7894,25 @@
       ]
     },
     "mission critical priority": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-25"
       ]
     },
     "russia peter williams": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-25"
       ]
     },
     "digital battlespace report": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-25"
       ]
     },
     "make things simpler": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-25"
       ]
@@ -7929,7 +7930,7 @@
       ]
     },
     "dark web openclaw": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-25"
       ]
@@ -7941,19 +7942,19 @@
       ]
     },
     "prolific elusive actor": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-25"
       ]
     },
     "cve 2026 20127": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-25"
       ]
     },
     "targeting international governments": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-25"
       ]
@@ -7966,17 +7967,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-16 20:24",
-      "articles": 56,
-      "top_keywords": [
-        "reduced staff cisa",
-        "canada goose investigating",
-        "arbitrary code execution",
-        "amazon scraps partnership",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-02-16 22:22",
       "articles": 56,
@@ -9064,6 +9054,17 @@
         "scattered lapsus shinyhunters",
         "russia peter williams",
         "prolific elusive actor"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25 22:27",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "critical vulnerability affecting",
+        "windows operating systems",
+        "scattered lapsus shinyhunters",
+        "russia peter williams"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-25 14:44 UTC  
+> **Last Updated:** 2026-02-25 17:03 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **badbox 2 0** • **russia peter williams** • **scattered lapsus shinyhunters** • **command command injection** • **published personal information** • **critical vulnerability affecting** • **twitter whistleblower complaint** • **execute roguepilot flaw** • **digital battlespace report** • **steal sensitive data** • **multiple building systems** • **kimwolf botnet lurking** • **shinyhunters extortion group** • **mission critical priority** • **50 security holes** • **windows operating systems** • **delivers valuable data** • **war torn nation** • **vulnerabilities earned microsoft's**
+**remote code execution** • **badbox 2 0** • **scattered lapsus shinyhunters** • **russia peter williams** • **command command injection** • **multiple building systems** • **make things simpler** • **critical vulnerability affecting** • **windows operating systems** • **unc2814 threat actor** • **twitter whistleblower complaint** • **execute roguepilot flaw** • **digital battlespace report** • **sprawling phishing campaign** • **50 security holes** • **attacks targeting telecom** • **steal sensitive data** • **dark web openclaw** • **kimwolf botnet lurking** • **weaponizing agentic ai**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html)
+- [Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
 - [Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware](https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html)
 - [Manual Processes Are Putting National Security at Risk](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
 - [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
 - [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
 - [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
 - [RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
-- [UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
-- [Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
 
 ### BleepingComputer
 
+- [Chinese cyberspies breached dozens of telecom firms, govt agencies](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/)
+- [Marquis sues SonicWall over backup breach that led to ransomware attack](https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/)
+- [The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web](https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/)
 - [Zyxel warns of critical RCE flaw affecting over a dozen routers](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/)
 - [US sanctions Russian broker for buying stolen zero-day exploits](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/)
 - [Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker](https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/)
 - [Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/)
 - [Phishing campaign targets freight and logistics orgs in the US, Europe](https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/)
-- [Wynn Resorts confirms employee data breach after extortion threat](https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/)
-- [1Campaign platform helps malicious Google ads evade detection](https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/)
-- [CarGurus data breach exposes information of 12.4 million accounts](https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [The Blast Radius Problem: Stolen Credentials are Weaponizing Agentic AI](https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/)
+- [Google Disrupts Chinese Cyberespionage Campaign Targeting Telecoms, Governments](https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/)
+- [SolarWinds Patches Four Critical Serv-U Vulnerabilities](https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/)
 - [Medical Device Maker UFP Technologies Hit by Cyberattack](https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/)
 - [Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia](https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/)
 - [Over 12 Million Users Impacted by CarGurus Data Breach](https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/)
 - [SecurityWeek Report: 426 Cybersecurity M&A Deals Announced in 2025](https://www.securityweek.com/securityweek-report-426-cybersecurity-ma-deals-announced-in-2025/)
 - [Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site](https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/)
-- [Astelia Raises $35 Million for Exposure Management](https://www.securityweek.com/astelia-raises-35-million-for-exposure-management/)
-- [Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings](https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/)
-- [Claude’s New AI Vulnerability Scanner Sends Cybersecurity Shares Plunging](https://www.securityweek.com/claudes-new-ai-vulnerability-scanner-sends-cybersecurity-shares-plunging/)
 
 ### Threatpost
 

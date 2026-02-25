@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-02-25 14:44",
+  "last_updated": "2026-02-25 17:03",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
     "badbox 2 0",
-    "russia peter williams",
     "scattered lapsus shinyhunters",
+    "russia peter williams",
     "command command injection",
-    "published personal information",
+    "multiple building systems",
+    "make things simpler",
     "critical vulnerability affecting",
+    "windows operating systems",
+    "unc2814 threat actor",
     "twitter whistleblower complaint",
     "execute roguepilot flaw",
     "digital battlespace report",
-    "steal sensitive data",
-    "multiple building systems",
-    "kimwolf botnet lurking",
-    "shinyhunters extortion group",
-    "mission critical priority",
+    "sprawling phishing campaign",
     "50 security holes",
-    "windows operating systems",
-    "delivers valuable data",
-    "war torn nation",
-    "vulnerabilities earned microsoft's"
+    "attacks targeting telecom",
+    "steal sensitive data",
+    "dark web openclaw",
+    "kimwolf botnet lurking",
+    "weaponizing agentic ai"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 125
+      "mentions": 126
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 214
-    },
-    {
-      "keyword": "russia peter williams",
-      "mentions": 1
+      "mentions": 215
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 183
+      "mentions": 184
+    },
+    {
+      "keyword": "russia peter williams",
+      "mentions": 2
     },
     {
       "keyword": "command command injection",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "published personal information",
-      "mentions": 2
+      "keyword": "multiple building systems",
+      "mentions": 10
+    },
+    {
+      "keyword": "make things simpler",
+      "mentions": 1
     },
     {
       "keyword": "critical vulnerability affecting",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 807
+      "keyword": "windows operating systems",
+      "mentions": 414
     },
     {
-      "keyword": "execute roguepilot flaw",
-      "mentions": 2
-    },
-    {
-      "keyword": "digital battlespace report",
+      "keyword": "unc2814 threat actor",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
+      "link": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
+      "summary": "The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks. The idea is to hire them for voice phishing campaigns targeting IT help desks, Dataminr said in a new threat brief. The group is said to be offering anywhere between $500 and $1,000 upfront per call, in addition to",
+      "published": "Wed, 25 Feb 2026 20:36:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It",
+      "link": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html",
+      "summary": "Triage is supposed to make things simpler. In a lot of teams, it does the opposite. When you can’t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and “just escalate it” calls. That cost doesn’t stay inside the SOC; it shows up as missed SLAs, higher cost per case, and more room for real threats to slip through. So where does triage go wrong? Here are five triage",
+      "published": "Wed, 25 Feb 2026 20:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
@@ -140,22 +160,36 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
-      "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
-      "summary": "A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat actor's targeting beyond Ukraine and into entities supporting the war-torn nation. The activity, which targeted an unnamed entity involved in regional",
-      "published": "Tue, 24 Feb 2026 19:51:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/",
+      "summary": "Google's Threat Intelligence Group (GTIG), Mandiant, and partners disrupted a global espionage campaign attributed to a suspected Chinese threat actor that used SaaS API calls to hide malicious traffic in attacks targeting telecom and government networks. [...]",
+      "published": "Wed, 25 Feb 2026 12:00:15 -0500",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
-      "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
-      "summary": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded. In modern enterprises, identity risk is created by a compound of factors: control posture, hygiene, business context, and intent. Any one of these can perhaps be",
-      "published": "Tue, 24 Feb 2026 17:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
+      "summary": "Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting operations at 74 U.S. banks. [...]",
+      "published": "Wed, 25 Feb 2026 10:54:44 -0500",
+      "value_score": 58,
+      "value_signals": [
+        "Ransomware ×2",
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
+      "link": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
+      "summary": "OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation. Flare explains how its telemetry found real supply-chain risk in the skills marketplace, yet limited signs of large-scale criminal operationalization. [...]",
+      "published": "Wed, 25 Feb 2026 10:01:11 -0500",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -213,37 +247,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Wynn Resorts confirms employee data breach after extortion threat",
-      "link": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
-      "summary": "Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data leak site. [...]",
-      "published": "Tue, 24 Feb 2026 16:51:20 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "1Campaign platform helps malicious Google ads evade detection",
-      "link": "https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/",
-      "summary": "A newly identified cybercrime service known as 1Campaign is enabling threat actors to run malicious Google Ads that remain online for extended periods while evading scrutiny from security researchers. [...]",
-      "published": "Tue, 24 Feb 2026 16:45:05 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CarGurus data breach exposes information of 12.4 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/",
-      "summary": "The ShinyHunters extortion group has published personal information in more than 12 million records allegedly stolen from CarGurus, a U.S.-based digital auto platform. [...]",
-      "published": "Tue, 24 Feb 2026 13:08:20 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -359,7 +362,7 @@
       "source": "Dark Reading",
       "title": "Operation Red Card 2.0 Leads to 651 Arrests in Africa",
       "link": "https://www.darkreading.com/cybersecurity-operations/operation-red-card-2-0-leads-to-651-arrests-in-africa",
-      "summary": "In the latest operation targeting cybercrime groups, African law enforcement agencies cooperated with Interpol and cybersecurity firms to recover more than USD 4.3 million.",
+      "summary": "In the latest operation targeting cybercrime groups, African law enforcement agencies cooperated with Interpol and cybersecurity firms to recover more than $4.3 million.",
       "published": "Wed, 25 Feb 2026 08:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -414,6 +417,39 @@
     },
     {
       "source": "Security Week",
+      "title": "The Blast Radius Problem: Stolen Credentials are Weaponizing Agentic AI",
+      "link": "https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/",
+      "summary": "More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation. The post The Blast Radius Problem: Stolen Credentials are Weaponizing Agentic AI appeared first on SecurityWeek .",
+      "published": "Wed, 25 Feb 2026 16:16:40 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Google Disrupts Chinese Cyberespionage Campaign Targeting Telecoms, Governments",
+      "link": "https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/",
+      "summary": "The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. The post Google Disrupts Chinese Cyberespionage Campaign Targeting Telecoms, Governments appeared first on SecurityWeek .",
+      "published": "Wed, 25 Feb 2026 16:01:45 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "SolarWinds Patches Four Critical Serv-U Vulnerabilities",
+      "link": "https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/",
+      "summary": "The four security defects could be exploited for remote code execution but require administrative privileges. The post SolarWinds Patches Four Critical Serv-U Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 25 Feb 2026 15:30:00 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Medical Device Maker UFP Technologies Hit by Cyberattack",
       "link": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
       "summary": "UFP Technologies appears to have been targeted in a ransomware attack that involved data theft and file-encrypting malware. The post Medical Device Maker UFP Technologies Hit by Cyberattack appeared first on SecurityWeek .",
@@ -464,33 +500,6 @@
       "value_signals": [
         "Breach/leak ×4"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Astelia Raises $35 Million for Exposure Management",
-      "link": "https://www.securityweek.com/astelia-raises-35-million-for-exposure-management/",
-      "summary": "The company will expand its AI-based analysis capabilities, grow its employee base, and scale deployments. The post Astelia Raises $35 Million for Exposure Management appeared first on SecurityWeek .",
-      "published": "Wed, 25 Feb 2026 10:38:33 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings",
-      "link": "https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/",
-      "summary": "Britain’s data privacy watchdog slapped online forum Reddit on Tuesday with a fine worth nearly $20 million for failures involving children’s personal information. The post Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings appeared first on SecurityWeek .",
-      "published": "Wed, 25 Feb 2026 10:04:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Claude’s New AI Vulnerability Scanner Sends Cybersecurity Shares Plunging",
-      "link": "https://www.securityweek.com/claudes-new-ai-vulnerability-scanner-sends-cybersecurity-shares-plunging/",
-      "summary": "The stocks of major cybersecurity companies have fallen sharply over fears that AI is disrupting the industry. The post Claude’s New AI Vulnerability Scanner Sends Cybersecurity Shares Plunging appeared first on SecurityWeek .",
-      "published": "Wed, 25 Feb 2026 09:44:02 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

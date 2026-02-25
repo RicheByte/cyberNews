@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-25 04:16 UTC  
+> **Last Updated:** 2026-02-25 06:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **github issues abused** • **shinyhunters extortion group** • **equation ai agents** • **windows operating systems** • **inject malicious instructions** • **twitter whistleblower complaint** • **storage locations microsoft** • **mining payload reveals** • **everest ransomware group** • **copy model anthropic** • **called vanta diagnostics** • **anti abuse activists** • **130 companies tangled** • **delivers valuable data** • **ai native tech** • **ai armed amateur** • **multiple building systems** • **kimwolf botnet lurking**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **github issues abused** • **shinyhunters extortion group** • **equation ai agents** • **windows operating systems** • **inject malicious instructions** • **cisa likely exploited** • **twitter whistleblower complaint** • **storage locations microsoft** • **everest ransomware group** • **copy model anthropic** • **called vanta diagnostics** • **anti abuse activists** • **130 companies tangled** • **delivers valuable data** • **ai native tech** • **ai armed amateur** • **multiple building systems** • **50 security holes**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
 - [RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
 - [UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
 - [Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
@@ -23,7 +24,6 @@
 - [UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
 - [Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
 - [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
-- [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
 
 ### BleepingComputer
 

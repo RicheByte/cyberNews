@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-25 17:03 UTC |
+| 🕐 Last Updated | 2026-02-25 18:58 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `badbox 2 0` • `scattered lapsus shinyhunters` • `russia peter williams` • `command command injection` • `multiple building systems` • `make things simpler` • `critical vulnerability affecting` • `windows operating systems` • `unc2814 threat actor`
+`badbox 2 0` • `critical vulnerability affecting` • `scattered lapsus shinyhunters` • `russia peter williams` • `prolific elusive actor` • `multiple building systems` • `remote code execution` • `windows operating systems` • `make things simpler` • `50 security holes`
 
 ## 📄 Reports
 

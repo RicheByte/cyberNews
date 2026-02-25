@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-25 10:44 UTC |
+| 🕐 Last Updated | 2026-02-25 12:54 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`badbox 2 0` • `scattered lapsus shinyhunters` • `shinyhunters extortion group` • `remote code execution` • `delivers valuable data` • `twitter whistleblower complaint` • `storage locations microsoft` • `sprawling phishing campaign` • `defense contractor l3harris` • `system admin user`
+`remote code execution` • `badbox 2 0` • `scattered lapsus shinyhunters` • `command command injection` • `published personal information` • `critical vulnerability affecting` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `execute roguepilot flaw` • `multiple building systems`
 
 ## 📄 Reports
 

@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 411,
+      "count": 412,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -216,7 +216,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 805,
+      "count": 806,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -538,7 +538,7 @@
       ]
     },
     "remote code execution": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1477,7 +1477,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2494,7 +2494,7 @@
       ]
     },
     "today we'll dig": {
-      "count": 210,
+      "count": 211,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2528,7 +2528,8 @@
         "2026-02-21",
         "2026-02-22",
         "2026-02-23",
-        "2026-02-24"
+        "2026-02-24",
+        "2026-02-25"
       ]
     },
     "internal network behind": {
@@ -3195,7 +3196,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3218,7 +3219,8 @@
         "2026-02-12",
         "2026-02-13",
         "2026-02-20",
-        "2026-02-21"
+        "2026-02-21",
+        "2026-02-25"
       ]
     },
     "final patch tuesday": {
@@ -4555,7 +4557,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 212,
+      "count": 213,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4992,7 +4994,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5339,7 +5341,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6308,7 +6310,7 @@
       ]
     },
     "50 security holes": {
-      "count": 122,
+      "count": 123,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7577,10 +7579,11 @@
       ]
     },
     "victim's username password": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-23",
-        "2026-02-24"
+        "2026-02-24",
+        "2026-02-25"
       ]
     },
     "aiding north korean": {
@@ -7774,7 +7777,7 @@
       ]
     },
     "multiple building systems": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-24",
         "2026-02-25"
@@ -7815,14 +7818,14 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-24",
         "2026-02-25"
       ]
     },
     "delivers valuable data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-24",
         "2026-02-25"
@@ -7859,6 +7862,36 @@
       ]
     },
     "war torn nation": {
+      "count": 2,
+      "dates": [
+        "2026-02-25"
+      ]
+    },
+    "command command injection": {
+      "count": 1,
+      "dates": [
+        "2026-02-25"
+      ]
+    },
+    "published personal information": {
+      "count": 1,
+      "dates": [
+        "2026-02-25"
+      ]
+    },
+    "critical vulnerability affecting": {
+      "count": 1,
+      "dates": [
+        "2026-02-25"
+      ]
+    },
+    "execute roguepilot flaw": {
+      "count": 1,
+      "dates": [
+        "2026-02-25"
+      ]
+    },
+    "mission critical priority": {
       "count": 1,
       "dates": [
         "2026-02-25"
@@ -7866,17 +7899,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-16 10:43",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "ctm360 lumma stealer",
-        "canada goose investigating",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-02-16 12:53",
       "articles": 56,
@@ -8964,6 +8986,17 @@
         "shinyhunters extortion group",
         "remote code execution",
         "delivers valuable data"
+      ]
+    },
+    {
+      "timestamp": "2026-02-25 12:54",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "badbox 2 0",
+        "scattered lapsus shinyhunters",
+        "command command injection",
+        "published personal information"
       ]
     }
   ]

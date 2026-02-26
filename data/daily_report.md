@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-26 08:40 UTC  
+> **Last Updated:** 2026-02-26 10:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **russia peter williams** • **prolific elusive actor** • **digital battlespace report** • **critical vulnerability affecting** • **remote code execution** • **windows operating systems** • **make things simpler** • **50 security holes** • **cve 2026 20127** • **twitter whistleblower complaint** • **legitimate site forwarding** • **mission critical priority** • **multiple building systems** • **targeting international governments** • **dark web openclaw** • **cyberattack american manufacturer** • **cve 2022 20775** • **attacks targeting telecom**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **russia peter williams** • **prolific elusive actor** • **digital battlespace report** • **critical vulnerability affecting** • **remote code execution** • **50 security holes** • **make things simpler** • **cve 2026 20127** • **twitter whistleblower complaint** • **legitimate site forwarding** • **gain administrative privileges** • **multiple building systems** • **targeting international governments** • **mission critical priority** • **dark web openclaw** • **cyberattack american manufacturer** • **cve 2022 20775** • **attacks targeting telecom**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [US Sanctions Russian Exploit Broker Operation Zero](https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/)
+- [Trend Micro Patches Critical Apex One Vulnerabilities](https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/)
+- [Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers](https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/)
 - [The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI](https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/)
 - [Google Disrupts Chinese Hackers Targeting Telecoms, Governments](https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/)
 - [SolarWinds Patches Four Critical Serv-U Vulnerabilities](https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/)
 - [Medical Device Maker UFP Technologies Hit by Cyberattack](https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/)
 - [Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia](https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/)
-- [CarGurus Data Breach Impacts Over 12 Million Users](https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/)
-- [SecurityWeek Report: 426 Cybersecurity M&A Deals Announced in 2025](https://www.securityweek.com/securityweek-report-426-cybersecurity-ma-deals-announced-in-2025/)
-- [Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site](https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/)
 
 ### Threatpost
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-26 16:53 UTC  
+> **Last Updated:** 2026-02-26 18:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **gambit security emerges** • **silent hacking anthropic** • **50 security holes** • **prolific elusive actor** • **cve 2026 20127** • **twitter whistleblower complaint** • **targeting international governments** • **routine developer workflows** • **publisher valve corporation** • **gardyn cloud environment** • **decade digital evolution** • **windows operating systems** • **multiple building systems** • **multiple device models** • **malicious cyber actors** • **cve 2022 20775** • **kimwolf botnet lurking** • **microsoft store apps**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **gambit security emerges** • **silent hacking anthropic** • **multiple device models** • **prolific elusive actor** • **50 security holes** • **twitter whistleblower complaint** • **targeting international governments** • **routine developer workflows** • **publisher valve corporation** • **operational technology environments** • **least december 2025** • **investment will enable** • **gain unauthorized access** • **decade digital evolution**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Trend Micro warns of critical Apex One code execution flaws](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/)
+- [European DYI chain ManoMano data breach impacts 38 million customers](https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/)
 - [Critical Juniper Networks PTX flaw allows full router takeover](https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/)
 - [Olympique Marseille confirms 'attempted' cyberattack after data leak](https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/)
 - [Ransomware payment rate drops to record low as attacks surge](https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/)
 - [Microsoft expands Windows restore to more enterprise devices](https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/)
 - [New York sues Valve for promoting illegal gambling via game loot boxes](https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/)
 - [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
-- [Fake Next.js job interview tests backdoor developer's devices](https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/)
-- [Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023](https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Apple iPhone and iPad Cleared for Classified NATO Use](https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/)
+- [Four Risks Boards Cannot Treat as Background Noise](https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/)
 - [Claude Code Flaws Exposed Developer Devices to Silent Hacking](https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/)
 - [Gambit Security Emerges From Stealth With $61 Million in Funding](https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/)
 - [Zyxel Patches Critical Vulnerability in Many Device Models](https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/)
 - [US Sanctions Russian Exploit Broker Operation Zero](https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/)
 - [Trend Micro Patches Critical Apex One Vulnerabilities](https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/)
 - [Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers](https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/)
-- [The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI](https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/)
-- [Google Disrupts Chinese Hackers Targeting Telecoms, Governments](https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [CISA and Partners Release Guidance for Ongoing Global Exploitation of Cisco SD-WAN Systems](https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-and-partners-release-guidance-ongoing-global-exploitation-cisco-sd-wan-systems)
-- [InSAT MasterSCADA BUK-TS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-01)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/24/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Gardyn Home Kit](https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-03)
-- [Schneider Electric EcoStruxure Building Operation Workstation](https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-02)
-- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [Valmet DNA Engineering Web Tools](https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-02)
+- [Chargemap chargemap.com](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-05)
+- [Yokogawa CENTUM VP R6, R7](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-09)
+- [Pelco, Inc. Sarix Pro 3 Series IP Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-02)
+- [Copeland XWEB and XWEB Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-10)
+- [EV Energy ev.energy](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-07)
+- [Mobility46 mobility46.se](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-08)
+- [CloudCharge cloudcharge.se](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-03)
+- [EV2GO ev2go.io](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-04)
 
 ---
 

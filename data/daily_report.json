@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-02-26 16:53",
+  "last_updated": "2026-02-26 18:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
+    "mobility46 mobility46 se",
+    "ev2go ev2go io",
+    "cloudcharge cloudcharge se",
+    "chargemap chargemap com",
     "gambit security emerges",
     "silent hacking anthropic",
-    "50 security holes",
+    "multiple device models",
     "prolific elusive actor",
-    "cve 2026 20127",
+    "50 security holes",
     "twitter whistleblower complaint",
     "targeting international governments",
     "routine developer workflows",
     "publisher valve corporation",
-    "gardyn cloud environment",
-    "decade digital evolution",
-    "windows operating systems",
-    "multiple building systems",
-    "multiple device models",
-    "malicious cyber actors",
-    "cve 2022 20775",
-    "kimwolf botnet lurking",
-    "microsoft store apps"
+    "operational technology environments",
+    "least december 2025",
+    "investment will enable",
+    "gain unauthorized access",
+    "decade digital evolution"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 195
+      "mentions": 196
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 226
+      "mentions": 227
+    },
+    {
+      "keyword": "mobility46 mobility46 se",
+      "mentions": 1
+    },
+    {
+      "keyword": "ev2go ev2go io",
+      "mentions": 1
+    },
+    {
+      "keyword": "cloudcharge cloudcharge se",
+      "mentions": 1
+    },
+    {
+      "keyword": "chargemap chargemap com",
+      "mentions": 1
     },
     {
       "keyword": "gambit security emerges",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "silent hacking anthropic",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "50 security holes",
-      "mentions": 136
+      "keyword": "multiple device models",
+      "mentions": 3
     },
     {
       "keyword": "prolific elusive actor",
-      "mentions": 11
-    },
-    {
-      "keyword": "cve 2026 20127",
-      "mentions": 11
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 819
-    },
-    {
-      "keyword": "targeting international governments",
-      "mentions": 11
-    },
-    {
-      "keyword": "routine developer workflows",
-      "mentions": 3
+      "mentions": 12
     }
   ],
   "articles": [
@@ -156,6 +156,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Trend Micro warns of critical Apex One code execution flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
+      "summary": "Trend Micro has patched two critical Apex One vulnerabilities that allow attackers to gain remote code execution (RCE) on vulnerable Windows systems. [...]",
+      "published": "Thu, 26 Feb 2026 12:58:28 -0500",
+      "value_score": 66,
+      "value_signals": [
+        "RCE ×2",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "European DYI chain ManoMano data breach impacts 38 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/",
+      "summary": "DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provider. [...]",
+      "published": "Thu, 26 Feb 2026 12:35:21 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critical Juniper Networks PTX flaw allows full router takeover",
       "link": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/",
       "summary": "A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges. [...]",
@@ -213,33 +236,6 @@
       "published": "Wed, 25 Feb 2026 18:02:16 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake Next.js job interview tests backdoor developer's devices",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/",
-      "summary": "The Microsoft Defender team has discovered a coordinated campaign targeting software developers through malicious repositories posing as legitimate Next.js projects and technical assessment materials, including recruiting coding tests. [...]",
-      "published": "Wed, 25 Feb 2026 16:47:12 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/",
-      "summary": "Cisco is warning that a critical authentication bypass vulnerability in Cisco Catalyst SD-WAN, tracked as CVE-2026-20127, was actively exploited in zero-day attacks that allowed remote attackers to compromise controllers and add malicious rogue peers to targeted networks. [...]",
-      "published": "Wed, 25 Feb 2026 13:01:51 -0500",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation",
-        "Auth bypass",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -408,6 +404,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Apple iPhone and iPad Cleared for Classified NATO Use",
+      "link": "https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/",
+      "summary": "The devices have been added to the NATO Information Assurance Product Catalogue (NIAPC). The post Apple iPhone and iPad Cleared for Classified NATO Use appeared first on SecurityWeek .",
+      "published": "Thu, 26 Feb 2026 18:04:45 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Four Risks Boards Cannot Treat as Background Noise",
+      "link": "https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/",
+      "summary": "The goal isn’t about preventing every attack but about keeping the business running when attacks succeed. The post Four Risks Boards Cannot Treat as Background Noise appeared first on SecurityWeek .",
+      "published": "Thu, 26 Feb 2026 17:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Claude Code Flaws Exposed Developer Devices to Silent Hacking",
       "link": "https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/",
       "summary": "Anthropic has patched vulnerabilities whose impact was demonstrated by Check Point via malicious configuration files. The post Claude Code Flaws Exposed Developer Devices to Silent Hacking appeared first on SecurityWeek .",
@@ -473,26 +487,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI",
-      "link": "https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/",
-      "summary": "More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation. The post The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI appeared first on SecurityWeek .",
-      "published": "Wed, 25 Feb 2026 16:16:40 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Disrupts Chinese Hackers Targeting Telecoms, Governments",
-      "link": "https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/",
-      "summary": "The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. The post Google Disrupts Chinese Hackers Targeting Telecoms, Governments appeared first on SecurityWeek .",
-      "published": "Wed, 25 Feb 2026 16:01:45 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",
@@ -579,46 +573,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2022-20775 Cisco Catalyst SD-WAN Path Traversal Vulnerability CVE-2026-20127 Cisco Catalyst SD-WAN Controller and Manager Authentication Bypass Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Signif",
-      "published": "Wed, 25 Feb 26 12:00:00 +0000",
-      "value_score": 100,
+      "title": "Chargemap chargemap.com",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-05",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Chargemap chargemap.com are affected: chargemap.com vers:all/* (CVE-2026-25851, CVE-2026-20792, CVE-2026-25711, CVE-2026-20791) CVSS Vendor Equipment Vulnerabilities v3 9.4 Chargemap Chargemap chargemap.com Missing Authentication for Critical",
+      "published": "Thu, 26 Feb 26 12:00:00 +0000",
+      "value_score": 97,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Auth bypass",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA and Partners Release Guidance for Ongoing Global Exploitation of Cisco SD-WAN Systems",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-and-partners-release-guidance-ongoing-global-exploitation-cisco-sd-wan-systems",
-      "summary": "The purpose of this Alert is to provide resources for organizations with Cisco Software-Defined Wide-Area Networking (SD-WAN) systems, including Federal Civilian Executive Branch (FCEB) agencies, to address ongoing exploitation of multiple vulnerabilities. Notably, the Cybersecurity and Infrastructure Security Agency (CISA) has added CVE-2026-20127 and CVE-2022-20775 to its Known Exploited Vulnerabilities (KEV) Catalog on Feb. 25, 2026. As a result of the malicious cyber activity and vulnerabili",
-      "published": "Wed, 25 Feb 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "CISA/KEV ×4",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "InSAT MasterSCADA BUK-TS",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities may allow remote code execution. The following versions of InSAT MasterSCADA BUK-TS are affected: MasterSCADA BUK-TS vers:all/* (CVE-2026-21410, CVE-2026-22553) CVSS Vendor Equipment Vulnerabilities v3 9.8 InSAT InSAT MasterSCADA BUK-TS Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'), Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') Background Critical",
-      "published": "Tue, 24 Feb 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "RCE",
+        "CVE mentioned ×4",
         "High severity",
         "Multiple CVEs",
         "Exploit wording"
@@ -626,24 +588,67 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/24/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-25108 Soliton Systems K.K. FileZen OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living li",
-      "published": "Tue, 24 Feb 26 12:00:00 +0000",
-      "value_score": 99,
+      "title": "Yokogawa CENTUM VP R6, R7",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-09",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to terminate the software stack process, cause a denial-of-service condition, or execute arbitrary code. The following versions of Yokogawa CENTUM VP R6, R7 are affected: Vnet/IP Interface Package for CENTUM VP R6 (VP6C3300) <=R1.07.00 (CVE-2025-1924, CVE-2025-48019, CVE-2025-48020, CVE-2025-48021, CVE-2025-48022, CVE-2025-48023) Vnet/IP Interface Package for CENTUM VP R7 (VP7C3300) <=R1.07.00 (CVE-2025-19",
+      "published": "Thu, 26 Feb 26 12:00:00 +0000",
+      "value_score": 89,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
+        "CVE mentioned ×6",
+        "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Gardyn Home Kit",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow unauthenticated users to access and control edge devices, access cloud-based devices and user information without authentication, and pivot to other edge devices managed in the Gardyn cloud environment. The following versions of Gardyn Home Kit are affected: Home Kit Firmware Gardyn Home Kit Mobile Application <2.11.0 (CVE-2025-29628, CVE-2025-29629, CVE-2025-29631, CVE-2025-1242) Gardyn Home Kit Cloud API <2.12.2026 ",
-      "published": "Tue, 24 Feb 26 12:00:00 +0000",
+      "title": "Pelco, Inc. Sarix Pro 3 Series IP Cameras",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to gain unauthorized access to sensitive device data, bypass surveillance controls, and expose facilities to privacy breaches, operational risks, and regulatory compliance issues. The following versions of Pelco, Inc. Sarix Pro 3 Series IP Cameras are affected: Sarix Professional IMP 3 Series <=02.52 (CVE-2026-1241) Sarix Professional IXP 3 Series <=02.52 (CVE-2026-1241) Sarix Professional IBP 3 Series <=02.52 ",
+      "published": "Thu, 26 Feb 26 12:00:00 +0000",
+      "value_score": 85,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Copeland XWEB and XWEB Pro",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-10",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to bypass authentication, cause a denial-of-service condition, cause memory corruption, and execute arbitrary code. The following versions of Copeland XWEB and XWEB Pro are affected: XWEB 300D PRO <=1.12.1 (CVE-2026-25085, CVE-2026-21718, CVE-2026-24663, CVE-2026-21389, CVE-2026-25111, CVE-2026-20742, CVE-2026-24517, CVE-2026-25195, CVE-2026-20910, CVE-2026-24689, CVE-2026-25109, CVE-2026-20902, CVE-2026-2",
+      "published": "Thu, 26 Feb 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×12",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "EV Energy ev.energy",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-07",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of EV Energy ev.energy are affected: ev.energy vers:all/* (CVE-2026-27772, CVE-2026-24445, CVE-2026-26290, CVE-2026-25774) CVSS Vendor Equipment Vulnerabilities v3 9.4 EV Energy EV Energy ev.energy Missing Authentication for Critical Function, I",
+      "published": "Thu, 26 Feb 26 12:00:00 +0000",
+      "value_score": 97,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Mobility46 mobility46.se",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-08",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Mobility46 mobility46.se are affected: mobility46.se vers:all/* (CVE-2026-27028, CVE-2026-26305, CVE-2026-27647, CVE-2026-22878) CVSS Vendor Equipment Vulnerabilities v3 9.4 Mobility46 Mobility46 mobility46.se Missing Authentication for Criti",
+      "published": "Thu, 26 Feb 26 12:00:00 +0000",
       "value_score": 89,
       "value_signals": [
         "Source boost: CISA Alerts",
@@ -654,40 +659,29 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Schneider Electric EcoStruxure Building Operation Workstation",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-055-02",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in EcoStruxure Building Operation Workstation and EcoStruxure Building Operation WebStation. [EcoStruxure Building Operation (EBO)](https://www.se.com/ww/en/product-range/62111-ecostruxure-building-operation-software/#overview) is an open and scalable software platform providing insight, control and management of multiple building systems and devices in one mobile-enabled convenient view. It delivers valuable data for decision-maki",
-      "published": "Tue, 24 Feb 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-49113 RoundCube Webmail Deserialization of Untrusted Data Vulnerability CVE-2025-68461 RoundCube Webmail Cross-site Scripting Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of",
-      "published": "Fri, 20 Feb 26 12:00:00 +0000",
-      "value_score": 100,
+      "title": "CloudCharge cloudcharge.se",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to impersonate charging stations, hijack sessions, suppress or misroute legitimate traffic to cause large-scale denial of service, and manipulate data sent to the backend. The following versions of CloudCharge cloudcharge.se are affected: cloudcharge.se vers:all/* (CVE-2026-20781, CVE-2026-25114, CVE-2026-27652, CVE-2026-20733) CVSS Vendor Equipment Vulnerabilities v3 9.4 CloudCharge CloudCharge cloudcharge.",
+      "published": "Thu, 26 Feb 26 12:00:00 +0000",
+      "value_score": 89,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "CISA/KEV ×5",
+        "CVE mentioned ×4",
         "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Valmet DNA Engineering Web Tools",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-050-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to manipulate the web maintenance services URL to achieve arbitrary file read access. The following versions of Valmet DNA Engineering Web Tools are affected: Valmet DNA Engineering Web Tools <=C2022 (CVE-2025-15577) CVSS Vendor Equipment Vulnerabilities v3 8.6 Valmet Valmet DNA Engineering Web Tools Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') Background Crit",
-      "published": "Thu, 19 Feb 26 12:00:00 +0000",
-      "value_score": 59,
+      "title": "EV2GO ev2go.io",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-04",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to impersonate charging stations, hijack sessions, suppress or misroute legitimate traffic to cause large-scale denial of service, and manipulate data sent to the backend. The following versions of EV2GO ev2go.io are affected: ev2go.io vers:all/* (CVE-2026-24731, CVE-2026-25945, CVE-2026-20895, CVE-2026-22890) CVSS Vendor Equipment Vulnerabilities v3 9.4 EV2GO EV2GO ev2go.io Missing Authentication for Critic",
+      "published": "Thu, 26 Feb 26 12:00:00 +0000",
+      "value_score": 89,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned",
+        "CVE mentioned ×4",
+        "Multiple CVEs",
         "Exploit wording"
       ]
     }

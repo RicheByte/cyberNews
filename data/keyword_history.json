@@ -157,7 +157,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 419,
+      "count": 420,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -217,7 +217,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 813,
+      "count": 814,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -540,7 +540,7 @@
       ]
     },
     "remote code execution": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -4561,7 +4561,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 220,
+      "count": 221,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5346,7 +5346,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 189,
+      "count": 190,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6316,7 +6316,7 @@
       ]
     },
     "50 security holes": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7455,7 +7455,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7786,7 +7786,7 @@
       ]
     },
     "multiple building systems": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -7891,7 +7891,7 @@
       ]
     },
     "critical vulnerability affecting": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-25",
         "2026-02-26"
@@ -7904,28 +7904,28 @@
       ]
     },
     "mission critical priority": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "russia peter williams": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "digital battlespace report": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "make things simpler": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-25",
         "2026-02-26"
@@ -7938,14 +7938,14 @@
       ]
     },
     "attacks targeting telecom": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "dark web openclaw": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-25",
         "2026-02-26"
@@ -7958,51 +7958,41 @@
       ]
     },
     "prolific elusive actor": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "cve 2026 20127": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "targeting international governments": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "cve 2022 20775": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-02-25"
+        "2026-02-25",
+        "2026-02-26"
       ]
     },
     "cyberattack american manufacturer": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-26"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-17 04:15",
-      "articles": 56,
-      "top_keywords": [
-        "badbox 2 0",
-        "scattered lapsus shinyhunters",
-        "reduced staff cisa",
-        "canada goose investigating",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-02-17 06:53",
       "articles": 56,
@@ -9090,6 +9080,17 @@
         "scattered lapsus shinyhunters",
         "russia peter williams",
         "prolific elusive actor"
+      ]
+    },
+    {
+      "timestamp": "2026-02-26 06:54",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "scattered lapsus shinyhunters",
+        "russia peter williams",
+        "prolific elusive actor",
+        "digital battlespace report"
       ]
     }
   ]

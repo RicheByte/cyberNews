@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-26 04:12 UTC  
+> **Last Updated:** 2026-02-26 06:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **critical vulnerability affecting** • **scattered lapsus shinyhunters** • **russia peter williams** • **prolific elusive actor** • **digital battlespace report** • **remote code execution** • **windows operating systems** • **make things simpler** • **50 security holes** • **twitter whistleblower complaint** • **system admin user** • **legitimate site forwarding** • **cve 2026 20127** • **mission critical priority** • **multiple building systems** • **targeting international governments** • **dark web openclaw** • **cyberattack american manufacturer** • **attacks targeting telecom**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **russia peter williams** • **prolific elusive actor** • **digital battlespace report** • **critical vulnerability affecting** • **remote code execution** • **windows operating systems** • **make things simpler** • **50 security holes** • **cve 2026 20127** • **twitter whistleblower complaint** • **legitimate site forwarding** • **mission critical priority** • **multiple building systems** • **targeting international governments** • **dark web openclaw** • **cyberattack american manufacturer** • **cve 2022 20775** • **attacks targeting telecom**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
 - [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
 - [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
 - [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html)
@@ -23,7 +24,6 @@
 - [Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware](https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html)
 - [Manual Processes Are Putting National Security at Risk](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
 - [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
-- [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
 
 ### BleepingComputer
 

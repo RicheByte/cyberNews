@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 291,
+      "count": 292,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -158,7 +158,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 422,
+      "count": 423,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -218,7 +218,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 818,
+      "count": 819,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4563,7 +4563,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 225,
+      "count": 226,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5001,7 +5001,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5349,7 +5349,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 194,
+      "count": 195,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6319,7 +6319,7 @@
       ]
     },
     "50 security holes": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7789,7 +7789,7 @@
       ]
     },
     "multiple building systems": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -7961,28 +7961,28 @@
       ]
     },
     "prolific elusive actor": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "cve 2026 20127": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "targeting international governments": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "cve 2022 20775": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-25",
         "2026-02-26"
@@ -8001,42 +8001,48 @@
       ]
     },
     "routine developer workflows": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-26"
       ]
     },
     "publisher valve corporation": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-26"
       ]
     },
     "gambit security emerges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-26"
       ]
     },
     "silent hacking anthropic": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-26"
       ]
     },
     "gardyn cloud environment": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-26"
       ]
     },
     "decade digital evolution": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-26"
       ]
     },
     "multiple device models": {
+      "count": 2,
+      "dates": [
+        "2026-02-26"
+      ]
+    },
+    "microsoft store apps": {
       "count": 1,
       "dates": [
         "2026-02-26"
@@ -8044,17 +8050,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-17 14:41",
-      "articles": 56,
-      "top_keywords": [
-        "password managers vulnerable",
-        "reduced staff cisa",
-        "cyber insights 2026",
-        "arbitrary code execution",
-        "api threats grow"
-      ]
-    },
     {
       "timestamp": "2026-02-17 16:52",
       "articles": 56,
@@ -9142,6 +9137,17 @@
         "gambit security emerges",
         "silent hacking anthropic",
         "prolific elusive actor"
+      ]
+    },
+    {
+      "timestamp": "2026-02-26 16:53",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "gambit security emerges",
+        "silent hacking anthropic",
+        "50 security holes"
       ]
     }
   ]

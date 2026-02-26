@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-26 14:43 UTC  
+> **Last Updated:** 2026-02-26 16:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **gambit security emerges** • **silent hacking anthropic** • **prolific elusive actor** • **50 security holes** • **sprawling phishing campaign** • **make things simpler** • **cve 2026 20127** • **twitter whistleblower complaint** • **targeting international governments** • **routine developer workflows** • **publisher valve corporation** • **gardyn cloud environment** • **decade digital evolution** • **windows operating systems** • **multiple building systems** • **multiple device models** • **malicious cyber actors** • **cve 2022 20775**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **gambit security emerges** • **silent hacking anthropic** • **50 security holes** • **prolific elusive actor** • **cve 2026 20127** • **twitter whistleblower complaint** • **targeting international governments** • **routine developer workflows** • **publisher valve corporation** • **gardyn cloud environment** • **decade digital evolution** • **windows operating systems** • **multiple building systems** • **multiple device models** • **malicious cyber actors** • **cve 2022 20775** • **kimwolf botnet lurking** • **microsoft store apps**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
+- [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
 - [Expert Recommends: Prepare for PQC Right Now](https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html)
 - [Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
 - [Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens](https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html)
 - [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
 - [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
 - [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
-- [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html)
-- [Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
 
 ### BleepingComputer
 
-- [Ransomware payment rate drops to record low as attacks surge](https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-despite-attack-surge/)
+- [Critical Juniper Networks PTX flaw allows full router takeover](https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/)
+- [Olympique Marseille confirms 'attempted' cyberattack after data leak](https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/)
+- [Ransomware payment rate drops to record low as attacks surge](https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/)
 - [Microsoft expands Windows restore to more enterprise devices](https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/)
 - [New York sues Valve for promoting illegal gambling via game loot boxes](https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/)
 - [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
 - [Fake Next.js job interview tests backdoor developer's devices](https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/)
 - [Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023](https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/)
-- [Chinese cyberspies breached dozens of telecom firms, govt agencies](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/)
-- [Marquis sues SonicWall over backup breach that led to ransomware attack](https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/)
 
 ### Krebs on Security
 

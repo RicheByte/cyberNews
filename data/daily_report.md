@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-26 10:40 UTC  
+> **Last Updated:** 2026-02-26 12:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **russia peter williams** • **prolific elusive actor** • **digital battlespace report** • **critical vulnerability affecting** • **remote code execution** • **50 security holes** • **make things simpler** • **cve 2026 20127** • **twitter whistleblower complaint** • **legitimate site forwarding** • **gain administrative privileges** • **multiple building systems** • **targeting international governments** • **mission critical priority** • **dark web openclaw** • **cyberattack american manufacturer** • **cve 2022 20775** • **attacks targeting telecom**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **critical vulnerability affecting** • **prolific elusive actor** • **remote code execution** • **50 security holes** • **make things simpler** • **cve 2026 20127** • **twitter whistleblower complaint** • **targeting international governments** • **routine developer workflows** • **publisher valve corporation** • **gain administrative privileges** • **attacks targeting telecom** • **multiple building systems** • **dark web openclaw** • **cyberattack american manufacturer** • **cve 2022 20775** • **kimwolf botnet lurking** • **sprawling phishing campaign**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
+- [Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens](https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html)
 - [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
 - [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
 - [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
 - [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html)
 - [Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
 - [Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware](https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html)
-- [Manual Processes Are Putting National Security at Risk](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
-- [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
 
 ### BleepingComputer
 
+- [New York sues Valve for promoting illegal gambling via game loot boxes](https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/)
 - [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
 - [Fake Next.js job interview tests backdoor developer's devices](https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/)
 - [Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023](https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/)
@@ -34,7 +35,6 @@
 - [Marquis sues SonicWall over backup breach that led to ransomware attack](https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/)
 - [The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web](https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/)
 - [Zyxel warns of critical RCE flaw affecting over a dozen routers](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/)
-- [US sanctions Russian broker for buying stolen zero-day exploits](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Zyxel Patches Critical Vulnerability in Many Device Models](https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/)
 - [US Sanctions Russian Exploit Broker Operation Zero](https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/)
 - [Trend Micro Patches Critical Apex One Vulnerabilities](https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/)
 - [Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers](https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/)
@@ -67,7 +68,6 @@
 - [Google Disrupts Chinese Hackers Targeting Telecoms, Governments](https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/)
 - [SolarWinds Patches Four Critical Serv-U Vulnerabilities](https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/)
 - [Medical Device Maker UFP Technologies Hit by Cyberattack](https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/)
-- [Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia](https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/)
 
 ### Threatpost
 

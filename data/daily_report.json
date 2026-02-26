@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-02-26 10:40",
+  "last_updated": "2026-02-26 12:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
-    "russia peter williams",
-    "prolific elusive actor",
-    "digital battlespace report",
     "critical vulnerability affecting",
+    "prolific elusive actor",
     "remote code execution",
     "50 security holes",
     "make things simpler",
     "cve 2026 20127",
     "twitter whistleblower complaint",
-    "legitimate site forwarding",
-    "gain administrative privileges",
-    "multiple building systems",
     "targeting international governments",
-    "mission critical priority",
+    "routine developer workflows",
+    "publisher valve corporation",
+    "gain administrative privileges",
+    "attacks targeting telecom",
+    "multiple building systems",
     "dark web openclaw",
     "cyberattack american manufacturer",
     "cve 2022 20775",
-    "attacks targeting telecom"
+    "kimwolf botnet lurking",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 192
+      "mentions": 193
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 223
-    },
-    {
-      "keyword": "russia peter williams",
-      "mentions": 10
-    },
-    {
-      "keyword": "prolific elusive actor",
-      "mentions": 8
-    },
-    {
-      "keyword": "digital battlespace report",
-      "mentions": 10
+      "mentions": 224
     },
     {
       "keyword": "critical vulnerability affecting",
-      "mentions": 11
+      "mentions": 12
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 134
-    },
-    {
-      "keyword": "50 security holes",
-      "mentions": 133
-    },
-    {
-      "keyword": "make things simpler",
+      "keyword": "prolific elusive actor",
       "mentions": 9
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 135
+    },
+    {
+      "keyword": "50 security holes",
+      "mentions": 134
+    },
+    {
+      "keyword": "make things simpler",
+      "mentions": 10
+    },
+    {
       "keyword": "cve 2026 20127",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 817
+    },
+    {
+      "keyword": "targeting international governments",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
+      "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
+      "summary": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines. \"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code",
+      "published": "Thu, 26 Feb 2026 16:05:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+      "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector. The package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitimate library from Stripe that has over 75 million downloads. It was uploaded by a user named",
+      "published": "Thu, 26 Feb 2026 15:39:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
@@ -133,27 +151,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Manual Processes Are Putting National Security at Risk",
-      "link": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
-      "summary": "Why automating sensitive data transfers is now a mission-critical priority More than half of national security organizations still rely on manual processes to transfer sensitive data, according to The CYBER360: Defending the Digital Battlespace report. This should alarm every defense and government leader because manual handling of sensitive data is not just inefficient, it is a systemic",
-      "published": "Wed, 25 Feb 2026 16:30:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker",
-      "link": "https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html",
-      "summary": "A 39-year-old Australian national who was previously employed at U.S. defense contractor L3Harris has been sentenced to a little over seven years in prison for selling eight zero-day exploits to Russian exploit broker Operation Zero in exchange for millions of dollars. Peter Williams pleaded guilty to two counts of theft of trade secrets in October 2025. In addition to the jail term, Williams",
-      "published": "Wed, 25 Feb 2026 14:19:00 +0530",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "New York sues Valve for promoting illegal gambling via game loot boxes",
+      "link": "https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/",
+      "summary": "New York Attorney General Letitia James sued video game developer and publisher Valve Corporation for using game loot boxes to facilitate illegal gambling activities among children and teenagers. [...]",
+      "published": "Thu, 26 Feb 2026 06:44:50 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -233,18 +237,6 @@
       "value_signals": [
         "RCE",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US sanctions Russian broker for buying stolen zero-day exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/",
-      "summary": "The U.S. Treasury Department has sanctioned a Russian exploit broker who bought stolen hacking tools from a former executive of a U.S. defense contractor. [...]",
-      "published": "Wed, 25 Feb 2026 05:31:13 -0500",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
       ]
     },
     {
@@ -414,6 +406,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Zyxel Patches Critical Vulnerability in Many Device Models",
+      "link": "https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/",
+      "summary": "The issue impacts the UPnP function of multiple device models and could be exploited for remote code execution. The post Zyxel Patches Critical Vulnerability in Many Device Models appeared first on SecurityWeek .",
+      "published": "Thu, 26 Feb 2026 12:09:29 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "US Sanctions Russian Exploit Broker Operation Zero",
       "link": "https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/",
       "summary": "The broker acquired eight zero-day exploits from a US defense contractor executive jailed for his actions. The post US Sanctions Russian Exploit Broker Operation Zero appeared first on SecurityWeek .",
@@ -491,17 +496,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia",
-      "link": "https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/",
-      "summary": "Peter Williams was sentenced to 87 months in prison for selling cyber exploits to a Russian broker. The post Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia appeared first on SecurityWeek .",
-      "published": "Wed, 25 Feb 2026 12:59:30 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

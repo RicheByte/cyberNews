@@ -217,7 +217,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 816,
+      "count": 817,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -540,7 +540,7 @@
       ]
     },
     "remote code execution": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1480,7 +1480,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1505,7 +1505,8 @@
         "2026-02-11",
         "2026-02-18",
         "2026-02-19",
-        "2026-02-25"
+        "2026-02-25",
+        "2026-02-26"
       ]
     },
     "model agnostic abstractions": {
@@ -4561,7 +4562,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 223,
+      "count": 224,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -4999,7 +5000,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5008,7 +5009,8 @@
         "2026-02-22",
         "2026-02-23",
         "2026-02-24",
-        "2026-02-25"
+        "2026-02-25",
+        "2026-02-26"
       ]
     },
     "rockwell automation controllogix": {
@@ -5346,7 +5348,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6316,7 +6318,7 @@
       ]
     },
     "50 security holes": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7786,7 +7788,7 @@
       ]
     },
     "multiple building systems": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -7891,7 +7893,7 @@
       ]
     },
     "critical vulnerability affecting": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-25",
         "2026-02-26"
@@ -7925,7 +7927,7 @@
       ]
     },
     "make things simpler": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-25",
         "2026-02-26"
@@ -7938,14 +7940,14 @@
       ]
     },
     "attacks targeting telecom": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "dark web openclaw": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-25",
         "2026-02-26"
@@ -7958,40 +7960,52 @@
       ]
     },
     "prolific elusive actor": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "cve 2026 20127": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "targeting international governments": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "cve 2022 20775": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-25",
         "2026-02-26"
       ]
     },
     "cyberattack american manufacturer": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-26"
       ]
     },
     "gain administrative privileges": {
+      "count": 2,
+      "dates": [
+        "2026-02-26"
+      ]
+    },
+    "routine developer workflows": {
+      "count": 1,
+      "dates": [
+        "2026-02-26"
+      ]
+    },
+    "publisher valve corporation": {
       "count": 1,
       "dates": [
         "2026-02-26"
@@ -7999,17 +8013,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-17 10:40",
-      "articles": 56,
-      "top_keywords": [
-        "password managers vulnerable",
-        "reduced staff cisa",
-        "arbitrary code execution",
-        "1password password managers",
-        "amazon scraps partnership"
-      ]
-    },
     {
       "timestamp": "2026-02-17 12:53",
       "articles": 56,
@@ -9097,6 +9100,17 @@
         "russia peter williams",
         "prolific elusive actor",
         "digital battlespace report"
+      ]
+    },
+    {
+      "timestamp": "2026-02-26 12:55",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "critical vulnerability affecting",
+        "prolific elusive actor",
+        "remote code execution"
       ]
     }
   ]

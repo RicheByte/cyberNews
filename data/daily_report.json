@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-02-26 12:55",
+  "last_updated": "2026-02-26 14:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
-    "critical vulnerability affecting",
+    "gambit security emerges",
+    "silent hacking anthropic",
     "prolific elusive actor",
-    "remote code execution",
     "50 security holes",
+    "sprawling phishing campaign",
     "make things simpler",
     "cve 2026 20127",
     "twitter whistleblower complaint",
     "targeting international governments",
     "routine developer workflows",
     "publisher valve corporation",
-    "gain administrative privileges",
-    "attacks targeting telecom",
+    "gardyn cloud environment",
+    "decade digital evolution",
+    "windows operating systems",
     "multiple building systems",
-    "dark web openclaw",
-    "cyberattack american manufacturer",
-    "cve 2022 20775",
-    "kimwolf botnet lurking",
-    "sprawling phishing campaign"
+    "multiple device models",
+    "malicious cyber actors",
+    "cve 2022 20775"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 193
+      "mentions": 194
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 224
+      "mentions": 225
     },
     {
-      "keyword": "critical vulnerability affecting",
-      "mentions": 12
+      "keyword": "gambit security emerges",
+      "mentions": 1
+    },
+    {
+      "keyword": "silent hacking anthropic",
+      "mentions": 1
     },
     {
       "keyword": "prolific elusive actor",
-      "mentions": 9
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 135
-    },
-    {
-      "keyword": "50 security holes",
-      "mentions": 134
-    },
-    {
-      "keyword": "make things simpler",
       "mentions": 10
     },
     {
+      "keyword": "50 security holes",
+      "mentions": 135
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 159
+    },
+    {
+      "keyword": "make things simpler",
+      "mentions": 11
+    },
+    {
       "keyword": "cve 2026 20127",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 817
-    },
-    {
-      "keyword": "targeting international governments",
-      "mentions": 9
+      "mentions": 818
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Expert Recommends: Prepare for PQC Right Now",
+      "link": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
+      "summary": "Introduction: Steal It Today, Break It in a Decade Digital evolution is unstoppable, and though the pace may vary, things tend to fall into place sooner rather than later. That, of course, applies to adversaries as well. The rise of ransomware and cyber extortion generated funding for a complex and highly professional criminal ecosystem. The era of the cloud brought general availability of",
+      "published": "Thu, 26 Feb 2026 17:36:00 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
@@ -142,11 +153,22 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
-      "link": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
-      "summary": "Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data. The campaign, discovered by Socket, exfiltrates ASP.NET Identity data, including user accounts, role assignments, and permission mappings, as well as manipulates authorization rules to create persistent backdoors in victim applications.",
-      "published": "Wed, 25 Feb 2026 18:13:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Ransomware payment rate drops to record low as attacks surge",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-despite-attack-surge/",
+      "summary": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]",
+      "published": "Thu, 26 Feb 2026 09:00:59 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft expands Windows restore to more enterprise devices",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
+      "summary": "Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]",
+      "published": "Thu, 26 Feb 2026 08:04:02 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -214,29 +236,6 @@
       "value_signals": [
         "Ransomware ×2",
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
-      "summary": "OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation. Flare explains how its telemetry found real supply-chain risk in the skills marketplace, yet limited signs of large-scale criminal operationalization. [...]",
-      "published": "Wed, 25 Feb 2026 10:01:11 -0500",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/",
-      "summary": "Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow unauthenticated attackers to gain remote command execution on unpatched devices. [...]",
-      "published": "Wed, 25 Feb 2026 07:53:02 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "RCE",
-        "High severity ×2"
       ]
     },
     {
@@ -406,6 +405,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Claude Code Flaws Exposed Developer Devices to Silent Hacking",
+      "link": "https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/",
+      "summary": "Anthropic has patched vulnerabilities whose impact was demonstrated by Check Point via malicious configuration files. The post Claude Code Flaws Exposed Developer Devices to Silent Hacking appeared first on SecurityWeek .",
+      "published": "Thu, 26 Feb 2026 13:37:54 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Gambit Security Emerges From Stealth With $61 Million in Funding",
+      "link": "https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/",
+      "summary": "The seed and Series A investment will enable the startup to accelerate product development and expand sales and customer success teams. The post Gambit Security Emerges From Stealth With $61 Million in Funding appeared first on SecurityWeek .",
+      "published": "Thu, 26 Feb 2026 12:55:40 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Zyxel Patches Critical Vulnerability in Many Device Models",
       "link": "https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/",
       "summary": "The issue impacts the UPnP function of multiple device models and could be exploited for remote code execution. The post Zyxel Patches Critical Vulnerability in Many Device Models appeared first on SecurityWeek .",
@@ -473,30 +490,6 @@
       "published": "Wed, 25 Feb 2026 16:01:45 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "SolarWinds Patches Four Critical Serv-U Vulnerabilities",
-      "link": "https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/",
-      "summary": "The four security defects could be exploited for remote code execution but require administrative privileges. The post SolarWinds Patches Four Critical Serv-U Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 25 Feb 2026 15:30:00 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Medical Device Maker UFP Technologies Hit by Cyberattack",
-      "link": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
-      "summary": "UFP Technologies appears to have been targeted in a ransomware attack that involved data theft and file-encrypting malware. The post Medical Device Maker UFP Technologies Hit by Cyberattack appeared first on SecurityWeek .",
-      "published": "Wed, 25 Feb 2026 13:40:46 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Threatpost",

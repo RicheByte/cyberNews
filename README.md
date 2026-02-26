@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-26 12:55 UTC |
+| 🕐 Last Updated | 2026-02-26 14:43 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `critical vulnerability affecting` • `prolific elusive actor` • `remote code execution` • `50 security holes` • `make things simpler` • `cve 2026 20127` • `twitter whistleblower complaint` • `targeting international governments`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `gambit security emerges` • `silent hacking anthropic` • `prolific elusive actor` • `50 security holes` • `sprawling phishing campaign` • `make things simpler` • `cve 2026 20127` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

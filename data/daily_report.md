@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-26 20:31 UTC  
+> **Last Updated:** 2026-02-26 22:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **silent hacking anthropic** • **gambit security emerges** • **prolific elusive actor** • **twitter whistleblower complaint** • **targeting international governments** • **routine developer workflows** • **publisher valve corporation** • **operational technology environments** • **least december 2025** • **investment will enable** • **gain unauthorized access** • **decade digital evolution** • **50 security holes** • **vulnerabilities earned microsoft's**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **gambit security emerges** • **silent hacking anthropic** • **prolific elusive actor** • **50 security holes** • **manipulate data sent** • **gain unauthorized access** • **windows operating systems** • **twitter whistleblower complaint** • **targeting international governments** • **something ordinary like** • **routine developer workflows** • **publisher valve corporation** • **least december 2025** • **investment will enable**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Previously harmless Google API keys now expose Gemini AI data](https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/)
 - [Trend Micro warns of critical Apex One code execution flaws](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/)
 - [European DYI chain ManoMano data breach impacts 38 million customers](https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/)
 - [Critical Juniper Networks PTX flaw allows full router takeover](https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/)
@@ -34,7 +35,6 @@
 - [Ransomware payment rate drops to record low as attacks surge](https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/)
 - [Microsoft expands Windows restore to more enterprise devices](https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/)
 - [New York sues Valve for promoting illegal gambling via game loot boxes](https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/)
-- [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Marquis v. SonicWall Lawsuit Ups the Breach Blame Game](https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game)
+- [Cisco SD-WAN Zero-Day Under Exploitation for 3 Years](https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years)
 - [Chinese Police Use ChatGPT to Smear Japan PM Takaichi](https://www.darkreading.com/cyberattacks-data-breaches/chinese-police-chatgpt-smear-japan-pm-takaichi)
 - [Flaws in Claude Code Put Developers' Machines at Risk](https://www.darkreading.com/application-security/flaws-claude-code-developer-machines-risk)
 - [RAMP Forum Seizure Fractures Ransomware Ecosystem](https://www.darkreading.com/threat-intelligence/ramp-forum-seizure-fractures-ransomware-ecosystem)
 - [PCI Council Says Threats to Payments Systems Are Speeding Up](https://www.darkreading.com/cyber-risk/pci-council-threats-payments-systems-speeding-up)
 - [Malicious Next.js Repos Target Developers Via Fake Job Interviews](https://www.darkreading.com/cyberattacks-data-breaches/malicious-nextjs-repos-developers-fake-job-interviews)
 - [Why 'Call This Number' TOAD Emails Beat Gateways](https://www.darkreading.com/threat-intelligence/why-call-this-number-toad-emails-beat-gateways)
-- ['Richter Scale' Model Measures Magnitude of OT Cyber Incidents](https://www.darkreading.com/ics-ot-security/richter-scale-model-measures-cyber-incidents)
-- [Operation Red Card 2.0 Leads to 651 Arrests in Africa](https://www.darkreading.com/cybersecurity-operations/operation-red-card-2-0-leads-to-651-arrests-in-africa)
 
 ### Security Week
 

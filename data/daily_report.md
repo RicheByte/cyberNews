@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-25 22:27 UTC  
+> **Last Updated:** 2026-02-26 01:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **critical vulnerability affecting** • **windows operating systems** • **scattered lapsus shinyhunters** • **russia peter williams** • **prolific elusive actor** • **digital battlespace report** • **remote code execution** • **multiple building systems** • **make things simpler** • **50 security holes** • **twitter whistleblower complaint** • **system admin user** • **legitimate site forwarding** • **cve 2026 20127** • **steal sensitive data** • **mission critical priority** • **targeting international governments** • **dark web openclaw** • **kimwolf botnet lurking**
+**badbox 2 0** • **critical vulnerability affecting** • **scattered lapsus shinyhunters** • **russia peter williams** • **prolific elusive actor** • **digital battlespace report** • **remote code execution** • **windows operating systems** • **make things simpler** • **50 security holes** • **twitter whistleblower complaint** • **system admin user** • **legitimate site forwarding** • **cve 2026 20127** • **mission critical priority** • **multiple building systems** • **targeting international governments** • **dark web openclaw** • **cyberattack american manufacturer** • **attacks targeting telecom**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
 - [Fake Next.js job interview tests backdoor developer's devices](https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/)
 - [Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023](https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/)
 - [Chinese cyberspies breached dozens of telecom firms, govt agencies](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/)
@@ -34,7 +35,6 @@
 - [The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web](https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/)
 - [Zyxel warns of critical RCE flaw affecting over a dozen routers](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/)
 - [US sanctions Russian broker for buying stolen zero-day exploits](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/)
-- [Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker](https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Chinese Police Use ChatGPT to Smear Japan PM Takaichi](https://www.darkreading.com/cyberattacks-data-breaches/chinese-police-chatgpt-smear-japan-pm-takaichi)
+- [Flaws in Claude Code Put Developers' Machines at Risk](https://www.darkreading.com/application-security/flaws-claude-code-developer-machines-risk)
 - [RAMP Forum Seizure Fractures Ransomware Ecosystem](https://www.darkreading.com/threat-intelligence/ramp-forum-seizure-fractures-ransomware-ecosystem)
 - [PCI Council Says Threats to Payments Systems Are Speeding Up](https://www.darkreading.com/cyber-risk/pci-council-threats-payments-systems-speeding-up)
 - [Malicious Next.js Repos Target Developers Via Fake Job Interviews](https://www.darkreading.com/cyberattacks-data-breaches/malicious-nextjs-repos-developers-fake-job-interviews)
 - [Why 'Call This Number' TOAD Emails Beat Gateways](https://www.darkreading.com/threat-intelligence/why-call-this-number-toad-emails-beat-gateways)
 - ['Richter Scale' Model Measures Magnitude of OT Cyber Incidents](https://www.darkreading.com/ics-ot-security/richter-scale-model-measures-cyber-incidents)
 - [Operation Red Card 2.0 Leads to 651 Arrests in Africa](https://www.darkreading.com/cybersecurity-operations/operation-red-card-2-0-leads-to-651-arrests-in-africa)
-- [Attackers Now Need Just 29 Minutes to Own a Network](https://www.darkreading.com/cyber-risk/attackers-now-need-just-29-minutes-to-own-a-network)
-- [Lazarus Group Picks a New Poison: Medusa Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-new-position-medusa-ransomware)
 
 ### Security Week
 

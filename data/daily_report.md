@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-26 18:44 UTC  
+> **Last Updated:** 2026-02-26 20:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **gambit security emerges** • **silent hacking anthropic** • **multiple device models** • **prolific elusive actor** • **50 security holes** • **twitter whistleblower complaint** • **targeting international governments** • **routine developer workflows** • **publisher valve corporation** • **operational technology environments** • **least december 2025** • **investment will enable** • **gain unauthorized access** • **decade digital evolution**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **silent hacking anthropic** • **gambit security emerges** • **prolific elusive actor** • **twitter whistleblower complaint** • **targeting international governments** • **routine developer workflows** • **publisher valve corporation** • **operational technology environments** • **least december 2025** • **investment will enable** • **gain unauthorized access** • **decade digital evolution** • **50 security holes** • **vulnerabilities earned microsoft's**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
 - [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
 - [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
 - [Expert Recommends: Prepare for PQC Right Now](https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html)
@@ -23,7 +24,6 @@
 - [Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens](https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html)
 - [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
 - [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
-- [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
 
 ### BleepingComputer
 

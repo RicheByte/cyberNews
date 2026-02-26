@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-26 18:44 UTC |
+| 🕐 Last Updated | 2026-02-26 20:31 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `mobility46 mobility46 se` • `ev2go ev2go io` • `cloudcharge cloudcharge se` • `chargemap chargemap com` • `gambit security emerges` • `silent hacking anthropic` • `multiple device models` • `prolific elusive actor`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `mobility46 mobility46 se` • `ev2go ev2go io` • `cloudcharge cloudcharge se` • `chargemap chargemap com` • `silent hacking anthropic` • `gambit security emerges` • `prolific elusive actor` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

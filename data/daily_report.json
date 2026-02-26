@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26 18:44",
+  "last_updated": "2026-02-26 20:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,11 +9,9 @@
     "ev2go ev2go io",
     "cloudcharge cloudcharge se",
     "chargemap chargemap com",
-    "gambit security emerges",
     "silent hacking anthropic",
-    "multiple device models",
+    "gambit security emerges",
     "prolific elusive actor",
-    "50 security holes",
     "twitter whistleblower complaint",
     "targeting international governments",
     "routine developer workflows",
@@ -22,51 +20,64 @@
     "least december 2025",
     "investment will enable",
     "gain unauthorized access",
-    "decade digital evolution"
+    "decade digital evolution",
+    "50 security holes",
+    "vulnerabilities earned microsoft's"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 196
+      "mentions": 197
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 227
+      "mentions": 228
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "chargemap chargemap com",
-      "mentions": 1
-    },
-    {
-      "keyword": "gambit security emerges",
-      "mentions": 3
+      "mentions": 2
     },
     {
       "keyword": "silent hacking anthropic",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "multiple device models",
-      "mentions": 3
+      "keyword": "gambit security emerges",
+      "mentions": 4
     },
     {
       "keyword": "prolific elusive actor",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 821
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
+      "link": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new botnet loader called Aeternum C2 that uses a blockchain-based command-and-control (C2) infrastructure to make it resilient to takedown efforts. \"Instead of relying on traditional servers or domains for command-and-control, Aeternum stores its instructions on the public Polygon blockchain,\" Qrator Labs said in a report shared with The",
+      "published": "Thu, 26 Feb 2026 23:30:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
@@ -141,18 +152,6 @@
       "published": "Wed, 25 Feb 2026 23:16:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
-      "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
-      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and theft of API credentials. \"The vulnerabilities exploit various configuration mechanisms, including Hooks, Model Context Protocol (MCP) servers, and environment variables – executing",
-      "published": "Wed, 25 Feb 2026 22:30:00 +0530",
-      "value_score": 56,
-      "value_signals": [
-        "RCE ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

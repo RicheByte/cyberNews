@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27 20:27",
+  "last_updated": "2026-02-27 22:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,7 +8,6 @@
     "mobility46 mobility46 se",
     "ev2go ev2go io",
     "cloudcharge cloudcharge se",
-    "remote hacking cisa",
     "bypass authentication cause",
     "third party patching",
     "gain unauthorized access",
@@ -16,54 +15,55 @@
     "twitter whistleblower complaint",
     "fake identification documents",
     "claude won t",
+    "anthropic technology openai",
     "chargemap chargemap com",
+    "windows operating systems",
+    "vulnerable windows systems",
     "50 security holes",
     "kimwolf botnet lurking",
     "control c2 infrastructure",
-    "control aeternum stores",
-    "vulnerabilities earned microsoft's",
-    "four vulnerabilities discovered"
+    "control aeternum stores"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 208
+      "mentions": 209
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 239
+      "mentions": 240
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 13
-    },
-    {
-      "keyword": "remote hacking cisa",
-      "mentions": 7
+      "mentions": 14
     },
     {
       "keyword": "bypass authentication cause",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "third party patching",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "gain unauthorized access",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "61 million worth",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 833
     }
   ],
   "articles": [
@@ -328,6 +328,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Life Mirrors Art: Ransomware Hits Hospitals on TV &amp; IRL",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hospitals-tv-irl",
+      "summary": "HBO's \"The Pitt\" is showing audiences what a real Mississippi healthcare system is going through this week, thanks to a ransomware attack.",
+      "published": "Fri, 27 Feb 2026 20:48:05 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cities Hosting Major Events Need More Focus on Wireless, Drone Defense",
+      "link": "https://www.darkreading.com/cyber-risk/cities-major-events-wireless-drone-defense",
+      "summary": "Major events like the FIFA World Cup need to look beyond traditional physical and cyber security to active and passive wireless threats, say experts.",
+      "published": "Fri, 27 Feb 2026 20:23:17 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "The Case for Why Better Breach Transparency Matters",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters",
       "summary": "It's become a standard practice for organizations to disclose the bare minimum about a data breach, or worse — not disclose the incident at all.",
@@ -389,22 +409,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "RAMP Forum Seizure Fractures Ransomware Ecosystem",
-      "link": "https://www.darkreading.com/threat-intelligence/ramp-forum-seizure-fractures-ransomware-ecosystem",
-      "summary": "Researchers suggest defenders monitor how these malicious groups re-form and leverage the useful threat intel to guide their next moves.",
-      "published": "Wed, 25 Feb 2026 21:14:21 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "PCI Council Says Threats to Payments Systems Are Speeding Up",
-      "link": "https://www.darkreading.com/cyber-risk/pci-council-threats-payments-systems-speeding-up",
-      "summary": "The PCI Security Standards Council experienced a record year in many regards, but its first annual report shows it needs to work even faster to stay ahead of attackers.",
-      "published": "Wed, 25 Feb 2026 19:15:33 GMT",
+      "source": "Security Week",
+      "title": "Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology",
+      "link": "https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/",
+      "summary": "OpenAI and Google, along with Elon Musk’s xAI, also have contracts to supply their AI models to the military. The post Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology appeared first on SecurityWeek .",
+      "published": "Fri, 27 Feb 2026 21:30:55 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -481,18 +490,6 @@
         "CVE mentioned",
         "RCE",
         "Patch/update",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking",
-      "link": "https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/",
-      "summary": "CISA has released an advisory to warn about four vulnerabilities discovered by a researcher in Gardyn Home and Gardyn Studio. The post Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking appeared first on SecurityWeek .",
-      "published": "Fri, 27 Feb 2026 07:38:59 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "CISA/KEV",
         "High severity ×2"
       ]
     },

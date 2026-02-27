@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-27 20:27 UTC  
+> **Last Updated:** 2026-02-27 22:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **remote hacking cisa** • **bypass authentication cause** • **third party patching** • **gain unauthorized access** • **61 million worth** • **twitter whistleblower complaint** • **fake identification documents** • **claude won t** • **chargemap chargemap com** • **50 security holes** • **kimwolf botnet lurking** • **control c2 infrastructure** • **control aeternum stores** • **vulnerabilities earned microsoft's** • **four vulnerabilities discovered**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **third party patching** • **gain unauthorized access** • **61 million worth** • **twitter whistleblower complaint** • **fake identification documents** • **claude won t** • **anthropic technology openai** • **chargemap chargemap com** • **windows operating systems** • **vulnerable windows systems** • **50 security holes** • **kimwolf botnet lurking** • **control c2 infrastructure** • **control aeternum stores**
 
 ---
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [Life Mirrors Art: Ransomware Hits Hospitals on TV &amp; IRL](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hospitals-tv-irl)
+- [Cities Hosting Major Events Need More Focus on Wireless, Drone Defense](https://www.darkreading.com/cyber-risk/cities-major-events-wireless-drone-defense)
 - [The Case for Why Better Breach Transparency Matters](https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters)
 - [Claude Code Security Shows Promise, Not Perfection](https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection)
 - [Marquis v. SonicWall Lawsuit Ups the Breach Blame Game](https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game)
 - [Cisco SD-WAN Zero-Day Under Exploitation for 3 Years](https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years)
 - [Chinese Police Use ChatGPT to Smear Japan PM Takaichi](https://www.darkreading.com/cyberattacks-data-breaches/chinese-police-chatgpt-smear-japan-pm-takaichi)
 - [Flaws in Claude Code Put Developers' Machines at Risk](https://www.darkreading.com/application-security/flaws-claude-code-developer-machines-risk)
-- [RAMP Forum Seizure Fractures Ransomware Ecosystem](https://www.darkreading.com/threat-intelligence/ramp-forum-seizure-fractures-ransomware-ecosystem)
-- [PCI Council Says Threats to Payments Systems Are Speeding Up](https://www.darkreading.com/cyber-risk/pci-council-threats-payments-systems-speeding-up)
 
 ### Security Week
 
+- [Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology](https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/)
 - [In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators](https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/)
 - [38 Million Allegedly Impacted by ManoMano Data Breach](https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/)
 - [900 Sangoma FreePBX Instances Infected With Web Shells](https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/)
@@ -67,7 +68,6 @@
 - [Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline](https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/)
 - [Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience](https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/)
 - [Juniper Networks PTX Routers Affected by Critical Vulnerability](https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/)
-- [Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking](https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/)
 
 ### Threatpost
 

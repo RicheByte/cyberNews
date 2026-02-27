@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-27 06:45 UTC  
+> **Last Updated:** 2026-02-27 08:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **gambit security emerges** • **silent hacking anthropic** • **prolific elusive actor** • **50 security holes** • **manipulate data sent** • **gain unauthorized access** • **windows operating systems** • **twitter whistleblower complaint** • **targeting international governments** • **something ordinary like** • **routine developer workflows** • **publisher valve corporation** • **least december 2025** • **investment will enable**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **gambit security emerges** • **silent hacking anthropic** • **four vulnerabilities discovered** • **remote hacking cisa** • **gain unauthorized access** • **50 security holes** • **manipulate data sent** • **windows operating systems** • **twitter whistleblower complaint** • **something ordinary like** • **routine developer workflows** • **publisher valve corporation** • **least december 2025** • **investment will enable**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html)
 - [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
 - [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
 - [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
@@ -23,7 +24,6 @@
 - [Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
 - [Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens](https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html)
 - [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
-- [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking](https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/)
 - [Apple iPhone and iPad Cleared for Classified NATO Use](https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/)
 - [Four Risks Boards Cannot Treat as Background Noise](https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/)
 - [Claude Code Flaws Exposed Developer Devices to Silent Hacking](https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/)
@@ -67,7 +68,6 @@
 - [Zyxel Patches Critical Vulnerability in Many Device Models](https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/)
 - [US Sanctions Russian Exploit Broker Operation Zero](https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/)
 - [Trend Micro Patches Critical Apex One Vulnerabilities](https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/)
-- [Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers](https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/)
 
 ### Threatpost
 

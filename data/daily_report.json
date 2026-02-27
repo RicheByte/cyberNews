@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27 06:45",
+  "last_updated": "2026-02-27 08:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,13 +11,13 @@
     "chargemap chargemap com",
     "gambit security emerges",
     "silent hacking anthropic",
-    "prolific elusive actor",
+    "four vulnerabilities discovered",
+    "remote hacking cisa",
+    "gain unauthorized access",
     "50 security holes",
     "manipulate data sent",
-    "gain unauthorized access",
     "windows operating systems",
     "twitter whistleblower complaint",
-    "targeting international governments",
     "something ordinary like",
     "routine developer workflows",
     "publisher valve corporation",
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 201
+      "mentions": 202
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 232
+      "mentions": 233
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "chargemap chargemap com",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "gambit security emerges",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "silent hacking anthropic",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "prolific elusive actor",
-      "mentions": 17
+      "keyword": "four vulnerabilities discovered",
+      "mentions": 1
     },
     {
-      "keyword": "50 security holes",
-      "mentions": 142
+      "keyword": "remote hacking cisa",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
+      "link": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
+      "summary": "Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam. As part of the effort, the advertisers' methods of payment have been suspended, related accounts have been disabled, and the website domain names used to pull off the scams have been blocked. Concurrently, the social",
+      "published": "Fri, 27 Feb 2026 13:26:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
@@ -143,15 +152,6 @@
         "Multiple CVEs",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
-      "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
-      "summary": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries. \"This prolific, elusive actor has a long history of targeting international governments and global telecommunications organizations across Africa, Asia, and the Americas,\"",
-      "published": "Wed, 25 Feb 2026 23:16:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -409,6 +409,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking",
+      "link": "https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/",
+      "summary": "CISA has released an advisory to warn about four vulnerabilities discovered by a researcher in Gardyn Home and Gardyn Studio. The post Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking appeared first on SecurityWeek .",
+      "published": "Fri, 27 Feb 2026 07:38:59 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "CISA/KEV",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Apple iPhone and iPad Cleared for Classified NATO Use",
       "link": "https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/",
       "summary": "The devices have been added to the NATO Information Assurance Product Catalogue (NIAPC). The post Apple iPhone and iPad Cleared for Classified NATO Use appeared first on SecurityWeek .",
@@ -478,19 +490,6 @@
       "value_signals": [
         "Patch/update",
         "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers",
-      "link": "https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/",
-      "summary": "Already added to CISA’s KEV catalog, the flaw allows attackers to bypass authentication and gain administrative privileges. The post Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers appeared first on SecurityWeek .",
-      "published": "Thu, 26 Feb 2026 09:18:43 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "CISA/KEV ×2",
-        "Exploit wording"
       ]
     },
     {

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-02-27 10:32 UTC |
+| 🕐 Last Updated | 2026-02-27 12:47 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `mobility46 mobility46 se` • `ev2go ev2go io` • `cloudcharge cloudcharge se` • `chargemap chargemap com` • `gambit security emerges` • `silent hacking anthropic` • `four vulnerabilities discovered` • `remote hacking cisa`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `mobility46 mobility46 se` • `ev2go ev2go io` • `cloudcharge cloudcharge se` • `chargemap chargemap com` • `remote hacking cisa` • `bypass authentication cause` • `gain unauthorized access` • `four vulnerabilities discovered`
 
 ## 📄 Reports
 

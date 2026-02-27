@@ -158,7 +158,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 429,
+      "count": 430,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -219,7 +219,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 827,
+      "count": 828,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3909,10 +3909,11 @@
       ]
     },
     "access private data": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-20",
-        "2026-01-21"
+        "2026-01-21",
+        "2026-02-27"
       ]
     },
     "malicious prompt injection": {
@@ -4566,7 +4567,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 234,
+      "count": 235,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5353,7 +5354,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 203,
+      "count": 204,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -8009,7 +8010,7 @@
       ]
     },
     "routine developer workflows": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-26",
         "2026-02-27"
@@ -8030,7 +8031,7 @@
       ]
     },
     "silent hacking anthropic": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-26",
         "2026-02-27"
@@ -8043,9 +8044,10 @@
       ]
     },
     "decade digital evolution": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-02-26"
+        "2026-02-26",
+        "2026-02-27"
       ]
     },
     "multiple device models": {
@@ -8061,28 +8063,28 @@
       ]
     },
     "mobility46 mobility46 se": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "ev2go ev2go io": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "cloudcharge cloudcharge se": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "chargemap chargemap com": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-26",
         "2026-02-27"
@@ -8095,7 +8097,7 @@
       ]
     },
     "least december 2025": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-26",
         "2026-02-27"
@@ -8109,51 +8111,52 @@
       ]
     },
     "gain unauthorized access": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "manipulate data sent": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "something ordinary like": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "four vulnerabilities discovered": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-27"
       ]
     },
     "remote hacking cisa": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-02-27"
+      ]
+    },
+    "bypass authentication cause": {
+      "count": 1,
+      "dates": [
+        "2026-02-27"
+      ]
+    },
+    "fake identification documents": {
+      "count": 1,
       "dates": [
         "2026-02-27"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-18 10:39",
-      "articles": 56,
-      "top_keywords": [
-        "api threats grow",
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "windows operating systems",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-02-18 12:54",
       "articles": 56,
@@ -9234,6 +9237,17 @@
     },
     {
       "timestamp": "2026-02-27 10:32",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "mobility46 mobility46 se",
+        "ev2go ev2go io",
+        "cloudcharge cloudcharge se"
+      ]
+    },
+    {
+      "timestamp": "2026-02-27 12:47",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

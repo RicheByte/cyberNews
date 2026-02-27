@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-02-27 14:36",
+  "last_updated": "2026-02-27 16:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
+    "remote hacking cisa",
     "badbox 2 0",
+    "third party patching",
     "mobility46 mobility46 se",
     "ev2go ev2go io",
     "cloudcharge cloudcharge se",
     "chargemap chargemap com",
-    "remote hacking cisa",
     "bypass authentication cause",
     "uses zoho workdrive",
     "gain unauthorized access",
@@ -21,49 +22,48 @@
     "least december 2025",
     "fake identification documents",
     "decade digital evolution",
-    "claude won t",
-    "windows operating systems"
+    "claude won t"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 205
-    },
-    {
-      "keyword": "badbox 2 0",
-      "mentions": 236
-    },
-    {
-      "keyword": "mobility46 mobility46 se",
-      "mentions": 10
-    },
-    {
-      "keyword": "ev2go ev2go io",
-      "mentions": 10
-    },
-    {
-      "keyword": "cloudcharge cloudcharge se",
-      "mentions": 10
-    },
-    {
-      "keyword": "chargemap chargemap com",
-      "mentions": 10
+      "mentions": 206
     },
     {
       "keyword": "remote hacking cisa",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "bypass authentication cause",
-      "mentions": 2
+      "keyword": "badbox 2 0",
+      "mentions": 237
     },
     {
-      "keyword": "uses zoho workdrive",
+      "keyword": "third party patching",
       "mentions": 1
     },
     {
-      "keyword": "gain unauthorized access",
-      "mentions": 10
+      "keyword": "mobility46 mobility46 se",
+      "mentions": 11
+    },
+    {
+      "keyword": "ev2go ev2go io",
+      "mentions": 11
+    },
+    {
+      "keyword": "cloudcharge cloudcharge se",
+      "mentions": 11
+    },
+    {
+      "keyword": "chargemap chargemap com",
+      "mentions": 11
+    },
+    {
+      "keyword": "bypass authentication cause",
+      "mentions": 3
+    },
+    {
+      "keyword": "uses zoho workdrive",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -152,6 +152,32 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released new details about RESURGE, a malicious implant used in zero-day attacks exploiting CVE-2025-0282 to breach Ivanti Connect Secure devices. [...]",
+      "published": "Fri, 27 Feb 2026 10:57:04 -0500",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Breach/leak",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Third-Party Patching and the Business Footprint We All Share",
+      "link": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/",
+      "summary": "Everyday tools like PDF readers, email clients, and archive utilities quietly define the real attack surface. Action1 explains how third-party software drift increases exploit risk and why consistent patching reduces exposure across endpoints. [...]",
+      "published": "Fri, 27 Feb 2026 10:00:10 -0500",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
       "link": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
       "summary": "A Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification documents to customers worldwide. [...]",
@@ -212,26 +238,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ransomware payment rate drops to record low as attacks surge",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
-      "summary": "The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]",
-      "published": "Thu, 26 Feb 2026 09:00:59 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft expands Windows restore to more enterprise devices",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
-      "summary": "Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]",
-      "published": "Thu, 26 Feb 2026 08:04:02 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -406,6 +412,17 @@
     },
     {
       "source": "Security Week",
+      "title": "In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators",
+      "link": "https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: cyber valuations surge, OpenAI disrupts malicious AI use, ShinyHunters claims Odido breach. The post In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators appeared first on SecurityWeek .",
+      "published": "Fri, 27 Feb 2026 15:23:39 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "38 Million Allegedly Impacted by ManoMano Data Breach",
       "link": "https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/",
       "summary": "Hackers stole personal information such as names, email addresses, phone numbers, and other information. The post 38 Million Allegedly Impacted by ManoMano Data Breach appeared first on SecurityWeek .",
@@ -480,15 +497,6 @@
         "CISA/KEV",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Apple iPhone and iPad Cleared for Classified NATO Use",
-      "link": "https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/",
-      "summary": "The devices have been added to the NATO Information Assurance Product Catalogue (NIAPC). The post Apple iPhone and iPad Cleared for Classified NATO Use appeared first on SecurityWeek .",
-      "published": "Thu, 26 Feb 2026 18:04:45 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

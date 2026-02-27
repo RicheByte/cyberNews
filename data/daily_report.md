@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-27 14:36 UTC  
+> **Last Updated:** 2026-02-27 16:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **remote hacking cisa** • **bypass authentication cause** • **uses zoho workdrive** • **gain unauthorized access** • **manipulate data sent** • **access private data** • **twitter whistleblower complaint** • **something ordinary like** • **routine developer workflows** • **least december 2025** • **fake identification documents** • **decade digital evolution** • **claude won t** • **windows operating systems**
+**scattered lapsus shinyhunters** • **remote hacking cisa** • **badbox 2 0** • **third party patching** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **bypass authentication cause** • **uses zoho workdrive** • **gain unauthorized access** • **manipulate data sent** • **access private data** • **twitter whistleblower complaint** • **something ordinary like** • **routine developer workflows** • **least december 2025** • **fake identification documents** • **decade digital evolution** • **claude won t**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [CISA warns that RESURGE malware can be dormant on Ivanti devices](https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/)
+- [Third-Party Patching and the Business Footprint We All Share](https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/)
 - [Ukrainian man pleads guilty to running AI-powered fake ID site](https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/)
 - [Previously harmless Google API keys now expose Gemini AI data](https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/)
 - [Trend Micro warns of critical Apex One code execution flaws](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/)
 - [European DYI chain ManoMano data breach impacts 38 million customers](https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/)
 - [Critical Juniper Networks PTX flaw allows full router takeover](https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/)
 - [Olympique Marseille confirms 'attempted' cyberattack after data leak](https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/)
-- [Ransomware payment rate drops to record low as attacks surge](https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/)
-- [Microsoft expands Windows restore to more enterprise devices](https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators](https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/)
 - [38 Million Allegedly Impacted by ManoMano Data Breach](https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/)
 - [900 Sangoma FreePBX Instances Infected With Web Shells](https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/)
 - [Chilean Carding Shop Operator Extradited to US](https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/)
@@ -67,7 +68,6 @@
 - [Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience](https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/)
 - [Juniper Networks PTX Routers Affected by Critical Vulnerability](https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/)
 - [Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking](https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/)
-- [Apple iPhone and iPad Cleared for Classified NATO Use](https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/)
 
 ### Threatpost
 

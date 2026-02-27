@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-02-27 16:35",
+  "last_updated": "2026-02-27 18:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
-    "remote hacking cisa",
     "badbox 2 0",
     "third party patching",
     "mobility46 mobility46 se",
     "ev2go ev2go io",
     "cloudcharge cloudcharge se",
-    "chargemap chargemap com",
+    "remote hacking cisa",
     "bypass authentication cause",
-    "uses zoho workdrive",
     "gain unauthorized access",
-    "manipulate data sent",
-    "access private data",
     "twitter whistleblower complaint",
     "something ordinary like",
-    "routine developer workflows",
-    "least december 2025",
     "fake identification documents",
-    "decade digital evolution",
-    "claude won t"
+    "claude won t",
+    "50 security holes",
+    "chargemap chargemap com",
+    "manipulate data sent",
+    "access private data",
+    "kimwolf botnet lurking",
+    "control c2 infrastructure",
+    "control aeternum stores"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 206
-    },
-    {
-      "keyword": "remote hacking cisa",
-      "mentions": 5
+      "mentions": 207
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 237
+      "mentions": 238
     },
     {
       "keyword": "third party patching",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 11
+      "mentions": 12
     },
     {
-      "keyword": "chargemap chargemap com",
-      "mentions": 11
+      "keyword": "remote hacking cisa",
+      "mentions": 6
     },
     {
       "keyword": "bypass authentication cause",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "uses zoho workdrive",
-      "mentions": 2
+      "keyword": "gain unauthorized access",
+      "mentions": 12
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 831
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
+      "link": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
+      "summary": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025. Of these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France. The non-profit entity said the compromises are likely",
+      "published": "Fri, 27 Feb 2026 23:29:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
+      "link": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and deliver a Linux backdoor named Rekoobe. The Go module, github[.]com/xinfeisoft/crypto, impersonates the legitimate \"golang.org/x/crypto\" codebase, but injects malicious code that's responsible for exfiltrating secrets entered via terminal password",
+      "published": "Fri, 27 Feb 2026 21:03:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
@@ -131,22 +153,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Expert Recommends: Prepare for PQC Right Now",
-      "link": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
-      "summary": "Introduction: Steal It Today, Break It in a Decade Digital evolution is unstoppable, and though the pace may vary, things tend to fall into place sooner rather than later. That, of course, applies to adversaries as well. The rise of ransomware and cyber extortion generated funding for a complex and highly professional criminal ecosystem. The era of the cloud brought general availability of",
-      "published": "Thu, 26 Feb 2026 17:36:00 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
-      "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
-      "summary": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines. \"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code",
-      "published": "Thu, 26 Feb 2026 16:05:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Europol-led crackdown on The Com hackers leads to 30 arrests",
+      "link": "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/",
+      "summary": "A yearlong Europol-coordinated operation dubbed \"Project Compass\" has led to 30 arrests and 179 suspects being tied to \"The Com,\" an online cybercrime collective that targets children and teenagers. [...]",
+      "published": "Fri, 27 Feb 2026 13:20:15 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -226,17 +237,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
-      "summary": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]",
-      "published": "Thu, 26 Feb 2026 11:11:30 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -332,6 +332,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "The Case for Why Better Breach Transparency Matters",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters",
+      "summary": "It's become a standard practice for organizations to disclose the bare minimum about a data breach, or worse — not disclose the incident at all.",
+      "published": "Fri, 27 Feb 2026 16:18:19 GMT",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Claude Code Security Shows Promise, Not Perfection",
       "link": "https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection",
       "summary": "Claude Code's introduction rippled across the stock market, but researchers and analysts say its impact was overstated, as they peel back the layers.",
@@ -398,15 +409,6 @@
       "link": "https://www.darkreading.com/cyber-risk/pci-council-threats-payments-systems-speeding-up",
       "summary": "The PCI Security Standards Council experienced a record year in many regards, but its first annual report shows it needs to work even faster to stay ahead of attackers.",
       "published": "Wed, 25 Feb 2026 19:15:33 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Malicious Next.js Repos Target Developers Via Fake Job Interviews",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-nextjs-repos-developers-fake-job-interviews",
-      "summary": "Linked to North Korean fake job-recruitment campaigns, the poisoned repositories are aimed at establishing persistent access to infected machines.",
-      "published": "Wed, 25 Feb 2026 16:42:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

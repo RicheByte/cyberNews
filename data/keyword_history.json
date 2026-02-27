@@ -219,7 +219,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 830,
+      "count": 831,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3909,7 +3909,7 @@
       ]
     },
     "access private data": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-20",
         "2026-01-21",
@@ -4567,7 +4567,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 237,
+      "count": 238,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5006,7 +5006,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5016,7 +5016,8 @@
         "2026-02-23",
         "2026-02-24",
         "2026-02-25",
-        "2026-02-26"
+        "2026-02-26",
+        "2026-02-27"
       ]
     },
     "rockwell automation controllogix": {
@@ -5354,7 +5355,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 206,
+      "count": 207,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6325,7 +6326,7 @@
       ]
     },
     "50 security holes": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -8063,28 +8064,28 @@
       ]
     },
     "mobility46 mobility46 se": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "ev2go ev2go io": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "cloudcharge cloudcharge se": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "chargemap chargemap com": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-26",
         "2026-02-27"
@@ -8111,21 +8112,21 @@
       ]
     },
     "gain unauthorized access": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "manipulate data sent": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "something ordinary like": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-26",
         "2026-02-27"
@@ -8138,19 +8139,19 @@
       ]
     },
     "remote hacking cisa": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-27"
       ]
     },
     "bypass authentication cause": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-27"
       ]
     },
     "fake identification documents": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-27"
       ]
@@ -8162,12 +8163,24 @@
       ]
     },
     "claude won t": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-27"
       ]
     },
     "third party patching": {
+      "count": 2,
+      "dates": [
+        "2026-02-27"
+      ]
+    },
+    "control c2 infrastructure": {
+      "count": 1,
+      "dates": [
+        "2026-02-27"
+      ]
+    },
+    "control aeternum stores": {
       "count": 1,
       "dates": [
         "2026-02-27"
@@ -8175,17 +8188,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-18 16:57",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "arbitrary code execution",
-        "critical security flaw",
-        "darknet drug ring",
-        "badbox 2 0"
-      ]
-    },
     {
       "timestamp": "2026-02-18 18:45",
       "articles": 56,
@@ -9273,6 +9275,17 @@
         "badbox 2 0",
         "third party patching",
         "mobility46 mobility46 se"
+      ]
+    },
+    {
+      "timestamp": "2026-02-27 18:34",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "third party patching",
+        "mobility46 mobility46 se",
+        "ev2go ev2go io"
       ]
     }
   ]

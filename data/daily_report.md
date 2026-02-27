@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-27 12:47 UTC  
+> **Last Updated:** 2026-02-27 14:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **remote hacking cisa** • **bypass authentication cause** • **gain unauthorized access** • **four vulnerabilities discovered** • **silent hacking anthropic** • **manipulate data sent** • **access private data** • **twitter whistleblower complaint** • **something ordinary like** • **routine developer workflows** • **least december 2025** • **fake identification documents** • **decade digital evolution** • **windows operating systems**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **remote hacking cisa** • **bypass authentication cause** • **uses zoho workdrive** • **gain unauthorized access** • **manipulate data sent** • **access private data** • **twitter whistleblower complaint** • **something ordinary like** • **routine developer workflows** • **least december 2025** • **fake identification documents** • **decade digital evolution** • **claude won t** • **windows operating systems**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks](https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html)
 - [Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms](https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html)
 - [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html)
 - [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
@@ -23,7 +24,6 @@
 - [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
 - [Expert Recommends: Prepare for PQC Right Now](https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html)
 - [Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
-- [Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens](https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Claude Code Security Shows Promise, Not Perfection](https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection)
 - [Marquis v. SonicWall Lawsuit Ups the Breach Blame Game](https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game)
 - [Cisco SD-WAN Zero-Day Under Exploitation for 3 Years](https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years)
 - [Chinese Police Use ChatGPT to Smear Japan PM Takaichi](https://www.darkreading.com/cyberattacks-data-breaches/chinese-police-chatgpt-smear-japan-pm-takaichi)
@@ -56,18 +57,17 @@
 - [RAMP Forum Seizure Fractures Ransomware Ecosystem](https://www.darkreading.com/threat-intelligence/ramp-forum-seizure-fractures-ransomware-ecosystem)
 - [PCI Council Says Threats to Payments Systems Are Speeding Up](https://www.darkreading.com/cyber-risk/pci-council-threats-payments-systems-speeding-up)
 - [Malicious Next.js Repos Target Developers Via Fake Job Interviews](https://www.darkreading.com/cyberattacks-data-breaches/malicious-nextjs-repos-developers-fake-job-interviews)
-- [Why 'Call This Number' TOAD Emails Beat Gateways](https://www.darkreading.com/threat-intelligence/why-call-this-number-toad-emails-beat-gateways)
 
 ### Security Week
 
+- [38 Million Allegedly Impacted by ManoMano Data Breach](https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/)
+- [900 Sangoma FreePBX Instances Infected With Web Shells](https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/)
 - [Chilean Carding Shop Operator Extradited to US](https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/)
 - [Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline](https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/)
 - [Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience](https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/)
 - [Juniper Networks PTX Routers Affected by Critical Vulnerability](https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/)
 - [Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking](https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/)
 - [Apple iPhone and iPad Cleared for Classified NATO Use](https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/)
-- [Four Risks Boards Cannot Treat as Background Noise](https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/)
-- [Claude Code Flaws Exposed Developer Devices to Silent Hacking](https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/)
 
 ### Threatpost
 

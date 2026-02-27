@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27 12:47",
+  "last_updated": "2026-02-27 14:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,9 +11,8 @@
     "chargemap chargemap com",
     "remote hacking cisa",
     "bypass authentication cause",
+    "uses zoho workdrive",
     "gain unauthorized access",
-    "four vulnerabilities discovered",
-    "silent hacking anthropic",
     "manipulate data sent",
     "access private data",
     "twitter whistleblower complaint",
@@ -22,51 +21,64 @@
     "least december 2025",
     "fake identification documents",
     "decade digital evolution",
+    "claude won t",
     "windows operating systems"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 204
+      "mentions": 205
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 235
+      "mentions": 236
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "chargemap chargemap com",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "remote hacking cisa",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "bypass authentication cause",
+      "mentions": 2
+    },
+    {
+      "keyword": "uses zoho workdrive",
       "mentions": 1
     },
     {
       "keyword": "gain unauthorized access",
-      "mentions": 9
-    },
-    {
-      "keyword": "four vulnerabilities discovered",
-      "mentions": 3
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
+      "link": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
+      "summary": "The North Korean threat actor known as ScarCruft has been attributed to a fresh set of tools, including a backdoor that uses Zoho WorkDrive for command-and-control (C2) communications to fetch more payloads and an implant that uses removable media to relay commands and breach air-gapped networks. The campaign, codenamed Ruby Jumper by Zscaler ThreatLabz, involves the deployment of malware",
+      "published": "Fri, 27 Feb 2026 18:13:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Breach/leak ×2",
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
@@ -135,15 +147,6 @@
       "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
       "summary": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines. \"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code",
       "published": "Thu, 26 Feb 2026 16:05:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
-      "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector. The package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitimate library from Stripe that has over 75 million downloads. It was uploaded by a user named",
-      "published": "Thu, 26 Feb 2026 15:39:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -323,6 +326,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Claude Code Security Shows Promise, Not Perfection",
+      "link": "https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection",
+      "summary": "Claude Code's introduction rippled across the stock market, but researchers and analysts say its impact was overstated, as they peel back the layers.",
+      "published": "Fri, 27 Feb 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Marquis v. SonicWall Lawsuit Ups the Breach Blame Game",
       "link": "https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game",
       "summary": "When a company gets breached through a third-party security vendor, who should bear responsibility? For one FinTech company, the answer is the firewall provider.",
@@ -393,13 +405,26 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Why 'Call This Number' TOAD Emails Beat Gateways",
-      "link": "https://www.darkreading.com/threat-intelligence/why-call-this-number-toad-emails-beat-gateways",
-      "summary": "Attackers are bypassing email gateways through telephone-oriented attack delivery (TOAD), in which the only email payload is a phone number.",
-      "published": "Wed, 25 Feb 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "38 Million Allegedly Impacted by ManoMano Data Breach",
+      "link": "https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/",
+      "summary": "Hackers stole personal information such as names, email addresses, phone numbers, and other information. The post 38 Million Allegedly Impacted by ManoMano Data Breach appeared first on SecurityWeek .",
+      "published": "Fri, 27 Feb 2026 13:41:27 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "900 Sangoma FreePBX Instances Infected With Web Shells",
+      "link": "https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/",
+      "summary": "The attacks exploited a post-authentication command injection vulnerability in the endpoint manager’s interface. The post 900 Sangoma FreePBX Instances Infected With Web Shells appeared first on SecurityWeek .",
+      "published": "Fri, 27 Feb 2026 13:24:25 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -462,24 +487,6 @@
       "link": "https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/",
       "summary": "The devices have been added to the NATO Information Assurance Product Catalogue (NIAPC). The post Apple iPhone and iPad Cleared for Classified NATO Use appeared first on SecurityWeek .",
       "published": "Thu, 26 Feb 2026 18:04:45 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Four Risks Boards Cannot Treat as Background Noise",
-      "link": "https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/",
-      "summary": "The goal isn’t about preventing every attack but about keeping the business running when attacks succeed. The post Four Risks Boards Cannot Treat as Background Noise appeared first on SecurityWeek .",
-      "published": "Thu, 26 Feb 2026 17:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Claude Code Flaws Exposed Developer Devices to Silent Hacking",
-      "link": "https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/",
-      "summary": "Anthropic has patched vulnerabilities whose impact was demonstrated by Check Point via malicious configuration files. The post Claude Code Flaws Exposed Developer Devices to Silent Hacking appeared first on SecurityWeek .",
-      "published": "Thu, 26 Feb 2026 13:37:54 +0000",
       "value_score": 10,
       "value_signals": []
     },

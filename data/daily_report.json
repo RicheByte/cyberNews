@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-02-27 18:34",
+  "last_updated": "2026-02-27 20:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
-    "third party patching",
     "mobility46 mobility46 se",
     "ev2go ev2go io",
     "cloudcharge cloudcharge se",
     "remote hacking cisa",
     "bypass authentication cause",
+    "third party patching",
     "gain unauthorized access",
+    "61 million worth",
     "twitter whistleblower complaint",
-    "something ordinary like",
     "fake identification documents",
     "claude won t",
-    "50 security holes",
     "chargemap chargemap com",
-    "manipulate data sent",
-    "access private data",
+    "50 security holes",
     "kimwolf botnet lurking",
     "control c2 infrastructure",
-    "control aeternum stores"
+    "control aeternum stores",
+    "vulnerabilities earned microsoft's",
+    "four vulnerabilities discovered"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 207
+      "mentions": 208
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 238
-    },
-    {
-      "keyword": "third party patching",
-      "mentions": 2
+      "mentions": 239
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "remote hacking cisa",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "bypass authentication cause",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "third party patching",
+      "mentions": 3
     },
     {
       "keyword": "gain unauthorized access",
-      "mentions": 12
+      "mentions": 13
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 831
+      "keyword": "61 million worth",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
+      "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
+      "summary": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering. The confiscated funds were traced to cryptocurrency addresses used for the laundering of criminally derived proceeds stolen from victims of cryptocurrency investment scams, the department added. \"Criminal",
+      "published": "Fri, 27 Feb 2026 23:41:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
@@ -142,14 +151,23 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
-      "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
-      "summary": "Nothing here looks dramatic at first glance. That’s the point. Many of this week’s threats begin with something ordinary, like an ad, a meeting invite, or a software update. Behind the scenes, the tactics are sharper. Access happens faster. Control is established sooner. Cleanup becomes harder. Here is a quick look at the signals worth paying attention to. AI-powered command",
-      "published": "Thu, 26 Feb 2026 19:58:00 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Microsoft testing Windows 11 batch file security improvements",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
+      "summary": "Microsoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution. [...]",
+      "published": "Fri, 27 Feb 2026 15:00:27 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "APT37 hackers use new malware to breach air-gapped networks",
+      "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/",
+      "summary": "North Korean hackers are deploying newly uncovered tools to move data between internet-connected and air-gapped systems, spread via removable drives, and conduct covert surveillance. [...]",
+      "published": "Fri, 27 Feb 2026 14:21:25 -0500",
+      "value_score": 22,
       "value_signals": [
-        "Patch/update"
+        "Breach/leak"
       ]
     },
     {
@@ -214,28 +232,6 @@
       "value_score": 66,
       "value_signals": [
         "RCE ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "European DYI chain ManoMano data breach impacts 38 million customers",
-      "link": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/",
-      "summary": "DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provider. [...]",
-      "published": "Thu, 26 Feb 2026 12:35:21 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Juniper Networks PTX flaw allows full router takeover",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/",
-      "summary": "A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges. [...]",
-      "published": "Thu, 26 Feb 2026 11:42:12 -0500",
-      "value_score": 26,
-      "value_signals": [
         "High severity ×2"
       ]
     },

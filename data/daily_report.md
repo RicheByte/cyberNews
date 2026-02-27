@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-27 18:34 UTC  
+> **Last Updated:** 2026-02-27 20:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **third party patching** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **remote hacking cisa** • **bypass authentication cause** • **gain unauthorized access** • **twitter whistleblower complaint** • **something ordinary like** • **fake identification documents** • **claude won t** • **50 security holes** • **chargemap chargemap com** • **manipulate data sent** • **access private data** • **kimwolf botnet lurking** • **control c2 infrastructure** • **control aeternum stores**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **remote hacking cisa** • **bypass authentication cause** • **third party patching** • **gain unauthorized access** • **61 million worth** • **twitter whistleblower complaint** • **fake identification documents** • **claude won t** • **chargemap chargemap com** • **50 security holes** • **kimwolf botnet lurking** • **control c2 infrastructure** • **control aeternum stores** • **vulnerabilities earned microsoft's** • **four vulnerabilities discovered**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html)
 - [900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html)
 - [Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html)
 - [ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks](https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html)
@@ -23,18 +24,17 @@
 - [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html)
 - [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
 - [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
-- [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
 
 ### BleepingComputer
 
+- [Microsoft testing Windows 11 batch file security improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/)
+- [APT37 hackers use new malware to breach air-gapped networks](https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/)
 - [Europol-led crackdown on The Com hackers leads to 30 arrests](https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/)
 - [CISA warns that RESURGE malware can be dormant on Ivanti devices](https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/)
 - [Third-Party Patching and the Business Footprint We All Share](https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/)
 - [Ukrainian man pleads guilty to running AI-powered fake ID site](https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/)
 - [Previously harmless Google API keys now expose Gemini AI data](https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/)
 - [Trend Micro warns of critical Apex One code execution flaws](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/)
-- [European DYI chain ManoMano data breach impacts 38 million customers](https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/)
-- [Critical Juniper Networks PTX flaw allows full router takeover](https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/)
 
 ### Krebs on Security
 

@@ -219,7 +219,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 831,
+      "count": 832,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3203,7 +3203,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -3228,7 +3228,8 @@
         "2026-02-20",
         "2026-02-21",
         "2026-02-25",
-        "2026-02-26"
+        "2026-02-26",
+        "2026-02-27"
       ]
     },
     "final patch tuesday": {
@@ -4567,7 +4568,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 238,
+      "count": 239,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5006,7 +5007,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5355,7 +5356,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 207,
+      "count": 208,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6326,7 +6327,7 @@
       ]
     },
     "50 security holes": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -8064,28 +8065,28 @@
       ]
     },
     "mobility46 mobility46 se": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "ev2go ev2go io": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "cloudcharge cloudcharge se": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-26",
         "2026-02-27"
       ]
     },
     "chargemap chargemap com": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-26",
         "2026-02-27"
@@ -8112,7 +8113,7 @@
       ]
     },
     "gain unauthorized access": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-26",
         "2026-02-27"
@@ -8133,25 +8134,25 @@
       ]
     },
     "four vulnerabilities discovered": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-27"
       ]
     },
     "remote hacking cisa": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-27"
       ]
     },
     "bypass authentication cause": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-27"
       ]
     },
     "fake identification documents": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-27"
       ]
@@ -8163,24 +8164,30 @@
       ]
     },
     "claude won t": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-27"
       ]
     },
     "third party patching": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-27"
       ]
     },
     "control c2 infrastructure": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-02-27"
       ]
     },
     "control aeternum stores": {
+      "count": 2,
+      "dates": [
+        "2026-02-27"
+      ]
+    },
+    "61 million worth": {
       "count": 1,
       "dates": [
         "2026-02-27"
@@ -8188,17 +8195,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-18 18:45",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "arbitrary code execution",
-        "critical security flaw",
-        "darknet drug ring",
-        "badbox 2 0"
-      ]
-    },
     {
       "timestamp": "2026-02-18 20:34",
       "articles": 56,
@@ -9286,6 +9282,17 @@
         "third party patching",
         "mobility46 mobility46 se",
         "ev2go ev2go io"
+      ]
+    },
+    {
+      "timestamp": "2026-02-27 20:27",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "mobility46 mobility46 se",
+        "ev2go ev2go io",
+        "cloudcharge cloudcharge se"
       ]
     }
   ]

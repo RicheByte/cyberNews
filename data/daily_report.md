@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-28 16:20 UTC  
+> **Last Updated:** 2026-02-28 18:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **61 million worth** • **third party patching** • **gain unauthorized access** • **anthropic technology openai** • **ai powered website** • **windows operating systems** • **twitter whistleblower complaint** • **prefix aiza embedded** • **fake identification documents** • **claude won t** • **chargemap chargemap com** • **uses zoho workdrive** • **uses removable media** • **kimwolf botnet lurking**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **61 million worth** • **third party patching** • **gain unauthorized access** • **anthropic technology openai** • **windows operating systems** • **twitter whistleblower complaint** • **prefix aiza embedded** • **fake identification documents** • **claude won t** • **chargemap chargemap com** • **uses zoho workdrive** • **uses removable media** • **50 security holes** • **cryptocurrency investment scams**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
 - [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
 - [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
 - [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html)
@@ -23,7 +24,6 @@
 - [Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html)
 - [ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks](https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html)
 - [Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms](https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html)
-- [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html)
 
 ### BleepingComputer
 

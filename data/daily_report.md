@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-02-28 14:17 UTC  
+> **Last Updated:** 2026-02-28 16:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **61 million worth** • **third party patching** • **gain unauthorized access** • **anthropic technology openai** • **ai powered website** • **twitter whistleblower complaint** • **prefix aiza embedded** • **fake identification documents** • **claude won t** • **chargemap chargemap com** • **windows operating systems** • **vulnerable windows systems** • **uses zoho workdrive** • **uses removable media**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **61 million worth** • **third party patching** • **gain unauthorized access** • **anthropic technology openai** • **ai powered website** • **windows operating systems** • **twitter whistleblower complaint** • **prefix aiza embedded** • **fake identification documents** • **claude won t** • **chargemap chargemap com** • **uses zoho workdrive** • **uses removable media** • **kimwolf botnet lurking**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [$4.8M in crypto stolen after Korean tax agency exposes wallet seed](https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/)
 - [Microsoft testing Windows 11 batch file security improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/)
 - [APT37 hackers use new malware to breach air-gapped networks](https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/)
 - [Europol-led crackdown on The Com hackers leads to 30 arrests](https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/)
@@ -34,7 +35,6 @@
 - [Third-Party Patching and the Business Footprint We All Share](https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/)
 - [Ukrainian man pleads guilty to running AI-powered fake ID site](https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/)
 - [Previously harmless Google API keys now expose Gemini AI data](https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/)
-- [Trend Micro warns of critical Apex One code execution flaws](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/)
 
 ### Krebs on Security
 

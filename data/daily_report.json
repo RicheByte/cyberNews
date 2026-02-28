@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28 10:18",
+  "last_updated": "2026-02-28 12:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,64 +9,73 @@
     "ev2go ev2go io",
     "cloudcharge cloudcharge se",
     "bypass authentication cause",
+    "61 million worth",
     "third party patching",
     "gain unauthorized access",
-    "61 million worth",
     "anthropic technology openai",
     "ai powered website",
     "twitter whistleblower complaint",
+    "prefix aiza embedded",
     "fake identification documents",
     "claude won t",
     "chargemap chargemap com",
     "windows operating systems",
     "vulnerable windows systems",
-    "50 security holes",
-    "kimwolf botnet lurking",
-    "control c2 infrastructure"
+    "uses zoho workdrive",
+    "uses removable media"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 215
+      "mentions": 216
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 246
+      "mentions": 247
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "bypass authentication cause",
-      "mentions": 12
-    },
-    {
-      "keyword": "third party patching",
-      "mentions": 10
-    },
-    {
-      "keyword": "gain unauthorized access",
-      "mentions": 20
+      "mentions": 13
     },
     {
       "keyword": "61 million worth",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "third party patching",
+      "mentions": 11
+    },
+    {
+      "keyword": "gain unauthorized access",
+      "mentions": 21
     },
     {
       "keyword": "anthropic technology openai",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
+      "link": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
+      "summary": "New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access private data. The findings come from Truffle Security, which discovered nearly 3,000 Google API keys (identified by the prefix \"AIza\") embedded in client-side code to provide Google-related services like",
+      "published": "Sat, 28 Feb 2026 15:26:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
@@ -136,17 +145,6 @@
       "published": "Fri, 27 Feb 2026 13:26:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
-      "link": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new botnet loader called Aeternum C2 that uses a blockchain-based command-and-control (C2) infrastructure to make it resilient to takedown efforts. \"Instead of relying on traditional servers or domains for command-and-control, Aeternum stores its instructions on the public Polygon blockchain,\" Qrator Labs said in a report shared with The",
-      "published": "Thu, 26 Feb 2026 23:30:00 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -235,6 +233,17 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "Who is the Kimwolf Botmaster “Dort”?",
+      "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
+      "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines wh",
+      "published": "Sat, 28 Feb 2026 12:01:57 +0000",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
       "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
       "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
       "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentic",
@@ -311,17 +320,6 @@
         "Patch/update ×2",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-      "published": "Thu, 08 Jan 2026 23:23:43 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
       ]
     },
     {
@@ -408,6 +406,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Canadian Tire Data Breach Impacts 38 Million Accounts",
+      "link": "https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/",
+      "summary": "Names, addresses, email addresses, phone numbers, and encrypted passwords were compromised in the attack. The post Canadian Tire Data Breach Impacts 38 Million Accounts appeared first on SecurityWeek .",
+      "published": "Sat, 28 Feb 2026 11:50:00 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology",
       "link": "https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/",
       "summary": "OpenAI and Google, along with Elon Musk’s xAI, also have contracts to supply their AI models to the military. The post Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology appeared first on SecurityWeek .",
@@ -475,20 +484,6 @@
       "value_score": 30,
       "value_signals": [
         "Botnet ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Juniper Networks PTX Routers Affected by Critical Vulnerability",
-      "link": "https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/",
-      "summary": "An out-of-band security update for Junos OS Evolved patches the remote code execution vulnerability CVE-2026-21902. The post Juniper Networks PTX Routers Affected by Critical Vulnerability appeared first on SecurityWeek .",
-      "published": "Fri, 27 Feb 2026 10:39:18 +0000",
-      "value_score": 72,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Patch/update",
-        "High severity ×2"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28 18:26",
+  "last_updated": "2026-02-28 20:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -15,55 +15,55 @@
     "anthropic technology openai",
     "windows operating systems",
     "twitter whistleblower complaint",
-    "prefix aiza embedded",
     "fake identification documents",
     "claude won t",
     "chargemap chargemap com",
     "uses zoho workdrive",
     "uses removable media",
     "50 security holes",
-    "cryptocurrency investment scams"
+    "cryptocurrency investment scams",
+    "kimwolf botnet lurking"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 219
+      "mentions": 220
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 250
+      "mentions": 251
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "bypass authentication cause",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "61 million worth",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "third party patching",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "gain unauthorized access",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "anthropic technology openai",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
@@ -151,6 +151,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
+      "link": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/",
+      "summary": "A Chrome extension named \"QuickLens - Search Screen with Google Lens\" has been removed from the Chrome Web Store after it was compromised to push malware and attempt to steal crypto from thousands of users. [...]",
+      "published": "Sat, 28 Feb 2026 14:18:52 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "$4.8M in crypto stolen after Korean tax agency exposes wallet seed",
       "link": "https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/",
       "summary": "South Korea's National Tax Service accidentally exposed the mnemonic recovery phrase of a seized cryptocurrency wallet in an official press release, allowing hackers to steal 6.4 billion won ($4.8M) worth in cryptocurrency. [...]",
@@ -219,15 +228,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
       "summary": "A Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification documents to customers worldwide. [...]",
       "published": "Fri, 27 Feb 2026 07:30:07 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Previously harmless Google API keys now expose Gemini AI data",
-      "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
-      "summary": "Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data. [...]",
-      "published": "Thu, 26 Feb 2026 15:55:29 -0500",
       "value_score": 10,
       "value_signals": []
     },

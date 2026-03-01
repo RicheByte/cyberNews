@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-01 20:20 UTC  
+> **Last Updated:** 2026-03-01 22:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **61 million worth** • **windows operating systems** • **third party patching** • **claude won t** • **gain unauthorized access** • **anthropic technology openai** • **twitter whistleblower complaint** • **chargemap chargemap com** • **uses zoho workdrive** • **uses removable media** • **execute arbitrary code** • **client side code** • **50 security holes** • **cryptocurrency investment scams**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **61 million worth** • **windows operating systems** • **gain unauthorized access** • **claude won t** • **anthropic technology openai** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **popular online destinations** • **locally running instance** • **50 security holes** • **chargemap chargemap com** • **uses zoho workdrive** • **uses removable media** • **execute arbitrary code**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [ClawJacked attack let malicious websites hijack OpenClaw to steal data](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/)
 - [Samsung TVs to stop collecting Texans’ data without express consent](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/)
 - [QuickLens Chrome extension steals crypto, shows ClickFix attack](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/)
 - [$4.8M in crypto stolen after Korean tax agency exposes wallet seed](https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/)
@@ -34,7 +35,6 @@
 - [APT37 hackers use new malware to breach air-gapped networks](https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/)
 - [Europol-led crackdown on The Com hackers leads to 30 arrests](https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/)
 - [CISA warns that RESURGE malware can be dormant on Ivanti devices](https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/)
-- [Third-Party Patching and the Business Footprint We All Share](https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/)
 
 ### Krebs on Security
 
@@ -51,12 +51,12 @@
 
 - [Life Mirrors Art: Ransomware Hits Hospitals on TV &amp; IRL](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hospitals-tv-irl)
 - [Cities Hosting Major Events Need More Focus on Wireless, Drone Defense](https://www.darkreading.com/cyber-risk/cities-major-events-wireless-drone-defense)
+- [Flaw-Finding AI Assistants Face Criticism for Speed, Accuracy](https://www.darkreading.com/application-security/flaw-finding-ai-assistants-face-criticism-speed-accuracy)
 - [The Case for Why Better Breach Transparency Matters](https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters)
 - [Claude Code Security Shows Promise, Not Perfection](https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection)
 - [Marquis v. SonicWall Lawsuit Ups the Breach Blame Game](https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game)
 - [Cisco SD-WAN Zero-Day Under Exploitation for 3 Years](https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years)
 - [Chinese Police Use ChatGPT to Smear Japan PM Takaichi](https://www.darkreading.com/cyberattacks-data-breaches/chinese-police-chatgpt-smear-japan-pm-takaichi)
-- [Flaws in Claude Code Put Developers' Machines at Risk](https://www.darkreading.com/application-security/flaws-claude-code-developer-machines-risk)
 
 ### Security Week
 

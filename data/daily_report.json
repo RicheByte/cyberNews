@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 20:20",
+  "last_updated": "2026-03-01 22:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,59 +11,59 @@
     "bypass authentication cause",
     "61 million worth",
     "windows operating systems",
-    "third party patching",
-    "claude won t",
     "gain unauthorized access",
+    "claude won t",
     "anthropic technology openai",
+    "vulnerabilities earned microsoft's",
     "twitter whistleblower complaint",
+    "popular online destinations",
+    "locally running instance",
+    "50 security holes",
     "chargemap chargemap com",
     "uses zoho workdrive",
     "uses removable media",
-    "execute arbitrary code",
-    "client side code",
-    "50 security holes",
-    "cryptocurrency investment scams"
+    "execute arbitrary code"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 231
+      "mentions": 232
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 262
+      "mentions": 263
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "bypass authentication cause",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "61 million worth",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 454
+      "mentions": 455
     },
     {
-      "keyword": "third party patching",
-      "mentions": 26
+      "keyword": "gain unauthorized access",
+      "mentions": 37
     },
     {
       "keyword": "claude won t",
-      "mentions": 27
+      "mentions": 28
     }
   ],
   "articles": [
@@ -151,6 +151,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
+      "link": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
+      "summary": "Security researchers have disclosed a high-severity vulnerability dubbed \"ClawJacked\" in the popular AI agent OpenClaw that allowed a malicious website to silently bruteforce access to a locally running instance and take control over it. [...]",
+      "published": "Sun, 01 Mar 2026 16:44:55 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Samsung TVs to stop collecting Texans’ data without express consent",
       "link": "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/",
       "summary": "Samsung and the State of Texas have reached a settlement agreement over the alleged unlawful collection of content-viewing information through its smart TVs [...]",
@@ -217,17 +226,6 @@
         "Zero-day",
         "Breach/leak",
         "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Third-Party Patching and the Business Footprint We All Share",
-      "link": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/",
-      "summary": "Everyday tools like PDF readers, email clients, and archive utilities quietly define the real attack surface. Action1 explains how third-party software drift increases exploit risk and why consistent patching reduces exposure across endpoints. [...]",
-      "published": "Fri, 27 Feb 2026 10:00:10 -0500",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },
@@ -344,6 +342,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Flaw-Finding AI Assistants Face Criticism for Speed, Accuracy",
+      "link": "https://www.darkreading.com/application-security/flaw-finding-ai-assistants-face-criticism-speed-accuracy",
+      "summary": "Using AI to find security vulnerabilities holds significant promise, but the initial products fall short of the needs of enterprises and software developers, say experts.",
+      "published": "Fri, 27 Feb 2026 20:16:24 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "The Case for Why Better Breach Transparency Matters",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters",
       "summary": "It's become a standard practice for organizations to disclose the bare minimum about a data breach, or worse — not disclose the incident at all.",
@@ -392,15 +399,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-police-chatgpt-smear-japan-pm-takaichi",
       "summary": "A Chinese keyboard warrior inadvertently leaked information about politically motivated influence operations through a ChatGPT account.",
       "published": "Thu, 26 Feb 2026 00:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Flaws in Claude Code Put Developers' Machines at Risk",
-      "link": "https://www.darkreading.com/application-security/flaws-claude-code-developer-machines-risk",
-      "summary": "The vulnerabilities highlight a big drawback to integrating AI into software development workflows and the potential impact on supply chains.",
-      "published": "Wed, 25 Feb 2026 22:02:32 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-01 20:20 UTC |
+| 🕐 Last Updated | 2026-03-01 22:18 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `mobility46 mobility46 se` • `ev2go ev2go io` • `cloudcharge cloudcharge se` • `bypass authentication cause` • `61 million worth` • `windows operating systems` • `third party patching` • `claude won t`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `mobility46 mobility46 se` • `ev2go ev2go io` • `cloudcharge cloudcharge se` • `bypass authentication cause` • `61 million worth` • `windows operating systems` • `gain unauthorized access` • `claude won t`
 
 ## 📄 Reports
 

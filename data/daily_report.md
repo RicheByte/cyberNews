@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-01 10:19 UTC  
+> **Last Updated:** 2026-03-01 12:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **61 million worth** • **third party patching** • **gain unauthorized access** • **anthropic technology openai** • **windows operating systems** • **twitter whistleblower complaint** • **fake identification documents** • **claude won t** • **chargemap chargemap com** • **uses zoho workdrive** • **uses removable media** • **50 security holes** • **cryptocurrency investment scams** • **kimwolf botnet lurking**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **61 million worth** • **third party patching** • **claude won t** • **gain unauthorized access** • **anthropic technology openai** • **windows operating systems** • **twitter whistleblower complaint** • **fake identification documents** • **chargemap chargemap com** • **uses zoho workdrive** • **uses removable media** • **execute arbitrary code** • **client side code** • **50 security holes**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Hackers Weaponize Claude Code in Mexican Government Cyberattack](https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/)
 - [Canadian Tire Data Breach Impacts 38 Million Accounts](https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/)
 - [Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology](https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/)
 - [In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators](https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/)
@@ -67,7 +68,6 @@
 - [900 Sangoma FreePBX Instances Infected With Web Shells](https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/)
 - [Chilean Carding Shop Operator Extradited to US](https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/)
 - [Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline](https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/)
-- [Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience](https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/)
 
 ### Threatpost
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-02 20:31 UTC  
+> **Last Updated:** 2026-03-02 22:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **bypass authentication cause** • **windows operating systems** • **50 security holes** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **major outage right** • **anthropic confirms claude** • **kimwolf botnet lurking** • **gain unauthorized access** • **wiper malware ddos** • **vulnerable charging stations** • **victim's username password**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **windows operating systems** • **chargemap chargemap com** • **50 security holes** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **major outage right** • **insufficient policy enforcement** • **anthropic confirms claude** • **kimwolf botnet lurking** • **gain unauthorized access** • **wiper malware ddos** • **vulnerable charging stations**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [30 Alleged Members of 'The Com' Arrested in Project Compass](https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass)
 - [Bug in Google's Gemini AI Panel Opens Door to Hijacking](https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking)
 - [Life Mirrors Art: Ransomware Hits Hospitals on TV &amp; IRL](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hospitals-tv-irl)
 - [Cities Hosting Major Events Need More Focus on Wireless, Drone Defense](https://www.darkreading.com/cyber-risk/cities-major-events-wireless-drone-defense)
@@ -56,7 +57,6 @@
 - [The Case for Why Better Breach Transparency Matters](https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters)
 - [Claude Code Security Shows Promise, Not Perfection](https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection)
 - [Marquis v. SonicWall Lawsuit Ups the Breach Blame Game](https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game)
-- [Cisco SD-WAN Zero-Day Under Exploitation for 3 Years](https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years)
 
 ### Security Week
 

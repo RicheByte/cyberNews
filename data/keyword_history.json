@@ -158,7 +158,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 465,
+      "count": 466,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -222,7 +222,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 866,
+      "count": 867,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3212,7 +3212,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4579,7 +4579,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 273,
+      "count": 274,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5021,7 +5021,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5373,7 +5373,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 242,
+      "count": 243,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6347,7 +6347,7 @@
       ]
     },
     "50 security holes": {
-      "count": 177,
+      "count": 178,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7712,7 +7712,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8091,7 +8091,7 @@
       ]
     },
     "mobility46 mobility46 se": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8101,7 +8101,7 @@
       ]
     },
     "ev2go ev2go io": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8111,7 +8111,7 @@
       ]
     },
     "cloudcharge cloudcharge se": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8121,7 +8121,7 @@
       ]
     },
     "chargemap chargemap com": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8151,7 +8151,7 @@
       ]
     },
     "gain unauthorized access": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8187,7 +8187,7 @@
       ]
     },
     "bypass authentication cause": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-02-27",
         "2026-02-28",
@@ -8316,7 +8316,7 @@
       ]
     },
     "major outage right": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-02"
       ]
@@ -8334,24 +8334,30 @@
       ]
     },
     "see everything together": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-02"
       ]
     },
     "anthropic confirms claude": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-02"
       ]
     },
     "vulnerable charging stations": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-02"
       ]
     },
     "wiper malware ddos": {
+      "count": 2,
+      "dates": [
+        "2026-03-02"
+      ]
+    },
+    "insufficient policy enforcement": {
       "count": 1,
       "dates": [
         "2026-03-02"
@@ -8359,17 +8365,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-21 22:18",
-      "articles": 56,
-      "top_keywords": [
-        "limited research preview",
-        "windows operating systems",
-        "cve 2026 1731",
-        "twitter whistleblower complaint",
-        "remote code execution"
-      ]
-    },
     {
       "timestamp": "2026-02-22 01:47",
       "articles": 56,
@@ -9450,6 +9445,17 @@
     },
     {
       "timestamp": "2026-03-02 20:31",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "mobility46 mobility46 se",
+        "ev2go ev2go io",
+        "cloudcharge cloudcharge se"
+      ]
+    },
+    {
+      "timestamp": "2026-03-02 22:22",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

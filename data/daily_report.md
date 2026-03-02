@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-02 16:38 UTC  
+> **Last Updated:** 2026-03-02 18:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **bypass authentication cause** • **ai model claude** • **windows operating systems** • **61 million worth** • **gain unauthorized access** • **anthropic confirms claude** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **mass domestic surveillance** • **major outage right** • **50 security holes** • **sprawling phishing campaign**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **bypass authentication cause** • **windows operating systems** • **50 security holes** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **major outage right** • **anthropic confirms claude** • **sprawling phishing campaign** • **kimwolf botnet lurking** • **gain unauthorized access** • **vulnerable charging stations** • **victim's username password**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
+- [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
 - [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html)
 - [How to Protect Your SaaS from Bot Attacks with SafeLine WAF](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
 - [APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
 - [North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT](https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html)
 - [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
 - [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
-- [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
-- [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html)
 
 ### BleepingComputer
 
+- [Florida woman imprisoned for massive Microsoft license fraud scheme](https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/)
 - [UK warns of Iranian cyberattack risks amid Middle-East conflict](https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/)
 - [How Deepfakes and Injection Attacks Are Breaking Identity Verification](https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/)
 - [Anthropic confirms Claude is down in a worldwide outage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/)
@@ -34,7 +35,6 @@
 - [Samsung TVs to stop collecting Texans’ data without express consent](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/)
 - [QuickLens Chrome extension steals crypto, shows ClickFix attack](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/)
 - [$4.8M in crypto stolen after Korean tax agency exposes wallet seed](https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/)
-- [Microsoft testing Windows 11 batch file security improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/)
 
 ### Krebs on Security
 

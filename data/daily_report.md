@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-02 08:38 UTC  
+> **Last Updated:** 2026-03-02 10:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **61 million worth** • **windows operating systems** • **gain unauthorized access** • **claude won t** • **anthropic technology openai** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **popular online destinations** • **locally running instance** • **50 security holes** • **chargemap chargemap com** • **uses zoho workdrive** • **uses removable media** • **execute arbitrary code**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **61 million worth** • **windows operating systems** • **claude won t** • **anthropic technology openai** • **gain unauthorized access** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **popular online destinations** • **50 security holes** • **chargemap chargemap com** • **uses zoho workdrive** • **uses removable media** • **execute arbitrary code** • **client side code**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT](https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html)
 - [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
 - [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
 - [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
@@ -23,7 +24,6 @@
 - [900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html)
 - [Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html)
 - [ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks](https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html)
-- [Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms](https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html)
 
 ### BleepingComputer
 

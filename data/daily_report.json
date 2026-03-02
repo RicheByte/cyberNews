@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02 14:39",
+  "last_updated": "2026-03-02 16:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,62 +8,62 @@
     "mobility46 mobility46 se",
     "ev2go ev2go io",
     "cloudcharge cloudcharge se",
+    "chargemap chargemap com",
     "bypass authentication cause",
     "ai model claude",
     "windows operating systems",
     "61 million worth",
     "gain unauthorized access",
+    "anthropic confirms claude",
     "vulnerabilities earned microsoft's",
     "twitter whistleblower complaint",
     "see everything together",
     "popular online destinations",
+    "mass domestic surveillance",
     "major outage right",
     "50 security holes",
-    "chargemap chargemap com",
-    "mass domestic surveillance",
-    "execute arbitrary code",
-    "conduct covert surveillance"
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 239
+      "mentions": 240
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 270
+      "mentions": 271
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 44
+      "mentions": 45
+    },
+    {
+      "keyword": "chargemap chargemap com",
+      "mentions": 45
     },
     {
       "keyword": "bypass authentication cause",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "ai model claude",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 462
+      "mentions": 463
     },
     {
       "keyword": "61 million worth",
-      "mentions": 32
-    },
-    {
-      "keyword": "gain unauthorized access",
-      "mentions": 44
+      "mentions": 33
     }
   ],
   "articles": [
@@ -151,6 +151,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "UK warns of Iranian cyberattack risks amid Middle-East conflict",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/",
+      "summary": "The United Kingdom's National Cyber Security Centre (NCSC) alerted British organizations to a heightened risk of Iranian cyberattacks amid the ongoing conflict in the Middle East. [...]",
+      "published": "Mon, 02 Mar 2026 10:54:33 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "How Deepfakes and Injection Attacks Are Breaking Identity Verification",
+      "link": "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/",
+      "summary": "Deepfakes and injection attacks are targeting identity verification moments, from onboarding to account recovery. Incode explains why enterprises must validate the full session—media, device integrity, and behavior—to stop synthetic and injected attacks in real time. [...]",
+      "published": "Mon, 02 Mar 2026 10:01:11 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Anthropic confirms Claude is down in a worldwide outage",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/",
       "summary": "Claude appears to be having a major outage right now, with elevated errors reported across all platforms. [...]",
@@ -200,26 +218,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
       "summary": "Microsoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution. [...]",
       "published": "Fri, 27 Feb 2026 15:00:27 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "APT37 hackers use new malware to breach air-gapped networks",
-      "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/",
-      "summary": "North Korean hackers are deploying newly uncovered tools to move data between internet-connected and air-gapped systems, spread via removable drives, and conduct covert surveillance. [...]",
-      "published": "Fri, 27 Feb 2026 14:21:25 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Europol-led crackdown on The Com hackers leads to 30 arrests",
-      "link": "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/",
-      "summary": "A yearlong Europol-coordinated operation dubbed \"Project Compass\" has led to 30 arrests and 179 suspects being tied to \"The Com,\" an online cybercrime collective that targets children and teenagers. [...]",
-      "published": "Fri, 27 Feb 2026 13:20:15 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -400,6 +398,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant",
+      "link": "https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/",
+      "summary": "Malicious extensions could hijack the Gemini Live in Chrome feature to spy on users and steal their files. The post Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant appeared first on SecurityWeek .",
+      "published": "Mon, 02 Mar 2026 15:26:45 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "OpenClaw Vulnerability Allowed Websites to Hijack AI Agents",
       "link": "https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/",
       "summary": "Malicious websites could open a WebSocket connection to localhost on the OpenClaw gateway port, brute force passwords, and take control of the agent. The post OpenClaw Vulnerability Allowed Websites to Hijack AI Agents appeared first on SecurityWeek .",
@@ -465,17 +472,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Weaponize Claude Code in Mexican Government Cyberattack",
-      "link": "https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/",
-      "summary": "The AI was abused to write exploits, create tools, and automatically exfiltrate over 150GB of data. The post Hackers Weaponize Claude Code in Mexican Government Cyberattack appeared first on SecurityWeek .",
-      "published": "Sun, 01 Mar 2026 12:30:00 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

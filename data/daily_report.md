@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-02 14:39 UTC  
+> **Last Updated:** 2026-03-02 16:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **ai model claude** • **windows operating systems** • **61 million worth** • **gain unauthorized access** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **major outage right** • **50 security holes** • **chargemap chargemap com** • **mass domestic surveillance** • **execute arbitrary code** • **conduct covert surveillance**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **bypass authentication cause** • **ai model claude** • **windows operating systems** • **61 million worth** • **gain unauthorized access** • **anthropic confirms claude** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **mass domestic surveillance** • **major outage right** • **50 security holes** • **sprawling phishing campaign**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [UK warns of Iranian cyberattack risks amid Middle-East conflict](https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/)
+- [How Deepfakes and Injection Attacks Are Breaking Identity Verification](https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/)
 - [Anthropic confirms Claude is down in a worldwide outage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/)
 - [ClawJacked attack let malicious websites hijack OpenClaw to steal data](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/)
 - [Samsung TVs to stop collecting Texans’ data without express consent](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/)
 - [QuickLens Chrome extension steals crypto, shows ClickFix attack](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/)
 - [$4.8M in crypto stolen after Korean tax agency exposes wallet seed](https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/)
 - [Microsoft testing Windows 11 batch file security improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/)
-- [APT37 hackers use new malware to breach air-gapped networks](https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/)
-- [Europol-led crackdown on The Com hackers leads to 30 arrests](https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant](https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/)
 - [OpenClaw Vulnerability Allowed Websites to Hijack AI Agents](https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/)
 - [Madison Square Garden Data Breach Confirmed Months After Hacker Attack](https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/)
 - [Nick Andersen Appointed Acting Director of CISA](https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/)
@@ -67,7 +68,6 @@
 - [North Korean APT Targets Air-Gapped Systems in Recent Campaign](https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/)
 - [Google Working Towards Quantum-Safe Chrome HTTPS Certificates](https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/)
 - [US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates](https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/)
-- [Hackers Weaponize Claude Code in Mexican Government Cyberattack](https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/)
 
 ### Threatpost
 

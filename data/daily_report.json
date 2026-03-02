@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-03-02 12:46",
+  "last_updated": "2026-03-02 14:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
-    "anthropic technology openai",
     "mobility46 mobility46 se",
     "ev2go ev2go io",
     "cloudcharge cloudcharge se",
     "bypass authentication cause",
+    "ai model claude",
     "windows operating systems",
     "61 million worth",
-    "ai model claude",
     "gain unauthorized access",
-    "50 security holes",
     "vulnerabilities earned microsoft's",
     "twitter whistleblower complaint",
+    "see everything together",
     "popular online destinations",
     "major outage right",
+    "50 security holes",
     "chargemap chargemap com",
     "mass domestic surveillance",
     "execute arbitrary code",
@@ -27,46 +27,57 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 238
+      "mentions": 239
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 269
-    },
-    {
-      "keyword": "anthropic technology openai",
-      "mentions": 30
+      "mentions": 270
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "bypass authentication cause",
-      "mentions": 35
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 461
-    },
-    {
-      "keyword": "61 million worth",
-      "mentions": 31
+      "mentions": 36
     },
     {
       "keyword": "ai model claude",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 462
+    },
+    {
+      "keyword": "61 million worth",
+      "mentions": 32
+    },
+    {
+      "keyword": "gain unauthorized access",
+      "mentions": 44
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
+      "link": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+      "summary": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, exposed keys, and normal features are being used as entry points. The pattern becomes clear only when you see everything together. Faster scans, smarter misuse of trusted services, and steady",
+      "published": "Mon, 02 Mar 2026 18:56:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
@@ -137,17 +148,6 @@
       "published": "Fri, 27 Feb 2026 23:41:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
-      "link": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
-      "summary": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025. Of these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France. The non-profit entity said the compromises are likely",
-      "published": "Fri, 27 Feb 2026 23:29:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -400,6 +400,37 @@
     },
     {
       "source": "Security Week",
+      "title": "OpenClaw Vulnerability Allowed Websites to Hijack AI Agents",
+      "link": "https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/",
+      "summary": "Malicious websites could open a WebSocket connection to localhost on the OpenClaw gateway port, brute force passwords, and take control of the agent. The post OpenClaw Vulnerability Allowed Websites to Hijack AI Agents appeared first on SecurityWeek .",
+      "published": "Mon, 02 Mar 2026 14:26:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Madison Square Garden Data Breach Confirmed Months After Hacker Attack",
+      "link": "https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/",
+      "summary": "The company is one of the many victims of the 2025 Oracle E-Business Suite (EBS) hacking campaign. The post Madison Square Garden Data Breach Confirmed Months After Hacker Attack appeared first on SecurityWeek .",
+      "published": "Mon, 02 Mar 2026 13:53:26 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Nick Andersen Appointed Acting Director of CISA",
+      "link": "https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/",
+      "summary": "Madhu Gottumukkala has been assigned to a new role within the Department of Homeland Security. The post Nick Andersen Appointed Acting Director of CISA appeared first on SecurityWeek .",
+      "published": "Mon, 02 Mar 2026 12:53:44 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "AWS Expands Security Hub Into a Cross-Domain Security Platform",
       "link": "https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/",
       "summary": "The AWS Security Hub Extended plan aims to reduce security tool sprawl by correlating findings across multiple security domains. The post AWS Expands Security Hub Into a Cross-Domain Security Platform appeared first on SecurityWeek .",
@@ -445,37 +476,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Canadian Tire Data Breach Impacts 38 Million Accounts",
-      "link": "https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/",
-      "summary": "Names, addresses, email addresses, phone numbers, and encrypted passwords were compromised in the attack. The post Canadian Tire Data Breach Impacts 38 Million Accounts appeared first on SecurityWeek .",
-      "published": "Sat, 28 Feb 2026 11:50:00 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology",
-      "link": "https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/",
-      "summary": "OpenAI and Google, along with Elon Musk’s xAI, also have contracts to supply their AI models to the military. The post Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology appeared first on SecurityWeek .",
-      "published": "Fri, 27 Feb 2026 21:30:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators",
-      "link": "https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: cyber valuations surge, OpenAI disrupts malicious AI use, ShinyHunters claims Odido breach. The post In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators appeared first on SecurityWeek .",
-      "published": "Fri, 27 Feb 2026 15:23:39 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

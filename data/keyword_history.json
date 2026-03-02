@@ -158,7 +158,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 461,
+      "count": 462,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -222,7 +222,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 862,
+      "count": 863,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -643,7 +643,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3211,7 +3211,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 125,
+      "count": 126,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4578,7 +4578,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 269,
+      "count": 270,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5371,7 +5371,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 238,
+      "count": 239,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6345,7 +6345,7 @@
       ]
     },
     "50 security holes": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7709,7 +7709,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8088,7 +8088,7 @@
       ]
     },
     "mobility46 mobility46 se": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8098,7 +8098,7 @@
       ]
     },
     "ev2go ev2go io": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8108,7 +8108,7 @@
       ]
     },
     "cloudcharge cloudcharge se": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8118,7 +8118,7 @@
       ]
     },
     "chargemap chargemap com": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8148,7 +8148,7 @@
       ]
     },
     "gain unauthorized access": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8184,7 +8184,7 @@
       ]
     },
     "bypass authentication cause": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-02-27",
         "2026-02-28",
@@ -8241,7 +8241,7 @@
       ]
     },
     "61 million worth": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-27",
         "2026-02-28",
@@ -8307,24 +8307,30 @@
       ]
     },
     "ai model claude": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-02"
       ]
     },
     "major outage right": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-02"
       ]
     },
     "mass domestic surveillance": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-02"
       ]
     },
     "conduct covert surveillance": {
+      "count": 2,
+      "dates": [
+        "2026-03-02"
+      ]
+    },
+    "see everything together": {
       "count": 1,
       "dates": [
         "2026-03-02"
@@ -8332,17 +8338,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-21 14:21",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "limited research preview",
-        "atm jackpotting attacks",
-        "windows operating systems"
-      ]
-    },
     {
       "timestamp": "2026-02-21 16:22",
       "articles": 56,
@@ -9430,6 +9425,17 @@
         "anthropic technology openai",
         "mobility46 mobility46 se",
         "ev2go ev2go io"
+      ]
+    },
+    {
+      "timestamp": "2026-03-02 14:39",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "mobility46 mobility46 se",
+        "ev2go ev2go io",
+        "cloudcharge cloudcharge se"
       ]
     }
   ]

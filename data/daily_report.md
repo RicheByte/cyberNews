@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-02 18:39 UTC  
+> **Last Updated:** 2026-03-02 20:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **bypass authentication cause** • **windows operating systems** • **50 security holes** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **major outage right** • **anthropic confirms claude** • **sprawling phishing campaign** • **kimwolf botnet lurking** • **gain unauthorized access** • **vulnerable charging stations** • **victim's username password**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **chargemap chargemap com** • **bypass authentication cause** • **windows operating systems** • **50 security holes** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **major outage right** • **anthropic confirms claude** • **kimwolf botnet lurking** • **gain unauthorized access** • **wiper malware ddos** • **vulnerable charging stations** • **victim's username password**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Fake Google Security site uses PWA app to steal credentials, MFA codes](https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/)
+- [Alabama man pleads guilty to hacking, extorting hundreds of women](https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/)
 - [Florida woman imprisoned for massive Microsoft license fraud scheme](https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/)
 - [UK warns of Iranian cyberattack risks amid Middle-East conflict](https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/)
 - [How Deepfakes and Injection Attacks Are Breaking Identity Verification](https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/)
 - [Anthropic confirms Claude is down in a worldwide outage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/)
 - [ClawJacked attack let malicious websites hijack OpenClaw to steal data](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/)
 - [Samsung TVs to stop collecting Texans’ data without express consent](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/)
-- [QuickLens Chrome extension steals crypto, shows ClickFix attack](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/)
-- [$4.8M in crypto stolen after Korean tax agency exposes wallet seed](https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/)
 
 ### Krebs on Security
 

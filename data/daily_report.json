@@ -1,16 +1,17 @@
 {
-  "last_updated": "2026-03-03 18:40",
+  "last_updated": "2026-03-03 20:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "badbox 2 0",
+    "united arab emirates",
     "scattered lapsus shinyhunters",
     "epower epower ie",
     "legitimate site forwarding",
     "windows operating systems",
     "labkotec lid 3300ip",
-    "brand's real url",
     "fig security launches",
+    "brand's real url",
     "government targets microsoft",
     "gain unauthorized control",
     "honeywell researcher clash",
@@ -18,52 +19,51 @@
     "shor s algorithm",
     "50 security holes",
     "dire critical rating",
-    "cyberstrikeai tool adopted",
-    "ai agent overload",
     "kimwolf botnet lurking",
     "ransomware gang stole",
-    "system operations leading"
+    "system operations leading",
+    "victim's username password"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 283
+      "mentions": 284
+    },
+    {
+      "keyword": "united arab emirates",
+      "mentions": 1
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 252
+      "mentions": 253
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 1
-    },
-    {
-      "keyword": "legitimate site forwarding",
-      "mentions": 32
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 475
-    },
-    {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 1
-    },
-    {
-      "keyword": "brand's real url",
-      "mentions": 4
-    },
-    {
-      "keyword": "fig security launches",
       "mentions": 2
     },
     {
-      "keyword": "government targets microsoft",
+      "keyword": "legitimate site forwarding",
+      "mentions": 33
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 476
+    },
+    {
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 2
+    },
+    {
+      "keyword": "fig security launches",
+      "mentions": 3
+    },
+    {
+      "keyword": "brand's real url",
       "mentions": 5
     },
     {
-      "keyword": "gain unauthorized control",
-      "mentions": 1
+      "keyword": "government targets microsoft",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -331,6 +331,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Speakeasies to Shadow AI: Banning AI Browsers Will Fail",
+      "link": "https://www.darkreading.com/cyber-risk/speakeasies-shadow-ai-banning-ai-browsers-fail",
+      "summary": "Lessons from history highlight why AI-enabled browsers require controlled enablement.",
+      "published": "Tue, 03 Mar 2026 17:40:21 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Agent Overload: How to Solve the Workload Identity Crisis",
       "link": "https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis",
       "summary": "Workloads keep getting more complicated and organizations are struggling to keep up. So what's the play?",
@@ -399,15 +408,13 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Life Mirrors Art: Ransomware Hits Hospitals on TV &amp; IRL",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hospitals-tv-irl",
-      "summary": "HBO's \"The Pitt\" is showing audiences what a real Mississippi healthcare system is going through this week, thanks to a ransomware attack.",
-      "published": "Fri, 27 Feb 2026 20:48:05 GMT",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
+      "source": "Security Week",
+      "title": "Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters",
+      "link": "https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/",
+      "summary": "Two AWS data centers in the United Arab Emirates were “directly struck” and another facility in Bahrain was also damaged after a drone landed nearby. The post Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters appeared first on SecurityWeek .",
+      "published": "Tue, 03 Mar 2026 19:56:24 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -477,17 +484,6 @@
       "published": "Tue, 03 Mar 2026 12:25:28 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise",
-      "link": "https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/",
-      "summary": "Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data. The post Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise appeared first on SecurityWeek .",
-      "published": "Tue, 03 Mar 2026 10:43:20 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",
@@ -574,13 +570,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Hitachi Energy Relion REB500 Product",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-02",
-      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect the Relion REB500 product versions listed in this document. Authenticated users with certain roles can exploit the vulnerabilities to access and modify the directory contents they are not authorized to do so. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Relion REB500 Product are affected: Relion REB500 vers:Relion_REB500/<=8.3.3.",
+      "title": "Mobiliti e-mobi.hu",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Mobiliti e-mobi.hu are affected: e-mobi.hu vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 Mobiliti Mobiliti e-mobi.hu Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficie",
       "published": "Tue, 03 Mar 26 12:00:00 +0000",
-      "value_score": 41,
+      "value_score": 49,
       "value_signals": [
         "Source boost: CISA Alerts",
+        "High severity",
         "Exploit wording"
       ]
     },
@@ -651,14 +648,13 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Mobiliti e-mobi.hu",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Mobiliti e-mobi.hu are affected: e-mobi.hu vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 Mobiliti Mobiliti e-mobi.hu Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficie",
+      "title": "Hitachi Energy Relion REB500 Product",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-02",
+      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect the Relion REB500 product versions listed in this document. Authenticated users with certain roles can exploit the vulnerabilities to access and modify the directory contents they are not authorized to do so. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Relion REB500 Product are affected: Relion REB500 vers:Relion_REB500/<=8.3.3.",
       "published": "Tue, 03 Mar 26 12:00:00 +0000",
-      "value_score": 49,
+      "value_score": 41,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "High severity",
         "Exploit wording"
       ]
     },

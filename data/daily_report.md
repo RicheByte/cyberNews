@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-03 18:40 UTC  
+> **Last Updated:** 2026-03-03 20:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **epower epower ie** • **legitimate site forwarding** • **windows operating systems** • **labkotec lid 3300ip** • **brand's real url** • **fig security launches** • **government targets microsoft** • **gain unauthorized control** • **honeywell researcher clash** • **twitter whistleblower complaint** • **shor s algorithm** • **50 security holes** • **dire critical rating** • **cyberstrikeai tool adopted** • **ai agent overload** • **kimwolf botnet lurking** • **ransomware gang stole** • **system operations leading**
+**badbox 2 0** • **united arab emirates** • **scattered lapsus shinyhunters** • **epower epower ie** • **legitimate site forwarding** • **windows operating systems** • **labkotec lid 3300ip** • **fig security launches** • **brand's real url** • **government targets microsoft** • **gain unauthorized control** • **honeywell researcher clash** • **twitter whistleblower complaint** • **shor s algorithm** • **50 security holes** • **dire critical rating** • **kimwolf botnet lurking** • **ransomware gang stole** • **system operations leading** • **victim's username password**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Speakeasies to Shadow AI: Banning AI Browsers Will Fail](https://www.darkreading.com/cyber-risk/speakeasies-shadow-ai-banning-ai-browsers-fail)
 - [AI Agent Overload: How to Solve the Workload Identity Crisis](https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis)
 - [As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks](https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks)
 - [Critical OpenClaw Vulnerability Exposes AI Agent Risks](https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks)
@@ -56,10 +57,10 @@
 - [30 Alleged Members of 'The Com' Arrested in Project Compass](https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass)
 - [Quantum-Resistant Data Diode Secures Sensitive Data on Edge Devices, Critical Systems](https://www.darkreading.com/ics-ot-security/quantum-resistant-data-diode-secures-sensitive-data-on-edge-devices-critical-systems)
 - [Bug in Google's Gemini AI Panel Opens Door to Hijacking](https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking)
-- [Life Mirrors Art: Ransomware Hits Hospitals on TV &amp; IRL](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hospitals-tv-irl)
 
 ### Security Week
 
+- [Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters](https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/)
 - [Fig Security Launches With $38 Million to Bolster SecOps Resilience](https://www.securityweek.com/fig-security-launches-with-38-million-to-bolster-secops-resilience/)
 - [Honeywell, Researcher Clash Over Impact of Building Controller Vulnerability](https://www.securityweek.com/honeywell-researcher-clash-over-impact-of-building-controller-vulnerability/)
 - [Quantum Decryption of RSA is Much Closer than Expected](https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/)
@@ -67,7 +68,6 @@
 - [1.2 Million Affected by University of Hawaii Cancer Center Data Breach](https://www.securityweek.com/1-2-million-affected-by-university-of-hawaii-cancer-center-data-breach/)
 - [Android Update Patches Exploited Qualcomm Zero-Day](https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/)
 - [Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low](https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/)
-- [Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise](https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/)
 
 ### Threatpost
 
@@ -82,13 +82,13 @@
 
 ### CISA Alerts
 
-- [Hitachi Energy Relion REB500 Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-02)
+- [Mobiliti e-mobi.hu](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06)
 - [Hitachi Energy RTU500 Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-03)
 - [Labkotec LID-3300IP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-05)
 - [ePower epower.ie](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-07)
 - [Portwell Engineering Toolkits](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-04)
 - [Mitsubishi Electric MELSEC iQ-F Series EtherNet/IP module and Ethernet module](https://www.cisa.gov/news-events/ics-advisories/icsa-26-62-01)
-- [Mobiliti e-mobi.hu](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06)
+- [Hitachi Energy Relion REB500 Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-02)
 - [Everon OCPP Backends](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-08)
 
 ---

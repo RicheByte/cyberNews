@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-03 20:27 UTC  
+> **Last Updated:** 2026-03-03 22:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **united arab emirates** • **scattered lapsus shinyhunters** • **epower epower ie** • **legitimate site forwarding** • **windows operating systems** • **labkotec lid 3300ip** • **fig security launches** • **brand's real url** • **government targets microsoft** • **gain unauthorized control** • **honeywell researcher clash** • **twitter whistleblower complaint** • **shor s algorithm** • **50 security holes** • **dire critical rating** • **kimwolf botnet lurking** • **ransomware gang stole** • **system operations leading** • **victim's username password**
+**badbox 2 0** • **united arab emirates** • **scattered lapsus shinyhunters** • **legitimate site forwarding** • **epower epower ie** • **labkotec lid 3300ip** • **fig security launches** • **brand's real url** • **government targets microsoft** • **gain unauthorized control** • **honeywell researcher clash** • **windows operating systems** • **twitter whistleblower complaint** • **shor s algorithm** • **50 security holes** • **dire critical rating** • **kimwolf botnet lurking** • **ransomware gang stole** • **system operations leading** • **victim's username password**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft: Hackers abuse OAuth error flows to spread malware](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/)
 - [Google Chrome shifts to two-week release cycle for increased stability](https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/)
 - [LexisNexis confirms data breach as hackers leak stolen files](https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/)
 - [Compromised Site Management Panels are a Hot Item in Cybercrime Markets](https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/)
@@ -34,7 +35,6 @@
 - [Star Citizen game dev discloses breach affecting user data](https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/)
 - [UH Cancer Center data breach affects nearly 1.2 million people](https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/)
 - [Android gets patches for Qualcomm zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/)
-- [CyberStrikeAI tool adopted by hackers for AI-powered attacks](https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Vehicle Tire Pressure Sensors Enable Silent Tracking](https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking)
+- [Qualcomm Zero-Day Exploited in Targeted Android Attacks](https://www.darkreading.com/threat-intelligence/qualcomm-zero-day-exploited-targeted-android-attacks)
 - [Speakeasies to Shadow AI: Banning AI Browsers Will Fail](https://www.darkreading.com/cyber-risk/speakeasies-shadow-ai-banning-ai-browsers-fail)
 - [AI Agent Overload: How to Solve the Workload Identity Crisis](https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis)
 - [As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks](https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks)
 - [Critical OpenClaw Vulnerability Exposes AI Agent Risks](https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks)
 - [The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era](https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development)
 - [30 Alleged Members of 'The Com' Arrested in Project Compass](https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass)
-- [Quantum-Resistant Data Diode Secures Sensitive Data on Edge Devices, Critical Systems](https://www.darkreading.com/ics-ot-security/quantum-resistant-data-diode-secures-sensitive-data-on-edge-devices-critical-systems)
-- [Bug in Google's Gemini AI Panel Opens Door to Hijacking](https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking)
 
 ### Security Week
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-03 06:43 UTC  
+> **Last Updated:** 2026-03-03 08:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **windows operating systems** • **chargemap chargemap com** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **major outage right** • **insufficient policy enforcement** • **anthropic confirms claude** • **50 security holes** • **kimwolf botnet lurking** • **gain unauthorized access** • **wiper malware ddos** • **vulnerable charging stations**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **windows operating systems** • **chargemap chargemap com** • **wiper malware ddos** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **major outage right** • **insufficient policy enforcement** • **anthropic confirms claude** • **50 security holes** • **gain unauthorized access** • **kimwolf botnet lurking** • **threat actor behind** • **vulnerable charging stations**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
+- [SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html)
 - [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
 - [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
 - [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html)
 - [How to Protect Your SaaS from Bot Attacks with SafeLine WAF](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
 - [APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
 - [North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT](https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html)
-- [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
-- [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
 
 ### BleepingComputer
 
+- [Android gets patches for Qualcomm zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/)
 - [CyberStrikeAI tool adopted by hackers for AI-powered attacks](https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/)
 - [Fake Google Security site uses PWA app to steal credentials, MFA codes](https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/)
 - [Alabama man pleads guilty to hacking, extorting hundreds of women](https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/)
@@ -34,7 +35,6 @@
 - [UK warns of Iranian cyberattack risks amid Middle-East conflict](https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/)
 - [How Deepfakes and Injection Attacks Are Breaking Identity Verification](https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/)
 - [Anthropic confirms Claude is down in a worldwide outage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/)
-- [ClawJacked attack let malicious websites hijack OpenClaw to steal data](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/)
 
 ### Krebs on Security
 

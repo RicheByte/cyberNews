@@ -158,7 +158,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 469,
+      "count": 470,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -223,7 +223,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 870,
+      "count": 871,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3214,7 +3214,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4582,7 +4582,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 277,
+      "count": 278,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5025,7 +5025,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5378,7 +5378,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 246,
+      "count": 247,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6353,7 +6353,7 @@
       ]
     },
     "50 security holes": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -8099,7 +8099,7 @@
       ]
     },
     "mobility46 mobility46 se": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8110,7 +8110,7 @@
       ]
     },
     "ev2go ev2go io": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8121,7 +8121,7 @@
       ]
     },
     "cloudcharge cloudcharge se": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8132,7 +8132,7 @@
       ]
     },
     "chargemap chargemap com": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8163,7 +8163,7 @@
       ]
     },
     "gain unauthorized access": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8200,7 +8200,7 @@
       ]
     },
     "bypass authentication cause": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-02-27",
         "2026-02-28",
@@ -8330,7 +8330,7 @@
       ]
     },
     "major outage right": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-02",
         "2026-03-03"
@@ -8349,35 +8349,35 @@
       ]
     },
     "see everything together": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-02",
         "2026-03-03"
       ]
     },
     "anthropic confirms claude": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-02",
         "2026-03-03"
       ]
     },
     "vulnerable charging stations": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-02",
         "2026-03-03"
       ]
     },
     "wiper malware ddos": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-02",
         "2026-03-03"
       ]
     },
     "insufficient policy enforcement": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-02",
         "2026-03-03"
@@ -8388,20 +8388,15 @@
       "dates": [
         "2026-03-03"
       ]
+    },
+    "threat actor behind": {
+      "count": 1,
+      "dates": [
+        "2026-03-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-22 08:26",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "limited research preview",
-        "windows operating systems",
-        "beyondtrust vulnerability exploited"
-      ]
-    },
     {
       "timestamp": "2026-02-22 10:19",
       "articles": 56,
@@ -9482,6 +9477,17 @@
     },
     {
       "timestamp": "2026-03-03 06:43",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "mobility46 mobility46 se",
+        "ev2go ev2go io",
+        "cloudcharge cloudcharge se"
+      ]
+    },
+    {
+      "timestamp": "2026-03-03 08:34",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-03 16:40 UTC  
+> **Last Updated:** 2026-03-03 18:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **windows operating systems** • **legitimate site forwarding** • **brand's real url** • **fig security launches** • **bypass authentication cause** • **chargemap chargemap com** • **government targets microsoft** • **honeywell researcher clash** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **shor s algorithm** • **insufficient policy enforcement** • **50 security holes** • **misroute legitimate traffic** • **gain unauthorized access**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **epower epower ie** • **legitimate site forwarding** • **windows operating systems** • **labkotec lid 3300ip** • **brand's real url** • **fig security launches** • **government targets microsoft** • **gain unauthorized control** • **honeywell researcher clash** • **twitter whistleblower complaint** • **shor s algorithm** • **50 security holes** • **dire critical rating** • **cyberstrikeai tool adopted** • **ai agent overload** • **kimwolf botnet lurking** • **ransomware gang stole** • **system operations leading**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations](https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html)
 - [Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow](https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html)
 - [Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries](https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html)
 - [AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html)
@@ -23,10 +24,10 @@
 - [Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets](https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html)
 - [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
 - [SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html)
-- [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
 
 ### BleepingComputer
 
+- [Google Chrome shifts to two-week release cycle for increased stability](https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/)
 - [LexisNexis confirms data breach as hackers leak stolen files](https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/)
 - [Compromised Site Management Panels are a Hot Item in Cybercrime Markets](https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/)
 - [Amazon: Drone strikes damaged AWS data centers in Middle East](https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/)
@@ -34,7 +35,6 @@
 - [UH Cancer Center data breach affects nearly 1.2 million people](https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/)
 - [Android gets patches for Qualcomm zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/)
 - [CyberStrikeAI tool adopted by hackers for AI-powered attacks](https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/)
-- [Fake Google Security site uses PWA app to steal credentials, MFA codes](https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [Chargemap chargemap.com](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-05)
-- [Yokogawa CENTUM VP R6, R7](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-09)
-- [Pelco, Inc. Sarix Pro 3 Series IP Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-02)
-- [Copeland XWEB and XWEB Pro](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-10)
-- [EV Energy ev.energy](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-07)
-- [Mobility46 mobility46.se](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-08)
-- [CloudCharge cloudcharge.se](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-03)
-- [EV2GO ev2go.io](https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-04)
+- [Hitachi Energy Relion REB500 Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-02)
+- [Hitachi Energy RTU500 Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-03)
+- [Labkotec LID-3300IP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-05)
+- [ePower epower.ie](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-07)
+- [Portwell Engineering Toolkits](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-04)
+- [Mitsubishi Electric MELSEC iQ-F Series EtherNet/IP module and Ethernet module](https://www.cisa.gov/news-events/ics-advisories/icsa-26-62-01)
+- [Mobiliti e-mobi.hu](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06)
+- [Everon OCPP Backends](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-08)
 
 ---
 

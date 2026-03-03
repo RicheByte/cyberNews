@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-03 16:40 UTC |
+| 🕐 Last Updated | 2026-03-03 18:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`badbox 2 0` • `scattered lapsus shinyhunters` • `mobility46 mobility46 se` • `ev2go ev2go io` • `cloudcharge cloudcharge se` • `windows operating systems` • `legitimate site forwarding` • `brand's real url` • `fig security launches` • `bypass authentication cause`
+`badbox 2 0` • `scattered lapsus shinyhunters` • `epower epower ie` • `legitimate site forwarding` • `windows operating systems` • `labkotec lid 3300ip` • `brand's real url` • `fig security launches` • `government targets microsoft` • `gain unauthorized control`
 
 ## 📄 Reports
 

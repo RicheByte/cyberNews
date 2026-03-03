@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-03-03 16:40",
+  "last_updated": "2026-03-03 18:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "badbox 2 0",
     "scattered lapsus shinyhunters",
-    "mobility46 mobility46 se",
-    "ev2go ev2go io",
-    "cloudcharge cloudcharge se",
-    "windows operating systems",
+    "epower epower ie",
     "legitimate site forwarding",
+    "windows operating systems",
+    "labkotec lid 3300ip",
     "brand's real url",
     "fig security launches",
-    "bypass authentication cause",
-    "chargemap chargemap com",
     "government targets microsoft",
+    "gain unauthorized control",
     "honeywell researcher clash",
-    "vulnerabilities earned microsoft's",
     "twitter whistleblower complaint",
     "shor s algorithm",
-    "insufficient policy enforcement",
     "50 security holes",
-    "misroute legitimate traffic",
-    "gain unauthorized access"
+    "dire critical rating",
+    "cyberstrikeai tool adopted",
+    "ai agent overload",
+    "kimwolf botnet lurking",
+    "ransomware gang stole",
+    "system operations leading"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 282
+      "mentions": 283
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 251
+      "mentions": 252
     },
     {
-      "keyword": "mobility46 mobility46 se",
-      "mentions": 56
-    },
-    {
-      "keyword": "ev2go ev2go io",
-      "mentions": 56
-    },
-    {
-      "keyword": "cloudcharge cloudcharge se",
-      "mentions": 56
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 474
-    },
-    {
-      "keyword": "legitimate site forwarding",
-      "mentions": 31
-    },
-    {
-      "keyword": "brand's real url",
-      "mentions": 3
-    },
-    {
-      "keyword": "fig security launches",
+      "keyword": "epower epower ie",
       "mentions": 1
     },
     {
-      "keyword": "bypass authentication cause",
-      "mentions": 48
+      "keyword": "legitimate site forwarding",
+      "mentions": 32
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 475
+    },
+    {
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 1
+    },
+    {
+      "keyword": "brand's real url",
+      "mentions": 4
+    },
+    {
+      "keyword": "fig security launches",
+      "mentions": 2
+    },
+    {
+      "keyword": "government targets microsoft",
+      "mentions": 5
+    },
+    {
+      "keyword": "gain unauthorized control",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations",
+      "link": "https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html",
+      "summary": "Threat hunters have called attention to a new campaign as part of which bad actors masqueraded as fake IT support to deliver the Havoc command-and-control (C2) framework as a precursor to data exfiltration or ransomware attack. The intrusions, identified by Huntress last month across five partner organizations, involved the threat actors using email spam as lures, followed by a phone call from",
+      "published": "Tue, 03 Mar 2026 22:45:00 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow",
@@ -142,15 +153,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
-      "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system. The vulnerability, tracked as CVE-2026-0628 (CVSS score: 8.8), has been described as a case of insufficient policy enforcement in the WebView tag. It was patched by Google in early January 2026",
-      "published": "Mon, 02 Mar 2026 22:38:00 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
-      ]
+      "source": "BleepingComputer",
+      "title": "Google Chrome shifts to two-week release cycle for increased stability",
+      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/",
+      "summary": "Google Chrome will shift from a four-week to a two-week release cycle to roll out new features, bug fixes, and performance improvements more frequently. [...]",
+      "published": "Tue, 03 Mar 2026 12:00:00 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -228,17 +237,6 @@
       "published": "Mon, 02 Mar 2026 19:06:39 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
-      "summary": "A phishing campaign is using a fake Google Account security page to deliver a web-based app capable of stealing one-time passcodes, harvesting cryptocurrency wallet addresses, and proxying attacker traffic through victims' browsers. [...]",
-      "published": "Mon, 02 Mar 2026 15:23:41 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -576,39 +574,73 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Chargemap chargemap.com",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-05",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Chargemap chargemap.com are affected: chargemap.com vers:all/* (CVE-2026-25851, CVE-2026-20792, CVE-2026-25711, CVE-2026-20791) CVSS Vendor Equipment Vulnerabilities v3 9.4 Chargemap Chargemap chargemap.com Missing Authentication for Critical",
-      "published": "Thu, 26 Feb 26 12:00:00 +0000",
-      "value_score": 97,
+      "title": "Hitachi Energy Relion REB500 Product",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-02",
+      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect the Relion REB500 product versions listed in this document. Authenticated users with certain roles can exploit the vulnerabilities to access and modify the directory contents they are not authorized to do so. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Relion REB500 Product are affected: Relion REB500 vers:Relion_REB500/<=8.3.3.",
+      "published": "Tue, 03 Mar 26 12:00:00 +0000",
+      "value_score": 41,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hitachi Energy RTU500 Product",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-03",
+      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. Successful exploitation of these vulnerabilities can result in the exposure of low-value user management information and device outage. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy RTU500 Product are affected: RTU500 series CMU Firmware vers:RTU500_series_CMU_Firmware/>=12.7.1|<=12",
+      "published": "Tue, 03 Mar 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Labkotec LID-3300IP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to gain unauthorized control over system operations, leading to disruption of normal functionality and potential safety hazards. The following versions of Labkotec LID-3300IP are affected: LID-3300IP vers:all/* LID-3300IP Type 2 CVSS Vendor Equipment Vulnerabilities v3 9.4 Labkotec Labkotec LID-3300IP Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Communications, Energy",
+      "published": "Tue, 03 Mar 26 12:00:00 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ePower epower.ie",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-07",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of ePower epower.ie are affected: epower.ie vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 ePower ePower epower.ie Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficient Ses",
+      "published": "Tue, 03 Mar 26 12:00:00 +0000",
+      "value_score": 49,
+      "value_signals": [
+        "Source boost: CISA Alerts",
         "High severity",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Yokogawa CENTUM VP R6, R7",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-09",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to terminate the software stack process, cause a denial-of-service condition, or execute arbitrary code. The following versions of Yokogawa CENTUM VP R6, R7 are affected: Vnet/IP Interface Package for CENTUM VP R6 (VP6C3300) <=R1.07.00 (CVE-2025-1924, CVE-2025-48019, CVE-2025-48020, CVE-2025-48021, CVE-2025-48022, CVE-2025-48023) Vnet/IP Interface Package for CENTUM VP R7 (VP7C3300) <=R1.07.00 (CVE-2025-19",
-      "published": "Thu, 26 Feb 26 12:00:00 +0000",
-      "value_score": 89,
+      "title": "Portwell Engineering Toolkits",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a local attacker to escalate privileges or cause a denial-of-service condition. The following versions of Portwell Engineering Toolkits are affected: Portwell Engineering Toolkits 4.8.2 CVSS Vendor Equipment Vulnerabilities v3 8.8 Portwell Portwell Engineering Toolkits Improper Restriction of Operations within the Bounds of a Memory Buffer Background Critical Infrastructure Sectors: Critical Manufacturing, Energy Countri",
+      "published": "Tue, 03 Mar 26 12:00:00 +0000",
+      "value_score": 57,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×6",
-        "Multiple CVEs",
+        "High severity ×2",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Pelco, Inc. Sarix Pro 3 Series IP Cameras",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to gain unauthorized access to sensitive device data, bypass surveillance controls, and expose facilities to privacy breaches, operational risks, and regulatory compliance issues. The following versions of Pelco, Inc. Sarix Pro 3 Series IP Cameras are affected: Sarix Professional IMP 3 Series <=02.52 (CVE-2026-1241) Sarix Professional IXP 3 Series <=02.52 (CVE-2026-1241) Sarix Professional IBP 3 Series <=02.52 ",
-      "published": "Thu, 26 Feb 26 12:00:00 +0000",
+      "title": "Mitsubishi Electric MELSEC iQ-F Series EtherNet/IP module and Ethernet module",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-62-01",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a remote attacker to cause a denial-of-service condition by continuously sending UDP packets to the affected products. The following versions of Mitsubishi Electric MELSEC iQ-F Series EtherNet/IP module and Ethernet module are affected: MELSEC iQ-F Series FX5-ENET/IP Ethernet Module FX5-ENET/IP <=1.106, vers:all/* (CVE-2026-1874, CVE-2026-1876) MELSEC iQ-F Series FX5-EIP EtherNet/IP Module FX5-EIP vers:all/* (CVE-2026",
+      "published": "Tue, 03 Mar 26 12:00:00 +0000",
       "value_score": 85,
       "value_signals": [
         "Source boost: CISA Alerts",
@@ -619,72 +651,27 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Copeland XWEB and XWEB Pro",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-10",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to bypass authentication, cause a denial-of-service condition, cause memory corruption, and execute arbitrary code. The following versions of Copeland XWEB and XWEB Pro are affected: XWEB 300D PRO <=1.12.1 (CVE-2026-25085, CVE-2026-21718, CVE-2026-24663, CVE-2026-21389, CVE-2026-25111, CVE-2026-20742, CVE-2026-24517, CVE-2026-25195, CVE-2026-20910, CVE-2026-24689, CVE-2026-25109, CVE-2026-20902, CVE-2026-2",
-      "published": "Thu, 26 Feb 26 12:00:00 +0000",
-      "value_score": 89,
+      "title": "Mobiliti e-mobi.hu",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Mobiliti e-mobi.hu are affected: e-mobi.hu vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 Mobiliti Mobiliti e-mobi.hu Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficie",
+      "published": "Tue, 03 Mar 26 12:00:00 +0000",
+      "value_score": 49,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×12",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "EV Energy ev.energy",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-07",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of EV Energy ev.energy are affected: ev.energy vers:all/* (CVE-2026-27772, CVE-2026-24445, CVE-2026-26290, CVE-2026-25774) CVSS Vendor Equipment Vulnerabilities v3 9.4 EV Energy EV Energy ev.energy Missing Authentication for Critical Function, I",
-      "published": "Thu, 26 Feb 26 12:00:00 +0000",
-      "value_score": 97,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
         "High severity",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Mobility46 mobility46.se",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-08",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Mobility46 mobility46.se are affected: mobility46.se vers:all/* (CVE-2026-27028, CVE-2026-26305, CVE-2026-27647, CVE-2026-22878) CVSS Vendor Equipment Vulnerabilities v3 9.4 Mobility46 Mobility46 mobility46.se Missing Authentication for Criti",
-      "published": "Thu, 26 Feb 26 12:00:00 +0000",
-      "value_score": 89,
+      "title": "Everon OCPP Backends",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-08",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Everon OCPP Backends are affected: api.everon.io vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 Everon Everon OCPP Backends Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insu",
+      "published": "Tue, 03 Mar 26 12:00:00 +0000",
+      "value_score": 49,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CloudCharge cloudcharge.se",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to impersonate charging stations, hijack sessions, suppress or misroute legitimate traffic to cause large-scale denial of service, and manipulate data sent to the backend. The following versions of CloudCharge cloudcharge.se are affected: cloudcharge.se vers:all/* (CVE-2026-20781, CVE-2026-25114, CVE-2026-27652, CVE-2026-20733) CVSS Vendor Equipment Vulnerabilities v3 9.4 CloudCharge CloudCharge cloudcharge.",
-      "published": "Thu, 26 Feb 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "EV2GO ev2go.io",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-04",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to impersonate charging stations, hijack sessions, suppress or misroute legitimate traffic to cause large-scale denial of service, and manipulate data sent to the backend. The following versions of EV2GO ev2go.io are affected: ev2go.io vers:all/* (CVE-2026-24731, CVE-2026-25945, CVE-2026-20895, CVE-2026-22890) CVSS Vendor Equipment Vulnerabilities v3 9.4 EV2GO EV2GO ev2go.io Missing Authentication for Critic",
-      "published": "Thu, 26 Feb 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "Multiple CVEs",
+        "High severity",
         "Exploit wording"
       ]
     }

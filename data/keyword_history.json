@@ -158,7 +158,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 474,
+      "count": 475,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -223,7 +223,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 875,
+      "count": 876,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3177,7 +3177,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3195,7 +3195,8 @@
         "2026-02-10",
         "2026-02-11",
         "2026-02-13",
-        "2026-02-18"
+        "2026-02-18",
+        "2026-03-03"
       ]
     },
     "bugs fixed today": {
@@ -4582,7 +4583,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 282,
+      "count": 283,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5025,7 +5026,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5378,7 +5379,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 251,
+      "count": 252,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6353,7 +6354,7 @@
       ]
     },
     "50 security holes": {
-      "count": 184,
+      "count": 185,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7497,7 +7498,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8409,31 +8410,31 @@
       ]
     },
     "government targets microsoft": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-03"
       ]
     },
     "ransomware gang stole": {
-      "count": 2,
-      "dates": [
-        "2026-03-03"
-      ]
-    },
-    "brand's real url": {
       "count": 3,
       "dates": [
         "2026-03-03"
       ]
     },
+    "brand's real url": {
+      "count": 4,
+      "dates": [
+        "2026-03-03"
+      ]
+    },
     "cyberstrikeai tool adopted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-03"
       ]
     },
     "shor s algorithm": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-03"
       ]
@@ -8445,13 +8446,13 @@
       ]
     },
     "fig security launches": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-03"
       ]
     },
     "honeywell researcher clash": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-03"
       ]
@@ -8461,20 +8462,39 @@
       "dates": [
         "2026-03-03"
       ]
+    },
+    "epower epower ie": {
+      "count": 1,
+      "dates": [
+        "2026-03-03"
+      ]
+    },
+    "labkotec lid 3300ip": {
+      "count": 1,
+      "dates": [
+        "2026-03-03"
+      ]
+    },
+    "gain unauthorized control": {
+      "count": 1,
+      "dates": [
+        "2026-03-03"
+      ]
+    },
+    "ai agent overload": {
+      "count": 1,
+      "dates": [
+        "2026-03-03"
+      ]
+    },
+    "system operations leading": {
+      "count": 1,
+      "dates": [
+        "2026-03-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-22 18:28",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "limited research preview",
-        "windows operating systems",
-        "beyondtrust vulnerability exploited"
-      ]
-    },
     {
       "timestamp": "2026-02-22 20:20",
       "articles": 56,
@@ -9562,6 +9582,17 @@
         "mobility46 mobility46 se",
         "ev2go ev2go io",
         "cloudcharge cloudcharge se"
+      ]
+    },
+    {
+      "timestamp": "2026-03-03 18:40",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "scattered lapsus shinyhunters",
+        "epower epower ie",
+        "legitimate site forwarding",
+        "windows operating systems"
       ]
     }
   ]

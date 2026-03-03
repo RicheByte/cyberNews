@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-03 10:33 UTC  
+> **Last Updated:** 2026-03-03 12:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **researchers uncover method** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **windows operating systems** • **chargemap chargemap com** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **software including patches** • **see everything together** • **insufficient policy enforcement** • **50 security holes** • **government targets microsoft** • **gain unauthorized access** • **kimwolf botnet lurking** • **ransomware gang stole** • **vulnerable charging stations**
+**scattered lapsus shinyhunters** • **researchers uncover method** • **badbox 2 0** • **brand's real url** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **windows operating systems** • **bypass authentication cause** • **chargemap chargemap com** • **government targets microsoft** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **software including patches** • **insufficient policy enforcement** • **gain unauthorized access** • **legitimate site forwarding** • **cyberstrikeai tool adopted** • **kimwolf botnet lurking** • **ransomware gang stole**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html)
+- [Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication](https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html)
 - [Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets](https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html)
 - [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
 - [SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html)
 - [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html)
 - [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html)
 - [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html)
-- [How to Protect Your SaaS from Bot Attacks with SafeLine WAF](https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html)
-- [APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday](https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html)
 
 ### BleepingComputer
 
+- [Amazon: Drone strikes damaged AWS data centers in Middle East](https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/)
+- [Star Citizen game dev discloses breach affecting user data](https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/)
 - [UH Cancer Center data breach affects nearly 1.2 million people](https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/)
 - [Android gets patches for Qualcomm zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/)
 - [CyberStrikeAI tool adopted by hackers for AI-powered attacks](https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/)
 - [Fake Google Security site uses PWA app to steal credentials, MFA codes](https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/)
 - [Alabama man pleads guilty to hacking, extorting hundreds of women](https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/)
 - [Florida woman imprisoned for massive Microsoft license fraud scheme](https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/)
-- [UK warns of Iranian cyberattack risks amid Middle-East conflict](https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/)
-- [How Deepfakes and Injection Attacks Are Breaking Identity Verification](https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks](https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks)
 - [Critical OpenClaw Vulnerability Exposes AI Agent Risks](https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks)
 - [The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era](https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development)
 - [30 Alleged Members of 'The Com' Arrested in Project Compass](https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass)
@@ -56,18 +57,17 @@
 - [Life Mirrors Art: Ransomware Hits Hospitals on TV &amp; IRL](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hospitals-tv-irl)
 - [Cities Hosting Major Events Need More Focus on Wireless, Drone Defense](https://www.darkreading.com/cyber-risk/cities-major-events-wireless-drone-defense)
 - [Flaw-Finding AI Assistants Face Criticism for Speed, Accuracy](https://www.darkreading.com/application-security/flaw-finding-ai-assistants-face-criticism-speed-accuracy)
-- [The Case for Why Better Breach Transparency Matters](https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters)
 
 ### Security Week
 
+- [Android Update Patches Exploited Qualcomm Zero-Day](https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/)
+- [Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low](https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/)
+- [Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise](https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/)
 - [Researchers Uncover Method to Track Cars via Tire Sensors](https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/)
 - [Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant](https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/)
 - [OpenClaw Vulnerability Allowed Websites to Hijack AI Agents](https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/)
 - [Madison Square Garden Data Breach Confirmed Months After Hacker Attack](https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/)
 - [Nick Andersen Appointed Acting Director of CISA](https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/)
-- [AWS Expands Security Hub Into a Cross-Domain Security Platform](https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/)
-- [North Korean APT Targets Air-Gapped Systems in Recent Campaign](https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/)
-- [Google Working Towards Quantum-Safe Chrome HTTPS Certificates](https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/)
 
 ### Threatpost
 

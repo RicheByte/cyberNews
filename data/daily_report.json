@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-03-03 10:33",
+  "last_updated": "2026-03-03 12:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "researchers uncover method",
     "badbox 2 0",
+    "brand's real url",
     "mobility46 mobility46 se",
     "ev2go ev2go io",
     "cloudcharge cloudcharge se",
-    "bypass authentication cause",
     "windows operating systems",
+    "bypass authentication cause",
     "chargemap chargemap com",
+    "government targets microsoft",
     "vulnerabilities earned microsoft's",
     "twitter whistleblower complaint",
     "software including patches",
-    "see everything together",
     "insufficient policy enforcement",
-    "50 security holes",
-    "government targets microsoft",
     "gain unauthorized access",
+    "legitimate site forwarding",
+    "cyberstrikeai tool adopted",
     "kimwolf botnet lurking",
-    "ransomware gang stole",
-    "vulnerable charging stations"
+    "ransomware gang stole"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 248
+      "mentions": 249
     },
     {
       "keyword": "researchers uncover method",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 279
+      "mentions": 280
+    },
+    {
+      "keyword": "brand's real url",
+      "mentions": 1
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 53
-    },
-    {
-      "keyword": "bypass authentication cause",
-      "mentions": 45
+      "mentions": 54
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 471
+      "mentions": 472
+    },
+    {
+      "keyword": "bypass authentication cause",
+      "mentions": 46
     },
     {
       "keyword": "chargemap chargemap com",
-      "mentions": 53
-    },
-    {
-      "keyword": "vulnerabilities earned microsoft's",
-      "mentions": 135
+      "mentions": 54
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
+      "link": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
+      "summary": "The Rise of MCPs in the Enterprise The Model Context Protocol (MCP) is quickly becoming a practical way to push LLMs from “chat” into real work. By providing structured access to applications, APIs, and data, MCP enables prompt-driven AI agents that can retrieve information, take action, and automate end-to-end business workflows across the enterprise. This is already showing up in production",
+      "published": "Tue, 03 Mar 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
+      "link": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections. It's advertised as a cybercrime platform by a threat group calling itself Jinkusu, granting customers access to a dashboard that lets them select a brand to impersonate or enter a brand's real URL. It also lets",
+      "published": "Tue, 03 Mar 2026 16:40:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets",
@@ -135,26 +155,23 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
-      "link": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
-      "summary": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them. On paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, something feels off: Sign-ups increase, but users aren’t activating. Server costs rise faster than revenue. Logs are filled with repeated requests from strange user agents. If",
-      "published": "Mon, 02 Mar 2026 17:25:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Amazon: Drone strikes damaged AWS data centers in Middle East",
+      "link": "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/",
+      "summary": "Amazon has confirmed that three Amazon Web Services (AWS) data centers in the United Arab Emirates (UAE) and one in Bahrain have been damaged by drone strikes, causing an extensive outage that is still affecting dozens of cloud computing services. [...]",
+      "published": "Tue, 03 Mar 2026 06:44:44 -0500",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
-      "link": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
-      "summary": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai. The vulnerability in question is CVE-2026-21513 (CVSS score: 8.8), a high-severity security feature bypass affecting the MSHTML Framework. \"Protection mechanism failure in MSHTML Framework allows an unauthorized",
-      "published": "Mon, 02 Mar 2026 16:06:00 +0530",
-      "value_score": 68,
+      "source": "BleepingComputer",
+      "title": "Star Citizen game dev discloses breach affecting user data",
+      "link": "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/",
+      "summary": "Cloud Imperium Games (CIG), the game developer behind Star Citizen and Squadron 42, says attackers breached systems containing some users' personal information in January. [...]",
+      "published": "Tue, 03 Mar 2026 05:50:26 -0500",
+      "value_score": 22,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Patch/update",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Breach/leak"
       ]
     },
     {
@@ -218,24 +235,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
       "summary": "A Florida woman was sentenced to 22 months in prison for running a massive years-long scheme to traffic thousands of stolen Microsoft Certificate of Authenticity (COA) labels. [...]",
       "published": "Mon, 02 Mar 2026 12:30:13 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK warns of Iranian cyberattack risks amid Middle-East conflict",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/",
-      "summary": "The United Kingdom's National Cyber Security Centre (NCSC) alerted British organizations to a heightened risk of Iranian cyberattacks amid the ongoing conflict in the Middle East. [...]",
-      "published": "Mon, 02 Mar 2026 10:54:33 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How Deepfakes and Injection Attacks Are Breaking Identity Verification",
-      "link": "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/",
-      "summary": "Deepfakes and injection attacks are targeting identity verification moments, from onboarding to account recovery. Incode explains why enterprises must validate the full session—media, device integrity, and behavior—to stop synthetic and injected attacks in real time. [...]",
-      "published": "Mon, 02 Mar 2026 10:01:11 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -332,6 +331,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks",
+      "link": "https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks",
+      "summary": "Iran and its supporters have taken to cyberspace to retaliate for US-Israeli military action, with an aim to cause economic and physical disruption.",
+      "published": "Tue, 03 Mar 2026 11:30:31 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks",
       "link": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
       "summary": "The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
@@ -400,14 +408,36 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "The Case for Why Better Breach Transparency Matters",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters",
-      "summary": "It's become a standard practice for organizations to disclose the bare minimum about a data breach, or worse — not disclose the incident at all.",
-      "published": "Fri, 27 Feb 2026 16:18:19 GMT",
-      "value_score": 34,
+      "source": "Security Week",
+      "title": "Android Update Patches Exploited Qualcomm Zero-Day",
+      "link": "https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/",
+      "summary": "An integer overflow or wraparound in the Qualcomm graphics component, the bug leads to memory corruption. The post Android Update Patches Exploited Qualcomm Zero-Day appeared first on SecurityWeek .",
+      "published": "Tue, 03 Mar 2026 12:41:16 +0000",
+      "value_score": 82,
       "value_signals": [
-        "Breach/leak ×2"
+        "Zero-day ×2",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low",
+      "link": "https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/",
+      "summary": "The cybersecurity industry is monitoring the landscape and says many of the big claims made by hacktivist groups remain unverified. The post Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low appeared first on SecurityWeek .",
+      "published": "Tue, 03 Mar 2026 12:25:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise",
+      "link": "https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/",
+      "summary": "Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data. The post Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise appeared first on SecurityWeek .",
+      "published": "Tue, 03 Mar 2026 10:43:20 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
       ]
     },
     {
@@ -458,33 +488,6 @@
       "value_signals": [
         "CISA/KEV ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AWS Expands Security Hub Into a Cross-Domain Security Platform",
-      "link": "https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/",
-      "summary": "The AWS Security Hub Extended plan aims to reduce security tool sprawl by correlating findings across multiple security domains. The post AWS Expands Security Hub Into a Cross-Domain Security Platform appeared first on SecurityWeek .",
-      "published": "Mon, 02 Mar 2026 12:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "North Korean APT Targets Air-Gapped Systems in Recent Campaign",
-      "link": "https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/",
-      "summary": "Using Windows shortcut files, the APT deployed a new implant, a loader, a propagation tool, and two backdoors. The post North Korean APT Targets Air-Gapped Systems in Recent Campaign appeared first on SecurityWeek .",
-      "published": "Mon, 02 Mar 2026 11:46:29 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Working Towards Quantum-Safe Chrome HTTPS Certificates",
-      "link": "https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/",
-      "summary": "The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs). The post Google Working Towards Quantum-Safe Chrome HTTPS Certificates appeared first on SecurityWeek .",
-      "published": "Mon, 02 Mar 2026 11:33:34 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03 01:47",
+  "last_updated": "2026-03-03 04:10",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,7 +11,6 @@
     "bypass authentication cause",
     "windows operating systems",
     "chargemap chargemap com",
-    "viral ai tool",
     "vulnerabilities earned microsoft's",
     "twitter whistleblower complaint",
     "see everything together",
@@ -22,48 +21,49 @@
     "50 security holes",
     "kimwolf botnet lurking",
     "gain unauthorized access",
-    "wiper malware ddos"
+    "wiper malware ddos",
+    "vulnerable charging stations"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 244
+      "mentions": 245
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 275
+      "mentions": 276
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "bypass authentication cause",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 467
+      "mentions": 468
     },
     {
       "keyword": "chargemap chargemap com",
-      "mentions": 49
-    },
-    {
-      "keyword": "viral ai tool",
-      "mentions": 1
+      "mentions": 50
     },
     {
       "keyword": "vulnerabilities earned microsoft's",
-      "mentions": 131
+      "mentions": 132
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 869
     }
   ],
   "articles": [
@@ -329,6 +329,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era",
+      "link": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development",
+      "summary": "Speed and security are historically clashing priorities, but with AI and automation, it's increasingly important that application developers and security teams get on the same page.",
+      "published": "Mon, 02 Mar 2026 21:32:04 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "30 Alleged Members of 'The Com' Arrested in Project Compass",
       "link": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
       "summary": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
@@ -386,15 +395,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Claude Code Security Shows Promise, Not Perfection",
-      "link": "https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection",
-      "summary": "Claude Code's introduction rippled across the stock market, but researchers and analysts say its impact was overstated, as they peel back the layers.",
-      "published": "Fri, 27 Feb 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-03 01:47 UTC  
+> **Last Updated:** 2026-03-03 04:10 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **windows operating systems** • **chargemap chargemap com** • **viral ai tool** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **major outage right** • **insufficient policy enforcement** • **anthropic confirms claude** • **50 security holes** • **kimwolf botnet lurking** • **gain unauthorized access** • **wiper malware ddos**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **windows operating systems** • **chargemap chargemap com** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **major outage right** • **insufficient policy enforcement** • **anthropic confirms claude** • **50 security holes** • **kimwolf botnet lurking** • **gain unauthorized access** • **wiper malware ddos** • **vulnerable charging stations**
 
 ---
 
@@ -50,13 +50,13 @@
 ### Dark Reading
 
 - [Critical OpenClaw Vulnerability Exposes AI Agent Risks](https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks)
+- [The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era](https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development)
 - [30 Alleged Members of 'The Com' Arrested in Project Compass](https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass)
 - [Bug in Google's Gemini AI Panel Opens Door to Hijacking](https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking)
 - [Life Mirrors Art: Ransomware Hits Hospitals on TV &amp; IRL](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hospitals-tv-irl)
 - [Cities Hosting Major Events Need More Focus on Wireless, Drone Defense](https://www.darkreading.com/cyber-risk/cities-major-events-wireless-drone-defense)
 - [Flaw-Finding AI Assistants Face Criticism for Speed, Accuracy](https://www.darkreading.com/application-security/flaw-finding-ai-assistants-face-criticism-speed-accuracy)
 - [The Case for Why Better Breach Transparency Matters](https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters)
-- [Claude Code Security Shows Promise, Not Perfection](https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection)
 
 ### Security Week
 

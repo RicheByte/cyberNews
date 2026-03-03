@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-03 12:42 UTC |
+| 🕐 Last Updated | 2026-03-03 14:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `researchers uncover method` • `badbox 2 0` • `brand's real url` • `mobility46 mobility46 se` • `ev2go ev2go io` • `cloudcharge cloudcharge se` • `windows operating systems` • `bypass authentication cause` • `chargemap chargemap com`
+`badbox 2 0` • `scattered lapsus shinyhunters` • `brand's real url` • `mobility46 mobility46 se` • `ev2go ev2go io` • `cloudcharge cloudcharge se` • `windows operating systems` • `researchers uncover method` • `bypass authentication cause` • `chargemap chargemap com`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-02 22:22 UTC  
+> **Last Updated:** 2026-03-03 01:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **windows operating systems** • **chargemap chargemap com** • **50 security holes** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **major outage right** • **insufficient policy enforcement** • **anthropic confirms claude** • **kimwolf botnet lurking** • **gain unauthorized access** • **wiper malware ddos** • **vulnerable charging stations**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **mobility46 mobility46 se** • **ev2go ev2go io** • **cloudcharge cloudcharge se** • **bypass authentication cause** • **windows operating systems** • **chargemap chargemap com** • **viral ai tool** • **vulnerabilities earned microsoft's** • **twitter whistleblower complaint** • **see everything together** • **popular online destinations** • **major outage right** • **insufficient policy enforcement** • **anthropic confirms claude** • **50 security holes** • **kimwolf botnet lurking** • **gain unauthorized access** • **wiper malware ddos**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [CyberStrikeAI tool adopted by hackers for AI-powered attacks](https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/)
 - [Fake Google Security site uses PWA app to steal credentials, MFA codes](https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/)
 - [Alabama man pleads guilty to hacking, extorting hundreds of women](https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/)
 - [Florida woman imprisoned for massive Microsoft license fraud scheme](https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/)
@@ -34,7 +35,6 @@
 - [How Deepfakes and Injection Attacks Are Breaking Identity Verification](https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/)
 - [Anthropic confirms Claude is down in a worldwide outage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/)
 - [ClawJacked attack let malicious websites hijack OpenClaw to steal data](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/)
-- [Samsung TVs to stop collecting Texans’ data without express consent](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Critical OpenClaw Vulnerability Exposes AI Agent Risks](https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks)
 - [30 Alleged Members of 'The Com' Arrested in Project Compass](https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass)
 - [Bug in Google's Gemini AI Panel Opens Door to Hijacking](https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking)
 - [Life Mirrors Art: Ransomware Hits Hospitals on TV &amp; IRL](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hospitals-tv-irl)
@@ -56,7 +57,6 @@
 - [Flaw-Finding AI Assistants Face Criticism for Speed, Accuracy](https://www.darkreading.com/application-security/flaw-finding-ai-assistants-face-criticism-speed-accuracy)
 - [The Case for Why Better Breach Transparency Matters](https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters)
 - [Claude Code Security Shows Promise, Not Perfection](https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection)
-- [Marquis v. SonicWall Lawsuit Ups the Breach Blame Game](https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game)
 
 ### Security Week
 

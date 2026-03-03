@@ -158,7 +158,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 473,
+      "count": 474,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -223,7 +223,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 874,
+      "count": 875,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3214,7 +3214,7 @@
       ]
     },
     "vulnerabilities earned microsoft's": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -4582,7 +4582,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 281,
+      "count": 282,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5378,7 +5378,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 250,
+      "count": 251,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6353,7 +6353,7 @@
       ]
     },
     "50 security holes": {
-      "count": 183,
+      "count": 184,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7497,7 +7497,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8100,7 +8100,7 @@
       ]
     },
     "mobility46 mobility46 se": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8111,7 +8111,7 @@
       ]
     },
     "ev2go ev2go io": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8122,7 +8122,7 @@
       ]
     },
     "cloudcharge cloudcharge se": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8133,7 +8133,7 @@
       ]
     },
     "chargemap chargemap com": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8164,7 +8164,7 @@
       ]
     },
     "gain unauthorized access": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -8201,7 +8201,7 @@
       ]
     },
     "bypass authentication cause": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-02-27",
         "2026-02-28",
@@ -8378,7 +8378,7 @@
       ]
     },
     "insufficient policy enforcement": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-02",
         "2026-03-03"
@@ -8409,7 +8409,7 @@
       ]
     },
     "government targets microsoft": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-03"
       ]
@@ -8421,7 +8421,7 @@
       ]
     },
     "brand's real url": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-03"
       ]
@@ -8433,7 +8433,7 @@
       ]
     },
     "shor s algorithm": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-03"
       ]
@@ -8443,20 +8443,27 @@
       "dates": [
         "2026-03-03"
       ]
+    },
+    "fig security launches": {
+      "count": 1,
+      "dates": [
+        "2026-03-03"
+      ]
+    },
+    "honeywell researcher clash": {
+      "count": 1,
+      "dates": [
+        "2026-03-03"
+      ]
+    },
+    "misroute legitimate traffic": {
+      "count": 1,
+      "dates": [
+        "2026-03-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-22 16:23",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "limited research preview",
-        "windows operating systems",
-        "beyondtrust vulnerability exploited"
-      ]
-    },
     {
       "timestamp": "2026-02-22 18:28",
       "articles": 56,
@@ -9544,6 +9551,17 @@
         "brand's real url",
         "mobility46 mobility46 se",
         "ev2go ev2go io"
+      ]
+    },
+    {
+      "timestamp": "2026-03-03 16:40",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "scattered lapsus shinyhunters",
+        "mobility46 mobility46 se",
+        "ev2go ev2go io",
+        "cloudcharge cloudcharge se"
       ]
     }
   ]

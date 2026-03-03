@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-03-03 14:40",
+  "last_updated": "2026-03-03 16:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "badbox 2 0",
     "scattered lapsus shinyhunters",
-    "brand's real url",
     "mobility46 mobility46 se",
     "ev2go ev2go io",
     "cloudcharge cloudcharge se",
     "windows operating systems",
-    "researchers uncover method",
+    "legitimate site forwarding",
+    "brand's real url",
+    "fig security launches",
     "bypass authentication cause",
     "chargemap chargemap com",
     "government targets microsoft",
+    "honeywell researcher clash",
     "vulnerabilities earned microsoft's",
     "twitter whistleblower complaint",
     "shor s algorithm",
     "insufficient policy enforcement",
-    "gain unauthorized access",
-    "legitimate site forwarding",
-    "health related information",
-    "cyberstrikeai tool adopted",
-    "kimwolf botnet lurking"
+    "50 security holes",
+    "misroute legitimate traffic",
+    "gain unauthorized access"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 281
+      "mentions": 282
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 250
-    },
-    {
-      "keyword": "brand's real url",
-      "mentions": 2
+      "mentions": 251
     },
     {
       "keyword": "mobility46 mobility46 se",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "ev2go ev2go io",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "cloudcharge cloudcharge se",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 473
+      "mentions": 474
     },
     {
-      "keyword": "researchers uncover method",
+      "keyword": "legitimate site forwarding",
+      "mentions": 31
+    },
+    {
+      "keyword": "brand's real url",
       "mentions": 3
     },
     {
-      "keyword": "bypass authentication cause",
-      "mentions": 47
+      "keyword": "fig security launches",
+      "mentions": 1
     },
     {
-      "keyword": "chargemap chargemap com",
-      "mentions": 55
+      "keyword": "bypass authentication cause",
+      "mentions": 48
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow",
+      "link": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
+      "summary": "Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and yet they are also the most vulnerable to the cognitive and organizational pressures that quietly erode SOC performance over time. The Paradox at the Gate:",
+      "published": "Tue, 03 Mar 2026 20:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries",
+      "link": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
+      "summary": "The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks. The new findings come from Team Cymru, which detected its use following an analysis of the IP address (\"212.11.64[.]250\") that was used by the suspected",
+      "published": "Tue, 03 Mar 2026 19:59:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
@@ -135,23 +153,25 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
-      "link": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
-      "summary": "Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers. \"To ensure the scalability and efficiency of the ecosystem, Chrome has no immediate plan to add traditional X.509 certificates containing post-quantum cryptography to the Chrome Root Store,\" the Chrome Secure Web and Networking Team said. \"",
-      "published": "Mon, 02 Mar 2026 22:22:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "LexisNexis confirms data breach as hackers leak stolen files",
+      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/",
+      "summary": "American data analytics company LexisNexis Legal & Professional has confirmed to BleepingComputer that hackers breached its servers and accessed some customer and business information. [...]",
+      "published": "Tue, 03 Mar 2026 10:40:48 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
-      "link": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
-      "summary": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, exposed keys, and normal features are being used as entry points. The pattern becomes clear only when you see everything together. Faster scans, smarter misuse of trusted services, and steady",
-      "published": "Mon, 02 Mar 2026 18:56:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets",
+      "link": "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/",
+      "summary": "Compromised cPanel credentials are being sold in bulk across underground channels as plug-and-play phishing and scam infrastructure. Flare explains how analyzing 200,000 underground posts reveals a commoditized market for hacked site management panels. [...]",
+      "published": "Tue, 03 Mar 2026 10:01:11 -0500",
       "value_score": 18,
       "value_signals": [
-        "High severity"
+        "Phishing"
       ]
     },
     {
@@ -219,24 +239,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Alabama man pleads guilty to hacking, extorting hundreds of women",
-      "link": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/",
-      "summary": "A 22-year-old Alabama man pleaded guilty to extortion, cyberstalking, and computer fraud charges after hijacking the social media accounts of hundreds of young women (including minors). [...]",
-      "published": "Mon, 02 Mar 2026 13:54:34 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
-      "link": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
-      "summary": "A Florida woman was sentenced to 22 months in prison for running a massive years-long scheme to traffic thousands of stolen Microsoft Certificate of Authenticity (COA) labels. [...]",
-      "published": "Mon, 02 Mar 2026 12:30:13 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -411,6 +413,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Fig Security Launches With $38 Million to Bolster SecOps Resilience",
+      "link": "https://www.securityweek.com/fig-security-launches-with-38-million-to-bolster-secops-resilience/",
+      "summary": "The company was founded in March 2025 and it has now emerged from stealth mode. The post Fig Security Launches With $38 Million to Bolster SecOps Resilience appeared first on SecurityWeek .",
+      "published": "Tue, 03 Mar 2026 15:56:25 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Honeywell, Researcher Clash Over Impact of Building Controller Vulnerability",
+      "link": "https://www.securityweek.com/honeywell-researcher-clash-over-impact-of-building-controller-vulnerability/",
+      "summary": "The researcher says he has identified thousands of internet-exposed IQ4 building management controllers. The post Honeywell, Researcher Clash Over Impact of Building Controller Vulnerability appeared first on SecurityWeek .",
+      "published": "Tue, 03 Mar 2026 15:28:47 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Quantum Decryption of RSA is Much Closer than Expected",
       "link": "https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/",
       "summary": "For decades, the quantum threat to RSA and ECC encryption has been tied to Shor’s algorithm and the assumption that we would need million-qubit quantum computers to make it practical. A newly announced algorithm challenges that assumption and suggests the breaking point could arrive far sooner than expected. The post Quantum Decryption of RSA is Much Closer than Expected appeared first on SecurityWeek .",
@@ -470,24 +490,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Researchers Uncover Method to Track Cars via Tire Sensors",
-      "link": "https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/",
-      "summary": "Using low-cost receivers deployed along roads, academic researchers tracked drivers and their movement patterns. The post Researchers Uncover Method to Track Cars via Tire Sensors appeared first on SecurityWeek .",
-      "published": "Tue, 03 Mar 2026 09:40:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant",
-      "link": "https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/",
-      "summary": "Malicious extensions could hijack the Gemini Live in Chrome feature to spy on users and steal their files. The post Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant appeared first on SecurityWeek .",
-      "published": "Mon, 02 Mar 2026 15:26:45 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

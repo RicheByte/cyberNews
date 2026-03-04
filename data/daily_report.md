@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-04 14:35 UTC  
+> **Last Updated:** 2026-03-04 16:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **epower epower ie** • **labkotec lid 3300ip** • **17 2 1** • **badbox 2 0** • **gain unauthorized control** • **50 security holes** • **legitimate site forwarding** • **dire critical rating** • **webinar today designing** • **twitter whistleblower complaint** • **system operations leading** • **remote code execution** • **packagist deploy rat** • **maintain business continuity** • **disrupt charging services** • **cloud computing services** • **business continuity join** • **bugs fixed today** • **kimwolf botnet lurking**
+**zurich acquires beazley** • **scattered lapsus shinyhunters** • **epower epower ie** • **labkotec lid 3300ip** • **17 2 1** • **badbox 2 0** • **gain unauthorized control** • **national security risk** • **50 security holes** • **webinar today designing** • **twitter whistleblower complaint** • **system operations leading** • **packagist deploy rat** • **disrupt charging services** • **dire critical rating** • **11 billion deal** • **maintain business continuity** • **business continuity join** • **bugs fixed today** • **kimwolf botnet lurking**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Mississippi medical center reopens clinics hit by ransomware attack](https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/)
+- [How a Brute Force Attack Unmasked a Ransomware Infrastructure Network](https://www.bleepingcomputer.com/news/security/how-a-brute-force-attack-unmasked-a-ransomware-infrastructure-network/)
 - [CISA flags VMware Aria Operations RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/)
 - [Paint maker giant AkzoNobel confirms cyberattack on U.S. site](https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/)
 - [Facebook accounts unavailable in worldwide outage](https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/)
 - [Microsoft: Hackers abuse OAuth error flows to spread malware](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/)
 - [Google Chrome shifts to two-week release cycle for increased stability](https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/)
 - [LexisNexis confirms data breach as hackers leak stolen files](https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/)
-- [Compromised Site Management Panels are a Hot Item in Cybercrime Markets](https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/)
-- [Amazon: Drone strikes damaged AWS data centers in Middle East](https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance](https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/)
+- [Hacker Conversations: Inti De Ceukelaire, Raging Against the Machine Creatively](https://www.securityweek.com/hacker-conversations-inti-de-ceukelaire-raging-against-the-machine-creatively/)
 - [How Pirated Software Turns Helpful Employees Into Malware Delivery Agents](https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/)
 - [AI Security Firm JetStream Launches With $34 Million in Seed Funding](https://www.securityweek.com/ai-security-firm-jetstream-launches-with-34-million-in-seed-funding/)
 - [LastPass Warns of New Phishing Campaign](https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/)
 - [Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity](https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/)
 - [Google Plans Two-Week Release Schedule for Chrome](https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/)
 - [Global Coalition Publishes 6G Security and Resilience Principles](https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/)
-- [Critical FreeScout Vulnerability Leads to Full Server Compromise](https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/)
-- [VMware Aria Operations Vulnerability Exploited in the Wild](https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/)
 
 ### Threatpost
 

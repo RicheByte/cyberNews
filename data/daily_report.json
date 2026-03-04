@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-04 14:35",
+  "last_updated": "2026-03-04 16:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "zurich acquires beazley",
     "scattered lapsus shinyhunters",
     "epower epower ie",
     "labkotec lid 3300ip",
     "17 2 1",
     "badbox 2 0",
     "gain unauthorized control",
+    "national security risk",
     "50 security holes",
-    "legitimate site forwarding",
-    "dire critical rating",
     "webinar today designing",
     "twitter whistleblower complaint",
     "system operations leading",
-    "remote code execution",
     "packagist deploy rat",
-    "maintain business continuity",
     "disrupt charging services",
-    "cloud computing services",
+    "dire critical rating",
+    "11 billion deal",
+    "maintain business continuity",
     "business continuity join",
     "bugs fixed today",
     "kimwolf botnet lurking"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 261
-    },
-    {
-      "keyword": "epower epower ie",
-      "mentions": 10
-    },
-    {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 10
-    },
-    {
-      "keyword": "17 2 1",
+      "keyword": "zurich acquires beazley",
       "mentions": 1
     },
     {
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 262
+    },
+    {
+      "keyword": "epower epower ie",
+      "mentions": 11
+    },
+    {
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 11
+    },
+    {
+      "keyword": "17 2 1",
+      "mentions": 2
+    },
+    {
       "keyword": "badbox 2 0",
-      "mentions": 292
+      "mentions": 293
     },
     {
       "keyword": "gain unauthorized control",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 144
     },
     {
       "keyword": "50 security holes",
-      "mentions": 194
-    },
-    {
-      "keyword": "legitimate site forwarding",
-      "mentions": 41
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 107
+      "mentions": 195
     },
     {
       "keyword": "webinar today designing",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -154,6 +154,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Mississippi medical center reopens clinics hit by ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/",
+      "summary": "The University of Mississippi Medical Center (UMMC) says it has resumed normal operations, nine days after a ransomware attack blocked access to electronic medical records and took down many of its IT systems. [...]",
+      "published": "Wed, 04 Mar 2026 10:28:56 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "How a Brute Force Attack Unmasked a Ransomware Infrastructure Network",
+      "link": "https://www.bleepingcomputer.com/news/security/how-a-brute-force-attack-unmasked-a-ransomware-infrastructure-network/",
+      "summary": "A routine RDP brute-force alert led to unusual credential hunting and a geo-distributed VPN-linked infrastructure. Huntress Labs explains how one compromised login unraveled a suspected ransomware-as-a-service ecosystem tied to initial access brokers. [...]",
+      "published": "Wed, 04 Mar 2026 10:02:12 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA flags VMware Aria Operations RCE flaw as exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a VMware Aria Operations vulnerability tracked as CVE-2026-22719 to its Known Exploited Vulnerabilities catalog, flagging the flaw as exploited in attacks. [...]",
@@ -214,26 +236,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets",
-      "link": "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/",
-      "summary": "Compromised cPanel credentials are being sold in bulk across underground channels as plug-and-play phishing and scam infrastructure. Flare explains how analyzing 200,000 underground posts reveals a commoditized market for hacked site management panels. [...]",
-      "published": "Tue, 03 Mar 2026 10:01:11 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Amazon: Drone strikes damaged AWS data centers in Middle East",
-      "link": "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/",
-      "summary": "Amazon has confirmed that three Amazon Web Services (AWS) data centers in the United Arab Emirates (UAE) and one in Bahrain have been damaged by drone strikes, causing an extensive outage that is still affecting dozens of cloud computing services. [...]",
-      "published": "Tue, 03 Mar 2026 06:44:44 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -410,6 +412,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance",
+      "link": "https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/",
+      "summary": "The deal awaits final shareholder and regulatory approvals and is expected to be completed in the second half of 2026. The post Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance appeared first on SecurityWeek .",
+      "published": "Wed, 04 Mar 2026 15:36:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Hacker Conversations: Inti De Ceukelaire, Raging Against the Machine Creatively",
+      "link": "https://www.securityweek.com/hacker-conversations-inti-de-ceukelaire-raging-against-the-machine-creatively/",
+      "summary": "A Belgian national, De Ceukelaire’ did not set out to be a hacker. Like many hackers he was born with the potential to become one and only gradually realized he is one. The post Hacker Conversations: Inti De Ceukelaire, Raging Against the Machine Creatively appeared first on SecurityWeek .",
+      "published": "Wed, 04 Mar 2026 15:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "How Pirated Software Turns Helpful Employees Into Malware Delivery Agents",
       "link": "https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/",
       "summary": "Employees seeking free versions of paid software may unknowingly install malware-laced “cracked” apps that can steal credentials, deploy cryptominers, or open the door to ransomware. The post How Pirated Software Turns Helpful Employees Into Malware Delivery Agents appeared first on SecurityWeek .",
@@ -465,33 +485,6 @@
       "published": "Wed, 04 Mar 2026 10:57:18 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical FreeScout Vulnerability Leads to Full Server Compromise",
-      "link": "https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/",
-      "summary": "A patch bypass for an authenticated code execution bug, the flaw leads to zero-click remote code execution attacks. The post Critical FreeScout Vulnerability Leads to Full Server Compromise appeared first on SecurityWeek .",
-      "published": "Wed, 04 Mar 2026 09:16:39 +0000",
-      "value_score": 54,
-      "value_signals": [
-        "RCE",
-        "Patch/update",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "VMware Aria Operations Vulnerability Exploited in the Wild",
-      "link": "https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/",
-      "summary": "The recently patched CVE-2026-22719 can be exploited by an unauthenticated attacker for remote code execution. The post VMware Aria Operations Vulnerability Exploited in the Wild appeared first on SecurityWeek .",
-      "published": "Wed, 04 Mar 2026 07:24:45 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "RCE",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

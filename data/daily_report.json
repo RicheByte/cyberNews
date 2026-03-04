@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04 18:40",
+  "last_updated": "2026-03-04 20:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -17,53 +17,53 @@
     "50 security holes",
     "webinar today designing",
     "twitter whistleblower complaint",
+    "targeted espionage campaigns",
     "system operations leading",
     "packagist deploy rat",
+    "legitimate site forwarding",
     "disrupt charging services",
-    "dire critical rating",
-    "11 billion deal",
-    "popular online destinations"
+    "dire critical rating"
   ],
   "trending": [
     {
       "keyword": "zurich acquires beazley",
-      "mentions": 2
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 263
-    },
-    {
-      "keyword": "epower epower ie",
-      "mentions": 12
-    },
-    {
-      "keyword": "17 2 1",
       "mentions": 3
     },
     {
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 264
+    },
+    {
+      "keyword": "epower epower ie",
+      "mentions": 13
+    },
+    {
+      "keyword": "17 2 1",
+      "mentions": 4
+    },
+    {
       "keyword": "leakbase cybercrime forum",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 294
+      "mentions": 295
     },
     {
       "keyword": "gain unauthorized control",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "maintain business continuity",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "business continuity join",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -154,6 +154,37 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cisco warns of max severity Secure FMC flaws giving root access",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/",
+      "summary": "Cisco has released security updates to patch two maximum-severity vulnerabilities in its Secure Firewall Management Center (FMC) software. [...]",
+      "published": "Wed, 04 Mar 2026 14:12:43 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/",
+      "summary": "A previously undocumented set of 23 iOS exploits named \"Coruna\" has been deployed by multiple threat actors in targeted espionage campaigns and financially motivated attacks. [...]",
+      "published": "Wed, 04 Mar 2026 14:06:13 -0500",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hacker mass-mails HungerRush extortion emails to restaurant patrons",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/",
+      "summary": "Customers of restaurants using the HungerRush point-of-sale (POS) platform say they received emails from a threat actor attempting to extort the company, warning that restaurant and customer data could be exposed if HungerRush fails to respond. [...]",
+      "published": "Wed, 04 Mar 2026 13:44:14 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI seizes LeakBase cybercrime forum, data of 142,000 members",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/",
       "summary": "The FBI has seized the LeakBase cybercrime forum, a major online forum used by cybercriminals buy and sell hacking tools and stolen data. [...]",
@@ -206,35 +237,6 @@
         "RCE",
         "CISA/KEV ×3",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Paint maker giant AkzoNobel confirms cyberattack on U.S. site",
-      "link": "https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/",
-      "summary": "The multinational Dutch paint company AkzoNobel has confirmed to BleepingComputer that hackers breached the network of one of its U.S. sites. [...]",
-      "published": "Tue, 03 Mar 2026 18:00:53 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Facebook accounts unavailable in worldwide outage",
-      "link": "https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/",
-      "summary": "Social media giant Facebook is currently experiencing a massive worldwide outage, preventing users from accessing their accounts. [...]",
-      "published": "Tue, 03 Mar 2026 17:38:55 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Hackers abuse OAuth error flows to spread malware",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/",
-      "summary": "Hackers are abusing the legitimate OAuth redirection mechanism to bypass phishing protections in email and browsers to take users to malicious pages. [...]",
-      "published": "Tue, 03 Mar 2026 15:59:19 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

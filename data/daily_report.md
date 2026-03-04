@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-04 18:40 UTC  
+> **Last Updated:** 2026-03-04 20:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**zurich acquires beazley** • **scattered lapsus shinyhunters** • **epower epower ie** • **17 2 1** • **leakbase cybercrime forum** • **labkotec lid 3300ip** • **badbox 2 0** • **gain unauthorized control** • **maintain business continuity** • **business continuity join** • **national security risk** • **50 security holes** • **webinar today designing** • **twitter whistleblower complaint** • **system operations leading** • **packagist deploy rat** • **disrupt charging services** • **dire critical rating** • **11 billion deal** • **popular online destinations**
+**zurich acquires beazley** • **scattered lapsus shinyhunters** • **epower epower ie** • **17 2 1** • **leakbase cybercrime forum** • **labkotec lid 3300ip** • **badbox 2 0** • **gain unauthorized control** • **maintain business continuity** • **business continuity join** • **national security risk** • **50 security holes** • **webinar today designing** • **twitter whistleblower complaint** • **targeted espionage campaigns** • **system operations leading** • **packagist deploy rat** • **legitimate site forwarding** • **disrupt charging services** • **dire critical rating**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Cisco warns of max severity Secure FMC flaws giving root access](https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/)
+- [Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks](https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/)
+- [Hacker mass-mails HungerRush extortion emails to restaurant patrons](https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/)
 - [FBI seizes LeakBase cybercrime forum, data of 142,000 members](https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/)
 - [Europol-coordinated action disrupts Tycoon2FA phishing platform](https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/)
 - [Mississippi medical center reopens clinics hit by ransomware attack](https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/)
 - [How a Brute Force Attack Unmasked a Ransomware Infrastructure Network](https://www.bleepingcomputer.com/news/security/how-a-brute-force-attack-unmasked-a-ransomware-infrastructure-network/)
 - [CISA flags VMware Aria Operations RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/)
-- [Paint maker giant AkzoNobel confirms cyberattack on U.S. site](https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/)
-- [Facebook accounts unavailable in worldwide outage](https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/)
-- [Microsoft: Hackers abuse OAuth error flows to spread malware](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/)
 
 ### Krebs on Security
 

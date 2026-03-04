@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-04 12:43 UTC  
+> **Last Updated:** 2026-03-04 14:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**united arab emirates** • **scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **labkotec lid 3300ip** • **gain unauthorized control** • **dire critical rating** • **50 security holes** • **maintain business continuity** • **business continuity join** • **webinar today designing** • **twitter whistleblower complaint** • **system operations leading** • **remote code execution** • **legitimate site forwarding** • **bugs fixed today** • **kimwolf botnet lurking** • **security issues associated** • **national security risk** • **victim's username password**
+**scattered lapsus shinyhunters** • **epower epower ie** • **labkotec lid 3300ip** • **17 2 1** • **badbox 2 0** • **gain unauthorized control** • **50 security holes** • **legitimate site forwarding** • **dire critical rating** • **webinar today designing** • **twitter whistleblower complaint** • **system operations leading** • **remote code execution** • **packagist deploy rat** • **maintain business continuity** • **disrupt charging services** • **cloud computing services** • **business continuity join** • **bugs fixed today** • **kimwolf botnet lurking**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1](https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html)
 - [New RFP Template for AI Usage Control and AI Governance](https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html)
 - [Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux](https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html)
 - [APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2](https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html)
@@ -23,7 +24,6 @@
 - [Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations](https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html)
 - [Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow](https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html)
 - [Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries](https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html)
-- [AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html)
 
 ### BleepingComputer
 
@@ -50,16 +50,17 @@
 ### Dark Reading
 
 - [Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate](https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate)
+- [China's Silver Dragon Razes Governments in EU, SE Asia](https://www.darkreading.com/threat-intelligence/china-silver-dragon-governments-eu-se-asia)
 - [Indian APT 'Sloppy Lemming' Targets Defense, Critical Infrastructure](https://www.darkreading.com/threat-intelligence/india-apt-sloppy-lemming-defense-critical-infrastructure)
 - [Vehicle Tire Pressure Sensors Enable Silent Tracking](https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking)
 - [Qualcomm Zero-Day Exploited in Targeted Android Attacks](https://www.darkreading.com/threat-intelligence/qualcomm-zero-day-exploited-targeted-android-attacks)
 - [Speakeasies to Shadow AI: Banning AI Browsers Will Fail](https://www.darkreading.com/cyber-risk/speakeasies-shadow-ai-banning-ai-browsers-fail)
 - [AI Agent Overload: How to Solve the Workload Identity Crisis](https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis)
 - [As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks](https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks)
-- [Critical OpenClaw Vulnerability Exposes AI Agent Risks](https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks)
 
 ### Security Week
 
+- [How Pirated Software Turns Helpful Employees Into Malware Delivery Agents](https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/)
 - [AI Security Firm JetStream Launches With $34 Million in Seed Funding](https://www.securityweek.com/ai-security-firm-jetstream-launches-with-34-million-in-seed-funding/)
 - [LastPass Warns of New Phishing Campaign](https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/)
 - [Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity](https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/)
@@ -67,7 +68,6 @@
 - [Global Coalition Publishes 6G Security and Resilience Principles](https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/)
 - [Critical FreeScout Vulnerability Leads to Full Server Compromise](https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/)
 - [VMware Aria Operations Vulnerability Exploited in the Wild](https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/)
-- [Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters](https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/)
 
 ### Threatpost
 

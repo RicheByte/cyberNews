@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-03 22:23",
+  "last_updated": "2026-03-04 01:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "badbox 2 0",
     "united arab emirates",
     "scattered lapsus shinyhunters",
-    "legitimate site forwarding",
     "epower epower ie",
     "labkotec lid 3300ip",
     "fig security launches",
     "brand's real url",
+    "system operations leading",
+    "legitimate site forwarding",
     "government targets microsoft",
     "gain unauthorized control",
     "honeywell researcher clash",
     "windows operating systems",
     "twitter whistleblower complaint",
-    "shor s algorithm",
     "50 security holes",
+    "six malware variants",
     "dire critical rating",
+    "critical infrastructure operators",
     "kimwolf botnet lurking",
-    "ransomware gang stole",
-    "system operations leading",
-    "victim's username password"
+    "shor s algorithm"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 285
+      "mentions": 286
     },
     {
       "keyword": "united arab emirates",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 254
-    },
-    {
-      "keyword": "legitimate site forwarding",
-      "mentions": 34
+      "mentions": 255
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 3
-    },
-    {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 3
-    },
-    {
-      "keyword": "fig security launches",
       "mentions": 4
     },
     {
-      "keyword": "brand's real url",
-      "mentions": 6
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 4
     },
     {
-      "keyword": "government targets microsoft",
+      "keyword": "fig security launches",
+      "mentions": 5
+    },
+    {
+      "keyword": "brand's real url",
       "mentions": 7
     },
     {
-      "keyword": "gain unauthorized control",
-      "mentions": 3
+      "keyword": "system operations leading",
+      "mentions": 4
+    },
+    {
+      "keyword": "legitimate site forwarding",
+      "mentions": 35
+    },
+    {
+      "keyword": "government targets microsoft",
+      "mentions": 8
     }
   ],
   "articles": [
@@ -154,6 +154,38 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "CISA flags VMware Aria Operations RCE flaw as exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a VMware Aria Operations vulnerability tracked as CVE-2026-22719 to its Known Exploited Vulnerabilities catalog, flagging the flaw as exploited in attacks. [...]",
+      "published": "Tue, 03 Mar 2026 18:40:37 -0500",
+      "value_score": 94,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "CISA/KEV ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Paint maker giant AkzoNobel confirms cyberattack on U.S. site",
+      "link": "https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/",
+      "summary": "The multinational Dutch paint company AkzoNobel has confirmed to BleepingComputer that hackers breached the network of one of its U.S. sites. [...]",
+      "published": "Tue, 03 Mar 2026 18:00:53 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Facebook accounts unavailable in worldwide outage",
+      "link": "https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/",
+      "summary": "Social media giant Facebook is currently experiencing a massive worldwide outage, preventing users from accessing their accounts. [...]",
+      "published": "Tue, 03 Mar 2026 17:38:55 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft: Hackers abuse OAuth error flows to spread malware",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/",
       "summary": "Hackers are abusing the legitimate OAuth redirection mechanism to bypass phishing protections in email and browsers to take users to malicious pages. [...]",
@@ -202,43 +234,6 @@
       "published": "Tue, 03 Mar 2026 06:44:44 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Star Citizen game dev discloses breach affecting user data",
-      "link": "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/",
-      "summary": "Cloud Imperium Games (CIG), the game developer behind Star Citizen and Squadron 42, says attackers breached systems containing some users' personal information in January. [...]",
-      "published": "Tue, 03 Mar 2026 05:50:26 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UH Cancer Center data breach affects nearly 1.2 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/",
-      "summary": "The University of Hawaii confirmed that a ransomware gang stole the data of nearly 1.2 million individuals in August 2025 after breaching its Cancer Center's Epidemiology Division. [...]",
-      "published": "Tue, 03 Mar 2026 04:48:51 -0500",
-      "value_score": 40,
-      "value_signals": [
-        "Ransomware",
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Android gets patches for Qualcomm zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/",
-      "summary": "Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component. [...]",
-      "published": "Tue, 03 Mar 2026 03:19:53 -0500",
-      "value_score": 99,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation",
-        "Patch/update",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -333,6 +328,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate",
+      "link": "https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate",
+      "summary": "Dark Reading Confidential Episode 15: Interpol relied on Will Thomas and team to help break up a sprawling cybercrime ring, leading to the arrest of 574 suspects, the recovery of more than $3 million, and the decryption of six malware variants. Here's his story.",
+      "published": "Wed, 04 Mar 2026 15:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Vehicle Tire Pressure Sensors Enable Silent Tracking",
       "link": "https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking",
       "summary": "Like many other features and systems in modern cars, tire pressure sensors leak sensitive data that can be abused by threat actors.",
@@ -399,15 +403,6 @@
       "link": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development",
       "summary": "Speed and security are historically clashing priorities, but with AI and automation, it's increasingly important that application developers and security teams get on the same page.",
       "published": "Mon, 02 Mar 2026 21:32:04 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "30 Alleged Members of 'The Com' Arrested in Project Compass",
-      "link": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
-      "summary": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
-      "published": "Mon, 02 Mar 2026 20:32:09 GMT",
       "value_score": 10,
       "value_signals": []
     },

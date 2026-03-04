@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-03 22:23 UTC  
+> **Last Updated:** 2026-03-04 01:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **united arab emirates** • **scattered lapsus shinyhunters** • **legitimate site forwarding** • **epower epower ie** • **labkotec lid 3300ip** • **fig security launches** • **brand's real url** • **government targets microsoft** • **gain unauthorized control** • **honeywell researcher clash** • **windows operating systems** • **twitter whistleblower complaint** • **shor s algorithm** • **50 security holes** • **dire critical rating** • **kimwolf botnet lurking** • **ransomware gang stole** • **system operations leading** • **victim's username password**
+**badbox 2 0** • **united arab emirates** • **scattered lapsus shinyhunters** • **epower epower ie** • **labkotec lid 3300ip** • **fig security launches** • **brand's real url** • **system operations leading** • **legitimate site forwarding** • **government targets microsoft** • **gain unauthorized control** • **honeywell researcher clash** • **windows operating systems** • **twitter whistleblower complaint** • **50 security holes** • **six malware variants** • **dire critical rating** • **critical infrastructure operators** • **kimwolf botnet lurking** • **shor s algorithm**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [CISA flags VMware Aria Operations RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/)
+- [Paint maker giant AkzoNobel confirms cyberattack on U.S. site](https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/)
+- [Facebook accounts unavailable in worldwide outage](https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/)
 - [Microsoft: Hackers abuse OAuth error flows to spread malware](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/)
 - [Google Chrome shifts to two-week release cycle for increased stability](https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/)
 - [LexisNexis confirms data breach as hackers leak stolen files](https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/)
 - [Compromised Site Management Panels are a Hot Item in Cybercrime Markets](https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/)
 - [Amazon: Drone strikes damaged AWS data centers in Middle East](https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/)
-- [Star Citizen game dev discloses breach affecting user data](https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/)
-- [UH Cancer Center data breach affects nearly 1.2 million people](https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/)
-- [Android gets patches for Qualcomm zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate](https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate)
 - [Vehicle Tire Pressure Sensors Enable Silent Tracking](https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking)
 - [Qualcomm Zero-Day Exploited in Targeted Android Attacks](https://www.darkreading.com/threat-intelligence/qualcomm-zero-day-exploited-targeted-android-attacks)
 - [Speakeasies to Shadow AI: Banning AI Browsers Will Fail](https://www.darkreading.com/cyber-risk/speakeasies-shadow-ai-banning-ai-browsers-fail)
@@ -56,7 +57,6 @@
 - [As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks](https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks)
 - [Critical OpenClaw Vulnerability Exposes AI Agent Risks](https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks)
 - [The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era](https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development)
-- [30 Alleged Members of 'The Com' Arrested in Project Compass](https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass)
 
 ### Security Week
 

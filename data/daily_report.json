@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04 08:33",
+  "last_updated": "2026-03-04 10:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,64 +9,85 @@
     "epower epower ie",
     "labkotec lid 3300ip",
     "fig security launches",
-    "brand's real url",
     "system operations leading",
     "legitimate site forwarding",
     "gain unauthorized control",
-    "honeywell researcher clash",
-    "windows operating systems",
-    "twitter whistleblower complaint",
     "dire critical rating",
+    "honeywell researcher clash",
+    "twitter whistleblower complaint",
+    "remote code execution",
     "50 security holes",
     "kimwolf botnet lurking",
     "shor s algorithm",
     "intercept sensitive data",
-    "government targets microsoft",
+    "brand's real url",
+    "wi fi vulnerability",
     "victim's username password"
   ],
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 289
+      "mentions": 290
     },
     {
       "keyword": "united arab emirates",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 258
+      "mentions": 259
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 7
-    },
-    {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 7
-    },
-    {
-      "keyword": "fig security launches",
       "mentions": 8
     },
     {
-      "keyword": "brand's real url",
-      "mentions": 10
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 8
+    },
+    {
+      "keyword": "fig security launches",
+      "mentions": 9
     },
     {
       "keyword": "system operations leading",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "legitimate site forwarding",
-      "mentions": 38
+      "mentions": 39
     },
     {
       "keyword": "gain unauthorized control",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 105
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
+      "link": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
+      "summary": "Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that's functional on Windows, macOS, and Linux systems. The names of the packages are listed below - nhattuanbl/lara-helper (37 Downloads) nhattuanbl/simple-queue (29 Downloads) nhattuanbl/lara-swagger (49 Downloads)",
+      "published": "Wed, 04 Mar 2026 15:07:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
+      "link": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024. \"Silver Dragon gains its initial access by exploiting public-facing internet servers and by delivering phishing emails that contain malicious attachments,\" Check Point said",
+      "published": "Wed, 04 Mar 2026 13:44:00 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Phishing",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog",
@@ -129,31 +150,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets",
-      "link": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html",
-      "summary": "Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers. The activity, the company said, targets government and public-sector organizations with the end goal of redirecting victims to attacker-controlled infrastructure without stealing their tokens. It described",
-      "published": "Tue, 03 Mar 2026 14:50:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
-      "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
-      "summary": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild. The vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component. \"Memory corruption when adding user-supplied data without checking available buffer space,\" Qualcomm said in an advisory,",
-      "published": "Tue, 03 Mar 2026 12:38:00 +0530",
-      "value_score": 85,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation",
-        "Multiple CVEs",
-        "Exploit wording"
       ]
     },
     {
@@ -412,6 +408,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical FreeScout Vulnerability Leads to Full Server Compromise",
+      "link": "https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/",
+      "summary": "A patch bypass for an authenticated code execution bug, the flaw leads to zero-click remote code execution attacks. The post Critical FreeScout Vulnerability Leads to Full Server Compromise appeared first on SecurityWeek .",
+      "published": "Wed, 04 Mar 2026 09:16:39 +0000",
+      "value_score": 54,
+      "value_signals": [
+        "RCE",
+        "Patch/update",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "VMware Aria Operations Vulnerability Exploited in the Wild",
       "link": "https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/",
       "summary": "The recently patched CVE-2026-22719 can be exploited by an unauthenticated attacker for remote code execution. The post VMware Aria Operations Vulnerability Exploited in the Wild appeared first on SecurityWeek .",
@@ -478,19 +487,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Android Update Patches Exploited Qualcomm Zero-Day",
-      "link": "https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/",
-      "summary": "An integer overflow or wraparound in the Qualcomm graphics component, the bug leads to memory corruption. The post Android Update Patches Exploited Qualcomm Zero-Day appeared first on SecurityWeek .",
-      "published": "Tue, 03 Mar 2026 12:41:16 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update ×2",
-        "Exploit wording"
       ]
     },
     {

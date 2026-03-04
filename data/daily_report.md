@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-04 08:33 UTC  
+> **Last Updated:** 2026-03-04 10:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **united arab emirates** • **scattered lapsus shinyhunters** • **epower epower ie** • **labkotec lid 3300ip** • **fig security launches** • **brand's real url** • **system operations leading** • **legitimate site forwarding** • **gain unauthorized control** • **honeywell researcher clash** • **windows operating systems** • **twitter whistleblower complaint** • **dire critical rating** • **50 security holes** • **kimwolf botnet lurking** • **shor s algorithm** • **intercept sensitive data** • **government targets microsoft** • **victim's username password**
+**badbox 2 0** • **united arab emirates** • **scattered lapsus shinyhunters** • **epower epower ie** • **labkotec lid 3300ip** • **fig security launches** • **system operations leading** • **legitimate site forwarding** • **gain unauthorized control** • **dire critical rating** • **honeywell researcher clash** • **twitter whistleblower complaint** • **remote code execution** • **50 security holes** • **kimwolf botnet lurking** • **shor s algorithm** • **intercept sensitive data** • **brand's real url** • **wi fi vulnerability** • **victim's username password**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux](https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html)
+- [APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2](https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html)
 - [CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog](https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html)
 - [Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations](https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html)
 - [Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow](https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html)
 - [Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries](https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html)
 - [AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged](https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html)
 - [Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication](https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html)
-- [Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets](https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html)
-- [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Critical FreeScout Vulnerability Leads to Full Server Compromise](https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/)
 - [VMware Aria Operations Vulnerability Exploited in the Wild](https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/)
 - [Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters](https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/)
 - [Fig Security Launches With $38 Million to Bolster SecOps Resilience](https://www.securityweek.com/fig-security-launches-with-38-million-to-bolster-secops-resilience/)
@@ -67,7 +68,6 @@
 - [Quantum Decryption of RSA Is Much Closer Than Expected](https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/)
 - [New ‘AirSnitch’ Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security](https://www.securityweek.com/new-airsnitch-attack-shows-wi-fi-client-isolation-could-be-a-false-sense-of-security/)
 - [1.2 Million Affected by University of Hawaii Cancer Center Data Breach](https://www.securityweek.com/1-2-million-affected-by-university-of-hawaii-cancer-center-data-breach/)
-- [Android Update Patches Exploited Qualcomm Zero-Day](https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/)
 
 ### Threatpost
 

@@ -224,7 +224,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 883,
+      "count": 884,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -553,7 +553,7 @@
       ]
     },
     "remote code execution": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -805,7 +805,7 @@
       ]
     },
     "national security risk": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -827,7 +827,8 @@
         "2026-02-09",
         "2026-02-10",
         "2026-02-11",
-        "2026-02-12"
+        "2026-02-12",
+        "2026-03-04"
       ]
     },
     "open source millions": {
@@ -3180,7 +3181,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3204,7 +3205,7 @@
       ]
     },
     "bugs fixed today": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-01-14",
         "2026-01-21",
@@ -3215,7 +3216,8 @@
         "2026-02-10",
         "2026-02-11",
         "2026-02-12",
-        "2026-02-13"
+        "2026-02-13",
+        "2026-03-04"
       ]
     },
     "vulnerabilities earned microsoft's": {
@@ -4587,7 +4589,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 290,
+      "count": 291,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5031,7 +5033,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5385,7 +5387,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 259,
+      "count": 260,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6361,7 +6363,7 @@
       ]
     },
     "50 security holes": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7506,7 +7508,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7641,7 +7643,7 @@
       ]
     },
     "victim's username password": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8480,21 +8482,21 @@
       ]
     },
     "epower epower ie": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-03",
         "2026-03-04"
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-03",
         "2026-03-04"
       ]
     },
     "gain unauthorized control": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-03",
         "2026-03-04"
@@ -8507,14 +8509,14 @@
       ]
     },
     "system operations leading": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-03",
         "2026-03-04"
       ]
     },
     "united arab emirates": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-03",
         "2026-03-04"
@@ -8543,20 +8545,33 @@
       "dates": [
         "2026-03-04"
       ]
+    },
+    "maintain business continuity": {
+      "count": 1,
+      "dates": [
+        "2026-03-04"
+      ]
+    },
+    "business continuity join": {
+      "count": 1,
+      "dates": [
+        "2026-03-04"
+      ]
+    },
+    "webinar today designing": {
+      "count": 1,
+      "dates": [
+        "2026-03-04"
+      ]
+    },
+    "security issues associated": {
+      "count": 1,
+      "dates": [
+        "2026-03-04"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-23 12:53",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "limited research preview",
-        "windows operating systems",
-        "web shells backdoors"
-      ]
-    },
     {
       "timestamp": "2026-02-23 14:41",
       "articles": 48,
@@ -9642,6 +9657,17 @@
         "badbox 2 0",
         "united arab emirates",
         "scattered lapsus shinyhunters",
+        "epower epower ie",
+        "labkotec lid 3300ip"
+      ]
+    },
+    {
+      "timestamp": "2026-03-04 12:43",
+      "articles": 56,
+      "top_keywords": [
+        "united arab emirates",
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
         "epower epower ie",
         "labkotec lid 3300ip"
       ]

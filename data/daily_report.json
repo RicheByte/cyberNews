@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04 06:40",
+  "last_updated": "2026-03-04 08:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "badbox 2 0",
-      "mentions": 288
+      "mentions": 289
     },
     {
       "keyword": "united arab emirates",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 257
+      "mentions": 258
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 6
-    },
-    {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 6
-    },
-    {
-      "keyword": "fig security launches",
       "mentions": 7
     },
     {
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 7
+    },
+    {
+      "keyword": "fig security launches",
+      "mentions": 8
+    },
+    {
       "keyword": "brand's real url",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "system operations leading",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "legitimate site forwarding",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "gain unauthorized control",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
@@ -412,6 +412,20 @@
     },
     {
       "source": "Security Week",
+      "title": "VMware Aria Operations Vulnerability Exploited in the Wild",
+      "link": "https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/",
+      "summary": "The recently patched CVE-2026-22719 can be exploited by an unauthenticated attacker for remote code execution. The post VMware Aria Operations Vulnerability Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Wed, 04 Mar 2026 07:24:45 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters",
       "link": "https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/",
       "summary": "Two AWS data centers in the United Arab Emirates were “directly struck” and another facility in Bahrain was also damaged after a drone landed nearby. The post Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters appeared first on SecurityWeek .",
@@ -478,15 +492,6 @@
         "Patch/update ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low",
-      "link": "https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/",
-      "summary": "The cybersecurity industry is monitoring the landscape and says many of the big claims made by hacktivist groups remain unverified. The post Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low appeared first on SecurityWeek .",
-      "published": "Tue, 03 Mar 2026 12:25:28 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

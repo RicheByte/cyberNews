@@ -224,7 +224,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 886,
+      "count": 887,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -805,7 +805,7 @@
       ]
     },
     "national security risk": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3181,7 +3181,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4589,7 +4589,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 293,
+      "count": 294,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5387,7 +5387,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 262,
+      "count": 263,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6363,7 +6363,7 @@
       ]
     },
     "50 security holes": {
-      "count": 195,
+      "count": 196,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7734,13 +7734,14 @@
       ]
     },
     "popular online destinations": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-23",
         "2026-02-24",
         "2026-03-01",
         "2026-03-02",
-        "2026-03-03"
+        "2026-03-03",
+        "2026-03-04"
       ]
     },
     "hacktivist group believed": {
@@ -8482,21 +8483,21 @@
       ]
     },
     "epower epower ie": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-03",
         "2026-03-04"
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-03",
         "2026-03-04"
       ]
     },
     "gain unauthorized control": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-03",
         "2026-03-04"
@@ -8509,7 +8510,7 @@
       ]
     },
     "system operations leading": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-03",
         "2026-03-04"
@@ -8547,19 +8548,19 @@
       ]
     },
     "maintain business continuity": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-04"
       ]
     },
     "business continuity join": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-04"
       ]
     },
     "webinar today designing": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-04"
       ]
@@ -8571,19 +8572,19 @@
       ]
     },
     "17 2 1": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-04"
       ]
     },
     "packagist deploy rat": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-04"
       ]
     },
     "disrupt charging services": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-04"
       ]
@@ -8595,12 +8596,18 @@
       ]
     },
     "zurich acquires beazley": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-04"
       ]
     },
     "11 billion deal": {
+      "count": 2,
+      "dates": [
+        "2026-03-04"
+      ]
+    },
+    "leakbase cybercrime forum": {
       "count": 1,
       "dates": [
         "2026-03-04"
@@ -8608,17 +8615,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-23 18:56",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "limited research preview",
-        "identity isn t",
-        "untrusted data vulnerability"
-      ]
-    },
     {
       "timestamp": "2026-02-23 20:39",
       "articles": 56,
@@ -9706,6 +9702,17 @@
         "epower epower ie",
         "labkotec lid 3300ip",
         "17 2 1"
+      ]
+    },
+    {
+      "timestamp": "2026-03-04 18:40",
+      "articles": 56,
+      "top_keywords": [
+        "zurich acquires beazley",
+        "scattered lapsus shinyhunters",
+        "epower epower ie",
+        "17 2 1",
+        "leakbase cybercrime forum"
       ]
     }
   ]

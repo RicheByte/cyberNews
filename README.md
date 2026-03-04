@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-04 16:36 UTC |
+| 🕐 Last Updated | 2026-03-04 18:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`zurich acquires beazley` • `scattered lapsus shinyhunters` • `epower epower ie` • `labkotec lid 3300ip` • `17 2 1` • `badbox 2 0` • `gain unauthorized control` • `national security risk` • `50 security holes` • `webinar today designing`
+`zurich acquires beazley` • `scattered lapsus shinyhunters` • `epower epower ie` • `17 2 1` • `leakbase cybercrime forum` • `labkotec lid 3300ip` • `badbox 2 0` • `gain unauthorized control` • `maintain business continuity` • `business continuity join`
 
 ## 📄 Reports
 

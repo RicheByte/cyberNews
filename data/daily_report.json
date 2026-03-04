@@ -1,15 +1,18 @@
 {
-  "last_updated": "2026-03-04 16:36",
+  "last_updated": "2026-03-04 18:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "zurich acquires beazley",
     "scattered lapsus shinyhunters",
     "epower epower ie",
-    "labkotec lid 3300ip",
     "17 2 1",
+    "leakbase cybercrime forum",
+    "labkotec lid 3300ip",
     "badbox 2 0",
     "gain unauthorized control",
+    "maintain business continuity",
+    "business continuity join",
     "national security risk",
     "50 security holes",
     "webinar today designing",
@@ -19,54 +22,60 @@
     "disrupt charging services",
     "dire critical rating",
     "11 billion deal",
-    "maintain business continuity",
-    "business continuity join",
-    "bugs fixed today",
-    "kimwolf botnet lurking"
+    "popular online destinations"
   ],
   "trending": [
     {
       "keyword": "zurich acquires beazley",
-      "mentions": 1
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 262
-    },
-    {
-      "keyword": "epower epower ie",
-      "mentions": 11
-    },
-    {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 11
-    },
-    {
-      "keyword": "17 2 1",
       "mentions": 2
     },
     {
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 263
+    },
+    {
+      "keyword": "epower epower ie",
+      "mentions": 12
+    },
+    {
+      "keyword": "17 2 1",
+      "mentions": 3
+    },
+    {
+      "keyword": "leakbase cybercrime forum",
+      "mentions": 1
+    },
+    {
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 12
+    },
+    {
       "keyword": "badbox 2 0",
-      "mentions": 293
+      "mentions": 294
     },
     {
       "keyword": "gain unauthorized control",
-      "mentions": 11
+      "mentions": 12
     },
     {
-      "keyword": "national security risk",
-      "mentions": 144
+      "keyword": "maintain business continuity",
+      "mentions": 4
     },
     {
-      "keyword": "50 security holes",
-      "mentions": 195
-    },
-    {
-      "keyword": "webinar today designing",
-      "mentions": 3
+      "keyword": "business continuity join",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
+      "link": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
+      "summary": "Cybersecurity researchers have warned of a surge in retaliatory hacktivist activity following the U.S.-Israel coordinated military campaign against Iran, codenamed Epic Fury and Roaring Lion. \"The hacktivist threat in the Middle East is highly lopsided, with two groups, Keymous+ and DieNet, driving nearly 70% of all attack activity between February 28 and March 2,\" Radware said in a Tuesday",
+      "published": "Wed, 04 Mar 2026 22:51:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1",
@@ -144,13 +153,24 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries",
-      "link": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
-      "summary": "The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks. The new findings come from Team Cymru, which detected its use following an analysis of the IP address (\"212.11.64[.]250\") that was used by the suspected",
-      "published": "Tue, 03 Mar 2026 19:59:00 +0530",
+      "source": "BleepingComputer",
+      "title": "FBI seizes LeakBase cybercrime forum, data of 142,000 members",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/",
+      "summary": "The FBI has seized the LeakBase cybercrime forum, a major online forum used by cybercriminals buy and sell hacking tools and stolen data. [...]",
+      "published": "Wed, 04 Mar 2026 12:44:46 -0500",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Europol-coordinated action disrupts Tycoon2FA phishing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/",
+      "summary": "An international law enforcement operation coordinated by Europol has disrupted Tycoon2FA, a major phishing-as-a-service (PhaaS) platform linked to tens of millions of phishing messages each month. [...]",
+      "published": "Wed, 04 Mar 2026 12:01:26 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -215,26 +235,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google Chrome shifts to two-week release cycle for increased stability",
-      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/",
-      "summary": "Google Chrome will shift from a four-week to a two-week release cycle to roll out new features, bug fixes, and performance improvements more frequently. [...]",
-      "published": "Tue, 03 Mar 2026 12:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "LexisNexis confirms data breach as hackers leak stolen files",
-      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/",
-      "summary": "American data analytics company LexisNexis Legal & Professional has confirmed to BleepingComputer that hackers breached its servers and accessed some customer and business information. [...]",
-      "published": "Tue, 03 Mar 2026 10:40:48 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -330,6 +330,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Stranger Things Meets Cybersecurity: Lessons from the Hive Mind",
+      "link": "https://www.darkreading.com/cybersecurity-operations/stranger-things-meets-cybersecurity-lessons-hive-mind",
+      "summary": "Events and concepts from the Stranger Things television series illustrate how enterprises can defend their networks and stay \"right side up.\"",
+      "published": "Wed, 04 Mar 2026 17:09:27 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate",
       "link": "https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate",
       "summary": "Dark Reading Confidential Episode 15: Interpol relied on Will Thomas and team to help break up a sprawling cybercrime ring, leading to the arrest of 574 suspects, the recovery of more than $3 million, and the decryption of six malware variants. Here's his story.",
@@ -341,7 +350,7 @@
       "source": "Dark Reading",
       "title": "China's Silver Dragon Razes Governments in EU, SE Asia",
       "link": "https://www.darkreading.com/threat-intelligence/china-silver-dragon-governments-eu-se-asia",
-      "summary": "The emerging actor, part of the APT41 nexus, gains initial access via phishing, and uses legitimate network services to obscure cyberespionage activities.",
+      "summary": "The emerging actor, part of the APT41 nexus, gains initial access via phishing, and uses legitimate network services to obscure cyber espionage activities.",
       "published": "Wed, 04 Mar 2026 11:26:55 GMT",
       "value_score": 18,
       "value_signals": [
@@ -402,13 +411,26 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks",
-      "link": "https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks",
-      "summary": "Iran and its supporters have taken to cyberspace to retaliate for US-Israeli military action, with an aim to cause economic and physical disruption.",
-      "published": "Tue, 03 Mar 2026 11:30:31 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Tycoon 2FA Phishing Platform Dismantled in Global Takedown",
+      "link": "https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/",
+      "summary": "The phishing-as-a-service platform was used to send fraudulent emails to over 500,000 organizations every month. The post Tycoon 2FA Phishing Platform Dismantled in Global Takedown appeared first on SecurityWeek .",
+      "published": "Wed, 04 Mar 2026 18:37:26 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "New LexisNexis Data Breach Confirmed After Hackers Leak Files",
+      "link": "https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/",
+      "summary": "The hackers claim to have stolen 2GB of files, including 400,000 personal information records. The post New LexisNexis Data Breach Confirmed After Hackers Leak Files appeared first on SecurityWeek .",
+      "published": "Wed, 04 Mar 2026 17:44:14 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×4"
+      ]
     },
     {
       "source": "Security Week",
@@ -465,24 +487,6 @@
       "link": "https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/",
       "summary": "Join the webinar as we explore a blueprint for an OT SOC leveraging an integrated OT Security Platform to safeguard operations and maintain business continuity. The post Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity appeared first on SecurityWeek .",
       "published": "Wed, 04 Mar 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Plans Two-Week Release Schedule for Chrome",
-      "link": "https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/",
-      "summary": "Starting September 2026, new Chrome iterations will be released twice as fast, part of a two-week cycle. The post Google Plans Two-Week Release Schedule for Chrome appeared first on SecurityWeek .",
-      "published": "Wed, 04 Mar 2026 11:52:04 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Global Coalition Publishes 6G Security and Resilience Principles",
-      "link": "https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/",
-      "summary": "The principles cover security, resilience against attacks and disasters, AI, and openness and interoperability. The post Global Coalition Publishes 6G Security and Resilience Principles appeared first on SecurityWeek .",
-      "published": "Wed, 04 Mar 2026 10:57:18 +0000",
       "value_score": 10,
       "value_signals": []
     },

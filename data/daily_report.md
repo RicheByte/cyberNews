@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-04 16:36 UTC  
+> **Last Updated:** 2026-03-04 18:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**zurich acquires beazley** • **scattered lapsus shinyhunters** • **epower epower ie** • **labkotec lid 3300ip** • **17 2 1** • **badbox 2 0** • **gain unauthorized control** • **national security risk** • **50 security holes** • **webinar today designing** • **twitter whistleblower complaint** • **system operations leading** • **packagist deploy rat** • **disrupt charging services** • **dire critical rating** • **11 billion deal** • **maintain business continuity** • **business continuity join** • **bugs fixed today** • **kimwolf botnet lurking**
+**zurich acquires beazley** • **scattered lapsus shinyhunters** • **epower epower ie** • **17 2 1** • **leakbase cybercrime forum** • **labkotec lid 3300ip** • **badbox 2 0** • **gain unauthorized control** • **maintain business continuity** • **business continuity join** • **national security risk** • **50 security holes** • **webinar today designing** • **twitter whistleblower complaint** • **system operations leading** • **packagist deploy rat** • **disrupt charging services** • **dire critical rating** • **11 billion deal** • **popular online destinations**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict](https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html)
 - [Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1](https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html)
 - [New RFP Template for AI Usage Control and AI Governance](https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html)
 - [Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux](https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html)
@@ -23,18 +24,17 @@
 - [CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog](https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html)
 - [Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations](https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html)
 - [Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow](https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html)
-- [Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries](https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html)
 
 ### BleepingComputer
 
+- [FBI seizes LeakBase cybercrime forum, data of 142,000 members](https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/)
+- [Europol-coordinated action disrupts Tycoon2FA phishing platform](https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/)
 - [Mississippi medical center reopens clinics hit by ransomware attack](https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/)
 - [How a Brute Force Attack Unmasked a Ransomware Infrastructure Network](https://www.bleepingcomputer.com/news/security/how-a-brute-force-attack-unmasked-a-ransomware-infrastructure-network/)
 - [CISA flags VMware Aria Operations RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/)
 - [Paint maker giant AkzoNobel confirms cyberattack on U.S. site](https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/)
 - [Facebook accounts unavailable in worldwide outage](https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/)
 - [Microsoft: Hackers abuse OAuth error flows to spread malware](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/)
-- [Google Chrome shifts to two-week release cycle for increased stability](https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/)
-- [LexisNexis confirms data breach as hackers leak stolen files](https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Stranger Things Meets Cybersecurity: Lessons from the Hive Mind](https://www.darkreading.com/cybersecurity-operations/stranger-things-meets-cybersecurity-lessons-hive-mind)
 - [Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate](https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate)
 - [China's Silver Dragon Razes Governments in EU, SE Asia](https://www.darkreading.com/threat-intelligence/china-silver-dragon-governments-eu-se-asia)
 - [Indian APT 'Sloppy Lemming' Targets Defense, Critical Infrastructure](https://www.darkreading.com/threat-intelligence/india-apt-sloppy-lemming-defense-critical-infrastructure)
@@ -56,18 +57,17 @@
 - [Qualcomm Zero-Day Exploited in Targeted Android Attacks](https://www.darkreading.com/threat-intelligence/qualcomm-zero-day-exploited-targeted-android-attacks)
 - [Speakeasies to Shadow AI: Banning AI Browsers Will Fail](https://www.darkreading.com/cyber-risk/speakeasies-shadow-ai-banning-ai-browsers-fail)
 - [AI Agent Overload: How to Solve the Workload Identity Crisis](https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis)
-- [As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks](https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks)
 
 ### Security Week
 
+- [Tycoon 2FA Phishing Platform Dismantled in Global Takedown](https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/)
+- [New LexisNexis Data Breach Confirmed After Hackers Leak Files](https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/)
 - [Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance](https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/)
 - [Hacker Conversations: Inti De Ceukelaire, Raging Against the Machine Creatively](https://www.securityweek.com/hacker-conversations-inti-de-ceukelaire-raging-against-the-machine-creatively/)
 - [How Pirated Software Turns Helpful Employees Into Malware Delivery Agents](https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/)
 - [AI Security Firm JetStream Launches With $34 Million in Seed Funding](https://www.securityweek.com/ai-security-firm-jetstream-launches-with-34-million-in-seed-funding/)
 - [LastPass Warns of New Phishing Campaign](https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/)
 - [Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity](https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/)
-- [Google Plans Two-Week Release Schedule for Chrome](https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/)
-- [Global Coalition Publishes 6G Security and Resilience Principles](https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/)
 
 ### Threatpost
 

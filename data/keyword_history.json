@@ -158,7 +158,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 478,
+      "count": 479,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -224,7 +224,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 879,
+      "count": 880,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3179,7 +3179,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 101,
+      "count": 102,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4586,7 +4586,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 286,
+      "count": 287,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5030,7 +5030,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5384,7 +5384,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 255,
+      "count": 256,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6360,7 +6360,7 @@
       ]
     },
     "50 security holes": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -7505,7 +7505,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8419,7 +8419,7 @@
       ]
     },
     "government targets microsoft": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-03",
         "2026-03-04"
@@ -8432,7 +8432,7 @@
       ]
     },
     "brand's real url": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-03",
         "2026-03-04"
@@ -8445,7 +8445,7 @@
       ]
     },
     "shor s algorithm": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-03",
         "2026-03-04"
@@ -8458,14 +8458,14 @@
       ]
     },
     "fig security launches": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-03",
         "2026-03-04"
       ]
     },
     "honeywell researcher clash": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-03",
         "2026-03-04"
@@ -8478,21 +8478,21 @@
       ]
     },
     "epower epower ie": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-03",
         "2026-03-04"
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-03",
         "2026-03-04"
       ]
     },
     "gain unauthorized control": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-03",
         "2026-03-04"
@@ -8505,44 +8505,33 @@
       ]
     },
     "system operations leading": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-03",
         "2026-03-04"
       ]
     },
     "united arab emirates": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-03",
         "2026-03-04"
       ]
     },
     "six malware variants": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-04"
       ]
     },
     "critical infrastructure operators": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-04"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-23 04:20",
-      "articles": 48,
-      "top_keywords": [
-        "beyondtrust vulnerability exploited",
-        "cve 2026 1731",
-        "web shells backdoors",
-        "twitter whistleblower complaint",
-        "remote code execution"
-      ]
-    },
     {
       "timestamp": "2026-02-23 06:58",
       "articles": 56,
@@ -9623,6 +9612,17 @@
     },
     {
       "timestamp": "2026-03-04 01:41",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "united arab emirates",
+        "scattered lapsus shinyhunters",
+        "epower epower ie",
+        "labkotec lid 3300ip"
+      ]
+    },
+    {
+      "timestamp": "2026-03-04 04:04",
       "articles": 56,
       "top_keywords": [
         "badbox 2 0",

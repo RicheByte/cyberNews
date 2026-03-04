@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-04 20:27 UTC  
+> **Last Updated:** 2026-03-04 22:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**zurich acquires beazley** • **scattered lapsus shinyhunters** • **epower epower ie** • **17 2 1** • **leakbase cybercrime forum** • **labkotec lid 3300ip** • **badbox 2 0** • **gain unauthorized control** • **maintain business continuity** • **business continuity join** • **national security risk** • **50 security holes** • **webinar today designing** • **twitter whistleblower complaint** • **targeted espionage campaigns** • **system operations leading** • **packagist deploy rat** • **legitimate site forwarding** • **disrupt charging services** • **dire critical rating**
+**zurich acquires beazley** • **scattered lapsus shinyhunters** • **epower epower ie** • **17 2 1** • **leakbase cybercrime forum** • **labkotec lid 3300ip** • **badbox 2 0** • **gain unauthorized control** • **maintain business continuity** • **business continuity join** • **50 security holes** • **webinar today designing** • **twitter whistleblower complaint** • **targeted espionage campaigns** • **system operations leading** • **packagist deploy rat** • **legitimate site forwarding** • **disrupt charging services** • **dire critical rating** • **11 billion deal**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers](https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/)
+- [Windows 10 KB5075039 update fixes broken Recovery Environment](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/)
+- [Fake LastPass support email threads try to steal vault passwords](https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/)
 - [Cisco warns of max severity Secure FMC flaws giving root access](https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/)
 - [Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks](https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/)
 - [Hacker mass-mails HungerRush extortion emails to restaurant patrons](https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/)
 - [FBI seizes LeakBase cybercrime forum, data of 142,000 members](https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/)
 - [Europol-coordinated action disrupts Tycoon2FA phishing platform](https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/)
-- [Mississippi medical center reopens clinics hit by ransomware attack](https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/)
-- [How a Brute Force Attack Unmasked a Ransomware Infrastructure Network](https://www.bleepingcomputer.com/news/security/how-a-brute-force-attack-unmasked-a-ransomware-infrastructure-network/)
-- [CISA flags VMware Aria Operations RCE flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [VMware Aria Operations Bug Exploited, Cloud Resources at Risk](https://www.darkreading.com/cloud-security/vmware-aria-operations-bug-exploited-cloud-risk)
 - [Stranger Things Meets Cybersecurity: Lessons from the Hive Mind](https://www.darkreading.com/cybersecurity-operations/stranger-things-meets-cybersecurity-lessons-hive-mind)
 - [Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate](https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate)
 - [China's Silver Dragon Razes Governments in EU, SE Asia](https://www.darkreading.com/threat-intelligence/china-silver-dragon-governments-eu-se-asia)
@@ -56,7 +57,6 @@
 - [Vehicle Tire Pressure Sensors Enable Silent Tracking](https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking)
 - [Qualcomm Zero-Day Exploited in Targeted Android Attacks](https://www.darkreading.com/threat-intelligence/qualcomm-zero-day-exploited-targeted-android-attacks)
 - [Speakeasies to Shadow AI: Banning AI Browsers Will Fail](https://www.darkreading.com/cyber-risk/speakeasies-shadow-ai-banning-ai-browsers-fail)
-- [AI Agent Overload: How to Solve the Workload Identity Crisis](https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis)
 
 ### Security Week
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-05 12:50 UTC  
+> **Last Updated:** 2026-03-05 14:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **epower epower ie** • **leakbase forum per** • **law enforcement agencies** • **labkotec lid 3300ip** • **badbox 2 0** • **sprawling phishing campaign** • **phishing campaign targeting** • **russian state actors** • **gain unauthorized control** • **dire critical rating** • **twitter whistleblower complaint** • **system operations leading** • **portwell engineering toolkits** • **phobos ransomware operation** • **legitimate site forwarding** • **iverify analysis reveals** • **disrupt charging services** • **cloud based command** • **17 2 1**
+**badbox 2 0** • **scattered lapsus shinyhunters** • **epower epower ie** • **leakbase forum per** • **law enforcement agencies** • **labkotec lid 3300ip** • **collecting encrypted data** • **sprawling phishing campaign** • **phishing campaign targeting** • **russian state actors** • **dire critical rating** • **gain unauthorized control** • **secure online communications** • **twitter whistleblower complaint** • **system operations leading** • **portwell engineering toolkits** • **phobos ransomware operation** • **legitimate site forwarding** • **iverify analysis reveals** • **disrupt charging services**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
+- [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
 - [Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html)
 - [Where Multi-Factor Authentication Stops and Credential Abuse Starts](https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html)
 - [APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine](https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html)
 - [Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks](https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html)
 - [FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials](https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html)
 - [149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict](https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html)
-- [Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1](https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html)
-- [New RFP Template for AI Usage Control and AI Governance](https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [LatAm Now Faces 2x More Cyberattacks Than US](https://www.darkreading.com/threat-intelligence/latam-2x-more-cyberattacks-us)
 - [VMware Aria Operations Bug Exploited, Cloud Resources at Risk](https://www.darkreading.com/cloud-security/vmware-aria-operations-bug-exploited-cloud-risk)
 - [Stranger Things Meets Cybersecurity: Lessons from the Hive Mind](https://www.darkreading.com/cybersecurity-operations/stranger-things-meets-cybersecurity-lessons-hive-mind)
 - [Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate](https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate)
@@ -56,7 +57,6 @@
 - [Indian APT 'Sloppy Lemming' Targets Defense, Critical Infrastructure](https://www.darkreading.com/threat-intelligence/india-apt-sloppy-lemming-defense-critical-infrastructure)
 - [Vehicle Tire Pressure Sensors Enable Silent Tracking](https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking)
 - [Qualcomm Zero-Day Exploited in Targeted Android Attacks](https://www.darkreading.com/threat-intelligence/qualcomm-zero-day-exploited-targeted-android-attacks)
-- [Speakeasies to Shadow AI: Banning AI Browsers Will Fail](https://www.darkreading.com/cyber-risk/speakeasies-shadow-ai-banning-ai-browsers-fail)
 
 ### Security Week
 

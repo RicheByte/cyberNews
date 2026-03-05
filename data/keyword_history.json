@@ -224,7 +224,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 895,
+      "count": 896,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1498,7 +1498,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3183,7 +3183,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4592,7 +4592,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 302,
+      "count": 303,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5392,7 +5392,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 271,
+      "count": 272,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6698,13 +6698,14 @@
       ]
     },
     "secure online communications": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-13",
         "2026-02-17",
         "2026-02-18",
         "2026-02-23",
-        "2026-02-24"
+        "2026-02-24",
+        "2026-03-05"
       ]
     },
     "original researchers observe": {
@@ -7515,7 +7516,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8492,7 +8493,7 @@
       ]
     },
     "epower epower ie": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8500,7 +8501,7 @@
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8508,7 +8509,7 @@
       ]
     },
     "gain unauthorized control": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8522,7 +8523,7 @@
       ]
     },
     "system operations leading": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8602,7 +8603,7 @@
       ]
     },
     "disrupt charging services": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-04",
         "2026-03-05"
@@ -8643,19 +8644,19 @@
       ]
     },
     "iverify analysis reveals": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-05"
       ]
     },
     "law enforcement agencies": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-05"
       ]
     },
     "russian state actors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-05"
       ]
@@ -8667,25 +8668,25 @@
       ]
     },
     "leakbase forum per": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-05"
       ]
     },
     "phishing campaign targeting": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-05"
       ]
     },
     "portwell engineering toolkits": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-05"
       ]
     },
     "phobos ransomware operation": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-05"
       ]
@@ -8695,20 +8696,15 @@
       "dates": [
         "2026-03-05"
       ]
+    },
+    "collecting encrypted data": {
+      "count": 1,
+      "dates": [
+        "2026-03-05"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-24 14:46",
-      "articles": 56,
-      "top_keywords": [
-        "badbox 2 0",
-        "scattered lapsus shinyhunters",
-        "identity prioritization isn't",
-        "github issues abused",
-        "shinyhunters extortion gang"
-      ]
-    },
     {
       "timestamp": "2026-02-24 17:00",
       "articles": 56,
@@ -9796,6 +9792,17 @@
         "leakbase forum per",
         "law enforcement agencies",
         "labkotec lid 3300ip"
+      ]
+    },
+    {
+      "timestamp": "2026-03-05 14:41",
+      "articles": 56,
+      "top_keywords": [
+        "badbox 2 0",
+        "scattered lapsus shinyhunters",
+        "epower epower ie",
+        "leakbase forum per",
+        "law enforcement agencies"
       ]
     }
   ]

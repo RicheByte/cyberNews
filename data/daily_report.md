@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-04 22:26 UTC  
+> **Last Updated:** 2026-03-05 01:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Bitwarden adds support for passkey login on Windows 11](https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/)
 - [Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers](https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/)
 - [Windows 10 KB5075039 update fixes broken Recovery Environment](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/)
 - [Fake LastPass support email threads try to steal vault passwords](https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/)
@@ -34,7 +35,6 @@
 - [Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks](https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/)
 - [Hacker mass-mails HungerRush extortion emails to restaurant patrons](https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/)
 - [FBI seizes LeakBase cybercrime forum, data of 142,000 members](https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/)
-- [Europol-coordinated action disrupts Tycoon2FA phishing platform](https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/)
 
 ### Krebs on Security
 

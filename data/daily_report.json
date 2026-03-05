@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04 22:26",
+  "last_updated": "2026-03-05 01:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "zurich acquires beazley",
-      "mentions": 4
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 265
-    },
-    {
-      "keyword": "epower epower ie",
-      "mentions": 14
-    },
-    {
-      "keyword": "17 2 1",
       "mentions": 5
     },
     {
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 266
+    },
+    {
+      "keyword": "epower epower ie",
+      "mentions": 15
+    },
+    {
+      "keyword": "17 2 1",
+      "mentions": 6
+    },
+    {
       "keyword": "leakbase cybercrime forum",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 296
+      "mentions": 297
     },
     {
       "keyword": "gain unauthorized control",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "maintain business continuity",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "business continuity join",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
@@ -154,6 +154,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Bitwarden adds support for passkey login on Windows 11",
+      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/",
+      "summary": "Bitwarden announced support for logging into Windows 11 devices using passkeys stored in the manager's vault, enabling phishing-resistant authentication. [...]",
+      "published": "Wed, 04 Mar 2026 17:34:58 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers",
       "link": "https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/",
       "summary": "A maximum severity vulnerability in the FreeScout helpdesk platform allows hackers to achieve remote code execution without any user interaction or authentication. [...]",
@@ -224,17 +235,6 @@
       "published": "Wed, 04 Mar 2026 12:44:46 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Europol-coordinated action disrupts Tycoon2FA phishing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/",
-      "summary": "An international law enforcement operation coordinated by Europol has disrupted Tycoon2FA, a major phishing-as-a-service (PhaaS) platform linked to tens of millions of phishing messages each month. [...]",
-      "published": "Wed, 04 Mar 2026 12:01:26 -0500",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
     },
     {
       "source": "Krebs on Security",

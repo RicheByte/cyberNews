@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-05 01:44 UTC  
+> **Last Updated:** 2026-03-05 04:08 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**zurich acquires beazley** • **scattered lapsus shinyhunters** • **epower epower ie** • **17 2 1** • **leakbase cybercrime forum** • **labkotec lid 3300ip** • **badbox 2 0** • **gain unauthorized control** • **maintain business continuity** • **business continuity join** • **50 security holes** • **webinar today designing** • **twitter whistleblower complaint** • **targeted espionage campaigns** • **system operations leading** • **packagist deploy rat** • **legitimate site forwarding** • **disrupt charging services** • **dire critical rating** • **11 billion deal**
+**zurich acquires beazley** • **scattered lapsus shinyhunters** • **epower epower ie** • **17 2 1** • **leakbase cybercrime forum** • **labkotec lid 3300ip** • **badbox 2 0** • **gain unauthorized control** • **system operations leading** • **twitter whistleblower complaint** • **targeted espionage campaigns** • **packagist deploy rat** • **legitimate site forwarding** • **iverify analysis reveals** • **disrupt charging services** • **dire critical rating** • **50 security holes** • **11 billion deal** • **popular online destinations** • **kimwolf botnet lurking**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks](https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/)
 - [Tycoon 2FA Phishing Platform Dismantled in Global Takedown](https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/)
 - [New LexisNexis Data Breach Confirmed After Hackers Leak Files](https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/)
 - [Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance](https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/)
@@ -67,7 +68,6 @@
 - [How Pirated Software Turns Helpful Employees Into Malware Delivery Agents](https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/)
 - [AI Security Firm JetStream Launches With $34 Million in Seed Funding](https://www.securityweek.com/ai-security-firm-jetstream-launches-with-34-million-in-seed-funding/)
 - [LastPass Warns of New Phishing Campaign](https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/)
-- [Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity](https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/)
 
 ### Threatpost
 

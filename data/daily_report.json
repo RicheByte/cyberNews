@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05 01:44",
+  "last_updated": "2026-03-05 04:08",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,59 +11,59 @@
     "labkotec lid 3300ip",
     "badbox 2 0",
     "gain unauthorized control",
-    "maintain business continuity",
-    "business continuity join",
-    "50 security holes",
-    "webinar today designing",
+    "system operations leading",
     "twitter whistleblower complaint",
     "targeted espionage campaigns",
-    "system operations leading",
     "packagist deploy rat",
     "legitimate site forwarding",
+    "iverify analysis reveals",
     "disrupt charging services",
     "dire critical rating",
-    "11 billion deal"
+    "50 security holes",
+    "11 billion deal",
+    "popular online destinations",
+    "kimwolf botnet lurking"
   ],
   "trending": [
     {
       "keyword": "zurich acquires beazley",
-      "mentions": 5
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 266
-    },
-    {
-      "keyword": "epower epower ie",
-      "mentions": 15
-    },
-    {
-      "keyword": "17 2 1",
       "mentions": 6
     },
     {
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 267
+    },
+    {
+      "keyword": "epower epower ie",
+      "mentions": 16
+    },
+    {
+      "keyword": "17 2 1",
+      "mentions": 7
+    },
+    {
       "keyword": "leakbase cybercrime forum",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 297
+      "mentions": 298
     },
     {
       "keyword": "gain unauthorized control",
-      "mentions": 15
+      "mentions": 16
     },
     {
-      "keyword": "maintain business continuity",
-      "mentions": 7
+      "keyword": "system operations leading",
+      "mentions": 16
     },
     {
-      "keyword": "business continuity join",
-      "mentions": 7
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 891
     }
   ],
   "articles": [
@@ -413,6 +413,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks",
+      "link": "https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/",
+      "summary": "Google and iVerify analysis reveals a powerful exploit kit originally used by Russian state actors that is now appearing in broader criminal campaigns. The post Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 05 Mar 2026 04:04:17 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Tycoon 2FA Phishing Platform Dismantled in Global Takedown",
       "link": "https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/",
       "summary": "The phishing-as-a-service platform was used to send fraudulent emails to over 500,000 organizations every month. The post Tycoon 2FA Phishing Platform Dismantled in Global Takedown appeared first on SecurityWeek .",
@@ -481,15 +492,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity",
-      "link": "https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/",
-      "summary": "Join the webinar as we explore a blueprint for an OT SOC leveraging an integrated OT Security Platform to safeguard operations and maintain business continuity. The post Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity appeared first on SecurityWeek .",
-      "published": "Wed, 04 Mar 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

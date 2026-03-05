@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-03-05 19:19",
+  "last_updated": "2026-03-05 20:32",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
     "epower epower ie",
+    "russian state actors",
     "overwrite arbitrary files",
     "leakbase forum per",
     "law enforcement agencies",
     "labkotec lid 3300ip",
     "collecting encrypted data",
     "sprawling phishing campaign",
-    "russian state actors",
     "cloud based command",
     "gain unauthorized control",
     "twitter whistleblower complaint",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 274
+      "mentions": 275
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 305
+      "mentions": 306
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 23
-    },
-    {
-      "keyword": "overwrite arbitrary files",
-      "mentions": 2
-    },
-    {
-      "keyword": "leakbase forum per",
-      "mentions": 4
-    },
-    {
-      "keyword": "law enforcement agencies",
-      "mentions": 6
-    },
-    {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 23
-    },
-    {
-      "keyword": "collecting encrypted data",
-      "mentions": 3
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 165
+      "mentions": 24
     },
     {
       "keyword": "russian state actors",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "overwrite arbitrary files",
+      "mentions": 3
+    },
+    {
+      "keyword": "leakbase forum per",
+      "mentions": 5
+    },
+    {
+      "keyword": "law enforcement agencies",
+      "mentions": 7
+    },
+    {
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 24
+    },
+    {
+      "keyword": "collecting encrypted data",
+      "mentions": 4
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 166
     }
   ],
   "articles": [
@@ -331,6 +331,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cisco Drops 48 New Firewall Vulnerabilities, 2 Critical",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical",
+      "summary": "Edge bugs are so fetch, and Cisco just dropped 50 new ones, including some heavy hitters with 10 out of 10 scores on the CVSS scale.",
+      "published": "Thu, 05 Mar 2026 20:11:15 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Software Development Practices Help Enterprises Tackle Real-Life Risks",
       "link": "https://www.darkreading.com/cybersecurity-operations/software-development-practices-help-enterprises-tackle-real-life-risks",
       "summary": "Organizations can borrow secure-by-design processes to manage non-technical challenges like governance or the inevitable human error.",
@@ -396,17 +407,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Vehicle Tire Pressure Sensors Enable Silent Tracking",
-      "link": "https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking",
-      "summary": "Like many other features and systems in modern cars, tire pressure sensors leak sensitive data that can be abused by threat actors.",
-      "published": "Tue, 03 Mar 2026 20:53:39 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -595,6 +595,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2017-7921 Hikvision Multiple Products Improper Authentication Vulnerability CVE-2021-22681 Rockwell Multiple Products Insufficient Protected Credentials Vulnerability CVE-2021-30952 Apple Multiple Products Integer Overflow or Wraparound Vulnerability CVE-2023-41974 Apple iOS and iPadOS Use-After-Free Vulnerability CVE-2023-43000 Apple Multiple products Use-",
+      "published": "Thu, 05 Mar 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×5",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "ePower epower.ie",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-07",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of ePower epower.ie are affected: epower.ie vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 ePower ePower epower.ie Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficient Ses",
@@ -668,18 +683,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Hitachi Energy RTU500 Product",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-03",
-      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. Successful exploitation of these vulnerabilities can result in the exposure of low-value user management information and device outage. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy RTU500 Product are affected: RTU500 series CMU Firmware vers:RTU500_series_CMU_Firmware/>=12.7.1|<=12",
-      "published": "Tue, 03 Mar 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
         "Exploit wording"
       ]
     }

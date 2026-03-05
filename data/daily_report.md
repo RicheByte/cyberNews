@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-05 19:19 UTC  
+> **Last Updated:** 2026-03-05 20:32 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **overwrite arbitrary files** • **leakbase forum per** • **law enforcement agencies** • **labkotec lid 3300ip** • **collecting encrypted data** • **sprawling phishing campaign** • **russian state actors** • **cloud based command** • **gain unauthorized control** • **twitter whistleblower complaint** • **sell stolen data** • **portwell engineering toolkits** • **phobos ransomware operation** • **legitimate site forwarding** • **iverify analysis reveals** • **disrupt charging services** • **assume stolen passwords**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **russian state actors** • **overwrite arbitrary files** • **leakbase forum per** • **law enforcement agencies** • **labkotec lid 3300ip** • **collecting encrypted data** • **sprawling phishing campaign** • **cloud based command** • **gain unauthorized control** • **twitter whistleblower complaint** • **sell stolen data** • **portwell engineering toolkits** • **phobos ransomware operation** • **legitimate site forwarding** • **iverify analysis reveals** • **disrupt charging services** • **assume stolen passwords**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Cisco Drops 48 New Firewall Vulnerabilities, 2 Critical](https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical)
 - [Software Development Practices Help Enterprises Tackle Real-Life Risks](https://www.darkreading.com/cybersecurity-operations/software-development-practices-help-enterprises-tackle-real-life-risks)
 - [LatAm Now Faces 2x More Cyberattacks Than US](https://www.darkreading.com/threat-intelligence/latam-2x-more-cyberattacks-us)
 - [VMware Aria Operations Bug Exploited, Cloud Resources at Risk](https://www.darkreading.com/cloud-security/vmware-aria-operations-bug-exploited-cloud-risk)
@@ -56,7 +57,6 @@
 - [Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate](https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate)
 - [China's Silver Dragon Razes Governments in EU, SE Asia](https://www.darkreading.com/threat-intelligence/china-silver-dragon-governments-eu-se-asia)
 - [Indian APT 'Sloppy Lemming' Targets Defense, Critical Infrastructure](https://www.darkreading.com/threat-intelligence/india-apt-sloppy-lemming-defense-critical-infrastructure)
-- [Vehicle Tire Pressure Sensors Enable Silent Tracking](https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking)
 
 ### Security Week
 
@@ -83,13 +83,13 @@
 ### CISA Alerts
 
 - [Delta Electronics CNCSoft-G2](https://www.cisa.gov/news-events/ics-advisories/icsa-26-064-01)
+- [CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog)
 - [ePower epower.ie](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-07)
 - [Mobiliti e-mobi.hu](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06)
 - [Portwell Engineering Toolkits](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-04)
 - [Mitsubishi Electric MELSEC iQ-F Series EtherNet/IP module and Ethernet module](https://www.cisa.gov/news-events/ics-advisories/icsa-26-62-01)
 - [Hitachi Energy Relion REB500 Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-02)
 - [Labkotec LID-3300IP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-05)
-- [Hitachi Energy RTU500 Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-03)
 
 ---
 

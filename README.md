@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-05 06:43 UTC |
+| 🕐 Last Updated | 2026-03-05 08:35 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`zurich acquires beazley` • `scattered lapsus shinyhunters` • `epower epower ie` • `17 2 1` • `leakbase cybercrime forum` • `labkotec lid 3300ip` • `badbox 2 0` • `gain unauthorized control` • `system operations leading` • `twitter whistleblower complaint`
+`zurich acquires beazley` • `scattered lapsus shinyhunters` • `epower epower ie` • `law enforcement agencies` • `labkotec lid 3300ip` • `badbox 2 0` • `russian state actors` • `gain unauthorized control` • `twitter whistleblower complaint` • `targeted espionage campaigns`
 
 ## 📄 Reports
 

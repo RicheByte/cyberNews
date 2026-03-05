@@ -224,7 +224,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 897,
+      "count": 898,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1498,7 +1498,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 164,
+      "count": 165,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -4592,7 +4592,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 304,
+      "count": 305,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5392,7 +5392,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 273,
+      "count": 274,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7516,7 +7516,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8493,7 +8493,7 @@
       ]
     },
     "epower epower ie": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8501,7 +8501,7 @@
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8509,7 +8509,7 @@
       ]
     },
     "gain unauthorized control": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8603,7 +8603,7 @@
       ]
     },
     "disrupt charging services": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-04",
         "2026-03-05"
@@ -8644,19 +8644,19 @@
       ]
     },
     "iverify analysis reveals": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-05"
       ]
     },
     "law enforcement agencies": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-05"
       ]
     },
     "russian state actors": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-05"
       ]
@@ -8668,7 +8668,7 @@
       ]
     },
     "leakbase forum per": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-05"
       ]
@@ -8680,36 +8680,42 @@
       ]
     },
     "portwell engineering toolkits": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-05"
       ]
     },
     "phobos ransomware operation": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-05"
       ]
     },
     "cloud based command": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-05"
       ]
     },
     "collecting encrypted data": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-05"
       ]
     },
     "overwrite arbitrary files": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-05"
       ]
     },
     "sell stolen data": {
+      "count": 2,
+      "dates": [
+        "2026-03-05"
+      ]
+    },
+    "assume stolen passwords": {
       "count": 1,
       "dates": [
         "2026-03-05"
@@ -8717,17 +8723,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-24 18:55",
-      "articles": 56,
-      "top_keywords": [
-        "badbox 2 0",
-        "scattered lapsus shinyhunters",
-        "windows operating systems",
-        "github issues abused",
-        "equation ai agents"
-      ]
-    },
     {
       "timestamp": "2026-02-24 20:29",
       "articles": 56,
@@ -9808,6 +9803,17 @@
     },
     {
       "timestamp": "2026-03-05 17:58",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "epower epower ie",
+        "overwrite arbitrary files",
+        "leakbase forum per"
+      ]
+    },
+    {
+      "timestamp": "2026-03-05 19:19",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

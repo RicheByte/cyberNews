@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-05 17:58 UTC  
+> **Last Updated:** 2026-03-05 19:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **overwrite arbitrary files** • **leakbase forum per** • **law enforcement agencies** • **labkotec lid 3300ip** • **collecting encrypted data** • **sprawling phishing campaign** • **russian state actors** • **dire critical rating** • **cloud based command** • **gain unauthorized control** • **twitter whistleblower complaint** • **sell stolen data** • **portwell engineering toolkits** • **phobos ransomware operation** • **legitimate site forwarding** • **iverify analysis reveals** • **disrupt charging services**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **overwrite arbitrary files** • **leakbase forum per** • **law enforcement agencies** • **labkotec lid 3300ip** • **collecting encrypted data** • **sprawling phishing campaign** • **russian state actors** • **cloud based command** • **gain unauthorized control** • **twitter whistleblower complaint** • **sell stolen data** • **portwell engineering toolkits** • **phobos ransomware operation** • **legitimate site forwarding** • **iverify analysis reveals** • **disrupt charging services** • **assume stolen passwords**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [WordPress membership plugin bug exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/)
+- [FBI arrests suspect linked to $46M crypto theft from US Marshals](https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/)
 - [Google says 90 zero-days were exploited in attacks last year](https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/)
 - [2026 Browser Data Reveals Major Enterprise Security Blind Spots](https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/)
 - [Police dismantles online gambling ring exploiting Ukrainian women](https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/)
 - [Cisco flags more SD-WAN flaws as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/)
 - [Phobos ransomware admin pleads guilty to wire fraud conspiracy](https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/)
 - [Bitwarden adds support for passkey login on Windows 11](https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/)
-- [Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers](https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/)
-- [Windows 10 KB5075039 update fixes broken Recovery Environment](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/)
 
 ### Krebs on Security
 

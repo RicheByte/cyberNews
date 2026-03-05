@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05 20:32",
+  "last_updated": "2026-03-05 22:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,57 +13,57 @@
     "labkotec lid 3300ip",
     "collecting encrypted data",
     "sprawling phishing campaign",
-    "cloud based command",
+    "tycoon 2fa phishing",
     "gain unauthorized control",
     "twitter whistleblower complaint",
     "sell stolen data",
     "portwell engineering toolkits",
     "phobos ransomware operation",
-    "legitimate site forwarding",
     "iverify analysis reveals",
-    "disrupt charging services",
-    "assume stolen passwords"
+    "assume stolen passwords",
+    "215 000 messages",
+    "kimwolf botnet lurking"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 275
+      "mentions": 276
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 306
+      "mentions": 307
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "russian state actors",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "overwrite arbitrary files",
-      "mentions": 3
-    },
-    {
-      "keyword": "leakbase forum per",
-      "mentions": 5
-    },
-    {
-      "keyword": "law enforcement agencies",
-      "mentions": 7
-    },
-    {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 24
-    },
-    {
-      "keyword": "collecting encrypted data",
       "mentions": 4
     },
     {
+      "keyword": "leakbase forum per",
+      "mentions": 6
+    },
+    {
+      "keyword": "law enforcement agencies",
+      "mentions": 8
+    },
+    {
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 25
+    },
+    {
+      "keyword": "collecting encrypted data",
+      "mentions": 5
+    },
+    {
       "keyword": "sprawling phishing campaign",
-      "mentions": 166
+      "mentions": 167
     }
   ],
   "articles": [
@@ -150,6 +150,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Wikipedia hit by self-propagating JavaScript worm that vandalized pages",
+      "link": "https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/",
+      "summary": "The Wikimedia Foundation suffered a security incident today after a self-propagating JavaScript worm began vandalizing pages and modifying user scripts across multiple wikis. [...]",
+      "published": "Thu, 05 Mar 2026 15:42:25 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "WordPress membership plugin bug exploited to create admin accounts",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/",
       "summary": "Hackers are exploiting a critical vulnerability in the User Registration & Membership plugin, which is installed on more than 60,000 WordPress sites. [...]",
@@ -225,17 +234,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Bitwarden adds support for passkey login on Windows 11",
-      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/",
-      "summary": "Bitwarden announced support for logging into Windows 11 devices using passkeys stored in the manager's vault, enabling phishing-resistant authentication. [...]",
-      "published": "Wed, 04 Mar 2026 17:34:58 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {
@@ -331,6 +329,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Nation-State Actor Embraces AI Malware Assembly Line",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line",
+      "summary": "Pakistan's APT36 threat group has begun using vibe-coding to churn out mediocre malware, but at a scale that could overwhelm defenses.",
+      "published": "Thu, 05 Mar 2026 21:56:07 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform",
+      "link": "https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform",
+      "summary": "The phishing-as-a-service platform was popular among cyber threat actors because of its ability to bypass multifactor authentication defenses.",
+      "published": "Thu, 05 Mar 2026 21:23:26 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cisco Drops 48 New Firewall Vulnerabilities, 2 Critical",
       "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical",
       "summary": "Edge bugs are so fetch, and Cisco just dropped 50 new ones, including some heavy hitters with 10 out of 10 scores on the CVSS scale.",
@@ -386,28 +404,6 @@
       "published": "Wed, 04 Mar 2026 15:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "China's Silver Dragon Razes Governments in EU, SE Asia",
-      "link": "https://www.darkreading.com/threat-intelligence/china-silver-dragon-governments-eu-se-asia",
-      "summary": "The emerging actor, part of the APT41 nexus, gains initial access via phishing, and uses legitimate network services to obscure cyber espionage activities.",
-      "published": "Wed, 04 Mar 2026 11:26:55 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Indian APT 'Sloppy Lemming' Targets Defense, Critical Infrastructure",
-      "link": "https://www.darkreading.com/threat-intelligence/india-apt-sloppy-lemming-defense-critical-infrastructure",
-      "summary": "India-nexus cyber threat actors are growing more active and sophisticated, using custom tools coded in Rust and cloud-based command and control.",
-      "published": "Tue, 03 Mar 2026 22:24:22 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",

@@ -1,72 +1,102 @@
 {
-  "last_updated": "2026-03-05 10:34",
+  "last_updated": "2026-03-05 12:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "zurich acquires beazley",
     "scattered lapsus shinyhunters",
     "epower epower ie",
+    "leakbase forum per",
     "law enforcement agencies",
     "labkotec lid 3300ip",
     "badbox 2 0",
+    "sprawling phishing campaign",
+    "phishing campaign targeting",
     "russian state actors",
     "gain unauthorized control",
     "dire critical rating",
     "twitter whistleblower complaint",
-    "targeted espionage campaigns",
     "system operations leading",
-    "packagist deploy rat",
+    "portwell engineering toolkits",
+    "phobos ransomware operation",
     "legitimate site forwarding",
-    "least mid 2024",
     "iverify analysis reveals",
     "disrupt charging services",
-    "17 2 1",
-    "11 billion deal",
-    "50 security holes"
+    "cloud based command",
+    "17 2 1"
   ],
   "trending": [
     {
-      "keyword": "zurich acquires beazley",
-      "mentions": 9
-    },
-    {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 270
+      "mentions": 271
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 19
+      "mentions": 20
+    },
+    {
+      "keyword": "leakbase forum per",
+      "mentions": 1
     },
     {
       "keyword": "law enforcement agencies",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 301
+      "mentions": 302
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 162
+    },
+    {
+      "keyword": "phishing campaign targeting",
+      "mentions": 1
     },
     {
       "keyword": "russian state actors",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "gain unauthorized control",
-      "mentions": 19
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 116
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 894
+      "mentions": 20
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
+      "link": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
+      "summary": "A suspected Iran-nexus threat actor has been attributed to a campaign targeting government officials in Iraq by impersonating the country's Ministry of Foreign Affairs to deliver a set of never-before-seen malware. Zscaler ThreatLabz, which observed the activity in January 2026, is tracking the cluster under the name Dust Specter. The attacks, which manifest in the form of two different",
+      "published": "Thu, 05 Mar 2026 17:31:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
+      "link": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
+      "summary": "Organizations typically roll out multi-factor authentication (MFA) and assume stolen passwords are no longer enough to access systems. In Windows environments, that assumption is often wrong. Attackers still compromise networks every day using valid credentials. The issue is not MFA itself, but coverage. Enforced through an identity provider (IdP) such as Microsoft Entra ID, Okta, or",
+      "published": "Thu, 05 Mar 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
+      "link": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Russian cyber campaign that has targeted Ukrainian entities with two previously undocumented malware families named BadPaw and MeowMeow. \"The attack chain initiates with a phishing email containing a link to a ZIP archive. Once extracted, an initial HTA file displays a lure document written in Ukrainian concerning border crossing appeals",
+      "published": "Thu, 05 Mar 2026 15:40:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Backdoor",
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
@@ -117,38 +147,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
-      "link": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
-      "summary": "Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that's functional on Windows, macOS, and Linux systems. The names of the packages are listed below - nhattuanbl/lara-helper (37 Downloads) nhattuanbl/simple-queue (29 Downloads) nhattuanbl/lara-swagger (49 Downloads)",
-      "published": "Wed, 04 Mar 2026 15:07:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
-      "link": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
-      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024. \"Silver Dragon gains its initial access by exploiting public-facing internet servers and by delivering phishing emails that contain malicious attachments,\" Check Point said",
-      "published": "Wed, 04 Mar 2026 13:44:00 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "Police dismantles online gambling ring exploiting Ukrainian women",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/",
+      "summary": "Spanish and Ukrainian law enforcement authorities dismantled a criminal ring that exploited war-displaced Ukrainian women to run an online gambling scheme that laundered nearly €4.75 million in illicit proceeds. [...]",
+      "published": "Thu, 05 Mar 2026 07:39:20 -0500",
+      "value_score": 16,
       "value_signals": [
-        "Phishing",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog",
-      "link": "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild. The high-severity vulnerability, CVE-2026-22719 (CVSS score: 8.1), has been described as a case of command injection that could allow an",
-      "published": "Wed, 04 Mar 2026 10:05:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×2",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     },
@@ -156,7 +161,7 @@
       "source": "BleepingComputer",
       "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/",
-      "summary": "​Cisco has flagged two more Catalyst SD-WAN Manager security flaws as actively exploited in the wild, urging administrators to upgrade vulnerable devices. [...]",
+      "summary": "​Cisco has flagged two Catalyst SD-WAN Manager security flaws as actively exploited in the wild, urging administrators to upgrade vulnerable devices. [...]",
       "published": "Thu, 05 Mar 2026 05:32:19 -0500",
       "value_score": 66,
       "value_signals": [
@@ -228,17 +233,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/",
-      "summary": "A previously undocumented set of 23 iOS exploits named \"Coruna\" has been deployed by multiple threat actors in targeted espionage campaigns and financially motivated attacks. [...]",
-      "published": "Wed, 04 Mar 2026 14:06:13 -0500",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {
@@ -418,6 +412,49 @@
     },
     {
       "source": "Security Week",
+      "title": "Russian Ransomware Operator Pleads Guilty in US",
+      "link": "https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/",
+      "summary": "Evgenii Ptitsyn was extradited to the United States from South Korea in November 2024. The post Russian Ransomware Operator Pleads Guilty in US appeared first on SecurityWeek .",
+      "published": "Thu, 05 Mar 2026 12:47:10 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild",
+      "link": "https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/",
+      "summary": "The networking giant has added the recently patched CVE-2026-20128 and CVE-2026-20122 to the list of exploited vulnerabilities. The post Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Thu, 05 Mar 2026 12:15:06 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Reclaim Security Raises $20 Million to Accelerate Remediation",
+      "link": "https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/",
+      "summary": "The company will expand its engineering team, deepen integrations, and accelerate go-to-market initiatives. The post Reclaim Security Raises $20 Million to Accelerate Remediation appeared first on SecurityWeek .",
+      "published": "Thu, 05 Mar 2026 11:23:04 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "LeakBase Cybercrime Forum Shut Down, Suspects Arrested",
+      "link": "https://www.securityweek.com/leakbase-cybercrime-forum-shut-down-suspects-arrested/",
+      "summary": "The stolen credential marketplace had been active since 2021 and in late 2025 it counted 142,000 users. The post LeakBase Cybercrime Forum Shut Down, Suspects Arrested appeared first on SecurityWeek .",
+      "published": "Thu, 05 Mar 2026 10:46:17 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cisco Patches Critical Vulnerabilities in Enterprise Networking Products",
       "link": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/",
       "summary": "Cisco has rolled out patches for 48 vulnerabilities in Firewall ASA, Secure FMC, and Secure FTD products. The post Cisco Patches Critical Vulnerabilities in Enterprise Networking Products appeared first on SecurityWeek .",
@@ -459,44 +496,6 @@
       "value_signals": [
         "Breach/leak ×4"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance",
-      "link": "https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/",
-      "summary": "The deal awaits final shareholder and regulatory approvals and is expected to be completed in the second half of 2026. The post Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance appeared first on SecurityWeek .",
-      "published": "Wed, 04 Mar 2026 15:36:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacker Conversations: Inti De Ceukelaire, Raging Against the Machine Creatively",
-      "link": "https://www.securityweek.com/hacker-conversations-inti-de-ceukelaire-raging-against-the-machine-creatively/",
-      "summary": "A Belgian national, De Ceukelaire’ did not set out to be a hacker. Like many hackers he was born with the potential to become one and only gradually realized he is one. The post Hacker Conversations: Inti De Ceukelaire, Raging Against the Machine Creatively appeared first on SecurityWeek .",
-      "published": "Wed, 04 Mar 2026 15:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "How Pirated Software Turns Helpful Employees Into Malware Delivery Agents",
-      "link": "https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/",
-      "summary": "Employees seeking free versions of paid software may unknowingly install malware-laced “cracked” apps that can steal credentials, deploy cryptominers, or open the door to ransomware. The post How Pirated Software Turns Helpful Employees Into Malware Delivery Agents appeared first on SecurityWeek .",
-      "published": "Wed, 04 Mar 2026 12:48:16 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AI Security Firm JetStream Launches With $34 Million in Seed Funding",
-      "link": "https://www.securityweek.com/ai-security-firm-jetstream-launches-with-34-million-in-seed-funding/",
-      "summary": "The startup aims to provide organizations with visibility into how AI operates across their environment. The post AI Security Firm JetStream Launches With $34 Million in Seed Funding appeared first on SecurityWeek .",
-      "published": "Wed, 04 Mar 2026 12:43:17 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

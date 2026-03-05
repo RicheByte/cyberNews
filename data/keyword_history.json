@@ -224,7 +224,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 894,
+      "count": 895,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1498,7 +1498,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1525,7 +1525,8 @@
         "2026-02-19",
         "2026-02-25",
         "2026-02-26",
-        "2026-03-02"
+        "2026-03-02",
+        "2026-03-05"
       ]
     },
     "model agnostic abstractions": {
@@ -3182,7 +3183,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4591,7 +4592,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 301,
+      "count": 302,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5391,7 +5392,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 270,
+      "count": 271,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7514,7 +7515,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8491,7 +8492,7 @@
       ]
     },
     "epower epower ie": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8499,7 +8500,7 @@
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8507,7 +8508,7 @@
       ]
     },
     "gain unauthorized control": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8521,7 +8522,7 @@
       ]
     },
     "system operations leading": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8587,7 +8588,7 @@
       ]
     },
     "17 2 1": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-04",
         "2026-03-05"
@@ -8601,7 +8602,7 @@
       ]
     },
     "disrupt charging services": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-04",
         "2026-03-05"
@@ -8642,19 +8643,19 @@
       ]
     },
     "iverify analysis reveals": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-05"
       ]
     },
     "law enforcement agencies": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-05"
       ]
     },
     "russian state actors": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-05"
       ]
@@ -8664,20 +8665,39 @@
       "dates": [
         "2026-03-05"
       ]
+    },
+    "leakbase forum per": {
+      "count": 1,
+      "dates": [
+        "2026-03-05"
+      ]
+    },
+    "phishing campaign targeting": {
+      "count": 1,
+      "dates": [
+        "2026-03-05"
+      ]
+    },
+    "portwell engineering toolkits": {
+      "count": 1,
+      "dates": [
+        "2026-03-05"
+      ]
+    },
+    "phobos ransomware operation": {
+      "count": 1,
+      "dates": [
+        "2026-03-05"
+      ]
+    },
+    "cloud based command": {
+      "count": 1,
+      "dates": [
+        "2026-03-05"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-24 12:55",
-      "articles": 56,
-      "top_keywords": [
-        "badbox 2 0",
-        "scattered lapsus shinyhunters",
-        "fortigate firewalls hacked",
-        "identity prioritization isn't",
-        "identity isn t"
-      ]
-    },
     {
       "timestamp": "2026-02-24 14:46",
       "articles": 56,
@@ -9763,6 +9783,17 @@
         "zurich acquires beazley",
         "scattered lapsus shinyhunters",
         "epower epower ie",
+        "law enforcement agencies",
+        "labkotec lid 3300ip"
+      ]
+    },
+    {
+      "timestamp": "2026-03-05 12:50",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "epower epower ie",
+        "leakbase forum per",
         "law enforcement agencies",
         "labkotec lid 3300ip"
       ]

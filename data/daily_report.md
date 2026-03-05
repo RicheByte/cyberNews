@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-05 14:41 UTC  
+> **Last Updated:** 2026-03-05 17:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**badbox 2 0** • **scattered lapsus shinyhunters** • **epower epower ie** • **leakbase forum per** • **law enforcement agencies** • **labkotec lid 3300ip** • **collecting encrypted data** • **sprawling phishing campaign** • **phishing campaign targeting** • **russian state actors** • **dire critical rating** • **gain unauthorized control** • **secure online communications** • **twitter whistleblower complaint** • **system operations leading** • **portwell engineering toolkits** • **phobos ransomware operation** • **legitimate site forwarding** • **iverify analysis reveals** • **disrupt charging services**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **overwrite arbitrary files** • **leakbase forum per** • **law enforcement agencies** • **labkotec lid 3300ip** • **collecting encrypted data** • **sprawling phishing campaign** • **russian state actors** • **dire critical rating** • **cloud based command** • **gain unauthorized control** • **twitter whistleblower complaint** • **sell stolen data** • **portwell engineering toolkits** • **phobos ransomware operation** • **legitimate site forwarding** • **iverify analysis reveals** • **disrupt charging services**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
-- [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
 - [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
+- [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
+- [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
 - [Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html)
 - [Where Multi-Factor Authentication Stops and Credential Abuse Starts](https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html)
 - [APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine](https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html)
 - [Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks](https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html)
 - [FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials](https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html)
-- [149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict](https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html)
 
 ### BleepingComputer
 
+- [Google says 90 zero-days were exploited in attacks last year](https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/)
+- [2026 Browser Data Reveals Major Enterprise Security Blind Spots](https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/)
 - [Police dismantles online gambling ring exploiting Ukrainian women](https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/)
 - [Cisco flags more SD-WAN flaws as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/)
 - [Phobos ransomware admin pleads guilty to wire fraud conspiracy](https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/)
 - [Bitwarden adds support for passkey login on Windows 11](https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/)
 - [Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers](https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/)
 - [Windows 10 KB5075039 update fixes broken Recovery Environment](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/)
-- [Fake LastPass support email threads try to steal vault passwords](https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/)
-- [Cisco warns of max severity Secure FMC flaws giving root access](https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Software Development Practices Help Enterprises Tackle Real-Life Risks](https://www.darkreading.com/cybersecurity-operations/software-development-practices-help-enterprises-tackle-real-life-risks)
 - [LatAm Now Faces 2x More Cyberattacks Than US](https://www.darkreading.com/threat-intelligence/latam-2x-more-cyberattacks-us)
 - [VMware Aria Operations Bug Exploited, Cloud Resources at Risk](https://www.darkreading.com/cloud-security/vmware-aria-operations-bug-exploited-cloud-risk)
 - [Stranger Things Meets Cybersecurity: Lessons from the Hive Mind](https://www.darkreading.com/cybersecurity-operations/stranger-things-meets-cybersecurity-lessons-hive-mind)
@@ -56,10 +57,10 @@
 - [China's Silver Dragon Razes Governments in EU, SE Asia](https://www.darkreading.com/threat-intelligence/china-silver-dragon-governments-eu-se-asia)
 - [Indian APT 'Sloppy Lemming' Targets Defense, Critical Infrastructure](https://www.darkreading.com/threat-intelligence/india-apt-sloppy-lemming-defense-critical-infrastructure)
 - [Vehicle Tire Pressure Sensors Enable Silent Tracking](https://www.darkreading.com/ics-ot-security/tire-pressure-sensors-silent-tracking)
-- [Qualcomm Zero-Day Exploited in Targeted Android Attacks](https://www.darkreading.com/threat-intelligence/qualcomm-zero-day-exploited-targeted-android-attacks)
 
 ### Security Week
 
+- [Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises](https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/)
 - [Russian Ransomware Operator Pleads Guilty in US](https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/)
 - [Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild](https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/)
 - [Reclaim Security Raises $20 Million to Accelerate Remediation](https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/)
@@ -67,7 +68,6 @@
 - [Cisco Patches Critical Vulnerabilities in Enterprise Networking Products](https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/)
 - [Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks](https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/)
 - [Tycoon 2FA Phishing Platform Dismantled in Global Takedown](https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/)
-- [New LexisNexis Data Breach Confirmed After Hackers Leak Files](https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [Mobiliti e-mobi.hu](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06)
-- [Hitachi Energy RTU500 Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-03)
-- [Labkotec LID-3300IP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-05)
+- [Delta Electronics CNCSoft-G2](https://www.cisa.gov/news-events/ics-advisories/icsa-26-064-01)
 - [ePower epower.ie](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-07)
+- [Mobiliti e-mobi.hu](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06)
 - [Portwell Engineering Toolkits](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-04)
 - [Mitsubishi Electric MELSEC iQ-F Series EtherNet/IP module and Ethernet module](https://www.cisa.gov/news-events/ics-advisories/icsa-26-62-01)
 - [Hitachi Energy Relion REB500 Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-02)
-- [Everon OCPP Backends](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-08)
+- [Labkotec LID-3300IP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-05)
+- [Hitachi Energy RTU500 Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-03)
 
 ---
 

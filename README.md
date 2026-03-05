@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-05 14:41 UTC |
+| 🕐 Last Updated | 2026-03-05 17:58 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`badbox 2 0` • `scattered lapsus shinyhunters` • `epower epower ie` • `leakbase forum per` • `law enforcement agencies` • `labkotec lid 3300ip` • `collecting encrypted data` • `sprawling phishing campaign` • `phishing campaign targeting` • `russian state actors`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `epower epower ie` • `overwrite arbitrary files` • `leakbase forum per` • `law enforcement agencies` • `labkotec lid 3300ip` • `collecting encrypted data` • `sprawling phishing campaign` • `russian state actors`
 
 ## 📄 Reports
 

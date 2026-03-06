@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-06 10:29 UTC  
+> **Last Updated:** 2026-03-06 12:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **collecting encrypted data** • **overwrite arbitrary files** • **labkotec lid 3300ip** • **massive fraud ring** • **gain unauthorized control** • **windows terminal app** • **twitter whistleblower complaint** • **portwell engineering toolkits** • **iverify analysis reveals** • **assume stolen passwords** • **lumma stealer malware** • **system operations leading** • **dire critical rating** • **50 security holes** • **kimwolf botnet lurking** • **sprawling phishing campaign** • **critical severity vulnerabilities**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **collecting encrypted data** • **overwrite arbitrary files** • **labkotec lid 3300ip** • **massive fraud ring** • **windows terminal app** • **lumma stealer malware** • **gain unauthorized control** • **twitter whistleblower complaint** • **portwell engineering toolkits** • **cve 2026 20122** • **windows operating systems** • **system operations leading** • **50 security holes** • **kimwolf botnet lurking** • **email flooding attacks** • **dire critical rating** • **local file system**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
+- [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
 - [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
 - [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
 - [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
 - [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
 - [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
 - [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
-- [Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html)
-- [Where Multi-Factor Authentication Stops and Credential Abuse Starts](https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
+- [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
+- [Iranian APT Hacked US Airport, Bank, Software Company](https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/)
 - [Data Security Firm Evervault Raises $25 Million in Series B Funding](https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/)
 - [Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises](https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/)
 - [Russian Ransomware Operator Pleads Guilty in US](https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/)
 - [Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild](https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/)
 - [Reclaim Security Raises $20 Million to Accelerate Remediation](https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/)
-- [LeakBase Cybercrime Forum Shut Down, Suspects Arrested](https://www.securityweek.com/leakbase-cybercrime-forum-shut-down-suspects-arrested/)
-- [Cisco Patches Critical Vulnerabilities in Enterprise Networking Products](https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/)
-- [Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks](https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/)
 
 ### Threatpost
 

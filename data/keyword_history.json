@@ -158,7 +158,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 481,
+      "count": 482,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -220,11 +220,12 @@
         "2026-03-01",
         "2026-03-02",
         "2026-03-03",
-        "2026-03-04"
+        "2026-03-04",
+        "2026-03-06"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 905,
+      "count": 906,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3185,7 +3186,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4595,7 +4596,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 312,
+      "count": 313,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5041,7 +5042,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5398,7 +5399,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 281,
+      "count": 282,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6376,7 +6377,7 @@
       ]
     },
     "50 security holes": {
-      "count": 205,
+      "count": 206,
       "dates": [
         "2026-02-10",
         "2026-02-11",
@@ -8502,7 +8503,7 @@
       ]
     },
     "epower epower ie": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8511,7 +8512,7 @@
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8520,7 +8521,7 @@
       ]
     },
     "gain unauthorized control": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8535,7 +8536,7 @@
       ]
     },
     "system operations leading": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8697,7 +8698,7 @@
       ]
     },
     "portwell engineering toolkits": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-05",
         "2026-03-06"
@@ -8716,14 +8717,14 @@
       ]
     },
     "collecting encrypted data": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-05",
         "2026-03-06"
       ]
     },
     "overwrite arbitrary files": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-05",
         "2026-03-06"
@@ -8758,24 +8759,36 @@
       ]
     },
     "windows terminal app": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-06"
       ]
     },
     "lumma stealer malware": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-06"
       ]
     },
     "cve 2026 20122": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-06"
       ]
     },
     "massive fraud ring": {
+      "count": 2,
+      "dates": [
+        "2026-03-06"
+      ]
+    },
+    "email flooding attacks": {
+      "count": 1,
+      "dates": [
+        "2026-03-06"
+      ]
+    },
+    "local file system": {
       "count": 1,
       "dates": [
         "2026-03-06"
@@ -8783,17 +8796,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-25 12:54",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "badbox 2 0",
-        "scattered lapsus shinyhunters",
-        "command command injection",
-        "published personal information"
-      ]
-    },
     {
       "timestamp": "2026-02-25 14:44",
       "articles": 56,
@@ -9874,6 +9876,17 @@
     },
     {
       "timestamp": "2026-03-06 10:29",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "epower epower ie",
+        "collecting encrypted data",
+        "overwrite arbitrary files"
+      ]
+    },
+    {
+      "timestamp": "2026-03-06 12:42",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

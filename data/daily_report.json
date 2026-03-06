@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-06 18:37",
+  "last_updated": "2026-03-06 20:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
+    "lumma stealer malware",
     "epower epower ie",
     "overwrite arbitrary files",
-    "lumma stealer malware",
     "labkotec lid 3300ip",
     "campaign targeting india",
     "windows terminal app",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 285
+      "mentions": 286
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 316
-    },
-    {
-      "keyword": "epower epower ie",
-      "mentions": 34
-    },
-    {
-      "keyword": "overwrite arbitrary files",
-      "mentions": 13
+      "mentions": 317
     },
     {
       "keyword": "lumma stealer malware",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "epower epower ie",
+      "mentions": 35
+    },
+    {
+      "keyword": "overwrite arbitrary files",
+      "mentions": 14
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "campaign targeting india",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "windows terminal app",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "uses batch scripts",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "massive fraud ring",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -154,6 +154,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
+      "link": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/",
+      "summary": "TriZetto Provider Solutions, a healthcare IT company that develops software and services used by health insurers and healthcare providers, has suffered a data breach that exposed the sensitive information of over 3.4 million people. [...]",
+      "published": "Fri, 06 Mar 2026 14:50:21 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
       "summary": "CISA ordered U.S. federal agencies to patch three iOS security flaws targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit. [...]",
@@ -218,15 +229,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/",
       "summary": "A China-linked advanced persistent threat actor tracked as UAT-9244 has been targeting telecommunication service providers in South America since 2024, compromising Windows, Linux, and network-edge devices. [...]",
       "published": "Thu, 05 Mar 2026 18:19:49 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/",
-      "summary": "Fake OpenClaw installers hosted in GitHub repositories and promoted by Microsoft Bing's AI-enhanced search feature instructed users to run commands that deployed information stealers and proxy malware. [...]",
-      "published": "Thu, 05 Mar 2026 17:37:34 -0500",
       "value_score": 10,
       "value_signals": []
     },

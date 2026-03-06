@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06 16:34",
+  "last_updated": "2026-03-06 18:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,57 +13,57 @@
     "windows terminal app",
     "uses batch scripts",
     "massive fraud ring",
-    "ai workforce readiness",
     "gain unauthorized control",
     "latest hacking group",
     "twitter whistleblower complaint",
-    "south america struggles",
     "restore individual files",
     "national security risk",
     "microsoft 365 backup",
+    "iranian hackers already",
     "email flooding attacks",
-    "dire critical rating"
+    "dire critical rating",
+    "critical severity vulnerabilities"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 284
+      "mentions": 285
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 315
+      "mentions": 316
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "overwrite arbitrary files",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "lumma stealer malware",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "campaign targeting india",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "windows terminal app",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "uses batch scripts",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "massive fraud ring",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -154,13 +154,13 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "CISA warns of Apple flaws exploited in spyware, crypto-theft attacks",
+      "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
       "summary": "CISA ordered U.S. federal agencies to patch three iOS security flaws targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit. [...]",
       "published": "Fri, 06 Mar 2026 10:57:16 -0500",
-      "value_score": 64,
+      "value_score": 72,
       "value_signals": [
-        "Patch/update",
+        "Patch/update ×2",
         "CISA/KEV ×2",
         "Exploit wording"
       ]
@@ -323,6 +323,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "North Korean APTs Use AI to Enhance IT Worker Scams",
+      "link": "https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams",
+      "summary": "DPRK worker scams are old hat, but they're still working, thanks to AI tools that help with everything from face swapping to daily emails.",
+      "published": "Fri, 06 Mar 2026 17:49:02 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "EU Auto Rules Shift Gears on Cybersecurity Standards",
       "link": "https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards",
       "summary": "The European Union is taking new precautions as climate change and cybersecurity threats rise across the automotive industry.",
@@ -385,15 +394,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/software-development-practices-help-enterprises-tackle-real-life-risks",
       "summary": "Organizations can borrow secure-by-design processes to manage non-technical challenges like governance or the inevitable human error.",
       "published": "Thu, 05 Mar 2026 16:34:20 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "LatAm Now Faces 2x More Cyberattacks Than US",
-      "link": "https://www.darkreading.com/threat-intelligence/latam-2x-more-cyberattacks-us",
-      "summary": "Much of Central and South America struggles with cybersecurity maturity, and hackers are taking advantage.",
-      "published": "Thu, 05 Mar 2026 14:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

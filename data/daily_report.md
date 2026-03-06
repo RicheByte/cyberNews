@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-06 16:34 UTC  
+> **Last Updated:** 2026-03-06 18:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **overwrite arbitrary files** • **lumma stealer malware** • **labkotec lid 3300ip** • **campaign targeting india** • **windows terminal app** • **uses batch scripts** • **massive fraud ring** • **ai workforce readiness** • **gain unauthorized control** • **latest hacking group** • **twitter whistleblower complaint** • **south america struggles** • **restore individual files** • **national security risk** • **microsoft 365 backup** • **email flooding attacks** • **dire critical rating**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **overwrite arbitrary files** • **lumma stealer malware** • **labkotec lid 3300ip** • **campaign targeting india** • **windows terminal app** • **uses batch scripts** • **massive fraud ring** • **gain unauthorized control** • **latest hacking group** • **twitter whistleblower complaint** • **restore individual files** • **national security risk** • **microsoft 365 backup** • **iranian hackers already** • **email flooding attacks** • **dire critical rating** • **critical severity vulnerabilities**
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### BleepingComputer
 
-- [CISA warns of Apple flaws exploited in spyware, crypto-theft attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/)
+- [CISA warns feds to patch iOS flaws exploited in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/)
 - [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/)
 - [Fake Claude Code install guides push infostealers in InstallFix attacks](https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/)
 - [Microsoft 365 Backup to add file-level restore for faster recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/)
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [North Korean APTs Use AI to Enhance IT Worker Scams](https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams)
 - [EU Auto Rules Shift Gears on Cybersecurity Standards](https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards)
 - [Iran's Cyber-Kinetic War Doctrine Takes Shape](https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine)
 - [Cyberattack on Mexico's Gov't Agencies Highlight AI Threat](https://www.darkreading.com/application-security/cyberattack-mexico-government-ai-threat)
@@ -56,7 +57,6 @@
 - [Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform](https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform)
 - [Cisco Drops 48 New Firewall Vulnerabilities, 2 Critical](https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical)
 - [Software Development Practices Help Enterprises Tackle Real-Life Risks](https://www.darkreading.com/cybersecurity-operations/software-development-practices-help-enterprises-tackle-real-life-risks)
-- [LatAm Now Faces 2x More Cyberattacks Than US](https://www.darkreading.com/threat-intelligence/latam-2x-more-cyberattacks-us)
 
 ### Security Week
 

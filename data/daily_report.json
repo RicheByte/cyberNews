@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06 08:31",
+  "last_updated": "2026-03-06 10:29",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,10 +7,9 @@
     "badbox 2 0",
     "epower epower ie",
     "collecting encrypted data",
-    "russian state actors",
     "overwrite arbitrary files",
     "labkotec lid 3300ip",
-    "sprawling phishing campaign",
+    "massive fraud ring",
     "gain unauthorized control",
     "windows terminal app",
     "twitter whistleblower complaint",
@@ -18,55 +17,67 @@
     "iverify analysis reveals",
     "assume stolen passwords",
     "lumma stealer malware",
-    "kimwolf botnet lurking",
-    "cve 2026 20122",
+    "system operations leading",
     "dire critical rating",
     "50 security holes",
+    "kimwolf botnet lurking",
+    "sprawling phishing campaign",
     "critical severity vulnerabilities"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 280
+      "mentions": 281
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 311
+      "mentions": 312
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "collecting encrypted data",
-      "mentions": 9
-    },
-    {
-      "keyword": "russian state actors",
-      "mentions": 12
+      "mentions": 10
     },
     {
       "keyword": "overwrite arbitrary files",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 29
+      "mentions": 30
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 171
+      "keyword": "massive fraud ring",
+      "mentions": 1
     },
     {
       "keyword": "gain unauthorized control",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "windows terminal app",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 905
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
+      "link": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
+      "summary": "A China-linked advanced persistent threat (APT) actor has been targeting critical telecommunications infrastructure in South America since 2024, targeting Windows and Linux systems and edge devices with three different implants. The activity is being tracked by Cisco Talos under the moniker UAT-9244, describing it as closely associated with another cluster known as FamousSparrow. It's worth",
+      "published": "Fri, 06 Mar 2026 13:52:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
@@ -140,15 +151,23 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
-      "link": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Russian cyber campaign that has targeted Ukrainian entities with two previously undocumented malware families named BadPaw and MeowMeow. \"The attack chain initiates with a phishing email containing a link to a ZIP archive. Once extracted, an initial HTA file displays a lure document written in Ukrainian concerning border crossing appeals",
-      "published": "Thu, 05 Mar 2026 15:40:00 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "Ghanain man pleads guilty to role in $100 million fraud ring",
+      "link": "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/",
+      "summary": "A Ghanaian national pleaded guilty to his role in a massive fraud ring that stole over $100 million from victims across the United States through business email compromise attacks and romance scams. [...]",
+      "published": "Fri, 06 Mar 2026 05:08:00 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FBI investigates breach of surveillance and wiretap systems",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) confirmed on Thursday that it's investigating a breach that affected systems used to manage surveillance and wiretap warrants. [...]",
+      "published": "Fri, 06 Mar 2026 03:44:53 -0500",
+      "value_score": 34,
       "value_signals": [
-        "Backdoor",
-        "Phishing"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -209,28 +228,6 @@
       "value_signals": [
         "Zero-day",
         "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "2026 Browser Data Reveals Major Enterprise Security Blind Spots",
-      "link": "https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/",
-      "summary": "The browser is becoming the operating system for modern work, yet many enterprises still treat it as an extension of network or endpoint security. Keep Aware's 2026 State of Browser Security Report shows 41% of employees used AI web tools while browser-based phishing, extensions, and social engineering drive new security blind spots. [...]",
-      "published": "Thu, 05 Mar 2026 10:01:11 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police dismantles online gambling ring exploiting Ukrainian women",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/",
-      "summary": "Spanish and Ukrainian law enforcement authorities dismantled a criminal ring that exploited war-displaced Ukrainian women to run an online gambling scheme that laundered nearly €4.75 million in illicit proceeds. [...]",
-      "published": "Thu, 05 Mar 2026 07:39:20 -0500",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },
@@ -405,6 +402,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Data Security Firm Evervault Raises $25 Million in Series B Funding",
+      "link": "https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/",
+      "summary": "The company has raised a total of $46 million in funding for its developer-focused encryption and orchestration platform. The post Data Security Firm Evervault Raises $25 Million in Series B Funding appeared first on SecurityWeek .",
+      "published": "Fri, 06 Mar 2026 09:05:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises",
       "link": "https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/",
       "summary": "Less than half of the total zero-days have been attributed to a threat actor, but spyware vendors and China are in the lead. The post Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises appeared first on SecurityWeek .",
@@ -477,17 +483,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Tycoon 2FA Phishing Platform Dismantled in Global Takedown",
-      "link": "https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/",
-      "summary": "The phishing-as-a-service platform was used to send fraudulent emails to over 500,000 organizations every month. The post Tycoon 2FA Phishing Platform Dismantled in Global Takedown appeared first on SecurityWeek .",
-      "published": "Wed, 04 Mar 2026 18:37:26 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
       ]
     },
     {

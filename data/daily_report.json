@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06 04:05",
+  "last_updated": "2026-03-06 06:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,55 +27,46 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 278
+      "mentions": 279
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 309
+      "mentions": 310
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "russian state actors",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "overwrite arbitrary files",
-      "mentions": 6
-    },
-    {
-      "keyword": "leakbase forum per",
-      "mentions": 8
-    },
-    {
-      "keyword": "law enforcement agencies",
-      "mentions": 10
-    },
-    {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 27
-    },
-    {
-      "keyword": "collecting encrypted data",
       "mentions": 7
     },
     {
+      "keyword": "leakbase forum per",
+      "mentions": 9
+    },
+    {
+      "keyword": "law enforcement agencies",
+      "mentions": 11
+    },
+    {
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 28
+    },
+    {
+      "keyword": "collecting encrypted data",
+      "mentions": 8
+    },
+    {
       "keyword": "sprawling phishing campaign",
-      "mentions": 169
+      "mentions": 170
     }
   ],
   "articles": [
-    {
-      "source": "The Hacker News",
-      "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
-      "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
-      "summary": "Most organizations assume encrypted data is safe. But many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers. This tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
-      "published": "Thu, 05 Mar 2026 20:52:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
     {
       "source": "The Hacker News",
       "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
@@ -88,6 +79,15 @@
         "Active exploitation",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
+      "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
+      "summary": "Most organizations assume encrypted data is safe. But many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers. This tactic—known as “harvest now, decrypt later”—means sensitive data transmitted today could become",
+      "published": "Thu, 05 Mar 2026 20:52:00 +0530",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "The Hacker News",

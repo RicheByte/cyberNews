@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-06 06:40 UTC  
+> **Last Updated:** 2026-03-06 08:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **russian state actors** • **overwrite arbitrary files** • **leakbase forum per** • **law enforcement agencies** • **labkotec lid 3300ip** • **collecting encrypted data** • **sprawling phishing campaign** • **tycoon 2fa phishing** • **gain unauthorized control** • **twitter whistleblower complaint** • **sell stolen data** • **portwell engineering toolkits** • **iverify analysis reveals** • **assume stolen passwords** • **215 000 messages** • **kimwolf botnet lurking** • **secure online communications**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **collecting encrypted data** • **russian state actors** • **overwrite arbitrary files** • **labkotec lid 3300ip** • **sprawling phishing campaign** • **gain unauthorized control** • **windows terminal app** • **twitter whistleblower complaint** • **portwell engineering toolkits** • **iverify analysis reveals** • **assume stolen passwords** • **lumma stealer malware** • **kimwolf botnet lurking** • **cve 2026 20122** • **dire critical rating** • **50 security holes** • **critical severity vulnerabilities**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
+- [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
 - [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
 - [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
 - [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
 - [Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware](https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html)
 - [Where Multi-Factor Authentication Stops and Credential Abuse Starts](https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html)
 - [APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine](https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html)
-- [Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks](https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html)
-- [FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials](https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html)
 
 ### BleepingComputer
 

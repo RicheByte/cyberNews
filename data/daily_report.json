@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05 22:26",
+  "last_updated": "2026-03-06 01:46",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -18,52 +18,52 @@
     "twitter whistleblower complaint",
     "sell stolen data",
     "portwell engineering toolkits",
-    "phobos ransomware operation",
     "iverify analysis reveals",
     "assume stolen passwords",
     "215 000 messages",
-    "kimwolf botnet lurking"
+    "kimwolf botnet lurking",
+    "secure online communications"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 276
+      "mentions": 277
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 307
+      "mentions": 308
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "russian state actors",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "overwrite arbitrary files",
-      "mentions": 4
-    },
-    {
-      "keyword": "leakbase forum per",
-      "mentions": 6
-    },
-    {
-      "keyword": "law enforcement agencies",
-      "mentions": 8
-    },
-    {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 25
-    },
-    {
-      "keyword": "collecting encrypted data",
       "mentions": 5
     },
     {
+      "keyword": "leakbase forum per",
+      "mentions": 7
+    },
+    {
+      "keyword": "law enforcement agencies",
+      "mentions": 9
+    },
+    {
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 26
+    },
+    {
+      "keyword": "collecting encrypted data",
+      "mentions": 6
+    },
+    {
       "keyword": "sprawling phishing campaign",
-      "mentions": 167
+      "mentions": 168
     }
   ],
   "articles": [
@@ -150,6 +150,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Chinese state hackers target telcos with new malware toolkit",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/",
+      "summary": "A China-linked advanced persistent threat actor tracked as UAT-9244 has been targeting telecommunication service providers in South America since 2024, compromising Windows, Linux, and network-edge devices. [...]",
+      "published": "Thu, 05 Mar 2026 18:19:49 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/",
+      "summary": "Fake OpenClaw installers hosted in GitHub repositories and promoted by Microsoft Bing's AI-enhanced search feature instructed users to run commands that deployed information stealers and proxy malware. [...]",
+      "published": "Thu, 05 Mar 2026 17:37:34 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Wikipedia hit by self-propagating JavaScript worm that vandalized pages",
       "link": "https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/",
       "summary": "The Wikimedia Foundation suffered a security incident today after a self-propagating JavaScript worm began vandalizing pages and modifying user scripts across multiple wikis. [...]",
@@ -211,29 +229,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/",
-      "summary": "​Cisco has flagged two Catalyst SD-WAN Manager security flaws as actively exploited in the wild, urging administrators to upgrade vulnerable devices. [...]",
-      "published": "Thu, 05 Mar 2026 05:32:19 -0500",
-      "value_score": 66,
-      "value_signals": [
-        "Active exploitation ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Phobos ransomware admin pleads guilty to wire fraud conspiracy",
-      "link": "https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/",
-      "summary": "A Russian national pleaded guilty to a wire fraud conspiracy charge related to his role in administering the Phobos ransomware operation, which breached hundreds of victims worldwide. [...]",
-      "published": "Thu, 05 Mar 2026 03:34:42 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {

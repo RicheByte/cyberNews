@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-05 22:26 UTC  
+> **Last Updated:** 2026-03-06 01:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **russian state actors** • **overwrite arbitrary files** • **leakbase forum per** • **law enforcement agencies** • **labkotec lid 3300ip** • **collecting encrypted data** • **sprawling phishing campaign** • **tycoon 2fa phishing** • **gain unauthorized control** • **twitter whistleblower complaint** • **sell stolen data** • **portwell engineering toolkits** • **phobos ransomware operation** • **iverify analysis reveals** • **assume stolen passwords** • **215 000 messages** • **kimwolf botnet lurking**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **russian state actors** • **overwrite arbitrary files** • **leakbase forum per** • **law enforcement agencies** • **labkotec lid 3300ip** • **collecting encrypted data** • **sprawling phishing campaign** • **tycoon 2fa phishing** • **gain unauthorized control** • **twitter whistleblower complaint** • **sell stolen data** • **portwell engineering toolkits** • **iverify analysis reveals** • **assume stolen passwords** • **215 000 messages** • **kimwolf botnet lurking** • **secure online communications**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Chinese state hackers target telcos with new malware toolkit](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/)
+- [Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware](https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/)
 - [Wikipedia hit by self-propagating JavaScript worm that vandalized pages](https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/)
 - [WordPress membership plugin bug exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/)
 - [FBI arrests suspect linked to $46M crypto theft from US Marshals](https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/)
 - [Google says 90 zero-days were exploited in attacks last year](https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/)
 - [2026 Browser Data Reveals Major Enterprise Security Blind Spots](https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/)
 - [Police dismantles online gambling ring exploiting Ukrainian women](https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/)
-- [Cisco flags more SD-WAN flaws as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/)
-- [Phobos ransomware admin pleads guilty to wire fraud conspiracy](https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/)
 
 ### Krebs on Security
 

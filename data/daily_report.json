@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-06 12:42",
+  "last_updated": "2026-03-06 14:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "microsoft 365 backup",
     "scattered lapsus shinyhunters",
     "badbox 2 0",
     "epower epower ie",
-    "collecting encrypted data",
     "overwrite arbitrary files",
     "labkotec lid 3300ip",
-    "massive fraud ring",
     "windows terminal app",
-    "lumma stealer malware",
+    "collecting encrypted data",
+    "massive fraud ring",
     "gain unauthorized control",
     "twitter whistleblower complaint",
-    "portwell engineering toolkits",
+    "restore individual files",
+    "lumma stealer malware",
     "cve 2026 20122",
     "windows operating systems",
-    "system operations leading",
+    "local file system",
+    "17 2 1",
     "50 security holes",
     "kimwolf botnet lurking",
-    "email flooding attacks",
-    "dire critical rating",
-    "local file system"
+    "email flooding attacks"
   ],
   "trending": [
     {
+      "keyword": "microsoft 365 backup",
+      "mentions": 1
+    },
+    {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 282
+      "mentions": 283
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 313
+      "mentions": 314
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 31
-    },
-    {
-      "keyword": "collecting encrypted data",
-      "mentions": 11
+      "mentions": 32
     },
     {
       "keyword": "overwrite arbitrary files",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 31
-    },
-    {
-      "keyword": "massive fraud ring",
-      "mentions": 2
+      "mentions": 32
     },
     {
       "keyword": "windows terminal app",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "lumma stealer malware",
+      "keyword": "collecting encrypted data",
+      "mentions": 12
+    },
+    {
+      "keyword": "massive fraud ring",
       "mentions": 3
     },
     {
       "keyword": "gain unauthorized control",
-      "mentions": 31
+      "mentions": 32
     }
   ],
   "articles": [
@@ -154,6 +154,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
+      "summary": "Microsoft will soon begin rolling out a significant upgrade to Microsoft 365 Backup to speed up recovery by allowing administrators to restore individual files and folders. [...]",
+      "published": "Fri, 06 Mar 2026 09:21:09 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Ghanain man pleads guilty to role in $100 million fraud ring",
       "link": "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/",
       "summary": "A Ghanaian national pleaded guilty to his role in a massive fraud ring that stole over $100 million from victims across the United States through business email compromise attacks and romance scams. [...]",
@@ -219,19 +228,6 @@
       "published": "Thu, 05 Mar 2026 13:36:18 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google says 90 zero-days were exploited in attacks last year",
-      "link": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
-      "summary": "Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances. [...]",
-      "published": "Thu, 05 Mar 2026 10:03:43 -0500",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -326,6 +322,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Iran's Cyber-Kinetic War Doctrine Takes Shape",
+      "link": "https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine",
+      "summary": "Iran has been hacking IP cameras to plan missile strikes against its enemies, and mounting other attacks on physical assets, showing how cyber and kinetic warfare are fast becoming one in the same.",
+      "published": "Fri, 06 Mar 2026 14:01:11 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cyberattack on Mexico's Gov't Agencies Highlight AI Threat",
+      "link": "https://www.darkreading.com/application-security/cyberattack-mexico-government-ai-threat",
+      "summary": "Using Anthropic's Claude, OpenAI's ChatGPT, and a detailed playbook prompt, a handful of cyberattackers reportedly gained access to government agencies and its citizens' data.",
+      "published": "Fri, 06 Mar 2026 13:37:31 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Nation-State Actor Embraces AI Malware Assembly Line",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line",
       "summary": "Pakistan's APT36 threat group has begun using vibe-coding to churn out mediocre malware, but at a scale that could overwhelm defenses.",
@@ -348,7 +362,7 @@
       "source": "Dark Reading",
       "title": "Cisco Drops 48 New Firewall Vulnerabilities, 2 Critical",
       "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical",
-      "summary": "Edge bugs are so fetch, and Cisco just dropped 50 new ones, including some heavy hitters with 10 out of 10 scores on the CVSS scale.",
+      "summary": "Edge bugs are so fetch, and Cisco just patched 50 new ones, including some heavy hitters with 10 out of 10 scores on the CVSS scale.",
       "published": "Thu, 05 Mar 2026 20:11:15 GMT",
       "value_score": 18,
       "value_signals": [
@@ -385,22 +399,16 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Stranger Things Meets Cybersecurity: Lessons from the Hive Mind",
-      "link": "https://www.darkreading.com/cybersecurity-operations/stranger-things-meets-cybersecurity-lessons-hive-mind",
-      "summary": "Events and concepts from the Stranger Things television series illustrate how enterprises can defend their networks and stay \"right side up.\"",
-      "published": "Wed, 04 Mar 2026 17:09:27 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate",
-      "link": "https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate",
-      "summary": "Dark Reading Confidential Episode 15: Interpol relied on Will Thomas and team to help break up a sprawling cybercrime ring, leading to the arrest of 574 suspects, the recovery of more than $3 million, and the decryption of six malware variants. Here's his story.",
-      "published": "Wed, 04 Mar 2026 15:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List",
+      "link": "https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/",
+      "summary": "The nation-state-grade iOS exploit kit targets 23 vulnerabilities affecting iOS 13 to 17.2.1. The post CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List appeared first on SecurityWeek .",
+      "published": "Fri, 06 Mar 2026 13:18:12 +0000",
+      "value_score": 56,
+      "value_signals": [
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -475,15 +483,6 @@
         "Multiple CVEs",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Reclaim Security Raises $20 Million to Accelerate Remediation",
-      "link": "https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/",
-      "summary": "The company will expand its engineering team, deepen integrations, and accelerate go-to-market initiatives. The post Reclaim Security Raises $20 Million to Accelerate Remediation appeared first on SecurityWeek .",
-      "published": "Thu, 05 Mar 2026 11:23:04 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-06 12:42 UTC  
+> **Last Updated:** 2026-03-06 14:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **collecting encrypted data** • **overwrite arbitrary files** • **labkotec lid 3300ip** • **massive fraud ring** • **windows terminal app** • **lumma stealer malware** • **gain unauthorized control** • **twitter whistleblower complaint** • **portwell engineering toolkits** • **cve 2026 20122** • **windows operating systems** • **system operations leading** • **50 security holes** • **kimwolf botnet lurking** • **email flooding attacks** • **dire critical rating** • **local file system**
+**microsoft 365 backup** • **scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **overwrite arbitrary files** • **labkotec lid 3300ip** • **windows terminal app** • **collecting encrypted data** • **massive fraud ring** • **gain unauthorized control** • **twitter whistleblower complaint** • **restore individual files** • **lumma stealer malware** • **cve 2026 20122** • **windows operating systems** • **local file system** • **17 2 1** • **50 security holes** • **kimwolf botnet lurking** • **email flooding attacks**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft 365 Backup to add file-level restore for faster recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/)
 - [Ghanain man pleads guilty to role in $100 million fraud ring](https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/)
 - [FBI investigates breach of surveillance and wiretap systems](https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/)
 - [Chinese state hackers target telcos with new malware toolkit](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/)
@@ -34,7 +35,6 @@
 - [Wikipedia hit by self-propagating JavaScript worm that vandalized pages](https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/)
 - [WordPress membership plugin bug exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/)
 - [FBI arrests suspect linked to $46M crypto theft from US Marshals](https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/)
-- [Google says 90 zero-days were exploited in attacks last year](https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [Iran's Cyber-Kinetic War Doctrine Takes Shape](https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine)
+- [Cyberattack on Mexico's Gov't Agencies Highlight AI Threat](https://www.darkreading.com/application-security/cyberattack-mexico-government-ai-threat)
 - [Nation-State Actor Embraces AI Malware Assembly Line](https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line)
 - [Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform](https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform)
 - [Cisco Drops 48 New Firewall Vulnerabilities, 2 Critical](https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical)
 - [Software Development Practices Help Enterprises Tackle Real-Life Risks](https://www.darkreading.com/cybersecurity-operations/software-development-practices-help-enterprises-tackle-real-life-risks)
 - [LatAm Now Faces 2x More Cyberattacks Than US](https://www.darkreading.com/threat-intelligence/latam-2x-more-cyberattacks-us)
 - [VMware Aria Operations Bug Exploited, Cloud Resources at Risk](https://www.darkreading.com/cloud-security/vmware-aria-operations-bug-exploited-cloud-risk)
-- [Stranger Things Meets Cybersecurity: Lessons from the Hive Mind](https://www.darkreading.com/cybersecurity-operations/stranger-things-meets-cybersecurity-lessons-hive-mind)
-- [Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African Cybercrime Syndicate](https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate)
 
 ### Security Week
 
+- [CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List](https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/)
 - [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
 - [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
 - [Iranian APT Hacked US Airport, Bank, Software Company](https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/)
@@ -67,7 +68,6 @@
 - [Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises](https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/)
 - [Russian Ransomware Operator Pleads Guilty in US](https://www.securityweek.com/russian-ransomware-operator-pleads-guilty-in-us/)
 - [Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild](https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/)
-- [Reclaim Security Raises $20 Million to Accelerate Remediation](https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/)
 
 ### Threatpost
 

@@ -1,29 +1,18 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-07 12:36 UTC  
+> **Last Updated:** 2026-03-07 14:19 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **lumma stealer malware** • **epower epower ie** • **overwrite arbitrary files** • **labkotec lid 3300ip** • **campaign targeting india** • **windows terminal app** • **uses batch scripts** • **massive fraud ring** • **gain unauthorized control** • **latest hacking group** • **twitter whistleblower complaint** • **securonix threat research** • **restore individual files** • **microsoft 365 backup** • **iranian hackers already** • **email flooding attacks** • **dire critical rating** • **critical severity vulnerabilities**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **labkotec lid 3300ip** • **windows operating systems** • **massive fraud ring** • **gain unauthorized control** • **twitter whistleblower complaint** • **dire critical rating** • **email flooding attacks** • **50 security holes** • **17 2 1** • **kimwolf botnet lurking** • **vulnerable charging stations** • **vulnerabilities earned microsoft's** • **victim's username password** • **restore individual files** • **recommended immediate actions** • **potential safety hazards** • **portwell engineering toolkits**
 
 ---
 
 ## 📰 Latest News by Source
-
-### The Hacker News
-
-- [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
-- [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
-- [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
-- [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
-- [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
-- [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
-- [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
-- [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
 
 ### BleepingComputer
 
@@ -60,6 +49,7 @@
 
 ### Security Week
 
+- [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
 - [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
 - [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
 - [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
@@ -67,7 +57,6 @@
 - [CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List](https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/)
 - [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
 - [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
-- [Iranian APT Hacked US Airport, Bank, Software Company](https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/)
 
 ### Threatpost
 

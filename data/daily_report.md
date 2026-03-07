@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-07 10:18 UTC  
+> **Last Updated:** 2026-03-07 12:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **lumma stealer malware** • **epower epower ie** • **overwrite arbitrary files** • **labkotec lid 3300ip** • **campaign targeting india** • **windows terminal app** • **uses batch scripts** • **massive fraud ring** • **gain unauthorized control** • **latest hacking group** • **twitter whistleblower complaint** • **securonix threat research** • **restore individual files** • **national security risk** • **microsoft 365 backup** • **iranian hackers already** • **email flooding attacks** • **dire critical rating**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **lumma stealer malware** • **epower epower ie** • **overwrite arbitrary files** • **labkotec lid 3300ip** • **campaign targeting india** • **windows terminal app** • **uses batch scripts** • **massive fraud ring** • **gain unauthorized control** • **latest hacking group** • **twitter whistleblower complaint** • **securonix threat research** • **restore individual files** • **microsoft 365 backup** • **iranian hackers already** • **email flooding attacks** • **dire critical rating** • **critical severity vulnerabilities**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
 - [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
 - [ArmorCode Raises $16 Million for Exposure Management Platform](https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/)
 - [In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike](https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/)
@@ -67,7 +68,6 @@
 - [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
 - [James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO](https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/)
 - [Iranian APT Hacked US Airport, Bank, Software Company](https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/)
-- [Data Security Firm Evervault Raises $25 Million in Series B Funding](https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/)
 
 ### Threatpost
 

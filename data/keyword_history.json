@@ -225,7 +225,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 917,
+      "count": 918,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3189,7 +3189,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -4600,7 +4600,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 324,
+      "count": 325,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5149,11 +5149,12 @@
       ]
     },
     "critical severity vulnerabilities": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-30",
         "2026-01-31",
-        "2026-03-06"
+        "2026-03-06",
+        "2026-03-07"
       ]
     },
     "path zero trust": {
@@ -5404,7 +5405,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 293,
+      "count": 294,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -8509,7 +8510,7 @@
       ]
     },
     "epower epower ie": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8519,7 +8520,7 @@
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8529,7 +8530,7 @@
       ]
     },
     "gain unauthorized control": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8734,7 +8735,7 @@
       ]
     },
     "overwrite arbitrary files": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-05",
         "2026-03-06",
@@ -8770,14 +8771,14 @@
       ]
     },
     "windows terminal app": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-03-06",
         "2026-03-07"
       ]
     },
     "lumma stealer malware": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-03-06",
         "2026-03-07"
@@ -8790,14 +8791,14 @@
       ]
     },
     "massive fraud ring": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-06",
         "2026-03-07"
       ]
     },
     "email flooding attacks": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-06",
         "2026-03-07"
@@ -8810,28 +8811,28 @@
       ]
     },
     "microsoft 365 backup": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-06",
         "2026-03-07"
       ]
     },
     "restore individual files": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-06",
         "2026-03-07"
       ]
     },
     "campaign targeting india": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-06",
         "2026-03-07"
       ]
     },
     "uses batch scripts": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-06",
         "2026-03-07"
@@ -8844,7 +8845,7 @@
       ]
     },
     "latest hacking group": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-06",
         "2026-03-07"
@@ -8857,31 +8858,20 @@
       ]
     },
     "iranian hackers already": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-06",
         "2026-03-07"
       ]
     },
     "securonix threat research": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-07"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-26 14:43",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "gambit security emerges",
-        "silent hacking anthropic",
-        "prolific elusive actor"
-      ]
-    },
     {
       "timestamp": "2026-02-26 16:53",
       "articles": 56,
@@ -9962,6 +9952,17 @@
     },
     {
       "timestamp": "2026-03-07 10:18",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "lumma stealer malware",
+        "epower epower ie",
+        "overwrite arbitrary files"
+      ]
+    },
+    {
+      "timestamp": "2026-03-07 12:36",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

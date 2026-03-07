@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07 14:19",
+  "last_updated": "2026-03-07 16:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -11,7 +11,7 @@
     "massive fraud ring",
     "gain unauthorized control",
     "twitter whistleblower complaint",
-    "dire critical rating",
+    "microsoft 365 backup",
     "email flooding attacks",
     "50 security holes",
     "17 2 1",
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 295
+      "mentions": 296
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 326
+      "mentions": 327
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 484
+      "mentions": 485
     },
     {
       "keyword": "massive fraud ring",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "gain unauthorized control",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 919
+      "mentions": 920
     },
     {
-      "keyword": "dire critical rating",
-      "mentions": 134
+      "keyword": "microsoft 365 backup",
+      "mentions": 13
     },
     {
       "keyword": "email flooding attacks",
-      "mentions": 14
+      "mentions": 15
     }
   ],
   "articles": [
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/",
+      "summary": "Microsoft says threat actors are increasingly using artificial intelligence in their operations to accelerate attacks, scale malicious activity, and lower technical barriers across all aspects of a cyberattack. [...]",
+      "published": "Sat, 07 Mar 2026 10:15:25 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "BleepingComputer",
       "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
@@ -137,15 +146,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese state hackers target telcos with new malware toolkit",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/",
-      "summary": "A China-linked advanced persistent threat actor tracked as UAT-9244 has been targeting telecommunication service providers in South America since 2024, compromising Windows, Linux, and network-edge devices. [...]",
-      "published": "Thu, 05 Mar 2026 18:19:49 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -316,6 +316,17 @@
     },
     {
       "source": "Security Week",
+      "title": "US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies",
+      "link": "https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/",
+      "summary": "Trump’s Cyber Strategy calls for stronger deterrence against cyber adversaries, modernization of federal networks, protection of critical infrastructure, and investment in technologies such as AI and post-quantum cryptography. The post US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies appeared first on SecurityWeek .",
+      "published": "Sat, 07 Mar 2026 15:57:23 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Over 100 GitHub Repositories Distributing BoryptGrab Stealer",
       "link": "https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/",
       "summary": "The malware targets browser and cryptocurrency wallet data, along with system information and user files. The post Over 100 GitHub Repositories Distributing BoryptGrab Stealer appeared first on SecurityWeek .",
@@ -383,15 +394,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO",
-      "link": "https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/",
-      "summary": "Bishop replaces David McKeown, who will take on a role in the private sector after 40 years of government service. The post James ‘Aaron’ Bishop Tapped to Serve as New Pentagon CISO appeared first on SecurityWeek .",
-      "published": "Fri, 06 Mar 2026 11:44:15 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

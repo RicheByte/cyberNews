@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-08 04:07 UTC |
-| 📰 Articles Analyzed | 56 |
+| 🕐 Last Updated | 2026-03-08 06:36 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `epower epower ie` • `lumma stealer malware` • `labkotec lid 3300ip` • `campaign targeting india` • `windows terminal app` • `uses batch scripts` • `microsoft 365 backup` • `massive fraud ring`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `epower epower ie` • `labkotec lid 3300ip` • `windows operating systems` • `massive fraud ring` • `gain unauthorized control` • `twitter whistleblower complaint` • `microsoft 365 backup` • `email flooding attacks`
 
 ## 📄 Reports
 

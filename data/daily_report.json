@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08 10:20",
+  "last_updated": "2026-03-08 12:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -16,54 +16,54 @@
     "gain unauthorized control",
     "latest hacking group",
     "twitter whistleblower complaint",
+    "hacking ip cameras",
     "email flooding attacks",
+    "cve 2026 20127",
     "another cluster known",
     "windows operating systems",
     "17 2 1",
-    "kimwolf botnet lurking",
-    "dire critical rating",
-    "windows run dialog"
+    "kimwolf botnet lurking"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 304
+      "mentions": 305
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 335
+      "mentions": 336
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "lumma stealer malware",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "campaign targeting india",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "windows terminal app",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "uses batch scripts",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "microsoft 365 backup",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "massive fraud ring",
-      "mentions": 24
+      "mentions": 25
     }
   ],
   "articles": [
@@ -393,6 +393,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited",
+      "link": "https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/",
+      "summary": "WatchTowr reports seeing exploitation attempts for CVE-2026-20127 from numerous unique IP addresses. The post Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited appeared first on SecurityWeek .",
+      "published": "Sun, 08 Mar 2026 12:15:00 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies",
       "link": "https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/",
       "summary": "Trump’s Cyber Strategy calls for stronger deterrence against cyber adversaries, modernization of federal networks, protection of critical infrastructure, and investment in technologies such as AI and post-quantum cryptography. The post US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies appeared first on SecurityWeek .",
@@ -458,17 +470,6 @@
       "value_score": 56,
       "value_signals": [
         "CISA/KEV ×4",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks",
-      "link": "https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/",
-      "summary": "The vulnerability was disclosed and mitigated in 2021 but its in-the-wild exploitation has only now come to light. The post Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks appeared first on SecurityWeek .",
-      "published": "Fri, 06 Mar 2026 12:32:09 +0000",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },

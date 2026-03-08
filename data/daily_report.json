@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08 12:37",
+  "last_updated": "2026-03-08 14:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,58 +12,58 @@
     "windows terminal app",
     "uses batch scripts",
     "microsoft 365 backup",
-    "massive fraud ring",
     "gain unauthorized control",
     "latest hacking group",
     "twitter whistleblower complaint",
     "hacking ip cameras",
-    "email flooding attacks",
     "cve 2026 20127",
     "another cluster known",
     "windows operating systems",
     "17 2 1",
-    "kimwolf botnet lurking"
+    "kimwolf botnet lurking",
+    "dire critical rating",
+    "windows run dialog"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 305
+      "mentions": 306
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 336
+      "mentions": 337
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 54
+      "mentions": 55
     },
     {
       "keyword": "lumma stealer malware",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 54
+      "mentions": 55
     },
     {
       "keyword": "campaign targeting india",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "windows terminal app",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "uses batch scripts",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "microsoft 365 backup",
-      "mentions": 22
+      "mentions": 23
     },
     {
-      "keyword": "massive fraud ring",
-      "mentions": 25
+      "keyword": "gain unauthorized control",
+      "mentions": 55
     }
   ],
   "articles": [
@@ -145,6 +145,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
+      "summary": "Threat actors are abusing the special-use \".arpa\" domain and IPv6 reverse DNS in phishing campaigns that more easily evade domain reputation checks and email security gateways. [...]",
+      "published": "Sun, 08 Mar 2026 10:12:22 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
       "link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
       "summary": "Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor. [...]",
@@ -212,15 +223,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
       "summary": "Microsoft will soon begin rolling out a significant upgrade to Microsoft 365 Backup to speed up recovery by allowing administrators to restore individual files and folders. [...]",
       "published": "Fri, 06 Mar 2026 09:21:09 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ghanain man pleads guilty to role in $100 million fraud ring",
-      "link": "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/",
-      "summary": "A Ghanaian national pleaded guilty to his role in a massive fraud ring that stole over $100 million from victims across the United States through business email compromise attacks and romance scams. [...]",
-      "published": "Fri, 06 Mar 2026 05:08:00 -0500",
       "value_score": 10,
       "value_signals": []
     },

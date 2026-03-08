@@ -1,72 +1,148 @@
 {
-  "last_updated": "2026-03-08 06:36",
+  "last_updated": "2026-03-08 08:25",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
     "epower epower ie",
+    "lumma stealer malware",
     "labkotec lid 3300ip",
-    "windows operating systems",
+    "campaign targeting india",
+    "windows terminal app",
+    "uses batch scripts",
+    "microsoft 365 backup",
     "massive fraud ring",
     "gain unauthorized control",
+    "latest hacking group",
     "twitter whistleblower complaint",
-    "microsoft 365 backup",
     "email flooding attacks",
-    "50 security holes",
-    "legitimate windows utilities",
+    "another cluster known",
+    "windows operating systems",
     "17 2 1",
     "kimwolf botnet lurking",
-    "vulnerable charging stations",
-    "vulnerabilities earned microsoft's",
-    "victim's username password",
-    "strengthen u s",
-    "restore individual files",
-    "recommended immediate actions"
+    "dire critical rating",
+    "windows run dialog"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 302
+      "mentions": 303
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 333
+      "mentions": 334
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 51
+      "mentions": 52
+    },
+    {
+      "keyword": "lumma stealer malware",
+      "mentions": 21
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 51
+      "mentions": 52
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 491
+      "keyword": "campaign targeting india",
+      "mentions": 17
     },
     {
-      "keyword": "massive fraud ring",
-      "mentions": 22
+      "keyword": "windows terminal app",
+      "mentions": 21
     },
     {
-      "keyword": "gain unauthorized control",
-      "mentions": 51
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 926
+      "keyword": "uses batch scripts",
+      "mentions": 17
     },
     {
       "keyword": "microsoft 365 backup",
-      "mentions": 19
+      "mentions": 20
     },
     {
-      "keyword": "email flooding attacks",
-      "mentions": 21
+      "keyword": "massive fraud ring",
+      "mentions": 23
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
+      "link": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html",
+      "summary": "OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propose fixes for vulnerabilities. The feature is available in a research preview to ChatGPT Pro, Enterprise, Business, and Edu customers via the Codex web with free usage for the next month. \"It builds deep context about your project to identify",
+      "published": "Sat, 07 Mar 2026 21:58:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
+      "link": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
+      "summary": "Anthropic on Friday said it discovered 22 new security vulnerabilities in the Firefox web browser as part of a security partnership with Mozilla. Of these, 14 have been classified as high, seven have been classified as moderate, and one has been rated low in severity. The issues were addressed in Firefox 148, released late last month. The vulnerabilities were identified over a two-week period in",
+      "published": "Sat, 07 Mar 2026 16:51:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
+      "link": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
+      "summary": "The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various implants. The activity is designed to produce a \"high-volume, mediocre mass of implants\" that are developed using lesser-known programming languages like Nim, Zig, and Crystal and rely on trusted services like",
+      "published": "Fri, 06 Mar 2026 20:41:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
+      "link": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html",
+      "summary": "Cybersecurity researchers have disclosed details of a multi-stage malware campaign that uses batch scripts as a pathway to deliver various encrypted remote access trojan (RATs) payloads that correspond to XWorm, AsyncRAT, and Xeno RAT. The stealthy attack chain has been codenamed VOID#GEIST by Securonix Threat Research. At a high level, the obfuscated batch script is used to deploy a second",
+      "published": "Fri, 06 Mar 2026 20:03:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
+      "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
+      "summary": "Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale. Risk-based cybersecurity is the foundation of that model. When done right, it builds client trust, increases upsell opportunities, and drives recurring revenue. But to deliver this consistently and efficiently, you need the right technology and processes.",
+      "published": "Fri, 06 Mar 2026 16:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
+      "link": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
+      "summary": "New research from Broadcom's Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in several U.S. companies' networks, including banks, airports, non-profit, and the Israeli arm of a software company. The activity has been attributed to a state-sponsored hacking group called MuddyWater (aka Seedworm). It's affiliated with the Iranian",
+      "published": "Fri, 06 Mar 2026 15:53:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
+      "link": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
+      "summary": "A China-linked advanced persistent threat (APT) actor has been targeting critical telecommunications infrastructure in South America since 2024, targeting Windows and Linux systems and edge devices with three different implants. The activity is being tracked by Cisco Talos under the moniker UAT-9244, describing it as closely associated with another cluster known as FamousSparrow. It's worth",
+      "published": "Fri, 06 Mar 2026 13:52:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
+      "link": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
+      "summary": "Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware. The activity, observed in February 2026, makes use of the terminal emulator program instead of instructing users to launch the Windows Run dialog and paste a command",
+      "published": "Fri, 06 Mar 2026 12:14:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "BleepingComputer",
       "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
@@ -241,6 +317,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cylake Offers AI-Native Security Without Relying on Cloud Services",
+      "link": "https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services",
+      "summary": "Cylake's platform will analyze security data locally and identify potential attacks for organizations concerned about data sovereignty.",
+      "published": "Fri, 06 Mar 2026 19:04:36 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "North Korean APTs Use AI to Enhance IT Worker Scams",
       "link": "https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams",
       "summary": "DPRK worker scams are old hat, but they're still working, thanks to AI tools that help with everything from face swapping to daily emails.",
@@ -305,15 +390,6 @@
       "value_signals": [
         "High severity"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Software Development Practices Help Enterprises Tackle Real-Life Risks",
-      "link": "https://www.darkreading.com/cybersecurity-operations/software-development-practices-help-enterprises-tackle-real-life-risks",
-      "summary": "Organizations can borrow secure-by-design processes to manage non-technical challenges like governance or the inevitable human error.",
-      "published": "Thu, 05 Mar 2026 16:34:20 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

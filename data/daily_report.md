@@ -1,18 +1,29 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-08 06:36 UTC  
+> **Last Updated:** 2026-03-08 08:25 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **labkotec lid 3300ip** • **windows operating systems** • **massive fraud ring** • **gain unauthorized control** • **twitter whistleblower complaint** • **microsoft 365 backup** • **email flooding attacks** • **50 security holes** • **legitimate windows utilities** • **17 2 1** • **kimwolf botnet lurking** • **vulnerable charging stations** • **vulnerabilities earned microsoft's** • **victim's username password** • **strengthen u s** • **restore individual files** • **recommended immediate actions**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **lumma stealer malware** • **labkotec lid 3300ip** • **campaign targeting india** • **windows terminal app** • **uses batch scripts** • **microsoft 365 backup** • **massive fraud ring** • **gain unauthorized control** • **latest hacking group** • **twitter whistleblower complaint** • **email flooding attacks** • **another cluster known** • **windows operating systems** • **17 2 1** • **kimwolf botnet lurking** • **dire critical rating** • **windows run dialog**
 
 ---
 
 ## 📰 Latest News by Source
+
+### The Hacker News
+
+- [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
+- [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
+- [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
+- [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
+- [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
+- [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
+- [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
+- [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
 
 ### BleepingComputer
 
@@ -38,6 +49,7 @@
 
 ### Dark Reading
 
+- [Cylake Offers AI-Native Security Without Relying on Cloud Services](https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services)
 - [North Korean APTs Use AI to Enhance IT Worker Scams](https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams)
 - [EU Auto Rules Shift Gears on Cybersecurity Standards](https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards)
 - [Iran's Cyber-Kinetic War Doctrine Takes Shape](https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine)
@@ -45,7 +57,6 @@
 - [Nation-State Actor Embraces AI Malware Assembly Line](https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line)
 - [Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform](https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform)
 - [Cisco Drops 48 New Firewall Vulnerabilities, 2 Critical](https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical)
-- [Software Development Practices Help Enterprises Tackle Real-Life Risks](https://www.darkreading.com/cybersecurity-operations/software-development-practices-help-enterprises-tackle-real-life-risks)
 
 ### Security Week
 

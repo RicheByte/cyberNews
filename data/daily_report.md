@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-08 14:20 UTC  
+> **Last Updated:** 2026-03-08 16:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **lumma stealer malware** • **labkotec lid 3300ip** • **campaign targeting india** • **windows terminal app** • **uses batch scripts** • **microsoft 365 backup** • **gain unauthorized control** • **latest hacking group** • **twitter whistleblower complaint** • **hacking ip cameras** • **cve 2026 20127** • **another cluster known** • **windows operating systems** • **17 2 1** • **kimwolf botnet lurking** • **dire critical rating** • **windows run dialog**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **lumma stealer malware** • **labkotec lid 3300ip** • **campaign targeting india** • **windows terminal app** • **uses batch scripts** • **latest hacking group** • **twitter whistleblower complaint** • **hacking ip cameras** • **cve 2026 20127** • **anti abuse activists** • **another cluster known** • **windows operating systems** • **gain unauthorized control** • **unauthorized transactions even** • **17 2 1** • **kimwolf botnet lurking** • **dire critical rating**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
 - [Hackers abuse .arpa DNS and ipv6 to evade phishing defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/)
 - [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
 - [Microsoft: Hackers abusing AI at every stage of cyberattacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/)
@@ -34,7 +35,6 @@
 - [CISA warns feds to patch iOS flaws exploited in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/)
 - [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/)
 - [Fake Claude Code install guides push infostealers in InstallFix attacks](https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/)
-- [Microsoft 365 Backup to add file-level restore for faster recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/)
 
 ### Krebs on Security
 

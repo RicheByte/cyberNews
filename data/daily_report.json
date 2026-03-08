@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08 14:20",
+  "last_updated": "2026-03-08 16:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,59 +11,59 @@
     "campaign targeting india",
     "windows terminal app",
     "uses batch scripts",
-    "microsoft 365 backup",
-    "gain unauthorized control",
     "latest hacking group",
     "twitter whistleblower complaint",
     "hacking ip cameras",
     "cve 2026 20127",
+    "anti abuse activists",
     "another cluster known",
     "windows operating systems",
+    "gain unauthorized control",
+    "unauthorized transactions even",
     "17 2 1",
     "kimwolf botnet lurking",
-    "dire critical rating",
-    "windows run dialog"
+    "dire critical rating"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 306
+      "mentions": 307
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 337
+      "mentions": 338
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "lumma stealer malware",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "campaign targeting india",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "windows terminal app",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "uses batch scripts",
-      "mentions": 20
+      "mentions": 21
     },
     {
-      "keyword": "microsoft 365 backup",
-      "mentions": 23
+      "keyword": "latest hacking group",
+      "mentions": 21
     },
     {
-      "keyword": "gain unauthorized control",
-      "mentions": 55
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 931
     }
   ],
   "articles": [
@@ -145,6 +145,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "EU court adviser says banks must immediately refund phishing victims",
+      "link": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
+      "summary": "Athanasios Rantos, the Advocate General of the Court of Justice of the EU (CJEU), has issued a formal opinion suggesting that banks must immediately refund account holders affected by unauthorized transactions, even when it's their fault. [...]",
+      "published": "Sun, 08 Mar 2026 11:25:37 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
       "summary": "Threat actors are abusing the special-use \".arpa\" domain and IPv6 reverse DNS in phishing campaigns that more easily evade domain reputation checks and email security gateways. [...]",
@@ -214,15 +225,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
       "summary": "Threat actors are employing a new variation of the ClickFix social engineering technique called InstallFix to convince users into running malicious commands under the pretext of installing legitimate command line interface (CLI) tools. [...]",
       "published": "Fri, 06 Mar 2026 10:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
-      "summary": "Microsoft will soon begin rolling out a significant upgrade to Microsoft 365 Backup to speed up recovery by allowing administrators to restore individual files and folders. [...]",
-      "published": "Fri, 06 Mar 2026 09:21:09 -0500",
       "value_score": 10,
       "value_signals": []
     },

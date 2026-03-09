@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-09 08:38 UTC  
+> **Last Updated:** 2026-03-09 10:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **labkotec lid 3300ip** • **campaign targeting india** • **chinese threat actor** • **uses batch scripts** • **latest hacking group** • **twitter whistleblower complaint** • **hacking ip cameras** • **anti abuse activists** • **another cluster known** • **agents autonomous programs** • **gain unauthorized control** • **unauthorized transactions even** • **17 2 1** • **kimwolf botnet lurking** • **securonix threat research** • **vulnerable charging stations** • **victim's username password**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **labkotec lid 3300ip** • **chinese threat actor** • **uses batch scripts** • **latest hacking group** • **twitter whistleblower complaint** • **hacking ip cameras** • **anti abuse activists** • **agents autonomous programs** • **gain unauthorized control** • **unauthorized transactions even** • **17 2 1** • **kimwolf botnet lurking** • **campaign targeting india** • **securonix threat research** • **vulnerable charging stations** • **victim's username password** • **strengthen u s**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
 - [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
 - [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 - [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
@@ -23,7 +24,6 @@
 - [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
 - [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
 - [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
-- [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
 
 ### BleepingComputer
 

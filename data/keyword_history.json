@@ -227,7 +227,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 937,
+      "count": 938,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4609,7 +4609,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 344,
+      "count": 345,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5058,7 +5058,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5419,7 +5419,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 313,
+      "count": 314,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6069,9 +6069,10 @@
       ]
     },
     "chinese threat actor": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-06"
+        "2026-02-06",
+        "2026-03-09"
       ]
     },
     "cisa orders removal": {
@@ -7688,7 +7689,7 @@
       ]
     },
     "victim's username password": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7697,7 +7698,8 @@
         "2026-03-03",
         "2026-03-04",
         "2026-03-07",
-        "2026-03-08"
+        "2026-03-08",
+        "2026-03-09"
       ]
     },
     "aiding north korean": {
@@ -7850,7 +7852,7 @@
       ]
     },
     "anti abuse activists": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -8431,12 +8433,13 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-02",
         "2026-03-03",
         "2026-03-07",
-        "2026-03-08"
+        "2026-03-08",
+        "2026-03-09"
       ]
     },
     "wiper malware ddos": {
@@ -8537,7 +8540,7 @@
       ]
     },
     "epower epower ie": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8549,7 +8552,7 @@
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8561,7 +8564,7 @@
       ]
     },
     "gain unauthorized control": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8646,7 +8649,7 @@
       ]
     },
     "17 2 1": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-03-04",
         "2026-03-05",
@@ -8870,7 +8873,7 @@
       ]
     },
     "campaign targeting india": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -8879,7 +8882,7 @@
       ]
     },
     "uses batch scripts": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -8894,7 +8897,7 @@
       ]
     },
     "latest hacking group": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -8916,7 +8919,7 @@
       ]
     },
     "securonix threat research": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-07",
         "2026-03-09"
@@ -8929,7 +8932,7 @@
       ]
     },
     "another cluster known": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-07",
         "2026-03-08",
@@ -8950,38 +8953,27 @@
       ]
     },
     "hacking ip cameras": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-08",
         "2026-03-09"
       ]
     },
     "unauthorized transactions even": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-08",
         "2026-03-09"
       ]
     },
     "agents autonomous programs": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-09"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-28 08:22",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io",
-        "cloudcharge cloudcharge se"
-      ]
-    },
     {
       "timestamp": "2026-02-28 10:18",
       "articles": 56,
@@ -10069,6 +10061,17 @@
         "epower epower ie",
         "lumma stealer malware",
         "labkotec lid 3300ip"
+      ]
+    },
+    {
+      "timestamp": "2026-03-09 08:38",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "epower epower ie",
+        "labkotec lid 3300ip",
+        "campaign targeting india"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-09 06:55 UTC  
+> **Last Updated:** 2026-03-09 08:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **lumma stealer malware** • **labkotec lid 3300ip** • **campaign targeting india** • **uses batch scripts** • **latest hacking group** • **windows terminal app** • **twitter whistleblower complaint** • **hacking ip cameras** • **cve 2026 20127** • **anti abuse activists** • **another cluster known** • **agents autonomous programs** • **gain unauthorized control** • **unauthorized transactions even** • **17 2 1** • **kimwolf botnet lurking** • **securonix threat research**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **labkotec lid 3300ip** • **campaign targeting india** • **chinese threat actor** • **uses batch scripts** • **latest hacking group** • **twitter whistleblower complaint** • **hacking ip cameras** • **anti abuse activists** • **another cluster known** • **agents autonomous programs** • **gain unauthorized control** • **unauthorized transactions even** • **17 2 1** • **kimwolf botnet lurking** • **securonix threat research** • **vulnerable charging stations** • **victim's username password**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
 - [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 - [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
 - [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
@@ -23,7 +24,6 @@
 - [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
 - [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
 - [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
-- [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
 
 ### BleepingComputer
 

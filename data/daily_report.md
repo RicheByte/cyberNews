@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-09 14:44 UTC  
+> **Last Updated:** 2026-03-09 16:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **labkotec lid 3300ip** • **chinese threat actor** • **uses batch scripts** • **microsoft still working** • **twitter whistleblower complaint** • **anti abuse activists** • **agents autonomous programs** • **gain unauthorized control** • **campaign targeting india** • **unauthorized transactions even** • **kimwolf botnet lurking** • **threat actor hides** • **securonix threat research** • **hacking ip cameras** • **vulnerable charging stations** • **victim's username password** • **secure online communications**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **microsoft still working** • **epower epower ie** • **labkotec lid 3300ip** • **chinese threat actor** • **campaign targeting india** • **twitter whistleblower complaint** • **cve 2026 20127** • **anti abuse activists** • **agents autonomous programs** • **gain unauthorized control** • **unauthorized transactions even** • **kimwolf botnet lurking** • **threat actor hides** • **hacking ip cameras** • **vulnerable charging stations** • **victim's username password** • **state sponsored adversary** • **secure online communications**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
+- [⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware](https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html)
 - [Can the Security Platform Finally Deliver for the Mid-Market?](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
 - [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
 - [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
 - [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 - [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
 - [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
-- [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
-- [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
 
 ### BleepingComputer
 
+- [FBI warns of phishing attacks impersonating US city, county officials](https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/)
 - [Why Password Audits Miss the Accounts Attackers Actually Want](https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/)
 - [Microsoft still working to fix Windows Explorer white flashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/)
 - [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
@@ -34,7 +35,6 @@
 - [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
 - [Microsoft: Hackers abusing AI at every stage of cyberattacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/)
 - [Cognizant TriZetto breach exposes health data of 3.4 million patients](https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/)
-- [CISA warns feds to patch iOS flaws exploited in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Cybersecurity M&A Roundup: 42 Deals Announced in February 2026](https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-february-2026/)
 - [ClickFix Attack Uses Windows Terminal to Evade Detection](https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/)
 - [Internet Infrastructure TLD .arpa Abused in Phishing Attacks](https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/)
 - [Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign](https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/)
@@ -67,7 +68,6 @@
 - [US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies](https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/)
 - [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
 - [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
-- [FBI Investigating ‘Suspicious’ Cyber Activity on System Holding Sensitive Surveillance Information](https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/)
 
 ### Threatpost
 

@@ -227,7 +227,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 939,
+      "count": 940,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4609,7 +4609,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 346,
+      "count": 347,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5058,7 +5058,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5419,7 +5419,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 315,
+      "count": 316,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6069,7 +6069,7 @@
       ]
     },
     "chinese threat actor": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-06",
         "2026-03-09"
@@ -7645,7 +7645,7 @@
       ]
     },
     "strengthen u s": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-23",
         "2026-03-08",
@@ -7690,7 +7690,7 @@
       ]
     },
     "victim's username password": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7853,7 +7853,7 @@
       ]
     },
     "anti abuse activists": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -8434,7 +8434,7 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-02",
         "2026-03-03",
@@ -8541,7 +8541,7 @@
       ]
     },
     "epower epower ie": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8553,7 +8553,7 @@
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8565,7 +8565,7 @@
       ]
     },
     "gain unauthorized control": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8874,7 +8874,7 @@
       ]
     },
     "campaign targeting india": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -8883,7 +8883,7 @@
       ]
     },
     "uses batch scripts": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -8920,7 +8920,7 @@
       ]
     },
     "securonix threat research": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-07",
         "2026-03-09"
@@ -8954,38 +8954,39 @@
       ]
     },
     "hacking ip cameras": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-08",
         "2026-03-09"
       ]
     },
     "unauthorized transactions even": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-08",
         "2026-03-09"
       ]
     },
     "agents autonomous programs": {
-      "count": 5,
+      "count": 6,
+      "dates": [
+        "2026-03-09"
+      ]
+    },
+    "threat actor hides": {
+      "count": 1,
+      "dates": [
+        "2026-03-09"
+      ]
+    },
+    "windows terminal instead": {
+      "count": 1,
       "dates": [
         "2026-03-09"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-28 12:35",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io",
-        "cloudcharge cloudcharge se"
-      ]
-    },
     {
       "timestamp": "2026-02-28 14:17",
       "articles": 56,
@@ -10073,6 +10074,17 @@
         "epower epower ie",
         "labkotec lid 3300ip",
         "chinese threat actor"
+      ]
+    },
+    {
+      "timestamp": "2026-03-09 12:52",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "epower epower ie",
+        "labkotec lid 3300ip",
+        "uses batch scripts"
       ]
     }
   ]

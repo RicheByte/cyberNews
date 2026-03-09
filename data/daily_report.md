@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-09 16:52 UTC  
+> **Last Updated:** 2026-03-09 18:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **microsoft still working** • **epower epower ie** • **labkotec lid 3300ip** • **chinese threat actor** • **campaign targeting india** • **twitter whistleblower complaint** • **cve 2026 20127** • **anti abuse activists** • **agents autonomous programs** • **gain unauthorized control** • **unauthorized transactions even** • **kimwolf botnet lurking** • **threat actor hides** • **hacking ip cameras** • **vulnerable charging stations** • **victim's username password** • **state sponsored adversary** • **secure online communications**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **chinese threat actor** • **microsoft still working** • **unauthorized transactions even** • **twitter whistleblower complaint** • **cve 2026 20127** • **anti abuse activists** • **agents autonomous programs** • **kimwolf botnet lurking** • **campaign targeting india** • **threat actor hides** • **hacking ip cameras** • **evade takedown attempts** • **vulnerable charging stations** • **victim's username password** • **state sponsored adversary** • **secure online communications** • **recommended immediate actions**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Microsoft Teams will tag third-party bots trying to join meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/)
+- [ShinyHunters claims ongoing Salesforce Aura data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/)
 - [FBI warns of phishing attacks impersonating US city, county officials](https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/)
 - [Why Password Audits Miss the Accounts Attackers Actually Want](https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/)
 - [Microsoft still working to fix Windows Explorer white flashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/)
 - [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
 - [Hackers abuse .arpa DNS and ipv6 to evade phishing defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/)
 - [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
-- [Microsoft: Hackers abusing AI at every stage of cyberattacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/)
-- [Cognizant TriZetto breach exposes health data of 3.4 million patients](https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)
 - [Delta Electronics CNCSoft-G2](https://www.cisa.gov/news-events/ics-advisories/icsa-26-064-01)
 - [CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog)
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/03/cisa-adds-two-known-exploited-vulnerabilities-catalog)
+- [Everon OCPP Backends](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-08)
 - [ePower epower.ie](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-07)
+- [Hitachi Energy RTU500 Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-03)
 - [Mobiliti e-mobi.hu](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06)
-- [Portwell Engineering Toolkits](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-04)
-- [Mitsubishi Electric MELSEC iQ-F Series EtherNet/IP module and Ethernet module](https://www.cisa.gov/news-events/ics-advisories/icsa-26-62-01)
-- [Hitachi Energy Relion REB500 Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-02)
-- [Labkotec LID-3300IP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-05)
 
 ---
 

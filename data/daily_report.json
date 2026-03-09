@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-09 16:52",
+  "last_updated": "2026-03-09 18:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
-    "microsoft still working",
     "epower epower ie",
-    "labkotec lid 3300ip",
     "chinese threat actor",
-    "campaign targeting india",
+    "microsoft still working",
+    "unauthorized transactions even",
     "twitter whistleblower complaint",
     "cve 2026 20127",
     "anti abuse activists",
     "agents autonomous programs",
-    "gain unauthorized control",
-    "unauthorized transactions even",
     "kimwolf botnet lurking",
+    "campaign targeting india",
     "threat actor hides",
     "hacking ip cameras",
+    "evade takedown attempts",
     "vulnerable charging stations",
     "victim's username password",
     "state sponsored adversary",
-    "secure online communications"
+    "secure online communications",
+    "recommended immediate actions"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 318
+      "mentions": 319
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 349
-    },
-    {
-      "keyword": "microsoft still working",
-      "mentions": 2
+      "mentions": 350
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 67
-    },
-    {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "chinese threat actor",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "campaign targeting india",
-      "mentions": 32
+      "keyword": "microsoft still working",
+      "mentions": 3
+    },
+    {
+      "keyword": "unauthorized transactions even",
+      "mentions": 13
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 942
+      "mentions": 943
     },
     {
       "keyword": "cve 2026 20127",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "anti abuse activists",
-      "mentions": 22
+      "mentions": 23
+    },
+    {
+      "keyword": "agents autonomous programs",
+      "mentions": 9
     }
   ],
   "articles": [
@@ -146,6 +146,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft Teams will tag third-party bots trying to join meetings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/",
+      "summary": "Microsoft says Teams will soon automatically tag third-party bots in lobbies, allowing organizers to control whether they can join meetings. [...]",
+      "published": "Mon, 09 Mar 2026 13:12:49 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ShinyHunters claims ongoing Salesforce Aura data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/",
+      "summary": "Salesforce is warning customers that hackers are targeting websites with misconfigured Experience Cloud platforms that give guest users access to more data than intended. However, the ShinyHunters extortion gang claims to be actively exploiting a new bug to steal data from instances. [...]",
+      "published": "Mon, 09 Mar 2026 13:12:22 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI warns of phishing attacks impersonating US city, county officials",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/",
       "summary": "The Federal Bureau of Investigation (FBI) warns that criminals are impersonating U.S. officials in phishing attacks targeting businesses and individuals who request city and county planning and zoning permits. [...]",
@@ -207,26 +227,6 @@
       "value_signals": [
         "Ransomware ×2",
         "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/",
-      "summary": "Microsoft says threat actors are increasingly using artificial intelligence in their operations to accelerate attacks, scale malicious activity, and lower technical barriers across all aspects of a cyberattack. [...]",
-      "published": "Sat, 07 Mar 2026 10:15:25 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
-      "link": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/",
-      "summary": "TriZetto Provider Solutions, a healthcare IT company that develops software and services used by health insurers and healthcare providers, has suffered a data breach that exposed the sensitive information of over 3.4 million people. [...]",
-      "published": "Fri, 06 Mar 2026 14:50:21 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -556,6 +556,22 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2021-22054 Omnissa Workspace ONE Server-Side Request Forgery CVE-2025-26399 SolarWinds Web Help Desk Deserialization of Untrusted Data Vulnerability CVE-2026-1603 Ivanti Endpoint Manager (EPM) Authentication Bypass Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal e",
+      "published": "Mon, 09 Mar 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "Auth bypass",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Delta Electronics CNCSoft-G2",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-064-01",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker achieving remote code execution on the device. The following versions of Delta Electronics CNCSoft-G2 are affected: CNCSoft-G2 CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics CNCSoft-G2 Out-of-bounds Write Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Taiwan Vulnerabilities Expand All +",
@@ -585,6 +601,34 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/03/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-21385 Qualcomm Multiple Chipsets Memory Corruption Vulnerability CVE-2026-22719 Broadcom VMware Aria Operations Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Ris",
+      "published": "Tue, 03 Mar 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Everon OCPP Backends",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-08",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Everon OCPP Backends are affected: api.everon.io vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 Everon Everon OCPP Backends Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insu",
+      "published": "Tue, 03 Mar 26 12:00:00 +0000",
+      "value_score": 49,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "ePower epower.ie",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-07",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of ePower epower.ie are affected: epower.ie vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 ePower ePower epower.ie Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficient Ses",
@@ -598,49 +642,9 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Mobiliti e-mobi.hu",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Mobiliti e-mobi.hu are affected: e-mobi.hu vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 Mobiliti Mobiliti e-mobi.hu Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficie",
-      "published": "Tue, 03 Mar 26 12:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Portwell Engineering Toolkits",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a local attacker to escalate privileges or cause a denial-of-service condition. The following versions of Portwell Engineering Toolkits are affected: Portwell Engineering Toolkits 4.8.2 CVSS Vendor Equipment Vulnerabilities v3 8.8 Portwell Portwell Engineering Toolkits Improper Restriction of Operations within the Bounds of a Memory Buffer Background Critical Infrastructure Sectors: Critical Manufacturing, Energy Countri",
-      "published": "Tue, 03 Mar 26 12:00:00 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Mitsubishi Electric MELSEC iQ-F Series EtherNet/IP module and Ethernet module",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-62-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a remote attacker to cause a denial-of-service condition by continuously sending UDP packets to the affected products. The following versions of Mitsubishi Electric MELSEC iQ-F Series EtherNet/IP module and Ethernet module are affected: MELSEC iQ-F Series FX5-ENET/IP Ethernet Module FX5-ENET/IP <=1.106, vers:all/* (CVE-2026-1874, CVE-2026-1876) MELSEC iQ-F Series FX5-EIP EtherNet/IP Module FX5-EIP vers:all/* (CVE-2026",
-      "published": "Tue, 03 Mar 26 12:00:00 +0000",
-      "value_score": 85,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Hitachi Energy Relion REB500 Product",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-02",
-      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect the Relion REB500 product versions listed in this document. Authenticated users with certain roles can exploit the vulnerabilities to access and modify the directory contents they are not authorized to do so. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Relion REB500 Product are affected: Relion REB500 vers:Relion_REB500/<=8.3.3.",
+      "title": "Hitachi Energy RTU500 Product",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-03",
+      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. Successful exploitation of these vulnerabilities can result in the exposure of low-value user management information and device outage. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy RTU500 Product are affected: RTU500 series CMU Firmware vers:RTU500_series_CMU_Firmware/>=12.7.1|<=12",
       "published": "Tue, 03 Mar 26 12:00:00 +0000",
       "value_score": 41,
       "value_signals": [
@@ -650,14 +654,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Labkotec LID-3300IP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to gain unauthorized control over system operations, leading to disruption of normal functionality and potential safety hazards. The following versions of Labkotec LID-3300IP are affected: LID-3300IP vers:all/* LID-3300IP Type 2 CVSS Vendor Equipment Vulnerabilities v3 9.4 Labkotec Labkotec LID-3300IP Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Communications, Energy",
+      "title": "Mobiliti e-mobi.hu",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-06",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of Mobiliti e-mobi.hu are affected: e-mobi.hu vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 Mobiliti Mobiliti e-mobi.hu Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficie",
       "published": "Tue, 03 Mar 26 12:00:00 +0000",
-      "value_score": 57,
+      "value_score": 49,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "High severity ×2",
+        "High severity",
         "Exploit wording"
       ]
     }

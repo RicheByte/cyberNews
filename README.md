@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-09 16:52 UTC |
+| 🕐 Last Updated | 2026-03-09 18:44 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `microsoft still working` • `epower epower ie` • `labkotec lid 3300ip` • `chinese threat actor` • `campaign targeting india` • `twitter whistleblower complaint` • `cve 2026 20127` • `anti abuse activists`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `epower epower ie` • `chinese threat actor` • `microsoft still working` • `unauthorized transactions even` • `twitter whistleblower complaint` • `cve 2026 20127` • `anti abuse activists` • `agents autonomous programs`
 
 ## 📄 Reports
 

@@ -227,7 +227,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 940,
+      "count": 941,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4609,7 +4609,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 347,
+      "count": 348,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5058,7 +5058,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5419,7 +5419,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 316,
+      "count": 317,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6069,7 +6069,7 @@
       ]
     },
     "chinese threat actor": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-06",
         "2026-03-09"
@@ -6733,7 +6733,7 @@
       ]
     },
     "secure online communications": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -6741,7 +6741,8 @@
         "2026-02-23",
         "2026-02-24",
         "2026-03-05",
-        "2026-03-06"
+        "2026-03-06",
+        "2026-03-09"
       ]
     },
     "original researchers observe": {
@@ -7690,7 +7691,7 @@
       ]
     },
     "victim's username password": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7853,7 +7854,7 @@
       ]
     },
     "anti abuse activists": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -8434,7 +8435,7 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-02",
         "2026-03-03",
@@ -8541,7 +8542,7 @@
       ]
     },
     "epower epower ie": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8553,7 +8554,7 @@
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8565,7 +8566,7 @@
       ]
     },
     "gain unauthorized control": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8874,7 +8875,7 @@
       ]
     },
     "campaign targeting india": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -8883,7 +8884,7 @@
       ]
     },
     "uses batch scripts": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -8920,7 +8921,7 @@
       ]
     },
     "securonix threat research": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-07",
         "2026-03-09"
@@ -8954,27 +8955,27 @@
       ]
     },
     "hacking ip cameras": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-08",
         "2026-03-09"
       ]
     },
     "unauthorized transactions even": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-08",
         "2026-03-09"
       ]
     },
     "agents autonomous programs": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-09"
       ]
     },
     "threat actor hides": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-09"
       ]
@@ -8984,20 +8985,15 @@
       "dates": [
         "2026-03-09"
       ]
+    },
+    "microsoft still working": {
+      "count": 1,
+      "dates": [
+        "2026-03-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-02-28 14:17",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io",
-        "cloudcharge cloudcharge se"
-      ]
-    },
     {
       "timestamp": "2026-02-28 16:20",
       "articles": 56,
@@ -10085,6 +10081,17 @@
         "epower epower ie",
         "labkotec lid 3300ip",
         "uses batch scripts"
+      ]
+    },
+    {
+      "timestamp": "2026-03-09 14:44",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "epower epower ie",
+        "labkotec lid 3300ip",
+        "chinese threat actor"
       ]
     }
   ]

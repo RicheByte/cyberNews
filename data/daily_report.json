@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09 12:52",
+  "last_updated": "2026-03-09 14:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,8 +7,9 @@
     "badbox 2 0",
     "epower epower ie",
     "labkotec lid 3300ip",
-    "uses batch scripts",
     "chinese threat actor",
+    "uses batch scripts",
+    "microsoft still working",
     "twitter whistleblower complaint",
     "anti abuse activists",
     "agents autonomous programs",
@@ -19,51 +20,50 @@
     "threat actor hides",
     "securonix threat research",
     "hacking ip cameras",
-    "windows terminal instead",
     "vulnerable charging stations",
     "victim's username password",
-    "strengthen u s"
+    "secure online communications"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 316
+      "mentions": 317
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 347
+      "mentions": 348
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 65
+      "mentions": 66
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 65
-    },
-    {
-      "keyword": "uses batch scripts",
-      "mentions": 30
+      "mentions": 66
     },
     {
       "keyword": "chinese threat actor",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "uses batch scripts",
+      "mentions": 31
+    },
+    {
+      "keyword": "microsoft still working",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 940
+      "mentions": 941
     },
     {
       "keyword": "anti abuse activists",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "agents autonomous programs",
-      "mentions": 6
-    },
-    {
-      "keyword": "gain unauthorized control",
-      "mentions": 65
+      "mentions": 7
     }
   ],
   "articles": [
@@ -144,6 +144,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
+      "link": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
+      "summary": "Password audits often focus on complexity rules but miss the accounts attackers actually target. Specops Software explains how breached passwords, orphaned users, and service accounts can leave organizations exposed. [...]",
+      "published": "Mon, 09 Mar 2026 10:10:20 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft still working to fix Windows Explorer white flashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/",
+      "summary": "Microsoft has confirmed that it's still working to fully address a known issue that causes bright white flashes when opening the File Explorer on some Windows 11 systems. [...]",
+      "published": "Mon, 09 Mar 2026 10:10:17 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "EU court adviser says banks must immediately refund phishing victims",
       "link": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
       "summary": "Athanasios Rantos, the Advocate General of the Court of Justice of the EU (CJEU), has issued a formal opinion suggesting that banks must immediately refund account holders affected by unauthorized transactions, even when it's their fault. [...]",
@@ -208,24 +228,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-      "link": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
-      "summary": "EC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite, with four new role-based AI certifications debuting alongside Certified CISO v4, an overhauled executive cyber leadership program. [...]",
-      "published": "Fri, 06 Mar 2026 10:00:10 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
-      "summary": "Threat actors are employing a new variation of the ClickFix social engineering technique called InstallFix to convince users into running malicious commands under the pretext of installing legitimate command line interface (CLI) tools. [...]",
-      "published": "Fri, 06 Mar 2026 10:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -316,6 +318,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years",
+      "link": "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors",
+      "summary": "An undefined Chinese-speaking actor wields a combo of custom malware, open source tools, and LOTL binaries against Windows and Linux, likely for spying.",
+      "published": "Mon, 09 Mar 2026 12:05:06 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cylake Offers AI-Native Security Without Relying on Cloud Services",
       "link": "https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services",
       "summary": "Cylake's platform will analyze security data locally and identify potential attacks for organizations concerned about data sovereignty.",
@@ -377,17 +390,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cisco Drops 48 New Firewall Vulnerabilities, 2 Critical",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical",
-      "summary": "Edge bugs are so fetch, and Cisco just patched 50 new ones, including some heavy hitters with 10 out of 10 scores on the CVSS scale.",
-      "published": "Thu, 05 Mar 2026 20:11:15 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
       ]
     },
     {

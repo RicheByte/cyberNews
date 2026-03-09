@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-09 12:52 UTC  
+> **Last Updated:** 2026-03-09 14:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **labkotec lid 3300ip** • **uses batch scripts** • **chinese threat actor** • **twitter whistleblower complaint** • **anti abuse activists** • **agents autonomous programs** • **gain unauthorized control** • **campaign targeting india** • **unauthorized transactions even** • **kimwolf botnet lurking** • **threat actor hides** • **securonix threat research** • **hacking ip cameras** • **windows terminal instead** • **vulnerable charging stations** • **victim's username password** • **strengthen u s**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **labkotec lid 3300ip** • **chinese threat actor** • **uses batch scripts** • **microsoft still working** • **twitter whistleblower complaint** • **anti abuse activists** • **agents autonomous programs** • **gain unauthorized control** • **campaign targeting india** • **unauthorized transactions even** • **kimwolf botnet lurking** • **threat actor hides** • **securonix threat research** • **hacking ip cameras** • **vulnerable charging stations** • **victim's username password** • **secure online communications**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Why Password Audits Miss the Accounts Attackers Actually Want](https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/)
+- [Microsoft still working to fix Windows Explorer white flashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/)
 - [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
 - [Hackers abuse .arpa DNS and ipv6 to evade phishing defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/)
 - [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
 - [Microsoft: Hackers abusing AI at every stage of cyberattacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/)
 - [Cognizant TriZetto breach exposes health data of 3.4 million patients](https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/)
 - [CISA warns feds to patch iOS flaws exploited in crypto-theft attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/)
-- [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/)
-- [Fake Claude Code install guides push infostealers in InstallFix attacks](https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Chinese Cyber Threat Lurks In Critical Asian Sectors for Years](https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors)
 - [Cylake Offers AI-Native Security Without Relying on Cloud Services](https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services)
 - [North Korean APTs Use AI to Enhance IT Worker Scams](https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams)
 - [EU Auto Rules Shift Gears on Cybersecurity Standards](https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards)
@@ -56,7 +57,6 @@
 - [Cyberattack on Mexico's Gov't Agencies Highlight AI Threat](https://www.darkreading.com/application-security/cyberattack-mexico-government-ai-threat)
 - [Nation-State Actor Embraces AI Malware Assembly Line](https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line)
 - [Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform](https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform)
-- [Cisco Drops 48 New Firewall Vulnerabilities, 2 Critical](https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical)
 
 ### Security Week
 

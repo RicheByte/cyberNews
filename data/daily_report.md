@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-09 18:44 UTC  
+> **Last Updated:** 2026-03-09 20:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **chinese threat actor** • **microsoft still working** • **unauthorized transactions even** • **twitter whistleblower complaint** • **cve 2026 20127** • **anti abuse activists** • **agents autonomous programs** • **kimwolf botnet lurking** • **campaign targeting india** • **threat actor hides** • **hacking ip cameras** • **evade takedown attempts** • **vulnerable charging stations** • **victim's username password** • **state sponsored adversary** • **secure online communications** • **recommended immediate actions**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **malicious npm package** • **unauthorized transactions even** • **twitter whistleblower complaint** • **chinese threat actor** • **anti abuse activists** • **agents autonomous programs** • **sprawling phishing campaign** • **microsoft still working** • **march 3 2026** • **cve 2026 20127** • **kimwolf botnet lurking** • **evade takedown attempts** • **vulnerable charging stations** • **victim's username password** • **state sponsored adversary** • **secure online communications** • **recommended immediate actions**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
 - [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
 - [⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware](https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html)
 - [Can the Security Platform Finally Deliver for the Mid-Market?](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
@@ -23,10 +24,10 @@
 - [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
 - [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 - [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
-- [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
 
 ### BleepingComputer
 
+- [Ericsson US discloses data breach after service provider hack](https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/)
 - [Microsoft Teams will tag third-party bots trying to join meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/)
 - [ShinyHunters claims ongoing Salesforce Aura data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/)
 - [FBI warns of phishing attacks impersonating US city, county officials](https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/)
@@ -34,7 +35,6 @@
 - [Microsoft still working to fix Windows Explorer white flashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/)
 - [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
 - [Hackers abuse .arpa DNS and ipv6 to evade phishing defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/)
-- [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Are We Ready for Auto Remediation With Agentic AI?](https://www.darkreading.com/application-security/auto-remediation-agentic-ai)
 - [Chinese Cyber Threat Lurks In Critical Asian Sectors for Years](https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors)
 - [Cylake Offers AI-Native Security Without Relying on Cloud Services](https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services)
 - [North Korean APTs Use AI to Enhance IT Worker Scams](https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams)
@@ -56,7 +57,6 @@
 - [Iran's Cyber-Kinetic War Doctrine Takes Shape](https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine)
 - [Cyberattack on Mexico's Gov't Agencies Highlight AI Threat](https://www.darkreading.com/application-security/cyberattack-mexico-government-ai-threat)
 - [Nation-State Actor Embraces AI Malware Assembly Line](https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line)
-- [Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform](https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform)
 
 ### Security Week
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-08 22:18 UTC  
+> **Last Updated:** 2026-03-09 01:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **lumma stealer malware** • **labkotec lid 3300ip** • **campaign targeting india** • **windows terminal app** • **uses batch scripts** • **latest hacking group** • **twitter whistleblower complaint** • **hacking ip cameras** • **cve 2026 20127** • **anti abuse activists** • **another cluster known** • **windows operating systems** • **gain unauthorized control** • **unauthorized transactions even** • **17 2 1** • **kimwolf botnet lurking** • **dire critical rating**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **lumma stealer malware** • **labkotec lid 3300ip** • **campaign targeting india** • **uses batch scripts** • **latest hacking group** • **windows terminal app** • **twitter whistleblower complaint** • **hacking ip cameras** • **cve 2026 20127** • **anti abuse activists** • **another cluster known** • **agents autonomous programs** • **gain unauthorized control** • **unauthorized transactions even** • **17 2 1** • **kimwolf botnet lurking** • **securonix threat research**
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
 - [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
 - [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
 - [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
@@ -45,7 +46,6 @@
 - [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
 - [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
-- [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
 
 ### Dark Reading
 

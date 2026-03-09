@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-09 20:28 UTC  
+> **Last Updated:** 2026-03-09 22:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **malicious npm package** • **unauthorized transactions even** • **twitter whistleblower complaint** • **chinese threat actor** • **anti abuse activists** • **agents autonomous programs** • **sprawling phishing campaign** • **microsoft still working** • **march 3 2026** • **cve 2026 20127** • **kimwolf botnet lurking** • **evade takedown attempts** • **vulnerable charging stations** • **victim's username password** • **state sponsored adversary** • **secure online communications** • **recommended immediate actions**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **malicious npm package** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **chinese threat actor** • **agents autonomous programs** • **microsoft still working** • **march 3 2026** • **it's still working** • **cve 2026 20127** • **handling cyber threats** • **kimwolf botnet lurking** • **evade takedown attempts** • **vulnerable charging stations** • **victim's username password** • **trump administration signaled** • **state sponsored adversary** • **secure online communications**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Google: Cloud attacks exploit flaws more than weak credentials](https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/)
+- [Dutch govt warns of Signal, WhatsApp account hijacking attacks](https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/)
 - [Ericsson US discloses data breach after service provider hack](https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/)
 - [Microsoft Teams will tag third-party bots trying to join meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/)
 - [ShinyHunters claims ongoing Salesforce Aura data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/)
 - [FBI warns of phishing attacks impersonating US city, county officials](https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/)
 - [Why Password Audits Miss the Accounts Attackers Actually Want](https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/)
 - [Microsoft still working to fix Windows Explorer white flashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/)
-- [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
-- [Hackers abuse .arpa DNS and ipv6 to evade phishing defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [White House Cyber Strategy Prioritizes Offense](https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense)
+- ['InstallFix' Attacks Spread Fake Claude Code Sites](https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code)
 - [Are We Ready for Auto Remediation With Agentic AI?](https://www.darkreading.com/application-security/auto-remediation-agentic-ai)
 - [Chinese Cyber Threat Lurks In Critical Asian Sectors for Years](https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors)
 - [Cylake Offers AI-Native Security Without Relying on Cloud Services](https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services)
 - [North Korean APTs Use AI to Enhance IT Worker Scams](https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams)
 - [EU Auto Rules Shift Gears on Cybersecurity Standards](https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards)
 - [Iran's Cyber-Kinetic War Doctrine Takes Shape](https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine)
-- [Cyberattack on Mexico's Gov't Agencies Highlight AI Threat](https://www.darkreading.com/application-security/cyberattack-mexico-government-ai-threat)
-- [Nation-State Actor Embraces AI Malware Assembly Line](https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line)
 
 ### Security Week
 

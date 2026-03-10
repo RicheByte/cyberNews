@@ -227,7 +227,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 954,
+      "count": 955,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2624,7 +2624,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4615,7 +4615,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 361,
+      "count": 362,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5427,7 +5427,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 330,
+      "count": 331,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6743,7 +6743,7 @@
       ]
     },
     "secure online communications": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -7702,7 +7702,7 @@
       ]
     },
     "victim's username password": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8569,7 +8569,7 @@
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8600,7 +8600,7 @@
       ]
     },
     "system operations leading": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8986,7 +8986,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-09",
         "2026-03-10"
@@ -9045,14 +9045,14 @@
       ]
     },
     "handling cyber threats": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-09",
         "2026-03-10"
       ]
     },
     "trump administration signaled": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-09",
         "2026-03-10"
@@ -9089,7 +9089,7 @@
       ]
     },
     "called ai agents": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-10"
       ]
@@ -9125,7 +9125,7 @@
       ]
     },
     "real human behind": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-10"
       ]
@@ -9143,37 +9143,37 @@
       ]
     },
     "arbitrary file upload": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-10"
       ]
     },
     "data loss prevention": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-10"
       ]
     },
     "affected id71 vers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-10"
       ]
     },
     "view camera feeds": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-10"
       ]
     },
     "third party vendor": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-10"
       ]
     },
     "targeting asus routers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-10"
       ]
@@ -9183,20 +9183,15 @@
       "dates": [
         "2026-03-10"
       ]
+    },
+    "russia affiliated actor": {
+      "count": 1,
+      "dates": [
+        "2026-03-10"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-01 20:20",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io",
-        "cloudcharge cloudcharge se"
-      ]
-    },
     {
       "timestamp": "2026-03-01 22:18",
       "articles": 56,
@@ -10284,6 +10279,17 @@
         "labkotec lid 3300ip",
         "handling cyber threats",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-03-10 20:28",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "labkotec lid 3300ip",
+        "twitter whistleblower complaint",
+        "system operations leading"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-10 18:40 UTC  
+> **Last Updated:** 2026-03-10 20:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **labkotec lid 3300ip** • **handling cyber threats** • **twitter whistleblower complaint** • **system operations leading** • **real human behind** • **called ai agents** • **arbitrary file upload** • **arbitrary code execution** • **agents autonomous programs** • **data loss prevention** • **affected id71 vers** • **view camera feeds** • **victim's username password** • **trump administration signaled** • **third party vendor** • **targeting asus routers** • **secure online communications** • **root level privileges**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **labkotec lid 3300ip** • **twitter whistleblower complaint** • **system operations leading** • **real human behind** • **called ai agents** • **handling cyber threats** • **arbitrary file upload** • **arbitrary code execution** • **agents autonomous programs** • **data loss prevention** • **affected id71 vers** • **view camera feeds** • **victim's username password** • **trump administration signaled** • **third party vendor** • **targeting asus routers** • **secure online communications** • **russia affiliated actor**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New 'Zombie ZIP' technique lets malware slip past security tools](https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/)
 - [Microsoft releases Windows 10 KB5078885 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/)
 - [Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/)
 - [Windows 11 KB5079473 & KB5078883 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/)
@@ -34,7 +35,6 @@
 - [Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/)
 - [New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network](https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/)
 - [The New Turing Test: How Threats Use Geometry to Prove 'Humanness'](https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/)
-- [CISA: Recently patched Ivanti EPM flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Russian Threat Actor Sednit Resurfaces With Sophisticated Toolkit](https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit)
 - ['BlackSanta' EDR Killer Targets HR Workflows](https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows)
 - [White House Cyber Strategy Prioritizes Offense](https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense)
 - ['InstallFix' Attacks Spread Fake Claude Code Sites](https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code)
@@ -56,10 +57,10 @@
 - [Chinese Cyber Threat Lurks In Critical Asian Sectors for Years](https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors)
 - [Cylake Offers AI-Native Security Without Relying on Cloud Services](https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services)
 - [North Korean APTs Use AI to Enhance IT Worker Scams](https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams)
-- [EU Auto Rules Shift Gears on Cybersecurity Standards](https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards)
 
 ### Security Week
 
+- [Microsoft Patches 83 Vulnerabilities](https://www.securityweek.com/microsoft-patches-83-vulnerabilities/)
 - [Adobe Patches 80 Vulnerabilities Across Eight Products](https://www.securityweek.com/adobe-patches-80-vulnerabilities-across-eight-products/)
 - [Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP](https://www.securityweek.com/jazz-emerges-from-stealth-with-61m-in-funding-for-ai-powered-dlp/)
 - [Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security](https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/)
@@ -67,7 +68,6 @@
 - [SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities](https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/)
 - [Thousands Affected by Ericsson Data Breach](https://www.securityweek.com/thousands-affected-by-ericsson-data-breach/)
 - [OpenAI Rolls Out Codex Security Vulnerability Scanner](https://www.securityweek.com/openai-rolls-out-codex-security-vulnerability-scanner/)
-- [Kevin Mandia’s Armadin Launches With $190 Million in Funding](https://www.securityweek.com/kevin-mandias-armadin-launches-with-189-9-million-in-funding/)
 
 ### Threatpost
 

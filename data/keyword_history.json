@@ -227,7 +227,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 951,
+      "count": 952,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2624,7 +2624,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2644,7 +2644,8 @@
         "2026-02-17",
         "2026-02-18",
         "2026-02-19",
-        "2026-02-20"
+        "2026-02-20",
+        "2026-03-10"
       ]
     },
     "authenticated remote attacker": {
@@ -4613,7 +4614,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 358,
+      "count": 359,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5063,7 +5064,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5425,7 +5426,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 327,
+      "count": 328,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7700,7 +7701,7 @@
       ]
     },
     "victim's username password": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8446,7 +8447,7 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-03-02",
         "2026-03-03",
@@ -8554,7 +8555,7 @@
       ]
     },
     "epower epower ie": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8982,7 +8983,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-09",
         "2026-03-10"
@@ -9021,7 +9022,7 @@
       ]
     },
     "malicious npm package": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-09",
         "2026-03-10"
@@ -9041,14 +9042,14 @@
       ]
     },
     "handling cyber threats": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-09",
         "2026-03-10"
       ]
     },
     "trump administration signaled": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-09",
         "2026-03-10"
@@ -9061,7 +9062,7 @@
       ]
     },
     "malware called a0backdoor": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-10"
       ]
@@ -9073,25 +9074,25 @@
       ]
     },
     "sim swaps expose": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-10"
       ]
     },
     "bypass authentication controls": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-10"
       ]
     },
     "called ai agents": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-10"
       ]
     },
     "ai agent like": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-10"
       ]
@@ -9103,12 +9104,18 @@
       ]
     },
     "company will deepen": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-10"
       ]
     },
     "stolen data belonging": {
+      "count": 2,
+      "dates": [
+        "2026-03-10"
+      ]
+    },
+    "collectively named leakylooker": {
       "count": 1,
       "dates": [
         "2026-03-10"
@@ -9116,17 +9123,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-01 14:19",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io",
-        "cloudcharge cloudcharge se"
-      ]
-    },
     {
       "timestamp": "2026-03-01 16:21",
       "articles": 56,
@@ -10214,6 +10210,17 @@
         "badbox 2 0",
         "epower epower ie",
         "malicious npm package"
+      ]
+    },
+    {
+      "timestamp": "2026-03-10 14:43",
+      "articles": 56,
+      "top_keywords": [
+        "sim swaps expose",
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "epower epower ie",
+        "arbitrary code execution"
       ]
     }
   ]

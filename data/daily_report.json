@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10 12:51",
+  "last_updated": "2026-03-10 14:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,66 +7,77 @@
     "scattered lapsus shinyhunters",
     "badbox 2 0",
     "epower epower ie",
-    "malicious npm package",
+    "arbitrary code execution",
+    "handling cyber threats",
     "bypass authentication controls",
+    "malicious npm package",
     "twitter whistleblower complaint",
-    "march 3 2026",
+    "company will deepen",
+    "collectively named leakylooker",
     "called ai agents",
     "agents autonomous programs",
     "ai agent like",
     "kimwolf botnet lurking",
-    "handling cyber threats",
-    "critical asian sectors",
-    "company will deepen",
-    "evade takedown attempts",
+    "stolen data belonging",
+    "malware called a0backdoor",
     "vulnerable charging stations",
     "victim's username password",
-    "trump administration signaled",
-    "stolen data belonging"
+    "trump administration signaled"
   ],
   "trending": [
     {
       "keyword": "sim swaps expose",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 327
+      "mentions": 328
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 358
+      "mentions": 359
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 76
+      "mentions": 77
     },
     {
-      "keyword": "malicious npm package",
+      "keyword": "arbitrary code execution",
+      "mentions": 166
+    },
+    {
+      "keyword": "handling cyber threats",
       "mentions": 8
     },
     {
       "keyword": "bypass authentication controls",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "malicious npm package",
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 951
+      "mentions": 952
     },
     {
-      "keyword": "march 3 2026",
-      "mentions": 8
-    },
-    {
-      "keyword": "called ai agents",
-      "mentions": 1
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 15
+      "keyword": "company will deepen",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
+      "link": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
+      "summary": "Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments. The shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in",
+      "published": "Tue, 10 Mar 2026 18:50:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
@@ -142,15 +153,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware",
-      "link": "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html",
-      "summary": "Another week in cybersecurity. Another week of \"you've got to be kidding me.\" Attackers were busy. Defenders were busy. And somewhere in the middle, a whole lot of people had a very bad Monday morning. That's kind of just how it goes now. The good news? There were some actual wins this week. Real ones. The kind where the good guys showed up, did the work, and made a dent. It doesn't always",
-      "published": "Mon, 09 Mar 2026 19:16:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "The New Turing Test: How Threats Use Geometry to Prove 'Humanness'",
+      "link": "https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/",
+      "summary": "Malware is evolving to evade sandboxes by pretending to be a real human behind the keyboard. The Picus Red Report 2026 shows 80% of top attacker techniques now focus on evasion and persistence, including geometry-based cursor tests and CPU timing checks. [...]",
+      "published": "Tue, 10 Mar 2026 10:02:12 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -231,15 +240,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Teams will tag third-party bots trying to join meetings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/",
-      "summary": "Microsoft says Teams will soon automatically tag third-party bots in lobbies, allowing organizers to control whether they can join meetings. [...]",
-      "published": "Mon, 09 Mar 2026 13:12:49 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -330,6 +330,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'BlackSanta' EDR Killer Targets HR Workflows",
+      "link": "https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows",
+      "summary": "A campaign by Russian-speaking cyberattackers hijacks workflows to deliver security-busting malware, allowing attackers to steal data without detection.",
+      "published": "Tue, 10 Mar 2026 13:30:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "White House Cyber Strategy Prioritizes Offense",
       "link": "https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense",
       "summary": "In a seven-page strategy document, the Trump administration signaled a shift to preemption and deterrence to handling cyber threats.",
@@ -394,13 +403,48 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Iran's Cyber-Kinetic War Doctrine Takes Shape",
-      "link": "https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine",
-      "summary": "Iran has been hacking IP cameras to plan missile strikes against its enemies, and mounting other attacks on physical assets, showing how cyber and kinetic warfare are fast becoming one and the same.",
-      "published": "Fri, 06 Mar 2026 14:01:11 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities",
+      "link": "https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/",
+      "summary": "A code injection bug in FS-QUO and an insecure deserialization flaw in NetWeaver could lead to arbitrary code execution. The post SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 10 Mar 2026 14:31:36 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Thousands Affected by Ericsson Data Breach",
+      "link": "https://www.securityweek.com/thousands-affected-by-ericsson-data-breach/",
+      "summary": "The telecommunications equipment and services giant has blamed the incident on a third-party vendor. The post Thousands Affected by Ericsson Data Breach appeared first on SecurityWeek .",
+      "published": "Tue, 10 Mar 2026 14:23:34 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI Rolls Out Codex Security Vulnerability Scanner",
+      "link": "https://www.securityweek.com/openai-rolls-out-codex-security-vulnerability-scanner/",
+      "summary": "Codex Security, formerly Aardvark⁠, has found hundreds of critical vulnerabilities in tested software in the past month. The post OpenAI Rolls Out Codex Security Vulnerability Scanner appeared first on SecurityWeek .",
+      "published": "Tue, 10 Mar 2026 13:23:05 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Kevin Mandia’s Armadin Launches With $190 Million in Funding",
+      "link": "https://www.securityweek.com/kevin-mandias-armadin-launches-with-189-9-million-in-funding/",
+      "summary": "Armadin uses AI-powered red teaming to find and exploit weaknesses in the same way that attackers attack them. The post Kevin Mandia’s Armadin Launches With $190 Million in Funding appeared first on SecurityWeek .",
+      "published": "Tue, 10 Mar 2026 13:21:05 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -443,44 +487,6 @@
       "value_signals": [
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cylake Raises $45 Million to Secure Organizations Barred From Cloud",
-      "link": "https://www.securityweek.com/cylake-raises-45-million-to-secure-organizations-barred-from-cloud/",
-      "summary": "The company, founded by Palo Alto Networks’ Nir Zuk, has developed a platform that focuses on data sovereignty. The post Cylake Raises $45 Million to Secure Organizations Barred From Cloud appeared first on SecurityWeek .",
-      "published": "Tue, 10 Mar 2026 07:10:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cybersecurity M&A Roundup: 42 Deals Announced in February 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-february-2026/",
-      "summary": "Significant cybersecurity M&A deals announced by Check Point, Booz Allen, Proofpoint, Sophos, Palo Alto Networks, and Zscaler. The post Cybersecurity M&A Roundup: 42 Deals Announced in February 2026 appeared first on SecurityWeek .",
-      "published": "Mon, 09 Mar 2026 15:54:43 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "ClickFix Attack Uses Windows Terminal to Evade Detection",
-      "link": "https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/",
-      "summary": "Fake CAPTCHA pages instruct victims to paste malicious commands in the Windows Terminal instead of the Run dialog. The post ClickFix Attack Uses Windows Terminal to Evade Detection appeared first on SecurityWeek .",
-      "published": "Mon, 09 Mar 2026 12:51:29 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Internet Infrastructure TLD .arpa Abused in Phishing Attacks",
-      "link": "https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/",
-      "summary": "Abusing DNS record management controls, the threat actor hides the location of malicious content via Cloudflare. The post Internet Infrastructure TLD .arpa Abused in Phishing Attacks appeared first on SecurityWeek .",
-      "published": "Mon, 09 Mar 2026 12:06:25 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {

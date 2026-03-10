@@ -227,7 +227,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 947,
+      "count": 948,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1508,7 +1508,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 176,
+      "count": 177,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -4613,7 +4613,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 354,
+      "count": 355,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5063,7 +5063,7 @@
       ]
     },
     "kimwolf botnet lurking": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -5425,7 +5425,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 323,
+      "count": 324,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6076,7 +6076,7 @@
       ]
     },
     "chinese threat actor": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-06",
         "2026-03-09",
@@ -6741,7 +6741,7 @@
       ]
     },
     "secure online communications": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -7700,7 +7700,7 @@
       ]
     },
     "victim's username password": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8092,7 +8092,7 @@
       ]
     },
     "cve 2026 20127": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-02-25",
         "2026-02-26",
@@ -8446,7 +8446,7 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-02",
         "2026-03-03",
@@ -8554,7 +8554,7 @@
       ]
     },
     "epower epower ie": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8982,7 +8982,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-09",
         "2026-03-10"
@@ -9007,28 +9007,28 @@
       ]
     },
     "state sponsored adversary": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-09",
         "2026-03-10"
       ]
     },
     "evade takedown attempts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-09",
         "2026-03-10"
       ]
     },
     "malicious npm package": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-09",
         "2026-03-10"
       ]
     },
     "march 3 2026": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-09",
         "2026-03-10"
@@ -9041,44 +9041,33 @@
       ]
     },
     "handling cyber threats": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-09",
         "2026-03-10"
       ]
     },
     "trump administration signaled": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-09",
         "2026-03-10"
       ]
     },
     "granting remote access": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-10"
       ]
     },
     "malware called a0backdoor": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-10"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-01 06:39",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io",
-        "cloudcharge cloudcharge se"
-      ]
-    },
     {
       "timestamp": "2026-03-01 08:25",
       "articles": 56,
@@ -10159,6 +10148,17 @@
     },
     {
       "timestamp": "2026-03-10 04:04",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "epower epower ie",
+        "malicious npm package",
+        "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-03-10 06:41",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

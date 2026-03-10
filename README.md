@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-10 14:43 UTC |
+| 🕐 Last Updated | 2026-03-10 16:52 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`sim swaps expose` • `scattered lapsus shinyhunters` • `badbox 2 0` • `epower epower ie` • `arbitrary code execution` • `handling cyber threats` • `bypass authentication controls` • `malicious npm package` • `twitter whistleblower complaint` • `company will deepen`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `epower epower ie` • `arbitrary code execution` • `handling cyber threats` • `steal sensitive data` • `malicious npm package` • `twitter whistleblower complaint` • `real human behind` • `collectively named leakylooker`
 
 ## 📄 Reports
 

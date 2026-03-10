@@ -227,7 +227,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 952,
+      "count": 953,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2624,7 +2624,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 166,
+      "count": 167,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4077,11 +4077,12 @@
       ]
     },
     "steal sensitive data": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-21",
         "2026-02-11",
-        "2026-02-25"
+        "2026-02-25",
+        "2026-03-10"
       ]
     },
     "ai deployments built": {
@@ -4614,7 +4615,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 359,
+      "count": 360,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5426,7 +5427,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 328,
+      "count": 329,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7701,7 +7702,7 @@
       ]
     },
     "victim's username password": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8447,7 +8448,7 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-03-02",
         "2026-03-03",
@@ -8555,7 +8556,7 @@
       ]
     },
     "epower epower ie": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8983,7 +8984,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-09",
         "2026-03-10"
@@ -9022,7 +9023,7 @@
       ]
     },
     "malicious npm package": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-09",
         "2026-03-10"
@@ -9042,14 +9043,14 @@
       ]
     },
     "handling cyber threats": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-09",
         "2026-03-10"
       ]
     },
     "trump administration signaled": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-09",
         "2026-03-10"
@@ -9062,7 +9063,7 @@
       ]
     },
     "malware called a0backdoor": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-10"
       ]
@@ -9086,19 +9087,19 @@
       ]
     },
     "called ai agents": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-10"
       ]
     },
     "ai agent like": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-10"
       ]
     },
     "critical asian sectors": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-10"
       ]
@@ -9116,6 +9117,24 @@
       ]
     },
     "collectively named leakylooker": {
+      "count": 2,
+      "dates": [
+        "2026-03-10"
+      ]
+    },
+    "real human behind": {
+      "count": 1,
+      "dates": [
+        "2026-03-10"
+      ]
+    },
+    "edge networking devices": {
+      "count": 1,
+      "dates": [
+        "2026-03-10"
+      ]
+    },
+    "top attacker techniques": {
       "count": 1,
       "dates": [
         "2026-03-10"
@@ -9123,17 +9142,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-01 16:21",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io",
-        "cloudcharge cloudcharge se"
-      ]
-    },
     {
       "timestamp": "2026-03-01 18:26",
       "articles": 56,
@@ -10221,6 +10229,17 @@
         "badbox 2 0",
         "epower epower ie",
         "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-03-10 16:52",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "epower epower ie",
+        "arbitrary code execution",
+        "handling cyber threats"
       ]
     }
   ]

@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-03-10 14:43",
+  "last_updated": "2026-03-10 16:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "sim swaps expose",
     "scattered lapsus shinyhunters",
     "badbox 2 0",
     "epower epower ie",
     "arbitrary code execution",
     "handling cyber threats",
-    "bypass authentication controls",
+    "steal sensitive data",
     "malicious npm package",
     "twitter whistleblower complaint",
-    "company will deepen",
+    "real human behind",
     "collectively named leakylooker",
     "called ai agents",
-    "agents autonomous programs",
     "ai agent like",
-    "kimwolf botnet lurking",
-    "stolen data belonging",
+    "agents autonomous programs",
+    "edge networking devices",
+    "critical asian sectors",
     "malware called a0backdoor",
     "vulnerable charging stations",
     "victim's username password",
-    "trump administration signaled"
+    "trump administration signaled",
+    "top attacker techniques"
   ],
   "trending": [
     {
-      "keyword": "sim swaps expose",
-      "mentions": 2
-    },
-    {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 328
+      "mentions": 329
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 359
+      "mentions": 360
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 77
+      "mentions": 78
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 166
+      "mentions": 167
     },
     {
       "keyword": "handling cyber threats",
-      "mentions": 8
-    },
-    {
-      "keyword": "bypass authentication controls",
-      "mentions": 2
-    },
-    {
-      "keyword": "malicious npm package",
       "mentions": 9
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 952
+      "keyword": "steal sensitive data",
+      "mentions": 12
     },
     {
-      "keyword": "company will deepen",
+      "keyword": "malicious npm package",
+      "mentions": 10
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 953
+    },
+    {
+      "keyword": "real human behind",
+      "mentions": 1
+    },
+    {
+      "keyword": "collectively named leakylooker",
       "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
+      "link": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html",
+      "summary": "Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic. The malware, first detected in the wild in August 2025, has expanded to over 14,000 infected devices, with more than 60% of victims located in the U.S., according to the Black Lotus Labs team at Lumen. A lesser number of",
+      "published": "Tue, 10 Mar 2026 21:30:00 +0530",
+      "value_score": 55,
+      "value_signals": [
+        "Active exploitation",
+        "Botnet ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
@@ -144,13 +156,26 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device",
-      "link": "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html",
-      "summary": "The North Korean threat actor known as UNC4899 is suspected to be behind a sophisticated cloud compromise campaign targeting a cryptocurrency organization in 2025 to steal millions of dollars in cryptocurrency. The activity has been attributed with moderate confidence to the state-sponsored adversary, which is also tracked under the cryptonyms Jade Sleet, PUKCHONG, Slow Pisces, and",
-      "published": "Mon, 09 Mar 2026 20:20:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/",
+      "summary": "Microsoft is rolling out passkey support for Microsoft Entra on Windows devices, adding phishing-resistant passwordless authentication via Windows Hello. [...]",
+      "published": "Tue, 10 Mar 2026 11:27:58 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network",
+      "link": "https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/",
+      "summary": "A newly discovered botnet malware called KadNap is targeting ASUS routers and other edge networking devices to turn them into proxies for malicious traffic. [...]",
+      "published": "Tue, 10 Mar 2026 11:01:57 -0400",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -217,28 +242,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dutch govt warns of Signal, WhatsApp account hijacking attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/",
-      "summary": "Russian state-sponsored hackers have been linked to an ongoing Signal and WhatsApp phishing campaign targeting government officials, military personnel, and journalists to gain access to sensitive messages. [...]",
-      "published": "Mon, 09 Mar 2026 17:24:49 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ericsson US discloses data breach after service provider hack",
-      "link": "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/",
-      "summary": "Ericsson Inc., the U.S. subsidiary of Swedish networking and telecommunications giant Ericsson, says attackers have stolen data belonging to over 15,000 employees and customers after hacking one of its service providers. [...]",
-      "published": "Mon, 09 Mar 2026 15:07:50 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -404,6 +407,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security",
+      "link": "https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/",
+      "summary": "The company was created by a Claroty founder and is backed by Evolution Equity Partners, N47, and other investors. The post Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security appeared first on SecurityWeek .",
+      "published": "Tue, 10 Mar 2026 15:13:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Webinar Today: Securing Fragile OT in an Exposed World",
+      "link": "https://www.securityweek.com/webinar-today-securing-fragile-ot-in-an-exposed-world/",
+      "summary": "Join the webinar as we examine the current OT threat landscape and move past the \"doom and gloom\" to discuss the mechanics of modern OT exposure. The post Webinar Today: Securing Fragile OT in an Exposed World appeared first on SecurityWeek .",
+      "published": "Tue, 10 Mar 2026 15:04:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities",
       "link": "https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/",
       "summary": "A code injection bug in FS-QUO and an insecure deserialization flaw in NetWeaver could lead to arbitrary code execution. The post SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities appeared first on SecurityWeek .",
@@ -463,31 +484,6 @@
       "published": "Tue, 10 Mar 2026 11:58:32 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Recent Ivanti Endpoint Manager Flaw Exploited in Attacks",
-      "link": "https://www.securityweek.com/recent-ivanti-endpoint-manager-flaw-exploited-in-attacks/",
-      "summary": "CISA has added the high-severity authentication bypass vulnerability to its KEV list, along with SolarWinds and Workspace One bugs. The post Recent Ivanti Endpoint Manager Flaw Exploited in Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 10 Mar 2026 11:51:02 +0000",
-      "value_score": 71,
-      "value_signals": [
-        "Auth bypass",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "SIM Swaps Expose a Critical Flaw in Identity Security",
-      "link": "https://www.securityweek.com/sim-swaps-expose-a-critical-flaw-in-identity-security/",
-      "summary": "SIM swap attacks exploit misplaced trust in phone numbers and human processes to bypass authentication controls and seize high-value accounts. The post SIM Swaps Expose a Critical Flaw in Identity Security appeared first on SecurityWeek .",
-      "published": "Tue, 10 Mar 2026 11:00:00 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

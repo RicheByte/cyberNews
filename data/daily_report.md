@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-10 14:43 UTC  
+> **Last Updated:** 2026-03-10 16:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**sim swaps expose** • **scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **arbitrary code execution** • **handling cyber threats** • **bypass authentication controls** • **malicious npm package** • **twitter whistleblower complaint** • **company will deepen** • **collectively named leakylooker** • **called ai agents** • **agents autonomous programs** • **ai agent like** • **kimwolf botnet lurking** • **stolen data belonging** • **malware called a0backdoor** • **vulnerable charging stations** • **victim's username password** • **trump administration signaled**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **epower epower ie** • **arbitrary code execution** • **handling cyber threats** • **steal sensitive data** • **malicious npm package** • **twitter whistleblower complaint** • **real human behind** • **collectively named leakylooker** • **called ai agents** • **ai agent like** • **agents autonomous programs** • **edge networking devices** • **critical asian sectors** • **malware called a0backdoor** • **vulnerable charging stations** • **victim's username password** • **trump administration signaled** • **top attacker techniques**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet](https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html)
 - [New "LeakyLooker" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries](https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html)
 - [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
 - [The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
@@ -23,18 +24,17 @@
 - [Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool](https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html)
 - [CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited](https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html)
 - [Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
-- [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
 
 ### BleepingComputer
 
+- [Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/)
+- [New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network](https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/)
 - [The New Turing Test: How Threats Use Geometry to Prove 'Humanness'](https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/)
 - [CISA: Recently patched Ivanti EPM flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/)
 - [Microsoft to enable Windows hotpatch security updates by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/)
 - [APT28 hackers deploy customized variant of Covenant open-source tool](https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/)
 - [Microsoft Teams phishing targets employees with A0Backdoor malware](https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/)
 - [Google: Cloud attacks exploit flaws more than weak credentials](https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/)
-- [Dutch govt warns of Signal, WhatsApp account hijacking attacks](https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/)
-- [Ericsson US discloses data breach after service provider hack](https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security](https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/)
+- [Webinar Today: Securing Fragile OT in an Exposed World](https://www.securityweek.com/webinar-today-securing-fragile-ot-in-an-exposed-world/)
 - [SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities](https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/)
 - [Thousands Affected by Ericsson Data Breach](https://www.securityweek.com/thousands-affected-by-ericsson-data-breach/)
 - [OpenAI Rolls Out Codex Security Vulnerability Scanner](https://www.securityweek.com/openai-rolls-out-codex-security-vulnerability-scanner/)
 - [Kevin Mandia’s Armadin Launches With $190 Million in Funding](https://www.securityweek.com/kevin-mandias-armadin-launches-with-189-9-million-in-funding/)
 - [Hundreds of Salesforce Customers Allegedly Targeted in New Data Theft Campaign](https://www.securityweek.com/hundreds-of-salesforce-customers-allegedly-targeted-in-new-data-theft-campaign/)
 - [Escape Raises $18 Million to Automate Pentesting](https://www.securityweek.com/escape-raises-18-million-to-automate-pentesting/)
-- [Recent Ivanti Endpoint Manager Flaw Exploited in Attacks](https://www.securityweek.com/recent-ivanti-endpoint-manager-flaw-exploited-in-attacks/)
-- [SIM Swaps Expose a Critical Flaw in Identity Security](https://www.securityweek.com/sim-swaps-expose-a-critical-flaw-in-identity-security/)
 
 ### Threatpost
 

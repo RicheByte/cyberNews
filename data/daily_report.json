@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-03-10 20:28",
+  "last_updated": "2026-03-10 22:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
+    "third party vendor",
     "labkotec lid 3300ip",
+    "called ai agents",
     "twitter whistleblower complaint",
     "system operations leading",
-    "real human behind",
-    "called ai agents",
     "handling cyber threats",
     "arbitrary file upload",
     "arbitrary code execution",
     "agents autonomous programs",
+    "sensitive client data",
     "data loss prevention",
     "affected id71 vers",
     "view camera feeds",
     "victim's username password",
     "trump administration signaled",
-    "third party vendor",
     "targeting asus routers",
     "secure online communications",
     "russia affiliated actor"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 331
+      "mentions": 332
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 362
+      "mentions": 363
     },
     {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 69
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 955
-    },
-    {
-      "keyword": "system operations leading",
-      "mentions": 25
-    },
-    {
-      "keyword": "real human behind",
+      "keyword": "third party vendor",
       "mentions": 3
     },
     {
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 70
+    },
+    {
       "keyword": "called ai agents",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 956
+    },
+    {
+      "keyword": "system operations leading",
+      "mentions": 26
     },
     {
       "keyword": "handling cyber threats",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "arbitrary file upload",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 169
+      "mentions": 170
     }
   ],
   "articles": [
@@ -160,6 +160,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New BeatBanker Android malware poses as Starlink app to hijack devices",
+      "link": "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/",
+      "summary": "A new Android malware named BeatBanker can hijack devices and tricks users into installing it by posing as a Starlink app on websites masquerading as the official Google Play Store. [...]",
+      "published": "Tue, 10 Mar 2026 17:27:59 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New 'Zombie ZIP' technique lets malware slip past security tools",
       "link": "https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/",
       "summary": "A new technique dubbed \"Zombie ZIP\" helps conceal payloads in compressed files specially created to avoid detection from security solutions such as antivirus and endpoint detection and response (EDR) products. [...]",
@@ -233,15 +242,6 @@
       "value_signals": [
         "Botnet ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The New Turing Test: How Threats Use Geometry to Prove 'Humanness'",
-      "link": "https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/",
-      "summary": "Malware is evolving to evade sandboxes by pretending to be a real human behind the keyboard. The Picus Red Report 2026 shows 80% of top attacker techniques now focus on evasion and persistence, including geometry-based cursor tests and CPU timing checks. [...]",
-      "published": "Tue, 10 Mar 2026 10:02:12 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -332,6 +332,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Overly Permissive' Salesforce Cloud Configs in the Crosshairs",
+      "link": "https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs",
+      "summary": "Some customers have mishandled guest user configurations otherwise intended to allow third-party access to important — and sensitive — client data.",
+      "published": "Tue, 10 Mar 2026 21:05:28 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Russian Threat Actor Sednit Resurfaces With Sophisticated Toolkit",
       "link": "https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit",
       "summary": "After several years of using simple implants, the Russia-affiliated actor is back with two new sophisticated malware tools.",
@@ -392,15 +401,6 @@
       "link": "https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services",
       "summary": "Cylake's platform will analyze security data locally and identify potential attacks for organizations concerned about data sovereignty.",
       "published": "Fri, 06 Mar 2026 19:04:36 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "North Korean APTs Use AI to Enhance IT Worker Scams",
-      "link": "https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams",
-      "summary": "DPRK worker scams are old hat, but they're still working, thanks to AI tools that help with everything from face swapping to daily emails.",
-      "published": "Fri, 06 Mar 2026 17:49:02 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-10 20:28 UTC  
+> **Last Updated:** 2026-03-10 22:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **labkotec lid 3300ip** • **twitter whistleblower complaint** • **system operations leading** • **real human behind** • **called ai agents** • **handling cyber threats** • **arbitrary file upload** • **arbitrary code execution** • **agents autonomous programs** • **data loss prevention** • **affected id71 vers** • **view camera feeds** • **victim's username password** • **trump administration signaled** • **third party vendor** • **targeting asus routers** • **secure online communications** • **russia affiliated actor**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **third party vendor** • **labkotec lid 3300ip** • **called ai agents** • **twitter whistleblower complaint** • **system operations leading** • **handling cyber threats** • **arbitrary file upload** • **arbitrary code execution** • **agents autonomous programs** • **sensitive client data** • **data loss prevention** • **affected id71 vers** • **view camera feeds** • **victim's username password** • **trump administration signaled** • **targeting asus routers** • **secure online communications** • **russia affiliated actor**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New BeatBanker Android malware poses as Starlink app to hijack devices](https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/)
 - [New 'Zombie ZIP' technique lets malware slip past security tools](https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/)
 - [Microsoft releases Windows 10 KB5078885 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/)
 - [Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/)
@@ -34,7 +35,6 @@
 - [HPE warns of critical AOS-CX flaw allowing admin password resets](https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/)
 - [Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/)
 - [New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network](https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/)
-- [The New Turing Test: How Threats Use Geometry to Prove 'Humanness'](https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- ['Overly Permissive' Salesforce Cloud Configs in the Crosshairs](https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs)
 - [Russian Threat Actor Sednit Resurfaces With Sophisticated Toolkit](https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit)
 - ['BlackSanta' EDR Killer Targets HR Workflows](https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows)
 - [White House Cyber Strategy Prioritizes Offense](https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense)
@@ -56,7 +57,6 @@
 - [Are We Ready for Auto Remediation With Agentic AI?](https://www.darkreading.com/application-security/auto-remediation-agentic-ai)
 - [Chinese Cyber Threat Lurks In Critical Asian Sectors for Years](https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors)
 - [Cylake Offers AI-Native Security Without Relying on Cloud Services](https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services)
-- [North Korean APTs Use AI to Enhance IT Worker Scams](https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams)
 
 ### Security Week
 

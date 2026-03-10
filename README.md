@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-10 20:28 UTC |
+| 🕐 Last Updated | 2026-03-10 22:22 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `labkotec lid 3300ip` • `twitter whistleblower complaint` • `system operations leading` • `real human behind` • `called ai agents` • `handling cyber threats` • `arbitrary file upload` • `arbitrary code execution`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `third party vendor` • `labkotec lid 3300ip` • `called ai agents` • `twitter whistleblower complaint` • `system operations leading` • `handling cyber threats` • `arbitrary file upload` • `arbitrary code execution`
 
 ## 📄 Reports
 

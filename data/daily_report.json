@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10 06:41",
+  "last_updated": "2026-03-10 08:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,14 +10,14 @@
     "sprawling phishing campaign",
     "twitter whistleblower complaint",
     "chinese threat actor",
-    "agents autonomous programs",
     "march 3 2026",
     "cve 2026 20127",
     "handling cyber threats",
     "kimwolf botnet lurking",
-    "granting remote access",
     "malware called a0backdoor",
     "evade takedown attempts",
+    "granting remote access",
+    "web server exploits",
     "vulnerable charging stations",
     "victim's username password",
     "trump administration signaled",
@@ -27,46 +27,71 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 324
+      "mentions": 325
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 355
+      "mentions": 356
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 73
+      "mentions": 74
     },
     {
       "keyword": "malicious npm package",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 177
+      "mentions": 178
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 948
+      "mentions": 949
     },
     {
       "keyword": "chinese threat actor",
-      "mentions": 12
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 14
+      "mentions": 13
     },
     {
       "keyword": "march 3 2026",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "cve 2026 20127",
-      "mentions": 27
+      "mentions": 28
+    },
+    {
+      "keyword": "handling cyber threats",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
+      "link": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
+      "summary": "Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector. The activity, per the company, involves the exploitation of customers' overly permissive Experience Cloud guest user configurations to obtain access to sensitive",
+      "published": "Tue, 10 Mar 2026 12:47:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited",
+      "link": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability list is as follows - CVE-2021-22054 (CVSS score: 7.5) - A server-side request forgery (SSRF) vulnerability in Omnissa Workspace One UEM (formerly VMware Workspace One UEM) that",
+      "published": "Tue, 10 Mar 2026 11:47:00 +0530",
+      "value_score": 99,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
@@ -125,24 +150,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
-      "link": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html",
-      "summary": "OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propose fixes for vulnerabilities. The feature is available in a research preview to ChatGPT Pro, Enterprise, Business, and Edu customers via the Codex web with free usage for the next month. \"It builds deep context about your project to identify",
-      "published": "Sat, 07 Mar 2026 21:58:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
-      "link": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
-      "summary": "Anthropic on Friday said it discovered 22 new security vulnerabilities in the Firefox web browser as part of a security partnership with Mozilla. Of these, 14 have been classified as high, seven have been classified as moderate, and one has been rated low in severity. The issues were addressed in Firefox 148, released late last month. The vulnerabilities were identified over a two-week period in",
-      "published": "Sat, 07 Mar 2026 16:51:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -391,6 +398,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Cylake Raises $45 Million to Secure Organizations Barred From Cloud",
+      "link": "https://www.securityweek.com/cylake-raises-45-million-to-secure-organizations-barred-from-cloud/",
+      "summary": "The company, founded by Palo Alto Networks’ Nir Zuk, has developed a platform that focuses on data sovereignty. The post Cylake Raises $45 Million to Secure Organizations Barred From Cloud appeared first on SecurityWeek .",
+      "published": "Tue, 10 Mar 2026 07:10:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cybersecurity M&A Roundup: 42 Deals Announced in February 2026",
       "link": "https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-february-2026/",
       "summary": "Significant cybersecurity M&A deals announced by Check Point, Booz Allen, Proofpoint, Sophos, Palo Alto Networks, and Zscaler. The post Cybersecurity M&A Roundup: 42 Deals Announced in February 2026 appeared first on SecurityWeek .",
@@ -456,15 +472,6 @@
       "link": "https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/",
       "summary": "The malware targets browser and cryptocurrency wallet data, along with system information and user files. The post Over 100 GitHub Repositories Distributing BoryptGrab Stealer appeared first on SecurityWeek .",
       "published": "Sat, 07 Mar 2026 12:40:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare",
-      "link": "https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/",
-      "summary": "Pentagon CTO Emil Michael said the military is developing procedures for enabling different levels of autonomy in warfare depending on the risk posed. The post Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare appeared first on SecurityWeek .",
-      "published": "Sat, 07 Mar 2026 11:51:16 +0000",
       "value_score": 10,
       "value_signals": []
     },

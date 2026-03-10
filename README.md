@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-10 06:41 UTC |
+| 🕐 Last Updated | 2026-03-10 08:35 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `epower epower ie` • `malicious npm package` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `chinese threat actor` • `agents autonomous programs` • `march 3 2026` • `cve 2026 20127`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `epower epower ie` • `malicious npm package` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `chinese threat actor` • `march 3 2026` • `cve 2026 20127` • `handling cyber threats`
 
 ## 📄 Reports
 

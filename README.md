@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-10 16:52 UTC |
+| 🕐 Last Updated | 2026-03-10 18:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `epower epower ie` • `arbitrary code execution` • `handling cyber threats` • `steal sensitive data` • `malicious npm package` • `twitter whistleblower complaint` • `real human behind` • `collectively named leakylooker`
+`scattered lapsus shinyhunters` • `badbox 2 0` • `labkotec lid 3300ip` • `handling cyber threats` • `twitter whistleblower complaint` • `system operations leading` • `real human behind` • `called ai agents` • `arbitrary file upload` • `arbitrary code execution`
 
 ## 📄 Reports
 

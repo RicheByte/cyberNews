@@ -1,72 +1,103 @@
 {
-  "last_updated": "2026-03-10 10:34",
+  "last_updated": "2026-03-10 12:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "sim swaps expose",
     "scattered lapsus shinyhunters",
     "badbox 2 0",
     "epower epower ie",
     "malicious npm package",
-    "sprawling phishing campaign",
+    "bypass authentication controls",
     "twitter whistleblower complaint",
-    "chinese threat actor",
     "march 3 2026",
-    "cve 2026 20127",
-    "handling cyber threats",
+    "called ai agents",
+    "agents autonomous programs",
+    "ai agent like",
     "kimwolf botnet lurking",
-    "malware called a0backdoor",
+    "handling cyber threats",
+    "critical asian sectors",
+    "company will deepen",
     "evade takedown attempts",
-    "granting remote access",
-    "web server exploits",
     "vulnerable charging stations",
     "victim's username password",
     "trump administration signaled",
-    "state sponsored adversary",
-    "secure online communications"
+    "stolen data belonging"
   ],
   "trending": [
     {
+      "keyword": "sim swaps expose",
+      "mentions": 1
+    },
+    {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 326
+      "mentions": 327
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 357
+      "mentions": 358
     },
     {
       "keyword": "epower epower ie",
-      "mentions": 75
+      "mentions": 76
     },
     {
       "keyword": "malicious npm package",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 179
+      "keyword": "bypass authentication controls",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 950
-    },
-    {
-      "keyword": "chinese threat actor",
-      "mentions": 14
+      "mentions": 951
     },
     {
       "keyword": "march 3 2026",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "cve 2026 20127",
-      "mentions": 29
+      "keyword": "called ai agents",
+      "mentions": 1
     },
     {
-      "keyword": "handling cyber threats",
-      "mentions": 6
+      "keyword": "agents autonomous programs",
+      "mentions": 15
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
+      "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
+      "summary": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own. But there is a problem. While these agents make work faster, they also open a new \"back door\" for hackers. The Problem: \"The Invisible Employee\" Think of an AI Agent like a new employee who has",
+      "published": "Tue, 10 Mar 2026 17:15:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
+      "link": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
+      "summary": "You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately. Time-to-exploit is shrinking The larger and less controlled your attack surface is,",
+      "published": "Tue, 10 Mar 2026 16:30:00 +0530",
+      "value_score": 49,
+      "value_signals": [
+        "Zero-day",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
+      "link": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
+      "summary": "The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long‑term surveillance of Ukrainian military personnel. The two malware families have been put to use since April 2024, ESET said in a new report shared with The Hacker News. APT28, also tracked as Blue Athena, BlueDelta, Fancy Bear, Fighting Ursa,",
+      "published": "Tue, 10 Mar 2026 16:25:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
@@ -122,33 +153,28 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
-      "link": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html",
-      "summary": "Mid-market organizations are constantly striving to achieve security levels on a par with their enterprise peers. With heightened awareness of supply chain attacks, your customers and business partners are defining the security level you must meet. What if you could be the enabler for your organization to remain competitive — and help win business — by easily demonstrating that you meet these",
-      "published": "Mon, 09 Mar 2026 17:15:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft",
-      "link": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
-      "summary": "Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arbitrary code, and harvest sensitive data. The extensions in question, both originally associated with a developer named \"akshayanuonline@gmail.com\" (BuildMelon), are listed below - QuickLens - Search Screen with",
-      "published": "Mon, 09 Mar 2026 15:58:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
-      "link": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html",
-      "summary": "High-value organizations located in South, Southeast, and East Asia have been targeted by a Chinese threat actor as part of a years-long campaign. The activity, which has targeted aviation, energy, government, law enforcement, pharmaceutical, technology, and telecommunications sectors, has been attributed by Palo Alto Networks Unit 42 to a previously undocumented threat activity group dubbed",
-      "published": "Mon, 09 Mar 2026 12:51:00 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/",
+      "summary": "CISA flagged a high-severity Ivanti Endpoint Manager (EPM) vulnerability as actively exploited in attacks and ordered U.S. federal agencies to patch systems within three weeks. [...]",
+      "published": "Tue, 10 Mar 2026 07:36:13 -0400",
+      "value_score": 100,
       "value_signals": [
-        "High severity",
+        "Active exploitation ×2",
+        "Patch/update",
+        "CISA/KEV ×2",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft to enable Windows hotpatch security updates by default",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
+      "summary": "Microsoft will turn on hotpatch security updates by default for all eligible Windows devices managed through Microsoft Intune and the Microsoft Graph API, beginning with the May 2026 Windows security update. [...]",
+      "published": "Tue, 10 Mar 2026 06:35:33 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
       ]
     },
     {
@@ -199,7 +225,7 @@
       "source": "BleepingComputer",
       "title": "Ericsson US discloses data breach after service provider hack",
       "link": "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/",
-      "summary": "Ericsson Inc., the U.S. subsidiary of Swedish networking and telecommunications giant Ericsson, says attackers have stolen data belonging to an undisclosed number of employees and customers after hacking one of its service providers. [...]",
+      "summary": "Ericsson Inc., the U.S. subsidiary of Swedish networking and telecommunications giant Ericsson, says attackers have stolen data belonging to over 15,000 employees and customers after hacking one of its service providers. [...]",
       "published": "Mon, 09 Mar 2026 15:07:50 -0400",
       "value_score": 22,
       "value_signals": [
@@ -214,28 +240,6 @@
       "published": "Mon, 09 Mar 2026 13:12:49 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ShinyHunters claims ongoing Salesforce Aura data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/",
-      "summary": "Salesforce is warning customers that hackers are targeting websites with misconfigured Experience Cloud platforms that give guest users access to more data than intended. However, the ShinyHunters extortion gang claims to be actively exploiting a new bug to steal data from instances. [...]",
-      "published": "Mon, 09 Mar 2026 13:12:22 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI warns of phishing attacks impersonating US city, county officials",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/",
-      "summary": "The Federal Bureau of Investigation (FBI) warns that criminals are impersonating U.S. officials in phishing attacks targeting businesses and individuals who request city and county planning and zoning permits. [...]",
-      "published": "Mon, 09 Mar 2026 11:30:50 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -400,6 +404,49 @@
     },
     {
       "source": "Security Week",
+      "title": "Hundreds of Salesforce Customers Allegedly Targeted in New Data Theft Campaign",
+      "link": "https://www.securityweek.com/hundreds-of-salesforce-customers-allegedly-targeted-in-new-data-theft-campaign/",
+      "summary": "Salesforce has confirmed that customers are being targeted via poorly secured instances. The post Hundreds of Salesforce Customers Allegedly Targeted in New Data Theft Campaign appeared first on SecurityWeek .",
+      "published": "Tue, 10 Mar 2026 12:37:17 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Escape Raises $18 Million to Automate Pentesting",
+      "link": "https://www.securityweek.com/escape-raises-18-million-to-automate-pentesting/",
+      "summary": "The company will deepen its platform's AI agent capabilities and scale engineering and go-to-market teams. The post Escape Raises $18 Million to Automate Pentesting appeared first on SecurityWeek .",
+      "published": "Tue, 10 Mar 2026 11:58:32 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Recent Ivanti Endpoint Manager Flaw Exploited in Attacks",
+      "link": "https://www.securityweek.com/recent-ivanti-endpoint-manager-flaw-exploited-in-attacks/",
+      "summary": "CISA has added the high-severity authentication bypass vulnerability to its KEV list, along with SolarWinds and Workspace One bugs. The post Recent Ivanti Endpoint Manager Flaw Exploited in Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 10 Mar 2026 11:51:02 +0000",
+      "value_score": 71,
+      "value_signals": [
+        "Auth bypass",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "SIM Swaps Expose a Critical Flaw in Identity Security",
+      "link": "https://www.securityweek.com/sim-swaps-expose-a-critical-flaw-in-identity-security/",
+      "summary": "SIM swap attacks exploit misplaced trust in phone numbers and human processes to bypass authentication controls and seize high-value accounts. The post SIM Swaps Expose a Critical Flaw in Identity Security appeared first on SecurityWeek .",
+      "published": "Tue, 10 Mar 2026 11:00:00 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Cylake Raises $45 Million to Secure Organizations Barred From Cloud",
       "link": "https://www.securityweek.com/cylake-raises-45-million-to-secure-organizations-barred-from-cloud/",
       "summary": "The company, founded by Palo Alto Networks’ Nir Zuk, has developed a platform that focuses on data sovereignty. The post Cylake Raises $45 Million to Secure Organizations Barred From Cloud appeared first on SecurityWeek .",
@@ -435,47 +482,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign",
-      "link": "https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/",
-      "summary": "Threat actors replace legitimate commands on the cloned installation webpages with malicious commands. The post Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign appeared first on SecurityWeek .",
-      "published": "Mon, 09 Mar 2026 11:42:07 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited",
-      "link": "https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/",
-      "summary": "WatchTowr reports seeing exploitation attempts for CVE-2026-20127 from numerous unique IP addresses. The post Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited appeared first on SecurityWeek .",
-      "published": "Sun, 08 Mar 2026 12:15:00 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies",
-      "link": "https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/",
-      "summary": "Trump’s Cyber Strategy calls for stronger deterrence against cyber adversaries, modernization of federal networks, protection of critical infrastructure, and investment in technologies such as AI and post-quantum cryptography. The post US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies appeared first on SecurityWeek .",
-      "published": "Sat, 07 Mar 2026 15:57:23 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Over 100 GitHub Repositories Distributing BoryptGrab Stealer",
-      "link": "https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/",
-      "summary": "The malware targets browser and cryptocurrency wallet data, along with system information and user files. The post Over 100 GitHub Repositories Distributing BoryptGrab Stealer appeared first on SecurityWeek .",
-      "published": "Sat, 07 Mar 2026 12:40:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-11 16:44 UTC  
+> **Last Updated:** 2026-03-11 18:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **238 000 impacted** • **labkotec lid 3300ip** • **arbitrary file upload** • **arbitrary command execution** • **code execution issues** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **32 billion acquisition** • **patched security flaws** • **cloud security giant** • **patched vulnerabilities relate** • **least 77 vulnerabilities** • **medtech firm stryker** • **malicious cyber actors** • **windows operating systems** • **view camera feeds** • **user facing warnings** • **tuesday released patches**
+**scattered lapsus shinyhunters** • **238 000 impacted** • **supply chain compromise** • **arbitrary file upload** • **arbitrary command execution** • **medtech firm stryker** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **32 billion acquisition** • **cloud security giant** • **least 77 vulnerabilities** • **code injection vulnerability** • **view camera feeds** • **trump administration signaled** • **threat actor known** • **sensitive client data** • **royal thai police** • **root level privileges** • **qatari entities signal**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes](https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html)
 - [Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html)
 - [Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown](https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html)
 - [Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
@@ -23,18 +24,17 @@
 - [Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days](https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html)
 - [UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours](https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html)
 - [Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
-- [FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html)
 
 ### BleepingComputer
 
+- [CISA orders feds to patch n8n RCE flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/)
+- [Medtech giant Stryker offline after Iran-linked wiper malware attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/)
+- [New PhantomRaven NPM attack wave steals dev data via 88 packages](https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/)
 - [Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools](https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/)
 - [New ‘BlackSanta’ EDR killer spotted targeting HR departments](https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/)
 - [New BeatBanker Android malware poses as Starlink app to hijack devices](https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/)
 - [New 'Zombie ZIP' technique lets malware slip past security tools](https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/)
 - [Microsoft releases Windows 10 KB5078885 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/)
-- [Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/)
-- [Windows 11 KB5079473 & KB5078883 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/)
-- [HPE warns of critical AOS-CX flaw allowing admin password resets](https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/)
 
 ### Krebs on Security
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Honeywell IQ4x BMS Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-03)
 - [Ceragon Siklu MultiHaul and EtherHaul Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-04)
 - [Apeman Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-01)
@@ -89,7 +90,6 @@
 - [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)
 - [Delta Electronics CNCSoft-G2](https://www.cisa.gov/news-events/ics-advisories/icsa-26-064-01)
 - [CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog)
-- [Labkotec LID-3300IP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-05)
 
 ---
 

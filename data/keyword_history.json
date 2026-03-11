@@ -158,7 +158,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 501,
+      "count": 502,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -228,7 +228,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 959,
+      "count": 960,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2626,7 +2626,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4618,7 +4618,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 366,
+      "count": 367,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5431,7 +5431,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 335,
+      "count": 336,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6748,7 +6748,7 @@
       ]
     },
     "secure online communications": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -7708,7 +7708,7 @@
       ]
     },
     "victim's username password": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8576,7 +8576,7 @@
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -8995,7 +8995,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9063,7 +9063,7 @@
       ]
     },
     "trump administration signaled": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9101,7 +9101,7 @@
       ]
     },
     "called ai agents": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-10",
         "2026-03-11"
@@ -9156,35 +9156,35 @@
       ]
     },
     "arbitrary file upload": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-10",
         "2026-03-11"
       ]
     },
     "data loss prevention": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-10",
         "2026-03-11"
       ]
     },
     "affected id71 vers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-10",
         "2026-03-11"
       ]
     },
     "view camera feeds": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-10",
         "2026-03-11"
       ]
     },
     "third party vendor": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-10",
         "2026-03-11"
@@ -9197,7 +9197,7 @@
       ]
     },
     "root level privileges": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-10",
         "2026-03-11"
@@ -9211,31 +9211,26 @@
       ]
     },
     "sensitive client data": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-10",
         "2026-03-11"
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2026-03-11"
+      ]
+    },
+    "supply chain compromise": {
+      "count": 1,
       "dates": [
         "2026-03-11"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-02 08:38",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io",
-        "cloudcharge cloudcharge se"
-      ]
-    },
     {
       "timestamp": "2026-03-02 10:38",
       "articles": 56,
@@ -10316,6 +10311,17 @@
     },
     {
       "timestamp": "2026-03-11 06:44",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "third party vendor",
+        "labkotec lid 3300ip",
+        "arbitrary file upload"
+      ]
+    },
+    {
+      "timestamp": "2026-03-11 08:34",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

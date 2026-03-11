@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-11 14:42 UTC  
+> **Last Updated:** 2026-03-11 16:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**238 000 impacted** • **scattered lapsus shinyhunters** • **badbox 2 0** • **labkotec lid 3300ip** • **arbitrary file upload** • **code execution issues** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **files allegedly stolen** • **32 billion acquisition** • **patched vulnerabilities relate** • **least 77 vulnerabilities** • **sensitive client data** • **security data lakes** • **called ai agents** • **windows operating systems** • **view camera feeds** • **user facing warnings** • **tuesday released patches**
+**scattered lapsus shinyhunters** • **238 000 impacted** • **labkotec lid 3300ip** • **arbitrary file upload** • **arbitrary command execution** • **code execution issues** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **32 billion acquisition** • **patched security flaws** • **cloud security giant** • **patched vulnerabilities relate** • **least 77 vulnerabilities** • **medtech firm stryker** • **malicious cyber actors** • **windows operating systems** • **view camera feeds** • **user facing warnings** • **tuesday released patches**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html)
 - [Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown](https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html)
 - [Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
 - [What Boards Must Demand in the Age of AI-Automated Exploitation](https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html)
@@ -23,7 +24,6 @@
 - [UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours](https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html)
 - [Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
 - [FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html)
-- [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
 
 ### BleepingComputer
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
 - [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
 - [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
 - [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
@@ -45,10 +46,10 @@
 - [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
 - [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
 - [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
-- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/)
 
 ### Dark Reading
 
+- [Chinese Nexus Actors Shift Focus to Qatar Amid Iranian Conflict](https://www.darkreading.com/threat-intelligence/chinese-nexus-actors-shift-focus-qatar-iranian-conflict)
 - [Middle East Conflict Highlights Cloud Resilience Gaps](https://www.darkreading.com/cyber-risk/middle-east-conflict-highlights-cloud-resilience-gaps)
 - [Microsoft Patches 83 CVEs in March Update](https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update)
 - ['Overly Permissive' Salesforce Cloud Configs in the Crosshairs](https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs)
@@ -56,10 +57,10 @@
 - ['BlackSanta' EDR Killer Targets HR Workflows](https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows)
 - [White House Cyber Strategy Prioritizes Offense](https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense)
 - ['InstallFix' Attacks Spread Fake Claude Code Sites](https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code)
-- [Are We Ready for Auto Remediation With Agentic AI?](https://www.darkreading.com/application-security/auto-remediation-agentic-ai)
 
 ### Security Week
 
+- [MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack](https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/)
 - [Wiz Joins Google Cloud as Landmark Acquisition Closes](https://www.securityweek.com/wiz-joins-google-cloud-as-landmark-acquisition-closes/)
 - [CISO Conversations: Aimee Cardwell](https://www.securityweek.com/ciso-conversations-aimee-cardwell/)
 - [238,000 Impacted by Bell Ambulance Data Breach](https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/)
@@ -67,7 +68,6 @@
 - [OpenAI to Acquire AI Security Startup Promptfoo](https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/)
 - [Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities](https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/)
 - [How to 10x Your Vulnerability Management Program in the Agentic Era](https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/)
-- [Michelin Confirms Data Breach Linked to Oracle EBS Attack](https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/)
 
 ### Threatpost
 

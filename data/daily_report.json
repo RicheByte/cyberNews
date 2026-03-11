@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-03-11 14:42",
+  "last_updated": "2026-03-11 16:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "238 000 impacted",
     "scattered lapsus shinyhunters",
-    "badbox 2 0",
+    "238 000 impacted",
     "labkotec lid 3300ip",
     "arbitrary file upload",
+    "arbitrary command execution",
     "code execution issues",
     "victim's username password",
     "twitter whistleblower complaint",
     "secure online communications",
-    "files allegedly stolen",
     "32 billion acquisition",
+    "patched security flaws",
+    "cloud security giant",
     "patched vulnerabilities relate",
     "least 77 vulnerabilities",
-    "sensitive client data",
-    "security data lakes",
-    "called ai agents",
+    "medtech firm stryker",
+    "malicious cyber actors",
     "windows operating systems",
     "view camera feeds",
     "user facing warnings",
@@ -26,47 +26,61 @@
   ],
   "trending": [
     {
-      "keyword": "238 000 impacted",
-      "mentions": 1
-    },
-    {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 339
+      "mentions": 340
     },
     {
-      "keyword": "badbox 2 0",
-      "mentions": 370
-    },
-    {
-      "keyword": "labkotec lid 3300ip",
-      "mentions": 77
-    },
-    {
-      "keyword": "arbitrary file upload",
-      "mentions": 10
-    },
-    {
-      "keyword": "code execution issues",
+      "keyword": "238 000 impacted",
       "mentions": 2
     },
     {
+      "keyword": "labkotec lid 3300ip",
+      "mentions": 78
+    },
+    {
+      "keyword": "arbitrary file upload",
+      "mentions": 11
+    },
+    {
+      "keyword": "arbitrary command execution",
+      "mentions": 1
+    },
+    {
+      "keyword": "code execution issues",
+      "mentions": 3
+    },
+    {
       "keyword": "victim's username password",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 963
+      "mentions": 964
     },
     {
       "keyword": "secure online communications",
-      "mentions": 36
+      "mentions": 37
     },
     {
-      "keyword": "files allegedly stolen",
+      "keyword": "32 billion acquisition",
       "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials",
+      "link": "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command execution. The vulnerabilities are listed below - CVE-2026-27577 (CVSS score: 9.4) - Expression sandbox escape leading to remote code execution (RCE) CVE-2026-27493 (CVSS score: 9.5) - Unauthenticated",
+      "published": "Wed, 11 Mar 2026 20:21:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE ×3",
+        "High severity ×2",
+        "Multiple CVEs"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown",
@@ -152,15 +166,6 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
-      "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
-      "summary": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own. But there is a problem. While these agents make work faster, they also open a new \"back door\" for hackers. The Problem: \"The Invisible Employee\" Think of an AI Agent like a new employee who has",
-      "published": "Tue, 10 Mar 2026 21:51:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
       "source": "BleepingComputer",
       "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
       "link": "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/",
@@ -243,6 +248,15 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+      "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
+      "published": "Wed, 11 Mar 2026 16:20:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Microsoft Patch Tuesday, March 2026 Edition",
       "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
       "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
@@ -319,15 +333,13 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "Mon, 26 Jan 2026 16:11:38 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
+      "source": "Dark Reading",
+      "title": "Chinese Nexus Actors Shift Focus to Qatar Amid Iranian Conflict",
+      "link": "https://www.darkreading.com/threat-intelligence/chinese-nexus-actors-shift-focus-qatar-iranian-conflict",
+      "summary": "Two attacks on Qatari entities signal a shift in focus for China-backed actors and demonstrate how quickly they can pivot in response to geopolitical events.",
+      "published": "Wed, 11 Mar 2026 14:46:51 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -395,11 +407,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Are We Ready for Auto Remediation With Agentic AI?",
-      "link": "https://www.darkreading.com/application-security/auto-remediation-agentic-ai",
-      "summary": "With the rapid innovations in AI, we are entering an exciting era of automated risk remediation. Learn about security team readiness to leverage agentic AI for threat and exposure management.",
-      "published": "Mon, 09 Mar 2026 20:13:01 GMT",
+      "source": "Security Week",
+      "title": "MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack",
+      "link": "https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/",
+      "summary": "Stryker was targeted by the Handala group, which claims to have wiped more than 200,000 of the company’s devices. The post MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack appeared first on SecurityWeek .",
+      "published": "Wed, 11 Mar 2026 16:18:39 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -470,17 +482,6 @@
       "published": "Wed, 11 Mar 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Michelin Confirms Data Breach Linked to Oracle EBS Attack",
-      "link": "https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/",
-      "summary": "The cybercriminals have leaked more than 300GB of files allegedly stolen from the tire giant. The post Michelin Confirms Data Breach Linked to Oracle EBS Attack appeared first on SecurityWeek .",
-      "published": "Wed, 11 Mar 2026 11:27:20 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11 04:05",
+  "last_updated": "2026-03-11 06:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,13 +7,13 @@
     "badbox 2 0",
     "third party vendor",
     "labkotec lid 3300ip",
+    "arbitrary file upload",
     "twitter whistleblower complaint",
     "windows operating systems",
-    "arbitrary file upload",
-    "arbitrary code execution",
-    "agents autonomous programs",
     "sensitive client data",
     "data loss prevention",
+    "arbitrary code execution",
+    "agents autonomous programs",
     "least 77 vulnerabilities",
     "affected id71 vers",
     "called ai agents",
@@ -27,54 +27,56 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 334
+      "mentions": 335
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 365
+      "mentions": 366
     },
     {
       "keyword": "third party vendor",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 72
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 958
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 500
+      "mentions": 73
     },
     {
       "keyword": "arbitrary file upload",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "arbitrary code execution",
-      "mentions": 172
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 959
     },
     {
-      "keyword": "agents autonomous programs",
-      "mentions": 22
+      "keyword": "windows operating systems",
+      "mentions": 501
     },
     {
       "keyword": "sensitive client data",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "data loss prevention",
+      "mentions": 6
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 173
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
-      "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
-      "summary": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own. But there is a problem. While these agents make work faster, they also open a new \"back door\" for hackers. The Problem: \"The Invisible Employee\" Think of an AI Agent like a new employee who has",
-      "published": "Tue, 10 Mar 2026 21:51:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
+      "link": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
+      "summary": "Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threat actors. The Rust packages, published to crates.io, are listed below - chrono_anchor dnp3times time_calibrator time_calibrators time-sync The crates, per Socket, impersonate timeapi.io and were published between late February and early March",
+      "published": "Wed, 11 Mar 2026 10:42:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "The Hacker News",
@@ -87,6 +89,15 @@
         "Breach/leak ×2",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
+      "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
+      "summary": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own. But there is a problem. While these agents make work faster, they also open a new \"back door\" for hackers. The Problem: \"The Invisible Employee\" Think of an AI Agent like a new employee who has",
+      "published": "Tue, 10 Mar 2026 21:51:00 +0530",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "The Hacker News",
@@ -141,20 +152,6 @@
       "published": "Tue, 10 Mar 2026 12:47:00 +0530",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited",
-      "link": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability list is as follows - CVE-2021-22054 (CVSS score: 7.5) - A server-side request forgery (SSRF) vulnerability in Omnissa Workspace One UEM (formerly VMware Workspace One UEM) that",
-      "published": "Tue, 10 Mar 2026 11:47:00 +0530",
-      "value_score": 99,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "CISA/KEV ×4",
         "Exploit wording"
       ]
     },

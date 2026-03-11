@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-11 04:05 UTC  
+> **Last Updated:** 2026-03-11 06:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **third party vendor** • **labkotec lid 3300ip** • **twitter whistleblower complaint** • **windows operating systems** • **arbitrary file upload** • **arbitrary code execution** • **agents autonomous programs** • **sensitive client data** • **data loss prevention** • **least 77 vulnerabilities** • **affected id71 vers** • **called ai agents** • **view camera feeds** • **victim's username password** • **trump administration signaled** • **secure online communications** • **russia affiliated actor** • **root level privileges**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **third party vendor** • **labkotec lid 3300ip** • **arbitrary file upload** • **twitter whistleblower complaint** • **windows operating systems** • **sensitive client data** • **data loss prevention** • **arbitrary code execution** • **agents autonomous programs** • **least 77 vulnerabilities** • **affected id71 vers** • **called ai agents** • **view camera feeds** • **victim's username password** • **trump administration signaled** • **secure online communications** • **russia affiliated actor** • **root level privileges**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
-- [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
+- [Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
 - [FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html)
+- [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
 - [KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet](https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html)
 - [New "LeakyLooker" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries](https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html)
 - [The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
 - [APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military](https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html)
 - [Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool](https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html)
-- [CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited](https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html)
 
 ### BleepingComputer
 

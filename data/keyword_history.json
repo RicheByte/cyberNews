@@ -228,7 +228,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 961,
+      "count": 962,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4618,7 +4618,7 @@
       ]
     },
     "badbox 2 0": {
-      "count": 368,
+      "count": 369,
       "dates": [
         "2026-01-26",
         "2026-01-27",
@@ -5431,7 +5431,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 337,
+      "count": 338,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6748,7 +6748,7 @@
       ]
     },
     "secure online communications": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -7708,7 +7708,7 @@
       ]
     },
     "victim's username password": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8576,7 +8576,7 @@
       ]
     },
     "labkotec lid 3300ip": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-03-03",
         "2026-03-04",
@@ -9063,7 +9063,7 @@
       ]
     },
     "trump administration signaled": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9156,7 +9156,7 @@
       ]
     },
     "arbitrary file upload": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-10",
         "2026-03-11"
@@ -9177,7 +9177,7 @@
       ]
     },
     "view camera feeds": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-10",
         "2026-03-11"
@@ -9197,7 +9197,7 @@
       ]
     },
     "root level privileges": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-10",
         "2026-03-11"
@@ -9211,31 +9211,61 @@
       ]
     },
     "sensitive client data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-10",
         "2026-03-11"
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-11"
       ]
     },
     "supply chain compromise": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-11"
       ]
     },
     "patched vulnerabilities relate": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-11"
       ]
     },
     "eventual data exfiltration": {
+      "count": 2,
+      "dates": [
+        "2026-03-11"
+      ]
+    },
+    "quantro security emerges": {
+      "count": 1,
+      "dates": [
+        "2026-03-11"
+      ]
+    },
+    "code execution issues": {
+      "count": 1,
+      "dates": [
+        "2026-03-11"
+      ]
+    },
+    "files allegedly stolen": {
+      "count": 1,
+      "dates": [
+        "2026-03-11"
+      ]
+    },
+    "response edr products": {
+      "count": 1,
+      "dates": [
+        "2026-03-11"
+      ]
+    },
+    "proxying malicious traffic": {
       "count": 1,
       "dates": [
         "2026-03-11"
@@ -9243,17 +9273,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-02 12:46",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "anthropic technology openai",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io"
-      ]
-    },
     {
       "timestamp": "2026-03-02 14:39",
       "articles": 56,
@@ -10341,6 +10360,17 @@
         "labkotec lid 3300ip",
         "arbitrary file upload",
         "victim's username password"
+      ]
+    },
+    {
+      "timestamp": "2026-03-11 12:50",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "badbox 2 0",
+        "labkotec lid 3300ip",
+        "arbitrary file upload",
+        "quantro security emerges"
       ]
     }
   ]

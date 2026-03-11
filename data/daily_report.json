@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11 10:34",
+  "last_updated": "2026-03-11 12:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,66 +7,92 @@
     "badbox 2 0",
     "labkotec lid 3300ip",
     "arbitrary file upload",
+    "quantro security emerges",
+    "code execution issues",
     "victim's username password",
     "twitter whistleblower complaint",
-    "windows operating systems",
+    "secure online communications",
+    "files allegedly stolen",
     "patched vulnerabilities relate",
     "least 77 vulnerabilities",
-    "arbitrary code execution",
-    "agents autonomous programs",
     "sensitive client data",
     "eventual data exfiltration",
-    "data loss prevention",
-    "affected id71 vers",
-    "called ai agents",
     "view camera feeds",
     "trump administration signaled",
     "supply chain compromise",
-    "secure online communications"
+    "root level privileges",
+    "response edr products",
+    "proxying malicious traffic"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 337
+      "mentions": 338
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 368
+      "mentions": 369
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 75
+      "mentions": 76
     },
     {
       "keyword": "arbitrary file upload",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "victim's username password",
-      "mentions": 45
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 961
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 503
-    },
-    {
-      "keyword": "patched vulnerabilities relate",
+      "keyword": "quantro security emerges",
       "mentions": 1
     },
     {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 5
+      "keyword": "code execution issues",
+      "mentions": 1
     },
     {
-      "keyword": "arbitrary code execution",
-      "mentions": 175
+      "keyword": "victim's username password",
+      "mentions": 46
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 962
+    },
+    {
+      "keyword": "secure online communications",
+      "mentions": 35
+    },
+    {
+      "keyword": "files allegedly stolen",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
+      "link": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
+      "summary": "SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected systems. The vulnerabilities in question listed below - CVE-2019-17571 (CVSS score: 9.8) - A code injection vulnerability in SAP Quotation Management Insurance application (FS-QUO) CVE-2026-27685 (CVSS score: 9.1) - An insecure deserialization",
+      "published": "Wed, 11 Mar 2026 17:56:00 +0530",
+      "value_score": 76,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Patch/update",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "What Boards Must Demand in the Age of AI-Automated Exploitation",
+      "link": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html",
+      "summary": "“You knew, and you could have acted. Why didn’t you?” This is the question you do not want to be asked. And increasingly, it’s the question leaders are forced to answer after an incident. For years, many executive teams and boards have treated a large vulnerability backlog as an uncomfortable but tolerable fact of life: “we’ve accepted the risk.” If you’ve ever seen a report showing",
+      "published": "Wed, 11 Mar 2026 17:00:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
@@ -135,30 +161,6 @@
       "value_signals": [
         "Active exploitation",
         "Botnet ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
-      "link": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
-      "summary": "Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments. The shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in",
-      "published": "Tue, 10 Mar 2026 18:50:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
-      "link": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
-      "summary": "You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately. Time-to-exploit is shrinking The larger and less controlled your attack surface is,",
-      "published": "Tue, 10 Mar 2026 16:30:00 +0530",
-      "value_score": 49,
-      "value_signals": [
-        "Zero-day",
-        "High severity",
-        "Exploit wording"
       ]
     },
     {
@@ -408,6 +410,56 @@
     },
     {
       "source": "Security Week",
+      "title": "OpenAI to Acquire AI Security Startup Promptfoo",
+      "link": "https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/",
+      "summary": "Promptfoo has raised more than $23 million in funding for a platform that helps developers secure LLMs and AI agents. The post OpenAI to Acquire AI Security Startup Promptfoo appeared first on SecurityWeek .",
+      "published": "Wed, 11 Mar 2026 12:25:58 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities",
+      "link": "https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/",
+      "summary": "The bugs could lead to arbitrary code execution, privilege escalation, or authentication rate-limit bypass. The post Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 11 Mar 2026 12:10:12 +0000",
+      "value_score": 38,
+      "value_signals": [
+        "Privilege escalation",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "How to 10x Your Vulnerability Management Program in the Agentic Era",
+      "link": "https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/",
+      "summary": "The evolution of vulnerability management in the agentic era is characterized by continuous telemetry, contextual prioritization and the ultimate goal of agentic remediation. The post How to 10x Your Vulnerability Management Program in the Agentic Era appeared first on SecurityWeek .",
+      "published": "Wed, 11 Mar 2026 12:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Michelin Confirms Data Breach Linked to Oracle EBS Attack",
+      "link": "https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/",
+      "summary": "The cybercriminals have leaked more than 300GB of files allegedly stolen from the tire giant. The post Michelin Confirms Data Breach Linked to Oracle EBS Attack appeared first on SecurityWeek .",
+      "published": "Wed, 11 Mar 2026 11:27:20 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Quantro Security Emerges From Stealth With $2.5 Million in Funding",
+      "link": "https://www.securityweek.com/quantro-security-emerges-from-stealth-with-2-5-million-in-funding/",
+      "summary": "The startup integrates with existing cybersecurity stacks, ingests and normalizes data, and delivers intelligence to reduce risks. The post Quantro Security Emerges From Stealth With $2.5 Million in Funding appeared first on SecurityWeek .",
+      "published": "Wed, 11 Mar 2026 10:49:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "‘BlackSanta’ Malware Activates EDR and AV Killer Before Detonating Payload",
       "link": "https://www.securityweek.com/blacksanta-malware-activates-edr-and-av-killer-before-detonating-payload/",
       "summary": "The malware disables antivirus and EDR protections at the kernel level, clearing the path for credential harvesting, system reconnaissance, and eventual data exfiltration. The post ‘BlackSanta’ Malware Activates EDR and AV Killer Before Detonating Payload appeared first on SecurityWeek .",
@@ -438,53 +490,6 @@
         "Patch/update ×3",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Adobe Patches 80 Vulnerabilities Across Eight Products",
-      "link": "https://www.securityweek.com/adobe-patches-80-vulnerabilities-across-eight-products/",
-      "summary": "Adobe has rolled out patches for 80 vulnerabilities across 8 products, including Commerce, Illustrator, Acrobat Reader, and Premiere Pro. The post Adobe Patches 80 Vulnerabilities Across Eight Products appeared first on SecurityWeek .",
-      "published": "Tue, 10 Mar 2026 18:22:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP",
-      "link": "https://www.securityweek.com/jazz-emerges-from-stealth-with-61m-in-funding-for-ai-powered-dlp/",
-      "summary": "The startup brings AI to data loss prevention to provide visibility into intent, context, and risk. The post Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP appeared first on SecurityWeek .",
-      "published": "Tue, 10 Mar 2026 17:45:32 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security",
-      "link": "https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/",
-      "summary": "The company was created by a Claroty founder and is backed by Evolution Equity Partners, N47, and other investors. The post Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security appeared first on SecurityWeek .",
-      "published": "Tue, 10 Mar 2026 15:13:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Webinar Today: Securing Fragile OT in an Exposed World",
-      "link": "https://www.securityweek.com/webinar-today-securing-fragile-ot-in-an-exposed-world/",
-      "summary": "Join the webinar as we examine the current OT threat landscape and move past the \"doom and gloom\" to discuss the mechanics of modern OT exposure. The post Webinar Today: Securing Fragile OT in an Exposed World appeared first on SecurityWeek .",
-      "published": "Tue, 10 Mar 2026 15:04:28 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities",
-      "link": "https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/",
-      "summary": "A code injection bug in FS-QUO and an insecure deserialization flaw in NetWeaver could lead to arbitrary code execution. The post SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 10 Mar 2026 14:31:36 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-11 10:34 UTC  
+> **Last Updated:** 2026-03-11 12:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **labkotec lid 3300ip** • **arbitrary file upload** • **victim's username password** • **twitter whistleblower complaint** • **windows operating systems** • **patched vulnerabilities relate** • **least 77 vulnerabilities** • **arbitrary code execution** • **agents autonomous programs** • **sensitive client data** • **eventual data exfiltration** • **data loss prevention** • **affected id71 vers** • **called ai agents** • **view camera feeds** • **trump administration signaled** • **supply chain compromise** • **secure online communications**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **labkotec lid 3300ip** • **arbitrary file upload** • **quantro security emerges** • **code execution issues** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **files allegedly stolen** • **patched vulnerabilities relate** • **least 77 vulnerabilities** • **sensitive client data** • **eventual data exfiltration** • **view camera feeds** • **trump administration signaled** • **supply chain compromise** • **root level privileges** • **response edr products** • **proxying malicious traffic**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
+- [What Boards Must Demand in the Age of AI-Automated Exploitation](https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html)
 - [Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days](https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html)
 - [UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours](https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html)
 - [Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
 - [FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html)
 - [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
 - [KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet](https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html)
-- [New "LeakyLooker" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries](https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html)
-- [The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [OpenAI to Acquire AI Security Startup Promptfoo](https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/)
+- [Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities](https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/)
+- [How to 10x Your Vulnerability Management Program in the Agentic Era](https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/)
+- [Michelin Confirms Data Breach Linked to Oracle EBS Attack](https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/)
+- [Quantro Security Emerges From Stealth With $2.5 Million in Funding](https://www.securityweek.com/quantro-security-emerges-from-stealth-with-2-5-million-in-funding/)
 - [‘BlackSanta’ Malware Activates EDR and AV Killer Before Detonating Payload](https://www.securityweek.com/blacksanta-malware-activates-edr-and-av-killer-before-detonating-payload/)
 - [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Moxa, Mitsubishi Electric](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/)
 - [Microsoft Patches 83 Vulnerabilities](https://www.securityweek.com/microsoft-patches-83-vulnerabilities/)
-- [Adobe Patches 80 Vulnerabilities Across Eight Products](https://www.securityweek.com/adobe-patches-80-vulnerabilities-across-eight-products/)
-- [Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP](https://www.securityweek.com/jazz-emerges-from-stealth-with-61m-in-funding-for-ai-powered-dlp/)
-- [Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security](https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/)
-- [Webinar Today: Securing Fragile OT in an Exposed World](https://www.securityweek.com/webinar-today-securing-fragile-ot-in-an-exposed-world/)
-- [SAP Patches Critical FS-QUO, NetWeaver Vulnerabilities](https://www.securityweek.com/sap-patches-critical-fs-quo-netweaver-vulnerabilities/)
 
 ### Threatpost
 

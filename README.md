@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-11 12:50 UTC |
+| 🕐 Last Updated | 2026-03-11 14:42 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `badbox 2 0` • `labkotec lid 3300ip` • `arbitrary file upload` • `quantro security emerges` • `code execution issues` • `victim's username password` • `twitter whistleblower complaint` • `secure online communications` • `files allegedly stolen`
+`238 000 impacted` • `scattered lapsus shinyhunters` • `badbox 2 0` • `labkotec lid 3300ip` • `arbitrary file upload` • `code execution issues` • `victim's username password` • `twitter whistleblower complaint` • `secure online communications` • `files allegedly stolen`
 
 ## 📄 Reports
 

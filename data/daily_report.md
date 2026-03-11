@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-11 12:50 UTC  
+> **Last Updated:** 2026-03-11 14:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **labkotec lid 3300ip** • **arbitrary file upload** • **quantro security emerges** • **code execution issues** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **files allegedly stolen** • **patched vulnerabilities relate** • **least 77 vulnerabilities** • **sensitive client data** • **eventual data exfiltration** • **view camera feeds** • **trump administration signaled** • **supply chain compromise** • **root level privileges** • **response edr products** • **proxying malicious traffic**
+**238 000 impacted** • **scattered lapsus shinyhunters** • **badbox 2 0** • **labkotec lid 3300ip** • **arbitrary file upload** • **code execution issues** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **files allegedly stolen** • **32 billion acquisition** • **patched vulnerabilities relate** • **least 77 vulnerabilities** • **sensitive client data** • **security data lakes** • **called ai agents** • **windows operating systems** • **view camera feeds** • **user facing warnings** • **tuesday released patches**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown](https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html)
 - [Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
 - [What Boards Must Demand in the Age of AI-Automated Exploitation](https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html)
 - [Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days](https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html)
@@ -23,10 +24,10 @@
 - [Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
 - [FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html)
 - [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
-- [KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet](https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html)
 
 ### BleepingComputer
 
+- [Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools](https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/)
 - [New ‘BlackSanta’ EDR killer spotted targeting HR departments](https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/)
 - [New BeatBanker Android malware poses as Starlink app to hijack devices](https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/)
 - [New 'Zombie ZIP' technique lets malware slip past security tools](https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/)
@@ -34,7 +35,6 @@
 - [Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/)
 - [Windows 11 KB5079473 & KB5078883 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/)
 - [HPE warns of critical AOS-CX flaw allowing admin password resets](https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/)
-- [Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Wiz Joins Google Cloud as Landmark Acquisition Closes](https://www.securityweek.com/wiz-joins-google-cloud-as-landmark-acquisition-closes/)
+- [CISO Conversations: Aimee Cardwell](https://www.securityweek.com/ciso-conversations-aimee-cardwell/)
+- [238,000 Impacted by Bell Ambulance Data Breach](https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/)
+- [Scanner Raises $22 Million for AI-Powered Threat Hunting](https://www.securityweek.com/scanner-raises-22-million-for-ai-powered-threat-hunting/)
 - [OpenAI to Acquire AI Security Startup Promptfoo](https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/)
 - [Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities](https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/)
 - [How to 10x Your Vulnerability Management Program in the Agentic Era](https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/)
 - [Michelin Confirms Data Breach Linked to Oracle EBS Attack](https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/)
-- [Quantro Security Emerges From Stealth With $2.5 Million in Funding](https://www.securityweek.com/quantro-security-emerges-from-stealth-with-2-5-million-in-funding/)
-- [‘BlackSanta’ Malware Activates EDR and AV Killer Before Detonating Payload](https://www.securityweek.com/blacksanta-malware-activates-edr-and-av-killer-before-detonating-payload/)
-- [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Moxa, Mitsubishi Electric](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/)
-- [Microsoft Patches 83 Vulnerabilities](https://www.securityweek.com/microsoft-patches-83-vulnerabilities/)
 
 ### Threatpost
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-11 18:47 UTC  
+> **Last Updated:** 2026-03-11 20:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **238 000 impacted** • **supply chain compromise** • **arbitrary file upload** • **arbitrary command execution** • **medtech firm stryker** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **32 billion acquisition** • **cloud security giant** • **least 77 vulnerabilities** • **code injection vulnerability** • **view camera feeds** • **trump administration signaled** • **threat actor known** • **sensitive client data** • **royal thai police** • **root level privileges** • **qatari entities signal**
+**scattered lapsus shinyhunters** • **238 000 impacted** • **supply chain compromise** • **pre teens whatsapp** • **arbitrary file upload** • **arbitrary command execution** • **medtech firm stryker** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **parent managed accounts** • **32 billion acquisition** • **cloud security giant** • **released security updates** • **tuesday released patches** • **code injection vulnerability** • **least 77 vulnerabilities** • **view camera feeds** • **us cyber command** • **trump administration signaled**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [WhatsApp introduces parent-managed accounts for pre-teens](https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/)
+- [SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites](https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/)
 - [CISA orders feds to patch n8n RCE flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/)
 - [Medtech giant Stryker offline after Iran-linked wiper malware attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/)
 - [New PhantomRaven NPM attack wave steals dev data via 88 packages](https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/)
 - [Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools](https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/)
 - [New ‘BlackSanta’ EDR killer spotted targeting HR departments](https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/)
 - [New BeatBanker Android malware poses as Starlink app to hijack devices](https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/)
-- [New 'Zombie ZIP' technique lets malware slip past security tools](https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/)
-- [Microsoft releases Windows 10 KB5078885 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command](https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/)
 - [MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack](https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/)
 - [Wiz Joins Google Cloud as Landmark Acquisition Closes](https://www.securityweek.com/wiz-joins-google-cloud-as-landmark-acquisition-closes/)
 - [CISO Conversations: Aimee Cardwell](https://www.securityweek.com/ciso-conversations-aimee-cardwell/)
@@ -67,7 +68,6 @@
 - [Scanner Raises $22 Million for AI-Powered Threat Hunting](https://www.securityweek.com/scanner-raises-22-million-for-ai-powered-threat-hunting/)
 - [OpenAI to Acquire AI Security Startup Promptfoo](https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/)
 - [Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities](https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/)
-- [How to 10x Your Vulnerability Management Program in the Agentic Era](https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/)
 
 ### Threatpost
 

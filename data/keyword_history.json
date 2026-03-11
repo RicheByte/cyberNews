@@ -229,7 +229,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 965,
+      "count": 966,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3464,7 +3464,7 @@
       ]
     },
     "released security updates": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -3474,7 +3474,8 @@
         "2026-01-30",
         "2026-02-10",
         "2026-02-11",
-        "2026-02-12"
+        "2026-02-12",
+        "2026-03-11"
       ]
     },
     "auditability collide daily": {
@@ -5433,7 +5434,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 341,
+      "count": 342,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6750,7 +6751,7 @@
       ]
     },
     "secure online communications": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -7710,7 +7711,7 @@
       ]
     },
     "victim's username password": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9065,7 +9066,7 @@
       ]
     },
     "trump administration signaled": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9158,7 +9159,7 @@
       ]
     },
     "arbitrary file upload": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-10",
         "2026-03-11"
@@ -9179,7 +9180,7 @@
       ]
     },
     "view camera feeds": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-10",
         "2026-03-11"
@@ -9220,13 +9221,13 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-11"
       ]
     },
     "supply chain compromise": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-11"
       ]
@@ -9274,13 +9275,13 @@
       ]
     },
     "238 000 impacted": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-11"
       ]
     },
     "32 billion acquisition": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-11"
       ]
@@ -9298,13 +9299,13 @@
       ]
     },
     "tuesday released patches": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-11"
       ]
     },
     "arbitrary command execution": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-11"
       ]
@@ -9316,19 +9317,19 @@
       ]
     },
     "cloud security giant": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-11"
       ]
     },
     "medtech firm stryker": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-11"
       ]
     },
     "code injection vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-11"
       ]
@@ -9344,20 +9345,27 @@
       "dates": [
         "2026-03-11"
       ]
+    },
+    "pre teens whatsapp": {
+      "count": 1,
+      "dates": [
+        "2026-03-11"
+      ]
+    },
+    "parent managed accounts": {
+      "count": 1,
+      "dates": [
+        "2026-03-11"
+      ]
+    },
+    "us cyber command": {
+      "count": 1,
+      "dates": [
+        "2026-03-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-02 20:31",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io",
-        "cloudcharge cloudcharge se"
-      ]
-    },
     {
       "timestamp": "2026-03-02 22:22",
       "articles": 56,
@@ -10445,6 +10453,17 @@
         "supply chain compromise",
         "arbitrary file upload",
         "arbitrary command execution"
+      ]
+    },
+    {
+      "timestamp": "2026-03-11 20:28",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "238 000 impacted",
+        "supply chain compromise",
+        "pre teens whatsapp",
+        "arbitrary file upload"
       ]
     }
   ]

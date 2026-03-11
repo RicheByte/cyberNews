@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-11 01:28 UTC  
+> **Last Updated:** 2026-03-11 04:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **badbox 2 0** • **third party vendor** • **labkotec lid 3300ip** • **twitter whistleblower complaint** • **system operations leading** • **handling cyber threats** • **arbitrary file upload** • **arbitrary code execution** • **agents autonomous programs** • **sensitive client data** • **data loss prevention** • **least 77 vulnerabilities** • **affected id71 vers** • **called ai agents** • **view camera feeds** • **victim's username password** • **trump administration signaled** • **secure online communications** • **russia affiliated actor**
+**scattered lapsus shinyhunters** • **badbox 2 0** • **third party vendor** • **labkotec lid 3300ip** • **twitter whistleblower complaint** • **windows operating systems** • **arbitrary file upload** • **arbitrary code execution** • **agents autonomous programs** • **sensitive client data** • **data loss prevention** • **least 77 vulnerabilities** • **affected id71 vers** • **called ai agents** • **view camera feeds** • **victim's username password** • **trump administration signaled** • **secure online communications** • **russia affiliated actor** • **root level privileges**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Middle East Conflict Highlights Cloud Resilience Gaps](https://www.darkreading.com/cyber-risk/middle-east-conflict-highlights-cloud-resilience-gaps)
 - [Microsoft Patches 83 CVEs in March Update](https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update)
 - ['Overly Permissive' Salesforce Cloud Configs in the Crosshairs](https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs)
 - [Russian Threat Actor Sednit Resurfaces With Sophisticated Toolkit](https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit)
@@ -56,7 +57,6 @@
 - [White House Cyber Strategy Prioritizes Offense](https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense)
 - ['InstallFix' Attacks Spread Fake Claude Code Sites](https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code)
 - [Are We Ready for Auto Remediation With Agentic AI?](https://www.darkreading.com/application-security/auto-remediation-agentic-ai)
-- [Chinese Cyber Threat Lurks In Critical Asian Sectors for Years](https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors)
 
 ### Security Week
 

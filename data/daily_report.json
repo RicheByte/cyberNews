@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11 01:28",
+  "last_updated": "2026-03-11 04:05",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,8 +8,7 @@
     "third party vendor",
     "labkotec lid 3300ip",
     "twitter whistleblower complaint",
-    "system operations leading",
-    "handling cyber threats",
+    "windows operating systems",
     "arbitrary file upload",
     "arbitrary code execution",
     "agents autonomous programs",
@@ -22,48 +21,49 @@
     "victim's username password",
     "trump administration signaled",
     "secure online communications",
-    "russia affiliated actor"
+    "russia affiliated actor",
+    "root level privileges"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 333
+      "mentions": 334
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 364
+      "mentions": 365
     },
     {
       "keyword": "third party vendor",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 957
+      "mentions": 958
     },
     {
-      "keyword": "system operations leading",
-      "mentions": 27
-    },
-    {
-      "keyword": "handling cyber threats",
-      "mentions": 13
+      "keyword": "windows operating systems",
+      "mentions": 500
     },
     {
       "keyword": "arbitrary file upload",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 171
+      "mentions": 172
     },
     {
       "keyword": "agents autonomous programs",
-      "mentions": 21
+      "mentions": 22
+    },
+    {
+      "keyword": "sensitive client data",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -331,6 +331,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Middle East Conflict Highlights Cloud Resilience Gaps",
+      "link": "https://www.darkreading.com/cyber-risk/middle-east-conflict-highlights-cloud-resilience-gaps",
+      "summary": "Data centers — used by both governments and militaries for operations — are now fair game, not just for cyberattacks, but for kinetic attacks as well.",
+      "published": "Wed, 11 Mar 2026 05:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Microsoft Patches 83 CVEs in March Update",
       "link": "https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update",
       "summary": "For a change, there's little in this month's Patch Tuesday that should cause panic, according to security experts.",
@@ -393,17 +402,6 @@
       "published": "Mon, 09 Mar 2026 20:13:01 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years",
-      "link": "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors",
-      "summary": "An undefined Chinese-speaking actor wields a combo of custom malware, open source tools, and LOTL binaries against Windows and Linux, likely for spying.",
-      "published": "Mon, 09 Mar 2026 12:05:06 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",

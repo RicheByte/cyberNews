@@ -1,72 +1,86 @@
 {
-  "last_updated": "2026-03-11 08:34",
+  "last_updated": "2026-03-11 10:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "badbox 2 0",
-    "third party vendor",
     "labkotec lid 3300ip",
     "arbitrary file upload",
     "victim's username password",
     "twitter whistleblower complaint",
-    "least 77 vulnerabilities",
     "windows operating systems",
+    "patched vulnerabilities relate",
+    "least 77 vulnerabilities",
     "arbitrary code execution",
     "agents autonomous programs",
     "sensitive client data",
+    "eventual data exfiltration",
     "data loss prevention",
     "affected id71 vers",
     "called ai agents",
     "view camera feeds",
     "trump administration signaled",
     "supply chain compromise",
-    "secure online communications",
-    "root level privileges"
+    "secure online communications"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 336
+      "mentions": 337
     },
     {
       "keyword": "badbox 2 0",
-      "mentions": 367
-    },
-    {
-      "keyword": "third party vendor",
-      "mentions": 7
+      "mentions": 368
     },
     {
       "keyword": "labkotec lid 3300ip",
-      "mentions": 74
+      "mentions": 75
     },
     {
       "keyword": "arbitrary file upload",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "victim's username password",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 960
-    },
-    {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 4
+      "mentions": 961
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 502
+      "mentions": 503
+    },
+    {
+      "keyword": "patched vulnerabilities relate",
+      "mentions": 1
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 5
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 174
+      "mentions": 175
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
+      "link": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
+      "summary": "Microsoft on Tuesday released patches for a set of 84 new security vulnerabilities affecting various software components, including two that have been listed as publicly known. Of these, eight are rated Critical, and 76 are rated Important in severity. Forty-six of the patched vulnerabilities relate to privilege escalation, followed by 18 remote code execution, 10 information disclosure, four",
+      "published": "Wed, 11 Mar 2026 14:45:00 +0530",
+      "value_score": 58,
+      "value_signals": [
+        "RCE",
+        "Privilege escalation",
+        "Patch/update",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
@@ -146,15 +160,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
-      "link": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
-      "summary": "The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long‑term surveillance of Ukrainian military personnel. The two malware families have been put to use since April 2024, ESET said in a new report shared with The Hacker News. APT28, also tracked as Blue Athena, BlueDelta, Fancy Bear, Fighting Ursa,",
-      "published": "Tue, 10 Mar 2026 16:25:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -403,6 +408,15 @@
     },
     {
       "source": "Security Week",
+      "title": "‘BlackSanta’ Malware Activates EDR and AV Killer Before Detonating Payload",
+      "link": "https://www.securityweek.com/blacksanta-malware-activates-edr-and-av-killer-before-detonating-payload/",
+      "summary": "The malware disables antivirus and EDR protections at the kernel level, clearing the path for credential harvesting, system reconnaissance, and eventual data exfiltration. The post ‘BlackSanta’ Malware Activates EDR and AV Killer Before Detonating Payload appeared first on SecurityWeek .",
+      "published": "Wed, 11 Mar 2026 09:42:41 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Moxa, Mitsubishi Electric",
       "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/",
       "summary": "Industrial giants Siemens, Schneider Electric, Mitsubishi Electric, and Moxa have published new ICS Patch Tuesday advisories. The post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Moxa, Mitsubishi Electric appeared first on SecurityWeek .",
@@ -471,17 +485,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Thousands Affected by Ericsson Data Breach",
-      "link": "https://www.securityweek.com/thousands-affected-by-ericsson-data-breach/",
-      "summary": "The telecommunications equipment and services giant has blamed the incident on a third-party vendor. The post Thousands Affected by Ericsson Data Breach appeared first on SecurityWeek .",
-      "published": "Tue, 10 Mar 2026 14:23:34 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

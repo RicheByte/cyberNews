@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-11 20:28 UTC  
+> **Last Updated:** 2026-03-11 22:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **238 000 impacted** • **supply chain compromise** • **pre teens whatsapp** • **arbitrary file upload** • **arbitrary command execution** • **medtech firm stryker** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **parent managed accounts** • **32 billion acquisition** • **cloud security giant** • **released security updates** • **tuesday released patches** • **code injection vulnerability** • **least 77 vulnerabilities** • **view camera feeds** • **us cyber command** • **trump administration signaled**
+**scattered lapsus shinyhunters** • **238 000 impacted** • **supply chain compromise** • **pre teens whatsapp** • **arbitrary file upload** • **arbitrary command execution** • **prolific ransomware outfit** • **medtech firm stryker** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **parent managed accounts** • **32 billion acquisition** • **cloud security giant** • **released security updates** • **tuesday released patches** • **code injection vulnerability** • **least 77 vulnerabilities** • **view camera feeds** • **us cyber command**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [INC Ransomware Group Holds Healthcare Hostage in Oceania](https://www.darkreading.com/threat-intelligence/inc-ransomware-healthcare-oceania)
+- [Xygeni GitHub Action Compromised Via Tag Poison](https://www.darkreading.com/application-security/xygeni-github-action-compromised-via-tag-poison)
 - [Chinese Nexus Actors Shift Focus to Qatar Amid Iranian Conflict](https://www.darkreading.com/threat-intelligence/chinese-nexus-actors-shift-focus-qatar-iranian-conflict)
 - [Middle East Conflict Highlights Cloud Resilience Gaps](https://www.darkreading.com/cyber-risk/middle-east-conflict-highlights-cloud-resilience-gaps)
 - [Microsoft Patches 83 CVEs in March Update](https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update)
 - ['Overly Permissive' Salesforce Cloud Configs in the Crosshairs](https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs)
 - [Russian Threat Actor Sednit Resurfaces With Sophisticated Toolkit](https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit)
 - ['BlackSanta' EDR Killer Targets HR Workflows](https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows)
-- [White House Cyber Strategy Prioritizes Offense](https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense)
-- ['InstallFix' Attacks Spread Fake Claude Code Sites](https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code)
 
 ### Security Week
 

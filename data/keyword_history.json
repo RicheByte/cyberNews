@@ -229,7 +229,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 966,
+      "count": 967,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3464,7 +3464,7 @@
       ]
     },
     "released security updates": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -5434,7 +5434,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 342,
+      "count": 343,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6751,7 +6751,7 @@
       ]
     },
     "secure online communications": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -7711,7 +7711,7 @@
       ]
     },
     "victim's username password": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9159,7 +9159,7 @@
       ]
     },
     "arbitrary file upload": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-10",
         "2026-03-11"
@@ -9180,7 +9180,7 @@
       ]
     },
     "view camera feeds": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-10",
         "2026-03-11"
@@ -9221,13 +9221,13 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-11"
       ]
     },
     "supply chain compromise": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-11"
       ]
@@ -9275,13 +9275,13 @@
       ]
     },
     "238 000 impacted": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-11"
       ]
     },
     "32 billion acquisition": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-11"
       ]
@@ -9299,13 +9299,13 @@
       ]
     },
     "tuesday released patches": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-11"
       ]
     },
     "arbitrary command execution": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-11"
       ]
@@ -9317,19 +9317,19 @@
       ]
     },
     "cloud security giant": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-11"
       ]
     },
     "medtech firm stryker": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-11"
       ]
     },
     "code injection vulnerability": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-11"
       ]
@@ -9347,18 +9347,24 @@
       ]
     },
     "pre teens whatsapp": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-11"
       ]
     },
     "parent managed accounts": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-11"
       ]
     },
     "us cyber command": {
+      "count": 2,
+      "dates": [
+        "2026-03-11"
+      ]
+    },
+    "prolific ransomware outfit": {
       "count": 1,
       "dates": [
         "2026-03-11"
@@ -9366,17 +9372,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-02 22:22",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io",
-        "cloudcharge cloudcharge se"
-      ]
-    },
     {
       "timestamp": "2026-03-03 01:47",
       "articles": 56,
@@ -10457,6 +10452,17 @@
     },
     {
       "timestamp": "2026-03-11 20:28",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "238 000 impacted",
+        "supply chain compromise",
+        "pre teens whatsapp",
+        "arbitrary file upload"
+      ]
+    },
+    {
+      "timestamp": "2026-03-11 22:22",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

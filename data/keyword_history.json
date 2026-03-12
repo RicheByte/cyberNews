@@ -230,7 +230,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 975,
+      "count": 976,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -5439,7 +5439,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 351,
+      "count": 352,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -8509,7 +8509,7 @@
       ]
     },
     "software including patches": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-03",
         "2026-03-12"
@@ -9007,11 +9007,12 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-03-09",
         "2026-03-10",
-        "2026-03-11"
+        "2026-03-11",
+        "2026-03-12"
       ]
     },
     "threat actor hides": {
@@ -9371,7 +9372,7 @@
       ]
     },
     "pre teens whatsapp": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9392,7 +9393,7 @@
       ]
     },
     "prolific ransomware outfit": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9405,49 +9406,49 @@
       ]
     },
     "coruna exploit kit": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-12"
       ]
     },
     "threat actors claimed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-12"
       ]
     },
     "social media giant": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-12"
       ]
     },
     "coruna exploits apple": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-12"
       ]
     },
     "scale phishing detection": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-12"
       ]
     },
     "traditional detection layers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-12"
       ]
     },
     "stolen airline miles": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-12"
       ]
     },
     "real incidents sooner": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-12"
       ]
@@ -9459,7 +9460,7 @@
       ]
     },
     "patch older iphones": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-12"
       ]
@@ -9471,18 +9472,30 @@
       ]
     },
     "execute malicious code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-12"
       ]
     },
     "747 security researchers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-12"
       ]
     },
     "reported security bugs": {
+      "count": 2,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "disaster recovery wake": {
+      "count": 1,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "easily threat actors": {
       "count": 1,
       "dates": [
         "2026-03-12"
@@ -9490,17 +9503,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-03 18:40",
-      "articles": 56,
-      "top_keywords": [
-        "badbox 2 0",
-        "scattered lapsus shinyhunters",
-        "epower epower ie",
-        "legitimate site forwarding",
-        "windows operating systems"
-      ]
-    },
     {
       "timestamp": "2026-03-03 20:27",
       "articles": 56,
@@ -10588,6 +10590,17 @@
         "pre teens whatsapp",
         "coruna exploits apple",
         "coruna exploit kit"
+      ]
+    },
+    {
+      "timestamp": "2026-03-12 18:45",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "prolific ransomware outfit",
+        "pre teens whatsapp",
+        "disaster recovery wake",
+        "coruna exploits apple"
       ]
     }
   ]

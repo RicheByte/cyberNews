@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-03-12 16:54",
+  "last_updated": "2026-03-12 18:45",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "prolific ransomware outfit",
     "pre teens whatsapp",
+    "disaster recovery wake",
     "coruna exploits apple",
     "coruna exploit kit",
     "scale phishing detection",
     "twitter whistleblower complaint",
-    "traditional detection layers",
-    "threat actors claimed",
     "stolen airline miles",
     "social media giant",
     "real incidents sooner",
     "execute malicious code",
-    "arbitrary command execution",
+    "agents autonomous programs",
     "747 security researchers",
+    "traditional detection layers",
+    "threat actors claimed",
+    "easily threat actors",
     "reported security bugs",
     "patch older iphones",
-    "software including patches",
-    "windows operating systems",
-    "victim's username password"
+    "software including patches"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 351
+      "mentions": 352
     },
     {
       "keyword": "prolific ransomware outfit",
-      "mentions": 9
-    },
-    {
-      "keyword": "pre teens whatsapp",
       "mentions": 10
     },
     {
-      "keyword": "coruna exploits apple",
-      "mentions": 2
+      "keyword": "pre teens whatsapp",
+      "mentions": 11
     },
     {
-      "keyword": "coruna exploit kit",
+      "keyword": "disaster recovery wake",
+      "mentions": 1
+    },
+    {
+      "keyword": "coruna exploits apple",
       "mentions": 3
     },
     {
+      "keyword": "coruna exploit kit",
+      "mentions": 4
+    },
+    {
       "keyword": "scale phishing detection",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 975
-    },
-    {
-      "keyword": "traditional detection layers",
-      "mentions": 2
-    },
-    {
-      "keyword": "threat actors claimed",
-      "mentions": 2
+      "mentions": 976
     },
     {
       "keyword": "stolen airline miles",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "social media giant",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
+      "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new banking malware targeting Brazilian users that's written in Rust, marking a significant departure from other known Delphi-based malware families associated with the Latin American cybercrime ecosystem. The malware, which is designed to infect Windows systems and was first discovered last month, has been codenamed VENON by Brazilian",
+      "published": "Thu, 12 Mar 2026 23:01:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html",
+      "summary": "Cybersecurity researchers have disclosed details of a suspected artificial intelligence (AI)-generated malware codenamed Slopoly put to use by a financially motivated threat actor named Hive0163. \"Although still relatively unspectacular, AI-generated malware such as Slopoly shows how easily threat actors can weaponize AI to develop new malware frameworks in a fraction of the time it used to take",
+      "published": "Thu, 12 Mar 2026 22:32:00 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
@@ -139,28 +159,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
-      "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
-      "summary": "Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey to phishing and scam traps. The attack, at its core, takes advantage of AI browsers' tendency to reason their actions and use it against the model itself to lower their security guardrails, Guardio",
-      "published": "Wed, 11 Mar 2026 22:08:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
+      "summary": "Data protection company Veeam Software has patched multiple flaws in its Backup & Replication solution, including four critical remote code execution (RCE) vulnerabilities. [...]",
+      "published": "Thu, 12 Mar 2026 12:59:20 -0400",
+      "value_score": 66,
       "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials",
-      "link": "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
-      "summary": "Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command execution. The vulnerabilities are listed below - CVE-2026-27577 (CVSS score: 9.4) - Expression sandbox escape leading to remote code execution (RCE) CVE-2026-27493 (CVSS score: 9.5) - Unauthenticated",
-      "published": "Wed, 11 Mar 2026 20:21:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
         "RCE ×3",
-        "High severity ×2",
-        "Multiple CVEs"
+        "High severity ×2"
       ]
     },
     {
@@ -232,17 +239,6 @@
       "published": "Wed, 11 Mar 2026 16:06:39 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/",
-      "summary": "An SQL injection vulnerability in Ally, a WordPress plugin from Elementor for web accessibility and usability with more than 400,000 installations, could be exploited to steal sensitive data without authentication. [...]",
-      "published": "Wed, 11 Mar 2026 15:38:14 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -332,6 +328,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Why Stryker's Outage Is a Disaster Recovery Wake-Up Call",
+      "link": "https://www.darkreading.com/cybersecurity-operations/stryker-outage-disaster-recovery-wake-up-call",
+      "summary": "The Iranian cyberattack on Stryker is the kind of stress test that business continuity and disaster recovery programs often do not plan for.",
+      "published": "Thu, 12 Mar 2026 16:30:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "INC Ransomware Group Holds Healthcare Hostage in Oceania",
       "link": "https://www.darkreading.com/threat-intelligence/inc-ransomware-healthcare-oceania",
       "summary": "Government agencies, emergency clinics, and others in Australia, New Zealand, and Tonga have had serious run-ins with the prolific ransomware outfit.",
@@ -394,15 +399,6 @@
       "link": "https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit",
       "summary": "After several years of using simple implants, the Russia-affiliated actor is back with two new sophisticated malware tools.",
       "published": "Tue, 10 Mar 2026 18:57:55 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'BlackSanta' EDR Killer Targets HR Workflows",
-      "link": "https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows",
-      "summary": "A campaign by Russian-speaking cyberattackers hijacks workflows to deliver security-busting malware, allowing attackers to steal data without detection.",
-      "published": "Tue, 10 Mar 2026 13:30:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

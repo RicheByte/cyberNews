@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-12 14:43",
+  "last_updated": "2026-03-12 16:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "prolific ransomware outfit",
-    "threat actors claimed",
-    "social media giant",
     "pre teens whatsapp",
     "coruna exploits apple",
     "coruna exploit kit",
     "scale phishing detection",
     "twitter whistleblower complaint",
     "traditional detection layers",
+    "threat actors claimed",
     "stolen airline miles",
+    "social media giant",
     "real incidents sooner",
-    "android malware range",
-    "arbitrary file upload",
+    "execute malicious code",
     "arbitrary command execution",
+    "747 security researchers",
+    "reported security bugs",
     "patch older iphones",
-    "medtech firm stryker",
-    "view camera feeds",
-    "victim's username password",
-    "soc 3 steps"
+    "software including patches",
+    "windows operating systems",
+    "victim's username password"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 350
+      "mentions": 351
     },
     {
       "keyword": "prolific ransomware outfit",
-      "mentions": 8
-    },
-    {
-      "keyword": "threat actors claimed",
-      "mentions": 1
-    },
-    {
-      "keyword": "social media giant",
-      "mentions": 1
-    },
-    {
-      "keyword": "pre teens whatsapp",
       "mentions": 9
     },
     {
-      "keyword": "coruna exploits apple",
-      "mentions": 1
+      "keyword": "pre teens whatsapp",
+      "mentions": 10
     },
     {
-      "keyword": "coruna exploit kit",
+      "keyword": "coruna exploits apple",
       "mentions": 2
     },
     {
+      "keyword": "coruna exploit kit",
+      "mentions": 3
+    },
+    {
       "keyword": "scale phishing detection",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 974
+      "mentions": 975
     },
     {
       "keyword": "traditional detection layers",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "threat actors claimed",
+      "mentions": 2
+    },
+    {
+      "keyword": "stolen airline miles",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -165,6 +165,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "US disrupts SocksEscort proxy network powered by Linux malware",
+      "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/",
+      "summary": "Law enforcement agencies in the U.S. and Europe along with private partners have disrupted the SocksEscort cybercrime proxy network that used only edge devices compromised via the AVRecon malware for Linux. [...]",
+      "published": "Thu, 12 Mar 2026 12:19:56 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Google paid $17.1 million for vulnerability reports in 2025",
+      "link": "https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/",
+      "summary": "Google paid over $17 million to 747 security researchers who reported security bugs through its Vulnerability Reward Program (VRP) in 2025. [...]",
+      "published": "Thu, 12 Mar 2026 11:22:35 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Telus Digital confirms breach after hacker claims 1 petabyte data theft",
       "link": "https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/",
       "summary": "Canadian business process outsourcing giant Telus Digital has confirmed it suffered a security incident after threat actors claimed to have stolen nearly 1 petabyte of data from the company in a multi-month breach. [...]",
@@ -225,30 +243,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch n8n RCE flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies on Wednesday to patch their systems against an actively exploited n8n vulnerability. [...]",
-      "published": "Wed, 11 Mar 2026 14:21:15 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation",
-        "RCE",
-        "Patch/update ×2",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Medtech giant Stryker offline after Iran-linked wiper malware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/",
-      "summary": "Leading medical technology company Stryker has been hit by a wiper malware attack claimed by Handala, an Iranian-linked and pro-Palestinian hacktivist group. [...]",
-      "published": "Wed, 11 Mar 2026 13:21:22 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -578,6 +572,83 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Siemens SIDIS Prime",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-03",
+      "summary": "View CSAF Summary SIDIS Prime before V4.0.800 is affected by multiple vulnerabilities in the components OpenSSL, SQLite, and several Node.js packages as described below. Siemens has released a new version of SIDIS Prime and recommends to update to the latest version. The following versions of Siemens SIDIS Prime are affected: SIDIS Prime vers:intdot/<4.0.800 (CVE-2024-29857, CVE-2024-30171, CVE-2024-30172, CVE-2024-41996, CVE-2025-6965, CVE-2025-7783, CVE-2025-9230, CVE-2025-9232, CVE-2025-9670,",
+      "published": "Thu, 12 Mar 26 12:00:00 +0000",
+      "value_score": 91,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×9",
+        "Patch/update",
+        "Multiple CVEs"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens RUGGEDCOM APE1808 Devices",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-02",
+      "summary": "View CSAF Summary Fortinet has published information on vulnerabilities in FORTIOS. This advisory lists the related Siemens Industrial products. Siemens has released a new version for RUGGEDCOM APE1808 and recommends to update to the latest version. The following versions of Siemens RUGGEDCOM APE1808 Devices are affected: RUGGEDCOM APE1808 vers:all/*, vers:all/* (CVE-2026-24858, CVE-2025-55018, CVE-2025-62439, CVE-2025-64157) CVSS Vendor Equipment Vulnerabilities v3 9.8 Siemens Siemens RUGGEDCOM",
+      "published": "Thu, 12 Mar 26 12:00:00 +0000",
+      "value_score": 91,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "Patch/update",
+        "Multiple CVEs"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens SIMATIC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-04",
+      "summary": "View CSAF Summary SIMATIC S7-1500 devices contain a vulnerability that could allow an attacker to inject code by tricking a legitimate user into importing a specially crafted trace file in the web interface. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fix versions and recommends specific countermeasures for products where fixes are not, or not yet available. The following versions of Siemens SIMATIC",
+      "published": "Thu, 12 Mar 26 12:00:00 +0000",
+      "value_score": 51,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Trane Tracer SC, Tracer SC+, and Tracer Concierge",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-01",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information, execute arbitrary commands, or perform a denial-of-service on the product. The following versions of Trane Tracer SC, Tracer SC+, and Tracer Concierge are affected: Tracer SC Tracer SC+ Tracer Concierge CVSS Vendor Equipment Vulnerabilities v3 8.1 Trane Trane Tracer SC, Tracer SC+, and Tracer Concierge Use of a Broken or Risky Cryptographic Algorithm, Memory Allocation wi",
+      "published": "Thu, 12 Mar 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens Heliox EV Chargers",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-05",
+      "summary": "View CSAF Summary Heliox EV Chargers listed below contain improper access control vulnerability that could allow an attacker to reach unauthorized services via the charging cable. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Heliox EV Chargers are affected: Heliox Flex 180 kW EV Charging Station Heliox Mobile DC 40 kW EV Charging Station CVSS Vendor Equipment Vulnerabilities v3 2.6 Siemens Siemens H",
+      "published": "Thu, 12 Mar 26 12:00:00 +0000",
+      "value_score": 43,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Inductive Automation Ignition Software",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-06",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute malicious code with OS application service account permissions that the authenticated, privileged application user did not intend on running. The following versions of Inductive Automation Ignition Software are affected: Ignition Software <8.3.0 (CVE-2025-13913) CVSS Vendor Equipment Vulnerabilities v3 6.3 Inductive Automation Inductive Automation Ignition Software Deserialization of Untrusted Data",
+      "published": "Thu, 12 Mar 26 12:00:00 +0000",
+      "value_score": 59,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-68613 n8n Improper Control of Dynamically-Managed Code Resources Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a ",
@@ -600,92 +671,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned ×3",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Ceragon Siklu MultiHaul and EtherHaul Series",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in arbitrary file upload to the target equipment. The following versions of Ceragon Siklu MultiHaul and EtherHaul Series are affected: MultiHaul MH-B100-CCS MultiHaul MH-T200-CCC MultiHaul MH-T200-CNN MultiHaul MH-T201-CNN EtherHaul EH-8010FX EtherHaul EH-500TX EtherHaul EH-600TX EtherHaul EH-614TX EtherHaul EH-700TX EtherHaul EH-710TX EtherHaul EH-1200TX EtherHaul EH-1200FX EtherHaul EH-2200FX EtherHaul EH-2500FX Ether",
-      "published": "Tue, 10 Mar 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Apeman Cameras",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to take control of the device or view camera feeds. The following versions of Apeman Cameras are affected: ID71 vers:all/* (CVE-2025-11126, CVE-2025-11851, CVE-2025-11852) CVSS Vendor Equipment Vulnerabilities v3 9.8 Apeman Apeman Cameras Insufficiently Protected Credentials, Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'), Missing Authentication for Critical Function B",
-      "published": "Tue, 10 Mar 26 12:00:00 +0000",
-      "value_score": 97,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Lantronix EDS3000PS and EDS5000",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-02",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to bypass authentication and execute code with root-level privileges. The following versions of Lantronix EDS3000PS and EDS5000 are affected: EDS3000PS 3.1.0.0R2 (CVE-2025-67039, CVE-2025-70082, CVE-2025-67041) EDS5000 2.1.0.0R3 (CVE-2025-67034, CVE-2025-67035, CVE-2025-67036, CVE-2025-67037, CVE-2025-67038) CVSS Vendor Equipment Vulnerabilities v3 9.8 Lantronix Lantronix EDS3000PS and EDS5000 Improper Neu",
-      "published": "Tue, 10 Mar 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×8",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2021-22054 Omnissa Workspace ONE Server-Side Request Forgery CVE-2025-26399 SolarWinds Web Help Desk Deserialization of Untrusted Data Vulnerability CVE-2026-1603 Ivanti Endpoint Manager (EPM) Authentication Bypass Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal e",
-      "published": "Mon, 09 Mar 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "Auth bypass",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Delta Electronics CNCSoft-G2",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-064-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker achieving remote code execution on the device. The following versions of Delta Electronics CNCSoft-G2 are affected: CNCSoft-G2 CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics CNCSoft-G2 Out-of-bounds Write Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Taiwan Vulnerabilities Expand All +",
-      "published": "Thu, 05 Mar 26 12:00:00 +0000",
-      "value_score": 77,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2017-7921 Hikvision Multiple Products Improper Authentication Vulnerability CVE-2021-22681 Rockwell Multiple Products Insufficient Protected Credentials Vulnerability CVE-2021-30952 Apple Multiple Products Integer Overflow or Wraparound Vulnerability CVE-2023-41974 Apple iOS and iPadOS Use-After-Free Vulnerability CVE-2023-43000 Apple Multiple products Use-",
-      "published": "Thu, 05 Mar 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×5",
-        "CISA/KEV ×5",
         "Multiple CVEs",
         "Exploit wording"
       ]

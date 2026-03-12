@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-12 14:43 UTC  
+> **Last Updated:** 2026-03-12 16:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **prolific ransomware outfit** • **threat actors claimed** • **social media giant** • **pre teens whatsapp** • **coruna exploits apple** • **coruna exploit kit** • **scale phishing detection** • **twitter whistleblower complaint** • **traditional detection layers** • **stolen airline miles** • **real incidents sooner** • **android malware range** • **arbitrary file upload** • **arbitrary command execution** • **patch older iphones** • **medtech firm stryker** • **view camera feeds** • **victim's username password** • **soc 3 steps**
+**scattered lapsus shinyhunters** • **prolific ransomware outfit** • **pre teens whatsapp** • **coruna exploits apple** • **coruna exploit kit** • **scale phishing detection** • **twitter whistleblower complaint** • **traditional detection layers** • **threat actors claimed** • **stolen airline miles** • **social media giant** • **real incidents sooner** • **execute malicious code** • **arbitrary command execution** • **747 security researchers** • **reported security bugs** • **patch older iphones** • **software including patches** • **windows operating systems** • **victim's username password**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [US disrupts SocksEscort proxy network powered by Linux malware](https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/)
+- [Google paid $17.1 million for vulnerability reports in 2025](https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/)
 - [Telus Digital confirms breach after hacker claims 1 petabyte data theft](https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/)
 - [Going the Extra Mile: Travel Rewards Turn into Underground Currency.](https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/)
 - [Apple patches older iPhones and iPads against Coruna exploits](https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/)
 - [US charges another ransomware negotiator linked to BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/)
 - [WhatsApp introduces parent-managed accounts for pre-teens](https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/)
 - [SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites](https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/)
-- [CISA orders feds to patch n8n RCE flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/)
-- [Medtech giant Stryker offline after Iran-linked wiper malware attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Siemens SIDIS Prime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-03)
+- [Siemens RUGGEDCOM APE1808 Devices](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-02)
+- [Siemens SIMATIC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-04)
+- [Trane Tracer SC, Tracer SC+, and Tracer Concierge](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-01)
+- [Siemens Heliox EV Chargers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-05)
+- [Inductive Automation Ignition Software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-06)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Honeywell IQ4x BMS Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-03)
-- [Ceragon Siklu MultiHaul and EtherHaul Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-04)
-- [Apeman Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-01)
-- [Lantronix EDS3000PS and EDS5000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-02)
-- [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)
-- [Delta Electronics CNCSoft-G2](https://www.cisa.gov/news-events/ics-advisories/icsa-26-064-01)
-- [CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog)
 
 ---
 

@@ -229,7 +229,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 970,
+      "count": 971,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -413,7 +413,7 @@
       ]
     },
     "threat actor known": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -568,7 +568,7 @@
       ]
     },
     "remote code execution": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3467,7 +3467,7 @@
       ]
     },
     "released security updates": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -5438,7 +5438,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 346,
+      "count": 347,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6756,7 +6756,7 @@
       ]
     },
     "secure online communications": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -7717,7 +7717,7 @@
       ]
     },
     "victim's username password": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9166,7 +9166,7 @@
       ]
     },
     "arbitrary file upload": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-10",
         "2026-03-11",
@@ -9188,7 +9188,7 @@
       ]
     },
     "view camera feeds": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-10",
         "2026-03-11",
@@ -9230,14 +9230,14 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "supply chain compromise": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9286,14 +9286,14 @@
       ]
     },
     "238 000 impacted": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "32 billion acquisition": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9312,14 +9312,14 @@
       ]
     },
     "tuesday released patches": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "arbitrary command execution": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9332,14 +9332,14 @@
       ]
     },
     "cloud security giant": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "medtech firm stryker": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9365,14 +9365,14 @@
       ]
     },
     "pre teens whatsapp": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "parent managed accounts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9386,7 +9386,7 @@
       ]
     },
     "prolific ransomware outfit": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9394,17 +9394,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-03 08:34",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io",
-        "cloudcharge cloudcharge se"
-      ]
-    },
     {
       "timestamp": "2026-03-03 10:33",
       "articles": 56,
@@ -10485,6 +10474,17 @@
     },
     {
       "timestamp": "2026-03-12 06:47",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "238 000 impacted",
+        "supply chain compromise",
+        "pre teens whatsapp",
+        "arbitrary command execution"
+      ]
+    },
+    {
+      "timestamp": "2026-03-12 08:36",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

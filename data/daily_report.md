@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-12 20:28 UTC  
+> **Last Updated:** 2026-03-12 22:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **prolific ransomware outfit** • **disaster recovery wake** • **coruna exploits apple** • **coruna exploit kit** • **scale phishing detection** • **twitter whistleblower complaint** • **stolen airline miles** • **social media giant** • **real incidents sooner** • **execute malicious code** • **agents autonomous programs** • **747 security researchers** • **traditional detection layers** • **reported security bugs** • **patch older iphones** • **interlock ransomware attack** • **software including patches** • **windows operating systems** • **victim's username password**
+**scattered lapsus shinyhunters** • **prolific ransomware outfit** • **disaster recovery wake** • **coruna exploit kit** • **scale phishing detection** • **twitter whistleblower complaint** • **stolen airline miles** • **social media giant** • **real incidents sooner** • **execute malicious code** • **agents autonomous programs** • **747 security researchers** • **traditional detection layers** • **reported security bugs** • **interlock ransomware attack** • **windows operating systems** • **victim's username password** • **v4 0 800** • **threat actors claimed** • **software including patches**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Canadian retail giant Loblaw notifies customers of data breach](https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/)
+- [England Hockey investigating ransomware data breach](https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/)
 - [AI-generated Slopoly malware used in Interlock ransomware attack](https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/)
 - [Veeam warns of critical flaws exposing backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/)
 - [US disrupts SocksEscort proxy network powered by Linux malware](https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/)
 - [Google paid $17.1 million for vulnerability reports in 2025](https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/)
 - [Telus Digital confirms breach after hacker claims 1 petabyte data theft](https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/)
 - [Going the Extra Mile: Travel Rewards Turn into Underground Currency.](https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/)
-- [Apple patches older iPhones and iPads against Coruna exploits](https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/)
-- [US charges another ransomware negotiator linked to BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Iran MOIS Colludes With Criminals to Boost Cyberattacks](https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks)
+- [Commercial Spyware Opponents Fear US Policy Shifting](https://www.darkreading.com/threat-intelligence/commercial-spyware-opponents-fear-us-policy-shifting)
 - [Why Stryker's Outage Is a Disaster Recovery Wake-Up Call](https://www.darkreading.com/cybersecurity-operations/stryker-outage-disaster-recovery-wake-up-call)
 - [INC Ransomware Group Holds Healthcare Hostage in Oceania](https://www.darkreading.com/threat-intelligence/inc-ransomware-healthcare-oceania)
 - [Xygeni GitHub Action Compromised Via Tag Poison](https://www.darkreading.com/application-security/xygeni-github-action-compromised-via-tag-poison)
 - [Chinese Nexus Actors Shift Focus to Qatar Amid Iranian Conflict](https://www.darkreading.com/threat-intelligence/chinese-nexus-actors-shift-focus-qatar-iranian-conflict)
 - [Middle East Conflict Highlights Cloud Resilience Gaps](https://www.darkreading.com/cyber-risk/middle-east-conflict-highlights-cloud-resilience-gaps)
 - [Microsoft Patches 83 CVEs in March Update](https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update)
-- ['Overly Permissive' Salesforce Cloud Configs in the Crosshairs](https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs)
-- [Russian Threat Actor Sednit Resurfaces With Sophisticated Toolkit](https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit)
 
 ### Security Week
 

@@ -229,7 +229,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 972,
+      "count": 973,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -568,7 +568,7 @@
       ]
     },
     "remote code execution": {
-      "count": 141,
+      "count": 142,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3467,7 +3467,7 @@
       ]
     },
     "released security updates": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -5438,7 +5438,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 348,
+      "count": 349,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -6756,7 +6756,7 @@
       ]
     },
     "secure online communications": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -7717,7 +7717,7 @@
       ]
     },
     "victim's username password": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9166,7 +9166,7 @@
       ]
     },
     "arbitrary file upload": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-10",
         "2026-03-11",
@@ -9188,7 +9188,7 @@
       ]
     },
     "view camera feeds": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-10",
         "2026-03-11",
@@ -9216,10 +9216,11 @@
       ]
     },
     "russia affiliated actor": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-10",
-        "2026-03-11"
+        "2026-03-11",
+        "2026-03-12"
       ]
     },
     "sensitive client data": {
@@ -9230,7 +9231,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9319,7 +9320,7 @@
       ]
     },
     "arbitrary command execution": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9340,7 +9341,7 @@
       ]
     },
     "medtech firm stryker": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9354,46 +9355,54 @@
       ]
     },
     "royal thai police": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-11"
+        "2026-03-11",
+        "2026-03-12"
       ]
     },
     "qatari entities signal": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-11"
+        "2026-03-11",
+        "2026-03-12"
       ]
     },
     "pre teens whatsapp": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "parent managed accounts": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "us cyber command": {
-      "count": 5,
-      "dates": [
-        "2026-03-11",
-        "2026-03-12"
-      ]
-    },
-    "prolific ransomware outfit": {
       "count": 6,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
+    "prolific ransomware outfit": {
+      "count": 7,
+      "dates": [
+        "2026-03-11",
+        "2026-03-12"
+      ]
+    },
     "serious run ins": {
+      "count": 2,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "coruna exploit kit": {
       "count": 1,
       "dates": [
         "2026-03-12"
@@ -9401,17 +9410,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-03 12:42",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "researchers uncover method",
-        "badbox 2 0",
-        "brand's real url",
-        "mobility46 mobility46 se"
-      ]
-    },
     {
       "timestamp": "2026-03-03 14:40",
       "articles": 56,
@@ -10498,6 +10496,17 @@
         "238 000 impacted",
         "cloud security giant",
         "pre teens whatsapp",
+        "arbitrary command execution"
+      ]
+    },
+    {
+      "timestamp": "2026-03-12 12:48",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "prolific ransomware outfit",
+        "pre teens whatsapp",
+        "coruna exploit kit",
         "arbitrary command execution"
       ]
     }

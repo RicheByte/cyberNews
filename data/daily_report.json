@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-03-12 12:48",
+  "last_updated": "2026-03-12 14:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "prolific ransomware outfit",
+    "threat actors claimed",
+    "social media giant",
     "pre teens whatsapp",
+    "coruna exploits apple",
     "coruna exploit kit",
-    "arbitrary command execution",
-    "medtech firm stryker",
-    "remote code execution",
+    "scale phishing detection",
     "twitter whistleblower complaint",
-    "parent managed accounts",
+    "traditional detection layers",
+    "stolen airline miles",
+    "real incidents sooner",
+    "android malware range",
     "arbitrary file upload",
-    "released security updates",
-    "least 77 vulnerabilities",
+    "arbitrary command execution",
+    "patch older iphones",
+    "medtech firm stryker",
     "view camera feeds",
     "victim's username password",
-    "us cyber command",
-    "serious run ins",
-    "secure online communications",
-    "russia affiliated actor",
-    "royal thai police",
-    "qatari entities signal"
+    "soc 3 steps"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 349
+      "mentions": 350
     },
     {
       "keyword": "prolific ransomware outfit",
-      "mentions": 7
-    },
-    {
-      "keyword": "pre teens whatsapp",
       "mentions": 8
     },
     {
-      "keyword": "coruna exploit kit",
+      "keyword": "threat actors claimed",
       "mentions": 1
     },
     {
-      "keyword": "arbitrary command execution",
-      "mentions": 10
+      "keyword": "social media giant",
+      "mentions": 1
     },
     {
-      "keyword": "medtech firm stryker",
-      "mentions": 10
+      "keyword": "pre teens whatsapp",
+      "mentions": 9
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 142
+      "keyword": "coruna exploits apple",
+      "mentions": 1
+    },
+    {
+      "keyword": "coruna exploit kit",
+      "mentions": 2
+    },
+    {
+      "keyword": "scale phishing detection",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 973
+      "mentions": 974
     },
     {
-      "keyword": "parent managed accounts",
-      "mentions": 8
-    },
-    {
-      "keyword": "arbitrary file upload",
-      "mentions": 20
+      "keyword": "traditional detection layers",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
+      "link": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
+      "summary": "Phishing has quietly turned into one of the hardest enterprise threats to expose early. Instead of crude lures and obvious payloads, modern campaigns rely on trusted infrastructure, legitimate-looking authentication flows, and encrypted traffic that conceals malicious behavior from traditional detection layers. For CISOs, the priority is now clear: scale phishing detection in a way that helps",
+      "published": "Thu, 12 Mar 2026 19:00:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
+      "link": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
+      "summary": "Another Thursday, another pile of weird security stuff that somehow happened in just seven days. Some of it is clever. Some of it is lazy. A few bits fall into that uncomfortable category of “yeah… this is probably going to show up in real incidents sooner than we’d like.” The pattern this week feels familiar in a slightly annoying way. Old tricks are getting polished. New research shows how",
+      "published": "Thu, 12 Mar 2026 18:44:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
@@ -142,26 +164,34 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown",
-      "link": "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html",
-      "summary": "Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., the U.K., Canada, Korea, Japan, Singapore, the Philippines, Australia, New Zealand, and Indonesia. The effort also led to 21 arrests made by the Royal Thai Police, the company said. The action builds upon",
-      "published": "Wed, 11 Mar 2026 18:45:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Telus Digital confirms breach after hacker claims 1 petabyte data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/",
+      "summary": "Canadian business process outsourcing giant Telus Digital has confirmed it suffered a security incident after threat actors claimed to have stolen nearly 1 petabyte of data from the company in a multi-month breach. [...]",
+      "published": "Thu, 12 Mar 2026 10:40:14 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Going the Extra Mile: Travel Rewards Turn into Underground Currency.",
+      "link": "https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/",
+      "summary": "Stolen airline miles are converted into flights and hotel stays, then resold as discounted travel. Flare shows how cybercriminals and underground markets treat loyalty accounts like tradable currency. [...]",
+      "published": "Thu, 12 Mar 2026 10:05:15 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
-      "link": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
-      "summary": "SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected systems. The vulnerabilities in question listed below - CVE-2019-17571 (CVSS score: 9.8) - A code injection vulnerability in SAP Quotation Management Insurance application (FS-QUO) CVE-2026-27685 (CVSS score: 9.1) - An insecure deserialization",
-      "published": "Wed, 11 Mar 2026 17:56:00 +0530",
-      "value_score": 76,
+      "source": "BleepingComputer",
+      "title": "Apple patches older iPhones and iPads against Coruna exploits",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/",
+      "summary": "​Apple has released security updates to patch older iPhones and iPads against a set of vulnerabilities targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit. [...]",
+      "published": "Thu, 12 Mar 2026 09:43:46 -0400",
+      "value_score": 24,
       "value_signals": [
-        "CVE mentioned ×2",
         "Patch/update",
-        "High severity",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     },
@@ -217,33 +247,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/",
       "summary": "Leading medical technology company Stryker has been hit by a wiper malware attack claimed by Handala, an Iranian-linked and pro-Palestinian hacktivist group. [...]",
       "published": "Wed, 11 Mar 2026 13:21:22 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New PhantomRaven NPM attack wave steals dev data via 88 packages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/",
-      "summary": "New attack waves from the 'PhantomRaven' supply-chain campaign are hitting the npm registry, with dozens of malicious packages that exfiltrate sensitive data from JavaScript developers. [...]",
-      "published": "Wed, 11 Mar 2026 13:09:42 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
-      "link": "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/",
-      "summary": "Meta is introducing new anti-scam protections across its platforms, deploying systems and user-facing warnings to protect users against scammers. [...]",
-      "published": "Wed, 11 Mar 2026 09:29:29 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New ‘BlackSanta’ EDR killer spotted targeting HR departments",
-      "link": "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/",
-      "summary": "For more than a year, a Russian-speaking threat actor targeted human resource (HR) departments with malware that delivers a new EDR killer named BlackSanta. [...]",
-      "published": "Tue, 10 Mar 2026 18:57:54 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -411,6 +414,27 @@
     },
     {
       "source": "Security Week",
+      "title": "Apple Updates Legacy iOS Versions to Patch Coruna Exploits",
+      "link": "https://www.securityweek.com/apple-updates-older-ios-versions-to-patch-coruna-exploits/",
+      "summary": "The company has released iOS and iPadOS versions 16.7.15 and 15.8.7 to patch the vulnerabilities. The post Apple Updates Legacy iOS Versions to Patch Coruna Exploits appeared first on SecurityWeek .",
+      "published": "Thu, 12 Mar 2026 14:40:34 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Meta Launches New Protection Tools as It Helps Disrupt Scam Centers",
+      "link": "https://www.securityweek.com/meta-launches-new-protection-tools-as-it-helps-disrupt-scam-centers/",
+      "summary": "The social media giant has disabled more than 150,000 accounts powering scam centers in Asia. The post Meta Launches New Protection Tools as It Helps Disrupt Scam Centers appeared first on SecurityWeek .",
+      "published": "Thu, 12 Mar 2026 13:17:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks",
       "link": "https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/",
       "summary": "The issue allows attackers to inject SQL queries and extract sensitive information from the database. The post Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks appeared first on SecurityWeek .",
@@ -466,24 +490,6 @@
       "link": "https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/",
       "summary": "The 2024 incident was initially linked to China, but an infostealer infection has now revealed North Korean involvement. The post Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea appeared first on SecurityWeek .",
       "published": "Thu, 12 Mar 2026 09:40:59 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command",
-      "link": "https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/",
-      "summary": "The leadership structure, commonly referred to as the “dual-hat” arrangement, assigns a single individual to oversee both organizations. The post Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command appeared first on SecurityWeek .",
-      "published": "Wed, 11 Mar 2026 19:08:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack",
-      "link": "https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/",
-      "summary": "Stryker was targeted by the Handala group, which claims to have wiped more than 200,000 of the company’s devices. The post MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack appeared first on SecurityWeek .",
-      "published": "Wed, 11 Mar 2026 16:18:39 +0000",
       "value_score": 10,
       "value_signals": []
     },

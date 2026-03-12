@@ -229,7 +229,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 973,
+      "count": 974,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -5438,7 +5438,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 349,
+      "count": 350,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7717,7 +7717,7 @@
       ]
     },
     "victim's username password": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9166,7 +9166,7 @@
       ]
     },
     "arbitrary file upload": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-10",
         "2026-03-11",
@@ -9188,7 +9188,7 @@
       ]
     },
     "view camera feeds": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-10",
         "2026-03-11",
@@ -9320,7 +9320,7 @@
       ]
     },
     "arbitrary command execution": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9341,7 +9341,7 @@
       ]
     },
     "medtech firm stryker": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9369,7 +9369,7 @@
       ]
     },
     "pre teens whatsapp": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9390,7 +9390,7 @@
       ]
     },
     "prolific ransomware outfit": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9403,6 +9403,66 @@
       ]
     },
     "coruna exploit kit": {
+      "count": 2,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "threat actors claimed": {
+      "count": 1,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "social media giant": {
+      "count": 1,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "coruna exploits apple": {
+      "count": 1,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "scale phishing detection": {
+      "count": 1,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "traditional detection layers": {
+      "count": 1,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "stolen airline miles": {
+      "count": 1,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "real incidents sooner": {
+      "count": 1,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "android malware range": {
+      "count": 1,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "patch older iphones": {
+      "count": 1,
+      "dates": [
+        "2026-03-12"
+      ]
+    },
+    "soc 3 steps": {
       "count": 1,
       "dates": [
         "2026-03-12"
@@ -9410,17 +9470,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-03 14:40",
-      "articles": 56,
-      "top_keywords": [
-        "badbox 2 0",
-        "scattered lapsus shinyhunters",
-        "brand's real url",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io"
-      ]
-    },
     {
       "timestamp": "2026-03-03 16:40",
       "articles": 56,
@@ -10508,6 +10557,17 @@
         "pre teens whatsapp",
         "coruna exploit kit",
         "arbitrary command execution"
+      ]
+    },
+    {
+      "timestamp": "2026-03-12 14:43",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "prolific ransomware outfit",
+        "threat actors claimed",
+        "social media giant",
+        "pre teens whatsapp"
       ]
     }
   ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-12 12:48 UTC |
+| 🕐 Last Updated | 2026-03-12 14:43 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `prolific ransomware outfit` • `pre teens whatsapp` • `coruna exploit kit` • `arbitrary command execution` • `medtech firm stryker` • `remote code execution` • `twitter whistleblower complaint` • `parent managed accounts` • `arbitrary file upload`
+`scattered lapsus shinyhunters` • `prolific ransomware outfit` • `threat actors claimed` • `social media giant` • `pre teens whatsapp` • `coruna exploits apple` • `coruna exploit kit` • `scale phishing detection` • `twitter whistleblower complaint` • `traditional detection layers`
 
 ## 📄 Reports
 

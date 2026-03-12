@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-12 04:09 UTC  
+> **Last Updated:** 2026-03-12 06:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **238 000 impacted** • **supply chain compromise** • **pre teens whatsapp** • **arbitrary file upload** • **arbitrary command execution** • **prolific ransomware outfit** • **medtech firm stryker** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **parent managed accounts** • **32 billion acquisition** • **cloud security giant** • **released security updates** • **tuesday released patches** • **code injection vulnerability** • **least 77 vulnerabilities** • **view camera feeds** • **us cyber command**
+**scattered lapsus shinyhunters** • **238 000 impacted** • **supply chain compromise** • **pre teens whatsapp** • **arbitrary command execution** • **prolific ransomware outfit** • **medtech firm stryker** • **remote code execution** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **parent managed accounts** • **32 billion acquisition** • **cloud security giant** • **arbitrary file upload** • **released security updates** • **tuesday released patches** • **threat actor known** • **least 77 vulnerabilities** • **view camera feeds**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
 - [Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes](https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html)
 - [Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html)
 - [Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown](https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html)
@@ -23,7 +24,6 @@
 - [What Boards Must Demand in the Age of AI-Automated Exploitation](https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html)
 - [Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days](https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html)
 - [UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours](https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html)
-- [Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
 
 ### BleepingComputer
 

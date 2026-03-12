@@ -229,7 +229,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 971,
+      "count": 972,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -568,7 +568,7 @@
       ]
     },
     "remote code execution": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3467,7 +3467,7 @@
       ]
     },
     "released security updates": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -5438,7 +5438,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 347,
+      "count": 348,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7717,7 +7717,7 @@
       ]
     },
     "victim's username password": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9166,7 +9166,7 @@
       ]
     },
     "arbitrary file upload": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-10",
         "2026-03-11",
@@ -9188,7 +9188,7 @@
       ]
     },
     "view camera feeds": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-10",
         "2026-03-11",
@@ -9230,7 +9230,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9286,14 +9286,14 @@
       ]
     },
     "238 000 impacted": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "32 billion acquisition": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9312,34 +9312,35 @@
       ]
     },
     "tuesday released patches": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "arbitrary command execution": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "patched security flaws": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-11"
+        "2026-03-11",
+        "2026-03-12"
       ]
     },
     "cloud security giant": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "medtech firm stryker": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-11",
         "2026-03-12"
@@ -9365,46 +9366,41 @@
       ]
     },
     "pre teens whatsapp": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "parent managed accounts": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "us cyber command": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-11",
         "2026-03-12"
       ]
     },
     "prolific ransomware outfit": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-11",
+        "2026-03-12"
+      ]
+    },
+    "serious run ins": {
+      "count": 1,
+      "dates": [
         "2026-03-12"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-03 10:33",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "researchers uncover method",
-        "badbox 2 0",
-        "mobility46 mobility46 se",
-        "ev2go ev2go io"
-      ]
-    },
     {
       "timestamp": "2026-03-03 12:42",
       "articles": 56,
@@ -10490,6 +10486,17 @@
         "scattered lapsus shinyhunters",
         "238 000 impacted",
         "supply chain compromise",
+        "pre teens whatsapp",
+        "arbitrary command execution"
+      ]
+    },
+    {
+      "timestamp": "2026-03-12 10:33",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "238 000 impacted",
+        "cloud security giant",
         "pre teens whatsapp",
         "arbitrary command execution"
       ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-12 08:36 UTC  
+> **Last Updated:** 2026-03-12 10:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **238 000 impacted** • **supply chain compromise** • **pre teens whatsapp** • **arbitrary command execution** • **prolific ransomware outfit** • **medtech firm stryker** • **remote code execution** • **victim's username password** • **twitter whistleblower complaint** • **secure online communications** • **parent managed accounts** • **32 billion acquisition** • **cloud security giant** • **arbitrary file upload** • **released security updates** • **tuesday released patches** • **threat actor known** • **least 77 vulnerabilities** • **view camera feeds**
+**scattered lapsus shinyhunters** • **238 000 impacted** • **cloud security giant** • **pre teens whatsapp** • **arbitrary command execution** • **prolific ransomware outfit** • **medtech firm stryker** • **remote code execution** • **twitter whistleblower complaint** • **parent managed accounts** • **32 billion acquisition** • **released security updates** • **arbitrary file upload** • **tuesday released patches** • **least 77 vulnerabilities** • **patched security flaws** • **view camera feeds** • **victim's username password** • **us cyber command** • **serious run ins**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets](https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html)
 - [CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
 - [Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes](https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html)
 - [Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html)
@@ -23,7 +24,6 @@
 - [Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
 - [What Boards Must Demand in the Age of AI-Automated Exploitation](https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html)
 - [Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days](https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html)
-- [UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours](https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Cisco Patches High-Severity IOS XR Vulnerabilities](https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/)
+- [Critical N8n Vulnerabilities Allowed Server Takeover](https://www.securityweek.com/critical-n8n-vulnerabilities-allowed-server-takeover/)
+- [Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea](https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/)
 - [Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command](https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/)
 - [MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack](https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/)
 - [Wiz Joins Google Cloud as Landmark Acquisition Closes](https://www.securityweek.com/wiz-joins-google-cloud-as-landmark-acquisition-closes/)
 - [CISO Conversations: Aimee Cardwell](https://www.securityweek.com/ciso-conversations-aimee-cardwell/)
 - [238,000 Impacted by Bell Ambulance Data Breach](https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/)
-- [Scanner Raises $22 Million for AI-Powered Threat Hunting](https://www.securityweek.com/scanner-raises-22-million-for-ai-powered-threat-hunting/)
-- [OpenAI to Acquire AI Security Startup Promptfoo](https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/)
-- [Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities](https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/)
 
 ### Threatpost
 

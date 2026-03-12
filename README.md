@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-12 18:45 UTC |
+| 🕐 Last Updated | 2026-03-12 20:28 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `prolific ransomware outfit` • `pre teens whatsapp` • `disaster recovery wake` • `coruna exploits apple` • `coruna exploit kit` • `scale phishing detection` • `twitter whistleblower complaint` • `stolen airline miles` • `social media giant`
+`scattered lapsus shinyhunters` • `prolific ransomware outfit` • `disaster recovery wake` • `coruna exploits apple` • `coruna exploit kit` • `scale phishing detection` • `twitter whistleblower complaint` • `stolen airline miles` • `social media giant` • `real incidents sooner`
 
 ## 📄 Reports
 

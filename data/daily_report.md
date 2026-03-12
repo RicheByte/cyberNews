@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-12 18:45 UTC  
+> **Last Updated:** 2026-03-12 20:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **prolific ransomware outfit** • **pre teens whatsapp** • **disaster recovery wake** • **coruna exploits apple** • **coruna exploit kit** • **scale phishing detection** • **twitter whistleblower complaint** • **stolen airline miles** • **social media giant** • **real incidents sooner** • **execute malicious code** • **agents autonomous programs** • **747 security researchers** • **traditional detection layers** • **threat actors claimed** • **easily threat actors** • **reported security bugs** • **patch older iphones** • **software including patches**
+**scattered lapsus shinyhunters** • **prolific ransomware outfit** • **disaster recovery wake** • **coruna exploits apple** • **coruna exploit kit** • **scale phishing detection** • **twitter whistleblower complaint** • **stolen airline miles** • **social media giant** • **real incidents sooner** • **execute malicious code** • **agents autonomous programs** • **747 security researchers** • **traditional detection layers** • **reported security bugs** • **patch older iphones** • **interlock ransomware attack** • **software including patches** • **windows operating systems** • **victim's username password**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [AI-generated Slopoly malware used in Interlock ransomware attack](https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/)
 - [Veeam warns of critical flaws exposing backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/)
 - [US disrupts SocksEscort proxy network powered by Linux malware](https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/)
 - [Google paid $17.1 million for vulnerability reports in 2025](https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/)
@@ -34,7 +35,6 @@
 - [Going the Extra Mile: Travel Rewards Turn into Underground Currency.](https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/)
 - [Apple patches older iPhones and iPads against Coruna exploits](https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/)
 - [US charges another ransomware negotiator linked to BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/)
-- [WhatsApp introduces parent-managed accounts for pre-teens](https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/)
 
 ### Krebs on Security
 

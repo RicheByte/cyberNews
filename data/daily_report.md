@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-13 16:34 UTC  
+> **Last Updated:** 2026-03-13 18:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **released security updates** • **remote code execution** • **twitter whistleblower complaint** • **residential routers worldwide** • **often quickly taken** • **malicious cyber actors** • **iran mois colludes** • **credential theft campaign** • **authenticated domain user** • **threat research center** • **sprawling phishing campaign** • **steal vpn credentials** • **potential data breach** • **disaster recovery wake** • **bounds write vulnerability** • **execute malicious code** • **wild affecting skia**
+**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **will see instructions** • **twitter whistleblower complaint** • **steal vpn credentials** • **residential routers worldwide** • **often quickly taken** • **malicious cyber actors** • **iran mois colludes** • **state sponsored campaign** • **credential theft campaign** • **threat research center** • **threat actor tracked** • **disaster recovery wake** • **bounds write vulnerability** • **sprawling phishing campaign** • **wild affecting skia** • **seized servers linked** • **threaten data availability**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
+- [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
 - [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
 - [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
 - [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
 - [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
 - [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
 - [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
-- [Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution](https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html)
-- [Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html)
 
 ### BleepingComputer
 
+- [Poland's nuclear research centre targeted by cyberattack](https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/)
+- [Microsoft investigates classic Outlook sync and connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/)
 - [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
 - [Police sinkholes 45,000 IP addresses in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/)
-- [Fake enterprise VPN downloads used to steal company credentials](https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/)
+- [Fake enterprise VPN sites used to steal company credentials](https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/)
 - [Starbucks discloses data breach affecting hundreds of employees](https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/)
 - [Google fixes two new Chrome zero-days exploited in attacks](https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/)
 - [Canadian retail giant Loblaw notifies customers of data breach](https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/)
-- [England Hockey investigating ransomware data breach](https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/)
-- [AI-generated Slopoly malware used in Interlock ransomware attack](https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Siemens SIDIS Prime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-03)
 - [Siemens RUGGEDCOM APE1808 Devices](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-02)
 - [Siemens SIMATIC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-04)
 - [Trane Tracer SC, Tracer SC+, and Tracer Concierge](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-01)
-- [Siemens Heliox EV Chargers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-05)
 - [Inductive Automation Ignition Software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-06)
+- [Siemens Heliox EV Chargers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-05)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Honeywell IQ4x BMS Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-069-03)
 
 ---
 

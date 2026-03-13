@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-13 10:31 UTC  
+> **Last Updated:** 2026-03-13 12:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **prolific ransomware outfit** • **disaster recovery wake** • **onyx security launches** • **scale phishing detection** • **released security updates** • **twitter whistleblower complaint** • **social media giant** • **residential routers worldwide** • **real incidents sooner** • **execute malicious code** • **easily threat actors** • **authenticated domain user** • **agents autonomous programs** • **747 security researchers** • **traditional detection layers** • **bounds write vulnerability** • **malicious cyber actors** • **china backed actors** • **interlock ransomware attack**
+**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **prolific ransomware outfit** • **disaster recovery wake** • **scale phishing detection** • **released security updates** • **747 security researchers** • **twitter whistleblower complaint** • **residential routers worldwide** • **iran mois colludes** • **easily threat actors** • **authenticated domain user** • **traditional detection layers** • **interlock ransomware attack** • **bounds write vulnerability** • **malicious cyber actors** • **china backed actors** • **weird security stuff** • **reported security bugs**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War](https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/)
+- [Bold Security Emerges From Stealth With $40 Million in Funding](https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/)
+- [Google Paid Out $17 Million in Bug Bounty Rewards in 2025](https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/)
+- [Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping](https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/)
 - [Onyx Security Launches With $40 Million in Funding](https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/)
 - [Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet](https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/)
 - [Chrome 146 Update Patches Two Exploited Zero-Days](https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/)
 - [Apple Updates Legacy iOS Versions to Patch Coruna Exploits](https://www.securityweek.com/apple-updates-older-ios-versions-to-patch-coruna-exploits/)
-- [Meta Launches New Protection Tools as It Helps Disrupt Scam Centers](https://www.securityweek.com/meta-launches-new-protection-tools-as-it-helps-disrupt-scam-centers/)
-- [Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks](https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/)
-- [The Human IOC: Why Security Professionals Struggle with Social Vetting](https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/)
-- [Splunk, Zoom Patch Severe Vulnerabilities](https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/)
 
 ### Threatpost
 

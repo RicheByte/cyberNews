@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-13 10:31",
+  "last_updated": "2026-03-13 12:46",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
+    "onyx security launches",
+    "bold security emerges",
     "prolific ransomware outfit",
     "disaster recovery wake",
-    "onyx security launches",
     "scale phishing detection",
     "released security updates",
+    "747 security researchers",
     "twitter whistleblower complaint",
-    "social media giant",
     "residential routers worldwide",
-    "real incidents sooner",
-    "execute malicious code",
+    "iran mois colludes",
     "easily threat actors",
     "authenticated domain user",
-    "agents autonomous programs",
-    "747 security researchers",
     "traditional detection layers",
+    "interlock ransomware attack",
     "bounds write vulnerability",
     "malicious cyber actors",
     "china backed actors",
-    "interlock ransomware attack"
+    "weird security stuff",
+    "reported security bugs"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 359
-    },
-    {
-      "keyword": "prolific ransomware outfit",
-      "mentions": 17
-    },
-    {
-      "keyword": "disaster recovery wake",
-      "mentions": 8
+      "mentions": 360
     },
     {
       "keyword": "onyx security launches",
+      "mentions": 2
+    },
+    {
+      "keyword": "bold security emerges",
       "mentions": 1
     },
     {
+      "keyword": "prolific ransomware outfit",
+      "mentions": 18
+    },
+    {
+      "keyword": "disaster recovery wake",
+      "mentions": 9
+    },
+    {
       "keyword": "scale phishing detection",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "released security updates",
-      "mentions": 42
+      "mentions": 43
+    },
+    {
+      "keyword": "747 security researchers",
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 983
-    },
-    {
-      "keyword": "social media giant",
-      "mentions": 10
+      "mentions": 984
     },
     {
       "keyword": "residential routers worldwide",
-      "mentions": 3
-    },
-    {
-      "keyword": "real incidents sooner",
-      "mentions": 10
+      "mentions": 4
     }
   ],
   "articles": [
@@ -410,6 +410,42 @@
     },
     {
       "source": "Security Week",
+      "title": "Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War",
+      "link": "https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/",
+      "summary": "Pro-Iranian hackers are targeting sites in the Middle East and starting to stretch into the United States during the war, raising the risk of American defense contractors, power stations and water plants. The post Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War appeared first on SecurityWeek .",
+      "published": "Fri, 13 Mar 2026 12:32:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Bold Security Emerges From Stealth With $40 Million in Funding",
+      "link": "https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/",
+      "summary": "The startup relies on AI to turn devices into active agents that understand users’ actions and provide protection in real time. The post Bold Security Emerges From Stealth With $40 Million in Funding appeared first on SecurityWeek .",
+      "published": "Fri, 13 Mar 2026 11:36:32 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Google Paid Out $17 Million in Bug Bounty Rewards in 2025",
+      "link": "https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/",
+      "summary": "Google paid over $3.7 million for Chrome vulnerabilities, and more than $3.5 million for cloud security defects. The post Google Paid Out $17 Million in Bug Bounty Rewards in 2025 appeared first on SecurityWeek .",
+      "published": "Fri, 13 Mar 2026 11:04:54 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping",
+      "link": "https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/",
+      "summary": "Evidence indicates that the attackers leveraged existing endpoint management software rather than malware to wipe devices. The post Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping appeared first on SecurityWeek .",
+      "published": "Fri, 13 Mar 2026 10:38:47 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Onyx Security Launches With $40 Million in Funding",
       "link": "https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/",
       "summary": "The startup is building a control pane to help organizations oversee autonomous AI agents and rapidly adopt them. The post Onyx Security Launches With $40 Million in Funding appeared first on SecurityWeek .",
@@ -449,46 +485,6 @@
       "value_score": 32,
       "value_signals": [
         "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Meta Launches New Protection Tools as It Helps Disrupt Scam Centers",
-      "link": "https://www.securityweek.com/meta-launches-new-protection-tools-as-it-helps-disrupt-scam-centers/",
-      "summary": "The social media giant has disabled more than 150,000 accounts powering scam centers in Asia. The post Meta Launches New Protection Tools as It Helps Disrupt Scam Centers appeared first on SecurityWeek .",
-      "published": "Thu, 12 Mar 2026 13:17:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks",
-      "link": "https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/",
-      "summary": "The issue allows attackers to inject SQL queries and extract sensitive information from the database. The post Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 12 Mar 2026 12:43:10 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "The Human IOC: Why Security Professionals Struggle with Social Vetting",
-      "link": "https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/",
-      "summary": "Applying SOC-level rigor to the rumors, politics, and 'human intel' can make or break a security team. The post The Human IOC: Why Security Professionals Struggle with Social Vetting appeared first on SecurityWeek .",
-      "published": "Thu, 12 Mar 2026 12:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Splunk, Zoom Patch Severe Vulnerabilities",
-      "link": "https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/",
-      "summary": "Critical- and high-severity flaws could be exploited to execute arbitrary shell commands or elevate privileges. The post Splunk, Zoom Patch Severe Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 12 Mar 2026 12:06:15 +0000",
-      "value_score": 40,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity",
         "Exploit wording"
       ]
     },

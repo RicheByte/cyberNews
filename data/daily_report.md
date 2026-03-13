@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-13 20:28 UTC  
+> **Last Updated:** 2026-03-13 22:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **will see instructions** • **twitter whistleblower complaint** • **steal vpn credentials** • **residential routers worldwide** • **often quickly taken** • **malicious cyber actors** • **light fraud misunderstandings** • **iran mois colludes** • **state sponsored campaign** • **credential theft campaign** • **threat research center** • **threat actor tracked** • **disaster recovery wake** • **bounds write vulnerability** • **sprawling phishing campaign** • **wild affecting skia** • **seized servers linked**
+**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **malicious cyber actors** • **will see instructions** • **twitter whistleblower complaint** • **steal vpn credentials** • **residential routers worldwide** • **light fraud misunderstandings** • **iran mois colludes** • **enhance cybersecurity awareness** • **state sponsored campaign** • **credential theft campaign** • **threat research center** • **threat actor tracked** • **poses significant risks** • **malicious zip files** • **execute malicious code** • **bounds write vulnerability** • **sprawling phishing campaign**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
+- [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
 - [Poland's nuclear research centre targeted by cyberattack](https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/)
 - [Microsoft investigates classic Outlook sync and connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/)
 - [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
 - [Police sinkholes 45,000 IP addresses in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/)
 - [Fake enterprise VPN sites used to steal company credentials](https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/)
 - [Starbucks discloses data breach affecting hundreds of employees](https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/)
-- [Google fixes two new Chrome zero-days exploited in attacks](https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/)
-- [Canadian retail giant Loblaw notifies customers of data breach](https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/)
 
 ### Krebs on Security
 
@@ -50,13 +50,13 @@
 ### Dark Reading
 
 - [Fake PoCs, Misunderstood Risks Cause Cisco SD-WAN Chaos](https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan)
+- [The Data Gap: Why Nonprofit Cyber Incidents Go Underreported](https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported)
+- [Cyberattackers Don't Care About Good Causes](https://www.darkreading.com/cyber-risk/cyberattackers-dont-care-about-good-causes)
 - [Will AI Save Consumers From Smartphone-Based Phishing Attacks?](https://www.darkreading.com/mobile-security/will-ai-save-consumers-smartphone-phishing-attacks)
 - [Most Google Cloud Attacks Start With Bug Exploitation](https://www.darkreading.com/cloud-security/google-cloud-attacks-bug-exploitation)
 - [Real-Time Banking Trojan Strikes Brazil's Pix Users](https://www.darkreading.com/application-security/real-time-banking-trojan-strikes-brazils-pix-users)
+- [Why Post-Quantum Cryptography Can't Wait](https://www.darkreading.com/cyber-risk/why-post-quantum-cryptography-cant-wait)
 - [Iran MOIS Colludes With Criminals to Boost Cyberattacks](https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks)
-- [Commercial Spyware Opponents Fear US Policy Shifting](https://www.darkreading.com/threat-intelligence/commercial-spyware-opponents-fear-us-policy-shifting)
-- [Delinea's StrongDM Acquisition Highlights the Changing Role of PAM](https://www.darkreading.com/identity-access-management-security/delinea-strongdm-acquisition-highlights-changing-role-pam)
-- [Why Stryker's Outage Is a Disaster Recovery Wake-Up Call](https://www.darkreading.com/cybersecurity-operations/stryker-outage-disaster-recovery-wake-up-call)
 
 ### Security Week
 

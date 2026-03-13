@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-13 20:28",
+  "last_updated": "2026-03-13 22:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "onyx security launches",
     "bold security emerges",
+    "malicious cyber actors",
     "will see instructions",
     "twitter whistleblower complaint",
     "steal vpn credentials",
     "residential routers worldwide",
-    "often quickly taken",
-    "malicious cyber actors",
     "light fraud misunderstandings",
     "iran mois colludes",
+    "enhance cybersecurity awareness",
     "state sponsored campaign",
     "credential theft campaign",
     "threat research center",
     "threat actor tracked",
-    "disaster recovery wake",
+    "poses significant risks",
+    "malicious zip files",
+    "execute malicious code",
     "bounds write vulnerability",
-    "sprawling phishing campaign",
-    "wild affecting skia",
-    "seized servers linked"
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 364
+      "mentions": 365
     },
     {
       "keyword": "onyx security launches",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "bold security emerges",
-      "mentions": 5
-    },
-    {
-      "keyword": "will see instructions",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 988
-    },
-    {
-      "keyword": "steal vpn credentials",
-      "mentions": 4
-    },
-    {
-      "keyword": "residential routers worldwide",
-      "mentions": 8
-    },
-    {
-      "keyword": "often quickly taken",
-      "mentions": 4
+      "mentions": 6
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 300
+      "mentions": 301
+    },
+    {
+      "keyword": "will see instructions",
+      "mentions": 3
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 989
+    },
+    {
+      "keyword": "steal vpn credentials",
+      "mentions": 5
+    },
+    {
+      "keyword": "residential routers worldwide",
+      "mentions": 9
     },
     {
       "keyword": "light fraud misunderstandings",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "iran mois colludes",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -157,6 +157,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/",
+      "summary": "Microsoft is investigating a new issue affecting some Samsung laptops running Windows 11 after installing the February 2026 security updates, in which users lose access to their C:\\ drive and are unable to launch applications. [...]",
+      "published": "Fri, 13 Mar 2026 18:11:57 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FBI seeks victims of Steam games used to spread malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/",
+      "summary": "The FBI is asking gamers who installed Steam titles containing malware to provide information as part of an ongoing investigation into eight malicious games uploaded to the gaming platform. [...]",
+      "published": "Fri, 13 Mar 2026 16:52:31 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Poland's nuclear research centre targeted by cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/",
       "summary": "Poland's National Centre for Nuclear Research (NCBJ) says hackers targeted its IT infrastructure, but the attack was detected and blocked before causing any impact. [...]",
@@ -209,30 +227,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google fixes two new Chrome zero-days exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/",
-      "summary": "Google has released emergency security updates to patch two high-severity Chrome vulnerabilities exploited in zero-day attacks. [...]",
-      "published": "Fri, 13 Mar 2026 02:56:58 -0400",
-      "value_score": 49,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Canadian retail giant Loblaw notifies customers of data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/",
-      "summary": "Still, out of an abundance of caution, Loblaw says it has automatically logged out all customers from their accounts. Account holders who need to access the company's digital services will have to log in again. [...]",
-      "published": "Thu, 12 Mar 2026 17:32:21 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -332,6 +326,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "The Data Gap: Why Nonprofit Cyber Incidents Go Underreported",
+      "link": "https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported",
+      "summary": "Threat actors target nonprofits due to security gaps and highly coveted information, but a lack of sufficient data makes it difficult to grasp the entire picture.",
+      "published": "Fri, 13 Mar 2026 17:42:09 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cyberattackers Don't Care About Good Causes",
+      "link": "https://www.darkreading.com/cyber-risk/cyberattackers-dont-care-about-good-causes",
+      "summary": "Sightline Security's founder and advisory board discuss how cybersecurity poses significant problems for nonprofits and suggest ways the industry can help.",
+      "published": "Fri, 13 Mar 2026 17:15:17 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Will AI Save Consumers From Smartphone-Based Phishing Attacks?",
       "link": "https://www.darkreading.com/mobile-security/will-ai-save-consumers-smartphone-phishing-attacks",
       "summary": "Sophisticated phishing attacks are bypassing on-device protections with troubling frequency, making it more critical than ever for users to protect themselves from potential threats, new research from Omdia shows.",
@@ -364,37 +376,19 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Why Post-Quantum Cryptography Can't Wait",
+      "link": "https://www.darkreading.com/cyber-risk/why-post-quantum-cryptography-cant-wait",
+      "summary": "Organizations have to prepare to ensure they have cryptography in place in the post-quantum world.",
+      "published": "Thu, 12 Mar 2026 21:45:25 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Iran MOIS Colludes With Criminals to Boost Cyberattacks",
       "link": "https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks",
       "summary": "Iranian APTs have long pretended to be cybercriminal groups. Now they're working with actual cybercriminal groups.",
       "published": "Thu, 12 Mar 2026 21:11:20 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Commercial Spyware Opponents Fear US Policy Shifting",
-      "link": "https://www.darkreading.com/threat-intelligence/commercial-spyware-opponents-fear-us-policy-shifting",
-      "summary": "Rescinded sanctions and reactivated contracts have created confusion about the Trump administration's spyware policy and where it draws the line.",
-      "published": "Thu, 12 Mar 2026 20:35:25 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Delinea's StrongDM Acquisition Highlights the Changing Role of PAM",
-      "link": "https://www.darkreading.com/identity-access-management-security/delinea-strongdm-acquisition-highlights-changing-role-pam",
-      "summary": "StrongDM, which injects ephemeral, real-time credentials into developer workflows, will enable Delinea to offer privilege access management across cloud, SaaS, Kubernetes, and database environments.",
-      "published": "Thu, 12 Mar 2026 17:02:11 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Why Stryker's Outage Is a Disaster Recovery Wake-Up Call",
-      "link": "https://www.darkreading.com/cybersecurity-operations/stryker-outage-disaster-recovery-wake-up-call",
-      "summary": "The Iranian cyberattack on Stryker is the kind of stress test that business continuity and disaster recovery programs often do not plan for.",
-      "published": "Thu, 12 Mar 2026 16:30:14 GMT",
       "value_score": 10,
       "value_signals": []
     },

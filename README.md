@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-13 20:28 UTC |
+| 🕐 Last Updated | 2026-03-13 22:23 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `onyx security launches` • `bold security emerges` • `will see instructions` • `twitter whistleblower complaint` • `steal vpn credentials` • `residential routers worldwide` • `often quickly taken` • `malicious cyber actors` • `light fraud misunderstandings`
+`scattered lapsus shinyhunters` • `onyx security launches` • `bold security emerges` • `malicious cyber actors` • `will see instructions` • `twitter whistleblower complaint` • `steal vpn credentials` • `residential routers worldwide` • `light fraud misunderstandings` • `iran mois colludes`
 
 ## 📄 Reports
 

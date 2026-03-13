@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 293,
+      "count": 294,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -121,7 +121,8 @@
         "2026-02-15",
         "2026-02-17",
         "2026-02-26",
-        "2026-03-11"
+        "2026-03-11",
+        "2026-03-13"
       ]
     },
     "user named csnemess": {
@@ -231,7 +232,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 981,
+      "count": 982,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -571,7 +572,7 @@
       ]
     },
     "remote code execution": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3471,7 +3472,7 @@
       ]
     },
     "released security updates": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -3483,7 +3484,8 @@
         "2026-02-11",
         "2026-02-12",
         "2026-03-11",
-        "2026-03-12"
+        "2026-03-12",
+        "2026-03-13"
       ]
     },
     "auditability collide daily": {
@@ -5442,7 +5444,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 357,
+      "count": 358,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -9013,7 +9015,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9400,7 +9402,7 @@
       ]
     },
     "prolific ransomware outfit": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9414,7 +9416,7 @@
       ]
     },
     "coruna exploit kit": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-12",
         "2026-03-13"
@@ -9428,7 +9430,7 @@
       ]
     },
     "social media giant": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-12",
         "2026-03-13"
@@ -9441,14 +9443,14 @@
       ]
     },
     "scale phishing detection": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-12",
         "2026-03-13"
       ]
     },
     "traditional detection layers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-12",
         "2026-03-13"
@@ -9462,7 +9464,7 @@
       ]
     },
     "real incidents sooner": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-12",
         "2026-03-13"
@@ -9488,14 +9490,14 @@
       ]
     },
     "execute malicious code": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-12",
         "2026-03-13"
       ]
     },
     "747 security researchers": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-12",
         "2026-03-13"
@@ -9509,20 +9511,21 @@
       ]
     },
     "disaster recovery wake": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-12",
         "2026-03-13"
       ]
     },
     "easily threat actors": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-12"
+        "2026-03-12",
+        "2026-03-13"
       ]
     },
     "interlock ransomware attack": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-12",
         "2026-03-13"
@@ -9536,13 +9539,13 @@
       ]
     },
     "residential routers worldwide": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-13"
       ]
     },
     "authenticated domain user": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-13"
       ]
@@ -9558,20 +9561,15 @@
       "dates": [
         "2026-03-13"
       ]
+    },
+    "china backed actors": {
+      "count": 1,
+      "dates": [
+        "2026-03-13"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-04 08:33",
-      "articles": 56,
-      "top_keywords": [
-        "badbox 2 0",
-        "united arab emirates",
-        "scattered lapsus shinyhunters",
-        "epower epower ie",
-        "labkotec lid 3300ip"
-      ]
-    },
     {
       "timestamp": "2026-03-04 10:31",
       "articles": 56,
@@ -10659,6 +10657,17 @@
         "prolific ransomware outfit",
         "disaster recovery wake",
         "scale phishing detection"
+      ]
+    },
+    {
+      "timestamp": "2026-03-13 08:34",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "prolific ransomware outfit",
+        "disaster recovery wake",
+        "scale phishing detection",
+        "coruna exploit kit"
       ]
     }
   ]

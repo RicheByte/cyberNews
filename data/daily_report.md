@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-13 14:39 UTC  
+> **Last Updated:** 2026-03-13 16:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **disaster recovery wake** • **released security updates** • **easily threat actors** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **seized servers linked** • **residential routers worldwide** • **often quickly taken** • **iran mois colludes** • **enhance cybersecurity awareness** • **credential theft campaign** • **authenticated domain user** • **malicious cyber actors** • **threat research center** • **steal vpn credentials** • **bounds write vulnerability** • **interlock ransomware attack**
+**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **released security updates** • **remote code execution** • **twitter whistleblower complaint** • **residential routers worldwide** • **often quickly taken** • **malicious cyber actors** • **iran mois colludes** • **credential theft campaign** • **authenticated domain user** • **threat research center** • **sprawling phishing campaign** • **steal vpn credentials** • **potential data breach** • **disaster recovery wake** • **bounds write vulnerability** • **execute malicious code** • **wild affecting skia**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
 - [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
 - [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
 - [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
@@ -23,10 +24,10 @@
 - [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
 - [Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution](https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html)
 - [Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html)
-- [Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks](https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html)
 
 ### BleepingComputer
 
+- [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
 - [Police sinkholes 45,000 IP addresses in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/)
 - [Fake enterprise VPN downloads used to steal company credentials](https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/)
 - [Starbucks discloses data breach affecting hundreds of employees](https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/)
@@ -34,7 +35,6 @@
 - [Canadian retail giant Loblaw notifies customers of data breach](https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/)
 - [England Hockey investigating ransomware data breach](https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/)
 - [AI-generated Slopoly malware used in Interlock ransomware attack](https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/)
-- [Veeam warns of critical flaws exposing backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Starbucks Data Breach Impacts Employees](https://www.securityweek.com/starbucks-data-breach-impacts-employees/)
 - [In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown](https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/)
 - [Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War](https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/)
 - [Bold Security Emerges From Stealth With $40 Million in Funding](https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/)
@@ -67,7 +68,6 @@
 - [Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping](https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/)
 - [Onyx Security Launches With $40 Million in Funding](https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/)
 - [Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet](https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/)
-- [Chrome 146 Update Patches Two Exploited Zero-Days](https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/)
 
 ### Threatpost
 

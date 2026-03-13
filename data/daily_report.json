@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-03-13 14:39",
+  "last_updated": "2026-03-13 16:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "onyx security launches",
     "bold security emerges",
-    "disaster recovery wake",
     "released security updates",
-    "easily threat actors",
+    "remote code execution",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
-    "seized servers linked",
     "residential routers worldwide",
     "often quickly taken",
+    "malicious cyber actors",
     "iran mois colludes",
-    "enhance cybersecurity awareness",
     "credential theft campaign",
     "authenticated domain user",
-    "malicious cyber actors",
     "threat research center",
+    "sprawling phishing campaign",
     "steal vpn credentials",
+    "potential data breach",
+    "disaster recovery wake",
     "bounds write vulnerability",
-    "interlock ransomware attack"
+    "execute malicious code",
+    "wild affecting skia"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 361
+      "mentions": 362
     },
     {
       "keyword": "onyx security launches",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "bold security emerges",
-      "mentions": 2
-    },
-    {
-      "keyword": "disaster recovery wake",
-      "mentions": 10
+      "mentions": 3
     },
     {
       "keyword": "released security updates",
-      "mentions": 44
+      "mentions": 45
     },
     {
-      "keyword": "easily threat actors",
-      "mentions": 5
+      "keyword": "remote code execution",
+      "mentions": 145
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 985
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 180
-    },
-    {
-      "keyword": "seized servers linked",
-      "mentions": 1
+      "mentions": 986
     },
     {
       "keyword": "residential routers worldwide",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "often quickly taken",
+      "mentions": 2
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 298
+    },
+    {
+      "keyword": "iran mois colludes",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
+      "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html",
+      "summary": "INTERPOL on Friday announced the takedown of 45,000 malicious IP addresses and servers used in connection with phishing, malware, and ransomware campaigns, as part of the agency's ongoing efforts to dismantle criminal networks, disrupt emerging threats, and safeguard victims from scams. The effort is part of an international law enforcement operation that involved 72 countries and territories.",
+      "published": "Fri, 13 Mar 2026 20:50:00 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "Ransomware",
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials",
@@ -148,15 +160,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
-      "link": "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html",
-      "summary": "Cybersecurity researchers have disclosed details of a suspected artificial intelligence (AI)-generated malware codenamed Slopoly put to use by a financially motivated threat actor named Hive0163. \"Although still relatively unspectacular, AI-generated malware such as Slopoly shows how easily threat actors can weaponize AI to develop new malware frameworks in a fraction of the time it used to take",
-      "published": "Thu, 12 Mar 2026 22:32:00 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
+      "source": "BleepingComputer",
+      "title": "From VMware to what’s next: Protecting data during hypervisor migration",
+      "link": "https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/",
+      "summary": "Hypervisor migrations can introduce hidden risks that threaten data availability and recovery. Acronis explains why verified backups and cross-platform recovery are essential during VMware transitions. [...]",
+      "published": "Fri, 13 Mar 2026 10:15:25 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -232,18 +242,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
-      "summary": "Data protection company Veeam Software has patched multiple flaws in its Backup & Replication solution, including four critical remote code execution (RCE) vulnerabilities. [...]",
-      "published": "Thu, 12 Mar 2026 12:59:20 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "RCE ×3",
-        "High severity ×2"
       ]
     },
     {
@@ -411,6 +409,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Starbucks Data Breach Impacts Employees",
+      "link": "https://www.securityweek.com/starbucks-data-breach-impacts-employees/",
+      "summary": "Starbucks said the incident involved phishing attacks targeting an employee portal, affecting hundreds. The post Starbucks Data Breach Impacts Employees appeared first on SecurityWeek .",
+      "published": "Fri, 13 Mar 2026 15:21:13 +0000",
+      "value_score": 42,
+      "value_signals": [
+        "Breach/leak ×2",
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown",
       "link": "https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/",
       "summary": "Other noteworthy stories that might have slipped under the radar: Telus Digital data breach, vulnerabilities in Linux AppArmor allow root privileges, US defense contractor behind Coruna exploits. The post In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown appeared first on SecurityWeek .",
@@ -475,18 +485,6 @@
       "value_score": 30,
       "value_signals": [
         "Botnet ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 146 Update Patches Two Exploited Zero-Days",
-      "link": "https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/",
-      "summary": "The flaws can be exploited to manipulate data and bypass security restrictions, potentially leading to code execution. The post Chrome 146 Update Patches Two Exploited Zero-Days appeared first on SecurityWeek .",
-      "published": "Fri, 13 Mar 2026 07:47:19 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "Patch/update ×2",
-        "Exploit wording"
       ]
     },
     {

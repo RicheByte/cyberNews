@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-13 08:34 UTC |
+| 🕐 Last Updated | 2026-03-13 10:31 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `prolific ransomware outfit` • `disaster recovery wake` • `scale phishing detection` • `coruna exploit kit` • `twitter whistleblower complaint` • `social media giant` • `residential routers worldwide` • `remote code execution` • `real incidents sooner`
+`scattered lapsus shinyhunters` • `prolific ransomware outfit` • `disaster recovery wake` • `onyx security launches` • `scale phishing detection` • `released security updates` • `twitter whistleblower complaint` • `social media giant` • `residential routers worldwide` • `real incidents sooner`
 
 ## 📄 Reports
 

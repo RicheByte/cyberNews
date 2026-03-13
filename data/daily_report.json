@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-03-13 08:34",
+  "last_updated": "2026-03-13 10:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "prolific ransomware outfit",
     "disaster recovery wake",
+    "onyx security launches",
     "scale phishing detection",
-    "coruna exploit kit",
+    "released security updates",
     "twitter whistleblower complaint",
     "social media giant",
     "residential routers worldwide",
-    "remote code execution",
     "real incidents sooner",
     "execute malicious code",
     "easily threat actors",
@@ -19,54 +19,78 @@
     "agents autonomous programs",
     "747 security researchers",
     "traditional detection layers",
+    "bounds write vulnerability",
     "malicious cyber actors",
     "china backed actors",
-    "released security updates",
     "interlock ransomware attack"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 358
+      "mentions": 359
     },
     {
       "keyword": "prolific ransomware outfit",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "disaster recovery wake",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "onyx security launches",
+      "mentions": 1
     },
     {
       "keyword": "scale phishing detection",
-      "mentions": 9
-    },
-    {
-      "keyword": "coruna exploit kit",
       "mentions": 10
     },
     {
+      "keyword": "released security updates",
+      "mentions": 42
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 982
+      "mentions": 983
     },
     {
       "keyword": "social media giant",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "residential routers worldwide",
-      "mentions": 2
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 144
+      "mentions": 3
     },
     {
       "keyword": "real incidents sooner",
-      "mentions": 9
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
+      "link": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
+      "summary": "Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited in the wild. The list of vulnerabilities is as follows - CVE-2026-3909 (CVSS score: 8.8) - An out-of-bounds write vulnerability in the Skia 2D graphics library that allows a remote attacker to perform out-of-bounds memory access via a crafted HTML",
+      "published": "Fri, 13 Mar 2026 14:47:00 +0530",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
+      "link": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
+      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities within the Linux kernel's AppArmor module that could be exploited by unprivileged users to circumvent kernel protections, escalate to root, and undermine container isolation guarantees. The nine confused deputy vulnerabilities have been collectively codenamed CrackArmor by the Qualys Threat Research Unit (TRU). The",
+      "published": "Fri, 13 Mar 2026 13:48:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
@@ -134,30 +158,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
-      "link": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
-      "summary": "The most dangerous phishing campaigns aren’t just designed to fool employees. Many are designed to exhaust the analysts investigating them. When a phishing investigation takes 12 hours instead of five minutes, the outcome can shift from a contained incident to a breach. For years, the cybersecurity industry has focused on the front door of phishing defense: employee training, email gateways that",
-      "published": "Thu, 12 Mar 2026 17:00:00 +0530",
-      "value_score": 38,
-      "value_signals": [
-        "Breach/leak",
-        "Phishing ×4"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
-      "link": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
-      "summary": "Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit. The vulnerability, tracked as CVE-2023-43010, relates to an unspecified vulnerability in WebKit that could result in memory corruption when processing maliciously crafted web content. The iPhone maker said the issue was",
-      "published": "Thu, 12 Mar 2026 15:28:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
       ]
     },
     {
@@ -410,6 +410,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Onyx Security Launches With $40 Million in Funding",
+      "link": "https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/",
+      "summary": "The startup is building a control pane to help organizations oversee autonomous AI agents and rapidly adopt them. The post Onyx Security Launches With $40 Million in Funding appeared first on SecurityWeek .",
+      "published": "Fri, 13 Mar 2026 09:25:51 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet",
       "link": "https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/",
       "summary": "Law enforcement agencies in the US and Europe targeted the cybercrime service that has impacted 360,000 devices since 2020. The post Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet appeared first on SecurityWeek .",
@@ -482,15 +491,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches High-Severity IOS XR Vulnerabilities",
-      "link": "https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/",
-      "summary": "The security defects could lead to denial-of-service (DoS) conditions, command execution, or device takeover. The post Cisco Patches High-Severity IOS XR Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 12 Mar 2026 10:25:26 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

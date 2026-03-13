@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-13 08:34 UTC  
+> **Last Updated:** 2026-03-13 10:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **prolific ransomware outfit** • **disaster recovery wake** • **scale phishing detection** • **coruna exploit kit** • **twitter whistleblower complaint** • **social media giant** • **residential routers worldwide** • **remote code execution** • **real incidents sooner** • **execute malicious code** • **easily threat actors** • **authenticated domain user** • **agents autonomous programs** • **747 security researchers** • **traditional detection layers** • **malicious cyber actors** • **china backed actors** • **released security updates** • **interlock ransomware attack**
+**scattered lapsus shinyhunters** • **prolific ransomware outfit** • **disaster recovery wake** • **onyx security launches** • **scale phishing detection** • **released security updates** • **twitter whistleblower complaint** • **social media giant** • **residential routers worldwide** • **real incidents sooner** • **execute malicious code** • **easily threat actors** • **authenticated domain user** • **agents autonomous programs** • **747 security researchers** • **traditional detection layers** • **bounds write vulnerability** • **malicious cyber actors** • **china backed actors** • **interlock ransomware attack**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
+- [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
 - [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
 - [Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution](https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html)
 - [Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html)
 - [Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks](https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html)
 - [How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs](https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html)
 - [ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More](https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html)
-- [Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload](https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html)
-- [Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit](https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Onyx Security Launches With $40 Million in Funding](https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/)
 - [Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet](https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/)
 - [Chrome 146 Update Patches Two Exploited Zero-Days](https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/)
 - [Apple Updates Legacy iOS Versions to Patch Coruna Exploits](https://www.securityweek.com/apple-updates-older-ios-versions-to-patch-coruna-exploits/)
@@ -67,7 +68,6 @@
 - [Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks](https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/)
 - [The Human IOC: Why Security Professionals Struggle with Social Vetting](https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/)
 - [Splunk, Zoom Patch Severe Vulnerabilities](https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/)
-- [Cisco Patches High-Severity IOS XR Vulnerabilities](https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/)
 
 ### Threatpost
 

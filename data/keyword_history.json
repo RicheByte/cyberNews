@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 296,
+      "count": 297,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -232,7 +232,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 984,
+      "count": 985,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1520,7 +1520,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1551,7 +1551,8 @@
         "2026-03-05",
         "2026-03-06",
         "2026-03-09",
-        "2026-03-10"
+        "2026-03-10",
+        "2026-03-13"
       ]
     },
     "model agnostic abstractions": {
@@ -1915,7 +1916,7 @@
       ]
     },
     "bounds write vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-02",
         "2026-03-13"
@@ -3473,7 +3474,7 @@
       ]
     },
     "released security updates": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -5445,7 +5446,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 360,
+      "count": 361,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -9512,21 +9513,21 @@
       ]
     },
     "disaster recovery wake": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-12",
         "2026-03-13"
       ]
     },
     "easily threat actors": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-12",
         "2026-03-13"
       ]
     },
     "interlock ransomware attack": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-12",
         "2026-03-13"
@@ -9540,13 +9541,13 @@
       ]
     },
     "residential routers worldwide": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-13"
       ]
     },
     "authenticated domain user": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-13"
       ]
@@ -9570,19 +9571,19 @@
       ]
     },
     "onyx security launches": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-13"
       ]
     },
     "bold security emerges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-13"
       ]
     },
     "iran mois colludes": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-13"
       ]
@@ -9592,20 +9593,45 @@
       "dates": [
         "2026-03-13"
       ]
+    },
+    "seized servers linked": {
+      "count": 1,
+      "dates": [
+        "2026-03-13"
+      ]
+    },
+    "often quickly taken": {
+      "count": 1,
+      "dates": [
+        "2026-03-13"
+      ]
+    },
+    "enhance cybersecurity awareness": {
+      "count": 1,
+      "dates": [
+        "2026-03-13"
+      ]
+    },
+    "credential theft campaign": {
+      "count": 1,
+      "dates": [
+        "2026-03-13"
+      ]
+    },
+    "threat research center": {
+      "count": 1,
+      "dates": [
+        "2026-03-13"
+      ]
+    },
+    "steal vpn credentials": {
+      "count": 1,
+      "dates": [
+        "2026-03-13"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-04 14:35",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "epower epower ie",
-        "labkotec lid 3300ip",
-        "17 2 1",
-        "badbox 2 0"
-      ]
-    },
     {
       "timestamp": "2026-03-04 16:36",
       "articles": 56,
@@ -10693,6 +10719,17 @@
         "bold security emerges",
         "prolific ransomware outfit",
         "disaster recovery wake"
+      ]
+    },
+    {
+      "timestamp": "2026-03-13 14:39",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "onyx security launches",
+        "bold security emerges",
+        "disaster recovery wake",
+        "released security updates"
       ]
     }
   ]

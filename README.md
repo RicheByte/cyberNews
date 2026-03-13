@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-13 12:46 UTC |
+| 🕐 Last Updated | 2026-03-13 14:39 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `onyx security launches` • `bold security emerges` • `prolific ransomware outfit` • `disaster recovery wake` • `scale phishing detection` • `released security updates` • `747 security researchers` • `twitter whistleblower complaint` • `residential routers worldwide`
+`scattered lapsus shinyhunters` • `onyx security launches` • `bold security emerges` • `disaster recovery wake` • `released security updates` • `easily threat actors` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `seized servers linked` • `residential routers worldwide`
 
 ## 📄 Reports
 

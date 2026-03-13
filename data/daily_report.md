@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-13 18:34 UTC  
+> **Last Updated:** 2026-03-13 20:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **will see instructions** • **twitter whistleblower complaint** • **steal vpn credentials** • **residential routers worldwide** • **often quickly taken** • **malicious cyber actors** • **iran mois colludes** • **state sponsored campaign** • **credential theft campaign** • **threat research center** • **threat actor tracked** • **disaster recovery wake** • **bounds write vulnerability** • **sprawling phishing campaign** • **wild affecting skia** • **seized servers linked** • **threaten data availability**
+**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **will see instructions** • **twitter whistleblower complaint** • **steal vpn credentials** • **residential routers worldwide** • **often quickly taken** • **malicious cyber actors** • **light fraud misunderstandings** • **iran mois colludes** • **state sponsored campaign** • **credential theft campaign** • **threat research center** • **threat actor tracked** • **disaster recovery wake** • **bounds write vulnerability** • **sprawling phishing campaign** • **wild affecting skia** • **seized servers linked**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Fake PoCs, Misunderstood Risks Cause Cisco SD-WAN Chaos](https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan)
 - [Will AI Save Consumers From Smartphone-Based Phishing Attacks?](https://www.darkreading.com/mobile-security/will-ai-save-consumers-smartphone-phishing-attacks)
 - [Most Google Cloud Attacks Start With Bug Exploitation](https://www.darkreading.com/cloud-security/google-cloud-attacks-bug-exploitation)
 - [Real-Time Banking Trojan Strikes Brazil's Pix Users](https://www.darkreading.com/application-security/real-time-banking-trojan-strikes-brazils-pix-users)
@@ -56,7 +57,6 @@
 - [Commercial Spyware Opponents Fear US Policy Shifting](https://www.darkreading.com/threat-intelligence/commercial-spyware-opponents-fear-us-policy-shifting)
 - [Delinea's StrongDM Acquisition Highlights the Changing Role of PAM](https://www.darkreading.com/identity-access-management-security/delinea-strongdm-acquisition-highlights-changing-role-pam)
 - [Why Stryker's Outage Is a Disaster Recovery Wake-Up Call](https://www.darkreading.com/cybersecurity-operations/stryker-outage-disaster-recovery-wake-up-call)
-- [What Orgs Can Learn From Olympics, World Cup IR Plans](https://www.darkreading.com/cyber-risk/olympics-world-cup-takeaways-ir-plans)
 
 ### Security Week
 

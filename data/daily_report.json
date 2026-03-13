@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13 18:34",
+  "last_updated": "2026-03-13 20:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,6 +12,7 @@
     "residential routers worldwide",
     "often quickly taken",
     "malicious cyber actors",
+    "light fraud misunderstandings",
     "iran mois colludes",
     "state sponsored campaign",
     "credential theft campaign",
@@ -21,49 +22,48 @@
     "bounds write vulnerability",
     "sprawling phishing campaign",
     "wild affecting skia",
-    "seized servers linked",
-    "threaten data availability"
+    "seized servers linked"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 363
+      "mentions": 364
     },
     {
       "keyword": "onyx security launches",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "bold security emerges",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "will see instructions",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 987
+      "mentions": 988
     },
     {
       "keyword": "steal vpn credentials",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "residential routers worldwide",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "often quickly taken",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 299
+      "mentions": 300
     },
     {
-      "keyword": "iran mois colludes",
-      "mentions": 4
+      "keyword": "light fraud misunderstandings",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -323,6 +323,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Fake PoCs, Misunderstood Risks Cause Cisco SD-WAN Chaos",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan",
+      "summary": "The excitement around Cisco's latest SD-WAN bugs has inspired some light fraud, misunderstandings, and overlooked risks.",
+      "published": "Fri, 13 Mar 2026 19:19:38 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Will AI Save Consumers From Smartphone-Based Phishing Attacks?",
       "link": "https://www.darkreading.com/mobile-security/will-ai-save-consumers-smartphone-phishing-attacks",
       "summary": "Sophisticated phishing attacks are bypassing on-device protections with troubling frequency, making it more critical than ever for users to protect themselves from potential threats, new research from Omdia shows.",
@@ -386,15 +395,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/stryker-outage-disaster-recovery-wake-up-call",
       "summary": "The Iranian cyberattack on Stryker is the kind of stress test that business continuity and disaster recovery programs often do not plan for.",
       "published": "Thu, 12 Mar 2026 16:30:14 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "What Orgs Can Learn From Olympics, World Cup IR Plans",
-      "link": "https://www.darkreading.com/cyber-risk/olympics-world-cup-takeaways-ir-plans",
-      "summary": "In this Reporters' Notebook, we discuss cyberattackers targeting the Milan-Cortina Winter Games, adding them to a long list of global sporting events in the crosshairs. Though the attack surface is grander, there are key defense takeaways for regular enterprises too.",
-      "published": "Thu, 12 Mar 2026 14:33:29 GMT",
       "value_score": 10,
       "value_signals": []
     },

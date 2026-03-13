@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13 01:43",
+  "last_updated": "2026-03-13 04:08",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -22,48 +22,48 @@
     "victim's username password",
     "v4 0 800",
     "threat actors claimed",
-    "software including patches"
+    "soc 3 steps"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 355
+      "mentions": 356
     },
     {
       "keyword": "prolific ransomware outfit",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "disaster recovery wake",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "coruna exploit kit",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "scale phishing detection",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 979
+      "mentions": 980
     },
     {
       "keyword": "stolen airline miles",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "social media giant",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "real incidents sooner",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "execute malicious code",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -348,6 +348,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Delinea's StrongDM Acquisition Highlights the Changing Role of PAM",
+      "link": "https://www.darkreading.com/identity-access-management-security/delinea-strongdm-acquisition-highlights-changing-role-pam",
+      "summary": "StrongDM, which injects ephemeral, real-time credentials into developer workflows, will enable Delinea to offer privilege access management across cloud, SaaS, Kubernetes, and database environments.",
+      "published": "Thu, 12 Mar 2026 17:02:11 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Why Stryker's Outage Is a Disaster Recovery Wake-Up Call",
       "link": "https://www.darkreading.com/cybersecurity-operations/stryker-outage-disaster-recovery-wake-up-call",
       "summary": "The Iranian cyberattack on Stryker is the kind of stress test that business continuity and disaster recovery programs often do not plan for.",
@@ -392,17 +401,6 @@
       "published": "Wed, 11 Mar 2026 05:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Microsoft Patches 83 CVEs in March Update",
-      "link": "https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update",
-      "summary": "For a change, there's little in this month's Patch Tuesday that should cause panic, according to security experts.",
-      "published": "Wed, 11 Mar 2026 01:08:31 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Security Week",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-13 01:43 UTC  
+> **Last Updated:** 2026-03-13 04:08 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **prolific ransomware outfit** • **disaster recovery wake** • **coruna exploit kit** • **scale phishing detection** • **twitter whistleblower complaint** • **stolen airline miles** • **social media giant** • **real incidents sooner** • **execute malicious code** • **agents autonomous programs** • **747 security researchers** • **traditional detection layers** • **reported security bugs** • **interlock ransomware attack** • **windows operating systems** • **victim's username password** • **v4 0 800** • **threat actors claimed** • **software including patches**
+**scattered lapsus shinyhunters** • **prolific ransomware outfit** • **disaster recovery wake** • **coruna exploit kit** • **scale phishing detection** • **twitter whistleblower complaint** • **stolen airline miles** • **social media giant** • **real incidents sooner** • **execute malicious code** • **agents autonomous programs** • **747 security researchers** • **traditional detection layers** • **reported security bugs** • **interlock ransomware attack** • **windows operating systems** • **victim's username password** • **v4 0 800** • **threat actors claimed** • **soc 3 steps**
 
 ---
 
@@ -51,12 +51,12 @@
 
 - [Iran MOIS Colludes With Criminals to Boost Cyberattacks](https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks)
 - [Commercial Spyware Opponents Fear US Policy Shifting](https://www.darkreading.com/threat-intelligence/commercial-spyware-opponents-fear-us-policy-shifting)
+- [Delinea's StrongDM Acquisition Highlights the Changing Role of PAM](https://www.darkreading.com/identity-access-management-security/delinea-strongdm-acquisition-highlights-changing-role-pam)
 - [Why Stryker's Outage Is a Disaster Recovery Wake-Up Call](https://www.darkreading.com/cybersecurity-operations/stryker-outage-disaster-recovery-wake-up-call)
 - [INC Ransomware Group Holds Healthcare Hostage in Oceania](https://www.darkreading.com/threat-intelligence/inc-ransomware-healthcare-oceania)
 - [Xygeni GitHub Action Compromised Via Tag Poison](https://www.darkreading.com/application-security/xygeni-github-action-compromised-via-tag-poison)
 - [Chinese Nexus Actors Shift Focus to Qatar Amid Iranian Conflict](https://www.darkreading.com/threat-intelligence/chinese-nexus-actors-shift-focus-qatar-iranian-conflict)
 - [Middle East Conflict Highlights Cloud Resilience Gaps](https://www.darkreading.com/cyber-risk/middle-east-conflict-highlights-cloud-resilience-gaps)
-- [Microsoft Patches 83 CVEs in March Update](https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update)
 
 ### Security Week
 

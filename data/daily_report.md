@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-13 04:08 UTC  
+> **Last Updated:** 2026-03-13 06:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **prolific ransomware outfit** • **disaster recovery wake** • **coruna exploit kit** • **scale phishing detection** • **twitter whistleblower complaint** • **stolen airline miles** • **social media giant** • **real incidents sooner** • **execute malicious code** • **agents autonomous programs** • **747 security researchers** • **traditional detection layers** • **reported security bugs** • **interlock ransomware attack** • **windows operating systems** • **victim's username password** • **v4 0 800** • **threat actors claimed** • **soc 3 steps**
+**scattered lapsus shinyhunters** • **remote code execution** • **prolific ransomware outfit** • **disaster recovery wake** • **scale phishing detection** • **coruna exploit kit** • **execute malicious code** • **twitter whistleblower complaint** • **stolen airline miles** • **social media giant** • **residential routers worldwide** • **real incidents sooner** • **authenticated domain user** • **agents autonomous programs** • **traditional detection layers** • **malware allowed socksescort** • **reported security bugs** • **747 security researchers** • **patched multiple flaws** • **interlock ransomware attack**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
+- [Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution](https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html)
 - [Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html)
 - [Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks](https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html)
 - [How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs](https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html)
 - [ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More](https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html)
 - [Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload](https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html)
 - [Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit](https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html)
-- [Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets](https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html)
-- [CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
 
 ### BleepingComputer
 

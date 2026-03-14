@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-03-14 14:23",
+  "last_updated": "2026-03-14 16:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "onyx security launches",
     "bold security emerges",
-    "malicious cyber actors",
+    "appsflyer web sdk",
     "enhance cybersecurity awareness",
     "will see instructions",
     "twitter whistleblower complaint",
-    "steal vpn credentials",
     "iran mois colludes",
     "malicious zip files",
+    "malicious cyber actors",
     "execute malicious code",
+    "steal vpn credentials",
     "bounds write vulnerability",
     "email flooding attacks",
     "state sponsored campaign",
     "seized servers linked",
     "credential theft campaign",
-    "threat research center",
     "poses significant risks",
     "sophisticated phishing attacks",
     "windows operating systems"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 372
+      "mentions": 373
     },
     {
       "keyword": "onyx security launches",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "bold security emerges",
-      "mentions": 13
+      "mentions": 14
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 308
+      "keyword": "appsflyer web sdk",
+      "mentions": 1
     },
     {
       "keyword": "enhance cybersecurity awareness",
-      "mentions": 9
-    },
-    {
-      "keyword": "will see instructions",
       "mentions": 10
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 996
+      "keyword": "will see instructions",
+      "mentions": 11
     },
     {
-      "keyword": "steal vpn credentials",
-      "mentions": 12
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 997
     },
     {
       "keyword": "iran mois colludes",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "malicious zip files",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 309
     }
   ],
   "articles": [
@@ -154,6 +154,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
+      "link": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
+      "summary": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack. [...]",
+      "published": "Sat, 14 Mar 2026 10:36:42 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/",
       "summary": "Microsoft is investigating a new issue affecting some Samsung laptops running Windows 11 after installing the February 2026 security updates, in which users lose access to their C:\\ drive and are unable to launch applications. [...]",
@@ -214,17 +223,6 @@
       "published": "Fri, 13 Mar 2026 09:23:28 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Starbucks discloses data breach affecting hundreds of employees",
-      "link": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
-      "summary": "Starbucks has disclosed a data breach affecting hundreds of employees after threat actors gained access to their Starbucks Partner Central accounts. [...]",
-      "published": "Fri, 13 Mar 2026 04:16:55 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

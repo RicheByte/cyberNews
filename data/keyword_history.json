@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 308,
+      "count": 309,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -161,7 +161,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 511,
+      "count": 512,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -234,7 +234,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 996,
+      "count": 997,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1920,7 +1920,7 @@
       ]
     },
     "bounds write vulnerability": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-02",
         "2026-03-13",
@@ -3205,7 +3205,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -5453,7 +5453,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 372,
+      "count": 373,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -8901,7 +8901,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9501,7 +9501,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -9582,21 +9582,21 @@
       ]
     },
     "onyx security launches": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-03-13",
         "2026-03-14"
       ]
     },
     "bold security emerges": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-13",
         "2026-03-14"
       ]
     },
     "iran mois colludes": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-13",
         "2026-03-14"
@@ -9609,7 +9609,7 @@
       ]
     },
     "seized servers linked": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-13",
         "2026-03-14"
@@ -9622,14 +9622,14 @@
       ]
     },
     "enhance cybersecurity awareness": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-13",
         "2026-03-14"
       ]
     },
     "credential theft campaign": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-13",
         "2026-03-14"
@@ -9643,7 +9643,7 @@
       ]
     },
     "steal vpn credentials": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-13",
         "2026-03-14"
@@ -9662,14 +9662,14 @@
       ]
     },
     "will see instructions": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-13",
         "2026-03-14"
       ]
     },
     "state sponsored campaign": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-13",
         "2026-03-14"
@@ -9696,13 +9696,19 @@
       ]
     },
     "malicious zip files": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-13",
         "2026-03-14"
       ]
     },
     "sophisticated phishing attacks": {
+      "count": 2,
+      "dates": [
+        "2026-03-14"
+      ]
+    },
+    "appsflyer web sdk": {
       "count": 1,
       "dates": [
         "2026-03-14"
@@ -9710,17 +9716,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-05 17:58",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "overwrite arbitrary files",
-        "leakbase forum per"
-      ]
-    },
     {
       "timestamp": "2026-03-05 19:19",
       "articles": 56,
@@ -10807,6 +10802,17 @@
         "onyx security launches",
         "bold security emerges",
         "malicious cyber actors",
+        "enhance cybersecurity awareness"
+      ]
+    },
+    {
+      "timestamp": "2026-03-14 16:25",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "onyx security launches",
+        "bold security emerges",
+        "appsflyer web sdk",
         "enhance cybersecurity awareness"
       ]
     }

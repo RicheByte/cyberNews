@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-14 14:23 UTC  
+> **Last Updated:** 2026-03-14 16:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **malicious cyber actors** • **enhance cybersecurity awareness** • **will see instructions** • **twitter whistleblower complaint** • **steal vpn credentials** • **iran mois colludes** • **malicious zip files** • **execute malicious code** • **bounds write vulnerability** • **email flooding attacks** • **state sponsored campaign** • **seized servers linked** • **credential theft campaign** • **threat research center** • **poses significant risks** • **sophisticated phishing attacks** • **windows operating systems**
+**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **appsflyer web sdk** • **enhance cybersecurity awareness** • **will see instructions** • **twitter whistleblower complaint** • **iran mois colludes** • **malicious zip files** • **malicious cyber actors** • **execute malicious code** • **steal vpn credentials** • **bounds write vulnerability** • **email flooding attacks** • **state sponsored campaign** • **seized servers linked** • **credential theft campaign** • **poses significant risks** • **sophisticated phishing attacks** • **windows operating systems**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
 - [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
 - [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
 - [Poland's nuclear research centre targeted by cyberattack](https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/)
@@ -34,7 +35,6 @@
 - [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
 - [Police sinkholes 45,000 IP addresses in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/)
 - [Fake enterprise VPN sites used to steal company credentials](https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/)
-- [Starbucks discloses data breach affecting hundreds of employees](https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/)
 
 ### Krebs on Security
 

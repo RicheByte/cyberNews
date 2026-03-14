@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-14 20:22 UTC |
+| 🕐 Last Updated | 2026-03-14 22:20 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `onyx security launches` • `bold security emerges` • `enhance cybersecurity awareness` • `will see instructions` • `twitter whistleblower complaint` • `iran mois colludes` • `malicious zip files` • `malicious cyber actors` • `execute malicious code`
+`scattered lapsus shinyhunters` • `appsflyer web sdk` • `onyx security launches` • `bold security emerges` • `enhance cybersecurity awareness` • `will see instructions` • `twitter whistleblower complaint` • `iran mois colludes` • `malicious zip files` • `malicious cyber actors`
 
 ## 📄 Reports
 

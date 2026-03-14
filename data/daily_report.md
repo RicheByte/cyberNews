@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-14 12:39 UTC  
+> **Last Updated:** 2026-03-14 14:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **malicious cyber actors** • **will see instructions** • **twitter whistleblower complaint** • **steal vpn credentials** • **residential routers worldwide** • **light fraud misunderstandings** • **iran mois colludes** • **enhance cybersecurity awareness** • **state sponsored campaign** • **credential theft campaign** • **threat research center** • **threat actor tracked** • **poses significant risks** • **malicious zip files** • **execute malicious code** • **bounds write vulnerability** • **sprawling phishing campaign**
+**scattered lapsus shinyhunters** • **onyx security launches** • **bold security emerges** • **malicious cyber actors** • **enhance cybersecurity awareness** • **will see instructions** • **twitter whistleblower complaint** • **steal vpn credentials** • **iran mois colludes** • **malicious zip files** • **execute malicious code** • **bounds write vulnerability** • **email flooding attacks** • **state sponsored campaign** • **seized servers linked** • **credential theft campaign** • **threat research center** • **poses significant risks** • **sophisticated phishing attacks** • **windows operating systems**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
 - [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
 - [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
 - [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
@@ -23,7 +24,6 @@
 - [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
 - [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
 - [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
-- [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
 
 ### BleepingComputer
 

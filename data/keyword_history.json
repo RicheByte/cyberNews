@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 315,
+      "count": 316,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -162,7 +162,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 518,
+      "count": 519,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -236,7 +236,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1003,
+      "count": 1004,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1923,7 +1923,7 @@
       ]
     },
     "bounds write vulnerability": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-02",
         "2026-03-13",
@@ -3209,7 +3209,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -5458,7 +5458,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 379,
+      "count": 380,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -8907,7 +8907,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9508,7 +9508,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -9590,7 +9590,7 @@
       ]
     },
     "onyx security launches": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9598,7 +9598,7 @@
       ]
     },
     "bold security emerges": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9606,7 +9606,7 @@
       ]
     },
     "iran mois colludes": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9620,7 +9620,7 @@
       ]
     },
     "seized servers linked": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9634,7 +9634,7 @@
       ]
     },
     "enhance cybersecurity awareness": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9642,7 +9642,7 @@
       ]
     },
     "credential theft campaign": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9676,7 +9676,7 @@
       ]
     },
     "will see instructions": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9684,7 +9684,7 @@
       ]
     },
     "state sponsored campaign": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9712,7 +9712,7 @@
       ]
     },
     "malicious zip files": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9720,21 +9720,21 @@
       ]
     },
     "sophisticated phishing attacks": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-14",
         "2026-03-15"
       ]
     },
     "appsflyer web sdk": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-14",
         "2026-03-15"
       ]
     },
     "wechat cncert noted": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-14",
         "2026-03-15"
@@ -9742,17 +9742,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-06 08:31",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "collecting encrypted data",
-        "russian state actors"
-      ]
-    },
     {
       "timestamp": "2026-03-06 10:29",
       "articles": 56,
@@ -10833,6 +10822,17 @@
     },
     {
       "timestamp": "2026-03-15 06:50",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "appsflyer web sdk",
+        "onyx security launches",
+        "bold security emerges",
+        "enhance cybersecurity awareness"
+      ]
+    },
+    {
+      "timestamp": "2026-03-15 08:30",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 321,
+      "count": 322,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -162,7 +162,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 524,
+      "count": 525,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -236,7 +236,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1009,
+      "count": 1010,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1923,7 +1923,7 @@
       ]
     },
     "bounds write vulnerability": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-02",
         "2026-03-13",
@@ -3209,7 +3209,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -5458,7 +5458,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 385,
+      "count": 386,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7740,7 +7740,7 @@
       ]
     },
     "victim's username password": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8908,7 +8908,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9509,7 +9509,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -9599,7 +9599,7 @@
       ]
     },
     "bold security emerges": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9607,7 +9607,7 @@
       ]
     },
     "iran mois colludes": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9635,7 +9635,7 @@
       ]
     },
     "enhance cybersecurity awareness": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9643,7 +9643,7 @@
       ]
     },
     "credential theft campaign": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9677,7 +9677,7 @@
       ]
     },
     "will see instructions": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9685,7 +9685,7 @@
       ]
     },
     "state sponsored campaign": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9713,7 +9713,7 @@
       ]
     },
     "malicious zip files": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9721,45 +9721,34 @@
       ]
     },
     "sophisticated phishing attacks": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-03-14",
         "2026-03-15"
       ]
     },
     "appsflyer web sdk": {
-      "count": 11,
-      "dates": [
-        "2026-03-14",
-        "2026-03-15"
-      ]
-    },
-    "wechat cncert noted": {
       "count": 12,
       "dates": [
         "2026-03-14",
         "2026-03-15"
       ]
     },
+    "wechat cncert noted": {
+      "count": 13,
+      "dates": [
+        "2026-03-14",
+        "2026-03-15"
+      ]
+    },
     "crafted html betterleaks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-15"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-06 20:26",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "lumma stealer malware",
-        "epower epower ie",
-        "overwrite arbitrary files"
-      ]
-    },
     {
       "timestamp": "2026-03-06 22:22",
       "articles": 56,
@@ -10840,6 +10829,17 @@
     },
     {
       "timestamp": "2026-03-15 18:31",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "appsflyer web sdk",
+        "bold security emerges",
+        "enhance cybersecurity awareness",
+        "will see instructions"
+      ]
+    },
+    {
+      "timestamp": "2026-03-15 20:22",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

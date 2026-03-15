@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-03-15 08:30",
+  "last_updated": "2026-03-15 10:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "appsflyer web sdk",
-    "onyx security launches",
     "bold security emerges",
     "enhance cybersecurity awareness",
     "will see instructions",
@@ -22,48 +21,49 @@
     "poses significant risks",
     "sophisticated phishing attacks",
     "windows operating systems",
-    "wechat cncert noted"
+    "wechat cncert noted",
+    "victim's username password"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 380
+      "mentions": 381
     },
     {
       "keyword": "appsflyer web sdk",
-      "mentions": 6
-    },
-    {
-      "keyword": "onyx security launches",
-      "mentions": 22
+      "mentions": 7
     },
     {
       "keyword": "bold security emerges",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "enhance cybersecurity awareness",
-      "mentions": 17
-    },
-    {
-      "keyword": "will see instructions",
       "mentions": 18
     },
     {
+      "keyword": "will see instructions",
+      "mentions": 19
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1004
+      "mentions": 1005
     },
     {
       "keyword": "iran mois colludes",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "malicious zip files",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 316
+      "mentions": 317
+    },
+    {
+      "keyword": "execute malicious code",
+      "mentions": 27
     }
   ],
   "articles": [
@@ -390,6 +390,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Loblaw Data Breach Impacts Customer Information",
+      "link": "https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/",
+      "summary": "Personal information such as names, email addresses, and phone numbers was accessed by hackers. The post Loblaw Data Breach Impacts Customer Information appeared first on SecurityWeek .",
+      "published": "Sun, 15 Mar 2026 10:00:00 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Critical HPE AOS-CX Vulnerability Allows Admin Password Resets",
       "link": "https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/",
       "summary": "The vulnerability can be exploited remotely, without authentication, to circumvent existing authentication controls. The post Critical HPE AOS-CX Vulnerability Allows Admin Password Resets appeared first on SecurityWeek .",
@@ -457,15 +468,6 @@
       "link": "https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/",
       "summary": "Evidence indicates that the attackers leveraged existing endpoint management software rather than malware to wipe devices. The post Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping appeared first on SecurityWeek .",
       "published": "Fri, 13 Mar 2026 10:38:47 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Onyx Security Launches With $40 Million in Funding",
-      "link": "https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/",
-      "summary": "The startup is building a control pane to help organizations oversee autonomous AI agents and rapidly adopt them. The post Onyx Security Launches With $40 Million in Funding appeared first on SecurityWeek .",
-      "published": "Fri, 13 Mar 2026 09:25:51 +0000",
       "value_score": 10,
       "value_signals": []
     },

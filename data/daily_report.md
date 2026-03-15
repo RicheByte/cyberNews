@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-15 08:30 UTC  
+> **Last Updated:** 2026-03-15 10:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **appsflyer web sdk** • **onyx security launches** • **bold security emerges** • **enhance cybersecurity awareness** • **will see instructions** • **twitter whistleblower complaint** • **iran mois colludes** • **malicious zip files** • **malicious cyber actors** • **execute malicious code** • **bounds write vulnerability** • **email flooding attacks** • **state sponsored campaign** • **seized servers linked** • **credential theft campaign** • **poses significant risks** • **sophisticated phishing attacks** • **windows operating systems** • **wechat cncert noted**
+**scattered lapsus shinyhunters** • **appsflyer web sdk** • **bold security emerges** • **enhance cybersecurity awareness** • **will see instructions** • **twitter whistleblower complaint** • **iran mois colludes** • **malicious zip files** • **malicious cyber actors** • **execute malicious code** • **bounds write vulnerability** • **email flooding attacks** • **state sponsored campaign** • **seized servers linked** • **credential theft campaign** • **poses significant risks** • **sophisticated phishing attacks** • **windows operating systems** • **wechat cncert noted** • **victim's username password**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Loblaw Data Breach Impacts Customer Information](https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/)
 - [Critical HPE AOS-CX Vulnerability Allows Admin Password Resets](https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/)
 - [Starbucks Data Breach Impacts Employees](https://www.securityweek.com/starbucks-data-breach-impacts-employees/)
 - [In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown](https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/)
@@ -67,7 +68,6 @@
 - [Bold Security Emerges From Stealth With $40 Million in Funding](https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/)
 - [Google Paid Out $17 Million in Bug Bounty Rewards in 2025](https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/)
 - [Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping](https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/)
-- [Onyx Security Launches With $40 Million in Funding](https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/)
 
 ### Threatpost
 

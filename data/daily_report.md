@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-16 14:55 UTC  
+> **Last Updated:** 2026-03-16 16:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **glassworm aftermath hundreds** • **hacking attempt reported** • **appsflyer web sdk** • **execute malicious code** • **will see instructions** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **overlooked potential hazards** • **openai told bleepingcomputer** • **even swatting executives** • **anti abuse activists** • **malicious cyber actors** • **sophisticated phishing attacks** • **poses significant risks** • **sprawling phishing campaign** • **email flooding attacks** • **state sponsored campaign** • **prior campaign mounted**
+**scattered lapsus shinyhunters** • **oracle ebs hack** • **hacking attempt reported** • **appsflyer web sdk** • **glassworm aftermath hundreds** • **overlooked potential hazards** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **openai told bleepingcomputer** • **even swatting executives** • **execute malicious code** • **sophisticated phishing attacks** • **popular online destinations** • **poses significant risks** • **sprawling phishing campaign** • **post quantum world** • **malicious cyber actors** • **email flooding attacks** • **state sponsored campaign**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
 - [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
 - [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
 - [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
@@ -23,10 +24,10 @@
 - [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
 - [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
 - [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
-- [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
 
 ### BleepingComputer
 
+- [Microsoft Exchange Online outage blocks access to mailboxes](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/)
 - [Shadow AI is everywhere. Here’s how to find and secure it.](https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/)
 - [Microsoft pulls Samsung app blocking Windows C: drive from Store](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/)
 - [OpenAI says ChatGPT ads are not rolling out globally for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/)
@@ -34,7 +35,6 @@
 - [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
 - [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
 - [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
-- [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Attackers Abuse LiveChat to Phish Credit Card, Personal Data](https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data)
 - [Fake PoCs, Misunderstood Risks Cause Cisco SD-WAN Chaos](https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan)
 - [The Data Gap: Why Nonprofit Cyber Incidents Go Underreported](https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported)
 - [Cyberattackers Don't Care About Good Causes](https://www.darkreading.com/cyber-risk/cyberattackers-dont-care-about-good-causes)
@@ -56,10 +57,10 @@
 - [Most Google Cloud Attacks Start With Bug Exploitation](https://www.darkreading.com/cloud-security/google-cloud-attacks-bug-exploitation)
 - [Real-Time Banking Trojan Strikes Brazil's Pix Users](https://www.darkreading.com/application-security/real-time-banking-trojan-strikes-brazils-pix-users)
 - [Why Post-Quantum Cryptography Can't Wait](https://www.darkreading.com/cyber-risk/why-post-quantum-cryptography-cant-wait)
-- [Iran MOIS Colludes With Criminals to Boost Cyberattacks](https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks)
 
 ### Security Week
 
+- [Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact](https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/)
 - [Security Firm Executive Targeted in Sophisticated Phishing Attack](https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/)
 - [China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation](https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/)
 - [Threat Actor Targeting VPN Users in New Credential Theft Campaign](https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/)
@@ -67,7 +68,6 @@
 - [Hacking Attempt Reported at Poland’s Nuclear Research Center](https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/)
 - [Loblaw Data Breach Impacts Customer Information](https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/)
 - [Critical HPE AOS-CX Vulnerability Allows Admin Password Resets](https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/)
-- [Starbucks Data Breach Impacts Employees](https://www.securityweek.com/starbucks-data-breach-impacts-employees/)
 
 ### Threatpost
 

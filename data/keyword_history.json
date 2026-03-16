@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 330,
+      "count": 331,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -238,7 +238,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1018,
+      "count": 1019,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1529,7 +1529,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3214,7 +3214,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -5464,7 +5464,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 394,
+      "count": 395,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5525,7 +5525,7 @@
       ]
     },
     "even swatting executives": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7848,7 +7848,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7856,7 +7856,8 @@
         "2026-03-02",
         "2026-03-03",
         "2026-03-04",
-        "2026-03-05"
+        "2026-03-05",
+        "2026-03-16"
       ]
     },
     "hacktivist group believed": {
@@ -8918,7 +8919,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9520,7 +9521,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -9703,7 +9704,7 @@
       ]
     },
     "state sponsored campaign": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9741,7 +9742,7 @@
       ]
     },
     "sophisticated phishing attacks": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-14",
         "2026-03-15",
@@ -9749,7 +9750,7 @@
       ]
     },
     "appsflyer web sdk": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-14",
         "2026-03-15",
@@ -9771,13 +9772,13 @@
       ]
     },
     "hacking attempt reported": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-16"
       ]
     },
     "ukrainian defense forces": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-16"
       ]
@@ -9795,24 +9796,36 @@
       ]
     },
     "glassworm aftermath hundreds": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-16"
       ]
     },
     "patient espionage operation": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-16"
       ]
     },
     "openai told bleepingcomputer": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-16"
       ]
     },
     "overlooked potential hazards": {
+      "count": 2,
+      "dates": [
+        "2026-03-16"
+      ]
+    },
+    "oracle ebs hack": {
+      "count": 1,
+      "dates": [
+        "2026-03-16"
+      ]
+    },
+    "post quantum world": {
       "count": 1,
       "dates": [
         "2026-03-16"
@@ -9820,17 +9833,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-07 14:19",
-      "articles": 48,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "labkotec lid 3300ip",
-        "windows operating systems"
-      ]
-    },
     {
       "timestamp": "2026-03-07 16:21",
       "articles": 48,
@@ -10918,6 +10920,17 @@
         "hacking attempt reported",
         "appsflyer web sdk",
         "execute malicious code"
+      ]
+    },
+    {
+      "timestamp": "2026-03-16 16:57",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "oracle ebs hack",
+        "hacking attempt reported",
+        "appsflyer web sdk",
+        "glassworm aftermath hundreds"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-16 16:57 UTC  
+> **Last Updated:** 2026-03-16 18:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **oracle ebs hack** • **hacking attempt reported** • **appsflyer web sdk** • **glassworm aftermath hundreds** • **overlooked potential hazards** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **openai told bleepingcomputer** • **even swatting executives** • **execute malicious code** • **sophisticated phishing attacks** • **popular online destinations** • **poses significant risks** • **sprawling phishing campaign** • **post quantum world** • **malicious cyber actors** • **email flooding attacks** • **state sponsored campaign**
+**scattered lapsus shinyhunters** • **oracle ebs hack** • **hacking attempt reported** • **glassworm aftermath hundreds** • **execute malicious code** • **overlooked potential hazards** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **openai told bleepingcomputer** • **even swatting executives** • **sophisticated phishing attacks** • **malicious cyber actors** • **email flooding attacks** • **poses significant risks** • **sprawling phishing campaign** • **post quantum world** • **state sponsored campaign** • **prior campaign mounted** • **windows operating systems**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [CISA flags Wing FTP Server flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/)
+- [UK’s Companies House confirms security flaw exposed business data](https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/)
 - [Microsoft Exchange Online outage blocks access to mailboxes](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/)
 - [Shadow AI is everywhere. Here’s how to find and secure it.](https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/)
 - [Microsoft pulls Samsung app blocking Windows C: drive from Store](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/)
 - [OpenAI says ChatGPT ads are not rolling out globally for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/)
 - [Betterleaks, a new open-source secrets scanner to replace Gitleaks](https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/)
 - [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
-- [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
-- [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Siemens SIDIS Prime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-03)
 - [Siemens RUGGEDCOM APE1808 Devices](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-02)
 - [Siemens SIMATIC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-04)
 - [Trane Tracer SC, Tracer SC+, and Tracer Concierge](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-01)
-- [Inductive Automation Ignition Software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-06)
 - [Siemens Heliox EV Chargers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-05)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [Inductive Automation Ignition Software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-06)
 
 ---
 

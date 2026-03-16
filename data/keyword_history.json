@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 331,
+      "count": 332,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -163,7 +163,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 532,
+      "count": 533,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -238,7 +238,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1019,
+      "count": 1020,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1529,7 +1529,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 193,
+      "count": 194,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3214,7 +3214,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -5464,7 +5464,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 395,
+      "count": 396,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5525,7 +5525,7 @@
       ]
     },
     "even swatting executives": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -8919,7 +8919,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9521,7 +9521,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -9704,7 +9704,7 @@
       ]
     },
     "state sponsored campaign": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9742,7 +9742,7 @@
       ]
     },
     "sophisticated phishing attacks": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-03-14",
         "2026-03-15",
@@ -9772,19 +9772,19 @@
       ]
     },
     "hacking attempt reported": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-16"
       ]
     },
     "ukrainian defense forces": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-16"
       ]
     },
     "prior campaign mounted": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-16"
       ]
@@ -9796,54 +9796,43 @@
       ]
     },
     "glassworm aftermath hundreds": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-16"
       ]
     },
     "patient espionage operation": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-16"
       ]
     },
     "openai told bleepingcomputer": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-16"
       ]
     },
     "overlooked potential hazards": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-16"
       ]
     },
     "oracle ebs hack": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-16"
       ]
     },
     "post quantum world": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-16"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-07 16:21",
-      "articles": 48,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "labkotec lid 3300ip",
-        "windows operating systems"
-      ]
-    },
     {
       "timestamp": "2026-03-07 18:26",
       "articles": 56,
@@ -10931,6 +10920,17 @@
         "hacking attempt reported",
         "appsflyer web sdk",
         "glassworm aftermath hundreds"
+      ]
+    },
+    {
+      "timestamp": "2026-03-16 18:55",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "oracle ebs hack",
+        "hacking attempt reported",
+        "glassworm aftermath hundreds",
+        "execute malicious code"
       ]
     }
   ]

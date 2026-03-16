@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-16 16:57",
+  "last_updated": "2026-03-16 18:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "oracle ebs hack",
     "hacking attempt reported",
-    "appsflyer web sdk",
     "glassworm aftermath hundreds",
+    "execute malicious code",
     "overlooked potential hazards",
     "ukrainian defense forces",
     "twitter whistleblower complaint",
     "patient espionage operation",
     "openai told bleepingcomputer",
     "even swatting executives",
-    "execute malicious code",
     "sophisticated phishing attacks",
-    "popular online destinations",
+    "malicious cyber actors",
+    "email flooding attacks",
     "poses significant risks",
     "sprawling phishing campaign",
     "post quantum world",
-    "malicious cyber actors",
-    "email flooding attacks",
-    "state sponsored campaign"
+    "state sponsored campaign",
+    "prior campaign mounted",
+    "windows operating systems"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 395
+      "mentions": 396
     },
     {
       "keyword": "oracle ebs hack",
-      "mentions": 1
-    },
-    {
-      "keyword": "hacking attempt reported",
-      "mentions": 4
-    },
-    {
-      "keyword": "appsflyer web sdk",
-      "mentions": 21
-    },
-    {
-      "keyword": "glassworm aftermath hundreds",
-      "mentions": 3
-    },
-    {
-      "keyword": "overlooked potential hazards",
       "mentions": 2
     },
     {
-      "keyword": "ukrainian defense forces",
+      "keyword": "hacking attempt reported",
+      "mentions": 5
+    },
+    {
+      "keyword": "glassworm aftermath hundreds",
       "mentions": 4
     },
     {
+      "keyword": "execute malicious code",
+      "mentions": 42
+    },
+    {
+      "keyword": "overlooked potential hazards",
+      "mentions": 3
+    },
+    {
+      "keyword": "ukrainian defense forces",
+      "mentions": 5
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1019
+      "mentions": 1020
     },
     {
       "keyword": "patient espionage operation",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "openai told bleepingcomputer",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -147,6 +147,31 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
+      "summary": "CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
+      "published": "Mon, 16 Mar 2026 14:00:22 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "Active exploitation ×2",
+        "RCE",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "UK’s Companies House confirms security flaw exposed business data",
+      "link": "https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/",
+      "summary": "Companies House, a British government agency that operates the registry for all U.K. companies, says its WebFiling service is back online after it was closed on Friday to fix a security flaw that exposed companies' information since October 2025. [...]",
+      "published": "Mon, 16 Mar 2026 13:07:25 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft Exchange Online outage blocks access to mailboxes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/",
       "summary": "Microsoft is working to address an ongoing Exchange Online outage that is preventing customers from accessing their mailboxes and calendars. [...]",
@@ -201,24 +226,6 @@
         "RCE",
         "Patch/update ×4"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
-      "link": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
-      "summary": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack. [...]",
-      "published": "Sat, 14 Mar 2026 10:36:42 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/",
-      "summary": "Microsoft is investigating a new issue affecting some Samsung laptops running Windows 11 after installing the February 2026 security updates, in which users lose access to their C:\\ drive and are unable to launch applications. [...]",
-      "published": "Fri, 13 Mar 2026 18:11:57 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -547,6 +554,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-47813 Wing FTP Server Information Disclosure Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known",
+      "published": "Mon, 16 Mar 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability CVE-2026-3910 Google Chromium V8 Unspecified Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabiliti",
@@ -614,19 +635,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Inductive Automation Ignition Software",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-06",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute malicious code with OS application service account permissions that the authenticated, privileged application user did not intend on running. The following versions of Inductive Automation Ignition Software are affected: Ignition Software <8.3.0 (CVE-2025-13913) CVSS Vendor Equipment Vulnerabilities v3 6.3 Inductive Automation Inductive Automation Ignition Software Deserialization of Untrusted Data",
-      "published": "Thu, 12 Mar 26 12:00:00 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Siemens Heliox EV Chargers",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-05",
       "summary": "View CSAF Summary Heliox EV Chargers listed below contain improper access control vulnerability that could allow an attacker to reach unauthorized services via the charging cable. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Heliox EV Chargers are affected: Heliox Flex 180 kW EV Charging Station Heliox Mobile DC 40 kW EV Charging Station CVSS Vendor Equipment Vulnerabilities v3 2.6 Siemens Siemens H",
@@ -639,15 +647,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-68613 n8n Improper Control of Dynamically-Managed Code Resources Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a ",
-      "published": "Wed, 11 Mar 26 12:00:00 +0000",
-      "value_score": 99,
+      "title": "Inductive Automation Ignition Software",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-06",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute malicious code with OS application service account permissions that the authenticated, privileged application user did not intend on running. The following versions of Inductive Automation Ignition Software are affected: Ignition Software <8.3.0 (CVE-2025-13913) CVSS Vendor Equipment Vulnerabilities v3 6.3 Inductive Automation Inductive Automation Ignition Software Deserialization of Untrusted Data",
+      "published": "Thu, 12 Mar 26 12:00:00 +0000",
+      "value_score": 59,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
-        "CISA/KEV ×6",
         "Exploit wording"
       ]
     }

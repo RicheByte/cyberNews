@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-15 22:21 UTC  
+> **Last Updated:** 2026-03-16 01:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **appsflyer web sdk** • **bold security emerges** • **enhance cybersecurity awareness** • **will see instructions** • **twitter whistleblower complaint** • **iran mois colludes** • **crafted html betterleaks** • **malicious zip files** • **malicious cyber actors** • **execute malicious code** • **bounds write vulnerability** • **email flooding attacks** • **state sponsored campaign** • **credential theft campaign** • **poses significant risks** • **sophisticated phishing attacks** • **windows operating systems** • **wechat cncert noted** • **victim's username password**
+**scattered lapsus shinyhunters** • **appsflyer web sdk** • **bold security emerges** • **enhance cybersecurity awareness** • **will see instructions** • **twitter whistleblower complaint** • **iran mois colludes** • **even swatting executives** • **malicious zip files** • **malicious cyber actors** • **execute malicious code** • **bounds write vulnerability** • **email flooding attacks** • **state sponsored campaign** • **credential theft campaign** • **sophisticated phishing attacks** • **windows operating systems** • **wechat cncert noted** • **victim's username password** • **v4 0 800**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [OpenAI says ChatGPT ads are not rolling out globally for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/)
 - [Betterleaks, a new open-source secrets scanner to replace Gitleaks](https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/)
 - [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
 - [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
@@ -34,7 +35,6 @@
 - [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
 - [Poland's nuclear research centre targeted by cyberattack](https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/)
 - [Microsoft investigates classic Outlook sync and connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/)
-- [From VMware to what’s next: Protecting data during hypervisor migration](https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/)
 
 ### Krebs on Security
 

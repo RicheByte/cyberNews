@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15 22:21",
+  "last_updated": "2026-03-16 01:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,7 +10,7 @@
     "will see instructions",
     "twitter whistleblower complaint",
     "iran mois colludes",
-    "crafted html betterleaks",
+    "even swatting executives",
     "malicious zip files",
     "malicious cyber actors",
     "execute malicious code",
@@ -18,52 +18,52 @@
     "email flooding attacks",
     "state sponsored campaign",
     "credential theft campaign",
-    "poses significant risks",
     "sophisticated phishing attacks",
     "windows operating systems",
     "wechat cncert noted",
-    "victim's username password"
+    "victim's username password",
+    "v4 0 800"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 387
+      "mentions": 388
     },
     {
       "keyword": "appsflyer web sdk",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "bold security emerges",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "enhance cybersecurity awareness",
-      "mentions": 24
-    },
-    {
-      "keyword": "will see instructions",
       "mentions": 25
     },
     {
+      "keyword": "will see instructions",
+      "mentions": 26
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1011
+      "mentions": 1012
     },
     {
       "keyword": "iran mois colludes",
-      "mentions": 28
+      "mentions": 29
     },
     {
-      "keyword": "crafted html betterleaks",
-      "mentions": 5
+      "keyword": "even swatting executives",
+      "mentions": 22
     },
     {
       "keyword": "malicious zip files",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 323
+      "mentions": 324
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI says ChatGPT ads are not rolling out globally for now",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
+      "summary": "OpenAI told BleepingComputer that ChatGPT ads on Free and Go plans are not yet rolling out outside the United States, even though some users noticed references to ads in the updated privacy policy. [...]",
+      "published": "Sun, 15 Mar 2026 19:13:28 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Betterleaks, a new open-source secrets scanner to replace Gitleaks",
       "link": "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/",
       "summary": "A new open-source tool called Betterleaks can scan directories, files, and git repositories and identify valid secrets using default or customized rules. [...]",
@@ -213,15 +222,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/",
       "summary": "​Microsoft is investigating several issues causing email synchronization and connection problems when using the classic Outlook desktop client. [...]",
       "published": "Fri, 13 Mar 2026 12:53:02 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "From VMware to what’s next: Protecting data during hypervisor migration",
-      "link": "https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/",
-      "summary": "Hypervisor migrations can introduce hidden risks that threaten data availability and recovery. Acronis explains why verified backups and cross-platform recovery are essential during VMware transitions. [...]",
-      "published": "Fri, 13 Mar 2026 10:15:25 -0400",
       "value_score": 10,
       "value_signals": []
     },

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 327,
+      "count": 328,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -163,7 +163,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 530,
+      "count": 531,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -238,7 +238,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1015,
+      "count": 1016,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -5462,7 +5462,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 391,
+      "count": 392,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5523,7 +5523,7 @@
       ]
     },
     "even swatting executives": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7915,7 +7915,7 @@
       ]
     },
     "anti abuse activists": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -8916,7 +8916,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9518,7 +9518,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -9610,7 +9610,7 @@
       ]
     },
     "bold security emerges": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9657,7 +9657,7 @@
       ]
     },
     "credential theft campaign": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9692,7 +9692,7 @@
       ]
     },
     "will see instructions": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9701,7 +9701,7 @@
       ]
     },
     "state sponsored campaign": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9730,7 +9730,7 @@
       ]
     },
     "malicious zip files": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9739,7 +9739,7 @@
       ]
     },
     "sophisticated phishing attacks": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-14",
         "2026-03-15",
@@ -9747,7 +9747,7 @@
       ]
     },
     "appsflyer web sdk": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-14",
         "2026-03-15",
@@ -9755,7 +9755,7 @@
       ]
     },
     "wechat cncert noted": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-14",
         "2026-03-15",
@@ -9767,20 +9767,33 @@
       "dates": [
         "2026-03-15"
       ]
+    },
+    "hacking attempt reported": {
+      "count": 1,
+      "dates": [
+        "2026-03-16"
+      ]
+    },
+    "ukrainian defense forces": {
+      "count": 1,
+      "dates": [
+        "2026-03-16"
+      ]
+    },
+    "prior campaign mounted": {
+      "count": 1,
+      "dates": [
+        "2026-03-16"
+      ]
+    },
+    "void blizzard aimed": {
+      "count": 1,
+      "dates": [
+        "2026-03-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-07 08:24",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "lumma stealer malware",
-        "epower epower ie",
-        "overwrite arbitrary files"
-      ]
-    },
     {
       "timestamp": "2026-03-07 10:18",
       "articles": 56,
@@ -10867,6 +10880,17 @@
         "appsflyer web sdk",
         "bold security emerges",
         "enhance cybersecurity awareness",
+        "will see instructions"
+      ]
+    },
+    {
+      "timestamp": "2026-03-16 10:49",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "hacking attempt reported",
+        "appsflyer web sdk",
+        "bold security emerges",
         "will see instructions"
       ]
     }

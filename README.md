@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-16 08:50 UTC |
+| 🕐 Last Updated | 2026-03-16 10:49 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `appsflyer web sdk` • `bold security emerges` • `enhance cybersecurity awareness` • `will see instructions` • `twitter whistleblower complaint` • `iran mois colludes` • `even swatting executives` • `anti abuse activists` • `malicious zip files`
+`scattered lapsus shinyhunters` • `hacking attempt reported` • `appsflyer web sdk` • `bold security emerges` • `will see instructions` • `ukrainian defense forces` • `twitter whistleblower complaint` • `even swatting executives` • `anti abuse activists` • `malicious zip files`
 
 ## 📄 Reports
 

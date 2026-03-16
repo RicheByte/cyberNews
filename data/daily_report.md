@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-16 04:42 UTC  
+> **Last Updated:** 2026-03-16 07:10 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **appsflyer web sdk** • **bold security emerges** • **enhance cybersecurity awareness** • **will see instructions** • **twitter whistleblower complaint** • **iran mois colludes** • **even swatting executives** • **malicious zip files** • **malicious cyber actors** • **execute malicious code** • **bounds write vulnerability** • **email flooding attacks** • **state sponsored campaign** • **credential theft campaign** • **sophisticated phishing attacks** • **windows operating systems** • **wechat cncert noted** • **victim's username password** • **v4 0 800**
+**scattered lapsus shinyhunters** • **appsflyer web sdk** • **bold security emerges** • **enhance cybersecurity awareness** • **will see instructions** • **twitter whistleblower complaint** • **iran mois colludes** • **even swatting executives** • **anti abuse activists** • **malicious zip files** • **malicious cyber actors** • **execute malicious code** • **email flooding attacks** • **state sponsored campaign** • **credential theft campaign** • **sophisticated phishing attacks** • **windows operating systems** • **wechat cncert noted** • **victim's username password** • **v4 0 800**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
 - [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
 - [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
 - [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
@@ -23,7 +24,6 @@
 - [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
 - [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
 - [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
-- [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
 
 ### BleepingComputer
 

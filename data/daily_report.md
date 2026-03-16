@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-16 20:33 UTC  
+> **Last Updated:** 2026-03-16 22:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **oracle ebs hack** • **remotely wiped tens** • **hacking attempt reported** • **execute malicious code** • **overlooked potential hazards** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **openai told bleepingcomputer** • **even swatting executives** • **sophisticated phishing attacks** • **malicious cyber actors** • **email flooding attacks** • **appending obfuscated code** • **glassworm malware campaign** • **poses significant risks** • **sprawling phishing campaign** • **medtech firm stryker** • **prior campaign mounted**
+**scattered lapsus shinyhunters** • **oracle ebs hack** • **remotely wiped tens** • **hacking attempt reported** • **overlooked potential hazards** • **execute malicious code** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **openai told bleepingcomputer** • **even swatting executives** • **sophisticated phishing attacks** • **malicious glassworm extensions** • **email flooding attacks** • **appending obfuscated code** • **poses significant risks** • **malicious cyber actors** • **medtech firm stryker** • **sprawling phishing campaign** • **glassworm malware evolves**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [GlassWorm Malware Evolves to Hide in Dependencies](https://www.darkreading.com/application-security/glassworm-malware-evolves-hide-dependencies)
 - [Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026](https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026)
 - [Attackers Abuse LiveChat to Phish Credit Card, Personal Data](https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data)
 - [Fake PoCs, Misunderstood Risks Cause Cisco SD-WAN Chaos](https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan)
@@ -56,7 +57,6 @@
 - [Cyberattackers Don't Care About Good Causes](https://www.darkreading.com/cyber-risk/cyberattackers-dont-care-about-good-causes)
 - [Will AI Save Consumers From Smartphone-Based Phishing Attacks?](https://www.darkreading.com/mobile-security/will-ai-save-consumers-smartphone-phishing-attacks)
 - [Most Google Cloud Attacks Start With Bug Exploitation](https://www.darkreading.com/cloud-security/google-cloud-attacks-bug-exploitation)
-- [Real-Time Banking Trojan Strikes Brazil's Pix Users](https://www.darkreading.com/application-security/real-time-banking-trojan-strikes-brazils-pix-users)
 
 ### Security Week
 

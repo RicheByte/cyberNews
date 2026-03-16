@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16 20:33",
+  "last_updated": "2026-03-16 22:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "oracle ebs hack",
     "remotely wiped tens",
     "hacking attempt reported",
-    "execute malicious code",
     "overlooked potential hazards",
+    "execute malicious code",
     "ukrainian defense forces",
     "twitter whistleblower complaint",
     "patient espionage operation",
     "openai told bleepingcomputer",
     "even swatting executives",
     "sophisticated phishing attacks",
-    "malicious cyber actors",
+    "malicious glassworm extensions",
     "email flooding attacks",
     "appending obfuscated code",
-    "glassworm malware campaign",
     "poses significant risks",
-    "sprawling phishing campaign",
+    "malicious cyber actors",
     "medtech firm stryker",
-    "prior campaign mounted"
+    "sprawling phishing campaign",
+    "glassworm malware evolves"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 397
+      "mentions": 398
     },
     {
       "keyword": "oracle ebs hack",
-      "mentions": 3
-    },
-    {
-      "keyword": "remotely wiped tens",
-      "mentions": 1
-    },
-    {
-      "keyword": "hacking attempt reported",
-      "mentions": 6
-    },
-    {
-      "keyword": "execute malicious code",
-      "mentions": 43
-    },
-    {
-      "keyword": "overlooked potential hazards",
       "mentions": 4
     },
     {
+      "keyword": "remotely wiped tens",
+      "mentions": 2
+    },
+    {
+      "keyword": "hacking attempt reported",
+      "mentions": 7
+    },
+    {
+      "keyword": "overlooked potential hazards",
+      "mentions": 5
+    },
+    {
+      "keyword": "execute malicious code",
+      "mentions": 44
+    },
+    {
       "keyword": "ukrainian defense forces",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1021
+      "mentions": 1022
     },
     {
       "keyword": "patient espionage operation",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "openai told bleepingcomputer",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -312,6 +312,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "GlassWorm Malware Evolves to Hide in Dependencies",
+      "link": "https://www.darkreading.com/application-security/glassworm-malware-evolves-hide-dependencies",
+      "summary": "Researchers have identified dozens of malicious GlassWorm extensions that come with new evasion techniques.",
+      "published": "Mon, 16 Mar 2026 20:30:04 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026",
       "link": "https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026",
       "summary": "Discover how Franz Regul, former CISO for the Paris 2024 Olympics, tackled unique cybersecurity challenges to protect the Olympics from evolving threats.",
@@ -377,15 +386,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Real-Time Banking Trojan Strikes Brazil's Pix Users",
-      "link": "https://www.darkreading.com/application-security/real-time-banking-trojan-strikes-brazils-pix-users",
-      "summary": "The latest banking Trojan campaign to hit Brazil combines classic malware with a real-time human operator, waiting for the perfect moment to strike.",
-      "published": "Fri, 13 Mar 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

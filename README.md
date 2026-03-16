@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-16 12:59 UTC |
+| 🕐 Last Updated | 2026-03-16 14:55 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `glassworm aftermath hundreds` • `hacking attempt reported` • `appsflyer web sdk` • `execute malicious code` • `will see instructions` • `ukrainian defense forces` • `twitter whistleblower complaint` • `patient espionage operation` • `openai told bleepingcomputer`
+`scattered lapsus shinyhunters` • `glassworm aftermath hundreds` • `hacking attempt reported` • `appsflyer web sdk` • `execute malicious code` • `will see instructions` • `ukrainian defense forces` • `twitter whistleblower complaint` • `patient espionage operation` • `overlooked potential hazards`
 
 ## 📄 Reports
 

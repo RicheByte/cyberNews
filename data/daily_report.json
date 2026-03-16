@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16 12:59",
+  "last_updated": "2026-03-16 14:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,57 +12,57 @@
     "ukrainian defense forces",
     "twitter whistleblower complaint",
     "patient espionage operation",
+    "overlooked potential hazards",
     "openai told bleepingcomputer",
     "even swatting executives",
     "anti abuse activists",
     "malicious cyber actors",
     "sophisticated phishing attacks",
+    "poses significant risks",
+    "sprawling phishing campaign",
     "email flooding attacks",
     "state sponsored campaign",
-    "sprawling phishing campaign",
-    "prior campaign mounted",
-    "windows operating systems",
-    "wechat cncert noted"
+    "prior campaign mounted"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 393
+      "mentions": 394
     },
     {
       "keyword": "glassworm aftermath hundreds",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "hacking attempt reported",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "appsflyer web sdk",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "execute malicious code",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "will see instructions",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "ukrainian defense forces",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1017
+      "mentions": 1018
     },
     {
       "keyword": "patient espionage operation",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "openai told bleepingcomputer",
+      "keyword": "overlooked potential hazards",
       "mentions": 1
     }
   ],
@@ -147,6 +147,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Shadow AI is everywhere. Here’s how to find and secure it.",
+      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/",
+      "summary": "Shadow AI is quietly spreading across SaaS environments as employees adopt new AI tools without IT oversight. Nudge Security explains how security teams can discover AI apps, monitor usage, and govern risky AI activity. [...]",
+      "published": "Mon, 16 Mar 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft pulls Samsung app blocking Windows C: drive from Store",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/",
+      "summary": "​Microsoft has removed the Samsung Galaxy Connect app from the Microsoft Store because it was causing issues on specific Samsung Galaxy Book 4 and desktop models running Windows 11. [...]",
+      "published": "Mon, 16 Mar 2026 09:14:32 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "OpenAI says ChatGPT ads are not rolling out globally for now",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
       "summary": "OpenAI told BleepingComputer that ChatGPT ads on Free and Go plans are not yet rolling out outside the United States, even though some users noticed references to ads in the updated privacy policy. [...]",
@@ -199,24 +217,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/",
       "summary": "The FBI is asking gamers who installed Steam titles containing malware to provide information as part of an ongoing investigation into eight malicious games uploaded to the gaming platform. [...]",
       "published": "Fri, 13 Mar 2026 16:52:31 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Poland's nuclear research centre targeted by cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/",
-      "summary": "Poland's National Centre for Nuclear Research (NCBJ) says hackers targeted its IT infrastructure, but the attack was detected and blocked before causing any impact. [...]",
-      "published": "Fri, 13 Mar 2026 13:11:37 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft investigates classic Outlook sync and connection issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/",
-      "summary": "​Microsoft is investigating several issues causing email synchronization and connection problems when using the classic Outlook desktop client. [...]",
-      "published": "Fri, 13 Mar 2026 12:53:02 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -310,7 +310,7 @@
       "source": "Dark Reading",
       "title": "Fake PoCs, Misunderstood Risks Cause Cisco SD-WAN Chaos",
       "link": "https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan",
-      "summary": "The excitement around Cisco's latest SD-WAN bugs has inspired some light fraud, misunderstandings, and overlooked risks.",
+      "summary": "The excitement around Cisco's latest SD-WAN bugs has inspired some light fraud, misunderstandings, and overlooked potential hazards.",
       "published": "Fri, 13 Mar 2026 19:19:38 GMT",
       "value_score": 10,
       "value_signals": []
@@ -385,6 +385,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Security Firm Executive Targeted in Sophisticated Phishing Attack",
+      "link": "https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/",
+      "summary": "The attackers used a DKIM-signed phishing email, trusted redirect infrastructure, compromised servers, and Cloudflare-protected phishing pages. The post Security Firm Executive Targeted in Sophisticated Phishing Attack appeared first on SecurityWeek .",
+      "published": "Mon, 16 Mar 2026 14:39:52 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×4"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation",
       "link": "https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/",
       "summary": "The state-sponsored hackers deployed custom tools and stayed dormant in the compromised environments for months. The post China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation appeared first on SecurityWeek .",
@@ -452,18 +463,6 @@
       "value_signals": [
         "Breach/leak ×2",
         "Phishing"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown",
-      "link": "https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Telus Digital data breach, vulnerabilities in Linux AppArmor allow root privileges, US defense contractor behind Coruna exploits. The post In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown appeared first on SecurityWeek .",
-      "published": "Fri, 13 Mar 2026 14:27:12 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
       ]
     },
     {

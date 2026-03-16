@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 329,
+      "count": 330,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -238,7 +238,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1017,
+      "count": 1018,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1529,7 +1529,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 191,
+      "count": 192,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3214,12 +3214,13 @@
       ]
     },
     "poses significant risks": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-14",
         "2026-03-13",
         "2026-03-14",
-        "2026-03-15"
+        "2026-03-15",
+        "2026-03-16"
       ]
     },
     "pose significant risks": {
@@ -5463,7 +5464,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 393,
+      "count": 394,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5524,7 +5525,7 @@
       ]
     },
     "even swatting executives": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7916,7 +7917,7 @@
       ]
     },
     "anti abuse activists": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -8917,7 +8918,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9519,7 +9520,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -9693,7 +9694,7 @@
       ]
     },
     "will see instructions": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9702,7 +9703,7 @@
       ]
     },
     "state sponsored campaign": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -9740,7 +9741,7 @@
       ]
     },
     "sophisticated phishing attacks": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-03-14",
         "2026-03-15",
@@ -9748,7 +9749,7 @@
       ]
     },
     "appsflyer web sdk": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-14",
         "2026-03-15",
@@ -9770,19 +9771,19 @@
       ]
     },
     "hacking attempt reported": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-16"
       ]
     },
     "ukrainian defense forces": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-16"
       ]
     },
     "prior campaign mounted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-16"
       ]
@@ -9794,18 +9795,24 @@
       ]
     },
     "glassworm aftermath hundreds": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-16"
       ]
     },
     "patient espionage operation": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-16"
       ]
     },
     "openai told bleepingcomputer": {
+      "count": 2,
+      "dates": [
+        "2026-03-16"
+      ]
+    },
+    "overlooked potential hazards": {
       "count": 1,
       "dates": [
         "2026-03-16"
@@ -9813,17 +9820,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-07 12:36",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "lumma stealer malware",
-        "epower epower ie",
-        "overwrite arbitrary files"
-      ]
-    },
     {
       "timestamp": "2026-03-07 14:19",
       "articles": 48,
@@ -10904,6 +10900,17 @@
     },
     {
       "timestamp": "2026-03-16 12:59",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "glassworm aftermath hundreds",
+        "hacking attempt reported",
+        "appsflyer web sdk",
+        "execute malicious code"
+      ]
+    },
+    {
+      "timestamp": "2026-03-16 14:55",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-16 12:59 UTC  
+> **Last Updated:** 2026-03-16 14:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **glassworm aftermath hundreds** • **hacking attempt reported** • **appsflyer web sdk** • **execute malicious code** • **will see instructions** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **openai told bleepingcomputer** • **even swatting executives** • **anti abuse activists** • **malicious cyber actors** • **sophisticated phishing attacks** • **email flooding attacks** • **state sponsored campaign** • **sprawling phishing campaign** • **prior campaign mounted** • **windows operating systems** • **wechat cncert noted**
+**scattered lapsus shinyhunters** • **glassworm aftermath hundreds** • **hacking attempt reported** • **appsflyer web sdk** • **execute malicious code** • **will see instructions** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **overlooked potential hazards** • **openai told bleepingcomputer** • **even swatting executives** • **anti abuse activists** • **malicious cyber actors** • **sophisticated phishing attacks** • **poses significant risks** • **sprawling phishing campaign** • **email flooding attacks** • **state sponsored campaign** • **prior campaign mounted**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Shadow AI is everywhere. Here’s how to find and secure it.](https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/)
+- [Microsoft pulls Samsung app blocking Windows C: drive from Store](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/)
 - [OpenAI says ChatGPT ads are not rolling out globally for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/)
 - [Betterleaks, a new open-source secrets scanner to replace Gitleaks](https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/)
 - [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
 - [AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code](https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/)
 - [Microsoft: Windows 11 users can't access C: drive on some Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/)
 - [FBI seeks victims of Steam games used to spread malware](https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/)
-- [Poland's nuclear research centre targeted by cyberattack](https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/)
-- [Microsoft investigates classic Outlook sync and connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Security Firm Executive Targeted in Sophisticated Phishing Attack](https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/)
 - [China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation](https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/)
 - [Threat Actor Targeting VPN Users in New Credential Theft Campaign](https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/)
 - [ForceMemo: Python Repositories Compromised in GlassWorm Aftermath](https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/)
@@ -67,7 +68,6 @@
 - [Loblaw Data Breach Impacts Customer Information](https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/)
 - [Critical HPE AOS-CX Vulnerability Allows Admin Password Resets](https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/)
 - [Starbucks Data Breach Impacts Employees](https://www.securityweek.com/starbucks-data-breach-impacts-employees/)
-- [In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown](https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/)
 
 ### Threatpost
 

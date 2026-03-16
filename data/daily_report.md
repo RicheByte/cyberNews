@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-16 18:55 UTC  
+> **Last Updated:** 2026-03-16 20:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **oracle ebs hack** • **hacking attempt reported** • **glassworm aftermath hundreds** • **execute malicious code** • **overlooked potential hazards** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **openai told bleepingcomputer** • **even swatting executives** • **sophisticated phishing attacks** • **malicious cyber actors** • **email flooding attacks** • **poses significant risks** • **sprawling phishing campaign** • **post quantum world** • **state sponsored campaign** • **prior campaign mounted** • **windows operating systems**
+**scattered lapsus shinyhunters** • **oracle ebs hack** • **remotely wiped tens** • **hacking attempt reported** • **execute malicious code** • **overlooked potential hazards** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **openai told bleepingcomputer** • **even swatting executives** • **sophisticated phishing attacks** • **malicious cyber actors** • **email flooding attacks** • **appending obfuscated code** • **glassworm malware campaign** • **poses significant risks** • **sprawling phishing campaign** • **medtech firm stryker** • **prior campaign mounted**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
 - [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
 - [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
 - [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
@@ -23,10 +24,10 @@
 - [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
 - [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
 - [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
-- [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
 
 ### BleepingComputer
 
+- [Stryker attack wiped tens of thousands of devices, no malware needed](https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/)
 - [CISA flags Wing FTP Server flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/)
 - [UK’s Companies House confirms security flaw exposed business data](https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/)
 - [Microsoft Exchange Online outage blocks access to mailboxes](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/)
@@ -34,7 +35,6 @@
 - [Microsoft pulls Samsung app blocking Windows C: drive from Store](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/)
 - [OpenAI says ChatGPT ads are not rolling out globally for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/)
 - [Betterleaks, a new open-source secrets scanner to replace Gitleaks](https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/)
-- [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026](https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026)
 - [Attackers Abuse LiveChat to Phish Credit Card, Personal Data](https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data)
 - [Fake PoCs, Misunderstood Risks Cause Cisco SD-WAN Chaos](https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan)
 - [The Data Gap: Why Nonprofit Cyber Incidents Go Underreported](https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported)
@@ -56,7 +57,6 @@
 - [Will AI Save Consumers From Smartphone-Based Phishing Attacks?](https://www.darkreading.com/mobile-security/will-ai-save-consumers-smartphone-phishing-attacks)
 - [Most Google Cloud Attacks Start With Bug Exploitation](https://www.darkreading.com/cloud-security/google-cloud-attacks-bug-exploitation)
 - [Real-Time Banking Trojan Strikes Brazil's Pix Users](https://www.darkreading.com/application-security/real-time-banking-trojan-strikes-brazils-pix-users)
-- [Why Post-Quantum Cryptography Can't Wait](https://www.darkreading.com/cyber-risk/why-post-quantum-cryptography-cant-wait)
 
 ### Security Week
 

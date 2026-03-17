@@ -239,7 +239,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1024,
+      "count": 1025,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1531,7 +1531,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 198,
+      "count": 199,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3217,7 +3217,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -5468,7 +5468,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 400,
+      "count": 401,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5530,7 +5530,7 @@
       ]
     },
     "even swatting executives": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -9391,7 +9391,7 @@
       ]
     },
     "medtech firm stryker": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9530,7 +9530,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -9752,7 +9752,7 @@
       ]
     },
     "sophisticated phishing attacks": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-14",
         "2026-03-15",
@@ -9783,14 +9783,14 @@
       ]
     },
     "hacking attempt reported": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "ukrainian defense forces": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9815,28 +9815,28 @@
       ]
     },
     "patient espionage operation": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "openai told bleepingcomputer": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "overlooked potential hazards": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "oracle ebs hack": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9849,52 +9849,48 @@
       ]
     },
     "remotely wiped tens": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "appending obfuscated code": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "glassworm malware campaign": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-16"
+        "2026-03-16",
+        "2026-03-17"
       ]
     },
     "malicious glassworm extensions": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "glassworm malware evolves": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-16",
+        "2026-03-17"
+      ]
+    },
+    "threat actors linked": {
+      "count": 1,
+      "dates": [
         "2026-03-17"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-08 04:07",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "lumma stealer malware",
-        "labkotec lid 3300ip"
-      ]
-    },
     {
       "timestamp": "2026-03-08 06:36",
       "articles": 48,
@@ -10980,6 +10976,17 @@
         "scattered lapsus shinyhunters",
         "oracle ebs hack",
         "remotely wiped tens",
+        "hacking attempt reported",
+        "overlooked potential hazards"
+      ]
+    },
+    {
+      "timestamp": "2026-03-17 06:58",
+      "articles": 56,
+      "top_keywords": [
+        "remotely wiped tens",
+        "scattered lapsus shinyhunters",
+        "oracle ebs hack",
         "hacking attempt reported",
         "overlooked potential hazards"
       ]

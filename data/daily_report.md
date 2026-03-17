@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-17 04:13 UTC  
+> **Last Updated:** 2026-03-17 06:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **oracle ebs hack** • **remotely wiped tens** • **hacking attempt reported** • **overlooked potential hazards** • **execute malicious code** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **openai told bleepingcomputer** • **even swatting executives** • **malicious glassworm extensions** • **sophisticated phishing attacks** • **appending obfuscated code** • **poses significant risks** • **malicious cyber actors** • **email flooding attacks** • **medtech firm stryker** • **sprawling phishing campaign** • **glassworm malware evolves**
+**remotely wiped tens** • **scattered lapsus shinyhunters** • **oracle ebs hack** • **hacking attempt reported** • **overlooked potential hazards** • **ukrainian defense forces** • **twitter whistleblower complaint** • **threat actors linked** • **poses significant risks** • **patient espionage operation** • **openai told bleepingcomputer** • **medtech firm stryker** • **even swatting executives** • **glassworm malware campaign** • **sophisticated phishing attacks** • **malicious glassworm extensions** • **glassworm malware evolves** • **execute malicious code** • **appending obfuscated code** • **sprawling phishing campaign**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
 - [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
 - [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
 - [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
@@ -23,7 +24,6 @@
 - [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
 - [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
 - [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
-- [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
 
 ### BleepingComputer
 

@@ -1,72 +1,86 @@
 {
-  "last_updated": "2026-03-17 04:13",
+  "last_updated": "2026-03-17 06:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "remotely wiped tens",
     "scattered lapsus shinyhunters",
     "oracle ebs hack",
-    "remotely wiped tens",
     "hacking attempt reported",
     "overlooked potential hazards",
-    "execute malicious code",
     "ukrainian defense forces",
     "twitter whistleblower complaint",
+    "threat actors linked",
+    "poses significant risks",
     "patient espionage operation",
     "openai told bleepingcomputer",
-    "even swatting executives",
-    "malicious glassworm extensions",
-    "sophisticated phishing attacks",
-    "appending obfuscated code",
-    "poses significant risks",
-    "malicious cyber actors",
-    "email flooding attacks",
     "medtech firm stryker",
-    "sprawling phishing campaign",
-    "glassworm malware evolves"
+    "even swatting executives",
+    "glassworm malware campaign",
+    "sophisticated phishing attacks",
+    "malicious glassworm extensions",
+    "glassworm malware evolves",
+    "execute malicious code",
+    "appending obfuscated code",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
+      "keyword": "remotely wiped tens",
+      "mentions": 5
+    },
+    {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 400
+      "mentions": 401
     },
     {
       "keyword": "oracle ebs hack",
-      "mentions": 6
-    },
-    {
-      "keyword": "remotely wiped tens",
-      "mentions": 4
-    },
-    {
-      "keyword": "hacking attempt reported",
-      "mentions": 9
-    },
-    {
-      "keyword": "overlooked potential hazards",
       "mentions": 7
     },
     {
-      "keyword": "execute malicious code",
-      "mentions": 46
+      "keyword": "hacking attempt reported",
+      "mentions": 10
+    },
+    {
+      "keyword": "overlooked potential hazards",
+      "mentions": 8
     },
     {
       "keyword": "ukrainian defense forces",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1024
+      "mentions": 1025
+    },
+    {
+      "keyword": "threat actors linked",
+      "mentions": 1
+    },
+    {
+      "keyword": "poses significant risks",
+      "mentions": 34
     },
     {
       "keyword": "patient espionage operation",
-      "mentions": 8
-    },
-    {
-      "keyword": "openai told bleepingcomputer",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
+      "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, CVE-2025-47813 (CVSS score: 4.3), is an information disclosure vulnerability that leaks the installation path of the application under certain conditions",
+      "published": "Tue, 17 Mar 2026 10:53:00 +0530",
+      "value_score": 99,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
@@ -133,15 +147,6 @@
       "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
       "summary": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and self-hosted autonomous artificial intelligence (AI) agent. In a post shared on WeChat, CNCERT noted that the platform's \"inherently weak default security configurations,\" coupled with its",
       "published": "Sat, 14 Mar 2026 21:47:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
-      "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
-      "summary": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry. \"Instead of requiring every malicious listing to embed the loader directly, the threat actor is now abusing extensionPack and extensionDependencies to turn initially standalone-looking extensions into transitive",
-      "published": "Sat, 14 Mar 2026 18:25:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

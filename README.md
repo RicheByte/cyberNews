@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-17 04:13 UTC |
+| 🕐 Last Updated | 2026-03-17 06:58 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `oracle ebs hack` • `remotely wiped tens` • `hacking attempt reported` • `overlooked potential hazards` • `execute malicious code` • `ukrainian defense forces` • `twitter whistleblower complaint` • `patient espionage operation` • `openai told bleepingcomputer`
+`remotely wiped tens` • `scattered lapsus shinyhunters` • `oracle ebs hack` • `hacking attempt reported` • `overlooked potential hazards` • `ukrainian defense forces` • `twitter whistleblower complaint` • `threat actors linked` • `poses significant risks` • `patient espionage operation`
 
 ## 📄 Reports
 

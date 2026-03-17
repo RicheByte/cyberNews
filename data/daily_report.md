@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-17 13:00 UTC  
+> **Last Updated:** 2026-03-17 14:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**tracebit raises 20m** • **scattered lapsus shinyhunters** • **oracle ebs hack** • **phishing uses kakaotalk** • **remotely wiped tens** • **174 vulnerabilities targeted** • **overlooked potential hazards** • **victim's username password** • **ukrainian defense forces** • **twitter whistleblower complaint** • **threat actors linked** • **poses significant risks** • **patient espionage operation** • **medtech firm stryker** • **leaknet ransomware gang** • **email flooding attacks** • **sprawling phishing campaign** • **sophisticated phishing attacks** • **execute malicious code** • **appending obfuscated code**
+**tracebit raises 20m** • **scattered lapsus shinyhunters** • **oracle ebs hack** • **remotely wiped tens** • **phishing uses kakaotalk** • **overlooked potential hazards** • **samsung pcs microsoft** • **internal microsoft environment** • **victim's username password** • **ukrainian defense forces** • **twitter whistleblower complaint** • **stopped automatically installing** • **poses significant risks** • **leaknet ransomware gang** • **executing commands making** • **174 vulnerabilities targeted** • **email flooding attacks** • **force push malware** • **malicious glassworm extensions** • **execute malicious code**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Top 5 Things CISOs Need to Do Today to Secure AI Agents](https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/)
+- [New font-rendering trick hides malicious commands from AI tools](https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/)
+- [Microsoft stops force-installing the Microsoft 365 Copilot app](https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/)
 - [LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks](https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/)
 - [Microsoft shares fix for Windows C: drive access issues on Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/)
 - [New Windows 11 hotpatch fixes Bluetooth device visibility issue](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/)
 - [Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic](https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/)
 - [Stryker attack wiped tens of thousands of devices, no malware needed](https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/)
-- [CISA flags Wing FTP Server flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/)
-- [UK’s Companies House confirms security flaw exposed business data](https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/)
-- [Microsoft Exchange Online outage blocks access to mailboxes](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Surf AI Raises $57 Million for Agentic Security Operations Platform](https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/)
+- [Robotic Surgery Giant Intuitive Discloses Cyberattack](https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/)
 - [174 Vulnerabilities Targeted by RondoDox Botnet](https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/)
 - [Google, Meta, Microsoft Among Signatories of Pact to Combat Scams](https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/)
 - [Tracebit Raises $20M for Cloud-Native Deception Technology](https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/)
 - [CISA Flags Year-Old Wing FTP Vulnerability as Exploited](https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/)
 - [AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks](https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/)
 - [Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact](https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/)
-- [Security Firm Executive Targeted in Sophisticated Phishing Attack](https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/)
-- [China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation](https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/)
 
 ### Threatpost
 

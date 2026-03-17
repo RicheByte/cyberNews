@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-17 13:00",
+  "last_updated": "2026-03-17 14:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "tracebit raises 20m",
     "scattered lapsus shinyhunters",
     "oracle ebs hack",
-    "phishing uses kakaotalk",
     "remotely wiped tens",
-    "174 vulnerabilities targeted",
+    "phishing uses kakaotalk",
     "overlooked potential hazards",
+    "samsung pcs microsoft",
+    "internal microsoft environment",
     "victim's username password",
     "ukrainian defense forces",
     "twitter whistleblower complaint",
-    "threat actors linked",
+    "stopped automatically installing",
     "poses significant risks",
-    "patient espionage operation",
-    "medtech firm stryker",
     "leaknet ransomware gang",
+    "executing commands making",
+    "174 vulnerabilities targeted",
     "email flooding attacks",
-    "sprawling phishing campaign",
-    "sophisticated phishing attacks",
-    "execute malicious code",
-    "appending obfuscated code"
+    "force push malware",
+    "malicious glassworm extensions",
+    "execute malicious code"
   ],
   "trending": [
     {
       "keyword": "tracebit raises 20m",
-      "mentions": 1
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 404
-    },
-    {
-      "keyword": "oracle ebs hack",
-      "mentions": 10
-    },
-    {
-      "keyword": "phishing uses kakaotalk",
       "mentions": 2
     },
     {
-      "keyword": "remotely wiped tens",
-      "mentions": 8
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 405
     },
     {
-      "keyword": "174 vulnerabilities targeted",
-      "mentions": 1
-    },
-    {
-      "keyword": "overlooked potential hazards",
+      "keyword": "oracle ebs hack",
       "mentions": 11
     },
     {
+      "keyword": "remotely wiped tens",
+      "mentions": 9
+    },
+    {
+      "keyword": "phishing uses kakaotalk",
+      "mentions": 3
+    },
+    {
+      "keyword": "overlooked potential hazards",
+      "mentions": 12
+    },
+    {
+      "keyword": "samsung pcs microsoft",
+      "mentions": 1
+    },
+    {
+      "keyword": "internal microsoft environment",
+      "mentions": 1
+    },
+    {
       "keyword": "victim's username password",
-      "mentions": 76
+      "mentions": 77
     },
     {
       "keyword": "ukrainian defense forces",
-      "mentions": 13
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1028
+      "mentions": 14
     }
   ],
   "articles": [
@@ -156,6 +156,35 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
+      "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
+      "summary": "AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure. [...]",
+      "published": "Tue, 17 Mar 2026 10:02:12 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New font-rendering trick hides malicious commands from AI tools",
+      "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
+      "summary": "A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
+      "published": "Tue, 17 Mar 2026 09:59:12 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/",
+      "summary": "Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices outside the European Economic Area (EEA) that have the Microsoft 365 desktop client apps. [...]",
+      "published": "Tue, 17 Mar 2026 09:54:37 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
       "link": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
       "summary": "The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and TypeScript. [...]",
@@ -202,40 +231,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
       "summary": "Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]",
       "published": "Mon, 16 Mar 2026 15:17:20 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
-      "summary": "CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
-      "published": "Mon, 16 Mar 2026 14:00:22 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×2",
-        "RCE",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK’s Companies House confirms security flaw exposed business data",
-      "link": "https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/",
-      "summary": "Companies House, a British government agency that operates the registry for all U.K. companies, says its WebFiling service is back online after it was closed on Friday to fix a security flaw that exposed companies' information since October 2025. [...]",
-      "published": "Mon, 16 Mar 2026 13:07:25 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Exchange Online outage blocks access to mailboxes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/",
-      "summary": "Microsoft is working to address an ongoing Exchange Online outage that is preventing customers from accessing their mailboxes and calendars. [...]",
-      "published": "Mon, 16 Mar 2026 12:05:02 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -347,7 +342,7 @@
       "source": "Dark Reading",
       "title": "Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026",
       "link": "https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026",
-      "summary": "Discover how Franz Regul, former CISO for the Paris 2024 Olympics, tackled unique cybersecurity challenges to protect the Olympics from evolving threats.",
+      "summary": "Discover how Franz Regul, former CISO for the Paris 2024 Olympics, tackled unique cybersecurity challenges to protect the Games from evolving threats.",
       "published": "Mon, 16 Mar 2026 20:28:19 GMT",
       "value_score": 10,
       "value_signals": []
@@ -398,6 +393,26 @@
       "value_signals": [
         "Phishing ×2",
         "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Surf AI Raises $57 Million for Agentic Security Operations Platform",
+      "link": "https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/",
+      "summary": "The company has announced its launch, backed by funding from Accel, Cyberstarts, and Boldstart Ventures. The post Surf AI Raises $57 Million for Agentic Security Operations Platform appeared first on SecurityWeek .",
+      "published": "Tue, 17 Mar 2026 14:21:43 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Robotic Surgery Giant Intuitive Discloses Cyberattack",
+      "link": "https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/",
+      "summary": "The company says some of its internal business applications were accessed after an employee fell victim to a phishing attack. The post Robotic Surgery Giant Intuitive Discloses Cyberattack appeared first on SecurityWeek .",
+      "published": "Tue, 17 Mar 2026 13:28:20 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
       ]
     },
     {
@@ -458,26 +473,6 @@
       "link": "https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/",
       "summary": "Broadcom, Bechtel, Estée Lauder, and Abbott Technologies are the only major companies that have yet to issue a public statement. The post Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact appeared first on SecurityWeek .",
       "published": "Mon, 16 Mar 2026 15:44:37 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Security Firm Executive Targeted in Sophisticated Phishing Attack",
-      "link": "https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/",
-      "summary": "The attackers used a DKIM-signed phishing email, trusted redirect infrastructure, compromised servers, and Cloudflare-protected phishing pages. The post Security Firm Executive Targeted in Sophisticated Phishing Attack appeared first on SecurityWeek .",
-      "published": "Mon, 16 Mar 2026 14:39:52 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×4"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation",
-      "link": "https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/",
-      "summary": "The state-sponsored hackers deployed custom tools and stayed dormant in the compromised environments for months. The post China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation appeared first on SecurityWeek .",
-      "published": "Mon, 16 Mar 2026 12:52:12 +0000",
       "value_score": 10,
       "value_signals": []
     },

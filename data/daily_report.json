@@ -1,13 +1,15 @@
 {
-  "last_updated": "2026-03-17 08:45",
+  "last_updated": "2026-03-17 10:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "remotely wiped tens",
     "scattered lapsus shinyhunters",
     "oracle ebs hack",
+    "phishing uses kakaotalk",
+    "remotely wiped tens",
     "hacking attempt reported",
     "overlooked potential hazards",
+    "victim's username password",
     "ukrainian defense forces",
     "twitter whistleblower complaint",
     "threat actors linked",
@@ -16,57 +18,66 @@
     "openai told bleepingcomputer",
     "medtech firm stryker",
     "even swatting executives",
+    "email flooding attacks",
     "glassworm malware campaign",
     "sophisticated phishing attacks",
-    "malicious glassworm extensions",
-    "glassworm malware evolves",
-    "execute malicious code",
-    "appending obfuscated code",
-    "sprawling phishing campaign"
+    "sprawling phishing campaign",
+    "names email addresses"
   ],
   "trending": [
     {
-      "keyword": "remotely wiped tens",
-      "mentions": 6
-    },
-    {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 402
+      "mentions": 403
     },
     {
       "keyword": "oracle ebs hack",
-      "mentions": 8
-    },
-    {
-      "keyword": "hacking attempt reported",
-      "mentions": 11
-    },
-    {
-      "keyword": "overlooked potential hazards",
       "mentions": 9
     },
     {
+      "keyword": "phishing uses kakaotalk",
+      "mentions": 1
+    },
+    {
+      "keyword": "remotely wiped tens",
+      "mentions": 7
+    },
+    {
+      "keyword": "hacking attempt reported",
+      "mentions": 12
+    },
+    {
+      "keyword": "overlooked potential hazards",
+      "mentions": 10
+    },
+    {
+      "keyword": "victim's username password",
+      "mentions": 75
+    },
+    {
       "keyword": "ukrainian defense forces",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1026
+      "mentions": 1027
     },
     {
       "keyword": "threat actors linked",
-      "mentions": 2
-    },
-    {
-      "keyword": "poses significant risks",
-      "mentions": 35
-    },
-    {
-      "keyword": "patient espionage operation",
-      "mentions": 10
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
+      "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
+      "summary": "North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts. The activity has been attributed by South Korean threat intelligence firm Genians to a hacking group referred to as Konni. \"Initial access was achieved through a spear-phishing email disguised as a",
+      "published": "Tue, 17 Mar 2026 15:23:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
@@ -142,11 +153,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
-      "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
-      "summary": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and self-hosted autonomous artificial intelligence (AI) agent. In a post shared on WeChat, CNCERT noted that the platform's \"inherently weak default security configurations,\" coupled with its",
-      "published": "Sat, 14 Mar 2026 21:47:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
+      "summary": "Microsoft is working to address a known issue that renders the classic Outlook email client unusable for users who have enabled the Microsoft Teams Meeting Add-in. [...]",
+      "published": "Tue, 17 Mar 2026 06:37:19 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -217,15 +228,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
       "summary": "OpenAI told BleepingComputer that ChatGPT ads on Free and Go plans are not yet rolling out outside the United States, even though some users noticed references to ads in the updated privacy policy. [...]",
       "published": "Sun, 15 Mar 2026 19:13:28 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Betterleaks, a new open-source secrets scanner to replace Gitleaks",
-      "link": "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/",
-      "summary": "A new open-source tool called Betterleaks can scan directories, files, and git repositories and identify valid secrets using default or customized rules. [...]",
-      "published": "Sun, 15 Mar 2026 10:17:23 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -392,6 +394,15 @@
     },
     {
       "source": "Security Week",
+      "title": "AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks",
+      "link": "https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/",
+      "summary": "Akamai warns that Layer 7 DDoS, API abuse and AI-powered attacks are merging into coordinated, multi-vector campaigns that are harder to detect and defend against. The post AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks appeared first on SecurityWeek .",
+      "published": "Tue, 17 Mar 2026 10:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact",
       "link": "https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/",
       "summary": "Broadcom, Bechtel, Estée Lauder, and Abbott Technologies are the only major companies that have yet to issue a public statement. The post Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact appeared first on SecurityWeek .",
@@ -455,18 +466,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical HPE AOS-CX Vulnerability Allows Admin Password Resets",
-      "link": "https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/",
-      "summary": "The vulnerability can be exploited remotely, without authentication, to circumvent existing authentication controls. The post Critical HPE AOS-CX Vulnerability Allows Admin Password Resets appeared first on SecurityWeek .",
-      "published": "Sat, 14 Mar 2026 10:50:00 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

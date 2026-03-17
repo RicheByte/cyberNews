@@ -239,7 +239,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1026,
+      "count": 1027,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1531,7 +1531,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 200,
+      "count": 201,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3217,7 +3217,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -5468,7 +5468,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 402,
+      "count": 403,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5530,7 +5530,7 @@
       ]
     },
     "even swatting executives": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7754,7 +7754,7 @@
       ]
     },
     "victim's username password": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7770,7 +7770,8 @@
         "2026-03-12",
         "2026-03-13",
         "2026-03-15",
-        "2026-03-16"
+        "2026-03-16",
+        "2026-03-17"
       ]
     },
     "aiding north korean": {
@@ -8925,7 +8926,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9391,7 +9392,7 @@
       ]
     },
     "medtech firm stryker": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9752,7 +9753,7 @@
       ]
     },
     "sophisticated phishing attacks": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-03-14",
         "2026-03-15",
@@ -9783,14 +9784,14 @@
       ]
     },
     "hacking attempt reported": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "ukrainian defense forces": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9815,28 +9816,28 @@
       ]
     },
     "patient espionage operation": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "openai told bleepingcomputer": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "overlooked potential hazards": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "oracle ebs hack": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9849,7 +9850,7 @@
       ]
     },
     "remotely wiped tens": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9863,7 +9864,7 @@
       ]
     },
     "glassworm malware campaign": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9884,24 +9885,25 @@
       ]
     },
     "threat actors linked": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-03-17"
+      ]
+    },
+    "phishing uses kakaotalk": {
+      "count": 1,
+      "dates": [
+        "2026-03-17"
+      ]
+    },
+    "names email addresses": {
+      "count": 1,
       "dates": [
         "2026-03-17"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-08 08:25",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "lumma stealer malware",
-        "labkotec lid 3300ip"
-      ]
-    },
     {
       "timestamp": "2026-03-08 10:20",
       "articles": 56,
@@ -10989,6 +10991,17 @@
         "oracle ebs hack",
         "hacking attempt reported",
         "overlooked potential hazards"
+      ]
+    },
+    {
+      "timestamp": "2026-03-17 10:44",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "oracle ebs hack",
+        "phishing uses kakaotalk",
+        "remotely wiped tens",
+        "hacking attempt reported"
       ]
     }
   ]

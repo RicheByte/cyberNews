@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-17 08:45 UTC  
+> **Last Updated:** 2026-03-17 10:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remotely wiped tens** • **scattered lapsus shinyhunters** • **oracle ebs hack** • **hacking attempt reported** • **overlooked potential hazards** • **ukrainian defense forces** • **twitter whistleblower complaint** • **threat actors linked** • **poses significant risks** • **patient espionage operation** • **openai told bleepingcomputer** • **medtech firm stryker** • **even swatting executives** • **glassworm malware campaign** • **sophisticated phishing attacks** • **malicious glassworm extensions** • **glassworm malware evolves** • **execute malicious code** • **appending obfuscated code** • **sprawling phishing campaign**
+**scattered lapsus shinyhunters** • **oracle ebs hack** • **phishing uses kakaotalk** • **remotely wiped tens** • **hacking attempt reported** • **overlooked potential hazards** • **victim's username password** • **ukrainian defense forces** • **twitter whistleblower complaint** • **threat actors linked** • **poses significant risks** • **patient espionage operation** • **openai told bleepingcomputer** • **medtech firm stryker** • **even swatting executives** • **email flooding attacks** • **glassworm malware campaign** • **sophisticated phishing attacks** • **sprawling phishing campaign** • **names email addresses**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
 - [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
 - [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
 - [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
@@ -23,10 +24,10 @@
 - [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
 - [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
 - [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
-- [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
 
 ### BleepingComputer
 
+- [Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic](https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/)
 - [Stryker attack wiped tens of thousands of devices, no malware needed](https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/)
 - [CISA flags Wing FTP Server flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/)
 - [UK’s Companies House confirms security flaw exposed business data](https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/)
@@ -34,7 +35,6 @@
 - [Shadow AI is everywhere. Here’s how to find and secure it.](https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/)
 - [Microsoft pulls Samsung app blocking Windows C: drive from Store](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/)
 - [OpenAI says ChatGPT ads are not rolling out globally for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/)
-- [Betterleaks, a new open-source secrets scanner to replace Gitleaks](https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks](https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/)
 - [Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact](https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/)
 - [Security Firm Executive Targeted in Sophisticated Phishing Attack](https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/)
 - [China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation](https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/)
@@ -67,7 +68,6 @@
 - [ForceMemo: Python Repositories Compromised in GlassWorm Aftermath](https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/)
 - [Hacking Attempt Reported at Poland’s Nuclear Research Center](https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/)
 - [Loblaw Data Breach Impacts Customer Information](https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/)
-- [Critical HPE AOS-CX Vulnerability Allows Admin Password Resets](https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/)
 
 ### Threatpost
 

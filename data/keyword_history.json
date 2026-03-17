@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 335,
+      "count": 336,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -239,7 +239,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1023,
+      "count": 1024,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1531,7 +1531,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 197,
+      "count": 198,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3217,7 +3217,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -5468,7 +5468,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 399,
+      "count": 400,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -5530,7 +5530,7 @@
       ]
     },
     "even swatting executives": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -8925,7 +8925,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9391,7 +9391,7 @@
       ]
     },
     "medtech firm stryker": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9530,7 +9530,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -9752,7 +9752,7 @@
       ]
     },
     "sophisticated phishing attacks": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-03-14",
         "2026-03-15",
@@ -9783,14 +9783,14 @@
       ]
     },
     "hacking attempt reported": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "ukrainian defense forces": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9815,28 +9815,28 @@
       ]
     },
     "patient espionage operation": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "openai told bleepingcomputer": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "overlooked potential hazards": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "oracle ebs hack": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9849,14 +9849,14 @@
       ]
     },
     "remotely wiped tens": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "appending obfuscated code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9869,14 +9869,14 @@
       ]
     },
     "malicious glassworm extensions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "glassworm malware evolves": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9884,17 +9884,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-08 01:45",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "lumma stealer malware",
-        "labkotec lid 3300ip"
-      ]
-    },
     {
       "timestamp": "2026-03-08 04:07",
       "articles": 56,
@@ -10975,6 +10964,17 @@
     },
     {
       "timestamp": "2026-03-17 01:46",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "oracle ebs hack",
+        "remotely wiped tens",
+        "hacking attempt reported",
+        "overlooked potential hazards"
+      ]
+    },
+    {
+      "timestamp": "2026-03-17 04:13",
       "articles": 56,
       "top_keywords": [
         "scattered lapsus shinyhunters",

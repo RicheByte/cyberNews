@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-17 20:33 UTC  
+> **Last Updated:** 2026-03-17 22:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**tracebit raises 20m** • **scattered lapsus shinyhunters** • **scadapack 57x product** • **phishing uses kakaotalk** • **samsung pcs microsoft** • **victim's username password** • **twitter whistleblower complaint** • **stopped automatically installing** • **overlooked potential hazards** • **open source software** • **government agency confirmed** • **employee fell victim** • **appending obfuscated code** • **174 vulnerabilities targeted** • **malicious glassworm extensions** • **malicious cyber actors** • **distribute malicious payloads** • **automated pentesting product** • **force push malware** • **ransomware operation known**
+**tracebit raises 20m** • **scattered lapsus shinyhunters** • **scadapack 57x product** • **phishing uses kakaotalk** • **ransomware operation known** • **glassworm malware campaign** • **victim's username password** • **twitter whistleblower complaint** • **stopped automatically installing** • **samsung pcs microsoft** • **overlooked potential hazards** • **open source software** • **government agency confirmed** • **employee fell victim** • **appending obfuscated code** • **malicious cyber actors** • **distribute malicious payloads** • **sprawling phishing campaign** • **vscode openvsx extensions** • **automated pentesting product**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX](https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/)
 - [Europe sanctions Chinese and Iranian firms for cyberattacks](https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/)
 - [Top 5 Things CISOs Need to Do Today to Secure AI Agents](https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/)
 - [New font-rendering trick hides malicious commands from AI tools](https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/)
@@ -34,7 +35,6 @@
 - [LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks](https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/)
 - [Microsoft shares fix for Windows C: drive access issues on Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/)
 - [New Windows 11 hotpatch fixes Bluetooth device visibility issue](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/)
-- [Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic](https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Less Lucrative Ransomware Market Makes Attackers Alter Methods](https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods)
 - [Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish](https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish)
 - [Warlock Ransomware Group Augments Post-Exploitation Activities](https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities)
 - [China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years](https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs)
@@ -56,7 +57,6 @@
 - [Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026](https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026)
 - [Attackers Abuse LiveChat to Phish Credit Card, Personal Data](https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data)
 - [Fake PoCs, Misunderstood Risks Cause Cisco SD-WAN Chaos](https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan)
-- [The Data Gap: Why Nonprofit Cyber Incidents Go Underreported](https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported)
 
 ### Security Week
 

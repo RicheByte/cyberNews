@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 20:33",
+  "last_updated": "2026-03-17 22:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "scattered lapsus shinyhunters",
     "scadapack 57x product",
     "phishing uses kakaotalk",
-    "samsung pcs microsoft",
+    "ransomware operation known",
+    "glassworm malware campaign",
     "victim's username password",
     "twitter whistleblower complaint",
     "stopped automatically installing",
+    "samsung pcs microsoft",
     "overlooked potential hazards",
     "open source software",
     "government agency confirmed",
     "employee fell victim",
     "appending obfuscated code",
-    "174 vulnerabilities targeted",
-    "malicious glassworm extensions",
     "malicious cyber actors",
     "distribute malicious payloads",
-    "automated pentesting product",
-    "force push malware",
-    "ransomware operation known"
+    "sprawling phishing campaign",
+    "vscode openvsx extensions",
+    "automated pentesting product"
   ],
   "trending": [
     {
       "keyword": "tracebit raises 20m",
-      "mentions": 5
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 407
-    },
-    {
-      "keyword": "scadapack 57x product",
-      "mentions": 3
-    },
-    {
-      "keyword": "phishing uses kakaotalk",
       "mentions": 6
     },
     {
-      "keyword": "samsung pcs microsoft",
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 408
+    },
+    {
+      "keyword": "scadapack 57x product",
       "mentions": 4
+    },
+    {
+      "keyword": "phishing uses kakaotalk",
+      "mentions": 7
+    },
+    {
+      "keyword": "ransomware operation known",
+      "mentions": 2
+    },
+    {
+      "keyword": "glassworm malware campaign",
+      "mentions": 6
     },
     {
       "keyword": "victim's username password",
-      "mentions": 79
+      "mentions": 80
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1032
+      "mentions": 1033
     },
     {
       "keyword": "stopped automatically installing",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "overlooked potential hazards",
-      "mentions": 15
-    },
-    {
-      "keyword": "open source software",
-      "mentions": 3
+      "keyword": "samsung pcs microsoft",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -157,6 +157,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
+      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
+      "summary": "The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions. [...]",
+      "published": "Tue, 17 Mar 2026 17:42:54 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
       "summary": "The European Union Council has announced sanctions against three entities and two individuals for their involvement in cyberattacks targeting critical infrastructure in the region. [...]",
@@ -227,15 +236,6 @@
       "value_signals": [
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
-      "summary": "Microsoft is working to address a known issue that renders the classic Outlook email client unusable for users who have enabled the Microsoft Teams Meeting Add-in. [...]",
-      "published": "Tue, 17 Mar 2026 06:37:19 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -325,6 +325,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Less Lucrative Ransomware Market Makes Attackers Alter Methods",
+      "link": "https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods",
+      "summary": "Ransomware actors are ditching Cobalt Strike in favor of native Windows tools, as payment rates hit record lows and data theft surges.",
+      "published": "Tue, 17 Mar 2026 21:41:12 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish",
       "link": "https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish",
       "summary": "The cyberattackers leveraged trusted brands and domains in an attempt to redirect a C-suite executive at Outpost24 to give up his credentials.",
@@ -386,15 +397,6 @@
       "link": "https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan",
       "summary": "The excitement around Cisco's latest SD-WAN bugs has inspired some light fraud, misunderstandings, and overlooked potential hazards.",
       "published": "Fri, 13 Mar 2026 19:19:38 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "The Data Gap: Why Nonprofit Cyber Incidents Go Underreported",
-      "link": "https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported",
-      "summary": "Threat actors target nonprofits due to security gaps and highly coveted information, but a lack of sufficient data makes it difficult to grasp the entire picture.",
-      "published": "Fri, 13 Mar 2026 17:42:09 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-17 14:51 UTC  
+> **Last Updated:** 2026-03-17 16:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**tracebit raises 20m** • **scattered lapsus shinyhunters** • **oracle ebs hack** • **remotely wiped tens** • **phishing uses kakaotalk** • **overlooked potential hazards** • **samsung pcs microsoft** • **internal microsoft environment** • **victim's username password** • **ukrainian defense forces** • **twitter whistleblower complaint** • **stopped automatically installing** • **poses significant risks** • **leaknet ransomware gang** • **executing commands making** • **174 vulnerabilities targeted** • **email flooding attacks** • **force push malware** • **malicious glassworm extensions** • **execute malicious code**
+**tracebit raises 20m** • **scattered lapsus shinyhunters** • **remotely wiped tens** • **scadapack 57x product** • **phishing uses kakaotalk** • **executing commands making** • **samsung pcs microsoft** • **victim's username password** • **twitter whistleblower complaint** • **stopped automatically installing** • **poses significant risks** • **overlooked potential hazards** • **open source software** • **government agency confirmed** • **appending obfuscated code** • **174 vulnerabilities targeted** • **malicious glassworm extensions** • **malicious cyber actors** • **distribute malicious payloads** • **requires administrator credentials**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader](https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html)
 - [AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
 - [Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
 - [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
@@ -23,7 +24,6 @@
 - [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
 - [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
 - [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
-- [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Warlock Ransomware Group Augments Post-Exploitation Activities](https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities)
 - [China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years](https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs)
 - [GlassWorm Malware Evolves to Hide in Dependencies](https://www.darkreading.com/application-security/glassworm-malware-evolves-hide-dependencies)
 - [Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026](https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026)
@@ -56,18 +57,17 @@
 - [Fake PoCs, Misunderstood Risks Cause Cisco SD-WAN Chaos](https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan)
 - [The Data Gap: Why Nonprofit Cyber Incidents Go Underreported](https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported)
 - [Cyberattackers Don't Care About Good Causes](https://www.darkreading.com/cyber-risk/cyberattackers-dont-care-about-good-causes)
-- [Will AI Save Consumers From Smartphone-Based Phishing Attacks?](https://www.darkreading.com/mobile-security/will-ai-save-consumers-smartphone-phishing-attacks)
 
 ### Security Week
 
+- [Tech Giants Invest $12.5 Million in Open Source Security](https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/)
+- [UK Companies House Exposed Details of Millions of Firms](https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/)
 - [Surf AI Raises $57 Million for Agentic Security Operations Platform](https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/)
 - [Robotic Surgery Giant Intuitive Discloses Cyberattack](https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/)
 - [174 Vulnerabilities Targeted by RondoDox Botnet](https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/)
 - [Google, Meta, Microsoft Among Signatories of Pact to Combat Scams](https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/)
 - [Tracebit Raises $20M for Cloud-Native Deception Technology](https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/)
 - [CISA Flags Year-Old Wing FTP Vulnerability as Exploited](https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/)
-- [AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks](https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/)
-- [Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact](https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Siemens SICAM SIAPP SDK](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04)
+- [Schneider Electric EcoStruxure Data Center Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-03)
+- [Schneider Electric SCADAPack and RemoteConnect](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-02)
+- [CODESYS in Festo Automation Suite](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-01)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Siemens SIDIS Prime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-03)
 - [Siemens RUGGEDCOM APE1808 Devices](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-02)
-- [Siemens SIMATIC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-04)
-- [Trane Tracer SC, Tracer SC+, and Tracer Concierge](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-01)
-- [Siemens Heliox EV Chargers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-05)
-- [Inductive Automation Ignition Software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-06)
 
 ---
 

@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-03-17 14:51",
+  "last_updated": "2026-03-17 16:59",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "tracebit raises 20m",
     "scattered lapsus shinyhunters",
-    "oracle ebs hack",
     "remotely wiped tens",
+    "scadapack 57x product",
     "phishing uses kakaotalk",
-    "overlooked potential hazards",
+    "executing commands making",
     "samsung pcs microsoft",
-    "internal microsoft environment",
     "victim's username password",
-    "ukrainian defense forces",
     "twitter whistleblower complaint",
     "stopped automatically installing",
     "poses significant risks",
-    "leaknet ransomware gang",
-    "executing commands making",
+    "overlooked potential hazards",
+    "open source software",
+    "government agency confirmed",
+    "appending obfuscated code",
     "174 vulnerabilities targeted",
-    "email flooding attacks",
-    "force push malware",
     "malicious glassworm extensions",
-    "execute malicious code"
+    "malicious cyber actors",
+    "distribute malicious payloads",
+    "requires administrator credentials"
   ],
   "trending": [
     {
       "keyword": "tracebit raises 20m",
-      "mentions": 2
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 405
-    },
-    {
-      "keyword": "oracle ebs hack",
-      "mentions": 11
-    },
-    {
-      "keyword": "remotely wiped tens",
-      "mentions": 9
-    },
-    {
-      "keyword": "phishing uses kakaotalk",
       "mentions": 3
     },
     {
-      "keyword": "overlooked potential hazards",
-      "mentions": 12
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 406
+    },
+    {
+      "keyword": "remotely wiped tens",
+      "mentions": 10
+    },
+    {
+      "keyword": "scadapack 57x product",
+      "mentions": 1
+    },
+    {
+      "keyword": "phishing uses kakaotalk",
+      "mentions": 4
+    },
+    {
+      "keyword": "executing commands making",
+      "mentions": 2
     },
     {
       "keyword": "samsung pcs microsoft",
-      "mentions": 1
-    },
-    {
-      "keyword": "internal microsoft environment",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "victim's username password",
-      "mentions": 77
+      "mentions": 78
     },
     {
-      "keyword": "ukrainian defense forces",
-      "mentions": 14
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1030
+    },
+    {
+      "keyword": "stopped automatically installing",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
+      "link": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
+      "summary": "The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method. The use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials",
+      "published": "Tue, 17 Mar 2026 20:04:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
@@ -141,17 +152,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
-      "link": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
-      "summary": "Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team. The campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by Laundry Bear (aka UAC-0190 or Void Blizzard) aimed at Ukrainian defense forces with a malware",
-      "published": "Mon, 16 Mar 2026 14:37:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
       ]
     },
     {
@@ -322,9 +322,21 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Warlock Ransomware Group Augments Post-Exploitation Activities",
+      "link": "https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities",
+      "summary": "In a recent attack, the group showcased stealthier cross-network activity, thanks to its use of a new BYOVD technique and other tools.",
+      "published": "Tue, 17 Mar 2026 15:36:52 GMT",
+      "value_score": 34,
+      "value_signals": [
+        "Ransomware",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years",
       "link": "https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs",
-      "summary": "Researchers uncovered an extensive cyberespionage campaign that used novel backdoors and familiar evasion techniques to maintain persistent access to regional targets.",
+      "summary": "Researchers uncovered an extensive cyber espionage campaign that used novel backdoors and familiar evasion techniques to maintain persistent access to regional targets.",
       "published": "Tue, 17 Mar 2026 01:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -384,15 +396,23 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Will AI Save Consumers From Smartphone-Based Phishing Attacks?",
-      "link": "https://www.darkreading.com/mobile-security/will-ai-save-consumers-smartphone-phishing-attacks",
-      "summary": "Sophisticated phishing attacks are bypassing on-device protections with troubling frequency, making it more critical than ever for users to protect themselves from potential threats, new research from Omdia shows.",
-      "published": "Fri, 13 Mar 2026 15:57:47 GMT",
-      "value_score": 34,
+      "source": "Security Week",
+      "title": "Tech Giants Invest $12.5 Million in Open Source Security",
+      "link": "https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/",
+      "summary": "Anthropic, AWS, Google, Microsoft, and OpenAI fund the Linux Foundation’s long-term security initiatives focused on open source software. The post Tech Giants Invest $12.5 Million in Open Source Security appeared first on SecurityWeek .",
+      "published": "Tue, 17 Mar 2026 16:01:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "UK Companies House Exposed Details of Millions of Firms",
+      "link": "https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/",
+      "summary": "The government agency confirmed the vulnerability could have been exploited to obtain company details and alter records. The post UK Companies House Exposed Details of Millions of Firms appeared first on SecurityWeek .",
+      "published": "Tue, 17 Mar 2026 15:40:25 +0000",
+      "value_score": 16,
       "value_signals": [
-        "Phishing ×2",
-        "High severity"
+        "Exploit wording"
       ]
     },
     {
@@ -457,24 +477,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks",
-      "link": "https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/",
-      "summary": "Akamai warns that Layer 7 DDoS, API abuse and AI-powered attacks are merging into coordinated, multi-vector campaigns that are harder to detect and defend against. The post AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks appeared first on SecurityWeek .",
-      "published": "Tue, 17 Mar 2026 10:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact",
-      "link": "https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/",
-      "summary": "Broadcom, Bechtel, Estée Lauder, and Abbott Technologies are the only major companies that have yet to issue a public statement. The post Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact appeared first on SecurityWeek .",
-      "published": "Mon, 16 Mar 2026 15:44:37 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",
@@ -561,6 +563,53 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Siemens SICAM SIAPP SDK",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04",
+      "summary": "View CSAF Summary The SICAM SIAPP SDK contains multiple vulnerabilities that could allow an attacker to disrupt the customer-developed SIAPP or its simulation environment. Potential impacts include denial of service within the SIAPP, corruption of SIAPP data, or exploit the simulation environment. These vulnerabilities are only exploitable if the API is used improperly or hardening measures are not applied. Siemens has released a new version for SICAM SIAPP SDK and recommends to update to the la",
+      "published": "Tue, 17 Mar 26 12:00:00 +0000",
+      "value_score": 49,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Schneider Electric EcoStruxure Data Center Expert",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-03",
+      "summary": "View CSAF Summary Schneider Electric is aware of a hard-coded credentials vulnerability in its EcoStruxure IT Data Center Expert (DCE) product that requires administrator credentials and enabling a feature (SOCKS Proxy) that is off by default. The EcoStruxure IT Data Center Expert product is a scalable monitoring software that collects, organizes, and distributes critical device information providing a comprehensive view of equipment. Failure to apply the remediation provided below may risk info",
+      "published": "Tue, 17 Mar 26 12:00:00 +0000",
+      "value_score": 43,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Schneider Electric SCADAPack and RemoteConnect",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-02",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its SCADAPack™ x70 RTU products. The SCADAPack™ 47xi, SCADAPack™ 47x and SCADAPack™ 57x product are Remote Terminal Units that provide communication capabilities for remote monitoring and control. Failure to apply the remediations provided below may risk unauthorized access to your RTU, which could result in the possibility of denial of service and loss of confidentiality, integrity of the controller. The following versions of S",
+      "published": "Tue, 17 Mar 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CODESYS in Festo Automation Suite",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-01",
+      "summary": "View CSAF Summary 3. TECHNICAL DETAILS The following versions of CODESYS in Festo Automation Suite are affected: FESTO Software Festo Automation Suite (versions prior to 2.8.0.138) installed with CODESYS Software CODESYS Development System (3.0) vers:all/* FESTO Software Festo Automation Suite (versions prior to 2.8.0.138) installed with CODESYS Software CODESYS Development System (3.5.16.10) vers:all/* FESTO Software Festo Automation Suite (2.8.0.137) installed with CODESYS Software CODESYS Dev",
+      "published": "Tue, 17 Mar 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-47813 Wing FTP Server Information Disclosure Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known",
@@ -614,55 +663,6 @@
         "CVE mentioned ×4",
         "Patch/update",
         "Multiple CVEs"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens SIMATIC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-04",
-      "summary": "View CSAF Summary SIMATIC S7-1500 devices contain a vulnerability that could allow an attacker to inject code by tricking a legitimate user into importing a specially crafted trace file in the web interface. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fix versions and recommends specific countermeasures for products where fixes are not, or not yet available. The following versions of Siemens SIMATIC",
-      "published": "Thu, 12 Mar 26 12:00:00 +0000",
-      "value_score": 51,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Trane Tracer SC, Tracer SC+, and Tracer Concierge",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information, execute arbitrary commands, or perform a denial-of-service on the product. The following versions of Trane Tracer SC, Tracer SC+, and Tracer Concierge are affected: Tracer SC Tracer SC+ Tracer Concierge CVSS Vendor Equipment Vulnerabilities v3 8.1 Trane Trane Tracer SC, Tracer SC+, and Tracer Concierge Use of a Broken or Risky Cryptographic Algorithm, Memory Allocation wi",
-      "published": "Thu, 12 Mar 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens Heliox EV Chargers",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-05",
-      "summary": "View CSAF Summary Heliox EV Chargers listed below contain improper access control vulnerability that could allow an attacker to reach unauthorized services via the charging cable. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Heliox EV Chargers are affected: Heliox Flex 180 kW EV Charging Station Heliox Mobile DC 40 kW EV Charging Station CVSS Vendor Equipment Vulnerabilities v3 2.6 Siemens Siemens H",
-      "published": "Thu, 12 Mar 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Inductive Automation Ignition Software",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-06",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute malicious code with OS application service account permissions that the authenticated, privileged application user did not intend on running. The following versions of Inductive Automation Ignition Software are affected: Ignition Software <8.3.0 (CVE-2025-13913) CVSS Vendor Equipment Vulnerabilities v3 6.3 Inductive Automation Inductive Automation Ignition Software Deserialization of Untrusted Data",
-      "published": "Thu, 12 Mar 26 12:00:00 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Exploit wording"
       ]
     }
   ],

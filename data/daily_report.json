@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16 22:27",
+  "last_updated": "2026-03-17 01:46",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -14,12 +14,12 @@
     "patient espionage operation",
     "openai told bleepingcomputer",
     "even swatting executives",
-    "sophisticated phishing attacks",
     "malicious glassworm extensions",
-    "email flooding attacks",
+    "sophisticated phishing attacks",
     "appending obfuscated code",
     "poses significant risks",
     "malicious cyber actors",
+    "email flooding attacks",
     "medtech firm stryker",
     "sprawling phishing campaign",
     "glassworm malware evolves"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 398
+      "mentions": 399
     },
     {
       "keyword": "oracle ebs hack",
-      "mentions": 4
-    },
-    {
-      "keyword": "remotely wiped tens",
-      "mentions": 2
-    },
-    {
-      "keyword": "hacking attempt reported",
-      "mentions": 7
-    },
-    {
-      "keyword": "overlooked potential hazards",
       "mentions": 5
     },
     {
+      "keyword": "remotely wiped tens",
+      "mentions": 3
+    },
+    {
+      "keyword": "hacking attempt reported",
+      "mentions": 8
+    },
+    {
+      "keyword": "overlooked potential hazards",
+      "mentions": 6
+    },
+    {
       "keyword": "execute malicious code",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "ukrainian defense forces",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1022
+      "mentions": 1023
     },
     {
       "keyword": "patient espionage operation",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "openai told bleepingcomputer",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
@@ -312,6 +312,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years",
+      "link": "https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs",
+      "summary": "Researchers uncovered an extensive cyberespionage campaign that used novel backdoors and familiar evasion techniques to maintain persistent access to regional targets.",
+      "published": "Tue, 17 Mar 2026 01:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "GlassWorm Malware Evolves to Hide in Dependencies",
       "link": "https://www.darkreading.com/application-security/glassworm-malware-evolves-hide-dependencies",
       "summary": "Researchers have identified dozens of malicious GlassWorm extensions that come with new evasion techniques.",
@@ -374,17 +383,6 @@
       "value_signals": [
         "Phishing ×2",
         "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Most Google Cloud Attacks Start With Bug Exploitation",
-      "link": "https://www.darkreading.com/cloud-security/google-cloud-attacks-bug-exploitation",
-      "summary": "Forget stolen credentials and misconfigurations. Thanks to AI, the new top cause of compromises in the cloud is vulnerability exploits that beat patching cycles.",
-      "published": "Fri, 13 Mar 2026 13:20:58 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

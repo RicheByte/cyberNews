@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-16 22:27 UTC  
+> **Last Updated:** 2026-03-17 01:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **oracle ebs hack** • **remotely wiped tens** • **hacking attempt reported** • **overlooked potential hazards** • **execute malicious code** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **openai told bleepingcomputer** • **even swatting executives** • **sophisticated phishing attacks** • **malicious glassworm extensions** • **email flooding attacks** • **appending obfuscated code** • **poses significant risks** • **malicious cyber actors** • **medtech firm stryker** • **sprawling phishing campaign** • **glassworm malware evolves**
+**scattered lapsus shinyhunters** • **oracle ebs hack** • **remotely wiped tens** • **hacking attempt reported** • **overlooked potential hazards** • **execute malicious code** • **ukrainian defense forces** • **twitter whistleblower complaint** • **patient espionage operation** • **openai told bleepingcomputer** • **even swatting executives** • **malicious glassworm extensions** • **sophisticated phishing attacks** • **appending obfuscated code** • **poses significant risks** • **malicious cyber actors** • **email flooding attacks** • **medtech firm stryker** • **sprawling phishing campaign** • **glassworm malware evolves**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years](https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs)
 - [GlassWorm Malware Evolves to Hide in Dependencies](https://www.darkreading.com/application-security/glassworm-malware-evolves-hide-dependencies)
 - [Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026](https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026)
 - [Attackers Abuse LiveChat to Phish Credit Card, Personal Data](https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data)
@@ -56,7 +57,6 @@
 - [The Data Gap: Why Nonprofit Cyber Incidents Go Underreported](https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported)
 - [Cyberattackers Don't Care About Good Causes](https://www.darkreading.com/cyber-risk/cyberattackers-dont-care-about-good-causes)
 - [Will AI Save Consumers From Smartphone-Based Phishing Attacks?](https://www.darkreading.com/mobile-security/will-ai-save-consumers-smartphone-phishing-attacks)
-- [Most Google Cloud Attacks Start With Bug Exploitation](https://www.darkreading.com/cloud-security/google-cloud-attacks-bug-exploitation)
 
 ### Security Week
 

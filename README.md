@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-17 16:59 UTC |
-| 📰 Articles Analyzed | 56 |
+| 🕐 Last Updated | 2026-03-17 18:55 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`tracebit raises 20m` • `scattered lapsus shinyhunters` • `remotely wiped tens` • `scadapack 57x product` • `phishing uses kakaotalk` • `executing commands making` • `samsung pcs microsoft` • `victim's username password` • `twitter whistleblower complaint` • `stopped automatically installing`
+`tracebit raises 20m` • `scadapack 57x product` • `open source software` • `samsung pcs microsoft` • `twitter whistleblower complaint` • `stopped automatically installing` • `poses significant risks` • `phishing uses kakaotalk` • `overlooked potential hazards` • `government agency confirmed`
 
 ## 📄 Reports
 

@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-17 16:59 UTC  
+> **Last Updated:** 2026-03-17 18:55 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**tracebit raises 20m** • **scattered lapsus shinyhunters** • **remotely wiped tens** • **scadapack 57x product** • **phishing uses kakaotalk** • **executing commands making** • **samsung pcs microsoft** • **victim's username password** • **twitter whistleblower complaint** • **stopped automatically installing** • **poses significant risks** • **overlooked potential hazards** • **open source software** • **government agency confirmed** • **appending obfuscated code** • **174 vulnerabilities targeted** • **malicious glassworm extensions** • **malicious cyber actors** • **distribute malicious payloads** • **requires administrator credentials**
+**tracebit raises 20m** • **scadapack 57x product** • **open source software** • **samsung pcs microsoft** • **twitter whistleblower complaint** • **stopped automatically installing** • **poses significant risks** • **phishing uses kakaotalk** • **overlooked potential hazards** • **government agency confirmed** • **174 vulnerabilities targeted** • **malicious glassworm extensions** • **malicious cyber actors** • **distribute malicious payloads** • **sprawling phishing campaign** • **requires administrator credentials** • **automated pentesting product** • **force push malware** • **glassworm malware campaign** • **v4 0 800**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
 - [LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader](https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html)
 - [AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
 - [Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
@@ -23,10 +24,10 @@
 - [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
 - [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
 - [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
-- [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
 
 ### BleepingComputer
 
+- [Europe sanctions Chinese and Iranian firms for cyberattacks](https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/)
 - [Top 5 Things CISOs Need to Do Today to Secure AI Agents](https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/)
 - [New font-rendering trick hides malicious commands from AI tools](https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/)
 - [Microsoft stops force-installing the Microsoft 365 Copilot app](https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/)
@@ -34,18 +35,6 @@
 - [Microsoft shares fix for Windows C: drive access issues on Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/)
 - [New Windows 11 hotpatch fixes Bluetooth device visibility issue](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/)
 - [Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic](https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/)
-- [Stryker attack wiped tens of thousands of devices, no malware needed](https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/)
-
-### Krebs on Security
-
-- [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
-- [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
-- [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
-- [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
-- [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
-- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
-- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
 
 ### Dark Reading
 

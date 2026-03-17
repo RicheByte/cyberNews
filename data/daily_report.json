@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-17 18:55",
+  "last_updated": "2026-03-17 20:33",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
     "tracebit raises 20m",
+    "scattered lapsus shinyhunters",
     "scadapack 57x product",
-    "open source software",
+    "phishing uses kakaotalk",
     "samsung pcs microsoft",
+    "victim's username password",
     "twitter whistleblower complaint",
     "stopped automatically installing",
-    "poses significant risks",
-    "phishing uses kakaotalk",
     "overlooked potential hazards",
+    "open source software",
     "government agency confirmed",
+    "employee fell victim",
+    "appending obfuscated code",
     "174 vulnerabilities targeted",
     "malicious glassworm extensions",
     "malicious cyber actors",
     "distribute malicious payloads",
-    "sprawling phishing campaign",
-    "requires administrator credentials",
     "automated pentesting product",
     "force push malware",
-    "glassworm malware campaign",
-    "v4 0 800"
+    "ransomware operation known"
   ],
   "trending": [
     {
       "keyword": "tracebit raises 20m",
-      "mentions": 4
-    },
-    {
-      "keyword": "scadapack 57x product",
-      "mentions": 2
-    },
-    {
-      "keyword": "open source software",
-      "mentions": 2
-    },
-    {
-      "keyword": "samsung pcs microsoft",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1031
-    },
-    {
-      "keyword": "stopped automatically installing",
-      "mentions": 3
-    },
-    {
-      "keyword": "poses significant risks",
-      "mentions": 40
-    },
-    {
-      "keyword": "phishing uses kakaotalk",
       "mentions": 5
     },
     {
-      "keyword": "overlooked potential hazards",
-      "mentions": 14
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 407
     },
     {
-      "keyword": "government agency confirmed",
-      "mentions": 2
+      "keyword": "scadapack 57x product",
+      "mentions": 3
+    },
+    {
+      "keyword": "phishing uses kakaotalk",
+      "mentions": 6
+    },
+    {
+      "keyword": "samsung pcs microsoft",
+      "mentions": 4
+    },
+    {
+      "keyword": "victim's username password",
+      "mentions": 79
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1032
+    },
+    {
+      "keyword": "stopped automatically installing",
+      "mentions": 4
+    },
+    {
+      "keyword": "overlooked potential hazards",
+      "mentions": 15
+    },
+    {
+      "keyword": "open source software",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -238,6 +238,101 @@
       "value_signals": []
     },
     {
+      "source": "Krebs on Security",
+      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+      "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
+      "published": "Wed, 11 Mar 2026 16:20:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, March 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
+      "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
+      "published": "Wed, 11 Mar 2026 00:32:51 +0000",
+      "value_score": 76,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "How AI Assistants are Moving the Security Goalposts",
+      "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
+      "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and n",
+      "published": "Sun, 08 Mar 2026 23:35:42 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who is the Kimwolf Botmaster “Dort”?",
+      "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
+      "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines wh",
+      "published": "Sat, 28 Feb 2026 12:01:57 +0000",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+      "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentic",
+      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
+      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish",
+      "link": "https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish",
+      "summary": "The cyberattackers leveraged trusted brands and domains in an attempt to redirect a C-suite executive at Outpost24 to give up his credentials.",
+      "published": "Tue, 17 Mar 2026 19:41:24 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
       "source": "Dark Reading",
       "title": "Warlock Ransomware Group Augments Post-Exploitation Activities",
       "link": "https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities",
@@ -300,15 +395,6 @@
       "link": "https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported",
       "summary": "Threat actors target nonprofits due to security gaps and highly coveted information, but a lack of sufficient data makes it difficult to grasp the entire picture.",
       "published": "Fri, 13 Mar 2026 17:42:09 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cyberattackers Don't Care About Good Causes",
-      "link": "https://www.darkreading.com/cyber-risk/cyberattackers-dont-care-about-good-causes",
-      "summary": "Sightline Security's founder and advisory board discuss how cybersecurity poses significant problems for nonprofits and suggest ways the industry can help.",
-      "published": "Fri, 13 Mar 2026 17:15:17 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -239,7 +239,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1027,
+      "count": 1028,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1531,7 +1531,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 201,
+      "count": 202,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3217,7 +3217,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -5468,7 +5468,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 403,
+      "count": 404,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7754,7 +7754,7 @@
       ]
     },
     "victim's username password": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8926,7 +8926,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9392,7 +9392,7 @@
       ]
     },
     "medtech firm stryker": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9531,7 +9531,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -9753,7 +9753,7 @@
       ]
     },
     "sophisticated phishing attacks": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-03-14",
         "2026-03-15",
@@ -9791,7 +9791,7 @@
       ]
     },
     "ukrainian defense forces": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9816,7 +9816,7 @@
       ]
     },
     "patient espionage operation": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9830,14 +9830,14 @@
       ]
     },
     "overlooked potential hazards": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "oracle ebs hack": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9850,14 +9850,14 @@
       ]
     },
     "remotely wiped tens": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-16",
         "2026-03-17"
       ]
     },
     "appending obfuscated code": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-16",
         "2026-03-17"
@@ -9885,13 +9885,13 @@
       ]
     },
     "threat actors linked": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-17"
       ]
     },
     "phishing uses kakaotalk": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-17"
       ]
@@ -9901,20 +9901,27 @@
       "dates": [
         "2026-03-17"
       ]
+    },
+    "tracebit raises 20m": {
+      "count": 1,
+      "dates": [
+        "2026-03-17"
+      ]
+    },
+    "174 vulnerabilities targeted": {
+      "count": 1,
+      "dates": [
+        "2026-03-17"
+      ]
+    },
+    "leaknet ransomware gang": {
+      "count": 1,
+      "dates": [
+        "2026-03-17"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-08 10:20",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "lumma stealer malware",
-        "labkotec lid 3300ip"
-      ]
-    },
     {
       "timestamp": "2026-03-08 12:37",
       "articles": 56,
@@ -11002,6 +11009,17 @@
         "phishing uses kakaotalk",
         "remotely wiped tens",
         "hacking attempt reported"
+      ]
+    },
+    {
+      "timestamp": "2026-03-17 13:00",
+      "articles": 56,
+      "top_keywords": [
+        "tracebit raises 20m",
+        "scattered lapsus shinyhunters",
+        "oracle ebs hack",
+        "phishing uses kakaotalk",
+        "remotely wiped tens"
       ]
     }
   ]

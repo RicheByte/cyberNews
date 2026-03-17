@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-17 10:44 UTC |
+| 🕐 Last Updated | 2026-03-17 13:00 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `oracle ebs hack` • `phishing uses kakaotalk` • `remotely wiped tens` • `hacking attempt reported` • `overlooked potential hazards` • `victim's username password` • `ukrainian defense forces` • `twitter whistleblower complaint` • `threat actors linked`
+`tracebit raises 20m` • `scattered lapsus shinyhunters` • `oracle ebs hack` • `phishing uses kakaotalk` • `remotely wiped tens` • `174 vulnerabilities targeted` • `overlooked potential hazards` • `victim's username password` • `ukrainian defense forces` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

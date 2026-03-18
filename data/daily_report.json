@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-18 13:00",
+  "last_updated": "2026-03-18 14:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
-    "scadapack 57x product",
     "cve 2026 20643",
+    "scadapack 57x product",
     "ransomware operation known",
     "execute arbitrary code",
-    "vulnerabilities chain together",
     "twitter whistleblower complaint",
     "threat model right",
-    "stopped automatically installing",
-    "samsung pcs microsoft",
-    "open source software",
+    "startup will invest",
+    "send crypto scams",
     "malicious cyber actors",
-    "employee fell victim",
+    "legitimate site forwarding",
+    "cryptocurrency wallet app",
+    "software supply chain",
+    "shadow ai risk",
     "vscode openvsx extensions",
-    "breaks attack paths",
-    "174 vulnerabilities targeted",
-    "malicious glassworm extensions",
     "sprawling phishing campaign",
-    "microsoft shares fix",
-    "victim's username password"
+    "breaks attack paths",
+    "vulnerabilities chain together",
+    "malicious glassworm extensions",
+    "email flooding attacks"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 414
-    },
-    {
-      "keyword": "scadapack 57x product",
-      "mentions": 10
+      "mentions": 415
     },
     {
       "keyword": "cve 2026 20643",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "scadapack 57x product",
+      "mentions": 11
     },
     {
       "keyword": "ransomware operation known",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 40
-    },
-    {
-      "keyword": "vulnerabilities chain together",
-      "mentions": 1
+      "mentions": 41
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1039
+      "mentions": 1040
     },
     {
       "keyword": "threat model right",
+      "mentions": 2
+    },
+    {
+      "keyword": "startup will invest",
       "mentions": 1
     },
     {
-      "keyword": "stopped automatically installing",
-      "mentions": 11
+      "keyword": "send crypto scams",
+      "mentions": 1
     },
     {
-      "keyword": "samsung pcs microsoft",
-      "mentions": 11
+      "keyword": "malicious cyber actors",
+      "mentions": 347
     }
   ],
   "articles": [
@@ -161,6 +161,37 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/",
+      "summary": "Refund fraud is now a business, with methods and tutorials sold to exploit return policies for profit. Flare shows how fraudsters turn refunds and chargebacks into a repeatable profit model. [...]",
+      "published": "Wed, 18 Mar 2026 10:05:15 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New “Darksword” iOS exploit used in infostealer attack on iPhones",
+      "link": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/",
+      "summary": "A new exploit kit for iOS devices and delivery framework dubbed \"Darksword\" has been used to steal a wide range of personal information, including data from cryptocurrency wallet app. [...]",
+      "published": "Wed, 18 Mar 2026 10:02:08 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Nordstrom's email system abused to send crypto scams to customers",
+      "link": "https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/",
+      "summary": "Customers of upscale department store chain Nordstrom received fraudulent messages from a legitimate company email address that promoted cryptocurrency scams disguised as a St. Patrick's Day promotion. [...]",
+      "published": "Wed, 18 Mar 2026 09:55:49 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Apple pushes first Background Security Improvements update to fix WebKit flaw",
       "link": "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/",
       "summary": "Apple has released its first Background Security Improvements update to fix a WebKit flaw tracked as CVE-2026-20643 on iPhones, iPads, and Macs without requiring a full operating system upgrade. [...]",
@@ -210,37 +241,6 @@
       "published": "Tue, 17 Mar 2026 09:59:12 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/",
-      "summary": "Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices that have the Microsoft 365 desktop client apps. [...]",
-      "published": "Tue, 17 Mar 2026 09:54:37 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
-      "summary": "The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and TypeScript. [...]",
-      "published": "Tue, 17 Mar 2026 08:09:35 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/",
-      "summary": "Microsoft has shared guidance to fix C:\\ drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2. [...]",
-      "published": "Tue, 17 Mar 2026 08:03:38 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -330,6 +330,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads",
+      "link": "https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii",
+      "summary": "Tracking pixels let social media companies spy on their users even after they click over to advertiser sites, gleaning credit card info, geolocations, and more.",
+      "published": "Wed, 18 Mar 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "SideWinder Espionage Campaign Expands Across Southeast Asia",
       "link": "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia",
       "summary": "The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
@@ -339,15 +348,6 @@
         "Phishing",
         "High severity"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Meta, TikTok Steal Users' Sensitive PII When They Click on Ads",
-      "link": "https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii",
-      "summary": "Tracking pixels let social media companies spy on their own customers when they click over to advertiser sites, gleaning credit card info, currency type, and more.",
-      "published": "Wed, 18 Mar 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -412,6 +412,42 @@
     },
     {
       "source": "Security Week",
+      "title": "Virtual Summit Today: Supply Chain & Third-Party Risk Summit",
+      "link": "https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/",
+      "summary": "Cyber risk doesn’t stop at your perimeter. Today’s most dangerous threats could be hiding in your software supply chain. The post Virtual Summit Today: Supply Chain & Third-Party Risk Summit appeared first on SecurityWeek .",
+      "published": "Wed, 18 Mar 2026 14:57:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations",
+      "link": "https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/",
+      "summary": "The sanctions target two Chinese individuals, two Chinese companies, and one Iranian firm involved in hacking EU member states. The post EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations appeared first on SecurityWeek .",
+      "published": "Wed, 18 Mar 2026 14:54:51 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches",
+      "link": "https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/",
+      "summary": "From Chaos to Control examines the chaos that often comes from shadow AI hidden in SaaS apps and urges better visibility and control over agentic AI. The post Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches appeared first on SecurityWeek .",
+      "published": "Wed, 18 Mar 2026 14:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Manifold Raises $8 Million for AI Detection and Response",
+      "link": "https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/",
+      "summary": "Focused on securing autonomous AI on endpoints, the startup will invest in product development. The post Manifold Raises $8 Million for AI Detection and Response appeared first on SecurityWeek .",
+      "published": "Wed, 18 Mar 2026 13:59:23 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach",
       "link": "https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/",
       "summary": "The medtech giant has been working on restoring systems affected by the cyberattack conducted by the Handala hackers. The post Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach appeared first on SecurityWeek .",
@@ -449,49 +485,6 @@
       "published": "Tue, 17 Mar 2026 16:01:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "UK Companies House Exposed Details of Millions of Firms",
-      "link": "https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/",
-      "summary": "The government agency confirmed the vulnerability could have been exploited to obtain company details and alter records. The post UK Companies House Exposed Details of Millions of Firms appeared first on SecurityWeek .",
-      "published": "Tue, 17 Mar 2026 15:40:25 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Surf AI Raises $57 Million for Agentic Security Operations Platform",
-      "link": "https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/",
-      "summary": "The company has announced its launch, backed by funding from Accel, Cyberstarts, and Boldstart Ventures. The post Surf AI Raises $57 Million for Agentic Security Operations Platform appeared first on SecurityWeek .",
-      "published": "Tue, 17 Mar 2026 14:21:43 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Robotic Surgery Giant Intuitive Discloses Cyberattack",
-      "link": "https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/",
-      "summary": "The company says some of its internal business applications were accessed after an employee fell victim to a phishing attack. The post Robotic Surgery Giant Intuitive Discloses Cyberattack appeared first on SecurityWeek .",
-      "published": "Tue, 17 Mar 2026 13:28:20 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "174 Vulnerabilities Targeted by RondoDox Botnet",
-      "link": "https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/",
-      "summary": "The botnet has increased its activity, peaking at 15,000 exploitation attempts per day, and taking a more targeted approach. The post 174 Vulnerabilities Targeted by RondoDox Botnet appeared first on SecurityWeek .",
-      "published": "Tue, 17 Mar 2026 12:37:45 +0000",
-      "value_score": 36,
-      "value_signals": [
-        "Botnet ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

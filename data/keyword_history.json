@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 346,
+      "count": 347,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -240,7 +240,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1039,
+      "count": 1040,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -682,7 +682,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1534,7 +1534,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 210,
+      "count": 211,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -5472,7 +5472,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 414,
+      "count": 415,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7621,7 +7621,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7631,7 +7631,8 @@
         "2026-02-26",
         "2026-03-03",
         "2026-03-04",
-        "2026-03-05"
+        "2026-03-05",
+        "2026-03-18"
       ]
     },
     "free vulnerability th": {
@@ -8932,7 +8933,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -8940,7 +8941,8 @@
         "2026-03-14",
         "2026-03-15",
         "2026-03-16",
-        "2026-03-17"
+        "2026-03-17",
+        "2026-03-18"
       ]
     },
     "local file system": {
@@ -9880,7 +9882,7 @@
       ]
     },
     "malicious glassworm extensions": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-16",
         "2026-03-17",
@@ -9966,7 +9968,7 @@
       ]
     },
     "scadapack 57x product": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -10014,21 +10016,21 @@
       ]
     },
     "ransomware operation known": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "vscode openvsx extensions": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "cve 2026 20643": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-18"
       ]
@@ -10040,18 +10042,48 @@
       ]
     },
     "vulnerabilities chain together": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-18"
       ]
     },
     "threat model right": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-18"
       ]
     },
     "breaks attack paths": {
+      "count": 2,
+      "dates": [
+        "2026-03-18"
+      ]
+    },
+    "startup will invest": {
+      "count": 1,
+      "dates": [
+        "2026-03-18"
+      ]
+    },
+    "send crypto scams": {
+      "count": 1,
+      "dates": [
+        "2026-03-18"
+      ]
+    },
+    "cryptocurrency wallet app": {
+      "count": 1,
+      "dates": [
+        "2026-03-18"
+      ]
+    },
+    "software supply chain": {
+      "count": 1,
+      "dates": [
+        "2026-03-18"
+      ]
+    },
+    "shadow ai risk": {
       "count": 1,
       "dates": [
         "2026-03-18"
@@ -10059,17 +10091,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-09 12:52",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "labkotec lid 3300ip",
-        "uses batch scripts"
-      ]
-    },
     {
       "timestamp": "2026-03-09 14:44",
       "articles": 56,
@@ -11155,6 +11176,17 @@
         "scattered lapsus shinyhunters",
         "scadapack 57x product",
         "cve 2026 20643",
+        "ransomware operation known",
+        "execute arbitrary code"
+      ]
+    },
+    {
+      "timestamp": "2026-03-18 14:57",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "cve 2026 20643",
+        "scadapack 57x product",
         "ransomware operation known",
         "execute arbitrary code"
       ]

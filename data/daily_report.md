@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-18 13:00 UTC  
+> **Last Updated:** 2026-03-18 14:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **scadapack 57x product** • **cve 2026 20643** • **ransomware operation known** • **execute arbitrary code** • **vulnerabilities chain together** • **twitter whistleblower complaint** • **threat model right** • **stopped automatically installing** • **samsung pcs microsoft** • **open source software** • **malicious cyber actors** • **employee fell victim** • **vscode openvsx extensions** • **breaks attack paths** • **174 vulnerabilities targeted** • **malicious glassworm extensions** • **sprawling phishing campaign** • **microsoft shares fix** • **victim's username password**
+**scattered lapsus shinyhunters** • **cve 2026 20643** • **scadapack 57x product** • **ransomware operation known** • **execute arbitrary code** • **twitter whistleblower complaint** • **threat model right** • **startup will invest** • **send crypto scams** • **malicious cyber actors** • **legitimate site forwarding** • **cryptocurrency wallet app** • **software supply chain** • **shadow ai risk** • **vscode openvsx extensions** • **sprawling phishing campaign** • **breaks attack paths** • **vulnerabilities chain together** • **malicious glassworm extensions** • **email flooding attacks**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms](https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/)
+- [New “Darksword” iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
+- [Nordstrom's email system abused to send crypto scams to customers](https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/)
 - [Apple pushes first Background Security Improvements update to fix WebKit flaw](https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/)
 - [GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX](https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/)
 - [Europe sanctions Chinese and Iranian firms for cyberattacks](https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/)
 - [Top 5 Things CISOs Need to Do Today to Secure AI Agents](https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/)
 - [New font-rendering trick hides malicious commands from AI tools](https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/)
-- [Microsoft stops force-installing the Microsoft 365 Copilot app](https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/)
-- [LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks](https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/)
-- [Microsoft shares fix for Windows C: drive access issues on Samsung PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/)
 
 ### Krebs on Security
 
@@ -49,8 +49,8 @@
 
 ### Dark Reading
 
+- [Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads](https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii)
 - [SideWinder Espionage Campaign Expands Across Southeast Asia](https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia)
-- [Meta, TikTok Steal Users' Sensitive PII When They Click on Ads](https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii)
 - [More Attackers Are Logging In, Not Breaking In](https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in)
 - [Less Lucrative Ransomware Market Makes Attackers Alter Methods](https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods)
 - [Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish](https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish)
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Virtual Summit Today: Supply Chain & Third-Party Risk Summit](https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/)
+- [EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations](https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/)
+- [Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/)
+- [Manifold Raises $8 Million for AI Detection and Response](https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/)
 - [Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach](https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/)
 - [Apple Debuts Background Security Improvements With Fresh WebKit Patches](https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/)
 - [Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won’t Patch](https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/)
 - [Tech Giants Invest $12.5 Million in Open Source Security](https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/)
-- [UK Companies House Exposed Details of Millions of Firms](https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/)
-- [Surf AI Raises $57 Million for Agentic Security Operations Platform](https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/)
-- [Robotic Surgery Giant Intuitive Discloses Cyberattack](https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/)
-- [174 Vulnerabilities Targeted by RondoDox Botnet](https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/)
 
 ### Threatpost
 

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 342,
+      "count": 343,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -240,7 +240,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1035,
+      "count": 1036,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -682,7 +682,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -690,7 +690,8 @@
         "2026-01-10",
         "2026-01-29",
         "2026-03-01",
-        "2026-03-02"
+        "2026-03-02",
+        "2026-03-18"
       ]
     },
     "france arrests latvian": {
@@ -1533,7 +1534,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 206,
+      "count": 207,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -5471,7 +5472,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 410,
+      "count": 411,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7758,7 +7759,7 @@
       ]
     },
     "victim's username password": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9863,7 +9864,7 @@
       ]
     },
     "appending obfuscated code": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-16",
         "2026-03-17",
@@ -9871,7 +9872,7 @@
       ]
     },
     "glassworm malware campaign": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-16",
         "2026-03-17",
@@ -9899,7 +9900,7 @@
       ]
     },
     "phishing uses kakaotalk": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -9912,7 +9913,7 @@
       ]
     },
     "tracebit raises 20m": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -9931,7 +9932,7 @@
       ]
     },
     "samsung pcs microsoft": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -9944,7 +9945,7 @@
       ]
     },
     "stopped automatically installing": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -9963,28 +9964,28 @@
       ]
     },
     "scadapack 57x product": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "open source software": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "government agency confirmed": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "distribute malicious payloads": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -10004,45 +10005,34 @@
       ]
     },
     "employee fell victim": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "ransomware operation known": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "vscode openvsx extensions": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "cve 2026 20643": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-18"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-09 04:12",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "lumma stealer malware",
-        "labkotec lid 3300ip"
-      ]
-    },
     {
       "timestamp": "2026-03-09 06:55",
       "articles": 56,
@@ -11130,6 +11120,17 @@
         "scadapack 57x product",
         "phishing uses kakaotalk",
         "ransomware operation known"
+      ]
+    },
+    {
+      "timestamp": "2026-03-18 06:56",
+      "articles": 56,
+      "top_keywords": [
+        "tracebit raises 20m",
+        "scattered lapsus shinyhunters",
+        "scadapack 57x product",
+        "cve 2026 20643",
+        "phishing uses kakaotalk"
       ]
     }
   ]

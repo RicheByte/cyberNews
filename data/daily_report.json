@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-03-18 04:21",
+  "last_updated": "2026-03-18 06:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "tracebit raises 20m",
     "scattered lapsus shinyhunters",
     "scadapack 57x product",
+    "cve 2026 20643",
     "phishing uses kakaotalk",
     "ransomware operation known",
     "victim's username password",
@@ -15,58 +16,72 @@
     "open source software",
     "government agency confirmed",
     "employee fell victim",
-    "cve 2026 20643",
-    "appending obfuscated code",
     "glassworm malware campaign",
     "malicious cyber actors",
     "distribute malicious payloads",
     "sprawling phishing campaign",
     "vscode openvsx extensions",
-    "automated pentesting product"
+    "execute arbitrary code",
+    "appending obfuscated code"
   ],
   "trending": [
     {
       "keyword": "tracebit raises 20m",
-      "mentions": 8
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 410
-    },
-    {
-      "keyword": "scadapack 57x product",
-      "mentions": 6
-    },
-    {
-      "keyword": "phishing uses kakaotalk",
       "mentions": 9
     },
     {
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 411
+    },
+    {
+      "keyword": "scadapack 57x product",
+      "mentions": 7
+    },
+    {
+      "keyword": "cve 2026 20643",
+      "mentions": 3
+    },
+    {
+      "keyword": "phishing uses kakaotalk",
+      "mentions": 10
+    },
+    {
       "keyword": "ransomware operation known",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "victim's username password",
-      "mentions": 82
+      "mentions": 83
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1035
+      "mentions": 1036
     },
     {
       "keyword": "stopped automatically installing",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "samsung pcs microsoft",
-      "mentions": 7
-    },
-    {
-      "keyword": "open source software",
-      "mentions": 6
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+      "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set",
+      "published": "Wed, 18 Mar 2026 10:36:00 +0530",
+      "value_score": 96,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
@@ -145,15 +160,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Why Security Validation Is Becoming Agentic",
-      "link": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
-      "summary": "If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pentest engagement, or maybe an automated pentesting product, in another. A vulnerability scanner feeding an attack surface management platform somewhere else. Each tool gives you a slice of the picture. None of them talks to each other in any",
-      "published": "Mon, 16 Mar 2026 17:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

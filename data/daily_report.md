@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-18 04:21 UTC  
+> **Last Updated:** 2026-03-18 06:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**tracebit raises 20m** • **scattered lapsus shinyhunters** • **scadapack 57x product** • **phishing uses kakaotalk** • **ransomware operation known** • **victim's username password** • **twitter whistleblower complaint** • **stopped automatically installing** • **samsung pcs microsoft** • **open source software** • **government agency confirmed** • **employee fell victim** • **cve 2026 20643** • **appending obfuscated code** • **glassworm malware campaign** • **malicious cyber actors** • **distribute malicious payloads** • **sprawling phishing campaign** • **vscode openvsx extensions** • **automated pentesting product**
+**tracebit raises 20m** • **scattered lapsus shinyhunters** • **scadapack 57x product** • **cve 2026 20643** • **phishing uses kakaotalk** • **ransomware operation known** • **victim's username password** • **twitter whistleblower complaint** • **stopped automatically installing** • **samsung pcs microsoft** • **open source software** • **government agency confirmed** • **employee fell victim** • **glassworm malware campaign** • **malicious cyber actors** • **distribute malicious payloads** • **sprawling phishing campaign** • **vscode openvsx extensions** • **execute arbitrary code** • **appending obfuscated code**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
 - [AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
 - [LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader](https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html)
 - [AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
@@ -23,7 +24,6 @@
 - [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
 - [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
 - [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
-- [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
 
 ### BleepingComputer
 

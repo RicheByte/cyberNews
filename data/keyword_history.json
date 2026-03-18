@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 345,
+      "count": 346,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -240,7 +240,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1038,
+      "count": 1039,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -682,7 +682,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1534,7 +1534,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 209,
+      "count": 210,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -5472,7 +5472,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 413,
+      "count": 414,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7759,7 +7759,7 @@
       ]
     },
     "victim's username password": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9880,10 +9880,11 @@
       ]
     },
     "malicious glassworm extensions": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-16",
-        "2026-03-17"
+        "2026-03-17",
+        "2026-03-18"
       ]
     },
     "glassworm malware evolves": {
@@ -9920,7 +9921,7 @@
       ]
     },
     "174 vulnerabilities targeted": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -9933,7 +9934,7 @@
       ]
     },
     "samsung pcs microsoft": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -9946,7 +9947,7 @@
       ]
     },
     "stopped automatically installing": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -9965,14 +9966,14 @@
       ]
     },
     "scadapack 57x product": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "open source software": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -10006,33 +10007,51 @@
       ]
     },
     "employee fell victim": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "ransomware operation known": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "vscode openvsx extensions": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "cve 2026 20643": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-18"
       ]
     },
     "microsoft shares fix": {
+      "count": 2,
+      "dates": [
+        "2026-03-18"
+      ]
+    },
+    "vulnerabilities chain together": {
+      "count": 1,
+      "dates": [
+        "2026-03-18"
+      ]
+    },
+    "threat model right": {
+      "count": 1,
+      "dates": [
+        "2026-03-18"
+      ]
+    },
+    "breaks attack paths": {
       "count": 1,
       "dates": [
         "2026-03-18"
@@ -10040,17 +10059,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-09 10:40",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "labkotec lid 3300ip",
-        "chinese threat actor"
-      ]
-    },
     {
       "timestamp": "2026-03-09 12:52",
       "articles": 56,
@@ -11138,6 +11146,17 @@
         "scadapack 57x product",
         "cve 2026 20643",
         "phishing uses kakaotalk"
+      ]
+    },
+    {
+      "timestamp": "2026-03-18 13:00",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "scadapack 57x product",
+        "cve 2026 20643",
+        "ransomware operation known",
+        "execute arbitrary code"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-18 10:46 UTC  
+> **Last Updated:** 2026-03-18 13:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**tracebit raises 20m** • **scattered lapsus shinyhunters** • **scadapack 57x product** • **cve 2026 20643** • **phishing uses kakaotalk** • **ransomware operation known** • **sprawling phishing campaign** • **victim's username password** • **twitter whistleblower complaint** • **stopped automatically installing** • **samsung pcs microsoft** • **open source software** • **government agency confirmed** • **execute arbitrary code** • **employee fell victim** • **malicious cyber actors** • **distribute malicious payloads** • **vscode openvsx extensions** • **174 vulnerabilities targeted** • **microsoft shares fix**
+**scattered lapsus shinyhunters** • **scadapack 57x product** • **cve 2026 20643** • **ransomware operation known** • **execute arbitrary code** • **vulnerabilities chain together** • **twitter whistleblower complaint** • **threat model right** • **stopped automatically installing** • **samsung pcs microsoft** • **open source software** • **malicious cyber actors** • **employee fell victim** • **vscode openvsx extensions** • **breaks attack paths** • **174 vulnerabilities targeted** • **malicious glassworm extensions** • **sprawling phishing campaign** • **microsoft shares fix** • **victim's username password**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
+- [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
+- [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
+- [Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels](https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html)
 - [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
 - [Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS](https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html)
-- [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
 - [AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
 - [LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader](https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html)
-- [AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
-- [Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
-- [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
 
 ### BleepingComputer
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [SideWinder Espionage Campaign Expands Across Southeast Asia](https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia)
+- [Meta, TikTok Steal Users' Sensitive PII When They Click on Ads](https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii)
 - [More Attackers Are Logging In, Not Breaking In](https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in)
 - [Less Lucrative Ransomware Market Makes Attackers Alter Methods](https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods)
 - [Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish](https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish)
 - [Warlock Ransomware Group Augments Post-Exploitation Activities](https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities)
 - [China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years](https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs)
 - [GlassWorm Malware Evolves to Hide in Dependencies](https://www.darkreading.com/application-security/glassworm-malware-evolves-hide-dependencies)
-- [Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026](https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026)
-- [Attackers Abuse LiveChat to Phish Credit Card, Personal Data](https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data)
 
 ### Security Week
 
+- [Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach](https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/)
+- [Apple Debuts Background Security Improvements With Fresh WebKit Patches](https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/)
 - [Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won’t Patch](https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/)
 - [Tech Giants Invest $12.5 Million in Open Source Security](https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/)
 - [UK Companies House Exposed Details of Millions of Firms](https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/)
 - [Surf AI Raises $57 Million for Agentic Security Operations Platform](https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/)
 - [Robotic Surgery Giant Intuitive Discloses Cyberattack](https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/)
 - [174 Vulnerabilities Targeted by RondoDox Botnet](https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/)
-- [Google, Meta, Microsoft Among Signatories of Pact to Combat Scams](https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/)
-- [Tracebit Raises $20M for Cloud-Native Deception Technology](https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/)
 
 ### Threatpost
 

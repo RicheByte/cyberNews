@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-18 10:46 UTC |
+| 🕐 Last Updated | 2026-03-18 13:00 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`tracebit raises 20m` • `scattered lapsus shinyhunters` • `scadapack 57x product` • `cve 2026 20643` • `phishing uses kakaotalk` • `ransomware operation known` • `sprawling phishing campaign` • `victim's username password` • `twitter whistleblower complaint` • `stopped automatically installing`
+`scattered lapsus shinyhunters` • `scadapack 57x product` • `cve 2026 20643` • `ransomware operation known` • `execute arbitrary code` • `vulnerabilities chain together` • `twitter whistleblower complaint` • `threat model right` • `stopped automatically installing` • `samsung pcs microsoft`
 
 ## 📄 Reports
 

@@ -1,72 +1,116 @@
 {
-  "last_updated": "2026-03-18 10:46",
+  "last_updated": "2026-03-18 13:00",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "tracebit raises 20m",
     "scattered lapsus shinyhunters",
     "scadapack 57x product",
     "cve 2026 20643",
-    "phishing uses kakaotalk",
     "ransomware operation known",
-    "sprawling phishing campaign",
-    "victim's username password",
+    "execute arbitrary code",
+    "vulnerabilities chain together",
     "twitter whistleblower complaint",
+    "threat model right",
     "stopped automatically installing",
     "samsung pcs microsoft",
     "open source software",
-    "government agency confirmed",
-    "execute arbitrary code",
-    "employee fell victim",
     "malicious cyber actors",
-    "distribute malicious payloads",
+    "employee fell victim",
     "vscode openvsx extensions",
+    "breaks attack paths",
     "174 vulnerabilities targeted",
-    "microsoft shares fix"
+    "malicious glassworm extensions",
+    "sprawling phishing campaign",
+    "microsoft shares fix",
+    "victim's username password"
   ],
   "trending": [
     {
-      "keyword": "tracebit raises 20m",
-      "mentions": 11
-    },
-    {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 413
+      "mentions": 414
     },
     {
       "keyword": "scadapack 57x product",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "cve 2026 20643",
-      "mentions": 5
-    },
-    {
-      "keyword": "phishing uses kakaotalk",
-      "mentions": 12
+      "mentions": 6
     },
     {
       "keyword": "ransomware operation known",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 209
+      "keyword": "execute arbitrary code",
+      "mentions": 40
     },
     {
-      "keyword": "victim's username password",
-      "mentions": 85
+      "keyword": "vulnerabilities chain together",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1038
+      "mentions": 1039
+    },
+    {
+      "keyword": "threat model right",
+      "mentions": 1
     },
     {
       "keyword": "stopped automatically installing",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "samsung pcs microsoft",
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
+      "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set",
+      "published": "Wed, 18 Mar 2026 18:00:00 +0530",
+      "value_score": 96,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
+      "link": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
+      "summary": "When a Magecart payload hides inside the EXIF data of a dynamically loaded third-party favicon, no repository scanner will catch it – because the malicious code never actually touches your repo. As teams adopt Claude Code Security for static analysis, this is the exact technical boundary where AI code scanning stops and client-side runtime execution begins. A detailed analysis of where Claude",
+      "published": "Wed, 18 Mar 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
+      "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
+      "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hosts. The nine vulnerabilities, discovered by Eclypsium, span four different products from GL-iNet Comet RM-1, Angeet/Yeeso ES3 KVM, Sipeed NanoKVM, and JetKVM. The most severe of them allow",
+      "published": "Wed, 18 Mar 2026 17:12:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
+      "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
+      "summary": "Security teams today are not short on tools or data. They are overwhelmed by both. Yet within the terabytes of alerts, exposures, and misconfigurations – security teams still struggle to understand context: Q: Which exposures, misconfigurations, and vulnerabilities chain together to create viable attack paths to crown jewels? Even the most mature security teams can’t answer that",
+      "published": "Wed, 18 Mar 2026 16:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
@@ -94,21 +138,6 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
-      "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
-      "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set",
-      "published": "Wed, 18 Mar 2026 10:36:00 +0530",
-      "value_score": 96,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE",
-        "High severity ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
       "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
       "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
       "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries. In a report published Monday, BeyondTrust revealed that Amazon Bedrock AgentCore Code Interpreter's sandbox mode permits outbound DNS queries that an attacker can exploit to enable interactive shells",
@@ -128,42 +157,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
-      "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
-      "summary": "A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and Adversarial Testing Benchmark Report 2026 from Pentera. The report, based on a survey of 300 US CISOs and senior security leaders, examines how organizations are securing AI infrastructure and highlights critical gaps tied to skills shortages and",
-      "published": "Tue, 17 Mar 2026 17:00:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
-      "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
-      "summary": "North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts. The activity has been attributed by South Korean threat intelligence firm Genians to a hacking group referred to as Konni. \"Initial access was achieved through a spear-phishing email disguised as a",
-      "published": "Tue, 17 Mar 2026 15:23:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
-      "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, CVE-2025-47813 (CVSS score: 4.3), is an information disclosure vulnerability that leaks the installation path of the application under certain conditions",
-      "published": "Tue, 17 Mar 2026 10:53:00 +0530",
-      "value_score": 99,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "CISA/KEV ×4",
-        "Exploit wording"
       ]
     },
     {
@@ -337,6 +330,27 @@
     },
     {
       "source": "Dark Reading",
+      "title": "SideWinder Espionage Campaign Expands Across Southeast Asia",
+      "link": "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia",
+      "summary": "The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
+      "published": "Wed, 18 Mar 2026 13:00:00 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Meta, TikTok Steal Users' Sensitive PII When They Click on Ads",
+      "link": "https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii",
+      "summary": "Tracking pixels let social media companies spy on their own customers when they click over to advertiser sites, gleaning credit card info, currency type, and more.",
+      "published": "Wed, 18 Mar 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "More Attackers Are Logging In, Not Breaking In",
       "link": "https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in",
       "summary": "Credential theft soared in the second half of 2025, thanks in part to the industrialization of infostealer malware and AI-enabled social engineering.",
@@ -397,20 +411,22 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026",
-      "link": "https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026",
-      "summary": "Discover how Franz Regul, former CISO for the Paris 2024 Olympics, tackled unique cybersecurity challenges to protect the Games from evolving threats.",
-      "published": "Mon, 16 Mar 2026 20:28:19 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach",
+      "link": "https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/",
+      "summary": "The medtech giant has been working on restoring systems affected by the cyberattack conducted by the Handala hackers. The post Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach appeared first on SecurityWeek .",
+      "published": "Wed, 18 Mar 2026 12:47:00 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Attackers Abuse LiveChat to Phish Credit Card, Personal Data",
-      "link": "https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data",
-      "summary": "A social engineering campaign impersonating PayPal and Amazon uses customer support interactions to acquire sensitive info.",
-      "published": "Mon, 16 Mar 2026 14:10:47 GMT",
+      "source": "Security Week",
+      "title": "Apple Debuts Background Security Improvements With Fresh WebKit Patches",
+      "link": "https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/",
+      "summary": "The lightweight updates are meant to deliver security protections between security updates. The post Apple Debuts Background Security Improvements With Fresh WebKit Patches appeared first on SecurityWeek .",
+      "published": "Wed, 18 Mar 2026 12:35:49 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -476,24 +492,6 @@
         "Botnet ×3",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Google, Meta, Microsoft Among Signatories of Pact to Combat Scams",
-      "link": "https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/",
-      "summary": "Several major tech and retail companies have signed an industry accord against online scams and fraud. The post Google, Meta, Microsoft Among Signatories of Pact to Combat Scams appeared first on SecurityWeek .",
-      "published": "Tue, 17 Mar 2026 12:10:52 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Tracebit Raises $20M for Cloud-Native Deception Technology",
-      "link": "https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/",
-      "summary": "The company plans to scale its products, expand to new markets, and grow its marketing and engineering teams. The post Tracebit Raises $20M for Cloud-Native Deception Technology appeared first on SecurityWeek .",
-      "published": "Tue, 17 Mar 2026 11:52:34 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

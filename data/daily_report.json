@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-03-18 20:30",
+  "last_updated": "2026-03-18 22:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
-    "ofac sanctions dprk",
     "cve 2026 20643",
+    "ofac sanctions dprk",
     "scadapack 57x product",
     "execute arbitrary code",
     "shadow ai risk",
@@ -13,57 +13,57 @@
     "twitter whistleblower complaint",
     "startup will invest",
     "send crypto scams",
+    "requires administrator credentials",
     "legitimate site forwarding",
+    "festo automation suite",
     "cryptocurrency wallet app",
     "agents autonomous programs",
-    "known exploited vulnerabiliti",
+    "breaks attack paths",
     "shadow ai hidden",
     "ransomware gang stole",
     "interlock ransomware gang",
-    "full device compromise",
-    "festo automation suite",
-    "c suite executive"
+    "full device compromise"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 418
-    },
-    {
-      "keyword": "ofac sanctions dprk",
-      "mentions": 2
+      "mentions": 419
     },
     {
       "keyword": "cve 2026 20643",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "ofac sanctions dprk",
+      "mentions": 3
     },
     {
       "keyword": "scadapack 57x product",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "shadow ai risk",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 536
+      "mentions": 537
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1043
+      "mentions": 1044
     },
     {
       "keyword": "startup will invest",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "send crypto scams",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -342,6 +342,27 @@
     },
     {
       "source": "Dark Reading",
+      "title": "C2 Implant 'SnappyClient' Targets Crypto Wallets",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets",
+      "summary": "In addition to enabling remote access, the malware supports a wide range of capabilities, including data theft and spying.",
+      "published": "Wed, 18 Mar 2026 21:49:02 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "DarkSword: iPhone Exploit Kit Serves Spies &amp; Thieves Alike",
+      "link": "https://www.darkreading.com/threat-intelligence/darksword-iphone-exploit-spies-thieves",
+      "summary": "A sophisticated iOS exploit chain leverages multiple zero-day vulnerabilities and is targeting users in Saudi Arabia, Turkey, Malaysia, and Ukraine.",
+      "published": "Wed, 18 Mar 2026 21:15:38 GMT",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Claudy Day’ Trio of Flaws Exposes Claude Users to Data Theft",
       "link": "https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft",
       "summary": "A prompt injection vulnerability paired with other flaws can turn a Google search into a full attack chain that could threaten enterprise networks.",
@@ -397,29 +418,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish",
-      "link": "https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish",
-      "summary": "In an unsuccessful phishing attack, threat actors leveraged trusted brands and domains to try to redirect a C-suite executive at Outpost24 to give up his credentials.",
-      "published": "Tue, 17 Mar 2026 19:41:24 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Warlock Ransomware Group Augments Post-Exploitation Activities",
-      "link": "https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities",
-      "summary": "In a recent attack, the group showcased stealthier cross-network activity, thanks to its use of a new BYOVD technique and other tools.",
-      "published": "Tue, 17 Mar 2026 15:36:52 GMT",
-      "value_score": 34,
-      "value_signals": [
-        "Ransomware",
-        "Exploit wording"
       ]
     },
     {
@@ -584,6 +582,32 @@
     {
       "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-66376 Synacor Zimbra Collaboration Suite (ZCS) Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as",
+      "published": "Wed, 18 Mar 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Urges Endpoint Management System Hardening After Cyberattack Against US Organization",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-urges-endpoint-management-system-hardening-after-cyberattack-against-us-organization",
+      "summary": "CISA is aware of malicious cyber activity targeting endpoint management systems of U.S. organizations based on the March 11, 2026 cyberattack against U.S.-based medical technology firm Stryker Corporation, which affected their Microsoft environment. 1 To defend against similar malicious cyber activity, CISA urges organizations to harden endpoint management system configurations using the recommendations and resources provided in this alert. CISA is conducting enhanced coordination with federal p",
+      "published": "Wed, 18 Mar 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CISA/KEV ×4"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog-0",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20963 Microsoft SharePoint Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a livi",
       "published": "Wed, 18 Mar 26 12:00:00 +0000",
@@ -597,15 +621,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-66376 Synacor Zimbra Collaboration Suite (ZCS) Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as",
-      "published": "Wed, 18 Mar 26 12:00:00 +0000",
-      "value_score": 99,
+      "title": "Siemens SICAM SIAPP SDK",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04",
+      "summary": "View CSAF Summary The SICAM SIAPP SDK contains multiple vulnerabilities that could allow an attacker to disrupt the customer-developed SIAPP or its simulation environment. Potential impacts include denial of service within the SIAPP, corruption of SIAPP data, or exploit the simulation environment. These vulnerabilities are only exploitable if the API is used improperly or hardening measures are not applied. Siemens has released a new version for SICAM SIAPP SDK and recommends to update to the la",
+      "published": "Tue, 17 Mar 26 12:00:00 +0000",
+      "value_score": 49,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
+        "Patch/update",
         "Exploit wording"
       ]
     },
@@ -645,19 +668,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens SICAM SIAPP SDK",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04",
-      "summary": "View CSAF Summary The SICAM SIAPP SDK contains multiple vulnerabilities that could allow an attacker to disrupt the customer-developed SIAPP or its simulation environment. Potential impacts include denial of service within the SIAPP, corruption of SIAPP data, or exploit the simulation environment. These vulnerabilities are only exploitable if the API is used improperly or hardening measures are not applied. Siemens has released a new version for SICAM SIAPP SDK and recommends to update to the la",
-      "published": "Tue, 17 Mar 26 12:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-47813 Wing FTP Server Information Disclosure Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known",
@@ -667,21 +677,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability CVE-2026-3910 Google Chromium V8 Unspecified Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabiliti",
-      "published": "Fri, 13 Mar 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     }

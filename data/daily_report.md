@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-18 14:57 UTC  
+> **Last Updated:** 2026-03-18 16:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **cve 2026 20643** • **scadapack 57x product** • **ransomware operation known** • **execute arbitrary code** • **twitter whistleblower complaint** • **threat model right** • **startup will invest** • **send crypto scams** • **malicious cyber actors** • **legitimate site forwarding** • **cryptocurrency wallet app** • **software supply chain** • **shadow ai risk** • **vscode openvsx extensions** • **sprawling phishing campaign** • **breaks attack paths** • **vulnerabilities chain together** • **malicious glassworm extensions** • **email flooding attacks**
+**scattered lapsus shinyhunters** • **cve 2026 20643** • **scadapack 57x product** • **execute arbitrary code** • **windows operating systems** • **twitter whistleblower complaint** • **threat model right** • **startup will invest** • **send crypto scams** • **malicious cyber actors** • **legitimate site forwarding** • **cryptocurrency wallet app** • **shadow ai risk** • **ransomware gang stole** • **interlock ransomware gang** • **full device compromise** • **sprawling phishing campaign** • **breaks attack paths** • **shadow ai hidden** • **email flooding attacks**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
 - [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
 - [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
 - [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
@@ -23,18 +24,17 @@
 - [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
 - [Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS](https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html)
 - [AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
-- [LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader](https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html)
 
 ### BleepingComputer
 
+- [Ransomware gang exploits Cisco flaw in zero-day attacks since January](https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/)
+- [Marquis: Ransomware gang stole data of 672K people in cyberattack](https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/)
 - [The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms](https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/)
 - [New “Darksword” iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
 - [Nordstrom's email system abused to send crypto scams to customers](https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/)
 - [Apple pushes first Background Security Improvements update to fix WebKit flaw](https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/)
 - [GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX](https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/)
 - [Europe sanctions Chinese and Iranian firms for cyberattacks](https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/)
-- [Top 5 Things CISOs Need to Do Today to Secure AI Agents](https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/)
-- [New font-rendering trick hides malicious commands from AI tools](https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
-- [Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads](https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii)
+- ['Claudy Day’ Trio of Flaws Exposes Claude Users to Data Theft](https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft)
 - [SideWinder Espionage Campaign Expands Across Southeast Asia](https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia)
+- [Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads](https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii)
 - [More Attackers Are Logging In, Not Breaking In](https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in)
 - [Less Lucrative Ransomware Market Makes Attackers Alter Methods](https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods)
 - [Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish](https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish)
 - [Warlock Ransomware Group Augments Post-Exploitation Activities](https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities)
 - [China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years](https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs)
-- [GlassWorm Malware Evolves to Hide in Dependencies](https://www.darkreading.com/application-security/glassworm-malware-evolves-hide-dependencies)
 
 ### Security Week
 
+- [Cloud Security Startup Native Exits Stealth With $42 Million in Funding](https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/)
+- [‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors](https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/)
 - [Virtual Summit Today: Supply Chain & Third-Party Risk Summit](https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/)
 - [EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations](https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/)
 - [Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/)
 - [Manifold Raises $8 Million for AI Detection and Response](https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/)
 - [Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach](https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/)
 - [Apple Debuts Background Security Improvements With Fresh WebKit Patches](https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/)
-- [Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won’t Patch](https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/)
-- [Tech Giants Invest $12.5 Million in Open Source Security](https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/)
 
 ### Threatpost
 

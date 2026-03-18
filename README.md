@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-18 14:57 UTC |
+| 🕐 Last Updated | 2026-03-18 16:55 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `cve 2026 20643` • `scadapack 57x product` • `ransomware operation known` • `execute arbitrary code` • `twitter whistleblower complaint` • `threat model right` • `startup will invest` • `send crypto scams` • `malicious cyber actors`
+`scattered lapsus shinyhunters` • `cve 2026 20643` • `scadapack 57x product` • `execute arbitrary code` • `windows operating systems` • `twitter whistleblower complaint` • `threat model right` • `startup will invest` • `send crypto scams` • `malicious cyber actors`
 
 ## 📄 Reports
 

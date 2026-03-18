@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-18 08:41 UTC  
+> **Last Updated:** 2026-03-18 10:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**tracebit raises 20m** • **scattered lapsus shinyhunters** • **scadapack 57x product** • **cve 2026 20643** • **phishing uses kakaotalk** • **ransomware operation known** • **victim's username password** • **twitter whistleblower complaint** • **stopped automatically installing** • **samsung pcs microsoft** • **open source software** • **government agency confirmed** • **employee fell victim** • **glassworm malware campaign** • **malicious cyber actors** • **distribute malicious payloads** • **sprawling phishing campaign** • **vscode openvsx extensions** • **execute arbitrary code** • **appending obfuscated code**
+**tracebit raises 20m** • **scattered lapsus shinyhunters** • **scadapack 57x product** • **cve 2026 20643** • **phishing uses kakaotalk** • **ransomware operation known** • **sprawling phishing campaign** • **victim's username password** • **twitter whistleblower complaint** • **stopped automatically installing** • **samsung pcs microsoft** • **open source software** • **government agency confirmed** • **execute arbitrary code** • **employee fell victim** • **malicious cyber actors** • **distribute malicious payloads** • **vscode openvsx extensions** • **174 vulnerabilities targeted** • **microsoft shares fix**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
 - [Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS](https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html)
 - [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
 - [AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
@@ -23,7 +24,6 @@
 - [AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
 - [Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
 - [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
-- [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won’t Patch](https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/)
 - [Tech Giants Invest $12.5 Million in Open Source Security](https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/)
 - [UK Companies House Exposed Details of Millions of Firms](https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/)
 - [Surf AI Raises $57 Million for Agentic Security Operations Platform](https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/)
@@ -67,7 +68,6 @@
 - [174 Vulnerabilities Targeted by RondoDox Botnet](https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/)
 - [Google, Meta, Microsoft Among Signatories of Pact to Combat Scams](https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/)
 - [Tracebit Raises $20M for Cloud-Native Deception Technology](https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/)
-- [CISA Flags Year-Old Wing FTP Vulnerability as Exploited](https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/)
 
 ### Threatpost
 

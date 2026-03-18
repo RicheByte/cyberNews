@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-18 18:53 UTC  
+> **Last Updated:** 2026-03-18 20:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **ofac sanctions dprk** • **cve 2026 20643** • **execute arbitrary code** • **shadow ai risk** • **windows operating systems** • **twitter whistleblower complaint** • **threat model right** • **startup will invest** • **send crypto scams** • **malicious cyber actors** • **legitimate site forwarding** • **cryptocurrency wallet app** • **agents autonomous programs** • **scadapack 57x product** • **shadow ai hidden** • **ransomware gang stole** • **interlock ransomware gang** • **full device compromise** • **sprawling phishing campaign**
+**scattered lapsus shinyhunters** • **ofac sanctions dprk** • **cve 2026 20643** • **scadapack 57x product** • **execute arbitrary code** • **shadow ai risk** • **windows operating systems** • **twitter whistleblower complaint** • **startup will invest** • **send crypto scams** • **legitimate site forwarding** • **cryptocurrency wallet app** • **agents autonomous programs** • **known exploited vulnerabiliti** • **shadow ai hidden** • **ransomware gang stole** • **interlock ransomware gang** • **full device compromise** • **festo automation suite** • **c suite executive**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [CISA orders feds to patch Zimbra XSS flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/)
 - [ConnectWise patches new flaw allowing ScreenConnect hijacking](https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/)
 - [Ransomware gang exploits Cisco flaw in zero-day attacks since January](https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/)
 - [Marquis: Ransomware gang stole data of 672K people in cyberattack](https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/)
@@ -34,7 +35,6 @@
 - [New “Darksword” iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
 - [Nordstrom's email system abused to send crypto scams to customers](https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/)
 - [Apple pushes first Background Security Improvements update to fix WebKit flaw](https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/)
-- [GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX](https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/)
 
 ### Krebs on Security
 
@@ -51,15 +51,16 @@
 
 - ['Claudy Day’ Trio of Flaws Exposes Claude Users to Data Theft](https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft)
 - [SideWinder Espionage Campaign Expands Across Southeast Asia](https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia)
-- [Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads](https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii)
+- [Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads](https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii)
 - [More Attackers Are Logging In, Not Breaking In](https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in)
+- [Clear Communication: The Missing Link in Cybersecurity Success](https://www.darkreading.com/cybersecurity-operations/clear-communication-missing-link-cybersecurity-success)
 - [Less Lucrative Ransomware Market Makes Attackers Alter Methods](https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods)
 - [Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish](https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish)
 - [Warlock Ransomware Group Augments Post-Exploitation Activities](https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities)
-- [China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years](https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs)
 
 ### Security Week
 
+- [The Collapse of Predictive Security in the Age of Machine-Speed Attacks](https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/)
 - [Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/)
 - [Cloud Security Startup Native Exits Stealth With $42 Million in Funding](https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/)
 - [‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors](https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/)
@@ -67,7 +68,6 @@
 - [EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations](https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/)
 - [Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/)
 - [Manifold Raises $8 Million for AI Detection and Response](https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/)
-- [Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach](https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog-0)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CODESYS in Festo Automation Suite](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-01)
-- [Siemens SICAM SIAPP SDK](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04)
 - [Schneider Electric SCADAPack and RemoteConnect](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-02)
 - [Schneider Electric EcoStruxure Data Center Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-03)
+- [Siemens SICAM SIAPP SDK](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [Trane Tracer SC, Tracer SC+, and Tracer Concierge](https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-01)
 
 ---
 

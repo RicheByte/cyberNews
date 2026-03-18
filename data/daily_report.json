@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-18 18:53",
+  "last_updated": "2026-03-18 20:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "ofac sanctions dprk",
     "cve 2026 20643",
+    "scadapack 57x product",
     "execute arbitrary code",
     "shadow ai risk",
     "windows operating systems",
     "twitter whistleblower complaint",
-    "threat model right",
     "startup will invest",
     "send crypto scams",
-    "malicious cyber actors",
     "legitimate site forwarding",
     "cryptocurrency wallet app",
     "agents autonomous programs",
-    "scadapack 57x product",
+    "known exploited vulnerabiliti",
     "shadow ai hidden",
     "ransomware gang stole",
     "interlock ransomware gang",
     "full device compromise",
-    "sprawling phishing campaign"
+    "festo automation suite",
+    "c suite executive"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 417
+      "mentions": 418
     },
     {
       "keyword": "ofac sanctions dprk",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cve 2026 20643",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "scadapack 57x product",
+      "mentions": 14
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "shadow ai risk",
-      "mentions": 3
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 535
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1042
-    },
-    {
-      "keyword": "threat model right",
       "mentions": 4
     },
     {
+      "keyword": "windows operating systems",
+      "mentions": 536
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1043
+    },
+    {
       "keyword": "startup will invest",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "send crypto scams",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -163,6 +163,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
+      "summary": "CISA has ordered U.S. government agencies to secure their servers against an actively exploited vulnerability in the Zimbra Collaboration Suite (ZCS). [...]",
+      "published": "Wed, 18 Mar 2026 15:57:13 -0400",
+      "value_score": 89,
+      "value_signals": [
+        "Active exploitation",
+        "Patch/update",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
       "link": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
       "summary": "ConnectWise is warning ScreenConnect customers of a cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation. [...]",
@@ -239,15 +253,6 @@
         "CVE mentioned",
         "Patch/update ×4"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
-      "summary": "The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions. [...]",
-      "published": "Tue, 17 Mar 2026 17:42:54 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -358,9 +363,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads",
+      "title": "Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads",
       "link": "https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii",
-      "summary": "Tracking pixels let social media companies spy on their users even after they click over to advertiser sites, gleaning credit card info, geolocations, and more.",
+      "summary": "Tracking pixels let social media companies spy on their users even after they click over to advertiser sites, gleaning credit card info, geolocations, and more, according to an analysis.",
       "published": "Wed, 18 Mar 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -371,6 +376,15 @@
       "link": "https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in",
       "summary": "Credential theft soared in the second half of 2025, thanks in part to the industrialization of infostealer malware and AI-enabled social engineering.",
       "published": "Tue, 17 Mar 2026 22:04:46 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Clear Communication: The Missing Link in Cybersecurity Success",
+      "link": "https://www.darkreading.com/cybersecurity-operations/clear-communication-missing-link-cybersecurity-success",
+      "summary": "When technical expertise meets clear communication, cybersecurity teams thrive. Learn how to foster trust and collaboration across diverse working groups.",
+      "published": "Tue, 17 Mar 2026 21:42:46 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -409,13 +423,15 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years",
-      "link": "https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs",
-      "summary": "Researchers uncovered an extensive cyber espionage campaign that used novel backdoors and familiar evasion techniques to maintain persistent access to regional targets.",
-      "published": "Tue, 17 Mar 2026 01:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "The Collapse of Predictive Security in the Age of Machine-Speed Attacks",
+      "link": "https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/",
+      "summary": "With exploitation of vulnerabilities taking just days, preemptive security must be the new model for defenders. The post The Collapse of Predictive Security in the Age of Machine-Speed Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 18 Mar 2026 19:37:25 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -481,17 +497,6 @@
       "published": "Wed, 18 Mar 2026 13:59:23 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach",
-      "link": "https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/",
-      "summary": "The medtech giant has been working on restoring systems affected by the cyberattack conducted by the Handala hackers. The post Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach appeared first on SecurityWeek .",
-      "published": "Wed, 18 Mar 2026 12:47:00 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",
@@ -579,6 +584,20 @@
     {
       "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog-0",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20963 Microsoft SharePoint Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a livi",
+      "published": "Wed, 18 Mar 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-66376 Synacor Zimbra Collaboration Suite (ZCS) Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as",
       "published": "Wed, 18 Mar 26 12:00:00 +0000",
@@ -603,19 +622,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens SICAM SIAPP SDK",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04",
-      "summary": "View CSAF Summary The SICAM SIAPP SDK contains multiple vulnerabilities that could allow an attacker to disrupt the customer-developed SIAPP or its simulation environment. Potential impacts include denial of service within the SIAPP, corruption of SIAPP data, or exploit the simulation environment. These vulnerabilities are only exploitable if the API is used improperly or hardening measures are not applied. Siemens has released a new version for SICAM SIAPP SDK and recommends to update to the la",
-      "published": "Tue, 17 Mar 26 12:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Schneider Electric SCADAPack and RemoteConnect",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-02",
       "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its SCADAPack™ x70 RTU products. The SCADAPack™ 47xi, SCADAPack™ 47x and SCADAPack™ 57x product are Remote Terminal Units that provide communication capabilities for remote monitoring and control. Failure to apply the remediations provided below may risk unauthorized access to your RTU, which could result in the possibility of denial of service and loss of confidentiality, integrity of the controller. The following versions of S",
@@ -635,6 +641,19 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "High severity"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens SICAM SIAPP SDK",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04",
+      "summary": "View CSAF Summary The SICAM SIAPP SDK contains multiple vulnerabilities that could allow an attacker to disrupt the customer-developed SIAPP or its simulation environment. Potential impacts include denial of service within the SIAPP, corruption of SIAPP data, or exploit the simulation environment. These vulnerabilities are only exploitable if the API is used improperly or hardening measures are not applied. Siemens has released a new version for SICAM SIAPP SDK and recommends to update to the la",
+      "published": "Tue, 17 Mar 26 12:00:00 +0000",
+      "value_score": 49,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update",
+        "Exploit wording"
       ]
     },
     {
@@ -663,18 +682,6 @@
         "CVE mentioned ×2",
         "CISA/KEV ×5",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Trane Tracer SC, Tracer SC+, and Tracer Concierge",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-071-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information, execute arbitrary commands, or perform a denial-of-service on the product. The following versions of Trane Tracer SC, Tracer SC+, and Tracer Concierge are affected: Tracer SC Tracer SC+ Tracer Concierge CVSS Vendor Equipment Vulnerabilities v3 8.1 Trane Trane Tracer SC, Tracer SC+, and Tracer Concierge Use of a Broken or Risky Cryptographic Algorithm, Memory Allocation wi",
-      "published": "Thu, 12 Mar 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
         "Exploit wording"
       ]
     }

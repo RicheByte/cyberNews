@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18 06:56",
+  "last_updated": "2026-03-18 08:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,46 +27,58 @@
   "trending": [
     {
       "keyword": "tracebit raises 20m",
-      "mentions": 9
-    },
-    {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 411
-    },
-    {
-      "keyword": "scadapack 57x product",
-      "mentions": 7
-    },
-    {
-      "keyword": "cve 2026 20643",
-      "mentions": 3
-    },
-    {
-      "keyword": "phishing uses kakaotalk",
       "mentions": 10
     },
     {
+      "keyword": "scattered lapsus shinyhunters",
+      "mentions": 412
+    },
+    {
+      "keyword": "scadapack 57x product",
+      "mentions": 8
+    },
+    {
+      "keyword": "cve 2026 20643",
+      "mentions": 4
+    },
+    {
+      "keyword": "phishing uses kakaotalk",
+      "mentions": 11
+    },
+    {
       "keyword": "ransomware operation known",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "victim's username password",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1036
+      "mentions": 1037
     },
     {
       "keyword": "stopped automatically installing",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "samsung pcs microsoft",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+      "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+      "summary": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS. The vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a cross-origin issue in WebKit's Navigation API that could be exploited to bypass the same-origin policy when processing maliciously crafted web content. The",
+      "published": "Wed, 18 Mar 2026 12:01:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
@@ -149,17 +161,6 @@
       "published": "Tue, 17 Mar 2026 01:07:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
-      "link": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
-      "summary": "Some weeks in security feel normal. Then you read a few tabs and get that immediate “ah, great, we’re doing this now” feeling. This week has that energy. Fresh messes, old problems getting sharper, and research that stops feeling theoretical real fast. A few bits hit a little too close to real life, too. There’s a good mix here: weird abuse of trusted stuff, quiet infrastructure ugliness,",
-      "published": "Mon, 16 Mar 2026 19:47:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "BleepingComputer",

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 343,
+      "count": 344,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -240,7 +240,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1036,
+      "count": 1037,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -682,7 +682,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1534,7 +1534,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 207,
+      "count": 208,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -5472,7 +5472,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 411,
+      "count": 412,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7759,7 +7759,7 @@
       ]
     },
     "victim's username password": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9864,7 +9864,7 @@
       ]
     },
     "appending obfuscated code": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-16",
         "2026-03-17",
@@ -9872,7 +9872,7 @@
       ]
     },
     "glassworm malware campaign": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-16",
         "2026-03-17",
@@ -9900,7 +9900,7 @@
       ]
     },
     "phishing uses kakaotalk": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -9913,7 +9913,7 @@
       ]
     },
     "tracebit raises 20m": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -9932,7 +9932,7 @@
       ]
     },
     "samsung pcs microsoft": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -9945,7 +9945,7 @@
       ]
     },
     "stopped automatically installing": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -9964,28 +9964,28 @@
       ]
     },
     "scadapack 57x product": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "open source software": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "government agency confirmed": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "distribute malicious payloads": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -10005,45 +10005,34 @@
       ]
     },
     "employee fell victim": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "ransomware operation known": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "vscode openvsx extensions": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-17",
         "2026-03-18"
       ]
     },
     "cve 2026 20643": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-18"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-09 06:55",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "lumma stealer malware",
-        "labkotec lid 3300ip"
-      ]
-    },
     {
       "timestamp": "2026-03-09 08:38",
       "articles": 56,
@@ -11124,6 +11113,17 @@
     },
     {
       "timestamp": "2026-03-18 06:56",
+      "articles": 56,
+      "top_keywords": [
+        "tracebit raises 20m",
+        "scattered lapsus shinyhunters",
+        "scadapack 57x product",
+        "cve 2026 20643",
+        "phishing uses kakaotalk"
+      ]
+    },
+    {
+      "timestamp": "2026-03-18 08:41",
       "articles": 56,
       "top_keywords": [
         "tracebit raises 20m",

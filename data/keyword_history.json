@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 348,
+      "count": 349,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -165,7 +165,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 534,
+      "count": 535,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -241,7 +241,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1041,
+      "count": 1042,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -683,7 +683,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1535,7 +1535,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 212,
+      "count": 213,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -5473,7 +5473,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 416,
+      "count": 417,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7622,7 +7622,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8574,7 +8574,7 @@
       ]
     },
     "ransomware gang stole": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-03",
         "2026-03-18"
@@ -9064,13 +9064,14 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-03-09",
         "2026-03-10",
         "2026-03-11",
         "2026-03-12",
-        "2026-03-13"
+        "2026-03-13",
+        "2026-03-18"
       ]
     },
     "threat actor hides": {
@@ -9970,7 +9971,7 @@
       ]
     },
     "scadapack 57x product": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-17",
         "2026-03-18"
@@ -10032,7 +10033,7 @@
       ]
     },
     "cve 2026 20643": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-18"
       ]
@@ -10050,7 +10051,7 @@
       ]
     },
     "threat model right": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-18"
       ]
@@ -10062,19 +10063,19 @@
       ]
     },
     "startup will invest": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-18"
       ]
     },
     "send crypto scams": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-18"
       ]
     },
     "cryptocurrency wallet app": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-18"
       ]
@@ -10086,24 +10087,30 @@
       ]
     },
     "shadow ai risk": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-18"
       ]
     },
     "interlock ransomware gang": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-18"
       ]
     },
     "full device compromise": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-18"
       ]
     },
     "shadow ai hidden": {
+      "count": 2,
+      "dates": [
+        "2026-03-18"
+      ]
+    },
+    "ofac sanctions dprk": {
       "count": 1,
       "dates": [
         "2026-03-18"
@@ -10111,17 +10118,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-09 16:52",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "microsoft still working",
-        "epower epower ie",
-        "labkotec lid 3300ip"
-      ]
-    },
     {
       "timestamp": "2026-03-09 18:44",
       "articles": 56,
@@ -11209,6 +11205,17 @@
         "scadapack 57x product",
         "execute arbitrary code",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-03-18 18:53",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "ofac sanctions dprk",
+        "cve 2026 20643",
+        "execute arbitrary code",
+        "shadow ai risk"
       ]
     }
   ]

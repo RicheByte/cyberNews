@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-03-19 18:51",
+  "last_updated": "2026-03-19 20:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
-    "help power critical",
     "threat actors conducted",
+    "help power critical",
     "agents autonomous programs",
-    "full device takeover",
     "follow microsoft guidance",
-    "maximum severity flaw",
     "windows operating systems",
     "twitter whistleblower complaint",
     "port authentication bypass",
+    "full device takeover",
     "employee fell victim",
     "compromising android devices",
     "anti abuse activists",
+    "edr killer programs",
     "digital control systems",
-    "account takeover scenario",
     "least 77 vulnerabilities",
     "fake remote jobs",
     "software including patches",
     "without causing harm",
-    "weather kinetic strikes"
+    "weather kinetic strikes",
+    "vulnerable driver byovd"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 428
-    },
-    {
-      "keyword": "help power critical",
-      "mentions": 2
+      "mentions": 429
     },
     {
       "keyword": "threat actors conducted",
-      "mentions": 2
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 45
-    },
-    {
-      "keyword": "full device takeover",
       "mentions": 3
     },
     {
-      "keyword": "follow microsoft guidance",
-      "mentions": 4
+      "keyword": "help power critical",
+      "mentions": 3
     },
     {
-      "keyword": "maximum severity flaw",
-      "mentions": 10
+      "keyword": "agents autonomous programs",
+      "mentions": 46
+    },
+    {
+      "keyword": "follow microsoft guidance",
+      "mentions": 5
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 542
+      "mentions": 543
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1053
+      "mentions": 1054
     },
     {
       "keyword": "port authentication bypass",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "full device takeover",
+      "mentions": 4
+    },
+    {
+      "keyword": "employee fell victim",
+      "mentions": 12
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+      "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
+      "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 34 vulnerable drivers. EDR killer programs have been a common presence in ransomware intrusions as they offer a way for affiliates to neutralize security software before deploying file-encrypting malware. This",
+      "published": "Fri, 20 Mar 2026 00:22:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Ransomware",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
@@ -151,18 +163,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
-      "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
-      "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set",
-      "published": "Wed, 18 Mar 2026 18:00:00 +0530",
-      "value_score": 96,
+      "source": "BleepingComputer",
+      "title": "New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores",
+      "link": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
+      "summary": "A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover. [...]",
+      "published": "Thu, 19 Mar 2026 16:01:03 -0400",
+      "value_score": 30,
       "value_signals": [
-        "CVE mentioned ×2",
-        "RCE",
-        "High severity ×2",
-        "Multiple CVEs",
-        "Exploit wording"
+        "RCE"
       ]
     },
     {
@@ -237,19 +245,6 @@
       "published": "Thu, 19 Mar 2026 06:13:23 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Microsoft SharePoint flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/",
-      "summary": "A critical Microsoft SharePoint vulnerability patched in January is now being exploited in attacks, the Cybersecurity and Infrastructure Security Agency (CISA) warned. [...]",
-      "published": "Thu, 19 Mar 2026 06:06:38 -0400",
-      "value_score": 52,
-      "value_signals": [
-        "CISA/KEV",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

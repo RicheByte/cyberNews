@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 350,
+      "count": 351,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -166,7 +166,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 538,
+      "count": 539,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -243,7 +243,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1049,
+      "count": 1050,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -686,7 +686,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -5478,7 +5478,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 424,
+      "count": 425,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7769,7 +7769,7 @@
       ]
     },
     "victim's username password": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8584,7 +8584,7 @@
       ]
     },
     "ransomware gang stole": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-03-03",
         "2026-03-18",
@@ -9075,7 +9075,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9305,7 +9305,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9984,7 +9984,7 @@
       ]
     },
     "scadapack 57x product": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-17",
         "2026-03-18",
@@ -10013,7 +10013,7 @@
       ]
     },
     "requires administrator credentials": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-17",
         "2026-03-18",
@@ -10067,7 +10067,7 @@
       ]
     },
     "threat model right": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-18",
         "2026-03-19"
@@ -10115,7 +10115,7 @@
       ]
     },
     "interlock ransomware gang": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-18",
         "2026-03-19"
@@ -10148,7 +10148,7 @@
       ]
     },
     "festo automation suite": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-18",
         "2026-03-19"
@@ -10161,7 +10161,7 @@
       ]
     },
     "fake remote jobs": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-19"
       ]
@@ -10173,13 +10173,13 @@
       ]
     },
     "internet protocol devices": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-19"
       ]
     },
     "ai powered platform": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-19"
       ]
@@ -10191,6 +10191,18 @@
       ]
     },
     "sanctioned six individuals": {
+      "count": 2,
+      "dates": [
+        "2026-03-19"
+      ]
+    },
+    "74 banks across": {
+      "count": 1,
+      "dates": [
+        "2026-03-19"
+      ]
+    },
+    "follow microsoft guidance": {
       "count": 1,
       "dates": [
         "2026-03-19"
@@ -10198,17 +10210,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-10 10:34",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "malicious npm package",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-03-10 12:51",
       "articles": 56,
@@ -11296,6 +11297,17 @@
         "malicious cyber actors",
         "execute arbitrary code",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-03-19 12:53",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "scadapack 57x product",
+        "execute arbitrary code",
+        "malicious cyber actors",
+        "windows operating systems"
       ]
     }
   ]

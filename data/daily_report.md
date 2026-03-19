@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-19 12:53 UTC  
+> **Last Updated:** 2026-03-19 14:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **scadapack 57x product** • **execute arbitrary code** • **malicious cyber actors** • **windows operating systems** • **twitter whistleblower complaint** • **requires administrator credentials** • **internet protocol devices** • **festo automation suite** • **agents autonomous programs** • **74 banks across** • **ransomware gang stole** • **interlock ransomware gang** • **fake remote jobs** • **ai powered platform** • **threat model right** • **least 77 vulnerabilities** • **follow microsoft guidance** • **victim's username password** • **sanctioned six individuals**
+**scattered lapsus shinyhunters** • **scadapack 57x product** • **full device takeover** • **maximum severity flaw** • **malicious cyber actors** • **execute arbitrary code** • **windows operating systems** • **twitter whistleblower complaint** • **requires administrator credentials** • **festo automation suite** • **employee fell victim** • **compromising android devices** • **anti abuse activists** • **agents autonomous programs** • **fake remote jobs** • **us organization cisa** • **least 77 vulnerabilities** • **follow microsoft guidance** • **without causing harm** • **victim's username password**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More](https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html)
+- [New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data](https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html)
 - [How Ceros Gives Security Teams Visibility and Control in Claude Code](https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html)
 - [DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
 - [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
 - [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
 - [Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
 - [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
-- [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
-- [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
 
 ### BleepingComputer
 
+- [7 Ways to Prevent Privilege Escalation via Password Resets](https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/)
+- [Max severity Ubiquiti UniFi flaw may allow account takeover](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/)
 - [CISA urges US orgs to secure Microsoft Intune systems after Stryker breach](https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/)
 - [New ‘Perseus’ Android malware checks user notes for secrets](https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/)
 - [Critical Microsoft SharePoint flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/)
 - [Aura confirms data breach exposing 900,000 marketing contacts](https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/)
 - [CISA orders feds to patch Zimbra XSS flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/)
 - [ConnectWise patches new flaw allowing ScreenConnect hijacking](https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/)
-- [Ransomware gang exploits Cisco flaw in zero-day attacks since January](https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/)
-- [Marquis: Ransomware gang stole data of 672K people in cyberattack](https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Security Firm Aura Discloses Data Breach Impacting 900,000 Records](https://www.securityweek.com/security-firm-aura-discloses-data-breach-impacting-900000-records/)
+- [Hacker Conversations: Ben Harris, From Unintentional Young Hacker to Intentional Adult CEO](https://www.securityweek.com/hacker-conversations-ben-harris-from-unintentional-young-hacker-to-intentional-adult-ceo/)
+- [Russian APT Exploits Zimbra Vulnerability Against Ukraine](https://www.securityweek.com/russian-apt-exploits-zimbra-vulnerability-against-ukraine/)
 - [Raven Emerges From Stealth With $20 Million in Funding](https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/)
 - [CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability](https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/)
 - [Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks](https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/)
 - [The Collapse of Predictive Security in the Age of Machine-Speed Attacks](https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/)
 - [Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/)
-- [Cloud Security Startup Native Exits Stealth With $42 Million in Funding](https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/)
-- [‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors](https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/)
-- [Virtual Summit Today: Supply Chain & Third-Party Risk Summit](https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/)
 
 ### Threatpost
 

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 351,
+      "count": 352,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -166,7 +166,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 539,
+      "count": 540,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -243,7 +243,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1050,
+      "count": 1051,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -686,7 +686,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3629,10 +3629,11 @@
       ]
     },
     "maximum severity flaw": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-15",
-        "2026-01-16"
+        "2026-01-16",
+        "2026-03-19"
       ]
     },
     "supply chain governance": {
@@ -5478,7 +5479,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 425,
+      "count": 426,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7769,7 +7770,7 @@
       ]
     },
     "victim's username password": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7942,13 +7943,14 @@
       ]
     },
     "anti abuse activists": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-24",
         "2026-02-25",
         "2026-03-08",
         "2026-03-09",
-        "2026-03-16"
+        "2026-03-16",
+        "2026-03-19"
       ]
     },
     "modern security risks": {
@@ -9075,7 +9077,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9305,7 +9307,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9984,7 +9986,7 @@
       ]
     },
     "scadapack 57x product": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-17",
         "2026-03-18",
@@ -10013,7 +10015,7 @@
       ]
     },
     "requires administrator credentials": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-17",
         "2026-03-18",
@@ -10028,10 +10030,11 @@
       ]
     },
     "employee fell victim": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-17",
-        "2026-03-18"
+        "2026-03-18",
+        "2026-03-19"
       ]
     },
     "ransomware operation known": {
@@ -10148,7 +10151,7 @@
       ]
     },
     "festo automation suite": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-18",
         "2026-03-19"
@@ -10161,7 +10164,7 @@
       ]
     },
     "fake remote jobs": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-19"
       ]
@@ -10203,6 +10206,30 @@
       ]
     },
     "follow microsoft guidance": {
+      "count": 2,
+      "dates": [
+        "2026-03-19"
+      ]
+    },
+    "full device takeover": {
+      "count": 1,
+      "dates": [
+        "2026-03-19"
+      ]
+    },
+    "compromising android devices": {
+      "count": 1,
+      "dates": [
+        "2026-03-19"
+      ]
+    },
+    "us organization cisa": {
+      "count": 1,
+      "dates": [
+        "2026-03-19"
+      ]
+    },
+    "without causing harm": {
       "count": 1,
       "dates": [
         "2026-03-19"
@@ -10210,17 +10237,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-10 12:51",
-      "articles": 56,
-      "top_keywords": [
-        "sim swaps expose",
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "malicious npm package"
-      ]
-    },
     {
       "timestamp": "2026-03-10 14:43",
       "articles": 56,
@@ -11308,6 +11324,17 @@
         "execute arbitrary code",
         "malicious cyber actors",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-03-19 14:42",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "scadapack 57x product",
+        "full device takeover",
+        "maximum severity flaw",
+        "malicious cyber actors"
       ]
     }
   ]

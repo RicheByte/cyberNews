@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 349,
+      "count": 350,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -127,7 +127,8 @@
         "2026-03-15",
         "2026-03-16",
         "2026-03-17",
-        "2026-03-18"
+        "2026-03-18",
+        "2026-03-19"
       ]
     },
     "user named csnemess": {
@@ -165,7 +166,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 537,
+      "count": 538,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -237,11 +238,12 @@
         "2026-03-14",
         "2026-03-15",
         "2026-03-16",
-        "2026-03-18"
+        "2026-03-18",
+        "2026-03-19"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1048,
+      "count": 1049,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -684,7 +686,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -5476,7 +5478,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 423,
+      "count": 424,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7767,7 +7769,7 @@
       ]
     },
     "victim's username password": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7785,7 +7787,8 @@
         "2026-03-15",
         "2026-03-16",
         "2026-03-17",
-        "2026-03-18"
+        "2026-03-18",
+        "2026-03-19"
       ]
     },
     "aiding north korean": {
@@ -8581,7 +8584,7 @@
       ]
     },
     "ransomware gang stole": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-03",
         "2026-03-18",
@@ -9072,7 +9075,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9302,10 +9305,11 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-11",
-        "2026-03-12"
+        "2026-03-12",
+        "2026-03-19"
       ]
     },
     "supply chain compromise": {
@@ -9980,7 +9984,7 @@
       ]
     },
     "scadapack 57x product": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-17",
         "2026-03-18",
@@ -10009,7 +10013,7 @@
       ]
     },
     "requires administrator credentials": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-17",
         "2026-03-18",
@@ -10063,14 +10067,14 @@
       ]
     },
     "threat model right": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-18",
         "2026-03-19"
       ]
     },
     "breaks attack paths": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-18",
         "2026-03-19"
@@ -10111,7 +10115,7 @@
       ]
     },
     "interlock ransomware gang": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-18",
         "2026-03-19"
@@ -10144,7 +10148,7 @@
       ]
     },
     "festo automation suite": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-18",
         "2026-03-19"
@@ -10157,7 +10161,7 @@
       ]
     },
     "fake remote jobs": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-19"
       ]
@@ -10167,20 +10171,33 @@
       "dates": [
         "2026-03-19"
       ]
+    },
+    "internet protocol devices": {
+      "count": 1,
+      "dates": [
+        "2026-03-19"
+      ]
+    },
+    "ai powered platform": {
+      "count": 1,
+      "dates": [
+        "2026-03-19"
+      ]
+    },
+    "understand context q": {
+      "count": 1,
+      "dates": [
+        "2026-03-19"
+      ]
+    },
+    "sanctioned six individuals": {
+      "count": 1,
+      "dates": [
+        "2026-03-19"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-10 08:35",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "malicious npm package",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-03-10 10:34",
       "articles": 56,
@@ -11267,6 +11284,17 @@
         "scadapack 57x product",
         "execute arbitrary code",
         "shadow ai risk",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-03-19 10:35",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "scadapack 57x product",
+        "malicious cyber actors",
+        "execute arbitrary code",
         "twitter whistleblower complaint"
       ]
     }

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-19 08:36 UTC |
+| 🕐 Last Updated | 2026-03-19 10:35 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `scadapack 57x product` • `execute arbitrary code` • `shadow ai risk` • `twitter whistleblower complaint` • `startup will invest` • `send crypto scams` • `requires administrator credentials` • `legitimate site forwarding` • `festo automation suite`
+`scattered lapsus shinyhunters` • `scadapack 57x product` • `malicious cyber actors` • `execute arbitrary code` • `twitter whistleblower complaint` • `requires administrator credentials` • `internet protocol devices` • `festo automation suite` • `breaks attack paths` • `agents autonomous programs`
 
 ## 📄 Reports
 

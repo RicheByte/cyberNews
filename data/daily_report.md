@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-19 08:36 UTC  
+> **Last Updated:** 2026-03-19 10:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **scadapack 57x product** • **execute arbitrary code** • **shadow ai risk** • **twitter whistleblower complaint** • **startup will invest** • **send crypto scams** • **requires administrator credentials** • **legitimate site forwarding** • **festo automation suite** • **eu sanctions companies** • **cryptocurrency wallet app** • **agents autonomous programs** • **breaks attack paths** • **shadow ai hidden** • **ransomware gang stole** • **interlock ransomware gang** • **fake remote jobs** • **threat model right** • **national security risk**
+**scattered lapsus shinyhunters** • **scadapack 57x product** • **malicious cyber actors** • **execute arbitrary code** • **twitter whistleblower complaint** • **requires administrator credentials** • **internet protocol devices** • **festo automation suite** • **breaks attack paths** • **agents autonomous programs** • **ransomware gang stole** • **interlock ransomware gang** • **threat model right** • **fake remote jobs** • **ai powered platform** • **least 77 vulnerabilities** • **windows operating systems** • **victim's username password** • **understand context q** • **sanctioned six individuals**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
 - [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
 - [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
 - [Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
@@ -23,18 +24,17 @@
 - [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html)
 - [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
 - [Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels](https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html)
-- [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
 
 ### BleepingComputer
 
+- [New ‘Perseus’ Android malware checks user notes for secrets](https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/)
+- [Critical Microsoft SharePoint flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/)
 - [Aura confirms data breach exposing 900,000 marketing contacts](https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/)
 - [CISA orders feds to patch Zimbra XSS flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/)
 - [ConnectWise patches new flaw allowing ScreenConnect hijacking](https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/)
 - [Ransomware gang exploits Cisco flaw in zero-day attacks since January](https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/)
 - [Marquis: Ransomware gang stole data of 672K people in cyberattack](https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/)
 - [The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms](https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/)
-- [New DarkSword iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
-- [Nordstrom's email system abused to send crypto scams to customers](https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Raven Emerges From Stealth With $20 Million in Funding](https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/)
+- [CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability](https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/)
+- [Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks](https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/)
 - [The Collapse of Predictive Security in the Age of Machine-Speed Attacks](https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/)
 - [Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/)
 - [Cloud Security Startup Native Exits Stealth With $42 Million in Funding](https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/)
 - [‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors](https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/)
 - [Virtual Summit Today: Supply Chain & Third-Party Risk Summit](https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/)
-- [EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations](https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/)
-- [Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/)
-- [Manifold Raises $8 Million for AI Detection and Response](https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/)
 
 ### Threatpost
 

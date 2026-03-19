@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-19 06:52 UTC  
+> **Last Updated:** 2026-03-19 08:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **scadapack 57x product** • **execute arbitrary code** • **shadow ai risk** • **twitter whistleblower complaint** • **startup will invest** • **send crypto scams** • **requires administrator credentials** • **legitimate site forwarding** • **festo automation suite** • **cryptocurrency wallet app** • **agents autonomous programs** • **breaks attack paths** • **shadow ai hidden** • **ransomware gang stole** • **interlock ransomware gang** • **fake remote jobs** • **threat model right** • **national security risk** • **untrusted data vulnerability**
+**scattered lapsus shinyhunters** • **scadapack 57x product** • **execute arbitrary code** • **shadow ai risk** • **twitter whistleblower complaint** • **startup will invest** • **send crypto scams** • **requires administrator credentials** • **legitimate site forwarding** • **festo automation suite** • **eu sanctions companies** • **cryptocurrency wallet app** • **agents autonomous programs** • **breaks attack paths** • **shadow ai hidden** • **ransomware gang stole** • **interlock ransomware gang** • **fake remote jobs** • **threat model right** • **national security risk**
 
 ---
 
@@ -33,7 +33,7 @@
 - [Ransomware gang exploits Cisco flaw in zero-day attacks since January](https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/)
 - [Marquis: Ransomware gang stole data of 672K people in cyberattack](https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/)
 - [The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms](https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/)
-- [New “Darksword” iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
+- [New DarkSword iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
 - [Nordstrom's email system abused to send crypto scams to customers](https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/)
 
 ### Krebs on Security
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [EU Sanctions Companies in China, Iran for Cyberattacks](https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks)
 - [C2 Implant 'SnappyClient' Targets Crypto Wallets](https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets)
 - [DarkSword: iPhone Exploit Kit Serves Spies &amp; Thieves Alike](https://www.darkreading.com/threat-intelligence/darksword-iphone-exploit-spies-thieves)
 - ['Claudy Day’ Trio of Flaws Exposes Claude Users to Data Theft](https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft)
-- [SideWinder Espionage Campaign Expands Across Southeast Asia](https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia)
 - [Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads](https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii)
+- [SideWinder Espionage Campaign Expands Across Southeast Asia](https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia)
 - [More Attackers Are Logging In, Not Breaking In](https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in)
 - [Clear Communication: The Missing Link in Cybersecurity Success](https://www.darkreading.com/cybersecurity-operations/clear-communication-missing-link-cybersecurity-success)
-- [Less Lucrative Ransomware Market Makes Attackers Alter Methods](https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods)
 
 ### Security Week
 

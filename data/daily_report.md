@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-18 22:27 UTC  
+> **Last Updated:** 2026-03-19 01:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **cve 2026 20643** • **ofac sanctions dprk** • **scadapack 57x product** • **execute arbitrary code** • **shadow ai risk** • **windows operating systems** • **twitter whistleblower complaint** • **startup will invest** • **send crypto scams** • **requires administrator credentials** • **legitimate site forwarding** • **festo automation suite** • **cryptocurrency wallet app** • **agents autonomous programs** • **breaks attack paths** • **shadow ai hidden** • **ransomware gang stole** • **interlock ransomware gang** • **full device compromise**
+**scattered lapsus shinyhunters** • **ofac sanctions dprk** • **scadapack 57x product** • **execute arbitrary code** • **shadow ai risk** • **twitter whistleblower complaint** • **startup will invest** • **send crypto scams** • **requires administrator credentials** • **legitimate site forwarding** • **festo automation suite** • **cryptocurrency wallet app** • **agents autonomous programs** • **breaks attack paths** • **shadow ai hidden** • **ransomware gang stole** • **interlock ransomware gang** • **fake remote jobs** • **software including patches** • **threat model right**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Aura confirms data breach exposing 900,000 marketing contacts](https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/)
 - [CISA orders feds to patch Zimbra XSS flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/)
 - [ConnectWise patches new flaw allowing ScreenConnect hijacking](https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/)
 - [Ransomware gang exploits Cisco flaw in zero-day attacks since January](https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/)
@@ -34,7 +35,6 @@
 - [The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms](https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/)
 - [New “Darksword” iOS exploit used in infostealer attack on iPhones](https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/)
 - [Nordstrom's email system abused to send crypto scams to customers](https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/)
-- [Apple pushes first Background Security Improvements update to fix WebKit flaw](https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/)
 
 ### Krebs on Security
 

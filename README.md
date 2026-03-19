@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-19 14:42 UTC |
+| 🕐 Last Updated | 2026-03-19 16:52 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `scadapack 57x product` • `full device takeover` • `maximum severity flaw` • `malicious cyber actors` • `execute arbitrary code` • `windows operating systems` • `twitter whistleblower complaint` • `requires administrator credentials` • `festo automation suite`
+`scattered lapsus shinyhunters` • `help power critical` • `threat actors conducted` • `full device takeover` • `maximum severity flaw` • `windows operating systems` • `twitter whistleblower complaint` • `port authentication bypass` • `employee fell victim` • `compromising android devices`
 
 ## 📄 Reports
 

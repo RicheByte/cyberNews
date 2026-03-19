@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-19 14:42 UTC  
+> **Last Updated:** 2026-03-19 16:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **scadapack 57x product** • **full device takeover** • **maximum severity flaw** • **malicious cyber actors** • **execute arbitrary code** • **windows operating systems** • **twitter whistleblower complaint** • **requires administrator credentials** • **festo automation suite** • **employee fell victim** • **compromising android devices** • **anti abuse activists** • **agents autonomous programs** • **fake remote jobs** • **us organization cisa** • **least 77 vulnerabilities** • **follow microsoft guidance** • **without causing harm** • **victim's username password**
+**scattered lapsus shinyhunters** • **help power critical** • **threat actors conducted** • **full device takeover** • **maximum severity flaw** • **windows operating systems** • **twitter whistleblower complaint** • **port authentication bypass** • **employee fell victim** • **compromising android devices** • **anti abuse activists** • **agents autonomous programs** • **follow microsoft guidance** • **digital control systems** • **account takeover scenario** • **least 77 vulnerabilities** • **fake remote jobs** • **software including patches** • **without causing harm** • **weather kinetic strikes**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [FBI seizes Handala data leak site after Stryker cyberattack](https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/)
+- [Russian hackers exploit Zimbra flaw in Ukrainian govt attacks](https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/)
 - [7 Ways to Prevent Privilege Escalation via Password Resets](https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/)
 - [Max severity Ubiquiti UniFi flaw may allow account takeover](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/)
 - [CISA urges US orgs to secure Microsoft Intune systems after Stryker breach](https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/)
 - [New ‘Perseus’ Android malware checks user notes for secrets](https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/)
 - [Critical Microsoft SharePoint flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/)
 - [Aura confirms data breach exposing 900,000 marketing contacts](https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/)
-- [CISA orders feds to patch Zimbra XSS flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/)
-- [ConnectWise patches new flaw allowing ScreenConnect hijacking](https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury](https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/)
+- [Marquis Data Breach Affects 672,000 Individuals](https://www.securityweek.com/marquis-data-breach-affects-672000-individuals/)
 - [Security Firm Aura Discloses Data Breach Impacting 900,000 Records](https://www.securityweek.com/security-firm-aura-discloses-data-breach-impacting-900000-records/)
 - [Hacker Conversations: Ben Harris, From Unintentional Young Hacker to Intentional Adult CEO](https://www.securityweek.com/hacker-conversations-ben-harris-from-unintentional-young-hacker-to-intentional-adult-ceo/)
 - [Russian APT Exploits Zimbra Vulnerability Against Ukraine](https://www.securityweek.com/russian-apt-exploits-zimbra-vulnerability-against-ukraine/)
 - [Raven Emerges From Stealth With $20 Million in Funding](https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/)
 - [CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability](https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/)
 - [Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks](https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/)
-- [The Collapse of Predictive Security in the Age of Machine-Speed Attacks](https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/)
-- [Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [CISA Urges Endpoint Management System Hardening After Cyberattack Against US Organization](https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-urges-endpoint-management-system-hardening-after-cyberattack-against-us-organization)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog-0)
-- [Siemens SICAM SIAPP SDK](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04)
-- [CODESYS in Festo Automation Suite](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-01)
-- [Schneider Electric SCADAPack and RemoteConnect](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-02)
-- [Schneider Electric EcoStruxure Data Center Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-03)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [Schneider Electric Modicon Controllers M241, M251, M258, and LMC058](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-02)
+- [Schneider Electric Modicon M241, M251, and M262](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-01)
+- [Automated Logic WebCTRL Premium Server](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-08)
+- [Schneider Electric EcoStruxure Automation Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-03)
+- [Mitsubishi Electric CNC Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-05)
+- [IGL-Technologies eParking.fi](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-07)
+- [CTEK Chargeportal](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-06)
+- [Schneider Electric EcoStruxure PME and EPO](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-04)
 
 ---
 

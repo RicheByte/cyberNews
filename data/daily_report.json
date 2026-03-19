@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-19 14:42",
+  "last_updated": "2026-03-19 16:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
-    "scadapack 57x product",
+    "help power critical",
+    "threat actors conducted",
     "full device takeover",
     "maximum severity flaw",
-    "malicious cyber actors",
-    "execute arbitrary code",
     "windows operating systems",
     "twitter whistleblower complaint",
-    "requires administrator credentials",
-    "festo automation suite",
+    "port authentication bypass",
     "employee fell victim",
     "compromising android devices",
     "anti abuse activists",
     "agents autonomous programs",
-    "fake remote jobs",
-    "us organization cisa",
-    "least 77 vulnerabilities",
     "follow microsoft guidance",
+    "digital control systems",
+    "account takeover scenario",
+    "least 77 vulnerabilities",
+    "fake remote jobs",
+    "software including patches",
     "without causing harm",
-    "victim's username password"
+    "weather kinetic strikes"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 426
+      "mentions": 427
     },
     {
-      "keyword": "scadapack 57x product",
-      "mentions": 22
-    },
-    {
-      "keyword": "full device takeover",
+      "keyword": "help power critical",
       "mentions": 1
     },
     {
+      "keyword": "threat actors conducted",
+      "mentions": 1
+    },
+    {
+      "keyword": "full device takeover",
+      "mentions": 2
+    },
+    {
       "keyword": "maximum severity flaw",
-      "mentions": 8
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 352
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 52
+      "mentions": 9
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 540
+      "mentions": 541
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1051
+      "mentions": 1052
     },
     {
-      "keyword": "requires administrator credentials",
+      "keyword": "port authentication bypass",
+      "mentions": 1
+    },
+    {
+      "keyword": "employee fell victim",
       "mentions": 10
     },
     {
-      "keyword": "festo automation suite",
-      "mentions": 9
+      "keyword": "compromising android devices",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -167,6 +167,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FBI seizes Handala data leak site after Stryker cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
+      "summary": "The FBI has seized two websites used by the Handala hacktivist group after the threat actors conducted a destructive cyberattack on medical technology giant Stryker that wiped approximately 80,000 devices. [...]",
+      "published": "Thu, 19 Mar 2026 12:14:13 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
+      "summary": "Hackers part of APT28, a state-backed threat group linked to Russia's military intelligence service (GRU), are exploiting a Zimbra Collaboration Suite (ZCS) vulnerability in attacks targeting Ukrainian government entities. [...]",
+      "published": "Thu, 19 Mar 2026 10:55:50 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
       "link": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/",
       "summary": "Password resets are often weaker than login security, making them a prime target for privilege escalation. Specops Software explains how attackers abuse reset workflows and how to secure them. [...]",
@@ -229,31 +251,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
-      "summary": "CISA has ordered U.S. government agencies to secure their servers against an actively exploited vulnerability in the Zimbra Collaboration Suite (ZCS). [...]",
-      "published": "Wed, 18 Mar 2026 15:57:13 -0400",
-      "value_score": 89,
-      "value_signals": [
-        "Active exploitation",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
-      "link": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
-      "summary": "ConnectWise is warning ScreenConnect customers of a cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation. [...]",
-      "published": "Wed, 18 Mar 2026 14:10:35 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Privilege escalation"
       ]
     },
     {
@@ -422,6 +419,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury",
+      "link": "https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/",
+      "summary": "Analysis reveals a six-month buildup of Iran-linked cyber infrastructure, including US-based shell companies, designed to weather kinetic strikes and ensure the resilience of its global hacking operations. The post Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury appeared first on SecurityWeek .",
+      "published": "Thu, 19 Mar 2026 15:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Marquis Data Breach Affects 672,000 Individuals",
+      "link": "https://www.securityweek.com/marquis-data-breach-affects-672000-individuals/",
+      "summary": "It was previously estimated that more than 1.6 million people may be affected by the Marquis data breach. The post Marquis Data Breach Affects 672,000 Individuals appeared first on SecurityWeek .",
+      "published": "Thu, 19 Mar 2026 15:07:36 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Security Firm Aura Discloses Data Breach Impacting 900,000 Records",
       "link": "https://www.securityweek.com/security-firm-aura-discloses-data-breach-impacting-900000-records/",
       "summary": "The information was stolen from a marketing tool after an employee fell victim to a targeted phone phishing attack. The post Security Firm Aura Discloses Data Breach Impacting 900,000 Records appeared first on SecurityWeek .",
@@ -488,26 +505,6 @@
         "Ransomware ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "The Collapse of Predictive Security in the Age of Machine-Speed Attacks",
-      "link": "https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/",
-      "summary": "With exploitation of vulnerabilities taking just days, preemptive security must be the new model for defenders. The post The Collapse of Predictive Security in the Age of Machine-Speed Attacks appeared first on SecurityWeek .",
-      "published": "Wed, 18 Mar 2026 19:37:25 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation",
-      "link": "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/",
-      "summary": "The company has developed an AI-powered platform that autonomously discovers and validates software vulnerabilities. The post Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation appeared first on SecurityWeek .",
-      "published": "Wed, 18 Mar 2026 18:01:50 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",
@@ -594,103 +591,101 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-66376 Synacor Zimbra Collaboration Suite (ZCS) Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as",
-      "published": "Wed, 18 Mar 26 12:00:00 +0000",
-      "value_score": 99,
+      "title": "Schneider Electric Modicon Controllers M241, M251, M258, and LMC058",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability may risk a Cross-site Scripting or an open redirect attack which could result in an account takeover scenario or the execution of code in the user browser. The following versions of Schneider Electric Modicon Controllers M241, M251, M258, and LMC058 are affected: Modicon M241 versions prior to 5.4.13.12 Modicon_Controller_M241 Modicon M251 versions prior to 5.4.13.12 Modicon_Controller_M251 Modicon Controllers M258 all firmware vers",
+      "published": "Thu, 19 Mar 26 12:00:00 +0000",
+      "value_score": 41,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Urges Endpoint Management System Hardening After Cyberattack Against US Organization",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-urges-endpoint-management-system-hardening-after-cyberattack-against-us-organization",
-      "summary": "CISA is aware of malicious cyber activity targeting endpoint management systems of U.S. organizations based on the March 11, 2026 cyberattack against U.S.-based medical technology firm Stryker Corporation, which affected their Microsoft environment. 1 To defend against similar malicious cyber activity, CISA urges organizations to harden endpoint management system configurations using the recommendations and resources provided in this alert. CISA is conducting enhanced coordination with federal p",
-      "published": "Wed, 18 Mar 26 12:00:00 +0000",
-      "value_score": 75,
+      "title": "Schneider Electric Modicon M241, M251, and M262",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition on the product. The following versions of Schneider Electric Modicon M241, M251, and M262 are affected: Modicon M241 versions prior to 5.4.13.12 Modicon_Controller_M241 Modicon M251 versions prior to 5.4.13.12 Modicon_Controller_M251 Modicon M262 versions prior to 5.4.10.12 Modicon_Controller_M262 CVSS Vendor Equipment Vulnerabilities v3 5.3 Schneider Electric Schneider ",
+      "published": "Thu, 19 Mar 26 12:00:00 +0000",
+      "value_score": 41,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CISA/KEV ×4"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog-0",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20963 Microsoft SharePoint Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a livi",
-      "published": "Wed, 18 Mar 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens SICAM SIAPP SDK",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-04",
-      "summary": "View CSAF Summary The SICAM SIAPP SDK contains multiple vulnerabilities that could allow an attacker to disrupt the customer-developed SIAPP or its simulation environment. Potential impacts include denial of service within the SIAPP, corruption of SIAPP data, or exploit the simulation environment. These vulnerabilities are only exploitable if the API is used improperly or hardening measures are not applied. Siemens has released a new version for SICAM SIAPP SDK and recommends to update to the la",
-      "published": "Tue, 17 Mar 26 12:00:00 +0000",
+      "title": "Automated Logic WebCTRL Premium Server",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-08",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to read, intercept, or modify communications. The following versions of Automated Logic WebCTRL Premium Server are affected: WebCTRL Premium Server CVSS Vendor Equipment Vulnerabilities v3 9.1 Automated Logic Automated Logic WebCTRL Premium Server Multiple Binds to the Same Port, Authentication Bypass by Spoofing, Cleartext Transmission of Sensitive Information Background Critical Infrastructure Sectors: C",
+      "published": "Thu, 19 Mar 26 12:00:00 +0000",
+      "value_score": 64,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Auth bypass",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Schneider Electric EcoStruxure Automation Expert",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-03",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Automation Expert product. The EcoStruxure™ Automation Expert product is plant automation software designed for digital control systems in discrete, hybrid and continuous industrial processes. A totally integrated automation solution designed to enhance your flexibility, efficiency and scalability. Failure to apply the remediation provided below may risk execution of arbitrary commands on the engineering worksta",
+      "published": "Thu, 19 Mar 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Mitsubishi Electric CNC Series",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause an out-of-bounds read, resulting in a denial-of-service condition in the affected products. The following versions of Mitsubishi Electric CNC Series are affected: M800VW (BND-2051W000) <=BB M800VS (BND-2052W000) <=BB M80V (BND-2053W000) <=BB M80VW (BND-2054W000) <=BB M800W (BND-2005W000) <=FM M800S (BND-2006W000) <=FM M80 (BND-2007W000) <=FM M80W (BND-2008W000) <=FM E80 (BND-2009W000) <=FM C80 ",
+      "published": "Thu, 19 Mar 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "IGL-Technologies eParking.fi",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-07",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of IGL-Technologies eParking.fi are affected: eParking.fi vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 IGL-Technologies IGL-Technologies eParking.fi Missing Authentication for Critical Function, Improper Restriction of Excessive Authe",
+      "published": "Thu, 19 Mar 26 12:00:00 +0000",
       "value_score": 49,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "Patch/update",
+        "High severity",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "CODESYS in Festo Automation Suite",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-01",
-      "summary": "View CSAF Summary 3. TECHNICAL DETAILS The following versions of CODESYS in Festo Automation Suite are affected: FESTO Software Festo Automation Suite (versions prior to 2.8.0.138) installed with CODESYS Software CODESYS Development System (3.0) vers:all/* FESTO Software Festo Automation Suite (versions prior to 2.8.0.138) installed with CODESYS Software CODESYS Development System (3.5.16.10) vers:all/* FESTO Software Festo Automation Suite (2.8.0.137) installed with CODESYS Software CODESYS Dev",
-      "published": "Tue, 17 Mar 26 12:00:00 +0000",
-      "value_score": 35,
+      "title": "CTEK Chargeportal",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-06",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of CTEK Chargeportal are affected: Chargeportal vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 CTEK CTEK Chargeportal Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficient ",
+      "published": "Thu, 19 Mar 26 12:00:00 +0000",
+      "value_score": 49,
       "value_signals": [
-        "Source boost: CISA Alerts"
+        "Source boost: CISA Alerts",
+        "High severity",
+        "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Schneider Electric SCADAPack and RemoteConnect",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-02",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its SCADAPack™ x70 RTU products. The SCADAPack™ 47xi, SCADAPack™ 47x and SCADAPack™ 57x product are Remote Terminal Units that provide communication capabilities for remote monitoring and control. Failure to apply the remediations provided below may risk unauthorized access to your RTU, which could result in the possibility of denial of service and loss of confidentiality, integrity of the controller. The following versions of S",
-      "published": "Tue, 17 Mar 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric EcoStruxure Data Center Expert",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-076-03",
-      "summary": "View CSAF Summary Schneider Electric is aware of a hard-coded credentials vulnerability in its EcoStruxure IT Data Center Expert (DCE) product that requires administrator credentials and enabling a feature (SOCKS Proxy) that is off by default. The EcoStruxure IT Data Center Expert product is a scalable monitoring software that collects, organizes, and distributes critical device information providing a comprehensive view of equipment. Failure to apply the remediation provided below may risk info",
-      "published": "Tue, 17 Mar 26 12:00:00 +0000",
+      "title": "Schneider Electric EcoStruxure PME and EPO",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-04",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure Power Monitoring Expert (PME) and EcoStruxure Power Operation (EPO) products. EcoStruxure Power Monitoring Expert (PME) is an on-premises software used to help power critical and energy-intensive facilities maximize uptime and operational efficiency. EcoStruxure Power Operation (EPO) are on-premises software offers that provides a single platform to monitor and control medium and lower power systems.Failure to ap",
+      "published": "Thu, 19 Mar 26 12:00:00 +0000",
       "value_score": 43,
       "value_signals": [
         "Source boost: CISA Alerts",
         "High severity"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-47813 Wing FTP Server Information Disclosure Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known",
-      "published": "Mon, 16 Mar 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
       ]
     }
   ],

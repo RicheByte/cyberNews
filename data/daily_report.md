@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-19 16:52 UTC  
+> **Last Updated:** 2026-03-19 18:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **help power critical** • **threat actors conducted** • **full device takeover** • **maximum severity flaw** • **windows operating systems** • **twitter whistleblower complaint** • **port authentication bypass** • **employee fell victim** • **compromising android devices** • **anti abuse activists** • **agents autonomous programs** • **follow microsoft guidance** • **digital control systems** • **account takeover scenario** • **least 77 vulnerabilities** • **fake remote jobs** • **software including patches** • **without causing harm** • **weather kinetic strikes**
+**scattered lapsus shinyhunters** • **help power critical** • **threat actors conducted** • **agents autonomous programs** • **full device takeover** • **follow microsoft guidance** • **maximum severity flaw** • **windows operating systems** • **twitter whistleblower complaint** • **port authentication bypass** • **employee fell victim** • **compromising android devices** • **anti abuse activists** • **digital control systems** • **account takeover scenario** • **least 77 vulnerabilities** • **fake remote jobs** • **software including patches** • **without causing harm** • **weather kinetic strikes**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Bitrefill blames North Korean Lazarus group for cyberattack](https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/)
 - [FBI seizes Handala data leak site after Stryker cyberattack](https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/)
 - [Russian hackers exploit Zimbra flaw in Ukrainian govt attacks](https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/)
 - [7 Ways to Prevent Privilege Escalation via Password Resets](https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/)
@@ -34,7 +35,6 @@
 - [CISA urges US orgs to secure Microsoft Intune systems after Stryker breach](https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/)
 - [New ‘Perseus’ Android malware checks user notes for secrets](https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/)
 - [Critical Microsoft SharePoint flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/)
-- [Aura confirms data breach exposing 900,000 marketing contacts](https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Oasis Security Raises $120 Million for Agentic Access Management](https://www.securityweek.com/oasis-security-raises-120-million-for-agentic-access-management/)
+- [1stProtect Emerges From Stealth With $20 Million in Funding](https://www.securityweek.com/1stprotect-emerges-from-stealth-with-20-million-in-funding/)
+- [Critical ScreenConnect Vulnerability Exposes Machine Keys](https://www.securityweek.com/critical-screenconnect-vulnerability-exposes-machine-keys/)
+- [Privacy Platform Cloaked Raises $375M to Expand Enterprise Reach](https://www.securityweek.com/privacy-platform-cloaked-raises-375m-to-expand-consumer-tools-and-enterprise-reach/)
 - [Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury](https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/)
 - [Marquis Data Breach Affects 672,000 Individuals](https://www.securityweek.com/marquis-data-breach-affects-672000-individuals/)
 - [Security Firm Aura Discloses Data Breach Impacting 900,000 Records](https://www.securityweek.com/security-firm-aura-discloses-data-breach-impacting-900000-records/)
 - [Hacker Conversations: Ben Harris, From Unintentional Young Hacker to Intentional Adult CEO](https://www.securityweek.com/hacker-conversations-ben-harris-from-unintentional-young-hacker-to-intentional-adult-ceo/)
-- [Russian APT Exploits Zimbra Vulnerability Against Ukraine](https://www.securityweek.com/russian-apt-exploits-zimbra-vulnerability-against-ukraine/)
-- [Raven Emerges From Stealth With $20 Million in Funding](https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/)
-- [CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability](https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/)
-- [Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks](https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/)
 
 ### Threatpost
 

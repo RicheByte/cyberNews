@@ -166,7 +166,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 541,
+      "count": 542,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -243,7 +243,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1052,
+      "count": 1053,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3629,7 +3629,7 @@
       ]
     },
     "maximum severity flaw": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -5479,7 +5479,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 427,
+      "count": 428,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7943,7 +7943,7 @@
       ]
     },
     "anti abuse activists": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -8570,7 +8570,7 @@
       ]
     },
     "software including patches": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-03",
         "2026-03-12",
@@ -9077,7 +9077,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9307,7 +9307,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10030,7 +10030,7 @@
       ]
     },
     "employee fell victim": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-17",
         "2026-03-18",
@@ -10164,7 +10164,7 @@
       ]
     },
     "fake remote jobs": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-19"
       ]
@@ -10206,19 +10206,19 @@
       ]
     },
     "follow microsoft guidance": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-19"
       ]
     },
     "full device takeover": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-19"
       ]
     },
     "compromising android devices": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-19"
       ]
@@ -10230,60 +10230,49 @@
       ]
     },
     "without causing harm": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-19"
       ]
     },
     "help power critical": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-19"
       ]
     },
     "threat actors conducted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-19"
       ]
     },
     "port authentication bypass": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-19"
       ]
     },
     "digital control systems": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-19"
       ]
     },
     "account takeover scenario": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-19"
       ]
     },
     "weather kinetic strikes": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-19"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-10 16:52",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "arbitrary code execution",
-        "handling cyber threats"
-      ]
-    },
     {
       "timestamp": "2026-03-10 18:40",
       "articles": 56,
@@ -11371,6 +11360,17 @@
         "threat actors conducted",
         "full device takeover",
         "maximum severity flaw"
+      ]
+    },
+    {
+      "timestamp": "2026-03-19 18:51",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "help power critical",
+        "threat actors conducted",
+        "agents autonomous programs",
+        "full device takeover"
       ]
     }
   ]

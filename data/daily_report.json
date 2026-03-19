@@ -1,12 +1,14 @@
 {
-  "last_updated": "2026-03-19 16:52",
+  "last_updated": "2026-03-19 18:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
     "help power critical",
     "threat actors conducted",
+    "agents autonomous programs",
     "full device takeover",
+    "follow microsoft guidance",
     "maximum severity flaw",
     "windows operating systems",
     "twitter whistleblower complaint",
@@ -14,8 +16,6 @@
     "employee fell victim",
     "compromising android devices",
     "anti abuse activists",
-    "agents autonomous programs",
-    "follow microsoft guidance",
     "digital control systems",
     "account takeover scenario",
     "least 77 vulnerabilities",
@@ -27,42 +27,42 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 427
+      "mentions": 428
     },
     {
       "keyword": "help power critical",
-      "mentions": 1
-    },
-    {
-      "keyword": "threat actors conducted",
-      "mentions": 1
-    },
-    {
-      "keyword": "full device takeover",
       "mentions": 2
     },
     {
+      "keyword": "threat actors conducted",
+      "mentions": 2
+    },
+    {
+      "keyword": "agents autonomous programs",
+      "mentions": 45
+    },
+    {
+      "keyword": "full device takeover",
+      "mentions": 3
+    },
+    {
+      "keyword": "follow microsoft guidance",
+      "mentions": 4
+    },
+    {
       "keyword": "maximum severity flaw",
-      "mentions": 9
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 541
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1052
-    },
-    {
-      "keyword": "port authentication bypass",
-      "mentions": 1
-    },
-    {
-      "keyword": "employee fell victim",
       "mentions": 10
     },
     {
-      "keyword": "compromising android devices",
+      "keyword": "windows operating systems",
+      "mentions": 542
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1053
+    },
+    {
+      "keyword": "port authentication bypass",
       "mentions": 2
     }
   ],
@@ -167,6 +167,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
+      "summary": "Crypto-powered gift card store Bitrefill says that the attack it suffered at the beginning of the month was likely perpetrated by North Korean hackers of the Bluenoroff group. [...]",
+      "published": "Thu, 19 Mar 2026 13:08:24 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI seizes Handala data leak site after Stryker cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
       "summary": "The FBI has seized two websites used by the Handala hacktivist group after the threat actors conducted a destructive cyberattack on medical technology giant Stryker that wiped approximately 80,000 devices. [...]",
@@ -240,17 +249,6 @@
         "CISA/KEV",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Aura confirms data breach exposing 900,000 marketing contacts",
-      "link": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
-      "summary": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email addresses. [...]",
-      "published": "Wed, 18 Mar 2026 18:56:50 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -419,6 +417,44 @@
     },
     {
       "source": "Security Week",
+      "title": "Oasis Security Raises $120 Million for Agentic Access Management",
+      "link": "https://www.securityweek.com/oasis-security-raises-120-million-for-agentic-access-management/",
+      "summary": "The company will invest in R&D, product expansion across AI frameworks, and in scaling go-to-market and sales efforts. The post Oasis Security Raises $120 Million for Agentic Access Management appeared first on SecurityWeek .",
+      "published": "Thu, 19 Mar 2026 18:23:15 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "1stProtect Emerges From Stealth With $20 Million in Funding",
+      "link": "https://www.securityweek.com/1stprotect-emerges-from-stealth-with-20-million-in-funding/",
+      "summary": "The company’s endpoint security platform monitors behavior and verifies user intent to stop cyberattacks in real time. The post 1stProtect Emerges From Stealth With $20 Million in Funding appeared first on SecurityWeek .",
+      "published": "Thu, 19 Mar 2026 17:55:10 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical ScreenConnect Vulnerability Exposes Machine Keys",
+      "link": "https://www.securityweek.com/critical-screenconnect-vulnerability-exposes-machine-keys/",
+      "summary": "Latest ScreenConnect version adds encrypted storage and management to prevent unauthorized access to machine keys. The post Critical ScreenConnect Vulnerability Exposes Machine Keys appeared first on SecurityWeek .",
+      "published": "Thu, 19 Mar 2026 17:40:03 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Privacy Platform Cloaked Raises $375M to Expand Enterprise Reach",
+      "link": "https://www.securityweek.com/privacy-platform-cloaked-raises-375m-to-expand-consumer-tools-and-enterprise-reach/",
+      "summary": "Cloaked plans to introduce AI agents designed to act on behalf of users to monitor, manage, and enforce privacy preferences and security postures. The post Privacy Platform Cloaked Raises $375M to Expand Enterprise Reach appeared first on SecurityWeek .",
+      "published": "Thu, 19 Mar 2026 17:32:29 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury",
       "link": "https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/",
       "summary": "Analysis reveals a six-month buildup of Iran-linked cyber infrastructure, including US-based shell companies, designed to weather kinetic strikes and ensure the resilience of its global hacking operations. The post Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury appeared first on SecurityWeek .",
@@ -457,54 +493,6 @@
       "published": "Thu, 19 Mar 2026 13:30:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Russian APT Exploits Zimbra Vulnerability Against Ukraine",
-      "link": "https://www.securityweek.com/russian-apt-exploits-zimbra-vulnerability-against-ukraine/",
-      "summary": "Insufficient sanitization of CSS content within HTML emails leads to inline script execution when the message is opened in a browser. The post Russian APT Exploits Zimbra Vulnerability Against Ukraine appeared first on SecurityWeek .",
-      "published": "Thu, 19 Mar 2026 13:24:54 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Raven Emerges From Stealth With $20 Million in Funding",
-      "link": "https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/",
-      "summary": "Raven’s platform observes applications at runtime to detect anomalous behavior and prevent cyberattacks. The post Raven Emerges From Stealth With $20 Million in Funding appeared first on SecurityWeek .",
-      "published": "Thu, 19 Mar 2026 10:31:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability",
-      "link": "https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/",
-      "summary": "The SharePoint remote code execution vulnerability CVE-2026-20963, which Microsoft patched in January, has been exploited in the wild. The post CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability appeared first on SecurityWeek .",
-      "published": "Thu, 19 Mar 2026 09:42:52 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "RCE",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks",
-      "link": "https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/",
-      "summary": "Amazon found evidence that the FMC software vulnerability has been exploited since late January, and found links to Russia. The post Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 19 Mar 2026 08:57:59 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "Ransomware ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

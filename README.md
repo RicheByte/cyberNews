@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-19 16:52 UTC |
+| 🕐 Last Updated | 2026-03-19 18:51 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`scattered lapsus shinyhunters` • `help power critical` • `threat actors conducted` • `full device takeover` • `maximum severity flaw` • `windows operating systems` • `twitter whistleblower complaint` • `port authentication bypass` • `employee fell victim` • `compromising android devices`
+`scattered lapsus shinyhunters` • `help power critical` • `threat actors conducted` • `agents autonomous programs` • `full device takeover` • `follow microsoft guidance` • `maximum severity flaw` • `windows operating systems` • `twitter whistleblower complaint` • `port authentication bypass`
 
 ## 📄 Reports
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 20:31",
+  "last_updated": "2026-03-19 22:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -18,8 +18,8 @@
     "edr killer programs",
     "digital control systems",
     "least 77 vulnerabilities",
-    "fake remote jobs",
     "software including patches",
+    "fake remote jobs",
     "without causing harm",
     "weather kinetic strikes",
     "vulnerable driver byovd"
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 429
+      "mentions": 430
     },
     {
       "keyword": "threat actors conducted",
-      "mentions": 3
-    },
-    {
-      "keyword": "help power critical",
-      "mentions": 3
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 46
-    },
-    {
-      "keyword": "follow microsoft guidance",
-      "mentions": 5
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 543
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1054
-    },
-    {
-      "keyword": "port authentication bypass",
-      "mentions": 3
-    },
-    {
-      "keyword": "full device takeover",
       "mentions": 4
     },
     {
+      "keyword": "help power critical",
+      "mentions": 4
+    },
+    {
+      "keyword": "agents autonomous programs",
+      "mentions": 47
+    },
+    {
+      "keyword": "follow microsoft guidance",
+      "mentions": 6
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 544
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1055
+    },
+    {
+      "keyword": "port authentication bypass",
+      "mentions": 4
+    },
+    {
+      "keyword": "full device takeover",
+      "mentions": 5
+    },
+    {
       "keyword": "employee fell victim",
-      "mentions": 12
+      "mentions": 13
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
+      "link": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
+      "summary": "Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard. \"Speagle is designed to surreptitiously harvest sensitive information from infected computers and transmit it to a Cobra DocGuard server that has been compromised by the attackers, masking the data exfiltration process as legitimate",
+      "published": "Fri, 20 Mar 2026 00:46:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
@@ -147,19 +156,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
-      "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
-      "summary": "Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software. The vulnerability in question is CVE-2026-20131 (CVSS score: 10.0), a case of insecure deserialization of user-supplied Java byte stream, which could allow an unauthenticated, remote attacker to",
-      "published": "Wed, 18 Mar 2026 21:30:00 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Navia discloses data breach impacting 2.7 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
+      "summary": "Navia Benefit Solutions, Inc. (Navia) is informing nearly 2.7 million individuals of a data breach that exposed their sensitive information to attackers. [...]",
+      "published": "Thu, 19 Mar 2026 16:43:54 -0400",
+      "value_score": 34,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Zero-day",
-        "Ransomware ×2",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -236,15 +240,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New ‘Perseus’ Android malware checks user notes for secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/",
-      "summary": "A new Android malware called Perseus is checking user-curated notes to steal sensitive information, like passwords, recovery phrases, or financial data. [...]",
-      "published": "Thu, 19 Mar 2026 06:13:23 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -334,6 +329,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Conundrum: Why MCP Security Can't Be Patched Away",
+      "link": "https://www.darkreading.com/application-security/mcp-security-patched",
+      "summary": "MCP introduces security risks into LLM environments that are architectural and not easily fixable, researcher says at RSAC 2026 Conference.",
+      "published": "Thu, 19 Mar 2026 21:54:38 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "EU Sanctions Companies in China, Iran for Cyberattacks",
       "link": "https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks",
       "summary": "These rulings prohibit the entities from entering or doing business in the European Union.",
@@ -398,15 +402,6 @@
       "link": "https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in",
       "summary": "Credential theft soared in the second half of 2025, thanks in part to the industrialization of infostealer malware and AI-enabled social engineering.",
       "published": "Tue, 17 Mar 2026 22:04:46 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Clear Communication: The Missing Link in Cybersecurity Success",
-      "link": "https://www.darkreading.com/cybersecurity-operations/clear-communication-missing-link-cybersecurity-success",
-      "summary": "When technical expertise meets clear communication, cybersecurity teams thrive. Learn how to foster trust and collaboration across diverse working groups.",
-      "published": "Tue, 17 Mar 2026 21:42:46 GMT",
       "value_score": 10,
       "value_signals": []
     },

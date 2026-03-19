@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-19 20:31 UTC  
+> **Last Updated:** 2026-03-19 22:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **threat actors conducted** • **help power critical** • **agents autonomous programs** • **follow microsoft guidance** • **windows operating systems** • **twitter whistleblower complaint** • **port authentication bypass** • **full device takeover** • **employee fell victim** • **compromising android devices** • **anti abuse activists** • **edr killer programs** • **digital control systems** • **least 77 vulnerabilities** • **fake remote jobs** • **software including patches** • **without causing harm** • **weather kinetic strikes** • **vulnerable driver byovd**
+**scattered lapsus shinyhunters** • **threat actors conducted** • **help power critical** • **agents autonomous programs** • **follow microsoft guidance** • **windows operating systems** • **twitter whistleblower complaint** • **port authentication bypass** • **full device takeover** • **employee fell victim** • **compromising android devices** • **anti abuse activists** • **edr killer programs** • **digital control systems** • **least 77 vulnerabilities** • **software including patches** • **fake remote jobs** • **without causing harm** • **weather kinetic strikes** • **vulnerable driver byovd**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers](https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html)
 - [54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security](https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html)
 - [ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More](https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html)
 - [New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data](https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html)
@@ -23,10 +24,10 @@
 - [DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
 - [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
 - [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
-- [Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
 
 ### BleepingComputer
 
+- [Navia discloses data breach impacting 2.7 million people](https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/)
 - [New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores](https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/)
 - [Bitrefill blames North Korean Lazarus group for cyberattack](https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/)
 - [FBI seizes Handala data leak site after Stryker cyberattack](https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/)
@@ -34,7 +35,6 @@
 - [7 Ways to Prevent Privilege Escalation via Password Resets](https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/)
 - [Max severity Ubiquiti UniFi flaw may allow account takeover](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/)
 - [CISA urges US orgs to secure Microsoft Intune systems after Stryker breach](https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/)
-- [New ‘Perseus’ Android malware checks user notes for secrets](https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI Conundrum: Why MCP Security Can't Be Patched Away](https://www.darkreading.com/application-security/mcp-security-patched)
 - [EU Sanctions Companies in China, Iran for Cyberattacks](https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks)
 - [C2 Implant 'SnappyClient' Targets Crypto Wallets](https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets)
 - [DarkSword: iPhone Exploit Kit Serves Spies &amp; Thieves Alike](https://www.darkreading.com/threat-intelligence/darksword-iphone-exploit-spies-thieves)
@@ -56,7 +57,6 @@
 - [Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads](https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii)
 - [SideWinder Espionage Campaign Expands Across Southeast Asia](https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia)
 - [More Attackers Are Logging In, Not Breaking In](https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in)
-- [Clear Communication: The Missing Link in Cybersecurity Success](https://www.darkreading.com/cybersecurity-operations/clear-communication-missing-link-cybersecurity-success)
 
 ### Security Week
 

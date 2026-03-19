@@ -241,7 +241,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1046,
+      "count": 1047,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -684,7 +684,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -843,7 +843,7 @@
       ]
     },
     "national security risk": {
-      "count": 156,
+      "count": 157,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -868,7 +868,8 @@
         "2026-02-12",
         "2026-03-04",
         "2026-03-06",
-        "2026-03-07"
+        "2026-03-07",
+        "2026-03-19"
       ]
     },
     "open source millions": {
@@ -5475,7 +5476,7 @@
       ]
     },
     "scattered lapsus shinyhunters": {
-      "count": 421,
+      "count": 422,
       "dates": [
         "2026-02-02",
         "2026-02-03",
@@ -7625,7 +7626,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7690,11 +7691,12 @@
       ]
     },
     "untrusted data vulnerability": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-21",
         "2026-02-22",
-        "2026-02-23"
+        "2026-02-23",
+        "2026-03-19"
       ]
     },
     "ransomware attacks cisa": {
@@ -8579,7 +8581,7 @@
       ]
     },
     "ransomware gang stole": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-03",
         "2026-03-18",
@@ -9070,7 +9072,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9978,7 +9980,7 @@
       ]
     },
     "scadapack 57x product": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-17",
         "2026-03-18",
@@ -10007,7 +10009,7 @@
       ]
     },
     "requires administrator credentials": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-17",
         "2026-03-18",
@@ -10061,35 +10063,35 @@
       ]
     },
     "threat model right": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-18",
         "2026-03-19"
       ]
     },
     "breaks attack paths": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-18",
         "2026-03-19"
       ]
     },
     "startup will invest": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-18",
         "2026-03-19"
       ]
     },
     "send crypto scams": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-18",
         "2026-03-19"
       ]
     },
     "cryptocurrency wallet app": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-18",
         "2026-03-19"
@@ -10102,14 +10104,14 @@
       ]
     },
     "shadow ai risk": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-18",
         "2026-03-19"
       ]
     },
     "interlock ransomware gang": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-18",
         "2026-03-19"
@@ -10122,7 +10124,7 @@
       ]
     },
     "shadow ai hidden": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-18",
         "2026-03-19"
@@ -10142,7 +10144,7 @@
       ]
     },
     "festo automation suite": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-18",
         "2026-03-19"
@@ -10155,24 +10157,13 @@
       ]
     },
     "fake remote jobs": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-19"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-10 04:04",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "epower epower ie",
-        "malicious npm package",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-03-10 06:41",
       "articles": 56,
@@ -11260,6 +11251,17 @@
         "scadapack 57x product",
         "execute arbitrary code",
         "shadow ai risk"
+      ]
+    },
+    {
+      "timestamp": "2026-03-19 06:52",
+      "articles": 56,
+      "top_keywords": [
+        "scattered lapsus shinyhunters",
+        "scadapack 57x product",
+        "execute arbitrary code",
+        "shadow ai risk",
+        "twitter whistleblower complaint"
       ]
     }
   ]

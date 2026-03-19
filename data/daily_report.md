@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-19 04:20 UTC  
+> **Last Updated:** 2026-03-19 06:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **ofac sanctions dprk** • **scadapack 57x product** • **execute arbitrary code** • **shadow ai risk** • **twitter whistleblower complaint** • **startup will invest** • **send crypto scams** • **requires administrator credentials** • **legitimate site forwarding** • **festo automation suite** • **cryptocurrency wallet app** • **agents autonomous programs** • **breaks attack paths** • **shadow ai hidden** • **ransomware gang stole** • **interlock ransomware gang** • **fake remote jobs** • **software including patches** • **threat model right**
+**scattered lapsus shinyhunters** • **scadapack 57x product** • **execute arbitrary code** • **shadow ai risk** • **twitter whistleblower complaint** • **startup will invest** • **send crypto scams** • **requires administrator credentials** • **legitimate site forwarding** • **festo automation suite** • **cryptocurrency wallet app** • **agents autonomous programs** • **breaks attack paths** • **shadow ai hidden** • **ransomware gang stole** • **interlock ransomware gang** • **fake remote jobs** • **threat model right** • **national security risk** • **untrusted data vulnerability**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
 - [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
 - [Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access](https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html)
 - [Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
@@ -23,7 +24,6 @@
 - [9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors](https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html)
 - [Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels](https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html)
 - [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html)
-- [Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS](https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html)
 
 ### BleepingComputer
 

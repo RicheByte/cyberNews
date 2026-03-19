@@ -1,10 +1,9 @@
 {
-  "last_updated": "2026-03-19 04:20",
+  "last_updated": "2026-03-19 06:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "scattered lapsus shinyhunters",
-    "ofac sanctions dprk",
     "scadapack 57x product",
     "execute arbitrary code",
     "shadow ai risk",
@@ -21,52 +20,69 @@
     "ransomware gang stole",
     "interlock ransomware gang",
     "fake remote jobs",
-    "software including patches",
-    "threat model right"
+    "threat model right",
+    "national security risk",
+    "untrusted data vulnerability"
   ],
   "trending": [
     {
       "keyword": "scattered lapsus shinyhunters",
-      "mentions": 421
-    },
-    {
-      "keyword": "ofac sanctions dprk",
-      "mentions": 5
+      "mentions": 422
     },
     {
       "keyword": "scadapack 57x product",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "shadow ai risk",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1046
+      "mentions": 1047
     },
     {
       "keyword": "startup will invest",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "send crypto scams",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "requires administrator credentials",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "legitimate site forwarding",
-      "mentions": 60
+      "mentions": 61
+    },
+    {
+      "keyword": "festo automation suite",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft Office SharePoint, stating they have been actively exploited in the wild. The vulnerabilities in question are as follows - CVE-2025-66376 (CVSS score: 7.2) - A stored cross-site scripting",
+      "published": "Thu, 19 Mar 2026 11:35:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Active exploitation ×2",
+        "Ransomware",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
@@ -146,18 +162,6 @@
       "value_signals": [
         "CVE mentioned ×3",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
-      "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
-      "summary": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS. The vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a cross-origin issue in WebKit's Navigation API that could be exploited to bypass the same-origin policy when processing maliciously crafted web content. The",
-      "published": "Wed, 18 Mar 2026 12:01:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
         "Exploit wording"
       ]
     },

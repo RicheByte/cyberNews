@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-20 06:47 UTC  
+> **Last Updated:** 2026-03-20 08:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**threat actors conducted** • **help power critical** • **things iot devices** • **least 77 vulnerabilities** • **software including patches** • **windows operating systems** • **twitter whistleblower complaint** • **port authentication bypass** • **full device takeover** • **follow microsoft guidance** • **anti abuse activists** • **agents autonomous programs** • **digital control systems** • **compromising android devices** • **service ddos doxing** • **without causing harm** • **weather kinetic strikes** • **vulnerable driver byovd** • **vulnerable charging stations** • **victim's username password**
+**threat actors conducted** • **help power critical** • **things iot devices** • **least 77 vulnerabilities** • **twitter whistleblower complaint** • **quantum safe version** • **port authentication bypass** • **full device takeover** • **agents autonomous programs** • **windows operating systems** • **software including patches** • **compromising android devices** • **service ddos doxing** • **digital control systems** • **weather kinetic strikes** • **vulnerable driver byovd** • **vulnerable charging stations** • **victim's username password** • **sprawling phishing campaign** • **spoofing cleartext transmission**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [International joint action disrupts world’s largest DDoS botnets](https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/)
+- [Microsoft: March Windows updates break Teams, OneDrive sign-ins](https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/)
+- [Ex-data analyst stole company data in $2.5M extortion scheme](https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/)
 - [Navia discloses data breach impacting 2.7 million people](https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/)
 - [New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores](https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/)
 - [Bitrefill blames North Korean Lazarus group for cyberattack](https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/)
 - [FBI seizes Handala data leak site after Stryker cyberattack](https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/)
 - [Russian hackers exploit Zimbra flaw in Ukrainian govt attacks](https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/)
-- [7 Ways to Prevent Privilege Escalation via Password Resets](https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/)
-- [Max severity Ubiquiti UniFi flaw may allow account takeover](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/)
-- [CISA urges US orgs to secure Microsoft Intune systems after Stryker breach](https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/)
 
 ### Krebs on Security
 
@@ -50,16 +50,17 @@
 ### Dark Reading
 
 - [AI Conundrum: Why MCP Security Can't Be Patched Away](https://www.darkreading.com/application-security/mcp-security-patched)
+- [Post-Quantum Web Could be Safer, Faster](https://www.darkreading.com/cloud-security/post-quantum-web-could-be-safer-faster)
 - [EU Sanctions Companies in China, Iran for Cyberattacks](https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks)
 - [C2 Implant 'SnappyClient' Targets Crypto Wallets](https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets)
 - [DarkSword: iPhone Exploit Kit Serves Spies &amp; Thieves Alike](https://www.darkreading.com/threat-intelligence/darksword-iphone-exploit-spies-thieves)
 - ['Claudy Day’ Trio of Flaws Exposes Claude Users to Data Theft](https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft)
-- [Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads](https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii)
 - [SideWinder Espionage Campaign Expands Across Southeast Asia](https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia)
-- [More Attackers Are Logging In, Not Breaking In](https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in)
+- [Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads](https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii)
 
 ### Security Week
 
+- [Aisuru and Kimwolf DDoS Botnets Disrupted in International Operation](https://www.securityweek.com/aisuru-and-kimwolf-ddos-botnets-disrupted-in-international-operation/)
 - [Oasis Security Raises $120 Million for Agentic Access Management](https://www.securityweek.com/oasis-security-raises-120-million-for-agentic-access-management/)
 - [1stProtect Emerges From Stealth With $20 Million in Funding](https://www.securityweek.com/1stprotect-emerges-from-stealth-with-20-million-in-funding/)
 - [Critical ScreenConnect Vulnerability Exposes Machine Keys](https://www.securityweek.com/critical-screenconnect-vulnerability-exposes-machine-keys/)
@@ -67,7 +68,6 @@
 - [Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury](https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/)
 - [Marquis Data Breach Affects 672,000 Individuals](https://www.securityweek.com/marquis-data-breach-affects-672000-individuals/)
 - [Security Firm Aura Discloses Data Breach Impacting 900,000 Records](https://www.securityweek.com/security-firm-aura-discloses-data-breach-impacting-900000-records/)
-- [Hacker Conversations: Ben Harris, From Unintentional Young Hacker to Intentional Adult CEO](https://www.securityweek.com/hacker-conversations-ben-harris-from-unintentional-young-hacker-to-intentional-adult-ceo/)
 
 ### Threatpost
 

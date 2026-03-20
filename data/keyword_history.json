@@ -166,7 +166,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 547,
+      "count": 548,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -244,7 +244,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1058,
+      "count": 1059,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1542,7 +1542,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 213,
+      "count": 214,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1578,7 +1578,8 @@
         "2026-03-14",
         "2026-03-16",
         "2026-03-17",
-        "2026-03-18"
+        "2026-03-18",
+        "2026-03-20"
       ]
     },
     "model agnostic abstractions": {
@@ -1830,7 +1831,7 @@
       ]
     },
     "things iot devices": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -4318,7 +4319,7 @@
       ]
     },
     "vulnerable driver byovd": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-22",
         "2026-03-19",
@@ -7775,7 +7776,7 @@
       ]
     },
     "victim's username password": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8534,7 +8535,7 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-02",
         "2026-03-03",
@@ -8578,7 +8579,7 @@
       ]
     },
     "software including patches": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-03",
         "2026-03-12",
@@ -9086,7 +9087,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9317,7 +9318,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10225,14 +10226,14 @@
       ]
     },
     "full device takeover": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "compromising android devices": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-19",
         "2026-03-20"
@@ -10252,28 +10253,28 @@
       ]
     },
     "help power critical": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "threat actors conducted": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "port authentication bypass": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "digital control systems": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-19",
         "2026-03-20"
@@ -10286,7 +10287,7 @@
       ]
     },
     "weather kinetic strikes": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-19",
         "2026-03-20"
@@ -10300,24 +10301,25 @@
       ]
     },
     "service ddos doxing": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2026-03-20"
+      ]
+    },
+    "quantum safe version": {
+      "count": 1,
+      "dates": [
+        "2026-03-20"
+      ]
+    },
+    "spoofing cleartext transmission": {
+      "count": 1,
       "dates": [
         "2026-03-20"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-11 06:44",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "third party vendor",
-        "labkotec lid 3300ip",
-        "arbitrary file upload"
-      ]
-    },
     {
       "timestamp": "2026-03-11 08:34",
       "articles": 56,
@@ -11405,6 +11407,17 @@
         "things iot devices",
         "least 77 vulnerabilities",
         "software including patches"
+      ]
+    },
+    {
+      "timestamp": "2026-03-20 08:35",
+      "articles": 56,
+      "top_keywords": [
+        "threat actors conducted",
+        "help power critical",
+        "things iot devices",
+        "least 77 vulnerabilities",
+        "twitter whistleblower complaint"
       ]
     }
   ]

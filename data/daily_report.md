@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-20 20:26 UTC  
+> **Last Updated:** 2026-03-20 22:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**3 men charged** • **critical security flaw** • **things iot devices** • **former u s** • **platform s capabilities** • **twitter whistleblower complaint** • **ransomware gang known** • **quantum safe version** • **missing authentication combined** • **iran's intelligence agencies** • **digital control systems** • **cobra docguard server** • **botnet's control servers** • **security defect tracked** • **service ddos doxing** • **double extortion attacks** • **online brand protection** • **navia s environment** • **windows operating systems** • **web services managers**
+**3 men charged** • **critical security flaw** • **things iot devices** • **former u s** • **platform s capabilities** • **twitter whistleblower complaint** • **service ddos doxing** • **ransomware gang known** • **quantum safe version** • **missing authentication combined** • **digital control systems** • **cobra docguard server** • **botnet's control servers** • **security defect tracked** • **russian intelligence services** • **iran's intelligence agencies** • **online brand protection** • **navia s environment** • **windows operating systems** • **web services managers**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [FBI links Signal phishing attacks to Russian intelligence services](https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/)
 - [Oracle pushes emergency fix for critical Identity Manager RCE flaw](https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/)
 - [Police take down 373,000 fake CSAM sites in Operation Alice](https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/)
 - [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
@@ -34,7 +35,6 @@
 - [Musician admits to $10M streaming royalty fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/)
 - [International joint action disrupts world’s largest DDoS botnets](https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/)
 - [Microsoft: March Windows updates break Teams, OneDrive sign-ins](https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/)
-- [Ex-data analyst stole company data in $2.5M extortion scheme](https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/)
 
 ### Krebs on Security
 

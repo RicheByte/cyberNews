@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 20:26",
+  "last_updated": "2026-03-20 22:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,16 +9,16 @@
     "former u s",
     "platform s capabilities",
     "twitter whistleblower complaint",
+    "service ddos doxing",
     "ransomware gang known",
     "quantum safe version",
     "missing authentication combined",
-    "iran's intelligence agencies",
     "digital control systems",
     "cobra docguard server",
     "botnet's control servers",
     "security defect tracked",
-    "service ddos doxing",
-    "double extortion attacks",
+    "russian intelligence services",
+    "iran's intelligence agencies",
     "online brand protection",
     "navia s environment",
     "windows operating systems",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "3 men charged",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 138
+      "mentions": 139
     },
     {
       "keyword": "things iot devices",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "former u s",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "platform s capabilities",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1065
+      "mentions": 1066
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 11
     },
     {
       "keyword": "ransomware gang known",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "quantum safe version",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "missing authentication combined",
-      "mentions": 3
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -156,6 +156,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FBI links Signal phishing attacks to Russian intelligence services",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
+      "summary": "The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in phishing campaigns that have already compromised thousands of accounts. [...]",
+      "published": "Fri, 20 Mar 2026 16:45:52 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
       "summary": "Oracle has released an out-of-band security update to fix a critical unauthenticated remote code execution vulnerability in Identity Manager and Web Services Manager tracked as CVE-2026-21992. [...]",
@@ -227,15 +238,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
-      "link": "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/",
-      "summary": "A North Carolina man was found guilty of extorting a D.C.-based technology company while still being employed as a data analyst contractor. [...]",
-      "published": "Fri, 20 Mar 2026 02:57:46 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

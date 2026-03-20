@@ -1,12 +1,14 @@
 {
-  "last_updated": "2026-03-20 08:35",
+  "last_updated": "2026-03-20 10:32",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "threat actors conducted",
     "help power critical",
+    "online brand protection",
     "things iot devices",
     "least 77 vulnerabilities",
+    "digital control systems",
     "twitter whistleblower complaint",
     "quantum safe version",
     "port authentication bypass",
@@ -16,54 +18,52 @@
     "software including patches",
     "compromising android devices",
     "service ddos doxing",
-    "digital control systems",
     "weather kinetic strikes",
     "vulnerable driver byovd",
     "vulnerable charging stations",
     "victim's username password",
-    "sprawling phishing campaign",
     "spoofing cleartext transmission"
   ],
   "trending": [
     {
       "keyword": "threat actors conducted",
-      "mentions": 8
-    },
-    {
-      "keyword": "help power critical",
-      "mentions": 8
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 28
-    },
-    {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 28
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1059
-    },
-    {
-      "keyword": "quantum safe version",
-      "mentions": 1
-    },
-    {
-      "keyword": "port authentication bypass",
-      "mentions": 8
-    },
-    {
-      "keyword": "full device takeover",
       "mentions": 9
     },
     {
-      "keyword": "agents autonomous programs",
-      "mentions": 51
+      "keyword": "help power critical",
+      "mentions": 9
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 548
+      "keyword": "online brand protection",
+      "mentions": 1
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 29
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 29
+    },
+    {
+      "keyword": "digital control systems",
+      "mentions": 9
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1060
+    },
+    {
+      "keyword": "quantum safe version",
+      "mentions": 2
+    },
+    {
+      "keyword": "port authentication bypass",
+      "mentions": 9
+    },
+    {
+      "keyword": "full device takeover",
+      "mentions": 10
     }
   ],
   "articles": [
@@ -153,6 +153,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Musician admits to $10M streaming royalty fraud using AI bots",
+      "link": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/",
+      "summary": "North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music. [...]",
+      "published": "Fri, 20 Mar 2026 05:33:33 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "International joint action disrupts world’s largest DDoS botnets",
       "link": "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/",
       "summary": "Authorities from the United States, Germany, and Canada have taken down Command and Control (C2) infrastructure used by the Aisuru, KimWolf, JackSkid, and Mossad botnets to infect Internet of Things (IoT) devices. [...]",
@@ -220,17 +229,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
-      "summary": "Hackers part of APT28, a state-backed threat group linked to Russia's military intelligence service (GRU), are exploiting a Zimbra Collaboration Suite (ZCS) vulnerability in attacks targeting Ukrainian government entities. [...]",
-      "published": "Thu, 19 Mar 2026 10:55:50 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {
@@ -330,6 +328,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Native Launches With Security Control Plane for Multicloud",
+      "link": "https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud",
+      "summary": "The cloud security startup's platform translates and enforces security policies across AWS, Azure, Google Cloud and Oracle using provider-native controls.",
+      "published": "Thu, 19 Mar 2026 20:08:11 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Post-Quantum Web Could be Safer, Faster",
       "link": "https://www.darkreading.com/cloud-security/post-quantum-web-could-be-safer-faster",
       "summary": "Major providers are testing a quantum-safe version of HTTPS that shrinks certificates to a tenth their previous size, decreasing latency and adding transparency.",
@@ -389,13 +396,26 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads",
-      "link": "https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii",
-      "summary": "Tracking pixels let social media companies spy on their users even after they click over to advertiser sites, gleaning credit card info, geolocations, and more, according to an analysis.",
-      "published": "Wed, 18 Mar 2026 13:00:00 GMT",
+      "source": "Security Week",
+      "title": "Allure Security Raises $17 Million for Online Brand Protection",
+      "link": "https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/",
+      "summary": "The company will invest in expanding its digital brand protection platform and in scaling its go-to-market efforts. The post Allure Security Raises $17 Million for Online Brand Protection appeared first on SecurityWeek .",
+      "published": "Fri, 20 Mar 2026 09:09:59 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Langflow Vulnerability Exploited Hours After Public Disclosure",
+      "link": "https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/",
+      "summary": "Because attacker-supplied flow data is used in public flows, the bug leads to unauthenticated remote code execution. The post Critical Langflow Vulnerability Exploited Hours After Public Disclosure appeared first on SecurityWeek .",
+      "published": "Fri, 20 Mar 2026 08:38:56 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -452,29 +472,6 @@
       "published": "Thu, 19 Mar 2026 15:30:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Marquis Data Breach Affects 672,000 Individuals",
-      "link": "https://www.securityweek.com/marquis-data-breach-affects-672000-individuals/",
-      "summary": "It was previously estimated that more than 1.6 million people may be affected by the Marquis data breach. The post Marquis Data Breach Affects 672,000 Individuals appeared first on SecurityWeek .",
-      "published": "Thu, 19 Mar 2026 15:07:36 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Security Firm Aura Discloses Data Breach Impacting 900,000 Records",
-      "link": "https://www.securityweek.com/security-firm-aura-discloses-data-breach-impacting-900000-records/",
-      "summary": "The information was stolen from a marketing tool after an employee fell victim to a targeted phone phishing attack. The post Security Firm Aura Discloses Data Breach Impacting 900,000 Records appeared first on SecurityWeek .",
-      "published": "Thu, 19 Mar 2026 14:19:08 +0000",
-      "value_score": 42,
-      "value_signals": [
-        "Breach/leak ×2",
-        "Phishing"
-      ]
     },
     {
       "source": "Threatpost",

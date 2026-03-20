@@ -166,7 +166,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 548,
+      "count": 549,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -244,7 +244,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1059,
+      "count": 1060,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1831,7 +1831,7 @@
       ]
     },
     "things iot devices": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -4319,7 +4319,7 @@
       ]
     },
     "vulnerable driver byovd": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-22",
         "2026-03-19",
@@ -7776,7 +7776,7 @@
       ]
     },
     "victim's username password": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8535,7 +8535,7 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-03-02",
         "2026-03-03",
@@ -8579,7 +8579,7 @@
       ]
     },
     "software including patches": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-03",
         "2026-03-12",
@@ -9087,7 +9087,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9318,7 +9318,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10226,14 +10226,14 @@
       ]
     },
     "full device takeover": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "compromising android devices": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-19",
         "2026-03-20"
@@ -10253,28 +10253,28 @@
       ]
     },
     "help power critical": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "threat actors conducted": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "port authentication bypass": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "digital control systems": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-19",
         "2026-03-20"
@@ -10287,7 +10287,7 @@
       ]
     },
     "weather kinetic strikes": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-19",
         "2026-03-20"
@@ -10301,18 +10301,24 @@
       ]
     },
     "service ddos doxing": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-20"
       ]
     },
     "quantum safe version": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-20"
       ]
     },
     "spoofing cleartext transmission": {
+      "count": 2,
+      "dates": [
+        "2026-03-20"
+      ]
+    },
+    "online brand protection": {
       "count": 1,
       "dates": [
         "2026-03-20"
@@ -10320,17 +10326,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-11 08:34",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "third party vendor",
-        "labkotec lid 3300ip",
-        "arbitrary file upload"
-      ]
-    },
     {
       "timestamp": "2026-03-11 10:34",
       "articles": 56,
@@ -11418,6 +11413,17 @@
         "things iot devices",
         "least 77 vulnerabilities",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-03-20 10:32",
+      "articles": 56,
+      "top_keywords": [
+        "threat actors conducted",
+        "help power critical",
+        "online brand protection",
+        "things iot devices",
+        "least 77 vulnerabilities"
       ]
     }
   ]

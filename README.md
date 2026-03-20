@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-20 12:50 UTC |
+| 🕐 Last Updated | 2026-03-20 14:39 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`help power critical` • `digital control systems` • `twitter whistleblower complaint` • `threat actors conducted` • `things iot devices` • `quantum safe version` • `port authentication bypass` • `service ddos doxing` • `windows operating systems` • `software including patches`
+`help power critical` • `digital control systems` • `twitter whistleblower complaint` • `things iot devices` • `quantum safe version` • `port authentication bypass` • `platform s capabilities` • `service ddos doxing` • `windows operating systems` • `software including patches`
 
 ## 📄 Reports
 

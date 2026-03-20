@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-20 12:50",
+  "last_updated": "2026-03-20 14:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "help power critical",
     "digital control systems",
     "twitter whistleblower complaint",
-    "threat actors conducted",
     "things iot devices",
     "quantum safe version",
     "port authentication bypass",
+    "platform s capabilities",
     "service ddos doxing",
     "windows operating systems",
     "software including patches",
     "least 77 vulnerabilities",
-    "online brand protection",
+    "double extortion attacks",
     "critical security flaw",
+    "online brand protection",
     "vulnerable driver byovd",
     "vulnerable charging stations",
     "victim's username password",
     "spoofing cleartext transmission",
-    "rsac 2026 conference",
     "response edr killers",
     "re already closer"
   ],
   "trending": [
     {
       "keyword": "help power critical",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "digital control systems",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1061
-    },
-    {
-      "keyword": "threat actors conducted",
-      "mentions": 10
+      "mentions": 1062
     },
     {
       "keyword": "things iot devices",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "quantum safe version",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "port authentication bypass",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "platform s capabilities",
+      "mentions": 9
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 550
+      "mentions": 551
     },
     {
       "keyword": "software including patches",
-      "mentions": 19
+      "mentions": 20
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/",
+      "summary": "Geopolitical tensions are driving destructive cyberattacks designed to disrupt operations, not demand ransom. CISOs must limit lateral movement and contain breaches to reduce the impact of wiper campaigns. [...]",
+      "published": "Fri, 20 Mar 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Musician admits to $10M streaming royalty fraud using AI bots",
       "link": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/",
       "summary": "North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music. [...]",
@@ -221,17 +230,6 @@
       "published": "Thu, 19 Mar 2026 13:08:24 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI seizes Handala data leak site after Stryker cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
-      "summary": "The FBI has seized two websites used by the Handala hacktivist group after the threat actors conducted a destructive cyberattack on medical technology giant Stryker that wiped approximately 80,000 devices. [...]",
-      "published": "Thu, 19 Mar 2026 12:14:13 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -321,10 +319,31 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Interlock Ransomware Targets Cisco Enterprise Firewalls",
+      "link": "https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls",
+      "summary": "The ransomware gang, known for double-extortion attacks, had access to a critical Cisco firewall vulnerability weeks before it was publicly disclosed.",
+      "published": "Fri, 20 Mar 2026 13:00:00 GMT",
+      "value_score": 54,
+      "value_signals": [
+        "Ransomware ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Conundrum: Why MCP Security Can't Be Patched Away",
       "link": "https://www.darkreading.com/application-security/mcp-security-patched",
-      "summary": "MCP introduces security risks into LLM environments that are architectural and not easily fixable, researcher says at RSAC 2026 Conference.",
+      "summary": "RSAC Conference Preview: MCP introduces security risks into LLM environments that are architectural and not easily fixable, researcher says.",
       "published": "Thu, 19 Mar 2026 21:54:38 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "With Government's Role Uncertain, Businesses Unite to Combat Fraud",
+      "link": "https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud",
+      "summary": "Major industry leaders agree to share information and collaborate to boost defenses in the wake of distressing online scams.",
+      "published": "Thu, 19 Mar 2026 20:43:01 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -332,7 +351,7 @@
       "source": "Dark Reading",
       "title": "Native Launches With Security Control Plane for Multicloud",
       "link": "https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud",
-      "summary": "The cloud security startup's platform translates and enforces security policies across AWS, Azure, Google Cloud and Oracle using provider-native controls.",
+      "summary": "The cloud security startup's platform translates and enforces security policies across AWS, Azure, Google Cloud, and Oracle using provider-native controls.",
       "published": "Thu, 19 Mar 2026 20:08:11 GMT",
       "value_score": 10,
       "value_signals": []
@@ -377,25 +396,13 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "'Claudy Day’ Trio of Flaws Exposes Claude Users to Data Theft",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft",
-      "summary": "A prompt injection vulnerability paired with other flaws can turn a Google search into a full attack chain that could threaten enterprise networks.",
-      "published": "Wed, 18 Mar 2026 15:05:58 GMT",
+      "source": "Security Week",
+      "title": "Eclypsium Raises $25 Million for Device Supply Chain Security",
+      "link": "https://www.securityweek.com/eclypsium-raises-25-million-for-device-supply-chain-security/",
+      "summary": "The company will use the investment to expand its platform’s capabilities and grow channel partnerships. The post Eclypsium Raises $25 Million for Device Supply Chain Security appeared first on SecurityWeek .",
+      "published": "Fri, 20 Mar 2026 13:25:34 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "SideWinder Espionage Campaign Expands Across Southeast Asia",
-      "link": "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia",
-      "summary": "The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
-      "published": "Wed, 18 Mar 2026 13:00:00 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing",
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",
@@ -463,15 +470,6 @@
       "link": "https://www.securityweek.com/aisuru-and-kimwolf-ddos-botnets-disrupted-in-international-operation/",
       "summary": "The lesser-known JackSkid and Mossad botnets have also been targeted in the operation. The post Aisuru and Kimwolf DDoS Botnets Disrupted in International Operation appeared first on SecurityWeek .",
       "published": "Fri, 20 Mar 2026 07:32:32 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Oasis Security Raises $120 Million for Agentic Access Management",
-      "link": "https://www.securityweek.com/oasis-security-raises-120-million-for-agentic-access-management/",
-      "summary": "The company will invest in R&D, product expansion across AI frameworks, and in scaling go-to-market and sales efforts. The post Oasis Security Raises $120 Million for Agentic Access Management appeared first on SecurityWeek .",
-      "published": "Thu, 19 Mar 2026 18:23:15 +0000",
       "value_score": 10,
       "value_signals": []
     },

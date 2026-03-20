@@ -166,7 +166,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 550,
+      "count": 551,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -244,7 +244,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1061,
+      "count": 1062,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -812,7 +812,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1832,7 +1832,7 @@
       ]
     },
     "things iot devices": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -4320,7 +4320,7 @@
       ]
     },
     "vulnerable driver byovd": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-22",
         "2026-03-19",
@@ -5722,10 +5722,11 @@
       ]
     },
     "platform s capabilities": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-03",
-        "2026-02-04"
+        "2026-02-04",
+        "2026-03-20"
       ]
     },
     "token security shows": {
@@ -7777,7 +7778,7 @@
       ]
     },
     "victim's username password": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8536,7 +8537,7 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-02",
         "2026-03-03",
@@ -8580,7 +8581,7 @@
       ]
     },
     "software including patches": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-03",
         "2026-03-12",
@@ -9319,7 +9320,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10254,7 +10255,7 @@
       ]
     },
     "help power critical": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-19",
         "2026-03-20"
@@ -10268,14 +10269,14 @@
       ]
     },
     "port authentication bypass": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "digital control systems": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-19",
         "2026-03-20"
@@ -10302,25 +10303,25 @@
       ]
     },
     "service ddos doxing": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-20"
       ]
     },
     "quantum safe version": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-20"
       ]
     },
     "spoofing cleartext transmission": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-20"
       ]
     },
     "online brand protection": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-20"
       ]
@@ -10332,12 +10333,18 @@
       ]
     },
     "response edr killers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-20"
       ]
     },
     "re already closer": {
+      "count": 2,
+      "dates": [
+        "2026-03-20"
+      ]
+    },
+    "double extortion attacks": {
       "count": 1,
       "dates": [
         "2026-03-20"
@@ -10345,17 +10352,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-11 12:50",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "labkotec lid 3300ip",
-        "arbitrary file upload",
-        "quantro security emerges"
-      ]
-    },
     {
       "timestamp": "2026-03-11 14:42",
       "articles": 56,
@@ -11443,6 +11439,17 @@
         "twitter whistleblower complaint",
         "threat actors conducted",
         "things iot devices"
+      ]
+    },
+    {
+      "timestamp": "2026-03-20 14:39",
+      "articles": 56,
+      "top_keywords": [
+        "help power critical",
+        "digital control systems",
+        "twitter whistleblower complaint",
+        "things iot devices",
+        "quantum safe version"
       ]
     }
   ]

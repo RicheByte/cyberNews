@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-20 10:32 UTC |
+| 🕐 Last Updated | 2026-03-20 12:50 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`threat actors conducted` • `help power critical` • `online brand protection` • `things iot devices` • `least 77 vulnerabilities` • `digital control systems` • `twitter whistleblower complaint` • `quantum safe version` • `port authentication bypass` • `full device takeover`
+`help power critical` • `digital control systems` • `twitter whistleblower complaint` • `threat actors conducted` • `things iot devices` • `quantum safe version` • `port authentication bypass` • `service ddos doxing` • `windows operating systems` • `software including patches`
 
 ## 📄 Reports
 

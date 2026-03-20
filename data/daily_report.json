@@ -1,72 +1,105 @@
 {
-  "last_updated": "2026-03-20 10:32",
+  "last_updated": "2026-03-20 12:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "threat actors conducted",
     "help power critical",
-    "online brand protection",
-    "things iot devices",
-    "least 77 vulnerabilities",
     "digital control systems",
     "twitter whistleblower complaint",
+    "threat actors conducted",
+    "things iot devices",
     "quantum safe version",
     "port authentication bypass",
-    "full device takeover",
-    "agents autonomous programs",
+    "service ddos doxing",
     "windows operating systems",
     "software including patches",
-    "compromising android devices",
-    "service ddos doxing",
-    "weather kinetic strikes",
+    "least 77 vulnerabilities",
+    "online brand protection",
+    "critical security flaw",
     "vulnerable driver byovd",
     "vulnerable charging stations",
     "victim's username password",
-    "spoofing cleartext transmission"
+    "spoofing cleartext transmission",
+    "rsac 2026 conference",
+    "response edr killers",
+    "re already closer"
   ],
   "trending": [
     {
-      "keyword": "threat actors conducted",
-      "mentions": 9
-    },
-    {
       "keyword": "help power critical",
-      "mentions": 9
-    },
-    {
-      "keyword": "online brand protection",
-      "mentions": 1
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 29
-    },
-    {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 29
+      "mentions": 10
     },
     {
       "keyword": "digital control systems",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1060
+      "mentions": 1061
+    },
+    {
+      "keyword": "threat actors conducted",
+      "mentions": 10
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 30
     },
     {
       "keyword": "quantum safe version",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "port authentication bypass",
-      "mentions": 9
+      "mentions": 10
     },
     {
-      "keyword": "full device takeover",
-      "mentions": 10
+      "keyword": "service ddos doxing",
+      "mentions": 6
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 550
+    },
+    {
+      "keyword": "software including patches",
+      "mentions": 19
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams",
+      "link": "https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html",
+      "summary": "Google on Thursday announced a new \"advanced flow\" for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverified developers in an attempt to balance openness with safety. The new changes come against the backdrop of a developer verification mandate the tech giant announced last year that requires all Android apps to be registered by verified developers to",
+      "published": "Fri, 20 Mar 2026 16:27:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks",
+      "link": "https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html",
+      "summary": "Artificial Intelligence (AI) is changing how individuals and organizations conduct many activities, including how cybercriminals carry out phishing attacks and iterate on malware. Now, cybercriminals are using AI to generate personalized phishing emails, deepfakes and malware that evade traditional detection by impersonating normal user activity and bypassing legacy security models. As a result,",
+      "published": "Fri, 20 Mar 2026 15:30:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover",
+      "link": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html",
+      "summary": "Sansec is warning of a critical security flaw in Magento's REST API that could allow unauthenticated attackers to upload arbitrary executables and achieve code execution and account takeover. The vulnerability has been codenamed PolyShell by Sansec owing to the fact that the attack hinges on disguising malicious code as an image. There is no evidence that the shortcoming has been exploited in",
+      "published": "Fri, 20 Mar 2026 15:00:00 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
@@ -115,37 +148,6 @@
       "link": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
       "summary": "ThreatsDay Bulletin is back on The Hacker News, and this week feels off in a familiar way. Nothing loud, nothing breaking everything at once. Just a lot of small things that shouldn’t work anymore but still do. Some of it looks simple, almost sloppy, until you see how well it lands. Other bits feel a little too practical, like they’re already closer to real-world use than anyone",
       "published": "Thu, 19 Mar 2026 19:55:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
-      "link": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
-      "summary": "Cybersecurity researchers have disclosed a new Android malware family called Perseus that's being actively distributed in the wild with an aim to conduct device takeover (DTO) and financial fraud. Perseus is built upon the foundations of Cerberus and Phoenix, at the same time evolving into a \"more flexible and capable platform\" for compromising Android devices through dropper apps distributed",
-      "published": "Thu, 19 Mar 2026 18:13:00 +0530",
-      "value_score": 35,
-      "value_signals": [
-        "Active exploitation"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
-      "link": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
-      "summary": "Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly entered most enterprise environments, and it operates entirely outside those controls. Claude Code, Anthropic's AI coding agent, is now running across engineering organizations at scale. It reads files, executes shell commands, calls external APIs,",
-      "published": "Thu, 19 Mar 2026 16:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
-      "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
-      "summary": "A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat Intelligence Group (GTIG), iVerify, and Lookout. According to GTIG, multiple commercial surveillance vendors and suspected state-sponsored actors have utilized the full-chain exploit kit, codenamed DarkSword",
-      "published": "Thu, 19 Mar 2026 14:44:00 +0530",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
@@ -339,7 +341,7 @@
       "source": "Dark Reading",
       "title": "Post-Quantum Web Could be Safer, Faster",
       "link": "https://www.darkreading.com/cloud-security/post-quantum-web-could-be-safer-faster",
-      "summary": "Major providers are testing a quantum-safe version of HTTPS that shrinks certificates to a tenth their previous size, decreasing latency and adding transparency.",
+      "summary": "Major providers are testing a quantum-safe version of HTTPS that shrinks certificates to one-tenth their previous size, decreasing latency and adding transparency.",
       "published": "Thu, 19 Mar 2026 18:19:43 GMT",
       "value_score": 10,
       "value_signals": []
@@ -397,6 +399,44 @@
     },
     {
       "source": "Security Week",
+      "title": "US Confirms Handala Link to Iran Government Amid Takedown of Hackers’ Sites",
+      "link": "https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/",
+      "summary": "The US has seized several domains used by Handala in cyber-enabled psychological operations. The post US Confirms Handala Link to Iran Government Amid Takedown of Hackers’ Sites appeared first on SecurityWeek .",
+      "published": "Fri, 20 Mar 2026 12:25:41 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cape Raises $100 Million for Protection Against Cellular Security Threats",
+      "link": "https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/",
+      "summary": "Cape offers a privacy-focused mobile virtual network operator (MVNO) service for consumers, enterprises, and governments. The post Cape Raises $100 Million for Protection Against Cellular Security Threats appeared first on SecurityWeek .",
+      "published": "Fri, 20 Mar 2026 11:36:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Navia Data Breach Impacts 2.7 Million",
+      "link": "https://www.securityweek.com/navia-data-breach-impacts-2-7-million/",
+      "summary": "Between late December 2025 and mid-January 2026, hackers stole personal and health plan information from Navia’s environment. The post Navia Data Breach Impacts 2.7 Million appeared first on SecurityWeek .",
+      "published": "Fri, 20 Mar 2026 11:02:08 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Thousands of Magento Sites Hit in Ongoing Defacement Campaign",
+      "link": "https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/",
+      "summary": "The attacks started on February 27 and have targeted e-commerce platforms, global brands, and government services. The post Thousands of Magento Sites Hit in Ongoing Defacement Campaign appeared first on SecurityWeek .",
+      "published": "Fri, 20 Mar 2026 10:36:51 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Allure Security Raises $17 Million for Online Brand Protection",
       "link": "https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/",
       "summary": "The company will invest in expanding its digital brand protection platform and in scaling its go-to-market efforts. The post Allure Security Raises $17 Million for Online Brand Protection appeared first on SecurityWeek .",
@@ -432,44 +472,6 @@
       "link": "https://www.securityweek.com/oasis-security-raises-120-million-for-agentic-access-management/",
       "summary": "The company will invest in R&D, product expansion across AI frameworks, and in scaling go-to-market and sales efforts. The post Oasis Security Raises $120 Million for Agentic Access Management appeared first on SecurityWeek .",
       "published": "Thu, 19 Mar 2026 18:23:15 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "1stProtect Emerges From Stealth With $20 Million in Funding",
-      "link": "https://www.securityweek.com/1stprotect-emerges-from-stealth-with-20-million-in-funding/",
-      "summary": "The company’s endpoint security platform monitors behavior and verifies user intent to stop cyberattacks in real time. The post 1stProtect Emerges From Stealth With $20 Million in Funding appeared first on SecurityWeek .",
-      "published": "Thu, 19 Mar 2026 17:55:10 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical ScreenConnect Vulnerability Exposes Machine Keys",
-      "link": "https://www.securityweek.com/critical-screenconnect-vulnerability-exposes-machine-keys/",
-      "summary": "Latest ScreenConnect version adds encrypted storage and management to prevent unauthorized access to machine keys. The post Critical ScreenConnect Vulnerability Exposes Machine Keys appeared first on SecurityWeek .",
-      "published": "Thu, 19 Mar 2026 17:40:03 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Privacy Platform Cloaked Raises $375M to Expand Enterprise Reach",
-      "link": "https://www.securityweek.com/privacy-platform-cloaked-raises-375m-to-expand-consumer-tools-and-enterprise-reach/",
-      "summary": "Cloaked plans to introduce AI agents designed to act on behalf of users to monitor, manage, and enforce privacy preferences and security postures. The post Privacy Platform Cloaked Raises $375M to Expand Enterprise Reach appeared first on SecurityWeek .",
-      "published": "Thu, 19 Mar 2026 17:32:29 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury",
-      "link": "https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/",
-      "summary": "Analysis reveals a six-month buildup of Iran-linked cyber infrastructure, including US-based shell companies, designed to weather kinetic strikes and ensure the resilience of its global hacking operations. The post Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury appeared first on SecurityWeek .",
-      "published": "Thu, 19 Mar 2026 15:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

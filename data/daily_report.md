@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-20 10:32 UTC  
+> **Last Updated:** 2026-03-20 12:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**threat actors conducted** • **help power critical** • **online brand protection** • **things iot devices** • **least 77 vulnerabilities** • **digital control systems** • **twitter whistleblower complaint** • **quantum safe version** • **port authentication bypass** • **full device takeover** • **agents autonomous programs** • **windows operating systems** • **software including patches** • **compromising android devices** • **service ddos doxing** • **weather kinetic strikes** • **vulnerable driver byovd** • **vulnerable charging stations** • **victim's username password** • **spoofing cleartext transmission**
+**help power critical** • **digital control systems** • **twitter whistleblower complaint** • **threat actors conducted** • **things iot devices** • **quantum safe version** • **port authentication bypass** • **service ddos doxing** • **windows operating systems** • **software including patches** • **least 77 vulnerabilities** • **online brand protection** • **critical security flaw** • **vulnerable driver byovd** • **vulnerable charging stations** • **victim's username password** • **spoofing cleartext transmission** • **rsac 2026 conference** • **response edr killers** • **re already closer**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
+- [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
+- [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
 - [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
 - [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
 - [Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers](https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html)
 - [54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security](https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html)
 - [ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More](https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html)
-- [New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data](https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html)
-- [How Ceros Gives Security Teams Visibility and Control in Claude Code](https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html)
-- [DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [US Confirms Handala Link to Iran Government Amid Takedown of Hackers’ Sites](https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/)
+- [Cape Raises $100 Million for Protection Against Cellular Security Threats](https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/)
+- [Navia Data Breach Impacts 2.7 Million](https://www.securityweek.com/navia-data-breach-impacts-2-7-million/)
+- [Thousands of Magento Sites Hit in Ongoing Defacement Campaign](https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/)
 - [Allure Security Raises $17 Million for Online Brand Protection](https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/)
 - [Critical Langflow Vulnerability Exploited Hours After Public Disclosure](https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/)
 - [Aisuru and Kimwolf DDoS Botnets Disrupted in International Operation](https://www.securityweek.com/aisuru-and-kimwolf-ddos-botnets-disrupted-in-international-operation/)
 - [Oasis Security Raises $120 Million for Agentic Access Management](https://www.securityweek.com/oasis-security-raises-120-million-for-agentic-access-management/)
-- [1stProtect Emerges From Stealth With $20 Million in Funding](https://www.securityweek.com/1stprotect-emerges-from-stealth-with-20-million-in-funding/)
-- [Critical ScreenConnect Vulnerability Exposes Machine Keys](https://www.securityweek.com/critical-screenconnect-vulnerability-exposes-machine-keys/)
-- [Privacy Platform Cloaked Raises $375M to Expand Enterprise Reach](https://www.securityweek.com/privacy-platform-cloaked-raises-375m-to-expand-consumer-tools-and-enterprise-reach/)
-- [Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury](https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/)
 
 ### Threatpost
 

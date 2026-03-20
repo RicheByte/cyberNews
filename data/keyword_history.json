@@ -166,7 +166,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 549,
+      "count": 550,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -244,7 +244,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1060,
+      "count": 1061,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -812,7 +812,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -834,7 +834,8 @@
         "2026-02-09",
         "2026-02-10",
         "2026-02-18",
-        "2026-02-19"
+        "2026-02-19",
+        "2026-03-20"
       ]
     },
     "denmark's critical infrastructure": {
@@ -1831,7 +1832,7 @@
       ]
     },
     "things iot devices": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -4319,7 +4320,7 @@
       ]
     },
     "vulnerable driver byovd": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-22",
         "2026-03-19",
@@ -7776,7 +7777,7 @@
       ]
     },
     "victim's username password": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8535,7 +8536,7 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-02",
         "2026-03-03",
@@ -8579,7 +8580,7 @@
       ]
     },
     "software including patches": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-03",
         "2026-03-12",
@@ -9318,7 +9319,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10253,28 +10254,28 @@
       ]
     },
     "help power critical": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "threat actors conducted": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "port authentication bypass": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "digital control systems": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-19",
         "2026-03-20"
@@ -10301,24 +10302,42 @@
       ]
     },
     "service ddos doxing": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-20"
       ]
     },
     "quantum safe version": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-20"
       ]
     },
     "spoofing cleartext transmission": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-20"
       ]
     },
     "online brand protection": {
+      "count": 2,
+      "dates": [
+        "2026-03-20"
+      ]
+    },
+    "rsac 2026 conference": {
+      "count": 1,
+      "dates": [
+        "2026-03-20"
+      ]
+    },
+    "response edr killers": {
+      "count": 1,
+      "dates": [
+        "2026-03-20"
+      ]
+    },
+    "re already closer": {
       "count": 1,
       "dates": [
         "2026-03-20"
@@ -10326,17 +10345,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-11 10:34",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "labkotec lid 3300ip",
-        "arbitrary file upload",
-        "victim's username password"
-      ]
-    },
     {
       "timestamp": "2026-03-11 12:50",
       "articles": 56,
@@ -11424,6 +11432,17 @@
         "online brand protection",
         "things iot devices",
         "least 77 vulnerabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-03-20 12:50",
+      "articles": 56,
+      "top_keywords": [
+        "help power critical",
+        "digital control systems",
+        "twitter whistleblower complaint",
+        "threat actors conducted",
+        "things iot devices"
       ]
     }
   ]

@@ -166,7 +166,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 546,
+      "count": 547,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -244,7 +244,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1057,
+      "count": 1058,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1830,7 +1830,7 @@
       ]
     },
     "things iot devices": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -4318,7 +4318,7 @@
       ]
     },
     "vulnerable driver byovd": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-22",
         "2026-03-19",
@@ -7775,7 +7775,7 @@
       ]
     },
     "victim's username password": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7794,7 +7794,8 @@
         "2026-03-16",
         "2026-03-17",
         "2026-03-18",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "aiding north korean": {
@@ -7948,7 +7949,7 @@
       ]
     },
     "anti abuse activists": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -8533,14 +8534,15 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-02",
         "2026-03-03",
         "2026-03-07",
         "2026-03-08",
         "2026-03-09",
-        "2026-03-10"
+        "2026-03-10",
+        "2026-03-20"
       ]
     },
     "wiper malware ddos": {
@@ -8576,7 +8578,7 @@
       ]
     },
     "software including patches": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-03",
         "2026-03-12",
@@ -9084,7 +9086,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9315,7 +9317,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10216,21 +10218,21 @@
       ]
     },
     "follow microsoft guidance": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "full device takeover": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "compromising android devices": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-19",
         "2026-03-20"
@@ -10243,35 +10245,35 @@
       ]
     },
     "without causing harm": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "help power critical": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "threat actors conducted": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "port authentication bypass": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-19",
         "2026-03-20"
       ]
     },
     "digital control systems": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-19",
         "2026-03-20"
@@ -10284,7 +10286,7 @@
       ]
     },
     "weather kinetic strikes": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-19",
         "2026-03-20"
@@ -10298,24 +10300,13 @@
       ]
     },
     "service ddos doxing": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-20"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-11 04:05",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "third party vendor",
-        "labkotec lid 3300ip",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-03-11 06:44",
       "articles": 56,
@@ -11403,6 +11394,17 @@
         "things iot devices",
         "agents autonomous programs",
         "follow microsoft guidance"
+      ]
+    },
+    {
+      "timestamp": "2026-03-20 06:47",
+      "articles": 56,
+      "top_keywords": [
+        "threat actors conducted",
+        "help power critical",
+        "things iot devices",
+        "least 77 vulnerabilities",
+        "software including patches"
       ]
     }
   ]

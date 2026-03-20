@@ -1,72 +1,93 @@
 {
-  "last_updated": "2026-03-20 04:09",
+  "last_updated": "2026-03-20 06:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "threat actors conducted",
     "help power critical",
     "things iot devices",
-    "agents autonomous programs",
-    "follow microsoft guidance",
+    "least 77 vulnerabilities",
+    "software including patches",
     "windows operating systems",
     "twitter whistleblower complaint",
     "port authentication bypass",
     "full device takeover",
+    "follow microsoft guidance",
     "anti abuse activists",
-    "edr killer programs",
+    "agents autonomous programs",
     "digital control systems",
     "compromising android devices",
-    "least 77 vulnerabilities",
-    "software including patches",
-    "fake remote jobs",
     "service ddos doxing",
     "without causing harm",
     "weather kinetic strikes",
-    "vulnerable driver byovd"
+    "vulnerable driver byovd",
+    "vulnerable charging stations",
+    "victim's username password"
   ],
   "trending": [
     {
       "keyword": "threat actors conducted",
-      "mentions": 6
-    },
-    {
-      "keyword": "help power critical",
-      "mentions": 6
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 26
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 49
-    },
-    {
-      "keyword": "follow microsoft guidance",
-      "mentions": 8
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 546
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1057
-    },
-    {
-      "keyword": "port authentication bypass",
-      "mentions": 6
-    },
-    {
-      "keyword": "full device takeover",
       "mentions": 7
     },
     {
-      "keyword": "anti abuse activists",
-      "mentions": 36
+      "keyword": "help power critical",
+      "mentions": 7
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 27
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 27
+    },
+    {
+      "keyword": "software including patches",
+      "mentions": 16
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 547
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1058
+    },
+    {
+      "keyword": "port authentication bypass",
+      "mentions": 7
+    },
+    {
+      "keyword": "full device takeover",
+      "mentions": 8
+    },
+    {
+      "keyword": "follow microsoft guidance",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
+      "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized law enforcement operation. The effort also saw authorities from Canada and Germany targeting the operators behind these botnets, with a number of private",
+      "published": "Fri, 20 Mar 2026 11:55:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
+      "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
+      "summary": "Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword. These attacks employ malicious web content to target out-of-date versions of iOS, triggering an infection chain that leads to the theft of sensitive data. \"For example, if you're using an older",
+      "published": "Fri, 20 Mar 2026 10:46:00 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
@@ -78,9 +99,9 @@
     },
     {
       "source": "The Hacker News",
-      "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+      "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
       "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
-      "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 34 vulnerable drivers. EDR killer programs have been a common presence in ransomware intrusions as they offer a way for affiliates to neutralize security software before deploying file-encrypting malware. This",
+      "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 35 vulnerable drivers. EDR killer programs have been a common presence in ransomware intrusions as they offer a way for affiliates to neutralize security software before deploying file-encrypting malware. This",
       "published": "Fri, 20 Mar 2026 00:22:00 +0530",
       "value_score": 34,
       "value_signals": [
@@ -129,31 +150,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
-      "link": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft Office SharePoint, stating they have been actively exploited in the wild. The vulnerabilities in question are as follows - CVE-2025-66376 (CVSS score: 7.2) - A stored cross-site scripting",
-      "published": "Thu, 19 Mar 2026 11:35:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Active exploitation ×2",
-        "Ransomware",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
-      "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
-      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) information technology (IT) worker scheme with an aim to defraud U.S. businesses and generate illicit revenue for the regime to fund its weapons of mass destruction (WMD) programs. \"The North Korean",
-      "published": "Wed, 18 Mar 2026 22:56:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

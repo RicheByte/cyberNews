@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-20 04:09 UTC  
+> **Last Updated:** 2026-03-20 06:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**threat actors conducted** • **help power critical** • **things iot devices** • **agents autonomous programs** • **follow microsoft guidance** • **windows operating systems** • **twitter whistleblower complaint** • **port authentication bypass** • **full device takeover** • **anti abuse activists** • **edr killer programs** • **digital control systems** • **compromising android devices** • **least 77 vulnerabilities** • **software including patches** • **fake remote jobs** • **service ddos doxing** • **without causing harm** • **weather kinetic strikes** • **vulnerable driver byovd**
+**threat actors conducted** • **help power critical** • **things iot devices** • **least 77 vulnerabilities** • **software including patches** • **windows operating systems** • **twitter whistleblower complaint** • **port authentication bypass** • **full device takeover** • **follow microsoft guidance** • **anti abuse activists** • **agents autonomous programs** • **digital control systems** • **compromising android devices** • **service ddos doxing** • **without causing harm** • **weather kinetic strikes** • **vulnerable driver byovd** • **vulnerable charging stations** • **victim's username password**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
+- [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
 - [Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers](https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html)
-- [54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security](https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html)
+- [54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security](https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html)
 - [ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More](https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html)
 - [New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data](https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html)
 - [How Ceros Gives Security Teams Visibility and Control in Claude Code](https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html)
 - [DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
-- [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
-- [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
 
 ### BleepingComputer
 

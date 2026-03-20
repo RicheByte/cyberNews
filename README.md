@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-20 04:09 UTC |
+| 🕐 Last Updated | 2026-03-20 06:47 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`threat actors conducted` • `help power critical` • `things iot devices` • `agents autonomous programs` • `follow microsoft guidance` • `windows operating systems` • `twitter whistleblower complaint` • `port authentication bypass` • `full device takeover` • `anti abuse activists`
+`threat actors conducted` • `help power critical` • `things iot devices` • `least 77 vulnerabilities` • `software including patches` • `windows operating systems` • `twitter whistleblower complaint` • `port authentication bypass` • `full device takeover` • `follow microsoft guidance`
 
 ## 📄 Reports
 

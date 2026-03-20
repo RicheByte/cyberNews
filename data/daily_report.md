@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-20 18:40 UTC  
+> **Last Updated:** 2026-03-20 20:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**3 men charged** • **platform s capabilities** • **things iot devices** • **former u s** • **twitter whistleblower complaint** • **ransomware gang known** • **quantum safe version** • **missing authentication combined** • **iran's intelligence agencies** • **digital control systems** • **cobra docguard server** • **botnet's control servers** • **critical security flaw** • **targets including current** • **service ddos doxing** • **double extortion attacks** • **online brand protection** • **windows operating systems** • **vulnerable charging stations** • **victim's username password**
+**3 men charged** • **critical security flaw** • **things iot devices** • **former u s** • **platform s capabilities** • **twitter whistleblower complaint** • **ransomware gang known** • **quantum safe version** • **missing authentication combined** • **iran's intelligence agencies** • **digital control systems** • **cobra docguard server** • **botnet's control servers** • **security defect tracked** • **service ddos doxing** • **double extortion attacks** • **online brand protection** • **navia s environment** • **windows operating systems** • **web services managers**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Oracle pushes emergency fix for critical Identity Manager RCE flaw](https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/)
 - [Police take down 373,000 fake CSAM sites in Operation Alice](https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/)
 - [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
 - [How CISOs Can Survive the Era of Geopolitical Cyberattacks](https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/)
@@ -34,7 +35,6 @@
 - [International joint action disrupts world’s largest DDoS botnets](https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/)
 - [Microsoft: March Windows updates break Teams, OneDrive sign-ins](https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/)
 - [Ex-data analyst stole company data in $2.5M extortion scheme](https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/)
-- [Navia discloses data breach impacting 2.7 million people](https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw](https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw)
 - [Cyber OpSec Fail: Beast Gang Exposes Ransomware Server](https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server)
 - [Interlock Ransomware Targets Cisco Enterprise Firewalls](https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls)
 - [AI Conundrum: Why MCP Security Can't Be Patched Away](https://www.darkreading.com/application-security/mcp-security-patched)
@@ -56,7 +57,6 @@
 - [Native Launches With Security Control Plane for Multicloud](https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud)
 - [Post-Quantum Web Could be Safer, Faster](https://www.darkreading.com/cloud-security/post-quantum-web-could-be-safer-faster)
 - [EU Sanctions Companies in China, Iran for Cyberattacks](https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks)
-- [C2 Implant 'SnappyClient' Targets Crypto Wallets](https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets)
 
 ### Security Week
 

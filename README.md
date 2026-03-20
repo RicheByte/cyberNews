@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-20 18:40 UTC |
+| 🕐 Last Updated | 2026-03-20 20:26 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`3 men charged` • `platform s capabilities` • `things iot devices` • `former u s` • `twitter whistleblower complaint` • `ransomware gang known` • `quantum safe version` • `missing authentication combined` • `iran's intelligence agencies` • `digital control systems`
+`3 men charged` • `critical security flaw` • `things iot devices` • `former u s` • `platform s capabilities` • `twitter whistleblower complaint` • `ransomware gang known` • `quantum safe version` • `missing authentication combined` • `iran's intelligence agencies`
 
 ## 📄 Reports
 

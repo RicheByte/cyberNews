@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-20 16:37 UTC |
+| 🕐 Last Updated | 2026-03-20 18:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`3 men charged` • `things iot devices` • `help power critical` • `platform s capabilities` • `twitter whistleblower complaint` • `service ddos doxing` • `quantum safe version` • `malicious cyber actors` • `iran's intelligence agencies` • `digital control systems`
+`3 men charged` • `platform s capabilities` • `things iot devices` • `former u s` • `twitter whistleblower complaint` • `ransomware gang known` • `quantum safe version` • `missing authentication combined` • `iran's intelligence agencies` • `digital control systems`
 
 ## 📄 Reports
 

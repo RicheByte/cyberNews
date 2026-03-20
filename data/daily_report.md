@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-20 16:37 UTC  
+> **Last Updated:** 2026-03-20 18:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**3 men charged** • **things iot devices** • **help power critical** • **platform s capabilities** • **twitter whistleblower complaint** • **service ddos doxing** • **quantum safe version** • **malicious cyber actors** • **iran's intelligence agencies** • **digital control systems** • **double extortion attacks** • **windows operating systems** • **software including patches** • **port authentication bypass** • **missing authentication combined** • **online brand protection** • **botnet's control servers** • **vulnerable driver byovd** • **victim's username password** • **spoofing cleartext transmission**
+**3 men charged** • **platform s capabilities** • **things iot devices** • **former u s** • **twitter whistleblower complaint** • **ransomware gang known** • **quantum safe version** • **missing authentication combined** • **iran's intelligence agencies** • **digital control systems** • **cobra docguard server** • **botnet's control servers** • **critical security flaw** • **targets including current** • **service ddos doxing** • **double extortion attacks** • **online brand protection** • **windows operating systems** • **vulnerable charging stations** • **victim's username password**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
 - [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
 - [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
 - [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
@@ -23,10 +24,10 @@
 - [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
 - [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
 - [Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers](https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html)
-- [54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security](https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html)
 
 ### BleepingComputer
 
+- [Police take down 373,000 fake CSAM sites in Operation Alice](https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/)
 - [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
 - [How CISOs Can Survive the Era of Geopolitical Cyberattacks](https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/)
 - [Musician admits to $10M streaming royalty fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/)
@@ -34,7 +35,6 @@
 - [Microsoft: March Windows updates break Teams, OneDrive sign-ins](https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/)
 - [Ex-data analyst stole company data in $2.5M extortion scheme](https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/)
 - [Navia discloses data breach impacting 2.7 million people](https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/)
-- [New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores](https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Cyber OpSec Fail: Beast Gang Exposes Ransomware Server](https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server)
 - [Interlock Ransomware Targets Cisco Enterprise Firewalls](https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls)
 - [AI Conundrum: Why MCP Security Can't Be Patched Away](https://www.darkreading.com/application-security/mcp-security-patched)
 - [With Government's Role Uncertain, Businesses Unite to Combat Fraud](https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud)
@@ -56,7 +57,6 @@
 - [Post-Quantum Web Could be Safer, Faster](https://www.darkreading.com/cloud-security/post-quantum-web-could-be-safer-faster)
 - [EU Sanctions Companies in China, Iran for Cyberattacks](https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks)
 - [C2 Implant 'SnappyClient' Targets Crypto Wallets](https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets)
-- [DarkSword: iPhone Exploit Kit Serves Spies &amp; Thieves Alike](https://www.darkreading.com/threat-intelligence/darksword-iphone-exploit-spies-thieves)
 
 ### Security Week
 
@@ -83,13 +83,13 @@
 ### CISA Alerts
 
 - [CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/19/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Schneider Electric EcoStruxure PME and EPO](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-04)
-- [Automated Logic WebCTRL Premium Server](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-08)
-- [Mitsubishi Electric CNC Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-05)
-- [Schneider Electric Modicon M241, M251, and M262](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-01)
-- [Schneider Electric Modicon Controllers M241, M251, M258, and LMC058](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-02)
+- [Russian Intelligence Services Target Commercial Messaging Application Accounts](https://www.cisa.gov/resources-tools/resources/russian-intelligence-services-target-commercial-messaging-application-accounts)
 - [Schneider Electric EcoStruxure Automation Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-03)
+- [Mitsubishi Electric CNC Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-05)
+- [Schneider Electric Modicon Controllers M241, M251, M258, and LMC058](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-02)
+- [IGL-Technologies eParking.fi](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-07)
+- [CTEK Chargeportal](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-06)
+- [Schneider Electric Modicon M241, M251, and M262](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-01)
 
 ---
 

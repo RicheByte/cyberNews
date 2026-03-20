@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-03-20 16:37",
+  "last_updated": "2026-03-20 18:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "3 men charged",
-    "things iot devices",
-    "help power critical",
     "platform s capabilities",
+    "things iot devices",
+    "former u s",
     "twitter whistleblower complaint",
-    "service ddos doxing",
+    "ransomware gang known",
     "quantum safe version",
-    "malicious cyber actors",
+    "missing authentication combined",
     "iran's intelligence agencies",
     "digital control systems",
-    "double extortion attacks",
-    "windows operating systems",
-    "software including patches",
-    "port authentication bypass",
-    "missing authentication combined",
-    "online brand protection",
+    "cobra docguard server",
     "botnet's control servers",
-    "vulnerable driver byovd",
-    "victim's username password",
-    "spoofing cleartext transmission"
+    "critical security flaw",
+    "targets including current",
+    "service ddos doxing",
+    "double extortion attacks",
+    "online brand protection",
+    "windows operating systems",
+    "vulnerable charging stations",
+    "victim's username password"
   ],
   "trending": [
     {
       "keyword": "3 men charged",
-      "mentions": 1
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 32
-    },
-    {
-      "keyword": "help power critical",
-      "mentions": 12
+      "mentions": 2
     },
     {
       "keyword": "platform s capabilities",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1063
+      "keyword": "things iot devices",
+      "mentions": 33
     },
     {
-      "keyword": "service ddos doxing",
-      "mentions": 8
-    },
-    {
-      "keyword": "quantum safe version",
-      "mentions": 5
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 353
-    },
-    {
-      "keyword": "iran's intelligence agencies",
+      "keyword": "former u s",
       "mentions": 1
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1064
+    },
+    {
+      "keyword": "ransomware gang known",
+      "mentions": 1
+    },
+    {
+      "keyword": "quantum safe version",
+      "mentions": 6
+    },
+    {
+      "keyword": "missing authentication combined",
+      "mentions": 2
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 2
+    },
+    {
       "keyword": "digital control systems",
-      "mentions": 12
+      "mentions": 13
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
+      "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
+      "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets. The latest incident impacted GitHub Actions \"aquasecurity/trivy-action\" and \"aquasecurity/setup-trivy,\" which are used to scan Docker container images for vulnerabilities and set up GitHub Actions workflow",
+      "published": "Fri, 20 Mar 2026 23:17:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
@@ -146,16 +155,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
-      "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
-      "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 35 vulnerable drivers. EDR killer programs have been a common presence in ransomware intrusions as they offer a way for affiliates to neutralize security software before deploying file-encrypting malware. This",
-      "published": "Fri, 20 Mar 2026 00:22:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Ransomware",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
+      "link": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
+      "summary": "An international law enforcement action called Operation Alice has shut down over 373,000 dark web sites that offered fake CSAM packages. [...]",
+      "published": "Fri, 20 Mar 2026 13:19:02 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -226,17 +232,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores",
-      "link": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
-      "summary": "A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover. [...]",
-      "published": "Thu, 19 Mar 2026 16:01:03 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
       ]
     },
     {
@@ -327,6 +322,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cyber OpSec Fail: Beast Gang Exposes Ransomware Server",
+      "link": "https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server",
+      "summary": "Files on a central cloud server used by the ransomware group highlight a systematic, aggressive attack on network backups as a key TTP.",
+      "published": "Fri, 20 Mar 2026 16:31:33 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Interlock Ransomware Targets Cisco Enterprise Firewalls",
       "link": "https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls",
       "summary": "The ransomware gang, known for double-extortion attacks, had access to a critical Cisco firewall vulnerability weeks before it was publicly disclosed.",
@@ -390,18 +396,6 @@
       "published": "Wed, 18 Mar 2026 21:49:02 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "DarkSword: iPhone Exploit Kit Serves Spies &amp; Thieves Alike",
-      "link": "https://www.darkreading.com/threat-intelligence/darksword-iphone-exploit-spies-thieves",
-      "summary": "A sophisticated iOS exploit chain leverages multiple zero-day vulnerabilities and is targeting users in Saudi Arabia, Turkey, Malaysia, and Ukraine.",
-      "published": "Wed, 18 Mar 2026 21:15:38 GMT",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",
@@ -579,42 +573,26 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/19/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20131 Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Management Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing ",
-      "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 99,
+      "title": "Russian Intelligence Services Target Commercial Messaging Application Accounts",
+      "link": "https://www.cisa.gov/resources-tools/resources/russian-intelligence-services-target-commercial-messaging-application-accounts",
+      "summary": "CISA and the Federal Bureau of Investigation released a Public Service Announcement (PSA) warning about ongoing phishing campaigns cyber actors associated with the Russian Intelligence Services targeting commercial messaging applications (CMAs). These campaigns aim to bypass encryption to compromise to individual user accounts with targets including current and former U.S. government officials, military personnel, political figures, and journalists. Evidence shows that cyber actors have been abl",
+      "published": "Fri, 20 Mar 26 12:00:00 +0000",
+      "value_score": 63,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×4",
-        "Exploit wording"
+        "Phishing",
+        "CISA/KEV"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Schneider Electric EcoStruxure PME and EPO",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-04",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure Power Monitoring Expert (PME) and EcoStruxure Power Operation (EPO) products. EcoStruxure Power Monitoring Expert (PME) is an on-premises software used to help power critical and energy-intensive facilities maximize uptime and operational efficiency. EcoStruxure Power Operation (EPO) are on-premises software offers that provides a single platform to monitor and control medium and lower power systems.Failure to ap",
+      "title": "Schneider Electric EcoStruxure Automation Expert",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-03",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Automation Expert product. The EcoStruxure™ Automation Expert product is plant automation software designed for digital control systems in discrete, hybrid and continuous industrial processes. A totally integrated automation solution designed to enhance your flexibility, efficiency and scalability. Failure to apply the remediation provided below may risk execution of arbitrary commands on the engineering worksta",
       "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 43,
+      "value_score": 35,
       "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Automated Logic WebCTRL Premium Server",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-08",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to read, intercept, or modify communications. The following versions of Automated Logic WebCTRL Premium Server are affected: WebCTRL Premium Server CVSS Vendor Equipment Vulnerabilities v3 9.1 Automated Logic Automated Logic WebCTRL Premium Server Multiple Binds to the Same Port, Authentication Bypass by Spoofing, Cleartext Transmission of Sensitive Information Background Critical Infrastructure Sectors: C",
-      "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 64,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Auth bypass",
-        "High severity",
-        "Exploit wording"
+        "Source boost: CISA Alerts"
       ]
     },
     {
@@ -622,18 +600,6 @@
       "title": "Mitsubishi Electric CNC Series",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-05",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause an out-of-bounds read, resulting in a denial-of-service condition in the affected products. The following versions of Mitsubishi Electric CNC Series are affected: M800VW (BND-2051W000) <=BB M800VS (BND-2052W000) <=BB M80V (BND-2053W000) <=BB M80VW (BND-2054W000) <=BB M800W (BND-2005W000) <=FM M800S (BND-2006W000) <=FM M80 (BND-2007W000) <=FM M80W (BND-2008W000) <=FM E80 (BND-2009W000) <=FM C80 ",
-      "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric Modicon M241, M251, and M262",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition on the product. The following versions of Schneider Electric Modicon M241, M251, and M262 are affected: Modicon M241 versions prior to 5.4.13.12 Modicon_Controller_M241 Modicon M251 versions prior to 5.4.13.12 Modicon_Controller_M251 Modicon M262 versions prior to 5.4.10.12 Modicon_Controller_M262 CVSS Vendor Equipment Vulnerabilities v3 5.3 Schneider Electric Schneider ",
       "published": "Thu, 19 Mar 26 12:00:00 +0000",
       "value_score": 41,
       "value_signals": [
@@ -655,13 +621,40 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Schneider Electric EcoStruxure Automation Expert",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-03",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Automation Expert product. The EcoStruxure™ Automation Expert product is plant automation software designed for digital control systems in discrete, hybrid and continuous industrial processes. A totally integrated automation solution designed to enhance your flexibility, efficiency and scalability. Failure to apply the remediation provided below may risk execution of arbitrary commands on the engineering worksta",
+      "title": "IGL-Technologies eParking.fi",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-07",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of IGL-Technologies eParking.fi are affected: eParking.fi vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 IGL-Technologies IGL-Technologies eParking.fi Missing Authentication for Critical Function, Improper Restriction of Excessive Authe",
       "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 35,
+      "value_score": 49,
       "value_signals": [
-        "Source boost: CISA Alerts"
+        "Source boost: CISA Alerts",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CTEK Chargeportal",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-06",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of CTEK Chargeportal are affected: Chargeportal vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 CTEK CTEK Chargeportal Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficient ",
+      "published": "Thu, 19 Mar 26 12:00:00 +0000",
+      "value_score": 49,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Schneider Electric Modicon M241, M251, and M262",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition on the product. The following versions of Schneider Electric Modicon M241, M251, and M262 are affected: Modicon M241 versions prior to 5.4.13.12 Modicon_Controller_M241 Modicon M251 versions prior to 5.4.13.12 Modicon_Controller_M251 Modicon M262 versions prior to 5.4.10.12 Modicon_Controller_M262 CVSS Vendor Equipment Vulnerabilities v3 5.3 Schneider Electric Schneider ",
+      "published": "Thu, 19 Mar 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
       ]
     }
   ],

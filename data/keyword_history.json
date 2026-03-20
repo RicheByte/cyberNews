@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-02-18",
     "2026-02-19",
     "2026-02-20",
     "2026-02-21",
@@ -29,7 +28,8 @@
     "2026-03-16",
     "2026-03-17",
     "2026-03-18",
-    "2026-03-19"
+    "2026-03-19",
+    "2026-03-20"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -166,7 +166,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 544,
+      "count": 545,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -239,11 +239,12 @@
         "2026-03-15",
         "2026-03-16",
         "2026-03-18",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1055,
+      "count": 1056,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -337,7 +338,8 @@
         "2026-03-16",
         "2026-03-17",
         "2026-03-18",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "supposed wayward package": {
@@ -1828,11 +1830,12 @@
       ]
     },
     "things iot devices": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-01",
         "2026-01-02",
-        "2026-01-03"
+        "2026-01-03",
+        "2026-03-20"
       ]
     },
     "cvss scoring system": {
@@ -4315,10 +4318,11 @@
       ]
     },
     "vulnerable driver byovd": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-22",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "authentication bypass vulnerability": {
@@ -7944,14 +7948,15 @@
       ]
     },
     "anti abuse activists": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-02-24",
         "2026-02-25",
         "2026-03-08",
         "2026-03-09",
         "2026-03-16",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "modern security risks": {
@@ -8571,12 +8576,13 @@
       ]
     },
     "software including patches": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-03",
         "2026-03-12",
         "2026-03-13",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "government targets microsoft": {
@@ -9078,7 +9084,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9086,7 +9092,8 @@
         "2026-03-12",
         "2026-03-13",
         "2026-03-18",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "threat actor hides": {
@@ -9308,11 +9315,12 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-03-11",
         "2026-03-12",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "supply chain compromise": {
@@ -10165,9 +10173,10 @@
       ]
     },
     "fake remote jobs": {
-      "count": 11,
+      "count": 12,
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "eu sanctions companies": {
@@ -10207,21 +10216,24 @@
       ]
     },
     "follow microsoft guidance": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "full device takeover": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "compromising android devices": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "us organization cisa": {
@@ -10231,33 +10243,38 @@
       ]
     },
     "without causing harm": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "help power critical": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "threat actors conducted": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "port authentication bypass": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "digital control systems": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "account takeover scenario": {
@@ -10267,30 +10284,27 @@
       ]
     },
     "weather kinetic strikes": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
       ]
     },
     "edr killer programs": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-20"
+      ]
+    },
+    "service ddos doxing": {
+      "count": 1,
+      "dates": [
+        "2026-03-20"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-10 22:22",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "badbox 2 0",
-        "third party vendor",
-        "labkotec lid 3300ip",
-        "called ai agents"
-      ]
-    },
     {
       "timestamp": "2026-03-11 01:28",
       "articles": 56,
@@ -11376,6 +11390,17 @@
         "scattered lapsus shinyhunters",
         "threat actors conducted",
         "help power critical",
+        "agents autonomous programs",
+        "follow microsoft guidance"
+      ]
+    },
+    {
+      "timestamp": "2026-03-20 01:45",
+      "articles": 56,
+      "top_keywords": [
+        "threat actors conducted",
+        "help power critical",
+        "things iot devices",
         "agents autonomous programs",
         "follow microsoft guidance"
       ]

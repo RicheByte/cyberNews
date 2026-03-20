@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-19 22:22",
+  "last_updated": "2026-03-20 01:45",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "scattered lapsus shinyhunters",
     "threat actors conducted",
     "help power critical",
+    "things iot devices",
     "agents autonomous programs",
     "follow microsoft guidance",
     "windows operating systems",
     "twitter whistleblower complaint",
     "port authentication bypass",
     "full device takeover",
-    "employee fell victim",
-    "compromising android devices",
     "anti abuse activists",
     "edr killer programs",
     "digital control systems",
+    "compromising android devices",
     "least 77 vulnerabilities",
     "software including patches",
     "fake remote jobs",
+    "service ddos doxing",
     "without causing harm",
     "weather kinetic strikes",
     "vulnerable driver byovd"
   ],
   "trending": [
     {
-      "keyword": "scattered lapsus shinyhunters",
-      "mentions": 430
-    },
-    {
       "keyword": "threat actors conducted",
-      "mentions": 4
-    },
-    {
-      "keyword": "help power critical",
-      "mentions": 4
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 47
-    },
-    {
-      "keyword": "follow microsoft guidance",
-      "mentions": 6
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 544
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1055
-    },
-    {
-      "keyword": "port authentication bypass",
-      "mentions": 4
-    },
-    {
-      "keyword": "full device takeover",
       "mentions": 5
     },
     {
-      "keyword": "employee fell victim",
-      "mentions": 13
+      "keyword": "help power critical",
+      "mentions": 5
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 25
+    },
+    {
+      "keyword": "agents autonomous programs",
+      "mentions": 48
+    },
+    {
+      "keyword": "follow microsoft guidance",
+      "mentions": 7
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 545
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1056
+    },
+    {
+      "keyword": "port authentication bypass",
+      "mentions": 5
+    },
+    {
+      "keyword": "full device takeover",
+      "mentions": 6
+    },
+    {
+      "keyword": "anti abuse activists",
+      "mentions": 35
     }
   ],
   "articles": [
@@ -243,6 +243,15 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
+      "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
+      "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
+      "published": "Fri, 20 Mar 2026 00:49:19 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
       "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
       "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
@@ -317,15 +326,6 @@
         "Patch/update ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More »",
-      "published": "Mon, 02 Feb 2026 16:15:16 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Dark Reading",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-19 22:22 UTC  
+> **Last Updated:** 2026-03-20 01:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**scattered lapsus shinyhunters** • **threat actors conducted** • **help power critical** • **agents autonomous programs** • **follow microsoft guidance** • **windows operating systems** • **twitter whistleblower complaint** • **port authentication bypass** • **full device takeover** • **employee fell victim** • **compromising android devices** • **anti abuse activists** • **edr killer programs** • **digital control systems** • **least 77 vulnerabilities** • **software including patches** • **fake remote jobs** • **without causing harm** • **weather kinetic strikes** • **vulnerable driver byovd**
+**threat actors conducted** • **help power critical** • **things iot devices** • **agents autonomous programs** • **follow microsoft guidance** • **windows operating systems** • **twitter whistleblower complaint** • **port authentication bypass** • **full device takeover** • **anti abuse activists** • **edr killer programs** • **digital control systems** • **compromising android devices** • **least 77 vulnerabilities** • **software including patches** • **fake remote jobs** • **service ddos doxing** • **without causing harm** • **weather kinetic strikes** • **vulnerable driver byovd**
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
 - [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
 - [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
 - [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
@@ -45,7 +46,6 @@
 - [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
 - [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
 - [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/)
 
 ### Dark Reading
 

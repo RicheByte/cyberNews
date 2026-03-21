@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 06:36",
+  "last_updated": "2026-03-21 08:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -14,7 +14,6 @@
     "quantum safe version",
     "missing authentication combined",
     "digital control systems",
-    "cobra docguard server",
     "botnet's control servers",
     "security defect tracked",
     "russian intelligence services",
@@ -22,51 +21,61 @@
     "online brand protection",
     "navia s environment",
     "windows operating systems",
-    "web services managers"
+    "web services managers",
+    "vulnerable charging stations"
   ],
   "trending": [
     {
       "keyword": "3 men charged",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 142
+      "mentions": 143
     },
     {
       "keyword": "things iot devices",
-      "mentions": 38
+      "mentions": 39
     },
     {
       "keyword": "former u s",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "platform s capabilities",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1069
+      "mentions": 1070
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "ransomware gang known",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "quantum safe version",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "missing authentication combined",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
+      "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
+      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm. The name is a reference to the fact that the malware uses an ICP canister, which refers to tamperproof smart contracts on",
+      "published": "Sat, 21 Mar 2026 12:58:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
@@ -144,15 +153,6 @@
         "Patch/update",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
-      "link": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
-      "summary": "Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard. \"Speagle is designed to surreptitiously harvest sensitive information from infected computers and transmit it to a Cobra DocGuard server that has been compromised by the attackers, masking the data exfiltration process as legitimate",
-      "published": "Fri, 20 Mar 2026 00:46:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

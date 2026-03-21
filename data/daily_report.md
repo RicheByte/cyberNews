@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-21 06:36 UTC  
+> **Last Updated:** 2026-03-21 08:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**3 men charged** • **critical security flaw** • **things iot devices** • **former u s** • **platform s capabilities** • **twitter whistleblower complaint** • **service ddos doxing** • **ransomware gang known** • **quantum safe version** • **missing authentication combined** • **digital control systems** • **cobra docguard server** • **botnet's control servers** • **security defect tracked** • **russian intelligence services** • **iran's intelligence agencies** • **online brand protection** • **navia s environment** • **windows operating systems** • **web services managers**
+**3 men charged** • **critical security flaw** • **things iot devices** • **former u s** • **platform s capabilities** • **twitter whistleblower complaint** • **service ddos doxing** • **ransomware gang known** • **quantum safe version** • **missing authentication combined** • **digital control systems** • **botnet's control servers** • **security defect tracked** • **russian intelligence services** • **iran's intelligence agencies** • **online brand protection** • **navia s environment** • **windows operating systems** • **web services managers** • **vulnerable charging stations**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
 - [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
 - [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
 - [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
@@ -23,7 +24,6 @@
 - [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
 - [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
 - [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
-- [Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers](https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html)
 
 ### BleepingComputer
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-21 14:22 UTC  
+> **Last Updated:** 2026-03-21 16:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**3 men charged** • **cve 2026 21992** • **things iot devices** • **quantum safe version** • **former u s** • **high intelligence value** • **april 3 2026** • **twitter whistleblower complaint** • **service ddos doxing** • **ransomware gang known** • **missing authentication combined** • **actively targeting users** • **botnet's control servers** • **cve 2025 32975** • **russian intelligence services** • **iran's intelligence agencies** • **threat actors behind** • **platform s capabilities** • **navia s environment** • **windows operating systems**
+**3 men charged** • **cve 2026 21992** • **things iot devices** • **quantum safe version** • **former u s** • **high intelligence value** • **april 3 2026** • **twitter whistleblower complaint** • **service ddos doxing** • **ransomware gang known** • **missing authentication combined** • **cve 2025 32975** • **russian intelligence services** • **iran's intelligence agencies** • **threat actors behind** • **botnet's control servers** • **platform s capabilities** • **navia s environment** • **windows operating systems** • **vulnerable charging stations**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Google adds ‘Advanced Flow’ for safe APK sideloading on Android](https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/)
 - [Microsoft Azure Monitor alerts abused in callback phishing campaigns](https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/)
 - [FBI links Signal phishing attacks to Russian intelligence services](https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/)
 - [Oracle pushes emergency fix for critical Identity Manager RCE flaw](https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/)
@@ -34,7 +35,6 @@
 - [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
 - [How CISOs Can Survive the Era of Geopolitical Cyberattacks](https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/)
 - [Musician admits to $10M streaming royalty fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/)
-- [International joint action disrupts world’s largest DDoS botnets](https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/)
 
 ### Krebs on Security
 

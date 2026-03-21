@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 14:22",
+  "last_updated": "2026-03-21 16:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -14,56 +14,56 @@
     "service ddos doxing",
     "ransomware gang known",
     "missing authentication combined",
-    "actively targeting users",
-    "botnet's control servers",
     "cve 2025 32975",
     "russian intelligence services",
     "iran's intelligence agencies",
     "threat actors behind",
+    "botnet's control servers",
     "platform s capabilities",
     "navia s environment",
-    "windows operating systems"
+    "windows operating systems",
+    "vulnerable charging stations"
   ],
   "trending": [
     {
       "keyword": "3 men charged",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "cve 2026 21992",
-      "mentions": 2
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 42
-    },
-    {
-      "keyword": "quantum safe version",
-      "mentions": 15
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 10
-    },
-    {
-      "keyword": "high intelligence value",
-      "mentions": 1
-    },
-    {
-      "keyword": "april 3 2026",
       "mentions": 3
     },
     {
+      "keyword": "things iot devices",
+      "mentions": 43
+    },
+    {
+      "keyword": "quantum safe version",
+      "mentions": 16
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 11
+    },
+    {
+      "keyword": "high intelligence value",
+      "mentions": 2
+    },
+    {
+      "keyword": "april 3 2026",
+      "mentions": 4
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1073
+      "mentions": 1074
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "ransomware gang known",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
@@ -163,6 +163,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
+      "link": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
+      "summary": "Google has announced a new mechanism in Android called Advanced Flow that will allow sideloading APKs from unverified developers for power users in a more secure way. [...]",
+      "published": "Sat, 21 Mar 2026 10:18:23 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft Azure Monitor alerts abused in callback phishing campaigns",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
       "summary": "Microsoft Azure Monitor alerts are being abused to send callback phishing emails that impersonate warnings from the Microsoft Security Team about unauthorized charges on your account. [...]",
@@ -234,15 +243,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/",
       "summary": "North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music. [...]",
       "published": "Fri, 20 Mar 2026 05:33:33 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "International joint action disrupts world’s largest DDoS botnets",
-      "link": "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/",
-      "summary": "Authorities from the United States, Germany, and Canada have taken down Command and Control (C2) infrastructure used by the Aisuru, KimWolf, JackSkid, and Mossad botnets to infect Internet of Things (IoT) devices. [...]",
-      "published": "Fri, 20 Mar 2026 04:05:12 -0400",
       "value_score": 10,
       "value_signals": []
     },

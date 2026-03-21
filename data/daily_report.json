@@ -1,9 +1,10 @@
 {
-  "last_updated": "2026-03-21 16:23",
+  "last_updated": "2026-03-21 18:29",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "3 men charged",
+    "supply chain attack",
     "cve 2026 21992",
     "things iot devices",
     "quantum safe version",
@@ -12,58 +13,57 @@
     "april 3 2026",
     "twitter whistleblower complaint",
     "service ddos doxing",
-    "ransomware gang known",
     "missing authentication combined",
+    "threat actors known",
+    "ransomware gang known",
     "cve 2025 32975",
     "russian intelligence services",
     "iran's intelligence agencies",
-    "threat actors behind",
     "botnet's control servers",
     "platform s capabilities",
     "navia s environment",
-    "windows operating systems",
-    "vulnerable charging stations"
+    "threat actors behind"
   ],
   "trending": [
     {
       "keyword": "3 men charged",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "supply chain attack",
+      "mentions": 1
     },
     {
       "keyword": "cve 2026 21992",
-      "mentions": 3
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 43
-    },
-    {
-      "keyword": "quantum safe version",
-      "mentions": 16
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 11
-    },
-    {
-      "keyword": "high intelligence value",
-      "mentions": 2
-    },
-    {
-      "keyword": "april 3 2026",
       "mentions": 4
     },
     {
+      "keyword": "things iot devices",
+      "mentions": 44
+    },
+    {
+      "keyword": "quantum safe version",
+      "mentions": 17
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 12
+    },
+    {
+      "keyword": "high intelligence value",
+      "mentions": 3
+    },
+    {
+      "keyword": "april 3 2026",
+      "mentions": 5
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1074
+      "mentions": 1075
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 19
-    },
-    {
-      "keyword": "ransomware gang known",
-      "mentions": 11
+      "mentions": 20
     }
   ],
   "articles": [
@@ -163,6 +163,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
+      "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+      "summary": "The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions. [...]",
+      "published": "Sat, 21 Mar 2026 13:30:41 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
       "link": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
       "summary": "Google has announced a new mechanism in Android called Advanced Flow that will allow sideloading APKs from unverified developers for power users in a more secure way. [...]",
@@ -172,7 +183,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft Azure Monitor alerts abused in callback phishing campaigns",
+      "title": "Microsoft Azure Monitor alerts abused for callback phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
       "summary": "Microsoft Azure Monitor alerts are being abused to send callback phishing emails that impersonate warnings from the Microsoft Security Team about unauthorized charges on your account. [...]",
       "published": "Sat, 21 Mar 2026 10:09:19 -0400",
@@ -234,15 +245,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/",
       "summary": "Geopolitical tensions are driving destructive cyberattacks designed to disrupt operations, not demand ransom. CISOs must limit lateral movement and contain breaches to reduce the impact of wiper campaigns. [...]",
       "published": "Fri, 20 Mar 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Musician admits to $10M streaming royalty fraud using AI bots",
-      "link": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/",
-      "summary": "North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music. [...]",
-      "published": "Fri, 20 Mar 2026 05:33:33 -0400",
       "value_score": 10,
       "value_signals": []
     },

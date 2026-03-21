@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-21 12:37 UTC  
+> **Last Updated:** 2026-03-21 14:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**3 men charged** • **cve 2026 21992** • **critical security flaw** • **things iot devices** • **quantum safe version** • **former u s** • **april 3 2026** • **twitter whistleblower complaint** • **service ddos doxing** • **ransomware gang known** • **missing authentication combined** • **botnet's control servers** • **actively targeting users** • **russian intelligence services** • **iran's intelligence agencies** • **cve 2025 32975** • **threat actors behind** • **achieve code execution** • **platform s capabilities** • **navia s environment**
+**3 men charged** • **cve 2026 21992** • **things iot devices** • **quantum safe version** • **former u s** • **high intelligence value** • **april 3 2026** • **twitter whistleblower complaint** • **service ddos doxing** • **ransomware gang known** • **missing authentication combined** • **actively targeting users** • **botnet's control servers** • **cve 2025 32975** • **russian intelligence services** • **iran's intelligence agencies** • **threat actors behind** • **platform s capabilities** • **navia s environment** • **windows operating systems**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
 - [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
 - [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
 - [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
@@ -23,10 +24,10 @@
 - [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
 - [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
 - [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
-- [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
 
 ### BleepingComputer
 
+- [Microsoft Azure Monitor alerts abused in callback phishing campaigns](https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/)
 - [FBI links Signal phishing attacks to Russian intelligence services](https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/)
 - [Oracle pushes emergency fix for critical Identity Manager RCE flaw](https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/)
 - [Police take down 373,000 fake CSAM sites in Operation Alice](https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/)
@@ -34,7 +35,6 @@
 - [How CISOs Can Survive the Era of Geopolitical Cyberattacks](https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/)
 - [Musician admits to $10M streaming royalty fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/)
 - [International joint action disrupts world’s largest DDoS botnets](https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/)
-- [Microsoft: March Windows updates break Teams, OneDrive sign-ins](https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/)
 
 ### Krebs on Security
 

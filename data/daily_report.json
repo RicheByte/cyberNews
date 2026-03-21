@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-03-21 12:37",
+  "last_updated": "2026-03-21 14:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "3 men charged",
     "cve 2026 21992",
-    "critical security flaw",
     "things iot devices",
     "quantum safe version",
     "former u s",
+    "high intelligence value",
     "april 3 2026",
     "twitter whistleblower complaint",
     "service ddos doxing",
     "ransomware gang known",
     "missing authentication combined",
-    "botnet's control servers",
     "actively targeting users",
+    "botnet's control servers",
+    "cve 2025 32975",
     "russian intelligence services",
     "iran's intelligence agencies",
-    "cve 2025 32975",
     "threat actors behind",
-    "achieve code execution",
     "platform s capabilities",
-    "navia s environment"
+    "navia s environment",
+    "windows operating systems"
   ],
   "trending": [
     {
       "keyword": "3 men charged",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "cve 2026 21992",
-      "mentions": 1
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 145
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 41
-    },
-    {
-      "keyword": "quantum safe version",
-      "mentions": 14
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 9
-    },
-    {
-      "keyword": "april 3 2026",
       "mentions": 2
     },
     {
+      "keyword": "things iot devices",
+      "mentions": 42
+    },
+    {
+      "keyword": "quantum safe version",
+      "mentions": 15
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 10
+    },
+    {
+      "keyword": "high intelligence value",
+      "mentions": 1
+    },
+    {
+      "keyword": "april 3 2026",
+      "mentions": 3
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1072
+      "mentions": 1073
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "ransomware gang known",
-      "mentions": 9
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+      "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+      "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high intelligence value, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) said Friday. \"The campaign",
+      "published": "Sat, 21 Mar 2026 18:47:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Phishing ×2",
+        "CISA/KEV"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
@@ -150,16 +162,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover",
-      "link": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html",
-      "summary": "Sansec is warning of a critical security flaw in Magento's REST API that could allow unauthenticated attackers to upload arbitrary executables and achieve code execution and account takeover. The vulnerability has been codenamed PolyShell by Sansec owing to the fact that the attack hinges on disguising malicious code as an image. There is no evidence that the shortcoming has been exploited in",
-      "published": "Fri, 20 Mar 2026 15:00:00 +0530",
-      "value_score": 44,
+      "source": "BleepingComputer",
+      "title": "Microsoft Azure Monitor alerts abused in callback phishing campaigns",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
+      "summary": "Microsoft Azure Monitor alerts are being abused to send callback phishing emails that impersonate warnings from the Microsoft Security Team about unauthorized charges on your account. [...]",
+      "published": "Sat, 21 Mar 2026 10:09:19 -0400",
+      "value_score": 26,
       "value_signals": [
-        "RCE",
-        "High severity",
-        "Exploit wording"
+        "Phishing ×2"
       ]
     },
     {
@@ -235,17 +245,6 @@
       "published": "Fri, 20 Mar 2026 04:05:12 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/",
-      "summary": "Microsoft says the March Windows 11 update breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive. [...]",
-      "published": "Fri, 20 Mar 2026 03:33:32 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Krebs on Security",

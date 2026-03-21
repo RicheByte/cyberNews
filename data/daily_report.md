@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-21 08:26 UTC  
+> **Last Updated:** 2026-03-21 10:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**3 men charged** • **critical security flaw** • **things iot devices** • **former u s** • **platform s capabilities** • **twitter whistleblower complaint** • **service ddos doxing** • **ransomware gang known** • **quantum safe version** • **missing authentication combined** • **digital control systems** • **botnet's control servers** • **security defect tracked** • **russian intelligence services** • **iran's intelligence agencies** • **online brand protection** • **navia s environment** • **windows operating systems** • **web services managers** • **vulnerable charging stations**
+**3 men charged** • **critical security flaw** • **things iot devices** • **quantum safe version** • **former u s** • **platform s capabilities** • **twitter whistleblower complaint** • **service ddos doxing** • **ransomware gang known** • **missing authentication combined** • **digital control systems** • **botnet's control servers** • **security defect tracked** • **russian intelligence services** • **iran's intelligence agencies** • **april 3 2026** • **online brand protection** • **navia s environment** • **windows operating systems** • **vulnerable charging stations**
 
 ---
 
@@ -17,13 +17,13 @@
 ### The Hacker News
 
 - [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
+- [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
 - [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
 - [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
 - [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
 - [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
 - [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
 - [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
-- [Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks](https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html)
 
 ### BleepingComputer
 

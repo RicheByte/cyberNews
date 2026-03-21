@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-21 08:26",
+  "last_updated": "2026-03-21 10:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "3 men charged",
     "critical security flaw",
     "things iot devices",
+    "quantum safe version",
     "former u s",
     "platform s capabilities",
     "twitter whistleblower complaint",
     "service ddos doxing",
     "ransomware gang known",
-    "quantum safe version",
     "missing authentication combined",
     "digital control systems",
     "botnet's control servers",
     "security defect tracked",
     "russian intelligence services",
     "iran's intelligence agencies",
+    "april 3 2026",
     "online brand protection",
     "navia s environment",
     "windows operating systems",
-    "web services managers",
     "vulnerable charging stations"
   ],
   "trending": [
     {
       "keyword": "3 men charged",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 143
+      "mentions": 144
     },
     {
       "keyword": "things iot devices",
-      "mentions": 39
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 7
-    },
-    {
-      "keyword": "platform s capabilities",
-      "mentions": 17
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1070
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 15
-    },
-    {
-      "keyword": "ransomware gang known",
-      "mentions": 7
+      "mentions": 40
     },
     {
       "keyword": "quantum safe version",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 8
+    },
+    {
+      "keyword": "platform s capabilities",
+      "mentions": 18
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1071
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 16
+    },
+    {
+      "keyword": "ransomware gang known",
+      "mentions": 8
     },
     {
       "keyword": "missing authentication combined",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
@@ -72,9 +72,23 @@
       "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
       "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
       "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm. The name is a reference to the fact that the malware uses an ICP canister, which refers to tamperproof smart contracts on",
-      "published": "Sat, 21 Mar 2026 12:58:00 +0530",
+      "published": "Sat, 21 Mar 2026 13:55:00 +0530",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
+      "link": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catalog, urging federal agencies to patch them by April 3, 2026. The vulnerabilities that have come under exploitation are listed below - CVE-2025-31277 (CVSS score: 8.8) - A vulnerability in Apple",
+      "published": "Sat, 21 Mar 2026 13:55:00 +0530",
+      "value_score": 82,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
     },
     {
       "source": "The Hacker News",
@@ -141,18 +155,6 @@
       "published": "Fri, 20 Mar 2026 11:55:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
-      "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
-      "summary": "Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword. These attacks employ malicious web content to target out-of-date versions of iOS, triggering an infection chain that leads to the theft of sensitive data. \"For example, if you're using an older",
-      "published": "Fri, 20 Mar 2026 10:46:00 +0530",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

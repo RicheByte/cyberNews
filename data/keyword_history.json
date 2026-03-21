@@ -246,7 +246,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1071,
+      "count": 1072,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -815,7 +815,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1836,7 +1836,7 @@
       ]
     },
     "things iot devices": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -5727,7 +5727,7 @@
       ]
     },
     "platform s capabilities": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-03",
         "2026-02-04",
@@ -10311,14 +10311,14 @@
       ]
     },
     "service ddos doxing": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-20",
         "2026-03-21"
       ]
     },
     "quantum safe version": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-20",
         "2026-03-21"
@@ -10362,42 +10362,42 @@
       ]
     },
     "3 men charged": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-20",
         "2026-03-21"
       ]
     },
     "iran's intelligence agencies": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-20",
         "2026-03-21"
       ]
     },
     "missing authentication combined": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-20",
         "2026-03-21"
       ]
     },
     "botnet's control servers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-20",
         "2026-03-21"
       ]
     },
     "former u s": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-20",
         "2026-03-21"
       ]
     },
     "ransomware gang known": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-20",
         "2026-03-21"
@@ -10424,7 +10424,7 @@
       ]
     },
     "navia s environment": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-20",
         "2026-03-21"
@@ -10438,13 +10438,43 @@
       ]
     },
     "russian intelligence services": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-20",
         "2026-03-21"
       ]
     },
     "april 3 2026": {
+      "count": 2,
+      "dates": [
+        "2026-03-21"
+      ]
+    },
+    "cve 2026 21992": {
+      "count": 1,
+      "dates": [
+        "2026-03-21"
+      ]
+    },
+    "actively targeting users": {
+      "count": 1,
+      "dates": [
+        "2026-03-21"
+      ]
+    },
+    "cve 2025 32975": {
+      "count": 1,
+      "dates": [
+        "2026-03-21"
+      ]
+    },
+    "threat actors behind": {
+      "count": 1,
+      "dates": [
+        "2026-03-21"
+      ]
+    },
+    "achieve code execution": {
       "count": 1,
       "dates": [
         "2026-03-21"
@@ -10452,17 +10482,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-12 10:33",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "238 000 impacted",
-        "cloud security giant",
-        "pre teens whatsapp",
-        "arbitrary command execution"
-      ]
-    },
     {
       "timestamp": "2026-03-12 12:48",
       "articles": 56,
@@ -11550,6 +11569,17 @@
         "things iot devices",
         "quantum safe version",
         "former u s"
+      ]
+    },
+    {
+      "timestamp": "2026-03-21 12:37",
+      "articles": 56,
+      "top_keywords": [
+        "3 men charged",
+        "cve 2026 21992",
+        "critical security flaw",
+        "things iot devices",
+        "quantum safe version"
       ]
     }
   ]

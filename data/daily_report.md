@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-21 10:21 UTC  
+> **Last Updated:** 2026-03-21 12:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**3 men charged** • **critical security flaw** • **things iot devices** • **quantum safe version** • **former u s** • **platform s capabilities** • **twitter whistleblower complaint** • **service ddos doxing** • **ransomware gang known** • **missing authentication combined** • **digital control systems** • **botnet's control servers** • **security defect tracked** • **russian intelligence services** • **iran's intelligence agencies** • **april 3 2026** • **online brand protection** • **navia s environment** • **windows operating systems** • **vulnerable charging stations**
+**3 men charged** • **cve 2026 21992** • **critical security flaw** • **things iot devices** • **quantum safe version** • **former u s** • **april 3 2026** • **twitter whistleblower complaint** • **service ddos doxing** • **ransomware gang known** • **missing authentication combined** • **botnet's control servers** • **actively targeting users** • **russian intelligence services** • **iran's intelligence agencies** • **cve 2025 32975** • **threat actors behind** • **achieve code execution** • **platform s capabilities** • **navia s environment**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
 - [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
 - [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
 - [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
@@ -23,7 +24,6 @@
 - [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
 - [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
 - [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
-- [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Critical Quest KACE Vulnerability Potentially Exploited in Attacks](https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/)
 - [In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting](https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/)
 - [3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China](https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/)
 - [Eclypsium Raises $25 Million for Device Supply Chain Security](https://www.securityweek.com/eclypsium-raises-25-million-for-device-supply-chain-security/)
@@ -67,7 +68,6 @@
 - [Cape Raises $100 Million for Protection Against Cellular Security Threats](https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/)
 - [Navia Data Breach Impacts 2.7 Million](https://www.securityweek.com/navia-data-breach-impacts-2-7-million/)
 - [Thousands of Magento Sites Hit in Ongoing Defacement Campaign](https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/)
-- [Allure Security Raises $17 Million for Online Brand Protection](https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/)
 
 ### Threatpost
 

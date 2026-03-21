@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-21 10:21 UTC |
+| 🕐 Last Updated | 2026-03-21 12:37 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`3 men charged` • `critical security flaw` • `things iot devices` • `quantum safe version` • `former u s` • `platform s capabilities` • `twitter whistleblower complaint` • `service ddos doxing` • `ransomware gang known` • `missing authentication combined`
+`3 men charged` • `cve 2026 21992` • `critical security flaw` • `things iot devices` • `quantum safe version` • `former u s` • `april 3 2026` • `twitter whistleblower complaint` • `service ddos doxing` • `ransomware gang known`
 
 ## 📄 Reports
 

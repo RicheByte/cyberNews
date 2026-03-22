@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 14:23",
+  "last_updated": "2026-03-22 16:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "3 men charged",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "cve 2026 21992",
-      "mentions": 13
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 53
-    },
-    {
-      "keyword": "quantum safe version",
-      "mentions": 26
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 21
-    },
-    {
-      "keyword": "high intelligence value",
-      "mentions": 12
-    },
-    {
-      "keyword": "april 3 2026",
       "mentions": 14
     },
     {
+      "keyword": "things iot devices",
+      "mentions": 54
+    },
+    {
+      "keyword": "quantum safe version",
+      "mentions": 27
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 22
+    },
+    {
+      "keyword": "high intelligence value",
+      "mentions": 13
+    },
+    {
+      "keyword": "april 3 2026",
+      "mentions": 15
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1084
+      "mentions": 1085
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 29
+      "mentions": 30
     }
   ],
   "articles": [
@@ -163,6 +163,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "VoidStealer malware steals Chrome master key via debugger trick",
+      "link": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
+      "summary": "An information stealer called VoidStealer uses a new approach to bypass Chrome's Application-Bound Encryption (ABE) and extract the master key for decrypting sensitive data stored in the browser. [...]",
+      "published": "Sun, 22 Mar 2026 10:32:46 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
       "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
       "summary": "The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions. [...]",
@@ -238,15 +247,6 @@
         "Patch/update ×2",
         "CISA/KEV ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/",
-      "summary": "Geopolitical tensions are driving destructive cyberattacks designed to disrupt operations, not demand ransom. CISOs must limit lateral movement and contain breaches to reduce the impact of wiper campaigns. [...]",
-      "published": "Fri, 20 Mar 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

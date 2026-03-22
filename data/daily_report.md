@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-22 14:23 UTC  
+> **Last Updated:** 2026-03-22 16:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [VoidStealer malware steals Chrome master key via debugger trick](https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/)
 - [Trivy vulnerability scanner breach pushed infostealer via GitHub Actions](https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/)
 - [Google adds ‘Advanced Flow’ for safe APK sideloading on Android](https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/)
 - [Microsoft Azure Monitor alerts abused for callback phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/)
@@ -34,7 +35,6 @@
 - [Oracle pushes emergency fix for critical Identity Manager RCE flaw](https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/)
 - [Police take down 373,000 fake CSAM sites in Operation Alice](https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/)
 - [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
-- [How CISOs Can Survive the Era of Geopolitical Cyberattacks](https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/)
 
 ### Krebs on Security
 

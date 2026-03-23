@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-23 16:53 UTC  
+> **Last Updated:** 2026-03-23 18:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**things iot devices** • **supply chain attack** • **malicious scanner release** • **threat actors known** • **twitter whistleblower complaint** • **safe apk sideloading** • **iranian hackers linked** • **rsac 2026 conference** • **former u s** • **service ddos doxing** • **disrupt charging services** • **attackers hide infostealer** • **time sensitive nature** • **ransomware gang known** • **threat actors behind** • **vulnerable charging stations** • **victim's username password** • **targets including current** • **tamperproof smart contract** • **systematic aggressive attack**
+**things iot devices** • **supply chain attack** • **malicious scanner release** • **threat actors known** • **twitter whistleblower complaint** • **rsac 2026 conference** • **iranian hackers linked** • **former u s** • **service ddos doxing** • **disrupt charging services** • **attackers hide infostealer** • **time sensitive nature** • **ransomware gang known** • **threat actors behind** • **vulnerable charging stations** • **victim's username password** • **targets including current** • **tamperproof smart contract** • **systematic aggressive attack** • **sprawling phishing campaign**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Trivy supply-chain attack spreads to Docker, GitHub repos](https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/)
 - [Varonis Atlas: Securing AI and the Data That Powers It](https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/)
 - [Microsoft Exchange Online service change causes email access issues](https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/)
 - [FBI warns of Handala hackers using Telegram in malware attacks](https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/)
@@ -34,7 +35,6 @@
 - [New KB5085516 emergency update fixes Microsoft account sign-in](https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/)
 - [VoidStealer malware steals Chrome master key via debugger trick](https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/)
 - [Trivy vulnerability scanner breach pushed infostealer via GitHub Actions](https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/)
-- [Google adds ‘Advanced Flow’ for safe APK sideloading on Android](https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/)
 
 ### Krebs on Security
 

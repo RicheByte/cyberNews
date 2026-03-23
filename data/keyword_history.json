@@ -247,7 +247,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1094,
+      "count": 1095,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1840,7 +1840,7 @@
       ]
     },
     "things iot devices": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7792,7 +7792,7 @@
       ]
     },
     "victim's username password": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7812,7 +7812,8 @@
         "2026-03-17",
         "2026-03-18",
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-23"
       ]
     },
     "aiding north korean": {
@@ -8551,7 +8552,7 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-03-02",
         "2026-03-03",
@@ -8560,7 +8561,8 @@
         "2026-03-09",
         "2026-03-10",
         "2026-03-20",
-        "2026-03-21"
+        "2026-03-21",
+        "2026-03-23"
       ]
     },
     "wiper malware ddos": {
@@ -10320,7 +10322,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10329,7 +10331,7 @@
       ]
     },
     "quantum safe version": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10375,7 +10377,7 @@
       ]
     },
     "3 men charged": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10402,7 +10404,7 @@
       ]
     },
     "botnet's control servers": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10411,7 +10413,7 @@
       ]
     },
     "former u s": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10420,7 +10422,7 @@
       ]
     },
     "ransomware gang known": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10436,9 +10438,10 @@
       ]
     },
     "targets including current": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-23"
       ]
     },
     "security defect tracked": {
@@ -10496,7 +10499,7 @@
       ]
     },
     "cve 2025 32975": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -10504,7 +10507,7 @@
       ]
     },
     "threat actors behind": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -10518,7 +10521,7 @@
       ]
     },
     "high intelligence value": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -10526,7 +10529,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -10534,7 +10537,7 @@
       ]
     },
     "threat actors known": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -10548,7 +10551,7 @@
       ]
     },
     "safe apk sideloading": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-23"
       ]
@@ -10560,24 +10563,25 @@
       ]
     },
     "iranian hackers linked": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-03-23"
+      ]
+    },
+    "malicious scanner release": {
+      "count": 1,
+      "dates": [
+        "2026-03-23"
+      ]
+    },
+    "tamperproof smart contract": {
+      "count": 1,
       "dates": [
         "2026-03-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-14 12:39",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "onyx security launches",
-        "bold security emerges",
-        "malicious cyber actors",
-        "will see instructions"
-      ]
-    },
     {
       "timestamp": "2026-03-14 14:23",
       "articles": 56,
@@ -11665,6 +11669,17 @@
         "things iot devices",
         "quantum safe version",
         "former u s"
+      ]
+    },
+    {
+      "timestamp": "2026-03-23 14:51",
+      "articles": 56,
+      "top_keywords": [
+        "3 men charged",
+        "things iot devices",
+        "supply chain attack",
+        "quantum safe version",
+        "malicious scanner release"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23 07:03",
+  "last_updated": "2026-03-23 08:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -19,51 +19,51 @@
     "ransomware gang known",
     "missing authentication combined",
     "cve 2025 32975",
-    "iran's intelligence agencies",
     "deliver malware capable",
     "disrupt charging services",
-    "botnet's control servers"
+    "botnet's control servers",
+    "platform s capabilities"
   ],
   "trending": [
     {
       "keyword": "3 men charged",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "cve 2026 21992",
-      "mentions": 20
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 60
-    },
-    {
-      "keyword": "quantum safe version",
-      "mentions": 33
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 28
-    },
-    {
-      "keyword": "high intelligence value",
-      "mentions": 19
-    },
-    {
-      "keyword": "april 3 2026",
       "mentions": 21
     },
     {
+      "keyword": "things iot devices",
+      "mentions": 61
+    },
+    {
+      "keyword": "quantum safe version",
+      "mentions": 34
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 29
+    },
+    {
+      "keyword": "high intelligence value",
+      "mentions": 20
+    },
+    {
+      "keyword": "april 3 2026",
+      "mentions": 22
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1091
+      "mentions": 1092
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 36
+      "mentions": 37
     }
   ],
   "articles": [
@@ -165,6 +165,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
+      "summary": "CISA ordered U.S. government agencies to patch three iOS vulnerabilities targeted in cryptocurrency theft and cyberespionage attacks using the DarkSword exploit kit. [...]",
+      "published": "Mon, 23 Mar 2026 04:37:28 -0400",
+      "value_score": 72,
+      "value_signals": [
+        "Patch/update ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New KB5085516 emergency update fixes Microsoft account sign-in",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/",
+      "summary": "Microsoft has released an emergency update to address a major issue that breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive. [...]",
+      "published": "Mon, 23 Mar 2026 04:04:30 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "VoidStealer malware steals Chrome master key via debugger trick",
       "link": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
       "summary": "An information stealer called VoidStealer uses a new approach to bypass Chrome's Application-Bound Encryption (ABE) and extract the master key for decrypting sensitive data stored in the browser. [...]",
@@ -226,28 +250,6 @@
         "RCE ×2",
         "Patch/update ×3",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
-      "link": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
-      "summary": "An international law enforcement action called Operation Alice has shut down over 373,000 dark web sites that offered fake CSAM packages. [...]",
-      "published": "Fri, 20 Mar 2026 13:19:02 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity vulnerability, CVE-2026-20131, in Cisco Secure Firewall Management Center (FMC) by Sunday, March 22. [...]",
-      "published": "Fri, 20 Mar 2026 11:09:12 -0400",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Patch/update ×2",
-        "CISA/KEV ×2"
       ]
     },
     {

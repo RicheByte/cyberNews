@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-23 07:03 UTC  
+> **Last Updated:** 2026-03-23 08:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**3 men charged** • **supply chain attack** • **cve 2026 21992** • **things iot devices** • **quantum safe version** • **former u s** • **high intelligence value** • **april 3 2026** • **twitter whistleblower complaint** • **service ddos doxing** • **russian intelligence services** • **threat actors known** • **windows operating systems** • **ransomware gang known** • **missing authentication combined** • **cve 2025 32975** • **iran's intelligence agencies** • **deliver malware capable** • **disrupt charging services** • **botnet's control servers**
+**3 men charged** • **supply chain attack** • **cve 2026 21992** • **things iot devices** • **quantum safe version** • **former u s** • **high intelligence value** • **april 3 2026** • **twitter whistleblower complaint** • **service ddos doxing** • **russian intelligence services** • **threat actors known** • **windows operating systems** • **ransomware gang known** • **missing authentication combined** • **cve 2025 32975** • **deliver malware capable** • **disrupt charging services** • **botnet's control servers** • **platform s capabilities**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [CISA orders feds to patch DarkSword iOS flaws exploited attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/)
+- [New KB5085516 emergency update fixes Microsoft account sign-in](https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/)
 - [VoidStealer malware steals Chrome master key via debugger trick](https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/)
 - [Trivy vulnerability scanner breach pushed infostealer via GitHub Actions](https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/)
 - [Google adds ‘Advanced Flow’ for safe APK sideloading on Android](https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/)
 - [Microsoft Azure Monitor alerts abused for callback phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/)
 - [FBI links Signal phishing attacks to Russian intelligence services](https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/)
 - [Oracle pushes emergency fix for critical Identity Manager RCE flaw](https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/)
-- [Police take down 373,000 fake CSAM sites in Operation Alice](https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/)
-- [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
 
 ### Krebs on Security
 

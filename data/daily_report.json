@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-23 14:51",
+  "last_updated": "2026-03-23 16:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "3 men charged",
     "things iot devices",
     "supply chain attack",
-    "quantum safe version",
     "malicious scanner release",
-    "former u s",
     "threat actors known",
     "twitter whistleblower complaint",
     "safe apk sideloading",
     "iranian hackers linked",
-    "cve 2025 32975",
+    "rsac 2026 conference",
+    "former u s",
     "service ddos doxing",
-    "high intelligence value",
+    "disrupt charging services",
+    "attackers hide infostealer",
+    "time sensitive nature",
     "ransomware gang known",
-    "botnet's control servers",
     "threat actors behind",
     "vulnerable charging stations",
     "victim's username password",
     "targets including current",
-    "tamperproof smart contract"
+    "tamperproof smart contract",
+    "systematic aggressive attack"
   ],
   "trending": [
     {
-      "keyword": "3 men charged",
-      "mentions": 33
-    },
-    {
       "keyword": "things iot devices",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 21
-    },
-    {
-      "keyword": "quantum safe version",
-      "mentions": 37
+      "mentions": 22
     },
     {
       "keyword": "malicious scanner release",
-      "mentions": 1
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 32
+      "mentions": 2
     },
     {
       "keyword": "threat actors known",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1095
+      "mentions": 1096
     },
     {
       "keyword": "safe apk sideloading",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "iranian hackers linked",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "rsac 2026 conference",
+      "mentions": 2
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 33
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 41
     }
   ],
   "articles": [
@@ -239,6 +239,15 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
+      "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
+      "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
+      "published": "Mon, 23 Mar 2026 15:43:04 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
       "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
       "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
@@ -310,17 +319,14 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "published": "Tue, 10 Feb 2026 21:49:53 +0000",
-      "value_score": 82,
+      "source": "Dark Reading",
+      "title": "Attackers Hide Infostealer in Copyright Infringement Notices",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hide-infostealer-copyright-infringement-notices",
+      "summary": "A phishing campaign targeting healthcare, government, hospitality, and education sectors in various countries uses several evasion techniques to avoid detection.",
+      "published": "Mon, 23 Mar 2026 15:11:01 GMT",
+      "value_score": 18,
       "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
+        "Phishing"
       ]
     },
     {
@@ -396,11 +402,20 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Post-Quantum Web Could be Safer, Faster",
-      "link": "https://www.darkreading.com/cloud-security/post-quantum-web-could-be-safer-faster",
-      "summary": "Major providers are testing a quantum-safe version of HTTPS that shrinks certificates to one-tenth their previous size, decreasing latency and adding transparency.",
-      "published": "Thu, 19 Mar 2026 18:19:43 GMT",
+      "source": "Security Week",
+      "title": "RSAC 2026 Conference Announcements Summary (Pre-Event)",
+      "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/",
+      "summary": "A summary of the announcements made by vendors in the days leading up to the RSAC 2026 Conference. The post RSAC 2026 Conference Announcements Summary (Pre-Event) appeared first on SecurityWeek .",
+      "published": "Mon, 23 Mar 2026 15:52:57 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "M-Trends 2026: Initial Access Handoff Shrinks From Hours to 22 Seconds",
+      "link": "https://www.securityweek.com/m-trends-2026-initial-access-handoff-shrinks-from-hours-to-22-seconds/",
+      "summary": "The latest M-Trends report is based on insights from over 500,000 hours of Mandiant incident response investigations in 2025. The post M-Trends 2026: Initial Access Handoff Shrinks From Hours to 22 Seconds appeared first on SecurityWeek .",
+      "published": "Mon, 23 Mar 2026 15:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -472,26 +487,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting",
-      "link": "https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: vulnerabilities found in KVM devices, Claudy Day Claude vulnerabilities, The Gentlemen ransomware group. The post In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting appeared first on SecurityWeek .",
-      "published": "Fri, 20 Mar 2026 15:57:30 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China",
-      "link": "https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/",
-      "summary": "The men violated U.S. export controls laws by scheming to divert massive quantities of the high-performance servers assembled in the United States to China. The post 3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China appeared first on SecurityWeek .",
-      "published": "Fri, 20 Mar 2026 14:43:36 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

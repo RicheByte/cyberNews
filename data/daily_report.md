@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-23 14:51 UTC  
+> **Last Updated:** 2026-03-23 16:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**3 men charged** • **things iot devices** • **supply chain attack** • **quantum safe version** • **malicious scanner release** • **former u s** • **threat actors known** • **twitter whistleblower complaint** • **safe apk sideloading** • **iranian hackers linked** • **cve 2025 32975** • **service ddos doxing** • **high intelligence value** • **ransomware gang known** • **botnet's control servers** • **threat actors behind** • **vulnerable charging stations** • **victim's username password** • **targets including current** • **tamperproof smart contract**
+**things iot devices** • **supply chain attack** • **malicious scanner release** • **threat actors known** • **twitter whistleblower complaint** • **safe apk sideloading** • **iranian hackers linked** • **rsac 2026 conference** • **former u s** • **service ddos doxing** • **disrupt charging services** • **attackers hide infostealer** • **time sensitive nature** • **ransomware gang known** • **threat actors behind** • **vulnerable charging stations** • **victim's username password** • **targets including current** • **tamperproof smart contract** • **systematic aggressive attack**
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
 - [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
 - [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
 - [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
@@ -45,10 +46,10 @@
 - [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
 - [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
 - [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
-- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/)
 
 ### Dark Reading
 
+- [Attackers Hide Infostealer in Copyright Infringement Notices](https://www.darkreading.com/cyberattacks-data-breaches/attackers-hide-infostealer-copyright-infringement-notices)
 - [AI Dominates RSAC Innovation Sandbox](https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox)
 - [Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw](https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw)
 - [Cyber OpSec Fail: Beast Gang Exposes Ransomware Server](https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server)
@@ -56,18 +57,17 @@
 - [AI Conundrum: Why MCP Security Can't Be Patched Away](https://www.darkreading.com/application-security/mcp-security-patched)
 - [With Government's Role Uncertain, Businesses Unite to Combat Fraud](https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud)
 - [Native Launches With Security Control Plane for Multicloud](https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud)
-- [Post-Quantum Web Could be Safer, Faster](https://www.darkreading.com/cloud-security/post-quantum-web-could-be-safer-faster)
 
 ### Security Week
 
+- [RSAC 2026 Conference Announcements Summary (Pre-Event)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/)
+- [M-Trends 2026: Initial Access Handoff Shrinks From Hours to 22 Seconds](https://www.securityweek.com/m-trends-2026-initial-access-handoff-shrinks-from-hours-to-22-seconds/)
 - [Chip Services Firm Trio-Tech Says Subsidiary Hit by Ransomware](https://www.securityweek.com/chip-services-firm-trio-tech-says-subsidiary-hit-by-ransomware/)
 - [Aqua’s Trivy Vulnerability Scanner Hit by Supply Chain Attack](https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/)
 - [QNAP Patches Four Vulnerabilities Exploited at Pwn2Own](https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/)
 - [Tycoon 2FA Fully Operational Despite Law Enforcement Takedown](https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/)
 - [Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability](https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/)
 - [Critical Quest KACE Vulnerability Potentially Exploited in Attacks](https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/)
-- [In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting](https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/)
-- [3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China](https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/)
 
 ### Threatpost
 

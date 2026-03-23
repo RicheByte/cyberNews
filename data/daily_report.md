@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-23 20:33 UTC  
+> **Last Updated:** 2026-03-23 22:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**things iot devices** • **twitter whistleblower complaint** • **malicious scanner release** • **rsac 2026 conference** • **former u s** • **ransomware gang known** • **service ddos doxing** • **disrupt charging services** • **attackers hide infostealer** • **vulnerable charging stations** • **victim's username password** • **teampcp hackers behind** • **targets including current** • **targeting kubernetes clusters** • **sprawling phishing campaign** • **salesforce instance trigger** • **pre disruption levels** • **popular online destinations** • **often quickly taken** • **legitimate site forwarding**
+**things iot devices** • **twitter whistleblower complaint** • **pre disruption levels** • **malicious scanner release** • **service ddos doxing** • **rsac 2026 conference** • **former u s** • **ransomware gang known** • **open redirect attack** • **disrupt charging services** • **vulnerable charging stations** • **victim's username password** • **teampcp hackers behind** • **targets including current** • **targeting kubernetes clusters** • **sprawling phishing campaign** • **salesforce instance trigger** • **recent police disruption** • **popular online destinations** • **often quickly taken**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Mazda discloses security breach exposing employee and partner data](https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/)
+- [Tycoon2FA phishing platform returns after recent police disruption](https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/)
 - [TeamPCP deploys Iran-targeted wiper in Kubernetes attacks](https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/)
 - [Crunchyroll probes breach after hacker claims to steal 6.8M users' data](https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/)
 - [Trivy supply-chain attack spreads to Docker, GitHub repos](https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/)
 - [Varonis Atlas: Securing AI and the Data That Powers It](https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/)
 - [Microsoft Exchange Online service change causes email access issues](https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/)
 - [FBI warns of Handala hackers using Telegram in malware attacks](https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/)
-- [CISA orders feds to patch DarkSword iOS flaws exploited attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/)
-- [New KB5085516 emergency update fixes Microsoft account sign-in](https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [AI in the SOC: What Could Go Wrong?](https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong)
+- [Trivy Supply Chain Attack Targets CI/CD Secrets](https://www.darkreading.com/application-security/trivy-supply-chain-attack-targets-ci-cd-secrets)
+- [CISOs Debate Human Role in AI-Powered Security](https://www.darkreading.com/application-security/cisos-debate-human-role-ai-powered-security)
 - [Attackers Hide Infostealer in Copyright Infringement Notices](https://www.darkreading.com/cyberattacks-data-breaches/attackers-hide-infostealer-copyright-infringement-notices)
 - [AI Dominates RSAC Innovation Sandbox](https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox)
 - [Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw](https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw)
 - [Cyber OpSec Fail: Beast Gang Exposes Ransomware Server](https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server)
 - [Interlock Ransomware Targets Cisco Enterprise Firewalls](https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls)
-- [AI Conundrum: Why MCP Security Can't Be Patched Away](https://www.darkreading.com/application-security/mcp-security-patched)
-- [With Government's Role Uncertain, Businesses Unite to Combat Fraud](https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud)
-- [Native Launches With Security Control Plane for Multicloud](https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud)
 
 ### Security Week
 

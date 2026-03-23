@@ -1,17 +1,18 @@
 {
-  "last_updated": "2026-03-23 20:33",
+  "last_updated": "2026-03-23 22:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "things iot devices",
     "twitter whistleblower complaint",
+    "pre disruption levels",
     "malicious scanner release",
+    "service ddos doxing",
     "rsac 2026 conference",
     "former u s",
     "ransomware gang known",
-    "service ddos doxing",
+    "open redirect attack",
     "disrupt charging services",
-    "attackers hide infostealer",
     "vulnerable charging stations",
     "victim's username password",
     "teampcp hackers behind",
@@ -19,51 +20,50 @@
     "targeting kubernetes clusters",
     "sprawling phishing campaign",
     "salesforce instance trigger",
-    "pre disruption levels",
+    "recent police disruption",
     "popular online destinations",
-    "often quickly taken",
-    "legitimate site forwarding"
+    "often quickly taken"
   ],
   "trending": [
     {
       "keyword": "things iot devices",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1098
+      "mentions": 1099
+    },
+    {
+      "keyword": "pre disruption levels",
+      "mentions": 2
     },
     {
       "keyword": "malicious scanner release",
-      "mentions": 4
-    },
-    {
-      "keyword": "rsac 2026 conference",
-      "mentions": 4
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 35
-    },
-    {
-      "keyword": "ransomware gang known",
-      "mentions": 35
+      "mentions": 5
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 43
+      "mentions": 44
+    },
+    {
+      "keyword": "rsac 2026 conference",
+      "mentions": 5
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 36
+    },
+    {
+      "keyword": "ransomware gang known",
+      "mentions": 36
+    },
+    {
+      "keyword": "open redirect attack",
+      "mentions": 1
     },
     {
       "keyword": "disrupt charging services",
-      "mentions": 20
-    },
-    {
-      "keyword": "attackers hide infostealer",
-      "mentions": 3
-    },
-    {
-      "keyword": "vulnerable charging stations",
-      "mentions": 39
+      "mentions": 21
     }
   ],
   "articles": [
@@ -159,6 +159,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Mazda discloses security breach exposing employee and partner data",
+      "link": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
+      "summary": "Mazda Motor Corporation (Mazda) announced that information belonging to its employees and business partners had been exposed in a security incident detected last December. [...]",
+      "published": "Mon, 23 Mar 2026 18:12:52 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Tycoon2FA phishing platform returns after recent police disruption",
+      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/",
+      "summary": "The Tycoon2FA phishing-as-a-service (PhaaS) platform that Europol and partners disrupted on March 4 has already returned to previously observed activity levels. [...]",
+      "published": "Mon, 23 Mar 2026 17:52:58 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks",
       "link": "https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/",
       "summary": "The TeamPCP hacking group is targeting Kubernetes clusters with a malicious script that wipes all machines when it detects systems configured for Iran. [...]",
@@ -212,30 +234,6 @@
       "published": "Mon, 23 Mar 2026 05:45:55 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
-      "summary": "CISA ordered U.S. government agencies to patch three iOS vulnerabilities targeted in cryptocurrency theft and cyberespionage attacks using the DarkSword exploit kit. [...]",
-      "published": "Mon, 23 Mar 2026 04:37:28 -0400",
-      "value_score": 72,
-      "value_signals": [
-        "Patch/update ×2",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New KB5085516 emergency update fixes Microsoft account sign-in",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/",
-      "summary": "Microsoft has released an emergency update to address a major issue that breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive. [...]",
-      "published": "Mon, 23 Mar 2026 04:04:30 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -320,6 +318,33 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI in the SOC: What Could Go Wrong?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong",
+      "summary": "Two cybersecurity leaders tested out AI in their respective SOCs for six months — and here's what they learned.",
+      "published": "Mon, 23 Mar 2026 22:07:54 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Trivy Supply Chain Attack Targets CI/CD Secrets",
+      "link": "https://www.darkreading.com/application-security/trivy-supply-chain-attack-targets-ci-cd-secrets",
+      "summary": "A threat actor used the open source security tool to deploy an infostealer into CI/CD workflows and steal cloud credentials, SSH keys, tokens, and other sensitive secrets.",
+      "published": "Mon, 23 Mar 2026 21:43:59 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "CISOs Debate Human Role in AI-Powered Security",
+      "link": "https://www.darkreading.com/application-security/cisos-debate-human-role-ai-powered-security",
+      "summary": "The idea of a \"human in the loop\" in AI deployment was challenged during a security executive panel at the RSAC 2026 Conference this week.",
+      "published": "Mon, 23 Mar 2026 20:26:26 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attackers Hide Infostealer in Copyright Infringement Notices",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hide-infostealer-copyright-infringement-notices",
       "summary": "A phishing campaign targeting healthcare, government, hospitality, and education sectors in various countries uses several evasion techniques to avoid detection.",
@@ -373,33 +398,6 @@
         "Ransomware ×2",
         "High severity"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Conundrum: Why MCP Security Can't Be Patched Away",
-      "link": "https://www.darkreading.com/application-security/mcp-security-patched",
-      "summary": "RSAC Conference Preview: MCP introduces security risks into LLM environments that are architectural and not easily fixable, researcher says.",
-      "published": "Thu, 19 Mar 2026 21:54:38 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "With Government's Role Uncertain, Businesses Unite to Combat Fraud",
-      "link": "https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud",
-      "summary": "Major industry leaders agree to share information and collaborate to boost defenses in the wake of distressing online scams.",
-      "published": "Thu, 19 Mar 2026 20:43:01 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Native Launches With Security Control Plane for Multicloud",
-      "link": "https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud",
-      "summary": "The cloud security startup's platform translates and enforces security policies across AWS, Azure, Google Cloud, and Oracle using provider-native controls.",
-      "published": "Thu, 19 Mar 2026 20:08:11 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

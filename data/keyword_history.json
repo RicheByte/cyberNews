@@ -247,7 +247,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1098,
+      "count": 1099,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1550,7 +1550,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 217,
+      "count": 218,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1840,7 +1840,7 @@
       ]
     },
     "things iot devices": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7793,7 +7793,7 @@
       ]
     },
     "victim's username password": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7898,7 +7898,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8554,7 +8554,7 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-03-02",
         "2026-03-03",
@@ -8803,7 +8803,7 @@
       ]
     },
     "disrupt charging services": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-04",
         "2026-03-05",
@@ -9717,7 +9717,7 @@
       ]
     },
     "often quickly taken": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-13",
         "2026-03-23"
@@ -10325,7 +10325,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10356,7 +10356,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-20",
         "2026-03-23"
@@ -10417,7 +10417,7 @@
       ]
     },
     "former u s": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10426,7 +10426,7 @@
       ]
     },
     "ransomware gang known": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10442,7 +10442,7 @@
       ]
     },
     "targets including current": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-20",
         "2026-03-23"
@@ -10573,7 +10573,7 @@
       ]
     },
     "malicious scanner release": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-23"
       ]
@@ -10603,24 +10603,36 @@
       ]
     },
     "teampcp hackers behind": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-23"
       ]
     },
     "targeting kubernetes clusters": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-23"
       ]
     },
     "salesforce instance trigger": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-23"
       ]
     },
     "pre disruption levels": {
+      "count": 2,
+      "dates": [
+        "2026-03-23"
+      ]
+    },
+    "open redirect attack": {
+      "count": 1,
+      "dates": [
+        "2026-03-23"
+      ]
+    },
+    "recent police disruption": {
       "count": 1,
       "dates": [
         "2026-03-23"
@@ -10628,17 +10640,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-14 20:22",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "onyx security launches",
-        "bold security emerges",
-        "enhance cybersecurity awareness",
-        "will see instructions"
-      ]
-    },
     {
       "timestamp": "2026-03-14 22:20",
       "articles": 56,
@@ -11726,6 +11727,17 @@
         "malicious scanner release",
         "rsac 2026 conference",
         "former u s"
+      ]
+    },
+    {
+      "timestamp": "2026-03-23 22:27",
+      "articles": 56,
+      "top_keywords": [
+        "things iot devices",
+        "twitter whistleblower complaint",
+        "pre disruption levels",
+        "malicious scanner release",
+        "service ddos doxing"
       ]
     }
   ]

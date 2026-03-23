@@ -247,7 +247,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1097,
+      "count": 1098,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1550,7 +1550,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 216,
+      "count": 217,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1840,7 +1840,7 @@
       ]
     },
     "things iot devices": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7651,7 +7651,7 @@
       ]
     },
     "legitimate site forwarding": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7663,7 +7663,8 @@
         "2026-03-04",
         "2026-03-05",
         "2026-03-18",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-23"
       ]
     },
     "free vulnerability th": {
@@ -7792,7 +7793,7 @@
       ]
     },
     "victim's username password": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7897,7 +7898,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7906,7 +7907,8 @@
         "2026-03-03",
         "2026-03-04",
         "2026-03-05",
-        "2026-03-16"
+        "2026-03-16",
+        "2026-03-23"
       ]
     },
     "hacktivist group believed": {
@@ -8552,7 +8554,7 @@
       ]
     },
     "vulnerable charging stations": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-03-02",
         "2026-03-03",
@@ -8801,7 +8803,7 @@
       ]
     },
     "disrupt charging services": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-04",
         "2026-03-05",
@@ -9715,9 +9717,10 @@
       ]
     },
     "often quickly taken": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-03-13"
+        "2026-03-13",
+        "2026-03-23"
       ]
     },
     "enhance cybersecurity awareness": {
@@ -10322,7 +10325,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10353,7 +10356,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-20",
         "2026-03-23"
@@ -10414,7 +10417,7 @@
       ]
     },
     "former u s": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10423,7 +10426,7 @@
       ]
     },
     "ransomware gang known": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10439,7 +10442,7 @@
       ]
     },
     "targets including current": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-20",
         "2026-03-23"
@@ -10570,7 +10573,7 @@
       ]
     },
     "malicious scanner release": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-23"
       ]
@@ -10582,7 +10585,7 @@
       ]
     },
     "attackers hide infostealer": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-23"
       ]
@@ -10598,20 +10601,33 @@
       "dates": [
         "2026-03-23"
       ]
+    },
+    "teampcp hackers behind": {
+      "count": 1,
+      "dates": [
+        "2026-03-23"
+      ]
+    },
+    "targeting kubernetes clusters": {
+      "count": 1,
+      "dates": [
+        "2026-03-23"
+      ]
+    },
+    "salesforce instance trigger": {
+      "count": 1,
+      "dates": [
+        "2026-03-23"
+      ]
+    },
+    "pre disruption levels": {
+      "count": 1,
+      "dates": [
+        "2026-03-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-14 18:30",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "onyx security launches",
-        "bold security emerges",
-        "enhance cybersecurity awareness",
-        "will see instructions"
-      ]
-    },
     {
       "timestamp": "2026-03-14 20:22",
       "articles": 56,
@@ -11699,6 +11715,17 @@
         "malicious scanner release",
         "threat actors known",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-03-23 20:33",
+      "articles": 56,
+      "top_keywords": [
+        "things iot devices",
+        "twitter whistleblower complaint",
+        "malicious scanner release",
+        "rsac 2026 conference",
+        "former u s"
       ]
     }
   ]

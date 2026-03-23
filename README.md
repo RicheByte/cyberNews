@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-23 18:45 UTC |
+| 🕐 Last Updated | 2026-03-23 20:33 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`things iot devices` • `supply chain attack` • `malicious scanner release` • `threat actors known` • `twitter whistleblower complaint` • `rsac 2026 conference` • `iranian hackers linked` • `former u s` • `service ddos doxing` • `disrupt charging services`
+`things iot devices` • `twitter whistleblower complaint` • `malicious scanner release` • `rsac 2026 conference` • `former u s` • `ransomware gang known` • `service ddos doxing` • `disrupt charging services` • `attackers hide infostealer` • `vulnerable charging stations`
 
 ## 📄 Reports
 

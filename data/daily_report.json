@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-03-23 18:45",
+  "last_updated": "2026-03-23 20:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "things iot devices",
-    "supply chain attack",
-    "malicious scanner release",
-    "threat actors known",
     "twitter whistleblower complaint",
+    "malicious scanner release",
     "rsac 2026 conference",
-    "iranian hackers linked",
     "former u s",
+    "ransomware gang known",
     "service ddos doxing",
     "disrupt charging services",
     "attackers hide infostealer",
-    "time sensitive nature",
-    "ransomware gang known",
-    "threat actors behind",
     "vulnerable charging stations",
     "victim's username password",
+    "teampcp hackers behind",
     "targets including current",
-    "tamperproof smart contract",
-    "systematic aggressive attack",
-    "sprawling phishing campaign"
+    "targeting kubernetes clusters",
+    "sprawling phishing campaign",
+    "salesforce instance trigger",
+    "pre disruption levels",
+    "popular online destinations",
+    "often quickly taken",
+    "legitimate site forwarding"
   ],
   "trending": [
     {
       "keyword": "things iot devices",
-      "mentions": 66
-    },
-    {
-      "keyword": "supply chain attack",
-      "mentions": 23
-    },
-    {
-      "keyword": "malicious scanner release",
-      "mentions": 3
-    },
-    {
-      "keyword": "threat actors known",
-      "mentions": 23
+      "mentions": 67
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1097
+      "mentions": 1098
+    },
+    {
+      "keyword": "malicious scanner release",
+      "mentions": 4
     },
     {
       "keyword": "rsac 2026 conference",
-      "mentions": 3
-    },
-    {
-      "keyword": "iranian hackers linked",
-      "mentions": 5
+      "mentions": 4
     },
     {
       "keyword": "former u s",
-      "mentions": 34
+      "mentions": 35
+    },
+    {
+      "keyword": "ransomware gang known",
+      "mentions": 35
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "disrupt charging services",
-      "mentions": 19
+      "mentions": 20
+    },
+    {
+      "keyword": "attackers hide infostealer",
+      "mentions": 3
+    },
+    {
+      "keyword": "vulnerable charging stations",
+      "mentions": 39
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
+      "link": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
+      "summary": "The North Korean threat actors behind the Contagious Interview campaign, also tracked as WaterPlum, have been attributed to a malware family tracked as StoatWaffle that's distributed via malicious Microsoft Visual Studio Code (VS Code) projects. The use of VS Code \"tasks.json\" to distribute malware is a relatively new tactic adopted by the threat actor since December 2025, with the attacks",
+      "published": "Mon, 23 Mar 2026 23:39:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
@@ -149,13 +158,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
-      "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
-      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm. The name is a reference to the fact that the malware uses an ICP canister, which denotes a tamperproof smart contract on",
-      "published": "Sat, 21 Mar 2026 13:55:00 +0530",
+      "source": "BleepingComputer",
+      "title": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/",
+      "summary": "The TeamPCP hacking group is targeting Kubernetes clusters with a malicious script that wipes all machines when it detects systems configured for Iran. [...]",
+      "published": "Mon, 23 Mar 2026 16:09:10 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
+      "link": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
+      "summary": "Popular anime streaming platform Crunchyroll is investigating a breach after hackers claimed to have stolen personal information for approximately 6.8 million people. [...]",
+      "published": "Mon, 23 Mar 2026 15:21:04 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -215,26 +235,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "VoidStealer malware steals Chrome master key via debugger trick",
-      "link": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
-      "summary": "An information stealer called VoidStealer uses a new approach to bypass Chrome's Application-Bound Encryption (ABE) and extract the master key for decrypting sensitive data stored in the browser. [...]",
-      "published": "Sun, 22 Mar 2026 10:32:46 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
-      "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
-      "summary": "The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions. [...]",
-      "published": "Sat, 21 Mar 2026 13:30:41 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

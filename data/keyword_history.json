@@ -167,7 +167,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 564,
+      "count": 565,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -247,7 +247,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1092,
+      "count": 1093,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1839,7 +1839,7 @@
       ]
     },
     "things iot devices": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -5732,7 +5732,7 @@
       ]
     },
     "platform s capabilities": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-02-03",
         "2026-02-04",
@@ -10319,7 +10319,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10328,7 +10328,7 @@
       ]
     },
     "quantum safe version": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10374,7 +10374,7 @@
       ]
     },
     "3 men charged": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10392,7 +10392,7 @@
       ]
     },
     "missing authentication combined": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10401,7 +10401,7 @@
       ]
     },
     "botnet's control servers": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10410,7 +10410,7 @@
       ]
     },
     "former u s": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10419,7 +10419,7 @@
       ]
     },
     "ransomware gang known": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10473,7 +10473,7 @@
       ]
     },
     "april 3 2026": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -10495,7 +10495,7 @@
       ]
     },
     "cve 2025 32975": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -10517,7 +10517,7 @@
       ]
     },
     "high intelligence value": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -10525,7 +10525,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -10533,7 +10533,7 @@
       ]
     },
     "threat actors known": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -10541,24 +10541,31 @@
       ]
     },
     "deliver malware capable": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-03-23"
+      ]
+    },
+    "safe apk sideloading": {
+      "count": 1,
+      "dates": [
+        "2026-03-23"
+      ]
+    },
+    "container image library": {
+      "count": 1,
+      "dates": [
+        "2026-03-23"
+      ]
+    },
+    "iranian hackers linked": {
+      "count": 1,
       "dates": [
         "2026-03-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-14 08:29",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "onyx security launches",
-        "bold security emerges",
-        "malicious cyber actors",
-        "will see instructions"
-      ]
-    },
     {
       "timestamp": "2026-03-14 10:22",
       "articles": 56,
@@ -11646,6 +11653,17 @@
         "cve 2026 21992",
         "things iot devices",
         "quantum safe version"
+      ]
+    },
+    {
+      "timestamp": "2026-03-23 10:48",
+      "articles": 56,
+      "top_keywords": [
+        "3 men charged",
+        "supply chain attack",
+        "things iot devices",
+        "quantum safe version",
+        "former u s"
       ]
     }
   ]

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-03-23 08:49",
+  "last_updated": "2026-03-23 10:48",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "3 men charged",
     "supply chain attack",
-    "cve 2026 21992",
     "things iot devices",
     "quantum safe version",
     "former u s",
-    "high intelligence value",
+    "threat actors known",
     "april 3 2026",
     "twitter whistleblower complaint",
     "service ddos doxing",
-    "russian intelligence services",
-    "threat actors known",
-    "windows operating systems",
+    "safe apk sideloading",
     "ransomware gang known",
-    "missing authentication combined",
     "cve 2025 32975",
+    "container image library",
+    "windows operating systems",
+    "missing authentication combined",
+    "high intelligence value",
+    "iranian hackers linked",
     "deliver malware capable",
-    "disrupt charging services",
     "botnet's control servers",
     "platform s capabilities"
   ],
   "trending": [
     {
       "keyword": "3 men charged",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 18
-    },
-    {
-      "keyword": "cve 2026 21992",
-      "mentions": 21
+      "mentions": 19
     },
     {
       "keyword": "things iot devices",
-      "mentions": 61
+      "mentions": 62
     },
     {
       "keyword": "quantum safe version",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "former u s",
-      "mentions": 29
+      "mentions": 30
     },
     {
-      "keyword": "high intelligence value",
-      "mentions": 20
+      "keyword": "threat actors known",
+      "mentions": 19
     },
     {
       "keyword": "april 3 2026",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1092
+      "mentions": 1093
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 37
+      "mentions": 38
+    },
+    {
+      "keyword": "safe apk sideloading",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
+      "link": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
+      "summary": "Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments. The last known clean release of Trivy on Docker Hub is 0.69.3. The malicious versions 0.69.4, 0.69.5, and 0.69.6 have since been removed from the container image library. \"New image tags 0.69.5 and",
+      "published": "Mon, 23 Mar 2026 14:01:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
@@ -155,11 +164,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams",
-      "link": "https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html",
-      "summary": "Google on Thursday announced a new \"advanced flow\" for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverified developers in an attempt to balance openness with safety. The new changes come against the backdrop of a developer verification mandate the tech giant announced last year that requires all Android apps to be registered by verified developers to",
-      "published": "Fri, 20 Mar 2026 16:27:00 +0530",
+      "source": "BleepingComputer",
+      "title": "FBI warns of Handala hackers using Telegram in malware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned network defenders that Iranian hackers linked to the country's Ministry of Intelligence and Security (MOIS) are using Telegram in malware attacks. [...]",
+      "published": "Mon, 23 Mar 2026 05:45:55 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -236,20 +245,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
-      "summary": "Oracle has released an out-of-band security update to fix a critical unauthenticated remote code execution vulnerability in Identity Manager and Web Services Manager tracked as CVE-2026-21992. [...]",
-      "published": "Fri, 20 Mar 2026 14:48:47 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "Patch/update ×3",
-        "High severity ×2"
       ]
     },
     {
@@ -421,6 +416,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Tycoon 2FA Fully Operational Despite Law Enforcement Takedown",
+      "link": "https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/",
+      "summary": "Attack volumes are back to pre-disruption levels, and the adversary tactics have remained unchanged. The post Tycoon 2FA Fully Operational Despite Law Enforcement Takedown appeared first on SecurityWeek .",
+      "published": "Mon, 23 Mar 2026 10:29:52 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability",
       "link": "https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/",
       "summary": "CVE-2026-21992 can be used without authentication for remote code execution and it may have been exploited in the wild. The post Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability appeared first on SecurityWeek .",
@@ -494,17 +498,6 @@
       "published": "Fri, 20 Mar 2026 11:36:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Navia Data Breach Impacts 2.7 Million",
-      "link": "https://www.securityweek.com/navia-data-breach-impacts-2-7-million/",
-      "summary": "Between late December 2025 and mid-January 2026, hackers stole personal and health plan information from Navia’s environment. The post Navia Data Breach Impacts 2.7 Million appeared first on SecurityWeek .",
-      "published": "Fri, 20 Mar 2026 11:02:08 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

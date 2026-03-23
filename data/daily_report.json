@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23 04:25",
+  "last_updated": "2026-03-23 07:03",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,60 +13,73 @@
     "april 3 2026",
     "twitter whistleblower complaint",
     "service ddos doxing",
-    "missing authentication combined",
-    "threat actors known",
-    "ransomware gang known",
-    "cve 2025 32975",
     "russian intelligence services",
+    "threat actors known",
+    "windows operating systems",
+    "ransomware gang known",
+    "missing authentication combined",
+    "cve 2025 32975",
     "iran's intelligence agencies",
-    "botnet's control servers",
-    "platform s capabilities",
-    "navia s environment",
-    "threat actors behind"
+    "deliver malware capable",
+    "disrupt charging services",
+    "botnet's control servers"
   ],
   "trending": [
     {
       "keyword": "3 men charged",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "cve 2026 21992",
-      "mentions": 19
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 59
-    },
-    {
-      "keyword": "quantum safe version",
-      "mentions": 32
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 27
-    },
-    {
-      "keyword": "high intelligence value",
-      "mentions": 18
-    },
-    {
-      "keyword": "april 3 2026",
       "mentions": 20
     },
     {
+      "keyword": "things iot devices",
+      "mentions": 60
+    },
+    {
+      "keyword": "quantum safe version",
+      "mentions": 33
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 28
+    },
+    {
+      "keyword": "high intelligence value",
+      "mentions": 19
+    },
+    {
+      "keyword": "april 3 2026",
+      "mentions": 21
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1090
+      "mentions": 1091
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 35
+      "mentions": 36
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
+      "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
+      "summary": "Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf. The cybersecurity company said it observed malicious activity starting the week of March 9, 2026, in customer environments that's consistent with the exploitation of CVE-2025-32975 on unpatched SMA systems exposed to the internet. It's",
+      "published": "Mon, 23 Mar 2026 11:45:00 +0530",
+      "value_score": 60,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
@@ -98,7 +111,7 @@
       "source": "The Hacker News",
       "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
       "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
-      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm. The name is a reference to the fact that the malware uses an ICP canister, which refers to tamperproof smart contracts on",
+      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm. The name is a reference to the fact that the malware uses an ICP canister, which denotes a tamperproof smart contract on",
       "published": "Sat, 21 Mar 2026 13:55:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -121,7 +134,7 @@
       "source": "The Hacker News",
       "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
       "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
-      "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets. The latest incident impacted GitHub Actions \"aquasecurity/trivy-action\" and \"aquasecurity/setup-trivy,\" which are used to scan Docker container images for vulnerabilities and set up GitHub Actions workflow",
+      "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware capable of stealing sensitive CI/CD secrets. The latest incident impacted GitHub Actions \"aquasecurity/trivy-action\" and \"aquasecurity/setup-trivy,\" which are used to scan Docker container images for vulnerabilities and set up GitHub Actions",
       "published": "Fri, 20 Mar 2026 23:17:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -149,17 +162,6 @@
       "published": "Fri, 20 Mar 2026 16:27:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks",
-      "link": "https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html",
-      "summary": "Artificial Intelligence (AI) is changing how individuals and organizations conduct many activities, including how cybercriminals carry out phishing attacks and iterate on malware. Now, cybercriminals are using AI to generate personalized phishing emails, deepfakes and malware that evade traditional detection by impersonating normal user activity and bypassing legacy security models. As a result,",
-      "published": "Fri, 20 Mar 2026 15:30:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -417,6 +419,22 @@
     },
     {
       "source": "Security Week",
+      "title": "Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability",
+      "link": "https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/",
+      "summary": "CVE-2026-21992 can be used without authentication for remote code execution and it may have been exploited in the wild. The post Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability appeared first on SecurityWeek .",
+      "published": "Mon, 23 Mar 2026 05:34:43 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "RCE",
+        "Patch/update ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Critical Quest KACE Vulnerability Potentially Exploited in Attacks",
       "link": "https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/",
       "summary": "The vulnerability is tracked as CVE-2025-32975 and it may have been exploited in attacks against the education sector. The post Critical Quest KACE Vulnerability Potentially Exploited in Attacks appeared first on SecurityWeek .",
@@ -485,15 +503,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Thousands of Magento Sites Hit in Ongoing Defacement Campaign",
-      "link": "https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/",
-      "summary": "The attacks started on February 27 and have targeted e-commerce platforms, global brands, and government services. The post Thousands of Magento Sites Hit in Ongoing Defacement Campaign appeared first on SecurityWeek .",
-      "published": "Fri, 20 Mar 2026 10:36:51 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

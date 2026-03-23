@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-23 04:25 UTC  
+> **Last Updated:** 2026-03-23 07:03 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**3 men charged** • **supply chain attack** • **cve 2026 21992** • **things iot devices** • **quantum safe version** • **former u s** • **high intelligence value** • **april 3 2026** • **twitter whistleblower complaint** • **service ddos doxing** • **missing authentication combined** • **threat actors known** • **ransomware gang known** • **cve 2025 32975** • **russian intelligence services** • **iran's intelligence agencies** • **botnet's control servers** • **platform s capabilities** • **navia s environment** • **threat actors behind**
+**3 men charged** • **supply chain attack** • **cve 2026 21992** • **things iot devices** • **quantum safe version** • **former u s** • **high intelligence value** • **april 3 2026** • **twitter whistleblower complaint** • **service ddos doxing** • **russian intelligence services** • **threat actors known** • **windows operating systems** • **ransomware gang known** • **missing authentication combined** • **cve 2025 32975** • **iran's intelligence agencies** • **deliver malware capable** • **disrupt charging services** • **botnet's control servers**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
 - [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
 - [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
 - [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
@@ -23,7 +24,6 @@
 - [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
 - [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
 - [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
-- [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability](https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/)
 - [Critical Quest KACE Vulnerability Potentially Exploited in Attacks](https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/)
 - [In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting](https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/)
 - [3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China](https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/)
@@ -67,7 +68,6 @@
 - [US Confirms Handala Link to Iran Government Amid Takedown of Hackers’ Sites](https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/)
 - [Cape Raises $100 Million for Protection Against Cellular Security Threats](https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/)
 - [Navia Data Breach Impacts 2.7 Million](https://www.securityweek.com/navia-data-breach-impacts-2-7-million/)
-- [Thousands of Magento Sites Hit in Ongoing Defacement Campaign](https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/)
 
 ### Threatpost
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23 10:48",
+  "last_updated": "2026-03-23 12:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,62 +11,73 @@
     "threat actors known",
     "april 3 2026",
     "twitter whistleblower complaint",
-    "service ddos doxing",
     "safe apk sideloading",
     "ransomware gang known",
     "cve 2025 32975",
     "container image library",
     "windows operating systems",
-    "missing authentication combined",
+    "service ddos doxing",
     "high intelligence value",
     "iranian hackers linked",
-    "deliver malware capable",
     "botnet's control servers",
-    "platform s capabilities"
+    "sprawling phishing campaign",
+    "platform s capabilities",
+    "threat actors behind"
   ],
   "trending": [
     {
       "keyword": "3 men charged",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "things iot devices",
-      "mentions": 62
+      "mentions": 63
     },
     {
       "keyword": "quantum safe version",
-      "mentions": 35
+      "mentions": 36
     },
     {
       "keyword": "former u s",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "threat actors known",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "april 3 2026",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1093
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 38
+      "mentions": 1094
     },
     {
       "keyword": "safe apk sideloading",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "ransomware gang known",
+      "mentions": 31
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
+      "link": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
+      "summary": "Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware. The email campaigns take advantage of the urgency and time-sensitive nature of emails to send phishing messages masquerading as refund notices, payroll forms, filing reminders, and requests from tax professionals to deceive recipients into opening",
+      "published": "Mon, 23 Mar 2026 16:25:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
@@ -149,19 +160,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
-      "summary": "A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulnerabilities. The security defect, tracked as CVE-2026-33017 (CVSS score: 9.3), is a case of missing authentication combined with code injection that could result in remote code execution. \"The POST /api/v1",
-      "published": "Fri, 20 Mar 2026 20:45:00 +0530",
-      "value_score": 96,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE",
-        "High severity ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Microsoft Exchange Online service change causes email access issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/",
+      "summary": "Microsoft is working to address an ongoing service issue that has intermittently prevented some users from accessing their cloud-based Exchange Online mailboxes via Outlook mobile and Mac desktop clients since Thursday. [...]",
+      "published": "Mon, 23 Mar 2026 08:17:18 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -231,17 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
       "summary": "Microsoft Azure Monitor alerts are being abused to send callback phishing emails that impersonate warnings from the Microsoft Security Team about unauthorized charges on your account. [...]",
       "published": "Sat, 21 Mar 2026 10:09:19 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI links Signal phishing attacks to Russian intelligence services",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
-      "summary": "The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in phishing campaigns that have already compromised thousands of accounts. [...]",
-      "published": "Fri, 20 Mar 2026 16:45:52 -0400",
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
@@ -416,6 +410,17 @@
     },
     {
       "source": "Security Week",
+      "title": "QNAP Patches Four Vulnerabilities Exploited at Pwn2Own",
+      "link": "https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/",
+      "summary": "The flaws could allow attackers to access sensitive information, execute code, or cause unexpected behavior. The post QNAP Patches Four Vulnerabilities Exploited at Pwn2Own appeared first on SecurityWeek .",
+      "published": "Mon, 23 Mar 2026 11:09:16 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Tycoon 2FA Fully Operational Despite Law Enforcement Takedown",
       "link": "https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/",
       "summary": "Attack volumes are back to pre-disruption levels, and the adversary tactics have remained unchanged. The post Tycoon 2FA Fully Operational Despite Law Enforcement Takedown appeared first on SecurityWeek .",
@@ -487,15 +492,6 @@
       "link": "https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/",
       "summary": "The US has seized several domains used by Handala in cyber-enabled psychological operations. The post US Confirms Handala Link to Iran Government Amid Takedown of Hackers’ Sites appeared first on SecurityWeek .",
       "published": "Fri, 20 Mar 2026 12:25:41 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cape Raises $100 Million for Protection Against Cellular Security Threats",
-      "link": "https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/",
-      "summary": "Cape offers a privacy-focused mobile virtual network operator (MVNO) service for consumers, enterprises, and governments. The post Cape Raises $100 Million for Protection Against Cellular Security Threats appeared first on SecurityWeek .",
-      "published": "Fri, 20 Mar 2026 11:36:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

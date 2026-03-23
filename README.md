@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-23 10:48 UTC |
+| 🕐 Last Updated | 2026-03-23 12:56 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`3 men charged` • `supply chain attack` • `things iot devices` • `quantum safe version` • `former u s` • `threat actors known` • `april 3 2026` • `twitter whistleblower complaint` • `service ddos doxing` • `safe apk sideloading`
+`3 men charged` • `supply chain attack` • `things iot devices` • `quantum safe version` • `former u s` • `threat actors known` • `april 3 2026` • `twitter whistleblower complaint` • `safe apk sideloading` • `ransomware gang known`
 
 ## 📄 Reports
 

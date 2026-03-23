@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-23 10:48 UTC  
+> **Last Updated:** 2026-03-23 12:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**3 men charged** • **supply chain attack** • **things iot devices** • **quantum safe version** • **former u s** • **threat actors known** • **april 3 2026** • **twitter whistleblower complaint** • **service ddos doxing** • **safe apk sideloading** • **ransomware gang known** • **cve 2025 32975** • **container image library** • **windows operating systems** • **missing authentication combined** • **high intelligence value** • **iranian hackers linked** • **deliver malware capable** • **botnet's control servers** • **platform s capabilities**
+**3 men charged** • **supply chain attack** • **things iot devices** • **quantum safe version** • **former u s** • **threat actors known** • **april 3 2026** • **twitter whistleblower complaint** • **safe apk sideloading** • **ransomware gang known** • **cve 2025 32975** • **container image library** • **windows operating systems** • **service ddos doxing** • **high intelligence value** • **iranian hackers linked** • **botnet's control servers** • **sprawling phishing campaign** • **platform s capabilities** • **threat actors behind**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html)
 - [Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper](https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html)
 - [Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
 - [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
@@ -23,10 +24,10 @@
 - [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
 - [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
 - [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
-- [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
 
 ### BleepingComputer
 
+- [Microsoft Exchange Online service change causes email access issues](https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/)
 - [FBI warns of Handala hackers using Telegram in malware attacks](https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/)
 - [CISA orders feds to patch DarkSword iOS flaws exploited attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/)
 - [New KB5085516 emergency update fixes Microsoft account sign-in](https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/)
@@ -34,7 +35,6 @@
 - [Trivy vulnerability scanner breach pushed infostealer via GitHub Actions](https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/)
 - [Google adds ‘Advanced Flow’ for safe APK sideloading on Android](https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/)
 - [Microsoft Azure Monitor alerts abused for callback phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/)
-- [FBI links Signal phishing attacks to Russian intelligence services](https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [QNAP Patches Four Vulnerabilities Exploited at Pwn2Own](https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/)
 - [Tycoon 2FA Fully Operational Despite Law Enforcement Takedown](https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/)
 - [Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability](https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/)
 - [Critical Quest KACE Vulnerability Potentially Exploited in Attacks](https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/)
@@ -67,7 +68,6 @@
 - [3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China](https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/)
 - [Eclypsium Raises $25 Million for Device Supply Chain Security](https://www.securityweek.com/eclypsium-raises-25-million-for-device-supply-chain-security/)
 - [US Confirms Handala Link to Iran Government Amid Takedown of Hackers’ Sites](https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/)
-- [Cape Raises $100 Million for Protection Against Cellular Security Threats](https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/)
 
 ### Threatpost
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-23 22:27 UTC  
+> **Last Updated:** 2026-03-24 01:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**things iot devices** • **twitter whistleblower complaint** • **pre disruption levels** • **malicious scanner release** • **service ddos doxing** • **rsac 2026 conference** • **former u s** • **ransomware gang known** • **open redirect attack** • **disrupt charging services** • **vulnerable charging stations** • **victim's username password** • **teampcp hackers behind** • **targets including current** • **targeting kubernetes clusters** • **sprawling phishing campaign** • **salesforce instance trigger** • **recent police disruption** • **popular online destinations** • **often quickly taken**
+**things iot devices** • **openai's cloud storage** • **twitter whistleblower complaint** • **pre disruption levels** • **malicious scanner release** • **iran's intelligence agencies** • **service ddos doxing** • **rsac 2026 conference** • **former u s** • **ransomware gang known** • **open redirect attack** • **russian intelligence services** • **disrupt charging services** • **vulnerable charging stations** • **victim's username password** • **targets including current** • **targeting kubernetes clusters** • **successfully openai rolls** • **sprawling phishing campaign** • **salesforce instance trigger**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [OpenAI rolls out ChatGPT Library to store your personal files](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/)
 - [Mazda discloses security breach exposing employee and partner data](https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/)
 - [Tycoon2FA phishing platform returns after recent police disruption](https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/)
 - [TeamPCP deploys Iran-targeted wiper in Kubernetes attacks](https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/)
@@ -34,7 +35,6 @@
 - [Trivy supply-chain attack spreads to Docker, GitHub repos](https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/)
 - [Varonis Atlas: Securing AI and the Data That Powers It](https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/)
 - [Microsoft Exchange Online service change causes email access issues](https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/)
-- [FBI warns of Handala hackers using Telegram in malware attacks](https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/)
 
 ### Krebs on Security
 

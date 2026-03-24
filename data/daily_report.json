@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-23 22:27",
+  "last_updated": "2026-03-24 01:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "things iot devices",
+    "openai's cloud storage",
     "twitter whistleblower complaint",
     "pre disruption levels",
     "malicious scanner release",
+    "iran's intelligence agencies",
     "service ddos doxing",
     "rsac 2026 conference",
     "former u s",
     "ransomware gang known",
     "open redirect attack",
+    "russian intelligence services",
     "disrupt charging services",
     "vulnerable charging stations",
     "victim's username password",
-    "teampcp hackers behind",
     "targets including current",
     "targeting kubernetes clusters",
+    "successfully openai rolls",
     "sprawling phishing campaign",
-    "salesforce instance trigger",
-    "recent police disruption",
-    "popular online destinations",
-    "often quickly taken"
+    "salesforce instance trigger"
   ],
   "trending": [
     {
       "keyword": "things iot devices",
-      "mentions": 68
+      "mentions": 69
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1099
-    },
-    {
-      "keyword": "pre disruption levels",
-      "mentions": 2
-    },
-    {
-      "keyword": "malicious scanner release",
-      "mentions": 5
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 44
-    },
-    {
-      "keyword": "rsac 2026 conference",
-      "mentions": 5
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 36
-    },
-    {
-      "keyword": "ransomware gang known",
-      "mentions": 36
-    },
-    {
-      "keyword": "open redirect attack",
+      "keyword": "openai's cloud storage",
       "mentions": 1
     },
     {
-      "keyword": "disrupt charging services",
-      "mentions": 21
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1100
+    },
+    {
+      "keyword": "pre disruption levels",
+      "mentions": 3
+    },
+    {
+      "keyword": "malicious scanner release",
+      "mentions": 6
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 30
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 45
+    },
+    {
+      "keyword": "rsac 2026 conference",
+      "mentions": 6
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 37
+    },
+    {
+      "keyword": "ransomware gang known",
+      "mentions": 37
     }
   ],
   "articles": [
@@ -159,6 +159,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI rolls out ChatGPT Library to store your personal files",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
+      "summary": "OpenAI is rolling out a new feature called 'Library' for ChatGPT, which allows you to store your personal files or images on OpenAI's cloud storage, so you can reference those items in a future chat. [...]",
+      "published": "Mon, 23 Mar 2026 19:47:14 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Mazda discloses security breach exposing employee and partner data",
       "link": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
       "summary": "Mazda Motor Corporation (Mazda) announced that information belonging to its employees and business partners had been exposed in a security incident detected last December. [...]",
@@ -223,15 +232,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/",
       "summary": "Microsoft is working to address an ongoing service issue that has intermittently prevented some users from accessing their cloud-based Exchange Online mailboxes via Outlook mobile and Mac desktop clients since Thursday. [...]",
       "published": "Mon, 23 Mar 2026 08:17:18 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI warns of Handala hackers using Telegram in malware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned network defenders that Iranian hackers linked to the country's Ministry of Intelligence and Security (MOIS) are using Telegram in malware attacks. [...]",
-      "published": "Mon, 23 Mar 2026 05:45:55 -0400",
       "value_score": 10,
       "value_signals": []
     },

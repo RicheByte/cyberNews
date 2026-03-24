@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-24 01:43 UTC  
+> **Last Updated:** 2026-03-24 04:13 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**things iot devices** • **openai's cloud storage** • **twitter whistleblower complaint** • **pre disruption levels** • **malicious scanner release** • **iran's intelligence agencies** • **service ddos doxing** • **rsac 2026 conference** • **former u s** • **ransomware gang known** • **open redirect attack** • **russian intelligence services** • **disrupt charging services** • **vulnerable charging stations** • **victim's username password** • **targets including current** • **targeting kubernetes clusters** • **successfully openai rolls** • **sprawling phishing campaign** • **salesforce instance trigger**
+**things iot devices** • **openai's cloud storage** • **twitter whistleblower complaint** • **pre disruption levels** • **malicious scanner release** • **iran's intelligence agencies** • **service ddos doxing** • **rsac 2026 conference** • **former u s** • **open redirect attack** • **russian intelligence services** • **disrupt charging services** • **email flooding attacks** • **vulnerable charging stations** • **victim's username password** • **targets including current** • **targeting kubernetes clusters** • **successfully openai rolls** • **sprawling phishing campaign** • **salesforce instance trigger**
 
 ---
 
@@ -51,12 +51,12 @@
 
 - [AI in the SOC: What Could Go Wrong?](https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong)
 - [Trivy Supply Chain Attack Targets CI/CD Secrets](https://www.darkreading.com/application-security/trivy-supply-chain-attack-targets-ci-cd-secrets)
+- [Ransomware's New Era: Moving at AI Speed](https://www.darkreading.com/endpoint-security/ransomware-new-era-moving-ai-speed)
 - [CISOs Debate Human Role in AI-Powered Security](https://www.darkreading.com/application-security/cisos-debate-human-role-ai-powered-security)
 - [Attackers Hide Infostealer in Copyright Infringement Notices](https://www.darkreading.com/cyberattacks-data-breaches/attackers-hide-infostealer-copyright-infringement-notices)
 - [AI Dominates RSAC Innovation Sandbox](https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox)
 - [Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw](https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw)
 - [Cyber OpSec Fail: Beast Gang Exposes Ransomware Server](https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server)
-- [Interlock Ransomware Targets Cisco Enterprise Firewalls](https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls)
 
 ### Security Week
 

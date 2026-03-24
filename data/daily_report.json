@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-03-24 08:44",
+  "last_updated": "2026-03-24 10:46",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "things iot devices",
+    "threat actor known",
     "openai's cloud storage",
     "twitter whistleblower complaint",
     "pre disruption levels",
-    "malicious scanner release",
+    "open redirect attack",
     "iran's intelligence agencies",
+    "internal management system",
     "service ddos doxing",
     "former u s",
     "disrupt charging services",
-    "open redirect attack",
     "email flooding attacks",
     "vulnerable charging stations",
     "victim's username password",
     "targets including current",
-    "targeting kubernetes clusters",
+    "systematic aggressive attack",
     "sprawling phishing campaign",
     "sentences russian hacker",
     "salesforce instance trigger",
-    "rsac 2026 conference",
-    "recent police disruption"
+    "rsac 2026 conference"
   ],
   "trending": [
     {
       "keyword": "things iot devices",
-      "mentions": 72
+      "mentions": 73
     },
     {
-      "keyword": "openai's cloud storage",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1103
-    },
-    {
-      "keyword": "pre disruption levels",
-      "mentions": 6
-    },
-    {
-      "keyword": "malicious scanner release",
+      "keyword": "threat actor known",
       "mentions": 9
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 33
+      "keyword": "openai's cloud storage",
+      "mentions": 5
     },
     {
-      "keyword": "service ddos doxing",
-      "mentions": 48
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1104
     },
     {
-      "keyword": "former u s",
-      "mentions": 40
-    },
-    {
-      "keyword": "disrupt charging services",
-      "mentions": 25
+      "keyword": "pre disruption levels",
+      "mentions": 7
     },
     {
       "keyword": "open redirect attack",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 34
+    },
+    {
+      "keyword": "internal management system",
+      "mentions": 1
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 49
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 41
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
+      "link": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
+      "summary": "Cybersecurity has changed fast. Roles are more specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear risk priorities, misaligned tooling decisions, and difficulty explaining security issues in terms the business understands. These challenges do not",
+      "published": "Tue, 24 Mar 2026 15:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
+      "link": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
+      "summary": "Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply chain attack. The workflows, both maintained by the supply chain security company Checkmarx, are listed below - checkmarx/ast-github-action checkmarx/kics-github-action Cloud security",
+      "published": "Tue, 24 Mar 2026 14:59:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
@@ -132,28 +150,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
-      "link": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
-      "summary": "Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments. The last known clean release of Trivy on Docker Hub is 0.69.3. The malicious versions 0.69.4, 0.69.5, and 0.69.6 have since been removed from the container image library. \"New image tags 0.69.5 and",
-      "published": "Mon, 23 Mar 2026 14:01:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
-      "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
-      "summary": "Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf. The cybersecurity company said it observed malicious activity starting the week of March 9, 2026, in customer environments that's consistent with the exploitation of CVE-2025-32975 on unpatched SMA systems exposed to the internet. It's",
-      "published": "Mon, 23 Mar 2026 11:45:00 +0530",
-      "value_score": 60,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
       ]
     },
     {
@@ -400,6 +396,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Mazda Says Employee, Partner Information Stolen in Cyberattack",
+      "link": "https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/",
+      "summary": "The hackers stole internal IDs, names, email addresses, and business partner IDs from an internal management system. The post Mazda Says Employee, Partner Information Stolen in Cyberattack appeared first on SecurityWeek .",
+      "published": "Tue, 24 Mar 2026 10:38:44 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Stryker Says Malicious File Found During Probe Into Iran-Linked Attack",
+      "link": "https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/",
+      "summary": "The FBI has published an alert describing the malware used by Iranian government hackers. The post Stryker Says Malicious File Found During Probe Into Iran-Linked Attack appeared first on SecurityWeek .",
+      "published": "Tue, 24 Mar 2026 09:30:18 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "RSAC 2026 Conference Announcements Summary (Pre-Event)",
       "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/",
       "summary": "A summary of the announcements made by vendors in the days leading up to the RSAC 2026 Conference. The post RSAC 2026 Conference Announcements Summary (Pre-Event) appeared first on SecurityWeek .",
@@ -455,35 +469,6 @@
       "published": "Mon, 23 Mar 2026 10:29:52 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability",
-      "link": "https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/",
-      "summary": "CVE-2026-21992 can be used without authentication for remote code execution and it may have been exploited in the wild. The post Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability appeared first on SecurityWeek .",
-      "published": "Mon, 23 Mar 2026 05:34:43 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "RCE",
-        "Patch/update ×2",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Quest KACE Vulnerability Potentially Exploited in Attacks",
-      "link": "https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/",
-      "summary": "The vulnerability is tracked as CVE-2025-32975 and it may have been exploited in attacks against the education sector. The post Critical Quest KACE Vulnerability Potentially Exploited in Attacks appeared first on SecurityWeek .",
-      "published": "Sat, 21 Mar 2026 11:00:00 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-24 08:44 UTC  
+> **Last Updated:** 2026-03-24 10:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**things iot devices** • **openai's cloud storage** • **twitter whistleblower complaint** • **pre disruption levels** • **malicious scanner release** • **iran's intelligence agencies** • **service ddos doxing** • **former u s** • **disrupt charging services** • **open redirect attack** • **email flooding attacks** • **vulnerable charging stations** • **victim's username password** • **targets including current** • **targeting kubernetes clusters** • **sprawling phishing campaign** • **sentences russian hacker** • **salesforce instance trigger** • **rsac 2026 conference** • **recent police disruption**
+**things iot devices** • **threat actor known** • **openai's cloud storage** • **twitter whistleblower complaint** • **pre disruption levels** • **open redirect attack** • **iran's intelligence agencies** • **internal management system** • **service ddos doxing** • **former u s** • **disrupt charging services** • **email flooding attacks** • **vulnerable charging stations** • **victim's username password** • **targets including current** • **systematic aggressive attack** • **sprawling phishing campaign** • **sentences russian hacker** • **salesforce instance trigger** • **rsac 2026 conference**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills](https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html)
+- [TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials](https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html)
 - [U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage](https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html)
 - [Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks](https://thehackernews.com/2026/03/citrix-urges-patching-critical.html)
 - [North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware](https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html)
 - [⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html)
 - [We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html)
 - [Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html)
-- [Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper](https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html)
-- [Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Mazda Says Employee, Partner Information Stolen in Cyberattack](https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/)
+- [Stryker Says Malicious File Found During Probe Into Iran-Linked Attack](https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/)
 - [RSAC 2026 Conference Announcements Summary (Pre-Event)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/)
 - [M-Trends 2026: Initial Access Handoff Shrinks From Hours to 22 Seconds](https://www.securityweek.com/m-trends-2026-initial-access-handoff-shrinks-from-hours-to-22-seconds/)
 - [Chip Services Firm Trio-Tech Says Subsidiary Hit by Ransomware](https://www.securityweek.com/chip-services-firm-trio-tech-says-subsidiary-hit-by-ransomware/)
 - [Aqua’s Trivy Vulnerability Scanner Hit by Supply Chain Attack](https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/)
 - [QNAP Patches Four Vulnerabilities Exploited at Pwn2Own](https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/)
 - [Tycoon 2FA Fully Operational Despite Law Enforcement Takedown](https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/)
-- [Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability](https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/)
-- [Critical Quest KACE Vulnerability Potentially Exploited in Attacks](https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/)
 
 ### Threatpost
 

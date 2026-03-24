@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-24 18:56 UTC  
+> **Last Updated:** 2026-03-24 20:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**zero trust bridging** • **things iot devices** • **former u s** • **help power critical** • **twitter whistleblower complaint** • **tax related documents** • **service ddos doxing** • **openai's cloud storage** • **open redirect attack** • **iran's intelligence agencies** • **credentials cybersecurity researchers** • **real system access** • **poland's energy system** • **threat actor known** • **tool named hwaudkiller** • **agents autonomous programs** • **yanluowang ransomware crew** • **yanluowang ransomware attacks** • **ransomware attacks across** • **9m ransomware damage**
+**zero trust bridging** • **help power critical** • **things iot devices** • **former u s** • **twitter whistleblower complaint** • **tax related documents** • **service ddos doxing** • **openai's cloud storage** • **open redirect attack** • **iran's intelligence agencies** • **credentials cybersecurity researchers** • **1 82 8** • **threat actor known** • **tool named hwaudkiller** • **real system access** • **poland's energy system** • **agents autonomous programs** • **yanluowang ransomware crew** • **yanluowang ransomware attacks** • **ransomware attacks across**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 Likely via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
 - [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
 - [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
 - [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
@@ -23,7 +24,6 @@
 - [Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials](https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html)
 - [TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials](https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html)
 - [U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage](https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html)
-- [Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks](https://thehackernews.com/2026/03/citrix-urges-patching-critical.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [DoE Publishes 5-Year Energy Security Plan](https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/)
 - [Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw](https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/)
 - [Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector](https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/)
 - [RSAC 2026 Conference Announcements Summary (Day 1)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/)
@@ -67,7 +68,6 @@
 - [Chrome 146 Update Patches High-Severity Vulnerabilities](https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/)
 - [Webinar Today: Putting CIS Controls and Benchmarks into Practice](https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/)
 - [3.1 Million Impacted by QualDerm Data Breach](https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/)
-- [Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool](https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/)
 
 ### Threatpost
 

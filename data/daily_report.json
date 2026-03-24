@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-24 18:56",
+  "last_updated": "2026-03-24 20:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "zero trust bridging",
+    "help power critical",
     "things iot devices",
     "former u s",
-    "help power critical",
     "twitter whistleblower complaint",
     "tax related documents",
     "service ddos doxing",
@@ -14,59 +14,70 @@
     "open redirect attack",
     "iran's intelligence agencies",
     "credentials cybersecurity researchers",
-    "real system access",
-    "poland's energy system",
+    "1 82 8",
     "threat actor known",
     "tool named hwaudkiller",
+    "real system access",
+    "poland's energy system",
     "agents autonomous programs",
     "yanluowang ransomware crew",
     "yanluowang ransomware attacks",
-    "ransomware attacks across",
-    "9m ransomware damage"
+    "ransomware attacks across"
   ],
   "trending": [
     {
       "keyword": "zero trust bridging",
-      "mentions": 2
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 77
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 45
+      "mentions": 3
     },
     {
       "keyword": "help power critical",
-      "mentions": 14
+      "mentions": 15
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 78
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 46
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1108
+      "mentions": 1109
     },
     {
       "keyword": "tax related documents",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "openai's cloud storage",
-      "mentions": 9
-    },
-    {
-      "keyword": "open redirect attack",
       "mentions": 10
     },
     {
+      "keyword": "open redirect attack",
+      "mentions": 11
+    },
+    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 38
+      "mentions": 39
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 Likely via Trivy CI/CD Compromise",
+      "link": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
+      "summary": "TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential harvester, a Kubernetes lateral movement toolkit, and a persistent backdoor. Multiple security vendors, including Endor Labs and JFrog, revealed that litellm versions 1.82.7 and 1.82.8 were published on",
+      "published": "Tue, 24 Mar 2026 23:51:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
@@ -132,21 +143,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
-      "link": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
-      "summary": "Citrix has released security updates to address two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical flaw that could be exploited to leak sensitive data from the application. The vulnerabilities are listed below - CVE-2026-3055 (CVSS score: 9.3) - Insufficient input validation leading to memory overread CVE-2026-4368 (CVSS score: 7.7) - Race condition leading to user",
-      "published": "Tue, 24 Mar 2026 11:29:00 +0530",
-      "value_score": 88,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Breach/leak",
-        "High severity ×2",
-        "Multiple CVEs",
-        "Exploit wording"
       ]
     },
     {
@@ -391,6 +387,17 @@
     },
     {
       "source": "Security Week",
+      "title": "DoE Publishes 5-Year Energy Security Plan",
+      "link": "https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/",
+      "summary": "CESER’s Project Armor is a five year initiative to harden the US critical energy infrastructure, including strengthening energy systems ‘to prevent and recover from wildfires and other hazards’. The post DoE Publishes 5-Year Energy Security Plan appeared first on SecurityWeek .",
+      "published": "Tue, 24 Mar 2026 19:42:07 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw",
       "link": "https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/",
       "summary": "Agentic AI platforms are shifting from passive recommendation tools to autonomous action-takers with real system access, The post Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw appeared first on SecurityWeek .",
@@ -457,15 +464,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool",
-      "link": "https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/",
-      "summary": "The role of Israel’s hijacking of Iran’s street cameras in the killing of the country’s supreme leader underscores how surveillance systems are increasingly being targeted by adversaries in wartime. The post Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool appeared first on SecurityWeek .",
-      "published": "Tue, 24 Mar 2026 12:10:23 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

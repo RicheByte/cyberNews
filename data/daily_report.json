@@ -1,78 +1,87 @@
 {
-  "last_updated": "2026-03-24 10:46",
+  "last_updated": "2026-03-24 13:00",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "things iot devices",
+    "internal management system",
     "threat actor known",
-    "openai's cloud storage",
+    "former u s",
     "twitter whistleblower complaint",
-    "pre disruption levels",
+    "openai's cloud storage",
     "open redirect attack",
     "iran's intelligence agencies",
-    "internal management system",
-    "service ddos doxing",
-    "former u s",
+    "credentials cybersecurity researchers",
     "disrupt charging services",
-    "email flooding attacks",
+    "service phaas platform",
+    "service ddos doxing",
+    "yanluowang ransomware crew",
+    "9m ransomware damage",
     "vulnerable charging stations",
     "victim's username password",
     "targets including current",
-    "systematic aggressive attack",
-    "sprawling phishing campaign",
-    "sentences russian hacker",
-    "salesforce instance trigger",
-    "rsac 2026 conference"
+    "steal cryptocurrency wallets",
+    "steal crypto wallets",
+    "sentences russian hacker"
   ],
   "trending": [
     {
       "keyword": "things iot devices",
-      "mentions": 73
-    },
-    {
-      "keyword": "threat actor known",
-      "mentions": 9
-    },
-    {
-      "keyword": "openai's cloud storage",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1104
-    },
-    {
-      "keyword": "pre disruption levels",
-      "mentions": 7
-    },
-    {
-      "keyword": "open redirect attack",
-      "mentions": 6
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 34
+      "mentions": 74
     },
     {
       "keyword": "internal management system",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "service ddos doxing",
-      "mentions": 49
+      "keyword": "threat actor known",
+      "mentions": 10
     },
     {
       "keyword": "former u s",
-      "mentions": 41
+      "mentions": 42
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1105
+    },
+    {
+      "keyword": "openai's cloud storage",
+      "mentions": 6
+    },
+    {
+      "keyword": "open redirect attack",
+      "mentions": 7
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 35
+    },
+    {
+      "keyword": "credentials cybersecurity researchers",
+      "mentions": 1
+    },
+    {
+      "keyword": "disrupt charging services",
+      "mentions": 27
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
-      "link": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
-      "summary": "Cybersecurity has changed fast. Roles are more specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear risk priorities, misaligned tooling decisions, and difficulty explaining security issues in terms the business understands. These challenges do not",
-      "published": "Tue, 24 Mar 2026 15:30:00 +0530",
+      "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
+      "link": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
+      "summary": "Cybersecurity researchers have uncovered a new set of malicious npm packages that are designed to steal cryptocurrency wallets and sensitive data. The activity is being tracked by ReversingLabs as the Ghost campaign. The list of identified packages, all published by a user named mikilanjillo, is below - react-performance-suite react-state-optimizer-core react-fast-utilsa ai-fast-auto-trader",
+      "published": "Tue, 24 Mar 2026 17:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
+      "link": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
+      "summary": "On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For those unfamiliar with the various Gartner report types, “a Market Guide defines a market and explains what clients can expect it to do in the short term. With the focus on early, more chaotic markets, a Market Guide does not rate or position",
+      "published": "Tue, 24 Mar 2026 17:07:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -81,7 +90,16 @@
       "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
       "link": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
       "summary": "Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply chain attack. The workflows, both maintained by the supply chain security company Checkmarx, are listed below - checkmarx/ast-github-action checkmarx/kics-github-action Cloud security",
-      "published": "Tue, 24 Mar 2026 14:59:00 +0530",
+      "published": "Tue, 24 Mar 2026 16:08:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
+      "link": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
+      "summary": "Cybersecurity has changed fast. Roles are more specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear risk priorities, misaligned tooling decisions, and difficulty explaining security issues in terms the business understands. These challenges do not",
+      "published": "Tue, 24 Mar 2026 15:30:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -133,23 +151,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
-      "link": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
-      "summary": "AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. That connectivity is what makes it powerful – but it’s also what makes Bedrock a target. When an AI agent can query your Salesforce instance, trigger a Lambda function, or pull from a SharePoint",
-      "published": "Mon, 23 Mar 2026 17:25:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
-      "link": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
-      "summary": "Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware. The email campaigns take advantage of the urgency and time-sensitive nature of emails to send phishing messages masquerading as refund notices, payroll forms, filing reminders, and requests from tax professionals to deceive recipients into opening",
-      "published": "Mon, 23 Mar 2026 16:25:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Dutch Ministry of Finance discloses breach affecting employees",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/",
+      "summary": "The Dutch Ministry of Finance confirmed on Monday that some of its systems were breached in a cyberattack detected last week. [...]",
+      "published": "Tue, 24 Mar 2026 08:03:08 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Phishing ×2"
+        "Breach/leak"
       ]
     },
     {
@@ -218,15 +227,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/",
       "summary": "AI agents can access data directly, making data security the foundation of AI security. Learn more about how Varonis Atlas helps orgs see, secure, and control AI systems and the data they can reach. [...]",
       "published": "Mon, 23 Mar 2026 10:02:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Exchange Online service change causes email access issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/",
-      "summary": "Microsoft is working to address an ongoing service issue that has intermittently prevented some users from accessing their cloud-based Exchange Online mailboxes via Outlook mobile and Mac desktop clients since Thursday. [...]",
-      "published": "Mon, 23 Mar 2026 08:17:18 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -313,6 +313,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Microsoft Proposes Better Identity, Guardrails for AI Agents",
+      "link": "https://www.darkreading.com/identity-access-management-security/microsoft-proposes-better-identity-guardrails-ai-agents",
+      "summary": "Companies need better controls to manage key threats rising from the growth of agentic AI. These new features provide a starting point.",
+      "published": "Tue, 24 Mar 2026 12:28:25 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI in the SOC: What Could Go Wrong?",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong",
       "summary": "Two cybersecurity leaders tested out AI in their respective SOCs for six months — and here's what they learned.",
@@ -333,7 +342,7 @@
       "source": "Dark Reading",
       "title": "Ransomware's New Era: Moving at AI Speed",
       "link": "https://www.darkreading.com/endpoint-security/ransomware-new-era-moving-ai-speed",
-      "summary": "Threat actors bypass security tools and use AI to launch faster ransomware attacks that exploit valid credentials and target data",
+      "summary": "Threat actors bypass security tools and use AI to launch faster ransomware attacks that exploit valid credentials and target data.",
       "published": "Mon, 23 Mar 2026 21:40:37 GMT",
       "value_score": 52,
       "value_signals": [
@@ -384,14 +393,46 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Cyber OpSec Fail: Beast Gang Exposes Ransomware Server",
-      "link": "https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server",
-      "summary": "Files on a central cloud server used by the ransomware group highlight a systematic, aggressive attack on network backups as a key TTP.",
-      "published": "Fri, 20 Mar 2026 16:31:33 GMT",
-      "value_score": 46,
+      "source": "Security Week",
+      "title": "Webinar Today: Putting CIS Controls and Benchmarks into Practice",
+      "link": "https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/",
+      "summary": "Learn how the CIS Critical Security Controls and the CIS Benchmarks can be used together to support secure configuration at scale. The post Webinar Today: Putting CIS Controls and Benchmarks into Practice appeared first on SecurityWeek .",
+      "published": "Tue, 24 Mar 2026 12:30:00 +0000",
+      "value_score": 18,
       "value_signals": [
-        "Ransomware ×2"
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "3.1 Million Impacted by QualDerm Data Breach",
+      "link": "https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/",
+      "summary": "Hackers stole personal, medical, and health insurance information from the company’s internal systems. The post 3.1 Million Impacted by QualDerm Data Breach appeared first on SecurityWeek .",
+      "published": "Tue, 24 Mar 2026 12:23:59 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool",
+      "link": "https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/",
+      "summary": "The role of Israel’s hijacking of Iran’s street cameras in the killing of the country’s supreme leader underscores how surveillance systems are increasingly being targeted by adversaries in wartime. The post Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool appeared first on SecurityWeek .",
+      "published": "Tue, 24 Mar 2026 12:10:23 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn",
+      "link": "https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/",
+      "summary": "An out-of-bounds read vulnerability can be exploited remotely without authentication to read sensitive information from memory. The post Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn appeared first on SecurityWeek .",
+      "published": "Tue, 24 Mar 2026 11:19:47 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
       ]
     },
     {
@@ -427,46 +468,6 @@
       "link": "https://www.securityweek.com/m-trends-2026-initial-access-handoff-shrinks-from-hours-to-22-seconds/",
       "summary": "The latest M-Trends report is based on insights from over 500,000 hours of Mandiant incident response investigations in 2025. The post M-Trends 2026: Initial Access Handoff Shrinks From Hours to 22 Seconds appeared first on SecurityWeek .",
       "published": "Mon, 23 Mar 2026 15:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chip Services Firm Trio-Tech Says Subsidiary Hit by Ransomware",
-      "link": "https://www.securityweek.com/chip-services-firm-trio-tech-says-subsidiary-hit-by-ransomware/",
-      "summary": "The semiconductor company says hackers deployed file-encrypting ransomware on the network of a subsidiary in Singapore. The post Chip Services Firm Trio-Tech Says Subsidiary Hit by Ransomware appeared first on SecurityWeek .",
-      "published": "Mon, 23 Mar 2026 14:38:42 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Aqua’s Trivy Vulnerability Scanner Hit by Supply Chain Attack",
-      "link": "https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/",
-      "summary": "Hackers published a malicious scanner release and replaced tags to point to information-stealer malware. The post Aqua’s Trivy Vulnerability Scanner Hit by Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Mon, 23 Mar 2026 13:40:52 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "QNAP Patches Four Vulnerabilities Exploited at Pwn2Own",
-      "link": "https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/",
-      "summary": "The flaws could allow attackers to access sensitive information, execute code, or cause unexpected behavior. The post QNAP Patches Four Vulnerabilities Exploited at Pwn2Own appeared first on SecurityWeek .",
-      "published": "Mon, 23 Mar 2026 11:09:16 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Tycoon 2FA Fully Operational Despite Law Enforcement Takedown",
-      "link": "https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/",
-      "summary": "Attack volumes are back to pre-disruption levels, and the adversary tactics have remained unchanged. The post Tycoon 2FA Fully Operational Despite Law Enforcement Takedown appeared first on SecurityWeek .",
-      "published": "Mon, 23 Mar 2026 10:29:52 +0000",
       "value_score": 10,
       "value_signals": []
     },

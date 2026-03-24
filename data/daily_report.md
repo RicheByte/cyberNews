@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-24 13:00 UTC  
+> **Last Updated:** 2026-03-24 14:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**things iot devices** • **internal management system** • **threat actor known** • **former u s** • **twitter whistleblower complaint** • **openai's cloud storage** • **open redirect attack** • **iran's intelligence agencies** • **credentials cybersecurity researchers** • **disrupt charging services** • **service phaas platform** • **service ddos doxing** • **yanluowang ransomware crew** • **9m ransomware damage** • **vulnerable charging stations** • **victim's username password** • **targets including current** • **steal cryptocurrency wallets** • **steal crypto wallets** • **sentences russian hacker**
+**things iot devices** • **internal management system** • **former u s** • **twitter whistleblower complaint** • **openai's cloud storage** • **open redirect attack** • **iran's intelligence agencies** • **disrupt charging services** • **credentials cybersecurity researchers** • **service phaas platform** • **service ddos doxing** • **spot online attackers** • **threat actor known** • **yanluowang ransomware crew** • **9m ransomware damage** • **extortion group claims** • **security executive panel** • **released security updates** • **yanluowang ransomware attacks** • **ransomware attacks across**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Zero Trust: Bridging the Gap Between Authentication and Trust](https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/)
+- [HackerOne discloses employee data breach after Navia hack](https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/)
+- [Infinite Campus warns of breach after ShinyHunters claims data theft](https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/)
+- [Yanluowang ransomware access broker gets 81 months in prison](https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/)
 - [Dutch Ministry of Finance discloses breach affecting employees](https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/)
 - [OpenAI rolls out ChatGPT Library to store your personal files](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/)
 - [Mazda discloses security breach exposing employee and partner data](https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/)
 - [Tycoon2FA phishing platform returns after recent police disruption](https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/)
-- [TeamPCP deploys Iran-targeted wiper in Kubernetes attacks](https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/)
-- [Crunchyroll probes breach after hacker claims to steal 6.8M users' data](https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/)
-- [Trivy supply-chain attack spreads to Docker, GitHub repos](https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/)
-- [Varonis Atlas: Securing AI and the Data That Powers It](https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [How a Large Bank Uses AI Digital Twins for Threat Hunting](https://www.darkreading.com/threat-intelligence/how-large-bank-uses-ai-digital-twins-threat-hunting)
 - [Microsoft Proposes Better Identity, Guardrails for AI Agents](https://www.darkreading.com/identity-access-management-security/microsoft-proposes-better-identity-guardrails-ai-agents)
 - [AI in the SOC: What Could Go Wrong?](https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong)
 - [Trivy Supply Chain Attack Targets CI/CD Secrets](https://www.darkreading.com/application-security/trivy-supply-chain-attack-targets-ci-cd-secrets)
@@ -56,18 +57,17 @@
 - [CISOs Debate Human Role in AI-Powered Security](https://www.darkreading.com/application-security/cisos-debate-human-role-ai-powered-security)
 - [Attackers Hide Infostealer in Copyright Infringement Notices](https://www.darkreading.com/cyberattacks-data-breaches/attackers-hide-infostealer-copyright-infringement-notices)
 - [AI Dominates RSAC Innovation Sandbox](https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox)
-- [Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw](https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw)
 
 ### Security Week
 
+- [Extortion Group Claims It Hacked AstraZeneca](https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/)
+- [Chrome 146 Update Patches High-Severity Vulnerabilities](https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/)
 - [Webinar Today: Putting CIS Controls and Benchmarks into Practice](https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/)
 - [3.1 Million Impacted by QualDerm Data Breach](https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/)
 - [Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool](https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/)
 - [Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn](https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/)
 - [Mazda Says Employee, Partner Information Stolen in Cyberattack](https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/)
 - [Stryker Says Malicious File Found During Probe Into Iran-Linked Attack](https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/)
-- [RSAC 2026 Conference Announcements Summary (Pre-Event)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/)
-- [M-Trends 2026: Initial Access Handoff Shrinks From Hours to 22 Seconds](https://www.securityweek.com/m-trends-2026-initial-access-handoff-shrinks-from-hours-to-22-seconds/)
 
 ### Threatpost
 

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-24 13:00",
+  "last_updated": "2026-03-24 14:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "things iot devices",
     "internal management system",
-    "threat actor known",
     "former u s",
     "twitter whistleblower complaint",
     "openai's cloud storage",
     "open redirect attack",
     "iran's intelligence agencies",
-    "credentials cybersecurity researchers",
     "disrupt charging services",
+    "credentials cybersecurity researchers",
     "service phaas platform",
     "service ddos doxing",
+    "spot online attackers",
+    "threat actor known",
     "yanluowang ransomware crew",
     "9m ransomware damage",
-    "vulnerable charging stations",
-    "victim's username password",
-    "targets including current",
-    "steal cryptocurrency wallets",
-    "steal crypto wallets",
-    "sentences russian hacker"
+    "extortion group claims",
+    "security executive panel",
+    "released security updates",
+    "yanluowang ransomware attacks",
+    "ransomware attacks across"
   ],
   "trending": [
     {
       "keyword": "things iot devices",
-      "mentions": 74
+      "mentions": 75
     },
     {
       "keyword": "internal management system",
-      "mentions": 2
-    },
-    {
-      "keyword": "threat actor known",
-      "mentions": 10
+      "mentions": 3
     },
     {
       "keyword": "former u s",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1105
+      "mentions": 1106
     },
     {
       "keyword": "openai's cloud storage",
-      "mentions": 6
-    },
-    {
-      "keyword": "open redirect attack",
       "mentions": 7
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 35
+      "keyword": "open redirect attack",
+      "mentions": 8
     },
     {
-      "keyword": "credentials cybersecurity researchers",
-      "mentions": 1
+      "keyword": "iran's intelligence agencies",
+      "mentions": 36
     },
     {
       "keyword": "disrupt charging services",
-      "mentions": 27
+      "mentions": 28
+    },
+    {
+      "keyword": "credentials cybersecurity researchers",
+      "mentions": 2
+    },
+    {
+      "keyword": "service phaas platform",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -152,6 +152,48 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Zero Trust: Bridging the Gap Between Authentication and Trust",
+      "link": "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/",
+      "summary": "Passing MFA doesn't mean a session is safe, attackers can hijack tokens and bypass identity checks. Specops Software explains why Zero Trust must verify both user identity and device health. [...]",
+      "published": "Tue, 24 Mar 2026 10:02:12 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "HackerOne discloses employee data breach after Navia hack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/",
+      "summary": "Bug bounty platform HackerOne is notifying hundreds of employees that their data was stolen after attackers hacked Navia, one of its U.S. benefits administrators. [...]",
+      "published": "Tue, 24 Mar 2026 10:01:02 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Infinite Campus warns of breach after ShinyHunters claims data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/",
+      "summary": "Infinite Campus, a widely used K-12 student information system, is warning customers of a data breach following an extortion attempt by a threat actor. [...]",
+      "published": "Tue, 24 Mar 2026 09:48:38 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Yanluowang ransomware access broker gets 81 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/",
+      "summary": "A Russian national was sentenced to nearly 7 years in prison after pleading guilty to acting as an initial access broker (IAB) for Yanluowang ransomware attacks. [...]",
+      "published": "Tue, 24 Mar 2026 09:06:03 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Dutch Ministry of Finance discloses breach affecting employees",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/",
       "summary": "The Dutch Ministry of Finance confirmed on Monday that some of its systems were breached in a cyberattack detected last week. [...]",
@@ -191,44 +233,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/",
-      "summary": "The TeamPCP hacking group is targeting Kubernetes clusters with a malicious script that wipes all machines when it detects systems configured for Iran. [...]",
-      "published": "Mon, 23 Mar 2026 16:09:10 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
-      "link": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
-      "summary": "Popular anime streaming platform Crunchyroll is investigating a breach after hackers claimed to have stolen personal information for approximately 6.8 million people. [...]",
-      "published": "Mon, 23 Mar 2026 15:21:04 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trivy supply-chain attack spreads to Docker, GitHub repos",
-      "link": "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/",
-      "summary": "The TeamPCP hackers behind the Trivy supply-chain attack continued to target Aqua Security, pushing malicious Docker images and hijacking the company's GitHub organization to tamper with dozens of repositories. [...]",
-      "published": "Mon, 23 Mar 2026 13:40:27 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Varonis Atlas: Securing AI and the Data That Powers It",
-      "link": "https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/",
-      "summary": "AI agents can access data directly, making data security the foundation of AI security. Learn more about how Varonis Atlas helps orgs see, secure, and control AI systems and the data they can reach. [...]",
-      "published": "Mon, 23 Mar 2026 10:02:12 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -313,6 +317,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "How a Large Bank Uses AI Digital Twins for Threat Hunting",
+      "link": "https://www.darkreading.com/threat-intelligence/how-large-bank-uses-ai-digital-twins-threat-hunting",
+      "summary": "JPMorgan Chase uses digital fingerprints and digital twins to spot online attackers and malicious behaviors while also reducing pesky false alerts.",
+      "published": "Tue, 24 Mar 2026 13:16:21 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Microsoft Proposes Better Identity, Guardrails for AI Agents",
       "link": "https://www.darkreading.com/identity-access-management-security/microsoft-proposes-better-identity-guardrails-ai-agents",
       "summary": "Companies need better controls to manage key threats rising from the growth of agentic AI. These new features provide a starting point.",
@@ -374,22 +387,29 @@
       "source": "Dark Reading",
       "title": "AI Dominates RSAC Innovation Sandbox",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox",
-      "summary": "The 10 finalists will each have three minutes to make their case for being the most innovative, promising young security company of the year.",
+      "summary": "Ten finalists will each have three minutes to make their case for being the most innovative, promising young security company of the year.",
       "published": "Sun, 22 Mar 2026 11:40:03 GMT",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw",
-      "summary": "Attackers can execute arbitrary code without authentication if Oracle's Identity or Web Services Managers are exposed to the Web.",
-      "published": "Fri, 20 Mar 2026 19:30:19 GMT",
-      "value_score": 46,
+      "source": "Security Week",
+      "title": "Extortion Group Claims It Hacked AstraZeneca",
+      "link": "https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/",
+      "summary": "The Lapsus$ hackers allegedly compromised internal code repositories, credentials, and employee data. The post Extortion Group Claims It Hacked AstraZeneca appeared first on SecurityWeek .",
+      "published": "Tue, 24 Mar 2026 13:54:47 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome 146 Update Patches High-Severity Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/",
+      "summary": "The software refresh fixes eight memory safety bugs affecting seven Chrome components. The post Chrome 146 Update Patches High-Severity Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 24 Mar 2026 13:35:47 +0000",
+      "value_score": 26,
       "value_signals": [
-        "RCE",
-        "Patch/update",
-        "High severity"
+        "Patch/update ×2"
       ]
     },
     {
@@ -450,24 +470,6 @@
       "link": "https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/",
       "summary": "The FBI has published an alert describing the malware used by Iranian government hackers. The post Stryker Says Malicious File Found During Probe Into Iran-Linked Attack appeared first on SecurityWeek .",
       "published": "Tue, 24 Mar 2026 09:30:18 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "RSAC 2026 Conference Announcements Summary (Pre-Event)",
-      "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/",
-      "summary": "A summary of the announcements made by vendors in the days leading up to the RSAC 2026 Conference. The post RSAC 2026 Conference Announcements Summary (Pre-Event) appeared first on SecurityWeek .",
-      "published": "Mon, 23 Mar 2026 15:52:57 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "M-Trends 2026: Initial Access Handoff Shrinks From Hours to 22 Seconds",
-      "link": "https://www.securityweek.com/m-trends-2026-initial-access-handoff-shrinks-from-hours-to-22-seconds/",
-      "summary": "The latest M-Trends report is based on insights from over 500,000 hours of Mandiant incident response investigations in 2025. The post M-Trends 2026: Initial Access Handoff Shrinks From Hours to 22 Seconds appeared first on SecurityWeek .",
-      "published": "Mon, 23 Mar 2026 15:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

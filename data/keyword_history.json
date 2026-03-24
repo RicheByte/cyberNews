@@ -247,7 +247,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1105,
+      "count": 1106,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -443,7 +443,7 @@
       ]
     },
     "threat actor known": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -1843,7 +1843,7 @@
       ]
     },
     "things iot devices": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -3526,7 +3526,7 @@
       ]
     },
     "released security updates": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -3539,7 +3539,8 @@
         "2026-02-12",
         "2026-03-11",
         "2026-03-12",
-        "2026-03-13"
+        "2026-03-13",
+        "2026-03-24"
       ]
     },
     "auditability collide daily": {
@@ -8809,7 +8810,7 @@
       ]
     },
     "disrupt charging services": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-04",
         "2026-03-05",
@@ -10333,7 +10334,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10400,7 +10401,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10428,7 +10429,7 @@
       ]
     },
     "former u s": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10647,7 +10648,7 @@
       ]
     },
     "open redirect attack": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-23",
         "2026-03-24"
@@ -10661,7 +10662,7 @@
       ]
     },
     "openai's cloud storage": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-24"
       ]
@@ -10679,31 +10680,31 @@
       ]
     },
     "internal management system": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-24"
       ]
     },
     "credentials cybersecurity researchers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-24"
       ]
     },
     "service phaas platform": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-24"
       ]
     },
     "yanluowang ransomware crew": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-24"
       ]
     },
     "9m ransomware damage": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-24"
       ]
@@ -10719,20 +10720,39 @@
       "dates": [
         "2026-03-24"
       ]
+    },
+    "spot online attackers": {
+      "count": 1,
+      "dates": [
+        "2026-03-24"
+      ]
+    },
+    "extortion group claims": {
+      "count": 1,
+      "dates": [
+        "2026-03-24"
+      ]
+    },
+    "security executive panel": {
+      "count": 1,
+      "dates": [
+        "2026-03-24"
+      ]
+    },
+    "yanluowang ransomware attacks": {
+      "count": 1,
+      "dates": [
+        "2026-03-24"
+      ]
+    },
+    "ransomware attacks across": {
+      "count": 1,
+      "dates": [
+        "2026-03-24"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-15 12:41",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "appsflyer web sdk",
-        "bold security emerges",
-        "enhance cybersecurity awareness",
-        "will see instructions"
-      ]
-    },
     {
       "timestamp": "2026-03-15 14:25",
       "articles": 56,
@@ -11820,6 +11840,17 @@
         "threat actor known",
         "former u s",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-03-24 14:52",
+      "articles": 56,
+      "top_keywords": [
+        "things iot devices",
+        "internal management system",
+        "former u s",
+        "twitter whistleblower complaint",
+        "openai's cloud storage"
       ]
     }
   ]

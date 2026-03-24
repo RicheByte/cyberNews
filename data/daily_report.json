@@ -1,72 +1,101 @@
 {
-  "last_updated": "2026-03-24 14:52",
+  "last_updated": "2026-03-24 16:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "zero trust bridging",
     "things iot devices",
     "internal management system",
     "former u s",
+    "help power critical",
     "twitter whistleblower complaint",
+    "service ddos doxing",
     "openai's cloud storage",
     "open redirect attack",
     "iran's intelligence agencies",
-    "disrupt charging services",
     "credentials cybersecurity researchers",
-    "service phaas platform",
-    "service ddos doxing",
-    "spot online attackers",
     "threat actor known",
+    "yanluowang ransomware attacks",
+    "ransomware attacks across",
     "yanluowang ransomware crew",
+    "email flooding attacks",
+    "conducting numerous attacks",
     "9m ransomware damage",
     "extortion group claims",
-    "security executive panel",
-    "released security updates",
-    "yanluowang ransomware attacks",
-    "ransomware attacks across"
+    "security executive panel"
   ],
   "trending": [
     {
+      "keyword": "zero trust bridging",
+      "mentions": 1
+    },
+    {
       "keyword": "things iot devices",
-      "mentions": 75
+      "mentions": 76
     },
     {
       "keyword": "internal management system",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "former u s",
-      "mentions": 43
+      "mentions": 44
+    },
+    {
+      "keyword": "help power critical",
+      "mentions": 13
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1106
+      "mentions": 1107
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 52
     },
     {
       "keyword": "openai's cloud storage",
-      "mentions": 7
-    },
-    {
-      "keyword": "open redirect attack",
       "mentions": 8
     },
     {
+      "keyword": "open redirect attack",
+      "mentions": 9
+    },
+    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 36
-    },
-    {
-      "keyword": "disrupt charging services",
-      "mentions": 28
-    },
-    {
-      "keyword": "credentials cybersecurity researchers",
-      "mentions": 2
-    },
-    {
-      "keyword": "service phaas platform",
-      "mentions": 2
+      "mentions": 37
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
+      "link": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
+      "summary": "On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For those unfamiliar with the various Gartner report types, “a Market Guide defines a market and explains what clients can expect it to do in the short term. With the focus on early, more chaotic markets, a Market Guide does not rate or position",
+      "published": "Tue, 24 Mar 2026 22:06:05 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner",
+      "link": "https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html",
+      "summary": "An ongoing phishing campaign is targeting French-speaking corporate environments with fake resumes that lead to the deployment of cryptocurrency miners and information stealers. \"The campaign uses highly obfuscated VBScript files disguised as resume/CV documents, delivered through phishing emails,\" Securonix researchers Shikha Sangwan, Akshay Gaikwad, and Aaron Beardslee said in a report shared",
+      "published": "Tue, 24 Mar 2026 22:05:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
+      "link": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
+      "summary": "Cybersecurity has changed fast. Roles are more specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear risk priorities, misaligned tooling decisions, and difficulty explaining security issues in terms the business understands. These challenges do not",
+      "published": "Tue, 24 Mar 2026 17:31:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
@@ -78,28 +107,10 @@
     },
     {
       "source": "The Hacker News",
-      "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
-      "link": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
-      "summary": "On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For those unfamiliar with the various Gartner report types, “a Market Guide defines a market and explains what clients can expect it to do in the short term. With the focus on early, more chaotic markets, a Market Guide does not rate or position",
-      "published": "Tue, 24 Mar 2026 17:07:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
       "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
       "link": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
       "summary": "Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply chain attack. The workflows, both maintained by the supply chain security company Checkmarx, are listed below - checkmarx/ast-github-action checkmarx/kics-github-action Cloud security",
       "published": "Tue, 24 Mar 2026 16:08:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
-      "link": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
-      "summary": "Cybersecurity has changed fast. Roles are more specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear risk priorities, misaligned tooling decisions, and difficulty explaining security issues in terms the business understands. These challenges do not",
-      "published": "Tue, 24 Mar 2026 15:30:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -139,15 +150,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
-      "link": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
-      "summary": "Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories. This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, long-abused IoT devices being shut down, and exploits moving quickly from disclosure to real attacks. There are also new malware tricks",
-      "published": "Mon, 23 Mar 2026 18:44:00 +0530",
-      "value_score": 28,
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes bug causing Classic Outlook sync issues with Gmail",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/",
+      "summary": "​Microsoft has fixed a known issue causing Gmail and Yahoo email synchronization and connection problems for classic Outlook users. [...]",
+      "published": "Tue, 24 Mar 2026 11:12:13 -0400",
+      "value_score": 18,
       "value_signals": [
-        "Backdoor",
-        "Exploit wording"
+        "Patch/update"
       ]
     },
     {
@@ -221,17 +231,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Tycoon2FA phishing platform returns after recent police disruption",
-      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/",
-      "summary": "The Tycoon2FA phishing-as-a-service (PhaaS) platform that Europol and partners disrupted on March 4 has already returned to previously observed activity levels. [...]",
-      "published": "Mon, 23 Mar 2026 17:52:58 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {
@@ -317,6 +316,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "GitHub 'OpenClaw Deployer' Repo Delivers Trojan Instead",
+      "link": "https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan",
+      "summary": "An AI-assisted campaign is spreading more than 300 poisoned packages for diverse assets ranging from developer tools to game cheats.",
+      "published": "Tue, 24 Mar 2026 14:59:40 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "How a Large Bank Uses AI Digital Twins for Threat Hunting",
       "link": "https://www.darkreading.com/threat-intelligence/how-large-bank-uses-ai-digital-twins-threat-hunting",
       "summary": "JPMorgan Chase uses digital fingerprints and digital twins to spot online attackers and malicious behaviors while also reducing pesky false alerts.",
@@ -384,11 +392,11 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Dominates RSAC Innovation Sandbox",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox",
-      "summary": "Ten finalists will each have three minutes to make their case for being the most innovative, promising young security company of the year.",
-      "published": "Sun, 22 Mar 2026 11:40:03 GMT",
+      "source": "Security Week",
+      "title": "RSAC 2026 Conference Announcements Summary (Day 1)",
+      "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/",
+      "summary": "A summary of the announcements made by vendors on the first day of the RSAC 2026 Conference. The post RSAC 2026 Conference Announcements Summary (Day 1) appeared first on SecurityWeek .",
+      "published": "Tue, 24 Mar 2026 15:57:12 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -461,15 +469,6 @@
       "link": "https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/",
       "summary": "The hackers stole internal IDs, names, email addresses, and business partner IDs from an internal management system. The post Mazda Says Employee, Partner Information Stolen in Cyberattack appeared first on SecurityWeek .",
       "published": "Tue, 24 Mar 2026 10:38:44 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Stryker Says Malicious File Found During Probe Into Iran-Linked Attack",
-      "link": "https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/",
-      "summary": "The FBI has published an alert describing the malware used by Iranian government hackers. The post Stryker Says Malicious File Found During Probe Into Iran-Linked Attack appeared first on SecurityWeek .",
-      "published": "Tue, 24 Mar 2026 09:30:18 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -558,6 +557,61 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Pharos Controls Mosaic Show Controller",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to execute arbitrary commands with root privileges. The following versions of Pharos Controls Mosaic Show Controller are affected: Mosaic Show Controller Firmware 2.15.3 (CVE-2026-2417) CVSS Vendor Equipment Vulnerabilities v3 9.8 Pharos Controls Pharos Controls Mosaic Show Controller Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Commercial Facilities",
+      "published": "Tue, 24 Mar 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Schneider Electric Plant iT/Brewmaxx",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could risk privilege escalation, which could result in remote code execution. The following versions of Schneider Electric Plant iT/Brewmaxx are affected: Plant iT/Brewmaxx 9.60_and_above (CVE-2025-49844, CVE-2025-46817, CVE-2025-46818, CVE-2025-46819) CVSS Vendor Equipment Vulnerabilities v3 9.9 Schneider Electric Schneider Electric Plant iT/Brewmaxx Use After Free, Integer Overflow or Wraparound, Improper Control of Generation ",
+      "published": "Tue, 24 Mar 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "RCE",
+        "Privilege escalation",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Schneider Electric EcoStruxure Foxboro DCS",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-02",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure Foxboro DCS Control Software on Foxboro DCS workstations and servers. Control Core Services and all runtime software, like FCPs, FDCs, and FBMs, are not affected. The EcoStruxure Foxboro DCS ([https://www.se.com/ww/en/product-range/63680-ecostruxure-foxboro-dcs/](https://www.se.com/ww/en/product-range/63680-ecostruxure-foxboro-dcs/)) product is an innovative family of fault-tolerant, highly available control comp",
+      "published": "Tue, 24 Mar 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Grassroots DICOM (GDCM)",
+      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-083-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted file, and when parsed, could result in a denial-of-service condition. The following versions of Grassroots DICOM (GDCM) are affected: Grassroots DICOM (GDCM) 3.2.2 (CVE-2026-3650) CVSS Vendor Equipment Vulnerabilities v3 7.5 Grassroots Grassroots DICOM (GDCM) Missing Release of Memory after Effective Lifetime Background Critical Infrastructure Sectors: Healthcare and Public Health ",
+      "published": "Tue, 24 Mar 26 12:00:00 +0000",
+      "value_score": 67,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow Vulnerability CVE-2025-32432 Craft CMS Code Injection Vulnerability CVE-2025-43510 Apple Multiple Products Improper Locking Vulnerability CVE-2025-43520 Apple Multiple Products Classic Buffer Overflow Vulnerability CVE-2025-54068 Laravel Livewire Code Injection Vulnerability These types of vulnerabilities a",
@@ -586,29 +640,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Schneider Electric EcoStruxure Automation Expert",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-03",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Automation Expert product. The EcoStruxure™ Automation Expert product is plant automation software designed for digital control systems in discrete, hybrid and continuous industrial processes. A totally integrated automation solution designed to enhance your flexibility, efficiency and scalability. Failure to apply the remediation provided below may risk execution of arbitrary commands on the engineering worksta",
-      "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Mitsubishi Electric CNC Series",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause an out-of-bounds read, resulting in a denial-of-service condition in the affected products. The following versions of Mitsubishi Electric CNC Series are affected: M800VW (BND-2051W000) <=BB M800VS (BND-2052W000) <=BB M80V (BND-2053W000) <=BB M80VW (BND-2054W000) <=BB M800W (BND-2005W000) <=FM M800S (BND-2006W000) <=FM M80 (BND-2007W000) <=FM M80W (BND-2008W000) <=FM E80 (BND-2009W000) <=FM C80 ",
-      "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Schneider Electric Modicon Controllers M241, M251, M258, and LMC058",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-02",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability may risk a Cross-site Scripting or an open redirect attack which could result in an account takeover scenario or the execution of code in the user browser. The following versions of Schneider Electric Modicon Controllers M241, M251, M258, and LMC058 are affected: Modicon M241 versions prior to 5.4.13.12 Modicon_Controller_M241 Modicon M251 versions prior to 5.4.13.12 Modicon_Controller_M251 Modicon Controllers M258 all firmware vers",
@@ -621,40 +652,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "IGL-Technologies eParking.fi",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-07",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of IGL-Technologies eParking.fi are affected: eParking.fi vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 IGL-Technologies IGL-Technologies eParking.fi Missing Authentication for Critical Function, Improper Restriction of Excessive Authe",
+      "title": "Schneider Electric EcoStruxure PME and EPO",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-04",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure Power Monitoring Expert (PME) and EcoStruxure Power Operation (EPO) products. EcoStruxure Power Monitoring Expert (PME) is an on-premises software used to help power critical and energy-intensive facilities maximize uptime and operational efficiency. EcoStruxure Power Operation (EPO) are on-premises software offers that provides a single platform to monitor and control medium and lower power systems.Failure to ap",
       "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 49,
+      "value_score": 43,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CTEK Chargeportal",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-06",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could enable attackers to gain unauthorized administrative control over vulnerable charging stations or disrupt charging services through denial-of-service attacks. The following versions of CTEK Chargeportal are affected: Chargeportal vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.4 CTEK CTEK Chargeportal Missing Authentication for Critical Function, Improper Restriction of Excessive Authentication Attempts, Insufficient ",
-      "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric Modicon M241, M251, and M262",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to cause a denial-of-service condition on the product. The following versions of Schneider Electric Modicon M241, M251, and M262 are affected: Modicon M241 versions prior to 5.4.13.12 Modicon_Controller_M241 Modicon M251 versions prior to 5.4.13.12 Modicon_Controller_M251 Modicon M262 versions prior to 5.4.10.12 Modicon_Controller_M262 CVSS Vendor Equipment Vulnerabilities v3 5.3 Schneider Electric Schneider ",
-      "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
+        "High severity"
       ]
     }
   ],

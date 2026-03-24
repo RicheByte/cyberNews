@@ -247,7 +247,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1106,
+      "count": 1107,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -443,7 +443,7 @@
       ]
     },
     "threat actor known": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -1843,7 +1843,7 @@
       ]
     },
     "things iot devices": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -8988,7 +8988,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -10285,10 +10285,11 @@
       ]
     },
     "help power critical": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-24"
       ]
     },
     "threat actors conducted": {
@@ -10334,7 +10335,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10401,7 +10402,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10429,7 +10430,7 @@
       ]
     },
     "former u s": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10648,7 +10649,7 @@
       ]
     },
     "open redirect attack": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-23",
         "2026-03-24"
@@ -10662,7 +10663,7 @@
       ]
     },
     "openai's cloud storage": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-24"
       ]
@@ -10680,13 +10681,13 @@
       ]
     },
     "internal management system": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-24"
       ]
     },
     "credentials cybersecurity researchers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-24"
       ]
@@ -10698,13 +10699,13 @@
       ]
     },
     "yanluowang ransomware crew": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-24"
       ]
     },
     "9m ransomware damage": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-24"
       ]
@@ -10728,24 +10729,36 @@
       ]
     },
     "extortion group claims": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-24"
       ]
     },
     "security executive panel": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-24"
       ]
     },
     "yanluowang ransomware attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-24"
       ]
     },
     "ransomware attacks across": {
+      "count": 2,
+      "dates": [
+        "2026-03-24"
+      ]
+    },
+    "zero trust bridging": {
+      "count": 1,
+      "dates": [
+        "2026-03-24"
+      ]
+    },
+    "conducting numerous attacks": {
       "count": 1,
       "dates": [
         "2026-03-24"
@@ -10753,17 +10766,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-15 14:25",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "appsflyer web sdk",
-        "bold security emerges",
-        "enhance cybersecurity awareness",
-        "will see instructions"
-      ]
-    },
     {
       "timestamp": "2026-03-15 16:26",
       "articles": 56,
@@ -11851,6 +11853,17 @@
         "former u s",
         "twitter whistleblower complaint",
         "openai's cloud storage"
+      ]
+    },
+    {
+      "timestamp": "2026-03-24 16:55",
+      "articles": 56,
+      "top_keywords": [
+        "zero trust bridging",
+        "things iot devices",
+        "internal management system",
+        "former u s",
+        "help power critical"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24 20:36",
+  "last_updated": "2026-03-24 22:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,7 +10,6 @@
     "twitter whistleblower complaint",
     "tax related documents",
     "service ddos doxing",
-    "openai's cloud storage",
     "open redirect attack",
     "iran's intelligence agencies",
     "credentials cybersecurity researchers",
@@ -21,49 +20,50 @@
     "poland's energy system",
     "agents autonomous programs",
     "yanluowang ransomware crew",
-    "yanluowang ransomware attacks",
-    "ransomware attacks across"
+    "9m ransomware damage",
+    "extortion group claims",
+    "yahoo email synchronization"
   ],
   "trending": [
     {
       "keyword": "zero trust bridging",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "help power critical",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "things iot devices",
-      "mentions": 78
+      "mentions": 79
     },
     {
       "keyword": "former u s",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1109
+      "mentions": 1110
     },
     {
       "keyword": "tax related documents",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 54
-    },
-    {
-      "keyword": "openai's cloud storage",
-      "mentions": 10
+      "mentions": 55
     },
     {
       "keyword": "open redirect attack",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 39
+      "mentions": 40
+    },
+    {
+      "keyword": "credentials cybersecurity researchers",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -147,6 +147,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FCC bans new routers made outside the USA over security risks",
+      "link": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
+      "summary": "The Federal Communications Commission has updated its Covered List to include all consumer routers made in foreign countries, banning the sale of new models in the U.S. [...]",
+      "published": "Tue, 24 Mar 2026 16:41:30 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
       "link": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/",
       "summary": "Mozilla released Firefox 149 with added privacy protection through a built-in VPN tool offering up to 50GB of monthly traffic. [...]",
@@ -217,15 +226,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI rolls out ChatGPT Library to store your personal files",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
-      "summary": "OpenAI is rolling out a new feature called 'Library' for ChatGPT, which allows you to store your personal files or images on OpenAI's cloud storage, so you can reference those items in a future chat. [...]",
-      "published": "Mon, 23 Mar 2026 19:47:14 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -310,6 +310,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Checkmarx KICS Code Scanner Targeted in Widening Supply Chain Hit",
+      "link": "https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain",
+      "summary": "TeamPCP is the likely cyber threat actor behind attacks on Trivy, Checkmarx's KICS and VS Code plug-ins, and the LiteLLM AI library — and all signs point to more attacks to come.",
+      "published": "Tue, 24 Mar 2026 21:28:16 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "How AI Coding Tools Crushed the Endpoint Security Fortress",
+      "link": "https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security",
+      "summary": "Security vendors have spent years building up defenses around the endpoint, but one researcher says AI coding tools have brought the walls down.",
+      "published": "Tue, 24 Mar 2026 21:25:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "GitHub 'OpenClaw Deployer' Repo Delivers Trojan Instead",
       "link": "https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan",
       "summary": "An AI-assisted campaign is spreading more than 300 poisoned packages for diverse assets ranging from developer tools to game cheats.",
@@ -363,26 +381,6 @@
       "value_signals": [
         "Ransomware ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CISOs Debate Human Role in AI-Powered Security",
-      "link": "https://www.darkreading.com/application-security/cisos-debate-human-role-ai-powered-security",
-      "summary": "The idea of a \"human in the loop\" in AI deployment was challenged during a security executive panel at the RSAC 2026 Conference this week.",
-      "published": "Mon, 23 Mar 2026 20:26:26 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Attackers Hide Infostealer in Copyright Infringement Notices",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hide-infostealer-copyright-infringement-notices",
-      "summary": "A phishing campaign targeting healthcare, government, hospitality, and education sectors in various countries uses several evasion techniques to avoid detection.",
-      "published": "Mon, 23 Mar 2026 15:11:01 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

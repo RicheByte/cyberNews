@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-03-24 16:55",
+  "last_updated": "2026-03-24 18:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "zero trust bridging",
     "things iot devices",
-    "internal management system",
     "former u s",
     "help power critical",
     "twitter whistleblower complaint",
+    "tax related documents",
     "service ddos doxing",
     "openai's cloud storage",
     "open redirect attack",
     "iran's intelligence agencies",
     "credentials cybersecurity researchers",
+    "real system access",
+    "poland's energy system",
     "threat actor known",
+    "tool named hwaudkiller",
+    "agents autonomous programs",
+    "yanluowang ransomware crew",
     "yanluowang ransomware attacks",
     "ransomware attacks across",
-    "yanluowang ransomware crew",
-    "email flooding attacks",
-    "conducting numerous attacks",
-    "9m ransomware damage",
-    "extortion group claims",
-    "security executive panel"
+    "9m ransomware damage"
   ],
   "trending": [
     {
       "keyword": "zero trust bridging",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "things iot devices",
-      "mentions": 76
-    },
-    {
-      "keyword": "internal management system",
-      "mentions": 4
+      "mentions": 77
     },
     {
       "keyword": "former u s",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "help power critical",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1107
+      "mentions": 1108
+    },
+    {
+      "keyword": "tax related documents",
+      "mentions": 1
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 52
+      "mentions": 53
     },
     {
       "keyword": "openai's cloud storage",
-      "mentions": 8
-    },
-    {
-      "keyword": "open redirect attack",
       "mentions": 9
     },
     {
+      "keyword": "open redirect attack",
+      "mentions": 10
+    },
+    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 37
+      "mentions": 38
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
+      "link": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html",
+      "summary": "A large-scale malvertising campaign active since January 2026 has been observed targeting U.S.-based individuals searching for tax-related documents to serve rogue installers for ConnectWise ScreenConnect that drop a tool named HwAudKiller to blind security programs using the bring your own vulnerable driver (BYOVD) technique. \"The campaign abuses Google Ads to serve rogue ScreenConnect (",
+      "published": "Tue, 24 Mar 2026 22:35:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
@@ -141,11 +150,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
-      "link": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
-      "summary": "The North Korean threat actors behind the Contagious Interview campaign, also tracked as WaterPlum, have been attributed to a malware family tracked as StoatWaffle that's distributed via malicious Microsoft Visual Studio Code (VS Code) projects. The use of VS Code \"tasks.json\" to distribute malware is a relatively new tactic adopted by the threat actor since December 2025, with the attacks",
-      "published": "Mon, 23 Mar 2026 23:39:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
+      "link": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/",
+      "summary": "Mozilla released Firefox 149 with added privacy protection through a built-in VPN tool offering up to 50GB of monthly traffic. [...]",
+      "published": "Tue, 24 Mar 2026 13:23:01 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -221,17 +230,6 @@
       "published": "Mon, 23 Mar 2026 19:47:14 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Mazda discloses security breach exposing employee and partner data",
-      "link": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
-      "summary": "Mazda Motor Corporation (Mazda) announced that information belonging to its employees and business partners had been exposed in a security incident detected last December. [...]",
-      "published": "Mon, 23 Mar 2026 18:12:52 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -393,6 +391,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw",
+      "link": "https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/",
+      "summary": "Agentic AI platforms are shifting from passive recommendation tools to autonomous action-takers with real system access, The post Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw appeared first on SecurityWeek .",
+      "published": "Tue, 24 Mar 2026 18:27:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector",
+      "link": "https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/",
+      "summary": "The attacks included a destructive infiltration of Poland's energy system in December and was suspected of originating in Russia. The post Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector appeared first on SecurityWeek .",
+      "published": "Tue, 24 Mar 2026 17:51:42 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "RSAC 2026 Conference Announcements Summary (Day 1)",
       "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/",
       "summary": "A summary of the announcements made by vendors on the first day of the RSAC 2026 Conference. The post RSAC 2026 Conference Announcements Summary (Day 1) appeared first on SecurityWeek .",
@@ -448,27 +464,6 @@
       "link": "https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/",
       "summary": "The role of Israel’s hijacking of Iran’s street cameras in the killing of the country’s supreme leader underscores how surveillance systems are increasingly being targeted by adversaries in wartime. The post Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool appeared first on SecurityWeek .",
       "published": "Tue, 24 Mar 2026 12:10:23 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn",
-      "link": "https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/",
-      "summary": "An out-of-bounds read vulnerability can be exploited remotely without authentication to read sensitive information from memory. The post Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn appeared first on SecurityWeek .",
-      "published": "Tue, 24 Mar 2026 11:19:47 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Mazda Says Employee, Partner Information Stolen in Cyberattack",
-      "link": "https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/",
-      "summary": "The hackers stole internal IDs, names, email addresses, and business partner IDs from an internal management system. The post Mazda Says Employee, Partner Information Stolen in Cyberattack appeared first on SecurityWeek .",
-      "published": "Tue, 24 Mar 2026 10:38:44 +0000",
       "value_score": 10,
       "value_signals": []
     },

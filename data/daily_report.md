@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-24 16:55 UTC  
+> **Last Updated:** 2026-03-24 18:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**zero trust bridging** • **things iot devices** • **internal management system** • **former u s** • **help power critical** • **twitter whistleblower complaint** • **service ddos doxing** • **openai's cloud storage** • **open redirect attack** • **iran's intelligence agencies** • **credentials cybersecurity researchers** • **threat actor known** • **yanluowang ransomware attacks** • **ransomware attacks across** • **yanluowang ransomware crew** • **email flooding attacks** • **conducting numerous attacks** • **9m ransomware damage** • **extortion group claims** • **security executive panel**
+**zero trust bridging** • **things iot devices** • **former u s** • **help power critical** • **twitter whistleblower complaint** • **tax related documents** • **service ddos doxing** • **openai's cloud storage** • **open redirect attack** • **iran's intelligence agencies** • **credentials cybersecurity researchers** • **real system access** • **poland's energy system** • **threat actor known** • **tool named hwaudkiller** • **agents autonomous programs** • **yanluowang ransomware crew** • **yanluowang ransomware attacks** • **ransomware attacks across** • **9m ransomware damage**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
 - [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
 - [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
 - [The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills](https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html)
@@ -23,10 +24,10 @@
 - [TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials](https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html)
 - [U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage](https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html)
 - [Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks](https://thehackernews.com/2026/03/citrix-urges-patching-critical.html)
-- [North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware](https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html)
 
 ### BleepingComputer
 
+- [Firefox now has a free built-in VPN with 50GB monthly data limit](https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/)
 - [Microsoft fixes bug causing Classic Outlook sync issues with Gmail](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/)
 - [Zero Trust: Bridging the Gap Between Authentication and Trust](https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/)
 - [HackerOne discloses employee data breach after Navia hack](https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/)
@@ -34,7 +35,6 @@
 - [Yanluowang ransomware access broker gets 81 months in prison](https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/)
 - [Dutch Ministry of Finance discloses breach affecting employees](https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/)
 - [OpenAI rolls out ChatGPT Library to store your personal files](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/)
-- [Mazda discloses security breach exposing employee and partner data](https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw](https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/)
+- [Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector](https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/)
 - [RSAC 2026 Conference Announcements Summary (Day 1)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/)
 - [Extortion Group Claims It Hacked AstraZeneca](https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/)
 - [Chrome 146 Update Patches High-Severity Vulnerabilities](https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/)
 - [Webinar Today: Putting CIS Controls and Benchmarks into Practice](https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/)
 - [3.1 Million Impacted by QualDerm Data Breach](https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/)
 - [Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool](https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/)
-- [Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn](https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/)
-- [Mazda Says Employee, Partner Information Stolen in Cyberattack](https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/)
 
 ### Threatpost
 

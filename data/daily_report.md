@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-24 06:58 UTC  
+> **Last Updated:** 2026-03-24 08:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**things iot devices** • **openai's cloud storage** • **twitter whistleblower complaint** • **pre disruption levels** • **malicious scanner release** • **iran's intelligence agencies** • **service ddos doxing** • **rsac 2026 conference** • **former u s** • **open redirect attack** • **russian intelligence services** • **disrupt charging services** • **email flooding attacks** • **vulnerable charging stations** • **victim's username password** • **targets including current** • **targeting kubernetes clusters** • **successfully openai rolls** • **sprawling phishing campaign** • **salesforce instance trigger**
+**things iot devices** • **openai's cloud storage** • **twitter whistleblower complaint** • **pre disruption levels** • **malicious scanner release** • **iran's intelligence agencies** • **service ddos doxing** • **former u s** • **disrupt charging services** • **open redirect attack** • **email flooding attacks** • **vulnerable charging stations** • **victim's username password** • **targets including current** • **targeting kubernetes clusters** • **sprawling phishing campaign** • **sentences russian hacker** • **salesforce instance trigger** • **rsac 2026 conference** • **recent police disruption**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage](https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html)
+- [Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks](https://thehackernews.com/2026/03/citrix-urges-patching-critical.html)
 - [North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware](https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html)
 - [⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html)
 - [We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html)
 - [Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html)
 - [Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper](https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html)
 - [Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
-- [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
-- [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
 
 ### BleepingComputer
 

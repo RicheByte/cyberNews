@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24 06:58",
+  "last_updated": "2026-03-24 08:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,63 +10,89 @@
     "malicious scanner release",
     "iran's intelligence agencies",
     "service ddos doxing",
-    "rsac 2026 conference",
     "former u s",
-    "open redirect attack",
-    "russian intelligence services",
     "disrupt charging services",
+    "open redirect attack",
     "email flooding attacks",
     "vulnerable charging stations",
     "victim's username password",
     "targets including current",
     "targeting kubernetes clusters",
-    "successfully openai rolls",
     "sprawling phishing campaign",
-    "salesforce instance trigger"
+    "sentences russian hacker",
+    "salesforce instance trigger",
+    "rsac 2026 conference",
+    "recent police disruption"
   ],
   "trending": [
     {
       "keyword": "things iot devices",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "openai's cloud storage",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1102
+      "mentions": 1103
     },
     {
       "keyword": "pre disruption levels",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "malicious scanner release",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 47
-    },
-    {
-      "keyword": "rsac 2026 conference",
-      "mentions": 8
+      "mentions": 48
     },
     {
       "keyword": "former u s",
-      "mentions": 39
+      "mentions": 40
+    },
+    {
+      "keyword": "disrupt charging services",
+      "mentions": 25
     },
     {
       "keyword": "open redirect attack",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
+      "link": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
+      "summary": "A 26-year-old Russian citizen has been sentenced in the U.S. to 6.75 years (81 months) in prison for his role in assisting major cybercrime groups, including the Yanluowang ransomware crew, in conducting numerous attacks against U.S. companies and other organizations. According to the U.S. Department of Justice (DoJ), Aleksei Olegovich Volkov facilitated dozens of ransomware attacks across the",
+      "published": "Tue, 24 Mar 2026 12:19:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
+      "link": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
+      "summary": "Citrix has released security updates to address two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical flaw that could be exploited to leak sensitive data from the application. The vulnerabilities are listed below - CVE-2026-3055 (CVSS score: 9.3) - Insufficient input validation leading to memory overread CVE-2026-4368 (CVSS score: 7.7) - Race condition leading to user",
+      "published": "Tue, 24 Mar 2026 11:29:00 +0530",
+      "value_score": 88,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Breach/leak",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
@@ -126,33 +152,6 @@
       "value_score": 60,
       "value_signals": [
         "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
-      "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
-      "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high intelligence value, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) said Friday. \"The campaign",
-      "published": "Sat, 21 Mar 2026 18:47:00 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Phishing ×2",
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
-      "link": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
-      "summary": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution. The vulnerability, tracked as CVE-2026-21992, carries a CVSS score of 9.8 out of a maximum of 10.0. \"This vulnerability is remotely exploitable without authentication,\" Oracle said in an advisory. \"If successfully",
-      "published": "Sat, 21 Mar 2026 15:54:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE ×2",
-        "High severity ×2",
         "Multiple CVEs",
         "Exploit wording"
       ]

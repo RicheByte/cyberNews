@@ -1,9 +1,8 @@
 {
-  "last_updated": "2026-03-25 20:33",
+  "last_updated": "2026-03-25 22:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "iran war unleashing",
     "remote code execution",
     "agents autonomous programs",
     "citrixbleed2 flaws exploited",
@@ -12,6 +11,7 @@
     "twitter whistleblower complaint",
     "things iot devices",
     "service ddos doxing",
+    "sans top 5",
     "iran's intelligence agencies",
     "former u s",
     "ai speeds attacks",
@@ -26,44 +26,44 @@
   ],
   "trending": [
     {
-      "keyword": "iran war unleashing",
-      "mentions": 8
-    },
-    {
       "keyword": "remote code execution",
-      "mentions": 147
+      "mentions": 148
     },
     {
       "keyword": "agents autonomous programs",
-      "mentions": 63
+      "mentions": 64
     },
     {
       "keyword": "citrixbleed2 flaws exploited",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "launch ransomware attacks",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "underlying communications networks",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1120
+      "mentions": 1121
     },
     {
       "keyword": "things iot devices",
-      "mentions": 82
+      "mentions": 83
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 65
+      "mentions": 66
+    },
+    {
+      "keyword": "sans top 5",
+      "mentions": 1
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 50
+      "mentions": 51
     }
   ],
   "articles": [
@@ -150,6 +150,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "PolyShell attacks target 56% of all vulnerable Magento stores",
+      "link": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
+      "summary": "Attacks leveraging the 'PolyShell' vulnerability in version 2 of Magento Open Source and Adobe Commerce installations are underway, targeting more than half of all vulnerable stores. [...]",
+      "published": "Wed, 25 Mar 2026 17:40:21 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Bubble AI app builder abused to steal Microsoft account credentials",
       "link": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/",
       "summary": "Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps. [...]",
@@ -223,18 +232,6 @@
         "Ransomware ×2",
         "Botnet ×2",
         "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
-      "link": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
-      "summary": "PTC Inc. is warning of a critical vulnerability in Windchill and FlexPLM, widely used product lifecycle management (PLM) solutions, that could allow remote code execution. [...]",
-      "published": "Tue, 24 Mar 2026 19:04:36 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "RCE ×2",
-        "High severity ×2"
       ]
     },
     {
@@ -320,6 +317,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "At RSAC, the EU Leads While US Officials Are Sidelined",
+      "link": "https://www.darkreading.com/cyber-risk/rsac-eu-leads-us-officials-sidelined",
+      "summary": "While US government sits out this year, EU officials are on the ground in San Francisco leading the conversations on today's top cybersecurity challenges.",
+      "published": "Wed, 25 Mar 2026 21:52:38 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Blame Game: Why Public Cyber Attribution Carries Risks",
       "link": "https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks",
       "summary": "Publicly accusing an entity of a cyberattack could have negative consequences that organizations should consider before taking the plunge.",
@@ -380,15 +386,6 @@
       "link": "https://www.darkreading.com/cyber-risk/ex-nsa-directors-red-line-offensive-cyberattacks",
       "summary": "Four former NSA chiefs representing a near-complete history of US Cyber Command debated and discussed the role of offensive cyber in the government.",
       "published": "Wed, 25 Mar 2026 11:55:50 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Iran Hacktivists Make Noise but Have Little Impact on War",
-      "link": "https://www.darkreading.com/threat-intelligence/iran-hacktivists-impact-on-war",
-      "summary": "Iran-aligned groups are trying to make their mark in the Gulf, but the results have fallen short of remarkable.",
-      "published": "Wed, 25 Mar 2026 05:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

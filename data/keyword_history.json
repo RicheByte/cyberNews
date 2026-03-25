@@ -248,7 +248,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1120,
+      "count": 1121,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -602,7 +602,7 @@
       ]
     },
     "remote code execution": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1848,7 +1848,7 @@
       ]
     },
     "things iot devices": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -9125,7 +9125,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9358,7 +9358,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10346,7 +10346,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10414,7 +10414,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10443,7 +10443,7 @@
       ]
     },
     "former u s": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10761,7 +10761,7 @@
       ]
     },
     "yanluowang ransomware attacks": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-24",
         "2026-03-25"
@@ -10858,7 +10858,7 @@
       ]
     },
     "launch ransomware attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-25"
       ]
@@ -10882,19 +10882,19 @@
       ]
     },
     "underlying communications networks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-25"
       ]
     },
     "ai speeds attacks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-25"
       ]
     },
     "identity theft evolves": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-25"
       ]
@@ -10918,25 +10918,25 @@
       ]
     },
     "patch netscaler flaws": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-25"
       ]
     },
     "citrixbleed2 flaws exploited": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-25"
       ]
     },
     "patched several vulnerabilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-25"
       ]
     },
     "control core services": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-25"
       ]
@@ -10948,12 +10948,18 @@
       ]
     },
     "paid ai accounts": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-25"
       ]
     },
     "individual user accounts": {
+      "count": 2,
+      "dates": [
+        "2026-03-25"
+      ]
+    },
+    "sans top 5": {
       "count": 1,
       "dates": [
         "2026-03-25"
@@ -10961,17 +10967,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-16 20:33",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "oracle ebs hack",
-        "remotely wiped tens",
-        "hacking attempt reported",
-        "execute malicious code"
-      ]
-    },
     {
       "timestamp": "2026-03-16 22:27",
       "articles": 56,
@@ -12059,6 +12054,17 @@
         "agents autonomous programs",
         "citrixbleed2 flaws exploited",
         "launch ransomware attacks"
+      ]
+    },
+    {
+      "timestamp": "2026-03-25 22:30",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "agents autonomous programs",
+        "citrixbleed2 flaws exploited",
+        "launch ransomware attacks",
+        "underlying communications networks"
       ]
     }
   ]

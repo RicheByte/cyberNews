@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-25 16:57 UTC |
+| 🕐 Last Updated | 2026-03-25 18:50 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran war unleashing` • `agents autonomous programs` • `launch ransomware attacks` • `underlying communications networks` • `twitter whistleblower complaint` • `service ddos doxing` • `iran's intelligence agencies` • `former u s` • `ai speeds attacks` • `patch netscaler flaws`
+`iran war unleashing` • `remote code execution` • `agents autonomous programs` • `citrixbleed2 flaws exploited` • `launch ransomware attacks` • `underlying communications networks` • `twitter whistleblower complaint` • `service ddos doxing` • `iran's intelligence agencies` • `former u s`
 
 ## 📄 Reports
 

@@ -248,7 +248,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1118,
+      "count": 1119,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -602,7 +602,7 @@
       ]
     },
     "remote code execution": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -628,7 +628,8 @@
         "2026-02-26",
         "2026-03-04",
         "2026-03-12",
-        "2026-03-13"
+        "2026-03-13",
+        "2026-03-25"
       ]
     },
     "attacker remotely control": {
@@ -7803,7 +7804,7 @@
       ]
     },
     "victim's username password": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9124,7 +9125,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9357,12 +9358,13 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-03-11",
         "2026-03-12",
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-25"
       ]
     },
     "supply chain compromise": {
@@ -10344,7 +10346,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10412,7 +10414,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10441,7 +10443,7 @@
       ]
     },
     "former u s": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10759,7 +10761,7 @@
       ]
     },
     "yanluowang ransomware attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-24",
         "2026-03-25"
@@ -10844,7 +10846,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-25"
       ]
@@ -10856,7 +10858,7 @@
       ]
     },
     "launch ransomware attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-25"
       ]
@@ -10874,25 +10876,25 @@
       ]
     },
     "white house determination": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-25"
       ]
     },
     "underlying communications networks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-25"
       ]
     },
     "ai speeds attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-25"
       ]
     },
     "identity theft evolves": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-25"
       ]
@@ -10916,12 +10918,30 @@
       ]
     },
     "patch netscaler flaws": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-25"
       ]
     },
     "citrixbleed2 flaws exploited": {
+      "count": 2,
+      "dates": [
+        "2026-03-25"
+      ]
+    },
+    "patched several vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-03-25"
+      ]
+    },
+    "control core services": {
+      "count": 1,
+      "dates": [
+        "2026-03-25"
+      ]
+    },
+    "underground markets bundle": {
       "count": 1,
       "dates": [
         "2026-03-25"
@@ -10929,17 +10949,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-16 16:57",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "oracle ebs hack",
-        "hacking attempt reported",
-        "appsflyer web sdk",
-        "glassworm aftermath hundreds"
-      ]
-    },
     {
       "timestamp": "2026-03-16 18:55",
       "articles": 56,
@@ -12027,6 +12036,17 @@
         "launch ransomware attacks",
         "underlying communications networks",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-03-25 18:50",
+      "articles": 56,
+      "top_keywords": [
+        "iran war unleashing",
+        "remote code execution",
+        "agents autonomous programs",
+        "citrixbleed2 flaws exploited",
+        "launch ransomware attacks"
       ]
     }
   ]

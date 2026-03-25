@@ -1,10 +1,12 @@
 {
-  "last_updated": "2026-03-25 16:57",
+  "last_updated": "2026-03-25 18:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran war unleashing",
+    "remote code execution",
     "agents autonomous programs",
+    "citrixbleed2 flaws exploited",
     "launch ransomware attacks",
     "underlying communications networks",
     "twitter whistleblower complaint",
@@ -14,59 +16,66 @@
     "ai speeds attacks",
     "patch netscaler flaws",
     "identity theft evolves",
-    "citrixbleed2 flaws exploited",
-    "help power critical",
     "yanluowang ransomware attacks",
-    "windows operating systems",
+    "patched several vulnerabilities",
+    "least 77 vulnerabilities",
+    "control core services",
     "white house determination",
     "victim's username password",
-    "tool named hwaudkiller",
-    "things iot devices",
-    "tax related documents"
+    "underground markets bundle"
   ],
   "trending": [
     {
       "keyword": "iran war unleashing",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 146
     },
     {
       "keyword": "agents autonomous programs",
-      "mentions": 61
+      "mentions": 62
     },
     {
-      "keyword": "launch ransomware attacks",
-      "mentions": 3
-    },
-    {
-      "keyword": "underlying communications networks",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1118
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 63
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 48
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 55
-    },
-    {
-      "keyword": "ai speeds attacks",
+      "keyword": "citrixbleed2 flaws exploited",
       "mentions": 2
     },
     {
-      "keyword": "patch netscaler flaws",
-      "mentions": 1
+      "keyword": "launch ransomware attacks",
+      "mentions": 4
+    },
+    {
+      "keyword": "underlying communications networks",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1119
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 64
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 49
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 56
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
+      "link": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
+      "summary": "The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday. According to TASS and MVD Media, a news website linked to the Russian Interior Ministry, the suspect is a resident of the city of Taganrog. The suspect is said to have been detained for creating and managing a criminal site that allowed stolen",
+      "published": "Wed, 25 Mar 2026 23:05:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
@@ -140,11 +149,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
-      "link": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
-      "summary": "On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For those unfamiliar with the various Gartner report types, “a Market Guide defines a market and explains what clients can expect it to do in the short term. With the focus on early, more chaotic markets, a Market Guide does not rate or position",
-      "published": "Tue, 24 Mar 2026 22:06:05 +0530",
+      "source": "BleepingComputer",
+      "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
+      "link": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
+      "summary": "A new info-stealing malware called Torg Grabber is stealing sensitive data from 850 browser extensions, more than 700 of them for cryptocurrency wallets. [...]",
+      "published": "Wed, 25 Mar 2026 14:32:37 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -223,15 +232,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
       "summary": "The TeamPCP hacking group continues its supply-chain rampage, now compromising the massively popular \"LiteLLM\" Python package on PyPI and claiming to have stolen data from hundreds of thousands of devices during the attack. [...]",
       "published": "Tue, 24 Mar 2026 18:29:01 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FCC bans new routers made outside the USA over security risks",
-      "link": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
-      "summary": "The Federal Communications Commission has updated its Covered List to include all consumer routers made in foreign countries, banning the sale of new models in the U.S. [...]",
-      "published": "Tue, 24 Mar 2026 16:41:30 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -347,7 +347,7 @@
       "source": "Dark Reading",
       "title": "SANS: Top 5 Most Dangerous New Attack Techniques to Watch",
       "link": "https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques",
-      "summary": "For the first time, SANS Institute's five top attack techniques all have one thing in common – AI.",
+      "summary": "For the first time, SANS Institute's five top attack techniques all have one thing in common — AI.",
       "published": "Wed, 25 Mar 2026 14:40:33 GMT",
       "value_score": 10,
       "value_signals": []
@@ -549,6 +549,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33017 Langflow Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnera",
+      "published": "Wed, 25 Mar 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Pharos Controls Mosaic Show Controller",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-01",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to execute arbitrary commands with root privileges. The following versions of Pharos Controls Mosaic Show Controller are affected: Mosaic Show Controller Firmware 2.15.3 (CVE-2026-2417) CVSS Vendor Equipment Vulnerabilities v3 9.8 Pharos Controls Pharos Controls Mosaic Show Controller Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Commercial Facilities",
@@ -632,26 +646,13 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Schneider Electric Modicon Controllers M241, M251, M258, and LMC058",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability may risk a Cross-site Scripting or an open redirect attack which could result in an account takeover scenario or the execution of code in the user browser. The following versions of Schneider Electric Modicon Controllers M241, M251, M258, and LMC058 are affected: Modicon M241 versions prior to 5.4.13.12 Modicon_Controller_M241 Modicon M251 versions prior to 5.4.13.12 Modicon_Controller_M251 Modicon Controllers M258 all firmware vers",
+      "title": "Schneider Electric EcoStruxure Automation Expert",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-03",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Automation Expert product. The EcoStruxure™ Automation Expert product is plant automation software designed for digital control systems in discrete, hybrid and continuous industrial processes. A totally integrated automation solution designed to enhance your flexibility, efficiency and scalability. Failure to apply the remediation provided below may risk execution of arbitrary commands on the engineering worksta",
       "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 41,
+      "value_score": 35,
       "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric EcoStruxure PME and EPO",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-04",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure Power Monitoring Expert (PME) and EcoStruxure Power Operation (EPO) products. EcoStruxure Power Monitoring Expert (PME) is an on-premises software used to help power critical and energy-intensive facilities maximize uptime and operational efficiency. EcoStruxure Power Operation (EPO) are on-premises software offers that provides a single platform to monitor and control medium and lower power systems.Failure to ap",
-      "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity"
+        "Source boost: CISA Alerts"
       ]
     }
   ],

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-25 12:58 UTC  
+> **Last Updated:** 2026-03-25 14:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran war unleashing** • **steal enterprise credentials** • **agents autonomous programs** • **twitter whistleblower complaint** • **tax related documents** • **service ddos doxing** • **former u s** • **classic outlook users** • **launch ransomware attacks** • **ai assisted campaign** • **poland's energy system** • **help power critical** • **iran's intelligence agencies** • **sprawling phishing campaign** • **ongoing phishing campaign** • **yahoo email synchronization** • **windows operating systems** • **white house determination** • **victim's username password** • **underlying communications networks**
+**iran war unleashing** • **agents autonomous programs** • **launch ransomware attacks** • **ai speeds attacks** • **twitter whistleblower complaint** • **service ddos doxing** • **former u s** • **identity theft evolves** • **help power critical** • **yanluowang ransomware attacks** • **iran's intelligence agencies** • **litellm ai library** • **ai coding agent** • **comprehensive data theft** • **windows operating systems** • **white house determination** • **victim's username password** • **underlying communications networks** • **tool named hwaudkiller** • **things iot devices**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
 - [The Kill Chain Is Obsolete When Your AI Agent Is the Threat](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
 - [Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks](https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html)
 - [Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse](https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html)
@@ -23,10 +24,10 @@
 - [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
 - [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
 - [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
-- [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
 
 ### BleepingComputer
 
+- [Paid AI Accounts Are Now a Hot Underground Commodity](https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/)
 - [Kali Linux 2026.1 released with 8 new tools, new BackTrack mode](https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/)
 - [TP-Link warns users to patch critical router auth bypass flaw](https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/)
 - [Manager of botnet used in ransomware attacks gets 2 years in prison](https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/)
@@ -34,7 +35,6 @@
 - [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/)
 - [FCC bans new routers made outside the USA over security risks](https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/)
 - [Firefox now has a free built-in VPN with 50GB monthly data limit](https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/)
-- [Microsoft fixes bug causing Classic Outlook sync issues with Gmail](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [SANS: Top 5 Most Dangerous New Attack Techniques to Watch](https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques)
+- [Why a 'Near Miss' Database Is Key to Improving Information Sharing](https://www.darkreading.com/cyber-risk/experts-near-miss-database-improve-information-sharing)
 - [AI-Native Security Is a Must to Counter AI-Based Attacks](https://www.darkreading.com/cybersecurity-operations/ai-native-security-counter-attacks)
+- [Ex-NSA Directors Discuss 'Red Line' for Offensive Cyberattacks](https://www.darkreading.com/cyber-risk/ex-nsa-directors-red-line-offensive-cyberattacks)
 - [Iran Hacktivists Make Noise but Have Little Impact on War](https://www.darkreading.com/threat-intelligence/iran-hacktivists-impact-on-war)
 - [CSA Launches CSAI Foundation for AI Security](https://www.darkreading.com/cloud-security/csa-launches-csai-ai-security)
 - [Checkmarx KICS Code Scanner Targeted in Widening Supply Chain Hit](https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain)
 - [How AI Coding Tools Crushed the Endpoint Security Fortress](https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security)
-- [GitHub 'OpenClaw Deployer' Repo Delivers Trojan Instead](https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan)
-- [How a Large Bank Uses AI Digital Twins for Threat Hunting](https://www.darkreading.com/threat-intelligence/how-large-bank-uses-ai-digital-twins-threat-hunting)
-- [Microsoft Proposes Better Identity, Guardrails for AI Agents](https://www.darkreading.com/identity-access-management-security/microsoft-proposes-better-identity-guardrails-ai-agents)
 
 ### Security Week
 
+- [Russian Cybercriminal Gets 2-Year Prison Sentence in US](https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/)
+- [AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link](https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/)
+- [iOS, macOS 26.4 Roll Out With Fresh Security Patches](https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/)
 - [FCC Bans New Routers Made Outside the US Over National Security Risks](https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/)
 - [RSAC 2026 Conference Announcements Summary (Day 2)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/)
 - [From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI](https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/)
 - [US Prisons Russian Access Broker for Aiding Ransomware Attacks](https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/)
 - [HackerOne Employee Data Exposed in Massive Navia Breach](https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/)
-- [DoE Publishes 5-Year Energy Security Plan](https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/)
-- [Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw](https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/)
-- [Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector](https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/)
 
 ### Threatpost
 

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-03-25 12:58",
+  "last_updated": "2026-03-25 14:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran war unleashing",
-    "steal enterprise credentials",
     "agents autonomous programs",
+    "launch ransomware attacks",
+    "ai speeds attacks",
     "twitter whistleblower complaint",
-    "tax related documents",
     "service ddos doxing",
     "former u s",
-    "classic outlook users",
-    "launch ransomware attacks",
-    "ai assisted campaign",
-    "poland's energy system",
+    "identity theft evolves",
     "help power critical",
+    "yanluowang ransomware attacks",
     "iran's intelligence agencies",
-    "sprawling phishing campaign",
-    "ongoing phishing campaign",
-    "yahoo email synchronization",
+    "litellm ai library",
+    "ai coding agent",
+    "comprehensive data theft",
     "windows operating systems",
     "white house determination",
     "victim's username password",
-    "underlying communications networks"
+    "underlying communications networks",
+    "tool named hwaudkiller",
+    "things iot devices"
   ],
   "trending": [
     {
       "keyword": "iran war unleashing",
-      "mentions": 4
-    },
-    {
-      "keyword": "steal enterprise credentials",
-      "mentions": 6
+      "mentions": 5
     },
     {
       "keyword": "agents autonomous programs",
-      "mentions": 59
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1116
-    },
-    {
-      "keyword": "tax related documents",
-      "mentions": 9
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 61
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 53
-    },
-    {
-      "keyword": "classic outlook users",
-      "mentions": 1
+      "mentions": 60
     },
     {
       "keyword": "launch ransomware attacks",
+      "mentions": 2
+    },
+    {
+      "keyword": "ai speeds attacks",
       "mentions": 1
     },
     {
-      "keyword": "ai assisted campaign",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1117
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 62
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 54
+    },
+    {
+      "keyword": "identity theft evolves",
       "mentions": 1
+    },
+    {
+      "keyword": "help power critical",
+      "mentions": 23
+    },
+    {
+      "keyword": "yanluowang ransomware attacks",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
+      "link": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
+      "summary": "Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT), which deploys an information-stealing Google Chrome extension masquerading as an offline version of Google Docs. \"It logs keystrokes, dumps cookies and session tokens, captures screenshots, and",
+      "published": "Wed, 25 Mar 2026 19:56:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
@@ -140,15 +149,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner",
-      "link": "https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html",
-      "summary": "An ongoing phishing campaign is targeting French-speaking corporate environments with fake resumes that lead to the deployment of cryptocurrency miners and information stealers. \"The campaign uses highly obfuscated VBScript files disguised as resume/CV documents, delivered through phishing emails,\" Securonix researchers Shikha Sangwan, Akshay Gaikwad, and Aaron Beardslee said in a report shared",
-      "published": "Tue, 24 Mar 2026 22:05:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Paid AI Accounts Are Now a Hot Underground Commodity",
+      "link": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/",
+      "summary": "AI accounts are becoming part of the cybercrime supply chain, sold like email accounts or VPS access. Flare Systems shows how underground markets bundle and resell premium AI access at scale. [...]",
+      "published": "Wed, 25 Mar 2026 10:02:12 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -223,17 +230,6 @@
       "published": "Tue, 24 Mar 2026 13:23:01 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes bug causing Classic Outlook sync issues with Gmail",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/",
-      "summary": "​Microsoft has fixed a known issue causing Gmail and Yahoo email synchronization and connection problems for classic Outlook users. [...]",
-      "published": "Tue, 24 Mar 2026 11:12:13 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -318,10 +314,39 @@
     },
     {
       "source": "Dark Reading",
+      "title": "SANS: Top 5 Most Dangerous New Attack Techniques to Watch",
+      "link": "https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques",
+      "summary": "For the first time, SANS Institute's five top attack techniques all have one thing in common – AI.",
+      "published": "Wed, 25 Mar 2026 14:40:33 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Why a 'Near Miss' Database Is Key to Improving Information Sharing",
+      "link": "https://www.darkreading.com/cyber-risk/experts-near-miss-database-improve-information-sharing",
+      "summary": "Organizations disclose attack details, though information may be limited, following a breach, but what if they did the same with close calls?",
+      "published": "Wed, 25 Mar 2026 14:09:01 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI-Native Security Is a Must to Counter AI-Based Attacks",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-native-security-counter-attacks",
       "summary": "Attacks by artificial intelligence agents are a reality. Experts at Nvidia's GTC conference say defenders need to use the same tools to fight them off.",
       "published": "Wed, 25 Mar 2026 12:26:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Ex-NSA Directors Discuss 'Red Line' for Offensive Cyberattacks",
+      "link": "https://www.darkreading.com/cyber-risk/ex-nsa-directors-red-line-offensive-cyberattacks",
+      "summary": "Four former NSA chiefs representing a near-complete history of US Cyber Command debated and discussed the role of offensive cyber in the government.",
+      "published": "Wed, 25 Mar 2026 11:55:50 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -338,7 +363,7 @@
       "source": "Dark Reading",
       "title": "CSA Launches CSAI Foundation for AI Security",
       "link": "https://www.darkreading.com/cloud-security/csa-launches-csai-ai-security",
-      "summary": "Cloud Security Alliance creates dedicated nonprofit to govern autonomous AI agent ecosystems through risk intelligence and certification",
+      "summary": "The Cloud Security Alliance creates a dedicated nonprofit to govern autonomous AI agent ecosystems through risk intelligence and certification.",
       "published": "Tue, 24 Mar 2026 22:34:28 GMT",
       "value_score": 10,
       "value_signals": []
@@ -362,29 +387,29 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "GitHub 'OpenClaw Deployer' Repo Delivers Trojan Instead",
-      "link": "https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan",
-      "summary": "An AI-assisted campaign is spreading more than 300 poisoned packages for diverse assets ranging from developer tools to game cheats.",
-      "published": "Tue, 24 Mar 2026 14:59:40 GMT",
+      "source": "Security Week",
+      "title": "Russian Cybercriminal Gets 2-Year Prison Sentence in US",
+      "link": "https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/",
+      "summary": "Ilya Angelov was a member of the cybercrime group tracked as TA-551, Shathak, Gold Cabin, Monster Libra, and ATK236. The post Russian Cybercriminal Gets 2-Year Prison Sentence in US appeared first on SecurityWeek .",
+      "published": "Wed, 25 Mar 2026 14:30:32 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "How a Large Bank Uses AI Digital Twins for Threat Hunting",
-      "link": "https://www.darkreading.com/threat-intelligence/how-large-bank-uses-ai-digital-twins-threat-hunting",
-      "summary": "JPMorgan Chase uses digital fingerprints and digital twins to spot online attackers and malicious behaviors while also reducing pesky false alerts.",
-      "published": "Tue, 24 Mar 2026 13:16:21 GMT",
+      "source": "Security Week",
+      "title": "AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link",
+      "link": "https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/",
+      "summary": "PwC finds AI is amplifying speed and scale of attacks, as identity theft evolves into a cybercriminal supply chain. The post AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link appeared first on SecurityWeek .",
+      "published": "Wed, 25 Mar 2026 14:15:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Microsoft Proposes Better Identity, Guardrails for AI Agents",
-      "link": "https://www.darkreading.com/identity-access-management-security/microsoft-proposes-better-identity-guardrails-ai-agents",
-      "summary": "Companies need better controls to manage key threats rising from the growth of agentic AI. These new features provide a starting point.",
-      "published": "Tue, 24 Mar 2026 12:28:25 GMT",
+      "source": "Security Week",
+      "title": "iOS, macOS 26.4 Roll Out With Fresh Security Patches",
+      "link": "https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/",
+      "summary": "Apple released security fixes for older devices as well, in iOS 18.7.7, iPadOS 18.7.7, macOS Sequoia 15.7.5, and macOS Sonoma 14.8.5. The post iOS, macOS 26.4 Roll Out With Fresh Security Patches appeared first on SecurityWeek .",
+      "published": "Wed, 25 Mar 2026 13:29:17 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -436,35 +461,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "DoE Publishes 5-Year Energy Security Plan",
-      "link": "https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/",
-      "summary": "CESER’s Project Armor is a five year initiative to harden the US critical energy infrastructure, including strengthening energy systems ‘to prevent and recover from wildfires and other hazards’. The post DoE Publishes 5-Year Energy Security Plan appeared first on SecurityWeek .",
-      "published": "Tue, 24 Mar 2026 19:42:07 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw",
-      "link": "https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/",
-      "summary": "Agentic AI platforms are shifting from passive recommendation tools to autonomous action-takers with real system access, The post Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw appeared first on SecurityWeek .",
-      "published": "Tue, 24 Mar 2026 18:27:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector",
-      "link": "https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/",
-      "summary": "The attacks included a destructive infiltration of Poland's energy system in December and was suspected of originating in Russia. The post Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector appeared first on SecurityWeek .",
-      "published": "Tue, 24 Mar 2026 17:51:42 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

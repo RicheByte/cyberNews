@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-24 22:25 UTC |
+| 🕐 Last Updated | 2026-03-25 01:49 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`zero trust bridging` • `help power critical` • `things iot devices` • `former u s` • `twitter whistleblower complaint` • `tax related documents` • `service ddos doxing` • `open redirect attack` • `iran's intelligence agencies` • `credentials cybersecurity researchers`
+`zero trust bridging` • `supply chain rampage` • `credentials cybersecurity researchers` • `help power critical` • `former u s` • `twitter whistleblower complaint` • `tax related documents` • `steal enterprise credentials` • `service ddos doxing` • `sentences russian hacker`
 
 ## 📄 Reports
 

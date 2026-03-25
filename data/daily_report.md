@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-24 22:25 UTC  
+> **Last Updated:** 2026-03-25 01:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**zero trust bridging** • **help power critical** • **things iot devices** • **former u s** • **twitter whistleblower complaint** • **tax related documents** • **service ddos doxing** • **open redirect attack** • **iran's intelligence agencies** • **credentials cybersecurity researchers** • **1 82 8** • **threat actor known** • **tool named hwaudkiller** • **real system access** • **poland's energy system** • **agents autonomous programs** • **yanluowang ransomware crew** • **9m ransomware damage** • **extortion group claims** • **yahoo email synchronization**
+**zero trust bridging** • **supply chain rampage** • **credentials cybersecurity researchers** • **help power critical** • **former u s** • **twitter whistleblower complaint** • **tax related documents** • **steal enterprise credentials** • **service ddos doxing** • **sentences russian hacker** • **iran's intelligence agencies** • **1 82 8** • **tool named hwaudkiller** • **poland's energy system** • **windows operating systems** • **threat actor known** • **steal crypto wallets** • **extortion group claims** • **exploit valid credentials** • **yanluowang ransomware crew**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
+- [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/)
 - [FCC bans new routers made outside the USA over security risks](https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/)
 - [Firefox now has a free built-in VPN with 50GB monthly data limit](https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/)
 - [Microsoft fixes bug causing Classic Outlook sync issues with Gmail](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/)
 - [Zero Trust: Bridging the Gap Between Authentication and Trust](https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/)
 - [HackerOne discloses employee data breach after Navia hack](https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/)
 - [Infinite Campus warns of breach after ShinyHunters claims data theft](https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/)
-- [Yanluowang ransomware access broker gets 81 months in prison](https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/)
-- [Dutch Ministry of Finance discloses breach affecting employees](https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/)
 
 ### Krebs on Security
 

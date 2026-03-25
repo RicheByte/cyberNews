@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-24 22:25",
+  "last_updated": "2026-03-25 01:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "zero trust bridging",
+    "supply chain rampage",
+    "credentials cybersecurity researchers",
     "help power critical",
-    "things iot devices",
     "former u s",
     "twitter whistleblower complaint",
     "tax related documents",
+    "steal enterprise credentials",
     "service ddos doxing",
-    "open redirect attack",
+    "sentences russian hacker",
     "iran's intelligence agencies",
-    "credentials cybersecurity researchers",
     "1 82 8",
-    "threat actor known",
     "tool named hwaudkiller",
-    "real system access",
     "poland's energy system",
-    "agents autonomous programs",
-    "yanluowang ransomware crew",
-    "9m ransomware damage",
+    "windows operating systems",
+    "threat actor known",
+    "steal crypto wallets",
     "extortion group claims",
-    "yahoo email synchronization"
+    "exploit valid credentials",
+    "yanluowang ransomware crew"
   ],
   "trending": [
     {
       "keyword": "zero trust bridging",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "help power critical",
-      "mentions": 16
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 79
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 47
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1110
-    },
-    {
-      "keyword": "tax related documents",
-      "mentions": 3
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 55
-    },
-    {
-      "keyword": "open redirect attack",
-      "mentions": 12
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 40
+      "keyword": "supply chain rampage",
+      "mentions": 1
     },
     {
       "keyword": "credentials cybersecurity researchers",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "help power critical",
+      "mentions": 17
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 48
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1111
+    },
+    {
+      "keyword": "tax related documents",
+      "mentions": 4
+    },
+    {
+      "keyword": "steal enterprise credentials",
+      "mentions": 1
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 56
+    },
+    {
+      "keyword": "sentences russian hacker",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -147,6 +147,27 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
+      "link": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
+      "summary": "PTC Inc. is warning of a critical vulnerability in Windchill and FlexPLM, widely used product lifecycle management (PLM) solutions, that could allow remote code execution. [...]",
+      "published": "Tue, 24 Mar 2026 19:04:36 -0400",
+      "value_score": 66,
+      "value_signals": [
+        "RCE ×2",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
+      "summary": "The TeamPCP hacking group continues its supply-chain rampage, now compromising the massively popular \"LiteLLM\" Python package on PyPI and claiming to have stolen data from hundreds of thousands of devices during the attack. [...]",
+      "published": "Tue, 24 Mar 2026 18:29:01 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FCC bans new routers made outside the USA over security risks",
       "link": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
       "summary": "The Federal Communications Commission has updated its Covered List to include all consumer routers made in foreign countries, banning the sale of new models in the U.S. [...]",
@@ -203,28 +224,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Yanluowang ransomware access broker gets 81 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/",
-      "summary": "A Russian national was sentenced to nearly 7 years in prison after pleading guilty to acting as an initial access broker (IAB) for Yanluowang ransomware attacks. [...]",
-      "published": "Tue, 24 Mar 2026 09:06:03 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dutch Ministry of Finance discloses breach affecting employees",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/",
-      "summary": "The Dutch Ministry of Finance confirmed on Monday that some of its systems were breached in a cyberattack detected last week. [...]",
-      "published": "Tue, 24 Mar 2026 08:03:08 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

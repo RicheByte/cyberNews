@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-25 08:43 UTC  
+> **Last Updated:** 2026-03-25 10:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**zero trust bridging** • **iran war unleashing** • **credentials cybersecurity researchers** • **help power critical** • **steal enterprise credentials** • **twitter whistleblower complaint** • **tax related documents** • **service ddos doxing** • **iran's intelligence agencies** • **former u s** • **tool named hwaudkiller** • **poland's energy system** • **open redirect attack** • **threat actor known** • **steal crypto wallets** • **extortion group claims** • **agents autonomous programs** • **yahoo email synchronization** • **windows operating systems** • **victim's username password**
+**zero trust bridging** • **iran war unleashing** • **credentials cybersecurity researchers** • **threat actor known** • **steal enterprise credentials** • **twitter whistleblower complaint** • **tax related documents** • **service ddos doxing** • **iran's intelligence agencies** • **former u s** • **extortion group claims** • **tool named hwaudkiller** • **poland's energy system** • **open redirect attack** • **steal crypto wallets** • **help power critical** • **agents autonomous programs** • **yahoo email synchronization** • **windows operating systems** • **victim's username password**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Manager of botnet used in ransomware attacks gets 2 years in prison](https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/)
 - [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
 - [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/)
 - [FCC bans new routers made outside the USA over security risks](https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/)
@@ -34,7 +35,6 @@
 - [Microsoft fixes bug causing Classic Outlook sync issues with Gmail](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/)
 - [Zero Trust: Bridging the Gap Between Authentication and Trust](https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/)
 - [HackerOne discloses employee data breach after Navia hack](https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/)
-- [Infinite Campus warns of breach after ShinyHunters claims data theft](https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [US Prisons Russian Access Broker for Aiding Ransomware Attacks](https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/)
 - [HackerOne Employee Data Exposed in Massive Navia Breach](https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/)
 - [DoE Publishes 5-Year Energy Security Plan](https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/)
 - [Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw](https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/)
@@ -67,7 +68,6 @@
 - [RSAC 2026 Conference Announcements Summary (Day 1)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/)
 - [Extortion Group Claims It Hacked AstraZeneca](https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/)
 - [Chrome 146 Update Patches High-Severity Vulnerabilities](https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/)
-- [Webinar Today: Putting CIS Controls and Benchmarks into Practice](https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/)
 
 ### Threatpost
 

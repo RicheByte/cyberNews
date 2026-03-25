@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-03-25 08:43",
+  "last_updated": "2026-03-25 10:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "zero trust bridging",
     "iran war unleashing",
     "credentials cybersecurity researchers",
-    "help power critical",
+    "threat actor known",
     "steal enterprise credentials",
     "twitter whistleblower complaint",
     "tax related documents",
     "service ddos doxing",
     "iran's intelligence agencies",
     "former u s",
+    "extortion group claims",
     "tool named hwaudkiller",
     "poland's energy system",
     "open redirect attack",
-    "threat actor known",
     "steal crypto wallets",
-    "extortion group claims",
+    "help power critical",
     "agents autonomous programs",
     "yahoo email synchronization",
     "windows operating systems",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "zero trust bridging",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "credentials cybersecurity researchers",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "help power critical",
+      "keyword": "threat actor known",
       "mentions": 20
     },
     {
       "keyword": "steal enterprise credentials",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1114
+      "mentions": 1115
     },
     {
       "keyword": "tax related documents",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 59
+      "mentions": 60
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "former u s",
-      "mentions": 51
+      "mentions": 52
     }
   ],
   "articles": [
@@ -145,6 +145,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Manager of botnet used in ransomware attacks gets 2 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/",
+      "summary": "A Russian national has been sentenced to two years in prison after admitting that the phishing botnet he managed was used to launch BitPaymer ransomware attacks against 72 U.S. companies. [...]",
+      "published": "Wed, 25 Mar 2026 04:47:29 -0400",
+      "value_score": 74,
+      "value_signals": [
+        "Ransomware ×2",
+        "Botnet ×2",
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
       "link": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
       "summary": "PTC Inc. is warning of a critical vulnerability in Windchill and FlexPLM, widely used product lifecycle management (PLM) solutions, that could allow remote code execution. [...]",
@@ -211,17 +224,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Infinite Campus warns of breach after ShinyHunters claims data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/",
-      "summary": "Infinite Campus, a widely used K-12 student information system, is warning customers of a data breach following an extortion attempt by a threat actor. [...]",
-      "published": "Tue, 24 Mar 2026 09:48:38 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -379,6 +381,17 @@
     },
     {
       "source": "Security Week",
+      "title": "US Prisons Russian Access Broker for Aiding Ransomware Attacks",
+      "link": "https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/",
+      "summary": "Aleksei Volkov has been sentenced to 81 months in prison for his role in Yanluowang ransomware attacks. The post US Prisons Russian Access Broker for Aiding Ransomware Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 25 Mar 2026 09:27:33 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "HackerOne Employee Data Exposed in Massive Navia Breach",
       "link": "https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/",
       "summary": "The cybersecurity firm said the personal information of hundreds of employees was stolen in the hacker attack targeting Navia. The post HackerOne Employee Data Exposed in Massive Navia Breach appeared first on SecurityWeek .",
@@ -444,17 +457,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Webinar Today: Putting CIS Controls and Benchmarks into Practice",
-      "link": "https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/",
-      "summary": "Learn how the CIS Critical Security Controls and the CIS Benchmarks can be used together to support secure configuration at scale. The post Webinar Today: Putting CIS Controls and Benchmarks into Practice appeared first on SecurityWeek .",
-      "published": "Tue, 24 Mar 2026 12:30:00 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
       ]
     },
     {

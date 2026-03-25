@@ -167,7 +167,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 568,
+      "count": 569,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -248,7 +248,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1112,
+      "count": 1113,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -445,7 +445,7 @@
       ]
     },
     "threat actor known": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -9121,7 +9121,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9131,7 +9131,8 @@
         "2026-03-18",
         "2026-03-19",
         "2026-03-20",
-        "2026-03-24"
+        "2026-03-24",
+        "2026-03-25"
       ]
     },
     "threat actor hides": {
@@ -10289,7 +10290,7 @@
       ]
     },
     "help power critical": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-19",
         "2026-03-20",
@@ -10340,7 +10341,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10408,7 +10409,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10437,7 +10438,7 @@
       ]
     },
     "former u s": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10683,7 +10684,7 @@
       ]
     },
     "sentences russian hacker": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-24",
         "2026-03-25"
@@ -10696,7 +10697,7 @@
       ]
     },
     "credentials cybersecurity researchers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-24",
         "2026-03-25"
@@ -10728,7 +10729,7 @@
       ]
     },
     "steal crypto wallets": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-24",
         "2026-03-25"
@@ -10741,7 +10742,7 @@
       ]
     },
     "extortion group claims": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-24",
         "2026-03-25"
@@ -10766,7 +10767,7 @@
       ]
     },
     "zero trust bridging": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-24",
         "2026-03-25"
@@ -10779,7 +10780,7 @@
       ]
     },
     "tax related documents": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-24",
         "2026-03-25"
@@ -10792,21 +10793,21 @@
       ]
     },
     "poland's energy system": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-24",
         "2026-03-25"
       ]
     },
     "tool named hwaudkiller": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-24",
         "2026-03-25"
       ]
     },
     "1 82 8": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-24",
         "2026-03-25"
@@ -10819,13 +10820,13 @@
       ]
     },
     "supply chain rampage": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-25"
       ]
     },
     "steal enterprise credentials": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-25"
       ]
@@ -10835,20 +10836,15 @@
       "dates": [
         "2026-03-25"
       ]
+    },
+    "iran war unleashing": {
+      "count": 1,
+      "dates": [
+        "2026-03-25"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-16 04:42",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "appsflyer web sdk",
-        "bold security emerges",
-        "enhance cybersecurity awareness",
-        "will see instructions"
-      ]
-    },
     {
       "timestamp": "2026-03-16 07:10",
       "articles": 56,
@@ -11936,6 +11932,17 @@
         "credentials cybersecurity researchers",
         "help power critical",
         "former u s"
+      ]
+    },
+    {
+      "timestamp": "2026-03-25 06:56",
+      "articles": 56,
+      "top_keywords": [
+        "zero trust bridging",
+        "iran war unleashing",
+        "supply chain rampage",
+        "credentials cybersecurity researchers",
+        "help power critical"
       ]
     }
   ]

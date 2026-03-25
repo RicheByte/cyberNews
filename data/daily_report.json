@@ -1,16 +1,17 @@
 {
-  "last_updated": "2026-03-25 04:16",
+  "last_updated": "2026-03-25 06:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "zero trust bridging",
+    "iran war unleashing",
     "supply chain rampage",
     "credentials cybersecurity researchers",
     "help power critical",
     "former u s",
+    "steal enterprise credentials",
     "twitter whistleblower complaint",
     "tax related documents",
-    "steal enterprise credentials",
     "service ddos doxing",
     "sentences russian hacker",
     "iran's intelligence agencies",
@@ -21,55 +22,54 @@
     "threat actor known",
     "steal crypto wallets",
     "extortion group claims",
-    "exploit valid credentials",
-    "yanluowang ransomware crew"
+    "agents autonomous programs"
   ],
   "trending": [
     {
       "keyword": "zero trust bridging",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "iran war unleashing",
+      "mentions": 1
     },
     {
       "keyword": "supply chain rampage",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "credentials cybersecurity researchers",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "help power critical",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "former u s",
-      "mentions": 49
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1112
-    },
-    {
-      "keyword": "tax related documents",
-      "mentions": 5
+      "mentions": 50
     },
     {
       "keyword": "steal enterprise credentials",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1113
+    },
+    {
+      "keyword": "tax related documents",
+      "mentions": 6
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 57
-    },
-    {
-      "keyword": "sentences russian hacker",
-      "mentions": 5
+      "mentions": 58
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 Likely via Trivy CI/CD Compromise",
+      "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise",
       "link": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
       "summary": "TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential harvester, a Kubernetes lateral movement toolkit, and a persistent backdoor. Multiple security vendors, including Endor Labs and JFrog, revealed that litellm versions 1.82.7 and 1.82.8 were published on",
       "published": "Tue, 24 Mar 2026 23:51:00 +0530",
@@ -309,6 +309,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Iran Hacktivists Make Noise but Have Little Impact on War",
+      "link": "https://www.darkreading.com/threat-intelligence/iran-hacktivists-impact-on-war",
+      "summary": "Iran-aligned groups are trying to make their mark in the Gulf, but the results have fallen short of remarkable.",
+      "published": "Wed, 25 Mar 2026 05:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Checkmarx KICS Code Scanner Targeted in Widening Supply Chain Hit",
       "link": "https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain",
       "summary": "TeamPCP is the likely cyber threat actor behind attacks on Trivy, Checkmarx's KICS and VS Code plug-ins, and the LiteLLM AI library — and all signs point to more attacks to come.",
@@ -369,18 +378,6 @@
       "published": "Mon, 23 Mar 2026 21:43:59 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Ransomware's New Era: Moving at AI Speed",
-      "link": "https://www.darkreading.com/endpoint-security/ransomware-new-era-moving-ai-speed",
-      "summary": "Threat actors bypass security tools and use AI to launch faster ransomware attacks that exploit valid credentials and target data.",
-      "published": "Mon, 23 Mar 2026 21:40:37 GMT",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

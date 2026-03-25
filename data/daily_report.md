@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-25 04:16 UTC  
+> **Last Updated:** 2026-03-25 06:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**zero trust bridging** • **supply chain rampage** • **credentials cybersecurity researchers** • **help power critical** • **former u s** • **twitter whistleblower complaint** • **tax related documents** • **steal enterprise credentials** • **service ddos doxing** • **sentences russian hacker** • **iran's intelligence agencies** • **1 82 8** • **tool named hwaudkiller** • **poland's energy system** • **windows operating systems** • **threat actor known** • **steal crypto wallets** • **extortion group claims** • **exploit valid credentials** • **yanluowang ransomware crew**
+**zero trust bridging** • **iran war unleashing** • **supply chain rampage** • **credentials cybersecurity researchers** • **help power critical** • **former u s** • **steal enterprise credentials** • **twitter whistleblower complaint** • **tax related documents** • **service ddos doxing** • **sentences russian hacker** • **iran's intelligence agencies** • **1 82 8** • **tool named hwaudkiller** • **poland's energy system** • **windows operating systems** • **threat actor known** • **steal crypto wallets** • **extortion group claims** • **agents autonomous programs**
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### The Hacker News
 
-- [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 Likely via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
+- [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
 - [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
 - [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
 - [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Iran Hacktivists Make Noise but Have Little Impact on War](https://www.darkreading.com/threat-intelligence/iran-hacktivists-impact-on-war)
 - [Checkmarx KICS Code Scanner Targeted in Widening Supply Chain Hit](https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain)
 - [How AI Coding Tools Crushed the Endpoint Security Fortress](https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security)
 - [GitHub 'OpenClaw Deployer' Repo Delivers Trojan Instead](https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan)
@@ -56,7 +57,6 @@
 - [Microsoft Proposes Better Identity, Guardrails for AI Agents](https://www.darkreading.com/identity-access-management-security/microsoft-proposes-better-identity-guardrails-ai-agents)
 - [AI in the SOC: What Could Go Wrong?](https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong)
 - [Trivy Supply Chain Attack Targets CI/CD Secrets](https://www.darkreading.com/application-security/trivy-supply-chain-attack-targets-ci-cd-secrets)
-- [Ransomware's New Era: Moving at AI Speed](https://www.darkreading.com/endpoint-security/ransomware-new-era-moving-ai-speed)
 
 ### Security Week
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-25 18:50 UTC  
+> **Last Updated:** 2026-03-25 20:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran war unleashing** • **remote code execution** • **agents autonomous programs** • **citrixbleed2 flaws exploited** • **launch ransomware attacks** • **underlying communications networks** • **twitter whistleblower complaint** • **service ddos doxing** • **iran's intelligence agencies** • **former u s** • **ai speeds attacks** • **patch netscaler flaws** • **identity theft evolves** • **yanluowang ransomware attacks** • **patched several vulnerabilities** • **least 77 vulnerabilities** • **control core services** • **white house determination** • **victim's username password** • **underground markets bundle**
+**iran war unleashing** • **remote code execution** • **agents autonomous programs** • **citrixbleed2 flaws exploited** • **launch ransomware attacks** • **underlying communications networks** • **twitter whistleblower complaint** • **things iot devices** • **service ddos doxing** • **iran's intelligence agencies** • **former u s** • **ai speeds attacks** • **patch netscaler flaws** • **paid ai accounts** • **individual user accounts** • **identity theft evolves** • **yanluowang ransomware attacks** • **patched several vulnerabilities** • **least 77 vulnerabilities** • **control core services**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Bubble AI app builder abused to steal Microsoft account credentials](https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/)
 - [New Torg Grabber infostealer malware targets 728 crypto wallets](https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/)
 - [Citrix urges admins to patch NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/)
 - [Paid AI Accounts Are Now a Hot Underground Commodity](https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/)
@@ -34,7 +35,6 @@
 - [TP-Link warns users to patch critical router auth bypass flaw](https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/)
 - [Manager of botnet used in ransomware attacks gets 2 years in prison](https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/)
 - [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
-- [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/)
 
 ### Krebs on Security
 

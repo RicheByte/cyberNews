@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-25 14:54",
+  "last_updated": "2026-03-25 16:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran war unleashing",
     "agents autonomous programs",
     "launch ransomware attacks",
-    "ai speeds attacks",
+    "underlying communications networks",
     "twitter whistleblower complaint",
     "service ddos doxing",
+    "iran's intelligence agencies",
     "former u s",
+    "ai speeds attacks",
+    "patch netscaler flaws",
     "identity theft evolves",
+    "citrixbleed2 flaws exploited",
     "help power critical",
     "yanluowang ransomware attacks",
-    "iran's intelligence agencies",
-    "litellm ai library",
-    "ai coding agent",
-    "comprehensive data theft",
     "windows operating systems",
     "white house determination",
     "victim's username password",
-    "underlying communications networks",
     "tool named hwaudkiller",
-    "things iot devices"
+    "things iot devices",
+    "tax related documents"
   ],
   "trending": [
     {
       "keyword": "iran war unleashing",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "agents autonomous programs",
-      "mentions": 60
+      "mentions": 61
     },
     {
       "keyword": "launch ransomware attacks",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "ai speeds attacks",
-      "mentions": 1
+      "keyword": "underlying communications networks",
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1117
+      "mentions": 1118
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 62
+      "mentions": 63
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 48
     },
     {
       "keyword": "former u s",
-      "mentions": 54
+      "mentions": 55
     },
     {
-      "keyword": "identity theft evolves",
+      "keyword": "ai speeds attacks",
+      "mentions": 2
+    },
+    {
+      "keyword": "patch netscaler flaws",
       "mentions": 1
-    },
-    {
-      "keyword": "help power critical",
-      "mentions": 23
-    },
-    {
-      "keyword": "yanluowang ransomware attacks",
-      "mentions": 5
     }
   ],
   "articles": [
@@ -150,6 +150,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
+      "summary": "Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years. [...]",
+      "published": "Wed, 25 Mar 2026 11:52:10 -0400",
+      "value_score": 49,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Paid AI Accounts Are Now a Hot Underground Commodity",
       "link": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/",
       "summary": "AI accounts are becoming part of the cybercrime supply chain, sold like email accounts or VPS access. Flare Systems shows how underground markets bundle and resell premium AI access at scale. [...]",
@@ -219,15 +232,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
       "summary": "The Federal Communications Commission has updated its Covered List to include all consumer routers made in foreign countries, banning the sale of new models in the U.S. [...]",
       "published": "Tue, 24 Mar 2026 16:41:30 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
-      "link": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/",
-      "summary": "Mozilla released Firefox 149 with added privacy protection through a built-in VPN tool offering up to 50GB of monthly traffic. [...]",
-      "published": "Tue, 24 Mar 2026 13:23:01 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -314,6 +318,33 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Blame Game: Why Public Cyber Attribution Carries Risks",
+      "link": "https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks",
+      "summary": "Publicly accusing an entity of a cyberattack could have negative consequences that organizations should consider before taking the plunge.",
+      "published": "Wed, 25 Mar 2026 16:03:29 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Phishers Pose as Palo Alto Networks' Recruiters for Months in Job Scam",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam",
+      "summary": "A series of campaigns that began in August aim to defraud job candidates, using psychological tactics and data scraped from LinkedIn profiles.",
+      "published": "Wed, 25 Mar 2026 15:05:52 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI Dominates RSAC Innovation Sandbox",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox",
+      "summary": "Ten finalists will each have three minutes to make their case for being the most innovative, promising young security company of the year. Geordie AI wins the 2026 contest.",
+      "published": "Wed, 25 Mar 2026 15:03:45 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "SANS: Top 5 Most Dangerous New Attack Techniques to Watch",
       "link": "https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques",
       "summary": "For the first time, SANS Institute's five top attack techniques all have one thing in common – AI.",
@@ -360,29 +391,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "CSA Launches CSAI Foundation for AI Security",
-      "link": "https://www.darkreading.com/cloud-security/csa-launches-csai-ai-security",
-      "summary": "The Cloud Security Alliance creates a dedicated nonprofit to govern autonomous AI agent ecosystems through risk intelligence and certification.",
-      "published": "Tue, 24 Mar 2026 22:34:28 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Checkmarx KICS Code Scanner Targeted in Widening Supply Chain Hit",
-      "link": "https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain",
-      "summary": "TeamPCP is the likely cyber threat actor behind attacks on Trivy, Checkmarx's KICS and VS Code plug-ins, and the LiteLLM AI library — and all signs point to more attacks to come.",
-      "published": "Tue, 24 Mar 2026 21:28:16 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "How AI Coding Tools Crushed the Endpoint Security Fortress",
-      "link": "https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security",
-      "summary": "Security vendors have spent years building up defenses around the endpoint, but one researcher says AI coding tools have brought the walls down.",
-      "published": "Tue, 24 Mar 2026 21:25:00 GMT",
+      "source": "Security Week",
+      "title": "Onit Security Raises $11 Million for Exposure Management Platform",
+      "link": "https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/",
+      "summary": "The startup will invest in product development and go-to-market efforts as it expands into new sectors. The post Onit Security Raises $11 Million for Exposure Management Platform appeared first on SecurityWeek .",
+      "published": "Wed, 25 Mar 2026 15:58:16 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -449,17 +462,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "HackerOne Employee Data Exposed in Massive Navia Breach",
-      "link": "https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/",
-      "summary": "The cybersecurity firm said the personal information of hundreds of employees was stolen in the hacker attack targeting Navia. The post HackerOne Employee Data Exposed in Massive Navia Breach appeared first on SecurityWeek .",
-      "published": "Wed, 25 Mar 2026 07:57:00 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

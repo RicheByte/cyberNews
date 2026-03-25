@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-25 14:54 UTC  
+> **Last Updated:** 2026-03-25 16:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran war unleashing** • **agents autonomous programs** • **launch ransomware attacks** • **ai speeds attacks** • **twitter whistleblower complaint** • **service ddos doxing** • **former u s** • **identity theft evolves** • **help power critical** • **yanluowang ransomware attacks** • **iran's intelligence agencies** • **litellm ai library** • **ai coding agent** • **comprehensive data theft** • **windows operating systems** • **white house determination** • **victim's username password** • **underlying communications networks** • **tool named hwaudkiller** • **things iot devices**
+**iran war unleashing** • **agents autonomous programs** • **launch ransomware attacks** • **underlying communications networks** • **twitter whistleblower complaint** • **service ddos doxing** • **iran's intelligence agencies** • **former u s** • **ai speeds attacks** • **patch netscaler flaws** • **identity theft evolves** • **citrixbleed2 flaws exploited** • **help power critical** • **yanluowang ransomware attacks** • **windows operating systems** • **white house determination** • **victim's username password** • **tool named hwaudkiller** • **things iot devices** • **tax related documents**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Citrix urges admins to patch NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/)
 - [Paid AI Accounts Are Now a Hot Underground Commodity](https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/)
 - [Kali Linux 2026.1 released with 8 new tools, new BackTrack mode](https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/)
 - [TP-Link warns users to patch critical router auth bypass flaw](https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/)
@@ -34,7 +35,6 @@
 - [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
 - [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/)
 - [FCC bans new routers made outside the USA over security risks](https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/)
-- [Firefox now has a free built-in VPN with 50GB monthly data limit](https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [Blame Game: Why Public Cyber Attribution Carries Risks](https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks)
+- [Phishers Pose as Palo Alto Networks' Recruiters for Months in Job Scam](https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam)
+- [AI Dominates RSAC Innovation Sandbox](https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox)
 - [SANS: Top 5 Most Dangerous New Attack Techniques to Watch](https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques)
 - [Why a 'Near Miss' Database Is Key to Improving Information Sharing](https://www.darkreading.com/cyber-risk/experts-near-miss-database-improve-information-sharing)
 - [AI-Native Security Is a Must to Counter AI-Based Attacks](https://www.darkreading.com/cybersecurity-operations/ai-native-security-counter-attacks)
 - [Ex-NSA Directors Discuss 'Red Line' for Offensive Cyberattacks](https://www.darkreading.com/cyber-risk/ex-nsa-directors-red-line-offensive-cyberattacks)
 - [Iran Hacktivists Make Noise but Have Little Impact on War](https://www.darkreading.com/threat-intelligence/iran-hacktivists-impact-on-war)
-- [CSA Launches CSAI Foundation for AI Security](https://www.darkreading.com/cloud-security/csa-launches-csai-ai-security)
-- [Checkmarx KICS Code Scanner Targeted in Widening Supply Chain Hit](https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain)
-- [How AI Coding Tools Crushed the Endpoint Security Fortress](https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security)
 
 ### Security Week
 
+- [Onit Security Raises $11 Million for Exposure Management Platform](https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/)
 - [Russian Cybercriminal Gets 2-Year Prison Sentence in US](https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/)
 - [AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link](https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/)
 - [iOS, macOS 26.4 Roll Out With Fresh Security Patches](https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/)
@@ -67,7 +68,6 @@
 - [RSAC 2026 Conference Announcements Summary (Day 2)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/)
 - [From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI](https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/)
 - [US Prisons Russian Access Broker for Aiding Ransomware Attacks](https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/)
-- [HackerOne Employee Data Exposed in Massive Navia Breach](https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/)
 
 ### Threatpost
 

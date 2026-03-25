@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-25 10:42 UTC |
+| 🕐 Last Updated | 2026-03-25 12:58 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`zero trust bridging` • `iran war unleashing` • `credentials cybersecurity researchers` • `threat actor known` • `steal enterprise credentials` • `twitter whistleblower complaint` • `tax related documents` • `service ddos doxing` • `iran's intelligence agencies` • `former u s`
+`iran war unleashing` • `steal enterprise credentials` • `agents autonomous programs` • `twitter whistleblower complaint` • `tax related documents` • `service ddos doxing` • `former u s` • `classic outlook users` • `launch ransomware attacks` • `ai assisted campaign`
 
 ## 📄 Reports
 

@@ -167,7 +167,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 571,
+      "count": 572,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -248,7 +248,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1115,
+      "count": 1116,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1555,7 +1555,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 223,
+      "count": 224,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1594,7 +1594,8 @@
         "2026-03-18",
         "2026-03-20",
         "2026-03-23",
-        "2026-03-24"
+        "2026-03-24",
+        "2026-03-25"
       ]
     },
     "model agnostic abstractions": {
@@ -7801,7 +7802,7 @@
       ]
     },
     "victim's username password": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9122,7 +9123,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -10291,7 +10292,7 @@
       ]
     },
     "help power critical": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-19",
         "2026-03-20",
@@ -10342,7 +10343,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10410,7 +10411,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10439,7 +10440,7 @@
       ]
     },
     "former u s": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10782,7 +10783,7 @@
       ]
     },
     "tax related documents": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-24",
         "2026-03-25"
@@ -10795,7 +10796,7 @@
       ]
     },
     "poland's energy system": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-24",
         "2026-03-25"
@@ -10816,7 +10817,7 @@
       ]
     },
     "yahoo email synchronization": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-24",
         "2026-03-25"
@@ -10829,7 +10830,7 @@
       ]
     },
     "steal enterprise credentials": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-25"
       ]
@@ -10841,24 +10842,49 @@
       ]
     },
     "iran war unleashing": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2026-03-25"
+      ]
+    },
+    "classic outlook users": {
+      "count": 1,
+      "dates": [
+        "2026-03-25"
+      ]
+    },
+    "launch ransomware attacks": {
+      "count": 1,
+      "dates": [
+        "2026-03-25"
+      ]
+    },
+    "ai assisted campaign": {
+      "count": 1,
+      "dates": [
+        "2026-03-25"
+      ]
+    },
+    "ongoing phishing campaign": {
+      "count": 1,
+      "dates": [
+        "2026-03-25"
+      ]
+    },
+    "white house determination": {
+      "count": 1,
+      "dates": [
+        "2026-03-25"
+      ]
+    },
+    "underlying communications networks": {
+      "count": 1,
       "dates": [
         "2026-03-25"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-16 10:49",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "hacking attempt reported",
-        "appsflyer web sdk",
-        "bold security emerges",
-        "will see instructions"
-      ]
-    },
     {
       "timestamp": "2026-03-16 12:59",
       "articles": 56,
@@ -11946,6 +11972,17 @@
         "credentials cybersecurity researchers",
         "threat actor known",
         "steal enterprise credentials"
+      ]
+    },
+    {
+      "timestamp": "2026-03-25 12:58",
+      "articles": 56,
+      "top_keywords": [
+        "iran war unleashing",
+        "steal enterprise credentials",
+        "agents autonomous programs",
+        "twitter whistleblower complaint",
+        "tax related documents"
       ]
     }
   ]

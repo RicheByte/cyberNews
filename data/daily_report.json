@@ -1,77 +1,86 @@
 {
-  "last_updated": "2026-03-25 06:56",
+  "last_updated": "2026-03-25 08:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "zero trust bridging",
     "iran war unleashing",
-    "supply chain rampage",
     "credentials cybersecurity researchers",
     "help power critical",
-    "former u s",
     "steal enterprise credentials",
     "twitter whistleblower complaint",
     "tax related documents",
     "service ddos doxing",
-    "sentences russian hacker",
     "iran's intelligence agencies",
-    "1 82 8",
+    "former u s",
     "tool named hwaudkiller",
     "poland's energy system",
-    "windows operating systems",
+    "open redirect attack",
     "threat actor known",
     "steal crypto wallets",
     "extortion group claims",
-    "agents autonomous programs"
+    "agents autonomous programs",
+    "yahoo email synchronization",
+    "windows operating systems",
+    "victim's username password"
   ],
   "trending": [
     {
       "keyword": "zero trust bridging",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 1
-    },
-    {
-      "keyword": "supply chain rampage",
-      "mentions": 3
+      "mentions": 2
     },
     {
       "keyword": "credentials cybersecurity researchers",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "help power critical",
-      "mentions": 19
-    },
-    {
-      "keyword": "former u s",
-      "mentions": 50
+      "mentions": 20
     },
     {
       "keyword": "steal enterprise credentials",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1113
+      "mentions": 1114
     },
     {
       "keyword": "tax related documents",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 58
+      "mentions": 59
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 44
+    },
+    {
+      "keyword": "former u s",
+      "mentions": 51
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
+      "link": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
+      "summary": "The U.S. Federal Communications Commission (FCC) said on Monday that it was banning the import of new, foreign-made consumer routers, citing \"unacceptable\" risks to cyber and national security. The action was designed to safeguard Americans and the underlying communications networks the country relies on, FCC Chairman Brendan Carr said in a post on X. The development means that new models of",
+      "published": "Wed, 25 Mar 2026 12:41:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
       "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise",
       "link": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
-      "summary": "TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential harvester, a Kubernetes lateral movement toolkit, and a persistent backdoor. Multiple security vendors, including Endor Labs and JFrog, revealed that litellm versions 1.82.7 and 1.82.8 were published on",
+      "summary": "TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential harvester, a Kubernetes lateral movement toolkit, and a persistent backdoor. Multiple security vendors, including Endor Labs and JFrog, revealed that litellm versions 1.82.7 and 1.82.8 were published on March",
       "published": "Tue, 24 Mar 2026 23:51:00 +0530",
       "value_score": 22,
       "value_signals": [
@@ -133,17 +142,6 @@
       "published": "Tue, 24 Mar 2026 16:08:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
-      "link": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
-      "summary": "A 26-year-old Russian citizen has been sentenced in the U.S. to 6.75 years (81 months) in prison for his role in assisting major cybercrime groups, including the Yanluowang ransomware crew, in conducting numerous attacks against U.S. companies and other organizations. According to the U.S. Department of Justice (DoJ), Aleksei Olegovich Volkov facilitated dozens of ransomware attacks across the",
-      "published": "Tue, 24 Mar 2026 12:19:00 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -381,6 +379,17 @@
     },
     {
       "source": "Security Week",
+      "title": "HackerOne Employee Data Exposed in Massive Navia Breach",
+      "link": "https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/",
+      "summary": "The cybersecurity firm said the personal information of hundreds of employees was stolen in the hacker attack targeting Navia. The post HackerOne Employee Data Exposed in Massive Navia Breach appeared first on SecurityWeek .",
+      "published": "Wed, 25 Mar 2026 07:57:00 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "DoE Publishes 5-Year Energy Security Plan",
       "link": "https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/",
       "summary": "CESER’s Project Armor is a five year initiative to harden the US critical energy infrastructure, including strengthening energy systems ‘to prevent and recover from wildfires and other hazards’. The post DoE Publishes 5-Year Energy Security Plan appeared first on SecurityWeek .",
@@ -446,17 +455,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "3.1 Million Impacted by QualDerm Data Breach",
-      "link": "https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/",
-      "summary": "Hackers stole personal, medical, and health insurance information from the company’s internal systems. The post 3.1 Million Impacted by QualDerm Data Breach appeared first on SecurityWeek .",
-      "published": "Tue, 24 Mar 2026 12:23:59 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-26 14:59",
+  "last_updated": "2026-03-26 16:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "multiple features designed",
+    "remote code execution",
+    "malicious cyber actors",
+    "least 77 vulnerabilities",
+    "wago gmbh co",
     "twitter whistleblower complaint",
+    "tenant identifier parameter",
     "service ddos doxing",
     "sans top 5",
+    "multiple features designed",
     "iran's intelligence agencies",
     "secure online communications",
     "popular online destinations",
-    "least 77 vulnerabilities",
     "comprehensive data theft",
     "things iot devices",
     "things get shaky",
-    "remote code execution",
+    "satellite internet equipment",
     "comfortable abusing things",
     "leakbase cybercrime forum",
-    "former u s",
-    "victim's username password",
-    "us government sits",
-    "targets including current",
-    "startup will invest",
-    "specially crafted file"
+    "windows operating systems",
+    "victim's username password"
   ],
   "trending": [
     {
-      "keyword": "multiple features designed",
+      "keyword": "remote code execution",
+      "mentions": 156
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 355
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 42
+    },
+    {
+      "keyword": "wago gmbh co",
       "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1128
+      "mentions": 1129
+    },
+    {
+      "keyword": "tenant identifier parameter",
+      "mentions": 1
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 73
+      "mentions": 74
     },
     {
       "keyword": "sans top 5",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "multiple features designed",
+      "mentions": 2
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 58
-    },
-    {
-      "keyword": "secure online communications",
-      "mentions": 47
-    },
-    {
-      "keyword": "popular online destinations",
-      "mentions": 27
-    },
-    {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 41
-    },
-    {
-      "keyword": "comprehensive data theft",
-      "mentions": 3
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 90
+      "mentions": 59
     }
   ],
   "articles": [
@@ -147,6 +147,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/",
+      "summary": "The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned Xinbi, a Chinese-language cryptocurrency-based online marketplace that sells stolen data and satellite internet equipment to scam networks in Southeast Asia. [...]",
+      "published": "Thu, 26 Mar 2026 11:42:43 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "TikTok for Business accounts targeted in new phishing campaign",
       "link": "https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/",
       "summary": "Threat actors are targeting TikTok for Business accounts in a phishing campaign that prevents security bots from analyzing malicious pages. [...]",
@@ -211,15 +220,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
       "summary": "GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the CodeQL static analysis and cover more languages and frameworks. [...]",
       "published": "Wed, 25 Mar 2026 19:23:39 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "PolyShell attacks target 56% of all vulnerable Magento stores",
-      "link": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
-      "summary": "Attacks leveraging the 'PolyShell' vulnerability in version 2 of Magento Open Source and Adobe Commerce installations are underway, targeting more than half of all vulnerable stores. [...]",
-      "published": "Wed, 25 Mar 2026 17:40:21 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -306,6 +306,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "How Organizations Can Use Blunders to Level Up Their Security Programs",
+      "link": "https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs",
+      "summary": "The industry highlights how organizations repeatedly make common security mistakes but one session during RSAC detailed ways to avoid them.",
+      "published": "Thu, 26 Mar 2026 15:29:32 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI-Powered Dependency Decisions Introduce, Ignore Security Bugs",
       "link": "https://www.darkreading.com/application-security/ai-powered-dependency-decisions-security-bugs",
       "summary": "AI models often hallucinate or make costly mistakes when tasked with recommending software versions, upgrade paths, and security fixes — leading to significant technical debt.",
@@ -366,17 +375,6 @@
       "published": "Wed, 25 Mar 2026 14:40:33 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Why a 'Near-Miss' Database Is Key to Improving Information Sharing",
-      "link": "https://www.darkreading.com/cyber-risk/experts-near-miss-database-improve-information-sharing",
-      "summary": "Organizations disclose attack details, though information may be limited, following a breach, but what if they did the same with close calls?",
-      "published": "Wed, 25 Mar 2026 14:09:01 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Security Week",
@@ -541,6 +539,49 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "WAGO GmbH & Co. KG Industrial Managed Switches",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01",
+      "summary": "View CSAF Summary An unauthenticated remote attacker can exploit a hidden function in the CLI prompt to escape the restricted interface, leading to full compromise of the device. The following versions of WAGO GmbH & Co. KG Industrial Managed Switches are affected: WAGO Firmware versions prior to V1.2.1.S0 WAGO_Hardware_852-1812 (CVE-2026-3587) WAGO Firmware versions prior to V1.2.1.S0 WAGO_Hardware_852-1813 (CVE-2026-3587) WAGO Firmware versions prior to V1.2.3.S0 WAGO_Hardware_852-1813/000-001",
+      "published": "Thu, 26 Mar 26 12:00:00 +0000",
+      "value_score": 85,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "PTC Windchill Product Lifecycle Management",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to achieve remote code execution. The following versions of PTC Windchill Product Lifecycle Management are affected: Windchill PDMLink 11.0_M030 (CVE-2026-4681) Windchill PDMLink 11.1_M020 (CVE-2026-4681) Windchill PDMLink 11.2.1.0 (CVE-2026-4681) Windchill PDMLink 12.0.2.0 (CVE-2026-4681) Windchill PDMLink 12.1.2.0 (CVE-2026-4681) Windchill PDMLink 13.0.2.0 (CVE-2026-4681) Windchill PDMLink 13.1.0.0 (CVE-202",
+      "published": "Thu, 26 Mar 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×6",
+        "RCE",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "OpenCode Systems OC Messaging and USSD Gateway",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outside of their authorized tenant scope via a crafted company or tenant identifier parameter. The following versions of OpenCode Systems OC Messaging and USSD Gateway are affected: OC Messaging 6.32.2 (CVE-2025-70614) USSD Gateway 6.32.2 (CVE-2025-70614) CVSS Vendor Equipment Vulnerabilities v3 8.1 OpenCode Systems OpenCode Systems OC Messaging and USSD",
+      "published": "Thu, 26 Mar 26 12:00:00 +0000",
+      "value_score": 85,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33017 Langflow Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnera",
@@ -606,45 +647,6 @@
         "CVE mentioned",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow Vulnerability CVE-2025-32432 Craft CMS Code Injection Vulnerability CVE-2025-43510 Apple Multiple Products Improper Locking Vulnerability CVE-2025-43520 Apple Multiple Products Classic Buffer Overflow Vulnerability CVE-2025-54068 Laravel Livewire Code Injection Vulnerability These types of vulnerabilities a",
-      "published": "Fri, 20 Mar 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×5",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Russian Intelligence Services Target Commercial Messaging Application Accounts",
-      "link": "https://www.cisa.gov/resources-tools/resources/russian-intelligence-services-target-commercial-messaging-application-accounts",
-      "summary": "CISA and the Federal Bureau of Investigation released a Public Service Announcement (PSA) warning about ongoing phishing campaigns by cyber actors associated with the Russian Intelligence Services targeting commercial messaging applications (CMAs). These campaigns aim to bypass encryption to compromise to individual user accounts with targets including current and former U.S. government officials, military personnel, political figures, and journalists. Evidence shows that cyber actors have been ",
-      "published": "Fri, 20 Mar 26 12:00:00 +0000",
-      "value_score": 63,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Phishing",
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric EcoStruxure Automation Expert",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-03",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Automation Expert product. The EcoStruxure™ Automation Expert product is plant automation software designed for digital control systems in discrete, hybrid and continuous industrial processes. A totally integrated automation solution designed to enhance your flexibility, efficiency and scalability. Failure to apply the remediation provided below may risk execution of arbitrary commands on the engineering worksta",
-      "published": "Thu, 19 Mar 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
       ]
     }
   ],

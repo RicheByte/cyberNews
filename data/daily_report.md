@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-26 14:59 UTC  
+> **Last Updated:** 2026-03-26 16:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**multiple features designed** • **twitter whistleblower complaint** • **service ddos doxing** • **sans top 5** • **iran's intelligence agencies** • **secure online communications** • **popular online destinations** • **least 77 vulnerabilities** • **comprehensive data theft** • **things iot devices** • **things get shaky** • **remote code execution** • **comfortable abusing things** • **leakbase cybercrime forum** • **former u s** • **victim's username password** • **us government sits** • **targets including current** • **startup will invest** • **specially crafted file**
+**remote code execution** • **malicious cyber actors** • **least 77 vulnerabilities** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **service ddos doxing** • **sans top 5** • **multiple features designed** • **iran's intelligence agencies** • **secure online communications** • **popular online destinations** • **comprehensive data theft** • **things iot devices** • **things get shaky** • **satellite internet equipment** • **comfortable abusing things** • **leakbase cybercrime forum** • **windows operating systems** • **victim's username password**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [UK sanctions Xinbi marketplace linked to Asian scam centers](https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/)
 - [TikTok for Business accounts targeted in new phishing campaign](https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/)
 - [WhatsApp rolls out more AI features, iOS multi-account support](https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/)
 - [Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers](https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/)
@@ -34,7 +35,6 @@
 - [Russia arrests suspected owner of LeakBase cybercrime forum](https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/)
 - [Suspected RedLine infostealer malware admin extradited to US](https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/)
 - [GitHub adds AI-powered bug detection to expand security coverage](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
-- [PolyShell attacks target 56% of all vulnerable Magento stores](https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [How Organizations Can Use Blunders to Level Up Their Security Programs](https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs)
 - [AI-Powered Dependency Decisions Introduce, Ignore Security Bugs](https://www.darkreading.com/application-security/ai-powered-dependency-decisions-security-bugs)
 - [Intermediaries Driving Global Spyware Market Expansion](https://www.darkreading.com/cyber-risk/intermediaries-driving-global-spyware-market-expansion)
 - [At RSAC, the EU Leads While US Officials Are Sidelined](https://www.darkreading.com/cyber-risk/rsac-eu-leads-us-officials-sidelined)
@@ -56,7 +57,6 @@
 - [Phishers Pose as Palo Alto Networks' Recruiters for Months in Job Scam](https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam)
 - [AI Dominates RSAC Innovation Sandbox](https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox)
 - [SANS: Top 5 Most Dangerous New Attack Techniques to Watch](https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques)
-- [Why a 'Near-Miss' Database Is Key to Improving Information Sharing](https://www.darkreading.com/cyber-risk/experts-near-miss-database-improve-information-sharing)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [WAGO GmbH & Co. KG Industrial Managed Switches](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01)
+- [PTC Windchill Product Lifecycle Management](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03)
+- [OpenCode Systems OC Messaging and USSD Gateway](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Pharos Controls Mosaic Show Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-01)
 - [Schneider Electric Plant iT/Brewmaxx](https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-03)
 - [Schneider Electric EcoStruxure Foxboro DCS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-02)
 - [Grassroots DICOM (GDCM)](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-083-01)
-- [CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog)
-- [Russian Intelligence Services Target Commercial Messaging Application Accounts](https://www.cisa.gov/resources-tools/resources/russian-intelligence-services-target-commercial-messaging-application-accounts)
-- [Schneider Electric EcoStruxure Automation Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-03)
 
 ---
 

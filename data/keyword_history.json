@@ -248,7 +248,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1122,
+      "count": 1123,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -603,7 +603,7 @@
       ]
     },
     "remote code execution": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1850,7 +1850,7 @@
       ]
     },
     "things iot devices": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -9128,7 +9128,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9362,7 +9362,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10351,7 +10351,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10420,7 +10420,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10450,7 +10450,7 @@
       ]
     },
     "former u s": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10890,21 +10890,21 @@
       ]
     },
     "underlying communications networks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "ai speeds attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "identity theft evolves": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-25",
         "2026-03-26"
@@ -10929,28 +10929,28 @@
       ]
     },
     "patch netscaler flaws": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "citrixbleed2 flaws exploited": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "patched several vulnerabilities": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "control core services": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-25",
         "2026-03-26"
@@ -10963,51 +10963,40 @@
       ]
     },
     "paid ai accounts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "individual user accounts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "sans top 5": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "code security tool": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-26"
       ]
     },
     "geordie ai wins": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-26"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-17 01:46",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "oracle ebs hack",
-        "remotely wiped tens",
-        "hacking attempt reported",
-        "overlooked potential hazards"
-      ]
-    },
     {
       "timestamp": "2026-03-17 04:13",
       "articles": 56,
@@ -12088,6 +12077,17 @@
     },
     {
       "timestamp": "2026-03-26 01:55",
+      "articles": 56,
+      "top_keywords": [
+        "agents autonomous programs",
+        "remote code execution",
+        "citrixbleed2 flaws exploited",
+        "ai speeds attacks",
+        "underlying communications networks"
+      ]
+    },
+    {
+      "timestamp": "2026-03-26 04:30",
       "articles": 56,
       "top_keywords": [
         "agents autonomous programs",

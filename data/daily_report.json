@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 18:58",
+  "last_updated": "2026-03-26 20:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,60 +10,60 @@
     "least 77 vulnerabilities",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
-    "sans top 5",
     "multiple features designed",
     "iran's intelligence agencies",
+    "things iot devices",
     "secure online communications",
     "popular online destinations",
-    "things iot devices",
     "things get shaky",
     "satellite internet equipment",
     "comfortable abusing things",
     "leakbase cybercrime forum",
     "windows operating systems",
     "victim's username password",
-    "strategic positioning activity"
+    "strategic positioning activity",
+    "startup will invest"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 2
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 75
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 157
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 356
-    },
-    {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 43
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1130
-    },
-    {
-      "keyword": "tenant identifier parameter",
-      "mentions": 2
-    },
-    {
-      "keyword": "sans top 5",
-      "mentions": 10
-    },
-    {
-      "keyword": "multiple features designed",
       "mentions": 3
     },
     {
+      "keyword": "service ddos doxing",
+      "mentions": 76
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 158
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 357
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 44
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1131
+    },
+    {
+      "keyword": "tenant identifier parameter",
+      "mentions": 3
+    },
+    {
+      "keyword": "multiple features designed",
+      "mentions": 4
+    },
+    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 60
+      "mentions": 61
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 93
     }
   ],
   "articles": [
@@ -149,6 +149,21 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are actively exploiting a critical vulnerability identified as CVE-2026-33017, which affects the Langflow framework for building AI agents. [...]",
+      "published": "Thu, 26 Mar 2026 15:17:43 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
       "link": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/",
       "summary": "The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned Xinbi, a Chinese-language cryptocurrency-based online marketplace that sells stolen data and satellite internet equipment to scam networks in Southeast Asia. [...]",
@@ -213,15 +228,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
       "summary": "An Armenian suspect was extradited to the United States to face criminal charges for allegedly helping manage RedLine, one of the most prolific infostealer malware operations in recent years. [...]",
       "published": "Thu, 26 Mar 2026 07:51:59 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GitHub adds AI-powered bug detection to expand security coverage",
-      "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
-      "summary": "GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the CodeQL static analysis and cover more languages and frameworks. [...]",
-      "published": "Wed, 25 Mar 2026 19:23:39 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -308,6 +314,37 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Is the FCC's Router Ban the Wrong Fix?",
+      "link": "https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix",
+      "summary": "The agency put foreign-made consumer routers on its list of prohibited communications devices, but the ban could create more problems down the road.",
+      "published": "Thu, 26 Mar 2026 19:48:32 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles",
+      "summary": "More than a decade since the 2015 Jeep hack, the cybersecurity of vehicles remains of the utmost importance.",
+      "published": "Thu, 26 Mar 2026 19:48:21 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Critical Flaw in Langflow AI Platform Under Attack",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack",
+      "summary": "Threats actors pounced on the code injection vulnerability within hours of its disclosure, demonstrating that organizations have little time to address critical bugs.",
+      "published": "Thu, 26 Mar 2026 19:14:05 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "How Organizations Can Use Blunders to Level Up Their Security Programs",
       "link": "https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs",
       "summary": "Organizations repeatedly expose ports, reuse passwords, and skip patches, creating security gaps that attackers exploit for breaches. An industry veteran outlines ways to fix these common mistakes.",
@@ -351,33 +388,6 @@
       "link": "https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks",
       "summary": "Publicly accusing an entity of a cyberattack could have negative consequences that organizations should consider before taking the plunge.",
       "published": "Wed, 25 Mar 2026 16:03:29 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Phishers Pose as Palo Alto Networks' Recruiters for Months in Job Scam",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam",
-      "summary": "A series of campaigns that began in August aim to defraud job candidates, using psychological tactics and data scraped from LinkedIn profiles.",
-      "published": "Wed, 25 Mar 2026 15:05:52 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Dominates RSAC Innovation Sandbox",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox",
-      "summary": "Ten finalists will each have three minutes to make their case for being the most innovative, promising young security company of the year. Geordie AI wins the 2026 contest.",
-      "published": "Wed, 25 Mar 2026 15:03:45 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "SANS: Top 5 Most Dangerous New Attack Techniques to Watch",
-      "link": "https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques",
-      "summary": "For the first time, SANS Institute's five top attack techniques all have one thing in common — AI.",
-      "published": "Wed, 25 Mar 2026 14:40:33 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -434,9 +444,9 @@
     },
     {
       "source": "Security Week",
-      "title": "Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience",
+      "title": "Dell and HP Roll Out Quantum-Resistant Device Security",
       "link": "https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/",
-      "summary": "The computer giants have announced new security capabilities for PCs and printers. The post Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience appeared first on SecurityWeek .",
+      "summary": "The computer giants have announced new security capabilities for PCs and printers. The post Dell and HP Roll Out Quantum-Resistant Device Security appeared first on SecurityWeek .",
       "published": "Thu, 26 Mar 2026 08:57:41 +0000",
       "value_score": 10,
       "value_signals": []

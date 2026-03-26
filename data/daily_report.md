@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-26 18:58 UTC  
+> **Last Updated:** 2026-03-26 20:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **service ddos doxing** • **remote code execution** • **malicious cyber actors** • **least 77 vulnerabilities** • **twitter whistleblower complaint** • **tenant identifier parameter** • **sans top 5** • **multiple features designed** • **iran's intelligence agencies** • **secure online communications** • **popular online destinations** • **things iot devices** • **things get shaky** • **satellite internet equipment** • **comfortable abusing things** • **leakbase cybercrime forum** • **windows operating systems** • **victim's username password** • **strategic positioning activity**
+**wago gmbh co** • **service ddos doxing** • **remote code execution** • **malicious cyber actors** • **least 77 vulnerabilities** • **twitter whistleblower complaint** • **tenant identifier parameter** • **multiple features designed** • **iran's intelligence agencies** • **things iot devices** • **secure online communications** • **popular online destinations** • **things get shaky** • **satellite internet equipment** • **comfortable abusing things** • **leakbase cybercrime forum** • **windows operating systems** • **victim's username password** • **strategic positioning activity** • **startup will invest**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [CISA: New Langflow flaw actively exploited to hijack AI workflows](https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/)
 - [UK sanctions Xinbi marketplace linked to Asian scam centers](https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/)
 - [TikTok for Business accounts targeted in new phishing campaign](https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/)
 - [WhatsApp rolls out more AI features, iOS multi-account support](https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/)
@@ -34,7 +35,6 @@
 - [Coruna iOS exploit framework linked to Triangulation attacks](https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/)
 - [Russia arrests suspected owner of LeakBase cybercrime forum](https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/)
 - [Suspected RedLine infostealer malware admin extradited to US](https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/)
-- [GitHub adds AI-powered bug detection to expand security coverage](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Is the FCC's Router Ban the Wrong Fix?](https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix)
+- [Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles](https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles)
+- [Critical Flaw in Langflow AI Platform Under Attack](https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack)
 - [How Organizations Can Use Blunders to Level Up Their Security Programs](https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs)
 - [AI-Powered Dependency Decisions Introduce, Ignore Security Bugs](https://www.darkreading.com/application-security/ai-powered-dependency-decisions-security-bugs)
 - [Intermediaries Driving Global Spyware Market Expansion](https://www.darkreading.com/cyber-risk/intermediaries-driving-global-spyware-market-expansion)
 - [At RSAC, the EU Leads While US Officials Are Sidelined](https://www.darkreading.com/cyber-risk/rsac-eu-leads-us-officials-sidelined)
 - [Blame Game: Why Public Cyber Attribution Carries Risks](https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks)
-- [Phishers Pose as Palo Alto Networks' Recruiters for Months in Job Scam](https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam)
-- [AI Dominates RSAC Innovation Sandbox](https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox)
-- [SANS: Top 5 Most Dangerous New Attack Techniques to Watch](https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques)
 
 ### Security Week
 
@@ -65,7 +65,7 @@
 - [Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure](https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/)
 - [Cisco Patches Multiple Vulnerabilities in IOS Software](https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/)
 - [Alleged RedLine Malware Administrator Extradited to US](https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/)
-- [Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience](https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/)
+- [Dell and HP Roll Out Quantum-Resistant Device Security](https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/)
 - [Onit Security Raises $11 Million for Exposure Management Platform](https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/)
 - [Russian Cybercriminal Gets 2-Year Prison Sentence in US](https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/)
 

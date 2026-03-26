@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 08:47",
+  "last_updated": "2026-03-26 10:48",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -19,51 +19,51 @@
     "patch netscaler flaws",
     "individual user accounts",
     "identity theft evolves",
+    "code security tool",
     "frequent attack vector",
     "patched several vulnerabilities",
-    "least 77 vulnerabilities",
-    "comprehensive data theft"
+    "least 77 vulnerabilities"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 152
+      "mentions": 153
     },
     {
       "keyword": "citrixbleed2 flaws exploited",
-      "mentions": 8
-    },
-    {
-      "keyword": "ai speeds attacks",
       "mentions": 9
     },
     {
-      "keyword": "underlying communications networks",
+      "keyword": "ai speeds attacks",
       "mentions": 10
     },
     {
+      "keyword": "underlying communications networks",
+      "mentions": 11
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1125
+      "mentions": 1126
     },
     {
       "keyword": "things iot devices",
-      "mentions": 87
+      "mentions": 88
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 70
+      "mentions": 71
     },
     {
       "keyword": "sans top 5",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "leakbase cybercrime forum",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 55
+      "mentions": 56
     }
   ],
   "articles": [
@@ -387,6 +387,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Alleged RedLine Malware Administrator Extradited to US",
+      "link": "https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/",
+      "summary": "Hambardzum Minasyan of Armenia has been accused of being involved in the development and administration of the infostealer malware. The post Alleged RedLine Malware Administrator Extradited to US appeared first on SecurityWeek .",
+      "published": "Thu, 26 Mar 2026 10:06:56 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience",
+      "link": "https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/",
+      "summary": "The computer giants have announced new security capabilities for PCs and printers. The post Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience appeared first on SecurityWeek .",
+      "published": "Thu, 26 Mar 2026 08:57:41 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Onit Security Raises $11 Million for Exposure Management Platform",
       "link": "https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/",
       "summary": "The startup will invest in product development and go-to-market efforts as it expands into new sectors. The post Onit Security Raises $11 Million for Exposure Management Platform appeared first on SecurityWeek .",
@@ -438,26 +456,6 @@
       "published": "Wed, 25 Mar 2026 12:05:57 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI",
-      "link": "https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/",
-      "summary": "The hackers compromised GitHub Action tags, then shifted to NPM, Docker Hub, VS Code, and PyPI, and teamed with Lapsus$. The post From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI appeared first on SecurityWeek .",
-      "published": "Wed, 25 Mar 2026 11:55:25 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "US Prisons Russian Access Broker for Aiding Ransomware Attacks",
-      "link": "https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/",
-      "summary": "Aleksei Volkov has been sentenced to 81 months in prison for his role in Yanluowang ransomware attacks. The post US Prisons Russian Access Broker for Aiding Ransomware Attacks appeared first on SecurityWeek .",
-      "published": "Wed, 25 Mar 2026 09:27:33 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
     },
     {
       "source": "Threatpost",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-26 08:47 UTC  
+> **Last Updated:** 2026-03-26 10:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **citrixbleed2 flaws exploited** • **ai speeds attacks** • **underlying communications networks** • **twitter whistleblower complaint** • **things iot devices** • **service ddos doxing** • **sans top 5** • **leakbase cybercrime forum** • **iran's intelligence agencies** • **former u s** • **agents autonomous programs** • **paid ai accounts** • **patch netscaler flaws** • **individual user accounts** • **identity theft evolves** • **frequent attack vector** • **patched several vulnerabilities** • **least 77 vulnerabilities** • **comprehensive data theft**
+**remote code execution** • **citrixbleed2 flaws exploited** • **ai speeds attacks** • **underlying communications networks** • **twitter whistleblower complaint** • **things iot devices** • **service ddos doxing** • **sans top 5** • **leakbase cybercrime forum** • **iran's intelligence agencies** • **former u s** • **agents autonomous programs** • **paid ai accounts** • **patch netscaler flaws** • **individual user accounts** • **identity theft evolves** • **code security tool** • **frequent attack vector** • **patched several vulnerabilities** • **least 77 vulnerabilities**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Alleged RedLine Malware Administrator Extradited to US](https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/)
+- [Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience](https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/)
 - [Onit Security Raises $11 Million for Exposure Management Platform](https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/)
 - [Russian Cybercriminal Gets 2-Year Prison Sentence in US](https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/)
 - [AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link](https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/)
 - [iOS, macOS 26.4 Roll Out With Fresh Security Patches](https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/)
 - [FCC Bans New Routers Made Outside the US Over National Security Risks](https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/)
 - [RSAC 2026 Conference Announcements Summary (Day 2)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/)
-- [From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI](https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/)
-- [US Prisons Russian Access Broker for Aiding Ransomware Attacks](https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/)
 
 ### Threatpost
 

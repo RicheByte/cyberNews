@@ -249,7 +249,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1127,
+      "count": 1128,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -604,7 +604,7 @@
       ]
     },
     "remote code execution": {
-      "count": 154,
+      "count": 155,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1851,7 +1851,7 @@
       ]
     },
     "things iot devices": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -6843,7 +6843,7 @@
       ]
     },
     "secure online communications": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -7809,7 +7809,7 @@
       ]
     },
     "victim's username password": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7832,7 +7832,8 @@
         "2026-03-20",
         "2026-03-23",
         "2026-03-24",
-        "2026-03-25"
+        "2026-03-25",
+        "2026-03-26"
       ]
     },
     "aiding north korean": {
@@ -7916,7 +7917,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8852,7 +8853,7 @@
       ]
     },
     "leakbase cybercrime forum": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-04",
         "2026-03-05",
@@ -9367,7 +9368,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10148,10 +10149,11 @@
       ]
     },
     "startup will invest": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-18",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-26"
       ]
     },
     "send crypto scams": {
@@ -10356,7 +10358,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10425,7 +10427,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10455,7 +10457,7 @@
       ]
     },
     "former u s": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10484,11 +10486,12 @@
       ]
     },
     "targets including current": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-20",
         "2026-03-23",
-        "2026-03-24"
+        "2026-03-24",
+        "2026-03-26"
       ]
     },
     "security defect tracked": {
@@ -10928,7 +10931,7 @@
       ]
     },
     "comprehensive data theft": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-25",
         "2026-03-26"
@@ -10983,7 +10986,7 @@
       ]
     },
     "sans top 5": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-25",
         "2026-03-26"
@@ -11008,7 +11011,7 @@
       ]
     },
     "things get shaky": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-26"
       ]
@@ -11018,20 +11021,33 @@
       "dates": [
         "2026-03-26"
       ]
+    },
+    "multiple features designed": {
+      "count": 1,
+      "dates": [
+        "2026-03-26"
+      ]
+    },
+    "comfortable abusing things": {
+      "count": 1,
+      "dates": [
+        "2026-03-26"
+      ]
+    },
+    "us government sits": {
+      "count": 1,
+      "dates": [
+        "2026-03-26"
+      ]
+    },
+    "specially crafted file": {
+      "count": 1,
+      "dates": [
+        "2026-03-26"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-17 13:00",
-      "articles": 56,
-      "top_keywords": [
-        "tracebit raises 20m",
-        "scattered lapsus shinyhunters",
-        "oracle ebs hack",
-        "phishing uses kakaotalk",
-        "remotely wiped tens"
-      ]
-    },
     {
       "timestamp": "2026-03-17 14:51",
       "articles": 56,
@@ -12119,6 +12135,17 @@
         "twitter whistleblower complaint",
         "service ddos doxing",
         "sans top 5"
+      ]
+    },
+    {
+      "timestamp": "2026-03-26 14:59",
+      "articles": 56,
+      "top_keywords": [
+        "multiple features designed",
+        "twitter whistleblower complaint",
+        "service ddos doxing",
+        "sans top 5",
+        "iran's intelligence agencies"
       ]
     }
   ]

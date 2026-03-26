@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-26 13:03",
+  "last_updated": "2026-03-26 14:59",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "citrixbleed2 flaws exploited",
-    "ai speeds attacks",
+    "multiple features designed",
     "twitter whistleblower complaint",
     "service ddos doxing",
     "sans top 5",
     "iran's intelligence agencies",
-    "agents autonomous programs",
-    "paid ai accounts",
+    "secure online communications",
+    "popular online destinations",
     "least 77 vulnerabilities",
-    "malicious cyber actors",
+    "comprehensive data theft",
     "things iot devices",
     "things get shaky",
-    "patch netscaler flaws",
-    "individual user accounts",
-    "identity theft evolves",
-    "sell stolen data",
-    "secure online communications",
     "remote code execution",
-    "popular online destinations",
-    "online aliases milan"
+    "comfortable abusing things",
+    "leakbase cybercrime forum",
+    "former u s",
+    "victim's username password",
+    "us government sits",
+    "targets including current",
+    "startup will invest",
+    "specially crafted file"
   ],
   "trending": [
     {
-      "keyword": "citrixbleed2 flaws exploited",
-      "mentions": 10
-    },
-    {
-      "keyword": "ai speeds attacks",
-      "mentions": 11
+      "keyword": "multiple features designed",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1127
+      "mentions": 1128
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "sans top 5",
-      "mentions": 7
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 57
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 70
-    },
-    {
-      "keyword": "paid ai accounts",
       "mentions": 8
     },
     {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 40
+      "keyword": "iran's intelligence agencies",
+      "mentions": 58
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 354
+      "keyword": "secure online communications",
+      "mentions": 47
+    },
+    {
+      "keyword": "popular online destinations",
+      "mentions": 27
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 41
+    },
+    {
+      "keyword": "comprehensive data theft",
+      "mentions": 3
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 90
     }
   ],
   "articles": [
@@ -72,9 +72,40 @@
       "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
       "link": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
       "summary": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control. But one question usually stays unanswered: Would your defenses actually stop a real attack? That’s where things get shaky. A control exists, so it’s assumed to work. A detection rule is active, so it’s expected to catch something. But very",
-      "published": "Thu, 26 Mar 2026 16:37:00 +0530",
+      "published": "Thu, 26 Mar 2026 18:42:00 +0530",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
+      "link": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
+      "summary": "Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page. The flaw \"allowed any website to silently inject prompts into that assistant as if the user wrote them,\" Koi Security researcher Oren Yomtov said in a report shared with The Hacker News. \"No clicks, no",
+      "published": "Thu, 26 Mar 2026 18:41:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception",
+      "link": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html",
+      "summary": "Unmasking impostors is something the art world has faced for decades, and there are valuable lessons from the works of Elmyr de Hory that can apply to the world of defensive cybersecurity. During the 1960s, de Hory gained infamy as a premier forger, passing off counterfeit masterworks of Picasso, Matisse, and Renoir to unsuspecting collectors and renowned museums. Over the next several decades,",
+      "published": "Thu, 26 Mar 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
+      "link": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
+      "summary": "Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are getting way too comfortable abusing things they probably shouldn’t even be touching. There’s a little bit of everything in this one, too. Weird delivery tricks, old problems coming back in slightly worse forms, shady infrastructure doing",
+      "published": "Thu, 26 Mar 2026 17:15:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
     },
     {
       "source": "The Hacker News",
@@ -115,37 +146,45 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
-      "link": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html",
-      "summary": "In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations on its own, performing reconnaissance, writing exploit code, and attempting lateral movement at machine speed. This incident is worrying, but there's a scenario that should",
-      "published": "Wed, 25 Mar 2026 17:28:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks",
-      "link": "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html",
-      "summary": "The U.S. Department of Justice (DoJ) said a Russian national has been sentenced to two years in prison for managing a botnet that was used to launch ransomware attacks against U.S. companies. Ilya Angelov, 40, of Tolyatti, Russia, was also fined $100,000. Angelov, who went by the online aliases \"milan\" and \"okart,\" is said to have co-managed a Russia-based cybercriminal group known as TA551 (aka",
-      "published": "Wed, 25 Mar 2026 17:22:00 +0530",
-      "value_score": 66,
-      "value_signals": [
-        "Ransomware ×2",
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
-      "link": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
-      "summary": "Cybersecurity researchers are calling attention to an active device code phishing campaign that's targeting Microsoft 365 identities across more than 340 organizations in the U.S., Canada, Australia, New Zealand, and Germany. The activity, per Huntress, was first spotted on February 19, 2026, with subsequent cases appearing at an accelerated pace since then. Notably, the campaign leverages",
-      "published": "Wed, 25 Mar 2026 17:04:00 +0530",
+      "source": "BleepingComputer",
+      "title": "TikTok for Business accounts targeted in new phishing campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/",
+      "summary": "Threat actors are targeting TikTok for Business accounts in a phishing campaign that prevents security bots from analyzing malicious pages. [...]",
+      "published": "Thu, 26 Mar 2026 10:09:17 -0400",
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "WhatsApp rolls out more AI features, iOS multi-account support",
+      "link": "https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/",
+      "summary": "WhatsApp is rolling out multiple features designed to make the app easier to use, including AI-powered message replies and photo retouching, support for two accounts on iOS, and chat history transfer between iOS and Android devices. [...]",
+      "published": "Thu, 26 Mar 2026 10:06:27 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/",
+      "summary": "Multi-stage fraud attacks chain bots, proxies, and stolen credentials from signup to takeover. IPQS shows why correlating IP, device, identity, and behavior is critical to stop it. [...]",
+      "published": "Thu, 26 Mar 2026 10:00:10 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Coruna iOS exploit framework linked to Triangulation attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
+      "summary": "The Coruna exploit kit is an evolution of the framework used in the Operation Triangulation espionage campaign, which in 2023 targeted iPhones via zero-click iMessage exploits. [...]",
+      "published": "Thu, 26 Mar 2026 09:10:14 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
       ]
     },
     {
@@ -181,48 +220,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
       "summary": "Attacks leveraging the 'PolyShell' vulnerability in version 2 of Magento Open Source and Adobe Commerce installations are underway, targeting more than half of all vulnerable stores. [...]",
       "published": "Wed, 25 Mar 2026 17:40:21 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Bubble AI app builder abused to steal Microsoft account credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/",
-      "summary": "Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps. [...]",
-      "published": "Wed, 25 Mar 2026 15:48:36 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
-      "link": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
-      "summary": "A new info-stealing malware called Torg Grabber is stealing sensitive data from 850 browser extensions, more than 700 of them for cryptocurrency wallets. [...]",
-      "published": "Wed, 25 Mar 2026 14:32:37 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
-      "summary": "Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years. [...]",
-      "published": "Wed, 25 Mar 2026 11:52:10 -0400",
-      "value_score": 49,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Paid AI Accounts Are Now a Hot Underground Commodity",
-      "link": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/",
-      "summary": "AI accounts are becoming part of the cybercrime supply chain, sold like email accounts or VPS access. Flare Systems shows how underground markets bundle and resell premium AI access at scale. [...]",
-      "published": "Wed, 25 Mar 2026 10:02:12 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -309,6 +306,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI-Powered Dependency Decisions Introduce, Ignore Security Bugs",
+      "link": "https://www.darkreading.com/application-security/ai-powered-dependency-decisions-security-bugs",
+      "summary": "AI models often hallucinate or make costly mistakes when tasked with recommending software versions, upgrade paths, and security fixes — leading to significant technical debt.",
+      "published": "Thu, 26 Mar 2026 14:44:16 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Intermediaries Driving Global Spyware Market Expansion",
       "link": "https://www.darkreading.com/cyber-risk/intermediaries-driving-global-spyware-market-expansion",
       "summary": "Third-party resellers and brokers foil transparency efforts and allow spyware to spread despite government restrictions, a study finds.",
@@ -363,7 +369,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Why a 'Near Miss' Database Is Key to Improving Information Sharing",
+      "title": "Why a 'Near-Miss' Database Is Key to Improving Information Sharing",
       "link": "https://www.darkreading.com/cyber-risk/experts-near-miss-database-improve-information-sharing",
       "summary": "Organizations disclose attack details, though information may be limited, following a breach, but what if they did the same with close calls?",
       "published": "Wed, 25 Mar 2026 14:09:01 GMT",
@@ -373,13 +379,26 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "AI-Native Security Is a Must to Counter AI-Based Attacks",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-native-security-counter-attacks",
-      "summary": "Attacks by artificial intelligence agents are a reality. Experts at Nvidia's GTC conference say defenders need to use the same tools to fight them off.",
-      "published": "Wed, 25 Mar 2026 12:26:14 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Hightower Holding Data Breach Impacts 130,000",
+      "link": "https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/",
+      "summary": "The holdings company says hackers stole names, Social Security numbers, and driver’s license numbers from its environment. The post Hightower Holding Data Breach Impacts 130,000 appeared first on SecurityWeek .",
+      "published": "Thu, 26 Mar 2026 14:07:07 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "BIND Updates Patch High-Severity Vulnerabilities",
+      "link": "https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/",
+      "summary": "Specially crafted domains could be used to cause out-of-memory conditions, leading to memory leaks in the BIND resolvers. The post BIND Updates Patch High-Severity Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 26 Mar 2026 13:31:40 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -434,24 +453,6 @@
       "link": "https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/",
       "summary": "Ilya Angelov was a member of the cybercrime group tracked as TA-551, Shathak, Gold Cabin, Monster Libra, and ATK236. The post Russian Cybercriminal Gets 2-Year Prison Sentence in US appeared first on SecurityWeek .",
       "published": "Wed, 25 Mar 2026 14:30:32 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link",
-      "link": "https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/",
-      "summary": "PwC finds AI is amplifying speed and scale of attacks, as identity theft evolves into a cybercriminal supply chain. The post AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link appeared first on SecurityWeek .",
-      "published": "Wed, 25 Mar 2026 14:15:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "iOS, macOS 26.4 Roll Out With Fresh Security Patches",
-      "link": "https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/",
-      "summary": "Apple released security fixes for older devices as well, in iOS 18.7.7, iPadOS 18.7.7, macOS Sequoia 15.7.5, and macOS Sonoma 14.8.5. The post iOS, macOS 26.4 Roll Out With Fresh Security Patches appeared first on SecurityWeek .",
-      "published": "Wed, 25 Mar 2026 13:29:17 +0000",
       "value_score": 10,
       "value_signals": []
     },

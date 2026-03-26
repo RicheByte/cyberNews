@@ -248,7 +248,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1124,
+      "count": 1125,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -603,7 +603,7 @@
       ]
     },
     "remote code execution": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1850,7 +1850,7 @@
       ]
     },
     "things iot devices": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -8849,10 +8849,11 @@
       ]
     },
     "leakbase cybercrime forum": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-04",
-        "2026-03-05"
+        "2026-03-05",
+        "2026-03-26"
       ]
     },
     "targeted espionage campaigns": {
@@ -9128,7 +9129,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9362,7 +9363,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10351,7 +10352,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10420,7 +10421,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10450,7 +10451,7 @@
       ]
     },
     "former u s": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10890,21 +10891,21 @@
       ]
     },
     "underlying communications networks": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "ai speeds attacks": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "identity theft evolves": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-25",
         "2026-03-26"
@@ -10923,27 +10924,28 @@
       ]
     },
     "comprehensive data theft": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-25"
+        "2026-03-25",
+        "2026-03-26"
       ]
     },
     "patch netscaler flaws": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "citrixbleed2 flaws exploited": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "patched several vulnerabilities": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-25",
         "2026-03-26"
@@ -10963,21 +10965,21 @@
       ]
     },
     "paid ai accounts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "individual user accounts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "sans top 5": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-25",
         "2026-03-26"
@@ -10994,20 +10996,15 @@
       "dates": [
         "2026-03-26"
       ]
+    },
+    "frequent attack vector": {
+      "count": 1,
+      "dates": [
+        "2026-03-26"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-17 06:58",
-      "articles": 56,
-      "top_keywords": [
-        "remotely wiped tens",
-        "scattered lapsus shinyhunters",
-        "oracle ebs hack",
-        "hacking attempt reported",
-        "overlooked potential hazards"
-      ]
-    },
     {
       "timestamp": "2026-03-17 08:45",
       "articles": 56,
@@ -12095,6 +12092,17 @@
         "citrixbleed2 flaws exploited",
         "ai speeds attacks",
         "underlying communications networks"
+      ]
+    },
+    {
+      "timestamp": "2026-03-26 08:47",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "citrixbleed2 flaws exploited",
+        "ai speeds attacks",
+        "underlying communications networks",
+        "twitter whistleblower complaint"
       ]
     }
   ]

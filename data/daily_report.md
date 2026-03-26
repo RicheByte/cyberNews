@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-26 07:02 UTC  
+> **Last Updated:** 2026-03-26 08:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**agents autonomous programs** • **remote code execution** • **citrixbleed2 flaws exploited** • **ai speeds attacks** • **underlying communications networks** • **twitter whistleblower complaint** • **things iot devices** • **service ddos doxing** • **sans top 5** • **iran's intelligence agencies** • **former u s** • **paid ai accounts** • **patch netscaler flaws** • **individual user accounts** • **identity theft evolves** • **code security tool** • **patched several vulnerabilities** • **least 77 vulnerabilities** • **control core services** • **geordie ai wins**
+**remote code execution** • **citrixbleed2 flaws exploited** • **ai speeds attacks** • **underlying communications networks** • **twitter whistleblower complaint** • **things iot devices** • **service ddos doxing** • **sans top 5** • **leakbase cybercrime forum** • **iran's intelligence agencies** • **former u s** • **agents autonomous programs** • **paid ai accounts** • **patch netscaler flaws** • **individual user accounts** • **identity theft evolves** • **frequent attack vector** • **patched several vulnerabilities** • **least 77 vulnerabilities** • **comprehensive data theft**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites](https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html)
 - [LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace](https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html)
 - [GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
 - [The Kill Chain Is Obsolete When Your AI Agent Is the Threat](https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html)
@@ -23,7 +24,6 @@
 - [Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse](https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html)
 - [FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns](https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html)
 - [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
-- [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
 
 ### BleepingComputer
 

@@ -1,9 +1,8 @@
 {
-  "last_updated": "2026-03-26 07:02",
+  "last_updated": "2026-03-26 08:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "agents autonomous programs",
     "remote code execution",
     "citrixbleed2 flaws exploited",
     "ai speeds attacks",
@@ -12,61 +11,71 @@
     "things iot devices",
     "service ddos doxing",
     "sans top 5",
+    "leakbase cybercrime forum",
     "iran's intelligence agencies",
     "former u s",
+    "agents autonomous programs",
     "paid ai accounts",
     "patch netscaler flaws",
     "individual user accounts",
     "identity theft evolves",
-    "code security tool",
+    "frequent attack vector",
     "patched several vulnerabilities",
     "least 77 vulnerabilities",
-    "control core services",
-    "geordie ai wins"
+    "comprehensive data theft"
   ],
   "trending": [
     {
-      "keyword": "agents autonomous programs",
-      "mentions": 67
-    },
-    {
       "keyword": "remote code execution",
-      "mentions": 151
+      "mentions": 152
     },
     {
       "keyword": "citrixbleed2 flaws exploited",
-      "mentions": 7
-    },
-    {
-      "keyword": "ai speeds attacks",
       "mentions": 8
     },
     {
-      "keyword": "underlying communications networks",
+      "keyword": "ai speeds attacks",
       "mentions": 9
     },
     {
+      "keyword": "underlying communications networks",
+      "mentions": 10
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1124
+      "mentions": 1125
     },
     {
       "keyword": "things iot devices",
-      "mentions": 86
+      "mentions": 87
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 69
+      "mentions": 70
     },
     {
       "keyword": "sans top 5",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "leakbase cybercrime forum",
+      "mentions": 7
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 54
+      "mentions": 55
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
+      "link": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
+      "summary": "Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls. \"Instead of the usual HTTP requests or image beacons, this malware uses WebRTC data channels to load its payload and exfiltrate stolen payment data,\" Sansec said in a report published this week. The attack,",
+      "published": "Thu, 26 Mar 2026 12:23:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
@@ -138,15 +147,6 @@
       "value_signals": [
         "Backdoor"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR",
-      "link": "https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html",
-      "summary": "A large-scale malvertising campaign active since January 2026 has been observed targeting U.S.-based individuals searching for tax-related documents to serve rogue installers for ConnectWise ScreenConnect that drop a tool named HwAudKiller to blind security programs using the bring your own vulnerable driver (BYOVD) technique. \"The campaign abuses Google Ads to serve rogue ScreenConnect (",
-      "published": "Tue, 24 Mar 2026 22:35:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

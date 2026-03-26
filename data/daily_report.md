@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-26 16:55 UTC  
+> **Last Updated:** 2026-03-26 18:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **malicious cyber actors** • **least 77 vulnerabilities** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **service ddos doxing** • **sans top 5** • **multiple features designed** • **iran's intelligence agencies** • **secure online communications** • **popular online destinations** • **comprehensive data theft** • **things iot devices** • **things get shaky** • **satellite internet equipment** • **comfortable abusing things** • **leakbase cybercrime forum** • **windows operating systems** • **victim's username password**
+**wago gmbh co** • **service ddos doxing** • **remote code execution** • **malicious cyber actors** • **least 77 vulnerabilities** • **twitter whistleblower complaint** • **tenant identifier parameter** • **sans top 5** • **multiple features designed** • **iran's intelligence agencies** • **secure online communications** • **popular online destinations** • **things iot devices** • **things get shaky** • **satellite internet equipment** • **comfortable abusing things** • **leakbase cybercrime forum** • **windows operating systems** • **victim's username password** • **strategic positioning activity**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
 - [[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html)
 - [Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website](https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html)
 - [Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception](https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html)
 - [ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories](https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html)
-- [Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks](https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html)
+- [Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks](https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html)
 - [WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites](https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html)
 - [LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace](https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html)
-- [GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
 
 ### BleepingComputer
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [WAGO GmbH & Co. KG Industrial Managed Switches](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [PTC Windchill Product Lifecycle Management](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03)
 - [OpenCode Systems OC Messaging and USSD Gateway](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02)
+- [WAGO GmbH & Co. KG Industrial Managed Switches](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Pharos Controls Mosaic Show Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-01)
 - [Schneider Electric Plant iT/Brewmaxx](https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-03)
 - [Schneider Electric EcoStruxure Foxboro DCS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-02)
-- [Grassroots DICOM (GDCM)](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-083-01)
 
 ---
 

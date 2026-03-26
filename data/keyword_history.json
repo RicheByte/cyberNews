@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 355,
+      "count": 356,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -168,7 +168,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 575,
+      "count": 576,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -250,7 +250,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1129,
+      "count": 1130,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -605,7 +605,7 @@
       ]
     },
     "remote code execution": {
-      "count": 156,
+      "count": 157,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1852,7 +1852,7 @@
       ]
     },
     "things iot devices": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -6844,7 +6844,7 @@
       ]
     },
     "secure online communications": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -7810,7 +7810,7 @@
       ]
     },
     "victim's username password": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7918,7 +7918,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8854,7 +8854,7 @@
       ]
     },
     "leakbase cybercrime forum": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-04",
         "2026-03-05",
@@ -9369,7 +9369,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10359,7 +10359,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10428,7 +10428,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10987,7 +10987,7 @@
       ]
     },
     "sans top 5": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-25",
         "2026-03-26"
@@ -11012,7 +11012,7 @@
       ]
     },
     "things get shaky": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-26"
       ]
@@ -11024,13 +11024,13 @@
       ]
     },
     "multiple features designed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-26"
       ]
     },
     "comfortable abusing things": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-26"
       ]
@@ -11048,18 +11048,24 @@
       ]
     },
     "wago gmbh co": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-26"
       ]
     },
     "tenant identifier parameter": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-26"
       ]
     },
     "satellite internet equipment": {
+      "count": 2,
+      "dates": [
+        "2026-03-26"
+      ]
+    },
+    "strategic positioning activity": {
       "count": 1,
       "dates": [
         "2026-03-26"
@@ -11067,17 +11073,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-17 16:59",
-      "articles": 56,
-      "top_keywords": [
-        "tracebit raises 20m",
-        "scattered lapsus shinyhunters",
-        "remotely wiped tens",
-        "scadapack 57x product",
-        "phishing uses kakaotalk"
-      ]
-    },
     {
       "timestamp": "2026-03-17 18:55",
       "articles": 48,
@@ -12165,6 +12160,17 @@
         "least 77 vulnerabilities",
         "wago gmbh co",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-03-26 18:58",
+      "articles": 56,
+      "top_keywords": [
+        "wago gmbh co",
+        "service ddos doxing",
+        "remote code execution",
+        "malicious cyber actors",
+        "least 77 vulnerabilities"
       ]
     }
   ]

@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-03-26 16:55",
+  "last_updated": "2026-03-26 18:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "wago gmbh co",
+    "service ddos doxing",
     "remote code execution",
     "malicious cyber actors",
     "least 77 vulnerabilities",
-    "wago gmbh co",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
-    "service ddos doxing",
     "sans top 5",
     "multiple features designed",
     "iran's intelligence agencies",
     "secure online communications",
     "popular online destinations",
-    "comprehensive data theft",
     "things iot devices",
     "things get shaky",
     "satellite internet equipment",
     "comfortable abusing things",
     "leakbase cybercrime forum",
     "windows operating systems",
-    "victim's username password"
+    "victim's username password",
+    "strategic positioning activity"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 156
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 355
-    },
-    {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 42
-    },
-    {
       "keyword": "wago gmbh co",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1129
-    },
-    {
-      "keyword": "tenant identifier parameter",
-      "mentions": 1
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 74
-    },
-    {
-      "keyword": "sans top 5",
-      "mentions": 9
-    },
-    {
-      "keyword": "multiple features designed",
       "mentions": 2
     },
     {
+      "keyword": "service ddos doxing",
+      "mentions": 75
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 157
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 356
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 43
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1130
+    },
+    {
+      "keyword": "tenant identifier parameter",
+      "mentions": 2
+    },
+    {
+      "keyword": "sans top 5",
+      "mentions": 10
+    },
+    {
+      "keyword": "multiple features designed",
+      "mentions": 3
+    },
+    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 59
+      "mentions": 60
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
+      "link": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
+      "summary": "A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks. The strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, has been attributed to Red Menshen, a threat cluster that's also tracked as Earth Bluecrow,",
+      "published": "Thu, 26 Mar 2026 23:10:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
@@ -109,7 +120,7 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks",
+      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
       "link": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
       "summary": "The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the same exploit that was used in the Operation Triangulation campaign back in 2023, according to new findings from Kaspersky. \"When Coruna was first reported, the public evidence wasn't sufficient to link its code to Triangulation — shared",
       "published": "Thu, 26 Mar 2026 16:37:00 +0530",
@@ -133,15 +144,6 @@
       "link": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
       "summary": "The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday. According to TASS and MVD Media, a news website linked to the Russian Interior Ministry, the suspect is a resident of the city of Taganrog. The suspect is said to have been detained for creating and managing a criminal site that allowed stolen",
       "published": "Wed, 25 Mar 2026 23:05:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
-      "link": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
-      "summary": "Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT), which deploys an information-stealing Google Chrome extension masquerading as an offline version of Google Docs. \"It logs keystrokes, dumps cookies and session tokens, captures screenshots, and",
-      "published": "Wed, 25 Mar 2026 19:56:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -308,10 +310,13 @@
       "source": "Dark Reading",
       "title": "How Organizations Can Use Blunders to Level Up Their Security Programs",
       "link": "https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs",
-      "summary": "The industry highlights how organizations repeatedly make common security mistakes but one session during RSAC detailed ways to avoid them.",
+      "summary": "Organizations repeatedly expose ports, reuse passwords, and skip patches, creating security gaps that attackers exploit for breaches. An industry veteran outlines ways to fix these common mistakes.",
       "published": "Thu, 26 Mar 2026 15:29:32 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -539,15 +544,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "WAGO GmbH & Co. KG Industrial Managed Switches",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01",
-      "summary": "View CSAF Summary An unauthenticated remote attacker can exploit a hidden function in the CLI prompt to escape the restricted interface, leading to full compromise of the device. The following versions of WAGO GmbH & Co. KG Industrial Managed Switches are affected: WAGO Firmware versions prior to V1.2.1.S0 WAGO_Hardware_852-1812 (CVE-2026-3587) WAGO Firmware versions prior to V1.2.1.S0 WAGO_Hardware_852-1813 (CVE-2026-3587) WAGO Firmware versions prior to V1.2.3.S0 WAGO_Hardware_852-1813/000-001",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
       "published": "Thu, 26 Mar 26 12:00:00 +0000",
-      "value_score": 85,
+      "value_score": 99,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Multiple CVEs",
+        "CVE mentioned",
+        "CISA/KEV ×6",
         "Exploit wording"
       ]
     },
@@ -571,6 +576,20 @@
       "title": "OpenCode Systems OC Messaging and USSD Gateway",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outside of their authorized tenant scope via a crafted company or tenant identifier parameter. The following versions of OpenCode Systems OC Messaging and USSD Gateway are affected: OC Messaging 6.32.2 (CVE-2025-70614) USSD Gateway 6.32.2 (CVE-2025-70614) CVSS Vendor Equipment Vulnerabilities v3 8.1 OpenCode Systems OpenCode Systems OC Messaging and USSD",
+      "published": "Thu, 26 Mar 26 12:00:00 +0000",
+      "value_score": 85,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "WAGO GmbH & Co. KG Industrial Managed Switches",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01",
+      "summary": "View CSAF Summary An unauthenticated remote attacker can exploit a hidden function in the CLI prompt to escape the restricted interface, leading to full compromise of the device. The following versions of WAGO GmbH & Co. KG Industrial Managed Switches are affected: WAGO Firmware versions prior to V1.2.1.S0 WAGO_Hardware_852-1812 (CVE-2026-3587) WAGO Firmware versions prior to V1.2.1.S0 WAGO_Hardware_852-1813 (CVE-2026-3587) WAGO Firmware versions prior to V1.2.3.S0 WAGO_Hardware_852-1813/000-001",
       "published": "Thu, 26 Mar 26 12:00:00 +0000",
       "value_score": 85,
       "value_signals": [
@@ -633,20 +652,6 @@
       "value_score": 35,
       "value_signals": [
         "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Grassroots DICOM (GDCM)",
-      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-083-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted file, and when parsed, could result in a denial-of-service condition. The following versions of Grassroots DICOM (GDCM) are affected: Grassroots DICOM (GDCM) 3.2.2 (CVE-2026-3650) CVSS Vendor Equipment Vulnerabilities v3 7.5 Grassroots Grassroots DICOM (GDCM) Missing Release of Memory after Effective Lifetime Background Critical Infrastructure Sectors: Healthcare and Public Health ",
-      "published": "Tue, 24 Mar 26 12:00:00 +0000",
-      "value_score": 67,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity",
-        "Exploit wording"
       ]
     }
   ],

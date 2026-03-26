@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-25 22:30",
+  "last_updated": "2026-03-26 01:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "remote code execution",
     "agents autonomous programs",
+    "remote code execution",
     "citrixbleed2 flaws exploited",
-    "launch ransomware attacks",
+    "ai speeds attacks",
     "underlying communications networks",
     "twitter whistleblower complaint",
     "things iot devices",
@@ -14,56 +14,56 @@
     "sans top 5",
     "iran's intelligence agencies",
     "former u s",
-    "ai speeds attacks",
-    "patch netscaler flaws",
     "paid ai accounts",
+    "patch netscaler flaws",
     "individual user accounts",
     "identity theft evolves",
-    "yanluowang ransomware attacks",
+    "code security tool",
     "patched several vulnerabilities",
     "least 77 vulnerabilities",
-    "control core services"
+    "control core services",
+    "geordie ai wins"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 148
+      "keyword": "agents autonomous programs",
+      "mentions": 65
     },
     {
-      "keyword": "agents autonomous programs",
-      "mentions": 64
+      "keyword": "remote code execution",
+      "mentions": 149
     },
     {
       "keyword": "citrixbleed2 flaws exploited",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "launch ransomware attacks",
+      "keyword": "ai speeds attacks",
       "mentions": 6
     },
     {
       "keyword": "underlying communications networks",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1121
+      "mentions": 1122
     },
     {
       "keyword": "things iot devices",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 66
+      "mentions": 67
     },
     {
       "keyword": "sans top 5",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 51
+      "mentions": 52
     }
   ],
   "articles": [
@@ -150,6 +150,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "GitHub adds AI-powered bug detection to expand security coverage",
+      "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
+      "summary": "GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the CodeQL static analysis and cover more languages and frameworks. [...]",
+      "published": "Wed, 25 Mar 2026 19:23:39 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "PolyShell attacks target 56% of all vulnerable Magento stores",
       "link": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
       "summary": "Attacks leveraging the 'PolyShell' vulnerability in version 2 of Magento Open Source and Adobe Commerce installations are underway, targeting more than half of all vulnerable stores. [...]",
@@ -219,19 +228,6 @@
         "Auth bypass",
         "Patch/update",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Manager of botnet used in ransomware attacks gets 2 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/",
-      "summary": "A Russian national has been sentenced to two years in prison after admitting that the phishing botnet he managed was used to launch BitPaymer ransomware attacks against 72 U.S. companies. [...]",
-      "published": "Wed, 25 Mar 2026 04:47:29 -0400",
-      "value_score": 74,
-      "value_signals": [
-        "Ransomware ×2",
-        "Botnet ×2",
-        "Phishing"
       ]
     },
     {

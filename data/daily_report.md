@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-26 20:31 UTC  
+> **Last Updated:** 2026-03-26 22:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **service ddos doxing** • **remote code execution** • **malicious cyber actors** • **least 77 vulnerabilities** • **twitter whistleblower complaint** • **tenant identifier parameter** • **multiple features designed** • **iran's intelligence agencies** • **things iot devices** • **secure online communications** • **popular online destinations** • **things get shaky** • **satellite internet equipment** • **comfortable abusing things** • **leakbase cybercrime forum** • **windows operating systems** • **victim's username password** • **strategic positioning activity** • **startup will invest**
+**wago gmbh co** • **service ddos doxing** • **remote code execution** • **malicious cyber actors** • **least 77 vulnerabilities** • **twitter whistleblower complaint** • **tenant identifier parameter** • **multiple features designed** • **iran's intelligence agencies** • **things iot devices** • **secure online communications** • **popular online destinations** • **hacker exploited vulnerabilities** • **things get shaky** • **satellite internet equipment** • **comfortable abusing things** • **leakbase cybercrime forum** • **victim's username password** • **strategic positioning activity** • **startup will invest**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Ajax football club hack exposed fan data, enabled ticket hijack](https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/)
 - [CISA: New Langflow flaw actively exploited to hijack AI workflows](https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/)
 - [UK sanctions Xinbi marketplace linked to Asian scam centers](https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/)
 - [TikTok for Business accounts targeted in new phishing campaign](https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/)
@@ -34,7 +35,6 @@
 - [Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers](https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/)
 - [Coruna iOS exploit framework linked to Triangulation attacks](https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/)
 - [Russia arrests suspected owner of LeakBase cybercrime forum](https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/)
-- [Suspected RedLine infostealer malware admin extradited to US](https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/)
 
 ### Krebs on Security
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-26 10:48 UTC |
+| 🕐 Last Updated | 2026-03-26 13:03 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `citrixbleed2 flaws exploited` • `ai speeds attacks` • `underlying communications networks` • `twitter whistleblower complaint` • `things iot devices` • `service ddos doxing` • `sans top 5` • `leakbase cybercrime forum` • `iran's intelligence agencies`
+`citrixbleed2 flaws exploited` • `ai speeds attacks` • `twitter whistleblower complaint` • `service ddos doxing` • `sans top 5` • `iran's intelligence agencies` • `agents autonomous programs` • `paid ai accounts` • `least 77 vulnerabilities` • `malicious cyber actors`
 
 ## 📄 Reports
 

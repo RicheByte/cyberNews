@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-03-26 10:48",
+  "last_updated": "2026-03-26 13:03",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "remote code execution",
     "citrixbleed2 flaws exploited",
     "ai speeds attacks",
-    "underlying communications networks",
     "twitter whistleblower complaint",
-    "things iot devices",
     "service ddos doxing",
     "sans top 5",
-    "leakbase cybercrime forum",
     "iran's intelligence agencies",
-    "former u s",
     "agents autonomous programs",
     "paid ai accounts",
+    "least 77 vulnerabilities",
+    "malicious cyber actors",
+    "things iot devices",
+    "things get shaky",
     "patch netscaler flaws",
     "individual user accounts",
     "identity theft evolves",
-    "code security tool",
-    "frequent attack vector",
-    "patched several vulnerabilities",
-    "least 77 vulnerabilities"
+    "sell stolen data",
+    "secure online communications",
+    "remote code execution",
+    "popular online destinations",
+    "online aliases milan"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 153
-    },
-    {
       "keyword": "citrixbleed2 flaws exploited",
-      "mentions": 9
-    },
-    {
-      "keyword": "ai speeds attacks",
       "mentions": 10
     },
     {
-      "keyword": "underlying communications networks",
+      "keyword": "ai speeds attacks",
       "mentions": 11
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1126
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 88
+      "mentions": 1127
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "sans top 5",
-      "mentions": 6
-    },
-    {
-      "keyword": "leakbase cybercrime forum",
-      "mentions": 8
+      "mentions": 7
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 56
+      "mentions": 57
+    },
+    {
+      "keyword": "agents autonomous programs",
+      "mentions": 70
+    },
+    {
+      "keyword": "paid ai accounts",
+      "mentions": 8
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 40
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 354
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
+      "link": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
+      "summary": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control. But one question usually stays unanswered: Would your defenses actually stop a real attack? That’s where things get shaky. A control exists, so it’s assumed to work. A detection rule is active, so it’s expected to catch something. But very",
+      "published": "Thu, 26 Mar 2026 16:37:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks",
+      "link": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
+      "summary": "The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the same exploit that was used in the Operation Triangulation campaign back in 2023, according to new findings from Kaspersky. \"When Coruna was first reported, the public evidence wasn't sufficient to link its code to Triangulation — shared",
+      "published": "Thu, 26 Mar 2026 16:37:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
@@ -129,24 +149,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
-      "link": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
-      "summary": "The U.S. Federal Communications Commission (FCC) said on Monday that it was banning the import of new, foreign-made consumer routers, citing \"unacceptable\" risks to cyber and national security. The action was designed to safeguard Americans and the underlying communications networks the country relies on, FCC Chairman Brendan Carr said in a post on X. The development means that new models of",
-      "published": "Wed, 25 Mar 2026 12:41:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Russia arrests suspected owner of LeakBase cybercrime forum",
+      "link": "https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/",
+      "summary": "Russian police arrested a Taganrog resident believed to be the owner of LeakBase, a major online forum used by cybercriminals to buy and sell stolen data and hacking tools. [...]",
+      "published": "Thu, 26 Mar 2026 08:50:17 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise",
-      "link": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
-      "summary": "TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential harvester, a Kubernetes lateral movement toolkit, and a persistent backdoor. Multiple security vendors, including Endor Labs and JFrog, revealed that litellm versions 1.82.7 and 1.82.8 were published on March",
-      "published": "Tue, 24 Mar 2026 23:51:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
+      "source": "BleepingComputer",
+      "title": "Suspected RedLine infostealer malware admin extradited to US",
+      "link": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
+      "summary": "An Armenian suspect was extradited to the United States to face criminal charges for allegedly helping manage RedLine, one of the most prolific infostealer malware operations in recent years. [...]",
+      "published": "Thu, 26 Mar 2026 07:51:59 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -207,28 +225,6 @@
       "published": "Wed, 25 Mar 2026 10:02:12 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Kali Linux 2026.1 released with 8 new tools, new BackTrack mode",
-      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/",
-      "summary": "Kali Linux 2026.1, the first release of the year, is now available for download, featuring 8 new tools, a theme refresh, and a new BackTrack mode for Kali-Undercover. [...]",
-      "published": "Wed, 25 Mar 2026 08:31:26 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "TP-Link warns users to patch critical router auth bypass flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/",
-      "summary": "TP-Link has patched several vulnerabilities in its Archer NX router series, including a critical-severity flaw that may allow attackers to bypass authentication and upload new firmware. [...]",
-      "published": "Wed, 25 Mar 2026 07:11:00 -0400",
-      "value_score": 49,
-      "value_signals": [
-        "Auth bypass",
-        "Patch/update",
-        "High severity ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -313,6 +309,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Intermediaries Driving Global Spyware Market Expansion",
+      "link": "https://www.darkreading.com/cyber-risk/intermediaries-driving-global-spyware-market-expansion",
+      "summary": "Third-party resellers and brokers foil transparency efforts and allow spyware to spread despite government restrictions, a study finds.",
+      "published": "Thu, 26 Mar 2026 12:04:31 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "At RSAC, the EU Leads While US Officials Are Sidelined",
       "link": "https://www.darkreading.com/cyber-risk/rsac-eu-leads-us-officials-sidelined",
       "summary": "While US government sits out this year, EU officials are on the ground in San Francisco leading the conversations on today's top cybersecurity challenges.",
@@ -377,13 +382,24 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Ex-NSA Directors Discuss 'Red Line' for Offensive Cyberattacks",
-      "link": "https://www.darkreading.com/cyber-risk/ex-nsa-directors-red-line-offensive-cyberattacks",
-      "summary": "Four former NSA chiefs representing a near-complete history of US Cyber Command debated and discussed the role of offensive cyber in the government.",
-      "published": "Wed, 25 Mar 2026 11:55:50 GMT",
+      "source": "Security Week",
+      "title": "Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure",
+      "link": "https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/",
+      "summary": "The state-sponsored threat actor deployed kernel implants and passive backdoors enabling long-term, high-level espionage. The post Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure appeared first on SecurityWeek .",
+      "published": "Thu, 26 Mar 2026 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Patches Multiple Vulnerabilities in IOS Software",
+      "link": "https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/",
+      "summary": "The high- and medium-severity flaws could lead to denial-of-service, secure boot bypass, information disclosure, and privilege escalation. The post Cisco Patches Multiple Vulnerabilities in IOS Software appeared first on SecurityWeek .",
+      "published": "Thu, 26 Mar 2026 12:32:17 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Privilege escalation"
+      ]
     },
     {
       "source": "Security Week",
@@ -436,24 +452,6 @@
       "link": "https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/",
       "summary": "Apple released security fixes for older devices as well, in iOS 18.7.7, iPadOS 18.7.7, macOS Sequoia 15.7.5, and macOS Sonoma 14.8.5. The post iOS, macOS 26.4 Roll Out With Fresh Security Patches appeared first on SecurityWeek .",
       "published": "Wed, 25 Mar 2026 13:29:17 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "FCC Bans New Routers Made Outside the US Over National Security Risks",
-      "link": "https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/",
-      "summary": "The ban aligns with a White House determination that all routers produced abroad are a threat to national security. The post FCC Bans New Routers Made Outside the US Over National Security Risks appeared first on SecurityWeek .",
-      "published": "Wed, 25 Mar 2026 12:43:35 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "RSAC 2026 Conference Announcements Summary (Day 2)",
-      "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/",
-      "summary": "A summary of the announcements made by vendors on the second day of the RSAC 2026 Conference. The post RSAC 2026 Conference Announcements Summary (Day 2) appeared first on SecurityWeek .",
-      "published": "Wed, 25 Mar 2026 12:05:57 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 353,
+      "count": 354,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -129,7 +129,8 @@
         "2026-03-17",
         "2026-03-18",
         "2026-03-19",
-        "2026-03-20"
+        "2026-03-20",
+        "2026-03-26"
       ]
     },
     "user named csnemess": {
@@ -248,7 +249,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1126,
+      "count": 1127,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -603,7 +604,7 @@
       ]
     },
     "remote code execution": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1850,7 +1851,7 @@
       ]
     },
     "things iot devices": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -6842,7 +6843,7 @@
       ]
     },
     "secure online communications": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -6854,7 +6855,8 @@
         "2026-03-09",
         "2026-03-10",
         "2026-03-11",
-        "2026-03-12"
+        "2026-03-12",
+        "2026-03-26"
       ]
     },
     "original researchers observe": {
@@ -7914,7 +7916,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7924,7 +7926,8 @@
         "2026-03-04",
         "2026-03-05",
         "2026-03-16",
-        "2026-03-23"
+        "2026-03-23",
+        "2026-03-26"
       ]
     },
     "hacktivist group believed": {
@@ -8939,10 +8942,11 @@
       ]
     },
     "sell stolen data": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-05",
-        "2026-03-06"
+        "2026-03-06",
+        "2026-03-26"
       ]
     },
     "assume stolen passwords": {
@@ -9129,7 +9133,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9363,7 +9367,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10352,7 +10356,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10421,7 +10425,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10898,14 +10902,14 @@
       ]
     },
     "ai speeds attacks": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "identity theft evolves": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-25",
         "2026-03-26"
@@ -10931,14 +10935,14 @@
       ]
     },
     "patch netscaler flaws": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "citrixbleed2 flaws exploited": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-25",
         "2026-03-26"
@@ -10965,21 +10969,21 @@
       ]
     },
     "paid ai accounts": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "individual user accounts": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-25",
         "2026-03-26"
       ]
     },
     "sans top 5": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-25",
         "2026-03-26"
@@ -11002,20 +11006,21 @@
       "dates": [
         "2026-03-26"
       ]
+    },
+    "things get shaky": {
+      "count": 1,
+      "dates": [
+        "2026-03-26"
+      ]
+    },
+    "online aliases milan": {
+      "count": 1,
+      "dates": [
+        "2026-03-26"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-17 10:44",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "oracle ebs hack",
-        "phishing uses kakaotalk",
-        "remotely wiped tens",
-        "hacking attempt reported"
-      ]
-    },
     {
       "timestamp": "2026-03-17 13:00",
       "articles": 56,
@@ -12103,6 +12108,17 @@
         "ai speeds attacks",
         "underlying communications networks",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-03-26 13:03",
+      "articles": 56,
+      "top_keywords": [
+        "citrixbleed2 flaws exploited",
+        "ai speeds attacks",
+        "twitter whistleblower complaint",
+        "service ddos doxing",
+        "sans top 5"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27 08:43",
+  "last_updated": "2026-03-27 10:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,62 +11,84 @@
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "multiple features designed",
-    "leakbase cybercrime forum",
     "iran's intelligence agencies",
+    "entertainment ace announced",
+    "5 million users",
     "things iot devices",
     "hacker exploited vulnerabilities",
     "things get shaky",
     "satellite internet equipment",
     "comfortable abusing things",
+    "windows 11 24h2",
     "victim's username password",
     "strategic positioning activity",
-    "steal payment data",
-    "startup will invest",
     "sms messages outside"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 8
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 81
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 163
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 362
-    },
-    {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 49
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1136
-    },
-    {
-      "keyword": "tenant identifier parameter",
-      "mentions": 8
-    },
-    {
-      "keyword": "multiple features designed",
       "mentions": 9
     },
     {
-      "keyword": "leakbase cybercrime forum",
-      "mentions": 17
+      "keyword": "service ddos doxing",
+      "mentions": 82
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 164
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 363
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 50
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1137
+    },
+    {
+      "keyword": "tenant identifier parameter",
+      "mentions": 9
+    },
+    {
+      "keyword": "multiple features designed",
+      "mentions": 10
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 66
+      "mentions": 67
+    },
+    {
+      "keyword": "entertainment ace announced",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Bearlyfy Hits 70+ Russian Firms with Custom GenieLocker Ransomware",
+      "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
+      "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware strain codenamed GenieLocker. \"Bearlyfy (also known as Labubu) operates as a dual-purpose group aimed at inflicting maximum damage upon Russian businesses;",
+      "published": "Fri, 27 Mar 2026 15:34:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
+      "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
+      "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history. Both LangChain and LangGraph are open-source frameworks that are used to build applications powered by Large Language Models (LLMs). LangGraph is built on the foundations of",
+      "published": "Fri, 27 Mar 2026 13:37:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
@@ -130,22 +152,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
-      "link": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
-      "summary": "Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls. \"Instead of the usual HTTP requests or image beacons, this malware uses WebRTC data channels to load its payload and exfiltrate stolen payment data,\" Sansec said in a report published this week. The attack,",
-      "published": "Thu, 26 Mar 2026 12:23:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Anti-piracy coalition takes down AnimePlay app with 5 million users",
+      "link": "https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/",
+      "summary": "The Alliance for Creativity and Entertainment (ACE) announced the shutdown of AnimePlay, a major anime streaming platform with over 5 million users. [...]",
+      "published": "Fri, 27 Mar 2026 06:40:17 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
-      "link": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
-      "summary": "The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday. According to TASS and MVD Media, a news website linked to the Russian Interior Ministry, the suspect is a resident of the city of Taganrog. The suspect is said to have been detained for creating and managing a criminal site that allowed stolen",
-      "published": "Wed, 25 Mar 2026 23:05:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5079391 update rolls out Smart App Control improvements",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/",
+      "summary": "​Microsoft has released the KB5079391 preview cumulative update for Windows 11 24H2 and 25H2, which includes 29 changes, such as Smart App Control and Display improvements. [...]",
+      "published": "Fri, 27 Mar 2026 05:20:59 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -213,28 +237,6 @@
       "published": "Thu, 26 Mar 2026 10:06:27 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/",
-      "summary": "Multi-stage fraud attacks chain bots, proxies, and stolen credentials from signup to takeover. IPQS shows why correlating IP, device, identity, and behavior is critical to stop it. [...]",
-      "published": "Thu, 26 Mar 2026 10:00:10 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Coruna iOS exploit framework linked to Triangulation attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
-      "summary": "The Coruna exploit kit is an evolution of the framework used in the Operation Triangulation espionage campaign, which in 2023 targeted iPhones via zero-click iMessage exploits. [...]",
-      "published": "Thu, 26 Mar 2026 09:10:14 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -398,6 +400,31 @@
     },
     {
       "source": "Security Week",
+      "title": "Coruna iOS Exploit Kit Likely an Update to Operation Triangulation",
+      "link": "https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/",
+      "summary": "Coruna contains the updated version of a kernel exploit used in Operation Triangulation three years ago. The post Coruna iOS Exploit Kit Likely an Update to Operation Triangulation appeared first on SecurityWeek .",
+      "published": "Fri, 27 Mar 2026 10:35:20 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "CISA Flags Critical PTC Vulnerability That Had German Police Mobilized",
+      "link": "https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/",
+      "summary": "Police in Germany physically warned organizations about the critical PTC Windchill vulnerability tracked as CVE-2026-4681. The post CISA Flags Critical PTC Vulnerability That Had German Police Mobilized appeared first on SecurityWeek .",
+      "published": "Fri, 27 Mar 2026 09:21:14 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×2",
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Hightower Holding Data Breach Impacts 130,000",
       "link": "https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/",
       "summary": "The holdings company says hackers stole names, Social Security numbers, and driver’s license numbers from its environment. The post Hightower Holding Data Breach Impacts 130,000 appeared first on SecurityWeek .",
@@ -453,24 +480,6 @@
       "link": "https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/",
       "summary": "The computer giants have announced new security capabilities for PCs and printers. The post Dell and HP Roll Out Quantum-Resistant Device Security appeared first on SecurityWeek .",
       "published": "Thu, 26 Mar 2026 08:57:41 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Onit Security Raises $11 Million for Exposure Management Platform",
-      "link": "https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/",
-      "summary": "The startup will invest in product development and go-to-market efforts as it expands into new sectors. The post Onit Security Raises $11 Million for Exposure Management Platform appeared first on SecurityWeek .",
-      "published": "Wed, 25 Mar 2026 15:58:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Russian Cybercriminal Gets 2-Year Prison Sentence in US",
-      "link": "https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/",
-      "summary": "Ilya Angelov was a member of the cybercrime group tracked as TA-551, Shathak, Gold Cabin, Monster Libra, and ATK236. The post Russian Cybercriminal Gets 2-Year Prison Sentence in US appeared first on SecurityWeek .",
-      "published": "Wed, 25 Mar 2026 14:30:32 +0000",
       "value_score": 10,
       "value_signals": []
     },

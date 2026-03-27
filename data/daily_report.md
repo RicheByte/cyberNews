@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-27 14:45 UTC  
+> **Last Updated:** 2026-03-27 16:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **service ddos doxing** • **things iot devices** • **remote code execution** • **amazon cloud infrastructure** • **twitter whistleblower complaint** • **tenant identifier parameter** • **quantum safe cryptography** • **iran's intelligence agencies** • **iran war unleashing** • **5 million users** • **things get shaky** • **least 77 vulnerabilities** • **amazon cloud hack** • **satellite internet equipment** • **windows 11 24h2** • **victim's username password** • **surface everything feels** • **strategic positioning activity** • **social media platforms**
+**wago gmbh co** • **amazon cloud infrastructure** • **service ddos doxing** • **iran war unleashing** • **things iot devices** • **things get shaky** • **remote code execution** • **twitter whistleblower complaint** • **tenant identifier parameter** • **quantum safe cryptography** • **iran's intelligence agencies** • **5 million users** • **least 77 vulnerabilities** • **satellite internet equipment** • **patel s account** • **windows 11 24h2** • **victim's username password** • **surface everything feels** • **strategic positioning activity** • **social media platforms**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
 - [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
 - [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
 - [Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
@@ -23,12 +24,11 @@
 - [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
 - [[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html)
 - [Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website](https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html)
-- [Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception](https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html)
 
 ### BleepingComputer
 
 - [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
-- [European Commission investigating breach after Amazon cloud hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/)
+- [European Commission investigating breach after Amazon cloud account hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/)
 - [Anti-piracy coalition takes down AnimePlay app with 5 million users](https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/)
 - [Windows 11 KB5079391 update rolls out Smart App Control improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/)
 - [Dutch Police discloses security breach after phishing attack](https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/)
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Wartime Usage of Compromised IP Cameras Highlight Their Danger](https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger)
 - [Infrastructure Attacks With Physical Consequences Down 25%](https://www.darkreading.com/threat-intelligence/infrastructure-attacks-physical-consequences-down)
 - [Google Sets 2029 Deadline for Quantum-Safe Cryptography](https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography)
 - [Is the FCC's Router Ban the Wrong Fix?](https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix)
@@ -56,10 +57,10 @@
 - [Critical Flaw in Langflow AI Platform Under Attack](https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack)
 - [How Organizations Can Use Mistakes to Level Up Their Security Programs](https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs)
 - [AI-Powered Dependency Decisions Introduce, Ignore Security Bugs](https://www.darkreading.com/application-security/ai-powered-dependency-decisions-security-bugs)
-- [Intermediaries Driving Global Spyware Market Expansion](https://www.darkreading.com/cyber-risk/intermediaries-driving-global-spyware-market-expansion)
 
 ### Security Week
 
+- [Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account](https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/)
 - [In Other News: Palo Alto Recruiter Scam, Anti-Deepfake Chip, Google Sets 2029 Quantum Deadline](https://www.securityweek.com/in-other-news-palo-alto-recruiter-scam-anti-deepfake-chip-google-sets-2029-quantum-deadline/)
 - [OpenAI Launches Bug Bounty Program for Abuse and Safety Risks](https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/)
 - [TP-Link Patches High-Severity Router Vulnerabilities](https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/)
@@ -67,7 +68,6 @@
 - [Coruna iOS Exploit Kit Likely an Update to Operation Triangulation](https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/)
 - [CISA Flags Critical PTC Vulnerability That Had German Police Mobilized](https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/)
 - [Hightower Holding Data Breach Impacts 130,000](https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/)
-- [BIND Updates Patch High-Severity Vulnerabilities](https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/)
 
 ### Threatpost
 

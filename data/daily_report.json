@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-03-27 14:45",
+  "last_updated": "2026-03-27 16:48",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
-    "service ddos doxing",
-    "things iot devices",
-    "remote code execution",
     "amazon cloud infrastructure",
+    "service ddos doxing",
+    "iran war unleashing",
+    "things iot devices",
+    "things get shaky",
+    "remote code execution",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "quantum safe cryptography",
     "iran's intelligence agencies",
-    "iran war unleashing",
     "5 million users",
-    "things get shaky",
     "least 77 vulnerabilities",
-    "amazon cloud hack",
     "satellite internet equipment",
+    "patel s account",
     "windows 11 24h2",
     "victim's username password",
     "surface everything feels",
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 11
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 84
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 101
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 166
+      "mentions": 12
     },
     {
       "keyword": "amazon cloud infrastructure",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1139
-    },
-    {
-      "keyword": "tenant identifier parameter",
-      "mentions": 11
-    },
-    {
-      "keyword": "quantum safe cryptography",
-      "mentions": 2
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 69
+      "keyword": "service ddos doxing",
+      "mentions": 85
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 102
+    },
+    {
+      "keyword": "things get shaky",
+      "mentions": 14
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 167
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1140
+    },
+    {
+      "keyword": "tenant identifier parameter",
+      "mentions": 12
+    },
+    {
+      "keyword": "quantum safe cryptography",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
+      "link": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) extension to pass the vetting process and go live in the registry. \"The pipeline had a single boolean return value that meant both 'no scanners are configured' and 'all scanners failed to run,'\" Koi",
+      "published": "Fri, 27 Mar 2026 19:27:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
@@ -141,15 +150,6 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception",
-      "link": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html",
-      "summary": "Unmasking impostors is something the art world has faced for decades, and there are valuable lessons from the works of Elmyr de Hory that can apply to the world of defensive cybersecurity. During the 1960s, de Hory gained infamy as a premier forger, passing off counterfeit masterworks of Picasso, Matisse, and Renoir to unsuspecting collectors and renowned museums. Over the next several decades,",
-      "published": "Thu, 26 Mar 2026 17:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
       "source": "BleepingComputer",
       "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
       "link": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/",
@@ -160,8 +160,8 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "European Commission investigating breach after Amazon cloud hack",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/",
+      "title": "European Commission investigating breach after Amazon cloud account hack",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
       "summary": "The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to its Amazon cloud infrastructure. [...]",
       "published": "Fri, 27 Mar 2026 08:22:19 -0400",
       "value_score": 34,
@@ -319,6 +319,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Wartime Usage of Compromised IP Cameras Highlight Their Danger",
+      "link": "https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger",
+      "summary": "The list of countries exploiting internet-connected cameras to give them eye's inside their adversaries' borders continues to expand, with Russia, Iran, Israel, Ukraine, and the United States all using the tactic. What should companies look out for?",
+      "published": "Fri, 27 Mar 2026 14:42:31 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Infrastructure Attacks With Physical Consequences Down 25%",
       "link": "https://www.darkreading.com/threat-intelligence/infrastructure-attacks-physical-consequences-down",
       "summary": "Operational technology (OT) at industrial and critical infrastructure sites seem to have been benefitting from a lull in ransomware, and hackers' relative ignorance of OT systems.",
@@ -391,11 +402,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Intermediaries Driving Global Spyware Market Expansion",
-      "link": "https://www.darkreading.com/cyber-risk/intermediaries-driving-global-spyware-market-expansion",
-      "summary": "Third-party resellers and brokers foil transparency efforts and allow spyware to spread despite government restrictions, a study finds.",
-      "published": "Thu, 26 Mar 2026 12:04:31 GMT",
+      "source": "Security Week",
+      "title": "Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account",
+      "link": "https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/",
+      "summary": "The group that it was making available for download emails and other documents from Patel’s account. The post Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account appeared first on SecurityWeek .",
+      "published": "Fri, 27 Mar 2026 16:42:22 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -471,17 +482,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "BIND Updates Patch High-Severity Vulnerabilities",
-      "link": "https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/",
-      "summary": "Specially crafted domains could be used to cause out-of-memory conditions, leading to memory leaks in the BIND resolvers. The post BIND Updates Patch High-Severity Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 26 Mar 2026 13:31:40 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {

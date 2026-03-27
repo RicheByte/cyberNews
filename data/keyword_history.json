@@ -251,7 +251,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1138,
+      "count": 1139,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -607,7 +607,7 @@
       ]
     },
     "remote code execution": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1855,7 +1855,7 @@
       ]
     },
     "things iot devices": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7815,7 +7815,7 @@
       ]
     },
     "victim's username password": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9378,7 +9378,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10370,7 +10370,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10440,7 +10440,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10876,7 +10876,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-25",
         "2026-03-27"
@@ -11026,7 +11026,7 @@
       ]
     },
     "things get shaky": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-26",
         "2026-03-27"
@@ -11065,28 +11065,28 @@
       ]
     },
     "wago gmbh co": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-26",
         "2026-03-27"
       ]
     },
     "tenant identifier parameter": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-26",
         "2026-03-27"
       ]
     },
     "satellite internet equipment": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-26",
         "2026-03-27"
       ]
     },
     "strategic positioning activity": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-26",
         "2026-03-27"
@@ -11118,25 +11118,25 @@
       ]
     },
     "5 million users": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-27"
       ]
     },
     "windows 11 24h2": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-27"
       ]
     },
     "amazon cloud infrastructure": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-27"
       ]
     },
     "quantum safe cryptography": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-27"
       ]
@@ -11148,6 +11148,18 @@
       ]
     },
     "amazon cloud hack": {
+      "count": 2,
+      "dates": [
+        "2026-03-27"
+      ]
+    },
+    "surface everything feels": {
+      "count": 1,
+      "dates": [
+        "2026-03-27"
+      ]
+    },
+    "social media platforms": {
       "count": 1,
       "dates": [
         "2026-03-27"
@@ -11155,17 +11167,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-18 13:00",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "scadapack 57x product",
-        "cve 2026 20643",
-        "ransomware operation known",
-        "execute arbitrary code"
-      ]
-    },
     {
       "timestamp": "2026-03-18 14:57",
       "articles": 56,
@@ -12252,6 +12253,17 @@
         "remote code execution",
         "service ddos doxing",
         "things iot devices",
+        "amazon cloud infrastructure"
+      ]
+    },
+    {
+      "timestamp": "2026-03-27 14:45",
+      "articles": 56,
+      "top_keywords": [
+        "wago gmbh co",
+        "service ddos doxing",
+        "things iot devices",
+        "remote code execution",
         "amazon cloud infrastructure"
       ]
     }

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-27 16:48 UTC |
+| 🕐 Last Updated | 2026-03-27 18:49 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`wago gmbh co` • `amazon cloud infrastructure` • `service ddos doxing` • `iran war unleashing` • `things iot devices` • `things get shaky` • `remote code execution` • `twitter whistleblower complaint` • `tenant identifier parameter` • `quantum safe cryptography`
+`wago gmbh co` • `hacker exploited vulnerabilities` • `threat actor behind` • `things iot devices` • `service ddos doxing` • `iran war unleashing` • `remote code execution` • `patel s account` • `twitter whistleblower complaint` • `tenant identifier parameter`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-27 16:48 UTC  
+> **Last Updated:** 2026-03-27 18:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **amazon cloud infrastructure** • **service ddos doxing** • **iran war unleashing** • **things iot devices** • **things get shaky** • **remote code execution** • **twitter whistleblower complaint** • **tenant identifier parameter** • **quantum safe cryptography** • **iran's intelligence agencies** • **5 million users** • **least 77 vulnerabilities** • **satellite internet equipment** • **patel s account** • **windows 11 24h2** • **victim's username password** • **surface everything feels** • **strategic positioning activity** • **social media platforms**
+**wago gmbh co** • **hacker exploited vulnerabilities** • **threat actor behind** • **things iot devices** • **service ddos doxing** • **iran war unleashing** • **remote code execution** • **patel s account** • **twitter whistleblower complaint** • **tenant identifier parameter** • **quantum safe cryptography** • **large scale campaign** • **iran's intelligence agencies** • **least 77 vulnerabilities** • **rsac 2026 conference** • **cve 2026 4681** • **cve 2026 33017** • **let s admit** • **windows 11 24h2** • **victim's username password**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
+- [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
 - [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
 - [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
 - [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
 - [Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
 - [LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks](https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html)
 - [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
-- [[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html)
-- [Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website](https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html)
 
 ### BleepingComputer
 
+- [Fake VS Code alerts on GitHub spread malware to developers](https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/)
 - [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
 - [European Commission investigating breach after Amazon cloud account hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/)
 - [Anti-piracy coalition takes down AnimePlay app with 5 million users](https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/)
@@ -34,7 +35,6 @@
 - [Dutch Police discloses security breach after phishing attack](https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/)
 - [Ajax football club hack exposed fan data, enabled ticket hijack](https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/)
 - [CISA: New Langflow flaw actively exploited to hijack AI workflows](https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/)
-- [UK sanctions Xinbi marketplace linked to Asian scam centers](https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [China Upgrades the Backdoor It Uses to Spy on Telcos Globally](https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos)
 - [Wartime Usage of Compromised IP Cameras Highlight Their Danger](https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger)
 - [Infrastructure Attacks With Physical Consequences Down 25%](https://www.darkreading.com/threat-intelligence/infrastructure-attacks-physical-consequences-down)
 - [Google Sets 2029 Deadline for Quantum-Safe Cryptography](https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography)
+- [Coruna, DarkSword &amp; Democratizing Nation-State Exploit Kits](https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits)
 - [Is the FCC's Router Ban the Wrong Fix?](https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix)
 - [Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles](https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles)
 - [Critical Flaw in Langflow AI Platform Under Attack](https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack)
-- [How Organizations Can Use Mistakes to Level Up Their Security Programs](https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs)
-- [AI-Powered Dependency Decisions Introduce, Ignore Security Bugs](https://www.darkreading.com/application-security/ai-powered-dependency-decisions-security-bugs)
 
 ### Security Week
 

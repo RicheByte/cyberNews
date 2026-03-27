@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-03-27 16:48",
+  "last_updated": "2026-03-27 18:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
-    "amazon cloud infrastructure",
+    "hacker exploited vulnerabilities",
+    "threat actor behind",
+    "things iot devices",
     "service ddos doxing",
     "iran war unleashing",
-    "things iot devices",
-    "things get shaky",
     "remote code execution",
+    "patel s account",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "quantum safe cryptography",
+    "large scale campaign",
     "iran's intelligence agencies",
-    "5 million users",
     "least 77 vulnerabilities",
-    "satellite internet equipment",
-    "patel s account",
+    "rsac 2026 conference",
+    "cve 2026 4681",
+    "cve 2026 33017",
+    "let s admit",
     "windows 11 24h2",
-    "victim's username password",
-    "surface everything feels",
-    "strategic positioning activity",
-    "social media platforms"
+    "victim's username password"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 12
+      "mentions": 13
     },
     {
-      "keyword": "amazon cloud infrastructure",
-      "mentions": 3
+      "keyword": "hacker exploited vulnerabilities",
+      "mentions": 8
     },
     {
-      "keyword": "service ddos doxing",
-      "mentions": 85
-    },
-    {
-      "keyword": "iran war unleashing",
-      "mentions": 11
+      "keyword": "threat actor behind",
+      "mentions": 2
     },
     {
       "keyword": "things iot devices",
-      "mentions": 102
+      "mentions": 103
     },
     {
-      "keyword": "things get shaky",
-      "mentions": 14
+      "keyword": "service ddos doxing",
+      "mentions": 86
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 167
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1140
-    },
-    {
-      "keyword": "tenant identifier parameter",
+      "keyword": "iran war unleashing",
       "mentions": 12
     },
     {
-      "keyword": "quantum safe cryptography",
-      "mentions": 3
+      "keyword": "remote code execution",
+      "mentions": 168
+    },
+    {
+      "keyword": "patel s account",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1141
+    },
+    {
+      "keyword": "tenant identifier parameter",
+      "mentions": 13
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development was first reported by MacRumors. \"Apple is aware of attacks targeting out-of-date iOS software, including the version on your iPhone. Install this critical update to protect your iPhone,\" the",
+      "published": "Fri, 27 Mar 2026 22:52:00 +0530",
+      "value_score": 40,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+      "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
+      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March 27, 2026, concealed their credential harvesting capabilities within a .WAV file. Users are",
+      "published": "Fri, 27 Mar 2026 22:23:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
@@ -130,24 +152,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
-      "link": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
-      "summary": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control. But one question usually stays unanswered: Would your defenses actually stop a real attack? That’s where things get shaky. A control exists, so it’s assumed to work. A detection rule is active, so it’s expected to catch something. But very",
-      "published": "Thu, 26 Mar 2026 18:42:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Fake VS Code alerts on GitHub spread malware to developers",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
+      "summary": "A large-scale campaign is targeting developers on GitHub with fake Visual Studio Code (VS Code) security alerts posted in the Discussions section of various projects, to trick users into downloading malware. [...]",
+      "published": "Fri, 27 Mar 2026 12:51:52 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
-      "link": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
-      "summary": "Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page. The flaw \"allowed any website to silently inject prompts into that assistant as if the user wrote them,\" Koi Security researcher Oren Yomtov said in a report shared with The Hacker News. \"No clicks, no",
-      "published": "Thu, 26 Mar 2026 18:41:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -162,7 +173,7 @@
       "source": "BleepingComputer",
       "title": "European Commission investigating breach after Amazon cloud account hack",
       "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
-      "summary": "The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to its Amazon cloud infrastructure. [...]",
+      "summary": "The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to the Commission's Amazon cloud environment. [...]",
       "published": "Fri, 27 Mar 2026 08:22:19 -0400",
       "value_score": 34,
       "value_signals": [
@@ -226,15 +237,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/",
-      "summary": "The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned Xinbi, a Chinese-language cryptocurrency-based online marketplace that sells stolen data and satellite internet equipment to scam networks in Southeast Asia. [...]",
-      "published": "Thu, 26 Mar 2026 11:42:43 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -319,6 +321,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "China Upgrades the Backdoor It Uses to Spy on Telcos Globally",
+      "link": "https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos",
+      "summary": "Chinese APT Red Menshen's super-advanced BPFdoor malware defeats traditional cybersecurity protections. All telcos can do, really, is try hunting it down.",
+      "published": "Fri, 27 Mar 2026 16:48:49 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Wartime Usage of Compromised IP Cameras Highlight Their Danger",
       "link": "https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger",
       "summary": "The list of countries exploiting internet-connected cameras to give them eye's inside their adversaries' borders continues to expand, with Russia, Iran, Israel, Ukraine, and the United States all using the tactic. What should companies look out for?",
@@ -351,6 +364,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Coruna, DarkSword &amp; Democratizing Nation-State Exploit Kits",
+      "link": "https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits",
+      "summary": "Nation-state malware is being sold on the Dark Web and leaked to GitHub; and ordinary organizations might not stand much of a chance of defending themselves.",
+      "published": "Thu, 26 Mar 2026 19:56:41 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Is the FCC's Router Ban the Wrong Fix?",
       "link": "https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix",
       "summary": "The agency put foreign-made consumer routers on its list of prohibited communications devices, but the ban could create more problems down the road.",
@@ -379,27 +403,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "How Organizations Can Use Mistakes to Level Up Their Security Programs",
-      "link": "https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs",
-      "summary": "Organizations repeatedly expose ports, reuse passwords, and skip patches, creating security gaps that attackers exploit for breaches. An industry veteran outlines ways to fix these common mistakes.",
-      "published": "Thu, 26 Mar 2026 15:29:32 GMT",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI-Powered Dependency Decisions Introduce, Ignore Security Bugs",
-      "link": "https://www.darkreading.com/application-security/ai-powered-dependency-decisions-security-bugs",
-      "summary": "AI models often hallucinate or make costly mistakes when tasked with recommending software versions, upgrade paths, and security fixes — leading to significant technical debt.",
-      "published": "Thu, 26 Mar 2026 14:44:16 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

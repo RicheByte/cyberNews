@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27 18:49",
+  "last_updated": "2026-03-27 20:32",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,7 +8,6 @@
     "threat actor behind",
     "things iot devices",
     "service ddos doxing",
-    "iran war unleashing",
     "remote code execution",
     "patel s account",
     "twitter whistleblower complaint",
@@ -16,6 +15,7 @@
     "quantum safe cryptography",
     "large scale campaign",
     "iran's intelligence agencies",
+    "iran war unleashing",
     "least 77 vulnerabilities",
     "rsac 2026 conference",
     "cve 2026 4681",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "hacker exploited vulnerabilities",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "threat actor behind",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "things iot devices",
-      "mentions": 103
+      "mentions": 104
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 86
-    },
-    {
-      "keyword": "iran war unleashing",
-      "mentions": 12
+      "mentions": 87
     },
     {
       "keyword": "remote code execution",
-      "mentions": 168
+      "mentions": 169
     },
     {
       "keyword": "patel s account",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1141
+      "mentions": 1142
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 13
+      "mentions": 14
+    },
+    {
+      "keyword": "quantum safe cryptography",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -334,8 +334,8 @@
       "source": "Dark Reading",
       "title": "Wartime Usage of Compromised IP Cameras Highlight Their Danger",
       "link": "https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger",
-      "summary": "The list of countries exploiting internet-connected cameras to give them eye's inside their adversaries' borders continues to expand, with Russia, Iran, Israel, Ukraine, and the United States all using the tactic. What should companies look out for?",
-      "published": "Fri, 27 Mar 2026 14:42:31 GMT",
+      "summary": "The list of countries exploiting Internet-connected cameras to give them eyes inside their adversaries' borders continues to expand. What should companies look out for?",
+      "published": "Fri, 27 Mar 2026 16:21:48 GMT",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"

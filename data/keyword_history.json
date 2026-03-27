@@ -251,7 +251,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1142,
+      "count": 1143,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -607,7 +607,7 @@
       ]
     },
     "remote code execution": {
-      "count": 169,
+      "count": 170,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1855,7 +1855,7 @@
       ]
     },
     "things iot devices": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7815,7 +7815,7 @@
       ]
     },
     "victim's username password": {
-      "count": 128,
+      "count": 129,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8618,7 +8618,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-03",
         "2026-03-27"
@@ -9379,7 +9379,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10371,7 +10371,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10406,7 +10406,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10442,7 +10442,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10878,7 +10878,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-25",
         "2026-03-27"
@@ -11067,14 +11067,14 @@
       ]
     },
     "wago gmbh co": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-03-26",
         "2026-03-27"
       ]
     },
     "tenant identifier parameter": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-03-26",
         "2026-03-27"
@@ -11088,14 +11088,14 @@
       ]
     },
     "strategic positioning activity": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-26",
         "2026-03-27"
       ]
     },
     "hacker exploited vulnerabilities": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-26",
         "2026-03-27"
@@ -11126,7 +11126,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-27"
       ]
@@ -11138,7 +11138,7 @@
       ]
     },
     "quantum safe cryptography": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-27"
       ]
@@ -11168,19 +11168,19 @@
       ]
     },
     "patel s account": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-27"
       ]
     },
     "large scale campaign": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-27"
       ]
     },
     "cve 2026 4681": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-27"
       ]
@@ -11192,24 +11192,13 @@
       ]
     },
     "let s admit": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-27"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-18 20:30",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "ofac sanctions dprk",
-        "cve 2026 20643",
-        "scadapack 57x product",
-        "execute arbitrary code"
-      ]
-    },
     {
       "timestamp": "2026-03-18 22:27",
       "articles": 56,
@@ -12297,6 +12286,17 @@
         "threat actor behind",
         "things iot devices",
         "service ddos doxing"
+      ]
+    },
+    {
+      "timestamp": "2026-03-27 22:26",
+      "articles": 56,
+      "top_keywords": [
+        "hacker exploited vulnerabilities",
+        "threat actor behind",
+        "things iot devices",
+        "service ddos doxing",
+        "remote code execution"
       ]
     }
   ]

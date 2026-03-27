@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-27 20:32 UTC  
+> **Last Updated:** 2026-03-27 22:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **hacker exploited vulnerabilities** • **threat actor behind** • **things iot devices** • **service ddos doxing** • **remote code execution** • **patel s account** • **twitter whistleblower complaint** • **tenant identifier parameter** • **quantum safe cryptography** • **large scale campaign** • **iran's intelligence agencies** • **iran war unleashing** • **least 77 vulnerabilities** • **rsac 2026 conference** • **cve 2026 4681** • **cve 2026 33017** • **let s admit** • **windows 11 24h2** • **victim's username password**
+**hacker exploited vulnerabilities** • **threat actor behind** • **things iot devices** • **service ddos doxing** • **remote code execution** • **patel s account** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **quantum safe cryptography** • **large scale campaign** • **iran's intelligence agencies** • **iran war unleashing** • **rsac 2026 conference** • **least 77 vulnerabilities** • **cve 2026 4681** • **let s admit** • **windows 11 24h2** • **victim's username password** • **strategic positioning activity**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Backdoored Telnyx PyPI package pushes malware hidden in WAV audio](https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/)
 - [Fake VS Code alerts on GitHub spread malware to developers](https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/)
 - [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
 - [European Commission investigating breach after Amazon cloud account hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/)
@@ -34,7 +35,6 @@
 - [Windows 11 KB5079391 update rolls out Smart App Control improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/)
 - [Dutch Police discloses security breach after phishing attack](https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/)
 - [Ajax football club hack exposed fan data, enabled ticket hijack](https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/)
-- [CISA: New Langflow flaw actively exploited to hijack AI workflows](https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [PTC Windchill Product Lifecycle Management](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03)
 - [OpenCode Systems OC Messaging and USSD Gateway](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02)
+- [PTC Windchill Product Lifecycle Management](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03)
 - [WAGO GmbH & Co. KG Industrial Managed Switches](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Pharos Controls Mosaic Show Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-01)
 - [Schneider Electric Plant iT/Brewmaxx](https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-03)
-- [Schneider Electric EcoStruxure Foxboro DCS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-02)
 
 ---
 

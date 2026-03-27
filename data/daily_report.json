@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-27 20:32",
+  "last_updated": "2026-03-27 22:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "wago gmbh co",
     "hacker exploited vulnerabilities",
     "threat actor behind",
     "things iot devices",
     "service ddos doxing",
     "remote code execution",
     "patel s account",
+    "wago gmbh co",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "quantum safe cryptography",
     "large scale campaign",
     "iran's intelligence agencies",
     "iran war unleashing",
-    "least 77 vulnerabilities",
     "rsac 2026 conference",
+    "least 77 vulnerabilities",
     "cve 2026 4681",
-    "cve 2026 33017",
     "let s admit",
     "windows 11 24h2",
-    "victim's username password"
+    "victim's username password",
+    "strategic positioning activity"
   ],
   "trending": [
     {
-      "keyword": "wago gmbh co",
-      "mentions": 14
-    },
-    {
       "keyword": "hacker exploited vulnerabilities",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "threat actor behind",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "things iot devices",
-      "mentions": 104
+      "mentions": 105
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 87
+      "mentions": 88
     },
     {
       "keyword": "remote code execution",
-      "mentions": 169
+      "mentions": 170
     },
     {
       "keyword": "patel s account",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "wago gmbh co",
+      "mentions": 15
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1142
+      "mentions": 1143
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -153,6 +153,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
+      "link": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
+      "summary": "TeamPCP hackers compromised the Telnyx package on the Python Package Index today, uploading malicious versions that deliver credential-stealing malware hidden inside a WAV file. [...]",
+      "published": "Fri, 27 Mar 2026 17:13:26 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Fake VS Code alerts on GitHub spread malware to developers",
       "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
       "summary": "A large-scale campaign is targeting developers on GitHub with fake Visual Studio Code (VS Code) security alerts posted in the Discussions section of various projects, to trick users into downloading malware. [...]",
@@ -220,21 +229,6 @@
       "published": "Thu, 26 Mar 2026 16:37:25 -0400",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are actively exploiting a critical vulnerability identified as CVE-2026-33017, which affects the Langflow framework for building AI agents. [...]",
-      "published": "Thu, 26 Mar 2026 15:17:43 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "CISA/KEV ×2",
-        "High severity",
         "Exploit wording"
       ]
     },
@@ -573,6 +567,21 @@
     {
       "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common",
+      "published": "Fri, 27 Mar 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "RCE",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
       "published": "Thu, 26 Mar 26 12:00:00 +0000",
@@ -581,6 +590,20 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "OpenCode Systems OC Messaging and USSD Gateway",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outside of their authorized tenant scope via a crafted company or tenant identifier parameter. The following versions of OpenCode Systems OC Messaging and USSD Gateway are affected: OC Messaging 6.32.2 (CVE-2025-70614) USSD Gateway 6.32.2 (CVE-2025-70614) CVSS Vendor Equipment Vulnerabilities v3 8.1 OpenCode Systems OpenCode Systems OC Messaging and USSD",
+      "published": "Thu, 26 Mar 26 12:00:00 +0000",
+      "value_score": 85,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "Multiple CVEs",
         "Exploit wording"
       ]
     },
@@ -595,20 +618,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned ×6",
         "RCE",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "OpenCode Systems OC Messaging and USSD Gateway",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outside of their authorized tenant scope via a crafted company or tenant identifier parameter. The following versions of OpenCode Systems OC Messaging and USSD Gateway are affected: OC Messaging 6.32.2 (CVE-2025-70614) USSD Gateway 6.32.2 (CVE-2025-70614) CVSS Vendor Equipment Vulnerabilities v3 8.1 OpenCode Systems OpenCode Systems OC Messaging and USSD",
-      "published": "Thu, 26 Mar 26 12:00:00 +0000",
-      "value_score": 85,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
         "Multiple CVEs",
         "Exploit wording"
       ]
@@ -669,17 +678,6 @@
         "Privilege escalation",
         "Multiple CVEs",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric EcoStruxure Foxboro DCS",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-02",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure Foxboro DCS Control Software on Foxboro DCS workstations and servers. Control Core Services and all runtime software, like FCPs, FDCs, and FBMs, are not affected. The EcoStruxure Foxboro DCS ([https://www.se.com/ww/en/product-range/63680-ecostruxure-foxboro-dcs/](https://www.se.com/ww/en/product-range/63680-ecostruxure-foxboro-dcs/)) product is an innovative family of fault-tolerant, highly available control comp",
-      "published": "Tue, 24 Mar 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
       ]
     }
   ],

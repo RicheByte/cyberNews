@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-27 10:42 UTC |
+| 🕐 Last Updated | 2026-03-27 12:55 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`wago gmbh co` • `service ddos doxing` • `remote code execution` • `malicious cyber actors` • `least 77 vulnerabilities` • `twitter whistleblower complaint` • `tenant identifier parameter` • `multiple features designed` • `iran's intelligence agencies` • `entertainment ace announced`
+`wago gmbh co` • `remote code execution` • `service ddos doxing` • `things iot devices` • `amazon cloud infrastructure` • `twitter whistleblower complaint` • `tenant identifier parameter` • `quantum safe cryptography` • `least 77 vulnerabilities` • `iran's intelligence agencies`
 
 ## 📄 Reports
 

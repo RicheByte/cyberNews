@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-27 10:42 UTC  
+> **Last Updated:** 2026-03-27 12:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **service ddos doxing** • **remote code execution** • **malicious cyber actors** • **least 77 vulnerabilities** • **twitter whistleblower complaint** • **tenant identifier parameter** • **multiple features designed** • **iran's intelligence agencies** • **entertainment ace announced** • **5 million users** • **things iot devices** • **hacker exploited vulnerabilities** • **things get shaky** • **satellite internet equipment** • **comfortable abusing things** • **windows 11 24h2** • **victim's username password** • **strategic positioning activity** • **sms messages outside**
+**wago gmbh co** • **remote code execution** • **service ddos doxing** • **things iot devices** • **amazon cloud infrastructure** • **twitter whistleblower complaint** • **tenant identifier parameter** • **quantum safe cryptography** • **least 77 vulnerabilities** • **iran's intelligence agencies** • **iran war unleashing** • **anti abuse activists** • **5 million users** • **things get shaky** • **analyzing malicious pages** • **amazon cloud hack** • **satellite internet equipment** • **hacker exploited vulnerabilities** • **windows 11 24h2** • **victim's username password**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
-- [Bearlyfy Hits 70+ Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
+- [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
+- [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
+- [Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
 - [LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks](https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html)
 - [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
 - [[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html)
 - [Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website](https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html)
 - [Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception](https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html)
-- [ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories](https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html)
-- [Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks](https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html)
 
 ### BleepingComputer
 
+- [European Commission investigating breach after Amazon cloud hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/)
 - [Anti-piracy coalition takes down AnimePlay app with 5 million users](https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/)
 - [Windows 11 KB5079391 update rolls out Smart App Control improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/)
 - [Dutch Police discloses security breach after phishing attack](https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/)
@@ -34,7 +35,6 @@
 - [CISA: New Langflow flaw actively exploited to hijack AI workflows](https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/)
 - [UK sanctions Xinbi marketplace linked to Asian scam centers](https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/)
 - [TikTok for Business accounts targeted in new phishing campaign](https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/)
-- [WhatsApp rolls out more AI features, iOS multi-account support](https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Google Sets 2029 Deadline for Quantum-Safe Cryptography](https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography)
 - [Is the FCC's Router Ban the Wrong Fix?](https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix)
 - [Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles](https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles)
 - [Critical Flaw in Langflow AI Platform Under Attack](https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack)
@@ -56,18 +57,17 @@
 - [AI-Powered Dependency Decisions Introduce, Ignore Security Bugs](https://www.darkreading.com/application-security/ai-powered-dependency-decisions-security-bugs)
 - [Intermediaries Driving Global Spyware Market Expansion](https://www.darkreading.com/cyber-risk/intermediaries-driving-global-spyware-market-expansion)
 - [At RSAC, the EU Leads While US Officials Are Sidelined](https://www.darkreading.com/cyber-risk/rsac-eu-leads-us-officials-sidelined)
-- [Blame Game: Why Public Cyber Attribution Carries Risks](https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks)
 
 ### Security Week
 
+- [TP-Link Patches High-Severity Router Vulnerabilities](https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/)
+- [RSAC 2026 Conference Announcements Summary (Days 3-4)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/)
 - [Coruna iOS Exploit Kit Likely an Update to Operation Triangulation](https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/)
 - [CISA Flags Critical PTC Vulnerability That Had German Police Mobilized](https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/)
 - [Hightower Holding Data Breach Impacts 130,000](https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/)
 - [BIND Updates Patch High-Severity Vulnerabilities](https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/)
 - [Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure](https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/)
 - [Cisco Patches Multiple Vulnerabilities in IOS Software](https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/)
-- [Alleged RedLine Malware Administrator Extradited to US](https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/)
-- [Dell and HP Roll Out Quantum-Resistant Device Security](https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/)
 
 ### Threatpost
 

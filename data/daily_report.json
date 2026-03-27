@@ -1,75 +1,95 @@
 {
-  "last_updated": "2026-03-27 10:42",
+  "last_updated": "2026-03-27 12:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
-    "service ddos doxing",
     "remote code execution",
-    "malicious cyber actors",
-    "least 77 vulnerabilities",
+    "service ddos doxing",
+    "things iot devices",
+    "amazon cloud infrastructure",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
-    "multiple features designed",
+    "quantum safe cryptography",
+    "least 77 vulnerabilities",
     "iran's intelligence agencies",
-    "entertainment ace announced",
+    "iran war unleashing",
+    "anti abuse activists",
     "5 million users",
-    "things iot devices",
-    "hacker exploited vulnerabilities",
     "things get shaky",
+    "analyzing malicious pages",
+    "amazon cloud hack",
     "satellite internet equipment",
-    "comfortable abusing things",
+    "hacker exploited vulnerabilities",
     "windows 11 24h2",
-    "victim's username password",
-    "strategic positioning activity",
-    "sms messages outside"
+    "victim's username password"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 9
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 82
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 164
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 363
-    },
-    {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 50
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1137
-    },
-    {
-      "keyword": "tenant identifier parameter",
-      "mentions": 9
-    },
-    {
-      "keyword": "multiple features designed",
       "mentions": 10
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 67
+      "keyword": "remote code execution",
+      "mentions": 165
     },
     {
-      "keyword": "entertainment ace announced",
+      "keyword": "service ddos doxing",
+      "mentions": 83
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 100
+    },
+    {
+      "keyword": "amazon cloud infrastructure",
       "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1138
+    },
+    {
+      "keyword": "tenant identifier parameter",
+      "mentions": 10
+    },
+    {
+      "keyword": "quantum safe cryptography",
+      "mentions": 1
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 51
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 68
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "Bearlyfy Hits 70+ Russian Firms with Custom GenieLocker Ransomware",
+      "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
+      "link": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
+      "summary": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security. Business accounts associated with social media platforms are a lucrative target, as they can be weaponized by bad actors for malvertising and distributing malware. \"TikTok has been historically abused to distribute",
+      "published": "Fri, 27 Mar 2026 17:33:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "We Are At War",
+      "link": "https://thehackernews.com/2026/03/we-are-at-war.html",
+      "summary": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let’s admit it: we are in the middle of it. Introduction: One tech power to rule them all is a thing of the past The relative safety, peace and prosperity that much of the world has enjoyed since 1945 was not accidental. It emerged from the ashes",
+      "published": "Fri, 27 Mar 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
       "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
       "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware strain codenamed GenieLocker. \"Bearlyfy (also known as Labubu) operates as a dual-purpose group aimed at inflicting maximum damage upon Russian businesses;",
       "published": "Fri, 27 Mar 2026 15:34:00 +0530",
@@ -130,25 +150,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
-      "link": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
-      "summary": "Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are getting way too comfortable abusing things they probably shouldn’t even be touching. There’s a little bit of everything in this one, too. Weird delivery tricks, old problems coming back in slightly worse forms, shady infrastructure doing",
-      "published": "Thu, 26 Mar 2026 17:15:00 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "European Commission investigating breach after Amazon cloud hack",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/",
+      "summary": "The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to its Amazon cloud infrastructure. [...]",
+      "published": "Fri, 27 Mar 2026 08:22:19 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
-      "link": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
-      "summary": "The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the same exploit that was used in the Operation Triangulation campaign back in 2023, according to new findings from Kaspersky. \"When Coruna was first reported, the public evidence wasn't sufficient to link its code to Triangulation — shared",
-      "published": "Thu, 26 Mar 2026 16:37:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -228,15 +237,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WhatsApp rolls out more AI features, iOS multi-account support",
-      "link": "https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/",
-      "summary": "WhatsApp is rolling out multiple features designed to make the app easier to use, including AI-powered message replies and photo retouching, support for two accounts on iOS, and chat history transfer between iOS and Android devices. [...]",
-      "published": "Thu, 26 Mar 2026 10:06:27 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -321,6 +321,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Google Sets 2029 Deadline for Quantum-Safe Cryptography",
+      "link": "https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography",
+      "summary": "The post-quantum future may be coming sooner than you think, as Google plans to have PQC migration in place by 2029.",
+      "published": "Fri, 27 Mar 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Is the FCC's Router Ban the Wrong Fix?",
       "link": "https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix",
       "summary": "The agency put foreign-made consumer routers on its list of prohibited communications devices, but the ban could create more problems down the road.",
@@ -390,11 +399,20 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Blame Game: Why Public Cyber Attribution Carries Risks",
-      "link": "https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks",
-      "summary": "Publicly accusing an entity of a cyberattack could have negative consequences that organizations should consider before taking the plunge.",
-      "published": "Wed, 25 Mar 2026 16:03:29 GMT",
+      "source": "Security Week",
+      "title": "TP-Link Patches High-Severity Router Vulnerabilities",
+      "link": "https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/",
+      "summary": "The security defects could be used to bypass authentication, execute arbitrary commands, and decrypt configuration files. The post TP-Link Patches High-Severity Router Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Fri, 27 Mar 2026 11:42:30 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "RSAC 2026 Conference Announcements Summary (Days 3-4)",
+      "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/",
+      "summary": "A summary of the announcements made by vendors on the third and fourth days of the RSAC 2026 Conference. The post RSAC 2026 Conference Announcements Summary (Days 3-4) appeared first on SecurityWeek .",
+      "published": "Fri, 27 Mar 2026 10:48:53 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -464,24 +482,6 @@
       "value_signals": [
         "Privilege escalation"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Alleged RedLine Malware Administrator Extradited to US",
-      "link": "https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/",
-      "summary": "Hambardzum Minasyan of Armenia has been accused of being involved in the development and administration of the infostealer malware. The post Alleged RedLine Malware Administrator Extradited to US appeared first on SecurityWeek .",
-      "published": "Thu, 26 Mar 2026 10:06:56 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Dell and HP Roll Out Quantum-Resistant Device Security",
-      "link": "https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/",
-      "summary": "The computer giants have announced new security capabilities for PCs and printers. The post Dell and HP Roll Out Quantum-Resistant Device Security appeared first on SecurityWeek .",
-      "published": "Thu, 26 Mar 2026 08:57:41 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

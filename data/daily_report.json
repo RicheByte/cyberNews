@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27 07:00",
+  "last_updated": "2026-03-27 08:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,59 +11,59 @@
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "multiple features designed",
+    "leakbase cybercrime forum",
     "iran's intelligence agencies",
     "things iot devices",
-    "secure online communications",
-    "popular online destinations",
     "hacker exploited vulnerabilities",
     "things get shaky",
     "satellite internet equipment",
     "comfortable abusing things",
-    "leakbase cybercrime forum",
     "victim's username password",
     "strategic positioning activity",
-    "startup will invest"
+    "steal payment data",
+    "startup will invest",
+    "sms messages outside"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 7
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 80
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 162
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 361
-    },
-    {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 48
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1135
-    },
-    {
-      "keyword": "tenant identifier parameter",
-      "mentions": 7
-    },
-    {
-      "keyword": "multiple features designed",
       "mentions": 8
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 65
+      "keyword": "service ddos doxing",
+      "mentions": 81
     },
     {
-      "keyword": "things iot devices",
-      "mentions": 97
+      "keyword": "remote code execution",
+      "mentions": 163
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 362
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 49
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1136
+    },
+    {
+      "keyword": "tenant identifier parameter",
+      "mentions": 8
+    },
+    {
+      "keyword": "multiple features designed",
+      "mentions": 9
+    },
+    {
+      "keyword": "leakbase cybercrime forum",
+      "mentions": 17
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 66
     }
   ],
   "articles": [
@@ -149,6 +149,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Dutch Police discloses security breach after phishing attack",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/",
+      "summary": "The Dutch National Police (Politie) says a security breach resulting from a successful phishing attack has had a limited impact and hasn't affected citizens' data. [...]",
+      "published": "Fri, 27 Mar 2026 04:20:11 -0400",
+      "value_score": 50,
+      "value_signals": [
+        "Breach/leak ×2",
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Ajax football club hack exposed fan data, enabled ticket hijack",
       "link": "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/",
       "summary": "Dutch professional football club Ajax Amsterdam (AFC Ajax) disclosed that a hacker exploited vulnerabilities in its IT systems and accessed data belonging to a few hundred people. [...]",
@@ -223,15 +235,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Russia arrests suspected owner of LeakBase cybercrime forum",
-      "link": "https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/",
-      "summary": "Russian police arrested a Taganrog resident believed to be the owner of LeakBase, a major online forum used by cybercriminals to buy and sell stolen data and hacking tools. [...]",
-      "published": "Thu, 26 Mar 2026 08:50:17 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

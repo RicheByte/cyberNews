@@ -1,9 +1,8 @@
 {
-  "last_updated": "2026-03-28 14:28",
+  "last_updated": "2026-03-28 16:27",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "hacker exploited vulnerabilities",
     "things iot devices",
     "service ddos doxing",
     "remote code execution",
@@ -13,57 +12,58 @@
     "tenant identifier parameter",
     "quantum safe cryptography",
     "patel s account",
+    "least 77 vulnerabilities",
     "iran's intelligence agencies",
     "iran war unleashing",
     "steal sensitive data",
     "rsac 2026 conference",
     "restricted interface leading",
-    "least 77 vulnerabilities",
     "implementation issues leading",
     "cve 2026 4681",
     "windows 11 24h2",
-    "victim's username password"
+    "victim's username password",
+    "threat actor behind"
   ],
   "trending": [
     {
-      "keyword": "hacker exploited vulnerabilities",
-      "mentions": 17
-    },
-    {
       "keyword": "things iot devices",
-      "mentions": 112
+      "mentions": 113
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 95
+      "mentions": 96
     },
     {
       "keyword": "remote code execution",
-      "mentions": 177
+      "mentions": 178
     },
     {
       "keyword": "fake captcha page",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1150
+      "mentions": 1151
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "patel s account",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 64
     }
   ],
   "articles": [
@@ -163,6 +163,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
+      "link": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
+      "summary": "A new info-stealing malware named Infinity Stealer is targeting macOS systems with a Python payload packaged as an executable using the open-source Nuitka compiler. [...]",
+      "published": "Sat, 28 Mar 2026 10:35:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
       "link": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
       "summary": "TeamPCP hackers compromised the Telnyx package on the Python Package Index today, uploading malicious versions that deliver credential-stealing malware hidden inside a WAV file. [...]",
@@ -229,17 +238,6 @@
       "value_signals": [
         "Breach/leak ×2",
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ajax football club hack exposed fan data, enabled ticket hijack",
-      "link": "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/",
-      "summary": "Dutch professional football club Ajax Amsterdam (AFC Ajax) disclosed that a hacker exploited vulnerabilities in its IT systems and accessed data belonging to a few hundred people. [...]",
-      "published": "Thu, 26 Mar 2026 16:37:25 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

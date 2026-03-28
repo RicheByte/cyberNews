@@ -251,7 +251,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1149,
+      "count": 1150,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -608,7 +608,7 @@
       ]
     },
     "remote code execution": {
-      "count": 176,
+      "count": 177,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1857,7 +1857,7 @@
       ]
     },
     "things iot devices": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -4167,7 +4167,7 @@
       ]
     },
     "steal sensitive data": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-21",
         "2026-02-11",
@@ -7819,7 +7819,7 @@
       ]
     },
     "victim's username password": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9385,7 +9385,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10378,7 +10378,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10414,7 +10414,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10451,7 +10451,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10888,7 +10888,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -11078,7 +11078,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11086,7 +11086,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11109,7 +11109,7 @@
       ]
     },
     "hacker exploited vulnerabilities": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11142,7 +11142,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11155,7 +11155,7 @@
       ]
     },
     "quantum safe cryptography": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11187,7 +11187,7 @@
       ]
     },
     "patel s account": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11201,7 +11201,7 @@
       ]
     },
     "cve 2026 4681": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11227,36 +11227,25 @@
       ]
     },
     "restricted interface leading": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-28"
       ]
     },
     "implementation issues leading": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-28"
       ]
     },
     "fake captcha page": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-28"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-19 12:53",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "scadapack 57x product",
-        "execute arbitrary code",
-        "malicious cyber actors",
-        "windows operating systems"
-      ]
-    },
     {
       "timestamp": "2026-03-19 14:42",
       "articles": 56,
@@ -12337,6 +12326,17 @@
     },
     {
       "timestamp": "2026-03-28 12:42",
+      "articles": 56,
+      "top_keywords": [
+        "hacker exploited vulnerabilities",
+        "things iot devices",
+        "service ddos doxing",
+        "remote code execution",
+        "fake captcha page"
+      ]
+    },
+    {
+      "timestamp": "2026-03-28 14:28",
       "articles": 56,
       "top_keywords": [
         "hacker exploited vulnerabilities",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-28 06:53 UTC |
+| 🕐 Last Updated | 2026-03-28 08:33 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`hacker exploited vulnerabilities` • `threat actor behind` • `things iot devices` • `service ddos doxing` • `remote code execution` • `patel s account` • `wago gmbh co` • `twitter whistleblower complaint` • `tenant identifier parameter` • `quantum safe cryptography`
+`hacker exploited vulnerabilities` • `things iot devices` • `service ddos doxing` • `remote code execution` • `patel s account` • `wago gmbh co` • `twitter whistleblower complaint` • `tenant identifier parameter` • `quantum safe cryptography` • `iran's intelligence agencies`
 
 ## 📄 Reports
 

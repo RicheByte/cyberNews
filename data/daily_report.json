@@ -1,10 +1,9 @@
 {
-  "last_updated": "2026-03-28 06:53",
+  "last_updated": "2026-03-28 08:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "hacker exploited vulnerabilities",
-    "threat actor behind",
     "things iot devices",
     "service ddos doxing",
     "remote code execution",
@@ -13,7 +12,6 @@
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "quantum safe cryptography",
-    "large scale campaign",
     "iran's intelligence agencies",
     "iran war unleashing",
     "rsac 2026 conference",
@@ -22,51 +20,81 @@
     "let s admit",
     "windows 11 24h2",
     "victim's username password",
-    "strategic positioning activity"
+    "targeted email campaign",
+    "social media platforms",
+    "sms messages outside"
   ],
   "trending": [
     {
       "keyword": "hacker exploited vulnerabilities",
-      "mentions": 13
-    },
-    {
-      "keyword": "threat actor behind",
-      "mentions": 7
+      "mentions": 14
     },
     {
       "keyword": "things iot devices",
-      "mentions": 108
+      "mentions": 109
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 91
+      "mentions": 92
     },
     {
       "keyword": "remote code execution",
-      "mentions": 173
+      "mentions": 174
     },
     {
       "keyword": "patel s account",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1146
+      "mentions": 1147
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 77
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+      "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,",
+      "published": "Sat, 28 Mar 2026 12:37:00 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Phishing",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+      "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution. \"When a",
+      "published": "Sat, 28 Mar 2026 12:37:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE",
+        "CISA/KEV ×5",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
@@ -127,28 +155,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-      "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
-      "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history. Both LangChain and LangGraph are open-source frameworks that are used to build applications powered by Large Language Models (LLMs). LangGraph is built on the foundations of",
-      "published": "Fri, 27 Mar 2026 13:37:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
-      "link": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
-      "summary": "A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks. The strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, has been attributed to Red Menshen, a threat cluster that's also tracked as Earth Bluecrow,",
-      "published": "Thu, 26 Mar 2026 23:10:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
       ]
     },
     {

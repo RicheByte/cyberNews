@@ -251,7 +251,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1145,
+      "count": 1146,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -608,7 +608,7 @@
       ]
     },
     "remote code execution": {
-      "count": 172,
+      "count": 173,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1857,7 +1857,7 @@
       ]
     },
     "things iot devices": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7818,7 +7818,7 @@
       ]
     },
     "victim's username password": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8622,7 +8622,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-03",
         "2026-03-27",
@@ -9384,7 +9384,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10377,7 +10377,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10413,7 +10413,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10450,7 +10450,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10887,7 +10887,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -11077,7 +11077,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11085,7 +11085,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11100,7 +11100,7 @@
       ]
     },
     "strategic positioning activity": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11108,7 +11108,7 @@
       ]
     },
     "hacker exploited vulnerabilities": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11140,7 +11140,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11153,7 +11153,7 @@
       ]
     },
     "quantum safe cryptography": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11184,21 +11184,21 @@
       ]
     },
     "patel s account": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-27",
         "2026-03-28"
       ]
     },
     "large scale campaign": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-27",
         "2026-03-28"
       ]
     },
     "cve 2026 4681": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11211,7 +11211,7 @@
       ]
     },
     "let s admit": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11219,17 +11219,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-19 04:20",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "ofac sanctions dprk",
-        "scadapack 57x product",
-        "execute arbitrary code",
-        "shadow ai risk"
-      ]
-    },
     {
       "timestamp": "2026-03-19 06:52",
       "articles": 56,
@@ -12310,6 +12299,17 @@
     },
     {
       "timestamp": "2026-03-28 04:15",
+      "articles": 56,
+      "top_keywords": [
+        "hacker exploited vulnerabilities",
+        "threat actor behind",
+        "things iot devices",
+        "service ddos doxing",
+        "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-03-28 06:53",
       "articles": 56,
       "top_keywords": [
         "hacker exploited vulnerabilities",

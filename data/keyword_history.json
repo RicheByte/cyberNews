@@ -251,7 +251,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1148,
+      "count": 1149,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -608,7 +608,7 @@
       ]
     },
     "remote code execution": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1857,7 +1857,7 @@
       ]
     },
     "things iot devices": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -4167,7 +4167,7 @@
       ]
     },
     "steal sensitive data": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-21",
         "2026-02-11",
@@ -7819,7 +7819,7 @@
       ]
     },
     "victim's username password": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9385,7 +9385,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10378,7 +10378,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10414,7 +10414,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10451,7 +10451,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10888,7 +10888,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -11078,7 +11078,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11086,7 +11086,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11109,7 +11109,7 @@
       ]
     },
     "hacker exploited vulnerabilities": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11142,7 +11142,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11155,7 +11155,7 @@
       ]
     },
     "quantum safe cryptography": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11187,7 +11187,7 @@
       ]
     },
     "patel s account": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11201,7 +11201,7 @@
       ]
     },
     "cve 2026 4681": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11227,12 +11227,18 @@
       ]
     },
     "restricted interface leading": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-28"
       ]
     },
     "implementation issues leading": {
+      "count": 2,
+      "dates": [
+        "2026-03-28"
+      ]
+    },
+    "fake captcha page": {
       "count": 1,
       "dates": [
         "2026-03-28"
@@ -11240,17 +11246,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-19 10:35",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "scadapack 57x product",
-        "malicious cyber actors",
-        "execute arbitrary code",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-03-19 12:53",
       "articles": 56,
@@ -12338,6 +12333,17 @@
         "service ddos doxing",
         "remote code execution",
         "patel s account"
+      ]
+    },
+    {
+      "timestamp": "2026-03-28 12:42",
+      "articles": 56,
+      "top_keywords": [
+        "hacker exploited vulnerabilities",
+        "things iot devices",
+        "service ddos doxing",
+        "remote code execution",
+        "fake captcha page"
       ]
     }
   ]

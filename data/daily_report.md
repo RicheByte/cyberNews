@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-28 10:26 UTC  
+> **Last Updated:** 2026-03-28 12:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hacker exploited vulnerabilities** • **things iot devices** • **service ddos doxing** • **remote code execution** • **patel s account** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **quantum safe cryptography** • **iran's intelligence agencies** • **iran war unleashing** • **steal sensitive data** • **rsac 2026 conference** • **restricted interface leading** • **least 77 vulnerabilities** • **implementation issues leading** • **cve 2026 4681** • **let s admit** • **windows 11 24h2** • **victim's username password**
+**hacker exploited vulnerabilities** • **things iot devices** • **service ddos doxing** • **remote code execution** • **fake captcha page** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **quantum safe cryptography** • **patel s account** • **iran's intelligence agencies** • **iran war unleashing** • **steal sensitive data** • **rsac 2026 conference** • **restricted interface leading** • **least 77 vulnerabilities** • **implementation issues leading** • **cve 2026 4681** • **windows 11 24h2** • **victim's username password**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs](https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/)
 - [Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account](https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/)
 - [In Other News: Palo Alto Recruiter Scam, Anti-Deepfake Chip, Google Sets 2029 Quantum Deadline](https://www.securityweek.com/in-other-news-palo-alto-recruiter-scam-anti-deepfake-chip-google-sets-2029-quantum-deadline/)
 - [OpenAI Launches Bug Bounty Program for Abuse and Safety Risks](https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/)
@@ -67,7 +68,6 @@
 - [RSAC 2026 Conference Announcements Summary (Days 3-4)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/)
 - [Coruna iOS Exploit Kit Likely an Update to Operation Triangulation](https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/)
 - [CISA Flags Critical PTC Vulnerability That Had German Police Mobilized](https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/)
-- [Hightower Holding Data Breach Impacts 130,000](https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/)
 
 ### Threatpost
 

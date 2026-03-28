@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28 10:26",
+  "last_updated": "2026-03-28 12:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,11 +7,12 @@
     "things iot devices",
     "service ddos doxing",
     "remote code execution",
-    "patel s account",
+    "fake captcha page",
     "wago gmbh co",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "quantum safe cryptography",
+    "patel s account",
     "iran's intelligence agencies",
     "iran war unleashing",
     "steal sensitive data",
@@ -20,50 +21,49 @@
     "least 77 vulnerabilities",
     "implementation issues leading",
     "cve 2026 4681",
-    "let s admit",
     "windows 11 24h2",
     "victim's username password"
   ],
   "trending": [
     {
       "keyword": "hacker exploited vulnerabilities",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "things iot devices",
-      "mentions": 110
+      "mentions": 111
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 93
+      "mentions": 94
     },
     {
       "keyword": "remote code execution",
-      "mentions": 175
+      "mentions": 176
     },
     {
-      "keyword": "patel s account",
-      "mentions": 9
+      "keyword": "fake captcha page",
+      "mentions": 1
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1148
+      "mentions": 1149
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 11
+      "mentions": 12
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 78
+      "keyword": "patel s account",
+      "mentions": 10
     }
   ],
   "articles": [
@@ -410,6 +410,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs",
+      "link": "https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/",
+      "summary": "The infection chain includes a fake CAPTCHA page, a Bash script, a Nuitka loader, and the Python-based infostealer. The post Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs appeared first on SecurityWeek .",
+      "published": "Sat, 28 Mar 2026 10:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account",
       "link": "https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/",
       "summary": "The group that it was making available for download emails and other documents from Patel’s account. The post Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account appeared first on SecurityWeek .",
@@ -478,17 +487,6 @@
         "CVE mentioned",
         "CISA/KEV ×2",
         "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hightower Holding Data Breach Impacts 130,000",
-      "link": "https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/",
-      "summary": "The holdings company says hackers stole names, Social Security numbers, and driver’s license numbers from its environment. The post Hightower Holding Data Breach Impacts 130,000 appeared first on SecurityWeek .",
-      "published": "Thu, 26 Mar 2026 14:07:07 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

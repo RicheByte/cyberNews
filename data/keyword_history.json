@@ -251,7 +251,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1152,
+      "count": 1153,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -608,7 +608,7 @@
       ]
     },
     "remote code execution": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1857,7 +1857,7 @@
       ]
     },
     "things iot devices": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -4167,7 +4167,7 @@
       ]
     },
     "steal sensitive data": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-21",
         "2026-02-11",
@@ -7819,7 +7819,7 @@
       ]
     },
     "victim's username password": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8623,7 +8623,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-03",
         "2026-03-27",
@@ -9385,7 +9385,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10378,7 +10378,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10414,7 +10414,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10451,7 +10451,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11078,7 +11078,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11086,7 +11086,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11142,7 +11142,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11155,7 +11155,7 @@
       ]
     },
     "quantum safe cryptography": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11201,7 +11201,7 @@
       ]
     },
     "cve 2026 4681": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-27",
         "2026-03-28"
@@ -11227,48 +11227,37 @@
       ]
     },
     "restricted interface leading": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-28"
       ]
     },
     "implementation issues leading": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-28"
       ]
     },
     "fake captcha page": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-28"
       ]
     },
     "successfully hacked victims": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-28"
       ]
     },
     "personal email account": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-28"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-19 18:51",
-      "articles": 56,
-      "top_keywords": [
-        "scattered lapsus shinyhunters",
-        "help power critical",
-        "threat actors conducted",
-        "agents autonomous programs",
-        "full device takeover"
-      ]
-    },
     {
       "timestamp": "2026-03-19 20:31",
       "articles": 56,
@@ -12349,6 +12338,17 @@
     },
     {
       "timestamp": "2026-03-28 18:33",
+      "articles": 56,
+      "top_keywords": [
+        "things iot devices",
+        "service ddos doxing",
+        "remote code execution",
+        "fake captcha page",
+        "wago gmbh co"
+      ]
+    },
+    {
+      "timestamp": "2026-03-28 20:23",
       "articles": 56,
       "top_keywords": [
         "things iot devices",

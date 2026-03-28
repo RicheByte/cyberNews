@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-28 16:27 UTC  
+> **Last Updated:** 2026-03-28 18:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**things iot devices** • **service ddos doxing** • **remote code execution** • **fake captcha page** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **quantum safe cryptography** • **patel s account** • **least 77 vulnerabilities** • **iran's intelligence agencies** • **iran war unleashing** • **steal sensitive data** • **rsac 2026 conference** • **restricted interface leading** • **implementation issues leading** • **cve 2026 4681** • **windows 11 24h2** • **victim's username password** • **threat actor behind**
+**things iot devices** • **service ddos doxing** • **remote code execution** • **fake captcha page** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **successfully hacked victims** • **quantum safe cryptography** • **least 77 vulnerabilities** • **iran's intelligence agencies** • **steal sensitive data** • **rsac 2026 conference** • **restricted interface leading** • **personal email account** • **implementation issues leading** • **cve 2026 4681** • **threat actor behind** • **windows 11 24h2** • **victim's username password**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
 - [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
 - [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
 - [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
@@ -23,7 +24,6 @@
 - [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
 - [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
 - [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
-- [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
 
 ### BleepingComputer
 

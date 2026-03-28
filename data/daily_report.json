@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28 16:27",
+  "last_updated": "2026-03-28 18:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,63 +10,74 @@
     "wago gmbh co",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
+    "successfully hacked victims",
     "quantum safe cryptography",
-    "patel s account",
     "least 77 vulnerabilities",
     "iran's intelligence agencies",
-    "iran war unleashing",
     "steal sensitive data",
     "rsac 2026 conference",
     "restricted interface leading",
+    "personal email account",
     "implementation issues leading",
     "cve 2026 4681",
+    "threat actor behind",
     "windows 11 24h2",
-    "victim's username password",
-    "threat actor behind"
+    "victim's username password"
   ],
   "trending": [
     {
       "keyword": "things iot devices",
-      "mentions": 113
+      "mentions": 114
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 96
+      "mentions": 97
     },
     {
       "keyword": "remote code execution",
-      "mentions": 178
+      "mentions": 179
     },
     {
       "keyword": "fake captcha page",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1151
+      "mentions": 1152
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 23
+      "mentions": 24
+    },
+    {
+      "keyword": "successfully hacked victims",
+      "mentions": 1
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 14
-    },
-    {
-      "keyword": "patel s account",
-      "mentions": 12
+      "mentions": 15
     },
     {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 64
+      "mentions": 65
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack",
+      "link": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
+      "summary": "Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet. Handala Hack Team, which carried out the breach, said on its website that Patel \"will now find his name among the list of successfully hacked victims.\" In a statement",
+      "published": "Sat, 28 Mar 2026 21:10:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
@@ -151,15 +162,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "We Are At War",
-      "link": "https://thehackernews.com/2026/03/we-are-at-war.html",
-      "summary": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let’s admit it: we are in the middle of it. Introduction: One tech power to rule them all is a thing of the past The relative safety, peace and prosperity that much of the world has enjoyed since 1945 was not accidental. It emerged from the ashes",
-      "published": "Fri, 27 Mar 2026 16:30:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

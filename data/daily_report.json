@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29 06:57",
+  "last_updated": "2026-03-29 08:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "things iot devices",
-      "mentions": 119
+      "mentions": 120
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 102
+      "mentions": 103
     },
     {
       "keyword": "remote code execution",
-      "mentions": 184
+      "mentions": 185
     },
     {
       "keyword": "fake captcha page",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1157
+      "mentions": 1158
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "successfully hacked victims",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 70
+      "mentions": 71
     }
   ],
   "articles": [
@@ -95,6 +95,18 @@
     },
     {
       "source": "The Hacker News",
+      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+      "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,",
+      "published": "Sat, 28 Mar 2026 12:37:00 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Phishing",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
       "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
       "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution. \"When a",
@@ -106,18 +118,6 @@
         "CISA/KEV ×5",
         "High severity",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-      "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
-      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,",
-      "published": "Sat, 28 Mar 2026 12:37:00 +0530",
-      "value_score": 24,
-      "value_signals": [
-        "Phishing",
         "Exploit wording"
       ]
     },

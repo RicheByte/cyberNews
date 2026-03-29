@@ -251,7 +251,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1157,
+      "count": 1158,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -609,7 +609,7 @@
       ]
     },
     "remote code execution": {
-      "count": 184,
+      "count": 185,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1859,7 +1859,7 @@
       ]
     },
     "things iot devices": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -4170,7 +4170,7 @@
       ]
     },
     "steal sensitive data": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-21",
         "2026-02-11",
@@ -7823,7 +7823,7 @@
       ]
     },
     "victim's username password": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8628,7 +8628,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-03-03",
         "2026-03-27",
@@ -9391,7 +9391,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10385,7 +10385,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 102,
+      "count": 103,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10422,7 +10422,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10460,7 +10460,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11088,7 +11088,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11097,7 +11097,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11154,7 +11154,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11168,7 +11168,7 @@
       ]
     },
     "quantum safe cryptography": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11215,7 +11215,7 @@
       ]
     },
     "cve 2026 4681": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11242,35 +11242,35 @@
       ]
     },
     "restricted interface leading": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-28",
         "2026-03-29"
       ]
     },
     "implementation issues leading": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-28",
         "2026-03-29"
       ]
     },
     "fake captcha page": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-28",
         "2026-03-29"
       ]
     },
     "successfully hacked victims": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-28",
         "2026-03-29"
       ]
     },
     "personal email account": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-28",
         "2026-03-29"
@@ -11278,17 +11278,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-20 06:47",
-      "articles": 56,
-      "top_keywords": [
-        "threat actors conducted",
-        "help power critical",
-        "things iot devices",
-        "least 77 vulnerabilities",
-        "software including patches"
-      ]
-    },
     {
       "timestamp": "2026-03-20 08:35",
       "articles": 56,
@@ -12369,6 +12358,17 @@
     },
     {
       "timestamp": "2026-03-29 06:57",
+      "articles": 56,
+      "top_keywords": [
+        "things iot devices",
+        "service ddos doxing",
+        "remote code execution",
+        "fake captcha page",
+        "wago gmbh co"
+      ]
+    },
+    {
+      "timestamp": "2026-03-29 08:34",
       "articles": 56,
       "top_keywords": [
         "things iot devices",

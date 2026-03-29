@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29 20:26",
+  "last_updated": "2026-03-29 22:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -22,48 +22,48 @@
     "frequent attack vector",
     "threat actor behind",
     "steal sensitive data",
-    "windows 11 24h2"
+    "patel s account"
   ],
   "trending": [
     {
       "keyword": "things iot devices",
-      "mentions": 126
+      "mentions": 127
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 109
+      "mentions": 110
     },
     {
       "keyword": "remote code execution",
-      "mentions": 191
+      "mentions": 192
     },
     {
       "keyword": "fake captcha page",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1164
+      "mentions": 1165
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "successfully hacked victims",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 77
+      "mentions": 78
     }
   ],
   "articles": [
@@ -165,6 +165,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FBI confirms hack of Director Patel's personal email inbox",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
+      "summary": "The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents. [...]",
+      "published": "Sun, 29 Mar 2026 17:09:50 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
       "summary": "A vulnerability in the Smart Slider 3 WordPress plugin, active on more than 800,000 websites, can be exploited to allow subscriber-level users access to arbitrary files on the server. [...]",
@@ -229,17 +238,6 @@
       "published": "Fri, 27 Mar 2026 06:40:17 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5079391 update rolls out Smart App Control improvements",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/",
-      "summary": "​Microsoft has released the KB5079391 preview cumulative update for Windows 11 24H2 and 25H2, which includes 29 changes, such as Smart App Control and Display improvements. [...]",
-      "published": "Fri, 27 Mar 2026 05:20:59 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

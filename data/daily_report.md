@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-29 20:26 UTC  
+> **Last Updated:** 2026-03-29 22:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**things iot devices** • **service ddos doxing** • **remote code execution** • **fake captcha page** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **successfully hacked victims** • **quantum safe cryptography** • **least 77 vulnerabilities** • **iran's intelligence agencies** • **rsac 2026 conference** • **restricted interface leading** • **personal email account** • **implementation issues leading** • **cve 2026 4681** • **frequent attack vector** • **threat actor behind** • **steal sensitive data** • **windows 11 24h2**
+**things iot devices** • **service ddos doxing** • **remote code execution** • **fake captcha page** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **successfully hacked victims** • **quantum safe cryptography** • **least 77 vulnerabilities** • **iran's intelligence agencies** • **rsac 2026 conference** • **restricted interface leading** • **personal email account** • **implementation issues leading** • **cve 2026 4681** • **frequent attack vector** • **threat actor behind** • **steal sensitive data** • **patel s account**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
 - [File read flaw in Smart Slider plugin impacts 500K WordPress sites](https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/)
 - [New Infinity Stealer malware grabs macOS data via ClickFix lures](https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/)
 - [Backdoored Telnyx PyPI package pushes malware hidden in WAV audio](https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/)
@@ -34,7 +35,6 @@
 - [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
 - [European Commission investigating breach after Amazon cloud account hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/)
 - [Anti-piracy coalition takes down AnimePlay app with 5 million users](https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/)
-- [Windows 11 KB5079391 update rolls out Smart App Control improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/)
 
 ### Krebs on Security
 

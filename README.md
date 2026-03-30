@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-30 05:56 UTC |
+| 🕐 Last Updated | 2026-03-30 07:24 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`things iot devices` • `service ddos doxing` • `remote code execution` • `fake captcha page` • `wago gmbh co` • `twitter whistleblower complaint` • `tenant identifier parameter` • `successfully hacked victims` • `quantum safe cryptography` • `least 77 vulnerabilities`
+`things iot devices` • `europa eu hack` • `remote code execution` • `fake captcha page` • `wago gmbh co` • `twitter whistleblower complaint` • `tenant identifier parameter` • `service ddos doxing` • `rsac 2026 conference` • `quantum safe cryptography`
 
 ## 📄 Reports
 

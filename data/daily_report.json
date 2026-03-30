@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-30 05:56",
+  "last_updated": "2026-03-30 07:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "things iot devices",
-    "service ddos doxing",
+    "europa eu hack",
     "remote code execution",
     "fake captcha page",
     "wago gmbh co",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
-    "successfully hacked victims",
+    "service ddos doxing",
+    "rsac 2026 conference",
     "quantum safe cryptography",
     "least 77 vulnerabilities",
     "iran's intelligence agencies",
-    "rsac 2026 conference",
     "restricted interface leading",
     "personal email account",
     "implementation issues leading",
-    "cve 2026 4681",
     "frequent attack vector",
     "threat actor behind",
-    "steal sensitive data",
-    "patel s account"
+    "patel s account",
+    "victim's username password",
+    "targeted email campaign"
   ],
   "trending": [
     {
       "keyword": "things iot devices",
-      "mentions": 129
+      "mentions": 130
     },
     {
-      "keyword": "service ddos doxing",
-      "mentions": 112
+      "keyword": "europa eu hack",
+      "mentions": 1
     },
     {
       "keyword": "remote code execution",
-      "mentions": 194
+      "mentions": 195
     },
     {
       "keyword": "fake captcha page",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1167
+      "mentions": 1168
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 39
+      "mentions": 40
     },
     {
-      "keyword": "successfully hacked victims",
-      "mentions": 16
+      "keyword": "service ddos doxing",
+      "mentions": 113
+    },
+    {
+      "keyword": "rsac 2026 conference",
+      "mentions": 38
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 30
-    },
-    {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 80
+      "mentions": 31
     }
   ],
   "articles": [
@@ -165,6 +165,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "European Commission confirms data breach after Europa.eu hack",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
+      "summary": "The European Commission has confirmed a data breach after its Europa.eu web platform was hacked in a cyberattack claimed by the ShinyHunters extortion gang. [...]",
+      "published": "Mon, 30 Mar 2026 02:42:58 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI confirms hack of Director Patel's personal email inbox",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
       "summary": "The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents. [...]",
@@ -229,15 +240,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anti-piracy coalition takes down AnimePlay app with 5 million users",
-      "link": "https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/",
-      "summary": "The Alliance for Creativity and Entertainment (ACE) announced the shutdown of AnimePlay, a major anime streaming platform with over 5 million users. [...]",
-      "published": "Fri, 27 Mar 2026 06:40:17 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -407,6 +409,20 @@
     },
     {
       "source": "Security Week",
+      "title": "F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild",
+      "link": "https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/",
+      "summary": "Initially disclosed as a high-severity denial-of-service (DoS), the bug was reclassified as a critical RCE issue. The post F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Mon, 30 Mar 2026 07:07:09 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Active exploitation ×2",
+        "RCE ×3",
+        "High severity ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs",
       "link": "https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/",
       "summary": "The infection chain includes a fake CAPTCHA page, a Bash script, a Nuitka loader, and the Python-based infostealer. The post Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs appeared first on SecurityWeek .",
@@ -471,19 +487,6 @@
       "value_signals": [
         "Patch/update ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Flags Critical PTC Vulnerability That Had German Police Mobilized",
-      "link": "https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/",
-      "summary": "Police in Germany physically warned organizations about the critical PTC Windchill vulnerability tracked as CVE-2026-4681. The post CISA Flags Critical PTC Vulnerability That Had German Police Mobilized appeared first on SecurityWeek .",
-      "published": "Fri, 27 Mar 2026 09:21:14 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×2",
-        "High severity ×3"
       ]
     },
     {

@@ -251,7 +251,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1167,
+      "count": 1168,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -610,7 +610,7 @@
       ]
     },
     "remote code execution": {
-      "count": 194,
+      "count": 195,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1861,7 +1861,7 @@
       ]
     },
     "things iot devices": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7827,7 +7827,7 @@
       ]
     },
     "victim's username password": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7854,7 +7854,8 @@
         "2026-03-26",
         "2026-03-27",
         "2026-03-28",
-        "2026-03-29"
+        "2026-03-29",
+        "2026-03-30"
       ]
     },
     "aiding north korean": {
@@ -8632,7 +8633,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-03-03",
         "2026-03-27",
@@ -9396,7 +9397,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10391,7 +10392,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10429,7 +10430,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10468,7 +10469,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11052,7 +11053,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -11099,7 +11100,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11109,7 +11110,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11181,7 +11182,7 @@
       ]
     },
     "quantum safe cryptography": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11215,7 +11216,7 @@
       ]
     },
     "patel s account": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11253,13 +11254,14 @@
       ]
     },
     "targeted email campaign": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-28"
+        "2026-03-28",
+        "2026-03-30"
       ]
     },
     "restricted interface leading": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -11267,7 +11269,7 @@
       ]
     },
     "implementation issues leading": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -11275,7 +11277,7 @@
       ]
     },
     "fake captcha page": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -11291,26 +11293,21 @@
       ]
     },
     "personal email account": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-28",
         "2026-03-29",
         "2026-03-30"
       ]
+    },
+    "europa eu hack": {
+      "count": 1,
+      "dates": [
+        "2026-03-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-21 04:00",
-      "articles": 56,
-      "top_keywords": [
-        "3 men charged",
-        "critical security flaw",
-        "things iot devices",
-        "former u s",
-        "platform s capabilities"
-      ]
-    },
     {
       "timestamp": "2026-03-21 06:36",
       "articles": 56,
@@ -12395,6 +12392,17 @@
       "top_keywords": [
         "things iot devices",
         "service ddos doxing",
+        "remote code execution",
+        "fake captcha page",
+        "wago gmbh co"
+      ]
+    },
+    {
+      "timestamp": "2026-03-30 07:24",
+      "articles": 56,
+      "top_keywords": [
+        "things iot devices",
+        "europa eu hack",
         "remote code execution",
         "fake captcha page",
         "wago gmbh co"

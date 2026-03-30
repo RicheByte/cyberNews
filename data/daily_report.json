@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30 16:51",
+  "last_updated": "2026-03-30 18:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -15,58 +15,67 @@
     "tenant identifier parameter",
     "restricted interface leading",
     "quantum safe cryptography",
+    "messaging app received",
     "least 77 vulnerabilities",
+    "execute arbitrary commands",
     "separating real impact",
     "measure real outcomes",
-    "langflow ai platform",
-    "frequent attack vector",
-    "windows operating systems",
-    "victim's username password",
-    "triggers 0x80073712 errors"
+    "service dos vulnerability",
+    "obtain sensitive data",
+    "windows operating systems"
   ],
   "trending": [
     {
       "keyword": "entire soc responds",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "remote code execution",
-      "mentions": 200
+      "mentions": 201
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 103
+      "mentions": 104
     },
     {
       "keyword": "europa eu hack",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 118
+      "mentions": 119
     },
     {
       "keyword": "things iot devices",
-      "mentions": 135
+      "mentions": 136
     },
     {
       "keyword": "agents autonomous programs",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 45
+      "mentions": 46
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1173
+      "mentions": 1174
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 45
+      "mentions": 46
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
+      "link": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
+      "summary": "A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad. \"It likely uses AI-assisted obfuscation and process injection to evade static scanning, while credential theft starts immediately and captures passwords and sessions even if the primary loader is blocked,\" ReliaQuest researchers Thassanai",
+      "published": "Mon, 30 Mar 2026 21:17:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
@@ -141,14 +150,16 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-      "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
-      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,",
-      "published": "Sat, 28 Mar 2026 12:37:00 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
+      "summary": "Hackers are exploiting a critical severity vulnerability, tracked as CVE-2026-3055, in Citrix NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data. [...]",
+      "published": "Mon, 30 Mar 2026 14:28:37 -0400",
+      "value_score": 75,
       "value_signals": [
-        "Phishing",
+        "CVE mentioned",
+        "Active exploitation",
+        "High severity ×2",
         "Exploit wording"
       ]
     },
@@ -226,17 +237,6 @@
       "published": "Sun, 29 Mar 2026 17:09:50 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
-      "summary": "A vulnerability in the Smart Slider 3 WordPress plugin, active on more than 800,000 websites, can be exploited to allow subscriber-level users access to arbitrary files on the server. [...]",
-      "published": "Sun, 29 Mar 2026 10:38:25 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -321,6 +321,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Storm Brews Over Critical, No-Click Telegram Flaw",
+      "link": "https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw",
+      "summary": "The vulnerability, which is allegedly triggered by a corrupted sticker in the messaging app, received a 9.8 CVSS score, but Telegram denies it exists.",
+      "published": "Mon, 30 Mar 2026 15:01:59 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "China Upgrades the Backdoor It Uses to Spy on Telcos Globally",
       "link": "https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos",
       "summary": "Chinese APT Red Menshen's super-advanced BPFdoor malware defeats traditional cybersecurity protections. All telcos can do, really, is try hunting it down.",
@@ -392,17 +403,6 @@
       "published": "Thu, 26 Mar 2026 19:48:21 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Critical Flaw in Langflow AI Platform Under Attack",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack",
-      "summary": "Threats actors pounced on the code injection vulnerability within hours of its disclosure, demonstrating that organizations have little time to address critical bugs.",
-      "published": "Thu, 26 Mar 2026 19:14:05 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
     },
     {
       "source": "Security Week",

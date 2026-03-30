@@ -170,7 +170,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 580,
+      "count": 581,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -253,7 +253,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1173,
+      "count": 1174,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -612,7 +612,7 @@
       ]
     },
     "remote code execution": {
-      "count": 200,
+      "count": 201,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1863,7 +1863,7 @@
       ]
     },
     "things iot devices": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -6069,10 +6069,11 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-05",
-        "2026-02-06"
+        "2026-02-06",
+        "2026-03-30"
       ]
     },
     "arbitrary system commands": {
@@ -9167,7 +9168,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9402,7 +9403,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10397,7 +10398,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10474,7 +10475,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11105,7 +11106,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11115,7 +11116,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11188,7 +11189,7 @@
       ]
     },
     "quantum safe cryptography": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11267,7 +11268,7 @@
       ]
     },
     "restricted interface leading": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -11307,7 +11308,7 @@
       ]
     },
     "europa eu hack": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-30"
       ]
@@ -11337,19 +11338,19 @@
       ]
     },
     "entire soc responds": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-30"
       ]
     },
     "separating real impact": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-30"
       ]
     },
     "measure real outcomes": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-30"
       ]
@@ -11359,20 +11360,27 @@
       "dates": [
         "2026-03-30"
       ]
+    },
+    "messaging app received": {
+      "count": 1,
+      "dates": [
+        "2026-03-30"
+      ]
+    },
+    "service dos vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-03-30"
+      ]
+    },
+    "obtain sensitive data": {
+      "count": 1,
+      "dates": [
+        "2026-03-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-21 16:23",
-      "articles": 56,
-      "top_keywords": [
-        "3 men charged",
-        "cve 2026 21992",
-        "things iot devices",
-        "quantum safe version",
-        "former u s"
-      ]
-    },
     {
       "timestamp": "2026-03-21 18:29",
       "articles": 56,
@@ -12453,6 +12461,17 @@
     },
     {
       "timestamp": "2026-03-30 16:51",
+      "articles": 56,
+      "top_keywords": [
+        "entire soc responds",
+        "remote code execution",
+        "iran's intelligence agencies",
+        "europa eu hack",
+        "service ddos doxing"
+      ]
+    },
+    {
+      "timestamp": "2026-03-30 18:53",
       "articles": 56,
       "top_keywords": [
         "entire soc responds",

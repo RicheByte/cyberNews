@@ -1,18 +1,17 @@
 {
-  "last_updated": "2026-03-30 09:06",
+  "last_updated": "2026-03-30 10:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "remote code execution",
     "things iot devices",
     "iran's intelligence agencies",
-    "remote code execution",
     "fake captcha page",
     "europa eu hack",
     "wago gmbh co",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "service ddos doxing",
-    "rsac 2026 conference",
     "quantum safe cryptography",
     "least 77 vulnerabilities",
     "restricted interface leading",
@@ -21,52 +20,64 @@
     "frequent attack vector",
     "well resourced operation",
     "victim's username password",
+    "triggers 0x80073712 errors",
     "steal sensitive data",
     "sms messages outside"
   ],
   "trending": [
     {
+      "keyword": "remote code execution",
+      "mentions": 197
+    },
+    {
       "keyword": "things iot devices",
-      "mentions": 131
+      "mentions": 132
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 99
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 196
+      "mentions": 100
     },
     {
       "keyword": "fake captcha page",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "europa eu hack",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1169
+      "mentions": 1170
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 114
+      "mentions": 115
     },
     {
-      "keyword": "rsac 2026 conference",
-      "mentions": 39
+      "keyword": "quantum safe cryptography",
+      "mentions": 33
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+      "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
+      "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders. The CTRL toolkit, according to Censys, is custom-built using .NET and includes various executables\" to facilitate credential phishing, keylogging, Remote Desktop Protocol (RDP) hijacking, and reverse tunneling",
+      "published": "Mon, 30 Mar 2026 15:28:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
@@ -153,13 +164,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
-      "link": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) extension to pass the vetting process and go live in the registry. \"The pipeline had a single boolean return value that meant both 'no scanners are configured' and 'all scanners failed to run,'\" Koi",
-      "published": "Fri, 27 Mar 2026 19:27:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Microsoft pulls KB5079391 Windows update over install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
+      "summary": "Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. [...]",
+      "published": "Mon, 30 Mar 2026 05:38:45 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -228,15 +241,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
       "summary": "A large-scale campaign is targeting developers on GitHub with fake Visual Studio Code (VS Code) security alerts posted in the Discussions section of various projects, to trick users into downloading malware. [...]",
       "published": "Fri, 27 Mar 2026 12:51:52 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
-      "link": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/",
-      "summary": "Agentic GRC automates workflows, forcing teams to rethink their role beyond operations. Anecdotes explains why the biggest challenge is shifting from execution to risk leadership. [...]",
-      "published": "Fri, 27 Mar 2026 10:02:12 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -408,6 +412,27 @@
     },
     {
       "source": "Security Week",
+      "title": "Telnyx Targeted in Growing TeamPCP Supply Chain Attack",
+      "link": "https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/",
+      "summary": "Two malicious versions of the popular SDK were uploaded to the PyPI registry, targeting Windows, macOS, and Linux. The post Telnyx Targeted in Growing TeamPCP Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Mon, 30 Mar 2026 10:53:46 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Exploitation of Fresh Citrix NetScaler Vulnerability Begins",
+      "link": "https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/",
+      "summary": "The critical-severity flaw leaks application memory and can be exploited to obtain authenticated administrative session IDs. The post Exploitation of Fresh Citrix NetScaler Vulnerability Begins appeared first on SecurityWeek .",
+      "published": "Mon, 30 Mar 2026 09:24:10 +0000",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers",
       "link": "https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/",
       "summary": "The agency said Iranian hackers targeted the director’s personal email account and noted that the compromised information is old. The post FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers appeared first on SecurityWeek .",
@@ -464,24 +489,6 @@
       "link": "https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/",
       "summary": "Through the new program, OpenAI will reward reports covering design or implementation issues leading to material harm. The post OpenAI Launches Bug Bounty Program for Abuse and Safety Risks appeared first on SecurityWeek .",
       "published": "Fri, 27 Mar 2026 13:33:11 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "TP-Link Patches High-Severity Router Vulnerabilities",
-      "link": "https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/",
-      "summary": "The security defects could be used to bypass authentication, execute arbitrary commands, and decrypt configuration files. The post TP-Link Patches High-Severity Router Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Fri, 27 Mar 2026 11:42:30 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "RSAC 2026 Conference Announcements Summary (Days 3-4)",
-      "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/",
-      "summary": "A summary of the announcements made by vendors on the third and fourth days of the RSAC 2026 Conference. The post RSAC 2026 Conference Announcements Summary (Days 3-4) appeared first on SecurityWeek .",
-      "published": "Fri, 27 Mar 2026 10:48:53 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 364,
+      "count": 365,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -252,7 +252,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1169,
+      "count": 1170,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -611,7 +611,7 @@
       ]
     },
     "remote code execution": {
-      "count": 196,
+      "count": 197,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1862,7 +1862,7 @@
       ]
     },
     "things iot devices": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -4174,7 +4174,7 @@
       ]
     },
     "steal sensitive data": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-21",
         "2026-02-11",
@@ -7828,7 +7828,7 @@
       ]
     },
     "victim's username password": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9398,7 +9398,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10393,7 +10393,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10470,7 +10470,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11054,7 +11054,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -11101,7 +11101,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11111,7 +11111,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11150,7 +11150,7 @@
       ]
     },
     "sms messages outside": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11184,7 +11184,7 @@
       ]
     },
     "quantum safe cryptography": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11263,7 +11263,7 @@
       ]
     },
     "restricted interface leading": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -11271,7 +11271,7 @@
       ]
     },
     "implementation issues leading": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -11279,7 +11279,7 @@
       ]
     },
     "fake captcha page": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -11303,12 +11303,18 @@
       ]
     },
     "europa eu hack": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-30"
       ]
     },
     "well resourced operation": {
+      "count": 2,
+      "dates": [
+        "2026-03-30"
+      ]
+    },
+    "triggers 0x80073712 errors": {
       "count": 1,
       "dates": [
         "2026-03-30"
@@ -11316,17 +11322,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-21 08:26",
-      "articles": 56,
-      "top_keywords": [
-        "3 men charged",
-        "critical security flaw",
-        "things iot devices",
-        "former u s",
-        "platform s capabilities"
-      ]
-    },
     {
       "timestamp": "2026-03-21 10:21",
       "articles": 56,
@@ -12412,6 +12407,17 @@
         "things iot devices",
         "iran's intelligence agencies",
         "remote code execution",
+        "fake captcha page",
+        "europa eu hack"
+      ]
+    },
+    {
+      "timestamp": "2026-03-30 10:57",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "things iot devices",
+        "iran's intelligence agencies",
         "fake captcha page",
         "europa eu hack"
       ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-30 18:53 UTC  
+> **Last Updated:** 2026-03-30 20:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**entire soc responds** • **remote code execution** • **iran's intelligence agencies** • **europa eu hack** • **service ddos doxing** • **things iot devices** • **agents autonomous programs** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **restricted interface leading** • **quantum safe cryptography** • **messaging app received** • **least 77 vulnerabilities** • **execute arbitrary commands** • **separating real impact** • **measure real outcomes** • **service dos vulnerability** • **obtain sensitive data** • **windows operating systems**
+**entire soc responds** • **iran's intelligence agencies** • **europa eu hack** • **service ddos doxing** • **agents autonomous programs** • **wago gmbh co** • **twitter whistleblower complaint** • **things iot devices** • **tenant identifier parameter** • **quantum safe cryptography** • **messaging app received** • **malicious cyber actors** • **least 77 vulnerabilities** • **high severity denial** • **execute arbitrary commands** • **cve 2026 3055** • **separating real impact** • **measure real outcomes** • **service dos vulnerability** • **service dos flaw**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
 - [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
 - [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
 - [3 SOC Process Fixes That Unlock Tier 1 Productivity](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
@@ -23,7 +24,6 @@
 - [The State of Secrets Sprawl 2026: 9 Takeaways for CISOs](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
 - [Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
 - [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
-- [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
 
 ### BleepingComputer
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Fortinet BIG-IP Vulnerability Reclassified as RCE, Under Exploitation](https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation)
+- [Manufacturing and Healthcare Share Struggles with Passwords](https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords)
 - [Storm Brews Over Critical, No-Click Telegram Flaw](https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw)
 - [China Upgrades the Backdoor It Uses to Spy on Telcos Globally](https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos)
 - [Wartime Usage of Compromised IP Cameras Highlight Their Danger](https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger)
 - [Infrastructure Attacks With Physical Consequences Down 25%](https://www.darkreading.com/threat-intelligence/infrastructure-attacks-physical-consequences-down)
 - [Google Sets 2029 Deadline for Quantum-Safe Cryptography](https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography)
 - [Coruna, DarkSword &amp; Democratizing Nation-State Exploit Kits](https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits)
-- [Is the FCC's Router Ban the Wrong Fix?](https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix)
-- [Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles](https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [OpenCode Systems OC Messaging and USSD Gateway](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02)
-- [PTC Windchill Product Lifecycle Management](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [WAGO GmbH & Co. KG Industrial Managed Switches](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01)
+- [PTC Windchill Product Lifecycle Management](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Pharos Controls Mosaic Show Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-01)
-- [Schneider Electric Plant iT/Brewmaxx](https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-03)
 
 ---
 

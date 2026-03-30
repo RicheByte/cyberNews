@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-03-30 18:53",
+  "last_updated": "2026-03-30 20:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "entire soc responds",
-    "remote code execution",
     "iran's intelligence agencies",
     "europa eu hack",
     "service ddos doxing",
-    "things iot devices",
     "agents autonomous programs",
     "wago gmbh co",
     "twitter whistleblower complaint",
+    "things iot devices",
     "tenant identifier parameter",
-    "restricted interface leading",
     "quantum safe cryptography",
     "messaging app received",
+    "malicious cyber actors",
     "least 77 vulnerabilities",
+    "high severity denial",
     "execute arbitrary commands",
+    "cve 2026 3055",
     "separating real impact",
     "measure real outcomes",
     "service dos vulnerability",
-    "obtain sensitive data",
-    "windows operating systems"
+    "service dos flaw"
   ],
   "trending": [
     {
       "keyword": "entire soc responds",
-      "mentions": 3
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 201
+      "mentions": 4
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 104
+      "mentions": 105
     },
     {
       "keyword": "europa eu hack",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 119
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 136
+      "mentions": 120
     },
     {
       "keyword": "agents autonomous programs",
-      "mentions": 73
+      "mentions": 74
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1174
+      "mentions": 1175
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 137
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 46
+      "mentions": 47
+    },
+    {
+      "keyword": "quantum safe cryptography",
+      "mentions": 38
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
+      "link": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
+      "summary": "A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point. \"A single malicious prompt could turn an otherwise ordinary conversation into a covert exfiltration channel, leaking user messages, uploaded files, and other sensitive content,\" the cybersecurity company said in",
+      "published": "Mon, 30 Mar 2026 23:35:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
@@ -132,21 +141,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
-      "link": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
-      "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr. The vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to memory overread, which an attacker could exploit to leak potentially sensitive information. Per",
-      "published": "Sat, 28 Mar 2026 14:41:00 +0530",
-      "value_score": 80,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Breach/leak",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
       ]
     },
     {
@@ -321,6 +315,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Fortinet BIG-IP Vulnerability Reclassified as RCE, Under Exploitation",
+      "link": "https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation",
+      "summary": "CVE-2025-53521 was initially disclosed in October as a high-severity denial-of-service (DoS) flaw, but new information has revealed the bug is actually much more dangerous.",
+      "published": "Mon, 30 Mar 2026 18:24:02 GMT",
+      "value_score": 54,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Manufacturing and Healthcare Share Struggles with Passwords",
+      "link": "https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords",
+      "summary": "The two key economic sectors struggle with security for a reason: Many insiders view access management as a roadblock, while attackers see it as a way in.",
+      "published": "Mon, 30 Mar 2026 16:25:19 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Storm Brews Over Critical, No-Click Telegram Flaw",
       "link": "https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw",
       "summary": "The vulnerability, which is allegedly triggered by a corrupted sticker in the messaging app, received a 9.8 CVSS score, but Telegram denies it exists.",
@@ -383,26 +399,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Is the FCC's Router Ban the Wrong Fix?",
-      "link": "https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix",
-      "summary": "The agency put foreign-made consumer routers on its list of prohibited communications devices, but the ban could create more problems down the road.",
-      "published": "Thu, 26 Mar 2026 19:48:32 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles",
-      "summary": "More than a decade since the 2015 Jeep hack, the cybersecurity of vehicles remains of the utmost importance.",
-      "published": "Thu, 26 Mar 2026 19:48:21 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -569,6 +565,20 @@
     {
       "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-3055 Citrix NetScaler Out-of-Bounds Read Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Com",
+      "published": "Mon, 30 Mar 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common",
       "published": "Fri, 27 Mar 26 12:00:00 +0000",
@@ -577,20 +587,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "RCE",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
-      "published": "Thu, 26 Mar 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
         "CISA/KEV ×6",
         "Exploit wording"
       ]
@@ -611,16 +607,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "PTC Windchill Product Lifecycle Management",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to achieve remote code execution. The following versions of PTC Windchill Product Lifecycle Management are affected: Windchill PDMLink 11.0_M030 (CVE-2026-4681) Windchill PDMLink 11.1_M020 (CVE-2026-4681) Windchill PDMLink 11.2.1.0 (CVE-2026-4681) Windchill PDMLink 12.0.2.0 (CVE-2026-4681) Windchill PDMLink 12.1.2.0 (CVE-2026-4681) Windchill PDMLink 13.0.2.0 (CVE-2026-4681) Windchill PDMLink 13.1.0.0 (CVE-202",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
       "published": "Thu, 26 Mar 26 12:00:00 +0000",
-      "value_score": 100,
+      "value_score": 99,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×6",
-        "RCE",
-        "Multiple CVEs",
+        "CVE mentioned",
+        "CISA/KEV ×6",
         "Exploit wording"
       ]
     },
@@ -634,6 +629,21 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "PTC Windchill Product Lifecycle Management",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to achieve remote code execution. The following versions of PTC Windchill Product Lifecycle Management are affected: Windchill PDMLink 11.0_M030 (CVE-2026-4681) Windchill PDMLink 11.1_M020 (CVE-2026-4681) Windchill PDMLink 11.2.1.0 (CVE-2026-4681) Windchill PDMLink 12.0.2.0 (CVE-2026-4681) Windchill PDMLink 12.1.2.0 (CVE-2026-4681) Windchill PDMLink 13.0.2.0 (CVE-2026-4681) Windchill PDMLink 13.1.0.0 (CVE-202",
+      "published": "Thu, 26 Mar 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×6",
+        "RCE",
         "Multiple CVEs",
         "Exploit wording"
       ]
@@ -663,22 +673,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric Plant iT/Brewmaxx",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could risk privilege escalation, which could result in remote code execution. The following versions of Schneider Electric Plant iT/Brewmaxx are affected: Plant iT/Brewmaxx 9.60_and_above (CVE-2025-49844, CVE-2025-46817, CVE-2025-46818, CVE-2025-46819) CVSS Vendor Equipment Vulnerabilities v3 9.9 Schneider Electric Schneider Electric Plant iT/Brewmaxx Use After Free, Integer Overflow or Wraparound, Improper Control of Generation ",
-      "published": "Tue, 24 Mar 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "RCE",
-        "Privilege escalation",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     }

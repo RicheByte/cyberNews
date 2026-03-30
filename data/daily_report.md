@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-30 13:07 UTC  
+> **Last Updated:** 2026-03-30 14:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **iran's intelligence agencies** • **europa eu hack** • **things iot devices** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **service ddos doxing** • **restricted interface leading** • **quantum safe cryptography** • **least 77 vulnerabilities** • **frequent attack vector** • **windows operating systems** • **victim's username password** • **triggers 0x80073712 errors** • **sms messages outside** • **shinyhunters extortion gang** • **secure online communications** • **python payload packaged** • **private key folders**
+**entire soc responds** • **remote code execution** • **iran's intelligence agencies** • **europa eu hack** • **service ddos doxing** • **things iot devices** • **agents autonomous programs** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **restricted interface leading** • **quantum safe cryptography** • **least 77 vulnerabilities** • **separating real impact** • **measure real outcomes** • **langflow ai platform** • **frequent attack vector** • **windows operating systems** • **victim's username password** • **triggers 0x80073712 errors**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
-- [The State of Secrets Sprawl 2026: 9 Takeaways for CISOs](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
+- [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
+- [3 SOC Process Fixes That Unlock Tier 1 Productivity](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
 - [Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
+- [The State of Secrets Sprawl 2026: 9 Takeaways for CISOs](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
 - [Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
 - [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
 - [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
 - [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
-- [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
-- [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
 
 ### BleepingComputer
 
+- [Apple adds macOS Terminal warning to block ClickFix attacks](https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/)
+- [How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking](https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/)
 - [Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/)
 - [Microsoft pulls KB5079391 Windows update over install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/)
 - [Critical Fortinet Forticlient EMS flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/)
 - [European Commission confirms data breach after Europa.eu hack](https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/)
 - [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
 - [File read flaw in Smart Slider plugin impacts 500K WordPress sites](https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/)
-- [New Infinity Stealer malware grabs macOS data via ClickFix lures](https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/)
-- [Backdoored Telnyx PyPI package pushes malware hidden in WAV audio](https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Healthcare IT Platform CareCloud Probing Potential Data Breach](https://www.securityweek.com/healthcare-it-platform-carecloud-probing-potential-data-breach/)
+- [Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control](https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/)
 - [Huskeys Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/)
 - [Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit](https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/)
 - [European Commission Reports Cyber Intrusion and Data Theft](https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/)
 - [Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare](https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/)
 - [Telnyx Targeted in Growing TeamPCP Supply Chain Attack](https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/)
 - [Exploitation of Fresh Citrix NetScaler Vulnerability Begins](https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/)
-- [FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers](https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/)
-- [F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild](https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/)
 
 ### Threatpost
 

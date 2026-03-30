@@ -1,78 +1,87 @@
 {
-  "last_updated": "2026-03-30 13:07",
+  "last_updated": "2026-03-30 14:59",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "entire soc responds",
     "remote code execution",
     "iran's intelligence agencies",
     "europa eu hack",
+    "service ddos doxing",
     "things iot devices",
+    "agents autonomous programs",
     "wago gmbh co",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
-    "service ddos doxing",
     "restricted interface leading",
     "quantum safe cryptography",
     "least 77 vulnerabilities",
+    "separating real impact",
+    "measure real outcomes",
+    "langflow ai platform",
     "frequent attack vector",
     "windows operating systems",
     "victim's username password",
-    "triggers 0x80073712 errors",
-    "sms messages outside",
-    "shinyhunters extortion gang",
-    "secure online communications",
-    "python payload packaged",
-    "private key folders"
+    "triggers 0x80073712 errors"
   ],
   "trending": [
     {
+      "keyword": "entire soc responds",
+      "mentions": 1
+    },
+    {
       "keyword": "remote code execution",
-      "mentions": 198
+      "mentions": 199
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 101
+      "mentions": 102
     },
     {
       "keyword": "europa eu hack",
-      "mentions": 4
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 133
-    },
-    {
-      "keyword": "wago gmbh co",
-      "mentions": 43
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1171
-    },
-    {
-      "keyword": "tenant identifier parameter",
-      "mentions": 43
+      "mentions": 5
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 116
+      "mentions": 117
     },
     {
-      "keyword": "restricted interface leading",
-      "mentions": 24
+      "keyword": "things iot devices",
+      "mentions": 134
     },
     {
-      "keyword": "quantum safe cryptography",
-      "mentions": 34
+      "keyword": "agents autonomous programs",
+      "mentions": 71
+    },
+    {
+      "keyword": "wago gmbh co",
+      "mentions": 44
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1172
+    },
+    {
+      "keyword": "tenant identifier parameter",
+      "mentions": 44
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
-      "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
-      "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded. This year's findings reveal three core trends: AI has",
-      "published": "Mon, 30 Mar 2026 17:00:00 +0530",
+      "title": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
+      "link": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
+      "summary": "Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defenders stopped paying attention. There's a bit of everything this week. Persistence plays, legal wins, influence ops, and at least one thing that looks boring",
+      "published": "Mon, 30 Mar 2026 19:26:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
+      "link": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
+      "summary": "What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. They come from fragmented workflows, manual triage steps, and limited visibility early in the investigation. Fixing those process gaps can help Tier 1 move faster, reduce unnecessary escalations, and improve how the entire SOC responds under pressure",
+      "published": "Mon, 30 Mar 2026 18:30:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -81,11 +90,20 @@
       "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
       "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
       "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders. The CTRL toolkit, according to Censys, is custom-built using .NET and includes various executables\" to facilitate credential phishing, keylogging, Remote Desktop Protocol (RDP) hijacking, and reverse tunneling",
-      "published": "Mon, 30 Mar 2026 15:28:00 +0530",
+      "published": "Mon, 30 Mar 2026 17:48:00 +0530",
       "value_score": 18,
       "value_signals": [
         "Phishing"
       ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
+      "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
+      "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded. This year's findings reveal three core trends: AI has",
+      "published": "Mon, 30 Mar 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "The Hacker News",
@@ -135,33 +153,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
-      "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution. \"When a",
-      "published": "Sat, 28 Mar 2026 12:37:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE",
-        "CISA/KEV ×5",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
+      "summary": "Apple has introduced a security feature in macOS Tahoe 26.4 that blocks pasting and executing potentially harmful commands in Terminal and alerts users to possible risks. [...]",
+      "published": "Mon, 30 Mar 2026 10:32:34 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development was first reported by MacRumors. \"Apple is aware of attacks targeting out-of-date iOS software, including the version on your iPhone. Install this critical update to protect your iPhone,\" the",
-      "published": "Fri, 27 Mar 2026 22:52:00 +0530",
-      "value_score": 40,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
+      "summary": "AI SOC agents can reduce alert fatigue, but most teams fail to measure real outcomes. Prophet Security breaks down Gartner's questions for evaluating AI SOC agents and separating real impact from hype. [...]",
+      "published": "Mon, 30 Mar 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -230,24 +237,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
-      "link": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
-      "summary": "A new info-stealing malware named Infinity Stealer is targeting macOS systems with a Python payload packaged as an executable using the open-source Nuitka compiler. [...]",
-      "published": "Sat, 28 Mar 2026 10:35:10 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
-      "link": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
-      "summary": "TeamPCP hackers compromised the Telnyx package on the Python Package Index today, uploading malicious versions that deliver credential-stealing malware hidden inside a WAV file. [...]",
-      "published": "Fri, 27 Mar 2026 17:13:26 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -417,6 +406,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Healthcare IT Platform CareCloud Probing Potential Data Breach",
+      "link": "https://www.securityweek.com/healthcare-it-platform-carecloud-probing-potential-data-breach/",
+      "summary": "The company has disclosed a cybersecurity incident involving one of its electronic health record environments. The post Healthcare IT Platform CareCloud Probing Potential Data Breach appeared first on SecurityWeek .",
+      "published": "Mon, 30 Mar 2026 14:16:49 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control",
+      "link": "https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/",
+      "summary": "LLMs can write complex Rego and Cedar code in seconds, but a single missing condition or hallucinated attribute can quietly dismantle your organization’s least-privilege security model. The post Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control appeared first on SecurityWeek .",
+      "published": "Mon, 30 Mar 2026 14:15:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Huskeys Emerges From Stealth With $8 Million in Funding",
       "link": "https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/",
       "summary": "The startup has built an edge security management (ESM) platform, an AI engine atop the entire edge security stack. The post Huskeys Emerges From Stealth With $8 Million in Funding appeared first on SecurityWeek .",
@@ -471,29 +480,6 @@
       "value_score": 24,
       "value_signals": [
         "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers",
-      "link": "https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/",
-      "summary": "The agency said Iranian hackers targeted the director’s personal email account and noted that the compromised information is old. The post FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers appeared first on SecurityWeek .",
-      "published": "Mon, 30 Mar 2026 08:01:43 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild",
-      "link": "https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/",
-      "summary": "Initially disclosed as a high-severity denial-of-service (DoS), the bug was reclassified as a critical RCE issue. The post F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild appeared first on SecurityWeek .",
-      "published": "Mon, 30 Mar 2026 07:07:09 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×2",
-        "RCE ×3",
-        "High severity ×3",
         "Exploit wording"
       ]
     },

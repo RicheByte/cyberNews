@@ -1,12 +1,13 @@
 {
-  "last_updated": "2026-03-30 07:24",
+  "last_updated": "2026-03-30 09:06",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "things iot devices",
-    "europa eu hack",
+    "iran's intelligence agencies",
     "remote code execution",
     "fake captcha page",
+    "europa eu hack",
     "wago gmbh co",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
@@ -14,59 +15,67 @@
     "rsac 2026 conference",
     "quantum safe cryptography",
     "least 77 vulnerabilities",
-    "iran's intelligence agencies",
     "restricted interface leading",
-    "personal email account",
     "implementation issues leading",
+    "malicious cyber actors",
     "frequent attack vector",
-    "threat actor behind",
-    "patel s account",
+    "well resourced operation",
     "victim's username password",
-    "targeted email campaign"
+    "steal sensitive data",
+    "sms messages outside"
   ],
   "trending": [
     {
       "keyword": "things iot devices",
-      "mentions": 130
+      "mentions": 131
     },
     {
-      "keyword": "europa eu hack",
-      "mentions": 1
+      "keyword": "iran's intelligence agencies",
+      "mentions": 99
     },
     {
       "keyword": "remote code execution",
-      "mentions": 195
+      "mentions": 196
     },
     {
       "keyword": "fake captcha page",
-      "mentions": 20
+      "mentions": 21
+    },
+    {
+      "keyword": "europa eu hack",
+      "mentions": 2
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1168
+      "mentions": 1169
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 113
+      "mentions": 114
     },
     {
       "keyword": "rsac 2026 conference",
-      "mentions": 38
-    },
-    {
-      "keyword": "quantum safe cryptography",
-      "mentions": 31
+      "mentions": 39
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
+      "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
+      "summary": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\" The campaigns have led to the deployment of various malware families, including HIUPAN (aka USBFect, MISTCLOAK, or U2DiskWatch), PUBLOAD, EggStremeFuel (aka RawCookie), EggStremeLoader (aka Gorem RAT), MASOL",
+      "published": "Mon, 30 Mar 2026 12:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack",
@@ -153,14 +162,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
-      "link": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
-      "summary": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security. Business accounts associated with social media platforms are a lucrative target, as they can be weaponized by bad actors for malvertising and distributing malware. \"TikTok has been historically abused to distribute",
-      "published": "Fri, 27 Mar 2026 17:33:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers are now actively exploiting a critical vulnerability in Fortinet's FortiClient EMS platform, according to threat intelligence company Defused. [...]",
+      "published": "Mon, 30 Mar 2026 03:48:17 -0400",
+      "value_score": 32,
       "value_signals": [
-        "Phishing ×2"
+        "High severity ×2",
+        "Exploit wording"
       ]
     },
     {
@@ -229,17 +239,6 @@
       "published": "Fri, 27 Mar 2026 10:02:12 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "European Commission investigating breach after Amazon cloud account hack",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
-      "summary": "The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to the Commission's Amazon cloud environment. [...]",
-      "published": "Fri, 27 Mar 2026 08:22:19 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -409,6 +408,15 @@
     },
     {
       "source": "Security Week",
+      "title": "FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers",
+      "link": "https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/",
+      "summary": "The agency said Iranian hackers targeted the director’s personal email account and noted that the compromised information is old. The post FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers appeared first on SecurityWeek .",
+      "published": "Mon, 30 Mar 2026 08:01:43 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild",
       "link": "https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/",
       "summary": "Initially disclosed as a high-severity denial-of-service (DoS), the bug was reclassified as a critical RCE issue. The post F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild appeared first on SecurityWeek .",
@@ -476,18 +484,6 @@
       "published": "Fri, 27 Mar 2026 10:48:53 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Coruna iOS Exploit Kit Likely an Update to Operation Triangulation",
-      "link": "https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/",
-      "summary": "Coruna contains the updated version of a kernel exploit used in Operation Triangulation three years ago. The post Coruna iOS Exploit Kit Likely an Update to Operation Triangulation appeared first on SecurityWeek .",
-      "published": "Fri, 27 Mar 2026 10:35:20 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

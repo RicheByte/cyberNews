@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-30 07:24 UTC  
+> **Last Updated:** 2026-03-30 09:06 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**things iot devices** • **europa eu hack** • **remote code execution** • **fake captcha page** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **service ddos doxing** • **rsac 2026 conference** • **quantum safe cryptography** • **least 77 vulnerabilities** • **iran's intelligence agencies** • **restricted interface leading** • **personal email account** • **implementation issues leading** • **frequent attack vector** • **threat actor behind** • **patel s account** • **victim's username password** • **targeted email campaign**
+**things iot devices** • **iran's intelligence agencies** • **remote code execution** • **fake captcha page** • **europa eu hack** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **service ddos doxing** • **rsac 2026 conference** • **quantum safe cryptography** • **least 77 vulnerabilities** • **restricted interface leading** • **implementation issues leading** • **malicious cyber actors** • **frequent attack vector** • **well resourced operation** • **victim's username password** • **steal sensitive data** • **sms messages outside**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
 - [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
 - [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
 - [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
@@ -23,10 +24,10 @@
 - [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
 - [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
 - [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
-- [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
 
 ### BleepingComputer
 
+- [Critical Fortinet Forticlient EMS flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/)
 - [European Commission confirms data breach after Europa.eu hack](https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/)
 - [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
 - [File read flaw in Smart Slider plugin impacts 500K WordPress sites](https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/)
@@ -34,7 +35,6 @@
 - [Backdoored Telnyx PyPI package pushes malware hidden in WAV audio](https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/)
 - [Fake VS Code alerts on GitHub spread malware to developers](https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/)
 - [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
-- [European Commission investigating breach after Amazon cloud account hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers](https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/)
 - [F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild](https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/)
 - [Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs](https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/)
 - [Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account](https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/)
@@ -67,7 +68,6 @@
 - [OpenAI Launches Bug Bounty Program for Abuse and Safety Risks](https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/)
 - [TP-Link Patches High-Severity Router Vulnerabilities](https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/)
 - [RSAC 2026 Conference Announcements Summary (Days 3-4)](https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/)
-- [Coruna iOS Exploit Kit Likely an Update to Operation Triangulation](https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/)
 
 ### Threatpost
 

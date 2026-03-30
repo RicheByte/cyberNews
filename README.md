@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-30 20:39 UTC |
+| 🕐 Last Updated | 2026-03-30 22:30 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`entire soc responds` • `iran's intelligence agencies` • `europa eu hack` • `service ddos doxing` • `agents autonomous programs` • `wago gmbh co` • `twitter whistleblower complaint` • `things iot devices` • `tenant identifier parameter` • `quantum safe cryptography`
+`entire soc responds` • `iran's intelligence agencies` • `service ddos doxing` • `agents autonomous programs` • `wago gmbh co` • `twitter whistleblower complaint` • `things iot devices` • `tenant identifier parameter` • `successfully hacked victims` • `quantum safe cryptography`
 
 ## 📄 Reports
 

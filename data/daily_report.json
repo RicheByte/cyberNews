@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-30 20:39",
+  "last_updated": "2026-03-30 22:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "entire soc responds",
     "iran's intelligence agencies",
-    "europa eu hack",
     "service ddos doxing",
     "agents autonomous programs",
     "wago gmbh co",
     "twitter whistleblower complaint",
     "things iot devices",
     "tenant identifier parameter",
+    "successfully hacked victims",
     "quantum safe cryptography",
     "messaging app received",
-    "malicious cyber actors",
     "least 77 vulnerabilities",
     "high severity denial",
     "execute arbitrary commands",
     "cve 2026 3055",
     "separating real impact",
     "measure real outcomes",
-    "service dos vulnerability",
-    "service dos flaw"
+    "malicious cyber actors",
+    "enabling threat actors",
+    "service dos vulnerability"
   ],
   "trending": [
     {
       "keyword": "entire soc responds",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 105
-    },
-    {
-      "keyword": "europa eu hack",
-      "mentions": 8
+      "mentions": 106
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 120
+      "mentions": 121
     },
     {
       "keyword": "agents autonomous programs",
-      "mentions": 74
+      "mentions": 75
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1175
+      "mentions": 1176
     },
     {
       "keyword": "things iot devices",
-      "mentions": 137
+      "mentions": 138
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 47
+      "mentions": 48
+    },
+    {
+      "keyword": "successfully hacked victims",
+      "mentions": 17
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 38
+      "mentions": 39
     }
   ],
   "articles": [
@@ -145,6 +145,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Healthcare tech firm CareCloud says hackers stole patient data",
+      "link": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
+      "summary": "Healthcare IT firm CareCloud has disclosed a data breach incident that exposed sensitive data and caused a network disruption lasting approximately eight hours. [...]",
+      "published": "Mon, 30 Mar 2026 17:44:31 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
+      "summary": "A newly identified malicious implant named RoadK1ll is enabling threat actors to quietly move from a compromised host to other systems on the network. [...]",
+      "published": "Mon, 30 Mar 2026 16:49:22 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
       "summary": "Hackers are exploiting a critical severity vulnerability, tracked as CVE-2026-3055, in Citrix NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data. [...]",
@@ -211,26 +231,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "European Commission confirms data breach after Europa.eu hack",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
-      "summary": "The European Commission has confirmed a data breach after its Europa.eu web platform was hacked in a cyberattack claimed by the ShinyHunters extortion gang. [...]",
-      "published": "Mon, 30 Mar 2026 02:42:58 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI confirms hack of Director Patel's personal email inbox",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
-      "summary": "The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents. [...]",
-      "published": "Sun, 29 Mar 2026 17:09:50 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -315,7 +315,16 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Fortinet BIG-IP Vulnerability Reclassified as RCE, Under Exploitation",
+      "title": "AI-Powered 'DeepLoad' Malware Steals Credentials, Evades Detection",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection",
+      "summary": "The massive amount of junk code that hides the malware's logic from security scans was almost certainly generated by AI, researchers say.",
+      "published": "Mon, 30 Mar 2026 21:25:02 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation",
       "link": "https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation",
       "summary": "CVE-2025-53521 was initially disclosed in October as a high-severity denial-of-service (DoS) flaw, but new information has revealed the bug is actually much more dangerous.",
       "published": "Mon, 30 Mar 2026 18:24:02 GMT",
@@ -388,17 +397,6 @@
       "published": "Fri, 27 Mar 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Coruna, DarkSword &amp; Democratizing Nation-State Exploit Kits",
-      "link": "https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits",
-      "summary": "Nation-state malware is being sold on the Dark Web and leaked to GitHub; and ordinary organizations might not stand much of a chance of defending themselves.",
-      "published": "Thu, 26 Mar 2026 19:56:41 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

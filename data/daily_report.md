@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-30 20:39 UTC  
+> **Last Updated:** 2026-03-30 22:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**entire soc responds** • **iran's intelligence agencies** • **europa eu hack** • **service ddos doxing** • **agents autonomous programs** • **wago gmbh co** • **twitter whistleblower complaint** • **things iot devices** • **tenant identifier parameter** • **quantum safe cryptography** • **messaging app received** • **malicious cyber actors** • **least 77 vulnerabilities** • **high severity denial** • **execute arbitrary commands** • **cve 2026 3055** • **separating real impact** • **measure real outcomes** • **service dos vulnerability** • **service dos flaw**
+**entire soc responds** • **iran's intelligence agencies** • **service ddos doxing** • **agents autonomous programs** • **wago gmbh co** • **twitter whistleblower complaint** • **things iot devices** • **tenant identifier parameter** • **successfully hacked victims** • **quantum safe cryptography** • **messaging app received** • **least 77 vulnerabilities** • **high severity denial** • **execute arbitrary commands** • **cve 2026 3055** • **separating real impact** • **measure real outcomes** • **malicious cyber actors** • **enabling threat actors** • **service dos vulnerability**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Healthcare tech firm CareCloud says hackers stole patient data](https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/)
+- [New RoadK1ll WebSocket implant used to pivot on breached networks](https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/)
 - [Critical Citrix NetScaler memory flaw actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/)
 - [Apple adds macOS Terminal warning to block ClickFix attacks](https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/)
 - [How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking](https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/)
 - [Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/)
 - [Microsoft pulls KB5079391 Windows update over install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/)
 - [Critical Fortinet Forticlient EMS flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/)
-- [European Commission confirms data breach after Europa.eu hack](https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/)
-- [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
-- [Fortinet BIG-IP Vulnerability Reclassified as RCE, Under Exploitation](https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation)
+- [AI-Powered 'DeepLoad' Malware Steals Credentials, Evades Detection](https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection)
+- [F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation](https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation)
 - [Manufacturing and Healthcare Share Struggles with Passwords](https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords)
 - [Storm Brews Over Critical, No-Click Telegram Flaw](https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw)
 - [China Upgrades the Backdoor It Uses to Spy on Telcos Globally](https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos)
 - [Wartime Usage of Compromised IP Cameras Highlight Their Danger](https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger)
 - [Infrastructure Attacks With Physical Consequences Down 25%](https://www.darkreading.com/threat-intelligence/infrastructure-attacks-physical-consequences-down)
 - [Google Sets 2029 Deadline for Quantum-Safe Cryptography](https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography)
-- [Coruna, DarkSword &amp; Democratizing Nation-State Exploit Kits](https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits)
 
 ### Security Week
 

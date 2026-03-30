@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-03-30 10:57",
+  "last_updated": "2026-03-30 13:07",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
-    "things iot devices",
     "iran's intelligence agencies",
-    "fake captcha page",
     "europa eu hack",
+    "things iot devices",
     "wago gmbh co",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "service ddos doxing",
+    "restricted interface leading",
     "quantum safe cryptography",
     "least 77 vulnerabilities",
-    "restricted interface leading",
-    "implementation issues leading",
-    "malicious cyber actors",
     "frequent attack vector",
-    "well resourced operation",
+    "windows operating systems",
     "victim's username password",
     "triggers 0x80073712 errors",
-    "steal sensitive data",
-    "sms messages outside"
+    "sms messages outside",
+    "shinyhunters extortion gang",
+    "secure online communications",
+    "python payload packaged",
+    "private key folders"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 197
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 132
+      "mentions": 198
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 100
-    },
-    {
-      "keyword": "fake captcha page",
-      "mentions": 22
+      "mentions": 101
     },
     {
       "keyword": "europa eu hack",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 133
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1170
+      "mentions": 1171
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 115
+      "mentions": 116
+    },
+    {
+      "keyword": "restricted interface leading",
+      "mentions": 24
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 33
+      "mentions": 34
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
+      "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
+      "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded. This year's findings reveal three core trends: AI has",
+      "published": "Mon, 30 Mar 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
@@ -155,13 +164,18 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
-      "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
-      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March 27, 2026, concealed their credential harvesting capabilities within a .WAV file. Users are",
-      "published": "Fri, 27 Mar 2026 22:23:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
+      "summary": "F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatched devices. [...]",
+      "published": "Mon, 30 Mar 2026 06:59:38 -0400",
+      "value_score": 80,
+      "value_signals": [
+        "RCE ×2",
+        "Patch/update",
+        "High severity ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -232,15 +246,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
       "summary": "TeamPCP hackers compromised the Telnyx package on the Python Package Index today, uploading malicious versions that deliver credential-stealing malware hidden inside a WAV file. [...]",
       "published": "Fri, 27 Mar 2026 17:13:26 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake VS Code alerts on GitHub spread malware to developers",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
-      "summary": "A large-scale campaign is targeting developers on GitHub with fake Visual Studio Code (VS Code) security alerts posted in the Discussions section of various projects, to trick users into downloading malware. [...]",
-      "published": "Fri, 27 Mar 2026 12:51:52 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -412,6 +417,44 @@
     },
     {
       "source": "Security Week",
+      "title": "Huskeys Emerges From Stealth With $8 Million in Funding",
+      "link": "https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/",
+      "summary": "The startup has built an edge security management (ESM) platform, an AI engine atop the entire edge security stack. The post Huskeys Emerges From Stealth With $8 Million in Funding appeared first on SecurityWeek .",
+      "published": "Mon, 30 Mar 2026 12:40:27 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit",
+      "link": "https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/",
+      "summary": "The state-sponsored group’s campaign has targeted government, higher education, financial, and legal entities, as well as think tanks. The post Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit appeared first on SecurityWeek .",
+      "published": "Mon, 30 Mar 2026 11:54:15 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "European Commission Reports Cyber Intrusion and Data Theft",
+      "link": "https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/",
+      "summary": "The ShinyHunters hacker group claimed to have stolen over 350GB of information from European Commission cloud systems. The post European Commission Reports Cyber Intrusion and Data Theft appeared first on SecurityWeek .",
+      "published": "Mon, 30 Mar 2026 11:29:45 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare",
+      "link": "https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/",
+      "summary": "Iran-linked hacking groups are turning to high-volume, low-impact cyberattacks, and AI is providing a boost. The post Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare appeared first on SecurityWeek .",
+      "published": "Mon, 30 Mar 2026 11:09:49 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Telnyx Targeted in Growing TeamPCP Supply Chain Attack",
       "link": "https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/",
       "summary": "Two malicious versions of the popular SDK were uploaded to the PyPI registry, targeting Windows, macOS, and Linux. The post Telnyx Targeted in Growing TeamPCP Supply Chain Attack appeared first on SecurityWeek .",
@@ -453,44 +496,6 @@
         "High severity ×3",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs",
-      "link": "https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/",
-      "summary": "The infection chain includes a fake CAPTCHA page, a Bash script, a Nuitka loader, and the Python-based infostealer. The post Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs appeared first on SecurityWeek .",
-      "published": "Sat, 28 Mar 2026 10:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account",
-      "link": "https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/",
-      "summary": "The group that it was making available for download emails and other documents from Patel’s account. The post Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account appeared first on SecurityWeek .",
-      "published": "Fri, 27 Mar 2026 16:42:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Palo Alto Recruiter Scam, Anti-Deepfake Chip, Google Sets 2029 Quantum Deadline",
-      "link": "https://www.securityweek.com/in-other-news-palo-alto-recruiter-scam-anti-deepfake-chip-google-sets-2029-quantum-deadline/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Heritage Bank data breach, new State Department unit tackles cyber threats, LA Metro disruptions. The post In Other News: Palo Alto Recruiter Scam, Anti-Deepfake Chip, Google Sets 2029 Quantum Deadline appeared first on SecurityWeek .",
-      "published": "Fri, 27 Mar 2026 14:25:52 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Launches Bug Bounty Program for Abuse and Safety Risks",
-      "link": "https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/",
-      "summary": "Through the new program, OpenAI will reward reports covering design or implementation issues leading to material harm. The post OpenAI Launches Bug Bounty Program for Abuse and Safety Risks appeared first on SecurityWeek .",
-      "published": "Fri, 27 Mar 2026 13:33:11 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

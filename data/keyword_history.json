@@ -170,7 +170,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 577,
+      "count": 578,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -248,11 +248,12 @@
         "2026-03-21",
         "2026-03-23",
         "2026-03-25",
-        "2026-03-26"
+        "2026-03-26",
+        "2026-03-30"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1170,
+      "count": 1171,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -611,7 +612,7 @@
       ]
     },
     "remote code execution": {
-      "count": 197,
+      "count": 198,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1862,7 +1863,7 @@
       ]
     },
     "things iot devices": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -6861,7 +6862,7 @@
       ]
     },
     "secure online communications": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-02-13",
         "2026-02-17",
@@ -6875,7 +6876,8 @@
         "2026-03-11",
         "2026-03-12",
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-03-30"
       ]
     },
     "original researchers observe": {
@@ -7828,7 +7830,7 @@
       ]
     },
     "victim's username password": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7995,9 +7997,10 @@
       ]
     },
     "shinyhunters extortion gang": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-02-24"
+        "2026-02-24",
+        "2026-03-30"
       ]
     },
     "repository takeover attackers": {
@@ -9398,7 +9401,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10393,7 +10396,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10470,7 +10473,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11054,7 +11057,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -11101,7 +11104,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11111,7 +11114,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11150,7 +11153,7 @@
       ]
     },
     "sms messages outside": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11184,7 +11187,7 @@
       ]
     },
     "quantum safe cryptography": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11263,7 +11266,7 @@
       ]
     },
     "restricted interface leading": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -11303,7 +11306,7 @@
       ]
     },
     "europa eu hack": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-30"
       ]
@@ -11315,6 +11318,18 @@
       ]
     },
     "triggers 0x80073712 errors": {
+      "count": 2,
+      "dates": [
+        "2026-03-30"
+      ]
+    },
+    "python payload packaged": {
+      "count": 1,
+      "dates": [
+        "2026-03-30"
+      ]
+    },
+    "private key folders": {
       "count": 1,
       "dates": [
         "2026-03-30"
@@ -11322,17 +11337,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-21 10:21",
-      "articles": 56,
-      "top_keywords": [
-        "3 men charged",
-        "critical security flaw",
-        "things iot devices",
-        "quantum safe version",
-        "former u s"
-      ]
-    },
     {
       "timestamp": "2026-03-21 12:37",
       "articles": 56,
@@ -12420,6 +12424,17 @@
         "iran's intelligence agencies",
         "fake captcha page",
         "europa eu hack"
+      ]
+    },
+    {
+      "timestamp": "2026-03-30 13:07",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "iran's intelligence agencies",
+        "europa eu hack",
+        "things iot devices",
+        "wago gmbh co"
       ]
     }
   ]

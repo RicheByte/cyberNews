@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-03-31 04:36",
+  "last_updated": "2026-03-31 07:06",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "entire soc responds",
-    "iran's intelligence agencies",
     "service ddos doxing",
     "agents autonomous programs",
     "wago gmbh co",
     "twitter whistleblower complaint",
     "things iot devices",
     "tenant identifier parameter",
-    "successfully hacked victims",
     "quantum safe cryptography",
+    "openai codex vulnerability",
     "messaging app received",
     "least 77 vulnerabilities",
+    "iran's intelligence agencies",
     "high severity denial",
     "execute arbitrary commands",
     "cve 2026 3055",
+    "0 30 4",
     "separating real impact",
     "measure real outcomes",
-    "malicious cyber actors",
-    "enabling threat actors",
-    "service dos vulnerability"
+    "service dos vulnerability",
+    "service dos flaw"
   ],
   "trending": [
     {
       "keyword": "entire soc responds",
-      "mentions": 7
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 108
+      "mentions": 8
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 123
+      "mentions": 124
     },
     {
       "keyword": "agents autonomous programs",
-      "mentions": 77
+      "mentions": 78
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 50
+      "mentions": 51
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1178
+      "mentions": 1179
     },
     {
       "keyword": "things iot devices",
-      "mentions": 140
+      "mentions": 141
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 50
-    },
-    {
-      "keyword": "successfully hacked victims",
-      "mentions": 19
+      "mentions": 51
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 41
+      "mentions": 42
+    },
+    {
+      "keyword": "openai codex vulnerability",
+      "mentions": 1
+    },
+    {
+      "keyword": "messaging app received",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
+      "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
+      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency. Versions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency. According to StepSecurity, the two versions were published using the compromised npm credentials of the primary Axios",
+      "published": "Tue, 31 Mar 2026 11:38:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
@@ -133,14 +142,17 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack",
-      "link": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
-      "summary": "Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet. Handala Hack Team, which carried out the breach, said on its website that Patel \"will now find his name among the list of successfully hacked victims.\" In a statement",
-      "published": "Sat, 28 Mar 2026 21:10:00 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their Citrix NetScaler appliances against an actively exploited vulnerability by Thursday. [...]",
+      "published": "Tue, 31 Mar 2026 03:05:25 -0400",
+      "value_score": 100,
       "value_signals": [
-        "Breach/leak ×2"
+        "Active exploitation ×2",
+        "Patch/update ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
       ]
     },
     {
@@ -197,7 +209,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
+      "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
       "summary": "F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatched devices. [...]",
       "published": "Mon, 30 Mar 2026 06:59:38 -0400",
@@ -218,18 +230,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers are now actively exploiting a critical vulnerability in Fortinet's FortiClient EMS platform, according to threat intelligence company Defused. [...]",
-      "published": "Mon, 30 Mar 2026 03:48:17 -0400",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -400,6 +400,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise",
+      "link": "https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/",
+      "summary": "Researchers found an OpenAI Codex vulnerability that could have been exploited to compromise GitHub tokens. The post Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise appeared first on SecurityWeek .",
+      "published": "Tue, 31 Mar 2026 06:35:48 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Healthcare IT Platform CareCloud Probing Potential Data Breach",
       "link": "https://www.securityweek.com/healthcare-it-platform-carecloud-probing-potential-data-breach/",
       "summary": "The company has disclosed a cybersecurity incident involving one of its electronic health record environments. The post Healthcare IT Platform CareCloud Probing Potential Data Breach appeared first on SecurityWeek .",
@@ -464,18 +476,6 @@
       "published": "Mon, 30 Mar 2026 10:53:46 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Exploitation of Fresh Citrix NetScaler Vulnerability Begins",
-      "link": "https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/",
-      "summary": "The critical-severity flaw leaks application memory and can be exploited to obtain authenticated administrative session IDs. The post Exploitation of Fresh Citrix NetScaler Vulnerability Begins appeared first on SecurityWeek .",
-      "published": "Mon, 30 Mar 2026 09:24:10 +0000",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-31 04:36 UTC  
+> **Last Updated:** 2026-03-31 07:06 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**entire soc responds** • **iran's intelligence agencies** • **service ddos doxing** • **agents autonomous programs** • **wago gmbh co** • **twitter whistleblower complaint** • **things iot devices** • **tenant identifier parameter** • **successfully hacked victims** • **quantum safe cryptography** • **messaging app received** • **least 77 vulnerabilities** • **high severity denial** • **execute arbitrary commands** • **cve 2026 3055** • **separating real impact** • **measure real outcomes** • **malicious cyber actors** • **enabling threat actors** • **service dos vulnerability**
+**entire soc responds** • **service ddos doxing** • **agents autonomous programs** • **wago gmbh co** • **twitter whistleblower complaint** • **things iot devices** • **tenant identifier parameter** • **quantum safe cryptography** • **openai codex vulnerability** • **messaging app received** • **least 77 vulnerabilities** • **iran's intelligence agencies** • **high severity denial** • **execute arbitrary commands** • **cve 2026 3055** • **0 30 4** • **separating real impact** • **measure real outcomes** • **service dos vulnerability** • **service dos flaw**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
 - [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
 - [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
 - [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
@@ -23,18 +24,17 @@
 - [Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
 - [The State of Secrets Sprawl 2026: 9 Takeaways for CISOs](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
 - [Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
-- [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
 
 ### BleepingComputer
 
+- [CISA orders feds to patch actively exploited Citrix flaw by Thursday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/)
 - [Healthcare tech firm CareCloud says hackers stole patient data](https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/)
 - [New RoadK1ll WebSocket implant used to pivot on breached networks](https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/)
 - [Critical Citrix NetScaler memory flaw actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/)
 - [Apple adds macOS Terminal warning to block ClickFix attacks](https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/)
 - [How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking](https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/)
-- [Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/)
+- [Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/)
 - [Microsoft pulls KB5079391 Windows update over install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/)
-- [Critical Fortinet Forticlient EMS flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise](https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/)
 - [Healthcare IT Platform CareCloud Probing Potential Data Breach](https://www.securityweek.com/healthcare-it-platform-carecloud-probing-potential-data-breach/)
 - [Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control](https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/)
 - [Huskeys Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/)
@@ -67,7 +68,6 @@
 - [European Commission Reports Cyber Intrusion and Data Theft](https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/)
 - [Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare](https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/)
 - [Telnyx Targeted in Growing TeamPCP Supply Chain Attack](https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/)
-- [Exploitation of Fresh Citrix NetScaler Vulnerability Begins](https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/)
 
 ### Threatpost
 

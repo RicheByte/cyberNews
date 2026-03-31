@@ -1,77 +1,97 @@
 {
-  "last_updated": "2026-03-31 10:49",
+  "last_updated": "2026-03-31 13:06",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "entire soc responds",
+    "teams meeting add",
     "things iot devices",
     "service ddos doxing",
-    "agents autonomous programs",
     "wago gmbh co",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
+    "targeting windows macos",
     "quantum safe cryptography",
     "popular online destinations",
     "openai codex vulnerability",
     "messaging app received",
-    "least 77 vulnerabilities",
-    "iran's intelligence agencies",
     "execute arbitrary commands",
+    "entire soc responds",
     "cve 2026 3055",
     "0 30 4",
     "service dos flaw",
-    "separating real impact",
-    "measure real outcomes",
-    "ai engine atop"
+    "write complex rego",
+    "victim's username password",
+    "steal browser credentials",
+    "sms messages outside"
   ],
   "trending": [
     {
-      "keyword": "entire soc responds",
-      "mentions": 10
+      "keyword": "teams meeting add",
+      "mentions": 1
     },
     {
       "keyword": "things iot devices",
-      "mentions": 143
+      "mentions": 144
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 126
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 80
+      "mentions": 127
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1181
+      "mentions": 1182
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 53
+      "mentions": 54
+    },
+    {
+      "keyword": "targeting windows macos",
+      "mentions": 1
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "popular online destinations",
-      "mentions": 35
+      "mentions": 36
     },
     {
       "keyword": "openai codex vulnerability",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+      "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+      "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT. \"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating",
+      "published": "Tue, 31 Mar 2026 17:16:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
+      "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+      "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments. This is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors",
+      "published": "Tue, 31 Mar 2026 17:00:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
       "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
       "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency. Versions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency. According to StepSecurity, the two versions were published using the compromised npm credentials of the primary Axios",
+      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems. Versions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency. According to StepSecurity, the two",
       "published": "Tue, 31 Mar 2026 11:38:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -124,20 +144,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
-      "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
-      "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded. This year's findings reveal three core trends: AI has",
-      "published": "Mon, 30 Mar 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
-      "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
-      "summary": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\" The campaigns have led to the deployment of various malware families, including HIUPAN (aka USBFect, MISTCLOAK, or U2DiskWatch), PUBLOAD, EggStremeFuel (aka RawCookie), EggStremeLoader (aka Gorem RAT), MASOL",
-      "published": "Mon, 30 Mar 2026 12:30:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
+      "summary": "​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]",
+      "published": "Tue, 31 Mar 2026 08:04:15 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -215,15 +226,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
       "summary": "Apple has introduced a security feature in macOS Tahoe 26.4 that blocks pasting and executing potentially harmful commands in Terminal and alerts users to possible risks. [...]",
       "published": "Mon, 30 Mar 2026 10:32:34 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
-      "summary": "AI SOC agents can reduce alert fatigue, but most teams fail to measure real outcomes. Prophet Security breaks down Gartner's questions for evaluating AI SOC agents and separating real impact from hype. [...]",
-      "published": "Mon, 30 Mar 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -395,6 +397,27 @@
     },
     {
       "source": "Security Week",
+      "title": "Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption",
+      "link": "https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/",
+      "summary": "Google researchers have shown that breaking the encryption of Bitcoin and Ethereum requires 20x fewer qubits. The post Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption appeared first on SecurityWeek .",
+      "published": "Tue, 31 Mar 2026 11:51:43 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Exploitation of Critical Fortinet FortiClient EMS Flaw Begins",
+      "link": "https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/",
+      "summary": "The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests. The post Exploitation of Critical Fortinet FortiClient EMS Flaw Begins appeared first on SecurityWeek .",
+      "published": "Tue, 31 Mar 2026 11:39:45 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs",
       "link": "https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/",
       "summary": "Remotely exploitable, the integer underflow vulnerability impacts StrongSwan releases spanning 15 years. The post StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs appeared first on SecurityWeek .",
@@ -453,26 +476,6 @@
       "link": "https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/",
       "summary": "The startup has built an edge security management (ESM) platform, an AI engine atop the entire edge security stack. The post Huskeys Emerges From Stealth With $8 Million in Funding appeared first on SecurityWeek .",
       "published": "Mon, 30 Mar 2026 12:40:27 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit",
-      "link": "https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/",
-      "summary": "The state-sponsored group’s campaign has targeted government, higher education, financial, and legal entities, as well as think tanks. The post Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit appeared first on SecurityWeek .",
-      "published": "Mon, 30 Mar 2026 11:54:15 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "European Commission Reports Cyber Intrusion and Data Theft",
-      "link": "https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/",
-      "summary": "The ShinyHunters hacker group claimed to have stolen over 350GB of information from European Commission cloud systems. The post European Commission Reports Cyber Intrusion and Data Theft appeared first on SecurityWeek .",
-      "published": "Mon, 30 Mar 2026 11:29:45 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-31 10:49 UTC |
+| 🕐 Last Updated | 2026-03-31 13:06 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`entire soc responds` • `things iot devices` • `service ddos doxing` • `agents autonomous programs` • `wago gmbh co` • `twitter whistleblower complaint` • `tenant identifier parameter` • `quantum safe cryptography` • `popular online destinations` • `openai codex vulnerability`
+`teams meeting add` • `things iot devices` • `service ddos doxing` • `wago gmbh co` • `twitter whistleblower complaint` • `tenant identifier parameter` • `targeting windows macos` • `quantum safe cryptography` • `popular online destinations` • `openai codex vulnerability`
 
 ## 📄 Reports
 

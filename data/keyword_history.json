@@ -254,7 +254,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1182,
+      "count": 1183,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -717,7 +717,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -727,7 +727,8 @@
         "2026-03-01",
         "2026-03-02",
         "2026-03-18",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-03-31"
       ]
     },
     "france arrests latvian": {
@@ -1865,7 +1866,7 @@
       ]
     },
     "things iot devices": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2109,12 +2110,13 @@
       ]
     },
     "token security explains": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-05",
         "2026-01-06",
         "2026-01-28",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-03-31"
       ]
     },
     "advanced ai technologies": {
@@ -7835,7 +7837,7 @@
       ]
     },
     "victim's username password": {
-      "count": 154,
+      "count": 155,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7948,7 +7950,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9796,10 +9798,11 @@
       ]
     },
     "often quickly taken": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-13",
-        "2026-03-23"
+        "2026-03-23",
+        "2026-03-31"
       ]
     },
     "enhance cybersecurity awareness": {
@@ -10408,7 +10411,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11118,7 +11121,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11129,7 +11132,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11169,7 +11172,7 @@
       ]
     },
     "sms messages outside": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11284,11 +11287,12 @@
       ]
     },
     "restricted interface leading": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-28",
         "2026-03-29",
-        "2026-03-30"
+        "2026-03-30",
+        "2026-03-31"
       ]
     },
     "implementation issues leading": {
@@ -11382,7 +11386,7 @@
       ]
     },
     "messaging app received": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-30",
         "2026-03-31"
@@ -11416,14 +11420,14 @@
       ]
     },
     "service dos flaw": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-30",
         "2026-03-31"
       ]
     },
     "openai codex vulnerability": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-31"
       ]
@@ -11441,7 +11445,7 @@
       ]
     },
     "teams meeting add": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-03-31"
       ]
@@ -11459,6 +11463,24 @@
       ]
     },
     "steal browser credentials": {
+      "count": 2,
+      "dates": [
+        "2026-03-31"
+      ]
+    },
+    "javascript http client": {
+      "count": 1,
+      "dates": [
+        "2026-03-31"
+      ]
+    },
+    "organization's cloud environment": {
+      "count": 1,
+      "dates": [
+        "2026-03-31"
+      ]
+    },
+    "otherwise ordinary conversation": {
       "count": 1,
       "dates": [
         "2026-03-31"
@@ -11466,17 +11488,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-22 12:39",
-      "articles": 56,
-      "top_keywords": [
-        "3 men charged",
-        "supply chain attack",
-        "cve 2026 21992",
-        "things iot devices",
-        "quantum safe version"
-      ]
-    },
     {
       "timestamp": "2026-03-22 14:23",
       "articles": 56,
@@ -12564,6 +12575,17 @@
         "service ddos doxing",
         "wago gmbh co",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-03-31 14:56",
+      "articles": 56,
+      "top_keywords": [
+        "things iot devices",
+        "teams meeting add",
+        "javascript http client",
+        "service ddos doxing",
+        "wago gmbh co"
       ]
     }
   ]

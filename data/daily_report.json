@@ -1,78 +1,78 @@
 {
-  "last_updated": "2026-03-31 13:06",
+  "last_updated": "2026-03-31 14:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "teams meeting add",
     "things iot devices",
+    "teams meeting add",
+    "javascript http client",
     "service ddos doxing",
     "wago gmbh co",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
-    "targeting windows macos",
-    "quantum safe cryptography",
     "popular online destinations",
-    "openai codex vulnerability",
+    "organization's cloud environment",
     "messaging app received",
-    "execute arbitrary commands",
-    "entire soc responds",
-    "cve 2026 3055",
-    "0 30 4",
+    "openai codex vulnerability",
     "service dos flaw",
-    "write complex rego",
+    "execute arbitrary code",
+    "token security explains",
     "victim's username password",
     "steal browser credentials",
-    "sms messages outside"
+    "sms messages outside",
+    "restricted interface leading",
+    "otherwise ordinary conversation",
+    "often quickly taken"
   ],
   "trending": [
     {
-      "keyword": "teams meeting add",
-      "mentions": 1
+      "keyword": "things iot devices",
+      "mentions": 145
     },
     {
-      "keyword": "things iot devices",
-      "mentions": 144
+      "keyword": "teams meeting add",
+      "mentions": 2
+    },
+    {
+      "keyword": "javascript http client",
+      "mentions": 1
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 127
+      "mentions": 128
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 54
+      "mentions": 55
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1182
+      "mentions": 1183
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 54
-    },
-    {
-      "keyword": "targeting windows macos",
-      "mentions": 1
-    },
-    {
-      "keyword": "quantum safe cryptography",
-      "mentions": 45
+      "mentions": 55
     },
     {
       "keyword": "popular online destinations",
-      "mentions": 36
+      "mentions": 37
     },
     {
-      "keyword": "openai codex vulnerability",
-      "mentions": 4
+      "keyword": "organization's cloud environment",
+      "mentions": 1
+    },
+    {
+      "keyword": "messaging app received",
+      "mentions": 10
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-      "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
-      "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT. \"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating",
-      "published": "Tue, 31 Mar 2026 17:16:00 +0530",
+      "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+      "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
+      "summary": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment. According to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI permission model can be misused",
+      "published": "Tue, 31 Mar 2026 18:39:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -81,11 +81,20 @@
       "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
       "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
       "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments. This is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors",
-      "published": "Tue, 31 Mar 2026 17:00:00 +0530",
+      "published": "Tue, 31 Mar 2026 17:20:00 +0530",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
       ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+      "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+      "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT. \"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating",
+      "published": "Tue, 31 Mar 2026 17:16:00 +0530",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "The Hacker News",
@@ -133,15 +142,22 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
-      "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
-      "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders. The CTRL toolkit, according to Censys, is custom-built using .NET and includes various executables\" to facilitate credential phishing, keylogging, Remote Desktop Protocol (RDP) hijacking, and reverse tunneling",
-      "published": "Mon, 30 Mar 2026 17:48:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
+      "source": "BleepingComputer",
+      "title": "How to Categorize AI Agents and Prioritize Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
+      "summary": "AI agent risk isn't equal, it scales with access to systems and level of autonomy. Token Security explains how CISOs should categorize agents and prioritize what to secure first. [...]",
+      "published": "Tue, 31 Mar 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers compromise Axios npm package to drop cross-platform malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
+      "summary": "Hackers hijacked the npm account of the Axios package, a JavaScript HTTP client with 100M+ weekly downloads, to deliver remote access trojans to Linux, Windows, and macOS systems. [...]",
+      "published": "Tue, 31 Mar 2026 09:53:43 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -203,29 +219,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
       "summary": "A newly identified malicious implant named RoadK1ll is enabling threat actors to quietly move from a compromised host to other systems on the network. [...]",
       "published": "Mon, 30 Mar 2026 16:49:22 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
-      "summary": "Hackers are exploiting a critical severity vulnerability, tracked as CVE-2026-3055, in Citrix NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data. [...]",
-      "published": "Mon, 30 Mar 2026 14:28:37 -0400",
-      "value_score": 75,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
-      "summary": "Apple has introduced a security feature in macOS Tahoe 26.4 that blocks pasting and executing potentially harmful commands in Terminal and alerts users to possible risks. [...]",
-      "published": "Mon, 30 Mar 2026 10:32:34 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -312,6 +305,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Black Hat USA",
+      "link": "https://www.darkreading.com/events/black-hat-usa",
+      "summary": "",
+      "published": "2026-08-01T11:00:00.000Z",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI-Powered 'DeepLoad' Malware Steals Credentials, Evades Detection",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection",
       "summary": "The massive amount of junk code that hides the malware's logic from security scans was almost certainly generated by AI, researchers say.",
@@ -387,13 +389,33 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Google Sets 2029 Deadline for Quantum-Safe Cryptography",
-      "link": "https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography",
-      "summary": "The post-quantum future may be coming sooner than you think, as Google plans to have PQC migration in place by 2029.",
-      "published": "Fri, 27 Mar 2026 13:00:00 GMT",
+      "source": "Security Week",
+      "title": "Venom Stealer Raises Stakes With Continuous Credential Harvesting",
+      "link": "https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/",
+      "summary": "Licensed malware with built-in persistence and automation enables attackers to continuously siphon credentials, session data, and cryptocurrency assets. The post Venom Stealer Raises Stakes With Continuous Credential Harvesting appeared first on SecurityWeek .",
+      "published": "Tue, 31 Mar 2026 14:51:59 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "TeamPCP Moves From OSS to AWS Environments",
+      "link": "https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/",
+      "summary": "After validating stolen credentials using TruffleHog, the hacking group started AWS services enumeration and lateral movement activities. The post TeamPCP Moves From OSS to AWS Environments appeared first on SecurityWeek .",
+      "published": "Tue, 31 Mar 2026 13:53:43 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "CrewAI Vulnerabilities Expose Devices to Hacking",
+      "link": "https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/",
+      "summary": "Attackers can exploit the bugs through prompt injection, chaining them together to escape the sandbox and execute arbitrary code. The post CrewAI Vulnerabilities Expose Devices to Hacking appeared first on SecurityWeek .",
+      "published": "Tue, 31 Mar 2026 13:37:30 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -449,35 +471,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Healthcare IT Platform CareCloud Probing Potential Data Breach",
-      "link": "https://www.securityweek.com/healthcare-it-platform-carecloud-probing-potential-data-breach/",
-      "summary": "The company has disclosed a cybersecurity incident involving one of its electronic health record environments. The post Healthcare IT Platform CareCloud Probing Potential Data Breach appeared first on SecurityWeek .",
-      "published": "Mon, 30 Mar 2026 14:16:49 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control",
-      "link": "https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/",
-      "summary": "LLMs can write complex Rego and Cedar code in seconds, but a single missing condition or hallucinated attribute can quietly dismantle your organization’s least-privilege security model. The post Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control appeared first on SecurityWeek .",
-      "published": "Mon, 30 Mar 2026 14:15:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Huskeys Emerges From Stealth With $8 Million in Funding",
-      "link": "https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/",
-      "summary": "The startup has built an edge security management (ESM) platform, an AI engine atop the entire edge security stack. The post Huskeys Emerges From Stealth With $8 Million in Funding appeared first on SecurityWeek .",
-      "published": "Mon, 30 Mar 2026 12:40:27 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

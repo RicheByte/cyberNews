@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-31 08:51 UTC  
+> **Last Updated:** 2026-03-31 10:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**entire soc responds** • **service ddos doxing** • **agents autonomous programs** • **wago gmbh co** • **twitter whistleblower complaint** • **things iot devices** • **tenant identifier parameter** • **quantum safe cryptography** • **openai codex vulnerability** • **messaging app received** • **least 77 vulnerabilities** • **iran's intelligence agencies** • **high severity denial** • **execute arbitrary commands** • **cve 2026 3055** • **0 30 4** • **separating real impact** • **measure real outcomes** • **service dos vulnerability** • **service dos flaw**
+**entire soc responds** • **things iot devices** • **service ddos doxing** • **agents autonomous programs** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **quantum safe cryptography** • **popular online destinations** • **openai codex vulnerability** • **messaging app received** • **least 77 vulnerabilities** • **iran's intelligence agencies** • **execute arbitrary commands** • **cve 2026 3055** • **0 30 4** • **service dos flaw** • **separating real impact** • **measure real outcomes** • **ai engine atop**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hacker charged with stealing $53 million from Uranium crypto exchange](https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/)
 - [Dutch Finance Ministry takes treasury banking portal offline after breach](https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/)
 - [CISA orders feds to patch actively exploited Citrix flaw by Thursday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/)
 - [Healthcare tech firm CareCloud says hackers stole patient data](https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/)
@@ -34,7 +35,6 @@
 - [Critical Citrix NetScaler memory flaw actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/)
 - [Apple adds macOS Terminal warning to block ClickFix attacks](https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/)
 - [How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking](https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/)
-- [Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs](https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/)
+- [Lloyds Data Security Incident Impacts 450,000 Individuals](https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/)
 - [Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise](https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/)
 - [Healthcare IT Platform CareCloud Probing Potential Data Breach](https://www.securityweek.com/healthcare-it-platform-carecloud-probing-potential-data-breach/)
 - [Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control](https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/)
 - [Huskeys Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/)
 - [Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit](https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/)
 - [European Commission Reports Cyber Intrusion and Data Theft](https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/)
-- [Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare](https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/)
-- [Telnyx Targeted in Growing TeamPCP Supply Chain Attack](https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/)
 
 ### Threatpost
 

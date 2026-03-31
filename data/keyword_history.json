@@ -254,7 +254,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1180,
+      "count": 1181,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1865,7 +1865,7 @@
       ]
     },
     "things iot devices": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -6072,7 +6072,7 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7947,7 +7947,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7959,7 +7959,8 @@
         "2026-03-16",
         "2026-03-23",
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-03-31"
       ]
     },
     "hacktivist group believed": {
@@ -9174,7 +9175,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9410,7 +9411,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10406,7 +10407,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 125,
+      "count": 126,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10484,7 +10485,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11116,7 +11117,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11127,7 +11128,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11201,7 +11202,7 @@
       ]
     },
     "quantum safe cryptography": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11352,21 +11353,21 @@
       ]
     },
     "entire soc responds": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-30",
         "2026-03-31"
       ]
     },
     "separating real impact": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-30",
         "2026-03-31"
       ]
     },
     "measure real outcomes": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-30",
         "2026-03-31"
@@ -11379,7 +11380,7 @@
       ]
     },
     "messaging app received": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-30",
         "2026-03-31"
@@ -11406,44 +11407,39 @@
       ]
     },
     "cve 2026 3055": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-30",
         "2026-03-31"
       ]
     },
     "service dos flaw": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-30",
         "2026-03-31"
       ]
     },
     "openai codex vulnerability": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-31"
       ]
     },
     "0 30 4": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-03-31"
+      ]
+    },
+    "ai engine atop": {
+      "count": 1,
       "dates": [
         "2026-03-31"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-22 08:28",
-      "articles": 56,
-      "top_keywords": [
-        "3 men charged",
-        "supply chain attack",
-        "cve 2026 21992",
-        "things iot devices",
-        "quantum safe version"
-      ]
-    },
     {
       "timestamp": "2026-03-22 10:22",
       "articles": 56,
@@ -12531,6 +12527,17 @@
         "agents autonomous programs",
         "wago gmbh co",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-03-31 10:49",
+      "articles": 56,
+      "top_keywords": [
+        "entire soc responds",
+        "things iot devices",
+        "service ddos doxing",
+        "agents autonomous programs",
+        "wago gmbh co"
       ]
     }
   ]

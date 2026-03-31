@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-03-31 08:51",
+  "last_updated": "2026-03-31 10:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "entire soc responds",
+    "things iot devices",
     "service ddos doxing",
     "agents autonomous programs",
     "wago gmbh co",
     "twitter whistleblower complaint",
-    "things iot devices",
     "tenant identifier parameter",
     "quantum safe cryptography",
+    "popular online destinations",
     "openai codex vulnerability",
     "messaging app received",
     "least 77 vulnerabilities",
     "iran's intelligence agencies",
-    "high severity denial",
     "execute arbitrary commands",
     "cve 2026 3055",
     "0 30 4",
+    "service dos flaw",
     "separating real impact",
     "measure real outcomes",
-    "service dos vulnerability",
-    "service dos flaw"
+    "ai engine atop"
   ],
   "trending": [
     {
       "keyword": "entire soc responds",
-      "mentions": 9
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 125
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 79
-    },
-    {
-      "keyword": "wago gmbh co",
-      "mentions": 52
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1180
+      "mentions": 10
     },
     {
       "keyword": "things iot devices",
-      "mentions": 142
+      "mentions": 143
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 126
+    },
+    {
+      "keyword": "agents autonomous programs",
+      "mentions": 80
+    },
+    {
+      "keyword": "wago gmbh co",
+      "mentions": 53
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1181
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 52
+      "mentions": 53
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 43
+      "mentions": 44
+    },
+    {
+      "keyword": "popular online destinations",
+      "mentions": 35
     },
     {
       "keyword": "openai codex vulnerability",
-      "mentions": 2
-    },
-    {
-      "keyword": "messaging app received",
-      "mentions": 7
+      "mentions": 3
     }
   ],
   "articles": [
@@ -143,6 +143,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
+      "summary": "U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [...]",
+      "published": "Tue, 31 Mar 2026 05:15:45 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
       "summary": "The Dutch Ministry of Finance took some of its systems offline, including the digital portal for treasury banking, while investigating a cyberattack detected two weeks ago. [...]",
@@ -217,20 +226,6 @@
       "published": "Mon, 30 Mar 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
-      "summary": "F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatched devices. [...]",
-      "published": "Mon, 30 Mar 2026 06:59:38 -0400",
-      "value_score": 80,
-      "value_signals": [
-        "RCE ×2",
-        "Patch/update",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -400,6 +395,28 @@
     },
     {
       "source": "Security Week",
+      "title": "StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs",
+      "link": "https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/",
+      "summary": "Remotely exploitable, the integer underflow vulnerability impacts StrongSwan releases spanning 15 years. The post StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs appeared first on SecurityWeek .",
+      "published": "Tue, 31 Mar 2026 10:21:05 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Lloyds Data Security Incident Impacts 450,000 Individuals",
+      "link": "https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/",
+      "summary": "A faulty software update led to the exposure of mobile banking users’ transactions to other users of the application. The post Lloyds Data Security Incident Impacts 450,000 Individuals appeared first on SecurityWeek .",
+      "published": "Tue, 31 Mar 2026 10:07:40 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise",
       "link": "https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/",
       "summary": "Researchers found an OpenAI Codex vulnerability that could have been exploited to compromise GitHub tokens. The post Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise appeared first on SecurityWeek .",
@@ -456,24 +473,6 @@
       "link": "https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/",
       "summary": "The ShinyHunters hacker group claimed to have stolen over 350GB of information from European Commission cloud systems. The post European Commission Reports Cyber Intrusion and Data Theft appeared first on SecurityWeek .",
       "published": "Mon, 30 Mar 2026 11:29:45 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare",
-      "link": "https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/",
-      "summary": "Iran-linked hacking groups are turning to high-volume, low-impact cyberattacks, and AI is providing a boost. The post Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare appeared first on SecurityWeek .",
-      "published": "Mon, 30 Mar 2026 11:09:49 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Telnyx Targeted in Growing TeamPCP Supply Chain Attack",
-      "link": "https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/",
-      "summary": "Two malicious versions of the popular SDK were uploaded to the PyPI registry, targeting Windows, macOS, and Linux. The post Telnyx Targeted in Growing TeamPCP Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Mon, 30 Mar 2026 10:53:46 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,72 +1,87 @@
 {
-  "last_updated": "2026-03-31 14:56",
+  "last_updated": "2026-03-31 16:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "wago gmbh co",
     "things iot devices",
     "teams meeting add",
     "javascript http client",
+    "service dos flaw",
     "service ddos doxing",
-    "wago gmbh co",
+    "unified exposure management",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "popular online destinations",
     "organization's cloud environment",
-    "messaging app received",
-    "openai codex vulnerability",
-    "service dos flaw",
+    "high severity denial",
+    "enabling threat actors",
     "execute arbitrary code",
+    "ai driven identities",
     "token security explains",
-    "victim's username password",
-    "steal browser credentials",
-    "sms messages outside",
-    "restricted interface leading",
-    "otherwise ordinary conversation",
-    "often quickly taken"
+    "iran's intelligence agencies",
+    "previously unknown vulnerability",
+    "bounds read vulnerability",
+    "actively exploited vulnerability"
   ],
   "trending": [
     {
+      "keyword": "wago gmbh co",
+      "mentions": 56
+    },
+    {
       "keyword": "things iot devices",
-      "mentions": 145
+      "mentions": 146
     },
     {
       "keyword": "teams meeting add",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "javascript http client",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "service dos flaw",
+      "mentions": 7
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 128
+      "mentions": 129
     },
     {
-      "keyword": "wago gmbh co",
-      "mentions": 55
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1183
-    },
-    {
-      "keyword": "tenant identifier parameter",
-      "mentions": 55
-    },
-    {
-      "keyword": "popular online destinations",
-      "mentions": 37
-    },
-    {
-      "keyword": "organization's cloud environment",
+      "keyword": "unified exposure management",
       "mentions": 1
     },
     {
-      "keyword": "messaging app received",
-      "mentions": 10
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1184
+    },
+    {
+      "keyword": "tenant identifier parameter",
+      "mentions": 56
+    },
+    {
+      "keyword": "popular online destinations",
+      "mentions": 38
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
+      "link": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
+      "summary": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos. The vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of integrity check when fetching application update code, allowing an attacker to distribute a tampered update,",
+      "published": "Tue, 31 Mar 2026 21:33:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
@@ -129,15 +144,6 @@
       "link": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
       "summary": "Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defenders stopped paying attention. There's a bit of everything this week. Persistence plays, legal wins, influence ops, and at least one thing that looks boring",
       "published": "Mon, 30 Mar 2026 19:26:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
-      "link": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
-      "summary": "What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. They come from fragmented workflows, manual triage steps, and limited visibility early in the investigation. Fixing those process gaps can help Tier 1 move faster, reduce unnecessary escalations, and improve how the entire SOC responds under pressure",
-      "published": "Mon, 30 Mar 2026 18:30:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -305,12 +311,41 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Rethinking Vulnerability Management Strategies for Mid-Market Security",
+      "link": "https://www.darkreading.com/cybersecurity-operations/rethinking-vulnerability-management-strategies-for-mid-market-security",
+      "summary": "Intruder's Chris Wallis argues mid-market teams should prioritize CVE remediation speed over vulnerability counts, while expanding defenses beyond CVEs to include attack surface management.",
+      "published": "Tue, 31 Mar 2026 15:35:55 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI and Quantum Are Forcing a Rethink of Digital Trust",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust",
+      "summary": "In a conversation with Dark Reading’s Terry Sweeney, DigiCert CEO Amit Sinha explains how AI-driven identities and quantum threats are reshaping the foundations of digital trust.",
+      "published": "Tue, 31 Mar 2026 15:29:11 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Black Hat USA",
       "link": "https://www.darkreading.com/events/black-hat-usa",
       "summary": "",
       "published": "2026-08-01T11:00:00.000Z",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Iran Deploys 'Pseudo-Ransomware,' Revives Pay2Key Operations",
+      "link": "https://www.darkreading.com/threat-intelligence/iran-pseudo-ransomware-pay2key-operations",
+      "summary": "Iranian APTs are blurring the lines between state-sponsored and cybercriminal activities to target high-impact US organizations.",
+      "published": "Tue, 31 Mar 2026 13:31:33 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -323,8 +358,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI-Driven Code Surge Is Forcing a Rethink of AppSec",
+      "link": "https://www.darkreading.com/application-security/ai-driven-code-surge-is-forcing-a-rethink-of-appsec",
+      "summary": "In a conversation with Dark Reading’s Terry Sweeney, Black Duck CEO Jason Schmitt explains how AI is reshaping application security and why it must evolve to keep pace.",
+      "published": "Mon, 30 Mar 2026 18:42:33 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation",
-      "link": "https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation",
+      "link": "https://www.darkreading.com/application-security/f5-big-ip-vulnerability-reclassified-rce-exploitation",
       "summary": "CVE-2025-53521 was initially disclosed in October as a high-severity denial-of-service (DoS) flaw, but new information has revealed the bug is actually much more dangerous.",
       "published": "Mon, 30 Mar 2026 18:24:02 GMT",
       "value_score": 54,
@@ -344,48 +388,32 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Storm Brews Over Critical, No-Click Telegram Flaw",
-      "link": "https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw",
-      "summary": "The vulnerability, which is allegedly triggered by a corrupted sticker in the messaging app, received a 9.8 CVSS score, but Telegram denies it exists.",
-      "published": "Mon, 30 Mar 2026 15:01:59 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
+      "source": "Security Week",
+      "title": "Censys Raises $70 Million for Internet Intelligence Platform",
+      "link": "https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/",
+      "summary": "The latest funding round brings the total venture capital investment in Censys to $149 million. The post Censys Raises $70 Million for Internet Intelligence Platform appeared first on SecurityWeek .",
+      "published": "Tue, 31 Mar 2026 15:59:49 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "China Upgrades the Backdoor It Uses to Spy on Telcos Globally",
-      "link": "https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos",
-      "summary": "Chinese APT Red Menshen's super-advanced BPFdoor malware defeats traditional cybersecurity protections. All telcos can do, really, is try hunting it down.",
-      "published": "Fri, 27 Mar 2026 16:48:49 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
+      "source": "Security Week",
+      "title": "The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust",
+      "link": "https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/",
+      "summary": "Data integrity shouldn’t be seen only through the prism of a technical concern but also as a leadership issue. The post The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust appeared first on SecurityWeek .",
+      "published": "Tue, 31 Mar 2026 15:35:33 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Wartime Usage of Compromised IP Cameras Highlight Their Danger",
-      "link": "https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger",
-      "summary": "The list of countries exploiting Internet-connected cameras to give them eyes inside their adversaries' borders continues to expand. What should companies look out for?",
-      "published": "Fri, 27 Mar 2026 16:21:48 GMT",
-      "value_score": 16,
+      "source": "Security Week",
+      "title": "Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks",
+      "link": "https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/",
+      "summary": "Report shows how industrialized credential theft underpins ransomware, SaaS breaches, and geopolitical attacks, shifting security focus from prevention to detecting misuse of legitimate access. The post Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks appeared first on SecurityWeek .",
+      "published": "Tue, 31 Mar 2026 15:04:58 +0000",
+      "value_score": 46,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Infrastructure Attacks With Physical Consequences Down 25%",
-      "link": "https://www.darkreading.com/threat-intelligence/infrastructure-attacks-physical-consequences-down",
-      "summary": "Operational technology (OT) at industrial and critical infrastructure sites seem to have been benefitting from a lull in ransomware, and hackers' relative ignorance of OT systems.",
-      "published": "Fri, 27 Mar 2026 13:30:00 GMT",
-      "value_score": 36,
-      "value_signals": [
-        "Ransomware",
-        "High severity"
+        "Ransomware ×3"
       ]
     },
     {
@@ -432,40 +460,6 @@
       "link": "https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/",
       "summary": "The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests. The post Exploitation of Critical Fortinet FortiClient EMS Flaw Begins appeared first on SecurityWeek .",
       "published": "Tue, 31 Mar 2026 11:39:45 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs",
-      "link": "https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/",
-      "summary": "Remotely exploitable, the integer underflow vulnerability impacts StrongSwan releases spanning 15 years. The post StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs appeared first on SecurityWeek .",
-      "published": "Tue, 31 Mar 2026 10:21:05 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Lloyds Data Security Incident Impacts 450,000 Individuals",
-      "link": "https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/",
-      "summary": "A faulty software update led to the exposure of mobile banking users’ transactions to other users of the application. The post Lloyds Data Security Incident Impacts 450,000 Individuals appeared first on SecurityWeek .",
-      "published": "Tue, 31 Mar 2026 10:07:40 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise",
-      "link": "https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/",
-      "summary": "Researchers found an OpenAI Codex vulnerability that could have been exploited to compromise GitHub tokens. The post Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise appeared first on SecurityWeek .",
-      "published": "Tue, 31 Mar 2026 06:35:48 +0000",
       "value_score": 32,
       "value_signals": [
         "High severity ×2",
@@ -557,6 +551,34 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Anritsu Remote Spectrum Monitor",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers with network access to alter operational settings, obtain sensitive signal data, or disrupt device availability. The following versions of Anritsu Remote Spectrum Monitor are affected: Remote Spectrum Monitor MS27100A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27101A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27102A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27103A vers:all/* (CVE-",
+      "published": "Tue, 31 Mar 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "PX4 Autopilot",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker with access to the MAVLink interface to execute arbitrary shell commands without cryptographic authentication. The following versions of PX4 Autopilot are affected: Autopilot v1.16.0_SITL_latest_stable (CVE-2026-1579) CVSS Vendor Equipment Vulnerabilities v3 9.8 PX4 PX4 Autopilot Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Transportation Systems, Emergency Services",
+      "published": "Tue, 31 Mar 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-3055 Citrix NetScaler Out-of-Bounds Read Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Com",
@@ -586,20 +608,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "OpenCode Systems OC Messaging and USSD Gateway",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outside of their authorized tenant scope via a crafted company or tenant identifier parameter. The following versions of OpenCode Systems OC Messaging and USSD Gateway are affected: OC Messaging 6.32.2 (CVE-2025-70614) USSD Gateway 6.32.2 (CVE-2025-70614) CVSS Vendor Equipment Vulnerabilities v3 8.1 OpenCode Systems OpenCode Systems OC Messaging and USSD",
-      "published": "Thu, 26 Mar 26 12:00:00 +0000",
-      "value_score": 85,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
@@ -609,6 +617,20 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "OpenCode Systems OC Messaging and USSD Gateway",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outside of their authorized tenant scope via a crafted company or tenant identifier parameter. The following versions of OpenCode Systems OC Messaging and USSD Gateway are affected: OC Messaging 6.32.2 (CVE-2025-70614) USSD Gateway 6.32.2 (CVE-2025-70614) CVSS Vendor Equipment Vulnerabilities v3 8.1 OpenCode Systems OpenCode Systems OC Messaging and USSD",
+      "published": "Thu, 26 Mar 26 12:00:00 +0000",
+      "value_score": 85,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "Multiple CVEs",
         "Exploit wording"
       ]
     },
@@ -638,34 +660,6 @@
         "CVE mentioned ×6",
         "RCE",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33017 Langflow Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnera",
-      "published": "Wed, 25 Mar 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Pharos Controls Mosaic Show Controller",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to execute arbitrary commands with root privileges. The following versions of Pharos Controls Mosaic Show Controller are affected: Mosaic Show Controller Firmware 2.15.3 (CVE-2026-2417) CVSS Vendor Equipment Vulnerabilities v3 9.8 Pharos Controls Pharos Controls Mosaic Show Controller Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Commercial Facilities",
-      "published": "Tue, 24 Mar 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×2",
         "Exploit wording"
       ]
     }

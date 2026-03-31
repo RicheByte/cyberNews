@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-03-31 14:56 UTC |
+| 🕐 Last Updated | 2026-03-31 16:52 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`things iot devices` • `teams meeting add` • `javascript http client` • `service ddos doxing` • `wago gmbh co` • `twitter whistleblower complaint` • `tenant identifier parameter` • `popular online destinations` • `organization's cloud environment` • `messaging app received`
+`wago gmbh co` • `things iot devices` • `teams meeting add` • `javascript http client` • `service dos flaw` • `service ddos doxing` • `unified exposure management` • `twitter whistleblower complaint` • `tenant identifier parameter` • `popular online destinations`
 
 ## 📄 Reports
 

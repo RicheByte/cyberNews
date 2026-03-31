@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-31 14:56 UTC  
+> **Last Updated:** 2026-03-31 16:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**things iot devices** • **teams meeting add** • **javascript http client** • **service ddos doxing** • **wago gmbh co** • **twitter whistleblower complaint** • **tenant identifier parameter** • **popular online destinations** • **organization's cloud environment** • **messaging app received** • **openai codex vulnerability** • **service dos flaw** • **execute arbitrary code** • **token security explains** • **victim's username password** • **steal browser credentials** • **sms messages outside** • **restricted interface leading** • **otherwise ordinary conversation** • **often quickly taken**
+**wago gmbh co** • **things iot devices** • **teams meeting add** • **javascript http client** • **service dos flaw** • **service ddos doxing** • **unified exposure management** • **twitter whistleblower complaint** • **tenant identifier parameter** • **popular online destinations** • **organization's cloud environment** • **high severity denial** • **enabling threat actors** • **execute arbitrary code** • **ai driven identities** • **token security explains** • **iran's intelligence agencies** • **previously unknown vulnerability** • **bounds read vulnerability** • **actively exploited vulnerability**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html)
 - [Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html)
 - [The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
 - [Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains](https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html)
@@ -23,7 +24,6 @@
 - [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
 - [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
 - [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
-- [3 SOC Process Fixes That Unlock Tier 1 Productivity](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
 
 ### BleepingComputer
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Rethinking Vulnerability Management Strategies for Mid-Market Security](https://www.darkreading.com/cybersecurity-operations/rethinking-vulnerability-management-strategies-for-mid-market-security)
+- [AI and Quantum Are Forcing a Rethink of Digital Trust](https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust)
 - [Black Hat USA](https://www.darkreading.com/events/black-hat-usa)
+- [Iran Deploys 'Pseudo-Ransomware,' Revives Pay2Key Operations](https://www.darkreading.com/threat-intelligence/iran-pseudo-ransomware-pay2key-operations)
 - [AI-Powered 'DeepLoad' Malware Steals Credentials, Evades Detection](https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection)
-- [F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation](https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation)
+- [AI-Driven Code Surge Is Forcing a Rethink of AppSec](https://www.darkreading.com/application-security/ai-driven-code-surge-is-forcing-a-rethink-of-appsec)
+- [F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation](https://www.darkreading.com/application-security/f5-big-ip-vulnerability-reclassified-rce-exploitation)
 - [Manufacturing and Healthcare Share Struggles with Passwords](https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords)
-- [Storm Brews Over Critical, No-Click Telegram Flaw](https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw)
-- [China Upgrades the Backdoor It Uses to Spy on Telcos Globally](https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos)
-- [Wartime Usage of Compromised IP Cameras Highlight Their Danger](https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger)
-- [Infrastructure Attacks With Physical Consequences Down 25%](https://www.darkreading.com/threat-intelligence/infrastructure-attacks-physical-consequences-down)
 
 ### Security Week
 
+- [Censys Raises $70 Million for Internet Intelligence Platform](https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/)
+- [The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust](https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/)
+- [Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks](https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/)
 - [Venom Stealer Raises Stakes With Continuous Credential Harvesting](https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/)
 - [TeamPCP Moves From OSS to AWS Environments](https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/)
 - [CrewAI Vulnerabilities Expose Devices to Hacking](https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/)
 - [Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption](https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/)
 - [Exploitation of Critical Fortinet FortiClient EMS Flaw Begins](https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/)
-- [StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs](https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/)
-- [Lloyds Data Security Incident Impacts 450,000 Individuals](https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/)
-- [Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise](https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Anritsu Remote Spectrum Monitor](https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01)
+- [PX4 Autopilot](https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [OpenCode Systems OC Messaging and USSD Gateway](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [OpenCode Systems OC Messaging and USSD Gateway](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02)
 - [WAGO GmbH & Co. KG Industrial Managed Switches](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01)
 - [PTC Windchill Product Lifecycle Management](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Pharos Controls Mosaic Show Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-01)
 
 ---
 

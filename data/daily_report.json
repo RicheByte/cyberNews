@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31 07:06",
+  "last_updated": "2026-03-31 08:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "entire soc responds",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 124
+      "mentions": 125
     },
     {
       "keyword": "agents autonomous programs",
-      "mentions": 78
+      "mentions": 79
     },
     {
       "keyword": "wago gmbh co",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1179
+      "mentions": 1180
     },
     {
       "keyword": "things iot devices",
-      "mentions": 141
+      "mentions": 142
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "quantum safe cryptography",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "openai codex vulnerability",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "messaging app received",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
@@ -143,6 +143,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
+      "summary": "The Dutch Ministry of Finance took some of its systems offline, including the digital portal for treasury banking, while investigating a cyberattack detected two weeks ago. [...]",
+      "published": "Tue, 31 Mar 2026 03:52:15 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their Citrix NetScaler appliances against an actively exploited vulnerability by Thursday. [...]",
@@ -219,17 +230,6 @@
         "Patch/update",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft pulls KB5079391 Windows update over install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
-      "summary": "Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. [...]",
-      "published": "Mon, 30 Mar 2026 05:38:45 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {

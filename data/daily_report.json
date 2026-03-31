@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31 16:52",
+  "last_updated": "2026-03-31 18:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,10 +12,10 @@
     "unified exposure management",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
+    "steal browser credentials",
     "popular online destinations",
     "organization's cloud environment",
     "high severity denial",
-    "enabling threat actors",
     "execute arbitrary code",
     "ai driven identities",
     "token security explains",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 56
+      "mentions": 57
     },
     {
       "keyword": "things iot devices",
-      "mentions": 146
+      "mentions": 147
     },
     {
       "keyword": "teams meeting add",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "javascript http client",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "service dos flaw",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 129
+      "mentions": 130
     },
     {
       "keyword": "unified exposure management",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1184
+      "mentions": 1185
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 56
+      "mentions": 57
     },
     {
-      "keyword": "popular online destinations",
-      "mentions": 38
+      "keyword": "steal browser credentials",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -149,6 +149,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cisco source code stolen in Trivy-linked dev environment breach",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
+      "summary": "Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers. [...]",
+      "published": "Tue, 31 Mar 2026 13:53:04 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "How to Categorize AI Agents and Prioritize Risk",
       "link": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
       "summary": "AI agent risk isn't equal, it scales with access to systems and level of autonomy. Token Security explains how CISOs should categorize agents and prioritize what to secure first. [...]",
@@ -218,15 +229,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
-      "summary": "A newly identified malicious implant named RoadK1ll is enabling threat actors to quietly move from a compromised host to other systems on the network. [...]",
-      "published": "Mon, 30 Mar 2026 16:49:22 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 368,
+      "count": 369,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -254,7 +254,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1177,
+      "count": 1178,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1865,7 +1865,7 @@
       ]
     },
     "things iot devices": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -6072,7 +6072,7 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -8154,7 +8154,7 @@
       ]
     },
     "enabling threat actors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-25",
         "2026-03-30",
@@ -9174,7 +9174,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9410,7 +9410,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10406,7 +10406,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 122,
+      "count": 123,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10484,7 +10484,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11116,7 +11116,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11127,7 +11127,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11201,7 +11201,7 @@
       ]
     },
     "quantum safe cryptography": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11305,7 +11305,7 @@
       ]
     },
     "successfully hacked victims": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -11352,21 +11352,21 @@
       ]
     },
     "entire soc responds": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-30",
         "2026-03-31"
       ]
     },
     "separating real impact": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-30",
         "2026-03-31"
       ]
     },
     "measure real outcomes": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-30",
         "2026-03-31"
@@ -11379,14 +11379,14 @@
       ]
     },
     "messaging app received": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-30",
         "2026-03-31"
       ]
     },
     "service dos vulnerability": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-30",
         "2026-03-31"
@@ -11399,14 +11399,14 @@
       ]
     },
     "high severity denial": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-30",
         "2026-03-31"
       ]
     },
     "cve 2026 3055": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-30",
         "2026-03-31"
@@ -11420,17 +11420,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-22 01:50",
-      "articles": 56,
-      "top_keywords": [
-        "3 men charged",
-        "supply chain attack",
-        "cve 2026 21992",
-        "things iot devices",
-        "quantum safe version"
-      ]
-    },
     {
       "timestamp": "2026-03-22 04:15",
       "articles": 56,
@@ -12511,6 +12500,17 @@
     },
     {
       "timestamp": "2026-03-31 01:57",
+      "articles": 56,
+      "top_keywords": [
+        "entire soc responds",
+        "iran's intelligence agencies",
+        "service ddos doxing",
+        "agents autonomous programs",
+        "wago gmbh co"
+      ]
+    },
+    {
+      "timestamp": "2026-03-31 04:36",
       "articles": 56,
       "top_keywords": [
         "entire soc responds",

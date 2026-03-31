@@ -254,7 +254,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1186,
+      "count": 1187,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -717,7 +717,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1866,7 +1866,7 @@
       ]
     },
     "things iot devices": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2110,7 +2110,7 @@
       ]
     },
     "token security explains": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -7837,7 +7837,7 @@
       ]
     },
     "victim's username password": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7950,7 +7950,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -10411,7 +10411,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10489,7 +10489,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11121,7 +11121,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11132,7 +11132,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11172,7 +11172,7 @@
       ]
     },
     "sms messages outside": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11445,7 +11445,7 @@
       ]
     },
     "teams meeting add": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-31"
       ]
@@ -11469,13 +11469,13 @@
       ]
     },
     "javascript http client": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-31"
       ]
     },
     "organization's cloud environment": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-31"
       ]
@@ -11487,7 +11487,7 @@
       ]
     },
     "unified exposure management": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-31"
       ]
@@ -11499,13 +11499,13 @@
       ]
     },
     "previously unknown vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-31"
       ]
     },
     "bounds read vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-31"
       ]
@@ -11517,6 +11517,18 @@
       ]
     },
     "threat group's shift": {
+      "count": 2,
+      "dates": [
+        "2026-03-31"
+      ]
+    },
+    "restricted cloud infrastructure": {
+      "count": 1,
+      "dates": [
+        "2026-03-31"
+      ]
+    },
+    "google's vertex ai": {
       "count": 1,
       "dates": [
         "2026-03-31"
@@ -11524,17 +11536,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-22 20:20",
-      "articles": 56,
-      "top_keywords": [
-        "3 men charged",
-        "supply chain attack",
-        "cve 2026 21992",
-        "things iot devices",
-        "quantum safe version"
-      ]
-    },
     {
       "timestamp": "2026-03-22 22:20",
       "articles": 56,
@@ -12622,6 +12623,17 @@
         "teams meeting add",
         "javascript http client",
         "service dos flaw"
+      ]
+    },
+    {
+      "timestamp": "2026-03-31 22:29",
+      "articles": 56,
+      "top_keywords": [
+        "wago gmbh co",
+        "things iot devices",
+        "teams meeting add",
+        "service ddos doxing",
+        "javascript http client"
       ]
     }
   ]

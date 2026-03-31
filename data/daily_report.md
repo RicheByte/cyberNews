@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-31 20:38 UTC  
+> **Last Updated:** 2026-03-31 22:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **things iot devices** • **teams meeting add** • **javascript http client** • **service dos flaw** • **service ddos doxing** • **unified exposure management** • **twitter whistleblower complaint** • **threat group's shift** • **tenant identifier parameter** • **popular online destinations** • **organization's cloud environment** • **high severity denial** • **execute arbitrary code** • **ai driven identities** • **token security explains** • **iran's intelligence agencies** • **previously unknown vulnerability** • **bounds read vulnerability** • **actively exploited vulnerability**
+**wago gmbh co** • **things iot devices** • **teams meeting add** • **service ddos doxing** • **javascript http client** • **execute arbitrary code** • **unified exposure management** • **threat group's shift** • **twitter whistleblower complaint** • **tenant identifier parameter** • **popular online destinations** • **restricted cloud infrastructure** • **organization's cloud environment** • **google's vertex ai** • **token security explains** • **iran's intelligence agencies** • **previously unknown vulnerability** • **bounds read vulnerability** • **victim's username password** • **sms messages outside**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [GIGABYTE Control Center vulnerable to arbitrary file write flaw](https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/)
+- [Claude AI finds Vim, Emacs RCE bugs that trigger on file open](https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/)
 - [Cisco source code stolen in Trivy-linked dev environment breach](https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/)
 - [How to Categorize AI Agents and Prioritize Risk](https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/)
 - [Hackers compromise Axios npm package to drop cross-platform malware](https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/)
 - [Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/)
 - [Hacker charged with stealing $53 million from Uranium crypto exchange](https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/)
 - [Dutch Finance Ministry takes treasury banking portal offline after breach](https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/)
-- [CISA orders feds to patch actively exploited Citrix flaw by Thursday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/)
-- [Healthcare tech firm CareCloud says hackers stole patient data](https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Axios NPM Package Compromised in Precision Attack](https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack)
+- [Google's Vertex AI Has an Over-Privileged Problem](https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem)
 - [TeamPCP Breaches Cloud, SaaS Instances With Stolen Credentials](https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials)
 - [Rethinking Vulnerability Management Strategies for Mid-Market Security](https://www.darkreading.com/cybersecurity-operations/rethinking-vulnerability-management-strategies-for-mid-market-security)
 - [AI and Quantum Are Forcing a Rethink of Digital Trust](https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust)
 - [Black Hat USA](https://www.darkreading.com/events/black-hat-usa)
 - [Iran Deploys 'Pseudo-Ransomware,' Revives Pay2Key Operations](https://www.darkreading.com/threat-intelligence/iran-pseudo-ransomware-pay2key-operations)
 - [AI-Powered 'DeepLoad' Malware Steals Credentials, Evades Detection](https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection)
-- [AI-Driven Code Surge Is Forcing a Rethink of AppSec](https://www.darkreading.com/application-security/ai-driven-code-surge-is-forcing-a-rethink-of-appsec)
-- [F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation](https://www.darkreading.com/application-security/f5-big-ip-vulnerability-reclassified-rce-exploitation)
 
 ### Security Week
 

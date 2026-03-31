@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-03-31 18:55 UTC  
+> **Last Updated:** 2026-03-31 20:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **things iot devices** • **teams meeting add** • **javascript http client** • **service dos flaw** • **service ddos doxing** • **unified exposure management** • **twitter whistleblower complaint** • **tenant identifier parameter** • **steal browser credentials** • **popular online destinations** • **organization's cloud environment** • **high severity denial** • **execute arbitrary code** • **ai driven identities** • **token security explains** • **iran's intelligence agencies** • **previously unknown vulnerability** • **bounds read vulnerability** • **actively exploited vulnerability**
+**wago gmbh co** • **things iot devices** • **teams meeting add** • **javascript http client** • **service dos flaw** • **service ddos doxing** • **unified exposure management** • **twitter whistleblower complaint** • **threat group's shift** • **tenant identifier parameter** • **popular online destinations** • **organization's cloud environment** • **high severity denial** • **execute arbitrary code** • **ai driven identities** • **token security explains** • **iran's intelligence agencies** • **previously unknown vulnerability** • **bounds read vulnerability** • **actively exploited vulnerability**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Android Developer Verification Rollout Begins Ahead of September Enforcement](https://thehackernews.com/2026/03/android-developer-verification-rollout.html)
 - [TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html)
 - [Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html)
 - [The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
@@ -23,7 +24,6 @@
 - [Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
 - [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
 - [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
-- [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [TeamPCP Breaches Cloud, SaaS Instances With Stolen Credentials](https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials)
 - [Rethinking Vulnerability Management Strategies for Mid-Market Security](https://www.darkreading.com/cybersecurity-operations/rethinking-vulnerability-management-strategies-for-mid-market-security)
 - [AI and Quantum Are Forcing a Rethink of Digital Trust](https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust)
 - [Black Hat USA](https://www.darkreading.com/events/black-hat-usa)
@@ -56,7 +57,6 @@
 - [AI-Powered 'DeepLoad' Malware Steals Credentials, Evades Detection](https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection)
 - [AI-Driven Code Surge Is Forcing a Rethink of AppSec](https://www.darkreading.com/application-security/ai-driven-code-surge-is-forcing-a-rethink-of-appsec)
 - [F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation](https://www.darkreading.com/application-security/f5-big-ip-vulnerability-reclassified-rce-exploitation)
-- [Manufacturing and Healthcare Share Struggles with Passwords](https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords)
 
 ### Security Week
 

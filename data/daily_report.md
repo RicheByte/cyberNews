@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-01 16:48 UTC  
+> **Last Updated:** 2026-04-01 18:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **things iot devices** • **least 77 vulnerabilities** • **twitter whistleblower complaint** • **tenant identifier parameter** • **social engineering drive** • **service ddos doxing** • **restricted cloud infrastructure** • **popular online destinations** • **iran's intelligence agencies** • **incident including whether** • **anti abuse activists** • **threat group's shift** • **s already inside** • **malicious cyber actors** • **bounds read vulnerability** • **windows operating systems** • **victim's username password** • **supply chain compromise** • **sprawling phishing campaign**
+**wago gmbh co** • **things iot devices** • **1 million emails** • **least 77 vulnerabilities** • **twitter whistleblower complaint** • **tenant identifier parameter** • **social engineering drive** • **service ddos doxing** • **s already inside** • **restricted cloud infrastructure** • **popular online destinations** • **iran's intelligence agencies** • **incident including whether** • **file sharing tool** • **anti abuse activists** • **threat actors tracked** • **threat group's shift** • **windows operating systems** • **malicious cyber actors** • **bounds read vulnerability**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
 - [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
 - [Block the Prompt, Not the Work: The End of "Doctor No"](https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html)
 - [Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures](https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html)
@@ -23,10 +24,10 @@
 - [3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)](https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html)
 - [Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069](https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html)
 - [Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms](https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html)
-- [Android Developer Verification Rollout Begins Ahead of September Enforcement](https://thehackernews.com/2026/03/android-developer-verification-rollout.html)
 
 ### BleepingComputer
 
+- ['NoVoice' Android malware on Google Play infected 2.3 million devices](https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/)
 - [Routine Access Is Powering Modern Intrusions, a New Threat Report Finds](https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/)
 - [FBI warns against using Chinese mobile apps due to privacy risks](https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/)
 - [Google fixes fourth Chrome zero-day exploited in attacks in 2026](https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/)
@@ -34,7 +35,6 @@
 - [New Windows 11 emergency update fixes preview update install issues](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/)
 - [Claude Code source code accidentally leaked in NPM package](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/)
 - [Google now allows you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/)
-- [Proton launches new "Meet" privacy-focused conferencing platform](https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Cyberattacks Intensify Pressure on Latin American Governments](https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments)
 - [Venom Stealer MaaS Platform Commoditizes ClickFix Attacks](https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks)
 - [Are We Training AI Too Late?](https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late)
 - [The Forgotten Endpoint: Security Risks of Dormant Devices](https://www.darkreading.com/endpoint-security/forgotten-endpoint-security-risks-dormant-devices)
 - [Axios NPM Package Compromised in Precision Attack](https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack)
-- [Google's Vertex AI Has an Over-Privileged Problem](https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem)
+- [Google's Vertex AI Is Over-Privileged. That's a Problem](https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem)
 - [TeamPCP Breaches Cloud, SaaS Instances With Stolen Credentials](https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials)
 - [AI and Quantum Are Forcing a Rethink of Digital Trust](https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust)
-- [Black Hat USA](https://www.darkreading.com/events/black-hat-usa)
 
 ### Security Week
 

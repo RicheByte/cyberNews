@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-04-01 16:48",
+  "last_updated": "2026-04-01 18:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
     "things iot devices",
+    "1 million emails",
     "least 77 vulnerabilities",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "social engineering drive",
     "service ddos doxing",
+    "s already inside",
     "restricted cloud infrastructure",
     "popular online destinations",
     "iran's intelligence agencies",
     "incident including whether",
+    "file sharing tool",
     "anti abuse activists",
+    "threat actors tracked",
     "threat group's shift",
-    "s already inside",
-    "malicious cyber actors",
-    "bounds read vulnerability",
     "windows operating systems",
-    "victim's username password",
-    "supply chain compromise",
-    "sprawling phishing campaign"
+    "malicious cyber actors",
+    "bounds read vulnerability"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "things iot devices",
-      "mentions": 157
+      "mentions": 158
+    },
+    {
+      "keyword": "1 million emails",
+      "mentions": 1
     },
     {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 96
+      "mentions": 97
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1195
+      "mentions": 1196
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "social engineering drive",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 140
+      "mentions": 141
+    },
+    {
+      "keyword": "s already inside",
+      "mentions": 4
     },
     {
       "keyword": "restricted cloud infrastructure",
-      "mentions": 9
-    },
-    {
-      "keyword": "popular online destinations",
-      "mentions": 49
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 123
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
+      "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE. As part of the attacks, the threat actors, tracked as UAC-0255, sent emails on March 26 and 27, 2026, posing as CERT-UA to distribute a password-protected ZIP archive",
+      "published": "Wed, 01 Apr 2026 21:40:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
@@ -140,11 +151,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
-      "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
-      "summary": "Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\" The development comes ahead of a planned verification mandate that goes into effect in Brazil, Indonesia, Singapore, and Thailand this September, before it expands globally next year. As part of this",
-      "published": "Tue, 31 Mar 2026 23:58:00 +0530",
+      "source": "BleepingComputer",
+      "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
+      "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
+      "summary": "A new Android malware named NoVoice was found on Google Play, hidden in more than 50 apps that were downloaded at least 2.3 million times. [...]",
+      "published": "Wed, 01 Apr 2026 14:07:21 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -218,15 +229,6 @@
       "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
       "summary": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
       "published": "Tue, 31 Mar 2026 19:13:56 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
-      "summary": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]",
-      "published": "Tue, 31 Mar 2026 18:42:07 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -313,6 +315,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cyberattacks Intensify Pressure on Latin American Governments",
+      "link": "https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments",
+      "summary": "Cyber threats across Latin America are increasingly targeting government systems, from disruptive attacks in Puerto Rico to a surge of probes against Colombia’s health sector.",
+      "published": "Wed, 01 Apr 2026 16:52:54 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Venom Stealer MaaS Platform Commoditizes ClickFix Attacks",
       "link": "https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks",
       "summary": "A new service on the cybercrime market provides automated capabilities to create persistent information-stealing social engineering attacks.",
@@ -349,9 +360,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Google's Vertex AI Has an Over-Privileged Problem",
+      "title": "Google's Vertex AI Is Over-Privileged. That's a Problem",
       "link": "https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem",
-      "summary": "Palo Alto researchers show how attackers could exploit AI agents on Google's Vertex AI to steal data and break into restricted cloud infrastructure.",
+      "summary": "Palo Alto Networks researchers show how attackers could exploit AI agents on Google's Vertex AI to steal data and break into restricted cloud infrastructure.",
       "published": "Tue, 31 Mar 2026 20:26:33 GMT",
       "value_score": 16,
       "value_signals": [
@@ -373,15 +384,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust",
       "summary": "In a conversation with Dark Reading’s Terry Sweeney, DigiCert CEO Amit Sinha explains how AI-driven identities and quantum threats are reshaping the foundations of digital trust.",
       "published": "Tue, 31 Mar 2026 15:29:11 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Black Hat USA",
-      "link": "https://www.darkreading.com/events/black-hat-usa",
-      "summary": "",
-      "published": "2026-08-01T11:00:00.000Z",
       "value_score": 10,
       "value_signals": []
     },

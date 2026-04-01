@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-01 18:54 UTC |
+| 🕐 Last Updated | 2026-04-01 20:39 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`wago gmbh co` • `things iot devices` • `1 million emails` • `least 77 vulnerabilities` • `twitter whistleblower complaint` • `tenant identifier parameter` • `social engineering drive` • `service ddos doxing` • `s already inside` • `restricted cloud infrastructure`
+`wago gmbh co` • `things iot devices` • `1 million emails` • `novoice android malware` • `least 77 vulnerabilities` • `twitter whistleblower complaint` • `tenant identifier parameter` • `supply chain compromise` • `social engineering drive` • `service ddos doxing`
 
 ## 📄 Reports
 

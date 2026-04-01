@@ -1,14 +1,16 @@
 {
-  "last_updated": "2026-04-01 18:54",
+  "last_updated": "2026-04-01 20:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
     "things iot devices",
     "1 million emails",
+    "novoice android malware",
     "least 77 vulnerabilities",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
+    "supply chain compromise",
     "social engineering drive",
     "service ddos doxing",
     "s already inside",
@@ -19,51 +21,49 @@
     "file sharing tool",
     "anti abuse activists",
     "threat actors tracked",
-    "threat group's shift",
-    "windows operating systems",
-    "malicious cyber actors",
-    "bounds read vulnerability"
+    "email flooding attacks",
+    "threat group's shift"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 68
+      "mentions": 69
     },
     {
       "keyword": "things iot devices",
-      "mentions": 158
+      "mentions": 159
     },
     {
       "keyword": "1 million emails",
+      "mentions": 2
+    },
+    {
+      "keyword": "novoice android malware",
       "mentions": 1
     },
     {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 97
+      "mentions": 98
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1196
+      "mentions": 1197
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 68
+      "mentions": 69
+    },
+    {
+      "keyword": "supply chain compromise",
+      "mentions": 12
     },
     {
       "keyword": "social engineering drive",
-      "mentions": 3
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 141
-    },
-    {
-      "keyword": "s already inside",
       "mentions": 4
     },
     {
-      "keyword": "restricted cloud infrastructure",
-      "mentions": 10
+      "keyword": "service ddos doxing",
+      "mentions": 142
     }
   ],
   "articles": [
@@ -152,6 +152,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+      "summary": "A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks. [...]",
+      "published": "Wed, 01 Apr 2026 15:42:25 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
       "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
       "summary": "A new Android malware named NoVoice was found on Google Play, hidden in more than 50 apps that were downloaded at least 2.3 million times. [...]",
@@ -220,15 +231,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
       "summary": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
       "published": "Tue, 31 Mar 2026 20:32:25 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google now allows you to change your @gmail.com address",
-      "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
-      "summary": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
-      "published": "Tue, 31 Mar 2026 19:13:56 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -315,6 +317,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut",
+      "link": "https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut",
+      "summary": "A newly released study exclusively shared with Dark Reading details the unique circumstances that make up Latin America's labor pool, and why organizations may want to expand their talent search.",
+      "published": "Wed, 01 Apr 2026 19:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cyberattacks Intensify Pressure on Latin American Governments",
       "link": "https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments",
       "summary": "Cyber threats across Latin America are increasingly targeting government systems, from disruptive attacks in Puerto Rico to a surge of probes against Colombia’s health sector.",
@@ -375,15 +386,6 @@
       "link": "https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials",
       "summary": "The threat group's shift to speedy attacks on AWS, Azure, and SaaS instances shows organizations need to respond quickly to compromised credentials.",
       "published": "Tue, 31 Mar 2026 20:02:28 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI and Quantum Are Forcing a Rethink of Digital Trust",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust",
-      "summary": "In a conversation with Dark Reading’s Terry Sweeney, DigiCert CEO Amit Sinha explains how AI-driven identities and quantum threats are reshaping the foundations of digital trust.",
-      "published": "Tue, 31 Mar 2026 15:29:11 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -552,6 +554,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulne",
+      "published": "Wed, 01 Apr 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Anritsu Remote Spectrum Monitor",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers with network access to alter operational settings, obtain sensitive signal data, or disrupt device availability. The following versions of Anritsu Remote Spectrum Monitor are affected: Remote Spectrum Monitor MS27100A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27101A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27102A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27103A vers:all/* (CVE-",
@@ -603,20 +619,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "RCE",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
-      "published": "Thu, 26 Mar 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
         "CISA/KEV ×6",
         "Exploit wording"
       ]

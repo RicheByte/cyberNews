@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-31 22:29",
+  "last_updated": "2026-04-01 02:05",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
     "things iot devices",
-    "teams meeting add",
     "service ddos doxing",
     "javascript http client",
-    "execute arbitrary code",
+    "gigabyte control center",
     "unified exposure management",
     "threat group's shift",
+    "execute arbitrary code",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "popular online destinations",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 59
+      "mentions": 60
     },
     {
       "keyword": "things iot devices",
-      "mentions": 149
-    },
-    {
-      "keyword": "teams meeting add",
-      "mentions": 6
+      "mentions": 150
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 132
+      "mentions": 133
     },
     {
       "keyword": "javascript http client",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "execute arbitrary code",
-      "mentions": 57
+      "keyword": "gigabyte control center",
+      "mentions": 1
     },
     {
       "keyword": "unified exposure management",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "threat group's shift",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "execute arbitrary code",
+      "mentions": 58
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1187
+      "mentions": 1188
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 59
+      "mentions": 60
     }
   ],
   "articles": [
@@ -149,6 +149,33 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Claude Code source code accidentally leaked in NPM package",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
+      "summary": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
+      "published": "Tue, 31 Mar 2026 20:32:25 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Google now allows you to change your @gmail.com address",
+      "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
+      "summary": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
+      "published": "Tue, 31 Mar 2026 19:13:56 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
+      "summary": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]",
+      "published": "Tue, 31 Mar 2026 18:42:07 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
       "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
       "summary": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]",
@@ -195,35 +222,6 @@
       "published": "Tue, 31 Mar 2026 09:53:43 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
-      "summary": "​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]",
-      "published": "Tue, 31 Mar 2026 08:04:15 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
-      "summary": "U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [...]",
-      "published": "Tue, 31 Mar 2026 05:15:45 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
-      "summary": "The Dutch Ministry of Finance took some of its systems offline, including the digital portal for treasury banking, while investigating a cyberattack detected two weeks ago. [...]",
-      "published": "Tue, 31 Mar 2026 03:52:15 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",

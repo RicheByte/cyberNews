@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-01 08:57 UTC  
+> **Last Updated:** 2026-04-01 10:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **things iot devices** • **npm package introduced** • **service ddos doxing** • **gigabyte control center** • **unified exposure management** • **threat group's shift** • **popular online destinations** • **twitter whistleblower complaint** • **tenant identifier parameter** • **targeting windows macos** • **execute arbitrary code** • **restricted cloud infrastructure** • **organization's cloud environment** • **google's vertex ai** • **iran's intelligence agencies** • **victim's username password** • **sms messages outside** • **secure online communications** • **reached general availability**
+**wago gmbh co** • **things iot devices** • **npm package introduced** • **service ddos doxing** • **gigabyte control center** • **unified exposure management** • **threat group's shift** • **popular online destinations** • **twitter whistleblower complaint** • **tenant identifier parameter** • **targeting windows macos** • **restricted cloud infrastructure** • **organization's cloud environment** • **google's vertex ai** • **execute arbitrary code** • **iran's intelligence agencies** • **bounds read vulnerability** • **victim's username password** • **sms messages outside** • **secure online communications**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Google fixes fourth Chrome zero-day exploited in attacks in 2026](https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/)
 - [Google Drive ransomware detection now on by default for paying users](https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/)
 - [New Windows 11 emergency update fixes preview update install issues](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/)
 - [Claude Code source code accidentally leaked in NPM package](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/)
@@ -34,7 +35,6 @@
 - [Proton launches new "Meet" privacy-focused conferencing platform](https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/)
 - [GIGABYTE Control Center vulnerable to arbitrary file write flaw](https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/)
 - [Claude AI finds Vim, Emacs RCE bugs that trigger on file open](https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/)
-- [Cisco source code stolen in Trivy-linked dev environment breach](https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/)
 
 ### Krebs on Security
 

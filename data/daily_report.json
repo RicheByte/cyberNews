@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01 08:57",
+  "last_updated": "2026-04-01 10:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -14,56 +14,56 @@
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "targeting windows macos",
-    "execute arbitrary code",
     "restricted cloud infrastructure",
     "organization's cloud environment",
     "google's vertex ai",
+    "execute arbitrary code",
     "iran's intelligence agencies",
+    "bounds read vulnerability",
     "victim's username password",
     "sms messages outside",
-    "secure online communications",
-    "reached general availability"
+    "secure online communications"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 63
+      "mentions": 64
     },
     {
       "keyword": "things iot devices",
-      "mentions": 153
+      "mentions": 154
     },
     {
       "keyword": "npm package introduced",
-      "mentions": 3
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 136
-    },
-    {
-      "keyword": "gigabyte control center",
       "mentions": 4
     },
     {
+      "keyword": "service ddos doxing",
+      "mentions": 137
+    },
+    {
+      "keyword": "gigabyte control center",
+      "mentions": 5
+    },
+    {
       "keyword": "unified exposure management",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "threat group's shift",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "popular online destinations",
-      "mentions": 45
+      "mentions": 46
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1191
+      "mentions": 1192
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 63
+      "mentions": 64
     }
   ],
   "articles": [
@@ -149,6 +149,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
+      "summary": "Google has fixed the fourth Chrome vulnerability exploited in zero-day attacks since the start of the year. [...]",
+      "published": "Wed, 01 Apr 2026 06:25:36 -0400",
+      "value_score": 74,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google Drive ransomware detection now on by default for paying users",
       "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
       "summary": "Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users. [...]",
@@ -214,17 +227,6 @@
       "value_score": 50,
       "value_signals": [
         "RCE ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco source code stolen in Trivy-linked dev environment breach",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
-      "summary": "Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers. [...]",
-      "published": "Tue, 31 Mar 2026 13:53:04 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

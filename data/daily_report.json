@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01 20:39",
+  "last_updated": "2026-04-01 22:32",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,6 +8,7 @@
     "1 million emails",
     "novoice android malware",
     "least 77 vulnerabilities",
+    "receive security updates",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "supply chain compromise",
@@ -18,52 +19,51 @@
     "popular online destinations",
     "iran's intelligence agencies",
     "incident including whether",
+    "inadvertently released due",
     "file sharing tool",
     "anti abuse activists",
-    "threat actors tracked",
-    "email flooding attacks",
-    "threat group's shift"
+    "threat actors tracked"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 69
+      "mentions": 70
     },
     {
       "keyword": "things iot devices",
-      "mentions": 159
+      "mentions": 160
     },
     {
       "keyword": "1 million emails",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "novoice android malware",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 98
+      "mentions": 99
+    },
+    {
+      "keyword": "receive security updates",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1197
+      "mentions": 1198
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 69
+      "mentions": 70
     },
     {
       "keyword": "supply chain compromise",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "social engineering drive",
-      "mentions": 4
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 142
+      "mentions": 5
     }
   ],
   "articles": [
@@ -152,6 +152,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
+      "summary": "Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit. [...]",
+      "published": "Wed, 01 Apr 2026 17:50:49 -0400",
+      "value_score": 41,
+      "value_signals": [
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
+      "summary": "Hackers have targeted TrueConf conference servers in attacks that exploit a zero-day vulnerability, allowing them to execute arbitrary files on all connected endpoints. [...]",
+      "published": "Wed, 01 Apr 2026 17:35:47 -0400",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
       "summary": "A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks. [...]",
@@ -213,26 +237,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Windows 11 emergency update fixes preview update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
-      "summary": "Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]",
-      "published": "Wed, 01 Apr 2026 01:33:43 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×5"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Claude Code source code accidentally leaked in NPM package",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
-      "summary": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
-      "published": "Tue, 31 Mar 2026 20:32:25 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

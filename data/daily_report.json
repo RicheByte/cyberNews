@@ -1,72 +1,117 @@
 {
-  "last_updated": "2026-04-01 13:09",
+  "last_updated": "2026-04-01 14:59",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
     "things iot devices",
     "service ddos doxing",
-    "gigabyte control center",
-    "unified exposure management",
+    "least 77 vulnerabilities",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
-    "popular online destinations",
-    "don t see",
-    "threat group's shift",
+    "social engineering drive",
     "restricted cloud infrastructure",
-    "organization's cloud environment",
-    "execute arbitrary code",
-    "malicious cyber actors",
-    "s already inside",
+    "popular online destinations",
     "iran's intelligence agencies",
-    "bounds read vulnerability",
-    "google's vertex ai",
-    "windows operating systems",
-    "victim's username password"
+    "anti abuse activists",
+    "threat group's shift",
+    "internet intelligence platform",
+    "don t see",
+    "doesn t enable",
+    "doesn t build",
+    "cve 2026 5281",
+    "s already inside",
+    "malicious cyber actors",
+    "bounds read vulnerability"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 65
+      "mentions": 66
     },
     {
       "keyword": "things iot devices",
-      "mentions": 155
+      "mentions": 156
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 138
+      "mentions": 139
     },
     {
-      "keyword": "gigabyte control center",
-      "mentions": 6
-    },
-    {
-      "keyword": "unified exposure management",
-      "mentions": 10
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 95
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1193
+      "mentions": 1194
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 65
+      "mentions": 66
     },
     {
-      "keyword": "popular online destinations",
-      "mentions": 47
-    },
-    {
-      "keyword": "don t see",
+      "keyword": "social engineering drive",
       "mentions": 1
     },
     {
-      "keyword": "threat group's shift",
+      "keyword": "restricted cloud infrastructure",
       "mentions": 8
+    },
+    {
+      "keyword": "popular online destinations",
+      "mentions": 48
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 122
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+      "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+      "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files. The activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage infection chain for establishing persistence and enabling remote access. It's currently not known what lures the threat actors use to trick users into",
+      "published": "Wed, 01 Apr 2026 19:40:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+      "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
+      "summary": "There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn’t build. It doesn’t enable. Its entire function is to say \"No.\" No to ChatGPT. No to DeepSeek. No to the file-sharing tool the product team swears by. For years, this looked like security. But in 2026, \"Doctor No\" is no longer just a management headache &",
+      "published": "Wed, 01 Apr 2026 18:16:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
+      "link": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
+      "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another malware called Horabot. The activity has been attributed to a Brazilian cybercrime threat actor tracked as Augmented Marauder and Water Saci. The e-crime group was first documented by Trend Micro in",
+      "published": "Wed, 01 Apr 2026 18:06:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",
+      "link": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
+      "summary": "Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild. The high-severity vulnerability, CVE-2026-5281 (CVSS score: N/A), concerns a use-after-free bug in Dawn, an open-source and cross-platform implementation of the WebGPU standard. \"Use-after-free in Dawn in Google Chrome prior",
+      "published": "Wed, 01 Apr 2026 17:12:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day ×2",
+        "Active exploitation",
+        "Patch/update",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
@@ -104,48 +149,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
-      "link": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
-      "summary": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos. The vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of integrity check when fetching application update code, allowing an attacker to distribute a tampered update,",
-      "published": "Tue, 31 Mar 2026 21:33:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
-      "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
-      "summary": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment. According to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI permission model can be misused",
-      "published": "Tue, 31 Mar 2026 18:39:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
-      "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
-      "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments. This is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors",
-      "published": "Tue, 31 Mar 2026 17:20:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds",
+      "link": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/",
+      "summary": "Modern intrusions increasingly start with valid credentials and routine access, not exploits. Blackpoint Cyber's upcoming threat report shows how VPN abuse, RMM tools, and social engineering drive most incidents. [...]",
+      "published": "Wed, 01 Apr 2026 10:05:15 -0400",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-      "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
-      "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT. \"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating",
-      "published": "Tue, 31 Mar 2026 17:16:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -215,15 +227,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
       "summary": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]",
       "published": "Tue, 31 Mar 2026 18:42:07 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
-      "summary": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]",
-      "published": "Tue, 31 Mar 2026 18:28:02 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -384,6 +387,50 @@
     },
     {
       "source": "Security Week",
+      "title": "Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome",
+      "link": "https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/",
+      "summary": "Google has announced fixes for CVE-2026-5281, a zero-day affecting Chrome’s Dawn component. The post Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome appeared first on SecurityWeek .",
+      "published": "Wed, 01 Apr 2026 14:36:39 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "FBI Warns of Data Security Risks From China-Made Mobile Apps",
+      "link": "https://www.securityweek.com/fbi-warns-of-data-security-risks-from-china-made-mobile-apps/",
+      "summary": "The agency has not named the problematic foreign-made applications, but TikTok and Temu come to mind. The post FBI Warns of Data Security Risks From China-Made Mobile Apps appeared first on SecurityWeek .",
+      "published": "Wed, 01 Apr 2026 13:54:24 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "US Charges Uranium Crypto Exchange Hacker",
+      "link": "https://www.securityweek.com/us-charges-uranium-crypto-exchange-hacker/",
+      "summary": "Jonathan Spalletta exploited smart contract vulnerabilities to steal approximately $55 million in cryptocurrency and cause Uranium to shut down. The post US Charges Uranium Crypto Exchange Hacker appeared first on SecurityWeek .",
+      "published": "Wed, 01 Apr 2026 13:30:19 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Webinar Today: Agentic AI vs. Identity’s Last Mile Problem",
+      "link": "https://www.securityweek.com/webinar-today-agentic-ai-vs-identitys-last-mile-problem/",
+      "summary": "Join the webcast as we explore what Agentic AI can and cannot solve today, and real world breach scenarios linked to disconnected applications. The post Webinar Today: Agentic AI vs. Identity’s Last Mile Problem appeared first on SecurityWeek .",
+      "published": "Wed, 01 Apr 2026 13:14:47 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Axios NPM Package Breached in North Korean Supply Chain Attack",
       "link": "https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/",
       "summary": "A long-lived NPM access token was used to bypass the GitHub Actions OIDC-based CI/CD publishing workflow and push backdoored package versions. The post Axios NPM Package Breached in North Korean Supply Chain Attack appeared first on SecurityWeek .",
@@ -417,46 +464,6 @@
       "published": "Tue, 31 Mar 2026 15:35:33 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks",
-      "link": "https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/",
-      "summary": "Report shows how industrialized credential theft underpins ransomware, SaaS breaches, and geopolitical attacks, shifting security focus from prevention to detecting misuse of legitimate access. The post Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks appeared first on SecurityWeek .",
-      "published": "Tue, 31 Mar 2026 15:04:58 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Venom Stealer Raises Stakes With Continuous Credential Harvesting",
-      "link": "https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/",
-      "summary": "Licensed malware with built-in persistence and automation enables attackers to continuously siphon credentials, session data, and cryptocurrency assets. The post Venom Stealer Raises Stakes With Continuous Credential Harvesting appeared first on SecurityWeek .",
-      "published": "Tue, 31 Mar 2026 14:51:59 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "TeamPCP Moves From OSS to AWS Environments",
-      "link": "https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/",
-      "summary": "After validating stolen credentials using TruffleHog, the hacking group started AWS services enumeration and lateral movement activities. The post TeamPCP Moves From OSS to AWS Environments appeared first on SecurityWeek .",
-      "published": "Tue, 31 Mar 2026 13:53:43 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CrewAI Vulnerabilities Expose Devices to Hacking",
-      "link": "https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/",
-      "summary": "Attackers can exploit the bugs through prompt injection, chaining them together to escape the sandbox and execute arbitrary code. The post CrewAI Vulnerabilities Expose Devices to Hacking appeared first on SecurityWeek .",
-      "published": "Tue, 31 Mar 2026 13:37:30 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

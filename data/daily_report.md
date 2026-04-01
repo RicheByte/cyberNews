@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-01 13:09 UTC  
+> **Last Updated:** 2026-04-01 14:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **things iot devices** • **service ddos doxing** • **gigabyte control center** • **unified exposure management** • **twitter whistleblower complaint** • **tenant identifier parameter** • **popular online destinations** • **don t see** • **threat group's shift** • **restricted cloud infrastructure** • **organization's cloud environment** • **execute arbitrary code** • **malicious cyber actors** • **s already inside** • **iran's intelligence agencies** • **bounds read vulnerability** • **google's vertex ai** • **windows operating systems** • **victim's username password**
+**wago gmbh co** • **things iot devices** • **service ddos doxing** • **least 77 vulnerabilities** • **twitter whistleblower complaint** • **tenant identifier parameter** • **social engineering drive** • **restricted cloud infrastructure** • **popular online destinations** • **iran's intelligence agencies** • **anti abuse activists** • **threat group's shift** • **internet intelligence platform** • **don t see** • **doesn t enable** • **doesn t build** • **cve 2026 5281** • **s already inside** • **malicious cyber actors** • **bounds read vulnerability**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
+- [Block the Prompt, Not the Work: The End of "Doctor No"](https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html)
+- [Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures](https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html)
+- [New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released](https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html)
 - [3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)](https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html)
 - [Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069](https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html)
 - [Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms](https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html)
 - [Android Developer Verification Rollout Begins Ahead of September Enforcement](https://thehackernews.com/2026/03/android-developer-verification-rollout.html)
-- [TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html)
-- [Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html)
-- [The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
-- [Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains](https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html)
 
 ### BleepingComputer
 
+- [Routine Access Is Powering Modern Intrusions, a New Threat Report Finds](https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/)
 - [FBI warns against using Chinese mobile apps due to privacy risks](https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/)
 - [Google fixes fourth Chrome zero-day exploited in attacks in 2026](https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/)
 - [Google Drive ransomware detection now on by default for paying users](https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/)
@@ -34,7 +35,6 @@
 - [Claude Code source code accidentally leaked in NPM package](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/)
 - [Google now allows you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/)
 - [Proton launches new "Meet" privacy-focused conferencing platform](https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/)
-- [GIGABYTE Control Center vulnerable to arbitrary file write flaw](https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome](https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/)
+- [FBI Warns of Data Security Risks From China-Made Mobile Apps](https://www.securityweek.com/fbi-warns-of-data-security-risks-from-china-made-mobile-apps/)
+- [US Charges Uranium Crypto Exchange Hacker](https://www.securityweek.com/us-charges-uranium-crypto-exchange-hacker/)
+- [Webinar Today: Agentic AI vs. Identity’s Last Mile Problem](https://www.securityweek.com/webinar-today-agentic-ai-vs-identitys-last-mile-problem/)
 - [Axios NPM Package Breached in North Korean Supply Chain Attack](https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/)
 - [Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents](https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/)
 - [Censys Raises $70 Million for Internet Intelligence Platform](https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/)
 - [The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust](https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/)
-- [Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks](https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/)
-- [Venom Stealer Raises Stakes With Continuous Credential Harvesting](https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/)
-- [TeamPCP Moves From OSS to AWS Environments](https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/)
-- [CrewAI Vulnerabilities Expose Devices to Hacking](https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/)
 
 ### Threatpost
 

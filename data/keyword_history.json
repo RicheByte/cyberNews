@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 370,
+      "count": 371,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -256,7 +256,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1193,
+      "count": 1194,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1870,7 +1870,7 @@
       ]
     },
     "things iot devices": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7958,7 +7958,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8034,7 +8034,7 @@
       ]
     },
     "anti abuse activists": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -8043,7 +8043,8 @@
         "2026-03-16",
         "2026-03-19",
         "2026-03-20",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-04-01"
       ]
     },
     "modern security risks": {
@@ -9423,7 +9424,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9435,7 +9436,8 @@
         "2026-03-28",
         "2026-03-29",
         "2026-03-30",
-        "2026-03-31"
+        "2026-03-31",
+        "2026-04-01"
       ]
     },
     "supply chain compromise": {
@@ -10420,7 +10422,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10499,7 +10501,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11132,7 +11134,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11144,7 +11146,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11524,7 +11526,7 @@
       ]
     },
     "bounds read vulnerability": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-31",
         "2026-04-01"
@@ -11537,14 +11539,14 @@
       ]
     },
     "threat group's shift": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-31",
         "2026-04-01"
       ]
     },
     "restricted cloud infrastructure": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-31",
         "2026-04-01"
@@ -11576,12 +11578,42 @@
       ]
     },
     "don t see": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-01"
       ]
     },
     "s already inside": {
+      "count": 2,
+      "dates": [
+        "2026-04-01"
+      ]
+    },
+    "social engineering drive": {
+      "count": 1,
+      "dates": [
+        "2026-04-01"
+      ]
+    },
+    "internet intelligence platform": {
+      "count": 1,
+      "dates": [
+        "2026-04-01"
+      ]
+    },
+    "doesn t enable": {
+      "count": 1,
+      "dates": [
+        "2026-04-01"
+      ]
+    },
+    "doesn t build": {
+      "count": 1,
+      "dates": [
+        "2026-04-01"
+      ]
+    },
+    "cve 2026 5281": {
       "count": 1,
       "dates": [
         "2026-04-01"
@@ -11589,17 +11621,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-23 12:56",
-      "articles": 56,
-      "top_keywords": [
-        "3 men charged",
-        "supply chain attack",
-        "things iot devices",
-        "quantum safe version",
-        "former u s"
-      ]
-    },
     {
       "timestamp": "2026-03-23 14:51",
       "articles": 56,
@@ -12687,6 +12708,17 @@
         "service ddos doxing",
         "gigabyte control center",
         "unified exposure management"
+      ]
+    },
+    {
+      "timestamp": "2026-04-01 14:59",
+      "articles": 56,
+      "top_keywords": [
+        "wago gmbh co",
+        "things iot devices",
+        "service ddos doxing",
+        "least 77 vulnerabilities",
+        "twitter whistleblower complaint"
       ]
     }
   ]

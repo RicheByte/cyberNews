@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-01 10:50 UTC  
+> **Last Updated:** 2026-04-01 13:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **things iot devices** • **npm package introduced** • **service ddos doxing** • **gigabyte control center** • **unified exposure management** • **threat group's shift** • **popular online destinations** • **twitter whistleblower complaint** • **tenant identifier parameter** • **targeting windows macos** • **restricted cloud infrastructure** • **organization's cloud environment** • **google's vertex ai** • **execute arbitrary code** • **iran's intelligence agencies** • **bounds read vulnerability** • **victim's username password** • **sms messages outside** • **secure online communications**
+**wago gmbh co** • **things iot devices** • **service ddos doxing** • **gigabyte control center** • **unified exposure management** • **twitter whistleblower complaint** • **tenant identifier parameter** • **popular online destinations** • **don t see** • **threat group's shift** • **restricted cloud infrastructure** • **organization's cloud environment** • **execute arbitrary code** • **malicious cyber actors** • **s already inside** • **iran's intelligence agencies** • **bounds read vulnerability** • **google's vertex ai** • **windows operating systems** • **victim's username password**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)](https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html)
 - [Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069](https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html)
 - [Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms](https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html)
 - [Android Developer Verification Rollout Begins Ahead of September Enforcement](https://thehackernews.com/2026/03/android-developer-verification-rollout.html)
@@ -23,10 +24,10 @@
 - [Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html)
 - [The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
 - [Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains](https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html)
-- [Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
 
 ### BleepingComputer
 
+- [FBI warns against using Chinese mobile apps due to privacy risks](https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/)
 - [Google fixes fourth Chrome zero-day exploited in attacks in 2026](https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/)
 - [Google Drive ransomware detection now on by default for paying users](https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/)
 - [New Windows 11 emergency update fixes preview update install issues](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/)
@@ -34,7 +35,6 @@
 - [Google now allows you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/)
 - [Proton launches new "Meet" privacy-focused conferencing platform](https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/)
 - [GIGABYTE Control Center vulnerable to arbitrary file write flaw](https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/)
-- [Claude AI finds Vim, Emacs RCE bugs that trigger on file open](https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Are We Training AI Too Late?](https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late)
+- [The Forgotten Endpoint: Security Risks of Dormant Devices](https://www.darkreading.com/endpoint-security/forgotten-endpoint-security-risks-dormant-devices)
 - [Axios NPM Package Compromised in Precision Attack](https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack)
 - [Google's Vertex AI Has an Over-Privileged Problem](https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem)
 - [TeamPCP Breaches Cloud, SaaS Instances With Stolen Credentials](https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials)
 - [Rethinking Vulnerability Management Strategies for Mid-Market Security](https://www.darkreading.com/cybersecurity-operations/rethinking-vulnerability-management-strategies-for-mid-market-security)
 - [AI and Quantum Are Forcing a Rethink of Digital Trust](https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust)
 - [Black Hat USA](https://www.darkreading.com/events/black-hat-usa)
-- [Iran Deploys 'Pseudo-Ransomware,' Revives Pay2Key Operations](https://www.darkreading.com/threat-intelligence/iran-pseudo-ransomware-pay2key-operations)
-- [AI-Powered 'DeepLoad' Malware Steals Credentials, Evades Detection](https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection)
 
 ### Security Week
 

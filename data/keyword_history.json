@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 369,
+      "count": 370,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -133,7 +133,8 @@
         "2026-03-26",
         "2026-03-27",
         "2026-03-30",
-        "2026-03-31"
+        "2026-03-31",
+        "2026-04-01"
       ]
     },
     "user named csnemess": {
@@ -171,7 +172,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 581,
+      "count": 582,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -250,11 +251,12 @@
         "2026-03-23",
         "2026-03-25",
         "2026-03-26",
-        "2026-03-30"
+        "2026-03-30",
+        "2026-04-01"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1192,
+      "count": 1193,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -718,7 +720,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1868,7 +1870,7 @@
       ]
     },
     "things iot devices": {
-      "count": 154,
+      "count": 155,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7842,7 +7844,7 @@
       ]
     },
     "victim's username password": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7956,7 +7958,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -10418,7 +10420,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10497,7 +10499,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11130,7 +11132,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11142,7 +11144,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11489,7 +11491,7 @@
       ]
     },
     "organization's cloud environment": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-31",
         "2026-04-01"
@@ -11502,7 +11504,7 @@
       ]
     },
     "unified exposure management": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-31",
         "2026-04-01"
@@ -11522,7 +11524,7 @@
       ]
     },
     "bounds read vulnerability": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-31",
         "2026-04-01"
@@ -11535,28 +11537,28 @@
       ]
     },
     "threat group's shift": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-31",
         "2026-04-01"
       ]
     },
     "restricted cloud infrastructure": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-31",
         "2026-04-01"
       ]
     },
     "google's vertex ai": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-31",
         "2026-04-01"
       ]
     },
     "gigabyte control center": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-01"
       ]
@@ -11572,20 +11574,21 @@
       "dates": [
         "2026-04-01"
       ]
+    },
+    "don t see": {
+      "count": 1,
+      "dates": [
+        "2026-04-01"
+      ]
+    },
+    "s already inside": {
+      "count": 1,
+      "dates": [
+        "2026-04-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-23 10:48",
-      "articles": 56,
-      "top_keywords": [
-        "3 men charged",
-        "supply chain attack",
-        "things iot devices",
-        "quantum safe version",
-        "former u s"
-      ]
-    },
     {
       "timestamp": "2026-03-23 12:56",
       "articles": 56,
@@ -12673,6 +12676,17 @@
         "npm package introduced",
         "service ddos doxing",
         "gigabyte control center"
+      ]
+    },
+    {
+      "timestamp": "2026-04-01 13:09",
+      "articles": 56,
+      "top_keywords": [
+        "wago gmbh co",
+        "things iot devices",
+        "service ddos doxing",
+        "gigabyte control center",
+        "unified exposure management"
       ]
     }
   ]

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-01 10:50",
+  "last_updated": "2026-04-01 13:09",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
     "things iot devices",
-    "npm package introduced",
     "service ddos doxing",
     "gigabyte control center",
     "unified exposure management",
-    "threat group's shift",
-    "popular online destinations",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
-    "targeting windows macos",
+    "popular online destinations",
+    "don t see",
+    "threat group's shift",
     "restricted cloud infrastructure",
     "organization's cloud environment",
-    "google's vertex ai",
     "execute arbitrary code",
+    "malicious cyber actors",
+    "s already inside",
     "iran's intelligence agencies",
     "bounds read vulnerability",
-    "victim's username password",
-    "sms messages outside",
-    "secure online communications"
+    "google's vertex ai",
+    "windows operating systems",
+    "victim's username password"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "things iot devices",
-      "mentions": 154
-    },
-    {
-      "keyword": "npm package introduced",
-      "mentions": 4
+      "mentions": 155
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 137
+      "mentions": 138
     },
     {
       "keyword": "gigabyte control center",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "unified exposure management",
-      "mentions": 9
-    },
-    {
-      "keyword": "threat group's shift",
-      "mentions": 7
-    },
-    {
-      "keyword": "popular online destinations",
-      "mentions": 46
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1192
+      "mentions": 1193
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 64
+      "mentions": 65
+    },
+    {
+      "keyword": "popular online destinations",
+      "mentions": 47
+    },
+    {
+      "keyword": "don t see",
+      "mentions": 1
+    },
+    {
+      "keyword": "threat group's shift",
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
+      "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
+      "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next. Threat actors now use malware less frequently in favor of what’s already inside your environment, including abusing trusted tools, native binaries, and legitimate admin utilities to move laterally, escalate privileges, and persist without raising alarms. Most",
+      "published": "Wed, 01 Apr 2026 16:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
@@ -139,11 +148,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
-      "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems. Versions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency. According to StepSecurity, the two",
-      "published": "Tue, 31 Mar 2026 11:38:00 +0530",
+      "source": "BleepingComputer",
+      "title": "FBI warns against using Chinese mobile apps due to privacy risks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]",
+      "published": "Wed, 01 Apr 2026 07:39:10 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -217,17 +226,6 @@
       "published": "Tue, 31 Mar 2026 18:28:02 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
-      "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
-      "summary": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]",
-      "published": "Tue, 31 Mar 2026 17:45:14 -0400",
-      "value_score": 50,
-      "value_signals": [
-        "RCE ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -312,6 +310,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Are We Training AI Too Late?",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late",
+      "summary": "Ask the Expert: Cybersecurity teams need to expand their field of view to include new, unique threat sources, rather than relying on past, proven threat actors.",
+      "published": "Wed, 01 Apr 2026 10:40:13 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "The Forgotten Endpoint: Security Risks of Dormant Devices",
+      "link": "https://www.darkreading.com/endpoint-security/forgotten-endpoint-security-risks-dormant-devices",
+      "summary": "Technology Talk: That forgotten notebook holds plenty of secrets to enterprise access.",
+      "published": "Tue, 31 Mar 2026 22:13:34 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Axios NPM Package Compromised in Precision Attack",
       "link": "https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack",
       "summary": "The NPM package for Axios, a popular JavaScript HTTP client library, was briefly compromised this week, possibly by North Korean threat actors.",
@@ -363,26 +379,6 @@
       "link": "https://www.darkreading.com/events/black-hat-usa",
       "summary": "",
       "published": "2026-08-01T11:00:00.000Z",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Iran Deploys 'Pseudo-Ransomware,' Revives Pay2Key Operations",
-      "link": "https://www.darkreading.com/threat-intelligence/iran-pseudo-ransomware-pay2key-operations",
-      "summary": "Iranian APTs are blurring the lines between state-sponsored and cybercriminal activities to target high-impact US organizations.",
-      "published": "Tue, 31 Mar 2026 13:31:33 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI-Powered 'DeepLoad' Malware Steals Credentials, Evades Detection",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection",
-      "summary": "The massive amount of junk code that hides the malware's logic from security scans was almost certainly generated by AI, researchers say.",
-      "published": "Mon, 30 Mar 2026 21:25:02 GMT",
       "value_score": 10,
       "value_signals": []
     },

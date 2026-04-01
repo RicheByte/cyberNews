@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 371,
+      "count": 372,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -172,7 +172,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 582,
+      "count": 583,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -256,7 +256,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1194,
+      "count": 1195,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1578,7 +1578,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 224,
+      "count": 225,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1618,7 +1618,8 @@
         "2026-03-20",
         "2026-03-23",
         "2026-03-24",
-        "2026-03-25"
+        "2026-03-25",
+        "2026-04-01"
       ]
     },
     "model agnostic abstractions": {
@@ -1870,7 +1871,7 @@
       ]
     },
     "things iot devices": {
-      "count": 156,
+      "count": 157,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7844,7 +7845,7 @@
       ]
     },
     "victim's username password": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7958,7 +7959,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8034,7 +8035,7 @@
       ]
     },
     "anti abuse activists": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -9424,7 +9425,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9441,10 +9442,11 @@
       ]
     },
     "supply chain compromise": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-11",
-        "2026-03-12"
+        "2026-03-12",
+        "2026-04-01"
       ]
     },
     "patched vulnerabilities relate": {
@@ -10422,7 +10424,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10501,7 +10503,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 122,
+      "count": 123,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11134,7 +11136,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11146,7 +11148,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11526,7 +11528,7 @@
       ]
     },
     "bounds read vulnerability": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-31",
         "2026-04-01"
@@ -11539,14 +11541,14 @@
       ]
     },
     "threat group's shift": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-31",
         "2026-04-01"
       ]
     },
     "restricted cloud infrastructure": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-31",
         "2026-04-01"
@@ -11584,13 +11586,13 @@
       ]
     },
     "s already inside": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-01"
       ]
     },
     "social engineering drive": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-01"
       ]
@@ -11618,20 +11620,15 @@
       "dates": [
         "2026-04-01"
       ]
+    },
+    "incident including whether": {
+      "count": 1,
+      "dates": [
+        "2026-04-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-23 14:51",
-      "articles": 56,
-      "top_keywords": [
-        "3 men charged",
-        "things iot devices",
-        "supply chain attack",
-        "quantum safe version",
-        "malicious scanner release"
-      ]
-    },
     {
       "timestamp": "2026-03-23 16:53",
       "articles": 56,
@@ -12719,6 +12716,17 @@
         "service ddos doxing",
         "least 77 vulnerabilities",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-04-01 16:48",
+      "articles": 56,
+      "top_keywords": [
+        "wago gmbh co",
+        "things iot devices",
+        "least 77 vulnerabilities",
+        "twitter whistleblower complaint",
+        "tenant identifier parameter"
       ]
     }
   ]

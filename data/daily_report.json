@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-01 14:59",
+  "last_updated": "2026-04-01 16:48",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
     "things iot devices",
-    "service ddos doxing",
     "least 77 vulnerabilities",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "social engineering drive",
+    "service ddos doxing",
     "restricted cloud infrastructure",
     "popular online destinations",
     "iran's intelligence agencies",
+    "incident including whether",
     "anti abuse activists",
     "threat group's shift",
-    "internet intelligence platform",
-    "don t see",
-    "doesn t enable",
-    "doesn t build",
-    "cve 2026 5281",
     "s already inside",
     "malicious cyber actors",
-    "bounds read vulnerability"
+    "bounds read vulnerability",
+    "windows operating systems",
+    "victim's username password",
+    "supply chain compromise",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 66
+      "mentions": 67
     },
     {
       "keyword": "things iot devices",
-      "mentions": 156
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 139
+      "mentions": 157
     },
     {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 95
+      "mentions": 96
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1194
+      "mentions": 1195
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 66
+      "mentions": 67
     },
     {
       "keyword": "social engineering drive",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 140
     },
     {
       "keyword": "restricted cloud infrastructure",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "popular online destinations",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 122
+      "mentions": 123
     }
   ],
   "articles": [
@@ -313,6 +313,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Venom Stealer MaaS Platform Commoditizes ClickFix Attacks",
+      "link": "https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks",
+      "summary": "A new service on the cybercrime market provides automated capabilities to create persistent information-stealing social engineering attacks.",
+      "published": "Wed, 01 Apr 2026 14:54:23 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Are We Training AI Too Late?",
       "link": "https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late",
       "summary": "Ask the Expert: Cybersecurity teams need to expand their field of view to include new, unique threat sources, rather than relying on past, proven threat actors.",
@@ -360,15 +369,6 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Rethinking Vulnerability Management Strategies for Mid-Market Security",
-      "link": "https://www.darkreading.com/cybersecurity-operations/rethinking-vulnerability-management-strategies-for-mid-market-security",
-      "summary": "Intruder's Chris Wallis argues mid-market teams should prioritize CVE remediation speed over vulnerability counts, while expanding defenses beyond CVEs to include attack surface management.",
-      "published": "Tue, 31 Mar 2026 15:35:55 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
       "title": "AI and Quantum Are Forcing a Rethink of Digital Trust",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust",
       "summary": "In a conversation with Dark Reading’s Terry Sweeney, DigiCert CEO Amit Sinha explains how AI-driven identities and quantum threats are reshaping the foundations of digital trust.",
@@ -382,6 +382,33 @@
       "link": "https://www.darkreading.com/events/black-hat-usa",
       "summary": "",
       "published": "2026-08-01T11:00:00.000Z",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Depthfirst Raises $80 Million in Series B Funding",
+      "link": "https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/",
+      "summary": "The startup will expand its AI research team, train additional security models, and scale enterprise adoption. The post Depthfirst Raises $80 Million in Series B Funding appeared first on SecurityWeek .",
+      "published": "Wed, 01 Apr 2026 16:47:45 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Toy Giant Hasbro Hit by Cyberattack",
+      "link": "https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/",
+      "summary": "The company is investigating the full scope of the incident, including whether any files have been compromised. The post Toy Giant Hasbro Hit by Cyberattack appeared first on SecurityWeek .",
+      "published": "Wed, 01 Apr 2026 15:35:47 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "New DeepLoad Malware Dropped in ClickFix Attacks",
+      "link": "https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/",
+      "summary": "The malware steals credentials, installs a malicious browser extension, and can spread via USB drives. The post New DeepLoad Malware Dropped in ClickFix Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 01 Apr 2026 15:04:43 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -435,33 +462,6 @@
       "link": "https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/",
       "summary": "A long-lived NPM access token was used to bypass the GitHub Actions OIDC-based CI/CD publishing workflow and push backdoored package versions. The post Axios NPM Package Breached in North Korean Supply Chain Attack appeared first on SecurityWeek .",
       "published": "Wed, 01 Apr 2026 08:45:47 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents",
-      "link": "https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/",
-      "summary": "Palo Alto Networks has disclosed the details of its analysis of Google Cloud Platform’s Vertex AI. The post Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents appeared first on SecurityWeek .",
-      "published": "Wed, 01 Apr 2026 07:43:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Censys Raises $70 Million for Internet Intelligence Platform",
-      "link": "https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/",
-      "summary": "The latest funding round brings the total venture capital investment in Censys to $149 million. The post Censys Raises $70 Million for Internet Intelligence Platform appeared first on SecurityWeek .",
-      "published": "Tue, 31 Mar 2026 15:59:49 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust",
-      "link": "https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/",
-      "summary": "Data integrity shouldn’t be seen only through the prism of a technical concern but also as a leadership issue. The post The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust appeared first on SecurityWeek .",
-      "published": "Tue, 31 Mar 2026 15:35:33 +0000",
       "value_score": 10,
       "value_signals": []
     },

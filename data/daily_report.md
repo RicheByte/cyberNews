@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-01 14:59 UTC  
+> **Last Updated:** 2026-04-01 16:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **things iot devices** • **service ddos doxing** • **least 77 vulnerabilities** • **twitter whistleblower complaint** • **tenant identifier parameter** • **social engineering drive** • **restricted cloud infrastructure** • **popular online destinations** • **iran's intelligence agencies** • **anti abuse activists** • **threat group's shift** • **internet intelligence platform** • **don t see** • **doesn t enable** • **doesn t build** • **cve 2026 5281** • **s already inside** • **malicious cyber actors** • **bounds read vulnerability**
+**wago gmbh co** • **things iot devices** • **least 77 vulnerabilities** • **twitter whistleblower complaint** • **tenant identifier parameter** • **social engineering drive** • **service ddos doxing** • **restricted cloud infrastructure** • **popular online destinations** • **iran's intelligence agencies** • **incident including whether** • **anti abuse activists** • **threat group's shift** • **s already inside** • **malicious cyber actors** • **bounds read vulnerability** • **windows operating systems** • **victim's username password** • **supply chain compromise** • **sprawling phishing campaign**
 
 ---
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Venom Stealer MaaS Platform Commoditizes ClickFix Attacks](https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks)
 - [Are We Training AI Too Late?](https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late)
 - [The Forgotten Endpoint: Security Risks of Dormant Devices](https://www.darkreading.com/endpoint-security/forgotten-endpoint-security-risks-dormant-devices)
 - [Axios NPM Package Compromised in Precision Attack](https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack)
 - [Google's Vertex AI Has an Over-Privileged Problem](https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem)
 - [TeamPCP Breaches Cloud, SaaS Instances With Stolen Credentials](https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials)
-- [Rethinking Vulnerability Management Strategies for Mid-Market Security](https://www.darkreading.com/cybersecurity-operations/rethinking-vulnerability-management-strategies-for-mid-market-security)
 - [AI and Quantum Are Forcing a Rethink of Digital Trust](https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust)
 - [Black Hat USA](https://www.darkreading.com/events/black-hat-usa)
 
 ### Security Week
 
+- [Depthfirst Raises $80 Million in Series B Funding](https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/)
+- [Toy Giant Hasbro Hit by Cyberattack](https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/)
+- [New DeepLoad Malware Dropped in ClickFix Attacks](https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/)
 - [Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome](https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/)
 - [FBI Warns of Data Security Risks From China-Made Mobile Apps](https://www.securityweek.com/fbi-warns-of-data-security-risks-from-china-made-mobile-apps/)
 - [US Charges Uranium Crypto Exchange Hacker](https://www.securityweek.com/us-charges-uranium-crypto-exchange-hacker/)
 - [Webinar Today: Agentic AI vs. Identity’s Last Mile Problem](https://www.securityweek.com/webinar-today-agentic-ai-vs-identitys-last-mile-problem/)
 - [Axios NPM Package Breached in North Korean Supply Chain Attack](https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/)
-- [Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents](https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/)
-- [Censys Raises $70 Million for Internet Intelligence Platform](https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/)
-- [The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust](https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/)
 
 ### Threatpost
 

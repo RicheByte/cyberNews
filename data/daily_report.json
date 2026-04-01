@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01 05:52",
+  "last_updated": "2026-04-01 07:13",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,64 +9,73 @@
     "gigabyte control center",
     "unified exposure management",
     "threat group's shift",
-    "execute arbitrary code",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "targeting windows macos",
     "popular online destinations",
     "npm package introduced",
+    "execute arbitrary code",
     "restricted cloud infrastructure",
     "organization's cloud environment",
     "google's vertex ai",
-    "token security explains",
     "iran's intelligence agencies",
     "previously unknown vulnerability",
     "bounds read vulnerability",
-    "victim's username password"
+    "victim's username password",
+    "sms messages outside"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 61
+      "mentions": 62
     },
     {
       "keyword": "things iot devices",
-      "mentions": 151
+      "mentions": 152
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 134
+      "mentions": 135
     },
     {
       "keyword": "gigabyte control center",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "unified exposure management",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "threat group's shift",
-      "mentions": 4
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 59
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1189
+      "mentions": 1190
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 61
+      "mentions": 62
     },
     {
       "keyword": "targeting windows macos",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "popular online destinations",
+      "mentions": 44
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+      "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
+      "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive customer data or credentials were involved or exposed,\" an Anthropic spokesperson said in a statement shared with CNBC News. \"This was a release packaging issue caused by human error, not a security",
+      "published": "Wed, 01 Apr 2026 11:42:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
@@ -139,13 +148,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
-      "link": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
-      "summary": "A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad. \"It likely uses AI-assisted obfuscation and process injection to evade static scanning, while credential theft starts immediately and captures passwords and sessions even if the primary loader is blocked,\" ReliaQuest researchers Thassanai",
-      "published": "Mon, 30 Mar 2026 21:17:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Google Drive ransomware detection now on by default for paying users",
+      "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
+      "summary": "Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users. [...]",
+      "published": "Wed, 01 Apr 2026 02:35:34 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -215,15 +226,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How to Categorize AI Agents and Prioritize Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
-      "summary": "AI agent risk isn't equal, it scales with access to systems and level of autonomy. Token Security explains how CISOs should categorize agents and prioritize what to secure first. [...]",
-      "published": "Tue, 31 Mar 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

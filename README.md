@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-01 07:13 UTC |
+| 🕐 Last Updated | 2026-04-01 08:57 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`wago gmbh co` • `things iot devices` • `service ddos doxing` • `gigabyte control center` • `unified exposure management` • `threat group's shift` • `twitter whistleblower complaint` • `tenant identifier parameter` • `targeting windows macos` • `popular online destinations`
+`wago gmbh co` • `things iot devices` • `npm package introduced` • `service ddos doxing` • `gigabyte control center` • `unified exposure management` • `threat group's shift` • `popular online destinations` • `twitter whistleblower complaint` • `tenant identifier parameter`
 
 ## 📄 Reports
 

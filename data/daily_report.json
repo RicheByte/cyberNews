@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-01 07:13",
+  "last_updated": "2026-04-01 08:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
     "things iot devices",
+    "npm package introduced",
     "service ddos doxing",
     "gigabyte control center",
     "unified exposure management",
     "threat group's shift",
+    "popular online destinations",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "targeting windows macos",
-    "popular online destinations",
-    "npm package introduced",
     "execute arbitrary code",
     "restricted cloud infrastructure",
     "organization's cloud environment",
     "google's vertex ai",
     "iran's intelligence agencies",
-    "previously unknown vulnerability",
-    "bounds read vulnerability",
     "victim's username password",
-    "sms messages outside"
+    "sms messages outside",
+    "secure online communications",
+    "reached general availability"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 62
+      "mentions": 63
     },
     {
       "keyword": "things iot devices",
-      "mentions": 152
+      "mentions": 153
+    },
+    {
+      "keyword": "npm package introduced",
+      "mentions": 3
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 135
+      "mentions": 136
     },
     {
       "keyword": "gigabyte control center",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "unified exposure management",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "threat group's shift",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1190
-    },
-    {
-      "keyword": "tenant identifier parameter",
-      "mentions": 62
-    },
-    {
-      "keyword": "targeting windows macos",
-      "mentions": 3
+      "mentions": 6
     },
     {
       "keyword": "popular online destinations",
-      "mentions": 44
+      "mentions": 45
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1191
+    },
+    {
+      "keyword": "tenant identifier parameter",
+      "mentions": 63
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
+      "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
+      "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069. \"We have attributed the attack to a suspected North Korean threat actor we track as UNC1069,\" John Hultquist, chief analyst at Google Threat Intelligence Group (GTIG), told The Hacker News in a statement. \"North Korean",
+      "published": "Wed, 01 Apr 2026 13:14:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
@@ -135,15 +144,6 @@
       "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
       "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems. Versions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency. According to StepSecurity, the two",
       "published": "Tue, 31 Mar 2026 11:38:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
-      "link": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
-      "summary": "A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point. \"A single malicious prompt could turn an otherwise ordinary conversation into a covert exfiltration channel, leaking user messages, uploaded files, and other sensitive content,\" the cybersecurity company said in",
-      "published": "Mon, 30 Mar 2026 23:35:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -386,6 +386,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Axios NPM Package Breached in North Korean Supply Chain Attack",
+      "link": "https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/",
+      "summary": "A long-lived NPM access token was used to bypass the GitHub Actions OIDC-based CI/CD publishing workflow and push backdoored package versions. The post Axios NPM Package Breached in North Korean Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Wed, 01 Apr 2026 08:45:47 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents",
+      "link": "https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/",
+      "summary": "Palo Alto Networks has disclosed the details of its analysis of Google Cloud Platform’s Vertex AI. The post Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents appeared first on SecurityWeek .",
+      "published": "Wed, 01 Apr 2026 07:43:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Censys Raises $70 Million for Internet Intelligence Platform",
       "link": "https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/",
       "summary": "The latest funding round brings the total venture capital investment in Censys to $149 million. The post Censys Raises $70 Million for Internet Intelligence Platform appeared first on SecurityWeek .",
@@ -439,27 +457,6 @@
       "published": "Tue, 31 Mar 2026 13:37:30 +0000",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption",
-      "link": "https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/",
-      "summary": "Google researchers have shown that breaking the encryption of Bitcoin and Ethereum requires 20x fewer qubits. The post Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption appeared first on SecurityWeek .",
-      "published": "Tue, 31 Mar 2026 11:51:43 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Exploitation of Critical Fortinet FortiClient EMS Flaw Begins",
-      "link": "https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/",
-      "summary": "The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests. The post Exploitation of Critical Fortinet FortiClient EMS Flaw Begins appeared first on SecurityWeek .",
-      "published": "Tue, 31 Mar 2026 11:39:45 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
         "Exploit wording"
       ]
     },

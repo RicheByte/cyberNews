@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-01 02:05 UTC  
+> **Last Updated:** 2026-04-01 05:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **things iot devices** • **service ddos doxing** • **javascript http client** • **gigabyte control center** • **unified exposure management** • **threat group's shift** • **execute arbitrary code** • **twitter whistleblower complaint** • **tenant identifier parameter** • **popular online destinations** • **restricted cloud infrastructure** • **organization's cloud environment** • **google's vertex ai** • **token security explains** • **iran's intelligence agencies** • **previously unknown vulnerability** • **bounds read vulnerability** • **victim's username password** • **sms messages outside**
+**wago gmbh co** • **things iot devices** • **service ddos doxing** • **gigabyte control center** • **unified exposure management** • **threat group's shift** • **execute arbitrary code** • **twitter whistleblower complaint** • **tenant identifier parameter** • **targeting windows macos** • **popular online destinations** • **npm package introduced** • **restricted cloud infrastructure** • **organization's cloud environment** • **google's vertex ai** • **token security explains** • **iran's intelligence agencies** • **previously unknown vulnerability** • **bounds read vulnerability** • **victim's username password**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New Windows 11 emergency update fixes preview update install issues](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/)
 - [Claude Code source code accidentally leaked in NPM package](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/)
 - [Google now allows you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/)
 - [Proton launches new "Meet" privacy-focused conferencing platform](https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/)
@@ -34,7 +35,6 @@
 - [Claude AI finds Vim, Emacs RCE bugs that trigger on file open](https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/)
 - [Cisco source code stolen in Trivy-linked dev environment breach](https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/)
 - [How to Categorize AI Agents and Prioritize Risk](https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/)
-- [Hackers compromise Axios npm package to drop cross-platform malware](https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/)
 
 ### Krebs on Security
 

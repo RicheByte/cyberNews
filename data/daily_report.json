@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-02 08:50",
+  "last_updated": "2026-04-02 10:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
     "1 million emails",
+    "ai agents variance",
     "things iot devices",
     "least 77 vulnerabilities",
-    "ai agents variance",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
-    "supply chain compromise",
     "service ddos doxing",
     "s already inside",
     "restricted cloud infrastructure",
-    "popular online destinations",
+    "leveraged whatsapp messages",
     "iran's intelligence agencies",
-    "incident including whether",
+    "hijack microsoft accounts",
     "file sharing tool",
     "cross platform implementation",
     "automatic updates turned",
     "anti abuse activists",
+    "email flooding attacks",
     "threat actors tracked",
-    "novoice android malware"
+    "threat actors behind"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 74
+      "mentions": 75
     },
     {
       "keyword": "1 million emails",
-      "mentions": 7
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 164
-    },
-    {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 103
+      "mentions": 8
     },
     {
       "keyword": "ai agents variance",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 165
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 104
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1202
+      "mentions": 1203
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 74
-    },
-    {
-      "keyword": "supply chain compromise",
-      "mentions": 17
+      "mentions": 75
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 147
+      "mentions": 148
     },
     {
       "keyword": "s already inside",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "restricted cloud infrastructure",
+      "mentions": 17
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
+      "link": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
+      "summary": "Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with spyware. According to reports from Italian newspaper La Repubblica and news agency ANSA, the vast majority of the targets are located in Italy. It's assessed that the threat actors behind the activity used social engineering",
+      "published": "Thu, 02 Apr 2026 15:21:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
@@ -145,11 +154,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
-      "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
-      "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069. \"We have attributed the attack to a suspected North Korean threat actor we track as UNC1069,\" John Hultquist, chief analyst at Google Threat Intelligence Group (GTIG), told The Hacker News in a statement. \"North Korean",
-      "published": "Wed, 01 Apr 2026 13:14:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft links Classic Outlook issue to email delivery problems",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/",
+      "summary": "Microsoft is investigating a known issue that prevents some Classic Outlook users from sending emails via Outlook.com. [...]",
+      "published": "Thu, 02 Apr 2026 05:12:12 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -229,15 +238,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI warns against using Chinese mobile apps due to privacy risks",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]",
-      "published": "Wed, 01 Apr 2026 07:39:10 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -396,6 +396,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Mercor Hit by LiteLLM Supply Chain Attack",
+      "link": "https://www.securityweek.com/mercor-hit-by-litellm-supply-chain-attack/",
+      "summary": "The AI recruiting firm is investigating the incident as Lapsus$ claimed the theft of 4TB of Mercor data. The post Mercor Hit by LiteLLM Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Thu, 02 Apr 2026 10:42:05 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Sophisticated CrystalX RAT Emerges",
+      "link": "https://www.securityweek.com/sophisticated-crystalx-rat-emerges/",
+      "summary": "The malware can spy on victims, steal their information, and make configuration changes on devices. The post Sophisticated CrystalX RAT Emerges appeared first on SecurityWeek .",
+      "published": "Thu, 02 Apr 2026 09:51:07 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents",
       "link": "https://www.securityweek.com/variance-raises-21-5m-for-compliance-investigation-platform-powered-by-ai-agents/",
       "summary": "Variance has raised a total of $26 million in funding and the latest investment will fuel platform growth. The post Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents appeared first on SecurityWeek .",
@@ -449,26 +467,6 @@
       "value_signals": [
         "CVE mentioned",
         "Zero-day ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "FBI Warns of Data Security Risks From China-Made Mobile Apps",
-      "link": "https://www.securityweek.com/fbi-warns-of-data-security-risks-from-china-made-mobile-apps/",
-      "summary": "The agency has not named the problematic foreign-made applications, but TikTok and Temu come to mind. The post FBI Warns of Data Security Risks From China-Made Mobile Apps appeared first on SecurityWeek .",
-      "published": "Wed, 01 Apr 2026 13:54:24 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "US Charges Uranium Crypto Exchange Hacker",
-      "link": "https://www.securityweek.com/us-charges-uranium-crypto-exchange-hacker/",
-      "summary": "Jonathan Spalletta exploited smart contract vulnerabilities to steal approximately $55 million in cryptocurrency and cause Uranium to shut down. The post US Charges Uranium Crypto Exchange Hacker appeared first on SecurityWeek .",
-      "published": "Wed, 01 Apr 2026 13:30:19 +0000",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },

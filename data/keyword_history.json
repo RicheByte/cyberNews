@@ -256,7 +256,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1202,
+      "count": 1203,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1872,7 +1872,7 @@
       ]
     },
     "things iot devices": {
-      "count": 164,
+      "count": 165,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -8038,7 +8038,7 @@
       ]
     },
     "anti abuse activists": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -9063,7 +9063,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9431,7 +9431,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10432,7 +10432,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10512,7 +10512,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10650,11 +10650,12 @@
       ]
     },
     "threat actors behind": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-21",
         "2026-03-22",
-        "2026-03-23"
+        "2026-03-23",
+        "2026-04-02"
       ]
     },
     "achieve code execution": {
@@ -11146,7 +11147,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11159,7 +11160,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11560,7 +11561,7 @@
       ]
     },
     "restricted cloud infrastructure": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-31",
         "2026-04-01",
@@ -11599,7 +11600,7 @@
       ]
     },
     "s already inside": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-01",
         "2026-04-02"
@@ -11643,21 +11644,21 @@
       ]
     },
     "1 million emails": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-01",
         "2026-04-02"
       ]
     },
     "file sharing tool": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-01",
         "2026-04-02"
       ]
     },
     "threat actors tracked": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-01",
         "2026-04-02"
@@ -11685,18 +11686,30 @@
       ]
     },
     "ai agents variance": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-02"
       ]
     },
     "cross platform implementation": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-02"
       ]
     },
     "automatic updates turned": {
+      "count": 2,
+      "dates": [
+        "2026-04-02"
+      ]
+    },
+    "leveraged whatsapp messages": {
+      "count": 1,
+      "dates": [
+        "2026-04-02"
+      ]
+    },
+    "hijack microsoft accounts": {
       "count": 1,
       "dates": [
         "2026-04-02"
@@ -11704,17 +11717,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-24 08:44",
-      "articles": 56,
-      "top_keywords": [
-        "things iot devices",
-        "openai's cloud storage",
-        "twitter whistleblower complaint",
-        "pre disruption levels",
-        "malicious scanner release"
-      ]
-    },
     {
       "timestamp": "2026-03-24 10:46",
       "articles": 56,
@@ -12802,6 +12804,17 @@
         "things iot devices",
         "least 77 vulnerabilities",
         "ai agents variance"
+      ]
+    },
+    {
+      "timestamp": "2026-04-02 10:47",
+      "articles": 56,
+      "top_keywords": [
+        "wago gmbh co",
+        "1 million emails",
+        "ai agents variance",
+        "things iot devices",
+        "least 77 vulnerabilities"
       ]
     }
   ]

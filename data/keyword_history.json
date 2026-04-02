@@ -256,7 +256,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1203,
+      "count": 1204,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1872,7 +1872,7 @@
       ]
     },
     "things iot devices": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -9063,7 +9063,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -10432,7 +10432,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10512,7 +10512,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10650,7 +10650,7 @@
       ]
     },
     "threat actors behind": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11147,7 +11147,7 @@
       ]
     },
     "wago gmbh co": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11160,7 +11160,7 @@
       ]
     },
     "tenant identifier parameter": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-03-26",
         "2026-03-27",
@@ -11644,21 +11644,21 @@
       ]
     },
     "1 million emails": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-01",
         "2026-04-02"
       ]
     },
     "file sharing tool": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-01",
         "2026-04-02"
       ]
     },
     "threat actors tracked": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-01",
         "2026-04-02"
@@ -11686,7 +11686,7 @@
       ]
     },
     "ai agents variance": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-02"
       ]
@@ -11704,12 +11704,48 @@
       ]
     },
     "leveraged whatsapp messages": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-02"
       ]
     },
     "hijack microsoft accounts": {
+      "count": 2,
+      "dates": [
+        "2026-04-02"
+      ]
+    },
+    "threat actor hacked": {
+      "count": 1,
+      "dates": [
+        "2026-04-02"
+      ]
+    },
+    "cisco patches critical": {
+      "count": 1,
+      "dates": [
+        "2026-04-02"
+      ]
+    },
+    "high severity vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-04-02"
+      ]
+    },
+    "teams pull deploy": {
+      "count": 1,
+      "dates": [
+        "2026-04-02"
+      ]
+    },
+    "nacogdoches memorial hospital": {
+      "count": 1,
+      "dates": [
+        "2026-04-02"
+      ]
+    },
+    "250 000 affected": {
       "count": 1,
       "dates": [
         "2026-04-02"
@@ -11717,17 +11753,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-24 10:46",
-      "articles": 56,
-      "top_keywords": [
-        "things iot devices",
-        "threat actor known",
-        "openai's cloud storage",
-        "twitter whistleblower complaint",
-        "pre disruption levels"
-      ]
-    },
     {
       "timestamp": "2026-03-24 13:00",
       "articles": 56,
@@ -12815,6 +12840,17 @@
         "ai agents variance",
         "things iot devices",
         "least 77 vulnerabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-04-02 13:01",
+      "articles": 56,
+      "top_keywords": [
+        "wago gmbh co",
+        "threat actor hacked",
+        "cisco patches critical",
+        "high severity vulnerabilities",
+        "threat actors tracked"
       ]
     }
   ]

@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-04-02 10:47",
+  "last_updated": "2026-04-02 13:01",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
+    "threat actor hacked",
+    "cisco patches critical",
+    "high severity vulnerabilities",
+    "threat actors tracked",
+    "threat actors behind",
     "1 million emails",
-    "ai agents variance",
     "things iot devices",
-    "least 77 vulnerabilities",
+    "ai agents variance",
+    "email flooding attacks",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
+    "teams pull deploy",
     "service ddos doxing",
-    "s already inside",
-    "restricted cloud infrastructure",
+    "nacogdoches memorial hospital",
     "leveraged whatsapp messages",
     "iran's intelligence agencies",
     "hijack microsoft accounts",
     "file sharing tool",
-    "cross platform implementation",
-    "automatic updates turned",
-    "anti abuse activists",
-    "email flooding attacks",
-    "threat actors tracked",
-    "threat actors behind"
+    "250 000 affected"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 75
+      "mentions": 76
+    },
+    {
+      "keyword": "threat actor hacked",
+      "mentions": 1
+    },
+    {
+      "keyword": "cisco patches critical",
+      "mentions": 1
+    },
+    {
+      "keyword": "high severity vulnerabilities",
+      "mentions": 1
+    },
+    {
+      "keyword": "threat actors tracked",
+      "mentions": 9
+    },
+    {
+      "keyword": "threat actors behind",
+      "mentions": 25
     },
     {
       "keyword": "1 million emails",
-      "mentions": 8
-    },
-    {
-      "keyword": "ai agents variance",
-      "mentions": 2
+      "mentions": 9
     },
     {
       "keyword": "things iot devices",
-      "mentions": 165
+      "mentions": 166
     },
     {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 104
+      "keyword": "ai agents variance",
+      "mentions": 3
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1203
-    },
-    {
-      "keyword": "tenant identifier parameter",
-      "mentions": 75
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 148
-    },
-    {
-      "keyword": "s already inside",
-      "mentions": 11
-    },
-    {
-      "keyword": "restricted cloud infrastructure",
-      "mentions": 17
+      "keyword": "email flooding attacks",
+      "mentions": 69
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
+      "link": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
+      "summary": "A financially motivated operation codenamed REF1695 has been observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November 2023. \"Beyond cryptomining, the threat actor monetizes infections through CPA (Cost Per Action) fraud, directing victims to content locker pages under the guise of software registration,\" Elastic",
+      "published": "Thu, 02 Apr 2026 17:12:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The State of Trusted Open Source Report",
+      "link": "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html",
+      "summary": "In December 2025, we shared the first-ever The State of Trusted Open Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, images, language libraries, and builds. These insights shed light on what teams pull, deploy, and maintain day to day, alongside the vulnerabilities and",
+      "published": "Thu, 02 Apr 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
@@ -129,29 +147,16 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",
-      "link": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
-      "summary": "Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild. The high-severity vulnerability, CVE-2026-5281 (CVSS score: N/A), concerns a use-after-free bug in Dawn, an open-source and cross-platform implementation of the WebGPU standard. \"Use-after-free in Dawn in Google Chrome prior",
-      "published": "Wed, 01 Apr 2026 17:12:00 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
+      "summary": "Cisco has patched several critical and high-severity vulnerabilities, including an Integrated Management Controller (IMC) authentication bypass that enables attackers to gain Admin access. [...]",
+      "published": "Thu, 02 Apr 2026 07:01:14 -0400",
+      "value_score": 56,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Zero-day ×2",
-        "Active exploitation",
-        "Patch/update",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Auth bypass ×2",
+        "High severity ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
-      "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
-      "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next. Threat actors now use malware less frequently in favor of what’s already inside your environment, including abusing trusted tools, native binaries, and legitimate admin utilities to move laterally, escalate privileges, and persist without raising alarms. Most",
-      "published": "Wed, 01 Apr 2026 16:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -227,17 +232,6 @@
       "published": "Wed, 01 Apr 2026 14:07:21 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds",
-      "link": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/",
-      "summary": "Modern intrusions increasingly start with valid credentials and routine access, not exploits. Blackpoint Cyber's upcoming threat report shows how VPN abuse, RMM tools, and social engineering drive most incidents. [...]",
-      "published": "Wed, 01 Apr 2026 10:05:15 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -322,6 +316,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Bank Trojan 'Casbaneiro' Worms Through Latin America",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america",
+      "summary": "Augmented Marauder's multipronged banking-Trojan cyber campaigns are targeting Spanish speakers, evading detection, and replicating rapidly.",
+      "published": "Thu, 02 Apr 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense",
+      "summary": "A chief medical information officer provided a peek into what hospitals face when they inevitably suffer a ransomware attack—whether it leads to short or long-term outages.",
+      "published": "Wed, 01 Apr 2026 22:04:43 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut",
       "link": "https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut",
       "summary": "A newly released study exclusively shared with Dark Reading details the unique circumstances that make up Latin America's labor pool, and why organizations may want to expand their talent search.",
@@ -375,24 +389,29 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Google's Vertex AI Is Over-Privileged. That's a Problem",
-      "link": "https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem",
-      "summary": "Palo Alto Networks researchers show how attackers could exploit AI agents on Google's Vertex AI to steal data and break into restricted cloud infrastructure.",
-      "published": "Tue, 31 Mar 2026 20:26:33 GMT",
-      "value_score": 16,
+      "source": "Security Week",
+      "title": "Cisco Patches Critical and High-Severity Vulnerabilities",
+      "link": "https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/",
+      "summary": "The bugs could lead to authentication bypass, remote code execution, information disclosure, and privilege escalation. The post Cisco Patches Critical and High-Severity Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 02 Apr 2026 12:34:10 +0000",
+      "value_score": 73,
       "value_signals": [
-        "Exploit wording"
+        "RCE",
+        "Privilege escalation",
+        "Auth bypass",
+        "High severity ×2"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "TeamPCP Breaches Cloud, SaaS Instances With Stolen Credentials",
-      "link": "https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials",
-      "summary": "The threat group's shift to speedy attacks on AWS, Azure, and SaaS instances shows organizations need to respond quickly to compromised credentials.",
-      "published": "Tue, 31 Mar 2026 20:02:28 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "250,000 Affected by Data Breach at Nacogdoches Memorial Hospital",
+      "link": "https://www.securityweek.com/250000-affected-by-data-breach-at-nacogdoches-memorial-hospital/",
+      "summary": "In January 2026, a threat actor hacked the hospital’s internal network and stole personal and health information. The post 250,000 Affected by Data Breach at Nacogdoches Memorial Hospital appeared first on SecurityWeek .",
+      "published": "Thu, 02 Apr 2026 11:57:17 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -447,28 +466,6 @@
       "published": "Wed, 01 Apr 2026 15:35:47 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New DeepLoad Malware Dropped in ClickFix Attacks",
-      "link": "https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/",
-      "summary": "The malware steals credentials, installs a malicious browser extension, and can spread via USB drives. The post New DeepLoad Malware Dropped in ClickFix Attacks appeared first on SecurityWeek .",
-      "published": "Wed, 01 Apr 2026 15:04:43 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome",
-      "link": "https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/",
-      "summary": "Google has announced fixes for CVE-2026-5281, a zero-day affecting Chrome’s Dawn component. The post Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome appeared first on SecurityWeek .",
-      "published": "Wed, 01 Apr 2026 14:36:39 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

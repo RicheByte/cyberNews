@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-02 16:52 UTC  
+> **Last Updated:** 2026-04-02 18:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**threat actor hacked** • **cisco patches critical** • **exploiting vacant homes** • **rsac 2026 conference** • **threat actors behind** • **high severity vulnerabilities** • **ai agents variance** • **twitter whistleblower complaint** • **teams pull deploy** • **service ddos doxing** • **nacogdoches memorial hospital** • **leveraged whatsapp messages** • **hitachi energy ellipse** • **1 million emails** • **april 1 2026** • **27 2026 posing** • **threat actors tracked** • **malicious cyber actors** • **agents autonomous programs** • **ransomware attack whether**
+**threat actor hacked** • **exploiting vacant homes** • **rsac 2026 conference** • **threat actors behind** • **high severity vulnerabilities** • **cisco patches critical** • **ai agents variance** • **twitter whistleblower complaint** • **teams pull deploy** • **service ddos doxing** • **nacogdoches memorial hospital** • **leveraged whatsapp messages** • **hitachi energy ellipse** • **1 million emails** • **april 1 2026** • **27 2026 posing** • **threat actors tracked** • **malicious cyber actors** • **agents autonomous programs** • **ransomware attack whether**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Critical Vulnerability in Claude Code Emerges Days After Source Leak](https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/)
 - [Apple Rolls Out DarkSword Exploit Protection to More Devices](https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/)
 - [Cybersecurity M&A Roundup: 38 Deals Announced in March 2026](https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/)
 - [Cisco Patches Critical and High-Severity Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/)
@@ -67,7 +68,6 @@
 - [Mercor Hit by LiteLLM Supply Chain Attack](https://www.securityweek.com/mercor-hit-by-litellm-supply-chain-attack/)
 - [Sophisticated CrystalX RAT Emerges](https://www.securityweek.com/sophisticated-crystalx-rat-emerges/)
 - [Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents](https://www.securityweek.com/variance-raises-21-5m-for-compliance-investigation-platform-powered-by-ai-agents/)
-- [Linx Security Raises $50 Million for Identity Security and Governance](https://www.securityweek.com/linx-security-raises-50-million-for-identity-security-and-governance/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [Yokogawa CENTUM VP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02)
-- [Hitachi Energy Ellipse](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03)
 - [Siemens SICAM 8 Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01)
+- [Yokogawa CENTUM VP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [Hitachi Energy Ellipse](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Anritsu Remote Spectrum Monitor](https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01)
 - [PX4 Autopilot](https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog)
 
 ---
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-02 16:52 UTC |
+| 🕐 Last Updated | 2026-04-02 18:50 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`threat actor hacked` • `cisco patches critical` • `exploiting vacant homes` • `rsac 2026 conference` • `threat actors behind` • `high severity vulnerabilities` • `ai agents variance` • `twitter whistleblower complaint` • `teams pull deploy` • `service ddos doxing`
+`threat actor hacked` • `exploiting vacant homes` • `rsac 2026 conference` • `threat actors behind` • `high severity vulnerabilities` • `cisco patches critical` • `ai agents variance` • `twitter whistleblower complaint` • `teams pull deploy` • `service ddos doxing`
 
 ## 📄 Reports
 

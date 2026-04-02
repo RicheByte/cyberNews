@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-04-02 16:52",
+  "last_updated": "2026-04-02 18:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "threat actor hacked",
-    "cisco patches critical",
     "exploiting vacant homes",
     "rsac 2026 conference",
     "threat actors behind",
     "high severity vulnerabilities",
+    "cisco patches critical",
     "ai agents variance",
     "twitter whistleblower complaint",
     "teams pull deploy",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "threat actor hacked",
-      "mentions": 3
-    },
-    {
-      "keyword": "cisco patches critical",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "exploiting vacant homes",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "rsac 2026 conference",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "threat actors behind",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "high severity vulnerabilities",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "cisco patches critical",
+      "mentions": 4
     },
     {
       "keyword": "ai agents variance",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1206
+      "mentions": 1207
     },
     {
       "keyword": "teams pull deploy",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 151
+      "mentions": 152
     }
   ],
   "articles": [
@@ -388,6 +388,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical Vulnerability in Claude Code Emerges Days After Source Leak",
+      "link": "https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/",
+      "summary": "Within days of each other, Anthropic first leaked the source code to Claude Code, and then a critical vulnerability was found by Adversa AI. The post Critical Vulnerability in Claude Code Emerges Days After Source Leak appeared first on SecurityWeek .",
+      "published": "Thu, 02 Apr 2026 18:00:55 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "Breach/leak ×2",
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Apple Rolls Out DarkSword Exploit Protection to More Devices",
       "link": "https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/",
       "summary": "The DarkSword exploit kit has been used by both state-sponsored hackers and commercial spyware vendors. The post Apple Rolls Out DarkSword Exploit Protection to More Devices appeared first on SecurityWeek .",
@@ -455,15 +467,6 @@
       "link": "https://www.securityweek.com/variance-raises-21-5m-for-compliance-investigation-platform-powered-by-ai-agents/",
       "summary": "Variance has raised a total of $26 million in funding and the latest investment will fuel platform growth. The post Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents appeared first on SecurityWeek .",
       "published": "Thu, 02 Apr 2026 08:01:49 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Linx Security Raises $50 Million for Identity Security and Governance",
-      "link": "https://www.securityweek.com/linx-security-raises-50-million-for-identity-security-and-governance/",
-      "summary": "The company will accelerate product development, scale go-to-market efforts, and expand its global footprint. The post Linx Security Raises $50 Million for Identity Security and Governance appeared first on SecurityWeek .",
-      "published": "Thu, 02 Apr 2026 04:04:19 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -552,6 +555,18 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Siemens SICAM 8 Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01",
+      "summary": "View CSAF Summary Multiple SICAM 8 products are affected by multiple vulnerabilities that could lead to denial of service, namely: - SICAM A8000 Device firmware - CPCI85 for CP-8031/CP-8050 - SICORE for CP-8010/CP-8012 - RTUM85 for CP-8010/CP-8012 - SICAM EGS Device firmware - CPCI85 - SICAM S8000 - SICORE - RTUM85 Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SICAM 8 Products are affected: CPCI85 Ce",
+      "published": "Thu, 02 Apr 26 12:00:00 +0000",
+      "value_score": 43,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Yokogawa CENTUM VP",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to login as the PROG user and modify permissions. The following versions of Yokogawa CENTUM VP are affected: CENTUM VP >=R5.01.00| CENTUM VP >=R6.01.00| CENTUM VP vR7.01.00 (CVE-2025-7741) CVSS Vendor Equipment Vulnerabilities v3 4 Yokogawa Yokogawa CENTUM VP Use of Hard-coded Password Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Food and Agriculture Countries/Areas Deployed: Wo",
@@ -561,6 +576,20 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-3502 TrueConf Client Download of Code Without Integrity Check Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a liv",
+      "published": "Thu, 02 Apr 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
         "Exploit wording"
       ]
     },
@@ -576,18 +605,6 @@
         "CVE mentioned",
         "RCE ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens SICAM 8 Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01",
-      "summary": "View CSAF Summary Multiple SICAM 8 products are affected by multiple vulnerabilities that could lead to denial of service, namely: - SICAM A8000 Device firmware - CPCI85 for CP-8031/CP-8050 - SICORE for CP-8010/CP-8012 - RTUM85 for CP-8010/CP-8012 - SICAM EGS Device firmware - CPCI85 - SICAM S8000 - SICORE - RTUM85 Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SICAM 8 Products are affected: CPCI85 Ce",
-      "published": "Thu, 02 Apr 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update"
       ]
     },
     {
@@ -642,21 +659,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common",
-      "published": "Fri, 27 Mar 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "RCE",
         "CISA/KEV ×6",
         "Exploit wording"
       ]

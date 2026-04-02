@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-02 13:01 UTC |
+| 🕐 Last Updated | 2026-04-02 14:50 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`wago gmbh co` • `threat actor hacked` • `cisco patches critical` • `high severity vulnerabilities` • `threat actors tracked` • `threat actors behind` • `1 million emails` • `things iot devices` • `ai agents variance` • `email flooding attacks`
+`wago gmbh co` • `threat actor hacked` • `cisco patches critical` • `high severity vulnerabilities` • `file sharing tool` • `threat actors tracked` • `threat actors behind` • `1 million emails` • `twitter whistleblower complaint` • `tenant identifier parameter`
 
 ## 📄 Reports
 

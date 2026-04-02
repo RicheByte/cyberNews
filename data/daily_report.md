@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-02 14:50 UTC  
+> **Last Updated:** 2026-04-02 16:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **threat actor hacked** • **cisco patches critical** • **high severity vulnerabilities** • **file sharing tool** • **threat actors tracked** • **threat actors behind** • **1 million emails** • **twitter whistleblower complaint** • **tenant identifier parameter** • **teams pull deploy** • **service ddos doxing** • **nacogdoches memorial hospital** • **leveraged whatsapp messages** • **iran's intelligence agencies** • **ai agents variance** • **malicious cyber actors** • **automatic updates turned** • **agents autonomous programs** • **250 000 affected**
+**threat actor hacked** • **cisco patches critical** • **exploiting vacant homes** • **rsac 2026 conference** • **threat actors behind** • **high severity vulnerabilities** • **ai agents variance** • **twitter whistleblower complaint** • **teams pull deploy** • **service ddos doxing** • **nacogdoches memorial hospital** • **leveraged whatsapp messages** • **hitachi energy ellipse** • **1 million emails** • **april 1 2026** • **27 2026 posing** • **threat actors tracked** • **malicious cyber actors** • **agents autonomous programs** • **ransomware attack whether**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
 - [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
 - [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
 - [The State of Trusted Open Source Report](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html)
@@ -23,10 +24,10 @@
 - [Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit](https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html)
 - [CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
 - [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
-- [Block the Prompt, Not the Work: The End of "Doctor No"](https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html)
 
 ### BleepingComputer
 
+- [Residential proxies evaded IP reputation checks in 78% of 4B sessions](https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/)
 - [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
 - [New Progress ShareFile flaws can be chained in pre-auth RCE attacks](https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/)
 - [Medtech giant Stryker fully operational after data-wiping attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/)
@@ -34,7 +35,6 @@
 - [Microsoft links Classic Outlook issue to email delivery problems](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/)
 - [Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/)
 - [New CrystalRAT malware adds RAT, stealer and prankware features](https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/)
-- [Apple expands iOS 18 updates to more iPhones to block DarkSword attacks](https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/)
 
 ### Krebs on Security
 
@@ -50,16 +50,17 @@
 ### Dark Reading
 
 - [Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026](https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026)
+- [RSAC 2026: AI Dominates, But Community Remains Key to Security](https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community)
 - [Bank Trojan 'Casbaneiro' Worms Through Latin America](https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america)
 - [Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense](https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense)
 - [LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut](https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut)
 - [Cyberattacks Intensify Pressure on Latin American Governments](https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments)
 - [Venom Stealer MaaS Platform Commoditizes ClickFix Attacks](https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks)
 - [Are We Training AI Too Late?](https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late)
-- [The Forgotten Endpoint: Security Risks of Dormant Devices](https://www.darkreading.com/endpoint-security/forgotten-endpoint-security-risks-dormant-devices)
 
 ### Security Week
 
+- [Apple Rolls Out DarkSword Exploit Protection to More Devices](https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/)
 - [Cybersecurity M&A Roundup: 38 Deals Announced in March 2026](https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/)
 - [Cisco Patches Critical and High-Severity Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/)
 - [250,000 Affected by Data Breach at Nacogdoches Memorial Hospital](https://www.securityweek.com/250000-affected-by-data-breach-at-nacogdoches-memorial-hospital/)
@@ -67,7 +68,6 @@
 - [Sophisticated CrystalX RAT Emerges](https://www.securityweek.com/sophisticated-crystalx-rat-emerges/)
 - [Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents](https://www.securityweek.com/variance-raises-21-5m-for-compliance-investigation-platform-powered-by-ai-agents/)
 - [Linx Security Raises $50 Million for Identity Security and Governance](https://www.securityweek.com/linx-security-raises-50-million-for-identity-security-and-governance/)
-- [Depthfirst Raises $80 Million in Series B Funding](https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Yokogawa CENTUM VP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02)
+- [Hitachi Energy Ellipse](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03)
+- [Siemens SICAM 8 Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Anritsu Remote Spectrum Monitor](https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01)
 - [PX4 Autopilot](https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [OpenCode Systems OC Messaging and USSD Gateway](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02)
-- [WAGO GmbH & Co. KG Industrial Managed Switches](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01)
-- [PTC Windchill Product Lifecycle Management](https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03)
 
 ---
 

@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-04-02 14:50",
+  "last_updated": "2026-04-02 16:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "wago gmbh co",
     "threat actor hacked",
     "cisco patches critical",
-    "high severity vulnerabilities",
-    "file sharing tool",
-    "threat actors tracked",
+    "exploiting vacant homes",
+    "rsac 2026 conference",
     "threat actors behind",
-    "1 million emails",
+    "high severity vulnerabilities",
+    "ai agents variance",
     "twitter whistleblower complaint",
-    "tenant identifier parameter",
     "teams pull deploy",
     "service ddos doxing",
     "nacogdoches memorial hospital",
     "leveraged whatsapp messages",
-    "iran's intelligence agencies",
-    "ai agents variance",
+    "hitachi energy ellipse",
+    "1 million emails",
+    "april 1 2026",
+    "27 2026 posing",
+    "threat actors tracked",
     "malicious cyber actors",
-    "automatic updates turned",
     "agents autonomous programs",
-    "250 000 affected"
+    "ransomware attack whether"
   ],
   "trending": [
     {
-      "keyword": "wago gmbh co",
-      "mentions": 77
-    },
-    {
       "keyword": "threat actor hacked",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cisco patches critical",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "high severity vulnerabilities",
-      "mentions": 2
+      "keyword": "exploiting vacant homes",
+      "mentions": 1
     },
     {
-      "keyword": "file sharing tool",
-      "mentions": 10
-    },
-    {
-      "keyword": "threat actors tracked",
-      "mentions": 10
+      "keyword": "rsac 2026 conference",
+      "mentions": 40
     },
     {
       "keyword": "threat actors behind",
-      "mentions": 26
+      "mentions": 27
     },
     {
-      "keyword": "1 million emails",
-      "mentions": 10
+      "keyword": "high severity vulnerabilities",
+      "mentions": 3
+    },
+    {
+      "keyword": "ai agents variance",
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1205
+      "mentions": 1206
     },
     {
-      "keyword": "tenant identifier parameter",
-      "mentions": 77
+      "keyword": "teams pull deploy",
+      "mentions": 3
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 151
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
+      "link": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
+      "summary": "Cisco has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the system with elevated privileges. The vulnerability, tracked as CVE-2026-20093, carries a CVSS score of 9.8 out of a maximum of 10.0. \"This",
+      "published": "Thu, 02 Apr 2026 20:51:00 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
@@ -136,11 +149,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
-      "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
-      "summary": "There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn’t build. It doesn’t enable. Its entire function is to say \"No.\" No to ChatGPT. No to DeepSeek. No to the file-sharing tool the product team swears by. For years, this looked like security. But in 2026, \"Doctor No\" is no longer just a management headache &",
-      "published": "Wed, 01 Apr 2026 18:16:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
+      "summary": "Researchers warn that residential proxies used to route malicious traffic are a big problem for IP reputation systems, as there is no clear distinction between attackers and legitimate users. [...]",
+      "published": "Thu, 02 Apr 2026 11:21:02 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -217,18 +230,6 @@
       "published": "Wed, 01 Apr 2026 19:17:09 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
-      "summary": "Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit. [...]",
-      "published": "Wed, 01 Apr 2026 17:50:49 -0400",
-      "value_score": 41,
-      "value_signals": [
-        "Active exploitation",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -322,6 +323,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "RSAC 2026: AI Dominates, But Community Remains Key to Security",
+      "link": "https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community",
+      "summary": "As AI took center stage at this year's conference, experts debated automation, oversight and the evolving role of human intelligence in cybersecurity — despite the US government's notable absence.",
+      "published": "Thu, 02 Apr 2026 15:56:32 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Bank Trojan 'Casbaneiro' Worms Through Latin America",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america",
       "summary": "Augmented Marauder's multipronged banking-Trojan cyber campaigns are targeting Spanish speakers, evading detection, and replicating rapidly.",
@@ -377,13 +387,15 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "The Forgotten Endpoint: Security Risks of Dormant Devices",
-      "link": "https://www.darkreading.com/endpoint-security/forgotten-endpoint-security-risks-dormant-devices",
-      "summary": "Technology Talk: That forgotten notebook holds plenty of secrets to enterprise access.",
-      "published": "Tue, 31 Mar 2026 22:13:34 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Apple Rolls Out DarkSword Exploit Protection to More Devices",
+      "link": "https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/",
+      "summary": "The DarkSword exploit kit has been used by both state-sponsored hackers and commercial spyware vendors. The post Apple Rolls Out DarkSword Exploit Protection to More Devices appeared first on SecurityWeek .",
+      "published": "Thu, 02 Apr 2026 16:18:07 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -452,15 +464,6 @@
       "link": "https://www.securityweek.com/linx-security-raises-50-million-for-identity-security-and-governance/",
       "summary": "The company will accelerate product development, scale go-to-market efforts, and expand its global footprint. The post Linx Security Raises $50 Million for Identity Security and Governance appeared first on SecurityWeek .",
       "published": "Thu, 02 Apr 2026 04:04:19 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Depthfirst Raises $80 Million in Series B Funding",
-      "link": "https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/",
-      "summary": "The startup will expand its AI research team, train additional security models, and scale enterprise adoption. The post Depthfirst Raises $80 Million in Series B Funding appeared first on SecurityWeek .",
-      "published": "Wed, 01 Apr 2026 16:47:45 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -549,6 +552,46 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Yokogawa CENTUM VP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to login as the PROG user and modify permissions. The following versions of Yokogawa CENTUM VP are affected: CENTUM VP >=R5.01.00| CENTUM VP >=R6.01.00| CENTUM VP vR7.01.00 (CVE-2025-7741) CVSS Vendor Equipment Vulnerabilities v3 4 Yokogawa Yokogawa CENTUM VP Use of Hard-coded Password Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Food and Agriculture Countries/Areas Deployed: Wo",
+      "published": "Thu, 02 Apr 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hitachi Energy Ellipse",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a Jasper Report vulnerability that affects the Ellipse product versions mentioned in this document below. This vulnerability can be exploited to carry out remote code execution (RCE) attack on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Ellipse are affected: Ellipse vers:Ellipse/<=9.0.50 (CVE-2025-10492) CVSS Vendor Equipment Vulnerabilities v",
+      "published": "Thu, 02 Apr 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens SICAM 8 Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01",
+      "summary": "View CSAF Summary Multiple SICAM 8 products are affected by multiple vulnerabilities that could lead to denial of service, namely: - SICAM A8000 Device firmware - CPCI85 for CP-8031/CP-8050 - SICORE for CP-8010/CP-8012 - RTUM85 for CP-8010/CP-8012 - SICAM EGS Device firmware - CPCI85 - SICAM S8000 - SICORE - RTUM85 Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SICAM 8 Products are affected: CPCI85 Ce",
+      "published": "Thu, 02 Apr 26 12:00:00 +0000",
+      "value_score": 43,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulne",
@@ -615,49 +658,6 @@
         "CVE mentioned",
         "RCE",
         "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "OpenCode Systems OC Messaging and USSD Gateway",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outside of their authorized tenant scope via a crafted company or tenant identifier parameter. The following versions of OpenCode Systems OC Messaging and USSD Gateway are affected: OC Messaging 6.32.2 (CVE-2025-70614) USSD Gateway 6.32.2 (CVE-2025-70614) CVSS Vendor Equipment Vulnerabilities v3 8.1 OpenCode Systems OpenCode Systems OC Messaging and USSD",
-      "published": "Thu, 26 Mar 26 12:00:00 +0000",
-      "value_score": 85,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "WAGO GmbH & Co. KG Industrial Managed Switches",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-01",
-      "summary": "View CSAF Summary An unauthenticated remote attacker can exploit a hidden function in the CLI prompt to escape the restricted interface, leading to full compromise of the device. The following versions of WAGO GmbH & Co. KG Industrial Managed Switches are affected: WAGO Firmware versions prior to V1.2.1.S0 WAGO_Hardware_852-1812 (CVE-2026-3587) WAGO Firmware versions prior to V1.2.1.S0 WAGO_Hardware_852-1813 (CVE-2026-3587) WAGO Firmware versions prior to V1.2.3.S0 WAGO_Hardware_852-1813/000-001",
-      "published": "Thu, 26 Mar 26 12:00:00 +0000",
-      "value_score": 85,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "PTC Windchill Product Lifecycle Management",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to achieve remote code execution. The following versions of PTC Windchill Product Lifecycle Management are affected: Windchill PDMLink 11.0_M030 (CVE-2026-4681) Windchill PDMLink 11.1_M020 (CVE-2026-4681) Windchill PDMLink 11.2.1.0 (CVE-2026-4681) Windchill PDMLink 12.0.2.0 (CVE-2026-4681) Windchill PDMLink 12.1.2.0 (CVE-2026-4681) Windchill PDMLink 13.0.2.0 (CVE-2026-4681) Windchill PDMLink 13.1.0.0 (CVE-202",
-      "published": "Thu, 26 Mar 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×6",
-        "RCE",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     }

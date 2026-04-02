@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 374,
+      "count": 375,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -257,7 +257,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1205,
+      "count": 1206,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -9196,7 +9196,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -10434,7 +10434,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10475,7 +10475,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10483,7 +10483,8 @@
         "2026-03-27",
         "2026-03-28",
         "2026-03-29",
-        "2026-03-30"
+        "2026-03-30",
+        "2026-04-02"
       ]
     },
     "response edr killers": {
@@ -10652,7 +10653,7 @@
       ]
     },
     "threat actors behind": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11646,7 +11647,7 @@
       ]
     },
     "1 million emails": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-01",
         "2026-04-02"
@@ -11660,7 +11661,7 @@
       ]
     },
     "threat actors tracked": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-01",
         "2026-04-02"
@@ -11688,7 +11689,7 @@
       ]
     },
     "ai agents variance": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-02"
       ]
@@ -11706,7 +11707,7 @@
       ]
     },
     "leveraged whatsapp messages": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-02"
       ]
@@ -11718,31 +11719,31 @@
       ]
     },
     "threat actor hacked": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-02"
       ]
     },
     "cisco patches critical": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-02"
       ]
     },
     "high severity vulnerabilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-02"
       ]
     },
     "teams pull deploy": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-02"
       ]
     },
     "nacogdoches memorial hospital": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-02"
       ]
@@ -11752,20 +11753,39 @@
       "dates": [
         "2026-04-02"
       ]
+    },
+    "exploiting vacant homes": {
+      "count": 1,
+      "dates": [
+        "2026-04-02"
+      ]
+    },
+    "hitachi energy ellipse": {
+      "count": 1,
+      "dates": [
+        "2026-04-02"
+      ]
+    },
+    "april 1 2026": {
+      "count": 1,
+      "dates": [
+        "2026-04-02"
+      ]
+    },
+    "27 2026 posing": {
+      "count": 1,
+      "dates": [
+        "2026-04-02"
+      ]
+    },
+    "ransomware attack whether": {
+      "count": 1,
+      "dates": [
+        "2026-04-02"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-24 14:52",
-      "articles": 56,
-      "top_keywords": [
-        "things iot devices",
-        "internal management system",
-        "former u s",
-        "twitter whistleblower complaint",
-        "openai's cloud storage"
-      ]
-    },
     {
       "timestamp": "2026-03-24 16:55",
       "articles": 56,
@@ -12853,6 +12873,17 @@
         "cisco patches critical",
         "high severity vulnerabilities",
         "file sharing tool"
+      ]
+    },
+    {
+      "timestamp": "2026-04-02 16:52",
+      "articles": 56,
+      "top_keywords": [
+        "threat actor hacked",
+        "cisco patches critical",
+        "exploiting vacant homes",
+        "rsac 2026 conference",
+        "threat actors behind"
       ]
     }
   ]

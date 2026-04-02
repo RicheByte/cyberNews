@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-02 07:05",
+  "last_updated": "2026-04-02 08:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
-    "things iot devices",
     "1 million emails",
+    "things iot devices",
     "least 77 vulnerabilities",
-    "receive security updates",
+    "ai agents variance",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "supply chain compromise",
@@ -17,56 +17,68 @@
     "popular online destinations",
     "iran's intelligence agencies",
     "incident including whether",
-    "inadvertently released due",
     "file sharing tool",
+    "cross platform implementation",
+    "automatic updates turned",
     "anti abuse activists",
     "threat actors tracked",
-    "email flooding attacks",
     "novoice android malware"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 73
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 163
+      "mentions": 74
     },
     {
       "keyword": "1 million emails",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 164
     },
     {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 102
+      "mentions": 103
     },
     {
-      "keyword": "receive security updates",
-      "mentions": 4
+      "keyword": "ai agents variance",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1201
+      "mentions": 1202
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 73
+      "mentions": 74
     },
     {
       "keyword": "supply chain compromise",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 146
+      "mentions": 147
     },
     {
       "keyword": "s already inside",
-      "mentions": 9
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
+      "link": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html",
+      "summary": "Apple on Wednesday expanded the availability of iOS 18.7.7 and iPadOS 18.7.7 to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known as DarkSword. \"We enabled the availability of iOS 18.7.7 for more devices on April 1, 2026, so users with Automatic Updates turned on can automatically receive important security",
+      "published": "Thu, 02 Apr 2026 12:39:00 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
@@ -142,13 +154,17 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-      "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-      "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive customer data or credentials were involved or exposed,\" an Anthropic spokesperson said in a statement shared with CNBC News. \"This was a release packaging issue caused by human error, not a security",
-      "published": "Wed, 01 Apr 2026 11:42:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/",
+      "summary": "Internet security watchdog Shadowserver has found over 14,000 BIG-IP APM instances exposed online amid ongoing attacks exploiting a critical-severity remote code execution (RCE) vulnerability. [...]",
+      "published": "Thu, 02 Apr 2026 04:25:50 -0400",
+      "value_score": 64,
+      "value_signals": [
+        "RCE ×3",
+        "High severity",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -222,19 +238,6 @@
       "published": "Wed, 01 Apr 2026 07:39:10 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
-      "summary": "Google has fixed the fourth Chrome vulnerability exploited in zero-day attacks since the start of the year. [...]",
-      "published": "Wed, 01 Apr 2026 06:25:36 -0400",
-      "value_score": 74,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -393,6 +396,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents",
+      "link": "https://www.securityweek.com/variance-raises-21-5m-for-compliance-investigation-platform-powered-by-ai-agents/",
+      "summary": "Variance has raised a total of $26 million in funding and the latest investment will fuel platform growth. The post Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents appeared first on SecurityWeek .",
+      "published": "Thu, 02 Apr 2026 08:01:49 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Linx Security Raises $50 Million for Identity Security and Governance",
       "link": "https://www.securityweek.com/linx-security-raises-50-million-for-identity-security-and-governance/",
       "summary": "The company will accelerate product development, scale go-to-market efforts, and expand its global footprint. The post Linx Security Raises $50 Million for Identity Security and Governance appeared first on SecurityWeek .",
@@ -458,17 +470,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Webinar Today: Agentic AI vs. Identity’s Last Mile Problem",
-      "link": "https://www.securityweek.com/webinar-today-agentic-ai-vs-identitys-last-mile-problem/",
-      "summary": "Join the webcast as we explore what Agentic AI can and cannot solve today, and real world breach scenarios linked to disconnected applications. The post Webinar Today: Agentic AI vs. Identity’s Last Mile Problem appeared first on SecurityWeek .",
-      "published": "Wed, 01 Apr 2026 13:14:47 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

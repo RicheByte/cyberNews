@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-04-02 18:50",
+  "last_updated": "2026-04-02 20:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "threat actor hacked",
-    "exploiting vacant homes",
+    "high severity vulnerabilities",
     "rsac 2026 conference",
     "threat actors behind",
-    "high severity vulnerabilities",
-    "cisco patches critical",
     "ai agents variance",
     "twitter whistleblower complaint",
-    "teams pull deploy",
     "service ddos doxing",
     "nacogdoches memorial hospital",
-    "leveraged whatsapp messages",
     "hitachi energy ellipse",
+    "exploiting vacant homes",
     "1 million emails",
+    "cisco patches critical",
+    "agents autonomous programs",
     "april 1 2026",
     "27 2026 posing",
-    "threat actors tracked",
+    "ransomware attack whether",
     "malicious cyber actors",
-    "agents autonomous programs",
-    "ransomware attack whether"
+    "darksword exploit protection",
+    "darksword exploit kit",
+    "250 000 affected"
   ],
   "trending": [
     {
       "keyword": "threat actor hacked",
-      "mentions": 4
-    },
-    {
-      "keyword": "exploiting vacant homes",
-      "mentions": 2
-    },
-    {
-      "keyword": "rsac 2026 conference",
-      "mentions": 41
-    },
-    {
-      "keyword": "threat actors behind",
-      "mentions": 28
+      "mentions": 5
     },
     {
       "keyword": "high severity vulnerabilities",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "cisco patches critical",
-      "mentions": 4
+      "keyword": "rsac 2026 conference",
+      "mentions": 42
+    },
+    {
+      "keyword": "threat actors behind",
+      "mentions": 29
     },
     {
       "keyword": "ai agents variance",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1207
-    },
-    {
-      "keyword": "teams pull deploy",
-      "mentions": 4
+      "mentions": 1208
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 152
+      "mentions": 153
+    },
+    {
+      "keyword": "nacogdoches memorial hospital",
+      "mentions": 5
+    },
+    {
+      "keyword": "hitachi energy ellipse",
+      "mentions": 3
+    },
+    {
+      "keyword": "exploiting vacant homes",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
+      "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
+      "summary": "A large-scale credential harvesting operation has been observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web Services (AWS) secrets, shell command history, Stripe API keys, and GitHub tokens at scale. Cisco Talos has attributed the operation to a threat cluster it tracks as",
+      "published": "Fri, 03 Apr 2026 01:00:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "CVE mentioned",
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
@@ -140,11 +153,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
-      "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
-      "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files. The activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage infection chain for establishing persistence and enabling remote access. It's currently not known what lures the threat actors use to trick users into",
-      "published": "Wed, 01 Apr 2026 19:40:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Drift loses $280 million as hackers seize Security Council powers",
+      "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
+      "summary": "The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
+      "published": "Thu, 02 Apr 2026 15:03:39 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -221,15 +234,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
-      "summary": "A new malware-as-a-service called CrystalRAT is being promoted on Telegram, offering remote access, data theft, keylogging, and clipboard hijacking capabilities. [...]",
-      "published": "Wed, 01 Apr 2026 19:17:09 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -323,6 +327,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Security Bosses Are All-In on AI. Here's Why",
+      "link": "https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai",
+      "summary": "CISOs are bullish on AI and have big plans to roll out future tools. We talk to Reddit CISO Frederick Lee and leading analyst Dave Gruber about how AI is working out in the real world, as well as its future promise.",
+      "published": "Thu, 02 Apr 2026 19:12:45 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "RSAC 2026: AI Dominates, But Community Remains Key to Security",
       "link": "https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community",
       "summary": "As AI took center stage at this year's conference, experts debated automation, oversight and the evolving role of human intelligence in cybersecurity — despite the US government's notable absence.",
@@ -374,15 +387,6 @@
       "link": "https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks",
       "summary": "A new service on the cybercrime market provides automated capabilities to create persistent information-stealing social engineering attacks.",
       "published": "Wed, 01 Apr 2026 14:54:23 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Are We Training AI Too Late?",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late",
-      "summary": "Ask the Expert: Cybersecurity teams need to expand their field of view to include new, unique threat sources, rather than relying on past, proven threat actors.",
-      "published": "Wed, 01 Apr 2026 10:40:13 GMT",
       "value_score": 10,
       "value_signals": []
     },

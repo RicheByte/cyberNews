@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-02 18:50 UTC  
+> **Last Updated:** 2026-04-02 20:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**threat actor hacked** • **exploiting vacant homes** • **rsac 2026 conference** • **threat actors behind** • **high severity vulnerabilities** • **cisco patches critical** • **ai agents variance** • **twitter whistleblower complaint** • **teams pull deploy** • **service ddos doxing** • **nacogdoches memorial hospital** • **leveraged whatsapp messages** • **hitachi energy ellipse** • **1 million emails** • **april 1 2026** • **27 2026 posing** • **threat actors tracked** • **malicious cyber actors** • **agents autonomous programs** • **ransomware attack whether**
+**threat actor hacked** • **high severity vulnerabilities** • **rsac 2026 conference** • **threat actors behind** • **ai agents variance** • **twitter whistleblower complaint** • **service ddos doxing** • **nacogdoches memorial hospital** • **hitachi energy ellipse** • **exploiting vacant homes** • **1 million emails** • **cisco patches critical** • **agents autonomous programs** • **april 1 2026** • **27 2026 posing** • **ransomware attack whether** • **malicious cyber actors** • **darksword exploit protection** • **darksword exploit kit** • **250 000 affected**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html)
 - [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
 - [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
 - [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
@@ -23,10 +24,10 @@
 - [WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action](https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html)
 - [Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit](https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html)
 - [CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
-- [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
 
 ### BleepingComputer
 
+- [Drift loses $280 million as hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/)
 - [Residential proxies evaded IP reputation checks in 78% of 4B sessions](https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/)
 - [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
 - [New Progress ShareFile flaws can be chained in pre-auth RCE attacks](https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/)
@@ -34,7 +35,6 @@
 - [Critical Cisco IMC auth bypass gives attackers Admin access](https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/)
 - [Microsoft links Classic Outlook issue to email delivery problems](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/)
 - [Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/)
-- [New CrystalRAT malware adds RAT, stealer and prankware features](https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/)
 
 ### Krebs on Security
 
@@ -50,13 +50,13 @@
 ### Dark Reading
 
 - [Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026](https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026)
+- [Security Bosses Are All-In on AI. Here's Why](https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai)
 - [RSAC 2026: AI Dominates, But Community Remains Key to Security](https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community)
 - [Bank Trojan 'Casbaneiro' Worms Through Latin America](https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america)
 - [Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense](https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense)
 - [LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut](https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut)
 - [Cyberattacks Intensify Pressure on Latin American Governments](https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments)
 - [Venom Stealer MaaS Platform Commoditizes ClickFix Attacks](https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks)
-- [Are We Training AI Too Late?](https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late)
 
 ### Security Week
 

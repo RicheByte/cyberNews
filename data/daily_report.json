@@ -1,18 +1,16 @@
 {
-  "last_updated": "2026-04-01 22:32",
+  "last_updated": "2026-04-02 01:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "wago gmbh co",
     "things iot devices",
     "1 million emails",
-    "novoice android malware",
     "least 77 vulnerabilities",
     "receive security updates",
     "twitter whistleblower complaint",
     "tenant identifier parameter",
     "supply chain compromise",
-    "social engineering drive",
     "service ddos doxing",
     "s already inside",
     "restricted cloud infrastructure",
@@ -22,48 +20,50 @@
     "inadvertently released due",
     "file sharing tool",
     "anti abuse activists",
-    "threat actors tracked"
+    "threat actors tracked",
+    "email flooding attacks",
+    "novoice android malware"
   ],
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 70
+      "mentions": 71
     },
     {
       "keyword": "things iot devices",
-      "mentions": 160
+      "mentions": 161
     },
     {
       "keyword": "1 million emails",
-      "mentions": 3
-    },
-    {
-      "keyword": "novoice android malware",
-      "mentions": 2
+      "mentions": 4
     },
     {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 99
+      "mentions": 100
     },
     {
       "keyword": "receive security updates",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1198
+      "mentions": 1199
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 70
+      "mentions": 71
     },
     {
       "keyword": "supply chain compromise",
-      "mentions": 13
+      "mentions": 14
     },
     {
-      "keyword": "social engineering drive",
-      "mentions": 5
+      "keyword": "service ddos doxing",
+      "mentions": 144
+    },
+    {
+      "keyword": "s already inside",
+      "mentions": 7
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
+      "summary": "A new malware-as-a-service called CrystalRAT is being promoted on Telegram, offering remote access, data theft, keylogging, and clipboard hijacking capabilities. [...]",
+      "published": "Wed, 01 Apr 2026 19:17:09 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
       "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
       "summary": "Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit. [...]",
@@ -225,17 +234,6 @@
         "Zero-day ×2",
         "Patch/update",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google Drive ransomware detection now on by default for paying users",
-      "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
-      "summary": "Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users. [...]",
-      "published": "Wed, 01 Apr 2026 02:35:34 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {

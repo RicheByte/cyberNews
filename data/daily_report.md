@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-01 22:32 UTC  
+> **Last Updated:** 2026-04-02 01:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**wago gmbh co** • **things iot devices** • **1 million emails** • **novoice android malware** • **least 77 vulnerabilities** • **receive security updates** • **twitter whistleblower complaint** • **tenant identifier parameter** • **supply chain compromise** • **social engineering drive** • **service ddos doxing** • **s already inside** • **restricted cloud infrastructure** • **popular online destinations** • **iran's intelligence agencies** • **incident including whether** • **inadvertently released due** • **file sharing tool** • **anti abuse activists** • **threat actors tracked**
+**wago gmbh co** • **things iot devices** • **1 million emails** • **least 77 vulnerabilities** • **receive security updates** • **twitter whistleblower complaint** • **tenant identifier parameter** • **supply chain compromise** • **service ddos doxing** • **s already inside** • **restricted cloud infrastructure** • **popular online destinations** • **iran's intelligence agencies** • **incident including whether** • **inadvertently released due** • **file sharing tool** • **anti abuse activists** • **threat actors tracked** • **email flooding attacks** • **novoice android malware**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New CrystalRAT malware adds RAT, stealer and prankware features](https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/)
 - [Apple expands iOS 18 updates to more iPhones to block DarkSword attacks](https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/)
 - [Hackers exploit TrueConf zero-day to push malicious software updates](https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/)
 - [New EvilTokens service fuels Microsoft device code phishing attacks](https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/)
@@ -34,7 +35,6 @@
 - [Routine Access Is Powering Modern Intrusions, a New Threat Report Finds](https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/)
 - [FBI warns against using Chinese mobile apps due to privacy risks](https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/)
 - [Google fixes fourth Chrome zero-day exploited in attacks in 2026](https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/)
-- [Google Drive ransomware detection now on by default for paying users](https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/)
 
 ### Krebs on Security
 

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-02 20:30",
+  "last_updated": "2026-04-02 22:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "threat actor hacked",
+    "service ddos doxing",
     "high severity vulnerabilities",
     "rsac 2026 conference",
-    "threat actors behind",
+    "least 280 million",
+    "1 million emails",
     "ai agents variance",
+    "github threat actors",
+    "threat actors behind",
     "twitter whistleblower complaint",
-    "service ddos doxing",
     "nacogdoches memorial hospital",
     "hitachi energy ellipse",
-    "exploiting vacant homes",
-    "1 million emails",
+    "drift protocol lost",
     "cisco patches critical",
     "agents autonomous programs",
     "april 1 2026",
     "27 2026 posing",
     "ransomware attack whether",
-    "malicious cyber actors",
     "darksword exploit protection",
-    "darksword exploit kit",
-    "250 000 affected"
+    "darksword exploit kit"
   ],
   "trending": [
     {
       "keyword": "threat actor hacked",
-      "mentions": 5
-    },
-    {
-      "keyword": "high severity vulnerabilities",
-      "mentions": 5
-    },
-    {
-      "keyword": "rsac 2026 conference",
-      "mentions": 42
-    },
-    {
-      "keyword": "threat actors behind",
-      "mentions": 29
-    },
-    {
-      "keyword": "ai agents variance",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1208
+      "mentions": 6
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 153
+      "mentions": 154
     },
     {
-      "keyword": "nacogdoches memorial hospital",
-      "mentions": 5
+      "keyword": "high severity vulnerabilities",
+      "mentions": 6
     },
     {
-      "keyword": "hitachi energy ellipse",
-      "mentions": 3
+      "keyword": "rsac 2026 conference",
+      "mentions": 43
     },
     {
-      "keyword": "exploiting vacant homes",
-      "mentions": 3
+      "keyword": "least 280 million",
+      "mentions": 1
+    },
+    {
+      "keyword": "1 million emails",
+      "mentions": 14
+    },
+    {
+      "keyword": "ai agents variance",
+      "mentions": 8
+    },
+    {
+      "keyword": "github threat actors",
+      "mentions": 1
+    },
+    {
+      "keyword": "threat actors behind",
+      "mentions": 30
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1209
     }
   ],
   "articles": [
@@ -154,6 +154,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Claude Code leak used to push infostealer malware on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
+      "summary": "Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware. [...]",
+      "published": "Thu, 02 Apr 2026 16:30:55 -0400",
+      "value_score": 40,
+      "value_signals": [
+        "Breach/leak ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Drift loses $280 million as hackers seize Security Council powers",
       "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
       "summary": "The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
@@ -221,19 +233,6 @@
       "published": "Thu, 02 Apr 2026 05:12:12 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/",
-      "summary": "Internet security watchdog Shadowserver has found over 14,000 BIG-IP APM instances exposed online amid ongoing attacks exploiting a critical-severity remote code execution (RCE) vulnerability. [...]",
-      "published": "Thu, 02 Apr 2026 04:25:50 -0400",
-      "value_score": 64,
-      "value_signals": [
-        "RCE ×3",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -327,6 +326,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate",
+      "summary": "The company's 8-K filing notes \"unauthorized access\" and that it's activated business continuity plans and taken some systems offline.",
+      "published": "Thu, 02 Apr 2026 20:28:36 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Security Bosses Are All-In on AI. Here's Why",
       "link": "https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai",
       "summary": "CISOs are bullish on AI and have big plans to roll out future tools. We talk to Reddit CISO Frederick Lee and leading analyst Dave Gruber about how AI is working out in the real world, as well as its future promise.",
@@ -378,15 +386,6 @@
       "link": "https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments",
       "summary": "Cyber threats across Latin America are increasingly targeting government systems, from disruptive attacks in Puerto Rico to a surge of probes against Colombia’s health sector.",
       "published": "Wed, 01 Apr 2026 16:52:54 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Venom Stealer MaaS Platform Commoditizes ClickFix Attacks",
-      "link": "https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks",
-      "summary": "A new service on the cybercrime market provides automated capabilities to create persistent information-stealing social engineering attacks.",
-      "published": "Wed, 01 Apr 2026 14:54:23 GMT",
       "value_score": 10,
       "value_signals": []
     },

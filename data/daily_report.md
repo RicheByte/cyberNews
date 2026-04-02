@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-02 20:30 UTC  
+> **Last Updated:** 2026-04-02 22:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**threat actor hacked** • **high severity vulnerabilities** • **rsac 2026 conference** • **threat actors behind** • **ai agents variance** • **twitter whistleblower complaint** • **service ddos doxing** • **nacogdoches memorial hospital** • **hitachi energy ellipse** • **exploiting vacant homes** • **1 million emails** • **cisco patches critical** • **agents autonomous programs** • **april 1 2026** • **27 2026 posing** • **ransomware attack whether** • **malicious cyber actors** • **darksword exploit protection** • **darksword exploit kit** • **250 000 affected**
+**threat actor hacked** • **service ddos doxing** • **high severity vulnerabilities** • **rsac 2026 conference** • **least 280 million** • **1 million emails** • **ai agents variance** • **github threat actors** • **threat actors behind** • **twitter whistleblower complaint** • **nacogdoches memorial hospital** • **hitachi energy ellipse** • **drift protocol lost** • **cisco patches critical** • **agents autonomous programs** • **april 1 2026** • **27 2026 posing** • **ransomware attack whether** • **darksword exploit protection** • **darksword exploit kit**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
 - [Drift loses $280 million as hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/)
 - [Residential proxies evaded IP reputation checks in 78% of 4B sessions](https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/)
 - [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
@@ -34,7 +35,6 @@
 - [Medtech giant Stryker fully operational after data-wiping attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/)
 - [Critical Cisco IMC auth bypass gives attackers Admin access](https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/)
 - [Microsoft links Classic Outlook issue to email delivery problems](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/)
-- [Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/)
 
 ### Krebs on Security
 
@@ -50,13 +50,13 @@
 ### Dark Reading
 
 - [Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026](https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026)
+- [Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate](https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate)
 - [Security Bosses Are All-In on AI. Here's Why](https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai)
 - [RSAC 2026: AI Dominates, But Community Remains Key to Security](https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community)
 - [Bank Trojan 'Casbaneiro' Worms Through Latin America](https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america)
 - [Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense](https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense)
 - [LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut](https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut)
 - [Cyberattacks Intensify Pressure on Latin American Governments](https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments)
-- [Venom Stealer MaaS Platform Commoditizes ClickFix Attacks](https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks)
 
 ### Security Week
 

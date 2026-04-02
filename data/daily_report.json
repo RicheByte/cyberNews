@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02 01:53",
+  "last_updated": "2026-04-02 04:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "wago gmbh co",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "things iot devices",
-      "mentions": 161
+      "mentions": 162
     },
     {
       "keyword": "1 million emails",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 100
+      "mentions": 101
     },
     {
       "keyword": "receive security updates",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1199
+      "mentions": 1200
     },
     {
       "keyword": "tenant identifier parameter",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "supply chain compromise",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 144
+      "mentions": 145
     },
     {
       "keyword": "s already inside",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
@@ -393,6 +393,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Linx Security Raises $50 Million for Identity Security and Governance",
+      "link": "https://www.securityweek.com/linx-security-raises-50-million-for-identity-security-and-governance/",
+      "summary": "The company will accelerate product development, scale go-to-market efforts, and expand its global footprint. The post Linx Security Raises $50 Million for Identity Security and Governance appeared first on SecurityWeek .",
+      "published": "Thu, 02 Apr 2026 04:04:19 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Depthfirst Raises $80 Million in Series B Funding",
       "link": "https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/",
       "summary": "The startup will expand its AI research team, train additional security models, and scale enterprise adoption. The post Depthfirst Raises $80 Million in Series B Funding appeared first on SecurityWeek .",
@@ -461,15 +470,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Axios NPM Package Breached in North Korean Supply Chain Attack",
-      "link": "https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/",
-      "summary": "A long-lived NPM access token was used to bypass the GitHub Actions OIDC-based CI/CD publishing workflow and push backdoored package versions. The post Axios NPM Package Breached in North Korean Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Wed, 01 Apr 2026 08:45:47 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

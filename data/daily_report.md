@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-02 01:53 UTC  
+> **Last Updated:** 2026-04-02 04:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Linx Security Raises $50 Million for Identity Security and Governance](https://www.securityweek.com/linx-security-raises-50-million-for-identity-security-and-governance/)
 - [Depthfirst Raises $80 Million in Series B Funding](https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/)
 - [Toy Giant Hasbro Hit by Cyberattack](https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/)
 - [New DeepLoad Malware Dropped in ClickFix Attacks](https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/)
@@ -67,7 +68,6 @@
 - [FBI Warns of Data Security Risks From China-Made Mobile Apps](https://www.securityweek.com/fbi-warns-of-data-security-risks-from-china-made-mobile-apps/)
 - [US Charges Uranium Crypto Exchange Hacker](https://www.securityweek.com/us-charges-uranium-crypto-exchange-hacker/)
 - [Webinar Today: Agentic AI vs. Identity’s Last Mile Problem](https://www.securityweek.com/webinar-today-agentic-ai-vs-identitys-last-mile-problem/)
-- [Axios NPM Package Breached in North Korean Supply Chain Attack](https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/)
 
 ### Threatpost
 

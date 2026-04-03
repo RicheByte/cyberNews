@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-04-03 08:46",
+  "last_updated": "2026-04-03 10:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "threat actor hacked",
+    "t mobile sets",
     "service ddos doxing",
     "rsac 2026 conference",
-    "ai agents variance",
-    "github threat actors",
     "threat actors behind",
+    "github threat actors",
     "twitter whistleblower complaint",
     "nacogdoches memorial hospital",
     "hitachi energy ellipse",
-    "1 million emails",
-    "cisco patches critical",
-    "agents autonomous programs",
-    "april 1 2026",
-    "27 2026 posing",
-    "ransomware attack whether",
     "darksword exploit protection",
     "darksword exploit kit",
-    "250 000 affected",
+    "cisco patches critical",
+    "april 1 2026",
+    "ransomware attack whether",
     "malicious cyber actors",
-    "unauthenticated remote attacker"
+    "250 000 affected",
+    "mobile operating systems",
+    "jasper report vulnerability",
+    "post critical vulnerability",
+    "yokogawa centum vp"
   ],
   "trending": [
     {
       "keyword": "threat actor hacked",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "t mobile sets",
+      "mentions": 1
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 158
+      "mentions": 159
     },
     {
       "keyword": "rsac 2026 conference",
-      "mentions": 47
-    },
-    {
-      "keyword": "ai agents variance",
-      "mentions": 12
-    },
-    {
-      "keyword": "github threat actors",
-      "mentions": 5
+      "mentions": 48
     },
     {
       "keyword": "threat actors behind",
-      "mentions": 34
+      "mentions": 35
+    },
+    {
+      "keyword": "github threat actors",
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1213
+      "mentions": 1214
     },
     {
       "keyword": "nacogdoches memorial hospital",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "hitachi energy ellipse",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "1 million emails",
-      "mentions": 18
+      "keyword": "darksword exploit protection",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
+      "link": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
+      "summary": "Cybersecurity researchers have discovered a new version of the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the trojan was discovered targeting both the mobile operating systems. The malware has been found to conceal itself within seemingly benign apps, such as enterprise messengers and food delivery services, while",
+      "published": "Fri, 03 Apr 2026 14:40:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
+      "link": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
+      "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1, 2026. \"Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durable nonces, resulting in a rapid takeover of Drift’s Security Council administrative powers,\" the&",
+      "published": "Fri, 03 Apr 2026 14:05:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
@@ -130,27 +148,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
-      "link": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html",
-      "summary": "Apple on Wednesday expanded the availability of iOS 18.7.7 and iPadOS 18.7.7 to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known as DarkSword. \"We enabled the availability of iOS 18.7.7 for more devices on April 1, 2026, so users with Automatic Updates turned on can automatically receive important security",
-      "published": "Thu, 02 Apr 2026 12:39:00 +0530",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
-      "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE. As part of the attacks, the threat actors, tracked as UAC-0255, sent emails on March 26 and 27, 2026, posing as CERT-UA to distribute a password-protected ZIP archive",
-      "published": "Wed, 01 Apr 2026 21:40:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
+      "source": "BleepingComputer",
+      "title": "Man admits to locking thousands of Windows devices in extortion plot",
+      "link": "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/",
+      "summary": "A former core infrastructure engineer has pleaded guilty to locking Windows admins out of 254 servers as part of a failed extortion plot targeting his employer, an industrial company headquartered in Somerset County, New Jersey. [...]",
+      "published": "Fri, 03 Apr 2026 05:04:54 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -223,15 +227,6 @@
       "value_signals": [
         "RCE"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Medtech giant Stryker fully operational after data-wiping attack",
-      "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
-      "summary": "Stryker Corporation, one of the world's leading medical technology companies, says it's fully operational three weeks after many of its systems were wiped out in a cyberattack claimed by the Iranian-linked Handala hacktivist group. [...]",
-      "published": "Thu, 02 Apr 2026 09:28:39 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -390,6 +385,26 @@
     },
     {
       "source": "Security Week",
+      "title": "T-Mobile Sets the Record Straight on Latest Data Breach Filing",
+      "link": "https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/",
+      "summary": "The cybersecurity incident involved an insider and had a limited impact, the telecoms giant told SecurityWeek. The post T-Mobile Sets the Record Straight on Latest Data Breach Filing appeared first on SecurityWeek .",
+      "published": "Fri, 03 Apr 2026 10:30:00 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "North Korean Hackers Drain $285 Million From Drift in 10 Seconds",
+      "link": "https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/",
+      "summary": "The attackers prepared infrastructure and multiple nonce-based transactions, took over an admin key, and drained five vaults. The post North Korean Hackers Drain $285 Million From Drift in 10 Seconds appeared first on SecurityWeek .",
+      "published": "Fri, 03 Apr 2026 09:46:06 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Critical Vulnerability in Claude Code Emerges Days After Source Leak",
       "link": "https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/",
       "summary": "Within days of each other, Anthropic first leaked the source code to Claude Code, and then a critical vulnerability was found by Adversa AI. The post Critical Vulnerability in Claude Code Emerges Days After Source Leak appeared first on SecurityWeek .",
@@ -451,24 +466,6 @@
       "link": "https://www.securityweek.com/mercor-hit-by-litellm-supply-chain-attack/",
       "summary": "The AI recruiting firm is investigating the incident as Lapsus$ claimed the theft of 4TB of Mercor data. The post Mercor Hit by LiteLLM Supply Chain Attack appeared first on SecurityWeek .",
       "published": "Thu, 02 Apr 2026 10:42:05 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Sophisticated CrystalX RAT Emerges",
-      "link": "https://www.securityweek.com/sophisticated-crystalx-rat-emerges/",
-      "summary": "The malware can spy on victims, steal their information, and make configuration changes on devices. The post Sophisticated CrystalX RAT Emerges appeared first on SecurityWeek .",
-      "published": "Thu, 02 Apr 2026 09:51:07 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents",
-      "link": "https://www.securityweek.com/variance-raises-21-5m-for-compliance-investigation-platform-powered-by-ai-agents/",
-      "summary": "Variance has raised a total of $26 million in funding and the latest investment will fuel platform growth. The post Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents appeared first on SecurityWeek .",
-      "published": "Thu, 02 Apr 2026 08:01:49 +0000",
       "value_score": 10,
       "value_signals": []
     },

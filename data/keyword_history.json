@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 379,
+      "count": 380,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -258,7 +258,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1213,
+      "count": 1214,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3084,10 +3084,11 @@
       ]
     },
     "jasper report vulnerability": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-12",
-        "2026-01-13"
+        "2026-01-13",
+        "2026-04-03"
       ]
     },
     "ordered government agencies": {
@@ -10438,7 +10439,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10480,7 +10481,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10659,7 +10660,7 @@
       ]
     },
     "threat actors behind": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11728,14 +11729,14 @@
       ]
     },
     "threat actor hacked": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "cisco patches critical": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11755,14 +11756,14 @@
       ]
     },
     "nacogdoches memorial hospital": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "250 000 affected": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11775,14 +11776,14 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "april 1 2026": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11796,21 +11797,21 @@
       ]
     },
     "ransomware attack whether": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "darksword exploit protection": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "darksword exploit kit": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11824,7 +11825,7 @@
       ]
     },
     "github threat actors": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11836,20 +11837,33 @@
         "2026-04-02",
         "2026-04-03"
       ]
+    },
+    "t mobile sets": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
+    },
+    "mobile operating systems": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
+    },
+    "post critical vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
+    },
+    "yokogawa centum vp": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-25 08:43",
-      "articles": 56,
-      "top_keywords": [
-        "zero trust bridging",
-        "iran war unleashing",
-        "credentials cybersecurity researchers",
-        "help power critical",
-        "steal enterprise credentials"
-      ]
-    },
     {
       "timestamp": "2026-03-25 10:42",
       "articles": 56,
@@ -12937,6 +12951,17 @@
         "rsac 2026 conference",
         "ai agents variance",
         "github threat actors"
+      ]
+    },
+    {
+      "timestamp": "2026-04-03 10:37",
+      "articles": 56,
+      "top_keywords": [
+        "threat actor hacked",
+        "t mobile sets",
+        "service ddos doxing",
+        "rsac 2026 conference",
+        "threat actors behind"
       ]
     }
   ]

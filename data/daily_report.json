@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 04:26",
+  "last_updated": "2026-04-03 07:01",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "service ddos doxing",
     "high severity vulnerabilities",
     "rsac 2026 conference",
-    "least 280 million",
-    "1 million emails",
     "ai agents variance",
     "github threat actors",
     "threat actors behind",
     "twitter whistleblower complaint",
     "nacogdoches memorial hospital",
     "hitachi energy ellipse",
-    "drift protocol lost",
+    "1 million emails",
     "cisco patches critical",
     "agents autonomous programs",
     "april 1 2026",
     "27 2026 posing",
     "ransomware attack whether",
     "darksword exploit protection",
-    "darksword exploit kit"
+    "darksword exploit kit",
+    "250 000 affected",
+    "malicious cyber actors"
   ],
   "trending": [
     {
       "keyword": "threat actor hacked",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 156
+      "mentions": 157
     },
     {
       "keyword": "high severity vulnerabilities",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "rsac 2026 conference",
-      "mentions": 45
-    },
-    {
-      "keyword": "least 280 million",
-      "mentions": 3
-    },
-    {
-      "keyword": "1 million emails",
-      "mentions": 16
+      "mentions": 46
     },
     {
       "keyword": "ai agents variance",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "github threat actors",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "threat actors behind",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1211
+      "mentions": 1212
+    },
+    {
+      "keyword": "nacogdoches memorial hospital",
+      "mentions": 9
+    },
+    {
+      "keyword": "hitachi energy ellipse",
+      "mentions": 7
     }
   ],
   "articles": [
@@ -154,6 +154,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
+      "link": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
+      "summary": "The European Union's Cybersecurity Service (CERT-EU) has attributed the European Commission cloud hack to the TeamPCP threat group, saying the resulting breach exposed the data of at least 29 other Union entities. [...]",
+      "published": "Fri, 03 Apr 2026 02:33:34 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Claude Code leak used to push infostealer malware on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
       "summary": "Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware. [...]",
@@ -166,8 +177,8 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Drift loses $280 million as hackers seize Security Council powers",
-      "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
+      "title": "Drift loses $280 million North Korean hackers seize Security Council powers",
+      "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
       "summary": "The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
       "published": "Thu, 02 Apr 2026 15:03:39 -0400",
       "value_score": 10,
@@ -224,15 +235,6 @@
         "Auth bypass ×2",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft links Classic Outlook issue to email delivery problems",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/",
-      "summary": "Microsoft is investigating a known issue that prevents some Classic Outlook users from sending emails via Outlook.com. [...]",
-      "published": "Thu, 02 Apr 2026 05:12:12 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

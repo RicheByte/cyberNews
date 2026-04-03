@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-03 04:26 UTC |
+| 🕐 Last Updated | 2026-04-03 07:01 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`threat actor hacked` • `service ddos doxing` • `high severity vulnerabilities` • `rsac 2026 conference` • `least 280 million` • `1 million emails` • `ai agents variance` • `github threat actors` • `threat actors behind` • `twitter whistleblower complaint`
+`threat actor hacked` • `service ddos doxing` • `high severity vulnerabilities` • `rsac 2026 conference` • `ai agents variance` • `github threat actors` • `threat actors behind` • `twitter whistleblower complaint` • `nacogdoches memorial hospital` • `hitachi energy ellipse`
 
 ## 📄 Reports
 

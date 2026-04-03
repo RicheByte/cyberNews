@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-03 14:38 UTC  
+> **Last Updated:** 2026-04-03 16:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**t mobile sets** • **service ddos doxing** • **rsac 2026 conference** • **april 1 2026** • **zero click exploits** • **github threat actors** • **twitter whistleblower complaint** • **supply chain oversight** • **supply chain compromise** • **hitachi energy ellipse** • **food delivery services** • **everyday apps combined** • **axios npm package** • **outdated mobile devices** • **software supply chain** • **frequent attack vector** • **clients security posture** • **mobile operating systems** • **yokogawa centum vp** • **victim's username password**
+**t mobile sets** • **service ddos doxing** • **april 1 2026** • **supply chain compromise** • **zero click exploits** • **github threat actors** • **twitter whistleblower complaint** • **iran's intelligence agencies** • **hitachi energy ellipse** • **food delivery services** • **everyday apps combined** • **axios npm package** • **software supply chain** • **rsac 2026 conference** • **outdated mobile devices** • **frequent attack vector** • **clients security posture** • **mobile operating systems** • **yokogawa centum vp** • **victim's username password**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting](https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting)
 - [Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication](https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication)
-- [Source Code Leaks Highlight Lack of Supply Chain Oversight](https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight)
+- [Claude Source Code Leak Highlights Big Supply Chain Missteps](https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight)
 - [Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain](https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain)
 - [CrowdStrike Next-Gen SIEM Can Now Ingest Microsoft Defender Telemetry](https://www.darkreading.com/endpoint-security/crowdstrike-falcon-ingest-microsoft-defender-telemetry)
 - [Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026](https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026)
 - [Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate](https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate)
 - [Security Bosses Are All-In on AI. Here's Why](https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai)
-- [RSAC 2026: AI Dominates, But Community Remains Key to Security](https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community)
 
 ### Security Week
 

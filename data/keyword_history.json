@@ -258,7 +258,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1216,
+      "count": 1217,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -7852,7 +7852,7 @@
       ]
     },
     "victim's username password": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9457,7 +9457,7 @@
       ]
     },
     "supply chain compromise": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10254,7 +10254,7 @@
       ]
     },
     "software supply chain": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-18",
         "2026-04-03"
@@ -10442,7 +10442,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10484,7 +10484,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10525,7 +10525,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10540,7 +10540,8 @@
         "2026-03-30",
         "2026-03-31",
         "2026-04-01",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-03"
       ]
     },
     "missing authentication combined": {
@@ -11114,7 +11115,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -11780,14 +11781,14 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "april 1 2026": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11829,7 +11830,7 @@
       ]
     },
     "github threat actors": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11843,13 +11844,13 @@
       ]
     },
     "t mobile sets": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-03"
       ]
     },
     "mobile operating systems": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-03"
       ]
@@ -11861,13 +11862,13 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-03"
       ]
     },
     "zero click exploits": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-03"
       ]
@@ -11879,25 +11880,25 @@
       ]
     },
     "everyday apps combined": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-03"
       ]
     },
     "axios npm package": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-03"
       ]
     },
     "outdated mobile devices": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-03"
       ]
     },
     "clients security posture": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-03"
       ]
@@ -11921,24 +11922,13 @@
       ]
     },
     "food delivery services": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-03"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-25 14:54",
-      "articles": 56,
-      "top_keywords": [
-        "iran war unleashing",
-        "agents autonomous programs",
-        "launch ransomware attacks",
-        "ai speeds attacks",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-03-25 16:57",
       "articles": 56,
@@ -13025,6 +13015,17 @@
         "service ddos doxing",
         "rsac 2026 conference",
         "april 1 2026",
+        "zero click exploits"
+      ]
+    },
+    {
+      "timestamp": "2026-04-03 16:34",
+      "articles": 56,
+      "top_keywords": [
+        "t mobile sets",
+        "service ddos doxing",
+        "april 1 2026",
+        "supply chain compromise",
         "zero click exploits"
       ]
     }

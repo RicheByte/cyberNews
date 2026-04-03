@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-03 07:01 UTC  
+> **Last Updated:** 2026-04-03 08:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**threat actor hacked** • **service ddos doxing** • **high severity vulnerabilities** • **rsac 2026 conference** • **ai agents variance** • **github threat actors** • **threat actors behind** • **twitter whistleblower complaint** • **nacogdoches memorial hospital** • **hitachi energy ellipse** • **1 million emails** • **cisco patches critical** • **agents autonomous programs** • **april 1 2026** • **27 2026 posing** • **ransomware attack whether** • **darksword exploit protection** • **darksword exploit kit** • **250 000 affected** • **malicious cyber actors**
+**threat actor hacked** • **service ddos doxing** • **rsac 2026 conference** • **ai agents variance** • **github threat actors** • **threat actors behind** • **twitter whistleblower complaint** • **nacogdoches memorial hospital** • **hitachi energy ellipse** • **1 million emails** • **cisco patches critical** • **agents autonomous programs** • **april 1 2026** • **27 2026 posing** • **ransomware attack whether** • **darksword exploit protection** • **darksword exploit kit** • **250 000 affected** • **malicious cyber actors** • **unauthenticated remote attacker**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
 - [CERT-EU: European Commission hack exposes data of 30 EU entities](https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/)
 - [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
 - [Drift loses $280 million North Korean hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/)
@@ -34,7 +35,6 @@
 - [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
 - [New Progress ShareFile flaws can be chained in pre-auth RCE attacks](https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/)
 - [Medtech giant Stryker fully operational after data-wiping attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/)
-- [Critical Cisco IMC auth bypass gives attackers Admin access](https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/)
 
 ### Krebs on Security
 

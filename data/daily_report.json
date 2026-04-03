@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-04-03 07:01",
+  "last_updated": "2026-04-03 08:46",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "threat actor hacked",
     "service ddos doxing",
-    "high severity vulnerabilities",
     "rsac 2026 conference",
     "ai agents variance",
     "github threat actors",
@@ -22,48 +21,49 @@
     "darksword exploit protection",
     "darksword exploit kit",
     "250 000 affected",
-    "malicious cyber actors"
+    "malicious cyber actors",
+    "unauthenticated remote attacker"
   ],
   "trending": [
     {
       "keyword": "threat actor hacked",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 157
-    },
-    {
-      "keyword": "high severity vulnerabilities",
-      "mentions": 9
+      "mentions": 158
     },
     {
       "keyword": "rsac 2026 conference",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "ai agents variance",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "github threat actors",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "threat actors behind",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1212
+      "mentions": 1213
     },
     {
       "keyword": "nacogdoches memorial hospital",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "hitachi energy ellipse",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "1 million emails",
+      "mentions": 18
     }
   ],
   "articles": [
@@ -154,6 +154,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft now force upgrades unmanaged Windows 11 24H2 PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/",
+      "summary": "Starting this week, Microsoft has begun force-upgrading unmanaged devices running Windows 11 24H2 Home and Pro editions to Windows 11 25H2. [...]",
+      "published": "Fri, 03 Apr 2026 03:55:40 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
       "link": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
       "summary": "The European Union's Cybersecurity Service (CERT-EU) has attributed the European Commission cloud hack to the TeamPCP threat group, saying the resulting breach exposed the data of at least 29 other Union entities. [...]",
@@ -223,18 +232,6 @@
       "published": "Thu, 02 Apr 2026 09:28:39 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
-      "summary": "Cisco has patched several critical and high-severity vulnerabilities, including an Integrated Management Controller (IMC) authentication bypass that enables attackers to gain Admin access. [...]",
-      "published": "Thu, 02 Apr 2026 07:01:14 -0400",
-      "value_score": 56,
-      "value_signals": [
-        "Auth bypass ×2",
-        "High severity ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 378,
+      "count": 379,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -258,7 +258,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1212,
+      "count": 1213,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2341,10 +2341,11 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-07",
-        "2026-01-08"
+        "2026-01-08",
+        "2026-04-03"
       ]
     },
     "remote authenticated attacker": {
@@ -9198,7 +9199,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -10437,7 +10438,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10479,7 +10480,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10658,7 +10659,7 @@
       ]
     },
     "threat actors behind": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11653,7 +11654,7 @@
       ]
     },
     "1 million emails": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-04-01",
         "2026-04-02",
@@ -11696,7 +11697,7 @@
       ]
     },
     "ai agents variance": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11727,14 +11728,14 @@
       ]
     },
     "threat actor hacked": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "cisco patches critical": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11754,14 +11755,14 @@
       ]
     },
     "nacogdoches memorial hospital": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "250 000 affected": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11774,42 +11775,42 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "april 1 2026": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "27 2026 posing": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "ransomware attack whether": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "darksword exploit protection": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "darksword exploit kit": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11823,7 +11824,7 @@
       ]
     },
     "github threat actors": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11838,17 +11839,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-25 06:56",
-      "articles": 56,
-      "top_keywords": [
-        "zero trust bridging",
-        "iran war unleashing",
-        "supply chain rampage",
-        "credentials cybersecurity researchers",
-        "help power critical"
-      ]
-    },
     {
       "timestamp": "2026-03-25 08:43",
       "articles": 56,
@@ -12936,6 +12926,17 @@
         "high severity vulnerabilities",
         "rsac 2026 conference",
         "ai agents variance"
+      ]
+    },
+    {
+      "timestamp": "2026-04-03 08:46",
+      "articles": 56,
+      "top_keywords": [
+        "threat actor hacked",
+        "service ddos doxing",
+        "rsac 2026 conference",
+        "ai agents variance",
+        "github threat actors"
       ]
     }
   ]

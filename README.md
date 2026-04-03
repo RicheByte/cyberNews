@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-03 16:34 UTC |
+| 🕐 Last Updated | 2026-04-03 18:39 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`t mobile sets` • `service ddos doxing` • `april 1 2026` • `supply chain compromise` • `zero click exploits` • `github threat actors` • `twitter whistleblower complaint` • `iran's intelligence agencies` • `hitachi energy ellipse` • `food delivery services`
+`t mobile sets` • `service ddos doxing` • `github threat actors` • `april 1 2026` • `supply chain compromise` • `zero click exploits` • `things iot devices` • `web shells rely` • `twitter whistleblower complaint` • `iran's intelligence agencies`
 
 ## 📄 Reports
 

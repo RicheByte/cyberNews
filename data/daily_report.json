@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-04-03 16:34",
+  "last_updated": "2026-04-03 18:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "t mobile sets",
     "service ddos doxing",
+    "github threat actors",
     "april 1 2026",
     "supply chain compromise",
     "zero click exploits",
-    "github threat actors",
+    "things iot devices",
+    "web shells rely",
     "twitter whistleblower complaint",
     "iran's intelligence agencies",
     "hitachi energy ellipse",
     "food delivery services",
     "everyday apps combined",
     "axios npm package",
-    "software supply chain",
+    "adopt ios 26",
     "rsac 2026 conference",
+    "malicious cyber actors",
+    "oauth based phishing",
     "outdated mobile devices",
-    "frequent attack vector",
-    "clients security posture",
-    "mobile operating systems",
-    "yokogawa centum vp",
-    "victim's username password"
+    "clients security posture"
   ],
   "trending": [
     {
       "keyword": "t mobile sets",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 162
-    },
-    {
-      "keyword": "april 1 2026",
-      "mentions": 12
-    },
-    {
-      "keyword": "supply chain compromise",
-      "mentions": 20
-    },
-    {
-      "keyword": "zero click exploits",
-      "mentions": 3
+      "mentions": 163
     },
     {
       "keyword": "github threat actors",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "april 1 2026",
+      "mentions": 13
+    },
+    {
+      "keyword": "supply chain compromise",
+      "mentions": 21
+    },
+    {
+      "keyword": "zero click exploits",
+      "mentions": 4
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 167
+    },
+    {
+      "keyword": "web shells rely",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1217
+      "mentions": 1218
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 134
-    },
-    {
-      "keyword": "hitachi energy ellipse",
-      "mentions": 12
-    },
-    {
-      "keyword": "food delivery services",
-      "mentions": 2
+      "mentions": 135
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+      "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
+      "summary": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025, following a two-year period of minimal targeting in the region. The campaign has been attributed to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo Panda. \"This TA416 activity included multiple",
+      "published": "Fri, 03 Apr 2026 23:04:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
+      "link": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
+      "summary": "Threat actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research Team. \"Instead of exposing command execution through URL parameters or request bodies, these web shells rely on threat actor-supplied cookie values to gate execution,",
+      "published": "Fri, 03 Apr 2026 21:02:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
@@ -132,22 +154,27 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
-      "summary": "The latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this week. Things are moving fast. The list includes researchers chaining small bugs together to create massive backdoors, old software flaws",
-      "published": "Thu, 02 Apr 2026 18:15:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
+      "link": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+      "summary": "Telehealth giant Hims & Hers Health is warning that it suffered a data breach after support tickets were stolen from a third-party customer service platform. [...]",
+      "published": "Fri, 03 Apr 2026 13:41:11 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×3"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
-      "link": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
-      "summary": "A financially motivated operation codenamed REF1695 has been observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November 2023. \"Beyond cryptomining, the threat actor monetizes infections through CPA (Cost Per Action) fraud, directing victims to content locker pages under the guise of software registration,\" Elastic",
-      "published": "Thu, 02 Apr 2026 17:12:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
+      "summary": "The Qilin ransomware group has claimed responsibility for an attack against Die Linke ('The Left'), forcing an IT systems outage at the political party, and threatening sensitive data leak. [...]",
+      "published": "Fri, 03 Apr 2026 12:36:44 -0400",
+      "value_score": 58,
+      "value_signals": [
+        "Ransomware ×2",
+        "Breach/leak"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -211,24 +238,6 @@
         "Breach/leak ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Drift loses $280 million North Korean hackers seize Security Council powers",
-      "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
-      "summary": "The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
-      "published": "Thu, 02 Apr 2026 15:03:39 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
-      "summary": "Researchers warn that residential proxies used to route malicious traffic are a big problem for IP reputation systems, as there is no clear distinction between attackers and legitimate users. [...]",
-      "published": "Thu, 02 Apr 2026 11:21:02 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -313,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Apple Breaks Precedent, Patches DarkSword for iOS 18",
+      "link": "https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18",
+      "summary": "Even organizations with users unwilling or unable to adopt iOS 26 can now protect themselves from a severe mobile OS-cracking tool.",
+      "published": "Fri, 03 Apr 2026 17:08:57 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting",
       "link": "https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting",
       "summary": "As organizations disclose breaches tied to TeamPCP's supply chain attacks, ShinyHunters and Lapsus$ are getting involved, taking credit, and creating a murky situation for enterprises.",
@@ -374,15 +392,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate",
       "summary": "The company's 8-K filing notes \"unauthorized access\" and that it has activated business continuity plans and taken some systems offline.",
       "published": "Thu, 02 Apr 2026 20:28:36 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Security Bosses Are All-In on AI. Here's Why",
-      "link": "https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai",
-      "summary": "CISOs are bullish on AI and have big plans to roll out future tools. We talk to Reddit CISO Frederick Lee and leading analyst Dave Gruber about how AI is working out in the real world, as well as its future promise.",
-      "published": "Thu, 02 Apr 2026 19:12:45 GMT",
       "value_score": 10,
       "value_signals": []
     },

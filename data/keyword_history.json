@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 380,
+      "count": 381,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -258,7 +258,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1214,
+      "count": 1215,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -7852,7 +7852,7 @@
       ]
     },
     "victim's username password": {
-      "count": 163,
+      "count": 164,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7882,7 +7882,8 @@
         "2026-03-29",
         "2026-03-30",
         "2026-03-31",
-        "2026-04-01"
+        "2026-04-01",
+        "2026-04-03"
       ]
     },
     "aiding north korean": {
@@ -9456,12 +9457,13 @@
       ]
     },
     "supply chain compromise": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-11",
         "2026-03-12",
         "2026-04-01",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-03"
       ]
     },
     "patched vulnerabilities relate": {
@@ -10439,7 +10441,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10481,7 +10483,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -11776,14 +11778,14 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "april 1 2026": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11825,7 +11827,7 @@
       ]
     },
     "github threat actors": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11839,13 +11841,13 @@
       ]
     },
     "t mobile sets": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-03"
       ]
     },
     "mobile operating systems": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-03"
       ]
@@ -11857,6 +11859,54 @@
       ]
     },
     "yokogawa centum vp": {
+      "count": 2,
+      "dates": [
+        "2026-04-03"
+      ]
+    },
+    "zero click exploits": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
+    },
+    "long term outages": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
+    },
+    "everyday apps combined": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
+    },
+    "axios npm package": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
+    },
+    "outdated mobile devices": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
+    },
+    "clients security posture": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
+    },
+    "upload arbitrary files": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
+    },
+    "unc1069 social engineering": {
       "count": 1,
       "dates": [
         "2026-04-03"
@@ -11864,17 +11914,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-25 10:42",
-      "articles": 56,
-      "top_keywords": [
-        "zero trust bridging",
-        "iran war unleashing",
-        "credentials cybersecurity researchers",
-        "threat actor known",
-        "steal enterprise credentials"
-      ]
-    },
     {
       "timestamp": "2026-03-25 12:58",
       "articles": 56,
@@ -12962,6 +13001,17 @@
         "service ddos doxing",
         "rsac 2026 conference",
         "threat actors behind"
+      ]
+    },
+    {
+      "timestamp": "2026-04-03 12:53",
+      "articles": 56,
+      "top_keywords": [
+        "t mobile sets",
+        "supply chain compromise",
+        "service ddos doxing",
+        "rsac 2026 conference",
+        "april 1 2026"
       ]
     }
   ]

@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-04-03 10:37",
+  "last_updated": "2026-04-03 12:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "threat actor hacked",
     "t mobile sets",
+    "supply chain compromise",
     "service ddos doxing",
     "rsac 2026 conference",
-    "threat actors behind",
-    "github threat actors",
-    "twitter whistleblower complaint",
-    "nacogdoches memorial hospital",
-    "hitachi energy ellipse",
-    "darksword exploit protection",
-    "darksword exploit kit",
-    "cisco patches critical",
     "april 1 2026",
-    "ransomware attack whether",
+    "github threat actors",
+    "zero click exploits",
+    "twitter whistleblower complaint",
+    "long term outages",
+    "hitachi energy ellipse",
+    "everyday apps combined",
+    "axios npm package",
     "malicious cyber actors",
-    "250 000 affected",
+    "outdated mobile devices",
     "mobile operating systems",
-    "jasper report vulnerability",
-    "post critical vulnerability",
-    "yokogawa centum vp"
+    "clients security posture",
+    "yokogawa centum vp",
+    "victim's username password",
+    "upload arbitrary files",
+    "unc1069 social engineering"
   ],
   "trending": [
     {
-      "keyword": "threat actor hacked",
-      "mentions": 11
+      "keyword": "t mobile sets",
+      "mentions": 2
     },
     {
-      "keyword": "t mobile sets",
-      "mentions": 1
+      "keyword": "supply chain compromise",
+      "mentions": 18
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 159
+      "mentions": 160
     },
     {
       "keyword": "rsac 2026 conference",
-      "mentions": 48
+      "mentions": 49
     },
     {
-      "keyword": "threat actors behind",
-      "mentions": 35
+      "keyword": "april 1 2026",
+      "mentions": 10
     },
     {
       "keyword": "github threat actors",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "zero click exploits",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1214
+      "mentions": 1215
     },
     {
-      "keyword": "nacogdoches memorial hospital",
-      "mentions": 11
+      "keyword": "long term outages",
+      "mentions": 1
     },
     {
       "keyword": "hitachi energy ellipse",
-      "mentions": 9
-    },
-    {
-      "keyword": "darksword exploit protection",
-      "mentions": 7
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
+      "summary": "The maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked as UNC1069. Maintainer Jason Saayman said the attackers tailored their social engineering efforts \"specifically to me\" by first approaching him under the guise of the founder of a",
+      "published": "Fri, 03 Apr 2026 16:34:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
+      "link": "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html",
+      "summary": "The next major breach hitting your clients probably won't come from inside their walls. It'll come through a vendor they trust, a SaaS tool their finance team signed up for, or a subcontractor nobody in IT knows about. That's the new attack surface, and most organizations are underprepared for it. Cynomi's new guide, Securing the Modern Perimeter: The Rise of Third-Party",
+      "published": "Fri, 03 Apr 2026 16:30:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
@@ -130,22 +150,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "The State of Trusted Open Source Report",
-      "link": "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html",
-      "summary": "In December 2025, we shared the first-ever The State of Trusted Open Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, images, language libraries, and builds. These insights shed light on what teams pull, deploy, and maintain day to day, alongside the vulnerabilities and",
-      "published": "Thu, 02 Apr 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
-      "link": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
-      "summary": "Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with spyware. According to reports from Italian newspaper La Repubblica and news agency ANSA, the vast majority of the targets are located in Italy. It's assessed that the threat actors behind the activity used social engineering",
-      "published": "Thu, 02 Apr 2026 15:21:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Microsoft still working to fix Exchange Online mailbox access issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/",
+      "summary": "Microsoft is investigating and working to resolve Exchange Online mailbox access issues that have intermittently affected Outlook mobile and macOS users for weeks. [...]",
+      "published": "Fri, 03 Apr 2026 07:25:20 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -215,17 +228,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
-      "summary": "Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltration from affected environments. [...]",
-      "published": "Thu, 02 Apr 2026 09:33:11 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
       ]
     },
     {
@@ -311,6 +313,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "CrowdStrike Next-Gen SIEM Can Now Ingest Microsoft Defender Telemetry",
+      "link": "https://www.darkreading.com/endpoint-security/crowdstrike-falcon-ingest-microsoft-defender-telemetry",
+      "summary": "Once CrowdStrike’s nemesis, Microsoft is now a collaborator. A shared interest in Formula 1 helped thaw the years-long fierce rivalry.",
+      "published": "Fri, 03 Apr 2026 11:53:15 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026",
       "link": "https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026",
       "summary": "AI-driven threats, global leadership shifts, and the future of cybersecurity in a rapidly evolving landscape were among the discussions at RSAC 2026 Conference.",
@@ -322,7 +333,7 @@
       "source": "Dark Reading",
       "title": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate",
-      "summary": "The company's 8-K filing notes \"unauthorized access\" and that it's activated business continuity plans and taken some systems offline.",
+      "summary": "The company's 8-K filing notes \"unauthorized access\" and that it has activated business continuity plans and taken some systems offline.",
       "published": "Thu, 02 Apr 2026 20:28:36 GMT",
       "value_score": 10,
       "value_signals": []
@@ -375,13 +386,62 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Cyberattacks Intensify Pressure on Latin American Governments",
-      "link": "https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments",
-      "summary": "Cyber threats across Latin America are increasingly targeting government systems, from disruptive attacks in Puerto Rico to a surge of probes against Colombia’s health sector.",
-      "published": "Wed, 01 Apr 2026 16:52:54 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "TrueConf Zero-Day Exploited in Asian Government Attacks",
+      "link": "https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/",
+      "summary": "A Chinese threat actor exploited the video conferencing platform to perform reconnaissance, escalate privileges, and execute additional payloads. The post TrueConf Zero-Day Exploited in Asian Government Attacks appeared first on SecurityWeek .",
+      "published": "Fri, 03 Apr 2026 12:47:16 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware",
+      "link": "https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Symantec vulnerability, anti-ClickFix mechanism added to macOS, FBI hack classified as major incident. The post In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware appeared first on SecurityWeek .",
+      "published": "Fri, 03 Apr 2026 12:30:53 +0000",
+      "value_score": 70,
+      "value_signals": [
+        "Ransomware ×2",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical ShareFile Flaws Lead to Unauthenticated RCE",
+      "link": "https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/",
+      "summary": "The vulnerabilities can be chained together to bypass authentication and upload arbitrary files to the server. The post Critical ShareFile Flaws Lead to Unauthenticated RCE appeared first on SecurityWeek .",
+      "published": "Fri, 03 Apr 2026 12:12:22 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "RCE ×2",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Mobile Attack Surface Expands as Enterprises Lose Control",
+      "link": "https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/",
+      "summary": "Shadow AI embedded in everyday apps, combined with outdated mobile devices and zero-click exploits, is creating a new and largely unseen mobile risk. The post Mobile Attack Surface Expands as Enterprises Lose Control appeared first on SecurityWeek .",
+      "published": "Fri, 03 Apr 2026 11:00:00 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "React2Shell Exploited in Large-Scale Credential Harvesting Campaign",
+      "link": "https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/",
+      "summary": "Using automated scanning and the Nexus Listener collection framework, the hackers compromised over 750 systems. The post React2Shell Exploited in Large-Scale Credential Harvesting Campaign appeared first on SecurityWeek .",
+      "published": "Fri, 03 Apr 2026 10:55:13 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -414,60 +474,6 @@
         "Breach/leak ×2",
         "High severity ×3"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Apple Rolls Out DarkSword Exploit Protection to More Devices",
-      "link": "https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/",
-      "summary": "The DarkSword exploit kit has been used by both state-sponsored hackers and commercial spyware vendors. The post Apple Rolls Out DarkSword Exploit Protection to More Devices appeared first on SecurityWeek .",
-      "published": "Thu, 02 Apr 2026 16:18:07 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cybersecurity M&A Roundup: 38 Deals Announced in March 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/",
-      "summary": "Significant cybersecurity M&A deals announced by Airbus, Cellebrite, Databricks, Quantum eMotion, Rapid7, and OpenAI. The post Cybersecurity M&A Roundup: 38 Deals Announced in March 2026 appeared first on SecurityWeek .",
-      "published": "Thu, 02 Apr 2026 14:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches Critical and High-Severity Vulnerabilities",
-      "link": "https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/",
-      "summary": "The bugs could lead to authentication bypass, remote code execution, information disclosure, and privilege escalation. The post Cisco Patches Critical and High-Severity Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 02 Apr 2026 12:34:10 +0000",
-      "value_score": 73,
-      "value_signals": [
-        "RCE",
-        "Privilege escalation",
-        "Auth bypass",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "250,000 Affected by Data Breach at Nacogdoches Memorial Hospital",
-      "link": "https://www.securityweek.com/250000-affected-by-data-breach-at-nacogdoches-memorial-hospital/",
-      "summary": "In January 2026, a threat actor hacked the hospital’s internal network and stole personal and health information. The post 250,000 Affected by Data Breach at Nacogdoches Memorial Hospital appeared first on SecurityWeek .",
-      "published": "Thu, 02 Apr 2026 11:57:17 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Mercor Hit by LiteLLM Supply Chain Attack",
-      "link": "https://www.securityweek.com/mercor-hit-by-litellm-supply-chain-attack/",
-      "summary": "The AI recruiting firm is investigating the incident as Lapsus$ claimed the theft of 4TB of Mercor data. The post Mercor Hit by LiteLLM Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Thu, 02 Apr 2026 10:42:05 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

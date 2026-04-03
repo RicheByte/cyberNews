@@ -258,7 +258,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1215,
+      "count": 1216,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -7852,7 +7852,7 @@
       ]
     },
     "victim's username password": {
-      "count": 164,
+      "count": 165,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9457,7 +9457,7 @@
       ]
     },
     "supply chain compromise": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10254,9 +10254,10 @@
       ]
     },
     "software supply chain": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-18"
+        "2026-03-18",
+        "2026-04-03"
       ]
     },
     "shadow ai risk": {
@@ -10441,7 +10442,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 160,
+      "count": 161,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10483,7 +10484,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -11113,11 +11114,12 @@
       ]
     },
     "frequent attack vector": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-03-26",
         "2026-03-29",
-        "2026-03-30"
+        "2026-03-30",
+        "2026-04-03"
       ]
     },
     "things get shaky": {
@@ -11778,14 +11780,14 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "april 1 2026": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11827,7 +11829,7 @@
       ]
     },
     "github threat actors": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11841,13 +11843,13 @@
       ]
     },
     "t mobile sets": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-03"
       ]
     },
     "mobile operating systems": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-03"
       ]
@@ -11859,13 +11861,13 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-03"
       ]
     },
     "zero click exploits": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-03"
       ]
@@ -11877,25 +11879,25 @@
       ]
     },
     "everyday apps combined": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-03"
       ]
     },
     "axios npm package": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-03"
       ]
     },
     "outdated mobile devices": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-03"
       ]
     },
     "clients security posture": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-03"
       ]
@@ -11911,20 +11913,21 @@
       "dates": [
         "2026-04-03"
       ]
+    },
+    "supply chain oversight": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
+    },
+    "food delivery services": {
+      "count": 1,
+      "dates": [
+        "2026-04-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-25 12:58",
-      "articles": 56,
-      "top_keywords": [
-        "iran war unleashing",
-        "steal enterprise credentials",
-        "agents autonomous programs",
-        "twitter whistleblower complaint",
-        "tax related documents"
-      ]
-    },
     {
       "timestamp": "2026-03-25 14:54",
       "articles": 56,
@@ -13012,6 +13015,17 @@
         "service ddos doxing",
         "rsac 2026 conference",
         "april 1 2026"
+      ]
+    },
+    {
+      "timestamp": "2026-04-03 14:38",
+      "articles": 56,
+      "top_keywords": [
+        "t mobile sets",
+        "service ddos doxing",
+        "rsac 2026 conference",
+        "april 1 2026",
+        "zero click exploits"
       ]
     }
   ]

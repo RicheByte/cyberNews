@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-03 12:53 UTC |
+| 🕐 Last Updated | 2026-04-03 14:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`t mobile sets` • `supply chain compromise` • `service ddos doxing` • `rsac 2026 conference` • `april 1 2026` • `github threat actors` • `zero click exploits` • `twitter whistleblower complaint` • `long term outages` • `hitachi energy ellipse`
+`t mobile sets` • `service ddos doxing` • `rsac 2026 conference` • `april 1 2026` • `zero click exploits` • `github threat actors` • `twitter whistleblower complaint` • `supply chain oversight` • `supply chain compromise` • `hitachi energy ellipse`
 
 ## 📄 Reports
 

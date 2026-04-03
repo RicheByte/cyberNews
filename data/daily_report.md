@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-03 12:53 UTC  
+> **Last Updated:** 2026-04-03 14:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**t mobile sets** • **supply chain compromise** • **service ddos doxing** • **rsac 2026 conference** • **april 1 2026** • **github threat actors** • **zero click exploits** • **twitter whistleblower complaint** • **long term outages** • **hitachi energy ellipse** • **everyday apps combined** • **axios npm package** • **malicious cyber actors** • **outdated mobile devices** • **mobile operating systems** • **clients security posture** • **yokogawa centum vp** • **victim's username password** • **upload arbitrary files** • **unc1069 social engineering**
+**t mobile sets** • **service ddos doxing** • **rsac 2026 conference** • **april 1 2026** • **zero click exploits** • **github threat actors** • **twitter whistleblower complaint** • **supply chain oversight** • **supply chain compromise** • **hitachi energy ellipse** • **food delivery services** • **everyday apps combined** • **axios npm package** • **outdated mobile devices** • **software supply chain** • **frequent attack vector** • **clients security posture** • **mobile operating systems** • **yokogawa centum vp** • **victim's username password**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Evolution of Ransomware: Multi-Extortion Ransomware Attacks](https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/)
 - [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
 - [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
 - [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
@@ -34,7 +35,6 @@
 - [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
 - [Drift loses $280 million North Korean hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/)
 - [Residential proxies evaded IP reputation checks in 78% of 4B sessions](https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/)
-- [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication](https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication)
+- [Source Code Leaks Highlight Lack of Supply Chain Oversight](https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight)
+- [Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain](https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain)
 - [CrowdStrike Next-Gen SIEM Can Now Ingest Microsoft Defender Telemetry](https://www.darkreading.com/endpoint-security/crowdstrike-falcon-ingest-microsoft-defender-telemetry)
 - [Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026](https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026)
 - [Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate](https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate)
 - [Security Bosses Are All-In on AI. Here's Why](https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai)
 - [RSAC 2026: AI Dominates, But Community Remains Key to Security](https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community)
-- [Bank Trojan 'Casbaneiro' Worms Through Latin America](https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america)
-- [Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense](https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense)
-- [LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut](https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut)
 
 ### Security Week
 

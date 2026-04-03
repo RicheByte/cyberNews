@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-03 18:39",
+  "last_updated": "2026-04-03 20:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "t mobile sets",
     "service ddos doxing",
-    "github threat actors",
     "april 1 2026",
     "supply chain compromise",
     "zero click exploits",
     "things iot devices",
+    "github threat actors",
     "web shells rely",
     "twitter whistleblower complaint",
     "iran's intelligence agencies",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "t mobile sets",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 163
-    },
-    {
-      "keyword": "github threat actors",
-      "mentions": 10
+      "mentions": 164
     },
     {
       "keyword": "april 1 2026",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "supply chain compromise",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "zero click exploits",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "things iot devices",
-      "mentions": 167
+      "mentions": 168
+    },
+    {
+      "keyword": "github threat actors",
+      "mentions": 11
     },
     {
       "keyword": "web shells rely",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1218
+      "mentions": 1219
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 135
+      "mentions": 136
     }
   ],
   "articles": [
@@ -363,7 +363,7 @@
       "source": "Dark Reading",
       "title": "Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain",
       "link": "https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain",
-      "summary": "The rebuilt Chainguard platform adds deeper security designed to continuously reconcile open-source artifacts across containers, libraries, Actions and skills.",
+      "summary": "The rebuilt Chainguard platform adds deeper security designed to continuously reconcile open source artifacts across containers, libraries, agent skills, and GitHub Actions.",
       "published": "Fri, 03 Apr 2026 12:57:28 GMT",
       "value_score": 10,
       "value_signals": []

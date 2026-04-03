@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 382,
+      "count": 383,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -258,7 +258,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1218,
+      "count": 1219,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1875,7 +1875,7 @@
       ]
     },
     "things iot devices": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -9458,7 +9458,7 @@
       ]
     },
     "supply chain compromise": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10443,7 +10443,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 163,
+      "count": 164,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10485,7 +10485,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10526,7 +10526,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11782,14 +11782,14 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-02",
         "2026-04-03"
       ]
     },
     "april 1 2026": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11831,7 +11831,7 @@
       ]
     },
     "github threat actors": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-02",
         "2026-04-03"
@@ -11845,7 +11845,7 @@
       ]
     },
     "t mobile sets": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-03"
       ]
@@ -11869,7 +11869,7 @@
       ]
     },
     "zero click exploits": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-03"
       ]
@@ -11881,25 +11881,25 @@
       ]
     },
     "everyday apps combined": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-03"
       ]
     },
     "axios npm package": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-03"
       ]
     },
     "outdated mobile devices": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-03"
       ]
     },
     "clients security posture": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-03"
       ]
@@ -11923,42 +11923,31 @@
       ]
     },
     "food delivery services": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-03"
       ]
     },
     "web shells rely": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-03"
       ]
     },
     "adopt ios 26": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-03"
       ]
     },
     "oauth based phishing": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-03"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-25 18:50",
-      "articles": 56,
-      "top_keywords": [
-        "iran war unleashing",
-        "remote code execution",
-        "agents autonomous programs",
-        "citrixbleed2 flaws exploited",
-        "launch ransomware attacks"
-      ]
-    },
     {
       "timestamp": "2026-03-25 20:33",
       "articles": 56,
@@ -13046,6 +13035,17 @@
         "github threat actors",
         "april 1 2026",
         "supply chain compromise"
+      ]
+    },
+    {
+      "timestamp": "2026-04-03 20:30",
+      "articles": 56,
+      "top_keywords": [
+        "t mobile sets",
+        "service ddos doxing",
+        "april 1 2026",
+        "supply chain compromise",
+        "zero click exploits"
       ]
     }
   ]

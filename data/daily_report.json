@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 20:30",
+  "last_updated": "2026-04-03 22:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,61 +9,61 @@
     "supply chain compromise",
     "zero click exploits",
     "things iot devices",
-    "github threat actors",
     "web shells rely",
     "twitter whistleblower complaint",
+    "malicious cyber actors",
     "iran's intelligence agencies",
     "hitachi energy ellipse",
     "food delivery services",
-    "everyday apps combined",
     "axios npm package",
     "adopt ios 26",
     "rsac 2026 conference",
-    "malicious cyber actors",
     "oauth based phishing",
+    "clients security posture",
     "outdated mobile devices",
-    "clients security posture"
+    "yokogawa centum vp",
+    "victim's username password"
   ],
   "trending": [
     {
       "keyword": "t mobile sets",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 164
+      "mentions": 165
     },
     {
       "keyword": "april 1 2026",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "supply chain compromise",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "zero click exploits",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "things iot devices",
-      "mentions": 168
-    },
-    {
-      "keyword": "github threat actors",
-      "mentions": 11
+      "mentions": 169
     },
     {
       "keyword": "web shells rely",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1219
+      "mentions": 1220
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 384
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 136
+      "mentions": 137
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data",
+      "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/",
+      "summary": "A new report dubbed \"BrowserGate\" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data. [...]",
+      "published": "Fri, 03 Apr 2026 16:40:22 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
       "link": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
       "summary": "Telehealth giant Hims & Hers Health is warning that it suffered a data breach after support tickets were stolen from a third-party customer service platform. [...]",
@@ -225,18 +234,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Claude Code leak used to push infostealer malware on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
-      "summary": "Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware. [...]",
-      "published": "Thu, 02 Apr 2026 16:30:55 -0400",
-      "value_score": 40,
-      "value_signals": [
-        "Breach/leak ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -322,6 +319,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Inconsistent Privacy Labels Don't Tell Users What They Are Getting",
+      "link": "https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough",
+      "summary": "Data privacy labels are a great idea for mobile apps, but the current versions just aren't good enough.",
+      "published": "Fri, 03 Apr 2026 21:05:07 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Apple Breaks Precedent, Patches DarkSword for iOS 18",
       "link": "https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18",
       "summary": "Even organizations with users unwilling or unable to adopt iOS 26 can now protect themselves from a severe mobile OS-cracking tool.",
@@ -383,15 +389,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026",
       "summary": "AI-driven threats, global leadership shifts, and the future of cybersecurity in a rapidly evolving landscape were among the discussions at RSAC 2026 Conference.",
       "published": "Thu, 02 Apr 2026 21:14:27 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate",
-      "summary": "The company's 8-K filing notes \"unauthorized access\" and that it has activated business continuity plans and taken some systems offline.",
-      "published": "Thu, 02 Apr 2026 20:28:36 GMT",
       "value_score": 10,
       "value_signals": []
     },

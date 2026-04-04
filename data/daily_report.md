@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-04 10:27 UTC  
+> **Last Updated:** 2026-04-04 12:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
 - [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
 - [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
 - [Critical ShareFile Flaws Lead to Unauthenticated RCE](https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/)
@@ -67,7 +68,6 @@
 - [React2Shell Exploited in Large-Scale Credential Harvesting Campaign](https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/)
 - [T-Mobile Sets the Record Straight on Latest Data Breach Filing](https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/)
 - [North Korean Hackers Drain $285 Million From Drift in 10 Seconds](https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/)
-- [Critical Vulnerability in Claude Code Emerges Days After Source Leak](https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/)
 
 ### Threatpost
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04 10:27",
+  "last_updated": "2026-04-04 12:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "t mobile sets",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 170
+      "mentions": 171
     },
     {
       "keyword": "april 1 2026",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "supply chain compromise",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "zero click exploits",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "things iot devices",
-      "mentions": 174
+      "mentions": 175
     },
     {
       "keyword": "web shells rely",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1225
+      "mentions": 1226
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 389
+      "mentions": 390
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 142
+      "mentions": 143
     }
   ],
   "articles": [
@@ -394,6 +394,17 @@
     },
     {
       "source": "Security Week",
+      "title": "European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack",
+      "link": "https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/",
+      "summary": "Hackers stole over 300GB of data from the Commission’s AWS environment, including personal information. The post European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Sat, 04 Apr 2026 10:31:00 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "TrueConf Zero-Day Exploited in Asian Government Attacks",
       "link": "https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/",
       "summary": "A Chinese threat actor exploited the video conferencing platform to perform reconnaissance, escalate privileges, and execute additional payloads. The post TrueConf Zero-Day Exploited in Asian Government Attacks appeared first on SecurityWeek .",
@@ -469,18 +480,6 @@
       "published": "Fri, 03 Apr 2026 09:46:06 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Vulnerability in Claude Code Emerges Days After Source Leak",
-      "link": "https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/",
-      "summary": "Within days of each other, Anthropic first leaked the source code to Claude Code, and then a critical vulnerability was found by Adversa AI. The post Critical Vulnerability in Claude Code Emerges Days After Source Leak appeared first on SecurityWeek .",
-      "published": "Thu, 02 Apr 2026 18:00:55 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "Breach/leak ×2",
-        "High severity ×3"
-      ]
     },
     {
       "source": "Threatpost",

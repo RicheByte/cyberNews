@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-04 20:24 UTC |
+| 🕐 Last Updated | 2026-04-04 22:24 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`t mobile sets` • `service ddos doxing` • `april 1 2026` • `supply chain compromise` • `zero click exploits` • `things iot devices` • `web shells rely` • `twitter whistleblower complaint` • `malicious cyber actors` • `iran's intelligence agencies`
+`t mobile sets` • `service ddos doxing` • `axios npm package` • `april 1 2026` • `supply chain compromise` • `zero click exploits` • `things iot devices` • `malicious cyber actors` • `web shells rely` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

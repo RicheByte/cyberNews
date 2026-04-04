@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 394,
+      "count": 395,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -259,7 +259,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1230,
+      "count": 1231,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1877,7 +1877,7 @@
       ]
     },
     "things iot devices": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7972,7 +7972,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -7987,7 +7987,8 @@
         "2026-03-27",
         "2026-03-31",
         "2026-04-01",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-04"
       ]
     },
     "hacktivist group believed": {
@@ -9462,7 +9463,7 @@
       ]
     },
     "supply chain compromise": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10448,7 +10449,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10491,7 +10492,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10533,7 +10534,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11790,7 +11791,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11798,7 +11799,7 @@
       ]
     },
     "april 1 2026": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11855,7 +11856,7 @@
       ]
     },
     "t mobile sets": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-04-03",
         "2026-04-04"
@@ -11881,7 +11882,7 @@
       ]
     },
     "zero click exploits": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-04-03",
         "2026-04-04"
@@ -11900,7 +11901,7 @@
       ]
     },
     "axios npm package": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-04-03",
         "2026-04-04"
@@ -11914,7 +11915,7 @@
       ]
     },
     "clients security posture": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-04-03",
         "2026-04-04"
@@ -11939,46 +11940,47 @@
       ]
     },
     "food delivery services": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-04-03",
         "2026-04-04"
       ]
     },
     "web shells rely": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-03",
         "2026-04-04"
       ]
     },
     "adopt ios 26": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-03",
         "2026-04-04"
       ]
     },
     "oauth based phishing": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-03",
+        "2026-04-04"
+      ]
+    },
+    "crowdstrike's nemesis microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-04-04"
+      ]
+    },
+    "axios maintainer led": {
+      "count": 1,
+      "dates": [
         "2026-04-04"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-26 20:31",
-      "articles": 56,
-      "top_keywords": [
-        "wago gmbh co",
-        "service ddos doxing",
-        "remote code execution",
-        "malicious cyber actors",
-        "least 77 vulnerabilities"
-      ]
-    },
     {
       "timestamp": "2026-03-26 22:24",
       "articles": 56,
@@ -13066,6 +13068,17 @@
         "april 1 2026",
         "supply chain compromise",
         "zero click exploits"
+      ]
+    },
+    {
+      "timestamp": "2026-04-04 22:24",
+      "articles": 56,
+      "top_keywords": [
+        "t mobile sets",
+        "service ddos doxing",
+        "axios npm package",
+        "april 1 2026",
+        "supply chain compromise"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-04 20:24 UTC  
+> **Last Updated:** 2026-04-04 22:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**t mobile sets** • **service ddos doxing** • **april 1 2026** • **supply chain compromise** • **zero click exploits** • **things iot devices** • **web shells rely** • **twitter whistleblower complaint** • **malicious cyber actors** • **iran's intelligence agencies** • **hitachi energy ellipse** • **food delivery services** • **axios npm package** • **adopt ios 26** • **rsac 2026 conference** • **oauth based phishing** • **clients security posture** • **outdated mobile devices** • **yokogawa centum vp** • **victim's username password**
+**t mobile sets** • **service ddos doxing** • **axios npm package** • **april 1 2026** • **supply chain compromise** • **zero click exploits** • **things iot devices** • **malicious cyber actors** • **web shells rely** • **twitter whistleblower complaint** • **popular online destinations** • **iran's intelligence agencies** • **hitachi energy ellipse** • **food delivery services** • **adopt ios 26** • **rsac 2026 conference** • **crowdstrike's nemesis microsoft** • **oauth based phishing** • **clients security posture** • **axios maintainer led**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Axios npm hack used fake Teams error fix to hijack maintainer account](https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/)
 - [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/)
 - [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
 - [Hims & Hers warns of data breach after Zendesk support ticket breach](https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/)
@@ -34,7 +35,6 @@
 - [Evolution of Ransomware: Multi-Extortion Ransomware Attacks](https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/)
 - [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
 - [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
-- [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
 
 ### Krebs on Security
 

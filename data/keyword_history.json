@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 400,
+      "count": 401,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -260,7 +260,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1236,
+      "count": 1237,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1879,7 +1879,7 @@
       ]
     },
     "things iot devices": {
-      "count": 185,
+      "count": 186,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7975,7 +7975,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9467,7 +9467,7 @@
       ]
     },
     "supply chain compromise": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10454,7 +10454,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10541,7 +10541,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11799,7 +11799,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11808,7 +11808,7 @@
       ]
     },
     "april 1 2026": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11866,7 +11866,7 @@
       ]
     },
     "t mobile sets": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11893,7 +11893,7 @@
       ]
     },
     "zero click exploits": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11913,7 +11913,7 @@
       ]
     },
     "axios npm package": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11928,7 +11928,7 @@
       ]
     },
     "clients security posture": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11954,7 +11954,7 @@
       ]
     },
     "food delivery services": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11962,7 +11962,7 @@
       ]
     },
     "web shells rely": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11970,7 +11970,7 @@
       ]
     },
     "adopt ios 26": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11978,7 +11978,7 @@
       ]
     },
     "oauth based phishing": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11986,38 +11986,27 @@
       ]
     },
     "crowdstrike's nemesis microsoft": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-04",
         "2026-04-05"
       ]
     },
     "axios maintainer led": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-04",
         "2026-04-05"
       ]
     },
     "forticlient ems fortinet": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-05"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-27 10:42",
-      "articles": 56,
-      "top_keywords": [
-        "wago gmbh co",
-        "service ddos doxing",
-        "remote code execution",
-        "malicious cyber actors",
-        "least 77 vulnerabilities"
-      ]
-    },
     {
       "timestamp": "2026-03-27 12:55",
       "articles": 56,
@@ -13098,6 +13087,17 @@
     },
     {
       "timestamp": "2026-04-05 10:27",
+      "articles": 56,
+      "top_keywords": [
+        "t mobile sets",
+        "malicious cyber actors",
+        "service ddos doxing",
+        "forticlient ems fortinet",
+        "supply chain compromise"
+      ]
+    },
+    {
+      "timestamp": "2026-04-05 12:45",
       "articles": 56,
       "top_keywords": [
         "t mobile sets",

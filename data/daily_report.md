@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-05 02:00 UTC  
+> **Last Updated:** 2026-04-05 05:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**t mobile sets** • **service ddos doxing** • **axios npm package** • **april 1 2026** • **supply chain compromise** • **zero click exploits** • **things iot devices** • **malicious cyber actors** • **web shells rely** • **twitter whistleblower complaint** • **popular online destinations** • **iran's intelligence agencies** • **hitachi energy ellipse** • **food delivery services** • **adopt ios 26** • **rsac 2026 conference** • **crowdstrike's nemesis microsoft** • **oauth based phishing** • **clients security posture** • **axios maintainer led**
+**t mobile sets** • **malicious cyber actors** • **service ddos doxing** • **forticlient ems fortinet** • **supply chain compromise** • **zero click exploits** • **things iot devices** • **web shells rely** • **twitter whistleblower complaint** • **popular online destinations** • **iran's intelligence agencies** • **hitachi energy ellipse** • **food delivery services** • **april 1 2026** • **adopt ios 26** • **crowdstrike's nemesis microsoft** • **axios npm package** • **oauth based phishing** • **axios maintainer led** • **clients security posture**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
+- [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
 - [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
 - [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
 - [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
 - [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
 - [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
 - [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
-- [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html)
-- [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html)
 
 ### BleepingComputer
 

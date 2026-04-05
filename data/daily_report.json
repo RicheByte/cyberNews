@@ -1,72 +1,99 @@
 {
-  "last_updated": "2026-04-05 02:00",
+  "last_updated": "2026-04-05 05:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "t mobile sets",
+    "malicious cyber actors",
     "service ddos doxing",
-    "axios npm package",
-    "april 1 2026",
+    "forticlient ems fortinet",
     "supply chain compromise",
     "zero click exploits",
     "things iot devices",
-    "malicious cyber actors",
     "web shells rely",
     "twitter whistleblower complaint",
     "popular online destinations",
     "iran's intelligence agencies",
     "hitachi energy ellipse",
     "food delivery services",
+    "april 1 2026",
     "adopt ios 26",
-    "rsac 2026 conference",
     "crowdstrike's nemesis microsoft",
+    "axios npm package",
     "oauth based phishing",
-    "clients security posture",
-    "axios maintainer led"
+    "axios maintainer led",
+    "clients security posture"
   ],
   "trending": [
     {
       "keyword": "t mobile sets",
-      "mentions": 19
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 177
-    },
-    {
-      "keyword": "axios npm package",
-      "mentions": 18
-    },
-    {
-      "keyword": "april 1 2026",
-      "mentions": 27
-    },
-    {
-      "keyword": "supply chain compromise",
-      "mentions": 35
-    },
-    {
-      "keyword": "zero click exploits",
-      "mentions": 18
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 181
+      "mentions": 20
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 396
+      "mentions": 397
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 178
+    },
+    {
+      "keyword": "forticlient ems fortinet",
+      "mentions": 1
+    },
+    {
+      "keyword": "supply chain compromise",
+      "mentions": 36
+    },
+    {
+      "keyword": "zero click exploits",
+      "mentions": 19
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 182
     },
     {
       "keyword": "web shells rely",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1232
+      "mentions": 1233
+    },
+    {
+      "keyword": "popular online destinations",
+      "mentions": 59
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
+      "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
+      "summary": "Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest credentials, and drop a persistent implant. \"Every package contains three files (package.json, index.js, postinstall.js), has no description, repository,",
+      "published": "Sun, 05 Apr 2026 10:37:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
+      "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
+      "summary": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authentication API access bypass leading to privilege escalation. \"An improper access control vulnerability [CWE-284] in FortiClient EMS may allow an",
+      "published": "Sun, 05 Apr 2026 10:02:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "Privilege escalation",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
@@ -126,32 +153,6 @@
       "published": "Fri, 03 Apr 2026 14:05:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
-      "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
-      "summary": "A large-scale credential harvesting operation has been observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web Services (AWS) secrets, shell command history, Stripe API keys, and GitHub tokens at scale. Cisco Talos has attributed the operation to a threat cluster it tracks as",
-      "published": "Fri, 03 Apr 2026 01:00:00 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "CVE mentioned",
-        "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
-      "link": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
-      "summary": "Cisco has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the system with elevated privileges. The vulnerability, tracked as CVE-2026-20093, carries a CVSS score of 9.8 out of a maximum of 10.0. \"This",
-      "published": "Thu, 02 Apr 2026 20:51:00 +0530",
-      "value_score": 42,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

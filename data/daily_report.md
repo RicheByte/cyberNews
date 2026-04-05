@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-05 12:45 UTC  
+> **Last Updated:** 2026-04-05 14:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**t mobile sets** • **malicious cyber actors** • **service ddos doxing** • **forticlient ems fortinet** • **supply chain compromise** • **zero click exploits** • **things iot devices** • **web shells rely** • **twitter whistleblower complaint** • **popular online destinations** • **iran's intelligence agencies** • **hitachi energy ellipse** • **food delivery services** • **april 1 2026** • **adopt ios 26** • **crowdstrike's nemesis microsoft** • **axios npm package** • **oauth based phishing** • **axios maintainer led** • **clients security posture**
+**t mobile sets** • **malicious cyber actors** • **things iot devices** • **service ddos doxing** • **forticlient ems fortinet** • **supply chain compromise** • **zero click exploits** • **web shells rely** • **twitter whistleblower complaint** • **popular online destinations** • **iran's intelligence agencies** • **hitachi energy ellipse** • **food delivery services** • **april 1 2026** • **adopt ios 26** • **outdated mobile devices** • **crowdstrike's nemesis microsoft** • **axios npm package** • **oauth based phishing** • **everyday apps combined**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hackers exploit React2Shell in automated credential theft campaign](https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/)
 - [Axios npm hack used fake Teams error fix to hijack maintainer account](https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/)
 - [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/)
 - [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
@@ -34,7 +35,6 @@
 - [Die Linke German political party confirms data stolen by Qilin ransomware](https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/)
 - [Evolution of Ransomware: Multi-Extortion Ransomware Attacks](https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/)
 - [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
-- [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
 
 ### Krebs on Security
 

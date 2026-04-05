@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-05 12:45",
+  "last_updated": "2026-04-05 14:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "t mobile sets",
     "malicious cyber actors",
+    "things iot devices",
     "service ddos doxing",
     "forticlient ems fortinet",
     "supply chain compromise",
     "zero click exploits",
-    "things iot devices",
     "web shells rely",
     "twitter whistleblower complaint",
     "popular online destinations",
@@ -18,52 +18,52 @@
     "food delivery services",
     "april 1 2026",
     "adopt ios 26",
+    "outdated mobile devices",
     "crowdstrike's nemesis microsoft",
     "axios npm package",
     "oauth based phishing",
-    "axios maintainer led",
-    "clients security posture"
+    "everyday apps combined"
   ],
   "trending": [
     {
       "keyword": "t mobile sets",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 401
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 182
-    },
-    {
-      "keyword": "forticlient ems fortinet",
-      "mentions": 5
-    },
-    {
-      "keyword": "supply chain compromise",
-      "mentions": 40
-    },
-    {
-      "keyword": "zero click exploits",
-      "mentions": 23
+      "mentions": 402
     },
     {
       "keyword": "things iot devices",
-      "mentions": 186
+      "mentions": 187
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 183
+    },
+    {
+      "keyword": "forticlient ems fortinet",
+      "mentions": 6
+    },
+    {
+      "keyword": "supply chain compromise",
+      "mentions": 41
+    },
+    {
+      "keyword": "zero click exploits",
+      "mentions": 24
     },
     {
       "keyword": "web shells rely",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1237
+      "mentions": 1238
     },
     {
       "keyword": "popular online destinations",
-      "mentions": 63
+      "mentions": 64
     }
   ],
   "articles": [
@@ -156,6 +156,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit React2Shell in automated credential theft campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+      "summary": "Hackers are running a large-scale campaign to steal credentials in an automated way after exploiting React2Shell (CVE-2025-55182) in vulnerable Next.js apps. [...]",
+      "published": "Sun, 05 Apr 2026 10:17:23 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
       "link": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
       "summary": "The maintainers of the popular Axios HTTP client have published a detailed post-mortem describing how one of its developers was targeted by a social engineering campaign believed to have been conducted by North Korean threat actors. [...]",
@@ -229,15 +241,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Man admits to locking thousands of Windows devices in extortion plot",
-      "link": "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/",
-      "summary": "A former core infrastructure engineer has pleaded guilty to locking Windows admins out of 254 servers as part of a failed extortion plot targeting his employer, an industrial company headquartered in Somerset County, New Jersey. [...]",
-      "published": "Fri, 03 Apr 2026 05:04:54 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

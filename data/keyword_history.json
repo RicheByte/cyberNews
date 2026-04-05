@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 405,
+      "count": 406,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -260,7 +260,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1241,
+      "count": 1242,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1879,7 +1879,7 @@
       ]
     },
     "things iot devices": {
-      "count": 190,
+      "count": 191,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7975,7 +7975,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9467,7 +9467,7 @@
       ]
     },
     "supply chain compromise": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10454,7 +10454,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 186,
+      "count": 187,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10498,7 +10498,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10541,7 +10541,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11799,7 +11799,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11866,7 +11866,7 @@
       ]
     },
     "t mobile sets": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11893,7 +11893,7 @@
       ]
     },
     "zero click exploits": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11914,7 +11914,7 @@
       ]
     },
     "axios npm package": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11922,7 +11922,7 @@
       ]
     },
     "outdated mobile devices": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11956,7 +11956,7 @@
       ]
     },
     "food delivery services": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11964,7 +11964,7 @@
       ]
     },
     "web shells rely": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11972,7 +11972,7 @@
       ]
     },
     "adopt ios 26": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11980,7 +11980,7 @@
       ]
     },
     "oauth based phishing": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11988,7 +11988,7 @@
       ]
     },
     "crowdstrike's nemesis microsoft": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-04",
         "2026-04-05"
@@ -12002,30 +12002,19 @@
       ]
     },
     "forticlient ems fortinet": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-05"
       ]
     },
     "sending fake notice": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-05"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-27 20:32",
-      "articles": 56,
-      "top_keywords": [
-        "wago gmbh co",
-        "hacker exploited vulnerabilities",
-        "threat actor behind",
-        "things iot devices",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-03-27 22:26",
       "articles": 56,
@@ -13106,6 +13095,17 @@
     },
     {
       "timestamp": "2026-04-05 20:26",
+      "articles": 56,
+      "top_keywords": [
+        "t mobile sets",
+        "malicious cyber actors",
+        "things iot devices",
+        "service ddos doxing",
+        "forticlient ems fortinet"
+      ]
+    },
+    {
+      "timestamp": "2026-04-05 22:25",
       "articles": 56,
       "top_keywords": [
         "t mobile sets",

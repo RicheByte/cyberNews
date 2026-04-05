@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-05 18:36 UTC  
+> **Last Updated:** 2026-04-05 20:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**t mobile sets** • **malicious cyber actors** • **things iot devices** • **service ddos doxing** • **forticlient ems fortinet** • **supply chain compromise** • **zero click exploits** • **web shells rely** • **twitter whistleblower complaint** • **popular online destinations** • **iran's intelligence agencies** • **hitachi energy ellipse** • **food delivery services** • **april 1 2026** • **adopt ios 26** • **outdated mobile devices** • **crowdstrike's nemesis microsoft** • **axios npm package** • **oauth based phishing** • **everyday apps combined**
+**t mobile sets** • **malicious cyber actors** • **things iot devices** • **service ddos doxing** • **forticlient ems fortinet** • **supply chain compromise** • **zero click exploits** • **web shells rely** • **twitter whistleblower complaint** • **sending fake notice** • **rsac 2026 conference** • **popular online destinations** • **oauth based phishing** • **iran's intelligence agencies** • **hitachi energy ellipse** • **food delivery services** • **crowdstrike's nemesis microsoft** • **adopt ios 26** • **axios npm package** • **outdated mobile devices**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
 - [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
 - [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
 - [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
@@ -23,18 +24,17 @@
 - [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
 - [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
 - [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
-- [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
 
 ### BleepingComputer
 
+- [Traffic violation scams switch to QR codes in new phishing texts](https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/)
+- [New FortiClient EMS flaw exploited in attacks, emergency patch released](https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/)
 - [Hackers exploit React2Shell in automated credential theft campaign](https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/)
 - [Axios npm hack used fake Teams error fix to hijack maintainer account](https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/)
 - [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/)
 - [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
 - [Hims & Hers warns of data breach after Zendesk support ticket breach](https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/)
 - [Die Linke German political party confirms data stolen by Qilin ransomware](https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/)
-- [Evolution of Ransomware: Multi-Extortion Ransomware Attacks](https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/)
-- [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
 
 ### Krebs on Security
 

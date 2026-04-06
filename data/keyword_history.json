@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 411,
+      "count": 412,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1247,
+      "count": 1248,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -7978,7 +7978,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8683,13 +8683,14 @@
       ]
     },
     "threat actor behind": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-03-03",
         "2026-03-27",
         "2026-03-28",
         "2026-03-29",
-        "2026-03-30"
+        "2026-03-30",
+        "2026-04-06"
       ]
     },
     "researchers uncover method": {
@@ -10459,7 +10460,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10548,7 +10549,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 164,
+      "count": 165,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10714,11 +10715,12 @@
       ]
     },
     "supply chain attack": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-21",
         "2026-03-22",
-        "2026-03-23"
+        "2026-03-23",
+        "2026-04-06"
       ]
     },
     "threat actors known": {
@@ -11807,7 +11809,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11903,7 +11905,7 @@
       ]
     },
     "zero click exploits": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11935,7 +11937,7 @@
       ]
     },
     "outdated mobile devices": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11953,7 +11955,7 @@
       ]
     },
     "upload arbitrary files": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-03",
         "2026-04-06"
@@ -11981,7 +11983,7 @@
       ]
     },
     "web shells rely": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11990,7 +11992,7 @@
       ]
     },
     "adopt ios 26": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11999,7 +12001,7 @@
       ]
     },
     "oauth based phishing": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12008,7 +12010,7 @@
       ]
     },
     "crowdstrike's nemesis microsoft": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-04-04",
         "2026-04-05",
@@ -12023,38 +12025,39 @@
       ]
     },
     "forticlient ems fortinet": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-04-05",
         "2026-04-06"
       ]
     },
     "sending fake notice": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-05",
         "2026-04-06"
       ]
     },
     "service raas operation": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2026-04-06"
+      ]
+    },
+    "social engineering campaign": {
+      "count": 1,
+      "dates": [
+        "2026-04-06"
+      ]
+    },
+    "valuable developer machines": {
+      "count": 1,
       "dates": [
         "2026-04-06"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-28 10:26",
-      "articles": 56,
-      "top_keywords": [
-        "hacker exploited vulnerabilities",
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution",
-        "patel s account"
-      ]
-    },
     {
       "timestamp": "2026-03-28 12:42",
       "articles": 56,
@@ -13142,6 +13145,17 @@
         "service ddos doxing",
         "malicious cyber actors",
         "supply chain compromise"
+      ]
+    },
+    {
+      "timestamp": "2026-04-06 12:59",
+      "articles": 56,
+      "top_keywords": [
+        "forticlient ems fortinet",
+        "threat actor behind",
+        "service ddos doxing",
+        "social engineering campaign",
+        "malicious cyber actors"
       ]
     }
   ]

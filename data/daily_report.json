@@ -1,19 +1,20 @@
 {
-  "last_updated": "2026-04-06 10:51",
+  "last_updated": "2026-04-06 12:59",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "forticlient ems fortinet",
-    "t mobile sets",
+    "threat actor behind",
     "service ddos doxing",
+    "social engineering campaign",
     "malicious cyber actors",
-    "supply chain compromise",
-    "zero click exploits",
+    "supply chain attack",
     "web shells rely",
+    "zero click exploits",
+    "valuable developer machines",
     "upload arbitrary files",
     "twitter whistleblower complaint",
     "sending fake notice",
-    "rsac 2026 conference",
     "popular online destinations",
     "oauth based phishing",
     "iran's intelligence agencies",
@@ -21,52 +22,60 @@
     "crowdstrike's nemesis microsoft",
     "adopt ios 26",
     "service raas operation",
-    "outdated mobile devices",
-    "axios npm package"
+    "outdated mobile devices"
   ],
   "trending": [
     {
       "keyword": "forticlient ems fortinet",
-      "mentions": 15
+      "mentions": 16
     },
     {
-      "keyword": "t mobile sets",
-      "mentions": 34
+      "keyword": "threat actor behind",
+      "mentions": 26
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 192
+      "mentions": 193
+    },
+    {
+      "keyword": "social engineering campaign",
+      "mentions": 1
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 411
+      "mentions": 412
     },
     {
-      "keyword": "supply chain compromise",
-      "mentions": 50
-    },
-    {
-      "keyword": "zero click exploits",
-      "mentions": 33
+      "keyword": "supply chain attack",
+      "mentions": 24
     },
     {
       "keyword": "web shells rely",
-      "mentions": 30
+      "mentions": 31
+    },
+    {
+      "keyword": "zero click exploits",
+      "mentions": 34
+    },
+    {
+      "keyword": "valuable developer machines",
+      "mentions": 1
     },
     {
       "keyword": "upload arbitrary files",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1247
-    },
-    {
-      "keyword": "sending fake notice",
-      "mentions": 7
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
+      "link": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
+      "summary": "The most active piece of enterprise infrastructure in the company is the developer workstation. That laptop is where credentials are created, tested, cached, copied, and reused across services, bots, build tools, and now local AI agents. In March 2026, the TeamPCP threat actor proved just how valuable developer machines are. Their supply chain attack on",
+      "published": "Mon, 06 Apr 2026 17:15:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
@@ -146,15 +155,6 @@
       "value_signals": [
         "RCE"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
-      "summary": "The maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked as UNC1069. Maintainer Jason Saayman said the attackers tailored their social engineering efforts \"specifically to me\" by first approaching him under the guise of the founder of a",
-      "published": "Fri, 03 Apr 2026 16:34:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -405,6 +405,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Guardarian Users Targeted With Malicious Strapi NPM Packages",
+      "link": "https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/",
+      "summary": "Hackers published 36 NPM packages posing as Strapi plugins to execute shells, escape containers, and harvest credentials. The post Guardarian Users Targeted With Malicious Strapi NPM Packages appeared first on SecurityWeek .",
+      "published": "Mon, 06 Apr 2026 11:40:56 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "North Korean Hackers Target High-Profile Node.js Maintainers",
+      "link": "https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/",
+      "summary": "The threat actor behind the Axios supply chain attack has been aiming at other maintainers in its social engineering campaign. The post North Korean Hackers Target High-Profile Node.js Maintainers appeared first on SecurityWeek .",
+      "published": "Mon, 06 Apr 2026 11:02:36 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Fortinet Rushes Emergency Fixes for Exploited Zero-Day",
       "link": "https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/",
       "summary": "The improper access control bug in FortiClient EMS allows unauthenticated attackers to execute arbitrary code remotely. The post Fortinet Rushes Emergency Fixes for Exploited Zero-Day appeared first on SecurityWeek .",
@@ -471,28 +489,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "React2Shell Exploited in Large-Scale Credential Harvesting Campaign",
-      "link": "https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/",
-      "summary": "Using automated scanning and the Nexus Listener collection framework, the hackers compromised over 750 systems. The post React2Shell Exploited in Large-Scale Credential Harvesting Campaign appeared first on SecurityWeek .",
-      "published": "Fri, 03 Apr 2026 10:55:13 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "T-Mobile Sets the Record Straight on Latest Data Breach Filing",
-      "link": "https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/",
-      "summary": "The cybersecurity incident involved an insider and had a limited impact, the telecoms giant told SecurityWeek. The post T-Mobile Sets the Record Straight on Latest Data Breach Filing appeared first on SecurityWeek .",
-      "published": "Fri, 03 Apr 2026 10:30:00 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

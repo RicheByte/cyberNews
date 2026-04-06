@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-04-06 09:03",
+  "last_updated": "2026-04-06 10:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "t mobile sets",
-    "malicious cyber actors",
     "forticlient ems fortinet",
+    "t mobile sets",
     "service ddos doxing",
+    "malicious cyber actors",
     "supply chain compromise",
     "zero click exploits",
     "web shells rely",
+    "upload arbitrary files",
     "twitter whistleblower complaint",
     "sending fake notice",
     "rsac 2026 conference",
@@ -21,57 +22,67 @@
     "adopt ios 26",
     "service raas operation",
     "outdated mobile devices",
-    "axios npm package",
-    "clients security posture"
+    "axios npm package"
   ],
   "trending": [
     {
-      "keyword": "t mobile sets",
-      "mentions": 33
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 410
-    },
-    {
       "keyword": "forticlient ems fortinet",
-      "mentions": 14
+      "mentions": 15
+    },
+    {
+      "keyword": "t mobile sets",
+      "mentions": 34
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 191
+      "mentions": 192
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 411
     },
     {
       "keyword": "supply chain compromise",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "zero click exploits",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "web shells rely",
-      "mentions": 29
+      "mentions": 30
+    },
+    {
+      "keyword": "upload arbitrary files",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1246
+      "mentions": 1247
     },
     {
       "keyword": "sending fake notice",
-      "mentions": 6
-    },
-    {
-      "keyword": "rsac 2026 conference",
-      "mentions": 72
+      "mentions": 7
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
+      "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
+      "summary": "Threat actors associated with Qilin and Warlock ransomware operations have been observed using the bring your own vulnerable driver (BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco Talos and Trend Micro. Qilin attacks analyzed by Talos have been found to deploy a malicious DLL named \"msimg32.dll,\"",
+      "published": "Mon, 06 Apr 2026 15:37:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
       "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
       "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-      "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. The threat actor, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum. He",
+      "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identities of two of the key figures associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. One of the threat actors, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum",
       "published": "Mon, 06 Apr 2026 12:29:00 +0530",
       "value_score": 46,
       "value_signals": [
@@ -144,17 +155,6 @@
       "published": "Fri, 03 Apr 2026 16:34:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
-      "link": "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html",
-      "summary": "The next major breach hitting your clients probably won't come from inside their walls. It'll come through a vendor they trust, a SaaS tool their finance team signed up for, or a subcontractor nobody in IT knows about. That's the new attack surface, and most organizations are underprepared for it. Cynomi's new guide, Securing the Modern Perimeter: The Rise of Third-Party",
-      "published": "Fri, 03 Apr 2026 16:30:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -405,6 +405,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Fortinet Rushes Emergency Fixes for Exploited Zero-Day",
+      "link": "https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/",
+      "summary": "The improper access control bug in FortiClient EMS allows unauthenticated attackers to execute arbitrary code remotely. The post Fortinet Rushes Emergency Fixes for Exploited Zero-Day appeared first on SecurityWeek .",
+      "published": "Mon, 06 Apr 2026 09:37:28 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack",
       "link": "https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/",
       "summary": "Hackers stole over 300GB of data from the Commission’s AWS environment, including personal information. The post European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack appeared first on SecurityWeek .",
@@ -482,15 +494,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "North Korean Hackers Drain $285 Million From Drift in 10 Seconds",
-      "link": "https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/",
-      "summary": "The attackers prepared infrastructure and multiple nonce-based transactions, took over an admin key, and drained five vaults. The post North Korean Hackers Drain $285 Million From Drift in 10 Seconds appeared first on SecurityWeek .",
-      "published": "Fri, 03 Apr 2026 09:46:06 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

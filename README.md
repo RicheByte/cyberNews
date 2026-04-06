@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-06 09:03 UTC |
+| 🕐 Last Updated | 2026-04-06 10:51 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`t mobile sets` • `malicious cyber actors` • `forticlient ems fortinet` • `service ddos doxing` • `supply chain compromise` • `zero click exploits` • `web shells rely` • `twitter whistleblower complaint` • `sending fake notice` • `rsac 2026 conference`
+`forticlient ems fortinet` • `t mobile sets` • `service ddos doxing` • `malicious cyber actors` • `supply chain compromise` • `zero click exploits` • `web shells rely` • `upload arbitrary files` • `twitter whistleblower complaint` • `sending fake notice`
 
 ## 📄 Reports
 

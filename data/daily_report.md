@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-06 09:03 UTC  
+> **Last Updated:** 2026-04-06 10:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**t mobile sets** • **malicious cyber actors** • **forticlient ems fortinet** • **service ddos doxing** • **supply chain compromise** • **zero click exploits** • **web shells rely** • **twitter whistleblower complaint** • **sending fake notice** • **rsac 2026 conference** • **popular online destinations** • **oauth based phishing** • **iran's intelligence agencies** • **hitachi energy ellipse** • **crowdstrike's nemesis microsoft** • **adopt ios 26** • **service raas operation** • **outdated mobile devices** • **axios npm package** • **clients security posture**
+**forticlient ems fortinet** • **t mobile sets** • **service ddos doxing** • **malicious cyber actors** • **supply chain compromise** • **zero click exploits** • **web shells rely** • **upload arbitrary files** • **twitter whistleblower complaint** • **sending fake notice** • **rsac 2026 conference** • **popular online destinations** • **oauth based phishing** • **iran's intelligence agencies** • **hitachi energy ellipse** • **crowdstrike's nemesis microsoft** • **adopt ios 26** • **service raas operation** • **outdated mobile devices** • **axios npm package**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
 - [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
 - [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
 - [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
@@ -23,7 +24,6 @@
 - [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
 - [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
 - [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
-- [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
 - [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
 - [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
 - [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
@@ -67,7 +68,6 @@
 - [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
 - [React2Shell Exploited in Large-Scale Credential Harvesting Campaign](https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/)
 - [T-Mobile Sets the Record Straight on Latest Data Breach Filing](https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/)
-- [North Korean Hackers Drain $285 Million From Drift in 10 Seconds](https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/)
 
 ### Threatpost
 

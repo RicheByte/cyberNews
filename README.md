@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-06 16:40 UTC |
+| 🕐 Last Updated | 2026-04-06 18:51 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`forticlient ems fortinet` • `social engineering campaign` • `threat actor behind` • `service ddos doxing` • `large scale campaign` • `supply chain attack` • `valuable developer machines` • `upload arbitrary files` • `twitter whistleblower complaint` • `things iot devices`
+`threat actor behind` • `service ddos doxing` • `guardarian users targeted` • `supply chain attack` • `execute additional payloads` • `valuable developer machines` • `upload arbitrary files` • `twitter whistleblower complaint` • `things iot devices` • `sending fake notice`
 
 ## 📄 Reports
 

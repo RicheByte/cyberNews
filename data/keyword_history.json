@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1250,
+      "count": 1251,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1881,7 +1881,7 @@
       ]
     },
     "things iot devices": {
-      "count": 193,
+      "count": 194,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -8683,7 +8683,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-03-03",
         "2026-03-27",
@@ -10272,7 +10272,7 @@
       ]
     },
     "software supply chain": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-18",
         "2026-04-03",
@@ -10461,7 +10461,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 195,
+      "count": 196,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10550,7 +10550,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10716,7 +10716,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11327,7 +11327,7 @@
       ]
     },
     "large scale campaign": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11811,7 +11811,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11900,10 +11900,11 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-04-03",
-        "2026-04-04"
+        "2026-04-04",
+        "2026-04-06"
       ]
     },
     "zero click exploits": {
@@ -11957,7 +11958,7 @@
       ]
     },
     "upload arbitrary files": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-03",
         "2026-04-06"
@@ -11994,7 +11995,7 @@
       ]
     },
     "adopt ios 26": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12034,7 +12035,7 @@
       ]
     },
     "sending fake notice": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-05",
         "2026-04-06"
@@ -12053,7 +12054,7 @@
       ]
     },
     "valuable developer machines": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-06"
       ]
@@ -12065,18 +12066,36 @@
       ]
     },
     "many soc workflows": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-06"
       ]
     },
     "key figures associated": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-06"
       ]
     },
     "280 million hack": {
+      "count": 2,
+      "dates": [
+        "2026-04-06"
+      ]
+    },
+    "guardarian users targeted": {
+      "count": 1,
+      "dates": [
+        "2026-04-06"
+      ]
+    },
+    "execute additional payloads": {
+      "count": 1,
+      "dates": [
+        "2026-04-06"
+      ]
+    },
+    "months long targeted": {
       "count": 1,
       "dates": [
         "2026-04-06"
@@ -12084,17 +12103,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-28 16:27",
-      "articles": 56,
-      "top_keywords": [
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution",
-        "fake captcha page",
-        "wago gmbh co"
-      ]
-    },
     {
       "timestamp": "2026-03-28 18:33",
       "articles": 56,
@@ -13182,6 +13190,17 @@
         "threat actor behind",
         "service ddos doxing",
         "large scale campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-04-06 18:51",
+      "articles": 56,
+      "top_keywords": [
+        "threat actor behind",
+        "service ddos doxing",
+        "guardarian users targeted",
+        "supply chain attack",
+        "execute additional payloads"
       ]
     }
   ]

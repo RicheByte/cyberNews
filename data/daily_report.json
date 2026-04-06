@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-06 16:40",
+  "last_updated": "2026-04-06 18:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "forticlient ems fortinet",
-    "social engineering campaign",
     "threat actor behind",
     "service ddos doxing",
-    "large scale campaign",
+    "guardarian users targeted",
     "supply chain attack",
+    "execute additional payloads",
     "valuable developer machines",
     "upload arbitrary files",
     "twitter whistleblower complaint",
     "things iot devices",
     "sending fake notice",
-    "popular online destinations",
-    "multi os cyberattacks",
     "many soc workflows",
+    "large scale campaign",
     "key figures associated",
     "iran's intelligence agencies",
     "hitachi energy ellipse",
     "adopt ios 26",
     "280 million hack",
-    "software supply chain"
+    "software supply chain",
+    "months long targeted",
+    "yokogawa centum vp"
   ],
   "trending": [
     {
-      "keyword": "forticlient ems fortinet",
-      "mentions": 18
-    },
-    {
-      "keyword": "social engineering campaign",
-      "mentions": 3
-    },
-    {
       "keyword": "threat actor behind",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 195
+      "mentions": 196
     },
     {
-      "keyword": "large scale campaign",
-      "mentions": 8
+      "keyword": "guardarian users targeted",
+      "mentions": 1
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 26
+      "mentions": 27
+    },
+    {
+      "keyword": "execute additional payloads",
+      "mentions": 1
     },
     {
       "keyword": "valuable developer machines",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "upload arbitrary files",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1250
+      "mentions": 1251
     },
     {
       "keyword": "things iot devices",
-      "mentions": 193
+      "mentions": 194
+    },
+    {
+      "keyword": "sending fake notice",
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
+      "link": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
+      "summary": "Threat actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South Korea. The attack chain, per Fortinet FortiGuard Labs, involves obfuscated Windows shortcut (LNK) files acting as the starting point to drop a decoy PDF",
+      "published": "Mon, 06 Apr 2026 21:54:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
@@ -141,18 +150,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
-      "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
-      "summary": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authentication API access bypass leading to privilege escalation. \"An improper access control vulnerability [CWE-284] in FortiClient EMS may allow an",
-      "published": "Sun, 05 Apr 2026 10:02:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft removes Support and Recovery Assistant from Windows",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
+      "summary": "Microsoft has deprecated and removed the Support and Recovery Assistant (SaRA) command-line utility from all in-support versions of Windows updates starting March 10. [...]",
+      "published": "Mon, 06 Apr 2026 13:45:57 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
+      "summary": "Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks. [...]",
+      "published": "Mon, 06 Apr 2026 12:56:01 -0400",
       "value_score": 100,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×2",
-        "Privilege escalation",
-        "High severity",
-        "Multiple CVEs",
+        "Zero-day ×2",
+        "Ransomware ×2",
         "Exploit wording"
       ]
     },
@@ -225,28 +240,6 @@
       "value_signals": [
         "CVE mentioned",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
-      "link": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
-      "summary": "The maintainers of the popular Axios HTTP client have published a detailed post-mortem describing how one of its developers was targeted by a social engineering campaign believed to have been conducted by North Korean threat actors. [...]",
-      "published": "Sat, 04 Apr 2026 16:30:42 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Device code phishing attacks surge 37x as new kits spread online",
-      "link": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
-      "summary": "Device code phishing attacks that abuse the OAuth 2.0 Device Authorization Grant flow to hijack accounts have surged more than 37 times this year. [...]",
-      "published": "Sat, 04 Apr 2026 10:17:38 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {
@@ -413,7 +406,7 @@
       "source": "Security Week",
       "title": "Google DeepMind Researchers Map Web Attacks Against AI Agents",
       "link": "https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/",
-      "summary": "Malicious web content can be used to manipulate, deceive, and exploit autonomous AI agents navigating the internet, Google DeepMind researchers show. The researchers have identified six types of attacks against AI agents that can be mounted via web content to inject malicious context and trigger unexpected behavior. Web content, they explain in a research paper, […] The post Google DeepMind Researchers Map Web Attacks Against AI Agents appeared first on SecurityWeek .",
+      "summary": "A vulnerability named ‘AI Agent Traps’ allows attackers to manipulate, deceive, and exploit visiting agents via malicious web content. The post Google DeepMind Researchers Map Web Attacks Against AI Agents appeared first on SecurityWeek .",
       "published": "Mon, 06 Apr 2026 15:32:54 +0000",
       "value_score": 16,
       "value_signals": [

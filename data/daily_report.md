@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-06 12:59 UTC  
+> **Last Updated:** 2026-04-06 14:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**forticlient ems fortinet** • **threat actor behind** • **service ddos doxing** • **social engineering campaign** • **malicious cyber actors** • **supply chain attack** • **web shells rely** • **zero click exploits** • **valuable developer machines** • **upload arbitrary files** • **twitter whistleblower complaint** • **sending fake notice** • **popular online destinations** • **oauth based phishing** • **iran's intelligence agencies** • **hitachi energy ellipse** • **crowdstrike's nemesis microsoft** • **adopt ios 26** • **service raas operation** • **outdated mobile devices**
+**forticlient ems fortinet** • **social engineering campaign** • **threat actor behind** • **service ddos doxing** • **supply chain attack** • **large scale campaign** • **outdated mobile devices** • **zero click exploits** • **valuable developer machines** • **upload arbitrary files** • **twitter whistleblower complaint** • **sending fake notice** • **popular online destinations** • **multi os cyberattacks** • **many soc workflows** • **malicious cyber actors** • **key figures associated** • **iran's intelligence agencies** • **hitachi energy ellipse** • **adopt ios 26**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html)
+- [⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More](https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html)
 - [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
 - [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
 - [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
 - [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
 - [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
 - [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
-- [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
-- [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
 
 ### BleepingComputer
 
+- [Why Simple Breach Monitoring is No Longer Enough](https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/)
 - [Traffic violation scams switch to QR codes in new phishing texts](https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/)
 - [New FortiClient EMS flaw exploited in attacks, emergency patch released](https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/)
 - [Hackers exploit React2Shell in automated credential theft campaign](https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/)
@@ -34,7 +35,6 @@
 - [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/)
 - [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
 - [Hims & Hers warns of data breach after Zendesk support ticket breach](https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/)
-- [Die Linke German political party confirms data stolen by Qilin ransomware](https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Shadow AI in Healthcare is Here to Stay](https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay)
+- [OWASP GenAI Security Project Gets Update, New Tools Matrix](https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix)
 - [Inconsistent Privacy Labels Don't Tell Users What They Are Getting](https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough)
 - [Apple Breaks Precedent, Patches DarkSword for iOS 18](https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18)
 - [Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting](https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting)
 - [Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication](https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication)
 - [Claude Source Code Leak Highlights Big Supply Chain Missteps](https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight)
 - [Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain](https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain)
-- [CrowdStrike Next-Gen SIEM Can Now Ingest Microsoft Defender Telemetry](https://www.darkreading.com/endpoint-security/crowdstrike-falcon-ingest-microsoft-defender-telemetry)
-- [Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026](https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026)
 
 ### Security Week
 

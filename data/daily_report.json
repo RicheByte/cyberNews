@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-04-06 12:59",
+  "last_updated": "2026-04-06 14:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "forticlient ems fortinet",
+    "social engineering campaign",
     "threat actor behind",
     "service ddos doxing",
-    "social engineering campaign",
-    "malicious cyber actors",
     "supply chain attack",
-    "web shells rely",
+    "large scale campaign",
+    "outdated mobile devices",
     "zero click exploits",
     "valuable developer machines",
     "upload arbitrary files",
     "twitter whistleblower complaint",
     "sending fake notice",
     "popular online destinations",
-    "oauth based phishing",
+    "multi os cyberattacks",
+    "many soc workflows",
+    "malicious cyber actors",
+    "key figures associated",
     "iran's intelligence agencies",
     "hitachi energy ellipse",
-    "crowdstrike's nemesis microsoft",
-    "adopt ios 26",
-    "service raas operation",
-    "outdated mobile devices"
+    "adopt ios 26"
   ],
   "trending": [
     {
       "keyword": "forticlient ems fortinet",
-      "mentions": 16
-    },
-    {
-      "keyword": "threat actor behind",
-      "mentions": 26
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 193
+      "mentions": 17
     },
     {
       "keyword": "social engineering campaign",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 412
+      "keyword": "threat actor behind",
+      "mentions": 27
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 194
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 24
+      "mentions": 25
     },
     {
-      "keyword": "web shells rely",
-      "mentions": 31
+      "keyword": "large scale campaign",
+      "mentions": 7
+    },
+    {
+      "keyword": "outdated mobile devices",
+      "mentions": 28
     },
     {
       "keyword": "zero click exploits",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "valuable developer machines",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "upload arbitrary files",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
+      "link": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
+      "summary": "Your attack surface no longer lives on one operating system, and neither do the campaigns targeting it. In enterprise environments, attackers move across Windows endpoints, executive MacBooks, Linux infrastructure, and mobile devices, taking advantage of the fact that many SOC workflows are still fragmented by platform. For security leaders, this creates a",
+      "published": "Mon, 06 Apr 2026 18:30:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
+      "link": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html",
+      "summary": "This week had real hits. The key software got tampered with. Active bugs showed up in the tools people use every day. Some attacks didn’t even need much effort because the path was already there. One weak spot now spreads wider than before. What starts small can reach a lot of systems fast. New bugs, faster use, less time to react. That’s this week. Read&",
+      "published": "Mon, 06 Apr 2026 18:16:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
@@ -135,25 +157,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
-      "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
-      "summary": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025, following a two-year period of minimal targeting in the region. The campaign has been attributed to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo Panda. \"This TA416 activity included multiple",
-      "published": "Fri, 03 Apr 2026 23:04:00 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Why Simple Breach Monitoring is No Longer Enough",
+      "link": "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/",
+      "summary": "Infostealers are harvesting credentials and session cookies at scale, bypassing traditional defenses. Lunar explains why simple breach monitoring alone can't keep up with modern credential-based attacks. [...]",
+      "published": "Mon, 06 Apr 2026 10:02:12 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
-      "link": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
-      "summary": "Threat actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research Team. \"Instead of exposing command execution through URL parameters or request bodies, these web shells rely on threat actor-supplied cookie values to gate execution,",
-      "published": "Fri, 03 Apr 2026 21:02:00 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -233,18 +244,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
-      "summary": "The Qilin ransomware group has claimed responsibility for an attack against Die Linke ('The Left'), forcing an IT systems outage at the political party, and threatening sensitive data leak. [...]",
-      "published": "Fri, 03 Apr 2026 12:36:44 -0400",
-      "value_score": 58,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak"
       ]
     },
     {
@@ -330,6 +329,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Shadow AI in Healthcare is Here to Stay",
+      "link": "https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay",
+      "summary": "Medical professionals are not going to stop using AI tools to manage growing workloads. Organizations should prioritize bolstering security protocols to limit their blast radius.",
+      "published": "Mon, 06 Apr 2026 14:07:50 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "OWASP GenAI Security Project Gets Update, New Tools Matrix",
+      "link": "https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix",
+      "summary": "In recognition of 21 generative AI risks, the standards groups recommends that companies take separate but linked approaches to defending GenAI and agentic AI systems.",
+      "published": "Mon, 06 Apr 2026 13:49:27 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Inconsistent Privacy Labels Don't Tell Users What They Are Getting",
       "link": "https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough",
       "summary": "Data privacy labels are a great idea for mobile apps, but the current versions just aren't good enough.",
@@ -382,24 +401,6 @@
       "link": "https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain",
       "summary": "The rebuilt Chainguard platform adds deeper security designed to continuously reconcile open source artifacts across containers, libraries, agent skills, and GitHub Actions.",
       "published": "Fri, 03 Apr 2026 12:57:28 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CrowdStrike Next-Gen SIEM Can Now Ingest Microsoft Defender Telemetry",
-      "link": "https://www.darkreading.com/endpoint-security/crowdstrike-falcon-ingest-microsoft-defender-telemetry",
-      "summary": "Once CrowdStrike's nemesis, Microsoft is now a collaborator. A shared interest in Formula 1 helped thaw the years-long fierce rivalry.",
-      "published": "Fri, 03 Apr 2026 11:53:15 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026",
-      "link": "https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026",
-      "summary": "AI-driven threats, global leadership shifts, and the future of cybersecurity in a rapidly evolving landscape were among the discussions at RSAC 2026 Conference.",
-      "published": "Thu, 02 Apr 2026 21:14:27 GMT",
       "value_score": 10,
       "value_signals": []
     },

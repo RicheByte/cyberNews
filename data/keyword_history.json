@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 412,
+      "count": 413,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1248,
+      "count": 1249,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -7978,7 +7978,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8683,7 +8683,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-03",
         "2026-03-27",
@@ -10460,7 +10460,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 193,
+      "count": 194,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10549,7 +10549,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10715,7 +10715,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11326,10 +11326,11 @@
       ]
     },
     "large scale campaign": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-27",
-        "2026-03-28"
+        "2026-03-28",
+        "2026-04-06"
       ]
     },
     "cve 2026 4681": {
@@ -11809,7 +11810,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11905,7 +11906,7 @@
       ]
     },
     "zero click exploits": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11937,7 +11938,7 @@
       ]
     },
     "outdated mobile devices": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11955,7 +11956,7 @@
       ]
     },
     "upload arbitrary files": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-03",
         "2026-04-06"
@@ -11992,7 +11993,7 @@
       ]
     },
     "adopt ios 26": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12025,14 +12026,14 @@
       ]
     },
     "forticlient ems fortinet": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-04-05",
         "2026-04-06"
       ]
     },
     "sending fake notice": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-05",
         "2026-04-06"
@@ -12045,12 +12046,30 @@
       ]
     },
     "social engineering campaign": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-06"
       ]
     },
     "valuable developer machines": {
+      "count": 2,
+      "dates": [
+        "2026-04-06"
+      ]
+    },
+    "multi os cyberattacks": {
+      "count": 1,
+      "dates": [
+        "2026-04-06"
+      ]
+    },
+    "many soc workflows": {
+      "count": 1,
+      "dates": [
+        "2026-04-06"
+      ]
+    },
+    "key figures associated": {
       "count": 1,
       "dates": [
         "2026-04-06"
@@ -12058,17 +12077,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-28 12:42",
-      "articles": 56,
-      "top_keywords": [
-        "hacker exploited vulnerabilities",
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution",
-        "fake captcha page"
-      ]
-    },
     {
       "timestamp": "2026-03-28 14:28",
       "articles": 56,
@@ -13156,6 +13164,17 @@
         "service ddos doxing",
         "social engineering campaign",
         "malicious cyber actors"
+      ]
+    },
+    {
+      "timestamp": "2026-04-06 14:41",
+      "articles": 56,
+      "top_keywords": [
+        "forticlient ems fortinet",
+        "social engineering campaign",
+        "threat actor behind",
+        "service ddos doxing",
+        "supply chain attack"
       ]
     }
   ]

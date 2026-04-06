@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06 14:41",
+  "last_updated": "2026-04-06 16:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "social engineering campaign",
     "threat actor behind",
     "service ddos doxing",
-    "supply chain attack",
     "large scale campaign",
-    "outdated mobile devices",
-    "zero click exploits",
+    "supply chain attack",
     "valuable developer machines",
     "upload arbitrary files",
     "twitter whistleblower complaint",
+    "things iot devices",
     "sending fake notice",
     "popular online destinations",
     "multi os cyberattacks",
     "many soc workflows",
-    "malicious cyber actors",
     "key figures associated",
     "iran's intelligence agencies",
     "hitachi energy ellipse",
-    "adopt ios 26"
+    "adopt ios 26",
+    "280 million hack",
+    "software supply chain"
   ],
   "trending": [
     {
       "keyword": "forticlient ems fortinet",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "social engineering campaign",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "threat actor behind",
-      "mentions": 27
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 194
-    },
-    {
-      "keyword": "supply chain attack",
-      "mentions": 25
-    },
-    {
-      "keyword": "large scale campaign",
-      "mentions": 7
-    },
-    {
-      "keyword": "outdated mobile devices",
       "mentions": 28
     },
     {
-      "keyword": "zero click exploits",
-      "mentions": 35
+      "keyword": "service ddos doxing",
+      "mentions": 195
+    },
+    {
+      "keyword": "large scale campaign",
+      "mentions": 8
+    },
+    {
+      "keyword": "supply chain attack",
+      "mentions": 26
     },
     {
       "keyword": "valuable developer machines",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "upload arbitrary files",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1250
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 193
     }
   ],
   "articles": [
@@ -158,6 +158,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Drift $280M crypto theft linked to 6-month in-person operation",
+      "link": "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/",
+      "summary": "The Drift Protocol says that the $280+ million hack it suffered last week was the result of a long-term, carefully planned operation that included building \"a functioning operational presence inside the Drift ecosystem.\" [...]",
+      "published": "Mon, 06 Apr 2026 12:35:03 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch exploited Fortinet EMS flaw by Friday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered federal agencies to secure FortiClient Enterprise Management Server (EMS) instances against an actively exploited vulnerability by Friday. [...]",
+      "published": "Mon, 06 Apr 2026 12:02:14 -0400",
+      "value_score": 89,
+      "value_signals": [
+        "Active exploitation",
+        "Patch/update",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Why Simple Breach Monitoring is No Longer Enough",
       "link": "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/",
       "summary": "Infostealers are harvesting credentials and session cookies at scale, bypassing traditional defenses. Lunar explains why simple breach monitoring alone can't keep up with modern credential-based attacks. [...]",
@@ -224,26 +247,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
-      "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
-      "summary": "A new report dubbed \"BrowserGate\" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data. [...]",
-      "published": "Fri, 03 Apr 2026 16:40:22 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
-      "link": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
-      "summary": "Telehealth giant Hims & Hers Health is warning that it suffered a data breach after support tickets were stolen from a third-party customer service platform. [...]",
-      "published": "Fri, 03 Apr 2026 13:41:11 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
       ]
     },
     {
@@ -329,7 +332,18 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Shadow AI in Healthcare is Here to Stay",
+      "title": "Automated Credential Harvesting Campaign Exploits React2Shell Flaw",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell",
+      "summary": "An emerging threat cluster tracked as UAT-10608 is exploiting vulnerable Web-exposed Next.js apps and using an automated tool to exfiltrate credentials, secrets, and other system data.",
+      "published": "Mon, 06 Apr 2026 15:31:09 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Shadow AI in Healthcare Is Here to Stay",
       "link": "https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay",
       "summary": "Medical professionals are not going to stop using AI tools to manage growing workloads. Organizations should prioritize bolstering security protocols to limit their blast radius.",
       "published": "Mon, 06 Apr 2026 14:07:50 GMT",
@@ -396,13 +410,15 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain",
-      "link": "https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain",
-      "summary": "The rebuilt Chainguard platform adds deeper security designed to continuously reconcile open source artifacts across containers, libraries, agent skills, and GitHub Actions.",
-      "published": "Fri, 03 Apr 2026 12:57:28 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Google DeepMind Researchers Map Web Attacks Against AI Agents",
+      "link": "https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/",
+      "summary": "Malicious web content can be used to manipulate, deceive, and exploit autonomous AI agents navigating the internet, Google DeepMind researchers show. The researchers have identified six types of attacks against AI agents that can be mounted via web content to inject malicious context and trigger unexpected behavior. Web content, they explain in a research paper, […] The post Google DeepMind Researchers Map Web Attacks Against AI Agents appeared first on SecurityWeek .",
+      "published": "Mon, 06 Apr 2026 15:32:54 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -479,17 +495,6 @@
       "value_signals": [
         "RCE ×2",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Mobile Attack Surface Expands as Enterprises Lose Control",
-      "link": "https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/",
-      "summary": "Shadow AI embedded in everyday apps, combined with outdated mobile devices and zero-click exploits, is creating a new and largely unseen mobile risk. The post Mobile Attack Surface Expands as Enterprises Lose Control appeared first on SecurityWeek .",
-      "published": "Fri, 03 Apr 2026 11:00:00 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {
@@ -574,6 +579,20 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-35616 - Fortinet FortiClient EMS Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
+      "published": "Mon, 06 Apr 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
     },
     {
       "source": "CISA Alerts",
@@ -668,20 +687,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-3055 Citrix NetScaler Out-of-Bounds Read Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Com",
-      "published": "Mon, 30 Mar 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
         "Exploit wording"
       ]
     }

@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1249,
+      "count": 1250,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1881,7 +1881,7 @@
       ]
     },
     "things iot devices": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7978,7 +7978,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8683,7 +8683,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-03",
         "2026-03-27",
@@ -10272,10 +10272,11 @@
       ]
     },
     "software supply chain": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-18",
-        "2026-04-03"
+        "2026-04-03",
+        "2026-04-06"
       ]
     },
     "shadow ai risk": {
@@ -10460,7 +10461,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 194,
+      "count": 195,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10549,7 +10550,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 166,
+      "count": 167,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10715,7 +10716,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11326,7 +11327,7 @@
       ]
     },
     "large scale campaign": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -11810,7 +11811,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11956,7 +11957,7 @@
       ]
     },
     "upload arbitrary files": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-03",
         "2026-04-06"
@@ -11993,7 +11994,7 @@
       ]
     },
     "adopt ios 26": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12026,14 +12027,14 @@
       ]
     },
     "forticlient ems fortinet": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-04-05",
         "2026-04-06"
       ]
     },
     "sending fake notice": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-05",
         "2026-04-06"
@@ -12046,30 +12047,36 @@
       ]
     },
     "social engineering campaign": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-06"
       ]
     },
     "valuable developer machines": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-06"
       ]
     },
     "multi os cyberattacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-06"
       ]
     },
     "many soc workflows": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-06"
       ]
     },
     "key figures associated": {
+      "count": 2,
+      "dates": [
+        "2026-04-06"
+      ]
+    },
+    "280 million hack": {
       "count": 1,
       "dates": [
         "2026-04-06"
@@ -12077,17 +12084,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-28 14:28",
-      "articles": 56,
-      "top_keywords": [
-        "hacker exploited vulnerabilities",
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution",
-        "fake captcha page"
-      ]
-    },
     {
       "timestamp": "2026-03-28 16:27",
       "articles": 56,
@@ -13175,6 +13171,17 @@
         "threat actor behind",
         "service ddos doxing",
         "supply chain attack"
+      ]
+    },
+    {
+      "timestamp": "2026-04-06 16:40",
+      "articles": 56,
+      "top_keywords": [
+        "forticlient ems fortinet",
+        "social engineering campaign",
+        "threat actor behind",
+        "service ddos doxing",
+        "large scale campaign"
       ]
     }
   ]

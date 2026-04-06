@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-06 14:41 UTC  
+> **Last Updated:** 2026-04-06 16:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**forticlient ems fortinet** • **social engineering campaign** • **threat actor behind** • **service ddos doxing** • **supply chain attack** • **large scale campaign** • **outdated mobile devices** • **zero click exploits** • **valuable developer machines** • **upload arbitrary files** • **twitter whistleblower complaint** • **sending fake notice** • **popular online destinations** • **multi os cyberattacks** • **many soc workflows** • **malicious cyber actors** • **key figures associated** • **iran's intelligence agencies** • **hitachi energy ellipse** • **adopt ios 26**
+**forticlient ems fortinet** • **social engineering campaign** • **threat actor behind** • **service ddos doxing** • **large scale campaign** • **supply chain attack** • **valuable developer machines** • **upload arbitrary files** • **twitter whistleblower complaint** • **things iot devices** • **sending fake notice** • **popular online destinations** • **multi os cyberattacks** • **many soc workflows** • **key figures associated** • **iran's intelligence agencies** • **hitachi energy ellipse** • **adopt ios 26** • **280 million hack** • **software supply chain**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Drift $280M crypto theft linked to 6-month in-person operation](https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/)
+- [CISA orders feds to patch exploited Fortinet EMS flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/)
 - [Why Simple Breach Monitoring is No Longer Enough](https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/)
 - [Traffic violation scams switch to QR codes in new phishing texts](https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/)
 - [New FortiClient EMS flaw exploited in attacks, emergency patch released](https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/)
 - [Hackers exploit React2Shell in automated credential theft campaign](https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/)
 - [Axios npm hack used fake Teams error fix to hijack maintainer account](https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/)
 - [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/)
-- [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
-- [Hims & Hers warns of data breach after Zendesk support ticket breach](https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
-- [Shadow AI in Healthcare is Here to Stay](https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay)
+- [Automated Credential Harvesting Campaign Exploits React2Shell Flaw](https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell)
+- [Shadow AI in Healthcare Is Here to Stay](https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay)
 - [OWASP GenAI Security Project Gets Update, New Tools Matrix](https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix)
 - [Inconsistent Privacy Labels Don't Tell Users What They Are Getting](https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough)
 - [Apple Breaks Precedent, Patches DarkSword for iOS 18](https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18)
 - [Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting](https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting)
 - [Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication](https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication)
 - [Claude Source Code Leak Highlights Big Supply Chain Missteps](https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight)
-- [Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain](https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain)
 
 ### Security Week
 
+- [Google DeepMind Researchers Map Web Attacks Against AI Agents](https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/)
 - [Guardarian Users Targeted With Malicious Strapi NPM Packages](https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/)
 - [North Korean Hackers Target High-Profile Node.js Maintainers](https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/)
 - [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
@@ -67,7 +68,6 @@
 - [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
 - [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
 - [Critical ShareFile Flaws Lead to Unauthenticated RCE](https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/)
-- [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
 
 ### Threatpost
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Siemens SICAM 8 Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01)
 - [Yokogawa CENTUM VP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog)
@@ -89,7 +90,6 @@
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Anritsu Remote Spectrum Monitor](https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01)
 - [PX4 Autopilot](https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-02)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog)
 
 ---
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-06 18:51 UTC |
+| 🕐 Last Updated | 2026-04-06 20:33 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`threat actor behind` • `service ddos doxing` • `guardarian users targeted` • `supply chain attack` • `execute additional payloads` • `valuable developer machines` • `upload arbitrary files` • `twitter whistleblower complaint` • `things iot devices` • `sending fake notice`
+`execute additional payloads` • `service ddos doxing` • `guardarian users targeted` • `supply chain attack` • `valuable developer machines` • `upload arbitrary files` • `twitter whistleblower complaint` • `things iot devices` • `sending fake notice` • `many soc workflows`
 
 ## 📄 Reports
 

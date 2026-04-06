@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-06 18:51",
+  "last_updated": "2026-04-06 20:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "threat actor behind",
+    "execute additional payloads",
     "service ddos doxing",
     "guardarian users targeted",
     "supply chain attack",
-    "execute additional payloads",
     "valuable developer machines",
     "upload arbitrary files",
     "twitter whistleblower complaint",
     "things iot devices",
     "sending fake notice",
     "many soc workflows",
-    "large scale campaign",
     "key figures associated",
     "iran's intelligence agencies",
+    "iran war unleashing",
     "hitachi energy ellipse",
     "adopt ios 26",
     "280 million hack",
     "software supply chain",
     "months long targeted",
-    "yokogawa centum vp"
+    "threat actor behind",
+    "high velocity attacks"
   ],
   "trending": [
     {
-      "keyword": "threat actor behind",
-      "mentions": 29
+      "keyword": "execute additional payloads",
+      "mentions": 2
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 196
+      "mentions": 197
     },
     {
       "keyword": "guardarian users targeted",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 27
-    },
-    {
-      "keyword": "execute additional payloads",
-      "mentions": 1
+      "mentions": 28
     },
     {
       "keyword": "valuable developer machines",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "upload arbitrary files",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1251
+      "mentions": 1252
     },
     {
       "keyword": "things iot devices",
-      "mentions": 194
+      "mentions": 195
     },
     {
       "keyword": "sending fake notice",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "many soc workflows",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
+      "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
+      "summary": "An Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid ongoing conflict in the Middle East. The activity, assessed to be ongoing, was carried out in three distinct attack waves that took place on March 3, March 13, and March 23, 2026, per Check Point. \"The campaign is primarily",
+      "published": "Tue, 07 Apr 2026 00:07:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
@@ -139,15 +148,26 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
-      "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
-      "summary": "Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest credentials, and drop a persistent implant. \"Every package contains three files (package.json, index.js, postinstall.js), has no description, repository,",
-      "published": "Sun, 05 Apr 2026 10:37:00 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
+      "summary": "Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions. [...]",
+      "published": "Mon, 06 Apr 2026 15:19:27 -0400",
+      "value_score": 53,
       "value_signals": [
+        "Zero-day",
+        "Privilege escalation",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
+      "summary": "Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook.com. [...]",
+      "published": "Mon, 06 Apr 2026 15:19:24 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -214,32 +234,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released",
-      "link": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
-      "summary": "Fortinet has released an emergency weekend security update for a new critical FortiClient Enterprise Management Server (EMS) vulnerability that is actively exploited in attacks. [...]",
-      "published": "Sun, 05 Apr 2026 14:45:17 -0400",
-      "value_score": 65,
-      "value_signals": [
-        "Active exploitation",
-        "Patch/update ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit React2Shell in automated credential theft campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
-      "summary": "Hackers are running a large-scale campaign to steal credentials in an automated way after exploiting React2Shell (CVE-2025-55182) in vulnerable Next.js apps. [...]",
-      "published": "Sun, 05 Apr 2026 10:17:23 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
       ]
     },
     {

@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-04-06 02:01",
+  "last_updated": "2026-04-06 05:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "t mobile sets",
     "malicious cyber actors",
-    "things iot devices",
     "service ddos doxing",
     "forticlient ems fortinet",
     "supply chain compromise",
@@ -22,48 +21,49 @@
     "crowdstrike's nemesis microsoft",
     "adopt ios 26",
     "axios npm package",
-    "outdated mobile devices"
+    "outdated mobile devices",
+    "everyday apps combined"
   ],
   "trending": [
     {
       "keyword": "t mobile sets",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 407
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 192
+      "mentions": 408
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 188
+      "mentions": 189
     },
     {
       "keyword": "forticlient ems fortinet",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "supply chain compromise",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "zero click exploits",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "web shells rely",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1243
+      "mentions": 1244
     },
     {
       "keyword": "sending fake notice",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "rsac 2026 conference",
+      "mentions": 70
     }
   ],
   "articles": [
@@ -247,6 +247,17 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+      "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
+      "published": "Mon, 06 Apr 2026 02:07:17 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
       "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
       "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
       "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
@@ -313,17 +324,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-      "published": "Wed, 11 Feb 2026 16:08:11 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
       ]
     },
     {

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 407,
+      "count": 408,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1243,
+      "count": 1244,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -7978,7 +7978,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9471,7 +9471,7 @@
       ]
     },
     "supply chain compromise": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10459,7 +10459,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10504,7 +10504,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10548,7 +10548,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 160,
+      "count": 161,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11807,7 +11807,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11875,7 +11875,7 @@
       ]
     },
     "t mobile sets": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11903,7 +11903,7 @@
       ]
     },
     "zero click exploits": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11918,14 +11918,15 @@
       ]
     },
     "everyday apps combined": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-03",
-        "2026-04-05"
+        "2026-04-05",
+        "2026-04-06"
       ]
     },
     "axios npm package": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11934,7 +11935,7 @@
       ]
     },
     "outdated mobile devices": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11969,7 +11970,7 @@
       ]
     },
     "food delivery services": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11978,7 +11979,7 @@
       ]
     },
     "web shells rely": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11987,7 +11988,7 @@
       ]
     },
     "adopt ios 26": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -11996,7 +11997,7 @@
       ]
     },
     "oauth based phishing": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12005,7 +12006,7 @@
       ]
     },
     "crowdstrike's nemesis microsoft": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-04",
         "2026-04-05",
@@ -12020,14 +12021,14 @@
       ]
     },
     "forticlient ems fortinet": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-05",
         "2026-04-06"
       ]
     },
     "sending fake notice": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-05",
         "2026-04-06"
@@ -12035,17 +12036,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-28 01:48",
-      "articles": 56,
-      "top_keywords": [
-        "hacker exploited vulnerabilities",
-        "threat actor behind",
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution"
-      ]
-    },
     {
       "timestamp": "2026-03-28 04:15",
       "articles": 56,
@@ -13133,6 +13123,17 @@
         "things iot devices",
         "service ddos doxing",
         "forticlient ems fortinet"
+      ]
+    },
+    {
+      "timestamp": "2026-04-06 05:56",
+      "articles": 56,
+      "top_keywords": [
+        "t mobile sets",
+        "malicious cyber actors",
+        "service ddos doxing",
+        "forticlient ems fortinet",
+        "supply chain compromise"
       ]
     }
   ]

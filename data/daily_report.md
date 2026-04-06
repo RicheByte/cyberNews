@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-06 02:01 UTC  
+> **Last Updated:** 2026-04-06 05:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**t mobile sets** • **malicious cyber actors** • **things iot devices** • **service ddos doxing** • **forticlient ems fortinet** • **supply chain compromise** • **zero click exploits** • **web shells rely** • **twitter whistleblower complaint** • **sending fake notice** • **rsac 2026 conference** • **popular online destinations** • **oauth based phishing** • **iran's intelligence agencies** • **hitachi energy ellipse** • **food delivery services** • **crowdstrike's nemesis microsoft** • **adopt ios 26** • **axios npm package** • **outdated mobile devices**
+**t mobile sets** • **malicious cyber actors** • **service ddos doxing** • **forticlient ems fortinet** • **supply chain compromise** • **zero click exploits** • **web shells rely** • **twitter whistleblower complaint** • **sending fake notice** • **rsac 2026 conference** • **popular online destinations** • **oauth based phishing** • **iran's intelligence agencies** • **hitachi energy ellipse** • **food delivery services** • **crowdstrike's nemesis microsoft** • **adopt ios 26** • **axios npm package** • **outdated mobile devices** • **everyday apps combined**
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 - [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
 - [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
 - [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
@@ -45,7 +46,6 @@
 - [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
 - [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
 - [‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA](https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/)
-- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/)
 
 ### Dark Reading
 

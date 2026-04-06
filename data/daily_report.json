@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-06 05:56",
+  "last_updated": "2026-04-06 07:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "t mobile sets",
     "malicious cyber actors",
-    "service ddos doxing",
     "forticlient ems fortinet",
+    "service ddos doxing",
     "supply chain compromise",
     "zero click exploits",
     "web shells rely",
@@ -17,56 +17,67 @@
     "oauth based phishing",
     "iran's intelligence agencies",
     "hitachi energy ellipse",
-    "food delivery services",
     "crowdstrike's nemesis microsoft",
     "adopt ios 26",
-    "axios npm package",
+    "service raas operation",
     "outdated mobile devices",
-    "everyday apps combined"
+    "axios npm package",
+    "clients security posture"
   ],
   "trending": [
     {
       "keyword": "t mobile sets",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 408
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 189
+      "mentions": 409
     },
     {
       "keyword": "forticlient ems fortinet",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 190
     },
     {
       "keyword": "supply chain compromise",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "zero click exploits",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "web shells rely",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1244
+      "mentions": 1245
     },
     {
       "keyword": "sending fake notice",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "rsac 2026 conference",
-      "mentions": 70
+      "mentions": 71
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
+      "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. The threat actor, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum. He",
+      "published": "Mon, 06 Apr 2026 12:29:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
@@ -144,15 +155,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
-      "link": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
-      "summary": "Cybersecurity researchers have discovered a new version of the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the trojan was discovered targeting both the mobile operating systems. The malware has been found to conceal itself within seemingly benign apps, such as enterprise messengers and food delivery services, while",
-      "published": "Fri, 03 Apr 2026 14:40:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

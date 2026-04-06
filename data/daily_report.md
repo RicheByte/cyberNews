@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-06 05:56 UTC  
+> **Last Updated:** 2026-04-06 07:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**t mobile sets** • **malicious cyber actors** • **service ddos doxing** • **forticlient ems fortinet** • **supply chain compromise** • **zero click exploits** • **web shells rely** • **twitter whistleblower complaint** • **sending fake notice** • **rsac 2026 conference** • **popular online destinations** • **oauth based phishing** • **iran's intelligence agencies** • **hitachi energy ellipse** • **food delivery services** • **crowdstrike's nemesis microsoft** • **adopt ios 26** • **axios npm package** • **outdated mobile devices** • **everyday apps combined**
+**t mobile sets** • **malicious cyber actors** • **forticlient ems fortinet** • **service ddos doxing** • **supply chain compromise** • **zero click exploits** • **web shells rely** • **twitter whistleblower complaint** • **sending fake notice** • **rsac 2026 conference** • **popular online destinations** • **oauth based phishing** • **iran's intelligence agencies** • **hitachi energy ellipse** • **crowdstrike's nemesis microsoft** • **adopt ios 26** • **service raas operation** • **outdated mobile devices** • **axios npm package** • **clients security posture**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
 - [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
 - [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
 - [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
@@ -23,7 +24,6 @@
 - [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
 - [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
 - [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
-- [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
 
 ### BleepingComputer
 

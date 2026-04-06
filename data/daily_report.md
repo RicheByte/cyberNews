@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-06 20:33 UTC  
+> **Last Updated:** 2026-04-06 22:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**execute additional payloads** • **service ddos doxing** • **guardarian users targeted** • **supply chain attack** • **valuable developer machines** • **upload arbitrary files** • **twitter whistleblower complaint** • **things iot devices** • **sending fake notice** • **many soc workflows** • **key figures associated** • **iran's intelligence agencies** • **iran war unleashing** • **hitachi energy ellipse** • **adopt ios 26** • **280 million hack** • **software supply chain** • **months long targeted** • **threat actor behind** • **high velocity attacks**
+**execute additional payloads** • **threat actor appears** • **supply chain attack** • **service ddos doxing** • **guardarian users targeted** • **valuable developer machines** • **upload arbitrary files** • **twitter whistleblower complaint** • **things iot devices** • **popular online destinations** • **key figures associated** • **iran's intelligence agencies** • **iran war unleashing** • **hitachi energy ellipse** • **adopt ios 26** • **280 million hack** • **many soc workflows** • **high velocity attacks** • **email flooding attacks** • **asian government attacks**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
 - [Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit](https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/)
 - [Microsoft fixes Classic Outlook bug causing email delivery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/)
 - [Microsoft removes Support and Recovery Assistant from Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/)
@@ -34,7 +35,6 @@
 - [Drift $280M crypto theft linked to 6-month in-person operation](https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/)
 - [CISA orders feds to patch exploited Fortinet EMS flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/)
 - [Why Simple Breach Monitoring is No Longer Enough](https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/)
-- [Traffic violation scams switch to QR codes in new phishing texts](https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [AI-Assisted Supply Chain Attack Targets GitHub](https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github)
+- [Axios Attack Shows Social Complex Engineering Is Industrialized](https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized)
+- [Fortinet Issues Emergency Patch for FortiClient Zero-Day](https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day)
 - [Automated Credential Harvesting Campaign Exploits React2Shell Flaw](https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell)
 - [Shadow AI in Healthcare Is Here to Stay](https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay)
 - [OWASP GenAI Security Project Gets Update, New Tools Matrix](https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix)
 - [Inconsistent Privacy Labels Don't Tell Users What They Are Getting](https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough)
 - [Apple Breaks Precedent, Patches DarkSword for iOS 18](https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18)
-- [Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting](https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting)
-- [Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication](https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication)
-- [Claude Source Code Leak Highlights Big Supply Chain Missteps](https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight)
 
 ### Security Week
 

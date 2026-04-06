@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1252,
+      "count": 1253,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1881,7 +1881,7 @@
       ]
     },
     "things iot devices": {
-      "count": 195,
+      "count": 196,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7978,7 +7978,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9084,7 +9084,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9096,7 +9096,8 @@
         "2026-03-18",
         "2026-03-24",
         "2026-04-01",
-        "2026-04-02"
+        "2026-04-02",
+        "2026-04-06"
       ]
     },
     "local file system": {
@@ -10461,7 +10462,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 197,
+      "count": 198,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10550,7 +10551,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 169,
+      "count": 170,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10716,7 +10717,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -10999,7 +11000,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -11812,7 +11813,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11959,7 +11960,7 @@
       ]
     },
     "upload arbitrary files": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-03",
         "2026-04-06"
@@ -11996,7 +11997,7 @@
       ]
     },
     "adopt ios 26": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12055,7 +12056,7 @@
       ]
     },
     "valuable developer machines": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-06"
       ]
@@ -12067,31 +12068,31 @@
       ]
     },
     "many soc workflows": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-06"
       ]
     },
     "key figures associated": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-06"
       ]
     },
     "280 million hack": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-06"
       ]
     },
     "guardarian users targeted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-06"
       ]
     },
     "execute additional payloads": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-06"
       ]
@@ -12103,6 +12104,18 @@
       ]
     },
     "high velocity attacks": {
+      "count": 2,
+      "dates": [
+        "2026-04-06"
+      ]
+    },
+    "threat actor appears": {
+      "count": 1,
+      "dates": [
+        "2026-04-06"
+      ]
+    },
+    "asian government attacks": {
       "count": 1,
       "dates": [
         "2026-04-06"
@@ -12110,17 +12123,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-28 20:23",
-      "articles": 56,
-      "top_keywords": [
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution",
-        "fake captcha page",
-        "wago gmbh co"
-      ]
-    },
     {
       "timestamp": "2026-03-28 22:23",
       "articles": 56,
@@ -13208,6 +13210,17 @@
         "guardarian users targeted",
         "supply chain attack",
         "valuable developer machines"
+      ]
+    },
+    {
+      "timestamp": "2026-04-06 22:31",
+      "articles": 56,
+      "top_keywords": [
+        "execute additional payloads",
+        "threat actor appears",
+        "supply chain attack",
+        "service ddos doxing",
+        "guardarian users targeted"
       ]
     }
   ]

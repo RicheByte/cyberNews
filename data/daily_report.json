@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-06 20:33",
+  "last_updated": "2026-04-06 22:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "execute additional payloads",
+    "threat actor appears",
+    "supply chain attack",
     "service ddos doxing",
     "guardarian users targeted",
-    "supply chain attack",
     "valuable developer machines",
     "upload arbitrary files",
     "twitter whistleblower complaint",
     "things iot devices",
-    "sending fake notice",
-    "many soc workflows",
+    "popular online destinations",
     "key figures associated",
     "iran's intelligence agencies",
     "iran war unleashing",
     "hitachi energy ellipse",
     "adopt ios 26",
     "280 million hack",
-    "software supply chain",
-    "months long targeted",
-    "threat actor behind",
-    "high velocity attacks"
+    "many soc workflows",
+    "high velocity attacks",
+    "email flooding attacks",
+    "asian government attacks"
   ],
   "trending": [
     {
       "keyword": "execute additional payloads",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "service ddos doxing",
-      "mentions": 197
-    },
-    {
-      "keyword": "guardarian users targeted",
-      "mentions": 2
+      "keyword": "threat actor appears",
+      "mentions": 1
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 28
+      "mentions": 29
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 198
+    },
+    {
+      "keyword": "guardarian users targeted",
+      "mentions": 3
     },
     {
       "keyword": "valuable developer machines",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "upload arbitrary files",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1252
+      "mentions": 1253
     },
     {
       "keyword": "things iot devices",
-      "mentions": 195
+      "mentions": 196
     },
     {
-      "keyword": "sending fake notice",
-      "mentions": 12
-    },
-    {
-      "keyword": "many soc workflows",
-      "mentions": 4
+      "keyword": "popular online destinations",
+      "mentions": 77
     }
   ],
   "articles": [
@@ -149,6 +149,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
+      "summary": "A new attack, dubbed GPUBreach, can induce Rowhammer bit-flips on GPU GDDR6 memories to escalate privileges and lead to a full system compromise. [...]",
+      "published": "Mon, 06 Apr 2026 17:44:15 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit",
       "link": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
       "summary": "Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions. [...]",
@@ -223,17 +232,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Traffic violation scams switch to QR codes in new phishing texts",
-      "link": "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/",
-      "summary": "Scammers are sending fake \"Notice of Default\" traffic violation text messages impersonating state courts across the U.S., pressuring recipients to scan a QR code that leads to a phishing site demanding a $6.99 payment while stealing personal and financial information. [...]",
-      "published": "Sun, 05 Apr 2026 15:44:10 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {
@@ -319,6 +317,40 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI-Assisted Supply Chain Attack Targets GitHub",
+      "link": "https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github",
+      "summary": "PRT-scan is the second in recent months where a threat actor appears to have leveraged AI for automated targeting of a widespread GitHub misconfiguration.",
+      "published": "Mon, 06 Apr 2026 21:38:53 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Axios Attack Shows Social Complex Engineering Is Industrialized",
+      "link": "https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized",
+      "summary": "The attack on the popular NPM package Axios is just one of many targeting maintainers and has shone a light on how threat actors can scale sophisticated social engineering campaigns.",
+      "published": "Mon, 06 Apr 2026 20:55:44 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Fortinet Issues Emergency Patch for FortiClient Zero-Day",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day",
+      "summary": "The authentication bypass flaw, tracked as CVE-2026-35616, is the latest in a series of Fortinet vulnerabilities that have been exploited in the wild.",
+      "published": "Mon, 06 Apr 2026 20:24:19 GMT",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Active exploitation",
+        "Auth bypass",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Automated Credential Harvesting Campaign Exploits React2Shell Flaw",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell",
       "summary": "An emerging threat cluster tracked as UAT-10608 is exploiting vulnerable Web-exposed Next.js apps and using an automated tool to exfiltrate credentials, secrets, and other system data.",
@@ -365,36 +397,6 @@
       "published": "Fri, 03 Apr 2026 17:08:57 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting",
-      "link": "https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting",
-      "summary": "As organizations disclose breaches tied to TeamPCP's supply chain attacks, ShinyHunters and Lapsus$ are getting involved, taking credit, and creating a murky situation for enterprises.",
-      "published": "Fri, 03 Apr 2026 15:11:16 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication",
-      "link": "https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication",
-      "summary": "\"Skull vibration harmonics generated by vital signs\" can be used to sign in to VR, AR, and MR headsets, according to emerging research.",
-      "published": "Fri, 03 Apr 2026 13:30:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Claude Source Code Leak Highlights Big Supply Chain Missteps",
-      "link": "https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight",
-      "summary": "Or, why the software supply chain should be treated as critical infrastructure with guardrails built in at every layer.",
-      "published": "Fri, 03 Apr 2026 13:00:00 GMT",
-      "value_score": 30,
-      "value_signals": [
-        "Breach/leak",
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",

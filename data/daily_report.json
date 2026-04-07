@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-04-07 16:52",
+  "last_updated": "2026-04-07 18:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "high velocity attacks",
-    "medusa ransomware fast",
-    "deploying medusa ransomware",
     "maximum severity vulnerability",
+    "iran's intelligence agencies",
     "agents autonomous programs",
-    "gpu rowhammer attacks",
     "trent ai emerges",
-    "threat actor appears",
     "service ddos doxing",
     "close identity gaps",
+    "gpu rowhammer attacks",
     "rsac 2026 conference",
-    "remote code execution",
-    "popular online destinations",
+    "deploying medusa ransomware",
     "jasper report vulnerability",
-    "centralized identity systems",
     "twitter whistleblower complaint",
-    "iran's intelligence agencies",
-    "iran war unleashing",
     "hitachi energy ellipse",
-    "exfiltrate credentials secrets"
+    "exfiltrate credentials secrets",
+    "service dos condition",
+    "cve 2025 59528",
+    "microsoft allowing attackers",
+    "critical flowise vulnerability",
+    "critical dos vulnerability",
+    "threat actor appears",
+    "older internet routers"
   ],
   "trending": [
     {
-      "keyword": "high velocity attacks",
-      "mentions": 7
-    },
-    {
-      "keyword": "medusa ransomware fast",
-      "mentions": 3
-    },
-    {
-      "keyword": "deploying medusa ransomware",
-      "mentions": 5
-    },
-    {
       "keyword": "maximum severity vulnerability",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 179
     },
     {
       "keyword": "agents autonomous programs",
-      "mentions": 92
-    },
-    {
-      "keyword": "gpu rowhammer attacks",
-      "mentions": 3
+      "mentions": 93
     },
     {
       "keyword": "trent ai emerges",
-      "mentions": 1
-    },
-    {
-      "keyword": "threat actor appears",
-      "mentions": 9
+      "mentions": 2
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 206
+      "mentions": 207
     },
     {
       "keyword": "close identity gaps",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "gpu rowhammer attacks",
+      "mentions": 4
+    },
+    {
+      "keyword": "rsac 2026 conference",
+      "mentions": 76
+    },
+    {
+      "keyword": "deploying medusa ransomware",
+      "mentions": 6
+    },
+    {
+      "keyword": "jasper report vulnerability",
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+      "summary": "The Russia-linked threat actor known as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to turn them into malicious infrastructure under their control as part of a cyber espionage campaign since at least May 2025. The large-scale exploitation campaign has been codenamed",
+      "published": "Tue, 07 Apr 2026 22:18:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
+      "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
+      "summary": "In the rapid evolution of the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security leaders: Identity programs are maturing, yet the risk is actually increasing. According to new research from the Ponemon Institute, hundreds of applications within the typical enterprise remain disconnected from centralized identity systems. These \"dark",
+      "published": "Tue, 07 Apr 2026 21:59:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
@@ -89,17 +111,6 @@
       "value_score": 36,
       "value_signals": [
         "Botnet ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-      "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-      "summary": "In the rapid evolution of the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security leaders: Identity programs are maturing, yet the risk is actually increasing. According to new research from the Ponemon Institute, hundreds of applications within the typical enterprise remain disconnected from centralized identity systems. These \"dark",
-      "published": "Tue, 07 Apr 2026 17:47:00 +0530",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },
@@ -153,13 +164,28 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
-      "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
-      "summary": "An Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid ongoing conflict in the Middle East. The activity, assessed to be ongoing, was carried out in three distinct attack waves that took place on March 3, March 13, and March 23, 2026, per Check Point. \"The campaign is primarily",
-      "published": "Tue, 07 Apr 2026 00:07:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "US warns of Iranian hackers targeting critical infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
+      "summary": "Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical infrastructure organizations. [...]",
+      "published": "Tue, 07 Apr 2026 14:02:26 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
+      "summary": "Hackers are exploiting a maximum-severity vulnerability, tracked as CVE-2025-59528, in the open-source platform Flowise for building custom LLM apps and agentic systems to execute arbitrary code. [...]",
+      "published": "Tue, 07 Apr 2026 13:02:05 -0400",
+      "value_score": 54,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -224,26 +250,13 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Microsoft removes Support and Recovery Assistant from Windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
-      "summary": "Microsoft has deprecated and removed the Support and Recovery Assistant (SaRA) command-line utility from all in-support versions of Windows updates starting March 10. [...]",
-      "published": "Mon, 06 Apr 2026 13:45:57 -0400",
+      "source": "Krebs on Security",
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
+      "published": "Tue, 07 Apr 2026 17:02:44 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
-      "summary": "Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks. [...]",
-      "published": "Mon, 06 Apr 2026 12:56:01 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "Ransomware ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -316,17 +329,6 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-      "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentic",
-      "published": "Fri, 20 Feb 2026 20:00:30 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
       "source": "Dark Reading",
       "title": "RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever",
       "link": "https://www.darkreading.com/cybersecurity-operations/rsac-2026-how-ai-is-reshaping-cybersecurity-faster-than-ever",
@@ -373,7 +375,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Axios Attack Shows Social Complex Engineering Is Industrialized",
+      "title": "Axios Attack Shows Complex Social Engineering Is Industrialized",
       "link": "https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized",
       "summary": "The attack on the popular NPM package Axios is just one of many targeting maintainers and has shone a light on how threat actors can scale sophisticated social engineering campaigns.",
       "published": "Mon, 06 Apr 2026 20:55:44 GMT",
@@ -405,6 +407,17 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks",
+      "link": "https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/",
+      "summary": "New AI model drives Project Glasswing, a effort to secure critical software before advanced capabilities fall into the wrong hands. The post Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 07 Apr 2026 18:39:56 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
       ]
     },
     {
@@ -476,18 +489,6 @@
       "published": "Tue, 07 Apr 2026 11:31:38 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems",
-      "link": "https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/",
-      "summary": "The group is using zero-days, quickly weaponizes fresh bugs, and exfiltrates and encrypts data within days of initial access. The post Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems appeared first on SecurityWeek .",
-      "published": "Tue, 07 Apr 2026 10:52:33 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",
@@ -588,6 +589,19 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure",
+      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a",
+      "summary": "Advisory at a Glance Title Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure Original Publication April 7, 2026 Executive Summary Iran-affiliated advanced persistent threat (APT) actors are conducting exploitation activity targeting internet-facing operational technology (OT) devices, including programmable logic controllers (PLCs) manufactured by Rockwell Automation/Allen-Bradley. This activity has led to PLC disruptions across several U.S.",
+      "published": "Tue, 07 Apr 26 12:00:00 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-35616 - Fortinet FortiClient EMS Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
@@ -616,18 +630,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens SICAM 8 Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01",
-      "summary": "View CSAF Summary Multiple SICAM 8 products are affected by multiple vulnerabilities that could lead to denial of service, namely: - SICAM A8000 Device firmware - CPCI85 for CP-8031/CP-8050 - SICORE for CP-8010/CP-8012 - RTUM85 for CP-8010/CP-8012 - SICAM EGS Device firmware - CPCI85 - SICAM S8000 - SICORE - RTUM85 Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SICAM 8 Products are affected: CPCI85 Ce",
-      "published": "Thu, 02 Apr 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Hitachi Energy Ellipse",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03",
       "summary": "View CSAF Summary Hitachi Energy is aware of a Jasper Report vulnerability that affects the Ellipse product versions mentioned in this document below. This vulnerability can be exploited to carry out remote code execution (RCE) attack on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Ellipse are affected: Ellipse vers:Ellipse/<=9.0.50 (CVE-2025-10492) CVSS Vendor Equipment Vulnerabilities v",
@@ -638,6 +640,18 @@
         "CVE mentioned",
         "RCE ×2",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens SICAM 8 Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01",
+      "summary": "View CSAF Summary Multiple SICAM 8 products are affected by multiple vulnerabilities that could lead to denial of service, namely: - SICAM A8000 Device firmware - CPCI85 for CP-8031/CP-8050 - SICORE for CP-8010/CP-8012 - RTUM85 for CP-8010/CP-8012 - SICAM EGS Device firmware - CPCI85 - SICAM S8000 - SICORE - RTUM85 Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SICAM 8 Products are affected: CPCI85 Ce",
+      "published": "Thu, 02 Apr 26 12:00:00 +0000",
+      "value_score": 43,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update"
       ]
     },
     {
@@ -665,20 +679,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Anritsu Remote Spectrum Monitor",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers with network access to alter operational settings, obtain sensitive signal data, or disrupt device availability. The following versions of Anritsu Remote Spectrum Monitor are affected: Remote Spectrum Monitor MS27100A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27101A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27102A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27103A vers:all/* (CVE-",
-      "published": "Tue, 31 Mar 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     }

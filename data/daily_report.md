@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-07 20:41 UTC  
+> **Last Updated:** 2026-04-07 22:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**maximum severity vulnerability** • **authentication tokens stolen** • **trent ai emerges** • **iran's intelligence agencies** • **agents autonomous programs** • **gpu rowhammer attacks** • **service ddos doxing** • **close identity gaps** • **data theft attacks** • **deploying medusa ransomware** • **jasper report vulnerability** • **twitter whistleblower complaint** • **hitachi energy ellipse** • **microsoft allowing attackers** • **service dos condition** • **known common vulne** • **cve 2025 59528** • **critical flowise vulnerability** • **critical dos vulnerability** • **email flooding attacks**
+**maximum severity vulnerability** • **authentication tokens stolen** • **trent ai emerges** • **iran's intelligence agencies** • **agents autonomous programs** • **service ddos doxing** • **close identity gaps** • **gpu rowhammer attacks** • **data theft attacks** • **deploying medusa ransomware** • **twitter whistleblower complaint** • **jasper report vulnerability** • **hitachi energy ellipse** • **service dos condition** • **known common vulne** • **cve 2025 59528** • **email flooding attacks** • **older internet routers** • **automated pentesting tool** • **centralized identity systems**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Hackers exploit critical flaw in Ninja Forms WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/)
+- [FBI: Americans lost a record $21 billion to cybercrime last year](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/)
 - [Snowflake customers hit in data theft attacks after SaaS integrator breach](https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/)
 - [US warns of Iranian hackers targeting critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/)
 - [Max severity Flowise RCE vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/)
 - [Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins](https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/)
 - [Why Your Automated Pentesting Tool Just Hit a Wall](https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/)
 - [German authorities identify REvil and GandCrab ransomware bosses](https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/)
-- [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
-- [Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit](https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/)
 
 ### Krebs on Security
 

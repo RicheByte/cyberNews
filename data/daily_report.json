@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07 20:41",
+  "last_updated": "2026-04-07 22:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,62 +8,62 @@
     "trent ai emerges",
     "iran's intelligence agencies",
     "agents autonomous programs",
-    "gpu rowhammer attacks",
     "service ddos doxing",
     "close identity gaps",
+    "gpu rowhammer attacks",
     "data theft attacks",
     "deploying medusa ransomware",
-    "jasper report vulnerability",
     "twitter whistleblower complaint",
+    "jasper report vulnerability",
     "hitachi energy ellipse",
-    "microsoft allowing attackers",
     "service dos condition",
     "known common vulne",
     "cve 2025 59528",
-    "critical flowise vulnerability",
-    "critical dos vulnerability",
-    "email flooding attacks"
+    "email flooding attacks",
+    "older internet routers",
+    "automated pentesting tool",
+    "centralized identity systems"
   ],
   "trending": [
     {
       "keyword": "maximum severity vulnerability",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "authentication tokens stolen",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "trent ai emerges",
-      "mentions": 3
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 180
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 94
-    },
-    {
-      "keyword": "gpu rowhammer attacks",
-      "mentions": 5
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 208
-    },
-    {
-      "keyword": "close identity gaps",
       "mentions": 4
     },
     {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 181
+    },
+    {
+      "keyword": "agents autonomous programs",
+      "mentions": 95
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 209
+    },
+    {
+      "keyword": "close identity gaps",
+      "mentions": 5
+    },
+    {
+      "keyword": "gpu rowhammer attacks",
+      "mentions": 6
+    },
+    {
       "keyword": "data theft attacks",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "deploying medusa ransomware",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
@@ -165,6 +165,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
+      "summary": "A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution. [...]",
+      "published": "Tue, 07 Apr 2026 18:03:01 -0400",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FBI: Americans lost a record $21 billion to cybercrime last year",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/",
+      "summary": "U.S. victims lost nearly $21 billion to cyber-enabled crimes last year, driven primarily by investment scams, business email compromise, tech support fraud, and data breaches, the Federal Bureau of Investigation says. [...]",
+      "published": "Tue, 07 Apr 2026 16:41:52 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
       "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
       "summary": "Over a dozen companies have suffered data theft attacks after a SaaS integration provider was breached and authentication tokens stolen. [...]",
@@ -227,28 +249,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
-      "summary": "A new attack, dubbed GPUBreach, can induce Rowhammer bit-flips on GPU GDDR6 memories to escalate privileges and lead to a full system compromise. [...]",
-      "published": "Mon, 06 Apr 2026 17:44:15 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
-      "summary": "Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions. [...]",
-      "published": "Mon, 06 Apr 2026 15:19:27 -0400",
-      "value_score": 53,
-      "value_signals": [
-        "Zero-day",
-        "Privilege escalation",
-        "Exploit wording"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07 01:58",
+  "last_updated": "2026-04-07 04:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "execute additional payloads",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "threat actor appears",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 199
+      "mentions": 200
     },
     {
       "keyword": "guardarian users targeted",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "valuable developer machines",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "upload arbitrary files",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1254
+      "mentions": 1255
     },
     {
       "keyword": "things iot devices",
-      "mentions": 197
+      "mentions": 198
     },
     {
       "keyword": "popular online destinations",
-      "mentions": 78
+      "mentions": 79
     }
   ],
   "articles": [
@@ -149,7 +149,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "German authorities identify REvil and GangCrab ransomware bosses",
+      "title": "German authorities identify REvil and GandCrab ransomware bosses",
       "link": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
       "summary": "The Federal Police in Germany (BKA) has identified two Russian nationals as the leaders of GandCrab and REvil ransomware operations between 2019 and 2021. [...]",
       "published": "Mon, 06 Apr 2026 19:54:04 -0400",

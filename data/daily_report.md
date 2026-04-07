@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-07 15:03 UTC  
+> **Last Updated:** 2026-04-07 16:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**white house seeks** • **medusa ransomware fast** • **deploying medusa ransomware** • **high velocity attacks** • **service ddos doxing** • **gpu rowhammer attacks** • **threat actor appears** • **remote code execution** • **close identity gaps** • **rsac 2026 conference** • **popular online destinations** • **centralized identity systems** • **twitter whistleblower complaint** • **jasper report vulnerability** • **iran's intelligence agencies** • **iran war unleashing** • **hitachi energy ellipse** • **classic outlook users** • **agents autonomous programs** • **high end casino**
+**high velocity attacks** • **medusa ransomware fast** • **deploying medusa ransomware** • **maximum severity vulnerability** • **agents autonomous programs** • **gpu rowhammer attacks** • **trent ai emerges** • **threat actor appears** • **service ddos doxing** • **close identity gaps** • **rsac 2026 conference** • **remote code execution** • **popular online destinations** • **jasper report vulnerability** • **centralized identity systems** • **twitter whistleblower complaint** • **iran's intelligence agencies** • **iran war unleashing** • **hitachi energy ellipse** • **exfiltrate credentials secrets**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
 - [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
 - [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
 - [The Hidden Cost of Recurring Credential Incidents](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
@@ -23,10 +24,10 @@
 - [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html)
 - [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
 - [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
-- [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
 
 ### BleepingComputer
 
+- [Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins](https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/)
 - [Why Your Automated Pentesting Tool Just Hit a Wall](https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/)
 - [German authorities identify REvil and GandCrab ransomware bosses](https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/)
 - [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
@@ -34,7 +35,6 @@
 - [Microsoft fixes Classic Outlook bug causing email delivery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/)
 - [Microsoft removes Support and Recovery Assistant from Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/)
 - [Microsoft links Medusa ransomware affiliate to zero-day attacks](https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/)
-- [Drift $280M crypto theft linked to 6-month in-person operation](https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [The New Rules of Engagement: Matching Agentic Attack Speed](https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/)
+- [Trent AI Emerges From Stealth With $13 Million in Funding](https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/)
+- [Critical Flowise Vulnerability in Attacker Crosshairs](https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/)
 - [Severe StrongBox Vulnerability Patched in Android](https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/)
 - [GrafanaGhost: Attackers Can Abuse Grafana to Leak Enterprise Data](https://www.securityweek.com/grafanaghost-attackers-can-abuse-grafana-to-leak-enterprise-data/)
 - [Webinar Today: Why Automated Pentesting Alone Is Not Enough](https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/)
 - [GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack](https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/)
 - [Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems](https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/)
-- [German Police Unmask REvil Ransomware Leader](https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/)
-- [White House Seeks to Slash CISA Funding by $707 Million](https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/)
-- [Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack](https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Mitsubishi Electric GENESIS64 and ICONICS Suite products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-097-01)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Siemens SICAM 8 Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01)
-- [Yokogawa CENTUM VP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [Siemens SICAM 8 Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01)
 - [Hitachi Energy Ellipse](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03)
+- [Yokogawa CENTUM VP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Anritsu Remote Spectrum Monitor](https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01)
-- [PX4 Autopilot](https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-02)
 
 ---
 

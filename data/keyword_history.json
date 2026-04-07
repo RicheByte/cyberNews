@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1260,
+      "count": 1261,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -628,7 +628,7 @@
       ]
     },
     "remote code execution": {
-      "count": 206,
+      "count": 207,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -678,10 +678,11 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-18",
-        "2025-12-19"
+        "2025-12-19",
+        "2026-04-07"
       ]
     },
     "remote work requires": {
@@ -3097,7 +3098,7 @@
       ]
     },
     "jasper report vulnerability": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-12",
         "2026-01-13",
@@ -7982,7 +7983,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9224,7 +9225,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -10471,7 +10472,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 205,
+      "count": 206,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10517,7 +10518,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10562,7 +10563,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 177,
+      "count": 178,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11013,7 +11014,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -11829,7 +11830,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -12130,14 +12131,14 @@
       ]
     },
     "high velocity attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-06",
         "2026-04-07"
       ]
     },
     "threat actor appears": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12156,7 +12157,7 @@
       ]
     },
     "deploying medusa ransomware": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-07"
       ]
@@ -12168,24 +12169,36 @@
       ]
     },
     "medusa ransomware fast": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-07"
       ]
     },
     "gpu rowhammer attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-07"
       ]
     },
     "centralized identity systems": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-07"
       ]
     },
     "close identity gaps": {
+      "count": 2,
+      "dates": [
+        "2026-04-07"
+      ]
+    },
+    "trent ai emerges": {
+      "count": 1,
+      "dates": [
+        "2026-04-07"
+      ]
+    },
+    "exfiltrate credentials secrets": {
       "count": 1,
       "dates": [
         "2026-04-07"
@@ -12193,17 +12206,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-29 14:29",
-      "articles": 56,
-      "top_keywords": [
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution",
-        "fake captcha page",
-        "wago gmbh co"
-      ]
-    },
     {
       "timestamp": "2026-03-29 16:29",
       "articles": 56,
@@ -13291,6 +13293,17 @@
         "deploying medusa ransomware",
         "high velocity attacks",
         "service ddos doxing"
+      ]
+    },
+    {
+      "timestamp": "2026-04-07 16:52",
+      "articles": 56,
+      "top_keywords": [
+        "high velocity attacks",
+        "medusa ransomware fast",
+        "deploying medusa ransomware",
+        "maximum severity vulnerability",
+        "agents autonomous programs"
       ]
     }
   ]

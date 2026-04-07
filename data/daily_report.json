@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-04-07 15:03",
+  "last_updated": "2026-04-07 16:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "white house seeks",
+    "high velocity attacks",
     "medusa ransomware fast",
     "deploying medusa ransomware",
-    "high velocity attacks",
-    "service ddos doxing",
+    "maximum severity vulnerability",
+    "agents autonomous programs",
     "gpu rowhammer attacks",
+    "trent ai emerges",
     "threat actor appears",
-    "remote code execution",
+    "service ddos doxing",
     "close identity gaps",
     "rsac 2026 conference",
+    "remote code execution",
     "popular online destinations",
+    "jasper report vulnerability",
     "centralized identity systems",
     "twitter whistleblower complaint",
-    "jasper report vulnerability",
     "iran's intelligence agencies",
     "iran war unleashing",
     "hitachi energy ellipse",
-    "classic outlook users",
-    "agents autonomous programs",
-    "high end casino"
+    "exfiltrate credentials secrets"
   ],
   "trending": [
     {
-      "keyword": "white house seeks",
-      "mentions": 4
+      "keyword": "high velocity attacks",
+      "mentions": 7
     },
     {
       "keyword": "medusa ransomware fast",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "deploying medusa ransomware",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "high velocity attacks",
-      "mentions": 6
+      "keyword": "maximum severity vulnerability",
+      "mentions": 12
     },
     {
-      "keyword": "service ddos doxing",
-      "mentions": 205
+      "keyword": "agents autonomous programs",
+      "mentions": 92
     },
     {
       "keyword": "gpu rowhammer attacks",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "trent ai emerges",
+      "mentions": 1
     },
     {
       "keyword": "threat actor appears",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "remote code execution",
+      "keyword": "service ddos doxing",
       "mentions": 206
     },
     {
       "keyword": "close identity gaps",
-      "mentions": 1
-    },
-    {
-      "keyword": "rsac 2026 conference",
-      "mentions": 74
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+      "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+      "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins (AuthZ) under specific circumstances. The vulnerability, tracked as CVE-2026-34040 (CVSS score: 8.8), stems from an incomplete fix for CVE-2024-41110, a maximum-severity vulnerability in the same component that came to light in July 2024. \"",
+      "published": "Tue, 07 Apr 2026 20:45:00 +0530",
+      "value_score": 66,
+      "value_signals": [
+        "CVE mentioned ×3",
+        "Patch/update",
+        "Multiple CVEs"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
@@ -149,11 +162,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
-      "link": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
-      "summary": "Threat actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South Korea. The attack chain, per Fortinet FortiGuard Labs, involves obfuscated Windows shortcut (LNK) files acting as the starting point to drop a decoy PDF",
-      "published": "Mon, 06 Apr 2026 21:54:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
+      "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
+      "summary": "An international operation from law enforcement authorities in partnership with private companies has disrupted FrostArmada, an APT28 campaign hijacking local traffic from MikroTik and TP-Link routers to steal Microsoft account credentials. [...]",
+      "published": "Tue, 07 Apr 2026 11:51:22 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -231,15 +244,6 @@
         "Ransomware ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Drift $280M crypto theft linked to 6-month in-person operation",
-      "link": "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/",
-      "summary": "The Drift Protocol says that the $280+ million hack it suffered last week was the result of a long-term, carefully planned operation that included building \"a functioning operational presence inside the Drift ecosystem.\" [...]",
-      "published": "Mon, 06 Apr 2026 12:35:03 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -405,6 +409,35 @@
     },
     {
       "source": "Security Week",
+      "title": "The New Rules of Engagement: Matching Agentic Attack Speed",
+      "link": "https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/",
+      "summary": "The cybersecurity response to AI-enabled nation-state threats cannot be incremental. It must be architectural. The post The New Rules of Engagement: Matching Agentic Attack Speed appeared first on SecurityWeek .",
+      "published": "Tue, 07 Apr 2026 16:40:52 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Trent AI Emerges From Stealth With $13 Million in Funding",
+      "link": "https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/",
+      "summary": "The startup has created a layered security solution aiming to secure AI agents throughout their entire lifecycle. The post Trent AI Emerges From Stealth With $13 Million in Funding appeared first on SecurityWeek .",
+      "published": "Tue, 07 Apr 2026 16:34:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Flowise Vulnerability in Attacker Crosshairs",
+      "link": "https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/",
+      "summary": "The improper validation of user-supplied JavaScript code allows attackers to execute arbitrary code and access the file system. The post Critical Flowise Vulnerability in Attacker Crosshairs appeared first on SecurityWeek .",
+      "published": "Tue, 07 Apr 2026 15:34:51 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Severe StrongBox Vulnerability Patched in Android",
       "link": "https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/",
       "summary": "A critical DoS vulnerability in the Framework component of Android has also been fixed with the latest update. The post Severe StrongBox Vulnerability Patched in Android appeared first on SecurityWeek .",
@@ -454,40 +487,6 @@
       "value_signals": [
         "Ransomware ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "German Police Unmask REvil Ransomware Leader",
-      "link": "https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/",
-      "summary": "Shchukin is accused of extorting more than $2 million as the head of the GandCrab and REvil ransomware operations. The post German Police Unmask REvil Ransomware Leader appeared first on SecurityWeek .",
-      "published": "Tue, 07 Apr 2026 09:24:40 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "White House Seeks to Slash CISA Funding by $707 Million",
-      "link": "https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/",
-      "summary": "The Trump administration says the FY2027 budget refocuses CISA on its core mission: protecting federal agencies and critical infrastructure. The post White House Seeks to Slash CISA Funding by $707 Million appeared first on SecurityWeek .",
-      "published": "Tue, 07 Apr 2026 08:29:41 +0000",
-      "value_score": 58,
-      "value_signals": [
-        "CISA/KEV ×3",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack",
-      "link": "https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/",
-      "summary": "The high-end casino and hotel operator has likely paid a ransom to avoid a data leak. The post Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack appeared first on SecurityWeek .",
-      "published": "Tue, 07 Apr 2026 06:05:54 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -575,10 +574,38 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Mitsubishi Electric GENESIS64 and ICONICS Suite products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-097-01",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a local attacker to disclose SQL Server credentials used by the affected products and use them to disclose, tamper with, or destroy data, or to cause a denial-of-service (DoS) condition on the system. The following versions of Mitsubishi Electric GENESIS64 and ICONICS Suite products are affected: GENESIS64 <=10.97.3 (CVE-2025-14815, CVE-2025-14816) ICONICS Suite <=10.97.3 (CVE-2025-14815, CVE-2025-14816) MobileHMI <=1",
+      "published": "Tue, 07 Apr 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-35616 - Fortinet FortiClient EMS Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
       "published": "Mon, 06 Apr 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-3502 TrueConf Client Download of Code Without Integrity Check Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a liv",
+      "published": "Thu, 02 Apr 26 12:00:00 +0000",
       "value_score": 99,
       "value_signals": [
         "Source boost: CISA Alerts",
@@ -601,34 +628,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Yokogawa CENTUM VP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to login as the PROG user and modify permissions. The following versions of Yokogawa CENTUM VP are affected: CENTUM VP >=R5.01.00| CENTUM VP >=R6.01.00| CENTUM VP vR7.01.00 (CVE-2025-7741) CVSS Vendor Equipment Vulnerabilities v3 4 Yokogawa Yokogawa CENTUM VP Use of Hard-coded Password Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Food and Agriculture Countries/Areas Deployed: Wo",
-      "published": "Thu, 02 Apr 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-3502 TrueConf Client Download of Code Without Integrity Check Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a liv",
-      "published": "Thu, 02 Apr 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Hitachi Energy Ellipse",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03",
       "summary": "View CSAF Summary Hitachi Energy is aware of a Jasper Report vulnerability that affects the Ellipse product versions mentioned in this document below. This vulnerability can be exploited to carry out remote code execution (RCE) attack on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Ellipse are affected: Ellipse vers:Ellipse/<=9.0.50 (CVE-2025-10492) CVSS Vendor Equipment Vulnerabilities v",
@@ -638,6 +637,20 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Yokogawa CENTUM VP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to login as the PROG user and modify permissions. The following versions of Yokogawa CENTUM VP are affected: CENTUM VP >=R5.01.00| CENTUM VP >=R6.01.00| CENTUM VP vR7.01.00 (CVE-2025-7741) CVSS Vendor Equipment Vulnerabilities v3 4 Yokogawa Yokogawa CENTUM VP Use of Hard-coded Password Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Food and Agriculture Countries/Areas Deployed: Wo",
+      "published": "Thu, 02 Apr 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×2",
         "Exploit wording"
       ]
     },
@@ -666,20 +679,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned ×3",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "PX4 Autopilot",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker with access to the MAVLink interface to execute arbitrary shell commands without cryptographic authentication. The following versions of PX4 Autopilot are affected: Autopilot v1.16.0_SITL_latest_stable (CVE-2026-1579) CVSS Vendor Equipment Vulnerabilities v3 9.8 PX4 PX4 Autopilot Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Transportation Systems, Emergency Services",
-      "published": "Tue, 31 Mar 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×2",
         "Exploit wording"
       ]
     }

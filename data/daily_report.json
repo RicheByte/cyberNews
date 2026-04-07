@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06 22:31",
+  "last_updated": "2026-04-07 01:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -20,50 +20,50 @@
     "adopt ios 26",
     "280 million hack",
     "many soc workflows",
-    "high velocity attacks",
-    "email flooding attacks",
-    "asian government attacks"
+    "threat actor behind",
+    "actively exploited vulnerability",
+    "yokogawa centum vp"
   ],
   "trending": [
     {
       "keyword": "execute additional payloads",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "threat actor appears",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 198
+      "mentions": 199
     },
     {
       "keyword": "guardarian users targeted",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "valuable developer machines",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "upload arbitrary files",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1253
+      "mentions": 1254
     },
     {
       "keyword": "things iot devices",
-      "mentions": 196
+      "mentions": 197
     },
     {
       "keyword": "popular online destinations",
-      "mentions": 77
+      "mentions": 78
     }
   ],
   "articles": [
@@ -149,6 +149,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "German authorities identify REvil and GangCrab ransomware bosses",
+      "link": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
+      "summary": "The Federal Police in Germany (BKA) has identified two Russian nationals as the leaders of GandCrab and REvil ransomware operations between 2019 and 2021. [...]",
+      "published": "Mon, 06 Apr 2026 19:54:04 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
       "link": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
       "summary": "A new attack, dubbed GPUBreach, can induce Rowhammer bit-flips on GPU GDDR6 memories to escalate privileges and lead to a full system compromise. [...]",
@@ -221,17 +232,6 @@
         "Patch/update",
         "CISA/KEV ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why Simple Breach Monitoring is No Longer Enough",
-      "link": "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/",
-      "summary": "Infostealers are harvesting credentials and session cookies at scale, bypassing traditional defenses. Lunar explains why simple breach monitoring alone can't keep up with modern credential-based attacks. [...]",
-      "published": "Mon, 06 Apr 2026 10:02:12 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

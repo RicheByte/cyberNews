@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-06 22:31 UTC  
+> **Last Updated:** 2026-04-07 01:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**execute additional payloads** • **threat actor appears** • **supply chain attack** • **service ddos doxing** • **guardarian users targeted** • **valuable developer machines** • **upload arbitrary files** • **twitter whistleblower complaint** • **things iot devices** • **popular online destinations** • **key figures associated** • **iran's intelligence agencies** • **iran war unleashing** • **hitachi energy ellipse** • **adopt ios 26** • **280 million hack** • **many soc workflows** • **high velocity attacks** • **email flooding attacks** • **asian government attacks**
+**execute additional payloads** • **threat actor appears** • **supply chain attack** • **service ddos doxing** • **guardarian users targeted** • **valuable developer machines** • **upload arbitrary files** • **twitter whistleblower complaint** • **things iot devices** • **popular online destinations** • **key figures associated** • **iran's intelligence agencies** • **iran war unleashing** • **hitachi energy ellipse** • **adopt ios 26** • **280 million hack** • **many soc workflows** • **threat actor behind** • **actively exploited vulnerability** • **yokogawa centum vp**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [German authorities identify REvil and GangCrab ransomware bosses](https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/)
 - [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
 - [Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit](https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/)
 - [Microsoft fixes Classic Outlook bug causing email delivery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/)
@@ -34,7 +35,6 @@
 - [Microsoft links Medusa ransomware affiliate to zero-day attacks](https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/)
 - [Drift $280M crypto theft linked to 6-month in-person operation](https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/)
 - [CISA orders feds to patch exploited Fortinet EMS flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/)
-- [Why Simple Breach Monitoring is No Longer Enough](https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/)
 
 ### Krebs on Security
 

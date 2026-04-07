@@ -1,16 +1,15 @@
 {
-  "last_updated": "2026-04-07 08:56",
+  "last_updated": "2026-04-07 10:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "white house seeks",
     "deploying medusa ransomware",
     "guardarian users targeted",
-    "execute additional payloads",
-    "threat actor appears",
+    "high velocity attacks",
     "service ddos doxing",
     "remote code execution",
-    "high velocity attacks",
+    "threat actor appears",
     "supply chain attack",
     "valuable developer machines",
     "twitter whistleblower complaint",
@@ -22,51 +21,64 @@
     "adopt ios 26",
     "code injection vulnerability",
     "many soc workflows",
-    "high end casino"
+    "high end casino",
+    "email flooding attacks"
   ],
   "trending": [
     {
       "keyword": "white house seeks",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "deploying medusa ransomware",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "guardarian users targeted",
-      "mentions": 7
-    },
-    {
-      "keyword": "execute additional payloads",
-      "mentions": 7
-    },
-    {
-      "keyword": "threat actor appears",
-      "mentions": 5
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 202
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 203
+      "mentions": 8
     },
     {
       "keyword": "high velocity attacks",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 203
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 204
+    },
+    {
+      "keyword": "threat actor appears",
+      "mentions": 6
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "valuable developer machines",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1258
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
+      "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
+      "summary": "New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take full control of a host. The efforts have been codenamed GPUBreach, GDDRHammer, and GeForge. GPUBreach goes a step further than GPUHammer, demonstrating for the first time that",
+      "published": "Tue, 07 Apr 2026 14:08:00 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Privilege escalation",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
@@ -141,17 +153,6 @@
       "published": "Mon, 06 Apr 2026 17:15:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
-      "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
-      "summary": "Threat actors associated with Qilin and Warlock ransomware operations have been observed using the bring your own vulnerable driver (BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco Talos and Trend Micro. Qilin attacks analyzed by Talos have been found to deploy a malicious DLL named \"msimg32.dll,\"",
-      "published": "Mon, 06 Apr 2026 15:37:00 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -406,6 +407,17 @@
     },
     {
       "source": "Security Week",
+      "title": "German Police Unmask REvil Ransomware Leader",
+      "link": "https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/",
+      "summary": "Shchukin is accused of extorting more than $2 million as the head of the GandCrab and REvil ransomware operations. The post German Police Unmask REvil Ransomware Leader appeared first on SecurityWeek .",
+      "published": "Tue, 07 Apr 2026 09:24:40 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "White House Seeks to Slash CISA Funding by $707 Million",
       "link": "https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/",
       "summary": "The Trump administration says the FY2027 budget refocuses CISA on its core mission: protecting federal agencies and critical infrastructure. The post White House Seeks to Slash CISA Funding by $707 Million appeared first on SecurityWeek .",
@@ -477,18 +489,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "TrueConf Zero-Day Exploited in Asian Government Attacks",
-      "link": "https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/",
-      "summary": "A Chinese threat actor exploited the video conferencing platform to perform reconnaissance, escalate privileges, and execute additional payloads. The post TrueConf Zero-Day Exploited in Asian Government Attacks appeared first on SecurityWeek .",
-      "published": "Fri, 03 Apr 2026 12:47:16 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
       ]
     },
     {

@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1257,
+      "count": 1258,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -628,7 +628,7 @@
       ]
     },
     "remote code execution": {
-      "count": 203,
+      "count": 204,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1883,7 +1883,7 @@
       ]
     },
     "things iot devices": {
-      "count": 200,
+      "count": 201,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7981,7 +7981,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9089,7 +9089,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9102,7 +9102,8 @@
         "2026-03-24",
         "2026-04-01",
         "2026-04-02",
-        "2026-04-06"
+        "2026-04-06",
+        "2026-04-07"
       ]
     },
     "local file system": {
@@ -9596,7 +9597,7 @@
       ]
     },
     "code injection vulnerability": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10468,7 +10469,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 202,
+      "count": 203,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10558,7 +10559,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 174,
+      "count": 175,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10725,7 +10726,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11009,7 +11010,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -11825,7 +11826,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -12012,7 +12013,7 @@
       ]
     },
     "adopt ios 26": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12072,7 +12073,7 @@
       ]
     },
     "valuable developer machines": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12085,7 +12086,7 @@
       ]
     },
     "many soc workflows": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12106,7 +12107,7 @@
       ]
     },
     "guardarian users targeted": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12126,14 +12127,14 @@
       ]
     },
     "high velocity attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-06",
         "2026-04-07"
       ]
     },
     "threat actor appears": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12146,36 +12147,25 @@
       ]
     },
     "white house seeks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-07"
       ]
     },
     "deploying medusa ransomware": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-07"
       ]
     },
     "high end casino": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-07"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-29 08:34",
-      "articles": 56,
-      "top_keywords": [
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution",
-        "fake captcha page",
-        "wago gmbh co"
-      ]
-    },
     {
       "timestamp": "2026-03-29 10:27",
       "articles": 56,
@@ -13263,6 +13253,17 @@
         "guardarian users targeted",
         "execute additional payloads",
         "threat actor appears"
+      ]
+    },
+    {
+      "timestamp": "2026-04-07 10:50",
+      "articles": 56,
+      "top_keywords": [
+        "white house seeks",
+        "deploying medusa ransomware",
+        "guardarian users targeted",
+        "high velocity attacks",
+        "service ddos doxing"
       ]
     }
   ]

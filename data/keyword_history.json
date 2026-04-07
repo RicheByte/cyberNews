@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1259,
+      "count": 1260,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -628,7 +628,7 @@
       ]
     },
     "remote code execution": {
-      "count": 205,
+      "count": 206,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3097,7 +3097,7 @@
       ]
     },
     "jasper report vulnerability": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-12",
         "2026-01-13",
@@ -7982,7 +7982,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9224,7 +9224,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -10471,7 +10471,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 204,
+      "count": 205,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10517,7 +10517,7 @@
       ]
     },
     "rsac 2026 conference": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-03-20",
         "2026-03-23",
@@ -10530,7 +10530,8 @@
         "2026-04-03",
         "2026-04-04",
         "2026-04-05",
-        "2026-04-06"
+        "2026-04-06",
+        "2026-04-07"
       ]
     },
     "response edr killers": {
@@ -10561,7 +10562,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 176,
+      "count": 177,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11012,7 +11013,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -11022,7 +11023,7 @@
       ]
     },
     "classic outlook users": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-25",
         "2026-04-07"
@@ -11828,7 +11829,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -12129,14 +12130,14 @@
       ]
     },
     "high velocity attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-06",
         "2026-04-07"
       ]
     },
     "threat actor appears": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12149,36 +12150,42 @@
       ]
     },
     "white house seeks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-07"
       ]
     },
     "deploying medusa ransomware": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-07"
       ]
     },
     "high end casino": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-07"
       ]
     },
     "medusa ransomware fast": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-07"
       ]
     },
     "gpu rowhammer attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-07"
       ]
     },
     "centralized identity systems": {
+      "count": 2,
+      "dates": [
+        "2026-04-07"
+      ]
+    },
+    "close identity gaps": {
       "count": 1,
       "dates": [
         "2026-04-07"
@@ -12186,17 +12193,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-29 12:43",
-      "articles": 56,
-      "top_keywords": [
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution",
-        "fake captcha page",
-        "wago gmbh co"
-      ]
-    },
     {
       "timestamp": "2026-03-29 14:29",
       "articles": 56,
@@ -13284,6 +13280,17 @@
         "medusa ransomware fast",
         "deploying medusa ransomware",
         "high velocity attacks"
+      ]
+    },
+    {
+      "timestamp": "2026-04-07 15:03",
+      "articles": 56,
+      "top_keywords": [
+        "white house seeks",
+        "medusa ransomware fast",
+        "deploying medusa ransomware",
+        "high velocity attacks",
+        "service ddos doxing"
       ]
     }
   ]

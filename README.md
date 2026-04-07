@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-07 13:08 UTC |
+| 🕐 Last Updated | 2026-04-07 15:03 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`white house seeks` • `guardarian users targeted` • `medusa ransomware fast` • `deploying medusa ransomware` • `high velocity attacks` • `service ddos doxing` • `gpu rowhammer attacks` • `remote code execution` • `threat actor appears` • `twitter whistleblower complaint`
+`white house seeks` • `medusa ransomware fast` • `deploying medusa ransomware` • `high velocity attacks` • `service ddos doxing` • `gpu rowhammer attacks` • `threat actor appears` • `remote code execution` • `close identity gaps` • `rsac 2026 conference`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-07 10:50 UTC  
+> **Last Updated:** 2026-04-07 13:08 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**white house seeks** • **deploying medusa ransomware** • **guardarian users targeted** • **high velocity attacks** • **service ddos doxing** • **remote code execution** • **threat actor appears** • **supply chain attack** • **valuable developer machines** • **twitter whistleblower complaint** • **things iot devices** • **popular online destinations** • **iran's intelligence agencies** • **iran war unleashing** • **hitachi energy ellipse** • **adopt ios 26** • **code injection vulnerability** • **many soc workflows** • **high end casino** • **email flooding attacks**
+**white house seeks** • **guardarian users targeted** • **medusa ransomware fast** • **deploying medusa ransomware** • **high velocity attacks** • **service ddos doxing** • **gpu rowhammer attacks** • **remote code execution** • **threat actor appears** • **twitter whistleblower complaint** • **things iot devices** • **popular online destinations** • **iran's intelligence agencies** • **iran war unleashing** • **hitachi energy ellipse** • **classic outlook users** • **centralized identity systems** • **agents autonomous programs** • **jasper report vulnerability** • **many soc workflows**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
+- [The Hidden Cost of Recurring Credential Incidents](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
 - [New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips](https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html)
 - [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html)
 - [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
 - [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
 - [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
 - [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html)
-- [⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More](https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html)
-- [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Focusing on the People in Cybersecurity at RSAC 2026 Conference](https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026)
 - [AI-Assisted Supply Chain Attack Targets GitHub](https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github)
 - [Axios Attack Shows Social Complex Engineering Is Industrialized](https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized)
 - [Fortinet Issues Emergency Patch for FortiClient Zero-Day](https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day)
@@ -56,18 +57,17 @@
 - [Shadow AI in Healthcare Is Here to Stay](https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay)
 - [OWASP GenAI Security Project Gets Update, New Tools Matrix](https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix)
 - [Inconsistent Privacy Labels Don't Tell Users What They Are Getting](https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough)
-- [Apple Breaks Precedent, Patches DarkSword for iOS 18](https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18)
 
 ### Security Week
 
+- [GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack](https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/)
+- [Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems](https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/)
 - [German Police Unmask REvil Ransomware Leader](https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/)
 - [White House Seeks to Slash CISA Funding by $707 Million](https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/)
 - [Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack](https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/)
 - [Google DeepMind Researchers Map Web Attacks Against AI Agents](https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/)
 - [Guardarian Users Targeted With Malicious Strapi NPM Packages](https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/)
 - [North Korean Hackers Target High-Profile Node.js Maintainers](https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/)
-- [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
-- [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
 
 ### Threatpost
 

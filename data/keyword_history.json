@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1256,
+      "count": 1257,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -628,7 +628,7 @@
       ]
     },
     "remote code execution": {
-      "count": 202,
+      "count": 203,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1883,7 +1883,7 @@
       ]
     },
     "things iot devices": {
-      "count": 199,
+      "count": 200,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7981,7 +7981,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -9596,7 +9596,7 @@
       ]
     },
     "code injection vulnerability": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10468,7 +10468,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 201,
+      "count": 202,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10558,7 +10558,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10725,7 +10725,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11009,7 +11009,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -11825,7 +11825,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -12012,7 +12012,7 @@
       ]
     },
     "adopt ios 26": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12072,7 +12072,7 @@
       ]
     },
     "valuable developer machines": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12085,7 +12085,7 @@
       ]
     },
     "many soc workflows": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12106,14 +12106,14 @@
       ]
     },
     "guardarian users targeted": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-06",
         "2026-04-07"
       ]
     },
     "execute additional payloads": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12126,13 +12126,14 @@
       ]
     },
     "high velocity attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-04-06"
+        "2026-04-06",
+        "2026-04-07"
       ]
     },
     "threat actor appears": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12143,20 +12144,27 @@
       "dates": [
         "2026-04-06"
       ]
+    },
+    "white house seeks": {
+      "count": 1,
+      "dates": [
+        "2026-04-07"
+      ]
+    },
+    "deploying medusa ransomware": {
+      "count": 1,
+      "dates": [
+        "2026-04-07"
+      ]
+    },
+    "high end casino": {
+      "count": 1,
+      "dates": [
+        "2026-04-07"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-29 06:57",
-      "articles": 56,
-      "top_keywords": [
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution",
-        "fake captcha page",
-        "wago gmbh co"
-      ]
-    },
     {
       "timestamp": "2026-03-29 08:34",
       "articles": 56,
@@ -13244,6 +13252,17 @@
         "threat actor appears",
         "remote code execution",
         "supply chain attack"
+      ]
+    },
+    {
+      "timestamp": "2026-04-07 08:56",
+      "articles": 56,
+      "top_keywords": [
+        "white house seeks",
+        "deploying medusa ransomware",
+        "guardarian users targeted",
+        "execute additional payloads",
+        "threat actor appears"
       ]
     }
   ]

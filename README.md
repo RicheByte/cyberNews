@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-07 07:08 UTC |
+| 🕐 Last Updated | 2026-04-07 08:56 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`guardarian users targeted` • `execute additional payloads` • `threat actor appears` • `remote code execution` • `supply chain attack` • `service ddos doxing` • `280 million hack` • `valuable developer machines` • `twitter whistleblower complaint` • `things iot devices`
+`white house seeks` • `deploying medusa ransomware` • `guardarian users targeted` • `execute additional payloads` • `threat actor appears` • `service ddos doxing` • `remote code execution` • `high velocity attacks` • `supply chain attack` • `valuable developer machines`
 
 ## 📄 Reports
 

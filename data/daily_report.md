@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-07 07:08 UTC  
+> **Last Updated:** 2026-04-07 08:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**guardarian users targeted** • **execute additional payloads** • **threat actor appears** • **remote code execution** • **supply chain attack** • **service ddos doxing** • **280 million hack** • **valuable developer machines** • **twitter whistleblower complaint** • **things iot devices** • **popular online destinations** • **key figures associated** • **iran's intelligence agencies** • **iran war unleashing** • **hitachi energy ellipse** • **adopt ios 26** • **code injection vulnerability** • **many soc workflows** • **classic outlook users** • **threat actor behind**
+**white house seeks** • **deploying medusa ransomware** • **guardarian users targeted** • **execute additional payloads** • **threat actor appears** • **service ddos doxing** • **remote code execution** • **high velocity attacks** • **supply chain attack** • **valuable developer machines** • **twitter whistleblower complaint** • **things iot devices** • **popular online destinations** • **iran's intelligence agencies** • **iran war unleashing** • **hitachi energy ellipse** • **adopt ios 26** • **code injection vulnerability** • **many soc workflows** • **high end casino**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html)
 - [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
 - [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
 - [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
@@ -23,7 +24,6 @@
 - [⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More](https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html)
 - [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
 - [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
-- [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [White House Seeks to Slash CISA Funding by $707 Million](https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/)
 - [Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack](https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/)
 - [Google DeepMind Researchers Map Web Attacks Against AI Agents](https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/)
 - [Guardarian Users Targeted With Malicious Strapi NPM Packages](https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/)
@@ -67,7 +68,6 @@
 - [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
 - [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
 - [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
-- [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
 
 ### Threatpost
 

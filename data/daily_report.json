@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-04-07 07:08",
+  "last_updated": "2026-04-07 08:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "white house seeks",
+    "deploying medusa ransomware",
     "guardarian users targeted",
     "execute additional payloads",
     "threat actor appears",
-    "remote code execution",
-    "supply chain attack",
     "service ddos doxing",
-    "280 million hack",
+    "remote code execution",
+    "high velocity attacks",
+    "supply chain attack",
     "valuable developer machines",
     "twitter whistleblower complaint",
     "things iot devices",
     "popular online destinations",
-    "key figures associated",
     "iran's intelligence agencies",
     "iran war unleashing",
     "hitachi energy ellipse",
     "adopt ios 26",
     "code injection vulnerability",
     "many soc workflows",
-    "classic outlook users",
-    "threat actor behind"
+    "high end casino"
   ],
   "trending": [
     {
+      "keyword": "white house seeks",
+      "mentions": 1
+    },
+    {
+      "keyword": "deploying medusa ransomware",
+      "mentions": 1
+    },
+    {
       "keyword": "guardarian users targeted",
-      "mentions": 6
-    },
-    {
-      "keyword": "execute additional payloads",
-      "mentions": 6
-    },
-    {
-      "keyword": "threat actor appears",
-      "mentions": 4
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 202
-    },
-    {
-      "keyword": "supply chain attack",
-      "mentions": 32
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 201
-    },
-    {
-      "keyword": "280 million hack",
       "mentions": 7
     },
     {
+      "keyword": "execute additional payloads",
+      "mentions": 7
+    },
+    {
+      "keyword": "threat actor appears",
+      "mentions": 5
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 202
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 203
+    },
+    {
+      "keyword": "high velocity attacks",
+      "mentions": 3
+    },
+    {
+      "keyword": "supply chain attack",
+      "mentions": 33
+    },
+    {
       "keyword": "valuable developer machines",
-      "mentions": 9
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1256
-    },
-    {
-      "keyword": "things iot devices",
-      "mentions": 199
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
+      "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
+      "summary": "A China-based threat actor known for deploying Medusa ransomware has been linked to the weaponization of a combination of zero-day and N-day vulnerabilities to orchestrate \"high-velocity\" attacks and break into susceptible internet-facing systems. \"The threat actor's high operational tempo and proficiency in identifying exposed perimeter assets have proven successful, with recent",
+      "published": "Tue, 07 Apr 2026 12:05:00 +0530",
+      "value_score": 77,
+      "value_signals": [
+        "Zero-day",
+        "Ransomware ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
@@ -138,17 +151,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
-      "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-      "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identities of two of the key figures associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. One of the threat actors, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum",
-      "published": "Mon, 06 Apr 2026 12:29:00 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
       ]
     },
     {
@@ -404,6 +406,18 @@
     },
     {
       "source": "Security Week",
+      "title": "White House Seeks to Slash CISA Funding by $707 Million",
+      "link": "https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/",
+      "summary": "The Trump administration says the FY2027 budget refocuses CISA on its core mission: protecting federal agencies and critical infrastructure. The post White House Seeks to Slash CISA Funding by $707 Million appeared first on SecurityWeek .",
+      "published": "Tue, 07 Apr 2026 08:29:41 +0000",
+      "value_score": 58,
+      "value_signals": [
+        "CISA/KEV ×3",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack",
       "link": "https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/",
       "summary": "The high-end casino and hotel operator has likely paid a ransom to avoid a data leak. The post Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack appeared first on SecurityWeek .",
@@ -475,18 +489,6 @@
       "value_signals": [
         "Zero-day ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware",
-      "link": "https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Symantec vulnerability, anti-ClickFix mechanism added to macOS, FBI hack classified as major incident. The post In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware appeared first on SecurityWeek .",
-      "published": "Fri, 03 Apr 2026 12:30:53 +0000",
-      "value_score": 70,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak ×2"
       ]
     },
     {

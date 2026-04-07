@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-07 18:57 UTC |
+| 🕐 Last Updated | 2026-04-07 20:41 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`maximum severity vulnerability` • `iran's intelligence agencies` • `agents autonomous programs` • `trent ai emerges` • `service ddos doxing` • `close identity gaps` • `gpu rowhammer attacks` • `rsac 2026 conference` • `deploying medusa ransomware` • `jasper report vulnerability`
+`maximum severity vulnerability` • `authentication tokens stolen` • `trent ai emerges` • `iran's intelligence agencies` • `agents autonomous programs` • `gpu rowhammer attacks` • `service ddos doxing` • `close identity gaps` • `data theft attacks` • `deploying medusa ransomware`
 
 ## 📄 Reports
 

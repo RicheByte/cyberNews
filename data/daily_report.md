@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-07 18:57 UTC  
+> **Last Updated:** 2026-04-07 20:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**maximum severity vulnerability** • **iran's intelligence agencies** • **agents autonomous programs** • **trent ai emerges** • **service ddos doxing** • **close identity gaps** • **gpu rowhammer attacks** • **rsac 2026 conference** • **deploying medusa ransomware** • **jasper report vulnerability** • **twitter whistleblower complaint** • **hitachi energy ellipse** • **exfiltrate credentials secrets** • **service dos condition** • **cve 2025 59528** • **microsoft allowing attackers** • **critical flowise vulnerability** • **critical dos vulnerability** • **threat actor appears** • **older internet routers**
+**maximum severity vulnerability** • **authentication tokens stolen** • **trent ai emerges** • **iran's intelligence agencies** • **agents autonomous programs** • **gpu rowhammer attacks** • **service ddos doxing** • **close identity gaps** • **data theft attacks** • **deploying medusa ransomware** • **jasper report vulnerability** • **twitter whistleblower complaint** • **hitachi energy ellipse** • **microsoft allowing attackers** • **service dos condition** • **known common vulne** • **cve 2025 59528** • **critical flowise vulnerability** • **critical dos vulnerability** • **email flooding attacks**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Snowflake customers hit in data theft attacks after SaaS integrator breach](https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/)
 - [US warns of Iranian hackers targeting critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/)
 - [Max severity Flowise RCE vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/)
 - [Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins](https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/)
@@ -34,7 +35,6 @@
 - [German authorities identify REvil and GandCrab ransomware bosses](https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/)
 - [New GPUBreach attack enables system takeover via GPU rowhammer](https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/)
 - [Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit](https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/)
-- [Microsoft fixes Classic Outlook bug causing email delivery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Storm-1175 Deploys Medusa Ransomware at 'High Velocity'](https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity)
+- [Grafana Patches AI Bug That Could Have Leaked User Data](https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data)
 - [RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever](https://www.darkreading.com/cybersecurity-operations/rsac-2026-how-ai-is-reshaping-cybersecurity-faster-than-ever)
 - [Human vs AI: Debates Shape RSAC 2026 Cybersecurity Trends](https://www.darkreading.com/cybersecurity-operations/human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends)
 - [Lies, Damned Lies, and Cybersecurity Metrics](https://www.darkreading.com/cyber-risk/lies-damned-lies-cybersecurity-metrics)
 - [Focusing on the People in Cybersecurity at RSAC 2026 Conference](https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026)
 - [AI-Assisted Supply Chain Attack Targets GitHub](https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github)
 - [Axios Attack Shows Complex Social Engineering Is Industrialized](https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized)
-- [Fortinet Issues Emergency Patch for FortiClient Zero-Day](https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day)
-- [Automated Credential Harvesting Campaign Exploits React2Shell Flaw](https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell)
 
 ### Security Week
 

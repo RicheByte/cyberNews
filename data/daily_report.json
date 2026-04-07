@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-07 18:57",
+  "last_updated": "2026-04-07 20:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "maximum severity vulnerability",
+    "authentication tokens stolen",
+    "trent ai emerges",
     "iran's intelligence agencies",
     "agents autonomous programs",
-    "trent ai emerges",
+    "gpu rowhammer attacks",
     "service ddos doxing",
     "close identity gaps",
-    "gpu rowhammer attacks",
-    "rsac 2026 conference",
+    "data theft attacks",
     "deploying medusa ransomware",
     "jasper report vulnerability",
     "twitter whistleblower complaint",
     "hitachi energy ellipse",
-    "exfiltrate credentials secrets",
-    "service dos condition",
-    "cve 2025 59528",
     "microsoft allowing attackers",
+    "service dos condition",
+    "known common vulne",
+    "cve 2025 59528",
     "critical flowise vulnerability",
     "critical dos vulnerability",
-    "threat actor appears",
-    "older internet routers"
+    "email flooding attacks"
   ],
   "trending": [
     {
       "keyword": "maximum severity vulnerability",
-      "mentions": 13
+      "mentions": 14
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 179
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 93
+      "keyword": "authentication tokens stolen",
+      "mentions": 1
     },
     {
       "keyword": "trent ai emerges",
-      "mentions": 2
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 207
-    },
-    {
-      "keyword": "close identity gaps",
       "mentions": 3
     },
     {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 180
+    },
+    {
+      "keyword": "agents autonomous programs",
+      "mentions": 94
+    },
+    {
       "keyword": "gpu rowhammer attacks",
+      "mentions": 5
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 208
+    },
+    {
+      "keyword": "close identity gaps",
       "mentions": 4
     },
     {
-      "keyword": "rsac 2026 conference",
-      "mentions": 76
+      "keyword": "data theft attacks",
+      "mentions": 1
     },
     {
       "keyword": "deploying medusa ransomware",
-      "mentions": 6
-    },
-    {
-      "keyword": "jasper report vulnerability",
-      "mentions": 11
+      "mentions": 7
     }
   ],
   "articles": [
@@ -165,6 +165,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
+      "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
+      "summary": "Over a dozen companies have suffered data theft attacks after a SaaS integration provider was breached and authentication tokens stolen. [...]",
+      "published": "Tue, 07 Apr 2026 15:39:18 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "US warns of Iranian hackers targeting critical infrastructure",
       "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
       "summary": "Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical infrastructure organizations. [...]",
@@ -239,15 +250,6 @@
         "Privilege escalation",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
-      "summary": "Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook.com. [...]",
-      "published": "Mon, 06 Apr 2026 15:19:24 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -330,6 +332,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Storm-1175 Deploys Medusa Ransomware at 'High Velocity'",
+      "link": "https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity",
+      "summary": "Microsoft says the financially motivated cybercrime group has exploited N-day and zero-day vulnerabilities in campaigns predicated on speed.",
+      "published": "Tue, 07 Apr 2026 20:15:07 GMT",
+      "value_score": 59,
+      "value_signals": [
+        "Zero-day",
+        "Ransomware",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Grafana Patches AI Bug That Could Have Leaked User Data",
+      "link": "https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data",
+      "summary": "By hiding malicious instructions on an attacker-controlled Web page, AI could ingest orders as benign and return sensitive data to the attacker's server.",
+      "published": "Tue, 07 Apr 2026 19:52:26 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever",
       "link": "https://www.darkreading.com/cybersecurity-operations/rsac-2026-how-ai-is-reshaping-cybersecurity-faster-than-ever",
       "summary": "Dark Reading's Kelly Jackson Higgins shares insights on the past, present, and future of cybersecurity after attending RSAC 2026 Conference.",
@@ -381,33 +405,6 @@
       "published": "Mon, 06 Apr 2026 20:55:44 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fortinet Issues Emergency Patch for FortiClient Zero-Day",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day",
-      "summary": "The authentication bypass flaw, tracked as CVE-2026-35616, is the latest in a series of Fortinet vulnerabilities that have been exploited in the wild.",
-      "published": "Mon, 06 Apr 2026 20:24:19 GMT",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Active exploitation",
-        "Auth bypass",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Automated Credential Harvesting Campaign Exploits React2Shell Flaw",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell",
-      "summary": "An emerging threat cluster tracked as UAT-10608 is exploiting vulnerable Web-exposed Next.js apps and using an automated tool to exfiltrate credentials, secrets, and other system data.",
-      "published": "Mon, 06 Apr 2026 15:31:09 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

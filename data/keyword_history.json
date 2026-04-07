@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1262,
+      "count": 1263,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -678,7 +678,7 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3098,7 +3098,7 @@
       ]
     },
     "jasper report vulnerability": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-12",
         "2026-01-13",
@@ -9091,7 +9091,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9225,7 +9225,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -10472,7 +10472,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 207,
+      "count": 208,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10563,7 +10563,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11830,7 +11830,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -12157,7 +12157,7 @@
       ]
     },
     "deploying medusa ransomware": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-07"
       ]
@@ -12175,7 +12175,7 @@
       ]
     },
     "gpu rowhammer attacks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-07"
       ]
@@ -12187,13 +12187,13 @@
       ]
     },
     "close identity gaps": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-07"
       ]
     },
     "trent ai emerges": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-07"
       ]
@@ -12205,31 +12205,31 @@
       ]
     },
     "service dos condition": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-07"
       ]
     },
     "cve 2025 59528": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-07"
       ]
     },
     "microsoft allowing attackers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-07"
       ]
     },
     "critical flowise vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-07"
       ]
     },
     "critical dos vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-07"
       ]
@@ -12239,20 +12239,27 @@
       "dates": [
         "2026-04-07"
       ]
+    },
+    "authentication tokens stolen": {
+      "count": 1,
+      "dates": [
+        "2026-04-07"
+      ]
+    },
+    "data theft attacks": {
+      "count": 1,
+      "dates": [
+        "2026-04-07"
+      ]
+    },
+    "known common vulne": {
+      "count": 1,
+      "dates": [
+        "2026-04-07"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-29 18:34",
-      "articles": 56,
-      "top_keywords": [
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution",
-        "fake captcha page",
-        "wago gmbh co"
-      ]
-    },
     {
       "timestamp": "2026-03-29 20:26",
       "articles": 56,
@@ -13340,6 +13347,17 @@
         "agents autonomous programs",
         "trent ai emerges",
         "service ddos doxing"
+      ]
+    },
+    {
+      "timestamp": "2026-04-07 20:41",
+      "articles": 56,
+      "top_keywords": [
+        "maximum severity vulnerability",
+        "authentication tokens stolen",
+        "trent ai emerges",
+        "iran's intelligence agencies",
+        "agents autonomous programs"
       ]
     }
   ]

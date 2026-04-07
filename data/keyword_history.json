@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1255,
+      "count": 1256,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -628,7 +628,7 @@
       ]
     },
     "remote code execution": {
-      "count": 201,
+      "count": 202,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -660,7 +660,8 @@
         "2026-03-27",
         "2026-03-28",
         "2026-03-29",
-        "2026-03-30"
+        "2026-03-30",
+        "2026-04-07"
       ]
     },
     "attacker remotely control": {
@@ -1882,7 +1883,7 @@
       ]
     },
     "things iot devices": {
-      "count": 198,
+      "count": 199,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7980,7 +7981,7 @@
       ]
     },
     "popular online destinations": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-02-23",
         "2026-02-24",
@@ -8686,7 +8687,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-03-03",
         "2026-03-27",
@@ -9595,10 +9596,11 @@
       ]
     },
     "code injection vulnerability": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-11",
-        "2026-03-12"
+        "2026-03-12",
+        "2026-04-07"
       ]
     },
     "royal thai police": {
@@ -10466,7 +10468,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 200,
+      "count": 201,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10556,7 +10558,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 172,
+      "count": 173,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10723,7 +10725,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11007,7 +11009,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -11017,9 +11019,10 @@
       ]
     },
     "classic outlook users": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-25"
+        "2026-03-25",
+        "2026-04-07"
       ]
     },
     "launch ransomware attacks": {
@@ -11822,7 +11825,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -12009,7 +12012,7 @@
       ]
     },
     "adopt ios 26": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12069,7 +12072,7 @@
       ]
     },
     "valuable developer machines": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12082,35 +12085,35 @@
       ]
     },
     "many soc workflows": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-06",
         "2026-04-07"
       ]
     },
     "key figures associated": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-06",
         "2026-04-07"
       ]
     },
     "280 million hack": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-06",
         "2026-04-07"
       ]
     },
     "guardarian users targeted": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-06",
         "2026-04-07"
       ]
     },
     "execute additional payloads": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12129,7 +12132,7 @@
       ]
     },
     "threat actor appears": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-06",
         "2026-04-07"
@@ -12143,17 +12146,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-29 04:41",
-      "articles": 56,
-      "top_keywords": [
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution",
-        "fake captcha page",
-        "wago gmbh co"
-      ]
-    },
     {
       "timestamp": "2026-03-29 06:57",
       "articles": 56,
@@ -13241,6 +13233,17 @@
         "supply chain attack",
         "service ddos doxing",
         "guardarian users targeted"
+      ]
+    },
+    {
+      "timestamp": "2026-04-07 07:08",
+      "articles": 56,
+      "top_keywords": [
+        "guardarian users targeted",
+        "execute additional payloads",
+        "threat actor appears",
+        "remote code execution",
+        "supply chain attack"
       ]
     }
   ]

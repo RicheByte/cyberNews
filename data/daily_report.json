@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-08 13:10",
+  "last_updated": "2026-04-08 15:05",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
     "authentication tokens stolen",
-    "already microsoft rolls",
-    "trent ai emerges",
+    "rce bug lurked",
     "remote code execution",
     "maximum severity vulnerability",
-    "service ddos doxing",
-    "twitter whistleblower complaint",
+    "cases operational disruption",
     "threat actor's packages",
+    "service ddos doxing",
+    "vulnerability requires authentication",
+    "twitter whistleblower complaint",
     "things iot devices",
-    "many targeting maintainers",
     "intelligence platforms ivip",
     "industry leaders debated",
     "hitachi energy ellipse",
     "exposes wordpress sites",
-    "agents autonomous programs",
+    "broader ot targeting",
+    "another flaw exposes",
+    "1 million complaints",
     "service dos condition",
-    "picus security explains",
-    "address security vulnerabilities",
-    "data theft attacks"
+    "malicious cyber actors"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 187
+      "mentions": 188
     },
     {
       "keyword": "authentication tokens stolen",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "already microsoft rolls",
+      "keyword": "rce bug lurked",
       "mentions": 1
     },
     {
-      "keyword": "trent ai emerges",
-      "mentions": 10
-    },
-    {
       "keyword": "remote code execution",
-      "mentions": 208
+      "mentions": 209
     },
     {
       "keyword": "maximum severity vulnerability",
-      "mentions": 21
+      "mentions": 22
     },
     {
-      "keyword": "service ddos doxing",
-      "mentions": 215
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1270
+      "keyword": "cases operational disruption",
+      "mentions": 1
     },
     {
       "keyword": "threat actor's packages",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "things iot devices",
-      "mentions": 206
+      "keyword": "service ddos doxing",
+      "mentions": 216
+    },
+    {
+      "keyword": "vulnerability requires authentication",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1271
     }
   ],
   "articles": [
@@ -156,6 +156,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Is a $30,000 GPU Good at Password Cracking?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
+      "summary": "A $30,000 AI GPU doesn't outperform consumer GPUs at password cracking. Specops explains why attackers don't need exotic hardware to break weak passwords. [...]",
+      "published": "Wed, 08 Apr 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft rolls out fix for broken Windows Start Menu search",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
       "summary": "Microsoft has pushed a server-side fix for a known issue that broke the Windows Start Menu search feature on some Windows 11 23H2 devices. [...]",
@@ -230,17 +239,6 @@
       "published": "Tue, 07 Apr 2026 11:51:22 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
-      "link": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
-      "summary": "Automated pentesting tools deliver strong early results, then quickly plateau. Picus Security explains how the \"PoC cliff\" leaves major attack surfaces untested and creates a dangerous validation gap. [...]",
-      "published": "Tue, 07 Apr 2026 10:01:11 -0400",
-      "value_score": 20,
-      "value_signals": [
-        "PoC available"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -323,6 +321,44 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus",
+      "link": "https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range",
+      "summary": "",
+      "published": "Wed, 08 Apr 2026 14:43:49 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Niobium Introduces The Fog",
+      "link": "https://www.darkreading.com/endpoint-security/niobium-introduces-the-fog",
+      "summary": "",
+      "published": "Wed, 08 Apr 2026 14:22:33 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Pluralsight Launches SecureReady to Help Organizations Build Job-Ready Cybersecurity Teams",
+      "link": "https://www.darkreading.com/remote-workforce/pluralsight-launches-secureready-cybersecurity-teams",
+      "summary": "",
+      "published": "Wed, 08 Apr 2026 14:08:22 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs",
+      "link": "https://www.darkreading.com/ics-ot-security/iranian-threat-actors-us-critical-infrastructure-exposed-plcs",
+      "summary": "Attackers compromised Internet-facing OT devices and caused file and display manipulation, operational disruption, and financial losses across sectors.",
+      "published": "Wed, 08 Apr 2026 13:46:29 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Storm-1175 Deploys Medusa Ransomware at 'High Velocity'",
       "link": "https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity",
       "summary": "Microsoft says the financially motivated cybercrime group has exploited N-day and zero-day vulnerabilities in campaigns predicated on speed.",
@@ -362,38 +398,23 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Lies, Damned Lies, and Cybersecurity Metrics",
-      "link": "https://www.darkreading.com/cyber-risk/lies-damned-lies-cybersecurity-metrics",
-      "summary": "A panel of five C-suite leaders discuss how cybersecurity success is measured and why it isn't improving results.",
-      "published": "Tue, 07 Apr 2026 14:26:02 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years",
+      "link": "https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/",
+      "summary": "The vulnerability requires authentication for successful exploitation, but another flaw exposes the Jolokia API without authentication. The post RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years appeared first on SecurityWeek .",
+      "published": "Wed, 08 Apr 2026 14:30:27 +0000",
+      "value_score": 56,
+      "value_signals": [
+        "RCE ×2",
+        "Exploit wording"
+      ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Focusing on the People in Cybersecurity at RSAC 2026 Conference",
-      "link": "https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026",
-      "summary": "AI dominated RSAC 2026 Conference, but it's still the humans in cybersecurity who matter most.",
-      "published": "Tue, 07 Apr 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI-Assisted Supply Chain Attack Targets GitHub",
-      "link": "https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github",
-      "summary": "PRT-scan is the second campaign in recent months where a threat actor appears to have leveraged AI for automated targeting of a widespread GitHub misconfiguration.",
-      "published": "Mon, 06 Apr 2026 21:38:53 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Axios Attack Shows Complex Social Engineering Is Industrialized",
-      "link": "https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized",
-      "summary": "The attack on the popular NPM package Axios is just one of many targeting maintainers and has shone a light on how threat actors can scale sophisticated social engineering campaigns.",
-      "published": "Mon, 06 Apr 2026 20:55:44 GMT",
+      "source": "Security Week",
+      "title": "FBI: Cybercrime Losses Neared $21 Billion in 2025",
+      "link": "https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/",
+      "summary": "The FBI received over 1 million complaints of malicious activity in 2025, with investment, BEC, and tech support scams causing the highest losses. The post FBI: Cybercrime Losses Neared $21 Billion in 2025 appeared first on SecurityWeek .",
+      "published": "Wed, 08 Apr 2026 13:32:53 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -461,24 +482,6 @@
       "value_signals": [
         "High severity"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "The New Rules of Engagement: Matching Agentic Attack Speed",
-      "link": "https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/",
-      "summary": "The cybersecurity response to AI-enabled nation-state threats cannot be incremental. It must be architectural. The post The New Rules of Engagement: Matching Agentic Attack Speed appeared first on SecurityWeek .",
-      "published": "Tue, 07 Apr 2026 16:40:52 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Trent AI Emerges From Stealth With $13 Million in Funding",
-      "link": "https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/",
-      "summary": "The startup has created a layered security solution aiming to secure AI agents throughout their entire lifecycle. The post Trent AI Emerges From Stealth With $13 Million in Funding appeared first on SecurityWeek .",
-      "published": "Tue, 07 Apr 2026 16:34:26 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

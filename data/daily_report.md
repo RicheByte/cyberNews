@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-08 13:10 UTC  
+> **Last Updated:** 2026-04-08 15:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **authentication tokens stolen** • **already microsoft rolls** • **trent ai emerges** • **remote code execution** • **maximum severity vulnerability** • **service ddos doxing** • **twitter whistleblower complaint** • **threat actor's packages** • **things iot devices** • **many targeting maintainers** • **intelligence platforms ivip** • **industry leaders debated** • **hitachi energy ellipse** • **exposes wordpress sites** • **agents autonomous programs** • **service dos condition** • **picus security explains** • **address security vulnerabilities** • **data theft attacks**
+**iran's intelligence agencies** • **authentication tokens stolen** • **rce bug lurked** • **remote code execution** • **maximum severity vulnerability** • **cases operational disruption** • **threat actor's packages** • **service ddos doxing** • **vulnerability requires authentication** • **twitter whistleblower complaint** • **things iot devices** • **intelligence platforms ivip** • **industry leaders debated** • **hitachi energy ellipse** • **exposes wordpress sites** • **broader ot targeting** • **another flaw exposes** • **1 million complaints** • **service dos condition** • **malicious cyber actors**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/)
 - [Microsoft rolls out fix for broken Windows Start Menu search](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/)
 - [Hackers exploit critical flaw in Ninja Forms WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/)
 - [FBI: Americans lost a record $21 billion to cybercrime last year](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/)
@@ -34,7 +35,6 @@
 - [US warns of Iranian hackers targeting critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/)
 - [Max severity Flowise RCE vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/)
 - [Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins](https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/)
-- [Why Your Automated Pentesting Tool Just Hit a Wall](https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus](https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range)
+- [Niobium Introduces The Fog](https://www.darkreading.com/endpoint-security/niobium-introduces-the-fog)
+- [Pluralsight Launches SecureReady to Help Organizations Build Job-Ready Cybersecurity Teams](https://www.darkreading.com/remote-workforce/pluralsight-launches-secureready-cybersecurity-teams)
+- [Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs](https://www.darkreading.com/ics-ot-security/iranian-threat-actors-us-critical-infrastructure-exposed-plcs)
 - [Storm-1175 Deploys Medusa Ransomware at 'High Velocity'](https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity)
 - [Grafana Patches AI Bug That Could Have Leaked User Data](https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data)
 - [RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever](https://www.darkreading.com/cybersecurity-operations/rsac-2026-how-ai-is-reshaping-cybersecurity-faster-than-ever)
 - [Human vs AI: Debates Shape RSAC 2026 Cybersecurity Trends](https://www.darkreading.com/cybersecurity-operations/human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends)
-- [Lies, Damned Lies, and Cybersecurity Metrics](https://www.darkreading.com/cyber-risk/lies-damned-lies-cybersecurity-metrics)
-- [Focusing on the People in Cybersecurity at RSAC 2026 Conference](https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026)
-- [AI-Assisted Supply Chain Attack Targets GitHub](https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github)
-- [Axios Attack Shows Complex Social Engineering Is Industrialized](https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized)
 
 ### Security Week
 
+- [RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years](https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/)
+- [FBI: Cybercrime Losses Neared $21 Billion in 2025](https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/)
 - [Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption](https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/)
 - [Evasive Masjesu DDoS Botnet Targets IoT Devices](https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/)
 - [Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover](https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/)
 - [US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking](https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/)
 - [Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks](https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/)
 - [Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks](https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/)
-- [The New Rules of Engagement: Matching Agentic Attack Speed](https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/)
-- [Trent AI Emerges From Stealth With $13 Million in Funding](https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/)
 
 ### Threatpost
 

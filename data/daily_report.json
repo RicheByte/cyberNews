@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08 19:08",
+  "last_updated": "2026-04-08 20:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 190
+      "mentions": 191
     },
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 1
-    },
-    {
-      "keyword": "rce bug lurked",
-      "mentions": 3
-    },
-    {
-      "keyword": "authentication tokens stolen",
-      "mentions": 11
-    },
-    {
-      "keyword": "threat actor's packages",
-      "mentions": 6
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 211
-    },
-    {
-      "keyword": "many financial institutions",
       "mentions": 2
     },
     {
-      "keyword": "cases operational disruption",
+      "keyword": "rce bug lurked",
+      "mentions": 4
+    },
+    {
+      "keyword": "authentication tokens stolen",
+      "mentions": 12
+    },
+    {
+      "keyword": "threat actor's packages",
+      "mentions": 7
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 212
+    },
+    {
+      "keyword": "many financial institutions",
       "mentions": 3
+    },
+    {
+      "keyword": "cases operational disruption",
+      "mentions": 4
     },
     {
       "keyword": "vulnerability requires authentication",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1273
+      "mentions": 1274
     }
   ],
   "articles": [
@@ -320,6 +320,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties",
+      "link": "https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties",
+      "summary": "Discovery used to be the bottleneck for open source bugs, but with automated discovery, remediation's the bottleneck, which bounties don't fund.",
+      "published": "Wed, 08 Apr 2026 19:47:32 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Fraud Rockets Higher in Mobile-First Latin America",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america",
       "summary": "Cyber-fraudsters move quickly from compromised devices to account takeover to funds transfer, shifting money before many financial institutions can react.",
@@ -384,15 +393,6 @@
       "link": "https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data",
       "summary": "By hiding malicious instructions on an attacker-controlled Web page, AI could ingest orders that appear benign but return sensitive data to the attacker's server.",
       "published": "Tue, 07 Apr 2026 19:52:26 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever",
-      "link": "https://www.darkreading.com/cybersecurity-operations/rsac-2026-how-ai-is-reshaping-cybersecurity-faster-than-ever",
-      "summary": "Dark Reading's Kelly Jackson Higgins shares insights on the past, present, and future of cybersecurity after attending RSAC 2026 Conference.",
-      "published": "Tue, 07 Apr 2026 14:57:16 GMT",
       "value_score": 10,
       "value_signals": []
     },

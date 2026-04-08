@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-08 19:08 UTC  
+> **Last Updated:** 2026-04-08 20:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties](https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties)
 - [Fraud Rockets Higher in Mobile-First Latin America](https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america)
 - [Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus](https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range)
 - [Niobium Introduces The Fog](https://www.darkreading.com/endpoint-security/niobium-introduces-the-fog)
@@ -56,7 +57,6 @@
 - [Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs](https://www.darkreading.com/ics-ot-security/iranian-threat-actors-us-critical-infrastructure-exposed-plcs)
 - [Storm-1175 Deploys Medusa Ransomware at 'High Velocity'](https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity)
 - [Grafana Patches AI Bug That Could Have Leaked User Data](https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data)
-- [RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever](https://www.darkreading.com/cybersecurity-operations/rsac-2026-how-ai-is-reshaping-cybersecurity-faster-than-ever)
 
 ### Security Week
 

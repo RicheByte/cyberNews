@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-03-09",
     "2026-03-10",
     "2026-03-11",
     "2026-03-12",
@@ -29,7 +28,8 @@
     "2026-04-04",
     "2026-04-05",
     "2026-04-06",
-    "2026-04-07"
+    "2026-04-07",
+    "2026-04-08"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1264,
+      "count": 1265,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -374,7 +374,8 @@
         "2026-04-04",
         "2026-04-05",
         "2026-04-06",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "supposed wayward package": {
@@ -678,11 +679,12 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-18",
         "2025-12-19",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "remote work requires": {
@@ -3098,12 +3100,13 @@
       ]
     },
     "jasper report vulnerability": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-12",
         "2026-01-13",
         "2026-04-03",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "ordered government agencies": {
@@ -9091,7 +9094,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9105,7 +9108,8 @@
         "2026-04-01",
         "2026-04-02",
         "2026-04-06",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "local file system": {
@@ -9225,7 +9229,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -9242,7 +9246,8 @@
         "2026-03-31",
         "2026-04-02",
         "2026-04-03",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "threat actor hides": {
@@ -10472,7 +10477,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 209,
+      "count": 210,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10492,7 +10497,8 @@
         "2026-04-04",
         "2026-04-05",
         "2026-04-06",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "quantum safe version": {
@@ -10563,7 +10569,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10583,7 +10589,8 @@
         "2026-04-04",
         "2026-04-05",
         "2026-04-06",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "missing authentication combined": {
@@ -11830,14 +11837,15 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-04-02",
         "2026-04-03",
         "2026-04-04",
         "2026-04-05",
         "2026-04-06",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "april 1 2026": {
@@ -12157,9 +12165,10 @@
       ]
     },
     "deploying medusa ransomware": {
-      "count": 8,
+      "count": 9,
       "dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "high end casino": {
@@ -12175,27 +12184,31 @@
       ]
     },
     "gpu rowhammer attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "centralized identity systems": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "close identity gaps": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "trent ai emerges": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "exfiltrate credentials secrets": {
@@ -12205,15 +12218,17 @@
       ]
     },
     "service dos condition": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "cve 2025 59528": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "microsoft allowing attackers": {
@@ -12235,48 +12250,42 @@
       ]
     },
     "older internet routers": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "authentication tokens stolen": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "data theft attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "known common vulne": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "automated pentesting tool": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-29 22:25",
-      "articles": 56,
-      "top_keywords": [
-        "things iot devices",
-        "service ddos doxing",
-        "remote code execution",
-        "fake captcha page",
-        "wago gmbh co"
-      ]
-    },
     {
       "timestamp": "2026-03-30 02:01",
       "articles": 56,
@@ -13357,6 +13366,17 @@
     },
     {
       "timestamp": "2026-04-07 22:33",
+      "articles": 56,
+      "top_keywords": [
+        "maximum severity vulnerability",
+        "authentication tokens stolen",
+        "trent ai emerges",
+        "iran's intelligence agencies",
+        "agents autonomous programs"
+      ]
+    },
+    {
+      "timestamp": "2026-04-08 01:58",
       "articles": 56,
       "top_keywords": [
         "maximum severity vulnerability",

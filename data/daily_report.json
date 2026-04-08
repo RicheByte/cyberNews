@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08 08:55",
+  "last_updated": "2026-04-08 10:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -14,59 +14,70 @@
     "twitter whistleblower complaint",
     "threat actor's packages",
     "things iot devices",
+    "recurring credential incidents",
     "many targeting maintainers",
     "jasper report vulnerability",
     "industry leaders debated",
     "hitachi energy ellipse",
     "service dos condition",
     "cve 2025 59528",
-    "data theft attacks",
     "automated pentesting tool",
-    "rsac 2026 conference"
+    "data theft attacks"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 185
+      "mentions": 186
     },
     {
       "keyword": "authentication tokens stolen",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "maximum severity vulnerability",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "trent ai emerges",
-      "mentions": 8
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 99
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 213
-    },
-    {
-      "keyword": "close identity gaps",
       "mentions": 9
     },
     {
+      "keyword": "agents autonomous programs",
+      "mentions": 100
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 214
+    },
+    {
+      "keyword": "close identity gaps",
+      "mentions": 10
+    },
+    {
       "keyword": "critical flowise vulnerability",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1268
+      "mentions": 1269
     },
     {
       "keyword": "threat actor's packages",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+      "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+      "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative called Project Glasswing that will use a preview version of its new frontier model, Claude Mythos, to find and address security vulnerabilities. The model will be used by a small set of organizations, including Amazon Web Services, Apple, Broadcom, Cisco, CrowdStrike,&",
+      "published": "Wed, 08 Apr 2026 14:46:00 +0530",
+      "value_score": 35,
+      "value_signals": [
+        "Zero-day"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
@@ -143,18 +154,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
-      "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
-      "summary": "New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take full control of a host. The efforts have been codenamed GPUBreach, GDDRHammer, and GeForge. GPUBreach goes a step further than GPUHammer, demonstrating for the first time that",
-      "published": "Tue, 07 Apr 2026 14:08:00 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "Privilege escalation",
-        "Exploit wording"
       ]
     },
     {

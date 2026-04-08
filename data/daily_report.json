@@ -1,18 +1,16 @@
 {
-  "last_updated": "2026-04-08 16:56",
+  "last_updated": "2026-04-08 19:08",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
-    "authentication tokens stolen",
+    "mitsubishi electric genesis64",
     "rce bug lurked",
-    "maximum severity vulnerability",
+    "authentication tokens stolen",
     "threat actor's packages",
-    "service ddos doxing",
     "remote code execution",
     "many financial institutions",
     "cases operational disruption",
-    "campaign targeting ukraine",
     "vulnerability requires authentication",
     "twitter whistleblower complaint",
     "intelligence platforms ivip",
@@ -20,53 +18,77 @@
     "exposes wordpress sites",
     "another flaw exposes",
     "1 million complaints",
+    "vulnerability allows hackers",
     "sprawling phishing campaign",
-    "broader ot targeting",
-    "known common vulne"
+    "data theft attacks",
+    "malicious cyber actors",
+    "campaign targeting ukraine"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 189
+      "mentions": 190
     },
     {
-      "keyword": "authentication tokens stolen",
-      "mentions": 10
+      "keyword": "mitsubishi electric genesis64",
+      "mentions": 1
     },
     {
       "keyword": "rce bug lurked",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "maximum severity vulnerability",
-      "mentions": 23
+      "keyword": "authentication tokens stolen",
+      "mentions": 11
     },
     {
       "keyword": "threat actor's packages",
-      "mentions": 5
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 217
+      "mentions": 6
     },
     {
       "keyword": "remote code execution",
-      "mentions": 210
+      "mentions": 211
     },
     {
       "keyword": "many financial institutions",
-      "mentions": 1
-    },
-    {
-      "keyword": "cases operational disruption",
       "mentions": 2
     },
     {
-      "keyword": "campaign targeting ukraine",
-      "mentions": 1
+      "keyword": "cases operational disruption",
+      "mentions": 3
+    },
+    {
+      "keyword": "vulnerability requires authentication",
+      "mentions": 3
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1273
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
+      "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
+      "summary": "Cybersecurity researchers have flagged a new variant ofmalware called Chaosthat'scapable of hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infrastructure. \"Chaos malware is increasingly targeting misconfigured cloud deployments, expanding beyond its traditional focus on routers and edge devices,\" Darktrace said in a new report.",
+      "published": "Wed, 08 Apr 2026 23:21:00 +0530",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
+      "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
+      "summary": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS) attacks. Called Masjesu, the botnet has been advertised via Telegram as a DDoS-for-hire service since it first surfaced in 2023. It's capable of targeting a wide range of IoT devices, such as routers and gateways, spanning multiple architectures. \"Built for",
+      "published": "Wed, 08 Apr 2026 22:00:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
@@ -130,27 +152,38 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-      "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-      "summary": "In the rapid evolution of the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security leaders: Identity programs are maturing, yet the risk is actually increasing. According to new research from the Ponemon Institute, hundreds of applications within the typical enterprise remain disconnected from centralized identity systems. These \"dark",
-      "published": "Tue, 07 Apr 2026 21:59:00 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
+      "summary": "A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users into executing commands in Terminal. [...]",
+      "published": "Wed, 08 Apr 2026 14:55:43 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
+      "summary": "CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since January. [...]",
+      "published": "Wed, 08 Apr 2026 14:15:27 -0400",
+      "value_score": 72,
       "value_signals": [
+        "Patch/update",
+        "CISA/KEV ×2",
+        "High severity",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
-      "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
-      "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins (AuthZ) under specific circumstances. The vulnerability, tracked as CVE-2026-34040 (CVSS score: 8.8), stems from an incomplete fix for CVE-2024-41110, a maximum-severity vulnerability in the same component that came to light in July 2024. \"",
-      "published": "Tue, 07 Apr 2026 20:45:00 +0530",
-      "value_score": 66,
+      "source": "BleepingComputer",
+      "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands",
+      "link": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/",
+      "summary": "Security researchers discovered a remote code execution (RCE) vulnerability in Apache ActiveMQ Classic that has gone undetected for 13 years and could be exploited to execute arbitrary commands. [...]",
+      "published": "Wed, 08 Apr 2026 13:26:40 -0400",
+      "value_score": 56,
       "value_signals": [
-        "CVE mentioned ×3",
-        "Patch/update",
-        "Multiple CVEs"
+        "RCE ×2",
+        "Exploit wording"
       ]
     },
     {
@@ -205,39 +238,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US warns of Iranian hackers targeting critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
-      "summary": "Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical infrastructure organizations. [...]",
-      "published": "Tue, 07 Apr 2026 14:02:26 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
-      "summary": "Hackers are exploiting a maximum-severity vulnerability, tracked as CVE-2025-59528, in the open-source platform Flowise for building custom LLM apps and agentic systems to execute arbitrary code. [...]",
-      "published": "Tue, 07 Apr 2026 13:02:05 -0400",
-      "value_score": 54,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
-      "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
-      "summary": "An international operation from law enforcement authorities in partnership with private companies has disrupted FrostArmada, an APT28 campaign hijacking local traffic from MikroTik and TP-Link routers to steal Microsoft account credentials. [...]",
-      "published": "Tue, 07 Apr 2026 11:51:22 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -567,6 +567,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-1340 Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living ",
+      "published": "Wed, 08 Apr 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Mitsubishi Electric GENESIS64 and ICONICS Suite products",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-097-01",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a local attacker to disclose SQL Server credentials used by the affected products and use them to disclose, tamper with, or destroy data, or to cause a denial-of-service (DoS) condition on the system. The following versions of Mitsubishi Electric GENESIS64 and ICONICS Suite products are affected: GENESIS64 <=10.97.3 (CVE-2025-14815, CVE-2025-14816) ICONICS Suite <=10.97.3 (CVE-2025-14815, CVE-2025-14816) MobileHMI <=1",
@@ -608,20 +622,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-3502 TrueConf Client Download of Code Without Integrity Check Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a liv",
-      "published": "Thu, 02 Apr 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Hitachi Energy Ellipse",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03",
       "summary": "View CSAF Summary Hitachi Energy is aware of a Jasper Report vulnerability that affects the Ellipse product versions mentioned in this document below. This vulnerability can be exploited to carry out remote code execution (RCE) attack on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Ellipse are affected: Ellipse vers:Ellipse/<=9.0.50 (CVE-2025-10492) CVSS Vendor Equipment Vulnerabilities v",
@@ -631,6 +631,20 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-3502 TrueConf Client Download of Code Without Integrity Check Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a liv",
+      "published": "Thu, 02 Apr 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
         "Exploit wording"
       ]
     },
@@ -657,20 +671,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulne",
-      "published": "Wed, 01 Apr 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
         "Exploit wording"
       ]
     }

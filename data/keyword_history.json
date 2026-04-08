@@ -262,7 +262,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1271,
+      "count": 1272,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -630,7 +630,7 @@
       ]
     },
     "remote code execution": {
-      "count": 209,
+      "count": 210,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -681,7 +681,7 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1595,7 +1595,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 225,
+      "count": 226,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1636,7 +1636,8 @@
         "2026-03-23",
         "2026-03-24",
         "2026-03-25",
-        "2026-04-01"
+        "2026-04-01",
+        "2026-04-08"
       ]
     },
     "model agnostic abstractions": {
@@ -10480,7 +10481,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 216,
+      "count": 217,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10573,7 +10574,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11841,7 +11842,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -12262,7 +12263,7 @@
       ]
     },
     "authentication tokens stolen": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-07",
         "2026-04-08"
@@ -12276,7 +12277,7 @@
       ]
     },
     "known common vulne": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-07",
         "2026-04-08"
@@ -12308,7 +12309,7 @@
       ]
     },
     "threat actor's packages": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-08"
       ]
@@ -12326,13 +12327,13 @@
       ]
     },
     "intelligence platforms ivip": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-08"
       ]
     },
     "exposes wordpress sites": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-08"
       ]
@@ -12350,36 +12351,48 @@
       ]
     },
     "rce bug lurked": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-08"
       ]
     },
     "cases operational disruption": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-08"
       ]
     },
     "vulnerability requires authentication": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-08"
       ]
     },
     "broader ot targeting": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-08"
       ]
     },
     "another flaw exposes": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-08"
       ]
     },
     "1 million complaints": {
+      "count": 2,
+      "dates": [
+        "2026-04-08"
+      ]
+    },
+    "many financial institutions": {
+      "count": 1,
+      "dates": [
+        "2026-04-08"
+      ]
+    },
+    "campaign targeting ukraine": {
       "count": 1,
       "dates": [
         "2026-04-08"
@@ -12387,17 +12400,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-30 14:59",
-      "articles": 56,
-      "top_keywords": [
-        "entire soc responds",
-        "remote code execution",
-        "iran's intelligence agencies",
-        "europa eu hack",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-03-30 16:51",
       "articles": 56,
@@ -13485,6 +13487,17 @@
         "rce bug lurked",
         "remote code execution",
         "maximum severity vulnerability"
+      ]
+    },
+    {
+      "timestamp": "2026-04-08 16:56",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "authentication tokens stolen",
+        "rce bug lurked",
+        "maximum severity vulnerability",
+        "threat actor's packages"
       ]
     }
   ]

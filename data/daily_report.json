@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-04-08 15:05",
+  "last_updated": "2026-04-08 16:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
     "authentication tokens stolen",
     "rce bug lurked",
-    "remote code execution",
     "maximum severity vulnerability",
-    "cases operational disruption",
     "threat actor's packages",
     "service ddos doxing",
+    "remote code execution",
+    "many financial institutions",
+    "cases operational disruption",
+    "campaign targeting ukraine",
     "vulnerability requires authentication",
     "twitter whistleblower complaint",
-    "things iot devices",
     "intelligence platforms ivip",
-    "industry leaders debated",
     "hitachi energy ellipse",
     "exposes wordpress sites",
-    "broader ot targeting",
     "another flaw exposes",
     "1 million complaints",
-    "service dos condition",
-    "malicious cyber actors"
+    "sprawling phishing campaign",
+    "broader ot targeting",
+    "known common vulne"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 188
+      "mentions": 189
     },
     {
       "keyword": "authentication tokens stolen",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "rce bug lurked",
-      "mentions": 1
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 209
+      "mentions": 2
     },
     {
       "keyword": "maximum severity vulnerability",
-      "mentions": 22
-    },
-    {
-      "keyword": "cases operational disruption",
-      "mentions": 1
+      "mentions": 23
     },
     {
       "keyword": "threat actor's packages",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 216
+      "mentions": 217
     },
     {
-      "keyword": "vulnerability requires authentication",
+      "keyword": "remote code execution",
+      "mentions": 210
+    },
+    {
+      "keyword": "many financial institutions",
       "mentions": 1
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1271
+      "keyword": "cases operational disruption",
+      "mentions": 2
+    },
+    {
+      "keyword": "campaign targeting ukraine",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
+      "link": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
+      "summary": "The Russian threat actor known as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumented malware suite codenamed PRISMEX. \"PRISMEX combines advanced steganography, component object model (COM) hijacking, and legitimate cloud service abuse for command-and-control,\" Trend Micro",
+      "published": "Wed, 08 Apr 2026 19:20:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
@@ -140,18 +151,6 @@
         "CVE mentioned ×3",
         "Patch/update",
         "Multiple CVEs"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
-      "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
-      "summary": "An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy botnet. \"A purpose-built Python scanner continuously sweeps major cloud IP ranges for vulnerable targets, automatically installing malicious nodes via ComfyUI-Manager if no exploitable node is already",
-      "published": "Tue, 07 Apr 2026 18:16:00 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "Botnet ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -321,6 +320,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Fraud Rockets Higher in Mobile-First Latin America",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america",
+      "summary": "Cyber-fraudsters move quickly from compromised devices to account takeover to funds transfer, shifting money before many financial institutions can react.",
+      "published": "Wed, 08 Apr 2026 15:45:11 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus",
       "link": "https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range",
       "summary": "",
@@ -389,13 +397,15 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Human vs AI: Debates Shape RSAC 2026 Cybersecurity Trends",
-      "link": "https://www.darkreading.com/cybersecurity-operations/human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends",
-      "summary": "As AI dominated RSAC 2026, CISOs and industry leaders debated its role in security, from agentic applications to the challenges of scaling human involvement in decision-making.",
-      "published": "Tue, 07 Apr 2026 14:36:44 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Data Leakage Vulnerability Patched in OpenSSL",
+      "link": "https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/",
+      "summary": "A total of seven vulnerabilities, most of which can be exploited for DoS attacks, have been patched in OpenSSL. The post Data Leakage Vulnerability Patched in OpenSSL appeared first on SecurityWeek .",
+      "published": "Wed, 08 Apr 2026 15:37:48 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -470,17 +480,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks",
-      "link": "https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/",
-      "summary": "New AI model drives Project Glasswing, a effort to secure critical software before advanced capabilities fall into the wrong hands. The post Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 07 Apr 2026 18:39:56 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
       ]
     },
     {

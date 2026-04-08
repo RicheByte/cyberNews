@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-08 15:05 UTC  
+> **Last Updated:** 2026-04-08 16:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **authentication tokens stolen** • **rce bug lurked** • **remote code execution** • **maximum severity vulnerability** • **cases operational disruption** • **threat actor's packages** • **service ddos doxing** • **vulnerability requires authentication** • **twitter whistleblower complaint** • **things iot devices** • **intelligence platforms ivip** • **industry leaders debated** • **hitachi energy ellipse** • **exposes wordpress sites** • **broader ot targeting** • **another flaw exposes** • **1 million complaints** • **service dos condition** • **malicious cyber actors**
+**iran's intelligence agencies** • **authentication tokens stolen** • **rce bug lurked** • **maximum severity vulnerability** • **threat actor's packages** • **service ddos doxing** • **remote code execution** • **many financial institutions** • **cases operational disruption** • **campaign targeting ukraine** • **vulnerability requires authentication** • **twitter whistleblower complaint** • **intelligence platforms ivip** • **hitachi energy ellipse** • **exposes wordpress sites** • **another flaw exposes** • **1 million complaints** • **sprawling phishing campaign** • **broader ot targeting** • **known common vulne**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
 - [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
 - [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
 - [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html)
@@ -23,7 +24,6 @@
 - [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html)
 - [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
 - [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
-- [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Fraud Rockets Higher in Mobile-First Latin America](https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america)
 - [Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus](https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range)
 - [Niobium Introduces The Fog](https://www.darkreading.com/endpoint-security/niobium-introduces-the-fog)
 - [Pluralsight Launches SecureReady to Help Organizations Build Job-Ready Cybersecurity Teams](https://www.darkreading.com/remote-workforce/pluralsight-launches-secureready-cybersecurity-teams)
@@ -56,10 +57,10 @@
 - [Storm-1175 Deploys Medusa Ransomware at 'High Velocity'](https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity)
 - [Grafana Patches AI Bug That Could Have Leaked User Data](https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data)
 - [RSAC 2026: How AI Is Reshaping Cybersecurity Faster Than Ever](https://www.darkreading.com/cybersecurity-operations/rsac-2026-how-ai-is-reshaping-cybersecurity-faster-than-ever)
-- [Human vs AI: Debates Shape RSAC 2026 Cybersecurity Trends](https://www.darkreading.com/cybersecurity-operations/human-vs-ai-debates-shape-rsac-2026-cybersecurity-trends)
 
 ### Security Week
 
+- [Data Leakage Vulnerability Patched in OpenSSL](https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/)
 - [RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years](https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/)
 - [FBI: Cybercrime Losses Neared $21 Billion in 2025](https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/)
 - [Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption](https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/)
@@ -67,7 +68,6 @@
 - [Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover](https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/)
 - [US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking](https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/)
 - [Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks](https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/)
-- [Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks](https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/)
 
 ### Threatpost
 

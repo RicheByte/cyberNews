@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-08 15:05 UTC |
+| 🕐 Last Updated | 2026-04-08 16:56 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `authentication tokens stolen` • `rce bug lurked` • `remote code execution` • `maximum severity vulnerability` • `cases operational disruption` • `threat actor's packages` • `service ddos doxing` • `vulnerability requires authentication` • `twitter whistleblower complaint`
+`iran's intelligence agencies` • `authentication tokens stolen` • `rce bug lurked` • `maximum severity vulnerability` • `threat actor's packages` • `service ddos doxing` • `remote code execution` • `many financial institutions` • `cases operational disruption` • `campaign targeting ukraine`
 
 ## 📄 Reports
 

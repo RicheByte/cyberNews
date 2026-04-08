@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08 01:58",
+  "last_updated": "2026-04-08 04:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,7 +10,6 @@
     "agents autonomous programs",
     "service ddos doxing",
     "close identity gaps",
-    "gpu rowhammer attacks",
     "data theft attacks",
     "deploying medusa ransomware",
     "twitter whistleblower complaint",
@@ -21,49 +20,50 @@
     "cve 2025 59528",
     "email flooding attacks",
     "older internet routers",
+    "many targeting maintainers",
     "automated pentesting tool",
     "centralized identity systems"
   ],
   "trending": [
     {
       "keyword": "maximum severity vulnerability",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "authentication tokens stolen",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "trent ai emerges",
-      "mentions": 5
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 182
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 96
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 210
-    },
-    {
-      "keyword": "close identity gaps",
       "mentions": 6
     },
     {
-      "keyword": "gpu rowhammer attacks",
+      "keyword": "iran's intelligence agencies",
+      "mentions": 183
+    },
+    {
+      "keyword": "agents autonomous programs",
+      "mentions": 97
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 211
+    },
+    {
+      "keyword": "close identity gaps",
       "mentions": 7
     },
     {
       "keyword": "data theft attacks",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "deploying medusa ransomware",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1266
     }
   ],
   "articles": [
@@ -408,6 +408,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks",
+      "link": "https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/",
+      "summary": "Federal agencies warn attackers are manipulating PLC and SCADA systems across multiple sectors, triggering operational disruptions and raising concerns over broader OT targeting. The post Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 08 Apr 2026 02:57:56 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks",
       "link": "https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/",
       "summary": "New AI model drives Project Glasswing, a effort to secure critical software before advanced capabilities fall into the wrong hands. The post Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks appeared first on SecurityWeek .",
@@ -475,15 +486,6 @@
       "link": "https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/",
       "summary": "Join the live diagnostic session to expose hidden coverage gaps and shift from flawed tool-level evaluations to a comprehensive, program-level validation discipline. The post Webinar Today: Why Automated Pentesting Alone Is Not Enough appeared first on SecurityWeek .",
       "published": "Tue, 07 Apr 2026 13:19:29 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack",
-      "link": "https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/",
-      "summary": "Researchers have demonstrated that GPU Rowhammer attacks can be used to escalate privileges. The post GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack appeared first on SecurityWeek .",
-      "published": "Tue, 07 Apr 2026 11:31:38 +0000",
       "value_score": 10,
       "value_signals": []
     },

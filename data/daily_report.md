@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-08 01:58 UTC  
+> **Last Updated:** 2026-04-08 04:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**maximum severity vulnerability** • **authentication tokens stolen** • **trent ai emerges** • **iran's intelligence agencies** • **agents autonomous programs** • **service ddos doxing** • **close identity gaps** • **gpu rowhammer attacks** • **data theft attacks** • **deploying medusa ransomware** • **twitter whistleblower complaint** • **jasper report vulnerability** • **hitachi energy ellipse** • **service dos condition** • **known common vulne** • **cve 2025 59528** • **email flooding attacks** • **older internet routers** • **automated pentesting tool** • **centralized identity systems**
+**maximum severity vulnerability** • **authentication tokens stolen** • **trent ai emerges** • **iran's intelligence agencies** • **agents autonomous programs** • **service ddos doxing** • **close identity gaps** • **data theft attacks** • **deploying medusa ransomware** • **twitter whistleblower complaint** • **jasper report vulnerability** • **hitachi energy ellipse** • **service dos condition** • **known common vulne** • **cve 2025 59528** • **email flooding attacks** • **older internet routers** • **many targeting maintainers** • **automated pentesting tool** • **centralized identity systems**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks](https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/)
 - [Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks](https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/)
 - [The New Rules of Engagement: Matching Agentic Attack Speed](https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/)
 - [Trent AI Emerges From Stealth With $13 Million in Funding](https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/)
@@ -67,7 +68,6 @@
 - [Severe StrongBox Vulnerability Patched in Android](https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/)
 - [GrafanaGhost: Attackers Can Abuse Grafana to Leak Enterprise Data](https://www.securityweek.com/grafanaghost-attackers-can-abuse-grafana-to-leak-enterprise-data/)
 - [Webinar Today: Why Automated Pentesting Alone Is Not Enough](https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/)
-- [GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack](https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/)
 
 ### Threatpost
 

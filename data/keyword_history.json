@@ -261,7 +261,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1269,
+      "count": 1270,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -629,7 +629,7 @@
       ]
     },
     "remote code execution": {
-      "count": 207,
+      "count": 208,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -662,7 +662,8 @@
         "2026-03-28",
         "2026-03-29",
         "2026-03-30",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ]
     },
     "attacker remotely control": {
@@ -679,7 +680,7 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1886,7 +1887,7 @@
       ]
     },
     "things iot devices": {
-      "count": 205,
+      "count": 206,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -9230,7 +9231,7 @@
       ]
     },
     "agents autonomous programs": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-03-09",
         "2026-03-10",
@@ -10478,7 +10479,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 214,
+      "count": 215,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10571,7 +10572,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 186,
+      "count": 187,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11839,7 +11840,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -12207,7 +12208,7 @@
       ]
     },
     "trent ai emerges": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-07",
         "2026-04-08"
@@ -12220,7 +12221,7 @@
       ]
     },
     "service dos condition": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-07",
         "2026-04-08"
@@ -12260,14 +12261,14 @@
       ]
     },
     "authentication tokens stolen": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-07",
         "2026-04-08"
       ]
     },
     "data theft attacks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-07",
         "2026-04-08"
@@ -12288,13 +12289,13 @@
       ]
     },
     "many targeting maintainers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-08"
       ]
     },
     "industry leaders debated": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-08"
       ]
@@ -12306,7 +12307,7 @@
       ]
     },
     "threat actor's packages": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-08"
       ]
@@ -12316,20 +12317,39 @@
       "dates": [
         "2026-04-08"
       ]
+    },
+    "already microsoft rolls": {
+      "count": 1,
+      "dates": [
+        "2026-04-08"
+      ]
+    },
+    "intelligence platforms ivip": {
+      "count": 1,
+      "dates": [
+        "2026-04-08"
+      ]
+    },
+    "exposes wordpress sites": {
+      "count": 1,
+      "dates": [
+        "2026-04-08"
+      ]
+    },
+    "picus security explains": {
+      "count": 1,
+      "dates": [
+        "2026-04-08"
+      ]
+    },
+    "address security vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-04-08"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-30 10:57",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "things iot devices",
-        "iran's intelligence agencies",
-        "fake captcha page",
-        "europa eu hack"
-      ]
-    },
     {
       "timestamp": "2026-03-30 13:07",
       "articles": 56,
@@ -13417,6 +13437,17 @@
         "maximum severity vulnerability",
         "trent ai emerges",
         "agents autonomous programs"
+      ]
+    },
+    {
+      "timestamp": "2026-04-08 13:10",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "authentication tokens stolen",
+        "already microsoft rolls",
+        "trent ai emerges",
+        "remote code execution"
       ]
     }
   ]

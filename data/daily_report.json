@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-08 10:51",
+  "last_updated": "2026-04-08 13:10",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
     "authentication tokens stolen",
-    "maximum severity vulnerability",
+    "already microsoft rolls",
     "trent ai emerges",
-    "agents autonomous programs",
+    "remote code execution",
+    "maximum severity vulnerability",
     "service ddos doxing",
-    "close identity gaps",
-    "critical flowise vulnerability",
     "twitter whistleblower complaint",
     "threat actor's packages",
     "things iot devices",
-    "recurring credential incidents",
     "many targeting maintainers",
-    "jasper report vulnerability",
+    "intelligence platforms ivip",
     "industry leaders debated",
     "hitachi energy ellipse",
+    "exposes wordpress sites",
+    "agents autonomous programs",
     "service dos condition",
-    "cve 2025 59528",
-    "automated pentesting tool",
+    "picus security explains",
+    "address security vulnerabilities",
     "data theft attacks"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 186
+      "mentions": 187
     },
     {
       "keyword": "authentication tokens stolen",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "maximum severity vulnerability",
-      "mentions": 20
+      "keyword": "already microsoft rolls",
+      "mentions": 1
     },
     {
       "keyword": "trent ai emerges",
-      "mentions": 9
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 100
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 214
-    },
-    {
-      "keyword": "close identity gaps",
       "mentions": 10
     },
     {
-      "keyword": "critical flowise vulnerability",
-      "mentions": 5
+      "keyword": "remote code execution",
+      "mentions": 208
+    },
+    {
+      "keyword": "maximum severity vulnerability",
+      "mentions": 21
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 215
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1269
+      "mentions": 1270
     },
     {
       "keyword": "threat actor's packages",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 206
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
+      "summary": "The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous systems. The result is Identity Dark Matter: identity activity that sits outside the visibility of centralized IAM and",
+      "published": "Wed, 08 Apr 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
@@ -143,17 +152,6 @@
       "value_signals": [
         "Botnet ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Hidden Cost of Recurring Credential Incidents",
-      "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
-      "summary": "When talking about credential security, the focus usually lands on breach prevention. This makes sense when IBM’s 2025 Cost of a Data Breach Report puts the average cost of a breach at $4.4 million. Avoiding even one major incident is enough to justify most security investments, but that headline figure obscures the more persistent problems caused by recurring credential",
-      "published": "Tue, 07 Apr 2026 17:00:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
       ]
     },
     {
@@ -340,7 +338,7 @@
       "source": "Dark Reading",
       "title": "Grafana Patches AI Bug That Could Have Leaked User Data",
       "link": "https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data",
-      "summary": "By hiding malicious instructions on an attacker-controlled Web page, AI could ingest orders as benign and return sensitive data to the attacker's server.",
+      "summary": "By hiding malicious instructions on an attacker-controlled Web page, AI could ingest orders that appear benign but return sensitive data to the attacker's server.",
       "published": "Tue, 07 Apr 2026 19:52:26 GMT",
       "value_score": 10,
       "value_signals": []
@@ -376,7 +374,7 @@
       "source": "Dark Reading",
       "title": "Focusing on the People in Cybersecurity at RSAC 2026 Conference",
       "link": "https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026",
-      "summary": "AI dominated the RSAC 2026 Conference and showed it's still humans in cybersecurity who matter most.",
+      "summary": "AI dominated RSAC 2026 Conference, but it's still the humans in cybersecurity who matter most.",
       "published": "Tue, 07 Apr 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -398,6 +396,49 @@
       "published": "Mon, 06 Apr 2026 20:55:44 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption",
+      "link": "https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/",
+      "summary": "Signature Healthcare was forced to cancel some services, and pharmacies are unable to fill prescriptions due to the hacker attack. The post Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption appeared first on SecurityWeek .",
+      "published": "Wed, 08 Apr 2026 12:31:39 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Evasive Masjesu DDoS Botnet Targets IoT Devices",
+      "link": "https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/",
+      "summary": "Focused on persistence, the botnet does not engage in widespread infection and avoids blacklisted IPs and critical infrastructure entities. The post Evasive Masjesu DDoS Botnet Targets IoT Devices appeared first on SecurityWeek .",
+      "published": "Wed, 08 Apr 2026 11:49:44 +0000",
+      "value_score": 38,
+      "value_signals": [
+        "Botnet ×3",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover",
+      "link": "https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/",
+      "summary": "The vulnerability allows hackers to upload arbitrary files to a site’s server and achieve remote code execution. The post Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover appeared first on SecurityWeek .",
+      "published": "Wed, 08 Apr 2026 11:20:23 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking",
+      "link": "https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/",
+      "summary": "The APT28 threat group exploited vulnerable TP-Link and MikroTik routers to conduct adversary-in-the-middle (AitM) attacks. The post US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking appeared first on SecurityWeek .",
+      "published": "Wed, 08 Apr 2026 10:54:14 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -436,49 +477,6 @@
       "link": "https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/",
       "summary": "The startup has created a layered security solution aiming to secure AI agents throughout their entire lifecycle. The post Trent AI Emerges From Stealth With $13 Million in Funding appeared first on SecurityWeek .",
       "published": "Tue, 07 Apr 2026 16:34:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Flowise Vulnerability in Attacker Crosshairs",
-      "link": "https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/",
-      "summary": "The improper validation of user-supplied JavaScript code allows attackers to execute arbitrary code and access the file system. The post Critical Flowise Vulnerability in Attacker Crosshairs appeared first on SecurityWeek .",
-      "published": "Tue, 07 Apr 2026 15:34:51 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Severe StrongBox Vulnerability Patched in Android",
-      "link": "https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/",
-      "summary": "A critical DoS vulnerability in the Framework component of Android has also been fixed with the latest update. The post Severe StrongBox Vulnerability Patched in Android appeared first on SecurityWeek .",
-      "published": "Tue, 07 Apr 2026 14:23:51 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "GrafanaGhost: Attackers Can Abuse Grafana to Leak Enterprise Data",
-      "link": "https://www.securityweek.com/grafanaghost-attackers-can-abuse-grafana-to-leak-enterprise-data/",
-      "summary": "By targeting Grafana’s AI components, attackers can point to external resources and inject indirect prompts to bypass safeguards. The post GrafanaGhost: Attackers Can Abuse Grafana to Leak Enterprise Data appeared first on SecurityWeek .",
-      "published": "Tue, 07 Apr 2026 13:58:45 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Webinar Today: Why Automated Pentesting Alone Is Not Enough",
-      "link": "https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/",
-      "summary": "Join the live diagnostic session to expose hidden coverage gaps and shift from flawed tool-level evaluations to a comprehensive, program-level validation discipline. The post Webinar Today: Why Automated Pentesting Alone Is Not Enough appeared first on SecurityWeek .",
-      "published": "Tue, 07 Apr 2026 13:19:29 +0000",
       "value_score": 10,
       "value_signals": []
     },

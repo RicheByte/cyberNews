@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-08 10:51 UTC  
+> **Last Updated:** 2026-04-08 13:10 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **authentication tokens stolen** • **maximum severity vulnerability** • **trent ai emerges** • **agents autonomous programs** • **service ddos doxing** • **close identity gaps** • **critical flowise vulnerability** • **twitter whistleblower complaint** • **threat actor's packages** • **things iot devices** • **recurring credential incidents** • **many targeting maintainers** • **jasper report vulnerability** • **industry leaders debated** • **hitachi energy ellipse** • **service dos condition** • **cve 2025 59528** • **automated pentesting tool** • **data theft attacks**
+**iran's intelligence agencies** • **authentication tokens stolen** • **already microsoft rolls** • **trent ai emerges** • **remote code execution** • **maximum severity vulnerability** • **service ddos doxing** • **twitter whistleblower complaint** • **threat actor's packages** • **things iot devices** • **many targeting maintainers** • **intelligence platforms ivip** • **industry leaders debated** • **hitachi energy ellipse** • **exposes wordpress sites** • **agents autonomous programs** • **service dos condition** • **picus security explains** • **address security vulnerabilities** • **data theft attacks**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
 - [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
 - [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html)
 - [Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html)
@@ -23,7 +24,6 @@
 - [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
 - [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
 - [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
-- [The Hidden Cost of Recurring Credential Incidents](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption](https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/)
+- [Evasive Masjesu DDoS Botnet Targets IoT Devices](https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/)
+- [Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover](https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/)
+- [US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking](https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/)
 - [Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks](https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/)
 - [Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks](https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/)
 - [The New Rules of Engagement: Matching Agentic Attack Speed](https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/)
 - [Trent AI Emerges From Stealth With $13 Million in Funding](https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/)
-- [Critical Flowise Vulnerability in Attacker Crosshairs](https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/)
-- [Severe StrongBox Vulnerability Patched in Android](https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/)
-- [GrafanaGhost: Attackers Can Abuse Grafana to Leak Enterprise Data](https://www.securityweek.com/grafanaghost-attackers-can-abuse-grafana-to-leak-enterprise-data/)
-- [Webinar Today: Why Automated Pentesting Alone Is Not Enough](https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/)
 
 ### Threatpost
 

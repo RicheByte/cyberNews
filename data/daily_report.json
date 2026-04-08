@@ -1,17 +1,18 @@
 {
-  "last_updated": "2026-04-08 20:37",
+  "last_updated": "2026-04-08 22:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
     "mitsubishi electric genesis64",
     "rce bug lurked",
-    "authentication tokens stolen",
     "threat actor's packages",
+    "threat actor tracked",
     "remote code execution",
     "many financial institutions",
     "cases operational disruption",
     "vulnerability requires authentication",
+    "malicious cyber actors",
     "twitter whistleblower complaint",
     "intelligence platforms ivip",
     "hitachi energy ellipse",
@@ -20,50 +21,49 @@
     "1 million complaints",
     "vulnerability allows hackers",
     "sprawling phishing campaign",
-    "data theft attacks",
-    "malicious cyber actors",
-    "campaign targeting ukraine"
+    "campaign targeting ukraine",
+    "service ddos doxing"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 191
+      "mentions": 192
     },
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 2
-    },
-    {
-      "keyword": "rce bug lurked",
-      "mentions": 4
-    },
-    {
-      "keyword": "authentication tokens stolen",
-      "mentions": 12
-    },
-    {
-      "keyword": "threat actor's packages",
-      "mentions": 7
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 212
-    },
-    {
-      "keyword": "many financial institutions",
       "mentions": 3
     },
     {
-      "keyword": "cases operational disruption",
+      "keyword": "rce bug lurked",
+      "mentions": 5
+    },
+    {
+      "keyword": "threat actor's packages",
+      "mentions": 8
+    },
+    {
+      "keyword": "threat actor tracked",
+      "mentions": 10
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 213
+    },
+    {
+      "keyword": "many financial institutions",
       "mentions": 4
+    },
+    {
+      "keyword": "cases operational disruption",
+      "mentions": 5
     },
     {
       "keyword": "vulnerability requires authentication",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1274
+      "keyword": "malicious cyber actors",
+      "mentions": 417
     }
   ],
   "articles": [
@@ -153,6 +153,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
+      "link": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
+      "summary": "A threat actor tracked as UNC6783 is compromising business process outsourcing (BPO) providers to gain access to high-value companies across multiple sectors. [...]",
+      "published": "Wed, 08 Apr 2026 17:46:27 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
       "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
       "summary": "A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users into executing commands in Terminal. [...]",
@@ -227,17 +236,6 @@
       "published": "Tue, 07 Apr 2026 16:41:52 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
-      "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
-      "summary": "Over a dozen companies have suffered data theft attacks after a SaaS integration provider was breached and authentication tokens stolen. [...]",
-      "published": "Tue, 07 Apr 2026 15:39:18 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -320,6 +318,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Threat Actors Get Crafty With Emojis to Escape Detection",
+      "link": "https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications",
+      "summary": "When 🤖 means \"bot available,\" 🧰 signifies \"toolkit,\" or 💰💰💰 translates to \"big ransom,\" bad actors can evade filters and keep it all on the down-low.",
+      "published": "Wed, 08 Apr 2026 20:21:32 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties",
       "link": "https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties",
       "summary": "Discovery used to be the bottleneck for open source bugs, but with automated discovery, remediation's the bottleneck, which bounties don't fund.",
@@ -386,15 +393,6 @@
         "Ransomware",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Grafana Patches AI Bug That Could Have Leaked User Data",
-      "link": "https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data",
-      "summary": "By hiding malicious instructions on an attacker-controlled Web page, AI could ingest orders that appear benign but return sensitive data to the attacker's server.",
-      "published": "Tue, 07 Apr 2026 19:52:26 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

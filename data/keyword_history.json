@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 416,
+      "count": 417,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -262,7 +262,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1274,
+      "count": 1275,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -630,7 +630,7 @@
       ]
     },
     "remote code execution": {
-      "count": 212,
+      "count": 213,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1595,7 +1595,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 228,
+      "count": 229,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -5742,7 +5742,7 @@
       ]
     },
     "vulnerability allows hackers": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-03",
         "2026-02-04",
@@ -9937,10 +9937,11 @@
       ]
     },
     "threat actor tracked": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-13",
-        "2026-03-14"
+        "2026-03-14",
+        "2026-04-08"
       ]
     },
     "threaten data availability": {
@@ -10482,7 +10483,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 217,
+      "count": 218,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10575,7 +10576,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 191,
+      "count": 192,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11843,7 +11844,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -12310,7 +12311,7 @@
       ]
     },
     "threat actor's packages": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-08"
       ]
@@ -12328,13 +12329,13 @@
       ]
     },
     "intelligence platforms ivip": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-08"
       ]
     },
     "exposes wordpress sites": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-08"
       ]
@@ -12352,19 +12353,19 @@
       ]
     },
     "rce bug lurked": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-08"
       ]
     },
     "cases operational disruption": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-08"
       ]
     },
     "vulnerability requires authentication": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-08"
       ]
@@ -12376,48 +12377,37 @@
       ]
     },
     "another flaw exposes": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-08"
       ]
     },
     "1 million complaints": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-08"
       ]
     },
     "many financial institutions": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-08"
       ]
     },
     "campaign targeting ukraine": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-08"
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-08"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-30 20:39",
-      "articles": 56,
-      "top_keywords": [
-        "entire soc responds",
-        "iran's intelligence agencies",
-        "europa eu hack",
-        "service ddos doxing",
-        "agents autonomous programs"
-      ]
-    },
     {
       "timestamp": "2026-03-30 22:30",
       "articles": 56,
@@ -13505,6 +13495,17 @@
         "rce bug lurked",
         "authentication tokens stolen",
         "threat actor's packages"
+      ]
+    },
+    {
+      "timestamp": "2026-04-08 22:34",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "mitsubishi electric genesis64",
+        "rce bug lurked",
+        "threat actor's packages",
+        "threat actor tracked"
       ]
     }
   ]

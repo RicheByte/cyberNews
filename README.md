@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-08 04:40 UTC |
+| 🕐 Last Updated | 2026-04-08 07:11 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`maximum severity vulnerability` • `authentication tokens stolen` • `trent ai emerges` • `iran's intelligence agencies` • `agents autonomous programs` • `service ddos doxing` • `close identity gaps` • `data theft attacks` • `deploying medusa ransomware` • `twitter whistleblower complaint`
+`iran's intelligence agencies` • `authentication tokens stolen` • `maximum severity vulnerability` • `trent ai emerges` • `agents autonomous programs` • `service ddos doxing` • `close identity gaps` • `deploying medusa ransomware` • `critical flowise vulnerability` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

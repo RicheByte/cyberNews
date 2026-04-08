@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-04-08 04:40",
+  "last_updated": "2026-04-08 07:11",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "maximum severity vulnerability",
-    "authentication tokens stolen",
-    "trent ai emerges",
     "iran's intelligence agencies",
+    "authentication tokens stolen",
+    "maximum severity vulnerability",
+    "trent ai emerges",
     "agents autonomous programs",
     "service ddos doxing",
     "close identity gaps",
-    "data theft attacks",
     "deploying medusa ransomware",
+    "critical flowise vulnerability",
     "twitter whistleblower complaint",
+    "things iot devices",
     "jasper report vulnerability",
+    "industry leaders debated",
     "hitachi energy ellipse",
+    "data theft attacks",
     "service dos condition",
-    "known common vulne",
     "cve 2025 59528",
-    "email flooding attacks",
+    "recent microsoft rolls",
     "older internet routers",
-    "many targeting maintainers",
-    "automated pentesting tool",
-    "centralized identity systems"
+    "many targeting maintainers"
   ],
   "trending": [
     {
-      "keyword": "maximum severity vulnerability",
-      "mentions": 17
+      "keyword": "iran's intelligence agencies",
+      "mentions": 184
     },
     {
       "keyword": "authentication tokens stolen",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "maximum severity vulnerability",
+      "mentions": 18
     },
     {
       "keyword": "trent ai emerges",
-      "mentions": 6
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 183
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 97
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 211
-    },
-    {
-      "keyword": "close identity gaps",
       "mentions": 7
     },
     {
-      "keyword": "data theft attacks",
-      "mentions": 4
+      "keyword": "agents autonomous programs",
+      "mentions": 98
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 212
+    },
+    {
+      "keyword": "close identity gaps",
+      "mentions": 8
     },
     {
       "keyword": "deploying medusa ransomware",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "critical flowise vulnerability",
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1266
+      "mentions": 1267
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
+      "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
+      "summary": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecurity and intelligence agencies warned Tuesday. \"These attacks have led to diminished PLC functionality, manipulation of display data and, in some cases, operational disruption and financial",
+      "published": "Wed, 08 Apr 2026 09:53:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
@@ -151,16 +162,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
-      "link": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
-      "summary": "Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findings from VulnCheck. The vulnerability in question is CVE-2025-59528 (CVSS score: 10.0), a code injection vulnerability that could result in remote code execution. \"The CustomMCP node allows users to input configuration settings for connecting",
-      "published": "Tue, 07 Apr 2026 11:26:00 +0530",
-      "value_score": 74,
+      "source": "BleepingComputer",
+      "title": "Microsoft rolls out fix for broken Windows Start Menu search",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
+      "summary": "Microsoft has pushed a server-side fix for a known issue that broke the Windows Start Menu search feature on some Windows 11 23H2 devices. [...]",
+      "published": "Wed, 08 Apr 2026 03:00:55 -0400",
+      "value_score": 26,
       "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "Exploit wording"
+        "Patch/update ×2"
       ]
     },
     {
@@ -238,17 +247,6 @@
       "value_score": 20,
       "value_signals": [
         "PoC available"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "German authorities identify REvil and GandCrab ransomware bosses",
-      "link": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
-      "summary": "The Federal Police in Germany (BKA) has identified two Russian nationals as the leaders of GandCrab and REvil ransomware operations between 2019 and 2021. [...]",
-      "published": "Mon, 06 Apr 2026 19:54:04 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {

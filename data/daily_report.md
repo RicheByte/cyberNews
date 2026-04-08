@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-08 07:11 UTC  
+> **Last Updated:** 2026-04-08 08:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **authentication tokens stolen** • **maximum severity vulnerability** • **trent ai emerges** • **agents autonomous programs** • **service ddos doxing** • **close identity gaps** • **deploying medusa ransomware** • **critical flowise vulnerability** • **twitter whistleblower complaint** • **things iot devices** • **jasper report vulnerability** • **industry leaders debated** • **hitachi energy ellipse** • **data theft attacks** • **service dos condition** • **cve 2025 59528** • **recent microsoft rolls** • **older internet routers** • **many targeting maintainers**
+**iran's intelligence agencies** • **authentication tokens stolen** • **maximum severity vulnerability** • **trent ai emerges** • **agents autonomous programs** • **service ddos doxing** • **close identity gaps** • **critical flowise vulnerability** • **twitter whistleblower complaint** • **threat actor's packages** • **things iot devices** • **many targeting maintainers** • **jasper report vulnerability** • **industry leaders debated** • **hitachi energy ellipse** • **service dos condition** • **cve 2025 59528** • **data theft attacks** • **automated pentesting tool** • **rsac 2026 conference**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html)
 - [Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html)
 - [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html)
 - [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
@@ -23,7 +24,6 @@
 - [Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign](https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html)
 - [The Hidden Cost of Recurring Credential Incidents](https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html)
 - [New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips](https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html)
-- [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html)
 
 ### BleepingComputer
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08 07:11",
+  "last_updated": "2026-04-08 08:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,63 +10,72 @@
     "agents autonomous programs",
     "service ddos doxing",
     "close identity gaps",
-    "deploying medusa ransomware",
     "critical flowise vulnerability",
     "twitter whistleblower complaint",
+    "threat actor's packages",
     "things iot devices",
+    "many targeting maintainers",
     "jasper report vulnerability",
     "industry leaders debated",
     "hitachi energy ellipse",
-    "data theft attacks",
     "service dos condition",
     "cve 2025 59528",
-    "recent microsoft rolls",
-    "older internet routers",
-    "many targeting maintainers"
+    "data theft attacks",
+    "automated pentesting tool",
+    "rsac 2026 conference"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 184
+      "mentions": 185
     },
     {
       "keyword": "authentication tokens stolen",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "maximum severity vulnerability",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "trent ai emerges",
-      "mentions": 7
-    },
-    {
-      "keyword": "agents autonomous programs",
-      "mentions": 98
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 212
-    },
-    {
-      "keyword": "close identity gaps",
       "mentions": 8
     },
     {
-      "keyword": "deploying medusa ransomware",
-      "mentions": 11
+      "keyword": "agents autonomous programs",
+      "mentions": 99
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 213
+    },
+    {
+      "keyword": "close identity gaps",
+      "mentions": 9
     },
     {
       "keyword": "critical flowise vulnerability",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1267
+      "mentions": 1268
+    },
+    {
+      "keyword": "threat actor's packages",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
+      "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
+      "summary": "The North Korea-linked persistent campaign known as Contagious Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems. \"The threat actor's packages were designed to impersonate legitimate developer tooling [...], while quietly functioning as malware loaders, extending Contagious Interview’s established playbook into a coordinated",
+      "published": "Wed, 08 Apr 2026 13:17:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
@@ -145,19 +154,6 @@
       "value_score": 28,
       "value_signals": [
         "Privilege escalation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
-      "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
-      "summary": "A China-based threat actor known for deploying Medusa ransomware has been linked to the weaponization of a combination of zero-day and N-day vulnerabilities to orchestrate \"high-velocity\" attacks and break into susceptible internet-facing systems. \"The threat actor's high operational tempo and proficiency in identifying exposed perimeter assets have proven successful, with recent",
-      "published": "Tue, 07 Apr 2026 12:05:00 +0530",
-      "value_score": 77,
-      "value_signals": [
-        "Zero-day",
-        "Ransomware ×2",
         "Exploit wording"
       ]
     },

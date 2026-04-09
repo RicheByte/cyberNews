@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-09 20:43 UTC  
+> **Last Updated:** 2026-04-09 22:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **sprawling phishing campaign** • **iran's intelligence agencies** • **300 000 individuals** • **harvesting session cookies** • **without formal approval** • **twitter whistleblower complaint** • **open source bugs** • **many financial institutions** • **hitachi energy ellipse** • **european travel operator** • **spear phishing campaigns** • **november 28 2025** • **service dos condition** • **google api keys** • **least december 2025** • **least 77 vulnerabilities** • **yokogawa centum vp** • **recommended immediate actions** • **proactive defensive action**
+**mitsubishi electric genesis64** • **iran's intelligence agencies** • **sprawling phishing campaign** • **least december 2025** • **300 000 individuals** • **harvesting session cookies** • **without formal approval** • **twitter whistleblower complaint** • **open source bugs** • **many financial institutions** • **hitachi energy ellipse** • **european travel operator** • **november 28 2025** • **least 77 vulnerabilities** • **spear phishing campaigns** • **previously undocumented phishing** • **service dos condition** • **google api keys** • **yokogawa centum vp** • **recommended immediate actions**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [New ‘LucidRook’ malware used in targeted attacks on NGOs, universities](https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/)
+- [New VENOM phishing attacks steal senior executives' Microsoft logins](https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/)
 - [Healthcare IT solutions provider ChipSoft hit by ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/)
 - [Google Chrome adds infostealer protection against session cookie theft](https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/)
 - [Smart Slider updates hijacked to push malicious WordPress, Joomla versions](https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/)
 - [When attackers already have the keys, MFA is just another door to open](https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/)
 - [Webinar: From noise to signal - What threat actors are targeting next](https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/)
 - [Eurail says December data breach impacts 300,000 individuals](https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/)
-- [Hackers exploiting Acrobat Reader zero-day flaw since December](https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/)
-- [Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot](https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Russia's 'Fancy Bear' APT Continues Its Global Onslaught](https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught)
+- ['BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues](https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues)
 - [Do Ceasefires Slow Cyberattacks? History Suggests Not](https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history)
 - [Russia's Forest Blizzard Nabs Rafts of Logins via SOHO Routers](https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers)
 - [Threat Actors Get Crafty With Emojis to Escape Detection](https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications)
 - [AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties](https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties)
 - [Fraud Rockets Higher in Mobile-First Latin America](https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america)
 - [Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus](https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range)
-- [Niobium Introduces The Fog](https://www.darkreading.com/endpoint-security/niobium-introduces-the-fog)
-- [Pluralsight Launches SecureReady to Help Organizations Build Job-Ready Cybersecurity Teams](https://www.darkreading.com/remote-workforce/pluralsight-launches-secureready-cybersecurity-teams)
 
 ### Security Week
 

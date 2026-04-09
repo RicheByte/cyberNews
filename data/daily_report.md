@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-09 04:30 UTC  
+> **Last Updated:** 2026-04-09 07:14 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **shaky ceasefire unlikely** • **mitsubishi electric genesis64** • **rce bug lurked** • **threat actor's packages** • **threat actor tracked** • **remote code execution** • **many financial institutions** • **cases operational disruption** • **malwareless cyber espionage** • **vulnerability requires authentication** • **malicious cyber actors** • **twitter whistleblower complaint** • **intelligence platforms ivip** • **hitachi energy ellipse** • **exposes wordpress sites** • **another flaw exposes** • **1 million complaints** • **sprawling phishing campaign** • **long hackers vowed**
+**iran's intelligence agencies** • **shaky ceasefire unlikely** • **mitsubishi electric genesis64** • **rce bug lurked** • **threat actor's packages** • **threat actor tracked** • **many financial institutions** • **cases operational disruption** • **malwareless cyber espionage** • **vulnerability requires authentication** • **1 million complaints** • **malicious cyber actors** • **twitter whistleblower complaint** • **intelligence platforms ivip** • **hitachi energy ellipse** • **sprawling phishing campaign** • **atomic stealer malware** • **service ddos doxing** • **hire service since** • **campaign targeting ukraine**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
 - [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
 - [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
 - [New macOS stealer campaign uses Script Editor in ClickFix attack](https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/)
@@ -34,7 +35,6 @@
 - [13-year-old bug in ActiveMQ lets hackers remotely execute commands](https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/)
 - [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/)
 - [Microsoft rolls out fix for broken Windows Start Menu search](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/)
-- [Hackers exploit critical flaw in Ninja Forms WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [$3.6 Million Stolen in Bitcoin Depot Hack](https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/)
 - [Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long](https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/)
 - [Data Leakage Vulnerability Patched in OpenSSL](https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/)
 - [RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years](https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/)
@@ -67,7 +68,6 @@
 - [Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption](https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/)
 - [Evasive Masjesu DDoS Botnet Targets IoT Devices](https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/)
 - [Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover](https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/)
-- [US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking](https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/)
 
 ### Threatpost
 

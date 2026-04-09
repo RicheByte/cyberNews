@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09 04:30",
+  "last_updated": "2026-04-09 07:14",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,61 +9,61 @@
     "rce bug lurked",
     "threat actor's packages",
     "threat actor tracked",
-    "remote code execution",
     "many financial institutions",
     "cases operational disruption",
     "malwareless cyber espionage",
     "vulnerability requires authentication",
+    "1 million complaints",
     "malicious cyber actors",
     "twitter whistleblower complaint",
     "intelligence platforms ivip",
     "hitachi energy ellipse",
-    "exposes wordpress sites",
-    "another flaw exposes",
-    "1 million complaints",
     "sprawling phishing campaign",
-    "long hackers vowed"
+    "atomic stealer malware",
+    "service ddos doxing",
+    "hire service since",
+    "campaign targeting ukraine"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 194
+      "mentions": 195
     },
     {
       "keyword": "shaky ceasefire unlikely",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 5
-    },
-    {
-      "keyword": "rce bug lurked",
-      "mentions": 7
-    },
-    {
-      "keyword": "threat actor's packages",
-      "mentions": 10
-    },
-    {
-      "keyword": "threat actor tracked",
-      "mentions": 12
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 215
-    },
-    {
-      "keyword": "many financial institutions",
       "mentions": 6
     },
     {
-      "keyword": "cases operational disruption",
+      "keyword": "rce bug lurked",
+      "mentions": 8
+    },
+    {
+      "keyword": "threat actor's packages",
+      "mentions": 11
+    },
+    {
+      "keyword": "threat actor tracked",
+      "mentions": 13
+    },
+    {
+      "keyword": "many financial institutions",
       "mentions": 7
     },
     {
+      "keyword": "cases operational disruption",
+      "mentions": 8
+    },
+    {
       "keyword": "malwareless cyber espionage",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "vulnerability requires authentication",
+      "mentions": 8
     }
   ],
   "articles": [
@@ -153,6 +153,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft suspends dev accounts for high-profile open source projects",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+      "summary": "Microsoft has suspended developer accounts used to maintain multiple high-profile open-source projects without proper notification and no way to quickly reinstate them, effectively blocking them from publishing new software builds and security patches for Windows users. [...]",
+      "published": "Thu, 09 Apr 2026 02:46:26 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
       "summary": "A massive campaign impacting nearly 100 online stores using the Magento e-commerce platform hides credit card-stealing code in a pixel-sized Scalable Vector Graphics (SVG) image. [...]",
@@ -222,19 +231,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
-      "summary": "A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution. [...]",
-      "published": "Tue, 07 Apr 2026 18:03:01 -0400",
-      "value_score": 52,
-      "value_signals": [
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -392,6 +388,15 @@
     },
     {
       "source": "Security Week",
+      "title": "$3.6 Million Stolen in Bitcoin Depot Hack",
+      "link": "https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/",
+      "summary": "A hacker transferred more than 50 bitcoin from the Bitcoin ATM operator’s wallets after stealing credentials. The post $3.6 Million Stolen in Bitcoin Depot Hack appeared first on SecurityWeek .",
+      "published": "Thu, 09 Apr 2026 06:41:40 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long",
       "link": "https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/",
       "summary": "Hackers vowed to revive its efforts against America when the time was right — demonstrating how digital warfare has become ingrained in military conflict. The post Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long appeared first on SecurityWeek .",
@@ -461,17 +466,6 @@
       "value_score": 30,
       "value_signals": [
         "RCE"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking",
-      "link": "https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/",
-      "summary": "The APT28 threat group exploited vulnerable TP-Link and MikroTik routers to conduct adversary-in-the-middle (AitM) attacks. The post US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking appeared first on SecurityWeek .",
-      "published": "Wed, 08 Apr 2026 10:54:14 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

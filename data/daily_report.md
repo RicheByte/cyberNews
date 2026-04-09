@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-09 17:01 UTC  
+> **Last Updated:** 2026-04-09 18:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **many financial institutions** • **iran's intelligence agencies** • **sprawling phishing campaign** • **300 000 individuals** • **without formal approval** • **twitter whistleblower complaint** • **open source bugs** • **hitachi energy ellipse** • **european travel operator** • **spear phishing campaigns** • **service dos condition** • **november 28 2025** • **campaign targeting ukraine** • **service ddos doxing** • **least december 2025** • **least 77 vulnerabilities** • **yokogawa centum vp** • **unauthorized access dozens** • **recommended immediate actions**
+**mitsubishi electric genesis64** • **iran's intelligence agencies** • **sprawling phishing campaign** • **300 000 individuals** • **harvesting session cookies** • **without formal approval** • **twitter whistleblower complaint** • **open source bugs** • **many financial institutions** • **hitachi energy ellipse** • **european travel operator** • **spear phishing campaigns** • **service dos condition** • **november 28 2025** • **campaign targeting ukraine** • **google api keys** • **service ddos doxing** • **least december 2025** • **least 77 vulnerabilities** • **yokogawa centum vp**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Google Chrome adds infostealer protection against session cookie theft](https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/)
 - [Smart Slider updates hijacked to push malicious WordPress, Joomla versions](https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/)
 - [When attackers already have the keys, MFA is just another door to open](https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/)
 - [Webinar: From noise to signal - What threat actors are targeting next](https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/)
@@ -34,7 +35,6 @@
 - [Hackers exploiting Acrobat Reader zero-day flaw since December](https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/)
 - [Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot](https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/)
 - [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
-- [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Do Ceasefires Slow Cyberattacks? History Suggests Not](https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history)
 - [Russia's Forest Blizzard Nabs Rafts of Logins via SOHO Routers](https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers)
 - [Threat Actors Get Crafty With Emojis to Escape Detection](https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications)
 - [AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties](https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties)
@@ -56,7 +57,6 @@
 - [Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus](https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range)
 - [Niobium Introduces The Fog](https://www.darkreading.com/endpoint-security/niobium-introduces-the-fog)
 - [Pluralsight Launches SecureReady to Help Organizations Build Job-Ready Cybersecurity Teams](https://www.darkreading.com/remote-workforce/pluralsight-launches-secureready-cybersecurity-teams)
-- [Iranian Threat Actors Disrupt US Critical Infrastructure via Exposed PLCs](https://www.darkreading.com/ics-ot-security/iranian-threat-actors-us-critical-infrastructure-exposed-plcs)
 
 ### Security Week
 

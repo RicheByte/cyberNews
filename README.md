@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-09 17:01 UTC |
+| 🕐 Last Updated | 2026-04-09 18:57 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mitsubishi electric genesis64` • `many financial institutions` • `iran's intelligence agencies` • `sprawling phishing campaign` • `300 000 individuals` • `without formal approval` • `twitter whistleblower complaint` • `open source bugs` • `hitachi energy ellipse` • `european travel operator`
+`mitsubishi electric genesis64` • `iran's intelligence agencies` • `sprawling phishing campaign` • `300 000 individuals` • `harvesting session cookies` • `without formal approval` • `twitter whistleblower complaint` • `open source bugs` • `many financial institutions` • `hitachi energy ellipse`
 
 ## 📄 Reports
 

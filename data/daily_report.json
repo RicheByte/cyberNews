@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-09 17:01",
+  "last_updated": "2026-04-09 18:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
-    "many financial institutions",
     "iran's intelligence agencies",
     "sprawling phishing campaign",
     "300 000 individuals",
+    "harvesting session cookies",
     "without formal approval",
     "twitter whistleblower complaint",
     "open source bugs",
+    "many financial institutions",
     "hitachi energy ellipse",
     "european travel operator",
     "spear phishing campaigns",
     "service dos condition",
     "november 28 2025",
     "campaign targeting ukraine",
+    "google api keys",
     "service ddos doxing",
     "least december 2025",
     "least 77 vulnerabilities",
-    "yokogawa centum vp",
-    "unauthorized access dozens",
-    "recommended immediate actions"
+    "yokogawa centum vp"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 11
-    },
-    {
-      "keyword": "many financial institutions",
       "mentions": 12
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 200
+      "mentions": 201
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 237
+      "mentions": 238
     },
     {
       "keyword": "300 000 individuals",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "harvesting session cookies",
+      "mentions": 1
     },
     {
       "keyword": "without formal approval",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1283
-    },
-    {
-      "keyword": "open source bugs",
       "mentions": 3
     },
     {
-      "keyword": "hitachi energy ellipse",
-      "mentions": 78
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1284
     },
     {
-      "keyword": "european travel operator",
+      "keyword": "open source bugs",
       "mentions": 4
+    },
+    {
+      "keyword": "many financial institutions",
+      "mentions": 13
+    },
+    {
+      "keyword": "hitachi energy ellipse",
+      "mentions": 79
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Google Chrome adds infostealer protection against session cookie theft",
+      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
+      "summary": "Google has rolled out Device Bound Session Credentials (DBSC) protection in Chrome 146 for Windows, designed to block info-stealing malware from harvesting session cookies. [...]",
+      "published": "Thu, 09 Apr 2026 14:33:29 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions",
       "link": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
       "summary": "Hackers hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla, and pushed a malicious version with multiple backdoors. [...]",
@@ -222,15 +231,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
       "summary": "Microsoft has suspended developer accounts used to maintain multiple high-profile open-source projects without proper notification and no way to quickly reinstate them, effectively blocking them from publishing new software builds and security patches for Windows users. [...]",
       "published": "Thu, 09 Apr 2026 02:46:26 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
-      "summary": "A massive campaign impacting nearly 100 online stores using the Magento e-commerce platform hides credit card-stealing code in a pixel-sized Scalable Vector Graphics (SVG) image. [...]",
-      "published": "Wed, 08 Apr 2026 18:34:26 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -315,6 +315,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Do Ceasefires Slow Cyberattacks? History Suggests Not",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history",
+      "summary": "The cybersecurity community is waiting with bated breath to see if Iranian hackers will honor a ceasefire that doesn't actually name or directly involve them.",
+      "published": "Thu, 09 Apr 2026 17:04:51 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Russia's Forest Blizzard Nabs Rafts of Logins via SOHO Routers",
       "link": "https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers",
       "summary": "Heard of fileless malware? How about malwareless cyber espionage? Russia's APT28 is spying on global organizations by modifying just one DNS setting in vulnerable routers.",
@@ -375,17 +384,6 @@
       "published": "Wed, 08 Apr 2026 14:08:22 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Iranian Threat Actors Disrupt US Critical Infrastructure via Exposed PLCs",
-      "link": "https://www.darkreading.com/ics-ot-security/iranian-threat-actors-us-critical-infrastructure-exposed-plcs",
-      "summary": "Attackers compromised Internet-facing OT devices and caused file and display manipulation, operational disruption, and financial losses across sectors.",
-      "published": "Wed, 08 Apr 2026 13:46:29 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",

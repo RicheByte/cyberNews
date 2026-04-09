@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 420,
+      "count": 421,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -263,7 +263,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1278,
+      "count": 1279,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1598,7 +1598,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 232,
+      "count": 233,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -9941,7 +9941,7 @@
       ]
     },
     "threat actor tracked": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -10488,7 +10488,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 219,
+      "count": 220,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10582,7 +10582,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 195,
+      "count": 196,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11851,7 +11851,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -12319,7 +12319,7 @@
       ]
     },
     "threat actor's packages": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-08",
         "2026-04-09"
@@ -12338,7 +12338,7 @@
       ]
     },
     "intelligence platforms ivip": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-08",
         "2026-04-09"
@@ -12364,21 +12364,21 @@
       ]
     },
     "rce bug lurked": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-08",
         "2026-04-09"
       ]
     },
     "cases operational disruption": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-08",
         "2026-04-09"
       ]
     },
     "vulnerability requires authentication": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-08",
         "2026-04-09"
@@ -12398,41 +12398,41 @@
       ]
     },
     "1 million complaints": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-08",
         "2026-04-09"
       ]
     },
     "many financial institutions": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-08",
         "2026-04-09"
       ]
     },
     "campaign targeting ukraine": {
-      "count": 5,
-      "dates": [
-        "2026-04-08",
-        "2026-04-09"
-      ]
-    },
-    "mitsubishi electric genesis64": {
       "count": 6,
       "dates": [
         "2026-04-08",
         "2026-04-09"
       ]
     },
+    "mitsubishi electric genesis64": {
+      "count": 7,
+      "dates": [
+        "2026-04-08",
+        "2026-04-09"
+      ]
+    },
     "shaky ceasefire unlikely": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-09"
       ]
     },
     "malwareless cyber espionage": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-09"
       ]
@@ -12444,30 +12444,19 @@
       ]
     },
     "atomic stealer malware": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-09"
       ]
     },
     "hire service since": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-09"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-31 07:06",
-      "articles": 56,
-      "top_keywords": [
-        "entire soc responds",
-        "service ddos doxing",
-        "agents autonomous programs",
-        "wago gmbh co",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-03-31 08:51",
       "articles": 56,
@@ -13548,6 +13537,17 @@
     },
     {
       "timestamp": "2026-04-09 07:14",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "shaky ceasefire unlikely",
+        "mitsubishi electric genesis64",
+        "rce bug lurked",
+        "threat actor's packages"
+      ]
+    },
+    {
+      "timestamp": "2026-04-09 09:02",
       "articles": 56,
       "top_keywords": [
         "iran's intelligence agencies",

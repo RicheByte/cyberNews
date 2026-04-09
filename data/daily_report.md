@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-08 22:34 UTC  
+> **Last Updated:** 2026-04-09 01:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **mitsubishi electric genesis64** • **rce bug lurked** • **threat actor's packages** • **threat actor tracked** • **remote code execution** • **many financial institutions** • **cases operational disruption** • **vulnerability requires authentication** • **malicious cyber actors** • **twitter whistleblower complaint** • **intelligence platforms ivip** • **hitachi energy ellipse** • **exposes wordpress sites** • **another flaw exposes** • **1 million complaints** • **vulnerability allows hackers** • **sprawling phishing campaign** • **campaign targeting ukraine** • **service ddos doxing**
+**iran's intelligence agencies** • **shaky ceasefire unlikely** • **mitsubishi electric genesis64** • **rce bug lurked** • **threat actor's packages** • **threat actor tracked** • **remote code execution** • **many financial institutions** • **cases operational disruption** • **malwareless cyber espionage** • **vulnerability requires authentication** • **malicious cyber actors** • **twitter whistleblower complaint** • **intelligence platforms ivip** • **hitachi energy ellipse** • **exposes wordpress sites** • **another flaw exposes** • **1 million complaints** • **sprawling phishing campaign** • **long hackers vowed**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
 - [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
 - [New macOS stealer campaign uses Script Editor in ClickFix attack](https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/)
 - [CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/)
@@ -34,7 +35,6 @@
 - [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/)
 - [Microsoft rolls out fix for broken Windows Start Menu search](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/)
 - [Hackers exploit critical flaw in Ninja Forms WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/)
-- [FBI: Americans lost a record $21 billion to cybercrime last year](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers](https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers)
 - [Threat Actors Get Crafty With Emojis to Escape Detection](https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications)
 - [AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties](https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties)
 - [Fraud Rockets Higher in Mobile-First Latin America](https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america)
@@ -56,10 +57,10 @@
 - [Niobium Introduces The Fog](https://www.darkreading.com/endpoint-security/niobium-introduces-the-fog)
 - [Pluralsight Launches SecureReady to Help Organizations Build Job-Ready Cybersecurity Teams](https://www.darkreading.com/remote-workforce/pluralsight-launches-secureready-cybersecurity-teams)
 - [Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs](https://www.darkreading.com/ics-ot-security/iranian-threat-actors-us-critical-infrastructure-exposed-plcs)
-- [Storm-1175 Deploys Medusa Ransomware at 'High Velocity'](https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity)
 
 ### Security Week
 
+- [Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long](https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/)
 - [Data Leakage Vulnerability Patched in OpenSSL](https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/)
 - [RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years](https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/)
 - [FBI: Cybercrime Losses Neared $21 Billion in 2025](https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/)
@@ -67,7 +68,6 @@
 - [Evasive Masjesu DDoS Botnet Targets IoT Devices](https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/)
 - [Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover](https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/)
 - [US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking](https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/)
-- [Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks](https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/)
 
 ### Threatpost
 

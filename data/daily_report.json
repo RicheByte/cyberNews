@@ -1,9 +1,10 @@
 {
-  "last_updated": "2026-04-08 22:34",
+  "last_updated": "2026-04-09 01:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
+    "shaky ceasefire unlikely",
     "mitsubishi electric genesis64",
     "rce bug lurked",
     "threat actor's packages",
@@ -11,6 +12,7 @@
     "remote code execution",
     "many financial institutions",
     "cases operational disruption",
+    "malwareless cyber espionage",
     "vulnerability requires authentication",
     "malicious cyber actors",
     "twitter whistleblower complaint",
@@ -19,51 +21,49 @@
     "exposes wordpress sites",
     "another flaw exposes",
     "1 million complaints",
-    "vulnerability allows hackers",
     "sprawling phishing campaign",
-    "campaign targeting ukraine",
-    "service ddos doxing"
+    "long hackers vowed"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 192
+      "mentions": 193
+    },
+    {
+      "keyword": "shaky ceasefire unlikely",
+      "mentions": 1
     },
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 3
-    },
-    {
-      "keyword": "rce bug lurked",
-      "mentions": 5
-    },
-    {
-      "keyword": "threat actor's packages",
-      "mentions": 8
-    },
-    {
-      "keyword": "threat actor tracked",
-      "mentions": 10
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 213
-    },
-    {
-      "keyword": "many financial institutions",
       "mentions": 4
     },
     {
+      "keyword": "rce bug lurked",
+      "mentions": 6
+    },
+    {
+      "keyword": "threat actor's packages",
+      "mentions": 9
+    },
+    {
+      "keyword": "threat actor tracked",
+      "mentions": 11
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 214
+    },
+    {
+      "keyword": "many financial institutions",
+      "mentions": 5
+    },
+    {
       "keyword": "cases operational disruption",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "vulnerability requires authentication",
-      "mentions": 5
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 417
+      "keyword": "malwareless cyber espionage",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -153,6 +153,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
+      "summary": "A massive campaign impacting nearly 100 online stores using the Magento e-commerce platform hides credit card-stealing code in a pixel-sized Scalable Vector Graphics (SVG) image. [...]",
+      "published": "Wed, 08 Apr 2026 18:34:26 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
       "link": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
       "summary": "A threat actor tracked as UNC6783 is compromising business process outsourcing (BPO) providers to gain access to high-value companies across multiple sectors. [...]",
@@ -227,15 +236,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI: Americans lost a record $21 billion to cybercrime last year",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/",
-      "summary": "U.S. victims lost nearly $21 billion to cyber-enabled crimes last year, driven primarily by investment scams, business email compromise, tech support fraud, and data breaches, the Federal Bureau of Investigation says. [...]",
-      "published": "Tue, 07 Apr 2026 16:41:52 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +318,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers",
+      "link": "https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers",
+      "summary": "Heard of fileless malware? How about malwareless cyber espionage? Russia's APT28 is spying on global organizations by modifying just one DNS setting in vulnerable routers.",
+      "published": "Thu, 09 Apr 2026 01:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Threat Actors Get Crafty With Emojis to Escape Detection",
       "link": "https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications",
       "summary": "When 🤖 means \"bot available,\" 🧰 signifies \"toolkit,\" or 💰💰💰 translates to \"big ransom,\" bad actors can evade filters and keep it all on the down-low.",
@@ -382,17 +391,13 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Storm-1175 Deploys Medusa Ransomware at 'High Velocity'",
-      "link": "https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity",
-      "summary": "Microsoft says the financially motivated cybercrime group has exploited N-day and zero-day vulnerabilities in campaigns predicated on speed.",
-      "published": "Tue, 07 Apr 2026 20:15:07 GMT",
-      "value_score": 59,
-      "value_signals": [
-        "Zero-day",
-        "Ransomware",
-        "Exploit wording"
-      ]
+      "source": "Security Week",
+      "title": "Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long",
+      "link": "https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/",
+      "summary": "Hackers vowed to revive its efforts against America when the time was right — demonstrating how digital warfare has become ingrained in military conflict. The post Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long appeared first on SecurityWeek .",
+      "published": "Thu, 09 Apr 2026 01:22:35 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -467,17 +472,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks",
-      "link": "https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/",
-      "summary": "Federal agencies warn attackers are manipulating PLC and SCADA systems across multiple sectors, triggering operational disruptions and raising concerns over broader OT targeting. The post Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks appeared first on SecurityWeek .",
-      "published": "Wed, 08 Apr 2026 02:57:56 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
       ]
     },
     {

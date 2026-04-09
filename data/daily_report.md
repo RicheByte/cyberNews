@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-09 18:57 UTC  
+> **Last Updated:** 2026-04-09 20:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **iran's intelligence agencies** • **sprawling phishing campaign** • **300 000 individuals** • **harvesting session cookies** • **without formal approval** • **twitter whistleblower complaint** • **open source bugs** • **many financial institutions** • **hitachi energy ellipse** • **european travel operator** • **spear phishing campaigns** • **service dos condition** • **november 28 2025** • **campaign targeting ukraine** • **google api keys** • **service ddos doxing** • **least december 2025** • **least 77 vulnerabilities** • **yokogawa centum vp**
+**mitsubishi electric genesis64** • **sprawling phishing campaign** • **iran's intelligence agencies** • **300 000 individuals** • **harvesting session cookies** • **without formal approval** • **twitter whistleblower complaint** • **open source bugs** • **many financial institutions** • **hitachi energy ellipse** • **european travel operator** • **spear phishing campaigns** • **november 28 2025** • **service dos condition** • **google api keys** • **least december 2025** • **least 77 vulnerabilities** • **yokogawa centum vp** • **recommended immediate actions** • **proactive defensive action**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
 - [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
 - [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
 - [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
@@ -23,10 +24,10 @@
 - [Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region](https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html)
 - [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
 - [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
-- [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
 
 ### BleepingComputer
 
+- [Healthcare IT solutions provider ChipSoft hit by ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/)
 - [Google Chrome adds infostealer protection against session cookie theft](https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/)
 - [Smart Slider updates hijacked to push malicious WordPress, Joomla versions](https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/)
 - [When attackers already have the keys, MFA is just another door to open](https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/)
@@ -34,7 +35,6 @@
 - [Eurail says December data breach impacts 300,000 individuals](https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/)
 - [Hackers exploiting Acrobat Reader zero-day flaw since December](https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/)
 - [Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot](https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/)
-- [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
 
 ### Krebs on Security
 

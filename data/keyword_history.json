@@ -263,7 +263,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1284,
+      "count": 1285,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1598,7 +1598,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 238,
+      "count": 239,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2622,7 +2622,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -8453,7 +8453,7 @@
       ]
     },
     "least december 2025": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -9480,7 +9480,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10585,7 +10585,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 201,
+      "count": 202,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11854,7 +11854,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11946,7 +11946,7 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12237,7 +12237,7 @@
       ]
     },
     "service dos condition": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12410,7 +12410,7 @@
       ]
     },
     "many financial institutions": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-08",
         "2026-04-09"
@@ -12424,7 +12424,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-08",
         "2026-04-09"
@@ -12461,37 +12461,37 @@
       ]
     },
     "300 000 individuals": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-09"
       ]
     },
     "european travel operator": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-09"
       ]
     },
     "open source bugs": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-09"
       ]
     },
     "november 28 2025": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-09"
       ]
     },
     "google api keys": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-09"
       ]
     },
     "without formal approval": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-09"
       ]
@@ -12503,36 +12503,25 @@
       ]
     },
     "proactive defensive action": {
-      "count": 1,
-      "dates": [
-        "2026-04-09"
-      ]
-    },
-    "spear phishing campaigns": {
       "count": 2,
       "dates": [
         "2026-04-09"
       ]
     },
+    "spear phishing campaigns": {
+      "count": 3,
+      "dates": [
+        "2026-04-09"
+      ]
+    },
     "harvesting session cookies": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-09"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-31 18:55",
-      "articles": 56,
-      "top_keywords": [
-        "wago gmbh co",
-        "things iot devices",
-        "teams meeting add",
-        "javascript http client",
-        "service dos flaw"
-      ]
-    },
     {
       "timestamp": "2026-03-31 20:38",
       "articles": 56,
@@ -13618,6 +13607,17 @@
         "mitsubishi electric genesis64",
         "iran's intelligence agencies",
         "sprawling phishing campaign",
+        "300 000 individuals",
+        "harvesting session cookies"
+      ]
+    },
+    {
+      "timestamp": "2026-04-09 20:43",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "sprawling phishing campaign",
+        "iran's intelligence agencies",
         "300 000 individuals",
         "harvesting session cookies"
       ]

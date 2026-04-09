@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09 09:02",
+  "last_updated": "2026-04-09 10:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "shaky ceasefire unlikely",
     "mitsubishi electric genesis64",
     "rce bug lurked",
-    "threat actor's packages",
-    "threat actor tracked",
     "many financial institutions",
     "cases operational disruption",
+    "threat actor's packages",
+    "threat actor tracked",
     "malwareless cyber espionage",
+    "300 000 individuals",
     "vulnerability requires authentication",
     "1 million complaints",
     "malicious cyber actors",
     "twitter whistleblower complaint",
     "intelligence platforms ivip",
     "hitachi energy ellipse",
+    "european travel operator",
     "sprawling phishing campaign",
-    "atomic stealer malware",
-    "service ddos doxing",
-    "hire service since",
-    "campaign targeting ukraine"
+    "campaign targeting ukraine",
+    "atomic stealer malware"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 196
+      "mentions": 197
     },
     {
       "keyword": "shaky ceasefire unlikely",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 7
-    },
-    {
-      "keyword": "rce bug lurked",
-      "mentions": 9
-    },
-    {
-      "keyword": "threat actor's packages",
-      "mentions": 12
-    },
-    {
-      "keyword": "threat actor tracked",
-      "mentions": 14
-    },
-    {
-      "keyword": "many financial institutions",
       "mentions": 8
     },
     {
-      "keyword": "cases operational disruption",
+      "keyword": "rce bug lurked",
+      "mentions": 10
+    },
+    {
+      "keyword": "many financial institutions",
       "mentions": 9
+    },
+    {
+      "keyword": "cases operational disruption",
+      "mentions": 10
+    },
+    {
+      "keyword": "threat actor's packages",
+      "mentions": 13
+    },
+    {
+      "keyword": "threat actor tracked",
+      "mentions": 15
     },
     {
       "keyword": "malwareless cyber espionage",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "vulnerability requires authentication",
-      "mentions": 9
+      "keyword": "300 000 individuals",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -153,6 +153,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Eurail says December data breach impacts 300,000 individuals",
+      "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
+      "summary": "Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data breach. [...]",
+      "published": "Thu, 09 Apr 2026 06:31:54 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers exploiting Acrobat Reader zero-day flaw since December",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/",
+      "summary": "Attackers have been exploiting a zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December. [...]",
+      "published": "Thu, 09 Apr 2026 05:22:35 -0400",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
       "link": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
       "summary": "Bitcoin Depot, which operates one of the largest Bitcoin ATM networks, says attackers stole $3.665 million worth of Bitcoin from its crypto wallets after breaching its systems last month. [...]",
@@ -209,27 +232,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands",
-      "link": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/",
-      "summary": "Security researchers discovered a remote code execution (RCE) vulnerability in Apache ActiveMQ Classic that has gone undetected for 13 years and could be exploited to execute arbitrary commands. [...]",
-      "published": "Wed, 08 Apr 2026 13:26:40 -0400",
-      "value_score": 56,
-      "value_signals": [
-        "RCE ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Is a $30,000 GPU Good at Password Cracking?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
-      "summary": "A $30,000 AI GPU doesn't outperform consumer GPUs at password cracking. Specops explains why attackers don't need exotic hardware to break weak passwords. [...]",
-      "published": "Wed, 08 Apr 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -386,6 +388,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Google Warns of New Campaign Targeting BPOs to Steal Corporate Data",
+      "link": "https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/",
+      "summary": "Tracked as UNC6783, the threat actor is likely linked to Mr. Raccoon, the hacker behind the alleged theft of Adobe data from a BPO. The post Google Warns of New Campaign Targeting BPOs to Steal Corporate Data appeared first on SecurityWeek .",
+      "published": "Thu, 09 Apr 2026 09:44:56 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Adobe Reader Zero-Day Exploited for Months: Researcher",
       "link": "https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/",
       "summary": "Reputable researcher Haifei Li has come across what appears to be a PDF designed to exploit an unpatched vulnerability. The post Adobe Reader Zero-Day Exploited for Months: Researcher appeared first on SecurityWeek .",
@@ -454,15 +465,6 @@
       "link": "https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/",
       "summary": "The FBI received over 1 million complaints of malicious activity in 2025, with investment, BEC, and tech support scams causing the highest losses. The post FBI: Cybercrime Losses Neared $21 Billion in 2025 appeared first on SecurityWeek .",
       "published": "Wed, 08 Apr 2026 13:32:53 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption",
-      "link": "https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/",
-      "summary": "Signature Healthcare was forced to cancel some services, and pharmacies are unable to fill prescriptions due to the hacker attack. The post Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption appeared first on SecurityWeek .",
-      "published": "Wed, 08 Apr 2026 12:31:39 +0000",
       "value_score": 10,
       "value_signals": []
     },

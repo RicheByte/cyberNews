@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-09 09:02 UTC  
+> **Last Updated:** 2026-04-09 10:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **shaky ceasefire unlikely** • **mitsubishi electric genesis64** • **rce bug lurked** • **threat actor's packages** • **threat actor tracked** • **many financial institutions** • **cases operational disruption** • **malwareless cyber espionage** • **vulnerability requires authentication** • **1 million complaints** • **malicious cyber actors** • **twitter whistleblower complaint** • **intelligence platforms ivip** • **hitachi energy ellipse** • **sprawling phishing campaign** • **atomic stealer malware** • **service ddos doxing** • **hire service since** • **campaign targeting ukraine**
+**iran's intelligence agencies** • **shaky ceasefire unlikely** • **mitsubishi electric genesis64** • **rce bug lurked** • **many financial institutions** • **cases operational disruption** • **threat actor's packages** • **threat actor tracked** • **malwareless cyber espionage** • **300 000 individuals** • **vulnerability requires authentication** • **1 million complaints** • **malicious cyber actors** • **twitter whistleblower complaint** • **intelligence platforms ivip** • **hitachi energy ellipse** • **european travel operator** • **sprawling phishing campaign** • **campaign targeting ukraine** • **atomic stealer malware**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Eurail says December data breach impacts 300,000 individuals](https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/)
+- [Hackers exploiting Acrobat Reader zero-day flaw since December](https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/)
 - [Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot](https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/)
 - [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
 - [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
 - [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
 - [New macOS stealer campaign uses Script Editor in ClickFix attack](https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/)
 - [CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/)
-- [13-year-old bug in ActiveMQ lets hackers remotely execute commands](https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/)
-- [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Google Warns of New Campaign Targeting BPOs to Steal Corporate Data](https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/)
 - [Adobe Reader Zero-Day Exploited for Months: Researcher](https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/)
 - [300,000 People Impacted by Eurail Data Breach](https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/)
 - [$3.6 Million Stolen in Bitcoin Depot Hack](https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/)
@@ -67,7 +68,6 @@
 - [Data Leakage Vulnerability Patched in OpenSSL](https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/)
 - [RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years](https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/)
 - [FBI: Cybercrime Losses Neared $21 Billion in 2025](https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/)
-- [Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption](https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/)
 
 ### Threatpost
 

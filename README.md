@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-09 09:02 UTC |
+| 🕐 Last Updated | 2026-04-09 10:54 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `shaky ceasefire unlikely` • `mitsubishi electric genesis64` • `rce bug lurked` • `threat actor's packages` • `threat actor tracked` • `many financial institutions` • `cases operational disruption` • `malwareless cyber espionage` • `vulnerability requires authentication`
+`iran's intelligence agencies` • `shaky ceasefire unlikely` • `mitsubishi electric genesis64` • `rce bug lurked` • `many financial institutions` • `cases operational disruption` • `threat actor's packages` • `threat actor tracked` • `malwareless cyber espionage` • `300 000 individuals`
 
 ## 📄 Reports
 

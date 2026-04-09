@@ -263,7 +263,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1280,
+      "count": 1281,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1598,7 +1598,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 234,
+      "count": 235,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -8452,10 +8452,11 @@
       ]
     },
     "least december 2025": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-26",
-        "2026-02-27"
+        "2026-02-27",
+        "2026-04-09"
       ]
     },
     "investment will enable": {
@@ -9941,7 +9942,7 @@
       ]
     },
     "threat actor tracked": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -10488,7 +10489,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 220,
+      "count": 221,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10582,7 +10583,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 197,
+      "count": 198,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11851,7 +11852,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11943,12 +11944,13 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-04-03",
         "2026-04-04",
         "2026-04-06",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-09"
       ]
     },
     "zero click exploits": {
@@ -12233,10 +12235,11 @@
       ]
     },
     "service dos condition": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-07",
-        "2026-04-08"
+        "2026-04-08",
+        "2026-04-09"
       ]
     },
     "cve 2025 59528": {
@@ -12338,7 +12341,7 @@
       ]
     },
     "intelligence platforms ivip": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-08",
         "2026-04-09"
@@ -12405,28 +12408,28 @@
       ]
     },
     "many financial institutions": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-08",
         "2026-04-09"
       ]
     },
     "campaign targeting ukraine": {
-      "count": 7,
-      "dates": [
-        "2026-04-08",
-        "2026-04-09"
-      ]
-    },
-    "mitsubishi electric genesis64": {
       "count": 8,
       "dates": [
         "2026-04-08",
         "2026-04-09"
       ]
     },
+    "mitsubishi electric genesis64": {
+      "count": 9,
+      "dates": [
+        "2026-04-08",
+        "2026-04-09"
+      ]
+    },
     "shaky ceasefire unlikely": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-09"
       ]
@@ -12444,7 +12447,7 @@
       ]
     },
     "atomic stealer malware": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-09"
       ]
@@ -12456,12 +12459,30 @@
       ]
     },
     "300 000 individuals": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-09"
       ]
     },
     "european travel operator": {
+      "count": 2,
+      "dates": [
+        "2026-04-09"
+      ]
+    },
+    "open source bugs": {
+      "count": 1,
+      "dates": [
+        "2026-04-09"
+      ]
+    },
+    "november 28 2025": {
+      "count": 1,
+      "dates": [
+        "2026-04-09"
+      ]
+    },
+    "google api keys": {
       "count": 1,
       "dates": [
         "2026-04-09"
@@ -12469,17 +12490,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-31 10:49",
-      "articles": 56,
-      "top_keywords": [
-        "entire soc responds",
-        "things iot devices",
-        "service ddos doxing",
-        "agents autonomous programs",
-        "wago gmbh co"
-      ]
-    },
     {
       "timestamp": "2026-03-31 13:06",
       "articles": 56,
@@ -13567,6 +13577,17 @@
         "mitsubishi electric genesis64",
         "rce bug lurked",
         "many financial institutions"
+      ]
+    },
+    {
+      "timestamp": "2026-04-09 13:15",
+      "articles": 56,
+      "top_keywords": [
+        "shaky ceasefire unlikely",
+        "mitsubishi electric genesis64",
+        "many financial institutions",
+        "iran's intelligence agencies",
+        "300 000 individuals"
       ]
     }
   ]

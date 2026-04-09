@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-09 15:18 UTC  
+> **Last Updated:** 2026-04-09 17:01 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **sprawling phishing campaign** • **many financial institutions** • **iran's intelligence agencies** • **300 000 individuals** • **threat actor tracked** • **without formal approval** • **twitter whistleblower complaint** • **open source bugs** • **hitachi energy ellipse** • **european travel operator** • **service dos condition** • **november 28 2025** • **campaign targeting ukraine** • **service ddos doxing** • **least december 2025** • **yokogawa centum vp** • **unauthorized access dozens** • **recommended immediate actions** • **proactive defensive action**
+**mitsubishi electric genesis64** • **many financial institutions** • **iran's intelligence agencies** • **sprawling phishing campaign** • **300 000 individuals** • **without formal approval** • **twitter whistleblower complaint** • **open source bugs** • **hitachi energy ellipse** • **european travel operator** • **spear phishing campaigns** • **service dos condition** • **november 28 2025** • **campaign targeting ukraine** • **service ddos doxing** • **least december 2025** • **least 77 vulnerabilities** • **yokogawa centum vp** • **unauthorized access dozens** • **recommended immediate actions**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
 - [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
 - [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
 - [Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025](https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html)
@@ -23,10 +24,10 @@
 - [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
 - [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
 - [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
-- [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
 
 ### BleepingComputer
 
+- [Smart Slider updates hijacked to push malicious WordPress, Joomla versions](https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/)
 - [When attackers already have the keys, MFA is just another door to open](https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/)
 - [Webinar: From noise to signal - What threat actors are targeting next](https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/)
 - [Eurail says December data breach impacts 300,000 individuals](https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/)
@@ -34,7 +35,6 @@
 - [Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot](https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/)
 - [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
 - [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
-- [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
-- [Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers](https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers)
+- [Russia's Forest Blizzard Nabs Rafts of Logins via SOHO Routers](https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers)
 - [Threat Actors Get Crafty With Emojis to Escape Detection](https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications)
 - [AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties](https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties)
 - [Fraud Rockets Higher in Mobile-First Latin America](https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america)
 - [Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus](https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range)
 - [Niobium Introduces The Fog](https://www.darkreading.com/endpoint-security/niobium-introduces-the-fog)
 - [Pluralsight Launches SecureReady to Help Organizations Build Job-Ready Cybersecurity Teams](https://www.darkreading.com/remote-workforce/pluralsight-launches-secureready-cybersecurity-teams)
-- [Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs](https://www.darkreading.com/ics-ot-security/iranian-threat-actors-us-critical-infrastructure-exposed-plcs)
+- [Iranian Threat Actors Disrupt US Critical Infrastructure via Exposed PLCs](https://www.darkreading.com/ics-ot-security/iranian-threat-actors-us-critical-infrastructure-exposed-plcs)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Contemporary Controls BASC 20T](https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01)
+- [GPL Odorizers GPL750](https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Mitsubishi Electric GENESIS64 and ICONICS Suite products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-097-01)
 - [Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Hitachi Energy Ellipse](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Siemens SICAM 8 Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01)
 - [Yokogawa CENTUM VP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02)
+- [Hitachi Energy Ellipse](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03)
 
 ---
 

@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-04-09 15:18",
+  "last_updated": "2026-04-09 17:01",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
-    "sprawling phishing campaign",
     "many financial institutions",
     "iran's intelligence agencies",
+    "sprawling phishing campaign",
     "300 000 individuals",
-    "threat actor tracked",
     "without formal approval",
     "twitter whistleblower complaint",
     "open source bugs",
     "hitachi energy ellipse",
     "european travel operator",
+    "spear phishing campaigns",
     "service dos condition",
     "november 28 2025",
     "campaign targeting ukraine",
     "service ddos doxing",
     "least december 2025",
+    "least 77 vulnerabilities",
     "yokogawa centum vp",
     "unauthorized access dozens",
-    "recommended immediate actions",
-    "proactive defensive action"
+    "recommended immediate actions"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 10
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 236
-    },
-    {
-      "keyword": "many financial institutions",
       "mentions": 11
     },
     {
+      "keyword": "many financial institutions",
+      "mentions": 12
+    },
+    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 199
+      "mentions": 200
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 237
     },
     {
       "keyword": "300 000 individuals",
-      "mentions": 3
-    },
-    {
-      "keyword": "threat actor tracked",
-      "mentions": 17
+      "mentions": 4
     },
     {
       "keyword": "without formal approval",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1282
-    },
-    {
-      "keyword": "open source bugs",
       "mentions": 2
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1283
+    },
+    {
+      "keyword": "open source bugs",
+      "mentions": 3
+    },
+    {
       "keyword": "hitachi energy ellipse",
-      "mentions": 77
+      "mentions": 78
+    },
+    {
+      "keyword": "european travel operator",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
+      "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
+      "summary": "A previously undocumented threat cluster dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRook. \"LucidRook is a sophisticated stager that embeds a Lua interpreter and Rust-compiled libraries within a dynamic-link library (DLL) to download and",
+      "published": "Thu, 09 Apr 2026 21:53:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
@@ -143,13 +154,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
-      "summary": "The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous systems. The result is Identity Dark Matter: identity activity that sits outside the visibility of centralized IAM and",
-      "published": "Wed, 08 Apr 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions",
+      "link": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
+      "summary": "Hackers hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla, and pushed a malicious version with multiple backdoors. [...]",
+      "published": "Thu, 09 Apr 2026 12:15:26 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -218,15 +231,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
       "summary": "A massive campaign impacting nearly 100 online stores using the Magento e-commerce platform hides credit card-stealing code in a pixel-sized Scalable Vector Graphics (SVG) image. [...]",
       "published": "Wed, 08 Apr 2026 18:34:26 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
-      "link": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
-      "summary": "A threat actor tracked as UNC6783 is compromising business process outsourcing (BPO) providers to gain access to high-value companies across multiple sectors. [...]",
-      "published": "Wed, 08 Apr 2026 17:46:27 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -311,7 +315,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers",
+      "title": "Russia's Forest Blizzard Nabs Rafts of Logins via SOHO Routers",
       "link": "https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers",
       "summary": "Heard of fileless malware? How about malwareless cyber espionage? Russia's APT28 is spying on global organizations by modifying just one DNS setting in vulnerable routers.",
       "published": "Thu, 09 Apr 2026 01:00:00 GMT",
@@ -374,7 +378,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs",
+      "title": "Iranian Threat Actors Disrupt US Critical Infrastructure via Exposed PLCs",
       "link": "https://www.darkreading.com/ics-ot-security/iranian-threat-actors-us-critical-infrastructure-exposed-plcs",
       "summary": "Attackers compromised Internet-facing OT devices and caused file and display manipulation, operational disruption, and financial losses across sectors.",
       "published": "Wed, 08 Apr 2026 13:46:29 GMT",
@@ -547,6 +551,32 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Contemporary Controls BASC 20T",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to enumerate the functionality of each component associated with the PLC, reconfigure, rename, delete, perform file transfers, and make remote procedure calls. The following versions of Contemporary Controls BASC 20T are affected: BASControl20 3.1 (CVE-2025-13926) CVSS Vendor Equipment Vulnerabilities v3 9.8 Contemporary Controls Sedona Alliance Contemporary Controls BASC 20T Reliance on Untrusted Inputs in a",
+      "published": "Thu, 09 Apr 26 12:00:00 +0000",
+      "value_score": 59,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "GPL Odorizers GPL750",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a low privileged remote attacker to manipulate register values, which would result in too much or too little odorant being injected into a gas line. The following versions of GPL Odorizers GPL750 are affected: GPL750 (XL4) >=v1.0| GPL750 (XL4 Prime) >=v4.0| GPL750 (XL7) >=v13.0| GPL750 (XL7 Prime) >=v18.4| CVSS Vendor Equipment Vulnerabilities v3 8.6 GPL Odorizers GPL Odorizers GPL750 Missing Authentication for Critical ",
+      "published": "Thu, 09 Apr 26 12:00:00 +0000",
+      "value_score": 49,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-1340 Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living ",
@@ -602,46 +632,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Hitachi Energy Ellipse",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03",
-      "summary": "View CSAF Summary Hitachi Energy is aware of a Jasper Report vulnerability that affects the Ellipse product versions mentioned in this document below. This vulnerability can be exploited to carry out remote code execution (RCE) attack on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Ellipse are affected: Ellipse vers:Ellipse/<=9.0.50 (CVE-2025-10492) CVSS Vendor Equipment Vulnerabilities v",
-      "published": "Thu, 02 Apr 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "RCE ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-3502 TrueConf Client Download of Code Without Integrity Check Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a liv",
-      "published": "Thu, 02 Apr 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens SICAM 8 Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01",
-      "summary": "View CSAF Summary Multiple SICAM 8 products are affected by multiple vulnerabilities that could lead to denial of service, namely: - SICAM A8000 Device firmware - CPCI85 for CP-8031/CP-8050 - SICORE for CP-8010/CP-8012 - RTUM85 for CP-8010/CP-8012 - SICAM EGS Device firmware - CPCI85 - SICAM S8000 - SICORE - RTUM85 Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SICAM 8 Products are affected: CPCI85 Ce",
-      "published": "Thu, 02 Apr 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Yokogawa CENTUM VP",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to login as the PROG user and modify permissions. The following versions of Yokogawa CENTUM VP are affected: CENTUM VP >=R5.01.00| CENTUM VP >=R6.01.00| CENTUM VP vR7.01.00 (CVE-2025-7741) CVSS Vendor Equipment Vulnerabilities v3 4 Yokogawa Yokogawa CENTUM VP Use of Hard-coded Password Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Food and Agriculture Countries/Areas Deployed: Wo",
@@ -651,6 +641,20 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hitachi Energy Ellipse",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a Jasper Report vulnerability that affects the Ellipse product versions mentioned in this document below. This vulnerability can be exploited to carry out remote code execution (RCE) attack on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Ellipse are affected: Ellipse vers:Ellipse/<=9.0.50 (CVE-2025-10492) CVSS Vendor Equipment Vulnerabilities v",
+      "published": "Thu, 02 Apr 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "RCE ×2",
         "Exploit wording"
       ]
     }

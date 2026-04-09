@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-09 13:15 UTC  
+> **Last Updated:** 2026-04-09 15:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**shaky ceasefire unlikely** • **mitsubishi electric genesis64** • **many financial institutions** • **iran's intelligence agencies** • **300 000 individuals** • **threat actor tracked** • **twitter whistleblower complaint** • **open source bugs** • **hitachi energy ellipse** • **european travel operator** • **sprawling phishing campaign** • **service dos condition** • **november 28 2025** • **intelligence platforms ivip** • **atomic stealer malware** • **google api keys** • **campaign targeting ukraine** • **service ddos doxing** • **least december 2025** • **yokogawa centum vp**
+**mitsubishi electric genesis64** • **sprawling phishing campaign** • **many financial institutions** • **iran's intelligence agencies** • **300 000 individuals** • **threat actor tracked** • **without formal approval** • **twitter whistleblower complaint** • **open source bugs** • **hitachi energy ellipse** • **european travel operator** • **service dos condition** • **november 28 2025** • **campaign targeting ukraine** • **service ddos doxing** • **least december 2025** • **yokogawa centum vp** • **unauthorized access dozens** • **recommended immediate actions** • **proactive defensive action**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
 - [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
 - [Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025](https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html)
 - [Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region](https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html)
@@ -23,10 +24,10 @@
 - [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
 - [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
 - [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
-- [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
 
 ### BleepingComputer
 
+- [When attackers already have the keys, MFA is just another door to open](https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/)
 - [Webinar: From noise to signal - What threat actors are targeting next](https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/)
 - [Eurail says December data breach impacts 300,000 individuals](https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/)
 - [Hackers exploiting Acrobat Reader zero-day flaw since December](https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/)
@@ -34,7 +35,6 @@
 - [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
 - [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
 - [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
-- [New macOS stealer campaign uses Script Editor in ClickFix attack](https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Apple Intelligence AI Guardrails Bypassed in New Attack](https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/)
+- [Can we Trust AI? No – But Eventually We Must](https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/)
 - [Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access](https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/)
 - [Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities](https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/)
 - [The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security](https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/)
 - [Google Warns of New Campaign Targeting BPOs to Steal Corporate Data](https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/)
 - [Adobe Reader Zero-Day Exploited for Months: Researcher](https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/)
 - [300,000 People Impacted by Eurail Data Breach](https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/)
-- [$3.6 Million Stolen in Bitcoin Depot Hack](https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/)
-- [Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long](https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/)
 
 ### Threatpost
 

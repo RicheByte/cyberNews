@@ -263,7 +263,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1281,
+      "count": 1282,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1598,7 +1598,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 235,
+      "count": 236,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2622,7 +2622,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2635,7 +2635,8 @@
         "2026-02-09",
         "2026-03-07",
         "2026-03-08",
-        "2026-03-09"
+        "2026-03-09",
+        "2026-04-09"
       ]
     },
     "next wave hits": {
@@ -8452,7 +8453,7 @@
       ]
     },
     "least december 2025": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -9942,7 +9943,7 @@
       ]
     },
     "threat actor tracked": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -10489,7 +10490,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 221,
+      "count": 222,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10583,7 +10584,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 198,
+      "count": 199,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11852,7 +11853,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11944,7 +11945,7 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12235,7 +12236,7 @@
       ]
     },
     "service dos condition": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12408,21 +12409,21 @@
       ]
     },
     "many financial institutions": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-08",
         "2026-04-09"
       ]
     },
     "campaign targeting ukraine": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-08",
         "2026-04-09"
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-08",
         "2026-04-09"
@@ -12459,25 +12460,25 @@
       ]
     },
     "300 000 individuals": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-09"
       ]
     },
     "european travel operator": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-09"
       ]
     },
     "open source bugs": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-09"
       ]
     },
     "november 28 2025": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-09"
       ]
@@ -12487,20 +12488,27 @@
       "dates": [
         "2026-04-09"
       ]
+    },
+    "without formal approval": {
+      "count": 1,
+      "dates": [
+        "2026-04-09"
+      ]
+    },
+    "unauthorized access dozens": {
+      "count": 1,
+      "dates": [
+        "2026-04-09"
+      ]
+    },
+    "proactive defensive action": {
+      "count": 1,
+      "dates": [
+        "2026-04-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-03-31 13:06",
-      "articles": 56,
-      "top_keywords": [
-        "teams meeting add",
-        "things iot devices",
-        "service ddos doxing",
-        "wago gmbh co",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-03-31 14:56",
       "articles": 56,
@@ -13585,6 +13593,17 @@
       "top_keywords": [
         "shaky ceasefire unlikely",
         "mitsubishi electric genesis64",
+        "many financial institutions",
+        "iran's intelligence agencies",
+        "300 000 individuals"
+      ]
+    },
+    {
+      "timestamp": "2026-04-09 15:18",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "sprawling phishing campaign",
         "many financial institutions",
         "iran's intelligence agencies",
         "300 000 individuals"

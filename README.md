@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-09 13:15 UTC |
+| 🕐 Last Updated | 2026-04-09 15:18 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`shaky ceasefire unlikely` • `mitsubishi electric genesis64` • `many financial institutions` • `iran's intelligence agencies` • `300 000 individuals` • `threat actor tracked` • `twitter whistleblower complaint` • `open source bugs` • `hitachi energy ellipse` • `european travel operator`
+`mitsubishi electric genesis64` • `sprawling phishing campaign` • `many financial institutions` • `iran's intelligence agencies` • `300 000 individuals` • `threat actor tracked` • `without formal approval` • `twitter whistleblower complaint` • `open source bugs` • `hitachi energy ellipse`
 
 ## 📄 Reports
 

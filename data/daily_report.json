@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-04-09 13:15",
+  "last_updated": "2026-04-09 15:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "shaky ceasefire unlikely",
     "mitsubishi electric genesis64",
+    "sprawling phishing campaign",
     "many financial institutions",
     "iran's intelligence agencies",
     "300 000 individuals",
     "threat actor tracked",
+    "without formal approval",
     "twitter whistleblower complaint",
     "open source bugs",
     "hitachi energy ellipse",
     "european travel operator",
-    "sprawling phishing campaign",
     "service dos condition",
     "november 28 2025",
-    "intelligence platforms ivip",
-    "atomic stealer malware",
-    "google api keys",
     "campaign targeting ukraine",
     "service ddos doxing",
     "least december 2025",
-    "yokogawa centum vp"
+    "yokogawa centum vp",
+    "unauthorized access dozens",
+    "recommended immediate actions",
+    "proactive defensive action"
   ],
   "trending": [
     {
-      "keyword": "shaky ceasefire unlikely",
-      "mentions": 6
-    },
-    {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 9
-    },
-    {
-      "keyword": "many financial institutions",
       "mentions": 10
     },
     {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 236
+    },
+    {
+      "keyword": "many financial institutions",
+      "mentions": 11
+    },
+    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 198
+      "mentions": 199
     },
     {
       "keyword": "300 000 individuals",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "threat actor tracked",
-      "mentions": 16
+      "mentions": 17
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1281
-    },
-    {
-      "keyword": "open source bugs",
+      "keyword": "without formal approval",
       "mentions": 1
     },
     {
-      "keyword": "hitachi energy ellipse",
-      "mentions": 76
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1282
     },
     {
-      "keyword": "european travel operator",
+      "keyword": "open source bugs",
       "mentions": 2
+    },
+    {
+      "keyword": "hitachi energy ellipse",
+      "mentions": 77
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
+      "summary": "Thursday. Another week, another batch of things that probably should've been caught sooner but weren't. This one's got some range — old vulnerabilities getting new life, a few \"why was that even possible\" moments, attackers leaning on platforms and tools you'd normally trust without thinking twice. Quiet escalations more than loud zero-days, but the kind that matter more in",
+      "published": "Thu, 09 Apr 2026 18:27:00 +0530",
+      "value_score": 40,
+      "value_signals": [
+        "RCE",
+        "Botnet"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "The Hidden Security Risks of Shadow AI in Enterprises",
@@ -140,14 +152,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
-      "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
-      "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative called Project Glasswing that will use a preview version of its new frontier model, Claude Mythos, to find and address security vulnerabilities. The model will be used by a small set of organizations, including Amazon Web Services, Apple, Broadcom, Cisco, CrowdStrike,&",
-      "published": "Wed, 08 Apr 2026 14:46:00 +0530",
-      "value_score": 35,
+      "source": "BleepingComputer",
+      "title": "When attackers already have the keys, MFA is just another door to open",
+      "link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
+      "summary": "Stolen credentials turn authentication systems into the attack surface. Token shows how wearable biometric authentication verifies the user—not the session—blocking phishing relays and MFA bypass. [...]",
+      "published": "Thu, 09 Apr 2026 10:02:12 -0400",
+      "value_score": 18,
       "value_signals": [
-        "Zero-day"
+        "Phishing"
       ]
     },
     {
@@ -215,15 +227,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
       "summary": "A threat actor tracked as UNC6783 is compromising business process outsourcing (BPO) providers to gain access to high-value companies across multiple sectors. [...]",
       "published": "Wed, 08 Apr 2026 17:46:27 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
-      "summary": "A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users into executing commands in Terminal. [...]",
-      "published": "Wed, 08 Apr 2026 14:55:43 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -382,6 +385,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Apple Intelligence AI Guardrails Bypassed in New Attack",
+      "link": "https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/",
+      "summary": "RSAC researchers hacked Apple Intelligence using the Neural Exect method and Unicode manipulation. The post Apple Intelligence AI Guardrails Bypassed in New Attack appeared first on SecurityWeek .",
+      "published": "Thu, 09 Apr 2026 13:43:07 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Can we Trust AI? No – But Eventually We Must",
+      "link": "https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/",
+      "summary": "From hallucinations and bias to model collapse and adversarial abuse, today’s AI is built on probability rather than truth, yet enterprises are deploying it at speed without fully understanding the risks. The post Can we Trust AI? No – But Eventually We Must appeared first on SecurityWeek .",
+      "published": "Thu, 09 Apr 2026 13:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access",
       "link": "https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/",
       "summary": "Dozens of such keys can be extracted from apps’ decompiled code to gain access to all Gemini endpoints. The post Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access appeared first on SecurityWeek .",
@@ -440,24 +461,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "$3.6 Million Stolen in Bitcoin Depot Hack",
-      "link": "https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/",
-      "summary": "A hacker transferred more than 50 bitcoin from the Bitcoin ATM operator’s wallets after stealing credentials. The post $3.6 Million Stolen in Bitcoin Depot Hack appeared first on SecurityWeek .",
-      "published": "Thu, 09 Apr 2026 06:41:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long",
-      "link": "https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/",
-      "summary": "Hackers vowed to revive its efforts against America when the time was right — demonstrating how digital warfare has become ingrained in military conflict. The post Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long appeared first on SecurityWeek .",
-      "published": "Thu, 09 Apr 2026 01:22:35 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-10 12:59 UTC  
+> **Last Updated:** 2026-04-10 14:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **block session theft** • **smart slider 3** • **iran's intelligence agencies** • **cookie theft protections** • **cryptographically binding authentication** • **service ddos doxing** • **twitter whistleblower complaint** • **open source bugs** • **many financial institutions** • **iran linked hackers** • **hitachi energy ellipse** • **harvesting session cookies** • **genai consumption there's** • **sprawling phishing campaign** • **spear phishing campaigns** • **service dos condition** • **previously undocumented phishing** • **critical security vulnerability** • **yokogawa centum vp**
+**mitsubishi electric genesis64** • **block session theft** • **iran's intelligence agencies** • **cookie theft protections** • **human scale security** • **cryptographically binding authentication** • **service ddos doxing** • **twitter whistleblower complaint** • **smart slider 3** • **popular cpu z** • **poisoned version containing** • **open source bugs** • **iran linked hackers** • **hitachi energy ellipse** • **genai consumption there's** • **harvesting session cookies** • **service dos condition** • **yokogawa centum vp** • **upcoming chrome release** • **sprawling phishing campaign**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
 - [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html)
 - [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
 - [Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure](https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html)
@@ -23,18 +24,17 @@
 - [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
 - [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
 - [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
-- [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
 
 ### BleepingComputer
 
+- [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)
+- [Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
 - [Microsoft: Canadian employees targeted in payroll pirate attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/)
 - [Google rolls out Gmail end-to-end encryption on mobile devices](https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/)
 - [New ‘LucidRook’ malware used in targeted attacks on NGOs, universities](https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/)
 - [New VENOM phishing attacks steal senior executives' Microsoft logins](https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/)
 - [Healthcare IT solutions provider ChipSoft hit by ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/)
 - [Google Chrome adds infostealer protection against session cookie theft](https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/)
-- [Smart Slider updates hijacked to push malicious WordPress, Joomla versions](https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/)
-- [When attackers already have the keys, MFA is just another door to open](https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [Industrial Controllers Still Vulnerable As Conflicts Move to Cyber](https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber)
+- [Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?](https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe)
 - [Russia's 'Fancy Bear' APT Continues Its Global Onslaught](https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught)
 - ['BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues](https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues)
 - [Do Ceasefires Slow Cyberattacks? History Suggests Not](https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history)
 - [Russia's Forest Blizzard Nabs Rafts of Logins via SOHO Routers](https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers)
 - [Threat Actors Get Crafty With Emojis to Escape Detection](https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications)
 - [AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties](https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties)
-- [Fraud Rockets Higher in Mobile-First Latin America](https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america)
-- [Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus](https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range)
 
 ### Security Week
 
+- [Juniper Networks Patches Dozens of Junos OS Vulnerabilities](https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/)
 - [Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday](https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/)
 - [Orthanc DICOM Vulnerabilities Lead to Crashes, RCE](https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/)
 - [Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000](https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/)
@@ -67,7 +68,6 @@
 - [Critical Marimo Flaw Exploited Hours After Public Disclosure](https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/)
 - [Google Rolls Out Cookie Theft Protections in Chrome](https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/)
 - [Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users](https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/)
-- [Apple Intelligence AI Guardrails Bypassed in New Attack](https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/)
 
 ### Threatpost
 

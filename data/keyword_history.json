@@ -263,7 +263,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1292,
+      "count": 1293,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1600,7 +1600,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 246,
+      "count": 247,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -10497,7 +10497,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 227,
+      "count": 228,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10592,7 +10592,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 209,
+      "count": 210,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11862,7 +11862,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11955,7 +11955,7 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12247,7 +12247,7 @@
       ]
     },
     "service dos condition": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12436,7 +12436,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12488,7 +12488,7 @@
       ]
     },
     "open source bugs": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-09",
         "2026-04-10"
@@ -12536,7 +12536,7 @@
       ]
     },
     "harvesting session cookies": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-09",
         "2026-04-10"
@@ -12550,36 +12550,60 @@
       ]
     },
     "block session theft": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-10"
       ]
     },
     "smart slider 3": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-10"
       ]
     },
     "cryptographically binding authentication": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-10"
       ]
     },
     "cookie theft protections": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-10"
       ]
     },
     "iran linked hackers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-10"
       ]
     },
     "genai consumption there's": {
+      "count": 2,
+      "dates": [
+        "2026-04-10"
+      ]
+    },
+    "human scale security": {
+      "count": 1,
+      "dates": [
+        "2026-04-10"
+      ]
+    },
+    "popular cpu z": {
+      "count": 1,
+      "dates": [
+        "2026-04-10"
+      ]
+    },
+    "poisoned version containing": {
+      "count": 1,
+      "dates": [
+        "2026-04-10"
+      ]
+    },
+    "upcoming chrome release": {
       "count": 1,
       "dates": [
         "2026-04-10"
@@ -12587,17 +12611,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-01 13:09",
-      "articles": 56,
-      "top_keywords": [
-        "wago gmbh co",
-        "things iot devices",
-        "service ddos doxing",
-        "gigabyte control center",
-        "unified exposure management"
-      ]
-    },
     {
       "timestamp": "2026-04-01 14:59",
       "articles": 56,
@@ -13685,6 +13698,17 @@
         "smart slider 3",
         "iran's intelligence agencies",
         "cookie theft protections"
+      ]
+    },
+    {
+      "timestamp": "2026-04-10 14:43",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "block session theft",
+        "iran's intelligence agencies",
+        "cookie theft protections",
+        "human scale security"
       ]
     }
   ]

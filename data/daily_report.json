@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-10 12:59",
+  "last_updated": "2026-04-10 14:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
     "block session theft",
-    "smart slider 3",
     "iran's intelligence agencies",
     "cookie theft protections",
+    "human scale security",
     "cryptographically binding authentication",
     "service ddos doxing",
     "twitter whistleblower complaint",
+    "smart slider 3",
+    "popular cpu z",
+    "poisoned version containing",
     "open source bugs",
-    "many financial institutions",
     "iran linked hackers",
     "hitachi energy ellipse",
-    "harvesting session cookies",
     "genai consumption there's",
-    "sprawling phishing campaign",
-    "spear phishing campaigns",
+    "harvesting session cookies",
     "service dos condition",
-    "previously undocumented phishing",
-    "critical security vulnerability",
-    "yokogawa centum vp"
+    "yokogawa centum vp",
+    "upcoming chrome release",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "block session theft",
-      "mentions": 3
-    },
-    {
-      "keyword": "smart slider 3",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 209
+      "mentions": 210
     },
     {
       "keyword": "cookie theft protections",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "human scale security",
+      "mentions": 1
     },
     {
       "keyword": "cryptographically binding authentication",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 227
+      "mentions": 228
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1292
+      "mentions": 1293
     },
     {
-      "keyword": "open source bugs",
-      "mentions": 10
+      "keyword": "smart slider 3",
+      "mentions": 4
     },
     {
-      "keyword": "many financial institutions",
-      "mentions": 21
+      "keyword": "popular cpu z",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
+      "link": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
+      "summary": "Cybersecurity researchers have flagged yet another evolution of the ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development environments (IDEs) on a developer's machine. The technique has been discovered in an Open VSX extension named \"specstudio.code-wakatime-activity-tracker,\" which masquerades as WakaTime, a",
+      "published": "Fri, 10 Apr 2026 18:53:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
@@ -145,11 +154,25 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The Hidden Security Risks of Shadow AI in Enterprises",
-      "link": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
-      "summary": "As AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While these tools may boost productivity, automate tasks, or fill gaps in existing workflows, they also operate outside the visibility of security teams, bypassing controls and creating new blind spots in what is known as shadow AI. While similar to the phenomenon of",
-      "published": "Thu, 09 Apr 2026 17:01:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
+      "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
+      "summary": "Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them. [...]",
+      "published": "Fri, 10 Apr 2026 10:01:11 -0400",
+      "value_score": 72,
+      "value_signals": [
+        "Patch/update",
+        "CISA/KEV ×4",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
+      "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+      "summary": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
+      "published": "Fri, 10 Apr 2026 09:12:42 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -212,28 +235,6 @@
       "published": "Thu, 09 Apr 2026 14:33:29 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions",
-      "link": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
-      "summary": "Hackers hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla, and pushed a malicious version with multiple backdoors. [...]",
-      "published": "Thu, 09 Apr 2026 12:15:26 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "When attackers already have the keys, MFA is just another door to open",
-      "link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
-      "summary": "Stolen credentials turn authentication systems into the attack surface. Token shows how wearable biometric authentication verifies the user—not the session—blocking phishing relays and MFA bypass. [...]",
-      "published": "Thu, 09 Apr 2026 10:02:12 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -316,9 +317,30 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Industrial Controllers Still Vulnerable As Conflicts Move to Cyber",
+      "link": "https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber",
+      "summary": "The US government warns programmable logic controllers are being targeted, and research turns up 179 vulnerable operational technology (OT) devices.",
+      "published": "Fri, 10 Apr 2026 13:30:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?",
+      "link": "https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe",
+      "summary": "Its Mythos Preview model, which can allegedly find and exploit critical zero-days, also comes with certain controls, the vendor said.",
+      "published": "Fri, 10 Apr 2026 13:00:00 GMT",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Russia's 'Fancy Bear' APT Continues Its Global Onslaught",
       "link": "https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught",
-      "summary": "Victims don't need to match the cybercrime group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.",
+      "summary": "Victims don't need to match the cyber espionage group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.",
       "published": "Thu, 09 Apr 2026 20:50:37 GMT",
       "value_score": 10,
       "value_signals": []
@@ -373,22 +395,16 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Fraud Rockets Higher in Mobile-First Latin America",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america",
-      "summary": "Cyber-fraudsters move quickly from compromised devices to account takeover to funds transfer, shifting money before many financial institutions can react.",
-      "published": "Wed, 08 Apr 2026 15:45:11 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus",
-      "link": "https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range",
-      "summary": "",
-      "published": "Wed, 08 Apr 2026 14:43:49 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Juniper Networks Patches Dozens of Junos OS Vulnerabilities",
+      "link": "https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/",
+      "summary": "A critical-severity flaw could be exploited remotely, without authentication, to take over a vulnerable device. The post Juniper Networks Patches Dozens of Junos OS Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Fri, 10 Apr 2026 13:44:17 +0000",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -461,15 +477,6 @@
       "link": "https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/",
       "summary": "The security hole affected an EngageLab SDK and it was reported by Microsoft to the vendor one year ago. The post Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users appeared first on SecurityWeek .",
       "published": "Fri, 10 Apr 2026 07:33:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Apple Intelligence AI Guardrails Bypassed in New Attack",
-      "link": "https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/",
-      "summary": "RSAC researchers hacked Apple Intelligence using the Neural Exect method and Unicode manipulation. The post Apple Intelligence AI Guardrails Bypassed in New Attack appeared first on SecurityWeek .",
-      "published": "Thu, 09 Apr 2026 13:43:07 +0000",
       "value_score": 10,
       "value_signals": []
     },

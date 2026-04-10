@@ -263,7 +263,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1291,
+      "count": 1292,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1218,12 +1218,13 @@
       ]
     },
     "critical security vulnerability": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-23",
         "2025-12-24",
         "2026-01-06",
-        "2026-01-07"
+        "2026-01-07",
+        "2026-04-10"
       ]
     },
     "platform emphasizes practicality": {
@@ -1599,7 +1600,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 245,
+      "count": 246,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -10496,7 +10497,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 226,
+      "count": 227,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10591,7 +10592,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 208,
+      "count": 209,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11861,7 +11862,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11954,7 +11955,7 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12246,7 +12247,7 @@
       ]
     },
     "service dos condition": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12420,7 +12421,7 @@
       ]
     },
     "many financial institutions": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12435,7 +12436,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12487,7 +12488,7 @@
       ]
     },
     "open source bugs": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-09",
         "2026-04-10"
@@ -12528,63 +12529,64 @@
       ]
     },
     "spear phishing campaigns": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-09",
         "2026-04-10"
       ]
     },
     "harvesting session cookies": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-09",
         "2026-04-10"
       ]
     },
     "previously undocumented phishing": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-09",
         "2026-04-10"
       ]
     },
     "block session theft": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-10"
       ]
     },
     "smart slider 3": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-10"
       ]
     },
     "cryptographically binding authentication": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-10"
       ]
     },
     "cookie theft protections": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-04-10"
+      ]
+    },
+    "iran linked hackers": {
+      "count": 1,
+      "dates": [
+        "2026-04-10"
+      ]
+    },
+    "genai consumption there's": {
+      "count": 1,
       "dates": [
         "2026-04-10"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-01 10:50",
-      "articles": 56,
-      "top_keywords": [
-        "wago gmbh co",
-        "things iot devices",
-        "npm package introduced",
-        "service ddos doxing",
-        "gigabyte control center"
-      ]
-    },
     {
       "timestamp": "2026-04-01 13:09",
       "articles": 56,
@@ -13665,6 +13667,17 @@
     },
     {
       "timestamp": "2026-04-10 10:48",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "block session theft",
+        "smart slider 3",
+        "iran's intelligence agencies",
+        "cookie theft protections"
+      ]
+    },
+    {
+      "timestamp": "2026-04-10 12:59",
       "articles": 56,
       "top_keywords": [
         "mitsubishi electric genesis64",

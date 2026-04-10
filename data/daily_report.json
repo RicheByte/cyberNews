@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 10:48",
+  "last_updated": "2026-04-10 12:59",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,65 +8,74 @@
     "smart slider 3",
     "iran's intelligence agencies",
     "cookie theft protections",
-    "service ddos doxing",
     "cryptographically binding authentication",
-    "sprawling phishing campaign",
-    "without formal approval",
+    "service ddos doxing",
     "twitter whistleblower complaint",
+    "open source bugs",
     "many financial institutions",
+    "iran linked hackers",
     "hitachi energy ellipse",
     "harvesting session cookies",
-    "service dos condition",
-    "least 77 vulnerabilities",
+    "genai consumption there's",
+    "sprawling phishing campaign",
     "spear phishing campaigns",
+    "service dos condition",
     "previously undocumented phishing",
-    "yokogawa centum vp",
-    "recommended immediate actions",
-    "proactive defensive action"
+    "critical security vulnerability",
+    "yokogawa centum vp"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "block session theft",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "smart slider 3",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 208
+      "mentions": 209
     },
     {
       "keyword": "cookie theft protections",
-      "mentions": 2
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 226
+      "mentions": 3
     },
     {
       "keyword": "cryptographically binding authentication",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 245
-    },
-    {
-      "keyword": "without formal approval",
-      "mentions": 10
+      "keyword": "service ddos doxing",
+      "mentions": 227
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1291
+      "mentions": 1292
+    },
+    {
+      "keyword": "open source bugs",
+      "mentions": 10
+    },
+    {
+      "keyword": "many financial institutions",
+      "mentions": 21
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
+      "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
+      "summary": "While much of the discussion on AI security centers around protecting ‘shadow’ AI and GenAI consumption, there's a wide-open window nobody's guarding: AI browser extensions. A new report from LayerX exposes just how deep this blind spot goes, and why AI extensions may be the most dangerous AI threat surface in your network that isn't on anyone's",
+      "published": "Fri, 10 Apr 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
@@ -75,6 +84,21 @@
       "published": "Fri, 10 Apr 2026 13:28:00 +0530",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
+      "summary": "A critical security vulnerability in Marimo, an open-source Python notebook for data science and analysis, has been exploited within 10 hours of public disclosure, according to findings from Sysdig. The vulnerability in question is CVE-2026-39987 (CVSS score: 9.3), a pre-authenticated remote code execution vulnerability impacting all versions of Marimo prior to and including",
+      "published": "Fri, 10 Apr 2026 13:07:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE ×2",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
     },
     {
       "source": "The Hacker News",
@@ -130,23 +154,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
-      "link": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
-      "summary": "Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December 2025. The finding, detailed by EXPMON's Haifei Li, has been described as a highly-sophisticated PDF exploit. The artifact (\"Invoice540.pdf\") first appeared on the VirusTotal platform on November 28, 2025. A second",
-      "published": "Thu, 09 Apr 2026 16:45:00 +0530",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region",
-      "link": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
-      "summary": "An apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Middle East and North Africa (MENA), according to findings from Access Now, Lookout, and SMEX. Two of the targets included prominent Egyptian journalists and government critics, Mostafa",
-      "published": "Thu, 09 Apr 2026 16:10:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
+      "summary": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]",
+      "published": "Fri, 10 Apr 2026 07:56:14 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -222,15 +234,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: From noise to signal - What threat actors are targeting next",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
-      "summary": "Threat actors often signal their intentions before launching attacks, from dark web chatter to access-broker listings and credential requests. Join our upcoming webinar with Flare Systems to learn how to turn those early warning signs into proactive defensive action before an intrusion begins. [...]",
-      "published": "Thu, 09 Apr 2026 08:20:28 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -389,6 +392,29 @@
     },
     {
       "source": "Security Week",
+      "title": "Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday",
+      "link": "https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/",
+      "summary": "The US government has warned that Iran-linked hackers are manipulating PLCs and SCADA systems to cause disruption. The post Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday appeared first on SecurityWeek .",
+      "published": "Fri, 10 Apr 2026 12:41:08 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Orthanc DICOM Vulnerabilities Lead to Crashes, RCE",
+      "link": "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/",
+      "summary": "Attackers could exploit these vulnerabilities in denial-of-service, information disclosure, and arbitrary code execution attacks. The post Orthanc DICOM Vulnerabilities Lead to Crashes, RCE appeared first on SecurityWeek .",
+      "published": "Fri, 10 Apr 2026 11:53:45 +0000",
+      "value_score": 56,
+      "value_signals": [
+        "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000",
       "link": "https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/",
       "summary": "The critical vulnerabilities affect Chrome’s WebML component and they have been reported by anonymous researchers. The post Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000 appeared first on SecurityWeek .",
@@ -444,24 +470,6 @@
       "link": "https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/",
       "summary": "RSAC researchers hacked Apple Intelligence using the Neural Exect method and Unicode manipulation. The post Apple Intelligence AI Guardrails Bypassed in New Attack appeared first on SecurityWeek .",
       "published": "Thu, 09 Apr 2026 13:43:07 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Can We Trust AI? No – But Eventually We Must",
-      "link": "https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/",
-      "summary": "From hallucinations and bias to model collapse and adversarial abuse, today’s AI is built on probability rather than truth, yet enterprises are deploying it at speed without fully understanding the risks. The post Can We Trust AI? No – But Eventually We Must appeared first on SecurityWeek .",
-      "published": "Thu, 09 Apr 2026 13:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access",
-      "link": "https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/",
-      "summary": "Dozens of such keys can be extracted from apps’ decompiled code to gain access to all Gemini endpoints. The post Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access appeared first on SecurityWeek .",
-      "published": "Thu, 09 Apr 2026 12:26:50 +0000",
       "value_score": 10,
       "value_signals": []
     },

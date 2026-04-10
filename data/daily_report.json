@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 09:03",
+  "last_updated": "2026-04-10 10:48",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "block session theft",
     "smart slider 3",
     "iran's intelligence agencies",
-    "sprawling phishing campaign",
-    "service ddos doxing",
-    "least december 2025",
-    "cryptographically binding authentication",
     "cookie theft protections",
+    "service ddos doxing",
+    "cryptographically binding authentication",
+    "sprawling phishing campaign",
     "without formal approval",
     "twitter whistleblower complaint",
     "many financial institutions",
     "hitachi energy ellipse",
     "harvesting session cookies",
-    "european travel operator",
     "service dos condition",
-    "november 28 2025",
     "least 77 vulnerabilities",
     "spear phishing campaigns",
-    "previously undocumented phishing"
+    "previously undocumented phishing",
+    "yokogawa centum vp",
+    "recommended immediate actions",
+    "proactive defensive action"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "block session theft",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "smart slider 3",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 207
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 244
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 225
-    },
-    {
-      "keyword": "least december 2025",
-      "mentions": 21
-    },
-    {
-      "keyword": "cryptographically binding authentication",
-      "mentions": 1
+      "mentions": 208
     },
     {
       "keyword": "cookie theft protections",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 226
+    },
+    {
+      "keyword": "cryptographically binding authentication",
+      "mentions": 2
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 245
     },
     {
       "keyword": "without formal approval",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1291
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
+      "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
+      "summary": "Google says Gmail end-to-end encryption (E2EE) is now available on all Android and iOS devices, allowing enterprise users to read and compose emails without additional tools. [...]",
+      "published": "Fri, 10 Apr 2026 06:44:08 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New ‘LucidRook’ malware used in targeted attacks on NGOs, universities",
       "link": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
       "summary": "A new Lua-based malware, called LucidRook, is being used in spear-phishing campaigns targeting non-governmental organizations and universities in Taiwan. [...]",
@@ -222,17 +231,6 @@
       "published": "Thu, 09 Apr 2026 08:20:28 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Eurail says December data breach impacts 300,000 individuals",
-      "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
-      "summary": "Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data breach. [...]",
-      "published": "Thu, 09 Apr 2026 06:31:54 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -391,6 +389,39 @@
     },
     {
       "source": "Security Week",
+      "title": "Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000",
+      "link": "https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/",
+      "summary": "The critical vulnerabilities affect Chrome’s WebML component and they have been reported by anonymous researchers. The post Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000 appeared first on SecurityWeek .",
+      "published": "Fri, 10 Apr 2026 10:44:45 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "MITRE Releases Fight Fraud Framework",
+      "link": "https://www.securityweek.com/mitre-releases-fight-fraud-framework/",
+      "summary": "The document provides a behavior-based model of the tactics and techniques employed by fraudsters. The post MITRE Releases Fight Fraud Framework appeared first on SecurityWeek .",
+      "published": "Fri, 10 Apr 2026 09:51:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Marimo Flaw Exploited Hours After Public Disclosure",
+      "link": "https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/",
+      "summary": "Within nine hours, a hacker built an exploit from the unauthenticated bug’s advisory and started using it in the wild. The post Critical Marimo Flaw Exploited Hours After Public Disclosure appeared first on SecurityWeek .",
+      "published": "Fri, 10 Apr 2026 09:12:48 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Active exploitation",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Google Rolls Out Cookie Theft Protections in Chrome",
       "link": "https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/",
       "summary": "New Device Bound Session Credentials render stolen session cookies unusable by cryptographically binding authentication. The post Google Rolls Out Cookie Theft Protections in Chrome appeared first on SecurityWeek .",
@@ -431,35 +462,6 @@
       "link": "https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/",
       "summary": "Dozens of such keys can be extracted from apps’ decompiled code to gain access to all Gemini endpoints. The post Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access appeared first on SecurityWeek .",
       "published": "Thu, 09 Apr 2026 12:26:50 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities",
-      "link": "https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/",
-      "summary": "The bugs could allow attackers to modify protected resources and escalate their privileges to administrator. The post Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 09 Apr 2026 11:58:52 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security",
-      "link": "https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/",
-      "summary": "Beyond monitoring and compliance, visibility acts as a powerful deterrent, shaping user behavior, improving collaboration, and enabling more accurate, data-driven security decisions. The post The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security appeared first on SecurityWeek .",
-      "published": "Thu, 09 Apr 2026 11:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Warns of New Campaign Targeting BPOs to Steal Corporate Data",
-      "link": "https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/",
-      "summary": "Tracked as UNC6783, the threat actor is likely linked to Mr. Raccoon, the hacker behind the alleged theft of Adobe data from a BPO. The post Google Warns of New Campaign Targeting BPOs to Steal Corporate Data appeared first on SecurityWeek .",
-      "published": "Thu, 09 Apr 2026 09:44:56 +0000",
       "value_score": 10,
       "value_signals": []
     },

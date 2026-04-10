@@ -263,7 +263,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1290,
+      "count": 1291,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1599,7 +1599,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 244,
+      "count": 245,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2624,7 +2624,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -9484,7 +9484,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10496,7 +10496,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 225,
+      "count": 226,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10591,7 +10591,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 207,
+      "count": 208,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11861,7 +11861,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11954,7 +11954,7 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12246,7 +12246,7 @@
       ]
     },
     "service dos condition": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12420,7 +12420,7 @@
       ]
     },
     "many financial institutions": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12435,7 +12435,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12508,7 +12508,7 @@
       ]
     },
     "without formal approval": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-09",
         "2026-04-10"
@@ -12521,69 +12521,59 @@
       ]
     },
     "proactive defensive action": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ]
     },
     "spear phishing campaigns": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-09",
         "2026-04-10"
       ]
     },
     "harvesting session cookies": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-09",
         "2026-04-10"
       ]
     },
     "previously undocumented phishing": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-09",
         "2026-04-10"
       ]
     },
     "block session theft": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-10"
       ]
     },
     "smart slider 3": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-10"
       ]
     },
     "cryptographically binding authentication": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-10"
       ]
     },
     "cookie theft protections": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-10"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-01 08:57",
-      "articles": 56,
-      "top_keywords": [
-        "wago gmbh co",
-        "things iot devices",
-        "npm package introduced",
-        "service ddos doxing",
-        "gigabyte control center"
-      ]
-    },
     {
       "timestamp": "2026-04-01 10:50",
       "articles": 56,
@@ -13671,6 +13661,17 @@
         "smart slider 3",
         "iran's intelligence agencies",
         "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-04-10 10:48",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "block session theft",
+        "smart slider 3",
+        "iran's intelligence agencies",
+        "cookie theft protections"
       ]
     }
   ]

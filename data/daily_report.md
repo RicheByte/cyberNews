@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-10 05:54 UTC  
+> **Last Updated:** 2026-04-10 07:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -16,7 +16,7 @@
 
 ### The Hacker News
 
-- [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
+- [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
 - [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
 - [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
 - [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)

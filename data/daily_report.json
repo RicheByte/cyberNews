@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 05:54",
+  "last_updated": "2026-04-10 07:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,49 +27,49 @@
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 205
+      "mentions": 206
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 242
+      "mentions": 243
     },
     {
       "keyword": "least december 2025",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "300 000 individuals",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "harvesting session cookies",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "without formal approval",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1288
-    },
-    {
-      "keyword": "open source bugs",
       "mentions": 8
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1289
+    },
+    {
+      "keyword": "open source bugs",
+      "mentions": 9
+    },
+    {
       "keyword": "many financial institutions",
-      "mentions": 17
+      "mentions": 18
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets",
+      "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
       "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
       "summary": "Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit (SDK) called EngageLab SDK that could have put millions of cryptocurrency wallet users at risk. \"This flaw allows apps on the same device to bypass Android security sandbox and gain unauthorized access to private data,\" the Microsoft Defender",
       "published": "Thu, 09 Apr 2026 22:56:00 +0530",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-10 18:43 UTC  
+> **Last Updated:** 2026-04-10 20:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **iran's intelligence agencies** • **human scale security** • **cryptographically binding authentication** • **service ddos doxing** • **twitter whistleblower complaint** • **smart slider 3** • **popular cpu z** • **poisoned version containing** • **hitachi energy ellipse** • **genai consumption there's** • **iranian linked hackers** • **iran linked hackers** • **cookie theft protections** • **block session theft** • **service dos condition** • **yokogawa centum vp** • **upcoming chrome release** • **sprawling phishing campaign** • **spear phishing campaigns**
+**mitsubishi electric genesis64** • **iran's intelligence agencies** • **human scale security** • **cryptographically binding authentication** • **service ddos doxing** • **twitter whistleblower complaint** • **smart slider 3** • **popular cpu z** • **poisoned version containing** • **hitachi energy ellipse** • **genai consumption there's** • **cookie theft protections** • **block session theft** • **service dos condition** • **yokogawa centum vp** • **upcoming chrome release** • **sprawling phishing campaign** • **spear phishing campaigns** • **recommended immediate actions** • **previously undocumented phishing**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Hims Breach Exposes the Most Sensitive Kinds of PHI](https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi)
+- [Your Next Breach Will Look Like Business as Usual](https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual)
 - [FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats](https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center)
 - [Orange Business Reimagines Enterprise Voice Communications With Trust and AI](https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms)
 - [Industrial Controllers Still Vulnerable As Conflicts Move to Cyber](https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber)
 - [Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?](https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe)
 - [Russia's 'Fancy Bear' APT Continues Its Global Onslaught](https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught)
 - ['BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues](https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues)
-- [Do Ceasefires Slow Cyberattacks? History Suggests Not](https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history)
-- [Russia's Forest Blizzard Nabs Rafts of Logins via SOHO Routers](https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers)
 
 ### Security Week
 

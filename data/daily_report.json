@@ -1,12 +1,10 @@
 {
-  "last_updated": "2026-04-10 14:43",
+  "last_updated": "2026-04-10 16:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
-    "block session theft",
     "iran's intelligence agencies",
-    "cookie theft protections",
     "human scale security",
     "cryptographically binding authentication",
     "service ddos doxing",
@@ -14,56 +12,58 @@
     "smart slider 3",
     "popular cpu z",
     "poisoned version containing",
-    "open source bugs",
-    "iran linked hackers",
     "hitachi energy ellipse",
     "genai consumption there's",
-    "harvesting session cookies",
+    "iranian linked hackers",
+    "iran linked hackers",
+    "cookie theft protections",
+    "block session theft",
     "service dos condition",
     "yokogawa centum vp",
     "upcoming chrome release",
-    "sprawling phishing campaign"
+    "sprawling phishing campaign",
+    "spear phishing campaigns"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 21
-    },
-    {
-      "keyword": "block session theft",
-      "mentions": 4
+      "mentions": 22
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 210
-    },
-    {
-      "keyword": "cookie theft protections",
-      "mentions": 4
+      "mentions": 211
     },
     {
       "keyword": "human scale security",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cryptographically binding authentication",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 228
+      "mentions": 229
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1293
+      "mentions": 1294
     },
     {
       "keyword": "smart slider 3",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "popular cpu z",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "poisoned version containing",
+      "mentions": 2
+    },
+    {
+      "keyword": "hitachi energy ellipse",
+      "mentions": 89
     }
   ],
   "articles": [
@@ -155,6 +155,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
+      "summary": "The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exposed programmable logic controllers (PLCs) manufactured by Rockwell Automation. [...]",
+      "published": "Fri, 10 Apr 2026 11:52:45 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
       "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
       "summary": "Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them. [...]",
@@ -169,7 +180,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
+      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
       "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
       "summary": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
       "published": "Fri, 10 Apr 2026 09:12:42 -0400",
@@ -226,15 +237,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google Chrome adds infostealer protection against session cookie theft",
-      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
-      "summary": "Google has rolled out Device Bound Session Credentials (DBSC) protection in Chrome 146 for Windows, designed to block info-stealing malware from harvesting session cookies. [...]",
-      "published": "Thu, 09 Apr 2026 14:33:29 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -317,6 +319,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats",
+      "link": "https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center",
+      "summary": "",
+      "published": "Fri, 10 Apr 2026 15:52:28 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Orange Business Reimagines Enterprise Voice Communications With Trust and AI",
+      "link": "https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms",
+      "summary": "",
+      "published": "Fri, 10 Apr 2026 15:05:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Industrial Controllers Still Vulnerable As Conflicts Move to Cyber",
       "link": "https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber",
       "summary": "The US government warns programmable logic controllers are being targeted, and research turns up 179 vulnerable operational technology (OT) devices.",
@@ -377,22 +397,15 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Threat Actors Get Crafty With Emojis to Escape Detection",
-      "link": "https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications",
-      "summary": "When 🤖 means \"bot available,\" 🧰 signifies \"toolkit,\" or 💰💰💰 translates to \"big ransom,\" bad actors can evade filters and keep it all on the down-low.",
-      "published": "Wed, 08 Apr 2026 20:21:32 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties",
-      "link": "https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties",
-      "summary": "Discovery used to be the bottleneck for open source bugs, but with automated discovery, remediation's the bottleneck, which bounties don't fund.",
-      "published": "Wed, 08 Apr 2026 19:47:32 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack",
+      "link": "https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Jones Day hacked, Internet Bug Bounty program paused due to AI, new Mac stealer malware. The post In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack appeared first on SecurityWeek .",
+      "published": "Fri, 10 Apr 2026 14:44:53 +0000",
+      "value_score": 60,
+      "value_signals": [
+        "Zero-day ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -468,15 +481,6 @@
       "link": "https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/",
       "summary": "New Device Bound Session Credentials render stolen session cookies unusable by cryptographically binding authentication. The post Google Rolls Out Cookie Theft Protections in Chrome appeared first on SecurityWeek .",
       "published": "Fri, 10 Apr 2026 07:50:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users",
-      "link": "https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/",
-      "summary": "The security hole affected an EngageLab SDK and it was reported by Microsoft to the vendor one year ago. The post Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users appeared first on SecurityWeek .",
-      "published": "Fri, 10 Apr 2026 07:33:16 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-10 14:43 UTC  
+> **Last Updated:** 2026-04-10 16:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **block session theft** • **iran's intelligence agencies** • **cookie theft protections** • **human scale security** • **cryptographically binding authentication** • **service ddos doxing** • **twitter whistleblower complaint** • **smart slider 3** • **popular cpu z** • **poisoned version containing** • **open source bugs** • **iran linked hackers** • **hitachi energy ellipse** • **genai consumption there's** • **harvesting session cookies** • **service dos condition** • **yokogawa centum vp** • **upcoming chrome release** • **sprawling phishing campaign**
+**mitsubishi electric genesis64** • **iran's intelligence agencies** • **human scale security** • **cryptographically binding authentication** • **service ddos doxing** • **twitter whistleblower complaint** • **smart slider 3** • **popular cpu z** • **poisoned version containing** • **hitachi energy ellipse** • **genai consumption there's** • **iranian linked hackers** • **iran linked hackers** • **cookie theft protections** • **block session theft** • **service dos condition** • **yokogawa centum vp** • **upcoming chrome release** • **sprawling phishing campaign** • **spear phishing campaigns**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Nearly 4,000 US industrial devices exposed to Iranian cyberattacks](https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/)
 - [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)
-- [Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
+- [CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
 - [Microsoft: Canadian employees targeted in payroll pirate attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/)
 - [Google rolls out Gmail end-to-end encryption on mobile devices](https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/)
 - [New ‘LucidRook’ malware used in targeted attacks on NGOs, universities](https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/)
 - [New VENOM phishing attacks steal senior executives' Microsoft logins](https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/)
 - [Healthcare IT solutions provider ChipSoft hit by ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/)
-- [Google Chrome adds infostealer protection against session cookie theft](https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats](https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center)
+- [Orange Business Reimagines Enterprise Voice Communications With Trust and AI](https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms)
 - [Industrial Controllers Still Vulnerable As Conflicts Move to Cyber](https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber)
 - [Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?](https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe)
 - [Russia's 'Fancy Bear' APT Continues Its Global Onslaught](https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught)
 - ['BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues](https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues)
 - [Do Ceasefires Slow Cyberattacks? History Suggests Not](https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history)
 - [Russia's Forest Blizzard Nabs Rafts of Logins via SOHO Routers](https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers)
-- [Threat Actors Get Crafty With Emojis to Escape Detection](https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications)
-- [AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties](https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties)
 
 ### Security Week
 
+- [In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack](https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/)
 - [Juniper Networks Patches Dozens of Junos OS Vulnerabilities](https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/)
 - [Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday](https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/)
 - [Orthanc DICOM Vulnerabilities Lead to Crashes, RCE](https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/)
@@ -67,7 +68,6 @@
 - [MITRE Releases Fight Fraud Framework](https://www.securityweek.com/mitre-releases-fight-fraud-framework/)
 - [Critical Marimo Flaw Exploited Hours After Public Disclosure](https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/)
 - [Google Rolls Out Cookie Theft Protections in Chrome](https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/)
-- [Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users](https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/)
 
 ### Threatpost
 

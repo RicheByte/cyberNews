@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 02:03",
+  "last_updated": "2026-04-10 05:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 204
+      "mentions": 205
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 241
+      "mentions": 242
     },
     {
       "keyword": "least december 2025",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "300 000 individuals",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "harvesting session cookies",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "without formal approval",
-      "mentions": 6
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1287
-    },
-    {
-      "keyword": "open source bugs",
       "mentions": 7
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1288
+    },
+    {
+      "keyword": "open source bugs",
+      "mentions": 8
+    },
+    {
       "keyword": "many financial institutions",
-      "mentions": 16
+      "mentions": 17
     }
   ],
   "articles": [
@@ -401,9 +401,9 @@
     },
     {
       "source": "Security Week",
-      "title": "Can we Trust AI? No – But Eventually We Must",
+      "title": "Can We Trust AI? No – But Eventually We Must",
       "link": "https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/",
-      "summary": "From hallucinations and bias to model collapse and adversarial abuse, today’s AI is built on probability rather than truth, yet enterprises are deploying it at speed without fully understanding the risks. The post Can we Trust AI? No – But Eventually We Must appeared first on SecurityWeek .",
+      "summary": "From hallucinations and bias to model collapse and adversarial abuse, today’s AI is built on probability rather than truth, yet enterprises are deploying it at speed without fully understanding the risks. The post Can We Trust AI? No – But Eventually We Must appeared first on SecurityWeek .",
       "published": "Thu, 09 Apr 2026 13:30:00 +0000",
       "value_score": 10,
       "value_signals": []

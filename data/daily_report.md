@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-10 07:20 UTC  
+> **Last Updated:** 2026-04-10 09:03 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **iran's intelligence agencies** • **sprawling phishing campaign** • **least december 2025** • **300 000 individuals** • **harvesting session cookies** • **without formal approval** • **twitter whistleblower complaint** • **open source bugs** • **many financial institutions** • **hitachi energy ellipse** • **european travel operator** • **november 28 2025** • **least 77 vulnerabilities** • **spear phishing campaigns** • **previously undocumented phishing** • **service dos condition** • **google api keys** • **yokogawa centum vp** • **recommended immediate actions**
+**mitsubishi electric genesis64** • **block session theft** • **smart slider 3** • **iran's intelligence agencies** • **sprawling phishing campaign** • **service ddos doxing** • **least december 2025** • **cryptographically binding authentication** • **cookie theft protections** • **without formal approval** • **twitter whistleblower complaint** • **many financial institutions** • **hitachi energy ellipse** • **harvesting session cookies** • **european travel operator** • **service dos condition** • **november 28 2025** • **least 77 vulnerabilities** • **spear phishing campaigns** • **previously undocumented phishing**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
+- [Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers](https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html)
 - [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
 - [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
 - [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
 - [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
 - [Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025](https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html)
 - [Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region](https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html)
-- [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
-- [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Google Rolls Out Cookie Theft Protections in Chrome](https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/)
+- [Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users](https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/)
 - [Apple Intelligence AI Guardrails Bypassed in New Attack](https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/)
 - [Can We Trust AI? No – But Eventually We Must](https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/)
 - [Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access](https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/)
 - [Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities](https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/)
 - [The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security](https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/)
 - [Google Warns of New Campaign Targeting BPOs to Steal Corporate Data](https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/)
-- [Adobe Reader Zero-Day Exploited for Months: Researcher](https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/)
-- [300,000 People Impacted by Eurail Data Breach](https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/)
 
 ### Threatpost
 

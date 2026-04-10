@@ -1,72 +1,93 @@
 {
-  "last_updated": "2026-04-10 07:20",
+  "last_updated": "2026-04-10 09:03",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
+    "block session theft",
+    "smart slider 3",
     "iran's intelligence agencies",
     "sprawling phishing campaign",
+    "service ddos doxing",
     "least december 2025",
-    "300 000 individuals",
-    "harvesting session cookies",
+    "cryptographically binding authentication",
+    "cookie theft protections",
     "without formal approval",
     "twitter whistleblower complaint",
-    "open source bugs",
     "many financial institutions",
     "hitachi energy ellipse",
+    "harvesting session cookies",
     "european travel operator",
+    "service dos condition",
     "november 28 2025",
     "least 77 vulnerabilities",
     "spear phishing campaigns",
-    "previously undocumented phishing",
-    "service dos condition",
-    "google api keys",
-    "yokogawa centum vp",
-    "recommended immediate actions"
+    "previously undocumented phishing"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 17
+      "mentions": 18
+    },
+    {
+      "keyword": "block session theft",
+      "mentions": 1
+    },
+    {
+      "keyword": "smart slider 3",
+      "mentions": 1
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 206
+      "mentions": 207
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 243
+      "mentions": 244
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 225
     },
     {
       "keyword": "least december 2025",
-      "mentions": 20
+      "mentions": 21
     },
     {
-      "keyword": "300 000 individuals",
-      "mentions": 10
+      "keyword": "cryptographically binding authentication",
+      "mentions": 1
     },
     {
-      "keyword": "harvesting session cookies",
-      "mentions": 6
+      "keyword": "cookie theft protections",
+      "mentions": 1
     },
     {
       "keyword": "without formal approval",
-      "mentions": 8
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1289
-    },
-    {
-      "keyword": "open source bugs",
       "mentions": 9
-    },
-    {
-      "keyword": "many financial institutions",
-      "mentions": 18
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
+      "link": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
+      "summary": "Google has made Device Bound Session Credentials (DBSC) generally available to all Windows users of its Chrome web browser, months after it began testing the security feature in open beta. The public availability is currently limited to Windows users on Chrome 146, with macOS expansion planned in an upcoming Chrome release. \"This project represents a significant",
+      "published": "Fri, 10 Apr 2026 13:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
+      "link": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
+      "summary": "Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing a backdoor. The incident impacts Smart Slider 3 Pro version 3.5.1.35 for WordPress, per WordPress security company Patchstack. Smart Slider 3 is a popular WordPress slider plugin with more than 800,000 active installations across its free and Pro",
+      "published": "Fri, 10 Apr 2026 11:58:00 +0530",
+      "value_score": 38,
+      "value_signals": [
+        "Patch/update ×2",
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
@@ -128,28 +149,6 @@
       "published": "Thu, 09 Apr 2026 16:10:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
-      "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
-      "summary": "Cybersecurity researchers have flagged a new variant ofmalware called Chaosthat'scapable of hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infrastructure. \"Chaos malware is increasingly targeting misconfigured cloud deployments, expanding beyond its traditional focus on routers and edge devices,\" Darktrace said in a new report.",
-      "published": "Wed, 08 Apr 2026 23:21:00 +0530",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
-      "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
-      "summary": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS) attacks. Called Masjesu, the botnet has been advertised via Telegram as a DDoS-for-hire service since it first surfaced in 2023. It's capable of targeting a wide range of IoT devices, such as routers and gateways, spanning multiple architectures. \"Built for",
-      "published": "Wed, 08 Apr 2026 22:00:00 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -392,6 +391,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Google Rolls Out Cookie Theft Protections in Chrome",
+      "link": "https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/",
+      "summary": "New Device Bound Session Credentials render stolen session cookies unusable by cryptographically binding authentication. The post Google Rolls Out Cookie Theft Protections in Chrome appeared first on SecurityWeek .",
+      "published": "Fri, 10 Apr 2026 07:50:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users",
+      "link": "https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/",
+      "summary": "The security hole affected an EngageLab SDK and it was reported by Microsoft to the vendor one year ago. The post Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users appeared first on SecurityWeek .",
+      "published": "Fri, 10 Apr 2026 07:33:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Apple Intelligence AI Guardrails Bypassed in New Attack",
       "link": "https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/",
       "summary": "RSAC researchers hacked Apple Intelligence using the Neural Exect method and Unicode manipulation. The post Apple Intelligence AI Guardrails Bypassed in New Attack appeared first on SecurityWeek .",
@@ -445,29 +462,6 @@
       "published": "Thu, 09 Apr 2026 09:44:56 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Adobe Reader Zero-Day Exploited for Months: Researcher",
-      "link": "https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/",
-      "summary": "Reputable researcher Haifei Li has come across what appears to be a PDF designed to exploit an unpatched vulnerability. The post Adobe Reader Zero-Day Exploited for Months: Researcher appeared first on SecurityWeek .",
-      "published": "Thu, 09 Apr 2026 08:44:51 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "300,000 People Impacted by Eurail Data Breach",
-      "link": "https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/",
-      "summary": "In December 2025, hackers stole names and passport numbers from the European travel company’s network. The post 300,000 People Impacted by Eurail Data Breach appeared first on SecurityWeek .",
-      "published": "Thu, 09 Apr 2026 08:28:05 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-10 07:20 UTC |
+| 🕐 Last Updated | 2026-04-10 09:03 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mitsubishi electric genesis64` • `iran's intelligence agencies` • `sprawling phishing campaign` • `least december 2025` • `300 000 individuals` • `harvesting session cookies` • `without formal approval` • `twitter whistleblower complaint` • `open source bugs` • `many financial institutions`
+`mitsubishi electric genesis64` • `block session theft` • `smart slider 3` • `iran's intelligence agencies` • `sprawling phishing campaign` • `service ddos doxing` • `least december 2025` • `cryptographically binding authentication` • `cookie theft protections` • `without formal approval`
 
 ## 📄 Reports
 

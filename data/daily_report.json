@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11 01:52",
+  "last_updated": "2026-04-11 04:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 215
+      "mentions": 216
     },
     {
       "keyword": "human scale security",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "cryptographically binding authentication",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 233
+      "mentions": 234
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1298
+      "mentions": 1299
     },
     {
       "keyword": "smart slider 3",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "popular cpu z",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "poisoned version containing",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "hitachi energy ellipse",
-      "mentions": 93
+      "mentions": 94
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
+      "summary": "OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan. [...]",
+      "published": "Fri, 10 Apr 2026 22:08:16 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
       "summary": "The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exposed programmable logic controllers (PLCs) manufactured by Rockwell Automation. [...]",
@@ -225,17 +234,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
-      "summary": "Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers. [...]",
-      "published": "Thu, 09 Apr 2026 15:46:44 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {

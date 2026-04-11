@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11 06:55",
+  "last_updated": "2026-04-11 08:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -17,56 +17,65 @@
     "cookie theft protections",
     "block session theft",
     "service dos condition",
+    "several u s",
     "yokogawa centum vp",
     "upcoming chrome release",
+    "things iot devices",
     "sprawling phishing campaign",
-    "spear phishing campaigns",
-    "recommended immediate actions",
-    "previously undocumented phishing"
+    "spear phishing campaigns"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 217
+      "mentions": 218
     },
     {
       "keyword": "human scale security",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "cryptographically binding authentication",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 235
+      "mentions": 236
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1300
+      "mentions": 1301
     },
     {
       "keyword": "smart slider 3",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "popular cpu z",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "poisoned version containing",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "hitachi energy ellipse",
-      "mentions": 95
+      "mentions": 96
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
+      "link": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
+      "summary": "Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called Webloc. The tool was developed by Israeli company Cobwebs Technologies and is now sold by its successor Penlink after the two firms merged in July 2023",
+      "published": "Sat, 11 Apr 2026 11:32:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
@@ -139,18 +148,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
-      "summary": "Thursday. Another week, another batch of things that probably should've been caught sooner but weren't. This one's got some range — old vulnerabilities getting new life, a few \"why was that even possible\" moments, attackers leaning on platforms and tools you'd normally trust without thinking twice. Quiet escalations more than loud zero-days, but the kind that matter more in",
-      "published": "Thu, 09 Apr 2026 18:27:00 +0530",
-      "value_score": 40,
-      "value_signals": [
-        "RCE",
-        "Botnet"
       ]
     },
     {

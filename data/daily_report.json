@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11 12:44",
+  "last_updated": "2026-04-11 14:32",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 220
+      "mentions": 221
     },
     {
       "keyword": "human scale security",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "cryptographically binding authentication",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 238
+      "mentions": 239
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1303
+      "mentions": 1304
     },
     {
       "keyword": "smart slider 3",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "popular cpu z",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "poisoned version containing",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "hitachi energy ellipse",
-      "mentions": 98
+      "mentions": 99
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Over 20,000 crypto fraud victims identified in international crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
+      "summary": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]",
+      "published": "Sat, 11 Apr 2026 10:20:40 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
       "summary": "OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan. [...]",
@@ -220,17 +229,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
-      "link": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
-      "summary": "Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called \"VENOM\" are targeting credentials of C-suite executives across multiple industries. [...]",
-      "published": "Thu, 09 Apr 2026 17:37:04 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {

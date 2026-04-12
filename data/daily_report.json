@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12 05:51",
+  "last_updated": "2026-04-12 07:07",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -17,56 +17,83 @@
     "cookie theft protections",
     "block session theft",
     "service dos condition",
+    "critical security flaw",
     "several u s",
     "yokogawa centum vp",
     "upcoming chrome release",
     "things iot devices",
-    "sprawling phishing campaign",
-    "spear phishing campaigns"
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 38
+      "mentions": 39
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 227
+      "mentions": 228
     },
     {
       "keyword": "human scale security",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "cryptographically binding authentication",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 245
+      "mentions": 246
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1310
+      "mentions": 1311
     },
     {
       "keyword": "smart slider 3",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "popular cpu z",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "poisoned version containing",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "hitachi energy ellipse",
-      "mentions": 105
+      "mentions": 106
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
+      "link": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
+      "summary": "Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software and deploy a remote access trojan called STX RAT. The incident lasted from approximately April 9, 15:00 UTC, to about April 10, 10:00 UTC, with",
+      "published": "Sun, 12 Apr 2026 11:24:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
+      "link": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
+      "summary": "Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that has come under active exploitation in the wild. The vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10.0. Successful exploitation of the flaw could allow an attacker to run malicious code on affected installations. It has been described as",
+      "published": "Sun, 12 Apr 2026 09:55:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "Patch/update",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
@@ -128,26 +155,6 @@
       "value_signals": [
         "Patch/update ×2",
         "Backdoor"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
-      "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
-      "summary": "Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit (SDK) called EngageLab SDK that could have put millions of cryptocurrency wallet users at risk. \"This flaw allows apps on the same device to bypass Android security sandbox and gain unauthorized access to private data,\" the Microsoft Defender",
-      "published": "Thu, 09 Apr 2026 22:56:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
-      "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
-      "summary": "A previously undocumented threat cluster dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRook. \"LucidRook is a sophisticated stager that embeds a Lua interpreter and Rust-compiled libraries within a dynamic-link library (DLL) to download and",
-      "published": "Thu, 09 Apr 2026 21:53:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {

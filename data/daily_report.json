@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-12 07:07",
+  "last_updated": "2026-04-12 08:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
     "iran's intelligence agencies",
+    "arbitrary code execution",
     "human scale security",
-    "cryptographically binding authentication",
     "service ddos doxing",
     "twitter whistleblower complaint",
     "smart slider 3",
@@ -14,7 +14,6 @@
     "poisoned version containing",
     "hitachi energy ellipse",
     "genai consumption there's",
-    "cookie theft protections",
     "block session theft",
     "service dos condition",
     "critical security flaw",
@@ -22,48 +21,49 @@
     "yokogawa centum vp",
     "upcoming chrome release",
     "things iot devices",
-    "sprawling phishing campaign"
+    "sprawling phishing campaign",
+    "recommended immediate actions"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 228
+      "mentions": 229
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 176
     },
     {
       "keyword": "human scale security",
-      "mentions": 19
-    },
-    {
-      "keyword": "cryptographically binding authentication",
-      "mentions": 22
+      "mentions": 20
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 246
+      "mentions": 247
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1311
+      "mentions": 1312
     },
     {
       "keyword": "smart slider 3",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "popular cpu z",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "poisoned version containing",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "hitachi energy ellipse",
-      "mentions": 106
+      "mentions": 107
     }
   ],
   "articles": [
@@ -402,6 +402,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Adobe Patches Reader Zero-Day Exploited for Months",
+      "link": "https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/",
+      "summary": "The vulnerability is tracked as CVE-2026-34621 and Adobe has confirmed that it can be exploited for arbitrary code execution. The post Adobe Patches Reader Zero-Day Exploited for Months appeared first on SecurityWeek .",
+      "published": "Sun, 12 Apr 2026 07:45:26 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack",
       "link": "https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/",
       "summary": "Other noteworthy stories that might have slipped under the radar: Jones Day hacked, Internet Bug Bounty program paused due to AI, new Mac stealer malware. The post In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack appeared first on SecurityWeek .",
@@ -478,15 +491,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Rolls Out Cookie Theft Protections in Chrome",
-      "link": "https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/",
-      "summary": "New Device Bound Session Credentials render stolen session cookies unusable by cryptographically binding authentication. The post Google Rolls Out Cookie Theft Protections in Chrome appeared first on SecurityWeek .",
-      "published": "Fri, 10 Apr 2026 07:50:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

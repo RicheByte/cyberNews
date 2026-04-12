@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-12 07:07 UTC  
+> **Last Updated:** 2026-04-12 08:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **iran's intelligence agencies** • **human scale security** • **cryptographically binding authentication** • **service ddos doxing** • **twitter whistleblower complaint** • **smart slider 3** • **popular cpu z** • **poisoned version containing** • **hitachi energy ellipse** • **genai consumption there's** • **cookie theft protections** • **block session theft** • **service dos condition** • **critical security flaw** • **several u s** • **yokogawa centum vp** • **upcoming chrome release** • **things iot devices** • **sprawling phishing campaign**
+**mitsubishi electric genesis64** • **iran's intelligence agencies** • **arbitrary code execution** • **human scale security** • **service ddos doxing** • **twitter whistleblower complaint** • **smart slider 3** • **popular cpu z** • **poisoned version containing** • **hitachi energy ellipse** • **genai consumption there's** • **block session theft** • **service dos condition** • **critical security flaw** • **several u s** • **yokogawa centum vp** • **upcoming chrome release** • **things iot devices** • **sprawling phishing campaign** • **recommended immediate actions**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Adobe Patches Reader Zero-Day Exploited for Months](https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/)
 - [In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack](https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/)
 - [Juniper Networks Patches Dozens of Junos OS Vulnerabilities](https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/)
 - [Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday](https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/)
@@ -67,7 +68,6 @@
 - [Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000](https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/)
 - [MITRE Releases Fight Fraud Framework](https://www.securityweek.com/mitre-releases-fight-fraud-framework/)
 - [Critical Marimo Flaw Exploited Hours After Public Disclosure](https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/)
-- [Google Rolls Out Cookie Theft Protections in Chrome](https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/)
 
 ### Threatpost
 

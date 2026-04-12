@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-12 07:07 UTC |
+| 🕐 Last Updated | 2026-04-12 08:41 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mitsubishi electric genesis64` • `iran's intelligence agencies` • `human scale security` • `cryptographically binding authentication` • `service ddos doxing` • `twitter whistleblower complaint` • `smart slider 3` • `popular cpu z` • `poisoned version containing` • `hitachi energy ellipse`
+`mitsubishi electric genesis64` • `iran's intelligence agencies` • `arbitrary code execution` • `human scale security` • `service ddos doxing` • `twitter whistleblower complaint` • `smart slider 3` • `popular cpu z` • `poisoned version containing` • `hitachi energy ellipse`
 
 ## 📄 Reports
 

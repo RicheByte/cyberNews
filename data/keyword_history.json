@@ -263,7 +263,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1312,
+      "count": 1313,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -869,7 +869,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1603,7 +1603,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 266,
+      "count": 267,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1901,7 +1901,7 @@
       ]
     },
     "things iot devices": {
-      "count": 219,
+      "count": 220,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2632,7 +2632,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2767,7 +2767,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 176,
+      "count": 177,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -10507,7 +10507,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 247,
+      "count": 248,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10604,7 +10604,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 229,
+      "count": 230,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11876,7 +11876,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11971,7 +11971,7 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12265,7 +12265,7 @@
       ]
     },
     "service dos condition": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12456,7 +12456,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12575,7 +12575,7 @@
       ]
     },
     "block session theft": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-04-10",
         "2026-04-11",
@@ -12583,7 +12583,7 @@
       ]
     },
     "smart slider 3": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-04-10",
         "2026-04-11",
@@ -12613,7 +12613,7 @@
       ]
     },
     "genai consumption there's": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-04-10",
         "2026-04-11",
@@ -12621,7 +12621,7 @@
       ]
     },
     "human scale security": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-04-10",
         "2026-04-11",
@@ -12629,7 +12629,7 @@
       ]
     },
     "popular cpu z": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-04-10",
         "2026-04-11",
@@ -12637,7 +12637,7 @@
       ]
     },
     "poisoned version containing": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-04-10",
         "2026-04-11",
@@ -12645,7 +12645,7 @@
       ]
     },
     "upcoming chrome release": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-04-10",
         "2026-04-11",
@@ -12659,7 +12659,7 @@
       ]
     },
     "several u s": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-11",
         "2026-04-12"
@@ -12667,17 +12667,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-03 08:46",
-      "articles": 56,
-      "top_keywords": [
-        "threat actor hacked",
-        "service ddos doxing",
-        "rsac 2026 conference",
-        "ai agents variance",
-        "github threat actors"
-      ]
-    },
     {
       "timestamp": "2026-04-03 10:37",
       "articles": 56,
@@ -13758,6 +13747,17 @@
     },
     {
       "timestamp": "2026-04-12 08:41",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "iran's intelligence agencies",
+        "arbitrary code execution",
+        "human scale security",
+        "service ddos doxing"
+      ]
+    },
+    {
+      "timestamp": "2026-04-12 10:34",
       "articles": 56,
       "top_keywords": [
         "mitsubishi electric genesis64",

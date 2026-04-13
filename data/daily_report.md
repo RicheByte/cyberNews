@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-13 02:10 UTC  
+> **Last Updated:** 2026-04-13 06:10 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **arbitrary code execution** • **human scale security** • **twitter whistleblower complaint** • **smart slider 3** • **popular cpu z** • **poisoned version containing** • **hitachi energy ellipse** • **genai consumption there's** • **run malicious code** • **critical security flaw** • **yokogawa centum vp** • **upcoming chrome release** • **sprawling phishing campaign** • **service dos condition** • **serve malicious executables** • **recommended immediate actions** • **payroll pirate attacks** • **ongoing glassworm campaign** • **mythos preview model**
+**mitsubishi electric genesis64** • **iran's intelligence agencies** • **arbitrary code execution** • **human scale security** • **service ddos doxing** • **twitter whistleblower complaint** • **smart slider 3** • **popular cpu z** • **poisoned version containing** • **hitachi energy ellipse** • **genai consumption there's** • **service dos condition** • **critical security flaw** • **several u s** • **payroll pirate attacks** • **email flooding attacks** • **yokogawa centum vp** • **upcoming chrome release** • **things iot devices** • **sprawling phishing campaign**
 
 ---
 
@@ -35,6 +35,17 @@
 - [CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
 - [Microsoft: Canadian employees targeted in payroll pirate attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/)
 - [Google rolls out Gmail end-to-end encryption on mobile devices](https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/)
+
+### Krebs on Security
+
+- [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
+- [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+- [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
+- [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
+- [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
+- [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
+- [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
+- [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
 
 ### Dark Reading
 

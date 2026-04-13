@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-13 02:10",
+  "last_updated": "2026-04-13 06:10",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
+    "iran's intelligence agencies",
     "arbitrary code execution",
     "human scale security",
+    "service ddos doxing",
     "twitter whistleblower complaint",
     "smart slider 3",
     "popular cpu z",
     "poisoned version containing",
     "hitachi energy ellipse",
     "genai consumption there's",
-    "run malicious code",
+    "service dos condition",
     "critical security flaw",
+    "several u s",
+    "payroll pirate attacks",
+    "email flooding attacks",
     "yokogawa centum vp",
     "upcoming chrome release",
-    "sprawling phishing campaign",
-    "service dos condition",
-    "serve malicious executables",
-    "recommended immediate actions",
-    "payroll pirate attacks",
-    "ongoing glassworm campaign",
-    "mythos preview model"
+    "things iot devices",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 48
+      "mentions": 49
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 237
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 184
+      "mentions": 185
     },
     {
       "keyword": "human scale security",
-      "mentions": 28
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1320
-    },
-    {
-      "keyword": "smart slider 3",
-      "mentions": 31
-    },
-    {
-      "keyword": "popular cpu z",
-      "mentions": 28
-    },
-    {
-      "keyword": "poisoned version containing",
-      "mentions": 28
-    },
-    {
-      "keyword": "hitachi energy ellipse",
-      "mentions": 115
-    },
-    {
-      "keyword": "genai consumption there's",
       "mentions": 29
     },
     {
-      "keyword": "run malicious code",
-      "mentions": 1
+      "keyword": "service ddos doxing",
+      "mentions": 255
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1321
+    },
+    {
+      "keyword": "smart slider 3",
+      "mentions": 32
+    },
+    {
+      "keyword": "popular cpu z",
+      "mentions": 29
+    },
+    {
+      "keyword": "poisoned version containing",
+      "mentions": 29
+    },
+    {
+      "keyword": "hitachi energy ellipse",
+      "mentions": 116
     }
   ],
   "articles": [
@@ -239,6 +239,85 @@
       "published": "Fri, 10 Apr 2026 06:44:08 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
+      "published": "Tue, 07 Apr 2026 17:02:44 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+      "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
+      "published": "Mon, 06 Apr 2026 02:07:17 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
+      "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
+      "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
+      "published": "Mon, 23 Mar 2026 15:43:04 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
+      "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
+      "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
+      "published": "Fri, 20 Mar 2026 00:49:19 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+      "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
+      "published": "Wed, 11 Mar 2026 16:20:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patch Tuesday, March 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
+      "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
+      "published": "Wed, 11 Mar 2026 00:32:51 +0000",
+      "value_score": 76,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "How AI Assistants are Moving the Security Goalposts",
+      "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
+      "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and n",
+      "published": "Sun, 08 Mar 2026 23:35:42 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who is the Kimwolf Botmaster “Dort”?",
+      "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
+      "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines wh",
+      "published": "Sat, 28 Feb 2026 12:01:57 +0000",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
     },
     {
       "source": "Dark Reading",

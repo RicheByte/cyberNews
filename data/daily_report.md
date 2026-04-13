@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-13 19:07 UTC  
+> **Last Updated:** 2026-04-13 20:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **service ddos doxing** • **online travel platform** • **iran's intelligence agencies** • **gmail brings end** • **harvest cloud credentials** • **twitter whistleblower complaint** • **service dos condition** • **serve malicious executables** • **alibaba cloud environments** • **least 77 vulnerabilities** • **sprawling phishing campaign** • **global phishing operation** • **email flooding attacks** • **yokogawa centum vp** • **weekend s backlog** • **several u s** • **obscure c2 communication** • **mythos preview model** • **mttd looks great**
+**mitsubishi electric genesis64** • **service ddos doxing** • **online travel platform** • **iran's intelligence agencies** • **gmail brings end** • **harvest cloud credentials** • **twitter whistleblower complaint** • **service dos condition** • **recent security incident** • **bx rat janelarat** • **serve malicious executables** • **malicious axios library** • **alibaba cloud environments** • **least 77 vulnerabilities** • **sprawling phishing campaign** • **global phishing operation** • **email flooding attacks** • **14 739 attacks** • **yokogawa centum vp** • **weekend s backlog**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025](https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html)
 - [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
 - [⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More](https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html)
 - [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
@@ -23,18 +24,17 @@
 - [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
 - [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
 - [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
-- [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
 
 ### BleepingComputer
 
+- [Stolen Rockstar Games analytics data leaked by extortion gang](https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/)
+- [Critical flaw in wolfSSL library enables forged certificate use](https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/)
 - [FBI takedown of W3LL phishing service leads to developer arrest](https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/)
 - [OpenAI rotates macOS certs after Axios attack hit code-signing workflow](https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/)
 - [New Booking.com data breach forces reservation PIN resets](https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/)
 - [Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw](https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/)
 - [The silent “Storm”: New infostealer hijacks sessions, decrypts server-side](https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/)
 - [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
-- [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
-- [ChatGPT rolls out new $100 Pro subscription to challenge Claude](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Empty Attestations: OT Lacks the Tools for Cryptographic Readiness](https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness)
 - [APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials](https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials)
 - [Hims Breach Exposes the Most Sensitive Kinds of PHI](https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi)
 - [Your Next Breach Will Look Like Business as Usual](https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual)
@@ -56,7 +57,6 @@
 - [Orange Business Reimagines Enterprise Voice Communications With Trust and AI](https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms)
 - [Industrial Controllers Still Vulnerable As Conflicts Move to Cyber](https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber)
 - [Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?](https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe)
-- [Russia's 'Fancy Bear' APT Continues Its Global Onslaught](https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught)
 
 ### Security Week
 

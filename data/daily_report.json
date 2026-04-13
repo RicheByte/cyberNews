@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-04-13 11:13",
+  "last_updated": "2026-04-13 13:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
     "popular cpu z",
     "iran's intelligence agencies",
-    "arbitrary code execution",
     "human scale security",
     "service ddos doxing",
     "twitter whistleblower complaint",
     "recommended immediate actions",
     "hitachi energy ellipse",
     "genai consumption there's",
+    "least 77 vulnerabilities",
+    "junos os vulnerabilities",
     "gmail brings end",
+    "service dos condition",
     "serve malicious executables",
     "critical security flaw",
-    "service dos condition",
-    "payroll pirate attacks",
-    "email flooding attacks",
     "yokogawa centum vp",
-    "upcoming chrome release",
+    "windows operating systems",
     "sprawling phishing campaign",
-    "several u s"
+    "several u s",
+    "payroll pirate attacks"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "popular cpu z",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 239
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 187
+      "mentions": 240
     },
     {
       "keyword": "human scale security",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 257
+      "mentions": 258
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1323
+      "mentions": 1324
     },
     {
       "keyword": "recommended immediate actions",
-      "mentions": 54
+      "mentions": 55
     },
     {
       "keyword": "hitachi energy ellipse",
-      "mentions": 118
+      "mentions": 119
     },
     {
       "keyword": "genai consumption there's",
-      "mentions": 32
+      "mentions": 33
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 114
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
+      "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
+      "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo Alto Networks' Wendi Whitmorewarned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant's M-Trends 2026",
+      "published": "Mon, 13 Apr 2026 17:11:00 +0530",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
@@ -136,15 +148,6 @@
       "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
       "summary": "While much of the discussion on AI security centers around protecting ‘shadow’ AI and GenAI consumption, there's a wide-open window nobody's guarding: AI browser extensions. A new report from LayerX exposes just how deep this blind spot goes, and why AI extensions may be the most dangerous AI threat surface in your network that isn't on anyone's",
       "published": "Fri, 10 Apr 2026 16:30:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
-      "link": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
-      "summary": "Google has made Device Bound Session Credentials (DBSC) generally available to all Windows users of its Chrome web browser, months after it began testing the security feature in open beta. The public availability is currently limited to Windows users on Chrome 146, with macOS expansion planned in an upcoming Chrome release. \"This project represents a significant",
-      "published": "Fri, 10 Apr 2026 13:28:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -314,7 +317,7 @@
       "source": "Dark Reading",
       "title": "Hims Breach Exposes the Most Sensitive Kinds of PHI",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
-      "summary": "Threat actors breached the telehealth brand, and now they may know who's bald, overweight, and impotent. What could they do with that information?",
+      "summary": "Threat actors breached the telehealth brand, and now they may know patients' personal health details. What could they do with that information?",
       "published": "Fri, 10 Apr 2026 20:02:30 GMT",
       "value_score": 22,
       "value_signals": [
@@ -395,6 +398,24 @@
     },
     {
       "source": "Security Week",
+      "title": "OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack",
+      "link": "https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/",
+      "summary": "The AI giant is taking action after determining that a macOS code signing certificate may have been compromised. The post OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack appeared first on SecurityWeek .",
+      "published": "Mon, 13 Apr 2026 12:34:06 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "International Operation Targets Multimillion-Dollar Crypto Theft Schemes",
+      "link": "https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/",
+      "summary": "Law enforcement in the US, UK and Canada identified more than $45 million in cryptocurrency and froze $12 million. The post International Operation Targets Multimillion-Dollar Crypto Theft Schemes appeared first on SecurityWeek .",
+      "published": "Mon, 13 Apr 2026 11:34:35 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
       "link": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
       "summary": "Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT. The post CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads appeared first on SecurityWeek .",
@@ -453,29 +474,6 @@
       "value_score": 24,
       "value_signals": [
         "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday",
-      "link": "https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/",
-      "summary": "The US government has warned that Iran-linked hackers are manipulating PLCs and SCADA systems to cause disruption. The post Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday appeared first on SecurityWeek .",
-      "published": "Fri, 10 Apr 2026 12:41:08 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Orthanc DICOM Vulnerabilities Lead to Crashes, RCE",
-      "link": "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/",
-      "summary": "Attackers could exploit these vulnerabilities in denial-of-service, information disclosure, and arbitrary code execution attacks. The post Orthanc DICOM Vulnerabilities Lead to Crashes, RCE appeared first on SecurityWeek .",
-      "published": "Fri, 10 Apr 2026 11:53:45 +0000",
-      "value_score": 56,
-      "value_signals": [
-        "RCE ×2",
         "Exploit wording"
       ]
     },

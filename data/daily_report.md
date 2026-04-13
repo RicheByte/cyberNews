@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-13 11:13 UTC  
+> **Last Updated:** 2026-04-13 13:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **popular cpu z** • **iran's intelligence agencies** • **arbitrary code execution** • **human scale security** • **service ddos doxing** • **twitter whistleblower complaint** • **recommended immediate actions** • **hitachi energy ellipse** • **genai consumption there's** • **gmail brings end** • **serve malicious executables** • **critical security flaw** • **service dos condition** • **payroll pirate attacks** • **email flooding attacks** • **yokogawa centum vp** • **upcoming chrome release** • **sprawling phishing campaign** • **several u s**
+**mitsubishi electric genesis64** • **popular cpu z** • **iran's intelligence agencies** • **human scale security** • **service ddos doxing** • **twitter whistleblower complaint** • **recommended immediate actions** • **hitachi energy ellipse** • **genai consumption there's** • **least 77 vulnerabilities** • **junos os vulnerabilities** • **gmail brings end** • **service dos condition** • **serve malicious executables** • **critical security flaw** • **yokogawa centum vp** • **windows operating systems** • **sprawling phishing campaign** • **several u s** • **payroll pirate attacks**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
 - [North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
 - [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
 - [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
@@ -23,7 +24,6 @@
 - [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
 - [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
 - [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html)
-- [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack](https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/)
+- [International Operation Targets Multimillion-Dollar Crypto Theft Schemes](https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/)
 - [CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads](https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/)
 - [Fake Claude Website Distributes PlugX RAT](https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/)
 - [Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users](https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/)
 - [Adobe Patches Reader Zero-Day Exploited for Months](https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/)
 - [In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack](https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/)
 - [Juniper Networks Patches Dozens of Junos OS Vulnerabilities](https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/)
-- [Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday](https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/)
-- [Orthanc DICOM Vulnerabilities Lead to Crashes, RCE](https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/)
 
 ### Threatpost
 

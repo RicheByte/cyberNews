@@ -1,9 +1,10 @@
 {
-  "last_updated": "2026-04-13 09:50",
+  "last_updated": "2026-04-13 11:13",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
+    "popular cpu z",
     "iran's intelligence agencies",
     "arbitrary code execution",
     "human scale security",
@@ -13,65 +14,73 @@
     "hitachi energy ellipse",
     "genai consumption there's",
     "gmail brings end",
-    "service dos condition",
+    "serve malicious executables",
     "critical security flaw",
+    "service dos condition",
     "payroll pirate attacks",
     "email flooding attacks",
     "yokogawa centum vp",
     "upcoming chrome release",
     "sprawling phishing campaign",
-    "several u s",
-    "popular cpu z",
-    "ongoing glassworm campaign"
+    "several u s"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 50
+      "mentions": 51
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 238
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 186
-    },
-    {
-      "keyword": "human scale security",
-      "mentions": 30
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 256
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1322
-    },
-    {
-      "keyword": "recommended immediate actions",
-      "mentions": 53
-    },
-    {
-      "keyword": "hitachi energy ellipse",
-      "mentions": 117
-    },
-    {
-      "keyword": "genai consumption there's",
+      "keyword": "popular cpu z",
       "mentions": 31
     },
     {
-      "keyword": "gmail brings end",
-      "mentions": 1
+      "keyword": "iran's intelligence agencies",
+      "mentions": 239
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 187
+    },
+    {
+      "keyword": "human scale security",
+      "mentions": 31
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 257
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1323
+    },
+    {
+      "keyword": "recommended immediate actions",
+      "mentions": 54
+    },
+    {
+      "keyword": "hitachi energy ellipse",
+      "mentions": 118
+    },
+    {
+      "keyword": "genai consumption there's",
+      "mentions": 32
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
+      "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
+      "summary": "The North Korean hacking group tracked as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delivery channel for a remote access trojan called RokRAT. \"The threat actor used two Facebook",
+      "published": "Mon, 13 Apr 2026 14:45:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
       "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
       "link": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
-      "summary": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that no user data or internal system was compromised. \"Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS applications are legitimate OpenAI apps,\" OpenAI said in a post last week. \"We found",
+      "summary": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps led to the download of the malicious Axios library on March 31, but noted that no user data or internal system was compromised. \"Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS applications are legitimate OpenAI apps,\" OpenAI said in a post last week. \"We found no",
       "published": "Mon, 13 Apr 2026 12:20:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -138,21 +147,6 @@
       "published": "Fri, 10 Apr 2026 13:28:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
-      "summary": "A critical security vulnerability in Marimo, an open-source Python notebook for data science and analysis, has been exploited within 10 hours of public disclosure, according to findings from Sysdig. The vulnerability in question is CVE-2026-39987 (CVSS score: 9.3), a pre-authenticated remote code execution vulnerability impacting all versions of Marimo prior to and including",
-      "published": "Fri, 10 Apr 2026 13:07:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE ×2",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -401,6 +395,24 @@
     },
     {
       "source": "Security Week",
+      "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
+      "link": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
+      "summary": "Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT. The post CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads appeared first on SecurityWeek .",
+      "published": "Mon, 13 Apr 2026 10:52:57 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Fake Claude Website Distributes PlugX RAT",
+      "link": "https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/",
+      "summary": "The malware mimics the legitimate Anthropic installation, relies on DLL sideloading, and cleans up after itself. The post Fake Claude Website Distributes PlugX RAT appeared first on SecurityWeek .",
+      "published": "Mon, 13 Apr 2026 09:52:50 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users",
       "link": "https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/",
       "summary": "The feature allows enterprise users to compose and read end-to-end encrypted messages natively on their mobile devices. The post Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users appeared first on SecurityWeek .",
@@ -466,26 +478,6 @@
         "RCE ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000",
-      "link": "https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/",
-      "summary": "The critical vulnerabilities affect Chrome’s WebML component and they have been reported by anonymous researchers. The post Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000 appeared first on SecurityWeek .",
-      "published": "Fri, 10 Apr 2026 10:44:45 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "MITRE Releases Fight Fraud Framework",
-      "link": "https://www.securityweek.com/mitre-releases-fight-fraud-framework/",
-      "summary": "The document provides a behavior-based model of the tactics and techniques employed by fraudsters. The post MITRE Releases Fight Fraud Framework appeared first on SecurityWeek .",
-      "published": "Fri, 10 Apr 2026 09:51:03 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

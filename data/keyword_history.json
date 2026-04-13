@@ -263,7 +263,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1322,
+      "count": 1323,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -870,7 +870,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1605,7 +1605,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 276,
+      "count": 277,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2636,7 +2636,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2772,7 +2772,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 186,
+      "count": 187,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -9126,7 +9126,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -10515,7 +10515,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 256,
+      "count": 257,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10613,7 +10613,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 238,
+      "count": 239,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11886,7 +11886,7 @@
       ]
     },
     "hitachi energy ellipse": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -11982,7 +11982,7 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12277,7 +12277,7 @@
       ]
     },
     "service dos condition": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12469,7 +12469,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12628,7 +12628,7 @@
       ]
     },
     "genai consumption there's": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-04-10",
         "2026-04-11",
@@ -12637,7 +12637,7 @@
       ]
     },
     "human scale security": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-10",
         "2026-04-11",
@@ -12646,7 +12646,7 @@
       ]
     },
     "popular cpu z": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-10",
         "2026-04-11",
@@ -12664,7 +12664,7 @@
       ]
     },
     "upcoming chrome release": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-10",
         "2026-04-11",
@@ -12679,7 +12679,7 @@
       ]
     },
     "several u s": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-04-11",
         "2026-04-12",
@@ -12687,7 +12687,7 @@
       ]
     },
     "payroll pirate attacks": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-12",
         "2026-04-13"
@@ -12700,7 +12700,7 @@
       ]
     },
     "serve malicious executables": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-13"
       ]
@@ -12718,24 +12718,13 @@
       ]
     },
     "gmail brings end": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-13"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-04 06:54",
-      "articles": 56,
-      "top_keywords": [
-        "t mobile sets",
-        "service ddos doxing",
-        "april 1 2026",
-        "supply chain compromise",
-        "zero click exploits"
-      ]
-    },
     {
       "timestamp": "2026-04-04 08:35",
       "articles": 56,
@@ -13823,6 +13812,17 @@
         "arbitrary code execution",
         "human scale security",
         "service ddos doxing"
+      ]
+    },
+    {
+      "timestamp": "2026-04-13 11:13",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "popular cpu z",
+        "iran's intelligence agencies",
+        "arbitrary code execution",
+        "human scale security"
       ]
     }
   ]

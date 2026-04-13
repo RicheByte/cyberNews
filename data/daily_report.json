@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-13 16:58",
+  "last_updated": "2026-04-13 19:07",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
-    "popular cpu z",
+    "service ddos doxing",
     "online travel platform",
     "iran's intelligence agencies",
-    "human scale security",
     "gmail brings end",
-    "service ddos doxing",
     "harvest cloud credentials",
     "twitter whistleblower complaint",
-    "recommended immediate actions",
-    "hitachi energy ellipse",
     "service dos condition",
-    "alibaba cloud environments",
     "serve malicious executables",
-    "email flooding attacks",
+    "alibaba cloud environments",
     "least 77 vulnerabilities",
+    "sprawling phishing campaign",
+    "global phishing operation",
+    "email flooding attacks",
     "yokogawa centum vp",
-    "windows operating systems",
     "weekend s backlog",
-    "sprawling phishing campaign"
+    "several u s",
+    "obscure c2 communication",
+    "mythos preview model",
+    "mttd looks great"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 54
-    },
-    {
-      "keyword": "popular cpu z",
-      "mentions": 34
-    },
-    {
-      "keyword": "online travel platform",
-      "mentions": 2
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 242
-    },
-    {
-      "keyword": "human scale security",
-      "mentions": 34
-    },
-    {
-      "keyword": "gmail brings end",
-      "mentions": 5
+      "mentions": 55
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 260
+      "mentions": 261
+    },
+    {
+      "keyword": "online travel platform",
+      "mentions": 3
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 243
+    },
+    {
+      "keyword": "gmail brings end",
+      "mentions": 6
     },
     {
       "keyword": "harvest cloud credentials",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1326
+      "mentions": 1327
     },
     {
-      "keyword": "recommended immediate actions",
+      "keyword": "service dos condition",
       "mentions": 57
+    },
+    {
+      "keyword": "serve malicious executables",
+      "mentions": 6
+    },
+    {
+      "keyword": "alibaba cloud environments",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -158,6 +158,37 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FBI takedown of W3LL phishing service leads to developer arrest",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
+      "summary": "The FBI Atlanta Field Office and Indonesian authorities have dismantled the \"W3LL\" global phishing platform, seizing infrastructure and arresting the alleged developer in what is described as the first coordinated enforcement action between the United States and Indonesia targeting a phishing kit developer. [...]",
+      "published": "Mon, 13 Apr 2026 14:55:50 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
+      "summary": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
+      "published": "Mon, 13 Apr 2026 13:39:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Booking.com data breach forces reservation PIN resets",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
+      "summary": "Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]",
+      "published": "Mon, 13 Apr 2026 13:30:10 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
       "link": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
       "summary": "Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December. [...]",
@@ -207,40 +238,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
       "summary": "OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan. [...]",
       "published": "Fri, 10 Apr 2026 22:08:16 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
-      "summary": "The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exposed programmable logic controllers (PLCs) manufactured by Rockwell Automation. [...]",
-      "published": "Fri, 10 Apr 2026 11:52:45 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
-      "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
-      "summary": "Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them. [...]",
-      "published": "Fri, 10 Apr 2026 10:01:11 -0400",
-      "value_score": 72,
-      "value_signals": [
-        "Patch/update",
-        "CISA/KEV ×4",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
-      "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-      "summary": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
-      "published": "Fri, 10 Apr 2026 09:12:42 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -565,6 +562,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2012-1854 Microsoft Visual Basic for Applications Insecure Library Loading Vulnerability CVE-2020-9715 Adobe Acrobat Use-After-Free Vulnerability CVE-2023-21529 Microsoft Exchange Server Deserialization of Untrusted Data Vulnerability CVE-2023-36424 Microsoft Windows Out-of-Bounds Read Vulnerability CVE-2025-60710 Microsoft Windows Link Following Vulnerabi",
+      "published": "Mon, 13 Apr 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×5",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Contemporary Controls BASC 20T",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to enumerate the functionality of each component associated with the PLC, reconfigure, rename, delete, perform file transfers, and make remote procedure calls. The following versions of Contemporary Controls BASC 20T are affected: BASControl20 3.1 (CVE-2025-13926) CVSS Vendor Equipment Vulnerabilities v3 9.8 Contemporary Controls Sedona Alliance Contemporary Controls BASC 20T Reliance on Untrusted Inputs in a",
@@ -655,20 +667,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Hitachi Energy Ellipse",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03",
-      "summary": "View CSAF Summary Hitachi Energy is aware of a Jasper Report vulnerability that affects the Ellipse product versions mentioned in this document below. This vulnerability can be exploited to carry out remote code execution (RCE) attack on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Ellipse are affected: Ellipse vers:Ellipse/<=9.0.50 (CVE-2025-10492) CVSS Vendor Equipment Vulnerabilities v",
-      "published": "Thu, 02 Apr 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "RCE ×2",
         "Exploit wording"
       ]
     }

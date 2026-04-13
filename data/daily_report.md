@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-13 16:58 UTC  
+> **Last Updated:** 2026-04-13 19:07 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **popular cpu z** • **online travel platform** • **iran's intelligence agencies** • **human scale security** • **gmail brings end** • **service ddos doxing** • **harvest cloud credentials** • **twitter whistleblower complaint** • **recommended immediate actions** • **hitachi energy ellipse** • **service dos condition** • **alibaba cloud environments** • **serve malicious executables** • **email flooding attacks** • **least 77 vulnerabilities** • **yokogawa centum vp** • **windows operating systems** • **weekend s backlog** • **sprawling phishing campaign**
+**mitsubishi electric genesis64** • **service ddos doxing** • **online travel platform** • **iran's intelligence agencies** • **gmail brings end** • **harvest cloud credentials** • **twitter whistleblower complaint** • **service dos condition** • **serve malicious executables** • **alibaba cloud environments** • **least 77 vulnerabilities** • **sprawling phishing campaign** • **global phishing operation** • **email flooding attacks** • **yokogawa centum vp** • **weekend s backlog** • **several u s** • **obscure c2 communication** • **mythos preview model** • **mttd looks great**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [FBI takedown of W3LL phishing service leads to developer arrest](https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/)
+- [OpenAI rotates macOS certs after Axios attack hit code-signing workflow](https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/)
+- [New Booking.com data breach forces reservation PIN resets](https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/)
 - [Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw](https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/)
 - [The silent “Storm”: New infostealer hijacks sessions, decrypts server-side](https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/)
 - [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
 - [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
 - [ChatGPT rolls out new $100 Pro subscription to challenge Claude](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/)
-- [Nearly 4,000 US industrial devices exposed to Iranian cyberattacks](https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/)
-- [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)
-- [CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
 
 ### Krebs on Security
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog)
 - [Contemporary Controls BASC 20T](https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01)
 - [GPL Odorizers GPL750](https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog)
@@ -89,7 +90,6 @@
 - [Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Yokogawa CENTUM VP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02)
-- [Hitachi Energy Ellipse](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03)
 
 ---
 

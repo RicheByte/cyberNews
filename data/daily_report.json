@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-13 15:12",
+  "last_updated": "2026-04-13 16:58",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
     "popular cpu z",
@@ -10,63 +10,74 @@
     "human scale security",
     "gmail brings end",
     "service ddos doxing",
+    "harvest cloud credentials",
     "twitter whistleblower complaint",
     "recommended immediate actions",
-    "least 77 vulnerabilities",
     "hitachi energy ellipse",
     "service dos condition",
+    "alibaba cloud environments",
     "serve malicious executables",
-    "malicious cyber actors",
-    "attack surface targeted",
+    "email flooding attacks",
+    "least 77 vulnerabilities",
     "yokogawa centum vp",
     "windows operating systems",
     "weekend s backlog",
-    "sprawling phishing campaign",
-    "several u s"
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "popular cpu z",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "online travel platform",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 241
+      "mentions": 242
     },
     {
       "keyword": "human scale security",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "gmail brings end",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 259
+      "mentions": 260
+    },
+    {
+      "keyword": "harvest cloud credentials",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1325
+      "mentions": 1326
     },
     {
       "keyword": "recommended immediate actions",
-      "mentions": 56
-    },
-    {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 115
+      "mentions": 57
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
+      "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit called W3LL to steal thousands of victims' account credentials and attempt more than $20 million in fraud. In tandem, authorities detained the alleged developer, who has&",
+      "published": "Mon, 13 Apr 2026 20:16:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
@@ -83,7 +94,7 @@
       "source": "The Hacker News",
       "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
       "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
-      "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo Alto Networks' Wendi Whitmorewarned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant's M-Trends 2026",
+      "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo Alto Networks' Wendi Whitmore warned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant's M-Trends",
       "published": "Mon, 13 Apr 2026 17:11:00 +0530",
       "value_score": 41,
       "value_signals": [
@@ -146,13 +157,18 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
-      "link": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
-      "summary": "Cybersecurity researchers have flagged yet another evolution of the ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development environments (IDEs) on a developer's machine. The technique has been discovered in an Open VSX extension named \"specstudio.code-wakatime-activity-tracker,\" which masquerades as WakaTime, a",
-      "published": "Fri, 10 Apr 2026 18:53:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
+      "summary": "Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December. [...]",
+      "published": "Mon, 13 Apr 2026 11:37:05 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -225,15 +241,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
       "summary": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
       "published": "Fri, 10 Apr 2026 09:12:42 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
-      "summary": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]",
-      "published": "Fri, 10 Apr 2026 07:56:14 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -315,6 +322,87 @@
       "value_signals": [
         "Botnet"
       ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials",
+      "link": "https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials",
+      "summary": "The prolific China-backed threat group is targeting AWS, Google, Azure, and Alibaba cloud environments and using typosquatting to obscure C2 communication.",
+      "published": "Mon, 13 Apr 2026 15:08:12 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Hims Breach Exposes the Most Sensitive Kinds of PHI",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
+      "summary": "Threat actors breached the telehealth brand, and now they may know patients' personal health details. What could they do with that information?",
+      "published": "Fri, 10 Apr 2026 20:02:30 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Your Next Breach Will Look Like Business as Usual",
+      "link": "https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual",
+      "summary": "These are the fundamental detection model shifts cybersecurity teams need to make to keep up with the rising number of credential-based attacks.",
+      "published": "Fri, 10 Apr 2026 19:21:55 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats",
+      "link": "https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center",
+      "summary": "",
+      "published": "Fri, 10 Apr 2026 15:52:28 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Orange Business Reimagines Enterprise Voice Communications With Trust and AI",
+      "link": "https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms",
+      "summary": "",
+      "published": "Fri, 10 Apr 2026 15:05:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Industrial Controllers Still Vulnerable As Conflicts Move to Cyber",
+      "link": "https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber",
+      "summary": "The US government warns programmable logic controllers are being targeted, and research turns up 179 vulnerable operational technology (OT) devices.",
+      "published": "Fri, 10 Apr 2026 13:30:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?",
+      "link": "https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe",
+      "summary": "Its Mythos Preview model, which can allegedly find and exploit critical zero-days, also comes with certain controls, the vendor said.",
+      "published": "Fri, 10 Apr 2026 13:00:00 GMT",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Russia's 'Fancy Bear' APT Continues Its Global Onslaught",
+      "link": "https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught",
+      "summary": "Victims don't need to match the cyber espionage group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.",
+      "published": "Thu, 09 Apr 2026 20:50:37 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",

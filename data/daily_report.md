@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-13 15:12 UTC  
+> **Last Updated:** 2026-04-13 16:58 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **popular cpu z** • **online travel platform** • **iran's intelligence agencies** • **human scale security** • **gmail brings end** • **service ddos doxing** • **twitter whistleblower complaint** • **recommended immediate actions** • **least 77 vulnerabilities** • **hitachi energy ellipse** • **service dos condition** • **serve malicious executables** • **malicious cyber actors** • **attack surface targeted** • **yokogawa centum vp** • **windows operating systems** • **weekend s backlog** • **sprawling phishing campaign** • **several u s**
+**mitsubishi electric genesis64** • **popular cpu z** • **online travel platform** • **iran's intelligence agencies** • **human scale security** • **gmail brings end** • **service ddos doxing** • **harvest cloud credentials** • **twitter whistleblower complaint** • **recommended immediate actions** • **hitachi energy ellipse** • **service dos condition** • **alibaba cloud environments** • **serve malicious executables** • **email flooding attacks** • **least 77 vulnerabilities** • **yokogawa centum vp** • **windows operating systems** • **weekend s backlog** • **sprawling phishing campaign**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
 - [⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More](https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html)
 - [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
 - [North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
@@ -23,10 +24,10 @@
 - [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
 - [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
 - [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
-- [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
 
 ### BleepingComputer
 
+- [Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw](https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/)
 - [The silent “Storm”: New infostealer hijacks sessions, decrypts server-side](https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/)
 - [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
 - [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
@@ -34,7 +35,6 @@
 - [Nearly 4,000 US industrial devices exposed to Iranian cyberattacks](https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/)
 - [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)
 - [CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
-- [Microsoft: Canadian employees targeted in payroll pirate attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/)
 
 ### Krebs on Security
 
@@ -46,6 +46,17 @@
 - [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
 - [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
 - [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
+
+### Dark Reading
+
+- [APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials](https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials)
+- [Hims Breach Exposes the Most Sensitive Kinds of PHI](https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi)
+- [Your Next Breach Will Look Like Business as Usual](https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual)
+- [FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats](https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center)
+- [Orange Business Reimagines Enterprise Voice Communications With Trust and AI](https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms)
+- [Industrial Controllers Still Vulnerable As Conflicts Move to Cyber](https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber)
+- [Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?](https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe)
+- [Russia's 'Fancy Bear' APT Continues Its Global Onslaught](https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught)
 
 ### Security Week
 

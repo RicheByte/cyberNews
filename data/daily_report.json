@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13 20:48",
+  "last_updated": "2026-04-13 22:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "service ddos doxing",
     "online travel platform",
     "iran's intelligence agencies",
-    "gmail brings end",
     "harvest cloud credentials",
+    "gmail brings end",
+    "recent security incident",
     "twitter whistleblower complaint",
     "service dos condition",
-    "recent security incident",
+    "malicious cyber actors",
     "bx rat janelarat",
-    "serve malicious executables",
-    "malicious axios library",
     "alibaba cloud environments",
     "least 77 vulnerabilities",
+    "serve malicious executables",
+    "malicious axios library",
     "sprawling phishing campaign",
     "global phishing operation",
     "email flooding attacks",
-    "14 739 attacks",
-    "yokogawa centum vp",
-    "weekend s backlog"
+    "credential based attacks",
+    "14 739 attacks"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 56
+      "mentions": 57
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 262
+      "mentions": 263
     },
     {
       "keyword": "online travel platform",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 244
-    },
-    {
-      "keyword": "gmail brings end",
-      "mentions": 7
+      "mentions": 245
     },
     {
       "keyword": "harvest cloud credentials",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1328
-    },
-    {
-      "keyword": "service dos condition",
-      "mentions": 58
+      "keyword": "gmail brings end",
+      "mentions": 8
     },
     {
       "keyword": "recent security incident",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "bx rat janelarat",
-      "mentions": 1
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1329
+    },
+    {
+      "keyword": "service dos condition",
+      "mentions": 59
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 424
     }
   ],
   "articles": [
@@ -158,6 +158,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "European Gym giant Basic-Fit data breach affects 1 million members",
+      "link": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
+      "summary": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
+      "published": "Mon, 13 Apr 2026 17:50:01 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
       "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
       "summary": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
@@ -231,19 +242,6 @@
       "published": "Mon, 13 Apr 2026 10:05:15 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
-      "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
-      "published": "Sun, 12 Apr 2026 10:20:31 -0400",
-      "value_score": 72,
-      "value_signals": [
-        "RCE ×3",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -326,6 +324,30 @@
     },
     {
       "source": "Dark Reading",
+      "title": "CSA: CISOs Should Prepare for Post-Mythos Exploit Storm",
+      "link": "https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm",
+      "summary": "Security experts warn of an \"AI vulnerability storm\" triggered by the introduction of Anthropic's Claude Mythos in a new paper from the Cloud Security Alliance (CSA).",
+      "published": "Mon, 13 Apr 2026 21:29:31 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Adobe Patches Actively Exploited Zero-Day That Lingered for Months",
+      "link": "https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day",
+      "summary": "An attacker has been using maliciously crafted PDF files to exploit a zero-day in Adobe Acrobat and Reader for at least four months.",
+      "published": "Mon, 13 Apr 2026 20:52:38 GMT",
+      "value_score": 91,
+      "value_signals": [
+        "Zero-day ×2",
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Empty Attestations: OT Lacks the Tools for Cryptographic Readiness",
       "link": "https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness",
       "summary": "OT asset owners are being asked by regulators to attest to their post-quantum cryptographic readiness without the appropriate tooling, resulting in paperwork dressed up to look like genuine security.",
@@ -383,27 +405,6 @@
       "published": "Fri, 10 Apr 2026 15:05:14 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Industrial Controllers Still Vulnerable As Conflicts Move to Cyber",
-      "link": "https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber",
-      "summary": "The US government warns programmable logic controllers are being targeted, and research turns up 179 vulnerable operational technology (OT) devices.",
-      "published": "Fri, 10 Apr 2026 13:30:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?",
-      "link": "https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe",
-      "summary": "Its Mythos Preview model, which can allegedly find and exploit critical zero-days, also comes with certain controls, the vendor said.",
-      "published": "Fri, 10 Apr 2026 13:00:00 GMT",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

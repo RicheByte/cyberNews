@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-13 20:48 UTC |
+| 🕐 Last Updated | 2026-04-13 22:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mitsubishi electric genesis64` • `service ddos doxing` • `online travel platform` • `iran's intelligence agencies` • `gmail brings end` • `harvest cloud credentials` • `twitter whistleblower complaint` • `service dos condition` • `recent security incident` • `bx rat janelarat`
+`mitsubishi electric genesis64` • `service ddos doxing` • `online travel platform` • `iran's intelligence agencies` • `harvest cloud credentials` • `gmail brings end` • `recent security incident` • `twitter whistleblower complaint` • `service dos condition` • `malicious cyber actors`
 
 ## 📄 Reports
 

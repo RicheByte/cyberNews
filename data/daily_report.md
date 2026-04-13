@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-13 20:48 UTC  
+> **Last Updated:** 2026-04-13 22:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **service ddos doxing** • **online travel platform** • **iran's intelligence agencies** • **gmail brings end** • **harvest cloud credentials** • **twitter whistleblower complaint** • **service dos condition** • **recent security incident** • **bx rat janelarat** • **serve malicious executables** • **malicious axios library** • **alibaba cloud environments** • **least 77 vulnerabilities** • **sprawling phishing campaign** • **global phishing operation** • **email flooding attacks** • **14 739 attacks** • **yokogawa centum vp** • **weekend s backlog**
+**mitsubishi electric genesis64** • **service ddos doxing** • **online travel platform** • **iran's intelligence agencies** • **harvest cloud credentials** • **gmail brings end** • **recent security incident** • **twitter whistleblower complaint** • **service dos condition** • **malicious cyber actors** • **bx rat janelarat** • **alibaba cloud environments** • **least 77 vulnerabilities** • **serve malicious executables** • **malicious axios library** • **sprawling phishing campaign** • **global phishing operation** • **email flooding attacks** • **credential based attacks** • **14 739 attacks**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [European Gym giant Basic-Fit data breach affects 1 million members](https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/)
 - [Stolen Rockstar Games analytics data leaked by extortion gang](https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/)
 - [Critical flaw in wolfSSL library enables forged certificate use](https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/)
 - [FBI takedown of W3LL phishing service leads to developer arrest](https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/)
@@ -34,7 +35,6 @@
 - [New Booking.com data breach forces reservation PIN resets](https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/)
 - [Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw](https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/)
 - [The silent “Storm”: New infostealer hijacks sessions, decrypts server-side](https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/)
-- [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [CSA: CISOs Should Prepare for Post-Mythos Exploit Storm](https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm)
+- [Adobe Patches Actively Exploited Zero-Day That Lingered for Months](https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day)
 - [Empty Attestations: OT Lacks the Tools for Cryptographic Readiness](https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness)
 - [APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials](https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials)
 - [Hims Breach Exposes the Most Sensitive Kinds of PHI](https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi)
 - [Your Next Breach Will Look Like Business as Usual](https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual)
 - [FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats](https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center)
 - [Orange Business Reimagines Enterprise Voice Communications With Trust and AI](https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms)
-- [Industrial Controllers Still Vulnerable As Conflicts Move to Cyber](https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber)
-- [Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?](https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe)
 
 ### Security Week
 

@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-04-13 13:15",
+  "last_updated": "2026-04-13 15:12",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
     "mitsubishi electric genesis64",
     "popular cpu z",
+    "online travel platform",
     "iran's intelligence agencies",
     "human scale security",
+    "gmail brings end",
     "service ddos doxing",
     "twitter whistleblower complaint",
     "recommended immediate actions",
-    "hitachi energy ellipse",
-    "genai consumption there's",
     "least 77 vulnerabilities",
-    "junos os vulnerabilities",
-    "gmail brings end",
+    "hitachi energy ellipse",
     "service dos condition",
     "serve malicious executables",
-    "critical security flaw",
+    "malicious cyber actors",
+    "attack surface targeted",
     "yokogawa centum vp",
     "windows operating systems",
+    "weekend s backlog",
     "sprawling phishing campaign",
-    "several u s",
-    "payroll pirate attacks"
+    "several u s"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 52
+      "mentions": 53
     },
     {
       "keyword": "popular cpu z",
-      "mentions": 32
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 240
-    },
-    {
-      "keyword": "human scale security",
-      "mentions": 32
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 258
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1324
-    },
-    {
-      "keyword": "recommended immediate actions",
-      "mentions": 55
-    },
-    {
-      "keyword": "hitachi energy ellipse",
-      "mentions": 119
-    },
-    {
-      "keyword": "genai consumption there's",
       "mentions": 33
     },
     {
+      "keyword": "online travel platform",
+      "mentions": 1
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 241
+    },
+    {
+      "keyword": "human scale security",
+      "mentions": 33
+    },
+    {
+      "keyword": "gmail brings end",
+      "mentions": 4
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 259
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1325
+    },
+    {
+      "keyword": "recommended immediate actions",
+      "mentions": 56
+    },
+    {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 114
+      "mentions": 115
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
+      "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
+      "summary": "Monday is back, and the weekend’s backlog of chaos is officially hitting the fan. We are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that is finally coming to light. It is one of those mornings where the gap between a quiet shift and a full-blown incident response is basically",
+      "published": "Mon, 13 Apr 2026 18:31:00 +0530",
+      "value_score": 43,
+      "value_signals": [
+        "Zero-day",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
@@ -143,11 +155,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
-      "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
-      "summary": "While much of the discussion on AI security centers around protecting ‘shadow’ AI and GenAI consumption, there's a wide-open window nobody's guarding: AI browser extensions. A new report from LayerX exposes just how deep this blind spot goes, and why AI extensions may be the most dangerous AI threat surface in your network that isn't on anyone's",
-      "published": "Fri, 10 Apr 2026 16:30:00 +0530",
+      "source": "BleepingComputer",
+      "title": "The silent “Storm”: New infostealer hijacks sessions, decrypts server-side",
+      "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
+      "summary": "New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]",
+      "published": "Mon, 13 Apr 2026 10:05:15 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -222,15 +234,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
       "summary": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]",
       "published": "Fri, 10 Apr 2026 07:56:14 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
-      "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
-      "summary": "Google says Gmail end-to-end encryption (E2EE) is now available on all Android and iOS devices, allowing enterprise users to read and compose emails without additional tools. [...]",
-      "published": "Fri, 10 Apr 2026 06:44:08 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -314,87 +317,22 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Hims Breach Exposes the Most Sensitive Kinds of PHI",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
-      "summary": "Threat actors breached the telehealth brand, and now they may know patients' personal health details. What could they do with that information?",
-      "published": "Fri, 10 Apr 2026 20:02:30 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Your Next Breach Will Look Like Business as Usual",
-      "link": "https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual",
-      "summary": "These are the fundamental detection model shifts cybersecurity teams need to make to keep up with the rising number of credential-based attacks.",
-      "published": "Fri, 10 Apr 2026 19:21:55 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats",
-      "link": "https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center",
-      "summary": "",
-      "published": "Fri, 10 Apr 2026 15:52:28 GMT",
+      "source": "Security Week",
+      "title": "Booking.com Says Hackers Accessed User Information",
+      "link": "https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/",
+      "summary": "The online travel platform has not said how many customers’ booking information was exposed, but said the issue has been contained. The post Booking.com Says Hackers Accessed User Information appeared first on SecurityWeek .",
+      "published": "Mon, 13 Apr 2026 14:25:07 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Orange Business Reimagines Enterprise Voice Communications With Trust and AI",
-      "link": "https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms",
-      "summary": "",
-      "published": "Fri, 10 Apr 2026 15:05:14 GMT",
+      "source": "Security Week",
+      "title": "BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings",
+      "link": "https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/",
+      "summary": "Claims that “Microsoft is running one of the largest corporate espionage operations in modern history” face scrutiny as researchers analyze LinkedIn’s browser extension probing The post BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings appeared first on SecurityWeek .",
+      "published": "Mon, 13 Apr 2026 14:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Industrial Controllers Still Vulnerable As Conflicts Move to Cyber",
-      "link": "https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber",
-      "summary": "The US government warns programmable logic controllers are being targeted, and research turns up 179 vulnerable operational technology (OT) devices.",
-      "published": "Fri, 10 Apr 2026 13:30:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?",
-      "link": "https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe",
-      "summary": "Its Mythos Preview model, which can allegedly find and exploit critical zero-days, also comes with certain controls, the vendor said.",
-      "published": "Fri, 10 Apr 2026 13:00:00 GMT",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Russia's 'Fancy Bear' APT Continues Its Global Onslaught",
-      "link": "https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught",
-      "summary": "Victims don't need to match the cyber espionage group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.",
-      "published": "Thu, 09 Apr 2026 20:50:37 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues",
-      "summary": "Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.",
-      "published": "Thu, 09 Apr 2026 20:13:34 GMT",
-      "value_score": 76,
-      "value_signals": [
-        "Zero-day ×2",
-        "PoC available",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",
@@ -451,29 +389,6 @@
       "value_signals": [
         "CVE mentioned",
         "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack",
-      "link": "https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Jones Day hacked, Internet Bug Bounty program paused due to AI, new Mac stealer malware. The post In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack appeared first on SecurityWeek .",
-      "published": "Fri, 10 Apr 2026 14:44:53 +0000",
-      "value_score": 60,
-      "value_signals": [
-        "Zero-day ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Juniper Networks Patches Dozens of Junos OS Vulnerabilities",
-      "link": "https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/",
-      "summary": "A critical-severity flaw could be exploited remotely, without authentication, to take over a vulnerable device. The post Juniper Networks Patches Dozens of Junos OS Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Fri, 10 Apr 2026 13:44:17 +0000",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
         "Exploit wording"
       ]
     },

@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-04-14 05:57",
+  "last_updated": "2026-04-14 07:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
-    "service ddos doxing",
+    "recent security incident",
     "online travel platform",
     "iran's intelligence agencies",
     "harvest cloud credentials",
     "gmail brings end",
-    "recent security incident",
+    "service ddos doxing",
     "twitter whistleblower complaint",
-    "service dos condition",
-    "malicious cyber actors",
+    "dozen security flaws",
     "bx rat janelarat",
     "alibaba cloud environments",
-    "least 77 vulnerabilities",
-    "serve malicious executables",
-    "malicious axios library",
+    "malicious cyber actors",
+    "service dos condition",
+    "collaboration service popular",
     "sprawling phishing campaign",
+    "malicious axios library",
     "global phishing operation",
     "email flooding attacks",
     "credential based attacks",
@@ -27,46 +27,75 @@
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 59
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 265
-    },
-    {
-      "keyword": "online travel platform",
-      "mentions": 7
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 247
-    },
-    {
-      "keyword": "harvest cloud credentials",
-      "mentions": 6
-    },
-    {
-      "keyword": "gmail brings end",
-      "mentions": 10
+      "mentions": 60
     },
     {
       "keyword": "recent security incident",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "online travel platform",
+      "mentions": 8
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 248
+    },
+    {
+      "keyword": "harvest cloud credentials",
+      "mentions": 7
+    },
+    {
+      "keyword": "gmail brings end",
+      "mentions": 11
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 266
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1331
+      "mentions": 1332
     },
     {
-      "keyword": "service dos condition",
-      "mentions": 61
+      "keyword": "dozen security flaws",
+      "mentions": 1
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 426
+      "keyword": "bx rat janelarat",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
+      "link": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
+      "summary": "A critical security vulnerability impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the wild. The vulnerability in question is CVE-2025-0520 (aka CNVD-2020-26585), which carries a CVSS score of 9.4 out of 10.0. It relates to a case of unrestricted file upload that stems from improper validation of",
+      "published": "Tue, 14 Apr 2026 11:20:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "RCE",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
+      "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2026-21643 (CVSS score: 9.1) - An SQL injection vulnerability in Fortinet FortiClient EMS that could allow an unauthenticated attacker to",
+      "published": "Tue, 14 Apr 2026 11:09:00 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
@@ -128,33 +157,6 @@
       "published": "Mon, 13 Apr 2026 12:20:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
-      "link": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
-      "summary": "Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software and deploy a remote access trojan called STX RAT. The incident lasted from approximately April 9, 15:00 UTC, to about April 10, 10:00 UTC, with",
-      "published": "Sun, 12 Apr 2026 11:24:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
-      "link": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
-      "summary": "Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that has come under active exploitation in the wild. The vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10.0. Successful exploitation of the flaw could allow an attacker to run malicious code on affected installations. It has been described as",
-      "published": "Sun, 12 Apr 2026 09:55:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×2",
-        "Patch/update",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

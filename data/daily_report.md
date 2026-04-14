@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-14 05:57 UTC  
+> **Last Updated:** 2026-04-14 07:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **service ddos doxing** • **online travel platform** • **iran's intelligence agencies** • **harvest cloud credentials** • **gmail brings end** • **recent security incident** • **twitter whistleblower complaint** • **service dos condition** • **malicious cyber actors** • **bx rat janelarat** • **alibaba cloud environments** • **least 77 vulnerabilities** • **serve malicious executables** • **malicious axios library** • **sprawling phishing campaign** • **global phishing operation** • **email flooding attacks** • **credential based attacks** • **14 739 attacks**
+**mitsubishi electric genesis64** • **recent security incident** • **online travel platform** • **iran's intelligence agencies** • **harvest cloud credentials** • **gmail brings end** • **service ddos doxing** • **twitter whistleblower complaint** • **dozen security flaws** • **bx rat janelarat** • **alibaba cloud environments** • **malicious cyber actors** • **service dos condition** • **collaboration service popular** • **sprawling phishing campaign** • **malicious axios library** • **global phishing operation** • **email flooding attacks** • **credential based attacks** • **14 739 attacks**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers](https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html)
+- [CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software](https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html)
 - [JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025](https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html)
 - [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
 - [⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More](https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html)
 - [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
 - [North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
 - [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
-- [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
-- [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
 
 ### BleepingComputer
 

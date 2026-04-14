@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-14 15:09 UTC |
+| 🕐 Last Updated | 2026-04-14 17:00 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mitsubishi electric genesis64` • `iran's intelligence agencies` • `service ddos doxing` • `harvest cloud credentials` • `enhance security google` • `arbitrary javascript code` • `monday added half` • `recent security incident` • `twitter whistleblower complaint` • `online travel platform`
+`mitsubishi electric genesis64` • `iran's intelligence agencies` • `service ddos doxing` • `harvest cloud credentials` • `enhance security google` • `monday added half` • `apple's app store` • `recent security incident` • `arbitrary javascript code` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

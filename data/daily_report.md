@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-14 15:09 UTC  
+> **Last Updated:** 2026-04-14 17:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **iran's intelligence agencies** • **service ddos doxing** • **harvest cloud credentials** • **enhance security google** • **arbitrary javascript code** • **monday added half** • **recent security incident** • **twitter whistleblower complaint** • **online travel platform** • **memory safety bugs** • **low level environment** • **bx rat janelarat** • **anthropic's claude mythos** • **service dos condition** • **collaboration service popular** • **dozen security flaws** • **alibaba cloud environments** • **global phishing operation** • **malicious cyber actors**
+**mitsubishi electric genesis64** • **iran's intelligence agencies** • **service ddos doxing** • **harvest cloud credentials** • **enhance security google** • **monday added half** • **apple's app store** • **recent security incident** • **arbitrary javascript code** • **twitter whistleblower complaint** • **memory safety bugs** • **malicious cyber actors** • **low level environment** • **anthropic's claude mythos** • **service dos condition** • **collaboration service popular** • **alibaba cloud environments** • **dozen security flaws** • **sql injection vulnerability** • **yokogawa centum vp**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
 - [Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html)
+- [AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud](https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html)
 - [Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads](https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html)
 - [Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
 - [108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users](https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html)
 - [ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers](https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html)
 - [CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software](https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html)
-- [JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025](https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html)
-- [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
 
 ### BleepingComputer
 
+- [Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto](https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/)
+- [Microsoft rolls out fast-track to reinstate Windows hardware dev accounts](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/)
 - [5 Ways Zero Trust Maximizes Identity Security](https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/)
 - [European Gym giant Basic-Fit data breach affects 1 million members](https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/)
 - [Stolen Rockstar Games analytics data leaked by extortion gang](https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/)
 - [Critical flaw in wolfSSL library enables forged certificate use](https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/)
 - [FBI takedown of W3LL phishing service leads to developer arrest](https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/)
 - [OpenAI rotates macOS certs after Axios attack hit code-signing workflow](https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/)
-- [New Booking.com data breach forces reservation PIN resets](https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/)
-- [Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw](https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Adobe Patches 55 Vulnerabilities Across 11 Products](https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/)
 - [‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats](https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/)
 - [Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members](https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/)
 - [SAP Patches Critical ABAP Vulnerability](https://www.securityweek.com/sap-patches-critical-abap-vulnerability/)
@@ -67,7 +68,6 @@
 - [Google Adds Rust DNS Parser to Pixel Phones for Better Security](https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/)
 - [Nightclub Giant RCI Hospitality Reports Data Breach](https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/)
 - [Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/)
-- [Booking.com Says Hackers Accessed User Information](https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/)
 
 ### Threatpost
 

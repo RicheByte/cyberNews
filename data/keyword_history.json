@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 431,
+      "count": 432,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -266,7 +266,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1336,
+      "count": 1337,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -10523,7 +10523,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 270,
+      "count": 271,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10622,7 +10622,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 252,
+      "count": 253,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11992,7 +11992,7 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12288,7 +12288,7 @@
       ]
     },
     "service dos condition": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12481,7 +12481,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12764,14 +12764,14 @@
       ]
     },
     "harvest cloud credentials": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-13",
         "2026-04-14"
       ]
     },
     "alibaba cloud environments": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-13",
         "2026-04-14"
@@ -12797,7 +12797,7 @@
       ]
     },
     "recent security incident": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-13",
         "2026-04-14"
@@ -12832,48 +12832,60 @@
       ]
     },
     "dozen security flaws": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-14"
       ]
     },
     "collaboration service popular": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-14"
       ]
     },
     "arbitrary javascript code": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-14"
       ]
     },
     "low level environment": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-14"
       ]
     },
     "anthropic's claude mythos": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-14"
       ]
     },
     "enhance security google": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-14"
       ]
     },
     "monday added half": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-14"
       ]
     },
     "memory safety bugs": {
+      "count": 2,
+      "dates": [
+        "2026-04-14"
+      ]
+    },
+    "apple's app store": {
+      "count": 1,
+      "dates": [
+        "2026-04-14"
+      ]
+    },
+    "sql injection vulnerability": {
       "count": 1,
       "dates": [
         "2026-04-14"
@@ -12881,17 +12893,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-05 12:45",
-      "articles": 56,
-      "top_keywords": [
-        "t mobile sets",
-        "malicious cyber actors",
-        "service ddos doxing",
-        "forticlient ems fortinet",
-        "supply chain compromise"
-      ]
-    },
     {
       "timestamp": "2026-04-05 14:31",
       "articles": 56,
@@ -13972,6 +13973,17 @@
     },
     {
       "timestamp": "2026-04-14 15:09",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "iran's intelligence agencies",
+        "service ddos doxing",
+        "harvest cloud credentials",
+        "enhance security google"
+      ]
+    },
+    {
+      "timestamp": "2026-04-14 17:00",
       "articles": 56,
       "top_keywords": [
         "mitsubishi electric genesis64",

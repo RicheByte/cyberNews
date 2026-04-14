@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14 15:09",
+  "last_updated": "2026-04-14 17:00",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,73 +8,96 @@
     "service ddos doxing",
     "harvest cloud credentials",
     "enhance security google",
-    "arbitrary javascript code",
     "monday added half",
+    "apple's app store",
     "recent security incident",
+    "arbitrary javascript code",
     "twitter whistleblower complaint",
-    "online travel platform",
     "memory safety bugs",
+    "malicious cyber actors",
     "low level environment",
-    "bx rat janelarat",
     "anthropic's claude mythos",
     "service dos condition",
     "collaboration service popular",
-    "dozen security flaws",
     "alibaba cloud environments",
-    "global phishing operation",
-    "malicious cyber actors"
+    "dozen security flaws",
+    "sql injection vulnerability",
+    "yokogawa centum vp"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 252
+      "mentions": 253
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 270
+      "mentions": 271
     },
     {
       "keyword": "harvest cloud credentials",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "enhance security google",
-      "mentions": 1
-    },
-    {
-      "keyword": "arbitrary javascript code",
-      "mentions": 4
+      "mentions": 2
     },
     {
       "keyword": "monday added half",
+      "mentions": 2
+    },
+    {
+      "keyword": "apple's app store",
       "mentions": 1
     },
     {
       "keyword": "recent security incident",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "arbitrary javascript code",
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1336
-    },
-    {
-      "keyword": "online travel platform",
-      "mentions": 12
+      "mentions": 1337
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
+      "link": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+      "summary": "Two high-severity security vulnerabilities have been disclosed in Composer, a package manager for PHP, that, if successfully exploited, could result in arbitrary command execution. The vulnerabilities have been described as command injection flaws affecting the Perforce VCS (version control software) driver. Details of the two flaws are below - CVE-2026-40176 (CVSS",
+      "published": "Tue, 14 Apr 2026 21:27:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
       "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
       "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
       "summary": "Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational level. \"The new Rust-based DNS parser significantly reduces our security risk by mitigating an entire class of vulnerabilities in a risky area, while also laying",
-      "published": "Tue, 14 Apr 2026 19:25:00 +0530",
+      "published": "Tue, 14 Apr 2026 20:26:00 +0530",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
+      "link": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
+      "summary": "Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push deceptive news stories into Google's Discover feed and trick users into enabling persistent browser notifications that lead to scareware and financial scams. The campaign, which has been",
+      "published": "Tue, 14 Apr 2026 20:00:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "The Hacker News",
@@ -135,24 +158,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
-      "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
-      "summary": "Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT. A modified version of BX RAT, JanelaRAT is known to steal financial and cryptocurrency data associated with specific financial entities, as well as track mouse inputs, log keystrokes, take screenshots, and collect system metadata. \"One of the",
-      "published": "Mon, 13 Apr 2026 22:45:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
+      "summary": "A malicious Ledger Live app for macOS available from Apple's App Store has drained approximately $9.5 million in cryptocurrency from 50 victims in just a few days this month. [...]",
+      "published": "Tue, 14 Apr 2026 12:37:01 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
-      "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit called W3LL to steal thousands of victims' account credentials and attempt more than $20 million in fraud. In tandem, authorities detained the alleged developer, who has&",
-      "published": "Mon, 13 Apr 2026 20:16:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
+      "summary": "Microsoft has rolled out a fast-track process to help developers regain access to accounts recently suspended from its Windows Hardware Program, following widespread complaints that they were locked out without warning. [...]",
+      "published": "Tue, 14 Apr 2026 11:53:50 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -218,31 +239,6 @@
       "published": "Mon, 13 Apr 2026 13:39:10 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Booking.com data breach forces reservation PIN resets",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
-      "summary": "Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]",
-      "published": "Mon, 13 Apr 2026 13:30:10 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
-      "summary": "Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December. [...]",
-      "published": "Mon, 13 Apr 2026 11:37:05 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -409,6 +405,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Adobe Patches 55 Vulnerabilities Across 11 Products",
+      "link": "https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/",
+      "summary": "Critical ColdFusion vulnerabilities are the most at risk of being exploited in attacks, according to the software giant. The post Adobe Patches 55 Vulnerabilities Across 11 Products appeared first on SecurityWeek .",
+      "published": "Tue, 14 Apr 2026 16:48:03 +0000",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats",
       "link": "https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/",
       "summary": "CISOs face a shrinking window to prepare as AI models like Mythos collapse the gap between vulnerability discovery and exploitation, driving a new era of high-velocity cyberattacks. The post ‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats appeared first on SecurityWeek .",
@@ -479,15 +487,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Booking.com Says Hackers Accessed User Information",
-      "link": "https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/",
-      "summary": "The online travel platform has not said how many customers’ booking information was exposed, but said the issue has been contained. The post Booking.com Says Hackers Accessed User Information appeared first on SecurityWeek .",
-      "published": "Mon, 13 Apr 2026 14:25:07 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

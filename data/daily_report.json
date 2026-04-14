@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-14 19:06",
+  "last_updated": "2026-04-14 20:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
+    "apple's app store",
     "memory safety bugs",
     "iran's intelligence agencies",
+    "100 chrome extensions",
     "harvest cloud credentials",
     "service ddos doxing",
     "monday added half",
     "enhance security google",
-    "apple's app store",
     "twitter whistleblower complaint",
     "malicious cyber actors",
     "low level environment",
     "anthropic's claude mythos",
     "sql injection vulnerability",
     "alibaba cloud environments",
+    "100 malicious extensions",
     "service dos condition",
     "collaboration service popular",
     "least 77 vulnerabilities",
-    "high impact vulnerabilities",
-    "dozen security flaws",
-    "unrestricted file upload"
+    "high impact vulnerabilities"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 66
-    },
-    {
-      "keyword": "memory safety bugs",
-      "mentions": 3
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 254
-    },
-    {
-      "keyword": "harvest cloud credentials",
-      "mentions": 13
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 272
-    },
-    {
-      "keyword": "monday added half",
-      "mentions": 3
-    },
-    {
-      "keyword": "enhance security google",
-      "mentions": 3
+      "mentions": 67
     },
     {
       "keyword": "apple's app store",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "memory safety bugs",
+      "mentions": 4
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 255
+    },
+    {
+      "keyword": "100 chrome extensions",
+      "mentions": 1
+    },
+    {
+      "keyword": "harvest cloud credentials",
+      "mentions": 14
+    },
+    {
+      "keyword": "service ddos doxing",
+      "mentions": 273
+    },
+    {
+      "keyword": "monday added half",
+      "mentions": 4
+    },
+    {
+      "keyword": "enhance security google",
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1338
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 433
+      "mentions": 1339
     }
   ],
   "articles": [
@@ -159,6 +159,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Over 100 Chrome extensions in Web Store target users accounts and data",
+      "link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
+      "summary": "More than 100 malicious extensions in the official Chrome Web Store are attempting to steal Google OAuth2 Bearer tokens, deploy backdoors, and carry out ad fraud. [...]",
+      "published": "Tue, 14 Apr 2026 16:33:00 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft releases Windows 10 KB5082200 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
       "summary": "Microsoft has released the Windows 10 KB5082200 extended security update to fix the April 2026 Patch Tuesday vulnerabilities, including 2 zero-days. [...]",
@@ -230,17 +239,6 @@
       "value_score": 34,
       "value_signals": [
         "Privilege escalation",
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "European Gym giant Basic-Fit data breach affects 1 million members",
-      "link": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
-      "summary": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
-      "published": "Mon, 13 Apr 2026 17:50:01 -0400",
-      "value_score": 22,
-      "value_signals": [
         "Breach/leak"
       ]
     },
@@ -325,7 +323,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Wargame Exercise Demonstrates How Social Media Manipulation Works",
+      "title": "War Game Exercise Demonstrates How Social Media Manipulation Works",
       "link": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
       "summary": "In an educational game called \"Capture the Narrative,\" students created bots to sway a fictional election, simulating influence in real-world political scenarios.",
       "published": "Tue, 14 Apr 2026 16:06:14 GMT",

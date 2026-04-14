@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-14 19:06 UTC  
+> **Last Updated:** 2026-04-14 20:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **memory safety bugs** • **iran's intelligence agencies** • **harvest cloud credentials** • **service ddos doxing** • **monday added half** • **enhance security google** • **apple's app store** • **twitter whistleblower complaint** • **malicious cyber actors** • **low level environment** • **anthropic's claude mythos** • **sql injection vulnerability** • **alibaba cloud environments** • **service dos condition** • **collaboration service popular** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **dozen security flaws** • **unrestricted file upload**
+**mitsubishi electric genesis64** • **apple's app store** • **memory safety bugs** • **iran's intelligence agencies** • **100 chrome extensions** • **harvest cloud credentials** • **service ddos doxing** • **monday added half** • **enhance security google** • **twitter whistleblower complaint** • **malicious cyber actors** • **low level environment** • **anthropic's claude mythos** • **sql injection vulnerability** • **alibaba cloud environments** • **100 malicious extensions** • **service dos condition** • **collaboration service popular** • **least 77 vulnerabilities** • **high impact vulnerabilities**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Over 100 Chrome extensions in Web Store target users accounts and data](https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/)
 - [Microsoft releases Windows 10 KB5082200 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/)
 - [McGraw-Hill confirms data breach following extortion threat](https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/)
 - [Windows 11 cumulative updates KB5083769 & KB5082052 released](https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/)
@@ -34,7 +35,6 @@
 - [Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto](https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/)
 - [Microsoft rolls out fast-track to reinstate Windows hardware dev accounts](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/)
 - [5 Ways Zero Trust Maximizes Identity Security](https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/)
-- [European Gym giant Basic-Fit data breach affects 1 million members](https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/)
 
 ### Krebs on Security
 
@@ -49,7 +49,7 @@
 
 ### Dark Reading
 
-- [Wargame Exercise Demonstrates How Social Media Manipulation Works](https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation)
+- [War Game Exercise Demonstrates How Social Media Manipulation Works](https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation)
 - [CSA: CISOs Should Prepare for Post-Mythos Exploit Storm](https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm)
 - [Adobe Patches Actively Exploited Zero-Day That Lingered for Months](https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day)
 - [Empty Attestations: OT Lacks the Tools for Cryptographic Readiness](https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness)

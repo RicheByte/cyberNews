@@ -181,7 +181,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 587,
+      "count": 588,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -262,11 +262,12 @@
         "2026-03-26",
         "2026-03-30",
         "2026-04-01",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1339,
+      "count": 1340,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -640,7 +641,7 @@
       ]
     },
     "remote code execution": {
-      "count": 215,
+      "count": 216,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -675,7 +676,8 @@
         "2026-03-30",
         "2026-04-07",
         "2026-04-08",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-14"
       ]
     },
     "attacker remotely control": {
@@ -8575,10 +8577,11 @@
       ]
     },
     "control c2 infrastructure": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-02-27",
-        "2026-02-28"
+        "2026-02-28",
+        "2026-04-14"
       ]
     },
     "control aeternum stores": {
@@ -9509,7 +9512,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10622,7 +10625,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 255,
+      "count": 256,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11080,13 +11083,14 @@
       ]
     },
     "iran war unleashing": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-03-25",
         "2026-03-27",
         "2026-03-28",
         "2026-04-06",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-14"
       ]
     },
     "classic outlook users": {
@@ -12481,7 +12485,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12764,14 +12768,14 @@
       ]
     },
     "harvest cloud credentials": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-04-13",
         "2026-04-14"
       ]
     },
     "alibaba cloud environments": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-04-13",
         "2026-04-14"
@@ -12832,7 +12836,7 @@
       ]
     },
     "dozen security flaws": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-14"
       ]
@@ -12850,19 +12854,19 @@
       ]
     },
     "low level environment": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-14"
       ]
     },
     "anthropic's claude mythos": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-14"
       ]
     },
     "enhance security google": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-14"
       ]
@@ -12874,19 +12878,19 @@
       ]
     },
     "memory safety bugs": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-14"
       ]
     },
     "apple's app store": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-14"
       ]
     },
     "sql injection vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-14"
       ]
@@ -12910,6 +12914,18 @@
       ]
     },
     "100 malicious extensions": {
+      "count": 2,
+      "dates": [
+        "2026-04-14"
+      ]
+    },
+    "privilege bugs accounted": {
+      "count": 1,
+      "dates": [
+        "2026-04-14"
+      ]
+    },
+    "withstand ddos attacks": {
       "count": 1,
       "dates": [
         "2026-04-14"
@@ -12917,17 +12933,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-05 18:36",
-      "articles": 56,
-      "top_keywords": [
-        "t mobile sets",
-        "malicious cyber actors",
-        "things iot devices",
-        "service ddos doxing",
-        "forticlient ems fortinet"
-      ]
-    },
     {
       "timestamp": "2026-04-05 20:26",
       "articles": 56,
@@ -14015,6 +14020,17 @@
         "memory safety bugs",
         "iran's intelligence agencies",
         "100 chrome extensions"
+      ]
+    },
+    {
+      "timestamp": "2026-04-14 22:40",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "apple's app store",
+        "iran's intelligence agencies",
+        "memory safety bugs",
+        "harvest cloud credentials"
       ]
     }
   ]

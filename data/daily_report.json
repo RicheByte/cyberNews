@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-14 20:47",
+  "last_updated": "2026-04-14 22:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
     "apple's app store",
-    "memory safety bugs",
     "iran's intelligence agencies",
-    "100 chrome extensions",
+    "memory safety bugs",
     "harvest cloud credentials",
-    "service ddos doxing",
-    "monday added half",
     "enhance security google",
+    "remote code execution",
     "twitter whistleblower complaint",
-    "malicious cyber actors",
     "low level environment",
+    "iran war unleashing",
+    "control c2 infrastructure",
     "anthropic's claude mythos",
-    "sql injection vulnerability",
-    "alibaba cloud environments",
     "100 malicious extensions",
-    "service dos condition",
-    "collaboration service popular",
+    "sql injection vulnerability",
+    "privilege bugs accounted",
+    "alibaba cloud environments",
+    "dozen security flaws",
     "least 77 vulnerabilities",
-    "high impact vulnerabilities"
+    "withstand ddos attacks",
+    "windows operating systems"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "apple's app store",
-      "mentions": 3
-    },
-    {
-      "keyword": "memory safety bugs",
       "mentions": 4
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 255
+      "mentions": 256
     },
     {
-      "keyword": "100 chrome extensions",
-      "mentions": 1
+      "keyword": "memory safety bugs",
+      "mentions": 5
     },
     {
       "keyword": "harvest cloud credentials",
-      "mentions": 14
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 273
-    },
-    {
-      "keyword": "monday added half",
-      "mentions": 4
+      "mentions": 15
     },
     {
       "keyword": "enhance security google",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 216
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1339
+      "mentions": 1340
+    },
+    {
+      "keyword": "low level environment",
+      "mentions": 7
+    },
+    {
+      "keyword": "iran war unleashing",
+      "mentions": 33
     }
   ],
   "articles": [
@@ -159,7 +159,29 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Over 100 Chrome extensions in Web Store target users accounts and data",
+      "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
+      "summary": "Microsoft has introduced new Windows protections to defend against phishing attacks that abuse Remote Desktop connection (.rdp) files, adding warnings and disabling risky shared resources by default. [...]",
+      "published": "Tue, 14 Apr 2026 18:23:33 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
+      "link": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
+      "summary": "The Kraken cryptocurrency exchange announced that a cybercrime group is trying to extort the company by threatening to release videos showing internal systems that host client data. [...]",
+      "published": "Tue, 14 Apr 2026 17:58:31 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Over 100 Chrome Web Store extensions steal user accounts, data",
       "link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
       "summary": "More than 100 malicious extensions in the official Chrome Web Store are attempting to steal Google OAuth2 Bearer tokens, deploy backdoors, and carry out ad fraud. [...]",
       "published": "Tue, 14 Apr 2026 16:33:00 -0400",
@@ -222,24 +244,18 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
-      "summary": "Microsoft has rolled out a fast-track process to help developers regain access to accounts recently suspended from its Windows Hardware Program, following widespread complaints that they were locked out without warning. [...]",
-      "published": "Tue, 14 Apr 2026 11:53:50 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "5 Ways Zero Trust Maximizes Identity Security",
-      "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
-      "summary": "Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral movement. [...]",
-      "published": "Tue, 14 Apr 2026 10:02:12 -0400",
-      "value_score": 34,
+      "source": "Krebs on Security",
+      "title": "Patch Tuesday, April 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chrome fixed its fourth zero-day of 2026, and an emergency update for Adobe Reader nixes an actively exploited flaw that can lead to remote code execution.",
+      "published": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "value_score": 100,
       "value_signals": [
-        "Privilege escalation",
-        "Breach/leak"
+        "Zero-day ×2",
+        "Active exploitation",
+        "RCE",
+        "Patch/update ×4",
+        "Exploit wording"
       ]
     },
     {
@@ -311,15 +327,24 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Who is the Kimwolf Botmaster “Dort”?",
-      "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
-      "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines wh",
-      "published": "Sat, 28 Feb 2026 12:01:57 +0000",
-      "value_score": 20,
+      "source": "Dark Reading",
+      "title": "Privilege Elevation Dominates Massive Microsoft Patch Update",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update",
+      "summary": "Elevation-of-privilege bugs accounted for more than half of the 165 vulnerabilities patched, with two zero-days in that mix.",
+      "published": "Tue, 14 Apr 2026 21:22:07 GMT",
+      "value_score": 26,
       "value_signals": [
-        "Botnet"
+        "Patch/update ×2"
       ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses",
+      "summary": "Stopping EDR killers, which employ bring-your-own-vulnerable-driver (BYOVD) attack techniques, is difficult, but not impossible.",
+      "published": "Tue, 14 Apr 2026 20:20:34 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -327,6 +352,15 @@
       "link": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
       "summary": "In an educational game called \"Capture the Narrative,\" students created bots to sway a fictional election, simulating influence in real-world political scenarios.",
       "published": "Tue, 14 Apr 2026 16:06:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads",
+      "link": "https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads",
+      "summary": "Security teams can't test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax filing deadlines.",
+      "published": "Mon, 13 Apr 2026 21:48:09 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -373,37 +407,6 @@
       "value_signals": [
         "Backdoor"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Hims Breach Exposes the Most Sensitive Kinds of PHI",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
-      "summary": "Threat actors breached the telehealth brand, and now they may know patients' personal health details. What could they do with that information?",
-      "published": "Fri, 10 Apr 2026 20:02:30 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Your Next Breach Will Look Like Business as Usual",
-      "link": "https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual",
-      "summary": "These are the fundamental detection model shifts cybersecurity teams need to make to keep up with the rising number of credential-based attacks.",
-      "published": "Fri, 10 Apr 2026 19:21:55 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats",
-      "link": "https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center",
-      "summary": "",
-      "published": "Fri, 10 Apr 2026 15:52:28 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-04-14 09:12",
+  "last_updated": "2026-04-14 10:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
     "recent security incident",
-    "online travel platform",
+    "low level environment",
     "iran's intelligence agencies",
-    "harvest cloud credentials",
-    "gmail brings end",
     "service ddos doxing",
+    "harvest cloud credentials",
     "dozen security flaws",
     "twitter whistleblower complaint",
+    "online travel platform",
     "bx rat janelarat",
     "arbitrary javascript code",
-    "alibaba cloud environments",
+    "anthropic's claude mythos",
     "service dos condition",
     "collaboration service popular",
-    "malicious cyber actors",
+    "alibaba cloud environments",
     "global phishing operation",
+    "malicious cyber actors",
     "email flooding attacks",
     "credential based attacks",
-    "14 739 attacks",
-    "yokogawa centum vp"
+    "14 739 attacks"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 61
+      "mentions": 62
     },
     {
       "keyword": "recent security incident",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "online travel platform",
-      "mentions": 9
+      "keyword": "low level environment",
+      "mentions": 1
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 249
-    },
-    {
-      "keyword": "harvest cloud credentials",
-      "mentions": 8
-    },
-    {
-      "keyword": "gmail brings end",
-      "mentions": 12
+      "mentions": 250
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 267
+      "mentions": 268
+    },
+    {
+      "keyword": "harvest cloud credentials",
+      "mentions": 9
     },
     {
       "keyword": "dozen security flaws",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1333
+      "mentions": 1334
+    },
+    {
+      "keyword": "online travel platform",
+      "mentions": 10
     },
     {
       "keyword": "bx rat janelarat",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
+      "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
+      "summary": "OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The primary takeaway: while raw alert volume grew by 52% year-over-year, prioritized critical risk grew by nearly 400%. The surge in AI-assisted development is creating a \"velocity gap\" where the density of high-impact vulnerabilities is scaling faster than",
+      "published": "Tue, 14 Apr 2026 15:30:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
@@ -148,15 +159,6 @@
         "Zero-day",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
-      "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
-      "summary": "The North Korean hacking group tracked as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delivery channel for a remote access trojan called RokRAT. \"The threat actor used two Facebook",
-      "published": "Mon, 13 Apr 2026 14:45:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -328,7 +330,7 @@
       "source": "Dark Reading",
       "title": "CSA: CISOs Should Prepare for Post-Mythos Exploit Storm",
       "link": "https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm",
-      "summary": "Security experts warn of an \"AI vulnerability storm\" triggered by the introduction of Anthropic's Claude Mythos in a new paper from the Cloud Security Alliance (CSA).",
+      "summary": "In a new report from the Cloud Security Alliance (CSA), experts warn of an \"AI vulnerability storm\" triggered by the introduction of Anthropic's Claude Mythos.",
       "published": "Mon, 13 Apr 2026 21:29:31 GMT",
       "value_score": 16,
       "value_signals": [
@@ -410,6 +412,35 @@
     },
     {
       "source": "Security Week",
+      "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime",
+      "link": "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/",
+      "summary": "The sprawling cybercrime operation abuses major providers to prevent takedowns and distance itself from sanctions. The post Triad Nexus Evades Sanctions to Fuel Cybercrime appeared first on SecurityWeek .",
+      "published": "Tue, 14 Apr 2026 10:53:32 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Google Adds Rust DNS Parser to Pixel Phones for Better Security",
+      "link": "https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/",
+      "summary": "The parser is meant to mitigate the entire class of memory safety bugs in the low-level environment. The post Google Adds Rust DNS Parser to Pixel Phones for Better Security appeared first on SecurityWeek .",
+      "published": "Tue, 14 Apr 2026 10:21:33 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Nightclub Giant RCI Hospitality Reports Data Breach",
+      "link": "https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/",
+      "summary": "The company said in an SEC filing that an IDOR vulnerability affecting RCI Internet Services exposed contractor data. The post Nightclub Giant RCI Hospitality Reports Data Breach appeared first on SecurityWeek .",
+      "published": "Tue, 14 Apr 2026 09:35:06 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities",
       "link": "https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/",
       "summary": "The security defects allow attackers to escalate privileges and execute arbitrary code remotely. The post Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities appeared first on SecurityWeek .",
@@ -452,33 +483,6 @@
       "link": "https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/",
       "summary": "Law enforcement in the US, UK and Canada identified more than $45 million in cryptocurrency and froze $12 million. The post International Operation Targets Multimillion-Dollar Crypto Theft Schemes appeared first on SecurityWeek .",
       "published": "Mon, 13 Apr 2026 11:34:35 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
-      "link": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
-      "summary": "Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT. The post CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads appeared first on SecurityWeek .",
-      "published": "Mon, 13 Apr 2026 10:52:57 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Fake Claude Website Distributes PlugX RAT",
-      "link": "https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/",
-      "summary": "The malware mimics the legitimate Anthropic installation, relies on DLL sideloading, and cleans up after itself. The post Fake Claude Website Distributes PlugX RAT appeared first on SecurityWeek .",
-      "published": "Mon, 13 Apr 2026 09:52:50 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users",
-      "link": "https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/",
-      "summary": "The feature allows enterprise users to compose and read end-to-end encrypted messages natively on their mobile devices. The post Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users appeared first on SecurityWeek .",
-      "published": "Mon, 13 Apr 2026 08:31:33 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 428,
+      "count": 429,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -266,7 +266,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1333,
+      "count": 1334,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -9131,7 +9131,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -10523,7 +10523,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 267,
+      "count": 268,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10622,7 +10622,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 249,
+      "count": 250,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -12288,7 +12288,7 @@
       ]
     },
     "service dos condition": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12481,7 +12481,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12745,7 +12745,7 @@
       ]
     },
     "online travel platform": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-13",
         "2026-04-14"
@@ -12764,21 +12764,21 @@
       ]
     },
     "harvest cloud credentials": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-13",
         "2026-04-14"
       ]
     },
     "alibaba cloud environments": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-13",
         "2026-04-14"
       ]
     },
     "global phishing operation": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-13",
         "2026-04-14"
@@ -12797,14 +12797,14 @@
       ]
     },
     "recent security incident": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-13",
         "2026-04-14"
       ]
     },
     "bx rat janelarat": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-13",
         "2026-04-14"
@@ -12818,32 +12818,44 @@
       ]
     },
     "14 739 attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-13",
         "2026-04-14"
       ]
     },
     "credential based attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-13",
         "2026-04-14"
       ]
     },
     "dozen security flaws": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-14"
       ]
     },
     "collaboration service popular": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-14"
       ]
     },
     "arbitrary javascript code": {
+      "count": 2,
+      "dates": [
+        "2026-04-14"
+      ]
+    },
+    "low level environment": {
+      "count": 1,
+      "dates": [
+        "2026-04-14"
+      ]
+    },
+    "anthropic's claude mythos": {
       "count": 1,
       "dates": [
         "2026-04-14"
@@ -12851,17 +12863,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-05 06:58",
-      "articles": 56,
-      "top_keywords": [
-        "t mobile sets",
-        "malicious cyber actors",
-        "service ddos doxing",
-        "forticlient ems fortinet",
-        "supply chain compromise"
-      ]
-    },
     {
       "timestamp": "2026-04-05 08:37",
       "articles": 56,
@@ -13949,6 +13950,17 @@
         "online travel platform",
         "iran's intelligence agencies",
         "harvest cloud credentials"
+      ]
+    },
+    {
+      "timestamp": "2026-04-14 10:58",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "recent security incident",
+        "low level environment",
+        "iran's intelligence agencies",
+        "service ddos doxing"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-14 09:12 UTC  
+> **Last Updated:** 2026-04-14 10:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **recent security incident** • **online travel platform** • **iran's intelligence agencies** • **harvest cloud credentials** • **gmail brings end** • **service ddos doxing** • **dozen security flaws** • **twitter whistleblower complaint** • **bx rat janelarat** • **arbitrary javascript code** • **alibaba cloud environments** • **service dos condition** • **collaboration service popular** • **malicious cyber actors** • **global phishing operation** • **email flooding attacks** • **credential based attacks** • **14 739 attacks** • **yokogawa centum vp**
+**mitsubishi electric genesis64** • **recent security incident** • **low level environment** • **iran's intelligence agencies** • **service ddos doxing** • **harvest cloud credentials** • **dozen security flaws** • **twitter whistleblower complaint** • **online travel platform** • **bx rat janelarat** • **arbitrary javascript code** • **anthropic's claude mythos** • **service dos condition** • **collaboration service popular** • **alibaba cloud environments** • **global phishing operation** • **malicious cyber actors** • **email flooding attacks** • **credential based attacks** • **14 739 attacks**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
 - [108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users](https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html)
 - [ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers](https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html)
 - [CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software](https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html)
@@ -23,7 +24,6 @@
 - [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
 - [⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More](https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html)
 - [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
-- [North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Triad Nexus Evades Sanctions to Fuel Cybercrime](https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/)
+- [Google Adds Rust DNS Parser to Pixel Phones for Better Security](https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/)
+- [Nightclub Giant RCI Hospitality Reports Data Breach](https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/)
 - [Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/)
 - [Booking.com Says Hackers Accessed User Information](https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/)
 - [BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings](https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/)
 - [OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack](https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/)
 - [International Operation Targets Multimillion-Dollar Crypto Theft Schemes](https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/)
-- [CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads](https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/)
-- [Fake Claude Website Distributes PlugX RAT](https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/)
-- [Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users](https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/)
 
 ### Threatpost
 

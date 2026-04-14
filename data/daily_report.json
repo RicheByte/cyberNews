@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-14 17:00",
+  "last_updated": "2026-04-14 19:06",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
-    "iran's intelligence agencies",
-    "service ddos doxing",
-    "harvest cloud credentials",
-    "enhance security google",
-    "monday added half",
-    "apple's app store",
-    "recent security incident",
-    "arbitrary javascript code",
-    "twitter whistleblower complaint",
     "memory safety bugs",
+    "iran's intelligence agencies",
+    "harvest cloud credentials",
+    "service ddos doxing",
+    "monday added half",
+    "enhance security google",
+    "apple's app store",
+    "twitter whistleblower complaint",
     "malicious cyber actors",
     "low level environment",
     "anthropic's claude mythos",
+    "sql injection vulnerability",
+    "alibaba cloud environments",
     "service dos condition",
     "collaboration service popular",
-    "alibaba cloud environments",
+    "least 77 vulnerabilities",
+    "high impact vulnerabilities",
     "dozen security flaws",
-    "sql injection vulnerability",
-    "yokogawa centum vp"
+    "unrestricted file upload"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 65
+      "mentions": 66
+    },
+    {
+      "keyword": "memory safety bugs",
+      "mentions": 3
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 253
-    },
-    {
-      "keyword": "service ddos doxing",
-      "mentions": 271
+      "mentions": 254
     },
     {
       "keyword": "harvest cloud credentials",
-      "mentions": 12
+      "mentions": 13
     },
     {
-      "keyword": "enhance security google",
-      "mentions": 2
+      "keyword": "service ddos doxing",
+      "mentions": 272
     },
     {
       "keyword": "monday added half",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "enhance security google",
+      "mentions": 3
     },
     {
       "keyword": "apple's app store",
-      "mentions": 1
-    },
-    {
-      "keyword": "recent security incident",
-      "mentions": 10
-    },
-    {
-      "keyword": "arbitrary javascript code",
-      "mentions": 5
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1337
+      "mentions": 1338
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 433
     }
   ],
   "articles": [
@@ -159,6 +159,52 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft releases Windows 10 KB5082200 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
+      "summary": "Microsoft has released the Windows 10 KB5082200 extended security update to fix the April 2026 Patch Tuesday vulnerabilities, including 2 zero-days. [...]",
+      "published": "Tue, 14 Apr 2026 14:09:39 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×4"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "McGraw-Hill confirms data breach following extortion threat",
+      "link": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
+      "summary": "Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]",
+      "published": "Tue, 14 Apr 2026 14:07:07 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
+      "summary": "Microsoft has released Windows 11 KB5083769 and KB5082052 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "published": "Tue, 14 Apr 2026 13:46:31 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
+      "summary": "Today is Microsoft's April 2026 Patch Tuesday with security updates for 167 flaws, including 2 zero-day vulnerabilities. [...]",
+      "published": "Tue, 14 Apr 2026 13:41:13 -0400",
+      "value_score": 51,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto",
       "link": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
       "summary": "A malicious Ledger Live app for macOS available from Apple's App Store has drained approximately $9.5 million in cryptocurrency from 50 victims in just a few days this month. [...]",
@@ -197,48 +243,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
-      "summary": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
-      "published": "Mon, 13 Apr 2026 16:08:10 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical flaw in wolfSSL library enables forged certificate use",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
-      "summary": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA) signatures. [...]",
-      "published": "Mon, 13 Apr 2026 15:56:03 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI takedown of W3LL phishing service leads to developer arrest",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
-      "summary": "The FBI Atlanta Field Office and Indonesian authorities have dismantled the \"W3LL\" global phishing platform, seizing infrastructure and arresting the alleged developer in what is described as the first coordinated enforcement action between the United States and Indonesia targeting a phishing kit developer. [...]",
-      "published": "Mon, 13 Apr 2026 14:55:50 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
-      "summary": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
-      "published": "Mon, 13 Apr 2026 13:39:10 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -321,6 +325,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Wargame Exercise Demonstrates How Social Media Manipulation Works",
+      "link": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
+      "summary": "In an educational game called \"Capture the Narrative,\" students created bots to sway a fictional election, simulating influence in real-world political scenarios.",
+      "published": "Tue, 14 Apr 2026 16:06:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "CSA: CISOs Should Prepare for Post-Mythos Exploit Storm",
       "link": "https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm",
       "summary": "In a new report from the Cloud Security Alliance (CSA), experts warn of an \"AI vulnerability storm\" triggered by the introduction of Anthropic's Claude Mythos.",
@@ -395,13 +408,17 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Orange Business Reimagines Enterprise Voice Communications With Trust and AI",
-      "link": "https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms",
-      "summary": "",
-      "published": "Fri, 10 Apr 2026 15:05:14 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities",
+      "link": "https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/",
+      "summary": "Experts say this is the second-largest Microsoft Patch Tuesday ever based on CVE count. The post Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 14 Apr 2026 18:14:37 +0000",
+      "value_score": 74,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -475,17 +492,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities",
-      "link": "https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/",
-      "summary": "The security defects allow attackers to escalate privileges and execute arbitrary code remotely. The post Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 14 Apr 2026 08:57:18 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {
@@ -570,6 +576,22 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2009-0238 Microsoft Office Remote Code Execution Vulnerability CVE-2026-32201 Microsoft SharePoint Server Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk o",
+      "published": "Tue, 14 Apr 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "RCE",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
     },
     {
       "source": "CISA Alerts",
@@ -664,20 +686,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Yokogawa CENTUM VP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to login as the PROG user and modify permissions. The following versions of Yokogawa CENTUM VP are affected: CENTUM VP >=R5.01.00| CENTUM VP >=R6.01.00| CENTUM VP vR7.01.00 (CVE-2025-7741) CVSS Vendor Equipment Vulnerabilities v3 4 Yokogawa Yokogawa CENTUM VP Use of Hard-coded Password Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Food and Agriculture Countries/Areas Deployed: Wo",
-      "published": "Thu, 02 Apr 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×2",
         "Exploit wording"
       ]
     }

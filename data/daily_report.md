@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-14 17:00 UTC  
+> **Last Updated:** 2026-04-14 19:06 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **iran's intelligence agencies** • **service ddos doxing** • **harvest cloud credentials** • **enhance security google** • **monday added half** • **apple's app store** • **recent security incident** • **arbitrary javascript code** • **twitter whistleblower complaint** • **memory safety bugs** • **malicious cyber actors** • **low level environment** • **anthropic's claude mythos** • **service dos condition** • **collaboration service popular** • **alibaba cloud environments** • **dozen security flaws** • **sql injection vulnerability** • **yokogawa centum vp**
+**mitsubishi electric genesis64** • **memory safety bugs** • **iran's intelligence agencies** • **harvest cloud credentials** • **service ddos doxing** • **monday added half** • **enhance security google** • **apple's app store** • **twitter whistleblower complaint** • **malicious cyber actors** • **low level environment** • **anthropic's claude mythos** • **sql injection vulnerability** • **alibaba cloud environments** • **service dos condition** • **collaboration service popular** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **dozen security flaws** • **unrestricted file upload**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Microsoft releases Windows 10 KB5082200 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/)
+- [McGraw-Hill confirms data breach following extortion threat](https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/)
+- [Windows 11 cumulative updates KB5083769 & KB5082052 released](https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/)
+- [Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/)
 - [Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto](https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/)
 - [Microsoft rolls out fast-track to reinstate Windows hardware dev accounts](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/)
 - [5 Ways Zero Trust Maximizes Identity Security](https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/)
 - [European Gym giant Basic-Fit data breach affects 1 million members](https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/)
-- [Stolen Rockstar Games analytics data leaked by extortion gang](https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/)
-- [Critical flaw in wolfSSL library enables forged certificate use](https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/)
-- [FBI takedown of W3LL phishing service leads to developer arrest](https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/)
-- [OpenAI rotates macOS certs after Axios attack hit code-signing workflow](https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Wargame Exercise Demonstrates How Social Media Manipulation Works](https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation)
 - [CSA: CISOs Should Prepare for Post-Mythos Exploit Storm](https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm)
 - [Adobe Patches Actively Exploited Zero-Day That Lingered for Months](https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day)
 - [Empty Attestations: OT Lacks the Tools for Cryptographic Readiness](https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness)
@@ -56,10 +57,10 @@
 - [Hims Breach Exposes the Most Sensitive Kinds of PHI](https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi)
 - [Your Next Breach Will Look Like Business as Usual](https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual)
 - [FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats](https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center)
-- [Orange Business Reimagines Enterprise Voice Communications With Trust and AI](https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms)
 
 ### Security Week
 
+- [Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/)
 - [Adobe Patches 55 Vulnerabilities Across 11 Products](https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/)
 - [‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats](https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/)
 - [Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members](https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/)
@@ -67,7 +68,6 @@
 - [Triad Nexus Evades Sanctions to Fuel Cybercrime](https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/)
 - [Google Adds Rust DNS Parser to Pixel Phones for Better Security](https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/)
 - [Nightclub Giant RCI Hospitality Reports Data Breach](https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/)
-- [Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/)
 
 ### Threatpost
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog)
 - [Contemporary Controls BASC 20T](https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01)
 - [GPL Odorizers GPL750](https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02)
@@ -89,7 +90,6 @@
 - [Mitsubishi Electric GENESIS64 and ICONICS Suite products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-097-01)
 - [Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Yokogawa CENTUM VP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02)
 
 ---
 

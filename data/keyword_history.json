@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-03-15",
     "2026-03-16",
     "2026-03-17",
     "2026-03-18",
@@ -29,7 +28,8 @@
     "2026-04-10",
     "2026-04-11",
     "2026-04-12",
-    "2026-04-13"
+    "2026-04-13",
+    "2026-04-14"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 424,
+      "count": 425,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -142,7 +142,8 @@
         "2026-04-06",
         "2026-04-08",
         "2026-04-09",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "user named csnemess": {
@@ -265,7 +266,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1329,
+      "count": 1330,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -384,7 +385,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "supposed wayward package": {
@@ -1607,7 +1609,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 283,
+      "count": 284,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1654,7 +1656,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "model agnostic abstractions": {
@@ -9128,7 +9131,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -9145,7 +9148,8 @@
         "2026-04-07",
         "2026-04-08",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "local file system": {
@@ -9505,7 +9509,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9522,7 +9526,8 @@
         "2026-04-02",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "supply chain compromise": {
@@ -10518,7 +10523,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 263,
+      "count": 264,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10544,7 +10549,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "quantum safe version": {
@@ -10616,7 +10622,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 245,
+      "count": 246,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10642,7 +10648,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "missing authentication combined": {
@@ -12280,7 +12287,7 @@
       ]
     },
     "service dos condition": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12288,7 +12295,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "cve 2025 59528": {
@@ -12472,14 +12480,15 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-04-08",
         "2026-04-09",
         "2026-04-10",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "shaky ceasefire unlikely": {
@@ -12703,9 +12712,10 @@
       ]
     },
     "serve malicious executables": {
-      "count": 8,
+      "count": 9,
       "dates": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "ongoing glassworm campaign": {
@@ -12721,9 +12731,10 @@
       ]
     },
     "gmail brings end": {
-      "count": 8,
+      "count": 9,
       "dates": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "junos os vulnerabilities": {
@@ -12733,9 +12744,10 @@
       ]
     },
     "online travel platform": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "attack surface targeted": {
@@ -12751,21 +12763,24 @@
       ]
     },
     "harvest cloud credentials": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "alibaba cloud environments": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "global phishing operation": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "obscure c2 communication": {
@@ -12781,48 +12796,42 @@
       ]
     },
     "recent security incident": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "bx rat janelarat": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "malicious axios library": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "14 739 attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "credential based attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-04 20:24",
-      "articles": 56,
-      "top_keywords": [
-        "t mobile sets",
-        "service ddos doxing",
-        "april 1 2026",
-        "supply chain compromise",
-        "zero click exploits"
-      ]
-    },
     {
       "timestamp": "2026-04-04 22:24",
       "articles": 56,
@@ -13903,6 +13912,17 @@
     },
     {
       "timestamp": "2026-04-13 22:38",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "service ddos doxing",
+        "online travel platform",
+        "iran's intelligence agencies",
+        "harvest cloud credentials"
+      ]
+    },
+    {
+      "timestamp": "2026-04-14 02:04",
       "articles": 56,
       "top_keywords": [
         "mitsubishi electric genesis64",

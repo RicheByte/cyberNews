@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14 10:58",
+  "last_updated": "2026-04-14 13:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,12 +9,12 @@
     "iran's intelligence agencies",
     "service ddos doxing",
     "harvest cloud credentials",
-    "dozen security flaws",
     "twitter whistleblower complaint",
     "online travel platform",
     "bx rat janelarat",
     "arbitrary javascript code",
     "anthropic's claude mythos",
+    "dozen security flaws",
     "service dos condition",
     "collaboration service popular",
     "alibaba cloud environments",
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 62
+      "mentions": 63
     },
     {
       "keyword": "recent security incident",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "low level environment",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 250
+      "mentions": 251
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 268
+      "mentions": 269
     },
     {
       "keyword": "harvest cloud credentials",
-      "mentions": 9
-    },
-    {
-      "keyword": "dozen security flaws",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1334
-    },
-    {
-      "keyword": "online travel platform",
       "mentions": 10
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1335
+    },
+    {
+      "keyword": "online travel platform",
+      "mentions": 11
+    },
+    {
       "keyword": "bx rat janelarat",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "arbitrary javascript code",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
+      "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
+      "summary": "A nascent Android remote access trojan called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on Meta. \"Mirax integrates advanced Remote Access Trojan (RAT) capabilities, allowing threat actors to fully interact with compromised devices in real",
+      "published": "Tue, 14 Apr 2026 15:50:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
@@ -146,18 +155,6 @@
       "value_signals": [
         "Zero-day",
         "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
-      "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
-      "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo Alto Networks' Wendi Whitmore warned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant's M-Trends",
-      "published": "Mon, 13 Apr 2026 17:11:00 +0530",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
       ]
     },
     {
@@ -412,6 +409,39 @@
     },
     {
       "source": "Security Week",
+      "title": "‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats",
+      "link": "https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/",
+      "summary": "CISOs face a shrinking window to prepare as AI models like Mythos collapse the gap between vulnerability discovery and exploitation, driving a new era of high-velocity cyberattacks. The post ‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats appeared first on SecurityWeek .",
+      "published": "Tue, 14 Apr 2026 12:53:55 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members",
+      "link": "https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/",
+      "summary": "Basic-Fit has reported that hackers have stolen names, dates of birth, and even bank account details. The post Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members appeared first on SecurityWeek .",
+      "published": "Tue, 14 Apr 2026 12:43:30 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "SAP Patches Critical ABAP Vulnerability",
+      "link": "https://www.securityweek.com/sap-patches-critical-abap-vulnerability/",
+      "summary": "The company has released 19 new security notes addressing flaws in over a dozen enterprise products. The post SAP Patches Critical ABAP Vulnerability appeared first on SecurityWeek .",
+      "published": "Tue, 14 Apr 2026 11:21:12 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime",
       "link": "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/",
       "summary": "The sprawling cybercrime operation abuses major providers to prevent takedowns and distance itself from sanctions. The post Triad Nexus Evades Sanctions to Fuel Cybercrime appeared first on SecurityWeek .",
@@ -456,33 +486,6 @@
       "link": "https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/",
       "summary": "The online travel platform has not said how many customers’ booking information was exposed, but said the issue has been contained. The post Booking.com Says Hackers Accessed User Information appeared first on SecurityWeek .",
       "published": "Mon, 13 Apr 2026 14:25:07 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings",
-      "link": "https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/",
-      "summary": "Claims that “Microsoft is running one of the largest corporate espionage operations in modern history” face scrutiny as researchers analyze LinkedIn’s browser extension probing The post BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings appeared first on SecurityWeek .",
-      "published": "Mon, 13 Apr 2026 14:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack",
-      "link": "https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/",
-      "summary": "The AI giant is taking action after determining that a macOS code signing certificate may have been compromised. The post OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack appeared first on SecurityWeek .",
-      "published": "Mon, 13 Apr 2026 12:34:06 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "International Operation Targets Multimillion-Dollar Crypto Theft Schemes",
-      "link": "https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/",
-      "summary": "Law enforcement in the US, UK and Canada identified more than $45 million in cryptocurrency and froze $12 million. The post International Operation Targets Multimillion-Dollar Crypto Theft Schemes appeared first on SecurityWeek .",
-      "published": "Mon, 13 Apr 2026 11:34:35 +0000",
       "value_score": 10,
       "value_signals": []
     },

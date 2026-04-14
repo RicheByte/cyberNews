@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-14 13:15",
+  "last_updated": "2026-04-14 15:09",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
-    "recent security incident",
-    "low level environment",
     "iran's intelligence agencies",
     "service ddos doxing",
     "harvest cloud credentials",
+    "enhance security google",
+    "arbitrary javascript code",
+    "monday added half",
+    "recent security incident",
     "twitter whistleblower complaint",
     "online travel platform",
+    "memory safety bugs",
+    "low level environment",
     "bx rat janelarat",
-    "arbitrary javascript code",
     "anthropic's claude mythos",
-    "dozen security flaws",
     "service dos condition",
     "collaboration service popular",
+    "dozen security flaws",
     "alibaba cloud environments",
     "global phishing operation",
-    "malicious cyber actors",
-    "email flooding attacks",
-    "credential based attacks",
-    "14 739 attacks"
+    "malicious cyber actors"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 63
-    },
-    {
-      "keyword": "recent security incident",
-      "mentions": 8
-    },
-    {
-      "keyword": "low level environment",
-      "mentions": 2
+      "mentions": 64
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 251
+      "mentions": 252
     },
     {
       "keyword": "service ddos doxing",
-      "mentions": 269
+      "mentions": 270
     },
     {
       "keyword": "harvest cloud credentials",
-      "mentions": 10
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1335
-    },
-    {
-      "keyword": "online travel platform",
       "mentions": 11
     },
     {
-      "keyword": "bx rat janelarat",
-      "mentions": 8
+      "keyword": "enhance security google",
+      "mentions": 1
     },
     {
       "keyword": "arbitrary javascript code",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "monday added half",
+      "mentions": 1
+    },
+    {
+      "keyword": "recent security incident",
+      "mentions": 9
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1336
+    },
+    {
+      "keyword": "online travel platform",
+      "mentions": 12
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
+      "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
+      "summary": "Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational level. \"The new Rust-based DNS parser significantly reduces our security risk by mitigating an entire class of vulnerabilities in a risky area, while also laying",
+      "published": "Tue, 14 Apr 2026 19:25:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
@@ -91,7 +100,7 @@
       "source": "The Hacker News",
       "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
       "link": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
-      "summary": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page visited. According to Socket, the extensions are published",
+      "summary": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page visited. According to Socket, the extensions (complete list",
       "published": "Tue, 14 Apr 2026 14:05:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -116,7 +125,7 @@
       "source": "The Hacker News",
       "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
       "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2026-21643 (CVSS score: 9.1) - An SQL injection vulnerability in Fortinet FortiClient EMS that could allow an unauthenticated attacker to",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2026-21643 (CVSS score: 9.1) - An SQL injection vulnerability in Fortinet FortiClient EMS that could allow an",
       "published": "Tue, 14 Apr 2026 11:09:00 +0530",
       "value_score": 74,
       "value_signals": [
@@ -146,15 +155,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
-      "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
-      "summary": "Monday is back, and the weekend’s backlog of chaos is officially hitting the fan. We are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that is finally coming to light. It is one of those mornings where the gap between a quiet shift and a full-blown incident response is basically",
-      "published": "Mon, 13 Apr 2026 18:31:00 +0530",
-      "value_score": 43,
+      "source": "BleepingComputer",
+      "title": "5 Ways Zero Trust Maximizes Identity Security",
+      "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
+      "summary": "Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral movement. [...]",
+      "published": "Tue, 14 Apr 2026 10:02:12 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Zero-day",
-        "High severity"
+        "Privilege escalation",
+        "Breach/leak"
       ]
     },
     {
@@ -234,15 +243,6 @@
         "Patch/update ×3",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The silent “Storm”: New infostealer hijacks sessions, decrypts server-side",
-      "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
-      "summary": "New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]",
-      "published": "Mon, 13 Apr 2026 10:05:15 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

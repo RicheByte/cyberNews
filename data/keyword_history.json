@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 427,
+      "count": 428,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -266,7 +266,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1332,
+      "count": 1333,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -9131,7 +9131,7 @@
       ]
     },
     "email flooding attacks": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-03-06",
         "2026-03-07",
@@ -10523,7 +10523,7 @@
       ]
     },
     "service ddos doxing": {
-      "count": 266,
+      "count": 267,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10622,7 +10622,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 248,
+      "count": 249,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11992,7 +11992,7 @@
       ]
     },
     "yokogawa centum vp": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-04-03",
         "2026-04-04",
@@ -12002,7 +12002,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ]
     },
     "zero click exploits": {
@@ -12287,7 +12288,7 @@
       ]
     },
     "service dos condition": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12480,7 +12481,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12731,7 +12732,7 @@
       ]
     },
     "gmail brings end": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-13",
         "2026-04-14"
@@ -12744,7 +12745,7 @@
       ]
     },
     "online travel platform": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-13",
         "2026-04-14"
@@ -12763,21 +12764,21 @@
       ]
     },
     "harvest cloud credentials": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-13",
         "2026-04-14"
       ]
     },
     "alibaba cloud environments": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-13",
         "2026-04-14"
       ]
     },
     "global phishing operation": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-13",
         "2026-04-14"
@@ -12796,14 +12797,14 @@
       ]
     },
     "recent security incident": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-13",
         "2026-04-14"
       ]
     },
     "bx rat janelarat": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-13",
         "2026-04-14"
@@ -12817,26 +12818,32 @@
       ]
     },
     "14 739 attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-13",
         "2026-04-14"
       ]
     },
     "credential based attacks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-13",
         "2026-04-14"
       ]
     },
     "dozen security flaws": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-14"
       ]
     },
     "collaboration service popular": {
+      "count": 2,
+      "dates": [
+        "2026-04-14"
+      ]
+    },
+    "arbitrary javascript code": {
       "count": 1,
       "dates": [
         "2026-04-14"
@@ -12844,17 +12851,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-05 05:42",
-      "articles": 56,
-      "top_keywords": [
-        "t mobile sets",
-        "malicious cyber actors",
-        "service ddos doxing",
-        "forticlient ems fortinet",
-        "supply chain compromise"
-      ]
-    },
     {
       "timestamp": "2026-04-05 06:58",
       "articles": 56,
@@ -13935,6 +13931,17 @@
     },
     {
       "timestamp": "2026-04-14 07:49",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "recent security incident",
+        "online travel platform",
+        "iran's intelligence agencies",
+        "harvest cloud credentials"
+      ]
+    },
+    {
+      "timestamp": "2026-04-14 09:12",
       "articles": 56,
       "top_keywords": [
         "mitsubishi electric genesis64",

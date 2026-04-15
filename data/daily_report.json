@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14 22:40",
+  "last_updated": "2026-04-15 02:01",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,9 +7,8 @@
     "apple's app store",
     "iran's intelligence agencies",
     "memory safety bugs",
-    "harvest cloud credentials",
-    "enhance security google",
     "remote code execution",
+    "enhance security google",
     "twitter whistleblower complaint",
     "low level environment",
     "iran war unleashing",
@@ -18,52 +17,53 @@
     "100 malicious extensions",
     "sql injection vulnerability",
     "privilege bugs accounted",
-    "alibaba cloud environments",
     "dozen security flaws",
     "least 77 vulnerabilities",
     "withstand ddos attacks",
-    "windows operating systems"
+    "windows operating systems",
+    "unrestricted file upload",
+    "stolen names dates"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 68
+      "mentions": 69
     },
     {
       "keyword": "apple's app store",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 256
+      "mentions": 257
     },
     {
       "keyword": "memory safety bugs",
-      "mentions": 5
-    },
-    {
-      "keyword": "harvest cloud credentials",
-      "mentions": 15
-    },
-    {
-      "keyword": "enhance security google",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "remote code execution",
-      "mentions": 216
+      "mentions": 217
+    },
+    {
+      "keyword": "enhance security google",
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1340
+      "mentions": 1341
     },
     {
       "keyword": "low level environment",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 33
+      "mentions": 34
+    },
+    {
+      "keyword": "control c2 infrastructure",
+      "mentions": 11
     }
   ],
   "articles": [
@@ -328,6 +328,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity",
+      "link": "https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity",
+      "summary": "The deal aims to accelerate AI adoption, train workers, and develop cybersecurity partnerships — the latest move by a hyperscaler to compete for sovereign AI and data centers.",
+      "published": "Wed, 15 Apr 2026 00:00:08 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Privilege Elevation Dominates Massive Microsoft Patch Update",
       "link": "https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update",
       "summary": "Elevation-of-privilege bugs accounted for more than half of the 165 vulnerabilities patched, with two zero-days in that mix.",
@@ -396,17 +405,6 @@
       "published": "Mon, 13 Apr 2026 19:10:55 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials",
-      "link": "https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials",
-      "summary": "The prolific China-backed threat group is targeting AWS, Google, Azure, and Alibaba cloud environments and using typosquatting to obscure C2 communication.",
-      "published": "Mon, 13 Apr 2026 15:08:12 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "Security Week",

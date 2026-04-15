@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-14 22:40 UTC  
+> **Last Updated:** 2026-04-15 02:01 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **apple's app store** • **iran's intelligence agencies** • **memory safety bugs** • **harvest cloud credentials** • **enhance security google** • **remote code execution** • **twitter whistleblower complaint** • **low level environment** • **iran war unleashing** • **control c2 infrastructure** • **anthropic's claude mythos** • **100 malicious extensions** • **sql injection vulnerability** • **privilege bugs accounted** • **alibaba cloud environments** • **dozen security flaws** • **least 77 vulnerabilities** • **withstand ddos attacks** • **windows operating systems**
+**mitsubishi electric genesis64** • **apple's app store** • **iran's intelligence agencies** • **memory safety bugs** • **remote code execution** • **enhance security google** • **twitter whistleblower complaint** • **low level environment** • **iran war unleashing** • **control c2 infrastructure** • **anthropic's claude mythos** • **100 malicious extensions** • **sql injection vulnerability** • **privilege bugs accounted** • **dozen security flaws** • **least 77 vulnerabilities** • **withstand ddos attacks** • **windows operating systems** • **unrestricted file upload** • **stolen names dates**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity](https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity)
 - [Privilege Elevation Dominates Massive Microsoft Patch Update](https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update)
 - [EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses](https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses)
 - [War Game Exercise Demonstrates How Social Media Manipulation Works](https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation)
@@ -56,7 +57,6 @@
 - [CSA: CISOs Should Prepare for Post-Mythos Exploit Storm](https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm)
 - [Adobe Patches Actively Exploited Zero-Day That Lingered for Months](https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day)
 - [Empty Attestations: OT Lacks the Tools for Cryptographic Readiness](https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness)
-- [APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials](https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials)
 
 ### Security Week
 

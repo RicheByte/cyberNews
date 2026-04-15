@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-14 22:40 UTC |
+| 🕐 Last Updated | 2026-04-15 02:01 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mitsubishi electric genesis64` • `apple's app store` • `iran's intelligence agencies` • `memory safety bugs` • `harvest cloud credentials` • `enhance security google` • `remote code execution` • `twitter whistleblower complaint` • `low level environment` • `iran war unleashing`
+`mitsubishi electric genesis64` • `apple's app store` • `iran's intelligence agencies` • `memory safety bugs` • `remote code execution` • `enhance security google` • `twitter whistleblower complaint` • `low level environment` • `iran war unleashing` • `control c2 infrastructure`
 
 ## 📄 Reports
 

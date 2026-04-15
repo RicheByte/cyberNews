@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-15 16:57 UTC  
+> **Last Updated:** 2026-04-15 19:08 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **windows server 2025** • **capsule security emerges** • **authentication bypass vulnerability** • **develop cybersecurity partnerships** • **twitter whistleblower complaint** • **time don't comply** • **iran's intelligence agencies** • **iran war unleashing** • **enables threat actors** • **least 77 vulnerabilities** • **169 vulnerabilities 157** • **165 vulnerabilities patched** • **security teams openai** • **withstand ddos attacks** • **tuesday released updates** • **rated critical three** • **servers microsoft confirmed** • **microsoft bets 10b** • **adobe fortinet microsoft**
+**mitsubishi electric genesis64** • **windows server 2025** • **capsule security emerges** • **leveraging trusted infrastructure** • **authentication bypass vulnerability** • **twitter whistleblower complaint** • **time don't comply** • **iran's intelligence agencies** • **iran war unleashing** • **enables threat actors** • **develop cybersecurity partnerships** • **least 77 vulnerabilities** • **169 vulnerabilities 157** • **165 vulnerabilities patched** • **security teams openai** • **withstand ddos attacks** • **tuesday released updates** • **rated critical three** • **disabled antivirus protections** • **servers microsoft confirmed**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails](https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html)
 - [Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover](https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html)
 - [April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More](https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html)
 - [Deterministic + Agentic AI: The Architecture Exposure Validation Requires](https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html)
@@ -23,10 +24,10 @@
 - [OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams](https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html)
 - [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
 - [Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html)
-- [AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud](https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html)
 
 ### BleepingComputer
 
+- [Signed software abused to deploy antivirus-killing scripts](https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/)
 - [Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/)
 - [CISA flags Windows Task Host vulnerability as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/)
 - [Rolling Networks: Securing the Transportation Sector](https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/)
@@ -34,7 +35,6 @@
 - [Microsoft fixes bug behind Windows Server 2025 automatic upgrades](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/)
 - [Microsoft adds Windows protections for malicious Remote Desktop files](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/)
 - [Crypto-exchange Kraken extorted by hackers after insider breach](https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/)
-- [Over 100 Chrome Web Store extensions steal user accounts, data](https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/)
 
 ### Krebs on Security
 

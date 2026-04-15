@@ -1,18 +1,19 @@
 {
-  "last_updated": "2026-04-15 16:57",
+  "last_updated": "2026-04-15 19:08",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
     "windows server 2025",
     "capsule security emerges",
+    "leveraging trusted infrastructure",
     "authentication bypass vulnerability",
-    "develop cybersecurity partnerships",
     "twitter whistleblower complaint",
     "time don't comply",
     "iran's intelligence agencies",
     "iran war unleashing",
     "enables threat actors",
+    "develop cybersecurity partnerships",
     "least 77 vulnerabilities",
     "169 vulnerabilities 157",
     "165 vulnerabilities patched",
@@ -20,53 +21,63 @@
     "withstand ddos attacks",
     "tuesday released updates",
     "rated critical three",
-    "servers microsoft confirmed",
-    "microsoft bets 10b",
-    "adobe fortinet microsoft"
+    "disabled antivirus protections",
+    "servers microsoft confirmed"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 76
+      "mentions": 77
     },
     {
       "keyword": "windows server 2025",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "capsule security emerges",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "leveraging trusted infrastructure",
+      "mentions": 1
     },
     {
       "keyword": "authentication bypass vulnerability",
-      "mentions": 11
-    },
-    {
-      "keyword": "develop cybersecurity partnerships",
-      "mentions": 6
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1348
+      "mentions": 1349
     },
     {
       "keyword": "time don't comply",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 264
+      "mentions": 265
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "enables threat actors",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
+      "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
+      "summary": "Threat actors have been observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payloads or fingerprint devices by sending automated emails. \"By leveraging trusted infrastructure, these attackers bypass traditional security filters, turning productivity tools into delivery",
+      "published": "Wed, 15 Apr 2026 22:39:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
@@ -152,15 +163,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
-      "link": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
-      "summary": "Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push deceptive news stories into Google's Discover feed and trick users into enabling persistent browser notifications that lead to scareware and financial scams. The campaign, which has been",
-      "published": "Tue, 14 Apr 2026 20:00:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Signed software abused to deploy antivirus-killing scripts",
+      "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
+      "summary": "A digitally signed adware tool has deployed payloads running with SYSTEM privileges that disabled antivirus protections on thousands of endpoints, some in the educational, utilities, government, and healthcare sectors. [...]",
+      "published": "Wed, 15 Apr 2026 13:59:30 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -238,15 +247,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 100 Chrome Web Store extensions steal user accounts, data",
-      "link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
-      "summary": "More than 100 malicious extensions in the official Chrome Web Store are attempting to steal Google OAuth2 Bearer tokens, deploy backdoors, and carry out ad fraud. [...]",
-      "published": "Tue, 14 Apr 2026 16:33:00 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

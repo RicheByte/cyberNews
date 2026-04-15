@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-15 20:41",
+  "last_updated": "2026-04-15 22:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
-    "windows server 2025",
     "capsule security emerges",
     "leveraging trusted infrastructure",
-    "authentication bypass vulnerability",
     "twitter whistleblower complaint",
     "time don't comply",
+    "sprawling phishing campaign",
     "iran's intelligence agencies",
-    "iran war unleashing",
+    "iconics suite products",
     "enables threat actors",
     "develop cybersecurity partnerships",
+    "30 wordpress plugins",
+    "authentication bypass vulnerability",
     "least 77 vulnerabilities",
     "169 vulnerabilities 157",
     "165 vulnerabilities patched",
     "security teams openai",
     "tuesday released updates",
-    "rated critical three",
-    "disabled antivirus protections",
-    "servers microsoft confirmed",
-    "microsoft bets 10b"
+    "steal authentication data",
+    "taken center stage",
+    "tackle emerging threats"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 78
-    },
-    {
-      "keyword": "windows server 2025",
-      "mentions": 6
+      "mentions": 79
     },
     {
       "keyword": "capsule security emerges",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "leveraging trusted infrastructure",
-      "mentions": 2
-    },
-    {
-      "keyword": "authentication bypass vulnerability",
-      "mentions": 13
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1350
+      "mentions": 1351
     },
     {
       "keyword": "time don't comply",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 287
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 266
+      "mentions": 267
     },
     {
-      "keyword": "iran war unleashing",
-      "mentions": 43
+      "keyword": "iconics suite products",
+      "mentions": 1
     },
     {
       "keyword": "enables threat actors",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "develop cybersecurity partnerships",
+      "mentions": 9
     }
   ],
   "articles": [
@@ -164,6 +164,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
+      "summary": "A critical vulnerability in Nginx UI with Model Context Protocol (MCP) support is now being exploited in the wild for full server takeover without authentication. [...]",
+      "published": "Wed, 15 Apr 2026 18:35:09 -0400",
+      "value_score": 97,
+      "value_signals": [
+        "Active exploitation ×3",
+        "Auth bypass",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
+      "link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
+      "summary": "A new malware family named 'AgingFly' has been identified in attacks against local governments and hospitals that steal authentication data from Chromium-based browsers and WhatsApp messenger. [...]",
+      "published": "Wed, 15 Apr 2026 17:57:17 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "WordPress plugin suite hacked to push malware to thousands of sites",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
       "summary": "More than 30 WordPress plugins in the EssentialPlugin package have been compromised with malicious code that allows unauthorized access to websites running them. [...]",
@@ -222,28 +245,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
-      "summary": "Microsoft has finally fixed a known issue that was causing systems running Windows Server 2019 and 2022 to \"unexpectedly\" upgrade to Windows Server 2025. [...]",
-      "published": "Wed, 15 Apr 2026 06:24:53 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
-      "summary": "Microsoft has introduced new Windows protections to defend against phishing attacks that abuse Remote Desktop connection (.rdp) files, adding warnings and disabling risky shared resources by default. [...]",
-      "published": "Tue, 14 Apr 2026 18:23:33 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {
@@ -331,6 +332,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Critical MCP Integration Flaw Puts NGINX at Risk",
+      "link": "https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk",
+      "summary": "Attackers can abuse the near-maximum severity flaw in nginx-ui to restart, create, modify, and delete NGINX configuration files.",
+      "published": "Wed, 15 Apr 2026 21:45:18 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Navigating the Unique Security Risks of Asia's Digital Supply Chain",
       "link": "https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain",
       "summary": "Regulatory differences, interconnected digital ecosystems, and the rise of AI have created a complex supply chain Asian organizations must wrangle.",
@@ -394,15 +406,6 @@
       "link": "https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses",
       "summary": "Stopping EDR killers, which employ bring-your-own-vulnerable-driver (BYOVD) attack techniques, is difficult, but not impossible.",
       "published": "Tue, 14 Apr 2026 20:20:34 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "War Game Exercise Demonstrates How Social Media Manipulation Works",
-      "link": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
-      "summary": "In an educational game called \"Capture the Narrative,\" students created bots to sway a fictional election, simulating influence in real-world political scenarios.",
-      "published": "Tue, 14 Apr 2026 16:06:14 GMT",
       "value_score": 10,
       "value_signals": []
     },

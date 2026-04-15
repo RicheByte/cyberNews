@@ -268,7 +268,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1350,
+      "count": 1351,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1614,7 +1614,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 286,
+      "count": 287,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1662,7 +1662,8 @@
         "2026-04-11",
         "2026-04-12",
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ]
     },
     "model agnostic abstractions": {
@@ -4449,7 +4450,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -9517,7 +9518,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10632,7 +10633,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 266,
+      "count": 267,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -12494,7 +12495,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12959,7 +12960,7 @@
       ]
     },
     "develop cybersecurity partnerships": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-15"
       ]
@@ -12983,7 +12984,7 @@
       ]
     },
     "169 vulnerabilities 157": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-15"
       ]
@@ -13007,7 +13008,7 @@
       ]
     },
     "security teams openai": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-15"
       ]
@@ -13025,7 +13026,7 @@
       ]
     },
     "165 vulnerabilities patched": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-15"
       ]
@@ -13037,13 +13038,13 @@
       ]
     },
     "capsule security emerges": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-15"
       ]
     },
     "time don't comply": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-15"
       ]
@@ -13055,7 +13056,7 @@
       ]
     },
     "enables threat actors": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-15"
       ]
@@ -13067,7 +13068,7 @@
       ]
     },
     "tuesday released updates": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-15"
       ]
@@ -13085,7 +13086,7 @@
       ]
     },
     "leveraging trusted infrastructure": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-15"
       ]
@@ -13095,20 +13096,39 @@
       "dates": [
         "2026-04-15"
       ]
+    },
+    "iconics suite products": {
+      "count": 1,
+      "dates": [
+        "2026-04-15"
+      ]
+    },
+    "30 wordpress plugins": {
+      "count": 1,
+      "dates": [
+        "2026-04-15"
+      ]
+    },
+    "steal authentication data": {
+      "count": 1,
+      "dates": [
+        "2026-04-15"
+      ]
+    },
+    "taken center stage": {
+      "count": 1,
+      "dates": [
+        "2026-04-15"
+      ]
+    },
+    "tackle emerging threats": {
+      "count": 1,
+      "dates": [
+        "2026-04-15"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-06 18:51",
-      "articles": 56,
-      "top_keywords": [
-        "threat actor behind",
-        "service ddos doxing",
-        "guardarian users targeted",
-        "supply chain attack",
-        "execute additional payloads"
-      ]
-    },
     {
       "timestamp": "2026-04-06 20:33",
       "articles": 56,
@@ -14196,6 +14216,17 @@
         "capsule security emerges",
         "leveraging trusted infrastructure",
         "authentication bypass vulnerability"
+      ]
+    },
+    {
+      "timestamp": "2026-04-15 22:36",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "capsule security emerges",
+        "leveraging trusted infrastructure",
+        "twitter whistleblower complaint",
+        "time don't comply"
       ]
     }
   ]

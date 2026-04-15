@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-15 15:01 UTC  
+> **Last Updated:** 2026-04-15 16:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **authentication bypass vulnerability** • **windows server 2025** • **capsule security emerges** • **twitter whistleblower complaint** • **time don't comply** • **killing cybersecurity products** • **iran's intelligence agencies** • **iran war unleashing** • **enables threat actors** • **develop cybersecurity partnerships** • **security teams openai** • **frontier model mythos** • **anthropic's claude mythos** • **least 77 vulnerabilities** • **169 vulnerabilities 157** • **165 vulnerabilities patched** • **withstand ddos attacks** • **rated critical three** • **users safe enabling**
+**mitsubishi electric genesis64** • **windows server 2025** • **capsule security emerges** • **authentication bypass vulnerability** • **develop cybersecurity partnerships** • **twitter whistleblower complaint** • **time don't comply** • **iran's intelligence agencies** • **iran war unleashing** • **enables threat actors** • **least 77 vulnerabilities** • **169 vulnerabilities 157** • **165 vulnerabilities patched** • **security teams openai** • **withstand ddos attacks** • **tuesday released updates** • **rated critical three** • **servers microsoft confirmed** • **microsoft bets 10b** • **adobe fortinet microsoft**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/)
 - [CISA flags Windows Task Host vulnerability as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/)
 - [Rolling Networks: Securing the Transportation Sector](https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/)
 - [Microsoft: April updates trigger BitLocker key prompts on some servers](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/)
@@ -34,7 +35,6 @@
 - [Microsoft adds Windows protections for malicious Remote Desktop files](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/)
 - [Crypto-exchange Kraken extorted by hackers after insider breach](https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/)
 - [Over 100 Chrome Web Store extensions steal user accounts, data](https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/)
-- [Microsoft releases Windows 10 KB5082200 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now](https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management)
 - [Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests](https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests)
 - [Microsoft, Salesforce Patch AI Agent Data Leak Flaws](https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws)
 - [Microsoft Bets $10B to Boost Japan's AI, Cybersecurity](https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity)
@@ -56,10 +57,10 @@
 - [EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses](https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses)
 - [War Game Exercise Demonstrates How Social Media Manipulation Works](https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation)
 - [Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads](https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads)
-- [CSA: CISOs Should Prepare for Post-Mythos Exploit Storm](https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm)
 
 ### Security Week
 
+- [Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure](https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/)
 - [Exploited Vulnerability Exposes Nginx Servers to Hacking](https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/)
 - [Capsule Security Emerges From Stealth With $7 Million in Funding](https://www.securityweek.com/capsule-security-emerges-from-stealth-with-7-million-in-funding/)
 - [‘By Design’ Flaw in MCP Could Enable Widespread AI Supply Chain Attacks](https://www.securityweek.com/by-design-flaw-in-mcp-could-enable-widespread-ai-supply-chain-attacks/)
@@ -67,7 +68,6 @@
 - [CISO Conversations: Ross McKerchar, CISO at Sophos](https://www.securityweek.com/ciso-conversations-ross-mckerchar-ciso-at-sophos/)
 - [Mirax RAT Targeting Android Users in Europe](https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/)
 - [Two Vulnerabilities Patched in Ivanti Neurons for ITSM](https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/)
-- [$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks](https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/)
 
 ### Threatpost
 

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-15 15:01",
+  "last_updated": "2026-04-15 16:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
-    "authentication bypass vulnerability",
     "windows server 2025",
     "capsule security emerges",
+    "authentication bypass vulnerability",
+    "develop cybersecurity partnerships",
     "twitter whistleblower complaint",
     "time don't comply",
-    "killing cybersecurity products",
     "iran's intelligence agencies",
     "iran war unleashing",
     "enables threat actors",
-    "develop cybersecurity partnerships",
-    "security teams openai",
-    "frontier model mythos",
-    "anthropic's claude mythos",
     "least 77 vulnerabilities",
     "169 vulnerabilities 157",
     "165 vulnerabilities patched",
+    "security teams openai",
     "withstand ddos attacks",
+    "tuesday released updates",
     "rated critical three",
-    "users safe enabling"
+    "servers microsoft confirmed",
+    "microsoft bets 10b",
+    "adobe fortinet microsoft"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 75
-    },
-    {
-      "keyword": "authentication bypass vulnerability",
-      "mentions": 10
+      "mentions": 76
     },
     {
       "keyword": "windows server 2025",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "capsule security emerges",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "authentication bypass vulnerability",
+      "mentions": 11
+    },
+    {
+      "keyword": "develop cybersecurity partnerships",
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1347
+      "mentions": 1348
     },
     {
       "keyword": "time don't comply",
-      "mentions": 1
-    },
-    {
-      "keyword": "killing cybersecurity products",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 263
+      "mentions": 264
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "enables threat actors",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -164,6 +164,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
+      "summary": "Microsoft has awarded $2.3 million to security researchers after receiving nearly 700 submissions during this year's Zero Day Quest hacking contest. [...]",
+      "published": "Wed, 15 Apr 2026 12:20:21 -0400",
+      "value_score": 60,
+      "value_signals": [
+        "Zero-day ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
       "summary": "CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges. [...]",
@@ -236,17 +247,6 @@
       "published": "Tue, 14 Apr 2026 16:33:00 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft releases Windows 10 KB5082200 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
-      "summary": "Microsoft has released the Windows 10 KB5082200 extended security update to fix the April 2026 Patch Tuesday vulnerabilities, including 2 zero-days. [...]",
-      "published": "Tue, 14 Apr 2026 14:09:39 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×4"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -333,6 +333,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now",
+      "link": "https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management",
+      "summary": "Quantum computers are coming and may impact systems in unexpected ways, and it will \"take years to be fully quantum-safe, if ever,\" cryptography expert warns.",
+      "published": "Wed, 15 Apr 2026 15:12:01 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests",
       "link": "https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests",
       "summary": "Google, Meta, and Microsoft about half the time don't comply with requests to opt out of online tracking per a California law mandate, privacy watchdog finds.",
@@ -400,15 +409,13 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "CSA: CISOs Should Prepare for Post-Mythos Exploit Storm",
-      "link": "https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm",
-      "summary": "In a new report from the Cloud Security Alliance (CSA), experts warn of an \"AI vulnerability storm\" triggered by the introduction of Anthropic's Claude Mythos.",
-      "published": "Mon, 13 Apr 2026 21:29:31 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "Security Week",
+      "title": "Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure",
+      "link": "https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/",
+      "summary": "In what was Sweden’s first public mention of the attack, the country’s minister for civil defense said it targeted a heating plant in western Sweden. The post Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure appeared first on SecurityWeek .",
+      "published": "Wed, 15 Apr 2026 16:46:48 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -476,15 +483,6 @@
       "link": "https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/",
       "summary": "The flaws could allow a remote attacker to maintain access after their account has been disabled and to access information from other user sessions. The post Two Vulnerabilities Patched in Ivanti Neurons for ITSM appeared first on SecurityWeek .",
       "published": "Wed, 15 Apr 2026 11:38:21 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks",
-      "link": "https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/",
-      "summary": "Researchers found adware capable of killing cybersecurity products and pushing more dangerous payloads to infected systems. The post $10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks appeared first on SecurityWeek .",
-      "published": "Wed, 15 Apr 2026 10:58:12 +0000",
       "value_score": 10,
       "value_signals": []
     },

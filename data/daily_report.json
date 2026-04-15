@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15 05:57",
+  "last_updated": "2026-04-15 07:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,65 +8,76 @@
     "iran's intelligence agencies",
     "memory safety bugs",
     "remote code execution",
-    "enhance security google",
+    "develop cybersecurity partnerships",
     "twitter whistleblower complaint",
     "low level environment",
     "iran war unleashing",
-    "control c2 infrastructure",
-    "anthropic's claude mythos",
+    "enhance security google",
     "100 malicious extensions",
-    "sql injection vulnerability",
     "privilege bugs accounted",
-    "dozen security flaws",
-    "least 77 vulnerabilities",
-    "withstand ddos attacks",
+    "frontier model mythos",
+    "anthropic's claude mythos",
     "windows operating systems",
+    "least 77 vulnerabilities",
+    "users safe enabling",
+    "withstand ddos attacks",
     "unrestricted file upload",
-    "stolen names dates"
+    "tax filing deadlines"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 70
+      "mentions": 71
     },
     {
       "keyword": "apple's app store",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 258
+      "mentions": 259
     },
     {
       "keyword": "memory safety bugs",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "remote code execution",
-      "mentions": 218
+      "mentions": 219
     },
     {
-      "keyword": "enhance security google",
-      "mentions": 7
+      "keyword": "develop cybersecurity partnerships",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1342
+      "mentions": 1343
     },
     {
       "keyword": "low level environment",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 35
+      "mentions": 36
     },
     {
-      "keyword": "control c2 infrastructure",
-      "mentions": 12
+      "keyword": "enhance security google",
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
+      "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
+      "summary": "OpenAI on Tuesday unveiled GPT-5.4-Cyber, a variant of its latest flagship model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic unveiled its own frontier model, Mythos. \"The progressive use of AI accelerates defenders – those responsible for keeping systems, data, and users safe – enabling them to find and fix problems",
+      "published": "Wed, 15 Apr 2026 10:00:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
@@ -141,19 +152,6 @@
         "RCE",
         "High severity",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2026-21643 (CVSS score: 9.1) - An SQL injection vulnerability in Fortinet FortiClient EMS that could allow an",
-      "published": "Tue, 14 Apr 2026 11:09:00 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×4",
         "Exploit wording"
       ]
     },
@@ -408,6 +406,17 @@
     },
     {
       "source": "Security Week",
+      "title": "ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories",
+      "link": "https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/",
+      "summary": "Siemens, Schneider Electric, Aveva, Rockwell Automation, ABB, Phoenix Contact, Mitsubishi Electric, and Moxa patched vulnerabilities. The post ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories appeared first on SecurityWeek .",
+      "published": "Wed, 15 Apr 2026 07:14:08 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities",
       "link": "https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/",
       "summary": "Experts say this is the second-largest Microsoft Patch Tuesday ever based on CVE count. The post Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities appeared first on SecurityWeek .",
@@ -481,17 +490,6 @@
       "published": "Tue, 14 Apr 2026 10:21:33 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Nightclub Giant RCI Hospitality Reports Data Breach",
-      "link": "https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/",
-      "summary": "The company said in an SEC filing that an IDOR vulnerability affecting RCI Internet Services exposed contractor data. The post Nightclub Giant RCI Hospitality Reports Data Breach appeared first on SecurityWeek .",
-      "published": "Tue, 14 Apr 2026 09:35:06 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

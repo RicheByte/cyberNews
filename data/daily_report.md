@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-15 09:13 UTC  
+> **Last Updated:** 2026-04-15 10:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **apple's app store** • **iran's intelligence agencies** • **memory safety bugs** • **remote code execution** • **develop cybersecurity partnerships** • **twitter whistleblower complaint** • **iran war unleashing** • **enhance security google** • **100 malicious extensions** • **privilege bugs accounted** • **frontier model mythos** • **anthropic's claude mythos** • **least 77 vulnerabilities** • **169 vulnerabilities 157** • **windows operating systems** • **users safe enabling** • **withstand ddos attacks** • **tax filing deadlines** • **stolen names dates**
+**mitsubishi electric genesis64** • **windows server 2025** • **iran's intelligence agencies** • **remote code execution** • **develop cybersecurity partnerships** • **twitter whistleblower complaint** • **privilege bugs accounted** • **iran war unleashing** • **foreigners calls texts** • **enhance security google** • **microsoft issues patches** • **frontier model mythos** • **anthropic's claude mythos** • **least 77 vulnerabilities** • **169 vulnerabilities 157** • **windows operating systems** • **users safe enabling** • **100 malicious extensions** • **withstand ddos attacks** • **tax filing deadlines**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft fixes bug behind Windows Server 2025 automatic upgrades](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/)
 - [Microsoft adds Windows protections for malicious Remote Desktop files](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/)
 - [Crypto-exchange Kraken extorted by hackers after insider breach](https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/)
 - [Over 100 Chrome Web Store extensions steal user accounts, data](https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/)
@@ -34,7 +35,6 @@
 - [McGraw-Hill confirms data breach following extortion threat](https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/)
 - [Windows 11 cumulative updates KB5083769 & KB5082052 released](https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/)
 - [Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/)
-- [Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto](https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections](https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/)
+- [Fortinet Patches Critical FortiSandbox Vulnerabilities](https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/)
 - [ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories](https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/)
 - [Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities](https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/)
 - [Adobe Patches 55 Vulnerabilities Across 11 Products](https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/)
 - [‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats](https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/)
 - [Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members](https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/)
 - [SAP Patches Critical ABAP Vulnerability](https://www.securityweek.com/sap-patches-critical-abap-vulnerability/)
-- [Triad Nexus Evades Sanctions to Fuel Cybercrime](https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/)
-- [Google Adds Rust DNS Parser to Pixel Phones for Better Security](https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/)
 
 ### Threatpost
 

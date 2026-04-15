@@ -181,7 +181,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 592,
+      "count": 593,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -268,7 +268,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1344,
+      "count": 1345,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -643,7 +643,7 @@
       ]
     },
     "remote code execution": {
-      "count": 220,
+      "count": 221,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -9516,7 +9516,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 128,
+      "count": 129,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10630,7 +10630,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 260,
+      "count": 261,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11089,7 +11089,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -12492,7 +12492,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12870,14 +12870,14 @@
       ]
     },
     "anthropic's claude mythos": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-14",
         "2026-04-15"
       ]
     },
     "enhance security google": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-14",
         "2026-04-15"
@@ -12930,21 +12930,21 @@
       ]
     },
     "100 malicious extensions": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-14",
         "2026-04-15"
       ]
     },
     "privilege bugs accounted": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-14",
         "2026-04-15"
       ]
     },
     "withstand ddos attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-14",
         "2026-04-15"
@@ -12957,30 +12957,48 @@
       ]
     },
     "develop cybersecurity partnerships": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-15"
       ]
     },
     "frontier model mythos": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-15"
       ]
     },
     "users safe enabling": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-15"
       ]
     },
     "tax filing deadlines": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-15"
       ]
     },
     "169 vulnerabilities 157": {
+      "count": 2,
+      "dates": [
+        "2026-04-15"
+      ]
+    },
+    "windows server 2025": {
+      "count": 1,
+      "dates": [
+        "2026-04-15"
+      ]
+    },
+    "foreigners calls texts": {
+      "count": 1,
+      "dates": [
+        "2026-04-15"
+      ]
+    },
+    "microsoft issues patches": {
       "count": 1,
       "dates": [
         "2026-04-15"
@@ -12988,17 +13006,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-06 07:26",
-      "articles": 56,
-      "top_keywords": [
-        "t mobile sets",
-        "malicious cyber actors",
-        "forticlient ems fortinet",
-        "service ddos doxing",
-        "supply chain compromise"
-      ]
-    },
     {
       "timestamp": "2026-04-06 09:03",
       "articles": 56,
@@ -14086,6 +14093,17 @@
         "iran's intelligence agencies",
         "memory safety bugs",
         "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-04-15 10:54",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "windows server 2025",
+        "iran's intelligence agencies",
+        "remote code execution",
+        "develop cybersecurity partnerships"
       ]
     }
   ]

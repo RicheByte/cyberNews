@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-15 09:13",
+  "last_updated": "2026-04-15 10:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
-    "apple's app store",
+    "windows server 2025",
     "iran's intelligence agencies",
-    "memory safety bugs",
     "remote code execution",
     "develop cybersecurity partnerships",
     "twitter whistleblower complaint",
-    "iran war unleashing",
-    "enhance security google",
-    "100 malicious extensions",
     "privilege bugs accounted",
+    "iran war unleashing",
+    "foreigners calls texts",
+    "enhance security google",
+    "microsoft issues patches",
     "frontier model mythos",
     "anthropic's claude mythos",
     "least 77 vulnerabilities",
     "169 vulnerabilities 157",
     "windows operating systems",
     "users safe enabling",
+    "100 malicious extensions",
     "withstand ddos attacks",
-    "tax filing deadlines",
-    "stolen names dates"
+    "tax filing deadlines"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 72
+      "mentions": 73
     },
     {
-      "keyword": "apple's app store",
-      "mentions": 8
+      "keyword": "windows server 2025",
+      "mentions": 1
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 260
-    },
-    {
-      "keyword": "memory safety bugs",
-      "mentions": 9
+      "mentions": 261
     },
     {
       "keyword": "remote code execution",
-      "mentions": 220
+      "mentions": 221
     },
     {
       "keyword": "develop cybersecurity partnerships",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1344
+      "mentions": 1345
+    },
+    {
+      "keyword": "privilege bugs accounted",
+      "mentions": 6
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 37
+      "mentions": 38
+    },
+    {
+      "keyword": "foreigners calls texts",
+      "mentions": 1
     },
     {
       "keyword": "enhance security google",
-      "mentions": 9
-    },
-    {
-      "keyword": "100 malicious extensions",
-      "mentions": 6
+      "mentions": 10
     }
   ],
   "articles": [
@@ -155,6 +155,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
+      "summary": "Microsoft has finally fixed a known issue that was causing systems running Windows Server 2019 and 2022 to \"unexpectedly\" upgrade to Windows Server 2025. [...]",
+      "published": "Wed, 15 Apr 2026 06:24:53 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
       "summary": "Microsoft has introduced new Windows protections to defend against phishing attacks that abuse Remote Desktop connection (.rdp) files, adding warnings and disabling risky shared resources by default. [...]",
@@ -229,15 +240,6 @@
         "Zero-day",
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
-      "summary": "A malicious Ledger Live app for macOS available from Apple's App Store has drained approximately $9.5 million in cryptocurrency from 50 victims in just a few days this month. [...]",
-      "published": "Tue, 14 Apr 2026 12:37:01 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -404,6 +406,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections",
+      "link": "https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/",
+      "summary": "Congress is set to take up the reauthorization of a divisive program that lets U.S. spy agencies pore over foreigners’ calls, texts and emails. The post Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections appeared first on SecurityWeek .",
+      "published": "Wed, 15 Apr 2026 10:25:56 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Fortinet Patches Critical FortiSandbox Vulnerabilities",
+      "link": "https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/",
+      "summary": "The flaws could allow attackers to bypass authentication or execute arbitrary code or commands via HTTP requests. The post Fortinet Patches Critical FortiSandbox Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 15 Apr 2026 09:37:24 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories",
       "link": "https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/",
       "summary": "Siemens, Schneider Electric, Aveva, Rockwell Automation, ABB, Phoenix Contact, Mitsubishi Electric, and Moxa patched vulnerabilities. The post ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories appeared first on SecurityWeek .",
@@ -470,24 +492,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime",
-      "link": "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/",
-      "summary": "The sprawling cybercrime operation abuses major providers to prevent takedowns and distance itself from sanctions. The post Triad Nexus Evades Sanctions to Fuel Cybercrime appeared first on SecurityWeek .",
-      "published": "Tue, 14 Apr 2026 10:53:32 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Adds Rust DNS Parser to Pixel Phones for Better Security",
-      "link": "https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/",
-      "summary": "The parser is meant to mitigate the entire class of memory safety bugs in the low-level environment. The post Google Adds Rust DNS Parser to Pixel Phones for Better Security appeared first on SecurityWeek .",
-      "published": "Tue, 14 Apr 2026 10:21:33 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

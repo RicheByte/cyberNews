@@ -268,7 +268,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1345,
+      "count": 1346,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -643,7 +643,7 @@
       ]
     },
     "remote code execution": {
-      "count": 221,
+      "count": 222,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -9516,7 +9516,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9627,10 +9627,11 @@
       ]
     },
     "arbitrary command execution": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-11",
-        "2026-03-12"
+        "2026-03-12",
+        "2026-04-15"
       ]
     },
     "patched security flaws": {
@@ -10630,7 +10631,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 261,
+      "count": 262,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11089,7 +11090,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -12492,7 +12493,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12870,7 +12871,7 @@
       ]
     },
     "anthropic's claude mythos": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-14",
         "2026-04-15"
@@ -12937,14 +12938,14 @@
       ]
     },
     "privilege bugs accounted": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-14",
         "2026-04-15"
       ]
     },
     "withstand ddos attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-14",
         "2026-04-15"
@@ -12957,13 +12958,13 @@
       ]
     },
     "develop cybersecurity partnerships": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-15"
       ]
     },
     "frontier model mythos": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-15"
       ]
@@ -12981,19 +12982,19 @@
       ]
     },
     "169 vulnerabilities 157": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-15"
       ]
     },
     "windows server 2025": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-15"
       ]
     },
     "foreigners calls texts": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-15"
       ]
@@ -13003,20 +13004,39 @@
       "dates": [
         "2026-04-15"
       ]
+    },
+    "security teams openai": {
+      "count": 1,
+      "dates": [
+        "2026-04-15"
+      ]
+    },
+    "kb5082052 cumulative updates": {
+      "count": 1,
+      "dates": [
+        "2026-04-15"
+      ]
+    },
+    "moxa patched vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-04-15"
+      ]
+    },
+    "165 vulnerabilities patched": {
+      "count": 1,
+      "dates": [
+        "2026-04-15"
+      ]
+    },
+    "microsoft bets 10b": {
+      "count": 1,
+      "dates": [
+        "2026-04-15"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-06 09:03",
-      "articles": 56,
-      "top_keywords": [
-        "t mobile sets",
-        "malicious cyber actors",
-        "forticlient ems fortinet",
-        "service ddos doxing",
-        "supply chain compromise"
-      ]
-    },
     {
       "timestamp": "2026-04-06 10:51",
       "articles": 56,
@@ -14104,6 +14124,17 @@
         "iran's intelligence agencies",
         "remote code execution",
         "develop cybersecurity partnerships"
+      ]
+    },
+    {
+      "timestamp": "2026-04-15 13:14",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "windows server 2025",
+        "iran's intelligence agencies",
+        "twitter whistleblower complaint",
+        "security teams openai"
       ]
     }
   ]

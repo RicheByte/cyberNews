@@ -1,72 +1,101 @@
 {
-  "last_updated": "2026-04-15 13:14",
+  "last_updated": "2026-04-15 15:01",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
+    "authentication bypass vulnerability",
     "windows server 2025",
-    "iran's intelligence agencies",
+    "capsule security emerges",
     "twitter whistleblower complaint",
-    "security teams openai",
-    "privilege bugs accounted",
+    "time don't comply",
+    "killing cybersecurity products",
+    "iran's intelligence agencies",
     "iran war unleashing",
-    "foreigners calls texts",
+    "enables threat actors",
     "develop cybersecurity partnerships",
-    "arbitrary command execution",
-    "kb5082052 cumulative updates",
+    "security teams openai",
     "frontier model mythos",
     "anthropic's claude mythos",
-    "withstand ddos attacks",
-    "remote code execution",
-    "moxa patched vulnerabilities",
     "least 77 vulnerabilities",
     "169 vulnerabilities 157",
     "165 vulnerabilities patched",
-    "microsoft bets 10b"
+    "withstand ddos attacks",
+    "rated critical three",
+    "users safe enabling"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 74
+      "mentions": 75
+    },
+    {
+      "keyword": "authentication bypass vulnerability",
+      "mentions": 10
     },
     {
       "keyword": "windows server 2025",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 262
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1346
-    },
-    {
-      "keyword": "security teams openai",
+      "keyword": "capsule security emerges",
       "mentions": 1
     },
     {
-      "keyword": "privilege bugs accounted",
-      "mentions": 7
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1347
+    },
+    {
+      "keyword": "time don't comply",
+      "mentions": 1
+    },
+    {
+      "keyword": "killing cybersecurity products",
+      "mentions": 1
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 263
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 39
+      "mentions": 40
     },
     {
-      "keyword": "foreigners calls texts",
-      "mentions": 2
-    },
-    {
-      "keyword": "develop cybersecurity partnerships",
-      "mentions": 4
-    },
-    {
-      "keyword": "arbitrary command execution",
-      "mentions": 13
+      "keyword": "enables threat actors",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
+      "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
+      "summary": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the wild. The vulnerability in question is CVE-2026-33032 (CVSS score: 9.8), an authentication bypass vulnerability that enables threat actors to seize control of the Nginx service. It has been codenamed MCPwn by Pluto Security. \"",
+      "published": "Wed, 15 Apr 2026 18:26:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "Auth bypass",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
+      "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
+      "summary": "A number of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday releases. Topping the list is an SQL injection vulnerability impacting SAP Business Planning and Consolidation and SAP Business Warehouse (CVE-2026-27681, CVSS score: 9.9) that could result in the execution of arbitrary database",
+      "published": "Wed, 15 Apr 2026 18:07:00 +0530",
+      "value_score": 60,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update ×2",
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
@@ -134,24 +163,26 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
-      "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
-      "summary": "A nascent Android remote access trojan called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on Meta. \"Mirax integrates advanced Remote Access Trojan (RAT) capabilities, allowing threat actors to fully interact with compromised devices in real",
-      "published": "Tue, 14 Apr 2026 15:50:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
+      "summary": "CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges. [...]",
+      "published": "Wed, 15 Apr 2026 10:51:05 -0400",
+      "value_score": 68,
+      "value_signals": [
+        "Privilege escalation",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
-      "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
-      "summary": "OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The primary takeaway: while raw alert volume grew by 52% year-over-year, prioritized critical risk grew by nearly 400%. The surge in AI-assisted development is creating a \"velocity gap\" where the density of high-impact vulnerabilities is scaling faster than",
-      "published": "Tue, 14 Apr 2026 15:30:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Rolling Networks: Securing the Transportation Sector",
+      "link": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
+      "summary": "Modern trucks are rolling networks packed with sensors, connectivity, and attack surfaces, creating new cyber risks. NMFTA's Cybersecurity Conference brings industry leaders together to tackle emerging threats in transportation. [...]",
+      "published": "Wed, 15 Apr 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -215,29 +246,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×4"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "McGraw-Hill confirms data breach following extortion threat",
-      "link": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
-      "summary": "Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]",
-      "published": "Tue, 14 Apr 2026 14:07:07 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
-      "summary": "Microsoft has released Windows 11 KB5083769 and KB5082052 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "published": "Tue, 14 Apr 2026 13:46:31 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -325,6 +333,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests",
+      "link": "https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests",
+      "summary": "Google, Meta, and Microsoft about half the time don't comply with requests to opt out of online tracking per a California law mandate, privacy watchdog finds.",
+      "published": "Wed, 15 Apr 2026 14:38:53 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Microsoft, Salesforce Patch AI Agent Data Leak Flaws",
       "link": "https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws",
       "summary": "Two recently fixed prompt injections in Salesforce Agentforce and Microsoft Copilot would have enabled an external attacker to leak sensitive data.",
@@ -394,16 +411,45 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Adobe Patches Actively Exploited Zero-Day That Lingered for Months",
-      "link": "https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day",
-      "summary": "An attacker has been using maliciously crafted PDF files to exploit a zero-day in Adobe Acrobat and Reader for at least four months.",
-      "published": "Mon, 13 Apr 2026 20:52:38 GMT",
-      "value_score": 91,
+      "source": "Security Week",
+      "title": "Exploited Vulnerability Exposes Nginx Servers to Hacking",
+      "link": "https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/",
+      "summary": "Hackers are exploiting CVE-2026-33032, a critical remote takeover vulnerability in the Nginx UI management tool. The post Exploited Vulnerability Exposes Nginx Servers to Hacking appeared first on SecurityWeek .",
+      "published": "Wed, 15 Apr 2026 14:45:58 +0000",
+      "value_score": 42,
       "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation",
+        "CVE mentioned",
+        "High severity",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Capsule Security Emerges From Stealth With $7 Million in Funding",
+      "link": "https://www.securityweek.com/capsule-security-emerges-from-stealth-with-7-million-in-funding/",
+      "summary": "The Israeli startup aims to secure AI agents at runtime, continuously monitoring their behavior to prevent unsafe actions. The post Capsule Security Emerges From Stealth With $7 Million in Funding appeared first on SecurityWeek .",
+      "published": "Wed, 15 Apr 2026 13:56:50 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "‘By Design’ Flaw in MCP Could Enable Widespread AI Supply Chain Attacks",
+      "link": "https://www.securityweek.com/by-design-flaw-in-mcp-could-enable-widespread-ai-supply-chain-attacks/",
+      "summary": "Researchers warn that a flaw in Anthropic’s Model Context Protocol allows unsanitized commands to execute silently, enabling full system compromise across widely used AI environments. The post ‘By Design’ Flaw in MCP Could Enable Widespread AI Supply Chain Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 15 Apr 2026 13:34:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "100 Chrome Extensions Steal User Data, Create Backdoor",
+      "link": "https://www.securityweek.com/100-chrome-extensions-steal-user-data-open-backdoor/",
+      "summary": "Published through five accounts, the extensions appear part of a coordinated campaign based on shared C&C infrastructure. The post 100 Chrome Extensions Steal User Data, Create Backdoor appeared first on SecurityWeek .",
+      "published": "Wed, 15 Apr 2026 13:24:13 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
       ]
     },
     {
@@ -441,50 +487,6 @@
       "published": "Wed, 15 Apr 2026 10:58:12 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections",
-      "link": "https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/",
-      "summary": "Congress is set to take up the reauthorization of a divisive program that lets U.S. spy agencies pore over foreigners’ calls, texts and emails. The post Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections appeared first on SecurityWeek .",
-      "published": "Wed, 15 Apr 2026 10:25:56 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Fortinet Patches Critical FortiSandbox Vulnerabilities",
-      "link": "https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/",
-      "summary": "The flaws could allow attackers to bypass authentication or execute arbitrary code or commands via HTTP requests. The post Fortinet Patches Critical FortiSandbox Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 15 Apr 2026 09:37:24 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories",
-      "link": "https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/",
-      "summary": "Siemens, Schneider Electric, Aveva, Rockwell Automation, ABB, Phoenix Contact, Mitsubishi Electric, and Moxa patched vulnerabilities. The post ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories appeared first on SecurityWeek .",
-      "published": "Wed, 15 Apr 2026 07:14:08 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities",
-      "link": "https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/",
-      "summary": "Experts say this is the second-largest Microsoft Patch Tuesday ever based on CVE count. The post Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 14 Apr 2026 18:14:37 +0000",
-      "value_score": 74,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

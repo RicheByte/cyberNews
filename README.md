@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-15 13:14 UTC |
+| 🕐 Last Updated | 2026-04-15 15:01 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mitsubishi electric genesis64` • `windows server 2025` • `iran's intelligence agencies` • `twitter whistleblower complaint` • `security teams openai` • `privilege bugs accounted` • `iran war unleashing` • `foreigners calls texts` • `develop cybersecurity partnerships` • `arbitrary command execution`
+`mitsubishi electric genesis64` • `authentication bypass vulnerability` • `windows server 2025` • `capsule security emerges` • `twitter whistleblower complaint` • `time don't comply` • `killing cybersecurity products` • `iran's intelligence agencies` • `iran war unleashing` • `enables threat actors`
 
 ## 📄 Reports
 

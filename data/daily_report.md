@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-15 19:08 UTC  
+> **Last Updated:** 2026-04-15 20:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **windows server 2025** • **capsule security emerges** • **leveraging trusted infrastructure** • **authentication bypass vulnerability** • **twitter whistleblower complaint** • **time don't comply** • **iran's intelligence agencies** • **iran war unleashing** • **enables threat actors** • **develop cybersecurity partnerships** • **least 77 vulnerabilities** • **169 vulnerabilities 157** • **165 vulnerabilities patched** • **security teams openai** • **withstand ddos attacks** • **tuesday released updates** • **rated critical three** • **disabled antivirus protections** • **servers microsoft confirmed**
+**mitsubishi electric genesis64** • **windows server 2025** • **capsule security emerges** • **leveraging trusted infrastructure** • **authentication bypass vulnerability** • **twitter whistleblower complaint** • **time don't comply** • **iran's intelligence agencies** • **iran war unleashing** • **enables threat actors** • **develop cybersecurity partnerships** • **least 77 vulnerabilities** • **169 vulnerabilities 157** • **165 vulnerabilities patched** • **security teams openai** • **tuesday released updates** • **rated critical three** • **disabled antivirus protections** • **servers microsoft confirmed** • **microsoft bets 10b**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [WordPress plugin suite hacked to push malware to thousands of sites](https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/)
 - [Signed software abused to deploy antivirus-killing scripts](https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/)
 - [Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/)
 - [CISA flags Windows Task Host vulnerability as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/)
@@ -34,7 +35,6 @@
 - [Microsoft: April updates trigger BitLocker key prompts on some servers](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/)
 - [Microsoft fixes bug behind Windows Server 2025 automatic upgrades](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/)
 - [Microsoft adds Windows protections for malicious Remote Desktop files](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/)
-- [Crypto-exchange Kraken extorted by hackers after insider breach](https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Navigating the Unique Security Risks of Asia's Digital Supply Chain](https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain)
 - [Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now](https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management)
 - [Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests](https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests)
 - [Microsoft, Salesforce Patch AI Agent Data Leak Flaws](https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws)
@@ -56,7 +57,6 @@
 - [Privilege Elevation Dominates Massive Microsoft Patch Update](https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update)
 - [EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses](https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses)
 - [War Game Exercise Demonstrates How Social Media Manipulation Works](https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation)
-- [Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads](https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads)
 
 ### Security Week
 

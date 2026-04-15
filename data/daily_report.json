@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15 19:08",
+  "last_updated": "2026-04-15 20:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -18,52 +18,52 @@
     "169 vulnerabilities 157",
     "165 vulnerabilities patched",
     "security teams openai",
-    "withstand ddos attacks",
     "tuesday released updates",
     "rated critical three",
     "disabled antivirus protections",
-    "servers microsoft confirmed"
+    "servers microsoft confirmed",
+    "microsoft bets 10b"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 77
+      "mentions": 78
     },
     {
       "keyword": "windows server 2025",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "capsule security emerges",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "leveraging trusted infrastructure",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "authentication bypass vulnerability",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1349
+      "mentions": 1350
     },
     {
       "keyword": "time don't comply",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 265
+      "mentions": 266
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "enables threat actors",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -164,6 +164,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "WordPress plugin suite hacked to push malware to thousands of sites",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
+      "summary": "More than 30 WordPress plugins in the EssentialPlugin package have been compromised with malicious code that allows unauthorized access to websites running them. [...]",
+      "published": "Wed, 15 Apr 2026 16:33:50 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Signed software abused to deploy antivirus-killing scripts",
       "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
       "summary": "A digitally signed adware tool has deployed payloads running with SYSTEM privileges that disabled antivirus protections on thousands of endpoints, some in the educational, utilities, government, and healthcare sectors. [...]",
@@ -235,17 +244,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
-      "link": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
-      "summary": "The Kraken cryptocurrency exchange announced that a cybercrime group is trying to extort the company by threatening to release videos showing internal systems that host client data. [...]",
-      "published": "Tue, 14 Apr 2026 17:58:31 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -333,6 +331,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Navigating the Unique Security Risks of Asia's Digital Supply Chain",
+      "link": "https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain",
+      "summary": "Regulatory differences, interconnected digital ecosystems, and the rise of AI have created a complex supply chain Asian organizations must wrangle.",
+      "published": "Wed, 15 Apr 2026 19:30:47 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now",
       "link": "https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management",
       "summary": "Quantum computers are coming and may impact systems in unexpected ways, and it will \"take years to be fully quantum-safe, if ever,\" cryptography expert warns.",
@@ -396,15 +403,6 @@
       "link": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
       "summary": "In an educational game called \"Capture the Narrative,\" students created bots to sway a fictional election, simulating influence in real-world political scenarios.",
       "published": "Tue, 14 Apr 2026 16:06:14 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads",
-      "link": "https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads",
-      "summary": "Security teams can't test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax filing deadlines.",
-      "published": "Mon, 13 Apr 2026 21:48:09 GMT",
       "value_score": 10,
       "value_signals": []
     },

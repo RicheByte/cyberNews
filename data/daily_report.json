@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15 07:47",
+  "last_updated": "2026-04-15 09:13",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,63 +10,77 @@
     "remote code execution",
     "develop cybersecurity partnerships",
     "twitter whistleblower complaint",
-    "low level environment",
     "iran war unleashing",
     "enhance security google",
     "100 malicious extensions",
     "privilege bugs accounted",
     "frontier model mythos",
     "anthropic's claude mythos",
-    "windows operating systems",
     "least 77 vulnerabilities",
+    "169 vulnerabilities 157",
+    "windows operating systems",
     "users safe enabling",
     "withstand ddos attacks",
-    "unrestricted file upload",
-    "tax filing deadlines"
+    "tax filing deadlines",
+    "stolen names dates"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "apple's app store",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 259
+      "mentions": 260
     },
     {
       "keyword": "memory safety bugs",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "remote code execution",
-      "mentions": 219
+      "mentions": 220
     },
     {
       "keyword": "develop cybersecurity partnerships",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1343
-    },
-    {
-      "keyword": "low level environment",
-      "mentions": 10
+      "mentions": 1344
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "enhance security google",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "100 malicious extensions",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
+      "link": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html",
+      "summary": "Microsoft on Tuesday released updates to address a record 169 security flaws across its product portfolio, including one vulnerability that has been actively exploited in the wild. Of these 169 vulnerabilities, 157 are rated Important, eight are rated Critical, three are rated Moderate, and one is rated Low in severity. Ninety-three of the flaws are",
+      "published": "Wed, 15 Apr 2026 14:10:00 +0530",
+      "value_score": 99,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
@@ -138,22 +152,6 @@
       "published": "Tue, 14 Apr 2026 14:05:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
-      "link": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
-      "summary": "A critical security vulnerability impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the wild. The vulnerability in question is CVE-2025-0520 (aka CNVD-2020-26585), which carries a CVSS score of 9.4 out of 10.0. It relates to a case of unrestricted file upload that stems from improper validation of",
-      "published": "Tue, 14 Apr 2026 11:20:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×2",
-        "RCE",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

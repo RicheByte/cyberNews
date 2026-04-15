@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-15 07:47 UTC  
+> **Last Updated:** 2026-04-15 09:13 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **apple's app store** • **iran's intelligence agencies** • **memory safety bugs** • **remote code execution** • **develop cybersecurity partnerships** • **twitter whistleblower complaint** • **low level environment** • **iran war unleashing** • **enhance security google** • **100 malicious extensions** • **privilege bugs accounted** • **frontier model mythos** • **anthropic's claude mythos** • **windows operating systems** • **least 77 vulnerabilities** • **users safe enabling** • **withstand ddos attacks** • **unrestricted file upload** • **tax filing deadlines**
+**mitsubishi electric genesis64** • **apple's app store** • **iran's intelligence agencies** • **memory safety bugs** • **remote code execution** • **develop cybersecurity partnerships** • **twitter whistleblower complaint** • **iran war unleashing** • **enhance security google** • **100 malicious extensions** • **privilege bugs accounted** • **frontier model mythos** • **anthropic's claude mythos** • **least 77 vulnerabilities** • **169 vulnerabilities 157** • **windows operating systems** • **users safe enabling** • **withstand ddos attacks** • **tax filing deadlines** • **stolen names dates**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities](https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html)
 - [OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams](https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html)
 - [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
 - [Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html)
@@ -23,7 +24,6 @@
 - [Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads](https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html)
 - [Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)](https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html)
 - [108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users](https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html)
-- [ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers](https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html)
 
 ### BleepingComputer
 

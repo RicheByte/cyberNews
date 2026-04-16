@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-16 10:57 UTC  
+> **Last Updated:** 2026-04-16 13:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **chromium based browsers** • **iran's intelligence agencies** • **capsule security emerges** • **tuesday released updates** • **deliver malware capable** • **twitter whistleblower complaint** • **time don't comply** • **sprawling phishing campaign** • **month's patch tuesday** • **leveraging trusted infrastructure** • **iconics suite products** • **enterprises breaches make** • **enables threat actors** • **disabled antivirus protections** • **develop cybersecurity partnerships** • **cve volume entries** • **30 wordpress plugins** • **authentication bypass vulnerability** • **security teams openai**
+**mitsubishi electric genesis64** • **chromium based browsers** • **iran's intelligence agencies** • **deliver malware capable** • **month's patch tuesday** • **twitter whistleblower complaint** • **time don't comply** • **released security updates** • **iconics suite products** • **enables threat actors** • **disabled antivirus protections** • **develop cybersecurity partnerships** • **30 wordpress plugins** • **windows operating systems** • **security intelligence brief** • **remote code execution** • **least 77 vulnerabilities** • **2 3 million** • **authentication bypass vulnerability** • **steal authentication data**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
+- [Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
+- [Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks](https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html)
+- [Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu](https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html)
 - [UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign](https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html)
 - [n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails](https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html)
 - [Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover](https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html)
 - [April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More](https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html)
-- [Deterministic + Agentic AI: The Architecture Exposure Validation Requires](https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html)
-- [Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities](https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html)
-- [OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams](https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html)
-- [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
 
 ### BleepingComputer
 
+- [Cisco says critical Webex Services flaw requires customer action](https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/)
 - [Data breach at edtech giant McGraw Hill affects 13.5 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/)
 - [US nationals behind DPRK IT worker 'laptop farm' sent to prison](https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/)
 - [Microsoft: April Windows Server 2025 update may fail to install](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/)
@@ -34,7 +35,6 @@
 - [New AgingFly malware used in attacks on Ukraine govt, hospitals](https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/)
 - [WordPress plugin suite hacked to push malware to thousands of sites](https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/)
 - [Signed software abused to deploy antivirus-killing scripts](https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/)
-- [Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Data Breach at Tennessee Hospital Affects 337,000](https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/)
+- [Artemis Emerges From Stealth With $70 Million in Funding](https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/)
+- [Splunk Enterprise Update Patches Code Execution Vulnerability](https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/)
+- [Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest](https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/)
 - [NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software](https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/)
 - [Cisco Patches Critical Vulnerabilities in Webex, ISE](https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/)
 - [Ransomware Hits Automotive Data Expert Autovista](https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/)
 - [Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments](https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/)
-- [Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure](https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/)
-- [Exploited Vulnerability Exposes Nginx Servers to Hacking](https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/)
-- [Capsule Security Emerges From Stealth With $7 Million in Funding](https://www.securityweek.com/capsule-security-emerges-from-stealth-with-7-million-in-funding/)
-- [‘By Design’ Flaw in MCP Could Enable Widespread AI Supply Chain Attacks](https://www.securityweek.com/by-design-flaw-in-mcp-could-enable-widespread-ai-supply-chain-attacks/)
 
 ### Threatpost
 

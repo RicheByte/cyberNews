@@ -181,7 +181,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 593,
+      "count": 594,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -264,11 +264,12 @@
         "2026-04-01",
         "2026-04-13",
         "2026-04-14",
-        "2026-04-15"
+        "2026-04-15",
+        "2026-04-16"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1356,
+      "count": 1357,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -644,7 +645,7 @@
       ]
     },
     "remote code execution": {
-      "count": 222,
+      "count": 223,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -681,7 +682,8 @@
         "2026-04-08",
         "2026-04-09",
         "2026-04-14",
-        "2026-04-15"
+        "2026-04-15",
+        "2026-04-16"
       ]
     },
     "attacker remotely control": {
@@ -3631,7 +3633,7 @@
       ]
     },
     "released security updates": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -3645,7 +3647,8 @@
         "2026-03-11",
         "2026-03-12",
         "2026-03-13",
-        "2026-03-24"
+        "2026-03-24",
+        "2026-04-16"
       ]
     },
     "auditability collide daily": {
@@ -4452,7 +4455,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -9521,7 +9524,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10637,7 +10640,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 272,
+      "count": 273,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10831,7 +10834,7 @@
       ]
     },
     "deliver malware capable": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-23",
         "2026-04-16"
@@ -12501,7 +12504,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12967,7 +12970,7 @@
       ]
     },
     "develop cybersecurity partnerships": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13056,7 +13059,7 @@
       ]
     },
     "time don't comply": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13069,7 +13072,7 @@
       ]
     },
     "enables threat actors": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13108,28 +13111,28 @@
       ]
     },
     "disabled antivirus protections": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-15",
         "2026-04-16"
       ]
     },
     "iconics suite products": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-15",
         "2026-04-16"
       ]
     },
     "30 wordpress plugins": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-15",
         "2026-04-16"
       ]
     },
     "steal authentication data": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13150,13 +13153,13 @@
       ]
     },
     "chromium based browsers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-16"
       ]
     },
     "month's patch tuesday": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-16"
       ]
@@ -13178,20 +13181,21 @@
       "dates": [
         "2026-04-16"
       ]
+    },
+    "security intelligence brief": {
+      "count": 1,
+      "dates": [
+        "2026-04-16"
+      ]
+    },
+    "2 3 million": {
+      "count": 1,
+      "dates": [
+        "2026-04-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-07 08:56",
-      "articles": 56,
-      "top_keywords": [
-        "white house seeks",
-        "deploying medusa ransomware",
-        "guardarian users targeted",
-        "execute additional payloads",
-        "threat actor appears"
-      ]
-    },
     {
       "timestamp": "2026-04-07 10:50",
       "articles": 56,
@@ -14279,6 +14283,17 @@
         "iran's intelligence agencies",
         "capsule security emerges",
         "tuesday released updates"
+      ]
+    },
+    {
+      "timestamp": "2026-04-16 13:20",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "chromium based browsers",
+        "iran's intelligence agencies",
+        "deliver malware capable",
+        "month's patch tuesday"
       ]
     }
   ]

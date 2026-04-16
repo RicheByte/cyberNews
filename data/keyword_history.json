@@ -181,7 +181,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 594,
+      "count": 595,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -269,7 +269,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1357,
+      "count": 1358,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -645,7 +645,7 @@
       ]
     },
     "remote code execution": {
-      "count": 223,
+      "count": 224,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2787,7 +2787,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 187,
+      "count": 188,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2811,7 +2811,8 @@
         "2026-03-10",
         "2026-03-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-16"
       ]
     },
     "authenticated remote attacker": {
@@ -3633,7 +3634,7 @@
       ]
     },
     "released security updates": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4455,7 +4456,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -6154,12 +6155,13 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-05",
         "2026-02-06",
         "2026-03-30",
-        "2026-03-31"
+        "2026-03-31",
+        "2026-04-16"
       ]
     },
     "arbitrary system commands": {
@@ -9524,7 +9526,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10640,7 +10642,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 273,
+      "count": 274,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10834,7 +10836,7 @@
       ]
     },
     "deliver malware capable": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-23",
         "2026-04-16"
@@ -12504,7 +12506,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -13059,7 +13061,7 @@
       ]
     },
     "time don't comply": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13072,7 +13074,7 @@
       ]
     },
     "enables threat actors": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13183,12 +13185,42 @@
       ]
     },
     "security intelligence brief": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-16"
       ]
     },
     "2 3 million": {
+      "count": 2,
+      "dates": [
+        "2026-04-16"
+      ]
+    },
+    "social engineering phase": {
+      "count": 1,
+      "dates": [
+        "2026-04-16"
+      ]
+    },
+    "openai widens access": {
+      "count": 1,
+      "dates": [
+        "2026-04-16"
+      ]
+    },
+    "threat actors continue": {
+      "count": 1,
+      "dates": [
+        "2026-04-16"
+      ]
+    },
+    "unique security risks": {
+      "count": 1,
+      "dates": [
+        "2026-04-16"
+      ]
+    },
+    "ukraine cert ua": {
       "count": 1,
       "dates": [
         "2026-04-16"
@@ -13196,17 +13228,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-07 10:50",
-      "articles": 56,
-      "top_keywords": [
-        "white house seeks",
-        "deploying medusa ransomware",
-        "guardarian users targeted",
-        "high velocity attacks",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-07 13:08",
       "articles": 56,
@@ -14294,6 +14315,17 @@
         "iran's intelligence agencies",
         "deliver malware capable",
         "month's patch tuesday"
+      ]
+    },
+    {
+      "timestamp": "2026-04-16 15:24",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "remote code execution",
+        "social engineering phase",
+        "deliver malware capable",
+        "iran's intelligence agencies"
       ]
     }
   ]

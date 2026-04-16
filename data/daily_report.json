@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-04-16 13:20",
+  "last_updated": "2026-04-16 15:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
-    "chromium based browsers",
-    "iran's intelligence agencies",
+    "remote code execution",
+    "social engineering phase",
     "deliver malware capable",
-    "month's patch tuesday",
+    "iran's intelligence agencies",
+    "windows operating systems",
+    "openai widens access",
     "twitter whistleblower complaint",
     "time don't comply",
     "released security updates",
-    "iconics suite products",
-    "enables threat actors",
-    "disabled antivirus protections",
-    "develop cybersecurity partnerships",
-    "30 wordpress plugins",
-    "windows operating systems",
-    "security intelligence brief",
-    "remote code execution",
-    "least 77 vulnerabilities",
-    "2 3 million",
+    "execute arbitrary commands",
     "authentication bypass vulnerability",
-    "steal authentication data"
+    "threat actors continue",
+    "security intelligence brief",
+    "enables threat actors",
+    "arbitrary code execution",
+    "2 3 million",
+    "least 77 vulnerabilities",
+    "unique security risks",
+    "ukraine cert ua"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 85
+      "mentions": 86
     },
     {
-      "keyword": "chromium based browsers",
-      "mentions": 4
+      "keyword": "remote code execution",
+      "mentions": 224
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 273
+      "keyword": "social engineering phase",
+      "mentions": 1
     },
     {
       "keyword": "deliver malware capable",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "month's patch tuesday",
-      "mentions": 4
+      "keyword": "iran's intelligence agencies",
+      "mentions": 274
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 595
+    },
+    {
+      "keyword": "openai widens access",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1357
+      "mentions": 1358
     },
     {
       "keyword": "time don't comply",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "released security updates",
-      "mentions": 47
-    },
-    {
-      "keyword": "iconics suite products",
-      "mentions": 7
-    },
-    {
-      "keyword": "enables threat actors",
-      "mentions": 11
+      "mentions": 48
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
+      "summary": "You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole \"crime\" part, ancient vulnerabilities somehow still ruining people's days, and enough supply chain drama to fill a season of television nobody asked for. Not all bad though. Some",
+      "published": "Thu, 16 Apr 2026 18:35:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
@@ -92,19 +103,19 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-      "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-      "summary": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency sectors. Dubbed REF6598 by Elastic Security Labs, the activity has been found to leverage",
-      "published": "Thu, 16 Apr 2026 16:32:00 +0530",
+      "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
+      "link": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html",
+      "summary": "A bank approved a Taboola pixel. That pixel quietly redirected logged-in users to a Temu tracking endpoint. This occurred without the bank’s knowledge, without user consent, and without a single security control registering a violation. Read the full technical breakdown in the Security Intelligence Brief. Download now → The \"First-Hop Bias\" Blind Spot Most&",
+      "published": "Thu, 16 Apr 2026 16:00:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "The Hacker News",
-      "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
-      "link": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html",
-      "summary": "A bank approved a Taboola pixel. That pixel quietly redirected logged-in users to a Temu tracking endpoint. This occurred without the bank’s knowledge, without user consent, and without a single security control registering a violation. Read the full technical breakdown in the Security Intelligence Brief. Download now → The \"First-Hop Bias\" Blind Spot Most&",
-      "published": "Thu, 16 Apr 2026 16:00:00 +0530",
+      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
+      "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
+      "summary": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency sectors. Dubbed REF6598 by Elastic Security Labs, the activity has been found to leverage",
+      "published": "Thu, 16 Apr 2026 15:50:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -145,17 +156,33 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
-      "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
-      "summary": "A number of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday releases. Topping the list is an SQL injection vulnerability impacting SAP Business Planning and Consolidation and SAP Business Warehouse (CVE-2026-27681, CVSS score: 9.9) that could result in the execution of arbitrary database",
-      "published": "Wed, 15 Apr 2026 18:07:00 +0530",
-      "value_score": 60,
+      "source": "BleepingComputer",
+      "title": "Google expands Gemini AI use to fight malicious ads on its platform",
+      "link": "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/",
+      "summary": "Google says it is increasingly using its Gemini AI models to detect and block harmful ads on its advertising platforms, as scammers and threat actors continue to evolve their tactics to evade detection. [...]",
+      "published": "Thu, 16 Apr 2026 11:24:14 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New ATHR vishing platform uses AI voice agents for automated attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/",
+      "summary": "A new cybercrime platform called ATHR can harvest credentials via fully automated voice phishing attacks that use both human operators and AI agents for the social engineering phase. [...]",
+      "published": "Thu, 16 Apr 2026 10:09:11 -0400",
+      "value_score": 18,
       "value_signals": [
-        "CVE mentioned",
-        "Patch/update ×2",
-        "High severity ×2"
+        "Phishing"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough.",
+      "link": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
+      "summary": "AI-powered SOC tools promise automation, but most only speed up triage instead of reducing real workload. Tines shows how real gains come from end-to-end workflows that execute actions across systems, not just summarize alerts. [...]",
+      "published": "Thu, 16 Apr 2026 10:02:12 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -213,33 +240,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
-      "link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
-      "summary": "A new malware family named 'AgingFly' has been identified in attacks against local governments and hospitals that steal authentication data from Chromium-based browsers and WhatsApp messenger. [...]",
-      "published": "Wed, 15 Apr 2026 17:57:17 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WordPress plugin suite hacked to push malware to thousands of sites",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
-      "summary": "More than 30 WordPress plugins in the EssentialPlugin package have been compromised with malicious code that allows unauthorized access to websites running them. [...]",
-      "published": "Wed, 15 Apr 2026 16:33:50 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Signed software abused to deploy antivirus-killing scripts",
-      "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
-      "summary": "A digitally signed adware tool has deployed payloads running with SYSTEM privileges that disabled antivirus protections on thousands of endpoints, some in the educational, utilities, government, and healthcare sectors. [...]",
-      "published": "Wed, 15 Apr 2026 13:59:30 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -326,6 +326,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Microsoft's Original Windows Secure Boot Certificate Is Expiring",
+      "link": "https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire",
+      "summary": "The Secure Boot refresh is one of the largest coordinated security maintenance efforts across the Windows ecosystem, Microsoft said. Update those PCs soon.",
+      "published": "Thu, 16 Apr 2026 15:16:30 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs",
       "summary": "While enterprises breaches make more headlines, smaller incidents tend to be under-reported, if at all, allowing campaigns to last longer with less disruption.",
@@ -395,15 +406,13 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Privilege Elevation Dominates Massive Microsoft Patch Update",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update",
-      "summary": "Elevation-of-privilege bugs accounted for more than half of the 165 vulnerabilities patched, with two zero-days in that mix.",
-      "published": "Tue, 14 Apr 2026 21:22:07 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
+      "source": "Security Week",
+      "title": "OpenAI Widens Access to Cybersecurity Model After Anthropic’s Mythos Reveal",
+      "link": "https://www.securityweek.com/openai-widens-access-to-cybersecurity-model-after-anthropics-mythos-reveal/",
+      "summary": "GPT‑5.4‑Cyber is a model fine-tuned for defenders, lowering boundaries for legitimate cybersecurity work. The post OpenAI Widens Access to Cybersecurity Model After Anthropic’s Mythos Reveal appeared first on SecurityWeek .",
+      "published": "Thu, 16 Apr 2026 14:27:06 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -483,15 +492,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments",
-      "link": "https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/",
-      "summary": "A researcher has disclosed the details of the AI attack method he has named ‘Comment and Control’. The post Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments appeared first on SecurityWeek .",
-      "published": "Thu, 16 Apr 2026 08:33:54 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

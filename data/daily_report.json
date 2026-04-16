@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-16 05:58",
+  "last_updated": "2026-04-16 07:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
+    "chromium based browsers",
     "capsule security emerges",
+    "tuesday released updates",
     "leveraging trusted infrastructure",
+    "deliver malware capable",
     "twitter whistleblower complaint",
     "time don't comply",
     "sprawling phishing campaign",
+    "month's patch tuesday",
     "iran's intelligence agencies",
     "iconics suite products",
+    "enterprises breaches make",
     "enables threat actors",
     "develop cybersecurity partnerships",
     "30 wordpress plugins",
     "authentication bypass vulnerability",
-    "least 77 vulnerabilities",
-    "169 vulnerabilities 157",
-    "165 vulnerabilities patched",
     "security teams openai",
-    "tuesday released updates",
-    "steal authentication data",
-    "taken center stage",
-    "tackle emerging threats"
+    "coordinated campaign based",
+    "steal authentication data"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 81
+      "mentions": 82
+    },
+    {
+      "keyword": "chromium based browsers",
+      "mentions": 1
     },
     {
       "keyword": "capsule security emerges",
+      "mentions": 8
+    },
+    {
+      "keyword": "tuesday released updates",
       "mentions": 7
     },
     {
       "keyword": "leveraging trusted infrastructure",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "deliver malware capable",
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1353
+      "mentions": 1354
     },
     {
       "keyword": "time don't comply",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 289
+      "mentions": 290
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 269
-    },
-    {
-      "keyword": "iconics suite products",
-      "mentions": 3
-    },
-    {
-      "keyword": "enables threat actors",
-      "mentions": 7
-    },
-    {
-      "keyword": "develop cybersecurity partnerships",
-      "mentions": 11
+      "keyword": "month's patch tuesday",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
+      "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
+      "summary": "The Computer Emergencies Response Team of Ukraine (CERT-UA) has disclosed details of a new campaign that has targeted governments and municipal healthcare institutions, mainly clinics and emergency hospitals, to deliver malware capable of stealing sensitive data from Chromium-based web browsers and WhatsApp. The activity, which was observed between March and April",
+      "published": "Thu, 16 Apr 2026 11:50:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
@@ -154,13 +163,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
-      "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
-      "summary": "Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational level. \"The new Rust-based DNS parser significantly reduces our security risk by mitigating an entire class of vulnerabilities in a risky area, while also laying",
-      "published": "Tue, 14 Apr 2026 20:26:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Microsoft: April Windows Server 2025 update may fail to install",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/",
+      "summary": "Microsoft is investigating an issue causing this month's KB5082063 security update to fail to install on some Windows Server 2025 systems. [...]",
+      "published": "Thu, 16 Apr 2026 03:37:44 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -235,17 +246,6 @@
       "published": "Wed, 15 Apr 2026 10:00:10 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: April updates trigger BitLocker key prompts on some servers",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
-      "summary": "Microsoft confirmed on Tuesday that some Windows Server 2025 devices will boot into BitLocker recovery after installing the April 2026 KB5082063 Windows security update. [...]",
-      "published": "Wed, 15 Apr 2026 07:41:35 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -332,6 +332,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs",
+      "summary": "While enterprises breaches make more headlines, smaller incidents tend to be under-reported, if at all, allowing campaigns to last longer with less disruption.",
+      "published": "Thu, 16 Apr 2026 06:00:00 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Critical MCP Integration Flaw Puts NGINX at Risk",
       "link": "https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk",
       "summary": "Attackers can abuse the near-maximum severity flaw in nginx-ui to restart, create, modify, and delete NGINX configuration files.",
@@ -399,15 +410,6 @@
       "value_signals": [
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses",
-      "summary": "Stopping EDR killers, which employ bring-your-own-vulnerable-driver (BYOVD) attack techniques, is difficult, but not impossible.",
-      "published": "Tue, 14 Apr 2026 20:20:34 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

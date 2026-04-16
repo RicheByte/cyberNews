@@ -268,7 +268,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1355,
+      "count": 1356,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1615,7 +1615,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 291,
+      "count": 292,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -4452,7 +4452,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -10637,7 +10637,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 271,
+      "count": 272,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10831,7 +10831,7 @@
       ]
     },
     "deliver malware capable": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-23",
         "2026-04-16"
@@ -12501,7 +12501,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -12967,7 +12967,7 @@
       ]
     },
     "develop cybersecurity partnerships": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13017,7 +13017,7 @@
       ]
     },
     "security teams openai": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13049,14 +13049,14 @@
       ]
     },
     "capsule security emerges": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-15",
         "2026-04-16"
       ]
     },
     "time don't comply": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13069,7 +13069,7 @@
       ]
     },
     "enables threat actors": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13082,7 +13082,7 @@
       ]
     },
     "tuesday released updates": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13101,28 +13101,28 @@
       ]
     },
     "leveraging trusted infrastructure": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-15",
         "2026-04-16"
       ]
     },
     "disabled antivirus protections": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-15",
         "2026-04-16"
       ]
     },
     "iconics suite products": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-15",
         "2026-04-16"
       ]
     },
     "30 wordpress plugins": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13150,19 +13150,19 @@
       ]
     },
     "chromium based browsers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-16"
       ]
     },
     "month's patch tuesday": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-16"
       ]
     },
     "enterprises breaches make": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-16"
       ]
@@ -13172,20 +13172,15 @@
       "dates": [
         "2026-04-16"
       ]
+    },
+    "cve volume entries": {
+      "count": 1,
+      "dates": [
+        "2026-04-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-07 07:08",
-      "articles": 56,
-      "top_keywords": [
-        "guardarian users targeted",
-        "execute additional payloads",
-        "threat actor appears",
-        "remote code execution",
-        "supply chain attack"
-      ]
-    },
     {
       "timestamp": "2026-04-07 08:56",
       "articles": 56,
@@ -14273,6 +14268,17 @@
         "capsule security emerges",
         "tuesday released updates",
         "leveraging trusted infrastructure"
+      ]
+    },
+    {
+      "timestamp": "2026-04-16 10:57",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "chromium based browsers",
+        "iran's intelligence agencies",
+        "capsule security emerges",
+        "tuesday released updates"
       ]
     }
   ]

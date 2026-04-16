@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-16 09:13 UTC  
+> **Last Updated:** 2026-04-16 10:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **chromium based browsers** • **capsule security emerges** • **tuesday released updates** • **leveraging trusted infrastructure** • **deliver malware capable** • **twitter whistleblower complaint** • **time don't comply** • **sprawling phishing campaign** • **month's patch tuesday** • **iran's intelligence agencies** • **iconics suite products** • **enterprises breaches make** • **enables threat actors** • **disabled antivirus protections** • **develop cybersecurity partnerships** • **30 wordpress plugins** • **authentication bypass vulnerability** • **security teams openai** • **coordinated campaign based**
+**mitsubishi electric genesis64** • **chromium based browsers** • **iran's intelligence agencies** • **capsule security emerges** • **tuesday released updates** • **deliver malware capable** • **twitter whistleblower complaint** • **time don't comply** • **sprawling phishing campaign** • **month's patch tuesday** • **leveraging trusted infrastructure** • **iconics suite products** • **enterprises breaches make** • **enables threat actors** • **disabled antivirus protections** • **develop cybersecurity partnerships** • **cve volume entries** • **30 wordpress plugins** • **authentication bypass vulnerability** • **security teams openai**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Data breach at edtech giant McGraw Hill affects 13.5 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/)
 - [US nationals behind DPRK IT worker 'laptop farm' sent to prison](https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/)
 - [Microsoft: April Windows Server 2025 update may fail to install](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/)
 - [Critical Nginx UI auth bypass flaw now actively exploited in the wild](https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/)
@@ -34,7 +35,6 @@
 - [WordPress plugin suite hacked to push malware to thousands of sites](https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/)
 - [Signed software abused to deploy antivirus-killing scripts](https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/)
 - [Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/)
-- [CISA flags Windows Task Host vulnerability as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software](https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/)
+- [Cisco Patches Critical Vulnerabilities in Webex, ISE](https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/)
+- [Ransomware Hits Automotive Data Expert Autovista](https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/)
 - [Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments](https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/)
 - [Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure](https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/)
 - [Exploited Vulnerability Exposes Nginx Servers to Hacking](https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/)
 - [Capsule Security Emerges From Stealth With $7 Million in Funding](https://www.securityweek.com/capsule-security-emerges-from-stealth-with-7-million-in-funding/)
 - [‘By Design’ Flaw in MCP Could Enable Widespread AI Supply Chain Attacks](https://www.securityweek.com/by-design-flaw-in-mcp-could-enable-widespread-ai-supply-chain-attacks/)
-- [100 Chrome Extensions Steal User Data, Create Backdoor](https://www.securityweek.com/100-chrome-extensions-steal-user-data-open-backdoor/)
-- [CISO Conversations: Ross McKerchar, CISO at Sophos](https://www.securityweek.com/ciso-conversations-ross-mckerchar-ciso-at-sophos/)
-- [Mirax RAT Targeting Android Users in Europe](https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/)
 
 ### Threatpost
 

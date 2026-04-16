@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-16 09:13",
+  "last_updated": "2026-04-16 10:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mitsubishi electric genesis64",
     "chromium based browsers",
+    "iran's intelligence agencies",
     "capsule security emerges",
     "tuesday released updates",
-    "leveraging trusted infrastructure",
     "deliver malware capable",
     "twitter whistleblower complaint",
     "time don't comply",
     "sprawling phishing campaign",
     "month's patch tuesday",
-    "iran's intelligence agencies",
+    "leveraging trusted infrastructure",
     "iconics suite products",
     "enterprises breaches make",
     "enables threat actors",
     "disabled antivirus protections",
     "develop cybersecurity partnerships",
+    "cve volume entries",
     "30 wordpress plugins",
     "authentication bypass vulnerability",
-    "security teams openai",
-    "coordinated campaign based"
+    "security teams openai"
   ],
   "trending": [
     {
       "keyword": "mitsubishi electric genesis64",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "chromium based browsers",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 272
     },
     {
       "keyword": "capsule security emerges",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "tuesday released updates",
-      "mentions": 8
-    },
-    {
-      "keyword": "leveraging trusted infrastructure",
-      "mentions": 7
-    },
-    {
-      "keyword": "deliver malware capable",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1355
-    },
-    {
-      "keyword": "time don't comply",
       "mentions": 9
     },
     {
+      "keyword": "deliver malware capable",
+      "mentions": 6
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1356
+    },
+    {
+      "keyword": "time don't comply",
+      "mentions": 10
+    },
+    {
       "keyword": "sprawling phishing campaign",
-      "mentions": 291
+      "mentions": 292
     },
     {
       "keyword": "month's patch tuesday",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -164,6 +164,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
+      "summary": "The ShinyHunters extortion group has leaked data from 13.5 million McGraw Hill user accounts, stolen after breaching the company's Salesforce environment earlier this month. [...]",
+      "published": "Thu, 16 Apr 2026 06:35:09 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "US nationals behind DPRK IT worker 'laptop farm' sent to prison",
       "link": "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/",
       "summary": "Two U.S. nationals have been sent to prison for helping North Korean remote information technology (IT) workers to pose as U.S. residents and get hired by over 100 companies across the country, including many Fortune 500 firms. [...]",
@@ -232,19 +243,6 @@
       "value_score": 60,
       "value_signals": [
         "Zero-day ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
-      "summary": "CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges. [...]",
-      "published": "Wed, 15 Apr 2026 10:51:05 -0400",
-      "value_score": 68,
-      "value_signals": [
-        "Privilege escalation",
-        "CISA/KEV ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -413,6 +411,41 @@
     },
     {
       "source": "Security Week",
+      "title": "NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software",
+      "link": "https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/",
+      "summary": "To optimize management of CVE volume, entries that do not meet specific criteria will not be automatically enriched. The post NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software appeared first on SecurityWeek .",
+      "published": "Thu, 16 Apr 2026 10:47:14 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "CISA/KEV ×4",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Patches Critical Vulnerabilities in Webex, ISE",
+      "link": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/",
+      "summary": "The flaws can be exploited remotely to impersonate users or execute arbitrary commands on the underlying OS. The post Cisco Patches Critical Vulnerabilities in Webex, ISE appeared first on SecurityWeek .",
+      "published": "Thu, 16 Apr 2026 10:04:31 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Ransomware Hits Automotive Data Expert Autovista",
+      "link": "https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/",
+      "summary": "The automotive analysis and data company is working with external experts to investigate the attack. The post Ransomware Hits Automotive Data Expert Autovista appeared first on SecurityWeek .",
+      "published": "Thu, 16 Apr 2026 09:30:16 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments",
       "link": "https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/",
       "summary": "A researcher has disclosed the details of the AI attack method he has named ‘Comment and Control’. The post Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments appeared first on SecurityWeek .",
@@ -457,35 +490,6 @@
       "link": "https://www.securityweek.com/by-design-flaw-in-mcp-could-enable-widespread-ai-supply-chain-attacks/",
       "summary": "Researchers warn that a flaw in Anthropic’s Model Context Protocol allows unsanitized commands to execute silently, enabling full system compromise across widely used AI environments. The post ‘By Design’ Flaw in MCP Could Enable Widespread AI Supply Chain Attacks appeared first on SecurityWeek .",
       "published": "Wed, 15 Apr 2026 13:34:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "100 Chrome Extensions Steal User Data, Create Backdoor",
-      "link": "https://www.securityweek.com/100-chrome-extensions-steal-user-data-open-backdoor/",
-      "summary": "Published through five accounts, the extensions appear part of a coordinated campaign based on shared C&C infrastructure. The post 100 Chrome Extensions Steal User Data, Create Backdoor appeared first on SecurityWeek .",
-      "published": "Wed, 15 Apr 2026 13:24:13 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CISO Conversations: Ross McKerchar, CISO at Sophos",
-      "link": "https://www.securityweek.com/ciso-conversations-ross-mckerchar-ciso-at-sophos/",
-      "summary": "Sophos’ Ross McKerchar discusses leadership at scale, retaining talent, defending against AI-enabled threats, and the industry’s growing trust problem. The post CISO Conversations: Ross McKerchar, CISO at Sophos appeared first on SecurityWeek .",
-      "published": "Wed, 15 Apr 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Mirax RAT Targeting Android Users in Europe",
-      "link": "https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/",
-      "summary": "Offered as a MaaS to a small number of affiliates, mainly Russian speakers, the RAT can turn devices into residential proxy nodes. The post Mirax RAT Targeting Android Users in Europe appeared first on SecurityWeek .",
-      "published": "Wed, 15 Apr 2026 12:10:08 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-16 09:13 UTC |
+| 🕐 Last Updated | 2026-04-16 10:57 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mitsubishi electric genesis64` • `chromium based browsers` • `capsule security emerges` • `tuesday released updates` • `leveraging trusted infrastructure` • `deliver malware capable` • `twitter whistleblower complaint` • `time don't comply` • `sprawling phishing campaign` • `month's patch tuesday`
+`mitsubishi electric genesis64` • `chromium based browsers` • `iran's intelligence agencies` • `capsule security emerges` • `tuesday released updates` • `deliver malware capable` • `twitter whistleblower complaint` • `time don't comply` • `sprawling phishing campaign` • `month's patch tuesday`
 
 ## 📄 Reports
 

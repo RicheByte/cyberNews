@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16 19:05",
+  "last_updated": "2026-04-16 20:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,62 +8,62 @@
     "social engineering phase",
     "iran's intelligence agencies",
     "deliver malware capable",
-    "released security updates",
     "openai widens access",
-    "security intelligence brief",
-    "windows operating systems",
     "twitter whistleblower complaint",
-    "time don't comply",
-    "least december 2025",
+    "security intelligence brief",
+    "released security updates",
     "full technical breakdown",
+    "phony zoom updates",
     "execute arbitrary commands",
     "execute arbitrary code",
     "arbitrary code execution",
     "nkabuse malware hosted",
     "least 77 vulnerabilities",
     "2 3 million",
-    "unique security risks"
+    "unique security risks",
+    "elastic security labs",
+    "actively exploited flaw"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 226
+      "mentions": 227
     },
     {
       "keyword": "threat actors continue",
-      "mentions": 3
-    },
-    {
-      "keyword": "social engineering phase",
-      "mentions": 3
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 276
-    },
-    {
-      "keyword": "deliver malware capable",
-      "mentions": 10
-    },
-    {
-      "keyword": "released security updates",
-      "mentions": 50
-    },
-    {
-      "keyword": "openai widens access",
-      "mentions": 3
-    },
-    {
-      "keyword": "security intelligence brief",
       "mentions": 4
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 597
+      "keyword": "social engineering phase",
+      "mentions": 4
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 277
+    },
+    {
+      "keyword": "deliver malware capable",
+      "mentions": 11
+    },
+    {
+      "keyword": "openai widens access",
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1360
+      "mentions": 1361
+    },
+    {
+      "keyword": "security intelligence brief",
+      "mentions": 5
+    },
+    {
+      "keyword": "released security updates",
+      "mentions": 51
+    },
+    {
+      "keyword": "full technical breakdown",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -152,6 +152,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
+      "summary": "A researcher known as \"Chaotic Eclipse\" has published a proof-of-concept exploit for a second Microsoft Defender zero-day, dubbed \"RedSun,\" in the past two weeks, protesting how the company works with cybersecurity researchers. [...]",
+      "published": "Thu, 16 Apr 2026 16:19:31 -0400",
+      "value_score": 76,
+      "value_signals": [
+        "Zero-day ×2",
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
       "summary": "Hackers are exploiting a critical vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face Spaces. [...]",
@@ -222,17 +235,6 @@
       "published": "Thu, 16 Apr 2026 04:32:13 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: April Windows Server 2025 update may fail to install",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/",
-      "summary": "Microsoft is investigating an issue causing this month's KB5082063 security update to fail to install on some Windows Server 2025 systems. [...]",
-      "published": "Thu, 16 Apr 2026 03:37:44 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -319,6 +321,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "North Korea Uses ClickFix to Target macOS Users' Data",
+      "link": "https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data",
+      "summary": "Sapphire Sleet uses fake job offers and phony Zoom updates to deliver ClickFix attacks that steal credentials and sensitive data from Macs.",
+      "published": "Thu, 16 Apr 2026 19:42:45 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'Harmless' Global Adware Transforms Into an AV Killer",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer",
+      "summary": "A benign looking update Dragon Boss pushed out in March 2025 established persistence via scheduled tasks and arranged for future payloads to be excluded from Windows Defender.",
+      "published": "Thu, 16 Apr 2026 19:07:26 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Two-Factor Authentication Breaks Free from the Desktop",
       "link": "https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop",
       "summary": "Threat actors know how to bypass security systems outside of traditional IT environments. Implementing 2FA could provide a needed extra security barrier in the physical world.",
@@ -376,27 +398,6 @@
       "published": "Wed, 15 Apr 2026 15:12:01 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests",
-      "link": "https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests",
-      "summary": "Google, Meta, and Microsoft about half the time don't comply with requests to opt out of online tracking per a California law mandate, privacy watchdog finds.",
-      "published": "Wed, 15 Apr 2026 14:38:53 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Microsoft, Salesforce Patch AI Agent Data Leak Flaws",
-      "link": "https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws",
-      "summary": "Two recently fixed prompt injections in Salesforce Agentforce and Microsoft Copilot would have enabled an external attacker to leak sensitive data.",
-      "published": "Wed, 15 Apr 2026 12:00:00 GMT",
-      "value_score": 50,
-      "value_signals": [
-        "Patch/update ×2",
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Security Week",

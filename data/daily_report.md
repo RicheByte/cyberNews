@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-16 15:24 UTC  
+> **Last Updated:** 2026-04-16 17:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **remote code execution** • **social engineering phase** • **deliver malware capable** • **iran's intelligence agencies** • **windows operating systems** • **openai widens access** • **twitter whistleblower complaint** • **time don't comply** • **released security updates** • **execute arbitrary commands** • **authentication bypass vulnerability** • **threat actors continue** • **security intelligence brief** • **enables threat actors** • **arbitrary code execution** • **2 3 million** • **least 77 vulnerabilities** • **unique security risks** • **ukraine cert ua**
+**mitsubishi electric genesis64** • **remote code execution** • **social engineering phase** • **authentication bypass vulnerability** • **windows operating systems** • **iran's intelligence agencies** • **threat actors continue** • **enables threat actors** • **deliver malware capable** • **actively exploited flaw** • **released security updates** • **openai widens access** • **twitter whistleblower complaint** • **time don't comply** • **execute arbitrary commands** • **security intelligence brief** • **arbitrary code execution** • **nkabuse malware hosted** • **2 3 million** • **least 77 vulnerabilities**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face](https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/)
 - [Google expands Gemini AI use to fight malicious ads on its platform](https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/)
 - [New ATHR vishing platform uses AI voice agents for automated attacks](https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/)
 - [Most "AI SOCs" Are Just Faster Triage. That's Not Enough.](https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/)
@@ -34,7 +35,6 @@
 - [Data breach at edtech giant McGraw Hill affects 13.5 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/)
 - [US nationals behind DPRK IT worker 'laptop farm' sent to prison](https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/)
 - [Microsoft: April Windows Server 2025 update may fail to install](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/)
-- [Critical Nginx UI auth bypass flaw now actively exploited in the wild](https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Two-Factor Authentication Breaks Free from the Desktop](https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop)
 - [Microsoft's Original Windows Secure Boot Certificate Is Expiring](https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire)
 - [6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs](https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs)
 - [Critical MCP Integration Flaw Puts NGINX at Risk](https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk)
@@ -56,10 +57,10 @@
 - [Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now](https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management)
 - [Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests](https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests)
 - [Microsoft, Salesforce Patch AI Agent Data Leak Flaws](https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws)
-- [Microsoft Bets $10B to Boost Japan's AI, Cybersecurity](https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity)
 
 ### Security Week
 
+- [Government Can’t Win the Cyber War Without the Private Sector](https://www.securityweek.com/government-cant-win-the-cyber-war-without-the-private-sector/)
 - [OpenAI Widens Access to Cybersecurity Model After Anthropic’s Mythos Reveal](https://www.securityweek.com/openai-widens-access-to-cybersecurity-model-after-anthropics-mythos-reveal/)
 - [Data Breach at Tennessee Hospital Affects 337,000](https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/)
 - [Artemis Emerges From Stealth With $70 Million in Funding](https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/)
@@ -67,7 +68,6 @@
 - [Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest](https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/)
 - [NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software](https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/)
 - [Cisco Patches Critical Vulnerabilities in Webex, ISE](https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/)
-- [Ransomware Hits Automotive Data Expert Autovista](https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/)
 
 ### Threatpost
 

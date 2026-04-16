@@ -181,7 +181,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 595,
+      "count": 596,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -269,7 +269,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1358,
+      "count": 1359,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -645,7 +645,7 @@
       ]
     },
     "remote code execution": {
-      "count": 224,
+      "count": 225,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2787,7 +2787,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3634,7 +3634,7 @@
       ]
     },
     "released security updates": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4456,7 +4456,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -6155,7 +6155,7 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -9526,7 +9526,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10642,7 +10642,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 274,
+      "count": 275,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10836,7 +10836,7 @@
       ]
     },
     "deliver malware capable": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-23",
         "2026-04-16"
@@ -12506,7 +12506,7 @@
       ]
     },
     "mitsubishi electric genesis64": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-04-08",
         "2026-04-09",
@@ -13061,7 +13061,7 @@
       ]
     },
     "time don't comply": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13074,7 +13074,7 @@
       ]
     },
     "enables threat actors": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13185,31 +13185,31 @@
       ]
     },
     "security intelligence brief": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-16"
       ]
     },
     "2 3 million": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-16"
       ]
     },
     "social engineering phase": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-16"
       ]
     },
     "openai widens access": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-16"
       ]
     },
     "threat actors continue": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-16"
       ]
@@ -13225,20 +13225,21 @@
       "dates": [
         "2026-04-16"
       ]
+    },
+    "actively exploited flaw": {
+      "count": 1,
+      "dates": [
+        "2026-04-16"
+      ]
+    },
+    "nkabuse malware hosted": {
+      "count": 1,
+      "dates": [
+        "2026-04-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-07 13:08",
-      "articles": 56,
-      "top_keywords": [
-        "white house seeks",
-        "guardarian users targeted",
-        "medusa ransomware fast",
-        "deploying medusa ransomware",
-        "high velocity attacks"
-      ]
-    },
     {
       "timestamp": "2026-04-07 15:03",
       "articles": 56,
@@ -14326,6 +14327,17 @@
         "social engineering phase",
         "deliver malware capable",
         "iran's intelligence agencies"
+      ]
+    },
+    {
+      "timestamp": "2026-04-16 17:09",
+      "articles": 56,
+      "top_keywords": [
+        "mitsubishi electric genesis64",
+        "remote code execution",
+        "social engineering phase",
+        "authentication bypass vulnerability",
+        "windows operating systems"
       ]
     }
   ]

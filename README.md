@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-16 15:24 UTC |
+| 🕐 Last Updated | 2026-04-16 17:09 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mitsubishi electric genesis64` • `remote code execution` • `social engineering phase` • `deliver malware capable` • `iran's intelligence agencies` • `windows operating systems` • `openai widens access` • `twitter whistleblower complaint` • `time don't comply` • `released security updates`
+`mitsubishi electric genesis64` • `remote code execution` • `social engineering phase` • `authentication bypass vulnerability` • `windows operating systems` • `iran's intelligence agencies` • `threat actors continue` • `enables threat actors` • `deliver malware capable` • `actively exploited flaw`
 
 ## 📄 Reports
 

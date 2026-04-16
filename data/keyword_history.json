@@ -181,7 +181,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 596,
+      "count": 597,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -269,7 +269,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1359,
+      "count": 1360,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -645,7 +645,7 @@
       ]
     },
     "remote code execution": {
-      "count": 225,
+      "count": 226,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -756,7 +756,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -768,7 +768,8 @@
         "2026-03-18",
         "2026-03-19",
         "2026-03-31",
-        "2026-04-01"
+        "2026-04-01",
+        "2026-04-16"
       ]
     },
     "france arrests latvian": {
@@ -2787,7 +2788,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 189,
+      "count": 190,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3634,7 +3635,7 @@
       ]
     },
     "released security updates": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -6155,7 +6156,7 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -8493,12 +8494,13 @@
       ]
     },
     "least december 2025": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-02-26",
         "2026-02-27",
         "2026-04-09",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-16"
       ]
     },
     "investment will enable": {
@@ -9526,7 +9528,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10642,7 +10644,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 275,
+      "count": 276,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10836,7 +10838,7 @@
       ]
     },
     "deliver malware capable": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-23",
         "2026-04-16"
@@ -13061,7 +13063,7 @@
       ]
     },
     "time don't comply": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-15",
         "2026-04-16"
@@ -13185,37 +13187,37 @@
       ]
     },
     "security intelligence brief": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-16"
       ]
     },
     "2 3 million": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-16"
       ]
     },
     "social engineering phase": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-16"
       ]
     },
     "openai widens access": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-16"
       ]
     },
     "threat actors continue": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-16"
       ]
     },
     "unique security risks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-16"
       ]
@@ -13233,6 +13235,12 @@
       ]
     },
     "nkabuse malware hosted": {
+      "count": 2,
+      "dates": [
+        "2026-04-16"
+      ]
+    },
+    "full technical breakdown": {
       "count": 1,
       "dates": [
         "2026-04-16"
@@ -13240,17 +13248,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-07 15:03",
-      "articles": 56,
-      "top_keywords": [
-        "white house seeks",
-        "medusa ransomware fast",
-        "deploying medusa ransomware",
-        "high velocity attacks",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-07 16:52",
       "articles": 56,
@@ -14338,6 +14335,17 @@
         "social engineering phase",
         "authentication bypass vulnerability",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-04-16 19:05",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "threat actors continue",
+        "social engineering phase",
+        "iran's intelligence agencies",
+        "deliver malware capable"
       ]
     }
   ]

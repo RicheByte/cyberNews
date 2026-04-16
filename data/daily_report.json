@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-04-16 17:09",
+  "last_updated": "2026-04-16 19:05",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "mitsubishi electric genesis64",
     "remote code execution",
-    "social engineering phase",
-    "authentication bypass vulnerability",
-    "windows operating systems",
-    "iran's intelligence agencies",
     "threat actors continue",
-    "enables threat actors",
+    "social engineering phase",
+    "iran's intelligence agencies",
     "deliver malware capable",
-    "actively exploited flaw",
     "released security updates",
     "openai widens access",
+    "security intelligence brief",
+    "windows operating systems",
     "twitter whistleblower complaint",
     "time don't comply",
+    "least december 2025",
+    "full technical breakdown",
     "execute arbitrary commands",
-    "security intelligence brief",
+    "execute arbitrary code",
     "arbitrary code execution",
     "nkabuse malware hosted",
+    "least 77 vulnerabilities",
     "2 3 million",
-    "least 77 vulnerabilities"
+    "unique security risks"
   ],
   "trending": [
     {
-      "keyword": "mitsubishi electric genesis64",
-      "mentions": 87
-    },
-    {
       "keyword": "remote code execution",
-      "mentions": 225
-    },
-    {
-      "keyword": "social engineering phase",
-      "mentions": 2
-    },
-    {
-      "keyword": "authentication bypass vulnerability",
-      "mentions": 22
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 596
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 275
+      "mentions": 226
     },
     {
       "keyword": "threat actors continue",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "enables threat actors",
-      "mentions": 13
+      "keyword": "social engineering phase",
+      "mentions": 3
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 276
     },
     {
       "keyword": "deliver malware capable",
-      "mentions": 9
+      "mentions": 10
     },
     {
-      "keyword": "actively exploited flaw",
-      "mentions": 1
+      "keyword": "released security updates",
+      "mentions": 50
+    },
+    {
+      "keyword": "openai widens access",
+      "mentions": 3
+    },
+    {
+      "keyword": "security intelligence brief",
+      "mentions": 4
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 597
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1360
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
+      "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
+      "summary": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet dubbed PowMix since at least December 2025. \"PowMix employs randomized command-and-control (C2) beaconing intervals, rather than persistent connection to the C2 server, to evade the network signature detections,\" Cisco Talos",
+      "published": "Thu, 16 Apr 2026 23:22:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
@@ -137,22 +148,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
-      "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
-      "summary": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the wild. The vulnerability in question is CVE-2026-33032 (CVSS score: 9.8), an authentication bypass vulnerability that enables threat actors to seize control of the Nginx service. It has been codenamed MCPwn by Pluto Security. \"",
-      "published": "Wed, 15 Apr 2026 18:26:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×2",
-        "Auth bypass",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
       ]
     },
     {
@@ -574,6 +569,59 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Horner Automation Cscape and XL4, XL7 PLC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to systems and services. The following versions of Horner Automation Cscape and XL4, XL7 PLC are affected: Cscape v10.0 XL7 PLC v15.60 XL4 PLC v16.32.0 CVSS Vendor Equipment Vulnerabilities v3 9.1 Horner Automation Horner Automation Cscape and XL4, XL7 PLC Weak Password Requirements Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwi",
+      "published": "Thu, 16 Apr 26 12:00:00 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Anviz Multiple Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to conduct reconnaissance, capture or decrypt sensitive data, alter device configurations, gain unauthorized administrative or root‑level access, execute arbitrary code, compromise credentials or communications, and ultimately obtain full control over affected devices. The following versions of Anviz Multiple Products are affected: CX2 Lite Firmware vers:all/* (CVE-2026-32648, CVE-2026-40461, CVE-2026-35682,",
+      "published": "Thu, 16 Apr 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Delta Electronics ASDA-Soft",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code. The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft <=V7.2.2.0 CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics ASDA-Soft Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Taiwan Vulnerabilities Expand All + CVE-202",
+      "published": "Thu, 16 Apr 26 12:00:00 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "AVEVA Pipeline Simulation",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are affected: Pipeline Simulation <=2025_SP1_build_7.1.9497.6351 CVSS Vendor Equipment Vulnerabilities v3 9.1 AVEVA AVEVA Pipeline Simulation Missing Authorization Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide",
+      "published": "Thu, 16 Apr 26 12:00:00 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2009-0238 Microsoft Office Remote Code Execution Vulnerability CVE-2026-32201 Microsoft SharePoint Server Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk o",
@@ -626,61 +674,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-1340 Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living ",
-      "published": "Wed, 08 Apr 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Mitsubishi Electric GENESIS64 and ICONICS Suite products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-097-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a local attacker to disclose SQL Server credentials used by the affected products and use them to disclose, tamper with, or destroy data, or to cause a denial-of-service (DoS) condition on the system. The following versions of Mitsubishi Electric GENESIS64 and ICONICS Suite products are affected: GENESIS64 <=10.97.3 (CVE-2025-14815, CVE-2025-14816) ICONICS Suite <=10.97.3 (CVE-2025-14815, CVE-2025-14816) MobileHMI <=1",
-      "published": "Tue, 07 Apr 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure",
-      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a",
-      "summary": "Advisory at a Glance Title Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure Original Publication April 7, 2026 Executive Summary Iran-affiliated advanced persistent threat (APT) actors are conducting exploitation activity targeting internet-facing operational technology (OT) devices, including programmable logic controllers (PLCs) manufactured by Rockwell Automation/Allen-Bradley. This activity has led to PLC disruptions across several U.S.",
-      "published": "Tue, 07 Apr 26 12:00:00 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-35616 - Fortinet FortiClient EMS Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
-      "published": "Mon, 06 Apr 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
         "Exploit wording"
       ]
     }

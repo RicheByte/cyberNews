@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-16 17:09 UTC  
+> **Last Updated:** 2026-04-16 19:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mitsubishi electric genesis64** • **remote code execution** • **social engineering phase** • **authentication bypass vulnerability** • **windows operating systems** • **iran's intelligence agencies** • **threat actors continue** • **enables threat actors** • **deliver malware capable** • **actively exploited flaw** • **released security updates** • **openai widens access** • **twitter whistleblower complaint** • **time don't comply** • **execute arbitrary commands** • **security intelligence brief** • **arbitrary code execution** • **nkabuse malware hosted** • **2 3 million** • **least 77 vulnerabilities**
+**remote code execution** • **threat actors continue** • **social engineering phase** • **iran's intelligence agencies** • **deliver malware capable** • **released security updates** • **openai widens access** • **security intelligence brief** • **windows operating systems** • **twitter whistleblower complaint** • **time don't comply** • **least december 2025** • **full technical breakdown** • **execute arbitrary commands** • **execute arbitrary code** • **arbitrary code execution** • **nkabuse malware hosted** • **least 77 vulnerabilities** • **2 3 million** • **unique security risks**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
 - [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
 - [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 - [Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
@@ -23,7 +24,6 @@
 - [Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks](https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html)
 - [UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign](https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html)
 - [n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails](https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html)
-- [Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover](https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html)
 
 ### BleepingComputer
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Horner Automation Cscape and XL4, XL7 PLC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02)
+- [Anviz Multiple Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-03)
+- [Delta Electronics ASDA-Soft](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01)
+- [AVEVA Pipeline Simulation](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog)
 - [Contemporary Controls BASC 20T](https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01)
 - [GPL Odorizers GPL750](https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Mitsubishi Electric GENESIS64 and ICONICS Suite products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-097-01)
-- [Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog)
 
 ---
 

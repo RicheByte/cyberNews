@@ -269,7 +269,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1361,
+      "count": 1362,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -645,7 +645,7 @@
       ]
     },
     "remote code execution": {
-      "count": 227,
+      "count": 228,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -756,7 +756,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2788,7 +2788,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 191,
+      "count": 192,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3635,7 +3635,7 @@
       ]
     },
     "released security updates": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -6156,7 +6156,7 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -9528,7 +9528,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10644,7 +10644,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 277,
+      "count": 278,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10838,7 +10838,7 @@
       ]
     },
     "deliver malware capable": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-23",
         "2026-04-16"
@@ -13187,31 +13187,31 @@
       ]
     },
     "security intelligence brief": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-16"
       ]
     },
     "2 3 million": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-16"
       ]
     },
     "social engineering phase": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-16"
       ]
     },
     "openai widens access": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-16"
       ]
     },
     "threat actors continue": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-16"
       ]
@@ -13229,25 +13229,25 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 2,
-      "dates": [
-        "2026-04-16"
-      ]
-    },
-    "nkabuse malware hosted": {
       "count": 3,
       "dates": [
         "2026-04-16"
       ]
     },
+    "nkabuse malware hosted": {
+      "count": 4,
+      "dates": [
+        "2026-04-16"
+      ]
+    },
     "full technical breakdown": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-16"
       ]
     },
     "phony zoom updates": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-16"
       ]
@@ -13257,20 +13257,21 @@
       "dates": [
         "2026-04-16"
       ]
+    },
+    "horner automation cscape": {
+      "count": 1,
+      "dates": [
+        "2026-04-16"
+      ]
+    },
+    "targeting water treatment": {
+      "count": 1,
+      "dates": [
+        "2026-04-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-07 18:57",
-      "articles": 56,
-      "top_keywords": [
-        "maximum severity vulnerability",
-        "iran's intelligence agencies",
-        "agents autonomous programs",
-        "trent ai emerges",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-07 20:41",
       "articles": 56,
@@ -14358,6 +14359,17 @@
         "social engineering phase",
         "iran's intelligence agencies",
         "deliver malware capable"
+      ]
+    },
+    {
+      "timestamp": "2026-04-16 22:34",
+      "articles": 56,
+      "top_keywords": [
+        "horner automation cscape",
+        "threat actors continue",
+        "targeting water treatment",
+        "social engineering phase",
+        "remote code execution"
       ]
     }
   ]

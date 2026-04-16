@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-16 20:42 UTC  
+> **Last Updated:** 2026-04-16 22:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **threat actors continue** • **social engineering phase** • **iran's intelligence agencies** • **deliver malware capable** • **openai widens access** • **twitter whistleblower complaint** • **security intelligence brief** • **released security updates** • **full technical breakdown** • **phony zoom updates** • **execute arbitrary commands** • **execute arbitrary code** • **arbitrary code execution** • **nkabuse malware hosted** • **least 77 vulnerabilities** • **2 3 million** • **unique security risks** • **elastic security labs** • **actively exploited flaw**
+**horner automation cscape** • **threat actors continue** • **targeting water treatment** • **social engineering phase** • **remote code execution** • **deliver malware capable** • **iran's intelligence agencies** • **openai widens access** • **actively exploited flaw** • **twitter whistleblower complaint** • **security intelligence brief** • **released security updates** • **full technical breakdown** • **nkabuse malware hosted** • **phony zoom updates** • **least 77 vulnerabilities** • **execute arbitrary commands** • **execute arbitrary code** • **arbitrary code execution** • **2 3 million**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
 - [New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/)
 - [Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face](https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/)
 - [Google expands Gemini AI use to fight malicious ads on its platform](https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/)
@@ -34,7 +35,6 @@
 - [Most "AI SOCs" Are Just Faster Triage. That's Not Enough.](https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/)
 - [Cisco says critical Webex Services flaw requires customer action](https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/)
 - [Data breach at edtech giant McGraw Hill affects 13.5 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/)
-- [US nationals behind DPRK IT worker 'laptop farm' sent to prison](https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/)
 
 ### Krebs on Security
 
@@ -82,13 +82,13 @@
 
 ### CISA Alerts
 
-- [Horner Automation Cscape and XL4, XL7 PLC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02)
-- [Anviz Multiple Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-03)
-- [Delta Electronics ASDA-Soft](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01)
 - [AVEVA Pipeline Simulation](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [Horner Automation Cscape and XL4, XL7 PLC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02)
+- [Delta Electronics ASDA-Soft](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01)
+- [Anviz Multiple Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-03)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog)
-- [Contemporary Controls BASC 20T](https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01)
 - [GPL Odorizers GPL750](https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02)
 
 ---

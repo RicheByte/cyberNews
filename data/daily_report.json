@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-16 20:42",
+  "last_updated": "2026-04-16 22:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "remote code execution",
+    "horner automation cscape",
     "threat actors continue",
+    "targeting water treatment",
     "social engineering phase",
-    "iran's intelligence agencies",
+    "remote code execution",
     "deliver malware capable",
+    "iran's intelligence agencies",
     "openai widens access",
+    "actively exploited flaw",
     "twitter whistleblower complaint",
     "security intelligence brief",
     "released security updates",
     "full technical breakdown",
+    "nkabuse malware hosted",
     "phony zoom updates",
+    "least 77 vulnerabilities",
     "execute arbitrary commands",
     "execute arbitrary code",
     "arbitrary code execution",
-    "nkabuse malware hosted",
-    "least 77 vulnerabilities",
-    "2 3 million",
-    "unique security risks",
-    "elastic security labs",
-    "actively exploited flaw"
+    "2 3 million"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 227
+      "keyword": "horner automation cscape",
+      "mentions": 1
     },
     {
       "keyword": "threat actors continue",
-      "mentions": 4
-    },
-    {
-      "keyword": "social engineering phase",
-      "mentions": 4
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 277
-    },
-    {
-      "keyword": "deliver malware capable",
-      "mentions": 11
-    },
-    {
-      "keyword": "openai widens access",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1361
-    },
-    {
-      "keyword": "security intelligence brief",
       "mentions": 5
     },
     {
-      "keyword": "released security updates",
-      "mentions": 51
+      "keyword": "targeting water treatment",
+      "mentions": 1
     },
     {
-      "keyword": "full technical breakdown",
-      "mentions": 2
+      "keyword": "social engineering phase",
+      "mentions": 5
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 228
+    },
+    {
+      "keyword": "deliver malware capable",
+      "mentions": 12
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 278
+    },
+    {
+      "keyword": "openai widens access",
+      "mentions": 5
+    },
+    {
+      "keyword": "actively exploited flaw",
+      "mentions": 3
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1362
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ZionSiphon malware designed to sabotage water treatment systems",
+      "link": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
+      "summary": "A new malware called ZionSiphon, specifically designed for operational technology, is targeting water treatment and desalination environments to sabotage their operations. [...]",
+      "published": "Thu, 16 Apr 2026 18:04:53 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
       "summary": "A researcher known as \"Chaotic Eclipse\" has published a proof-of-concept exploit for a second Microsoft Defender zero-day, dubbed \"RedSun,\" in the past two weeks, protesting how the company works with cybersecurity researchers. [...]",
@@ -226,15 +235,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US nationals behind DPRK IT worker 'laptop farm' sent to prison",
-      "link": "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/",
-      "summary": "Two U.S. nationals have been sent to prison for helping North Korean remote information technology (IT) workers to pose as U.S. residents and get hired by over 100 companies across the country, including many Fortune 500 firms. [...]",
-      "published": "Thu, 16 Apr 2026 04:32:13 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -570,9 +570,49 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "AVEVA Pipeline Simulation",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are affected: Pipeline Simulation <=2025_SP1_build_7.1.9497.6351 CVSS Vendor Equipment Vulnerabilities v3 9.1 AVEVA AVEVA Pipeline Simulation Missing Authorization Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide",
+      "published": "Thu, 16 Apr 26 12:00:00 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of kn",
+      "published": "Thu, 16 Apr 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Horner Automation Cscape and XL4, XL7 PLC",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to systems and services. The following versions of Horner Automation Cscape and XL4, XL7 PLC are affected: Cscape v10.0 XL7 PLC v15.60 XL4 PLC v16.32.0 CVSS Vendor Equipment Vulnerabilities v3 9.1 Horner Automation Horner Automation Cscape and XL4, XL7 PLC Weak Password Requirements Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwi",
+      "published": "Thu, 16 Apr 26 12:00:00 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Delta Electronics ASDA-Soft",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code. The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft <=V7.2.2.0 CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics ASDA-Soft Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Taiwan Vulnerabilities Expand All + CVE-202",
       "published": "Thu, 16 Apr 26 12:00:00 +0000",
       "value_score": 57,
       "value_signals": [
@@ -592,32 +632,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned ×3",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Delta Electronics ASDA-Soft",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code. The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft <=V7.2.2.0 CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics ASDA-Soft Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Taiwan Vulnerabilities Expand All + CVE-202",
-      "published": "Thu, 16 Apr 26 12:00:00 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "AVEVA Pipeline Simulation",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are affected: Pipeline Simulation <=2025_SP1_build_7.1.9497.6351 CVSS Vendor Equipment Vulnerabilities v3 9.1 AVEVA AVEVA Pipeline Simulation Missing Authorization Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide",
-      "published": "Thu, 16 Apr 26 12:00:00 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity ×2",
         "Exploit wording"
       ]
     },
@@ -649,19 +663,6 @@
         "CVE mentioned ×5",
         "CISA/KEV ×5",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Contemporary Controls BASC 20T",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to enumerate the functionality of each component associated with the PLC, reconfigure, rename, delete, perform file transfers, and make remote procedure calls. The following versions of Contemporary Controls BASC 20T are affected: BASControl20 3.1 (CVE-2025-13926) CVSS Vendor Equipment Vulnerabilities v3 9.8 Contemporary Controls Sedona Alliance Contemporary Controls BASC 20T Reliance on Untrusted Inputs in a",
-      "published": "Thu, 09 Apr 26 12:00:00 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
         "Exploit wording"
       ]
     },

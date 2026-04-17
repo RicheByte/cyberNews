@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-17 13:07 UTC  
+> **Last Updated:** 2026-04-17 14:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**lawmakers gathered quietly** • **horner automation cscape** • **play policy updates** • **law enforcement authorities** • **iran's intelligence agencies** • **21 countries participated** • **hacked draftkings accounts** • **attacks threat actors** • **phony zoom updates** • **targeting water treatment** • **israeli water treatment** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **service ddos ecosystem** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **deliver clickfix attacks** • **remote code execution** • **zionsiphon malware designed** • **xl4 xl7 plc**
+**lawmakers gathered quietly** • **horner automation cscape** • **play policy updates** • **service ddos ecosystem** • **law enforcement authorities** • **iran's intelligence agencies** • **21 countries participated** • **hacked draftkings accounts** • **phony zoom updates** • **targeting water treatment** • **israeli water treatment** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **deliver clickfix attacks** • **attacks threat actors** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **zionsiphon malware designed** • **xl4 xl7 plc**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched](https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html)
 - [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
 - [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
 - [Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
@@ -23,10 +24,10 @@
 - [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
 - [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
 - [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
-- [Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
 
 ### BleepingComputer
 
+- [Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops](https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/)
 - [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
 - [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
 - [Microsoft: Some Windows servers enter reboot loops after April patches](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/)
@@ -34,7 +35,6 @@
 - [Recently leaked Windows zero-days now exploited in attacks](https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/)
 - [Operation PowerOFF identifies 75k DDoS users, takes down 53 domains](https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/)
 - [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
-- [New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/)
 
 ### Krebs on Security
 

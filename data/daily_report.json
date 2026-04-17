@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-04-17 13:07",
+  "last_updated": "2026-04-17 14:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "lawmakers gathered quietly",
     "horner automation cscape",
     "play policy updates",
+    "service ddos ecosystem",
     "law enforcement authorities",
     "iran's intelligence agencies",
     "21 countries participated",
     "hacked draftkings accounts",
-    "attacks threat actors",
     "phony zoom updates",
     "targeting water treatment",
     "israeli water treatment",
     "twitter whistleblower complaint",
     "technical infrastructure supporting",
-    "service ddos ecosystem",
+    "deliver clickfix attacks",
+    "attacks threat actors",
+    "remote code execution",
     "least 77 vulnerabilities",
     "high impact vulnerabilities",
-    "deliver clickfix attacks",
-    "remote code execution",
     "zionsiphon malware designed",
     "xl4 xl7 plc"
   ],
   "trending": [
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "horner automation cscape",
-      "mentions": 6
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 1
-    },
-    {
-      "keyword": "law enforcement authorities",
-      "mentions": 15
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 283
-    },
-    {
-      "keyword": "21 countries participated",
-      "mentions": 3
-    },
-    {
-      "keyword": "hacked draftkings accounts",
-      "mentions": 3
-    },
-    {
-      "keyword": "attacks threat actors",
-      "mentions": 3
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 7
     },
     {
-      "keyword": "targeting water treatment",
+      "keyword": "play policy updates",
+      "mentions": 2
+    },
+    {
+      "keyword": "service ddos ecosystem",
       "mentions": 6
+    },
+    {
+      "keyword": "law enforcement authorities",
+      "mentions": 16
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 284
+    },
+    {
+      "keyword": "21 countries participated",
+      "mentions": 4
+    },
+    {
+      "keyword": "hacked draftkings accounts",
+      "mentions": 4
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 8
+    },
+    {
+      "keyword": "targeting water treatment",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
+      "link": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
+      "summary": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems. The activity involves the exploitation of three vulnerabilities that are codenamed BlueHammer (requires GitHub sign-in), RedSun, and UnDefend, all of which were released as zero-days by a researcher known as Chaotic Eclipse (",
+      "published": "Fri, 17 Apr 2026 18:51:00 +0530",
+      "value_score": 41,
+      "value_signals": [
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
@@ -143,16 +155,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
-      "link": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
-      "summary": "Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate any user within the service. The details of the vulnerabilities are below - CVE-2026-20184 (CVSS score: 9.8) - An improper certificate validation in the integration of single sign-on (SSO)",
-      "published": "Thu, 16 Apr 2026 16:57:00 +0530",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/",
+      "summary": "In cybercrime markets, trust isn't assumed, it's verified. Flare reveals how underground guides teach actors to evaluate carding shops based on data quality, reputation, and survivability. [...]",
+      "published": "Fri, 17 Apr 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -224,19 +233,6 @@
       "published": "Thu, 16 Apr 2026 18:04:53 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
-      "summary": "A researcher known as \"Chaotic Eclipse\" has published a proof-of-concept exploit for a second Microsoft Defender zero-day, dubbed \"RedSun,\" in the past two weeks, protesting how the company works with cybersecurity researchers. [...]",
-      "published": "Thu, 16 Apr 2026 16:19:31 -0400",
-      "value_score": 76,
-      "value_signals": [
-        "Zero-day ×2",
-        "PoC available",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

@@ -269,7 +269,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1364,
+      "count": 1365,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -646,7 +646,7 @@
       ]
     },
     "remote code execution": {
-      "count": 230,
+      "count": 231,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2791,7 +2791,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 194,
+      "count": 195,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3588,10 +3588,11 @@
       ]
     },
     "law enforcement authorities": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-15",
-        "2026-01-16"
+        "2026-01-16",
+        "2026-04-17"
       ]
     },
     "drivers without consent": {
@@ -9534,7 +9535,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10651,7 +10652,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 280,
+      "count": 281,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13196,7 +13197,7 @@
       ]
     },
     "security intelligence brief": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-16",
         "2026-04-17"
@@ -13217,23 +13218,24 @@
       ]
     },
     "openai widens access": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "threat actors continue": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "unique security risks": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "ukraine cert ua": {
@@ -13256,14 +13258,14 @@
       ]
     },
     "full technical breakdown": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "phony zoom updates": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-16",
         "2026-04-17"
@@ -13276,38 +13278,57 @@
       ]
     },
     "horner automation cscape": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "targeting water treatment": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "service ddos ecosystem": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-04-17"
+      ]
+    },
+    "21 countries participated": {
+      "count": 1,
+      "dates": [
+        "2026-04-17"
+      ]
+    },
+    "hacked draftkings accounts": {
+      "count": 1,
+      "dates": [
+        "2026-04-17"
+      ]
+    },
+    "attacks threat actors": {
+      "count": 1,
+      "dates": [
+        "2026-04-17"
+      ]
+    },
+    "israeli water treatment": {
+      "count": 1,
+      "dates": [
+        "2026-04-17"
+      ]
+    },
+    "technical infrastructure supporting": {
+      "count": 1,
       "dates": [
         "2026-04-17"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-08 01:58",
-      "articles": 56,
-      "top_keywords": [
-        "maximum severity vulnerability",
-        "authentication tokens stolen",
-        "trent ai emerges",
-        "iran's intelligence agencies",
-        "agents autonomous programs"
-      ]
-    },
     {
       "timestamp": "2026-04-08 04:40",
       "articles": 56,
@@ -14395,6 +14416,17 @@
         "targeting water treatment",
         "social engineering phase",
         "service ddos ecosystem"
+      ]
+    },
+    {
+      "timestamp": "2026-04-17 09:11",
+      "articles": 56,
+      "top_keywords": [
+        "horner automation cscape",
+        "remote code execution",
+        "law enforcement authorities",
+        "21 countries participated",
+        "iran's intelligence agencies"
       ]
     }
   ]

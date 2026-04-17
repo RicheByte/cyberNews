@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-04-17 06:00",
+  "last_updated": "2026-04-17 09:11",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "horner automation cscape",
-    "threat actors continue",
-    "targeting water treatment",
-    "social engineering phase",
-    "service ddos ecosystem",
     "remote code execution",
+    "law enforcement authorities",
+    "21 countries participated",
     "iran's intelligence agencies",
-    "deliver malware capable",
-    "openai widens access",
-    "actively exploited flaw",
+    "hacked draftkings accounts",
+    "threat actors continue",
     "security intelligence brief",
-    "released security updates",
-    "twitter whistleblower complaint",
-    "full technical breakdown",
     "phony zoom updates",
+    "attacks threat actors",
+    "targeting water treatment",
+    "israeli water treatment",
+    "twitter whistleblower complaint",
+    "technical infrastructure supporting",
+    "service ddos ecosystem",
+    "full technical breakdown",
+    "openai widens access",
     "least 77 vulnerabilities",
-    "execute arbitrary commands",
-    "execute arbitrary code",
-    "arbitrary code execution",
-    "2 3 million"
+    "unique security risks",
+    "arbitrary code execution"
   ],
   "trending": [
     {
       "keyword": "horner automation cscape",
-      "mentions": 3
-    },
-    {
-      "keyword": "threat actors continue",
-      "mentions": 7
-    },
-    {
-      "keyword": "targeting water treatment",
-      "mentions": 3
-    },
-    {
-      "keyword": "social engineering phase",
-      "mentions": 7
-    },
-    {
-      "keyword": "service ddos ecosystem",
-      "mentions": 2
+      "mentions": 4
     },
     {
       "keyword": "remote code execution",
-      "mentions": 230
+      "mentions": 231
+    },
+    {
+      "keyword": "law enforcement authorities",
+      "mentions": 13
+    },
+    {
+      "keyword": "21 countries participated",
+      "mentions": 1
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 280
+      "mentions": 281
     },
     {
-      "keyword": "deliver malware capable",
-      "mentions": 14
+      "keyword": "hacked draftkings accounts",
+      "mentions": 1
     },
     {
-      "keyword": "openai widens access",
-      "mentions": 7
+      "keyword": "threat actors continue",
+      "mentions": 8
     },
     {
-      "keyword": "actively exploited flaw",
+      "keyword": "security intelligence brief",
+      "mentions": 9
+    },
+    {
+      "keyword": "phony zoom updates",
       "mentions": 5
+    },
+    {
+      "keyword": "attacks threat actors",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
+      "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
+      "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), stating it will only enrich those that fulfil certain conditions owing to an explosion in CVE submissions. \"CVEs that do not meet those criteria will still be listed in the NVD but will not",
+      "published": "Fri, 17 Apr 2026 12:44:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+      "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+      "summary": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 75,000 cybercriminals. The ongoing effort, dubbed Operation PowerOFF, disrupted access to the DDoS-for-hire services, took down the technical infrastructure supporting them, and obtained access to",
+      "published": "Fri, 17 Apr 2026 11:16:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
@@ -137,22 +155,33 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-      "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-      "summary": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency sectors. Dubbed REF6598 by Elastic Security Labs, the activity has been found to leverage",
-      "published": "Thu, 16 Apr 2026 15:50:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
+      "summary": "Microsoft warns that some Windows domain controllers are entering restart loops after installing the April 2026 security updates. [...]",
+      "published": "Fri, 17 Apr 2026 03:59:47 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
-      "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
-      "summary": "The Computer Emergencies Response Team of Ukraine (CERT-UA) has disclosed details of a new campaign that has targeted governments and municipal healthcare institutions, mainly clinics and emergency hospitals, to deliver malware capable of stealing sensitive data from Chromium-based web browsers and WhatsApp. The activity, which was observed between March and April",
-      "published": "Thu, 16 Apr 2026 11:50:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
+      "summary": "23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings accounts. [...]",
+      "published": "Fri, 17 Apr 2026 03:10:32 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Recently leaked Windows zero-days now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
+      "summary": "Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]",
+      "published": "Fri, 17 Apr 2026 02:14:52 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -205,38 +234,6 @@
       "published": "Thu, 16 Apr 2026 11:24:14 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New ATHR vishing platform uses AI voice agents for automated attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/",
-      "summary": "A new cybercrime platform called ATHR can harvest credentials via fully automated voice phishing attacks that use both human operators and AI agents for the social engineering phase. [...]",
-      "published": "Thu, 16 Apr 2026 10:09:11 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough.",
-      "link": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
-      "summary": "AI-powered SOC tools promise automation, but most only speed up triage instead of reducing real workload. Tines shows how real gains come from end-to-end workflows that execute actions across systems, not just summarize alerts. [...]",
-      "published": "Thu, 16 Apr 2026 10:02:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco says critical Webex Services flaw requires customer action",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
-      "summary": "Cisco has released security updates to patch four critical vulnerabilities, including a fixed improper certificate validation flaw in the company's cloud-based Webex Services platform that requires further customer action. [...]",
-      "published": "Thu, 16 Apr 2026 08:01:42 -0400",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -403,6 +400,33 @@
     },
     {
       "source": "Security Week",
+      "title": "ZionSiphon Malware Targets ICS in Water Facilities",
+      "link": "https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/",
+      "summary": "The malware is configured to operate on systems associated with Israeli water treatment and desalination plants. The post ZionSiphon Malware Targets ICS in Water Facilities appeared first on SecurityWeek .",
+      "published": "Fri, 17 Apr 2026 08:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cursor AI Vulnerability Exposed Developer Devices",
+      "link": "https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/",
+      "summary": "An indirect prompt injection could be chained with a sandbox bypass and Cursor’s remote tunnel feature for shell access to machines. The post Cursor AI Vulnerability Exposed Developer Devices appeared first on SecurityWeek .",
+      "published": "Fri, 17 Apr 2026 07:29:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "53 DDoS Domains Taken Down by Law Enforcement",
+      "link": "https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/",
+      "summary": "Authorities in 21 countries participated in a coordinated action against DDoS-for-hire services. The post 53 DDoS Domains Taken Down by Law Enforcement appeared first on SecurityWeek .",
+      "published": "Fri, 17 Apr 2026 06:40:21 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Government Can’t Win the Cyber War Without the Private Sector",
       "link": "https://www.securityweek.com/government-cant-win-the-cyber-war-without-the-private-sector/",
       "summary": "Securing national resilience now depends on faster, deeper partnerships with the private sector. The post Government Can’t Win the Cyber War Without the Private Sector appeared first on SecurityWeek .",
@@ -450,41 +474,6 @@
       "value_signals": [
         "RCE",
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest",
-      "link": "https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/",
-      "summary": "Researchers found more than 80 high-impact cloud and AI vulnerabilities during the event, which had a $5 million prize pool. The post Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest appeared first on SecurityWeek .",
-      "published": "Thu, 16 Apr 2026 11:21:27 +0000",
-      "value_score": 60,
-      "value_signals": [
-        "Zero-day ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software",
-      "link": "https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/",
-      "summary": "To optimize management of CVE volume, entries that do not meet specific criteria will not be automatically enriched. The post NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software appeared first on SecurityWeek .",
-      "published": "Thu, 16 Apr 2026 10:47:14 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "CISA/KEV ×4",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches Critical Vulnerabilities in Webex, ISE",
-      "link": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/",
-      "summary": "The flaws can be exploited remotely to impersonate users or execute arbitrary commands on the underlying OS. The post Cisco Patches Critical Vulnerabilities in Webex, ISE appeared first on SecurityWeek .",
-      "published": "Thu, 16 Apr 2026 10:04:31 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

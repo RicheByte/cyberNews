@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-04-17 10:50",
+  "last_updated": "2026-04-17 13:07",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "lawmakers gathered quietly",
     "horner automation cscape",
+    "play policy updates",
     "law enforcement authorities",
     "iran's intelligence agencies",
-    "attacks threat actors",
     "21 countries participated",
     "hacked draftkings accounts",
+    "attacks threat actors",
     "phony zoom updates",
     "targeting water treatment",
     "israeli water treatment",
@@ -17,56 +18,64 @@
     "technical infrastructure supporting",
     "service ddos ecosystem",
     "least 77 vulnerabilities",
-    "zionsiphon malware designed",
+    "high impact vulnerabilities",
+    "deliver clickfix attacks",
     "remote code execution",
-    "unique security risks",
-    "elastic security labs",
-    "xl4 xl7 plc",
-    "windows domain controllers"
+    "zionsiphon malware designed",
+    "xl4 xl7 plc"
   ],
   "trending": [
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "horner automation cscape",
-      "mentions": 5
-    },
-    {
-      "keyword": "law enforcement authorities",
-      "mentions": 14
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 282
-    },
-    {
-      "keyword": "attacks threat actors",
-      "mentions": 2
-    },
-    {
-      "keyword": "21 countries participated",
-      "mentions": 2
-    },
-    {
-      "keyword": "hacked draftkings accounts",
-      "mentions": 2
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 6
     },
     {
-      "keyword": "targeting water treatment",
-      "mentions": 5
+      "keyword": "play policy updates",
+      "mentions": 1
     },
     {
-      "keyword": "israeli water treatment",
-      "mentions": 2
+      "keyword": "law enforcement authorities",
+      "mentions": 15
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 283
+    },
+    {
+      "keyword": "21 countries participated",
+      "mentions": 3
+    },
+    {
+      "keyword": "hacked draftkings accounts",
+      "mentions": 3
+    },
+    {
+      "keyword": "attacks threat actors",
+      "mentions": 3
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 7
+    },
+    {
+      "keyword": "targeting water treatment",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
+      "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
+      "summary": "Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 million accounts in 2025. The new policy updates relate to contact and location permissions in Android, allowing third-party apps to access the contact lists and a user's location in",
+      "published": "Fri, 17 Apr 2026 16:17:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
@@ -146,13 +155,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-      "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-      "summary": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency sectors. Dubbed REF6598 by Elastic Security Labs, the activity has been found to leverage",
-      "published": "Thu, 16 Apr 2026 15:50:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
+      "summary": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming webinar to learn how to combine security and recovery strategies to reduce risk and maintain business continuity. [...]",
+      "published": "Fri, 17 Apr 2026 08:20:28 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -224,18 +235,6 @@
       "value_signals": [
         "Zero-day ×2",
         "PoC available",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
-      "summary": "Hackers are exploiting a critical vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face Spaces. [...]",
-      "published": "Thu, 16 Apr 2026 12:58:06 -0400",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
         "Exploit wording"
       ]
     },
@@ -324,6 +323,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs",
+      "link": "https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos",
+      "summary": "The Maritime Transportation Security Act (MTSA) requires plans to protect OT systems, audits by independent third parties, and a hybrid OT-security role.",
+      "published": "Fri, 17 Apr 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities",
+      "summary": "The National Institute of Standards and Technology carved a new path for vulnerability remediation by changing the way it prioritizes software flaws.",
+      "published": "Thu, 16 Apr 2026 21:47:31 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "North Korea Uses ClickFix to Target macOS Users' Data",
       "link": "https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data",
       "summary": "Sapphire Sleet uses fake job offers and phony Zoom updates to deliver ClickFix attacks that steal credentials and sensitive data from Macs.",
@@ -385,22 +402,16 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Navigating the Unique Security Risks of Asia's Digital Supply Chain",
-      "link": "https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain",
-      "summary": "Regulatory differences, interconnected digital ecosystems, and the rise of AI have created a complex supply chain Asian organizations must wrangle.",
-      "published": "Wed, 15 Apr 2026 19:30:47 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now",
-      "link": "https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management",
-      "summary": "Quantum computers are coming and may impact systems in unexpected ways, and it will \"take years to be fully quantum-safe, if ever,\" cryptography expert warns.",
-      "published": "Wed, 15 Apr 2026 15:12:01 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested",
+      "link": "https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: ShinyHunters targets Rockstar Games, ShowDoc vulnerability exploited in the wild, and EPA to boost cybersecurity budget to $19 million. The post In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested appeared first on SecurityWeek .",
+      "published": "Fri, 17 Apr 2026 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Active exploitation",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -467,15 +478,6 @@
       "link": "https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/",
       "summary": "Authorities in 21 countries participated in a coordinated action against DDoS-for-hire services. The post 53 DDoS Domains Taken Down by Law Enforcement appeared first on SecurityWeek .",
       "published": "Fri, 17 Apr 2026 06:40:21 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Government Can’t Win the Cyber War Without the Private Sector",
-      "link": "https://www.securityweek.com/government-cant-win-the-cyber-war-without-the-private-sector/",
-      "summary": "Securing national resilience now depends on faster, deeper partnerships with the private sector. The post Government Can’t Win the Cyber War Without the Private Sector appeared first on SecurityWeek .",
-      "published": "Thu, 16 Apr 2026 17:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

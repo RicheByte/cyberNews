@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-17 10:50 UTC  
+> **Last Updated:** 2026-04-17 13:07 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**lawmakers gathered quietly** • **horner automation cscape** • **law enforcement authorities** • **iran's intelligence agencies** • **attacks threat actors** • **21 countries participated** • **hacked draftkings accounts** • **phony zoom updates** • **targeting water treatment** • **israeli water treatment** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **service ddos ecosystem** • **least 77 vulnerabilities** • **zionsiphon malware designed** • **remote code execution** • **unique security risks** • **elastic security labs** • **xl4 xl7 plc** • **windows domain controllers**
+**lawmakers gathered quietly** • **horner automation cscape** • **play policy updates** • **law enforcement authorities** • **iran's intelligence agencies** • **21 countries participated** • **hacked draftkings accounts** • **attacks threat actors** • **phony zoom updates** • **targeting water treatment** • **israeli water treatment** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **service ddos ecosystem** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **deliver clickfix attacks** • **remote code execution** • **zionsiphon malware designed** • **xl4 xl7 plc**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
 - [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
 - [Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
 - [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
@@ -23,10 +24,10 @@
 - [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
 - [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 - [Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
-- [Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks](https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html)
 
 ### BleepingComputer
 
+- [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
 - [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
 - [Microsoft: Some Windows servers enter reboot loops after April patches](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/)
 - [Man gets 30 months for selling thousands of hacked DraftKings accounts](https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/)
@@ -34,7 +35,6 @@
 - [Operation PowerOFF identifies 75k DDoS users, takes down 53 domains](https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/)
 - [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
 - [New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/)
-- [Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face](https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs](https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos)
+- [NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities)
 - [North Korea Uses ClickFix to Target macOS Users' Data](https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data)
 - ['Harmless' Global Adware Transforms Into an AV Killer](https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer)
 - [Two-Factor Authentication Breaks Free from the Desktop](https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop)
 - [Microsoft's Original Windows Secure Boot Certificate Is Expiring](https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire)
 - [6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs](https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs)
 - [Critical MCP Integration Flaw Puts NGINX at Risk](https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk)
-- [Navigating the Unique Security Risks of Asia's Digital Supply Chain](https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain)
-- [Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now](https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management)
 
 ### Security Week
 
+- [In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested](https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/)
 - [Another DraftKings Hacker Sentenced to Prison](https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/)
 - [Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed](https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/)
 - [Recent Apache ActiveMQ Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/)
@@ -67,7 +68,6 @@
 - [ZionSiphon Malware Targets ICS in Water Facilities](https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/)
 - [Cursor AI Vulnerability Exposed Developer Devices](https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/)
 - [53 DDoS Domains Taken Down by Law Enforcement](https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/)
-- [Government Can’t Win the Cyber War Without the Private Sector](https://www.securityweek.com/government-cant-win-the-cyber-war-without-the-private-sector/)
 
 ### Threatpost
 

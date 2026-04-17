@@ -269,7 +269,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1365,
+      "count": 1366,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -646,7 +646,7 @@
       ]
     },
     "remote code execution": {
-      "count": 231,
+      "count": 232,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3588,7 +3588,7 @@
       ]
     },
     "law enforcement authorities": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-15",
         "2026-01-16",
@@ -9535,7 +9535,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 146,
+      "count": 147,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10652,7 +10652,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 281,
+      "count": 282,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13232,7 +13232,7 @@
       ]
     },
     "unique security risks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-16",
         "2026-04-17"
@@ -13265,63 +13265,88 @@
       ]
     },
     "phony zoom updates": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "elastic security labs": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "horner automation cscape": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "targeting water treatment": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "service ddos ecosystem": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-17"
       ]
     },
     "21 countries participated": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-17"
       ]
     },
     "hacked draftkings accounts": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-17"
       ]
     },
     "attacks threat actors": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-17"
       ]
     },
     "israeli water treatment": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-17"
       ]
     },
     "technical infrastructure supporting": {
+      "count": 2,
+      "dates": [
+        "2026-04-17"
+      ]
+    },
+    "lawmakers gathered quietly": {
+      "count": 1,
+      "dates": [
+        "2026-04-17"
+      ]
+    },
+    "zionsiphon malware designed": {
+      "count": 1,
+      "dates": [
+        "2026-04-17"
+      ]
+    },
+    "xl4 xl7 plc": {
+      "count": 1,
+      "dates": [
+        "2026-04-17"
+      ]
+    },
+    "windows domain controllers": {
       "count": 1,
       "dates": [
         "2026-04-17"
@@ -13329,17 +13354,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-08 04:40",
-      "articles": 56,
-      "top_keywords": [
-        "maximum severity vulnerability",
-        "authentication tokens stolen",
-        "trent ai emerges",
-        "iran's intelligence agencies",
-        "agents autonomous programs"
-      ]
-    },
     {
       "timestamp": "2026-04-08 07:11",
       "articles": 56,
@@ -14427,6 +14441,17 @@
         "law enforcement authorities",
         "21 countries participated",
         "iran's intelligence agencies"
+      ]
+    },
+    {
+      "timestamp": "2026-04-17 10:50",
+      "articles": 56,
+      "top_keywords": [
+        "lawmakers gathered quietly",
+        "horner automation cscape",
+        "law enforcement authorities",
+        "iran's intelligence agencies",
+        "attacks threat actors"
       ]
     }
   ]

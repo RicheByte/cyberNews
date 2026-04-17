@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-03-18",
     "2026-03-19",
     "2026-03-20",
     "2026-03-21",
@@ -29,7 +28,8 @@
     "2026-04-13",
     "2026-04-14",
     "2026-04-15",
-    "2026-04-16"
+    "2026-04-16",
+    "2026-04-17"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -269,7 +269,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1362,
+      "count": 1363,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -391,7 +391,8 @@
         "2026-04-13",
         "2026-04-14",
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "supposed wayward package": {
@@ -645,7 +646,7 @@
       ]
     },
     "remote code execution": {
-      "count": 228,
+      "count": 229,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -683,7 +684,8 @@
         "2026-04-09",
         "2026-04-14",
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "attacker remotely control": {
@@ -756,7 +758,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -769,7 +771,8 @@
         "2026-03-19",
         "2026-03-31",
         "2026-04-01",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "france arrests latvian": {
@@ -2788,7 +2791,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2813,7 +2816,8 @@
         "2026-03-11",
         "2026-04-12",
         "2026-04-13",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "authenticated remote attacker": {
@@ -3635,7 +3639,7 @@
       ]
     },
     "released security updates": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -3650,7 +3654,8 @@
         "2026-03-12",
         "2026-03-13",
         "2026-03-24",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "auditability collide daily": {
@@ -6156,13 +6161,14 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-05",
         "2026-02-06",
         "2026-03-30",
         "2026-03-31",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "arbitrary system commands": {
@@ -9528,7 +9534,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9548,7 +9554,8 @@
         "2026-04-13",
         "2026-04-14",
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "supply chain compromise": {
@@ -10644,7 +10651,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 278,
+      "count": 279,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10673,7 +10680,8 @@
         "2026-04-13",
         "2026-04-14",
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "missing authentication combined": {
@@ -10838,10 +10846,11 @@
       ]
     },
     "deliver malware capable": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-23",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "safe apk sideloading": {
@@ -13187,33 +13196,38 @@
       ]
     },
     "security intelligence brief": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "2 3 million": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "social engineering phase": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "openai widens access": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "threat actors continue": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "unique security risks": {
@@ -13229,9 +13243,10 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "nkabuse malware hosted": {
@@ -13241,15 +13256,17 @@
       ]
     },
     "full technical breakdown": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "phony zoom updates": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "elastic security labs": {
@@ -13259,30 +13276,27 @@
       ]
     },
     "horner automation cscape": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-17"
       ]
     },
     "targeting water treatment": {
+      "count": 2,
+      "dates": [
+        "2026-04-16",
+        "2026-04-17"
+      ]
+    },
+    "service ddos ecosystem": {
       "count": 1,
       "dates": [
-        "2026-04-16"
+        "2026-04-17"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-07 20:41",
-      "articles": 56,
-      "top_keywords": [
-        "maximum severity vulnerability",
-        "authentication tokens stolen",
-        "trent ai emerges",
-        "iran's intelligence agencies",
-        "agents autonomous programs"
-      ]
-    },
     {
       "timestamp": "2026-04-07 22:33",
       "articles": 56,
@@ -14370,6 +14384,17 @@
         "targeting water treatment",
         "social engineering phase",
         "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-04-17 02:05",
+      "articles": 56,
+      "top_keywords": [
+        "horner automation cscape",
+        "threat actors continue",
+        "targeting water treatment",
+        "social engineering phase",
+        "service ddos ecosystem"
       ]
     }
   ]

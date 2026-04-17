@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-16 22:34 UTC  
+> **Last Updated:** 2026-04-17 02:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**horner automation cscape** • **threat actors continue** • **targeting water treatment** • **social engineering phase** • **remote code execution** • **deliver malware capable** • **iran's intelligence agencies** • **openai widens access** • **actively exploited flaw** • **twitter whistleblower complaint** • **security intelligence brief** • **released security updates** • **full technical breakdown** • **nkabuse malware hosted** • **phony zoom updates** • **least 77 vulnerabilities** • **execute arbitrary commands** • **execute arbitrary code** • **arbitrary code execution** • **2 3 million**
+**horner automation cscape** • **threat actors continue** • **targeting water treatment** • **social engineering phase** • **service ddos ecosystem** • **remote code execution** • **iran's intelligence agencies** • **deliver malware capable** • **openai widens access** • **actively exploited flaw** • **twitter whistleblower complaint** • **security intelligence brief** • **released security updates** • **full technical breakdown** • **phony zoom updates** • **least 77 vulnerabilities** • **execute arbitrary commands** • **execute arbitrary code** • **arbitrary code execution** • **2 3 million**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Operation PowerOFF identifies 75k DDoS users, takes down 53 domains](https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/)
 - [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
 - [New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/)
 - [Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face](https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/)
@@ -34,7 +35,6 @@
 - [New ATHR vishing platform uses AI voice agents for automated attacks](https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/)
 - [Most "AI SOCs" Are Just Faster Triage. That's Not Enough.](https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/)
 - [Cisco says critical Webex Services flaw requires customer action](https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/)
-- [Data breach at edtech giant McGraw Hill affects 13.5 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/)
 
 ### Krebs on Security
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16 22:34",
+  "last_updated": "2026-04-17 02:05",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,16 +7,16 @@
     "threat actors continue",
     "targeting water treatment",
     "social engineering phase",
+    "service ddos ecosystem",
     "remote code execution",
-    "deliver malware capable",
     "iran's intelligence agencies",
+    "deliver malware capable",
     "openai widens access",
     "actively exploited flaw",
     "twitter whistleblower complaint",
     "security intelligence brief",
     "released security updates",
     "full technical breakdown",
-    "nkabuse malware hosted",
     "phony zoom updates",
     "least 77 vulnerabilities",
     "execute arbitrary commands",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "horner automation cscape",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "threat actors continue",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "targeting water treatment",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "social engineering phase",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "service ddos ecosystem",
+      "mentions": 1
     },
     {
       "keyword": "remote code execution",
-      "mentions": 228
-    },
-    {
-      "keyword": "deliver malware capable",
-      "mentions": 12
+      "mentions": 229
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 278
+      "mentions": 279
+    },
+    {
+      "keyword": "deliver malware capable",
+      "mentions": 13
     },
     {
       "keyword": "openai widens access",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "actively exploited flaw",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1362
+      "mentions": 4
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
+      "link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
+      "summary": "The latest wave of \"Operation PowerOFF,\" on April 13, 2026, targeted the distributed denial-of-service (DDoS) ecosystem and its users across 21 countries. [...]",
+      "published": "Thu, 16 Apr 2026 18:26:34 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ZionSiphon malware designed to sabotage water treatment systems",
       "link": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
       "summary": "A new malware called ZionSiphon, specifically designed for operational technology, is targeting water treatment and desalination environments to sabotage their operations. [...]",
@@ -223,17 +232,6 @@
       "value_signals": [
         "Patch/update ×2",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
-      "summary": "The ShinyHunters extortion group has leaked data from 13.5 million McGraw Hill user accounts, stolen after breaching the company's Salesforce environment earlier this month. [...]",
-      "published": "Thu, 16 Apr 2026 06:35:09 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

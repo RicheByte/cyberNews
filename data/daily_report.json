@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17 20:39",
+  "last_updated": "2026-04-17 22:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -21,49 +21,49 @@
     "least 77 vulnerabilities",
     "high impact vulnerabilities",
     "xl4 xl7 plc",
-    "windows domain controllers",
-    "secure boot refresh"
+    "reverse ssh backdoor",
+    "publicly disclosed weakness"
   ],
   "trending": [
     {
       "keyword": "white house chief",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "horner automation cscape",
-      "mentions": 10
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 5
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 287
-    },
-    {
-      "keyword": "hacked draftkings accounts",
-      "mentions": 7
-    },
-    {
-      "keyword": "bypass endpoint security",
-      "mentions": 1
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 11
     },
     {
+      "keyword": "play policy updates",
+      "mentions": 6
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 288
+    },
+    {
+      "keyword": "hacked draftkings accounts",
+      "mentions": 8
+    },
+    {
+      "keyword": "bypass endpoint security",
+      "mentions": 2
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 12
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1371
+      "mentions": 1372
     },
     {
       "keyword": "technical infrastructure supporting",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
@@ -331,6 +331,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing",
+      "link": "https://www.darkreading.com/threat-intelligence/tycoon-2fa-hackers-device-code-phishing",
+      "summary": "In embracing device code phishing, attackers trick victims into handing over account access by using a service's legitimate new-device login flow.",
+      "published": "Fri, 17 Apr 2026 19:05:51 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Every Old Vulnerability Is Now an AI Vulnerability",
       "link": "https://www.darkreading.com/vulnerabilities-threats/every-old-vulnerability-ai-vulnerability",
       "summary": "AI's danger isn't that it's creating new bugs, it's that it's amplifying old ones.",
@@ -384,17 +395,6 @@
       "published": "Thu, 16 Apr 2026 15:28:15 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Microsoft's Original Windows Secure Boot Certificate Is Expiring",
-      "link": "https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire",
-      "summary": "The Secure Boot refresh is one of the largest coordinated security maintenance efforts across the Windows ecosystem, Microsoft said. Update those PCs soon.",
-      "published": "Thu, 16 Apr 2026 15:16:30 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Security Week",

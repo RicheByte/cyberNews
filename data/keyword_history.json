@@ -269,7 +269,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1371,
+      "count": 1372,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -646,7 +646,7 @@
       ]
     },
     "remote code execution": {
-      "count": 237,
+      "count": 238,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -9535,7 +9535,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 152,
+      "count": 153,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10652,7 +10652,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 287,
+      "count": 288,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -12938,7 +12938,7 @@
       ]
     },
     "high impact vulnerabilities": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-14",
         "2026-04-17"
@@ -13266,7 +13266,7 @@
       ]
     },
     "phony zoom updates": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-16",
         "2026-04-17"
@@ -13280,7 +13280,7 @@
       ]
     },
     "horner automation cscape": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-16",
         "2026-04-17"
@@ -13306,13 +13306,13 @@
       ]
     },
     "hacked draftkings accounts": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-17"
       ]
     },
     "attacks threat actors": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-17"
       ]
@@ -13324,13 +13324,13 @@
       ]
     },
     "technical infrastructure supporting": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-17"
       ]
     },
     "lawmakers gathered quietly": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-17"
       ]
@@ -13342,7 +13342,7 @@
       ]
     },
     "xl4 xl7 plc": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-17"
       ]
@@ -13354,19 +13354,19 @@
       ]
     },
     "play policy updates": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-17"
       ]
     },
     "deliver clickfix attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-17"
       ]
     },
     "western intelligence agencies": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-17"
       ]
@@ -13378,7 +13378,7 @@
       ]
     },
     "publicly disclosed weakness": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-17"
       ]
@@ -13390,18 +13390,24 @@
       ]
     },
     "white house chief": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-17"
       ]
     },
     "bypass endpoint security": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-17"
       ]
     },
     "cve data enrichment": {
+      "count": 2,
+      "dates": [
+        "2026-04-17"
+      ]
+    },
+    "reverse ssh backdoor": {
       "count": 1,
       "dates": [
         "2026-04-17"
@@ -13409,17 +13415,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-08 16:56",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "authentication tokens stolen",
-        "rce bug lurked",
-        "maximum severity vulnerability",
-        "threat actor's packages"
-      ]
-    },
     {
       "timestamp": "2026-04-08 19:08",
       "articles": 56,
@@ -14500,6 +14495,17 @@
     },
     {
       "timestamp": "2026-04-17 20:39",
+      "articles": 56,
+      "top_keywords": [
+        "white house chief",
+        "lawmakers gathered quietly",
+        "horner automation cscape",
+        "play policy updates",
+        "iran's intelligence agencies"
+      ]
+    },
+    {
+      "timestamp": "2026-04-17 22:33",
       "articles": 56,
       "top_keywords": [
         "white house chief",

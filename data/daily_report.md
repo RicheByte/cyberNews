@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-17 20:39 UTC  
+> **Last Updated:** 2026-04-17 22:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **play policy updates** • **iran's intelligence agencies** • **hacked draftkings accounts** • **bypass endpoint security** • **phony zoom updates** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **cve data enrichment** • **western intelligence agencies** • **deliver clickfix attacks** • **attacks threat actors** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **xl4 xl7 plc** • **windows domain controllers** • **secure boot refresh**
+**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **play policy updates** • **iran's intelligence agencies** • **hacked draftkings accounts** • **bypass endpoint security** • **phony zoom updates** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **cve data enrichment** • **western intelligence agencies** • **deliver clickfix attacks** • **attacks threat actors** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **xl4 xl7 plc** • **reverse ssh backdoor** • **publicly disclosed weakness**
 
 ---
 
@@ -50,13 +50,13 @@
 ### Dark Reading
 
 - [How NIST's Cutback of CVE Handling Impacts Cyber Teams](https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams)
+- [Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing](https://www.darkreading.com/threat-intelligence/tycoon-2fa-hackers-device-code-phishing)
 - [Every Old Vulnerability Is Now an AI Vulnerability](https://www.darkreading.com/vulnerabilities-threats/every-old-vulnerability-ai-vulnerability)
 - [Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs](https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos)
 - [NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities)
 - [North Korea Uses ClickFix to Target macOS Users' Data](https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data)
 - ['Harmless' Global Adware Transforms Into an AV Killer](https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer)
 - [Two-Factor Authentication Breaks Free from the Desktop](https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop)
-- [Microsoft's Original Windows Secure Boot Certificate Is Expiring](https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire)
 
 ### Security Week
 

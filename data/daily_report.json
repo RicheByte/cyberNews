@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-17 14:51",
+  "last_updated": "2026-04-17 16:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "lawmakers gathered quietly",
     "horner automation cscape",
     "play policy updates",
-    "service ddos ecosystem",
-    "law enforcement authorities",
     "iran's intelligence agencies",
-    "21 countries participated",
     "hacked draftkings accounts",
+    "service ddos ecosystem",
     "phony zoom updates",
-    "targeting water treatment",
-    "israeli water treatment",
     "twitter whistleblower complaint",
     "technical infrastructure supporting",
+    "western intelligence agencies",
     "deliver clickfix attacks",
     "attacks threat actors",
     "remote code execution",
     "least 77 vulnerabilities",
     "high impact vulnerabilities",
-    "zionsiphon malware designed",
-    "xl4 xl7 plc"
+    "xl4 xl7 plc",
+    "windows domain controllers",
+    "secure boot refresh",
+    "publicly disclosed weakness",
+    "msps must rethink"
   ],
   "trending": [
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "horner automation cscape",
-      "mentions": 7
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 2
-    },
-    {
-      "keyword": "service ddos ecosystem",
-      "mentions": 6
-    },
-    {
-      "keyword": "law enforcement authorities",
-      "mentions": 16
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 284
-    },
-    {
-      "keyword": "21 countries participated",
-      "mentions": 4
-    },
-    {
-      "keyword": "hacked draftkings accounts",
-      "mentions": 4
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 8
     },
     {
-      "keyword": "targeting water treatment",
+      "keyword": "play policy updates",
+      "mentions": 3
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 285
+    },
+    {
+      "keyword": "hacked draftkings accounts",
+      "mentions": 5
+    },
+    {
+      "keyword": "service ddos ecosystem",
       "mentions": 7
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 9
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1369
+    },
+    {
+      "keyword": "technical infrastructure supporting",
+      "mentions": 5
+    },
+    {
+      "keyword": "western intelligence agencies",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -156,6 +156,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
+      "link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
+      "summary": "Kyrgyzstan-based cryptocurrency exchange Grinex has suspended its operations after suffering a $13.7 million hack attributed to Western intelligence agencies. [...]",
+      "published": "Fri, 17 Apr 2026 11:08:53 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops",
       "link": "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/",
       "summary": "In cybercrime markets, trust isn't assumed, it's verified. Flare reveals how underground guides teach actors to evaluate carding shops based on data quality, reputation, and survivability. [...]",
@@ -222,15 +231,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
       "summary": "The latest wave of \"Operation PowerOFF,\" on April 13, 2026, targeted the distributed denial-of-service (DDoS) ecosystem and its users across 21 countries. [...]",
       "published": "Thu, 16 Apr 2026 18:26:34 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ZionSiphon malware designed to sabotage water treatment systems",
-      "link": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
-      "summary": "A new malware called ZionSiphon, specifically designed for operational technology, is targeting water treatment and desalination environments to sabotage their operations. [...]",
-      "published": "Thu, 16 Apr 2026 18:04:53 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -319,6 +319,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Every Old Vulnerability Is Now an AI Vulnerability",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/every-old-vulnerability-ai-vulnerability",
+      "summary": "AI's danger isn't that it's creating new bugs, it's that it's amplifying old ones.",
+      "published": "Fri, 17 Apr 2026 14:47:18 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs",
       "link": "https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos",
       "summary": "The Maritime Transportation Security Act (MTSA) requires plans to protect OT systems, audits by independent third parties, and a hybrid OT-security role.",
@@ -387,15 +396,13 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Critical MCP Integration Flaw Puts NGINX at Risk",
-      "link": "https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk",
-      "summary": "Attackers can abuse the near-maximum severity flaw in nginx-ui to restart, create, modify, and delete NGINX configuration files.",
-      "published": "Wed, 15 Apr 2026 21:45:18 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
+      "source": "Security Week",
+      "title": "CoChat Launches AI Collaboration Platform to Combat Shadow AI",
+      "link": "https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/",
+      "summary": "CoChat is fundamentally an AI collaboration platform designed for teamwork and to bring visibility and governance into enterprise AI shadows. The post CoChat Launches AI Collaboration Platform to Combat Shadow AI appeared first on SecurityWeek .",
+      "published": "Fri, 17 Apr 2026 15:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -465,15 +472,6 @@
       "link": "https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/",
       "summary": "An indirect prompt injection could be chained with a sandbox bypass and Cursor’s remote tunnel feature for shell access to machines. The post Cursor AI Vulnerability Exposed Developer Devices appeared first on SecurityWeek .",
       "published": "Fri, 17 Apr 2026 07:29:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "53 DDoS Domains Taken Down by Law Enforcement",
-      "link": "https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/",
-      "summary": "Authorities in 21 countries participated in a coordinated action against DDoS-for-hire services. The post 53 DDoS Domains Taken Down by Law Enforcement appeared first on SecurityWeek .",
-      "published": "Fri, 17 Apr 2026 06:40:21 +0000",
       "value_score": 10,
       "value_signals": []
     },

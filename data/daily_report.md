@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-17 14:51 UTC  
+> **Last Updated:** 2026-04-17 16:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**lawmakers gathered quietly** • **horner automation cscape** • **play policy updates** • **service ddos ecosystem** • **law enforcement authorities** • **iran's intelligence agencies** • **21 countries participated** • **hacked draftkings accounts** • **phony zoom updates** • **targeting water treatment** • **israeli water treatment** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **deliver clickfix attacks** • **attacks threat actors** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **zionsiphon malware designed** • **xl4 xl7 plc**
+**lawmakers gathered quietly** • **horner automation cscape** • **play policy updates** • **iran's intelligence agencies** • **hacked draftkings accounts** • **service ddos ecosystem** • **phony zoom updates** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **western intelligence agencies** • **deliver clickfix attacks** • **attacks threat actors** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **xl4 xl7 plc** • **windows domain controllers** • **secure boot refresh** • **publicly disclosed weakness** • **msps must rethink**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Grinex exchange blames "Western intelligence" for $13.7M crypto hack](https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/)
 - [Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops](https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/)
 - [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
 - [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
@@ -34,7 +35,6 @@
 - [Man gets 30 months for selling thousands of hacked DraftKings accounts](https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/)
 - [Recently leaked Windows zero-days now exploited in attacks](https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/)
 - [Operation PowerOFF identifies 75k DDoS users, takes down 53 domains](https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/)
-- [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Every Old Vulnerability Is Now an AI Vulnerability](https://www.darkreading.com/vulnerabilities-threats/every-old-vulnerability-ai-vulnerability)
 - [Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs](https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos)
 - [NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities)
 - [North Korea Uses ClickFix to Target macOS Users' Data](https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data)
@@ -56,10 +57,10 @@
 - [Two-Factor Authentication Breaks Free from the Desktop](https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop)
 - [Microsoft's Original Windows Secure Boot Certificate Is Expiring](https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire)
 - [6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs](https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs)
-- [Critical MCP Integration Flaw Puts NGINX at Risk](https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk)
 
 ### Security Week
 
+- [CoChat Launches AI Collaboration Platform to Combat Shadow AI](https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/)
 - [In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested](https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/)
 - [Another DraftKings Hacker Sentenced to Prison](https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/)
 - [Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed](https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/)
@@ -67,7 +68,6 @@
 - [Two North Korean IT Worker Scheme Facilitators Jailed in the US](https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/)
 - [ZionSiphon Malware Targets ICS in Water Facilities](https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/)
 - [Cursor AI Vulnerability Exposed Developer Devices](https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/)
-- [53 DDoS Domains Taken Down by Law Enforcement](https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/)
 
 ### Threatpost
 

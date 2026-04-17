@@ -1,17 +1,19 @@
 {
-  "last_updated": "2026-04-17 18:53",
+  "last_updated": "2026-04-17 20:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "white house chief",
     "lawmakers gathered quietly",
     "horner automation cscape",
     "play policy updates",
     "iran's intelligence agencies",
     "hacked draftkings accounts",
-    "service ddos ecosystem",
+    "bypass endpoint security",
     "phony zoom updates",
     "twitter whistleblower complaint",
     "technical infrastructure supporting",
+    "cve data enrichment",
     "western intelligence agencies",
     "deliver clickfix attacks",
     "attacks threat actors",
@@ -20,50 +22,48 @@
     "high impact vulnerabilities",
     "xl4 xl7 plc",
     "windows domain controllers",
-    "secure boot refresh",
-    "publicly disclosed weakness",
-    "msps must rethink"
+    "secure boot refresh"
   ],
   "trending": [
     {
+      "keyword": "white house chief",
+      "mentions": 1
+    },
+    {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "horner automation cscape",
-      "mentions": 9
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 4
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 286
-    },
-    {
-      "keyword": "hacked draftkings accounts",
-      "mentions": 6
-    },
-    {
-      "keyword": "service ddos ecosystem",
-      "mentions": 8
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 10
     },
     {
+      "keyword": "play policy updates",
+      "mentions": 5
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 287
+    },
+    {
+      "keyword": "hacked draftkings accounts",
+      "mentions": 7
+    },
+    {
+      "keyword": "bypass endpoint security",
+      "mentions": 1
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 11
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1370
+      "mentions": 1371
     },
     {
       "keyword": "technical infrastructure supporting",
-      "mentions": 6
-    },
-    {
-      "keyword": "western intelligence agencies",
-      "mentions": 2
+      "mentions": 7
     }
   ],
   "articles": [
@@ -156,6 +156,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
+      "link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
+      "summary": "The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor to run hidden virtual machines on compromised systems and bypass endpoint security. [...]",
+      "published": "Fri, 17 Apr 2026 15:10:19 -0400",
+      "value_score": 58,
+      "value_signals": [
+        "Ransomware ×2",
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
       "link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
       "summary": "Kyrgyzstan-based cryptocurrency exchange Grinex has suspended its operations after suffering a $13.7 million hack attributed to Western intelligence agencies. [...]",
@@ -224,15 +236,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
-      "link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
-      "summary": "The latest wave of \"Operation PowerOFF,\" on April 13, 2026, targeted the distributed denial-of-service (DDoS) ecosystem and its users across 21 countries. [...]",
-      "published": "Thu, 16 Apr 2026 18:26:34 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -319,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "How NIST's Cutback of CVE Handling Impacts Cyber Teams",
+      "link": "https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams",
+      "summary": "Industry and ad hoc coalitions appear poised to help fill the gap created by NIST's decision to cut back on CVE data enrichment.",
+      "published": "Fri, 17 Apr 2026 19:51:57 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Every Old Vulnerability Is Now an AI Vulnerability",
       "link": "https://www.darkreading.com/vulnerabilities-threats/every-old-vulnerability-ai-vulnerability",
       "summary": "AI's danger isn't that it's creating new bugs, it's that it's amplifying old ones.",
@@ -385,15 +397,13 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs",
-      "summary": "While enterprises breaches make more headlines, smaller incidents tend to be under-reported, if at all, allowing campaigns to last longer with less disruption.",
-      "published": "Thu, 16 Apr 2026 06:00:00 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
+      "source": "Security Week",
+      "title": "White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology",
+      "link": "https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/",
+      "summary": "A White House official said the administration is engaging with advanced AI labs about their models and the security of software. The post White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology appeared first on SecurityWeek .",
+      "published": "Fri, 17 Apr 2026 19:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -463,15 +473,6 @@
       "link": "https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/",
       "summary": "The malware is configured to operate on systems associated with Israeli water treatment and desalination plants. The post ZionSiphon Malware Targets ICS in Water Facilities appeared first on SecurityWeek .",
       "published": "Fri, 17 Apr 2026 08:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cursor AI Vulnerability Exposed Developer Devices",
-      "link": "https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/",
-      "summary": "An indirect prompt injection could be chained with a sandbox bypass and Cursor’s remote tunnel feature for shell access to machines. The post Cursor AI Vulnerability Exposed Developer Devices appeared first on SecurityWeek .",
-      "published": "Fri, 17 Apr 2026 07:29:16 +0000",
       "value_score": 10,
       "value_signals": []
     },

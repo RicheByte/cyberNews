@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-17 02:05 UTC  
+> **Last Updated:** 2026-04-17 06:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**horner automation cscape** • **threat actors continue** • **targeting water treatment** • **social engineering phase** • **service ddos ecosystem** • **remote code execution** • **iran's intelligence agencies** • **deliver malware capable** • **openai widens access** • **actively exploited flaw** • **twitter whistleblower complaint** • **security intelligence brief** • **released security updates** • **full technical breakdown** • **phony zoom updates** • **least 77 vulnerabilities** • **execute arbitrary commands** • **execute arbitrary code** • **arbitrary code execution** • **2 3 million**
+**horner automation cscape** • **threat actors continue** • **targeting water treatment** • **social engineering phase** • **service ddos ecosystem** • **remote code execution** • **iran's intelligence agencies** • **deliver malware capable** • **openai widens access** • **actively exploited flaw** • **security intelligence brief** • **released security updates** • **twitter whistleblower complaint** • **full technical breakdown** • **phony zoom updates** • **least 77 vulnerabilities** • **execute arbitrary commands** • **execute arbitrary code** • **arbitrary code execution** • **2 3 million**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
 - [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
 - [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
 - [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
@@ -23,7 +24,6 @@
 - [Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu](https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html)
 - [Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks](https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html)
 - [UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign](https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html)
-- [n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails](https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html)
 
 ### BleepingComputer
 

@@ -269,7 +269,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1363,
+      "count": 1364,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -646,7 +646,7 @@
       ]
     },
     "remote code execution": {
-      "count": 229,
+      "count": 230,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -758,7 +758,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2791,7 +2791,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 193,
+      "count": 194,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3639,7 +3639,7 @@
       ]
     },
     "released security updates": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -6161,7 +6161,7 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -9534,7 +9534,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10651,7 +10651,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 279,
+      "count": 280,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10846,7 +10846,7 @@
       ]
     },
     "deliver malware capable": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-23",
         "2026-04-16",
@@ -13196,35 +13196,35 @@
       ]
     },
     "security intelligence brief": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "2 3 million": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "social engineering phase": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "openai widens access": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "threat actors continue": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-16",
         "2026-04-17"
@@ -13243,7 +13243,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-16",
         "2026-04-17"
@@ -13256,14 +13256,14 @@
       ]
     },
     "full technical breakdown": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "phony zoom updates": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-16",
         "2026-04-17"
@@ -13276,38 +13276,27 @@
       ]
     },
     "horner automation cscape": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "targeting water treatment": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-16",
         "2026-04-17"
       ]
     },
     "service ddos ecosystem": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-17"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-07 22:33",
-      "articles": 56,
-      "top_keywords": [
-        "maximum severity vulnerability",
-        "authentication tokens stolen",
-        "trent ai emerges",
-        "iran's intelligence agencies",
-        "agents autonomous programs"
-      ]
-    },
     {
       "timestamp": "2026-04-08 01:58",
       "articles": 56,
@@ -14388,6 +14377,17 @@
     },
     {
       "timestamp": "2026-04-17 02:05",
+      "articles": 56,
+      "top_keywords": [
+        "horner automation cscape",
+        "threat actors continue",
+        "targeting water treatment",
+        "social engineering phase",
+        "service ddos ecosystem"
+      ]
+    },
+    {
+      "timestamp": "2026-04-17 06:00",
       "articles": 56,
       "top_keywords": [
         "horner automation cscape",

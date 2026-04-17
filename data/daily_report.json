@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17 02:05",
+  "last_updated": "2026-04-17 06:00",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,9 +13,9 @@
     "deliver malware capable",
     "openai widens access",
     "actively exploited flaw",
-    "twitter whistleblower complaint",
     "security intelligence brief",
     "released security updates",
+    "twitter whistleblower complaint",
     "full technical breakdown",
     "phony zoom updates",
     "least 77 vulnerabilities",
@@ -27,46 +27,61 @@
   "trending": [
     {
       "keyword": "horner automation cscape",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "threat actors continue",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "targeting water treatment",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "social engineering phase",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "service ddos ecosystem",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "remote code execution",
-      "mentions": 229
+      "mentions": 230
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 279
+      "mentions": 280
     },
     {
       "keyword": "deliver malware capable",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "openai widens access",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "actively exploited flaw",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+      "summary": "A recently disclosed high-severity security flaw in Apache ActiveMQ Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA). To that end, the agency has added the vulnerability, tracked as CVE-2026-34197 (CVSS score: 8.8), to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian",
+      "published": "Fri, 17 Apr 2026 08:52:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
@@ -138,17 +153,6 @@
       "published": "Thu, 16 Apr 2026 11:50:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
-      "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
-      "summary": "Threat actors have been observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payloads or fingerprint devices by sending automated emails. \"By leveraging trusted infrastructure, these attackers bypass traditional security filters, turning productivity tools into delivery",
-      "published": "Wed, 15 Apr 2026 22:39:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
     },
     {
       "source": "BleepingComputer",

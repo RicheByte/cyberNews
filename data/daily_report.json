@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18 14:36",
+  "last_updated": "2026-04-18 16:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,10 +11,10 @@
     "play policy updates",
     "attacks threat actors",
     "bypass endpoint security",
-    "phony zoom updates",
     "twitter whistleblower complaint",
     "technical infrastructure supporting",
     "platform s disruption",
+    "phony zoom updates",
     "intelligence claims grinex",
     "deliver clickfix attacks",
     "cve data enrichment",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "white house chief",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 14
-    },
-    {
-      "keyword": "horner automation cscape",
-      "mentions": 18
-    },
-    {
-      "keyword": "western intelligence agencies",
-      "mentions": 11
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 295
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 13
-    },
-    {
-      "keyword": "attacks threat actors",
       "mentions": 15
     },
     {
-      "keyword": "bypass endpoint security",
-      "mentions": 9
-    },
-    {
-      "keyword": "phony zoom updates",
+      "keyword": "horner automation cscape",
       "mentions": 19
     },
     {
+      "keyword": "western intelligence agencies",
+      "mentions": 12
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 296
+    },
+    {
+      "keyword": "play policy updates",
+      "mentions": 14
+    },
+    {
+      "keyword": "attacks threat actors",
+      "mentions": 16
+    },
+    {
+      "keyword": "bypass endpoint security",
+      "mentions": 10
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1379
+      "mentions": 1380
+    },
+    {
+      "keyword": "technical infrastructure supporting",
+      "mentions": 16
     }
   ],
   "articles": [
@@ -157,6 +157,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+      "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
+      "published": "Sat, 18 Apr 2026 11:09:44 -0400",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft Teams right-click paste broken by Edge update bug",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
       "summary": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]",
@@ -230,15 +243,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
-      "summary": "Microsoft warns that some Windows domain controllers are entering restart loops after installing the April 2026 security updates. [...]",
-      "published": "Fri, 17 Apr 2026 03:59:47 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

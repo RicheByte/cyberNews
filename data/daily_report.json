@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18 12:52",
+  "last_updated": "2026-04-18 14:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,61 +9,61 @@
     "western intelligence agencies",
     "iran's intelligence agencies",
     "play policy updates",
-    "hacked draftkings accounts",
+    "attacks threat actors",
     "bypass endpoint security",
     "phony zoom updates",
-    "attacks threat actors",
     "twitter whistleblower complaint",
     "technical infrastructure supporting",
     "platform s disruption",
     "intelligence claims grinex",
-    "cve data enrichment",
     "deliver clickfix attacks",
+    "cve data enrichment",
     "malicious cyber actors",
     "remote code execution",
     "least 77 vulnerabilities",
-    "high impact vulnerabilities"
+    "high impact vulnerabilities",
+    "xl4 xl7 plc"
   ],
   "trending": [
     {
       "keyword": "white house chief",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "horner automation cscape",
-      "mentions": 17
-    },
-    {
-      "keyword": "western intelligence agencies",
-      "mentions": 10
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 294
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 12
-    },
-    {
-      "keyword": "hacked draftkings accounts",
-      "mentions": 14
-    },
-    {
-      "keyword": "bypass endpoint security",
-      "mentions": 8
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 18
     },
     {
+      "keyword": "western intelligence agencies",
+      "mentions": 11
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 295
+    },
+    {
+      "keyword": "play policy updates",
+      "mentions": 13
+    },
+    {
       "keyword": "attacks threat actors",
-      "mentions": 14
+      "mentions": 15
+    },
+    {
+      "keyword": "bypass endpoint security",
+      "mentions": 9
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 19
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1379
     }
   ],
   "articles": [
@@ -157,6 +157,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft Teams right-click paste broken by Edge update bug",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
+      "summary": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]",
+      "published": "Sat, 18 Apr 2026 10:11:21 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
+      "link": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
+      "summary": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
+      "published": "Sat, 18 Apr 2026 09:45:54 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
       "link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
       "summary": "The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor to run hidden virtual machines on compromised systems and bypass endpoint security. [...]",
@@ -217,26 +239,6 @@
       "published": "Fri, 17 Apr 2026 03:59:47 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
-      "summary": "23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings accounts. [...]",
-      "published": "Fri, 17 Apr 2026 03:10:32 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Recently leaked Windows zero-days now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
-      "summary": "Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]",
-      "published": "Fri, 17 Apr 2026 02:14:52 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

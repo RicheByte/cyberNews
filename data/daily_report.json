@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-04-18 07:00",
+  "last_updated": "2026-04-18 08:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "white house chief",
     "lawmakers gathered quietly",
     "horner automation cscape",
-    "play policy updates",
+    "western intelligence agencies",
     "iran's intelligence agencies",
+    "play policy updates",
+    "hacked draftkings accounts",
     "bypass endpoint security",
     "phony zoom updates",
     "attacks threat actors",
     "twitter whistleblower complaint",
     "technical infrastructure supporting",
+    "intelligence claims grinex",
     "cve data enrichment",
-    "western intelligence agencies",
-    "hacked draftkings accounts",
+    "malicious cyber actors",
     "deliver clickfix attacks",
     "remote code execution",
     "least 77 vulnerabilities",
     "high impact vulnerabilities",
-    "xl4 xl7 plc",
-    "television nobody asked",
-    "reverse ssh backdoor"
+    "xl4 xl7 plc"
   ],
   "trending": [
     {
       "keyword": "white house chief",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "horner automation cscape",
-      "mentions": 14
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 9
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 291
-    },
-    {
-      "keyword": "bypass endpoint security",
-      "mentions": 5
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 15
     },
     {
+      "keyword": "western intelligence agencies",
+      "mentions": 8
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 292
+    },
+    {
+      "keyword": "play policy updates",
+      "mentions": 10
+    },
+    {
+      "keyword": "hacked draftkings accounts",
+      "mentions": 12
+    },
+    {
+      "keyword": "bypass endpoint security",
+      "mentions": 6
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 16
+    },
+    {
       "keyword": "attacks threat actors",
-      "mentions": 11
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1375
-    },
-    {
-      "keyword": "technical infrastructure supporting",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
+      "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
+      "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching. For every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections, and OAuth grants. When projects end or employees leave, most",
+      "published": "Sat, 18 Apr 2026 13:37:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
+      "link": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
+      "summary": "Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack. The exchange said it fell victim to what it described as a large-scale cyber attack that bore hallmarks of foreign intelligence agency involvement. This attack led to the theft of over 1",
+      "published": "Sat, 18 Apr 2026 13:29:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
@@ -133,28 +153,6 @@
         "CISA/KEV ×5",
         "Multiple CVEs",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
-      "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
-      "summary": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet dubbed PowMix since at least December 2025. \"PowMix employs randomized command-and-control (C2) beaconing intervals, rather than persistent connection to the C2 server, to evade the network signature detections,\" Cisco Talos",
-      "published": "Thu, 16 Apr 2026 23:22:00 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
-      "summary": "You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole \"crime\" part, ancient vulnerabilities somehow still ruining people's days, and enough supply chain drama to fill a season of television nobody asked for. Not",
-      "published": "Thu, 16 Apr 2026 18:35:00 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
       ]
     },
     {

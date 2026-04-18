@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-18 08:41 UTC  
+> **Last Updated:** 2026-04-18 10:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **western intelligence agencies** • **iran's intelligence agencies** • **play policy updates** • **hacked draftkings accounts** • **bypass endpoint security** • **phony zoom updates** • **attacks threat actors** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **intelligence claims grinex** • **cve data enrichment** • **malicious cyber actors** • **deliver clickfix attacks** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **xl4 xl7 plc**
+**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **western intelligence agencies** • **iran's intelligence agencies** • **play policy updates** • **hacked draftkings accounts** • **bypass endpoint security** • **phony zoom updates** • **attacks threat actors** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **platform s disruption** • **intelligence claims grinex** • **cve data enrichment** • **deliver clickfix attacks** • **malicious cyber actors** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks](https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/)
 - [White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology](https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/)
 - [CoChat Launches AI Collaboration Platform to Combat Shadow AI](https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/)
 - [In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested](https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/)
@@ -67,7 +68,6 @@
 - [Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed](https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/)
 - [Recent Apache ActiveMQ Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/)
 - [Two North Korean IT Worker Scheme Facilitators Jailed in the US](https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/)
-- [ZionSiphon Malware Targets ICS in Water Facilities](https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/)
 
 ### Threatpost
 

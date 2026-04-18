@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18 08:41",
+  "last_updated": "2026-04-18 10:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -15,55 +15,55 @@
     "attacks threat actors",
     "twitter whistleblower complaint",
     "technical infrastructure supporting",
+    "platform s disruption",
     "intelligence claims grinex",
     "cve data enrichment",
-    "malicious cyber actors",
     "deliver clickfix attacks",
+    "malicious cyber actors",
     "remote code execution",
     "least 77 vulnerabilities",
-    "high impact vulnerabilities",
-    "xl4 xl7 plc"
+    "high impact vulnerabilities"
   ],
   "trending": [
     {
       "keyword": "white house chief",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "horner automation cscape",
-      "mentions": 15
-    },
-    {
-      "keyword": "western intelligence agencies",
-      "mentions": 8
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 292
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 10
-    },
-    {
-      "keyword": "hacked draftkings accounts",
-      "mentions": 12
-    },
-    {
-      "keyword": "bypass endpoint security",
-      "mentions": 6
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 16
     },
     {
+      "keyword": "western intelligence agencies",
+      "mentions": 9
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 293
+    },
+    {
+      "keyword": "play policy updates",
+      "mentions": 11
+    },
+    {
+      "keyword": "hacked draftkings accounts",
+      "mentions": 13
+    },
+    {
+      "keyword": "bypass endpoint security",
+      "mentions": 7
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 17
+    },
+    {
       "keyword": "attacks threat actors",
-      "mentions": 12
+      "mentions": 13
     }
   ],
   "articles": [
@@ -399,6 +399,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
+      "link": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/",
+      "summary": "Threat actors are reusing Tycoon 2FA tools across other phishing kits following the platform’s disruption. The post Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks appeared first on SecurityWeek .",
+      "published": "Sat, 18 Apr 2026 10:30:00 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology",
       "link": "https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/",
       "summary": "A White House official said the administration is engaging with advanced AI labs about their models and the security of software. The post White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology appeared first on SecurityWeek .",
@@ -465,15 +476,6 @@
       "link": "https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/",
       "summary": "Kejia Wang and Zhenxing Wang compromised the identities of dozens of US persons to help land jobs at over 100 companies. The post Two North Korean IT Worker Scheme Facilitators Jailed in the US appeared first on SecurityWeek .",
       "published": "Fri, 17 Apr 2026 09:21:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "ZionSiphon Malware Targets ICS in Water Facilities",
-      "link": "https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/",
-      "summary": "The malware is configured to operate on systems associated with Israeli water treatment and desalination plants. The post ZionSiphon Malware Targets ICS in Water Facilities appeared first on SecurityWeek .",
-      "published": "Fri, 17 Apr 2026 08:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

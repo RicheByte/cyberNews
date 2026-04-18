@@ -269,7 +269,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1374,
+      "count": 1375,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -647,7 +647,7 @@
       ]
     },
     "remote code execution": {
-      "count": 240,
+      "count": 241,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -9537,7 +9537,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10655,7 +10655,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 290,
+      "count": 291,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -12942,7 +12942,7 @@
       ]
     },
     "high impact vulnerabilities": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-14",
         "2026-04-17",
@@ -13271,7 +13271,7 @@
       ]
     },
     "phony zoom updates": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13286,7 +13286,7 @@
       ]
     },
     "horner automation cscape": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13313,14 +13313,14 @@
       ]
     },
     "hacked draftkings accounts": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-17",
         "2026-04-18"
       ]
     },
     "attacks threat actors": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-17",
         "2026-04-18"
@@ -13333,14 +13333,14 @@
       ]
     },
     "technical infrastructure supporting": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-17",
         "2026-04-18"
       ]
     },
     "lawmakers gathered quietly": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-17",
         "2026-04-18"
@@ -13353,7 +13353,7 @@
       ]
     },
     "xl4 xl7 plc": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-17",
         "2026-04-18"
@@ -13366,21 +13366,21 @@
       ]
     },
     "play policy updates": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-17",
         "2026-04-18"
       ]
     },
     "deliver clickfix attacks": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-17",
         "2026-04-18"
       ]
     },
     "western intelligence agencies": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-17",
         "2026-04-18"
@@ -13406,46 +13406,41 @@
       ]
     },
     "white house chief": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-17",
         "2026-04-18"
       ]
     },
     "bypass endpoint security": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-17",
         "2026-04-18"
       ]
     },
     "cve data enrichment": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-17",
         "2026-04-18"
       ]
     },
     "reverse ssh backdoor": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-17",
+        "2026-04-18"
+      ]
+    },
+    "television nobody asked": {
+      "count": 1,
+      "dates": [
         "2026-04-18"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-08 22:34",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "mitsubishi electric genesis64",
-        "rce bug lurked",
-        "threat actor's packages",
-        "threat actor tracked"
-      ]
-    },
     {
       "timestamp": "2026-04-09 01:50",
       "articles": 56,
@@ -14526,6 +14521,17 @@
     },
     {
       "timestamp": "2026-04-18 04:31",
+      "articles": 56,
+      "top_keywords": [
+        "white house chief",
+        "lawmakers gathered quietly",
+        "horner automation cscape",
+        "play policy updates",
+        "iran's intelligence agencies"
+      ]
+    },
+    {
+      "timestamp": "2026-04-18 07:00",
       "articles": 56,
       "top_keywords": [
         "white house chief",

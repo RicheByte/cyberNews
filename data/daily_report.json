@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18 04:31",
+  "last_updated": "2026-04-18 07:00",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,65 +8,79 @@
     "horner automation cscape",
     "play policy updates",
     "iran's intelligence agencies",
-    "hacked draftkings accounts",
     "bypass endpoint security",
     "phony zoom updates",
+    "attacks threat actors",
     "twitter whistleblower complaint",
     "technical infrastructure supporting",
     "cve data enrichment",
     "western intelligence agencies",
+    "hacked draftkings accounts",
     "deliver clickfix attacks",
-    "attacks threat actors",
     "remote code execution",
     "least 77 vulnerabilities",
     "high impact vulnerabilities",
     "xl4 xl7 plc",
-    "reverse ssh backdoor",
-    "publicly disclosed weakness"
+    "television nobody asked",
+    "reverse ssh backdoor"
   ],
   "trending": [
     {
       "keyword": "white house chief",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "horner automation cscape",
-      "mentions": 13
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 8
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 290
-    },
-    {
-      "keyword": "hacked draftkings accounts",
-      "mentions": 10
-    },
-    {
-      "keyword": "bypass endpoint security",
-      "mentions": 4
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 14
     },
     {
+      "keyword": "play policy updates",
+      "mentions": 9
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 291
+    },
+    {
+      "keyword": "bypass endpoint security",
+      "mentions": 5
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 15
+    },
+    {
+      "keyword": "attacks threat actors",
+      "mentions": 11
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1374
+      "mentions": 1375
     },
     {
       "keyword": "technical infrastructure supporting",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
+      "link": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
+      "summary": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42. The attack targeting TBK DVR devices has been found to exploit CVE-2024-3721 (CVSS score: 6.3), a medium-severity command injection vulnerability affecting",
+      "published": "Sat, 18 Apr 2026 11:31:00 +0530",
+      "value_score": 80,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Botnet ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
@@ -141,17 +155,6 @@
       "value_score": 30,
       "value_signals": [
         "RCE"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
-      "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-      "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching. For every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections, andOAuth grants. When projects end or employees leave, most",
-      "published": "Thu, 16 Apr 2026 17:25:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

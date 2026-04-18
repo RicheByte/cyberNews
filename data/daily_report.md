@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-18 04:31 UTC  
+> **Last Updated:** 2026-04-18 07:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **play policy updates** • **iran's intelligence agencies** • **hacked draftkings accounts** • **bypass endpoint security** • **phony zoom updates** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **cve data enrichment** • **western intelligence agencies** • **deliver clickfix attacks** • **attacks threat actors** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **xl4 xl7 plc** • **reverse ssh backdoor** • **publicly disclosed weakness**
+**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **play policy updates** • **iran's intelligence agencies** • **bypass endpoint security** • **phony zoom updates** • **attacks threat actors** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **cve data enrichment** • **western intelligence agencies** • **hacked draftkings accounts** • **deliver clickfix attacks** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **xl4 xl7 plc** • **television nobody asked** • **reverse ssh backdoor**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet](https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html)
 - [Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched](https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html)
 - [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
 - [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
@@ -23,7 +24,6 @@
 - [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
 - [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
 - [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
-- [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 
 ### BleepingComputer
 

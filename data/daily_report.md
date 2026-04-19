@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-19 12:51 UTC  
+> **Last Updated:** 2026-04-19 14:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **western intelligence agencies** • **iran's intelligence agencies** • **play policy updates** • **attacks threat actors** • **bypass endpoint security** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **platform s disruption** • **phony zoom updates** • **intelligence claims grinex** • **deliver clickfix attacks** • **cve data enrichment** • **malicious cyber actors** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **xl4 xl7 plc**
+**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **western intelligence agencies** • **iran's intelligence agencies** • **play policy updates** • **attacks threat actors** • **bypass endpoint security** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **platform s disruption** • **phony zoom updates** • **intelligence claims grinex** • **deliver clickfix attacks** • **cve data enrichment** • **exploiting security flaws** • **malicious cyber actors** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
 - [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
 - [Microsoft Teams right-click paste broken by Edge update bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/)
 - [NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support](https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/)
@@ -34,7 +35,6 @@
 - [Grinex exchange blames "Western intelligence" for $13.7M crypto hack](https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/)
 - [Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops](https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/)
 - [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
-- [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
 
 ### Krebs on Security
 

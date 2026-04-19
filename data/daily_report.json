@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19 12:51",
+  "last_updated": "2026-04-19 14:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -18,52 +18,52 @@
     "intelligence claims grinex",
     "deliver clickfix attacks",
     "cve data enrichment",
+    "exploiting security flaws",
     "malicious cyber actors",
     "remote code execution",
     "least 77 vulnerabilities",
-    "high impact vulnerabilities",
-    "xl4 xl7 plc"
+    "high impact vulnerabilities"
   ],
   "trending": [
     {
       "keyword": "white house chief",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "horner automation cscape",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "western intelligence agencies",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 305
+      "mentions": 306
     },
     {
       "keyword": "play policy updates",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "attacks threat actors",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "bypass endpoint security",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1389
+      "mentions": 1390
     },
     {
       "keyword": "technical infrastructure supporting",
-      "mentions": 25
+      "mentions": 26
     }
   ],
   "articles": [
@@ -157,6 +157,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "NIST to stop rating non-priority flaws due to volume increase",
+      "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+      "summary": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
+      "published": "Sun, 19 Apr 2026 10:17:43 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critical flaw in Protobuf library enables JavaScript code execution",
       "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
       "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
@@ -229,19 +238,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
-      "summary": "CISA warned that attackers are now exploiting a high-severity Apache ActiveMQ vulnerability, which was patched earlier this month after going undetected for 13 years. [...]",
-      "published": "Fri, 17 Apr 2026 05:30:15 -0400",
-      "value_score": 81,
-      "value_signals": [
-        "Active exploitation",
-        "CISA/KEV ×2",
-        "Exploit wording"
       ]
     },
     {

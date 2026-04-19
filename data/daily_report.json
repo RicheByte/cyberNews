@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19 14:37",
+  "last_updated": "2026-04-19 16:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,6 +11,7 @@
     "play policy updates",
     "attacks threat actors",
     "bypass endpoint security",
+    "exploiting security flaws",
     "twitter whistleblower complaint",
     "technical infrastructure supporting",
     "platform s disruption",
@@ -18,52 +19,51 @@
     "intelligence claims grinex",
     "deliver clickfix attacks",
     "cve data enrichment",
-    "exploiting security flaws",
     "malicious cyber actors",
+    "bypass spam filters",
     "remote code execution",
-    "least 77 vulnerabilities",
-    "high impact vulnerabilities"
+    "least 77 vulnerabilities"
   ],
   "trending": [
     {
       "keyword": "white house chief",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "horner automation cscape",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "western intelligence agencies",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 306
+      "mentions": 307
     },
     {
       "keyword": "play policy updates",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "attacks threat actors",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "bypass endpoint security",
-      "mentions": 20
+      "mentions": 21
+    },
+    {
+      "keyword": "exploiting security flaws",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1390
-    },
-    {
-      "keyword": "technical infrastructure supporting",
-      "mentions": 26
+      "mentions": 1391
     }
   ],
   "articles": [
@@ -157,6 +157,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Apple account change alerts abused to send phishing emails",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
+      "summary": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them to bypass spam filters. [...]",
+      "published": "Sun, 19 Apr 2026 12:03:01 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "NIST to stop rating non-priority flaws due to volume increase",
       "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
       "summary": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
@@ -228,17 +239,6 @@
       "published": "Fri, 17 Apr 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
-      "summary": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming webinar to learn how to combine security and recovery strategies to reduce risk and maintain business continuity. [...]",
-      "published": "Fri, 17 Apr 2026 08:20:28 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

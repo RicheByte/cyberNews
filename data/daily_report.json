@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19 16:34",
+  "last_updated": "2026-04-19 18:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,17 +9,17 @@
     "western intelligence agencies",
     "iran's intelligence agencies",
     "play policy updates",
-    "attacks threat actors",
-    "bypass endpoint security",
-    "exploiting security flaws",
     "twitter whistleblower complaint",
+    "threat actors claimed",
     "technical infrastructure supporting",
     "platform s disruption",
     "phony zoom updates",
     "intelligence claims grinex",
     "deliver clickfix attacks",
+    "bypass endpoint security",
+    "attacks threat actors",
     "cve data enrichment",
-    "malicious cyber actors",
+    "exploiting security flaws",
     "bypass spam filters",
     "remote code execution",
     "least 77 vulnerabilities"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "white house chief",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 26
-    },
-    {
-      "keyword": "horner automation cscape",
-      "mentions": 30
-    },
-    {
-      "keyword": "western intelligence agencies",
-      "mentions": 23
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 307
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 25
-    },
-    {
-      "keyword": "attacks threat actors",
       "mentions": 27
     },
     {
-      "keyword": "bypass endpoint security",
-      "mentions": 21
+      "keyword": "horner automation cscape",
+      "mentions": 31
     },
     {
-      "keyword": "exploiting security flaws",
-      "mentions": 2
+      "keyword": "western intelligence agencies",
+      "mentions": 24
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 308
+    },
+    {
+      "keyword": "play policy updates",
+      "mentions": 26
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1391
+      "mentions": 1392
+    },
+    {
+      "keyword": "threat actors claimed",
+      "mentions": 7
+    },
+    {
+      "keyword": "technical infrastructure supporting",
+      "mentions": 28
+    },
+    {
+      "keyword": "platform s disruption",
+      "mentions": 16
     }
   ],
   "articles": [
@@ -157,6 +157,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Vercel confirms breach as hackers claim to be selling stolen data",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "summary": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
+      "published": "Sun, 19 Apr 2026 13:32:45 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Apple account change alerts abused to send phishing emails",
       "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
       "summary": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them to bypass spam filters. [...]",
@@ -228,15 +239,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
       "summary": "Kyrgyzstan-based cryptocurrency exchange Grinex has suspended its operations after suffering a $13.7 million hack attributed to Western intelligence agencies. [...]",
       "published": "Fri, 17 Apr 2026 11:08:53 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/",
-      "summary": "In cybercrime markets, trust isn't assumed, it's verified. Flare reveals how underground guides teach actors to evaluate carding shops based on data quality, reputation, and survivability. [...]",
-      "published": "Fri, 17 Apr 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
     },

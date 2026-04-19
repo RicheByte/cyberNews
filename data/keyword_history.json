@@ -271,7 +271,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1391,
+      "count": 1392,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -650,7 +650,7 @@
       ]
     },
     "remote code execution": {
-      "count": 257,
+      "count": 258,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -9541,7 +9541,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 172,
+      "count": 173,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9751,10 +9751,11 @@
       ]
     },
     "threat actors claimed": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-12",
-        "2026-03-13"
+        "2026-03-13",
+        "2026-04-19"
       ]
     },
     "social media giant": {
@@ -10660,7 +10661,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 307,
+      "count": 308,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13278,7 +13279,7 @@
       ]
     },
     "phony zoom updates": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13294,7 +13295,7 @@
       ]
     },
     "horner automation cscape": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13329,7 +13330,7 @@
       ]
     },
     "attacks threat actors": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13343,7 +13344,7 @@
       ]
     },
     "technical infrastructure supporting": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13351,7 +13352,7 @@
       ]
     },
     "lawmakers gathered quietly": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13379,7 +13380,7 @@
       ]
     },
     "play policy updates": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13387,7 +13388,7 @@
       ]
     },
     "deliver clickfix attacks": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13395,7 +13396,7 @@
       ]
     },
     "western intelligence agencies": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13422,7 +13423,7 @@
       ]
     },
     "white house chief": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13430,7 +13431,7 @@
       ]
     },
     "bypass endpoint security": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13438,7 +13439,7 @@
       ]
     },
     "cve data enrichment": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13459,44 +13460,33 @@
       ]
     },
     "intelligence claims grinex": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-04-18",
         "2026-04-19"
       ]
     },
     "platform s disruption": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-04-18",
         "2026-04-19"
       ]
     },
     "exploiting security flaws": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-19"
       ]
     },
     "bypass spam filters": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-19"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-10 12:59",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "block session theft",
-        "smart slider 3",
-        "iran's intelligence agencies",
-        "cookie theft protections"
-      ]
-    },
     {
       "timestamp": "2026-04-10 14:43",
       "articles": 56,
@@ -14577,6 +14567,17 @@
     },
     {
       "timestamp": "2026-04-19 16:34",
+      "articles": 56,
+      "top_keywords": [
+        "white house chief",
+        "lawmakers gathered quietly",
+        "horner automation cscape",
+        "western intelligence agencies",
+        "iran's intelligence agencies"
+      ]
+    },
+    {
+      "timestamp": "2026-04-19 18:40",
       "articles": 56,
       "top_keywords": [
         "white house chief",

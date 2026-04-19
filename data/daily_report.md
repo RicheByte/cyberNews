@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-19 16:34 UTC  
+> **Last Updated:** 2026-04-19 18:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **western intelligence agencies** • **iran's intelligence agencies** • **play policy updates** • **attacks threat actors** • **bypass endpoint security** • **exploiting security flaws** • **twitter whistleblower complaint** • **technical infrastructure supporting** • **platform s disruption** • **phony zoom updates** • **intelligence claims grinex** • **deliver clickfix attacks** • **cve data enrichment** • **malicious cyber actors** • **bypass spam filters** • **remote code execution** • **least 77 vulnerabilities**
+**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **western intelligence agencies** • **iran's intelligence agencies** • **play policy updates** • **twitter whistleblower complaint** • **threat actors claimed** • **technical infrastructure supporting** • **platform s disruption** • **phony zoom updates** • **intelligence claims grinex** • **deliver clickfix attacks** • **bypass endpoint security** • **attacks threat actors** • **cve data enrichment** • **exploiting security flaws** • **bypass spam filters** • **remote code execution** • **least 77 vulnerabilities**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
 - [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
 - [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
 - [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
@@ -34,7 +35,6 @@
 - [NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support](https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/)
 - [Payouts King ransomware uses QEMU VMs to bypass endpoint security](https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/)
 - [Grinex exchange blames "Western intelligence" for $13.7M crypto hack](https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/)
-- [Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops](https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/)
 
 ### Krebs on Security
 

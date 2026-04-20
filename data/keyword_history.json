@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 450,
+      "count": 451,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -145,7 +145,8 @@
         "2026-04-13",
         "2026-04-14",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "user named csnemess": {
@@ -271,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1398,
+      "count": 1399,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -9543,7 +9544,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9754,7 +9755,7 @@
       ]
     },
     "threat actors claimed": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -10665,7 +10666,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 314,
+      "count": 315,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11131,7 +11132,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -12381,7 +12382,7 @@
       ]
     },
     "older internet routers": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12956,7 +12957,7 @@
       ]
     },
     "high impact vulnerabilities": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-04-14",
         "2026-04-17",
@@ -13287,7 +13288,7 @@
       ]
     },
     "phony zoom updates": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13304,7 +13305,7 @@
       ]
     },
     "horner automation cscape": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13340,7 +13341,7 @@
       ]
     },
     "attacks threat actors": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13402,7 +13403,7 @@
       ]
     },
     "deliver clickfix attacks": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13479,7 +13480,7 @@
       ]
     },
     "intelligence claims grinex": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-04-18",
         "2026-04-19",
@@ -13495,14 +13496,14 @@
       ]
     },
     "exploiting security flaws": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-19",
         "2026-04-20"
       ]
     },
     "bypass spam filters": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-19",
         "2026-04-20"
@@ -13515,24 +13516,30 @@
       ]
     },
     "recent service update": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-20"
       ]
     },
     "band oob updates": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-20"
       ]
     },
     "russia hacked routers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-20"
       ]
     },
     "sophisticated ddos attack": {
+      "count": 2,
+      "dates": [
+        "2026-04-20"
+      ]
+    },
+    "hackers abuse qemu": {
       "count": 1,
       "dates": [
         "2026-04-20"
@@ -13540,17 +13547,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-11 04:17",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "iran's intelligence agencies",
-        "human scale security",
-        "cryptographically binding authentication",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-11 06:55",
       "articles": 56,
@@ -14638,6 +14634,17 @@
         "iran's intelligence agencies",
         "play policy updates",
         "recent service update"
+      ]
+    },
+    {
+      "timestamp": "2026-04-20 13:20",
+      "articles": 56,
+      "top_keywords": [
+        "horner automation cscape",
+        "iran's intelligence agencies",
+        "hackers abuse qemu",
+        "recent service update",
+        "phony zoom updates"
       ]
     }
   ]

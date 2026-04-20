@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-20 11:16",
+  "last_updated": "2026-04-20 13:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "horner automation cscape",
-    "white house chief",
     "iran's intelligence agencies",
-    "play policy updates",
+    "hackers abuse qemu",
     "recent service update",
-    "intelligence claims grinex",
     "phony zoom updates",
+    "intelligence claims grinex",
     "band oob updates",
     "twitter whistleblower complaint",
-    "platform s disruption",
     "iran war unleashing",
     "bypass spam filters",
     "threat actors claimed",
     "exploiting security flaws",
-    "remote code execution",
     "least 77 vulnerabilities",
     "high impact vulnerabilities",
     "sophisticated ddos attack",
     "russia hacked routers",
-    "older internet routers"
+    "older internet routers",
+    "deliver clickfix attacks",
+    "malicious cyber actors",
+    "attacks threat actors"
   ],
   "trending": [
     {
       "keyword": "horner automation cscape",
-      "mentions": 37
-    },
-    {
-      "keyword": "white house chief",
-      "mentions": 28
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 314
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 32
-    },
-    {
-      "keyword": "recent service update",
-      "mentions": 2
-    },
-    {
-      "keyword": "intelligence claims grinex",
-      "mentions": 23
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 38
     },
     {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 315
+    },
+    {
+      "keyword": "hackers abuse qemu",
+      "mentions": 1
+    },
+    {
+      "keyword": "recent service update",
+      "mentions": 3
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 39
+    },
+    {
+      "keyword": "intelligence claims grinex",
+      "mentions": 24
+    },
+    {
       "keyword": "band oob updates",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1398
+      "mentions": 1399
     },
     {
-      "keyword": "platform s disruption",
-      "mentions": 22
+      "keyword": "iran war unleashing",
+      "mentions": 45
+    },
+    {
+      "keyword": "bypass spam filters",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Why Most AI Deployments Stall After the Demo",
+      "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
+      "summary": "The fastest way to fall in love with an AI tool is to watch the demo. Everything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of a new era for your team. But most AI initiatives don't fail because of bad technology. They stall because what worked in the demo doesn't survive contact with real operations. The gap between a",
+      "published": "Mon, 20 Apr 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
@@ -146,11 +155,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
-      "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
-      "summary": "Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 million accounts in 2025. The new policy updates relate to contact and location permissions in Android, allowing third-party apps to access the contact lists and a user's location in",
-      "published": "Fri, 17 Apr 2026 16:17:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft tests Windows Explorer speed, performance improvements",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
+      "summary": "Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance. [...]",
+      "published": "Mon, 20 Apr 2026 08:04:02 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -229,17 +238,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
-      "link": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
-      "summary": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
-      "published": "Sat, 18 Apr 2026 09:45:54 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
       ]
     },
     {
@@ -356,7 +354,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Coast Guard's New Cybersecurity Rules Offers Lessons for CISOs",
+      "title": "Coast Guard's New Cybersecurity Rules Offer Lessons for CISOs",
       "link": "https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos",
       "summary": "The Maritime Transportation Security Act (MTSA) requires plans to protect OT systems, audits by independent third parties, and a hybrid OT-security role.",
       "published": "Fri, 17 Apr 2026 13:00:00 GMT",
@@ -400,6 +398,26 @@
       "published": "Thu, 16 Apr 2026 15:28:15 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "British Scattered Spider Hacker Pleads Guilty in the US",
+      "link": "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/",
+      "summary": "Tyler Buchanan admitted in court to hacking into various companies, defrauding them, and stealing cryptocurrency from multiple individuals. The post British Scattered Spider Hacker Pleads Guilty in the US appeared first on SecurityWeek .",
+      "published": "Mon, 20 Apr 2026 12:21:16 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Hackers Abuse QEMU for Defense Evasion",
+      "link": "https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/",
+      "summary": "The machine emulator has been abused in at least two different campaigns distributing ransomware and remote access tools. The post Hackers Abuse QEMU for Defense Evasion appeared first on SecurityWeek .",
+      "published": "Mon, 20 Apr 2026 11:35:29 +0000",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
     },
     {
       "source": "Security Week",
@@ -460,24 +478,6 @@
       "value_signals": [
         "Phishing ×3"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology",
-      "link": "https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/",
-      "summary": "A White House official said the administration is engaging with advanced AI labs about their models and the security of software. The post White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology appeared first on SecurityWeek .",
-      "published": "Fri, 17 Apr 2026 19:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CoChat Launches AI Collaboration Platform to Combat Shadow AI",
-      "link": "https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/",
-      "summary": "CoChat is fundamentally an AI collaboration platform designed for teamwork and to bring visibility and governance into enterprise AI shadows. The post CoChat Launches AI Collaboration Platform to Combat Shadow AI appeared first on SecurityWeek .",
-      "published": "Fri, 17 Apr 2026 15:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

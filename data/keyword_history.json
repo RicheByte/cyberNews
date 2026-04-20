@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 451,
+      "count": 452,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1399,
+      "count": 1400,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -9544,7 +9544,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 180,
+      "count": 181,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9755,7 +9755,7 @@
       ]
     },
     "threat actors claimed": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -10666,7 +10666,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 315,
+      "count": 316,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11132,7 +11132,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -12382,7 +12382,7 @@
       ]
     },
     "older internet routers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12957,7 +12957,7 @@
       ]
     },
     "high impact vulnerabilities": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-14",
         "2026-04-17",
@@ -13288,7 +13288,7 @@
       ]
     },
     "phony zoom updates": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13305,7 +13305,7 @@
       ]
     },
     "horner automation cscape": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13341,7 +13341,7 @@
       ]
     },
     "attacks threat actors": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13458,7 +13458,7 @@
       ]
     },
     "cve data enrichment": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13480,7 +13480,7 @@
       ]
     },
     "intelligence claims grinex": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-04-18",
         "2026-04-19",
@@ -13496,7 +13496,7 @@
       ]
     },
     "exploiting security flaws": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-19",
         "2026-04-20"
@@ -13516,30 +13516,36 @@
       ]
     },
     "recent service update": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-20"
       ]
     },
     "band oob updates": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-20"
       ]
     },
     "russia hacked routers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-20"
       ]
     },
     "sophisticated ddos attack": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-20"
       ]
     },
     "hackers abuse qemu": {
+      "count": 2,
+      "dates": [
+        "2026-04-20"
+      ]
+    },
+    "independent third parties": {
       "count": 1,
       "dates": [
         "2026-04-20"
@@ -13547,17 +13553,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-11 06:55",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "iran's intelligence agencies",
-        "human scale security",
-        "cryptographically binding authentication",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-11 08:37",
       "articles": 56,
@@ -14644,6 +14639,17 @@
         "iran's intelligence agencies",
         "hackers abuse qemu",
         "recent service update",
+        "phony zoom updates"
+      ]
+    },
+    {
+      "timestamp": "2026-04-20 15:13",
+      "articles": 56,
+      "top_keywords": [
+        "horner automation cscape",
+        "iran's intelligence agencies",
+        "hackers abuse qemu",
+        "threat actors claimed",
         "phony zoom updates"
       ]
     }

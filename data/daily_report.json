@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-04-20 13:20",
+  "last_updated": "2026-04-20 15:13",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "horner automation cscape",
     "iran's intelligence agencies",
     "hackers abuse qemu",
-    "recent service update",
+    "threat actors claimed",
     "phony zoom updates",
     "intelligence claims grinex",
     "band oob updates",
     "twitter whistleblower complaint",
     "iran war unleashing",
-    "bypass spam filters",
-    "threat actors claimed",
-    "exploiting security flaws",
+    "independent third parties",
+    "attacks threat actors",
     "least 77 vulnerabilities",
     "high impact vulnerabilities",
+    "recent service update",
     "sophisticated ddos attack",
     "russia hacked routers",
     "older internet routers",
-    "deliver clickfix attacks",
-    "malicious cyber actors",
-    "attacks threat actors"
+    "exploiting security flaws",
+    "cve data enrichment",
+    "malicious cyber actors"
   ],
   "trending": [
     {
       "keyword": "horner automation cscape",
-      "mentions": 38
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 315
-    },
-    {
-      "keyword": "hackers abuse qemu",
-      "mentions": 1
-    },
-    {
-      "keyword": "recent service update",
-      "mentions": 3
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 39
     },
     {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 316
+    },
+    {
+      "keyword": "hackers abuse qemu",
+      "mentions": 2
+    },
+    {
+      "keyword": "threat actors claimed",
+      "mentions": 15
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 40
+    },
+    {
       "keyword": "intelligence claims grinex",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "band oob updates",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1399
+      "mentions": 1400
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 45
+      "mentions": 46
     },
     {
-      "keyword": "bypass spam filters",
-      "mentions": 9
+      "keyword": "independent third parties",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+      "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+      "summary": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data and running code. Even update channels are used to push payloads. It’s not breaking systems—it’s bending trust. There’s also a shift in how attacks run.",
+      "published": "Mon, 20 Apr 2026 19:11:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Why Most AI Deployments Stall After the Demo",
@@ -143,16 +154,33 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
-      "link": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
-      "summary": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems. The activity involves the exploitation of three vulnerabilities that are codenamed BlueHammer (requires GitHub sign-in), RedSun, and UnDefend, all of which were released as zero-days by a researcher known as Chaotic Eclipse (",
-      "published": "Fri, 17 Apr 2026 18:51:00 +0530",
-      "value_score": 41,
+      "source": "BleepingComputer",
+      "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
+      "summary": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
+      "published": "Mon, 20 Apr 2026 11:11:24 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "The backup myth that is putting businesses at risk",
+      "link": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/",
+      "summary": "Backups protect data, but don't keep your business running during downtime. Datto shows why BCDR is essential to keep operations running during ransomware and outages. [...]",
+      "published": "Mon, 20 Apr 2026 10:01:11 -0400",
+      "value_score": 28,
       "value_signals": [
-        "Active exploitation",
-        "Exploit wording"
+        "Ransomware"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
+      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/",
+      "summary": "A British man, believed to be the leader of the Scattered Spider cybercrime collective, has pleaded guilty in the United States to charges of wire fraud and aggravated identity theft. [...]",
+      "published": "Mon, 20 Apr 2026 09:33:42 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -205,39 +233,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NIST to stop rating non-priority flaws due to volume increase",
-      "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
-      "summary": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
-      "published": "Sun, 19 Apr 2026 10:17:43 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-      "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
-      "published": "Sat, 18 Apr 2026 11:09:44 -0400",
-      "value_score": 52,
-      "value_signals": [
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Teams right-click paste broken by Edge update bug",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
-      "summary": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]",
-      "published": "Sat, 18 Apr 2026 10:11:21 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {
@@ -325,6 +320,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "WhatsApp Leaks User Metadata to Attackers",
+      "link": "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata",
+      "summary": "Strangers can infer limited info about you without knowing or messaging you, which could theoretically aid certain kinds of malicious activity.",
+      "published": "Mon, 20 Apr 2026 14:33:35 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "How NIST's Cutback of CVE Handling Impacts Cyber Teams",
       "link": "https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams",
       "summary": "Industry and ad hoc coalitions appear poised to help fill the gap created by NIST's decision to cut back on CVE data enrichment.",
@@ -389,15 +393,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Two-Factor Authentication Breaks Free from the Desktop",
-      "link": "https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop",
-      "summary": "Threat actors know how to bypass security systems outside of traditional IT environments. Implementing 2FA could provide a needed extra security barrier in the physical world.",
-      "published": "Thu, 16 Apr 2026 15:28:15 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

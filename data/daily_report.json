@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-20 09:54",
+  "last_updated": "2026-04-20 11:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "horner automation cscape",
     "white house chief",
     "iran's intelligence agencies",
-    "horner automation cscape",
     "play policy updates",
     "recent service update",
     "intelligence claims grinex",
@@ -13,60 +13,72 @@
     "band oob updates",
     "twitter whistleblower complaint",
     "platform s disruption",
+    "iran war unleashing",
     "bypass spam filters",
     "threat actors claimed",
     "exploiting security flaws",
-    "cve data enrichment",
     "remote code execution",
     "least 77 vulnerabilities",
     "high impact vulnerabilities",
-    "handles cybersecurity vulnerabilities",
+    "sophisticated ddos attack",
     "russia hacked routers",
     "older internet routers"
   ],
   "trending": [
     {
-      "keyword": "white house chief",
-      "mentions": 27
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 313
-    },
-    {
       "keyword": "horner automation cscape",
-      "mentions": 36
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 31
-    },
-    {
-      "keyword": "recent service update",
-      "mentions": 1
-    },
-    {
-      "keyword": "intelligence claims grinex",
-      "mentions": 22
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 37
     },
     {
+      "keyword": "white house chief",
+      "mentions": 28
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 314
+    },
+    {
+      "keyword": "play policy updates",
+      "mentions": 32
+    },
+    {
+      "keyword": "recent service update",
+      "mentions": 2
+    },
+    {
+      "keyword": "intelligence claims grinex",
+      "mentions": 23
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 38
+    },
+    {
       "keyword": "band oob updates",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1397
+      "mentions": 1398
     },
     {
       "keyword": "platform s disruption",
-      "mentions": 21
+      "mentions": 22
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
+      "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
+      "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain. \"This flaw enables Arbitrary Command Execution (RCE) on any system running a vulnerable MCP implementation, granting attackers direct access to",
+      "published": "Mon, 20 Apr 2026 16:12:00 +0530",
+      "value_score": 58,
+      "value_signals": [
+        "RCE ×3",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
@@ -139,15 +151,6 @@
       "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
       "summary": "Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 million accounts in 2025. The new policy updates relate to contact and location permissions in Android, allowing third-party apps to access the contact lists and a user's location in",
       "published": "Fri, 17 Apr 2026 16:17:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
-      "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
-      "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), stating it will only enrich those that fulfil certain conditions owing to an explosion in CVE submissions. \"CVEs that do not meet those criteria will still be listed in the NVD but will not",
-      "published": "Fri, 17 Apr 2026 12:44:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -400,6 +403,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Bluesky Disrupted by Sophisticated DDoS Attack",
+      "link": "https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/",
+      "summary": "A pro-Iran hacker group has taken credit for the attack on Bluesky, which appears to have lasted 24 hours. The post Bluesky Disrupted by Sophisticated DDoS Attack appeared first on SecurityWeek .",
+      "published": "Mon, 20 Apr 2026 11:06:59 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House",
+      "link": "https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/",
+      "summary": "The Senate approved a short-term renewal until April 30 of a controversial surveillance program used by U.S. spy agencies. The post Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House appeared first on SecurityWeek .",
+      "published": "Mon, 20 Apr 2026 10:32:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
       "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
       "summary": "The continued use of the half-century-old protocol exposes enterprises and end users to various types of attacks. The post Half of the 6 Million Internet-Facing FTP Servers Lack Encryption appeared first on SecurityWeek .",
@@ -455,27 +476,6 @@
       "link": "https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/",
       "summary": "CoChat is fundamentally an AI collaboration platform designed for teamwork and to bring visibility and governance into enterprise AI shadows. The post CoChat Launches AI Collaboration Platform to Combat Shadow AI appeared first on SecurityWeek .",
       "published": "Fri, 17 Apr 2026 15:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested",
-      "link": "https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: ShinyHunters targets Rockstar Games, ShowDoc vulnerability exploited in the wild, and EPA to boost cybersecurity budget to $19 million. The post In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested appeared first on SecurityWeek .",
-      "published": "Fri, 17 Apr 2026 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Another DraftKings Hacker Sentenced to Prison",
-      "link": "https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/",
-      "summary": "Kamerin Stokes sold stolen credentials through an online marketplace even after pleading guilty to his role in the DraftKings attack. The post Another DraftKings Hacker Sentenced to Prison appeared first on SecurityWeek .",
-      "published": "Fri, 17 Apr 2026 10:45:13 +0000",
       "value_score": 10,
       "value_signals": []
     },

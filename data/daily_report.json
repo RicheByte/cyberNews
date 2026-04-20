@@ -1,14 +1,12 @@
 {
-  "last_updated": "2026-04-20 20:40",
+  "last_updated": "2026-04-20 22:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "seiko usa website",
     "iran's intelligence agencies",
     "hackers abuse qemu",
-    "phony zoom updates",
     "intelligence claims grinex",
-    "band oob updates",
     "twitter whistleblower complaint",
     "iran war unleashing",
     "independent third parties",
@@ -16,54 +14,56 @@
     "sophisticated ddos attack",
     "least 77 vulnerabilities",
     "high impact vulnerabilities",
-    "recent service update",
     "cve data enrichment",
+    "s bending trust",
     "russia hacked routers",
     "actively exploited flaw",
     "related software including",
     "xl4 xl7 plc",
-    "trusted download path"
+    "trusted download path",
+    "short term renewal",
+    "shopify customer database"
   ],
   "trending": [
     {
       "keyword": "seiko usa website",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 319
+      "mentions": 320
     },
     {
       "keyword": "hackers abuse qemu",
-      "mentions": 5
-    },
-    {
-      "keyword": "phony zoom updates",
-      "mentions": 43
+      "mentions": 6
     },
     {
       "keyword": "intelligence claims grinex",
-      "mentions": 28
-    },
-    {
-      "keyword": "band oob updates",
-      "mentions": 7
+      "mentions": 29
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1403
+      "mentions": 1404
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "independent third parties",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "british man believed",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "sophisticated ddos attack",
+      "mentions": 7
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 185
     }
   ],
   "articles": [
@@ -156,6 +156,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
+      "summary": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
+      "published": "Mon, 20 Apr 2026 18:23:52 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
+      "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
+      "summary": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency assets. [...]",
+      "published": "Mon, 20 Apr 2026 17:52:54 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks",
       "link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
       "summary": "A SystemBC proxy malware botnet of more than 1,570 hosts, believed to be corporate victims, has been discovered following an investigation into a Gentlemen ransomware attack carried out by a gang affiliate. [...]",
@@ -214,28 +232,6 @@
       "published": "Mon, 20 Apr 2026 08:04:02 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft pulls service update causing Teams launch failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
-      "summary": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
-      "published": "Mon, 20 Apr 2026 05:40:20 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft releases emergency updates to fix Windows Server issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
-      "summary": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
-      "published": "Mon, 20 Apr 2026 04:30:56 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -322,6 +318,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Vercel Employee's AI Tool Access Led to Data Breach",
+      "link": "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach",
+      "summary": "Stolen OAuth tokens, which are at the root of these breaches, \"are the new attack surface, the new lateral movement,\" a researcher noted.",
+      "published": "Mon, 20 Apr 2026 21:01:31 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Serial-to-IP Devices Hide Thousands of Old and New Bugs",
       "link": "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs",
       "summary": "The OT devices that translate machine talk into Internet-speak are riddled with vulnerabilities and more frequently targeted for attacks, researchers say.",
@@ -380,17 +387,8 @@
       "source": "Dark Reading",
       "title": "NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities",
       "link": "https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities",
-      "summary": "The National Institute of Standards and Technology carved a new path for vulnerability remediation by changing the way it prioritizes software flaws.",
+      "summary": "The National Institute of Standards and Technology is carving a new path for vulnerability remediation by changing the way it prioritizes software flaws.",
       "published": "Thu, 16 Apr 2026 21:47:31 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "North Korea Uses ClickFix to Target macOS Users' Data",
-      "link": "https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data",
-      "summary": "Sapphire Sleet uses fake job offers and phony Zoom updates to deliver ClickFix attacks that steal credentials and sensitive data from Macs.",
-      "published": "Thu, 16 Apr 2026 19:42:45 GMT",
       "value_score": 10,
       "value_signals": []
     },

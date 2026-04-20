@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20 02:10",
+  "last_updated": "2026-04-20 06:11",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,63 +10,74 @@
     "iran's intelligence agencies",
     "play policy updates",
     "twitter whistleblower complaint",
-    "threat actors claimed",
-    "technical infrastructure supporting",
     "platform s disruption",
     "phony zoom updates",
     "intelligence claims grinex",
     "deliver clickfix attacks",
-    "bypass endpoint security",
+    "threat actors claimed",
     "attacks threat actors",
     "cve data enrichment",
-    "exploiting security flaws",
     "bypass spam filters",
+    "bypass endpoint security",
     "remote code execution",
-    "least 77 vulnerabilities"
+    "least 77 vulnerabilities",
+    "high impact vulnerabilities",
+    "handles cybersecurity vulnerabilities"
   ],
   "trending": [
     {
       "keyword": "white house chief",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "lawmakers gathered quietly",
-      "mentions": 30
-    },
-    {
-      "keyword": "horner automation cscape",
-      "mentions": 34
-    },
-    {
-      "keyword": "western intelligence agencies",
-      "mentions": 27
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 311
-    },
-    {
-      "keyword": "play policy updates",
-      "mentions": 29
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1395
-    },
-    {
-      "keyword": "threat actors claimed",
-      "mentions": 10
-    },
-    {
-      "keyword": "technical infrastructure supporting",
       "mentions": 31
     },
     {
+      "keyword": "horner automation cscape",
+      "mentions": 35
+    },
+    {
+      "keyword": "western intelligence agencies",
+      "mentions": 28
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 312
+    },
+    {
+      "keyword": "play policy updates",
+      "mentions": 30
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1396
+    },
+    {
       "keyword": "platform s disruption",
-      "mentions": 19
+      "mentions": 20
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 36
+    },
+    {
+      "keyword": "intelligence claims grinex",
+      "mentions": 21
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+      "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
+      "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems. The incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the company. \"The attacker used that access to take over the employee's Vercel Google Workspace account,",
+      "published": "Mon, 20 Apr 2026 09:05:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
@@ -139,21 +150,6 @@
       "published": "Fri, 17 Apr 2026 11:16:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
-      "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
-      "summary": "A recently disclosed high-severity security flaw in Apache ActiveMQ Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA). To that end, the agency has added the vulnerability, tracked as CVE-2026-34197 (CVSS score: 8.8), to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian",
-      "published": "Fri, 17 Apr 2026 08:52:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

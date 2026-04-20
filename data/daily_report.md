@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-20 02:10 UTC  
+> **Last Updated:** 2026-04-20 06:11 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **western intelligence agencies** • **iran's intelligence agencies** • **play policy updates** • **twitter whistleblower complaint** • **threat actors claimed** • **technical infrastructure supporting** • **platform s disruption** • **phony zoom updates** • **intelligence claims grinex** • **deliver clickfix attacks** • **bypass endpoint security** • **attacks threat actors** • **cve data enrichment** • **exploiting security flaws** • **bypass spam filters** • **remote code execution** • **least 77 vulnerabilities**
+**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **western intelligence agencies** • **iran's intelligence agencies** • **play policy updates** • **twitter whistleblower complaint** • **platform s disruption** • **phony zoom updates** • **intelligence claims grinex** • **deliver clickfix attacks** • **threat actors claimed** • **attacks threat actors** • **cve data enrichment** • **bypass spam filters** • **bypass endpoint security** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **handles cybersecurity vulnerabilities**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
 - [[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 - [$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
 - [Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet](https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html)
@@ -23,7 +24,6 @@
 - [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
 - [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
 - [Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
-- [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
 
 ### BleepingComputer
 

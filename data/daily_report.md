@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-20 15:13 UTC  
+> **Last Updated:** 2026-04-20 17:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**horner automation cscape** • **iran's intelligence agencies** • **hackers abuse qemu** • **threat actors claimed** • **phony zoom updates** • **intelligence claims grinex** • **band oob updates** • **twitter whistleblower complaint** • **iran war unleashing** • **independent third parties** • **attacks threat actors** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **recent service update** • **sophisticated ddos attack** • **russia hacked routers** • **older internet routers** • **exploiting security flaws** • **cve data enrichment** • **malicious cyber actors**
+**horner automation cscape** • **iran's intelligence agencies** • **threat actors claimed** • **hackers abuse qemu** • **phony zoom updates** • **intelligence claims grinex** • **band oob updates** • **twitter whistleblower complaint** • **iran war unleashing** • **independent third parties** • **sophisticated ddos attack** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **recent service update** • **russia hacked routers** • **older internet routers** • **exploiting security flaws** • **cve data enrichment** • **malicious cyber actors** • **xl4 xl7 plc**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking](https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/)
 - [British Scattered Spider Hacker Pleads Guilty in the US](https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/)
 - [Hackers Abuse QEMU for Defense Evasion](https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/)
 - [Bluesky Disrupted by Sophisticated DDoS Attack](https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/)
@@ -67,7 +68,6 @@
 - [Half of the 6 Million Internet-Facing FTP Servers Lack Encryption](https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/)
 - [Next.js Creator Vercel Hacked](https://www.securityweek.com/next-js-creator-vercel-hacked/)
 - [Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers](https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/)
-- [Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks](https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/)
 
 ### Threatpost
 

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-20 15:13",
+  "last_updated": "2026-04-20 17:02",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "horner automation cscape",
     "iran's intelligence agencies",
-    "hackers abuse qemu",
     "threat actors claimed",
+    "hackers abuse qemu",
     "phony zoom updates",
     "intelligence claims grinex",
     "band oob updates",
     "twitter whistleblower complaint",
     "iran war unleashing",
     "independent third parties",
-    "attacks threat actors",
+    "sophisticated ddos attack",
     "least 77 vulnerabilities",
     "high impact vulnerabilities",
     "recent service update",
-    "sophisticated ddos attack",
     "russia hacked routers",
     "older internet routers",
     "exploiting security flaws",
     "cve data enrichment",
-    "malicious cyber actors"
+    "malicious cyber actors",
+    "xl4 xl7 plc"
   ],
   "trending": [
     {
       "keyword": "horner automation cscape",
-      "mentions": 39
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 316
-    },
-    {
-      "keyword": "hackers abuse qemu",
-      "mentions": 2
-    },
-    {
-      "keyword": "threat actors claimed",
-      "mentions": 15
-    },
-    {
-      "keyword": "phony zoom updates",
       "mentions": 40
     },
     {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 317
+    },
+    {
+      "keyword": "threat actors claimed",
+      "mentions": 16
+    },
+    {
+      "keyword": "hackers abuse qemu",
+      "mentions": 3
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 41
+    },
+    {
       "keyword": "intelligence claims grinex",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "band oob updates",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1400
+      "mentions": 1401
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "independent third parties",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -396,6 +396,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking",
+      "link": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
+      "summary": "Forescout researchers discovered 20 new vulnerabilities in Lantronix and Silex products and described theoretical attack scenarios. The post Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking appeared first on SecurityWeek .",
+      "published": "Mon, 20 Apr 2026 15:42:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "British Scattered Spider Hacker Pleads Guilty in the US",
       "link": "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/",
       "summary": "Tyler Buchanan admitted in court to hacking into various companies, defrauding them, and stealing cryptocurrency from multiple individuals. The post British Scattered Spider Hacker Pleads Guilty in the US appeared first on SecurityWeek .",
@@ -461,17 +470,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
-      "link": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/",
-      "summary": "Threat actors are reusing Tycoon 2FA tools across other phishing kits following the platform’s disruption. The post Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks appeared first on SecurityWeek .",
-      "published": "Sat, 18 Apr 2026 10:30:00 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
       ]
     },
     {

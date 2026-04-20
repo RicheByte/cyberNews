@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-03-21",
     "2026-03-22",
     "2026-03-23",
     "2026-03-24",
@@ -29,7 +28,8 @@
     "2026-04-16",
     "2026-04-17",
     "2026-04-18",
-    "2026-04-19"
+    "2026-04-19",
+    "2026-04-20"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -271,7 +271,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1394,
+      "count": 1395,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -396,7 +396,8 @@
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "supposed wayward package": {
@@ -650,7 +651,7 @@
       ]
     },
     "remote code execution": {
-      "count": 260,
+      "count": 261,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -691,7 +692,8 @@
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "attacker remotely control": {
@@ -9541,7 +9543,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9564,7 +9566,8 @@
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "supply chain compromise": {
@@ -9751,11 +9754,12 @@
       ]
     },
     "threat actors claimed": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-12",
         "2026-03-13",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "social media giant": {
@@ -10661,7 +10665,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 310,
+      "count": 311,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10693,7 +10697,8 @@
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "missing authentication combined": {
@@ -13279,12 +13284,13 @@
       ]
     },
     "phony zoom updates": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "elastic security labs": {
@@ -13295,12 +13301,13 @@
       ]
     },
     "horner automation cscape": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "targeting water treatment": {
@@ -13330,11 +13337,12 @@
       ]
     },
     "attacks threat actors": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "israeli water treatment": {
@@ -13344,19 +13352,21 @@
       ]
     },
     "technical infrastructure supporting": {
+      "count": 31,
+      "dates": [
+        "2026-04-17",
+        "2026-04-18",
+        "2026-04-19",
+        "2026-04-20"
+      ]
+    },
+    "lawmakers gathered quietly": {
       "count": 30,
       "dates": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
-      ]
-    },
-    "lawmakers gathered quietly": {
-      "count": 29,
-      "dates": [
-        "2026-04-17",
-        "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "zionsiphon malware designed": {
@@ -13380,27 +13390,30 @@
       ]
     },
     "play policy updates": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "deliver clickfix attacks": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "western intelligence agencies": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "secure boot refresh": {
@@ -13423,27 +13436,30 @@
       ]
     },
     "white house chief": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "bypass endpoint security": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "cve data enrichment": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "reverse ssh backdoor": {
@@ -13460,44 +13476,37 @@
       ]
     },
     "intelligence claims grinex": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "platform s disruption": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "exploiting security flaws": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     },
     "bypass spam filters": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-10 18:43",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "iran's intelligence agencies",
-        "human scale security",
-        "cryptographically binding authentication",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-10 20:30",
       "articles": 56,
@@ -14578,6 +14587,17 @@
     },
     {
       "timestamp": "2026-04-19 22:29",
+      "articles": 56,
+      "top_keywords": [
+        "white house chief",
+        "lawmakers gathered quietly",
+        "horner automation cscape",
+        "western intelligence agencies",
+        "iran's intelligence agencies"
+      ]
+    },
+    {
+      "timestamp": "2026-04-20 02:10",
       "articles": 56,
       "top_keywords": [
         "white house chief",

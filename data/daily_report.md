@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-20 17:02 UTC  
+> **Last Updated:** 2026-04-20 18:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**horner automation cscape** • **iran's intelligence agencies** • **threat actors claimed** • **hackers abuse qemu** • **phony zoom updates** • **intelligence claims grinex** • **band oob updates** • **twitter whistleblower complaint** • **iran war unleashing** • **independent third parties** • **sophisticated ddos attack** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **recent service update** • **russia hacked routers** • **older internet routers** • **exploiting security flaws** • **cve data enrichment** • **malicious cyber actors** • **xl4 xl7 plc**
+**iran's intelligence agencies** • **hackers abuse qemu** • **phony zoom updates** • **intelligence claims grinex** • **band oob updates** • **twitter whistleblower complaint** • **threat actors claimed** • **iran war unleashing** • **independent third parties** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **recent service update** • **sophisticated ddos attack** • **cve data enrichment** • **russia hacked routers** • **older internet routers** • **actively exploited flaw** • **related software including** • **xl4 xl7 plc** • **trusted download path**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
 - [⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
 - [Why Most AI Deployments Stall After the Demo](https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html)
 - [Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain](https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html)
@@ -23,10 +24,10 @@
 - [Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
 - [[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 - [$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
-- [Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet](https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html)
 
 ### BleepingComputer
 
+- [Seiko USA website defaced as hacker claims customer data theft](https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/)
 - [Microsoft: Teams increasingly abused in helpdesk impersonation attacks](https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/)
 - [The backup myth that is putting businesses at risk](https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/)
 - [British Scattered Spider hacker pleads guilty to crypto theft charges](https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/)
@@ -34,7 +35,6 @@
 - [Microsoft pulls service update causing Teams launch failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/)
 - [Microsoft releases emergency updates to fix Windows Server issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/)
 - [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
-- [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [​​Supply Chain Compromise Impacts Axios Node Package Manager​](https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager)
 - [AVEVA Pipeline Simulation](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Horner Automation Cscape and XL4, XL7 PLC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02)
 - [Delta Electronics ASDA-Soft](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01)
+- [Horner Automation Cscape and XL4, XL7 PLC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02)
 - [Anviz Multiple Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-03)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog)
-- [GPL Odorizers GPL750](https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02)
 
 ---
 

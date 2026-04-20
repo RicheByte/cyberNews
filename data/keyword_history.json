@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1401,
+      "count": 1402,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -9544,7 +9544,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9755,7 +9755,7 @@
       ]
     },
     "threat actors claimed": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -10666,7 +10666,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 317,
+      "count": 318,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11132,7 +11132,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -12382,7 +12382,7 @@
       ]
     },
     "older internet routers": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12957,7 +12957,7 @@
       ]
     },
     "high impact vulnerabilities": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-04-14",
         "2026-04-17",
@@ -13268,10 +13268,11 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-20"
       ]
     },
     "nkabuse malware hosted": {
@@ -13288,7 +13289,7 @@
       ]
     },
     "phony zoom updates": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13380,7 +13381,7 @@
       ]
     },
     "xl4 xl7 plc": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13459,7 +13460,7 @@
       ]
     },
     "cve data enrichment": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13481,7 +13482,7 @@
       ]
     },
     "intelligence claims grinex": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-04-18",
         "2026-04-19",
@@ -13517,54 +13518,55 @@
       ]
     },
     "recent service update": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-20"
       ]
     },
     "band oob updates": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-20"
       ]
     },
     "russia hacked routers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-20"
       ]
     },
     "sophisticated ddos attack": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-20"
       ]
     },
     "hackers abuse qemu": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-20"
       ]
     },
     "independent third parties": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-04-20"
+      ]
+    },
+    "related software including": {
+      "count": 1,
+      "dates": [
+        "2026-04-20"
+      ]
+    },
+    "trusted download path": {
+      "count": 1,
       "dates": [
         "2026-04-20"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-11 10:28",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "iran's intelligence agencies",
-        "human scale security",
-        "cryptographically binding authentication",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-11 12:44",
       "articles": 56,
@@ -14652,6 +14654,17 @@
         "threat actors claimed",
         "hackers abuse qemu",
         "phony zoom updates"
+      ]
+    },
+    {
+      "timestamp": "2026-04-20 18:57",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "hackers abuse qemu",
+        "phony zoom updates",
+        "intelligence claims grinex",
+        "band oob updates"
       ]
     }
   ]

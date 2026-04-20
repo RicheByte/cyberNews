@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1402,
+      "count": 1403,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -9544,7 +9544,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 183,
+      "count": 184,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10666,7 +10666,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 318,
+      "count": 319,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11132,7 +11132,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -12957,7 +12957,7 @@
       ]
     },
     "high impact vulnerabilities": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-04-14",
         "2026-04-17",
@@ -13268,7 +13268,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13289,7 +13289,7 @@
       ]
     },
     "phony zoom updates": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13381,7 +13381,7 @@
       ]
     },
     "xl4 xl7 plc": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13460,7 +13460,7 @@
       ]
     },
     "cve data enrichment": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13482,7 +13482,7 @@
       ]
     },
     "intelligence claims grinex": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-18",
         "2026-04-19",
@@ -13518,48 +13518,60 @@
       ]
     },
     "recent service update": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-20"
       ]
     },
     "band oob updates": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-20"
       ]
     },
     "russia hacked routers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-20"
       ]
     },
     "sophisticated ddos attack": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-20"
       ]
     },
     "hackers abuse qemu": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-20"
       ]
     },
     "independent third parties": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-20"
       ]
     },
     "related software including": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-20"
       ]
     },
     "trusted download path": {
+      "count": 2,
+      "dates": [
+        "2026-04-20"
+      ]
+    },
+    "seiko usa website": {
+      "count": 1,
+      "dates": [
+        "2026-04-20"
+      ]
+    },
+    "british man believed": {
       "count": 1,
       "dates": [
         "2026-04-20"
@@ -13567,17 +13579,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-11 12:44",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "iran's intelligence agencies",
-        "human scale security",
-        "cryptographically binding authentication",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-11 14:32",
       "articles": 56,
@@ -14665,6 +14666,17 @@
         "phony zoom updates",
         "intelligence claims grinex",
         "band oob updates"
+      ]
+    },
+    {
+      "timestamp": "2026-04-20 20:40",
+      "articles": 56,
+      "top_keywords": [
+        "seiko usa website",
+        "iran's intelligence agencies",
+        "hackers abuse qemu",
+        "phony zoom updates",
+        "intelligence claims grinex"
       ]
     }
   ]

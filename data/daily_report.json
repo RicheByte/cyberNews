@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-04-20 18:57",
+  "last_updated": "2026-04-20 20:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "seiko usa website",
     "iran's intelligence agencies",
     "hackers abuse qemu",
     "phony zoom updates",
     "intelligence claims grinex",
     "band oob updates",
     "twitter whistleblower complaint",
-    "threat actors claimed",
     "iran war unleashing",
     "independent third parties",
+    "british man believed",
+    "sophisticated ddos attack",
     "least 77 vulnerabilities",
     "high impact vulnerabilities",
     "recent service update",
-    "sophisticated ddos attack",
     "cve data enrichment",
     "russia hacked routers",
-    "older internet routers",
     "actively exploited flaw",
     "related software including",
     "xl4 xl7 plc",
@@ -26,44 +26,44 @@
   ],
   "trending": [
     {
+      "keyword": "seiko usa website",
+      "mentions": 1
+    },
+    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 318
+      "mentions": 319
     },
     {
       "keyword": "hackers abuse qemu",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "phony zoom updates",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "intelligence claims grinex",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "band oob updates",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1402
-    },
-    {
-      "keyword": "threat actors claimed",
-      "mentions": 17
+      "mentions": 1403
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "independent third parties",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 183
+      "keyword": "british man believed",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -156,6 +156,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
+      "summary": "A SystemBC proxy malware botnet of more than 1,570 hosts, believed to be corporate victims, has been discovered following an investigation into a Gentlemen ransomware attack carried out by a gang affiliate. [...]",
+      "published": "Mon, 20 Apr 2026 16:02:37 -0400",
+      "value_score": 56,
+      "value_signals": [
+        "Ransomware ×2",
+        "Botnet"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Seiko USA website defaced as hacker claims customer data theft",
       "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
       "summary": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
@@ -223,17 +235,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Vercel confirms breach as hackers claim to be selling stolen data",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "summary": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
-      "published": "Sun, 19 Apr 2026 13:32:45 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -321,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Serial-to-IP Devices Hide Thousands of Old and New Bugs",
+      "link": "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs",
+      "summary": "The OT devices that translate machine talk into Internet-speak are riddled with vulnerabilities and more frequently targeted for attacks, researchers say.",
+      "published": "Mon, 20 Apr 2026 21:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "WhatsApp Leaks User Metadata to Attackers",
       "link": "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata",
       "summary": "Strangers can infer limited info about you without knowing or messaging you, which could theoretically aid certain kinds of malicious activity.",
@@ -383,17 +393,6 @@
       "published": "Thu, 16 Apr 2026 19:42:45 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Harmless' Global Adware Transforms Into an AV Killer",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer",
-      "summary": "A benign looking update Dragon Boss pushed out in March 2025 established persistence via scheduled tasks and arranged for future payloads to be excluded from Windows Defender.",
-      "published": "Thu, 16 Apr 2026 19:07:26 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Security Week",
@@ -570,6 +569,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-",
+      "published": "Mon, 20 Apr 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×5",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "AVEVA Pipeline Simulation",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are affected: Pipeline Simulation <=2025_SP1_build_7.1.9497.6351 CVSS Vendor Equipment Vulnerabilities v3 9.1 AVEVA AVEVA Pipeline Simulation Missing Authorization Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide",
@@ -646,21 +660,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned ×2",
         "RCE",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2012-1854 Microsoft Visual Basic for Applications Insecure Library Loading Vulnerability CVE-2020-9715 Adobe Acrobat Use-After-Free Vulnerability CVE-2023-21529 Microsoft Exchange Server Deserialization of Untrusted Data Vulnerability CVE-2023-36424 Microsoft Windows Out-of-Bounds Read Vulnerability CVE-2025-60710 Microsoft Windows Link Following Vulnerabi",
-      "published": "Mon, 13 Apr 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×5",
         "CISA/KEV ×5",
         "Multiple CVEs",
         "Exploit wording"

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-20 18:57 UTC  
+> **Last Updated:** 2026-04-20 20:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **hackers abuse qemu** • **phony zoom updates** • **intelligence claims grinex** • **band oob updates** • **twitter whistleblower complaint** • **threat actors claimed** • **iran war unleashing** • **independent third parties** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **recent service update** • **sophisticated ddos attack** • **cve data enrichment** • **russia hacked routers** • **older internet routers** • **actively exploited flaw** • **related software including** • **xl4 xl7 plc** • **trusted download path**
+**seiko usa website** • **iran's intelligence agencies** • **hackers abuse qemu** • **phony zoom updates** • **intelligence claims grinex** • **band oob updates** • **twitter whistleblower complaint** • **iran war unleashing** • **independent third parties** • **british man believed** • **sophisticated ddos attack** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **recent service update** • **cve data enrichment** • **russia hacked routers** • **actively exploited flaw** • **related software including** • **xl4 xl7 plc** • **trusted download path**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [The Gentlemen ransomware now uses SystemBC for bot-powered attacks](https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/)
 - [Seiko USA website defaced as hacker claims customer data theft](https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/)
 - [Microsoft: Teams increasingly abused in helpdesk impersonation attacks](https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/)
 - [The backup myth that is putting businesses at risk](https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/)
@@ -34,7 +35,6 @@
 - [Microsoft tests Windows Explorer speed, performance improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/)
 - [Microsoft pulls service update causing Teams launch failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/)
 - [Microsoft releases emergency updates to fix Windows Server issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/)
-- [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Serial-to-IP Devices Hide Thousands of Old and New Bugs](https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs)
 - [WhatsApp Leaks User Metadata to Attackers](https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata)
 - [How NIST's Cutback of CVE Handling Impacts Cyber Teams](https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams)
 - [Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing](https://www.darkreading.com/threat-intelligence/tycoon-2fa-hackers-device-code-phishing)
@@ -56,7 +57,6 @@
 - [Coast Guard's New Cybersecurity Rules Offer Lessons for CISOs](https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos)
 - [NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities)
 - [North Korea Uses ClickFix to Target macOS Users' Data](https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data)
-- ['Harmless' Global Adware Transforms Into an AV Killer](https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer)
 
 ### Security Week
 
@@ -83,13 +83,13 @@
 ### CISA Alerts
 
 - [​​Supply Chain Compromise Impacts Axios Node Package Manager​](https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager)
+- [CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog)
 - [AVEVA Pipeline Simulation](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04)
 - [Delta Electronics ASDA-Soft](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01)
 - [Horner Automation Cscape and XL4, XL7 PLC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02)
 - [Anviz Multiple Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-03)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog)
 
 ---
 

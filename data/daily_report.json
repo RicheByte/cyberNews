@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-20 06:11",
+  "last_updated": "2026-04-20 09:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "white house chief",
-    "lawmakers gathered quietly",
-    "horner automation cscape",
-    "western intelligence agencies",
     "iran's intelligence agencies",
+    "horner automation cscape",
     "play policy updates",
+    "recent service update",
+    "intelligence claims grinex",
+    "phony zoom updates",
+    "band oob updates",
     "twitter whistleblower complaint",
     "platform s disruption",
-    "phony zoom updates",
-    "intelligence claims grinex",
-    "deliver clickfix attacks",
-    "threat actors claimed",
-    "attacks threat actors",
-    "cve data enrichment",
     "bypass spam filters",
-    "bypass endpoint security",
+    "threat actors claimed",
+    "exploiting security flaws",
+    "cve data enrichment",
     "remote code execution",
     "least 77 vulnerabilities",
     "high impact vulnerabilities",
-    "handles cybersecurity vulnerabilities"
+    "handles cybersecurity vulnerabilities",
+    "russia hacked routers",
+    "older internet routers"
   ],
   "trending": [
     {
       "keyword": "white house chief",
-      "mentions": 26
-    },
-    {
-      "keyword": "lawmakers gathered quietly",
-      "mentions": 31
-    },
-    {
-      "keyword": "horner automation cscape",
-      "mentions": 35
-    },
-    {
-      "keyword": "western intelligence agencies",
-      "mentions": 28
+      "mentions": 27
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 312
+      "mentions": 313
     },
     {
-      "keyword": "play policy updates",
-      "mentions": 30
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1396
-    },
-    {
-      "keyword": "platform s disruption",
-      "mentions": 20
-    },
-    {
-      "keyword": "phony zoom updates",
+      "keyword": "horner automation cscape",
       "mentions": 36
     },
     {
+      "keyword": "play policy updates",
+      "mentions": 31
+    },
+    {
+      "keyword": "recent service update",
+      "mentions": 1
+    },
+    {
       "keyword": "intelligence claims grinex",
+      "mentions": 22
+    },
+    {
+      "keyword": "phony zoom updates",
+      "mentions": 37
+    },
+    {
+      "keyword": "band oob updates",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1397
+    },
+    {
+      "keyword": "platform s disruption",
       "mentions": 21
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
+      "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
+      "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems. The malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local configuration files, and scan for operational technology (OT)-relevant services on the local subnet.",
+      "published": "Mon, 20 Apr 2026 13:04:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
@@ -143,13 +152,26 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
-      "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
-      "summary": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 75,000 cybercriminals. The ongoing effort, dubbed Operation PowerOFF, disrupted access to the DDoS-for-hire services, took down the technical infrastructure supporting them, and obtained access to",
-      "published": "Fri, 17 Apr 2026 11:16:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Microsoft pulls service update causing Teams launch failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
+      "summary": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
+      "published": "Mon, 20 Apr 2026 05:40:20 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft releases emergency updates to fix Windows Server issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "summary": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
+      "published": "Mon, 20 Apr 2026 04:30:56 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -216,27 +238,6 @@
       "value_signals": [
         "Ransomware"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
-      "link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
-      "summary": "The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor to run hidden virtual machines on compromised systems and bypass endpoint security. [...]",
-      "published": "Fri, 17 Apr 2026 15:10:19 -0400",
-      "value_score": 58,
-      "value_signals": [
-        "Ransomware ×2",
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
-      "link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
-      "summary": "Kyrgyzstan-based cryptocurrency exchange Grinex has suspended its operations after suffering a $13.7 million hack attributed to Western intelligence agencies. [...]",
-      "published": "Fri, 17 Apr 2026 11:08:53 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -399,6 +400,37 @@
     },
     {
       "source": "Security Week",
+      "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
+      "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
+      "summary": "The continued use of the half-century-old protocol exposes enterprises and end users to various types of attacks. The post Half of the 6 Million Internet-Facing FTP Servers Lack Encryption appeared first on SecurityWeek .",
+      "published": "Mon, 20 Apr 2026 09:41:04 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Next.js Creator Vercel Hacked",
+      "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
+      "summary": "Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million. The post Next.js Creator Vercel Hacked appeared first on SecurityWeek .",
+      "published": "Mon, 20 Apr 2026 08:30:13 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers",
+      "link": "https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/",
+      "summary": "In-the-wild exploitation has been ongoing for a year, but no successful payload execution has been observed. The post Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers appeared first on SecurityWeek .",
+      "published": "Mon, 20 Apr 2026 07:50:01 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
       "link": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/",
       "summary": "Threat actors are reusing Tycoon 2FA tools across other phishing kits following the platform’s disruption. The post Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks appeared first on SecurityWeek .",
@@ -444,38 +476,6 @@
       "link": "https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/",
       "summary": "Kamerin Stokes sold stolen credentials through an online marketplace even after pleading guilty to his role in the DraftKings attack. The post Another DraftKings Hacker Sentenced to Prison appeared first on SecurityWeek .",
       "published": "Fri, 17 Apr 2026 10:45:13 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed",
-      "link": "https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/",
-      "summary": "Thursday’s discussion comes as leaders on Capitol Hill grapple with the dizzying pace of global developments in which technology plays a central role. The post Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed appeared first on SecurityWeek .",
-      "published": "Fri, 17 Apr 2026 10:15:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Recent Apache ActiveMQ Vulnerability Exploited in the Wild",
-      "link": "https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/",
-      "summary": "The remote code execution vulnerability tracked as CVE-2026-34197 came to light in early April. The post Recent Apache ActiveMQ Vulnerability Exploited in the Wild appeared first on SecurityWeek .",
-      "published": "Fri, 17 Apr 2026 09:50:22 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Two North Korean IT Worker Scheme Facilitators Jailed in the US",
-      "link": "https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/",
-      "summary": "Kejia Wang and Zhenxing Wang compromised the identities of dozens of US persons to help land jobs at over 100 companies. The post Two North Korean IT Worker Scheme Facilitators Jailed in the US appeared first on SecurityWeek .",
-      "published": "Fri, 17 Apr 2026 09:21:02 +0000",
       "value_score": 10,
       "value_signals": []
     },

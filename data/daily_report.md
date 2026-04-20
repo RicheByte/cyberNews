@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-20 06:11 UTC  
+> **Last Updated:** 2026-04-20 09:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**white house chief** • **lawmakers gathered quietly** • **horner automation cscape** • **western intelligence agencies** • **iran's intelligence agencies** • **play policy updates** • **twitter whistleblower complaint** • **platform s disruption** • **phony zoom updates** • **intelligence claims grinex** • **deliver clickfix attacks** • **threat actors claimed** • **attacks threat actors** • **cve data enrichment** • **bypass spam filters** • **bypass endpoint security** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **handles cybersecurity vulnerabilities**
+**white house chief** • **iran's intelligence agencies** • **horner automation cscape** • **play policy updates** • **recent service update** • **intelligence claims grinex** • **phony zoom updates** • **band oob updates** • **twitter whistleblower complaint** • **platform s disruption** • **bypass spam filters** • **threat actors claimed** • **exploiting security flaws** • **cve data enrichment** • **remote code execution** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **handles cybersecurity vulnerabilities** • **russia hacked routers** • **older internet routers**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems](https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html)
 - [Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
 - [[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 - [$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
@@ -23,18 +24,17 @@
 - [Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched](https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html)
 - [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
 - [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
-- [Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
 
 ### BleepingComputer
 
+- [Microsoft pulls service update causing Teams launch failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/)
+- [Microsoft releases emergency updates to fix Windows Server issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/)
 - [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
 - [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
 - [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
 - [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
 - [Microsoft Teams right-click paste broken by Edge update bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/)
 - [NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support](https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/)
-- [Payouts King ransomware uses QEMU VMs to bypass endpoint security](https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/)
-- [Grinex exchange blames "Western intelligence" for $13.7M crypto hack](https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Half of the 6 Million Internet-Facing FTP Servers Lack Encryption](https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/)
+- [Next.js Creator Vercel Hacked](https://www.securityweek.com/next-js-creator-vercel-hacked/)
+- [Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers](https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/)
 - [Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks](https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/)
 - [White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology](https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/)
 - [CoChat Launches AI Collaboration Platform to Combat Shadow AI](https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/)
 - [In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested](https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/)
 - [Another DraftKings Hacker Sentenced to Prison](https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/)
-- [Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of ‘Destruction’ Followed](https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/)
-- [Recent Apache ActiveMQ Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/)
-- [Two North Korean IT Worker Scheme Facilitators Jailed in the US](https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/)
 
 ### Threatpost
 

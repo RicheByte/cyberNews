@@ -271,7 +271,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1396,
+      "count": 1397,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -651,7 +651,7 @@
       ]
     },
     "remote code execution": {
-      "count": 262,
+      "count": 263,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -9543,7 +9543,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 177,
+      "count": 178,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -9754,7 +9754,7 @@
       ]
     },
     "threat actors claimed": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -10665,7 +10665,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 312,
+      "count": 313,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -12380,10 +12380,11 @@
       ]
     },
     "older internet routers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-07",
-        "2026-04-08"
+        "2026-04-08",
+        "2026-04-20"
       ]
     },
     "authentication tokens stolen": {
@@ -12954,7 +12955,7 @@
       ]
     },
     "high impact vulnerabilities": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-14",
         "2026-04-17",
@@ -13285,7 +13286,7 @@
       ]
     },
     "phony zoom updates": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13302,7 +13303,7 @@
       ]
     },
     "horner automation cscape": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13391,7 +13392,7 @@
       ]
     },
     "play policy updates": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13437,7 +13438,7 @@
       ]
     },
     "white house chief": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13455,7 +13456,7 @@
       ]
     },
     "cve data enrichment": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13477,7 +13478,7 @@
       ]
     },
     "intelligence claims grinex": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-04-18",
         "2026-04-19",
@@ -13485,7 +13486,7 @@
       ]
     },
     "platform s disruption": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-04-18",
         "2026-04-19",
@@ -13493,20 +13494,38 @@
       ]
     },
     "exploiting security flaws": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-19",
         "2026-04-20"
       ]
     },
     "bypass spam filters": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-19",
         "2026-04-20"
       ]
     },
     "handles cybersecurity vulnerabilities": {
+      "count": 2,
+      "dates": [
+        "2026-04-20"
+      ]
+    },
+    "recent service update": {
+      "count": 1,
+      "dates": [
+        "2026-04-20"
+      ]
+    },
+    "band oob updates": {
+      "count": 1,
+      "dates": [
+        "2026-04-20"
+      ]
+    },
+    "russia hacked routers": {
       "count": 1,
       "dates": [
         "2026-04-20"
@@ -13514,17 +13533,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-10 22:32",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "iran's intelligence agencies",
-        "human scale security",
-        "cryptographically binding authentication",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-11 01:52",
       "articles": 56,
@@ -14612,6 +14620,17 @@
         "horner automation cscape",
         "western intelligence agencies",
         "iran's intelligence agencies"
+      ]
+    },
+    {
+      "timestamp": "2026-04-20 09:54",
+      "articles": 56,
+      "top_keywords": [
+        "white house chief",
+        "iran's intelligence agencies",
+        "horner automation cscape",
+        "play policy updates",
+        "recent service update"
       ]
     }
   ]
